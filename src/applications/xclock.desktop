@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=X Clock
+GenericName=Clock
+Comment=A desktop clock
+Icon=xlogo
+TryExec=/usr/bin/xclock
+Exec=xclock -geometry 164x164
+Terminal=false
+Categories=X-X11;Application;X-XTool;
+StartupNotify=true
+StartupWMClass=xclock

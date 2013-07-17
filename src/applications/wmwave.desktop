@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Wifi Monitor
+GenericName=Monitor
+Comment=Statistics about current WiFi connection
+#Icon=wmaker-dock
+Icon=GNUstep3D
+TryExec=/usr/bin/wmwave
+Exec=wmwave
+Terminal=false
+Categories=DockApp;WMAKER;
+StartupNotify=false

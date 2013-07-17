@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=X Video Information
+GenericName=XVInfo
+Comment=List X video information
+Icon=xlogo
+TryExec=/usr/bin/xvinfo
+Exec=xvinfo|gxmessage -font 'monospace 10' -file - -title 'X Video Information'
+Terminal=false
+Categories=X-X11;Application;X-XTool;
+StartupNotify=false

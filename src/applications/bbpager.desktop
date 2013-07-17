@@ -1,0 +1,15 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=BlackBox Pager
+GenericName=bbpager 0.4.7
+Comment=Place a pager on the blackbox root.
+Icon=blackbox
+ShowIn=BLACKBOX;FLUXBOX;
+TryExec=/usr/bin/bbpager
+Exec=/usr/bin/bbpager
+Terminal=false
+Categories=Utility;Pager;
+StartupNotify=false
+StartupWMClass=bbager
+X-GNOME-Autostart-enabled=false

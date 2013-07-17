@@ -1,0 +1,14 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Menu Tray
+GenericName=Menu
+Comment=Menutry fluxbox tray menu
+Icon=start-here
+Exec=/usr/bin/menutray -i
+TryExec=/usr/bin/menutray
+Terminal=false
+Categories=TrayIcon;
+StartupNotify=false
+NotShowIn=GNOME;KDE;XFCE;
+X-GNOME-Autostart-enabled=true

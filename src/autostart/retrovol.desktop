@@ -1,0 +1,14 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Retrovol sound mixer
+GenericName=Retrovol
+Comment=Retrovol sound mixer
+Icon=wmaker-sound_mixer.png
+Exec=/usr/bin/retrovol -hide
+TryExec=/usr/bin/retrovol
+Terminal=false
+Categories=TrayIcon;
+StartupNotify=false
+NotShowIn=GNOME;KDE;XFCE;
+X-GNOME-Autostart-enable=true

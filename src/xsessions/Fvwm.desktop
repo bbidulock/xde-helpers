@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Fvwm
+Comment=Fvwm
+Type=XSession
+Exec=fvwm2
+TryExec=fvwm2
+Terminal=false
+Icon=fvwm
+
+[Window Manager]
+SessionManaged=true
+X-XDE-Managed=true

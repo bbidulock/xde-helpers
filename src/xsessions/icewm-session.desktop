@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=IceWM
+Name[en_US]=IceWM
+Comment=Simple and fast window manger
+Terminal=false
+Exec=icewm-session
+TryExec=icewm-session
+Icon=icewm
+
+[Window Manager]
+SessionManaged=true
+X-XDE-Managed=true

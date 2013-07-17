@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=X Events
+GenericName=xev
+Comment=List X events
+Icon=xlogo
+TryExec=/usr/bin/xev
+Exec=xterm -T 'X Events' -e xev
+Terminal=false
+Categories=X-X11;Application;X-XTool;
+StartupNotify=false

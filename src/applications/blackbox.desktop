@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Blackbox Window Manager
+GenericName=blackbox 0.70.1
+Comment=Launch the blackbox window manager.
+Icon=archlinux-wm-base
+TryExec=/usr/bin/blackbox
+Exec=/usr/bin/blackbox
+Terminal=false
+Categories=WindowManager;Application;System;
+StartupNotify=false

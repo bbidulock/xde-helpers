@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Network Device Monitor
+GenericName=Monitor
+Comment=Monitor network interfaces in a dock app
+Icon=wmaker-dock
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;
+Exec=wmnd
+TryExec=/usr/bin/wmnd
+Terminal=false
+Categories=DockApp;WMAKER;
+StartupNotify=false

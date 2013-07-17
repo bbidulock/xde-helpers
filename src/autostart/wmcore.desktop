@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Core CPU Load
+GenericName=Clock
+Comment=Show the usage of each core
+Icon=wmaker-dock
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;
+Exec=wmcore
+TryExec=/usr/bin/wmcore
+Terminal=false
+Categories=DockApp;WMAKER;
+StartupNotify=false

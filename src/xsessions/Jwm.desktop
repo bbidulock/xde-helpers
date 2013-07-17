@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Jwm
+Comment=Minimalistic pure X11 window manager with menu/tray support
+Type=Application
+Terminal=False
+Exec=/usr/bin/jwm
+TryExec=/usr/bin/jwm
+
+[Window Manager]
+SessionManaged=true

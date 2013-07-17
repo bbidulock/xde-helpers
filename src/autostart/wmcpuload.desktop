@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=CPU Load Dock App
+GenericName=Load Monitor
+Comment=Show the CPU load
+Icon=wmaker-dock
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;
+Exec=wmcpuload
+TryExec=/usr/bin/wmcpuload
+Terminal=false
+Categories=DockApp;WMAKER;
+StartupNotify=false

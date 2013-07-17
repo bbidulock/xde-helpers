@@ -1,0 +1,14 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Calendar Clock Dock App
+GenericName=Clock
+Comment=Calendar clock dock app
+#Icon=wmaker-dock
+Icon=GNUstep3D
+TryExec=/usr/bin/wmCalClock
+Exec=wmCalClock
+Terminal=false
+Categories=DockApp;WMAKER;
+StartupNotify=false
+StartupWMClass=wmCalClock

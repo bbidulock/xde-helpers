@@ -1,0 +1,14 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=System Tray Dock App
+GenericName=System Tray
+Comment=Provide a system tray in the dock
+#Icon=wmaker-dock
+Icon=GNUstep3D
+OnlyShowIn=BLACKBOX;WMAKER;
+Exec=wmsystray
+TryExec=/usr/bin/wmsystray
+Terminal=false
+Categories=DockApp;WMAKER;
+StartupNotify=false

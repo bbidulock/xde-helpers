@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Openbox Window Manager
+GenericName=openbox 3.5.0
+Comment=Launch the openbox window manager
+Icon=archlinux-wm-openbox
+TryExec=/usr/bin/openbox
+Exec=openbox
+Terminal=false
+Categories=WindowManager;Application;System
+StartupNotify=false
+NoDisplay=true
+# name we put on the WM spec check window
+X-GNOME-WMName=Openbox
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-Autostart-Notify=true

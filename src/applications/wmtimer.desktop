@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Timer Dock App
+GenericName=Timer
+Comment=Timer dock app
+#Icon=wmaker-dock
+Icon=GNUstep3D
+TryExec=/usr/bin/wmtimer
+Exec=wmtimer
+Terminal=false
+Categories=DockApp;WMAKER;
+StartupNotify=false

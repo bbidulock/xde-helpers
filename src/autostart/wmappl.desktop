@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Launcher Dock App
+GenericName=Launcher
+Comment=A simple application launcher dock app
+Icon=wmaker-dock
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;
+Exec=wmappl
+TryExec=/usr/bin/wmappl
+Terminal=false
+Categories=DockApp;WMAKER;
+StartupNotify=false

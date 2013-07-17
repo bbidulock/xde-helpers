@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Simple Tray XKB Indicator
+GenericName=sbxkb 0.7.6
+Comment=System tray XKB indicator.
+#Icon=unknown.png
+Icon=wmaker-keyboard.xpm
+TryExec=/usr/bin/sbxkb
+Exec=sbxkb
+Terminal=false
+Categories=TrayIcon;
+StartupNotify=false

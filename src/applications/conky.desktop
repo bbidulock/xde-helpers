@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Conky Status Display
+GenericName=conky 1.9.0
+Comment=Conky display on root.
+Icon=exec
+TryExec=conky
+Exec=conky
+Terminal=false
+Categories=Utility;System;
+StartupNotify=false
+X-GNOME-Autostart-enabled=true

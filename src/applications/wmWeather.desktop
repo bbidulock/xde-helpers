@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Weather Monitor Dock App
+GenericName=Weather
+Comment=Monitor weather conditions
+#Icon=wmaker-dock
+Icon=GNUstep3D
+TryExec=/usr/bin/wmWeather
+Exec=wmWeather
+Terminal=false
+Categories=DockApp;WMAKER;
+StartupNotify=false

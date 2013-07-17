@@ -1,0 +1,14 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Blackbox
+Comment=Highly configurable and low resource X11 Window manager
+TryExec=blackbox
+Exec=blackbox
+Terminal=false
+Icon=blackbox
+Type=XSession
+
+[Window Manager]
+SessionManaged=false
+X-XDE-Managed=true
+

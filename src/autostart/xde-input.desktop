@@ -1,0 +1,18 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=XDE input
+GenericName=Input
+Comment=Monitor keyboard and mouse settings
+Icon=keyboard
+Exec=xde-input
+TryExec=xde-input
+Terminal=false
+Categories=Settings
+StartupNotify=false
+NoDisplay=true
+NotShowIn=GNOME;KDE;XFCE;
+X-GNOME-Autostart-enabled=false
+
+
+

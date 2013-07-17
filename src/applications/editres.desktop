@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=X Resource Editor
+GenericName=editres
+Comment=Edit X toolkit resources
+Icon=xlogo
+TryExec=/usr/bin/editres
+Exec=editres
+Terminal=false
+Categories=X-X11;Application;X-XTool;
+StartupNotify=false
+StartupWMClass=editres

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Clock Dock App
+GenericName=Clock
+Comment=Clock dock app
+#Icon=wmaker-dock
+Icon=GNUstep3D
+TryExec=/usr/bin/lal
+Exec=lal
+Terminal=false
+Categories=DockApp;WMAKER;
+StartupNotify=false

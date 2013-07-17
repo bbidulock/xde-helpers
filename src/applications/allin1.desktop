@@ -1,0 +1,15 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Monitoring Dock App
+GenericName=System Montor
+Comment=All in one monitoring dock app
+#Icon=allin1
+#Icon=wmaker-dock
+Icon=GNUstep3D
+TryExec=/usr/bin/allin1
+Exec=allin1
+Terminal=false
+Categories=DockApp;WMAKER;
+StartupNotify=false
+StartupWMClass=allin1

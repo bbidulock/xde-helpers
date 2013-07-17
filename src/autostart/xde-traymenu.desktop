@@ -1,0 +1,15 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=XDE Tray Menu
+GenericName=Menu
+Comment=XDE tray menu
+Icon=start-here
+Exec=xde-traymenu
+TryExec=xde-traymenu
+Terminal=false
+Categories=TrayIcon;
+StartupNotify=false
+StartupWMClass=xde-traymenu
+NotShowIn=GNOME;KDE;XFCE;
+X-GNOME-Autostart-enabled=true

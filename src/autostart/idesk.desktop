@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Idesk
+Comment=Place icons on the desktop
+Exec=idesk
+TryExec=/usr/bin/idesk
+Icon=folder_home.png
+Terminal=false
+Type=Application
+Categories=Application;Utility;
+StartupNotify=false
+OnlyShowIn=FLUXBOX;BLACKBOX;ICEWM;OPENBOX;
+X-GNOME-Autostart-enabled=true

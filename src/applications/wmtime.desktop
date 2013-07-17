@@ -1,0 +1,14 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Analog and Digital Clock
+GenericName=Clock
+Comment=Analog and digital clock dock app
+#Icon=wmaker-dock
+Icon=GNUstep3D
+TryExec=/usr/bin/wmtime
+Exec=wmtime
+Terminal=false
+Categories=DockApp;WMAKER;
+StartupNotify=false
+StartupWMClass=wmtime

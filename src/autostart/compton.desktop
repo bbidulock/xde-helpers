@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=compton
+Comment=A X compositor
+Categories=Utility;
+Exec=compton --config ~/.config/compton/FLUXBOX/compton.conf
+TryExec=/usr/bin/compton
+OnlyShowIn=FLUXBOX;BLACKBOX;OPENBOX;ICEWM;WMAKER;FVWM;
+Hidden=true
+Icon=xcompmgr
+# Thanks to quequotion for providing this file!
