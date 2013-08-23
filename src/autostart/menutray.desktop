@@ -5,10 +5,12 @@ Name=Menu Tray
 GenericName=Menu
 Comment=Menutry fluxbox tray menu
 Icon=start-here
-Exec=/usr/bin/menutray -i
-TryExec=/usr/bin/menutray
+Exec=menutray -i
+TryExec=menutray
 Terminal=false
 Categories=TrayIcon;
 StartupNotify=false
-NotShowIn=GNOME;KDE;XFCE;
+NotShowIn=GNOME;KDE;XFCE;LXDE;
 X-GNOME-Autostart-enabled=true
+Hidden=true
+# Don't need this anymore

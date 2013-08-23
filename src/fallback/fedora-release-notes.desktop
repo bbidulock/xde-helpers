@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Release Notes
+Name[fr_FR]=Notes de version
+GenericName=Release Notes
+Comment=Release Notes for Fedora 15
+Comment[fr_FR]=Release Notes for Fedora 15
+Exec=xdg-open file:///usr/share/doc/HTML/fedora-release-notes/index.html
+Icon=fedora-release-notes
+Terminal=false
+Type=Application
+Categories=Application;Utility
+StartupNotify=true
+OnlyShowIn=GNOME;

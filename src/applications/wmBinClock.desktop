@@ -4,7 +4,6 @@ Type=Application
 Name=Binary Clock Dock App
 GenericName=Clock
 Comment=Binary clock dock app
-#Icon=wmaker-dock
 Icon=GNUstep3D
 TryExec=/usr/bin/wmBinClock
 Exec=wmBinClock

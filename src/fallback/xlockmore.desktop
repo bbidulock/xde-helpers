@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Xlock
+Comment=X11 screen saver
+Icon=gnome-lockscreen.png
+Exec=xlock
+Terminal=false
+Type=Application
+Category=System;

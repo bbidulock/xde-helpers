@@ -1,0 +1,13 @@
+
+[Desktop Entry]
+Name=flPhoto
+Comment=FLTK Photo Software
+TryExec=flphoto
+Exec=flphoto %F
+Icon=flphoto
+Terminal=false
+Type=Application
+MimeType=application/x-flphoto;
+Encoding=UTF-8
+Categories=Graphics;Photography;
+X-Desktop-File-Install-Version=0.15

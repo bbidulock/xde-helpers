@@ -1,0 +1,16 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Wacom Control Panel
+Name[en_CA]=Wacom Control Panel
+Name[en_GB]=Wacom Control Panel
+Comment=Allows configure settings for Wacom tablets
+Comment[en_CA]=Allows configure settings for Wacom tablets
+Comment[en_GB]=Allows configure settings for Wacom tablets
+Exec=wacomcpl
+TryExec=wacomcpl
+Icon=/usr/share/linuxwacom/wacomcpl-icon.png
+Terminal=false
+Type=Application
+Categories=Application;System;
+StartupNotify=true
+X-Desktop-File-Install-Version=0.10

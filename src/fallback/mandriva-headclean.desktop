@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Lexmark headclean
+Comment=Lexmark Lexmark 5xxx, 7xxx and 11xx Head Cleaner
+Exec=/usr/bin/headclean.sh
+Icon=printmgr
+Terminal=false
+Type=Application
+Categories=X-MandrivaLinux-System-Configuration-Printing;

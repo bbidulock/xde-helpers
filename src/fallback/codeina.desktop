@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Codeina
+Comment=Gstreamer Codec Installer
+Comment[fr]=Installateur de codec pour Gstreamer
+Comment[de]=Gstreamer Codecs Installierer
+Icon=/usr/share/codeina/icons/codeina.png
+Exec=codeina
+Terminal=false
+Type=Application
+Categories=Audio;Video;AudioVideo

@@ -1,10 +1,13 @@
 [Desktop Entry]
+Encoding=UTF-8
 Name=Jwm
 Comment=Minimalistic pure X11 window manager with menu/tray support
-Type=Application
-Terminal=False
 Exec=/usr/bin/jwm
+Terminal=false
 TryExec=/usr/bin/jwm
+Type=XSession
+Icon=archlinux-wm-jwm
 
 [Window Manager]
-SessionManaged=true
+SessionManaged=false
+X-XDE-Managed=true

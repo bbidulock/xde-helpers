@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Tightvnc
+Comment=Remote graphical access
+Exec=/usr/bin/vncviewer
+Icon=tightvnc
+Terminal=true
+Type=Application
+Categories=Network;RemoteAccess;Dialup;

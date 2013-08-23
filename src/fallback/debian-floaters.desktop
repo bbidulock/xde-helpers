@@ -1,0 +1,20 @@
+[Desktop Entry]
+Name=Floating Debian
+Name[de]=Schwebendes Debian
+Name[es]=Debian flotante
+Name[fr]=Spirales flottantes
+Name[pt]=Debian flutuando
+Name[sv]=Flytande Debian
+Comment=Debian swirl logos floating around the screen
+Comment[de]=Debian-Spiralen-Logos schweben über den Bildschirm
+Comment[es]=Logos de la espiral de debian flotando por la pantalla
+Comment[fr]=Des logos Debian bougeant Ã§Ã  et lÃ  sur lâÃ©cran
+Comment[pt]=Logotipos espiral Debian flutuando pelo écran
+Comment[sv]=Debianvirveln flyter runt på skärmen
+Exec=/usr/lib/gnome-screensaver/gnome-screensaver/floaters /usr/share/pixmaps/debian-swirl-logo.svg
+TryExec=floaters
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=GNOME;Screensaver;
+OnlyShowIn=GNOME;

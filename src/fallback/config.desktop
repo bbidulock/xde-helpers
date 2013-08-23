@@ -1,0 +1,185 @@
+[Desktop Entry]
+Name=Pager config
+GenericName=Pager config 
+Comment=Module to provide for visual feedback and navigation of virtual desktops.
+Exec=ASRun --afterstep-config pager
+Icon=normal/Pager
+Terminal=false
+MultipleArgs=false
+Type=Application
+Encoding=UTF-8
+Categories=AfterStepConfig
+X-AfterStep-ASModule=true
+
+[Desktop Entry]
+Name=WinList config
+GenericName=WinList config
+Comment=Module to display buttons for all open windows.
+Exec=ASRun --afterstep-config winlist
+Icon=normal/WinList
+Terminal=false
+MultipleArgs=false
+Type=Application
+Encoding=UTF-8
+Categories=AfterStepConfig
+X-AfterStep-ASModule=true
+
+[Desktop Entry]
+Name=Wharf config
+GenericName=Wharf config
+Comment=Launchbar type module able to swallow open windows and organize stuff in folders.
+Exec=ASRun --afterstep-config wharf
+Icon=normal/Wharf
+Terminal=false
+MultipleArgs=false
+Type=Application
+Encoding=UTF-8
+Categories=AfterStepConfig
+X-AfterStep-ASModule=true
+
+[Desktop Entry]
+Name=Term tabs config
+GenericName=WinTabs config
+Comment=Organizer for open term windows into a single tabbed window.
+Exec=ASRun --afterstep-config wintabs
+Icon=logos/aterm2
+Terminal=false
+MultipleArgs=false
+Type=Application
+Encoding=UTF-8
+Categories=AfterStepConfig
+X-AfterStep-ASModule=true
+
+[Desktop Entry]
+Name=Animate config
+GenericName=Animate config
+Comment=Module that shows funky animations when windows are being minimized/maximized etc.
+Exec=ASRun --afterstep-config animate
+Icon=normal/Butterfly
+Terminal=false
+MultipleArgs=false
+Type=Application
+Encoding=UTF-8
+Categories=AfterStepConfig
+X-AfterStep-ASModule=true
+
+
+[Desktop Entry]
+Name=Base
+GenericName=Base config
+Comment=
+Exec=ASRun --afterstep-config base
+Icon=normal/DNA
+Terminal=false
+MultipleArgs=false
+Type=Application
+Encoding=UTF-8
+Categories=AfterStepConfig
+X-AfterStep-ASModule=true
+
+[Desktop Entry]
+Name=AfterStep Database
+GenericName=Database config
+Comment=
+Exec=ASRun --afterstep-config database
+Icon=normal/Table
+Terminal=false
+MultipleArgs=false
+Type=Application
+Encoding=UTF-8
+Categories=AfterStepConfig
+X-AfterStep-ASModule=true
+
+[Desktop Entry]
+Name=AutoExec
+GenericName=AutoExec
+Comment=
+Exec=ASRun --afterstep-config autoexec
+Icon=normal/PlayerPlay
+Terminal=false
+MultipleArgs=false
+Type=Application
+Encoding=UTF-8
+Categories=AfterStepConfig
+X-AfterStep-ASModule=true
+
+[Desktop Entry]
+Name=Banner
+GenericName=Banner
+Comment=
+Exec=ASRun --afterstep-config banner
+Icon=normal/MonaLisa
+Terminal=false
+MultipleArgs=false
+Type=Application
+Encoding=UTF-8
+Categories=AfterStepConfig
+X-AfterStep-ASModule=true
+
+[Desktop Entry]
+Name=Gtk 1 gtkrc template
+GenericName=gtkrc10_template
+Comment=
+Exec=ASRun --afterstep-config gtkrc_template
+Icon=normal/Document
+Terminal=false
+MultipleArgs=false
+Type=Application
+Encoding=UTF-8
+Categories=AfterStepConfig
+X-AfterStep-ASModule=true
+
+[Desktop Entry]
+Name=Gtk 2 gtkrc template
+GenericName=gtkrc20_template
+Comment=
+Exec=ASRun --afterstep-config gtkrc-2.0_template
+Icon=normal/Document
+Terminal=false
+MultipleArgs=false
+Type=Application
+Encoding=UTF-8
+Categories=AfterStepConfig
+X-AfterStep-ASModule=true
+
+[Desktop Entry]
+Name=KDE Color Scheme template
+GenericName=kcsrc_template
+Comment=
+Exec=ASRun --afterstep-config kcsrc_template
+Icon=logos/KDE
+Terminal=false
+MultipleArgs=false
+Type=Application
+Encoding=UTF-8
+Categories=AfterStepConfig
+X-AfterStep-ASModule=true
+
+[Desktop Entry]
+Name=Look
+GenericName=Look
+Comment=
+#Exec=ASRun --afterstep-config look.YourName
+Exec=ASRun --afterstep-config look
+Icon=normal/EyeInMonitor2
+Terminal=false
+MultipleArgs=false
+Type=Application
+Encoding=UTF-8
+Categories=AfterStepConfig
+X-AfterStep-ASModule=true
+
+
+[Desktop Entry]
+Name=Feel
+GenericName=Feel
+Comment=
+#Exec=ASRun --afterstep-config feel.YourName
+Exec=ASRun --afterstep-config feel
+Icon=normal/Touch
+Terminal=false
+MultipleArgs=false
+Type=Application
+Encoding=UTF-8
+Categories=AfterStepConfig
+X-AfterStep-ASModule=true

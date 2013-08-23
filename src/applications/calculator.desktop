@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=FOX Calculator
+GenericName=Calculator
+Comment=A desktop calculator.
+Icon=accessories-calculator
+TryExec=/usr/bin/calculator
+Exec=calculator
+Terminal=false
+Categories=Utility;Calculator;
+StartupNotify=false
+StartupWMClass=Calculator

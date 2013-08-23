@@ -10,8 +10,8 @@ TryExec=xde-input
 Terminal=false
 Categories=Settings
 StartupNotify=false
-NoDisplay=true
-NotShowIn=GNOME;KDE;XFCE;
+#NoDisplay=true
+NotShowIn=GNOME;KDE;XFCE;LXDE;
 X-GNOME-Autostart-enabled=false
 
 

@@ -1,0 +1,21 @@
+
+[Desktop Entry]
+Encoding=UTF-8
+Name=Google Gadgets (Qt)
+Name[en]=Google Gadgets (Qt)
+Name[fr]=Google Gadgets (Qt)
+Name[zh_CN]=Google 小工具 (Qt)
+Comment=Run Google Gadgets in KDE/Qt environment
+Comment[en]=Run Google Gadgets in KDE/Qt environment
+Comment[fr]=Exécuter Google Gadgets dans un environnement KDE/Qt
+Comment[zh_CN]=在 KDE/Qt 环境中运行 Google 小工具
+TryExec=/usr/bin/ggl-qt -s qt
+Exec=/usr/bin/ggl-qt -s qt %F
+Icon=google-gadgets
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=KDE;Qt;Utility;
+MimeType=application/x-google-gadget;
+OnlyShowIn=KDE;
+X-Desktop-File-Install-Version=0.18

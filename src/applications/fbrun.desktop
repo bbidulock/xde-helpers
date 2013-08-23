@@ -1,11 +1,11 @@
 [Desktop Entry]
 Encoding=UTF-8
 Type=Application
-Name=Fluxbox Run Command
-GenericName=fbrun 1.3.5
+Name=Run Command
+GenericName=Launcher
 Comment=Run a command in fluxbox.
 Icon=system-run
-TryExec=/usr/bin/fbrun
+TryExec=fbrun
 Exec=fbrun
 Terminal=false
 Categories=Fluxbox;System;Utility;

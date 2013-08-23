@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Gnuplot
+Comment=The famous function plotting program
+Exec=/usr/bin/gnuplot
+Icon=gnuplot
+Terminal=true
+Type=Application
+StartupNotify=true
+Categories=X-MandrivaLinux-MoreApplications-Sciences-Mathematics;Sciences;

@@ -5,7 +5,6 @@ Name=LXDE Panel
 GenericName=lxpanel 0.5.12
 Comment=Panel for XDG compliant desktop.
 Icon=lxpanel
-TryExec=/usr/bin/lxpanel
 Exec=lxpanel
 Terminal=false
 Categories=LXDE;System;Utility;

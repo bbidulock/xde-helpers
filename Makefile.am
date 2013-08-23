@@ -3,6 +3,8 @@ ACLOCAL_AMFLAGS = -I m4
 AUTOMAKE_OPTIONS = nostdinc
 
 dist_appl_DATA = \
+	src/applications/aafire.desktop \
+	src/applications/adie.desktop \
 	src/applications/AdobeReader.desktop \
 	src/applications/allin1.desktop \
 	src/applications/AlsaMixer.app.desktop \
@@ -10,6 +12,7 @@ dist_appl_DATA = \
 	src/applications/bbrun.desktop \
 	src/applications/blackbox.desktop \
 	src/applications/bubblemon.desktop \
+	src/applications/calculator.desktop \
 	src/applications/conky.desktop \
 	src/applications/dhcpcd-gtk.desktop \
 	src/applications/docker.desktop \
@@ -19,7 +22,12 @@ dist_appl_DATA = \
 	src/applications/fbxkb.desktop \
 	src/applications/fluxbox.desktop \
 	src/applications/ftmenu.desktop \
+	src/applications/gmrun.desktop \
+	src/applications/gtk2_prefs.desktop \
+	src/applications/gtk-chtheme.desktop \
+	src/applications/gtk-theme-switch2.desktop \
 	src/applications/gvncviewer.desktop \
+	src/applications/icewm.desktop \
 	src/applications/lal.desktop \
 	src/applications/lxde-logout.desktop \
 	src/applications/lxinput.desktop \
@@ -31,7 +39,11 @@ dist_appl_DATA = \
 	src/applications/pango-view.desktop \
 	src/applications/peksystray.desktop \
 	src/applications/piedock.desktop \
+	src/applications/preferred-execute.desktop \
+	src/applications/preferred-file-manager.desktop \
 	src/applications/preferred-mail-reader.desktop \
+	src/applications/preferred-terminal.desktop \
+	src/applications/preferred-text-editor.desktop \
 	src/applications/preferred-web-browser.desktop \
 	src/applications/raktpdf.desktop \
 	src/applications/retrovol.desktop \
@@ -65,6 +77,8 @@ dist_appl_DATA = \
 	src/applications/xclock.desktop \
 	src/applications/xde-input.desktop \
 	src/applications/xde-logout.desktop \
+	src/applications/xde-panel.desktop \
+	src/applications/xde-run.desktop \
 	src/applications/xdpyinfo.desktop \
 	src/applications/xev.desktop \
 	src/applications/xfontsel.desktop \
@@ -72,6 +86,8 @@ dist_appl_DATA = \
 	src/applications/xkbvleds.desktop \
 	src/applications/xkbwatch.desktop \
 	src/applications/xkill.desktop \
+	src/applications/xlsatoms.desktop \
+	src/applications/xlsclients.desktop \
 	src/applications/xmodmap.desktop \
 	src/applications/xprop.desktop \
 	src/applications/xrandr.desktop \
@@ -98,6 +114,7 @@ dist_sess_DATA = \
 	src/xsessions/openbox.desktop \
 	src/xsessions/openbox-gnome.desktop \
 	src/xsessions/openbox-kde.desktop \
+	src/xsessions/pekwm.desktop \
 	src/xsessions/ssh.desktop \
 	src/xsessions/twm.desktop \
 	src/xsessions/wmaker.desktop \
@@ -107,15 +124,19 @@ dist_sess_DATA = \
 dist_auto_DATA = \
 	src/autostart/bbrun.desktop \
 	src/autostart/compton.desktop \
+	src/autostart/compton-fluxbox.desktop \
 	src/autostart/dhcpcd-gtk.desktop \
 	src/autostart/docker.desktop \
+	src/autostart/gatotray.desktop \
 	src/autostart/icewmtray.desktop \
 	src/autostart/idesk.desktop \
 	src/autostart/lxpanel.desktop \
 	src/autostart/menutray.desktop \
 	src/autostart/nm-applet.desktop \
+	src/autostart/pnmixer.desktop \
 	src/autostart/remmina-applet.desktop \
 	src/autostart/retrovol.desktop \
+	src/autostart/smproxy.desktop \
 	src/autostart/wmappl.desktop \
 	src/autostart/wmbattery.desktop \
 	src/autostart/wmblob.desktop \
@@ -127,11 +148,37 @@ dist_auto_DATA = \
 	src/autostart/wmnd.desktop \
 	src/autostart/wmnet.desktop \
 	src/autostart/wmsysmon.desktop \
+	src/autostart/wmsystemtray.desktop \
 	src/autostart/wmtimer.desktop \
 	src/autostart/wmWeather.desktop \
 	src/autostart/wmweather+.desktop \
 	src/autostart/xde-input.desktop \
+	src/autostart/xde-panel.desktop \
+	src/autostart/xde-setbg.desktop \
 	src/autostart/xde-traymenu.desktop
 
+dist_menu_DATA = \
+	src/menus/unexicon-applications.menu \
+	src/menus/xde-applications.menu
 
-
+dist_dirs_DATA = \
+	src/desktop-directories/dockapps.directory \
+	src/desktop-directories/xde-accessibility.directory \
+	src/desktop-directories/xde-accessories.directory \
+	src/desktop-directories/xde-applications.directory \
+	src/desktop-directories/xde-archlinux.directory \
+	src/desktop-directories/xde-development.directory \
+	src/desktop-directories/xde-dockapps.directory \
+	src/desktop-directories/xde-education.directory \
+	src/desktop-directories/xde-games.directory \
+	src/desktop-directories/xde-gnome-webapplications.directory \
+	src/desktop-directories/xde-graphics.directory \
+	src/desktop-directories/xde-internet.directory \
+	src/desktop-directories/xde-multimedia.directory \
+	src/desktop-directories/xde-office.directory \
+	src/desktop-directories/xde-other.directory \
+	src/desktop-directories/xde-science.directory \
+	src/desktop-directories/xde-settings.directory \
+	src/desktop-directories/xde-system-tools.directory \
+	src/desktop-directories/xde-x11-tools.directory \
+	src/desktop-directories/X-X11-Tools.directory

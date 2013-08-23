@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=TkDiff
+Comment=Graphical interface to diff
+Exec=/usr/bin/tkdiff
+Icon=development_tools_section
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Development;RevisionControl;

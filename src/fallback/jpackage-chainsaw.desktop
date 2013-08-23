@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Chainsaw
+Comment=Log4j log viewer
+Exec=chainsaw
+Icon=chainsaw.png
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Categories=GNOME;Application;Development;X-JPackage;

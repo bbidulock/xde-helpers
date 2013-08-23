@@ -6,7 +6,6 @@ Name[en_US]=IceWM
 Comment=Simple and fast window manger
 Terminal=false
 Exec=icewm-session
-TryExec=icewm-session
 Icon=icewm
 
 [Window Manager]

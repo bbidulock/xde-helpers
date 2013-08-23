@@ -6,10 +6,12 @@ GenericName=bbrun 1.6
 Comment=Run Command DockApp
 Icon=system-run
 OnlyShowIn=BLACKBOX;
-TryExec=/usr/bin/bbrun
+TryExec=bbrun
 Exec=bbrun -a
 Terminal=false
 Categories=DockApp;WMAKER;
 StartupNotify=false
 StartupWMClass=bbrun
 X-GNOME-Autostart-enabled=true
+Hidden=true
+# Always crashes if you press ENTER instead of OK

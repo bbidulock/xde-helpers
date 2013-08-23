@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Menu Style Configuration
+Comment=Menu Style Configuration
+Exec=/usr/bin/drakmenustyle
+Icon=drakmenustyle
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GTK;X-MandrivaLinux-CrossDesktop;Settings;
+NoDisplay=true

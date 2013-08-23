@@ -10,3 +10,4 @@ Exec=fluxbox
 Terminal=false
 Categories=WindowManager;Application;System
 StartupNotify=false
+NoDisplay=true

@@ -2,10 +2,10 @@
 Encoding=UTF-8
 Name=Openbox
 Comment=Log in using the Openbox window manager
-Exec=/usr/bin/openbox-session
-TryExec=/usr/bin/openbox-session
-Icon=archlinux-wm-openbox
+Exec=openbox-session
+Terminal=false
 Type=XSession
+Icon=openbox
 
 [Window Manager]
 SessionManaged=false

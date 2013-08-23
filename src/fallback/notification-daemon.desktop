@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Notification Daemon
+Comment=Display notifications
+Exec=/usr/libexec/notification-daemon
+Terminal=false
+Type=Application
+NoDisplay=true

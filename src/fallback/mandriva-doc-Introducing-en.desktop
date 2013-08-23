@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Mandriva Linux Quick Startup Guide in English
+Comment=The Mandriva Linux manuals in English
+Exec=/usr/bin/www-browser /usr/share/doc/mandriva/en/Introducing/index.html
+Icon=documentation_section
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Documentation;

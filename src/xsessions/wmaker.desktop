@@ -2,9 +2,8 @@
 Encoding=UTF-8
 Name=WindowMaker
 Comment=This session logs you into Window Maker
-TryExec=wmaker
 Exec=wmaker
-Icon=WindowMaker
+Icon=wmaker
 Type=XSession
 
 [Window Manager]

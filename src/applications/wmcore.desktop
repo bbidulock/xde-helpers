@@ -4,7 +4,6 @@ Type=Application
 Name=Core CPU Load
 GenericName=Clock
 Comment=Show the usage of each core
-#Icon=wmaker-dock
 Icon=GNUstep3D
 TryExec=/usr/bin/wmcore
 Exec=wmcore

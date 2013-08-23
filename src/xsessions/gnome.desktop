@@ -149,5 +149,5 @@ Comment[zh_HK]=這個作業階段讓你登入 GNOME
 Comment[zh_TW]=這個作業階段讓您登入 GNOME
 Exec=gnome-session
 TryExec=gnome-session
-Icon=
+Icon=archlinux-wm-gnome
 Type=Application

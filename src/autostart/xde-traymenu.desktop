@@ -11,5 +11,5 @@ Terminal=false
 Categories=TrayIcon;
 StartupNotify=false
 StartupWMClass=xde-traymenu
-NotShowIn=GNOME;KDE;XFCE;
+NotShowIn=GNOME;KDE;XFCE;LXDE;
 X-GNOME-Autostart-enabled=true

@@ -4,7 +4,6 @@ Type=Application
 Name=Blob Dock App
 GenericName=Game
 Comment=Show blobs moving around
-#Icon=wmaker-dock
 Icon=GNUstep3D
 TryExec=/usr/bin/wmblob
 Exec=wmblob

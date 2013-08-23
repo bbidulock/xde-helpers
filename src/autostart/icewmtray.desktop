@@ -5,10 +5,11 @@ Name=IceWM Tray
 GenericName=System Tray
 Comment=System tray for the IceWM
 Icon=starred
-Exec=/usr/bin/icewmtray
-TryExec=/usr/bin/icewmtray
+Exec=icewmtray
+TryExec=icewmtray
 Terminal=false
 Categories=ICEWM;System;Utility;
 OnlyShowIn=ICEWM;
 NoDisplay=true
 StartupNotify=false
+# We normally launch this using icewm-session

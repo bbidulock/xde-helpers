@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Mandriva Server Setup 
+Comment=Mandriva Server Setup
+Exec=firefox %u http://127.0.0.1/mmc-wizard
+Icon=/usr/share/pixmaps/mmc-wizard.png
+Terminal=false
+Type=Application
+StartupWMClass=Firefox-bin
+MimeType=text/html;text/xml;application/xhtml+xml;application/xml;application/rss+xml;application/rdf+xml;
+Categories=Settings;
+Name[fr_FR]=Mandriva Serveur Setup 

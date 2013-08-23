@@ -4,7 +4,6 @@ Type=Application
 Name=Calculator Dock App
 GenericName=Calculator
 Comment=4-function calculator dock app
-#Icon=wmaker-dock
 Icon=GNUstep3D
 TryExec=/usr/bin/wmcalc
 Exec=wmcalc

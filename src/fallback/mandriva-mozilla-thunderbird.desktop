@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Mozilla Thunderbird
+GenericName=Mail/News
+Comment=Mail and News Client
+Exec=mozilla-thunderbird
+Icon=mozilla-thunderbird
+Terminal=false
+Type=Application
+StartupWMClass=Thunderbird-bin
+MimeType=message/rfc822;x-scheme-handler/mailto;
+Categories=GTK;Network;News;Email;X-MandrivaLinux-CrossDesktop;

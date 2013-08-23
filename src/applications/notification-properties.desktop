@@ -1,5 +1,6 @@
 [Desktop Entry]
 Encoding=UTF-8
+Type=Application
 Name=Pop-Up Notifications
 Name[ar]=تنبيهات منبثقة
 Name[cs]=Automaticky otevíraná oznámení
@@ -45,10 +46,10 @@ Comment[ru]=Изменить параметры всплывающих увед�
 Comment[sl]=Nastavitev možnosti pojavnih obvestil 
 Comment[sv]=Konfigurera dina inställningar för popupnotifieringar
 Comment[zh_CN]=设置您的弹出通知首选项
-Exec=notification-properties
 Icon=notification-properties
+TryExec=/usr/bin/notification-properties
+Exec=/usr/bin/notification-properties
 Terminal=false
-Type=Application
 StartupNotify=true
 Categories=GNOME;GTK;Settings;
-OnlyShowIn=GNOME;FLUXBOX;BLACKBOX;OPENBOX;WMAKER;ICEWM;FVWM;
+NotShowIn=KDE;

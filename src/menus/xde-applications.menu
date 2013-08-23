@@ -1,0 +1,241 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN" "http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd">
+<Menu>
+    <Name>Applications</Name>
+    <Directory>xde-applications.directory</Directory>
+
+    <LegacyDir>/etc/X11/applnk</LegacyDir>
+    <LegacyDir>/usr/share/gnome/apps</LegacyDir>
+
+    <DefaultAppDirs/>
+    <DefaultDirectoryDirs/>
+    <DefaultMergeDirs/>
+
+    <Include>
+	<And>
+	    <Category>Preferred</Category>
+	</And>
+	<Filename>preferred-file-manager.desktop</Filename>
+	<Filename>preferred-web-browser.desktop</Filename>
+	<Filename>preferred-terminal.desktop</Filename>
+	<Filename>preferred-text-editor.desktop</Filename>
+	<Filename>preferred-execute.desktop</Filename>
+    </Include>
+
+    <Menu>
+	<Name>Unexicon</Name>
+	<Directory>Unexicon.directory</Directory>
+	<Include>
+	    <Category>Unexicon</Category>
+	</Include>
+    </Menu>
+
+    <Menu>
+	<Name>Archlinux</Name>
+	<Directory>Archlinux.directory</Directory>
+	<Include>
+	    <Category>Archlinux</Category>
+	</Include>
+    </Menu>
+
+    <Menu>
+	<Name>Accessories</Name>
+	<Directory>xde-accessories.directory</Directory>
+	<Include>
+	    <And>
+		<Category>Utility</Category>
+		<Not><Category>Accessibility</Category></Not>
+		<Not><Category>System</Category></Not>
+	    </And>
+	</Include>
+    </Menu>
+
+    <Menu>
+	<Name>Accessibility</Name>
+	<Directory>xde-accessibility.directory</Directory>
+	<Include>
+	    <And>
+		<Category>Accessibility</Category>
+		<Not><Category>Settings</Category></Not>
+	    </And>
+	</Include>
+    </Menu>
+
+    <Menu>
+	<Name>Development</Name>
+	<Directory>xde-development.directory</Directory>
+	<Include>
+	    <And>
+		<Category>Development</Category>
+	    </And>
+	    <Filename>gvim.desktop</Filename>
+	    <Filename>emacs.desktop</Filename>
+	</Include>
+    </Menu>
+
+    <Menu>
+	<Name>Education</Name>
+	<Directory>xde-education.directory</Directory>
+	<Include>
+	    <And>
+		<Category>Education</Category>
+	    </And>
+	</Include>
+    </Menu>
+
+    <Menu>
+	<Name>Games</Name>
+	<Directory>xde-games.directory</Directory>
+	<Include>
+	    <And>
+		<Category>Game</Category>
+	    </And>
+	</Include>
+    </Menu>
+
+    <Menu>
+	<Name>Graphics</Name>
+	<Directory>xde-graphics.directory</Directory>
+	<Include>
+	    <And>
+		<Category>Graphics</Category>
+	    </And>
+	</Include>
+    </Menu>
+
+    <Menu>
+	<Name>Internet</Name>
+	<Directory>xde-internet.directory</Directory>
+	<Include>
+	    <And>
+		<Category>Network</Category>
+		<Not><Category>X-GNOME-WebApplication</Category></Not>
+	    </And>
+	</Include>
+    </Menu>
+
+    <Menu>
+	<Name>Web Applications</Name>
+	<Directory>xde-gnome-webapplications.directory</Directory>
+	<Include>
+	    <And>
+		<Category>Network</Category>
+		<Category>X-GNOME-WebApplication</Category>
+	    </And>
+	</Include>
+    </Menu>
+
+    <Menu>
+	<Name>Multimedia</Name>
+	<Directory>xde-multimedia.directory</Directory>
+	<Include>
+	    <And>
+		<Category>AudioVideo</Category>
+	    </And>
+	</Include>
+    </Menu>
+
+    <Menu>
+	<Name>Office</Name>
+	<Directory>xde-office.directory</Directory>
+	<Include>
+	    <And>
+		<Category>Office</Category>
+	    </And>
+	</Include>
+    </Menu>
+
+    <Menu>
+	<Name>Science</Name>
+	<Directory>xde-science.directory</Directory>
+	<Include>
+	    <And>
+		<Or>
+		    <Category>Astronomy</Category>
+		    <Category>Biology</Category>
+		    <Category>Chemistry</Category>
+		    <Category>Geology</Category>
+		    <Category>MedicalSoftware</Category>
+		    <Category>Physics</Category>
+		    <Category>Math</Category>
+		    <Category>Science</Category>
+		</Or>
+		<Not><Category>Education</Category></Not>
+	    </And>
+	</Include>
+    </Menu>
+
+    <Menu>
+	<Name>System</Name>
+	<Directory>xde-system-tools.directory</Directory>
+	<Include>
+	    <And>
+		<Category>System</Category>
+		<Not><Category>Settings</Category></Not>
+		<Not><Category>PackageManager</Category></Not>
+	    </And>
+	</Include>
+    </Menu>
+
+    <Menu>
+	<Name>X11Tools</Name>
+	<Directory>xde-x11-tools.directory</Directory>
+	<Include>
+	    <Category>X-X11</Category>
+	</Include>
+    </Menu>
+
+    <Menu>
+	<Name>DockApps</Name>
+	<Directory>xde-dockapps.directory</Directory>
+	<Include>
+	    <Category>DockApp</Category>
+	</Include>
+    </Menu>
+
+    <Menu>
+	<Name>Other</Name>
+	<Directory>xde-other.directory</Directory>
+	<OnlyUnallocated/>
+	<Include>
+	    <And>
+		<Not><Category>Core</Category></Not>
+		<Not><Category>Settings</Category></Not>
+		<Not><Category>Screensaver</Category></Not>
+		<Not><Category>X-GNOME-Settings-Panel</Category></Not>
+	    </And>
+	</Include>
+    </Menu>
+
+    <Menu>
+	<Name>DesktopSettings</Name>
+	<Directory>xde-settings.directory</Directory>
+	<OnlyUnallocated/>
+	<Include>
+	    <Or>
+		<Category>Settings</Category>
+		<Category>PackageManager</Category>
+		<Category>System</Category>
+	    </Or>
+	</Include>
+	<Layout>
+	    <Merge type="menus"/>
+	    <Merge type="files"/>
+	</Layout>
+    </Menu>
+
+    <Layout>
+	<Merge type="files"/>
+	<Separator/>
+	<Menuname>Unexicon</Menuname>
+	<Menuname>Archlinux</Menuname>
+	<Merge type="menus"/>
+	<Separator/>
+	<Menuname>X11Tools</Menuname>
+	<Menuname>DockApps</Menuname>
+	<Menuname>Other</Menuname>
+	<Separator/>
+	<Menuname>DesktopSettings</Menuname>
+    </Layout>
+
+</Menu>
+<!-- vim: set ft=xml: -->

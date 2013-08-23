@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=XKill
+Comment=Kill a client by its X resource
+Exec=/usr/bin/xkill
+Icon=xkill
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=System;Monitor;
+NoDisplay=true

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Lexmark printer manager
+Comment=Status, alignment, cartridge maintenance
+Exec=/usr/bin/z42tool
+Icon=z42tool
+Terminal=false
+Type=Application
+Categories=System;Monitor;

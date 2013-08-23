@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Packages Stats
+Comment=Mandriva Linux packages stats
+Exec=/usr/sbin/drakstats
+Icon=drakstats
+Type=Application
+Categories=X-MandrivaLinux-CrossDesktop;GTK;System;PackageManager;

@@ -4,7 +4,6 @@ Type=Application
 Name=System Tray Docker
 GenericName=System Tray
 Comment=Provide a system tray in the dock
-#Icon=wmaker-dock
 Icon=GNUstep3D
 OnlyShowIn=BLACKBOX;WMAKER;
 Exec=peksystray

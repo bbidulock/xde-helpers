@@ -4,7 +4,6 @@ Type=Application
 Name=Calendar Clock Keyboard Dock App
 GenericName=Clock
 Comment=Calendar clock dock app with keyboard indicator
-#Icon=wmaker-dock
 Icon=GNUstep3D
 TryExec=/usr/bin/wmCalClockKbd
 Exec=wmCalClockKbd

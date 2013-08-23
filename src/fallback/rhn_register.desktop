@@ -1,0 +1,32 @@
+
+[Desktop Entry]
+Encoding=UTF-8
+Name=ULN Registration
+Name[bn_IN]=ULN নিবন্ধন ব্যবস্থা
+Name[de]=ULN-Registrierung
+Name[es]=Registro de ULN
+Name[fr]=Enregistrement ULN
+Name[gu]=ULN રજીસ્ટ્રેશન
+Name[hi]=ULN पंजीयन
+Name[it]=Registrazione ULN
+Name[ja]=ULN 登録
+Name[kn]=ULN ನೋಂದಣಿ
+Name[ko]=ULN 등록
+Name[ml]=ആര്‍എച്എന്‍ രജിസ്ട്രേഷന്‍
+Name[mr]=ULN नोंदणी
+Name[or]=ULN ପଞ୍ଜିକରଣ
+Name[pa]=ULN ਰਜਿਸਟਰੇਸ਼ਨ
+Name[pt_BR]=Registro do ULN
+Name[ru]=Регистрация в ULN
+Name[ta]=ULN பதிவு செய்தல்
+Name[te]=ULN నమోదీకరణ
+Name[zh_CN]=ULN 注册
+Name[zh_TW]=ULN 註冊
+GenericName=Register for software updates from Unbreakable Linux Network
+Comment=Register to Unbreakable Linux Network.
+Exec=uln_register
+Icon=up2date
+Terminal=false
+Type=Application
+Categories=System;Settings;X-Red-Hat-Base;
+X-Desktop-File-Install-Version=0.15

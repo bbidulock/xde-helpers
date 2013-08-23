@@ -4,7 +4,6 @@ Type=Application
 Name=Wifi Monitor
 GenericName=Monitor
 Comment=Statistics about current WiFi connection
-#Icon=wmaker-dock
 Icon=GNUstep3D
 TryExec=/usr/bin/wmwave
 Exec=wmwave

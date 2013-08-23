@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Drakbackup
+Comment=Backups
+Exec=/usr/bin/drakbackup
+Icon=/usr/share/mcc/themes/default/backup-mdk.png
+Type=Application
+Categories=System;Archiving;X-MandrivaLinux-System-Archiving-Backup;
+StartupNotify=false
+NoDisplay=true

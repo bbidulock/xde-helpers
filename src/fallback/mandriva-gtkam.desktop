@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=GTKam
+Comment=Access digital cameras (via GPhoto2)
+Exec=/usr/bin/gtkam 
+Icon=gtkam
+Terminal=false
+Type=Application
+Categories=GTK;Graphics;Photography;

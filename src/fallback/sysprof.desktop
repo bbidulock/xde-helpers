@@ -1,0 +1,11 @@
+
+[Desktop Entry]
+Name=Sysprof
+Comment=a sampling CPU profiler
+Exec=sysprof
+Icon=sysprof-icon
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Development;Profiling;
+X-Desktop-File-Install-Version=0.18

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Coherence
+Comment=DLNA/UPnP MediaServer/MediaRenderer
+Exec=applet-coherence
+Icon=coherence
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=X-MandrivaLinux-Internet;X-MandrivaLinux-CrossDesktop

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=X Display Atoms
+GenericName=Xlsatoms
+Comment=List the atoms defined on the current display.
+Icon=xlogo
+TryExec=xlsatoms
+Exec=xlsatoms | gxmessage -name xlsatoms -geometry 400x400 -font 'Liberation Mono 8' -title 'X Display Atoms' -file -
+Terminal=false
+Categories=X-X11;Application;X-XTool;
+StartupNotify=false

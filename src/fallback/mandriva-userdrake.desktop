@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=User Administration
+Comment=Add or remove users and groups
+Exec=/usr/bin/userdrake
+Icon=userdrake
+Type=Application
+StartupNotify=true
+Categories=GTK;System;X-MandrivaLinux-CrossDesktop;
+NoDisplay=true

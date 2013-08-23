@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Pekwm
+Comment=Small, fast, functional, and flexible window manager
+Exec=pekwm
+Terminal=false
+Type=XSession
+Icon=pekwm
+
+[Window Manager]
+SessionManaged=false
+X-XDE-Managed=true

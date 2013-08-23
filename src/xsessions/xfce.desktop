@@ -73,5 +73,5 @@ Comment[ur]=اپنے ڈیسک ٹاپ ماحول کے طور پر ایکسفس ک
 Comment[ur_PK]=اپنے ڈیسک ٹاپ ماحول کے طور پر ایکسفس کو چلانے کے لیے یہ نشست استعمال کریں
 Comment[zh_CN]=使用此会话运行 Xfce 作为您默认的桌面环境
 Exec=startxfce4
-Icon=
+Icon=archlinux-wm-xfce
 Type=Application

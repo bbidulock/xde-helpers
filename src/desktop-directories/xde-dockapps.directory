@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Dock Apps
+Comment=WindowMaker dock (fluxbox slit) applications
+#Icon=wmaker-dock
+Icon=GNUstep3D
+Type=Directory
+Encoding=UTF-8
+# vim: ft=desktop

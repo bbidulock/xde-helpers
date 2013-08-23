@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=X Display Clients
+GenericName=Xlsclients
+Comment=List the clients of the current display.
+Icon=xlogo
+TryExec=xlsclients
+Exec=xlsclients -a -l | gxmessage -name xlsclients -geometry 400x400 'Liberation Mono 8' -title 'X Display Clients' -file -
+Terminal=false
+Categories=X-X11;Application;X-XTool;
+StartupNotify=false

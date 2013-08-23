@@ -4,7 +4,6 @@ Type=Application
 Name=Weather Monitor Dock App
 GenericName=Weather
 Comment=Monitor weather conditions
-#Icon=wmaker-dock
 Icon=GNUstep3D
 TryExec=/usr/bin/wmWeather
 Exec=wmWeather

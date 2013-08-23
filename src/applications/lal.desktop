@@ -4,7 +4,6 @@ Type=Application
 Name=Clock Dock App
 GenericName=Clock
 Comment=Clock dock app
-#Icon=wmaker-dock
 Icon=GNUstep3D
 TryExec=/usr/bin/lal
 Exec=lal

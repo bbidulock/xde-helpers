@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Grip
+Comment=CD player and ripper
+Exec=/usr/bin/grip 
+Icon=grip
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GTK;AudioVideo;Audio;Player;

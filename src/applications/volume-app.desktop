@@ -4,7 +4,6 @@ Type=Application
 Name=Volume Dock App
 GenericName=Volume Control
 Comment=Provide a volume control for the dock
-#Icon=wmaker-dock
 Icon=GNUstep3D
 OnlyShowIn=BLACKBOX;WMAKER;
 Exec=volume-app

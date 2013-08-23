@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Lexmark headalign
+Comment=Lexmark Lexmark 5xxx, 7xxx and 11xx Head Aligner
+Exec=/usr/bin/headalign.sh
+Icon=printmgr
+Terminal=false
+Type=Application
+Categories=X-MandrivaLinux-System-Configuration-Printing;

@@ -4,7 +4,6 @@ Type=Application
 Name=Alarm Clock Dock App
 GenericName=Clock
 Comment=Alarm clock dock app
-#Icon=wmaker-dock
 Icon=GNUstep3D
 TryExec=/usr/bin/wmclockmon
 Exec=wmclockmon

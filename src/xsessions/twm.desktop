@@ -2,8 +2,7 @@
 Encoding=UTF-8
 Type=XSession
 Exec=twm
-TryExec=twm
-Icon=mini-twm.xpm
+Icon=twm
 Name=TWM
 Name[eo]=TFA
 Name[hi]=टीडबल्यूएम

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=XDE Panel
+GenericName=Panel
+Comment=Panel for X Desktop Environment.
+Icon=perlpanel-panel
+Exec=xde-panel
+Terminal=false
+Categories=XDE;System;Utility;
+StartupNotify=true
+StartupWMClass=xde-panel
