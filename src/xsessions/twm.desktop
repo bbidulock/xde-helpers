@@ -67,3 +67,8 @@ Comment[uk]=Tab Window Manager
 Comment[vi]=Trình Quản lý Cửa sổ Thẻ
 Comment[zh_CN]=标签式窗口管理器
 Comment[zh_TW]=Tab 視窗管理程式
+
+[Window Manager]
+SessionManaged=true
+StartupNotification=false
+ConfigExec=twm -f %f

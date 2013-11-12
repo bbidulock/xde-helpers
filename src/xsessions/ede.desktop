@@ -1,0 +1,6 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=EDE
+Exec=/usr/bin/startede
+Comment=This session logs you into EDE Desktop
+Type=Application

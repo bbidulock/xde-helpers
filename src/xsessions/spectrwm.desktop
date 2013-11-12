@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=XSession
+Exec=spectrwm
+Icon=spectrwm
+Name=spectrwm
+Comment=The spectrwm window manager for X11
+
+[Window Manager]
+SessionManaged=false
+StartupNotification=false
+

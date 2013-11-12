@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=XSession
+Exec=mwm
+Icon=mwm
+Name=MWM
+Comment=Motif Window Manager
+
+[Window Manager]
+SessionManaged=false
+StartupNotification=false
+ConfigExec=mwm -xrm 'configFile:%f'

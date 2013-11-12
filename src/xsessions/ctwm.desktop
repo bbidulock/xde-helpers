@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=XSession
+Exec=ctwm
+Icon=ctwm
+Name=CTWM
+Comment=Claude's Tab Window Manager for the X Window System
+
+[Window Manager]
+SessionManaged=true
+StartupNotification=false
+ConfigExec=ctwm -f %f

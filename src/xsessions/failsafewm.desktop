@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=XSession
+Exec=failsafewm
+Icon=failsafewm
+Name=failsafewm
+Comment=A frameless, low-footprint window manager
+
+[Window Manager]
+SessionManaged=false
+StartupNotification=false

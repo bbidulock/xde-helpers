@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=XSession
+Exec=waimea
+Icon=waimea
+Name=Waimea
+Comment=An X11 window manager design for maximum efficiency
+
+[Window Manager]
+SessionManaged=false
+StartupNotification=false

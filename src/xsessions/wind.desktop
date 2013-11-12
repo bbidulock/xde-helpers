@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=XSession
+Exec=wind
+Icon=windwm
+Name=windwm
+Comment=Window Manager
+
+[Window Manager]
+SessionManaged=false
+StartupNotification=false

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=XSession
+Exec=aewm
+Icon=aewm
+Name=AEWM
+Comment=An Exiguous Window Manager
+
+[Window Manager]
+SessionManaged=false
+StartupNotification=false
