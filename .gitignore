@@ -4,6 +4,8 @@ _install/
 aclocal.m4
 autom4te.cache/
 configure
+configure.ac
+ChangeLog
 scripts/
 *.log
 *.swp
