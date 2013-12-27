@@ -1,5 +1,4 @@
 
-ACLOCAL_AMFLAGS = -I m4
 AUTOMAKE_OPTIONS = nostdinc
 
 dist_appl_DATA = \
