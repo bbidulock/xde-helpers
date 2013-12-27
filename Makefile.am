@@ -130,6 +130,7 @@ dist_sess_DATA = \
 	src/xsessions/spectrwm.desktop \
 	src/xsessions/ssh.desktop \
 	src/xsessions/twm.desktop \
+	src/xsessions/uwm.desktop \
 	src/xsessions/waimea.desktop \
 	src/xsessions/wind.desktop \
 	src/xsessions/wmaker.desktop \
