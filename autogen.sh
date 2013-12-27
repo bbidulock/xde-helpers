@@ -14,7 +14,7 @@ if [ -z "$VERSION" ]; then
 fi
 
 sed -r -e "s:[[](xde-[^]]*)[]],[[][^]]*[]]:[\1],[$VERSION]:
-	   s:AC_REVISION([[][^]]*[]]):AC_REVISION([$VERSION]):" \
+	   s:AC_REVISION\([[][^]]*[]]\):AC_REVISION([$VERSION]):" \
 	  configure.template >configure.ac
 
 autoreconf -fiv
