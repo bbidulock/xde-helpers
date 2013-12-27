@@ -1,11 +1,11 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=Jwm
-Comment=Minimalistic pure X11 window manager with menu/tray support
-Exec=jwm
+Name=μwm
+Comment=Micro (μ) Window Manger
+Exec=uwm
 Terminal=false
 Type=XSession
-Icon=archlinux-wm-jwm
+Icon=uwm16x16
 
 [Window Manager]
 SessionManaged=false
