@@ -100,9 +100,20 @@ dist_appl_DATA = \
 	src/applications/xwud.desktop
 
 dist_sess_DATA = \
+	src/xsessions/2bwm.desktop \
+	src/xsessions/aewm.desktop \
 	src/xsessions/AfterStep.desktop \
 	src/xsessions/blackbox.desktop \
+	src/xsessions/ctwm.desktop \
+	src/xsessions/e16-gnome2-session.desktop \
+	src/xsessions/e16-gnome3-session.desktop \
+	src/xsessions/e16-kde-session.desktop \
+	src/xsessions/e16-session.desktop \
+	src/xsessions/ede.desktop \
+	src/xsessions/evilwm.desktop \
+	src/xsessions/failsafewm.desktop \
 	src/xsessions/fluxbox.desktop \
+	src/xsessions/flwm.desktop \
 	src/xsessions/Fvwm1.desktop \
 	src/xsessions/fvwm-crystal.desktop \
 	src/xsessions/Fvwm.desktop \
@@ -111,15 +122,21 @@ dist_sess_DATA = \
 	src/xsessions/icewm-session.desktop \
 	src/xsessions/Jwm.desktop \
 	src/xsessions/LXDE.desktop \
+	src/xsessions/metacity.desktop \
+	src/xsessions/mwm.desktop \
 	src/xsessions/openbox.desktop \
 	src/xsessions/openbox-gnome.desktop \
 	src/xsessions/openbox-kde.desktop \
 	src/xsessions/pekwm.desktop \
+	src/xsessions/spectrwm.desktop \
 	src/xsessions/ssh.desktop \
 	src/xsessions/twm.desktop \
+	src/xsessions/waimea.desktop \
+	src/xsessions/wind.desktop \
 	src/xsessions/wmaker.desktop \
 	src/xsessions/wmii.desktop \
-	src/xsessions/xfce.desktop
+	src/xsessions/xfce.desktop \
+	src/xsessions/yeahwm.desktop
 
 dist_auto_DATA = \
 	src/autostart/bbrun.desktop \
