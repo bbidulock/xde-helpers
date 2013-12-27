@@ -1,5 +1,4 @@
 [Desktop Entry]
-Type=Application
 Encoding=UTF-8
 Name=Disk Usage Analyzer
 Name[af]=Analiseerder vir skyfgebruik
@@ -139,10 +138,10 @@ Comment[vi]=Kiểm tra kích cỡ thư mục và chỗ rảnh trên đĩa
 Comment[zh_CN]=检查文件夹大小和可用磁盘空间
 Comment[zh_HK]=檢查資料夾大小與可用的磁碟空間
 Comment[zh_TW]=檢查資料夾大小與可用的磁碟空間
-TryExec=baobab
 Exec=baobab
 Icon=baobab
 Terminal=false
+Type=Application
 StartupNotify=true
 Categories=GTK;GNOME;System;Filesystem;X-MandrivaLinux-System-FileTools;
 NotShowIn=KDE;

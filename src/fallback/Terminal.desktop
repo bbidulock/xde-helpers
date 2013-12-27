@@ -150,5 +150,3 @@ Terminal=false
 Type=Application
 Categories=GTK;System;TerminalEmulator;Utility;
 StartupNotify=true
-
-# vi:set encoding=UTF-8:

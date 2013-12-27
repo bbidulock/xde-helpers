@@ -182,7 +182,6 @@ Comment[xh]=Yakha uze ulungise uvimba
 Comment[zh_CN]=创建并修改归档文件
 Comment[zh_HK]=建立及更改壓縮檔
 Comment[zh_TW]=建立及更改壓縮檔
-TryExec=file-roller
 Exec=file-roller %U
 StartupNotify=true
 Terminal=false

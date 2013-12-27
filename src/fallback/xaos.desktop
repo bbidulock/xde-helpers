@@ -1,10 +1,16 @@
 [Desktop Entry]
+X-AppInstall-Package=xaos
+X-AppInstall-Popcon=128
+X-AppInstall-Section=main
+
 Version=1.0
 Name=XaoS
+Comment=Fractal Generator
 GenericName=XaoS Fractal Explorer
 Type=Application
 Exec=xaos
 Icon=xaos
 Terminal=false
-StartupNotify=false
-Categories=Game;
+X-MultipleArgs=false
+Categories=Application;Graphics;
+StartupNotify=true

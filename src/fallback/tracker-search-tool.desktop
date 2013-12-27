@@ -71,5 +71,5 @@ StartupNotify=true
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=tracker
 X-GNOME-Bugzilla-Component=Tracker Search Tool
-X-GNOME-Bugzilla-Version=0.8.13
+X-GNOME-Bugzilla-Version=0.8.17
 

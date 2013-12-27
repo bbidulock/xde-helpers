@@ -48,11 +48,9 @@ GenericName[pt_BR]=Mídias e Unidades Removíveis
 GenericName[uk]=Переносні Пристрої і Медіа
 GenericName[ur]=قابلِ فصل ڈرئیوز اور میڈیا
 GenericName[zh_TW]=可移除裝置與媒體
-Exec=/usr/libexec/thunar-volman-settings
+Exec=/usr/lib/thunar-volman/thunar-volman-settings
 Icon=gnome-dev-removable
 Terminal=false
 StartupNotify=true
 Type=Application
 Categories=X-XFCE;Settings;DesktopSettings;
-
-# vi:set encoding=UTF-8:

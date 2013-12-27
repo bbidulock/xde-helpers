@@ -215,7 +215,6 @@ Comment[zh_TW]=透過 BitTorrent 協定來下載和分享檔案
 Exec=transmission %F
 Icon=transmission
 Terminal=false
-TryExec=transmission
 Type=Application
 MimeType=application/x-bittorrent;
 Categories=Network;FileTransfer;P2P;GTK;

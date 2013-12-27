@@ -1,5 +1,7 @@
-
 [Desktop Entry]
+X-AppInstall-Package=scribus
+X-AppInstall-Section=main
+
 Name=Scribus
 Type=Application
 Icon=scribus
@@ -91,15 +93,12 @@ GenericName[xh]=Upapasho lwe Desktop
 GenericName[zh_CN]=桌面出版
 GenericName[zh_TW]=桌面出版
 GenericName[zu]=Ukushicilelwa kwe-Desktop
-TryExec=scribus
 Exec=scribus %f
 Terminal=false
+X-StandardInstall=false
 MimeType=application/vnd.scribus;
 Categories=Qt;Publishing;X-MandrivaLinux-CrossDesktop;Office;
 StartupWMClass=scribus
-StartupNotify=false
-X-AppInstall-Package=scribus
-X-AppInstall-Section=main
 X-KDE-SubstituteUID=false
 X-KDE-Username=
 X-Desktop-File-Install-Version=0.18

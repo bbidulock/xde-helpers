@@ -142,7 +142,6 @@ Type=Application
 Categories=Graphics;VectorGraphics;GTK;X-MandrivaLinux-CrossDesktop;
 MimeType=image/svg+xml;image/svg+xml-compressed;
 Exec=inkscape %F
-TryExec=inkscape
 Terminal=false
 StartupNotify=true
 Icon=inkscape

@@ -142,11 +142,9 @@ GenericName[ur]=بلک رینیم
 GenericName[ur_PK]=بلک رینیم
 GenericName[zh_CN]=批量重命名
 GenericName[zh_TW]=批次重新命名
-Exec=/usr/libexec/ThunarBulkRename %F
+Exec=/usr/lib/thunar/ThunarBulkRename %F
 Icon=Thunar
 Terminal=false
 StartupNotify=true
 Type=Application
 Categories=Application;System;Utility;Core;GTK;Filesystem;
-
-# vi:set encoding=UTF-8:

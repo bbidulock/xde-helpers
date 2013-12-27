@@ -2,7 +2,6 @@
 Encoding=UTF-8
 Name=Zenmap
 GenericName=GUI Port Scanner
-TryExec=zenmap
 Exec=zenmap %F
 Terminal=false
 Icon=/usr/share/zenmap/pixmaps/zenmap.png

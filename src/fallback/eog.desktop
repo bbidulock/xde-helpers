@@ -168,7 +168,6 @@ Comment[vi]=Duyệt và xoay ảnh
 Comment[zh_CN]=浏览及旋转图像
 Comment[zh_HK]=瀏覽及更改圖片的方向
 Comment[zh_TW]=瀏覽及更改圖片的方向
-TryExec=eog
 Exec=eog %U
 Icon=eog
 StartupNotify=true

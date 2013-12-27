@@ -1,7 +1,7 @@
-
 [Desktop Entry]
+Version=1.0
 Name=Sysprof
-Comment=a sampling CPU profiler
+Comment=A sampling CPU profiler
 Exec=sysprof
 Icon=sysprof-icon
 StartupNotify=true

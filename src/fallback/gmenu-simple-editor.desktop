@@ -104,3 +104,4 @@ NoDisplay=true
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=gnome-menus
 X-GNOME-Bugzilla-Component=general
+Categories=Application;Other

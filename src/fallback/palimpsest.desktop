@@ -115,5 +115,4 @@ Type=Application
 StartupNotify=true
 X-GNOME-DocPath=palimpsest/palimpsest.xml
 Categories=GNOME;GTK;System;
-
 X-Desktop-File-Install-Version=0.15
