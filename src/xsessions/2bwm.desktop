@@ -4,3 +4,4 @@ Name=2bwm
 Comment=2bwm - A fast floating and keyboard driven window manager
 Exec=2bwm
 Type=XSession
+Icon=2bWM

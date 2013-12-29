@@ -1,3 +1,7 @@
+xde-helpers -- NEWS file.  2013-12-29
+
+History of major user-visible changes:
+======================================
 
 Major changes for release 1.0.2:
 --------------------------------
@@ -14,3 +18,4 @@ Major changes for release 1.0:
 
 Initial release of this package.
 
+# vim: set ft=asciidoc tw=72 nocin nosi fo+=tcqlorn:
