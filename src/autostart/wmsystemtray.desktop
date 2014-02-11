@@ -6,7 +6,7 @@ GenericName=System Tray
 Comment=Provide a system tray in the WM dock
 Icon=GNUstep3D
 #only necessary in WMs that do not have a systray
-OnlyShowIn=BLACKBOX;WMAKER;PEKWM;
+OnlyShowIn=BLACKBOX;WMAKER;PEKWM;ADWM;
 Exec=wmsystemtray -s
 TryExec=wmsystemtray
 Terminal=false
