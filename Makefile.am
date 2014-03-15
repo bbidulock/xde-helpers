@@ -12,6 +12,7 @@ dist_appl_DATA = \
 	src/applications/blackbox.desktop \
 	src/applications/bubblemon.desktop \
 	src/applications/calculator.desktop \
+	src/applications/cbatticon.desktop \
 	src/applications/conky.desktop \
 	src/applications/dhcpcd-gtk.desktop \
 	src/applications/docker.desktop \
@@ -140,6 +141,7 @@ dist_sess_DATA = \
 
 dist_auto_DATA = \
 	src/autostart/bbrun.desktop \
+	src/autostart/cbatticon.desktop \
 	src/autostart/compton.desktop \
 	src/autostart/compton-fluxbox.desktop \
 	src/autostart/dhcpcd-gtk.desktop \
