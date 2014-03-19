@@ -1,11 +1,11 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=Jwm
-Comment=Minimalistic pure X11 window manager with menu/tray support
-Exec=jwm
+Name=echinus
+Comment=Simple and lightweight tiling and floating window manager for X11
+Exec=echinus
 Terminal=false
 Type=XSession
-Icon=jwm
+Icon=echinus
 
 [Window Manager]
 SessionManaged=false

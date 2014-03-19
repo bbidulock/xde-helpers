@@ -1,10 +1,11 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=Openbox
-Comment=Log in using the Openbox window manager
-Exec=openbox-session
+Name=adwm
+Comment=An advanced dynamic window manager for X
+Exec=adwm
+Terminal=false
 Type=XSession
-Icon=openbox
+Icon=adwm
 
 [Window Manager]
 SessionManaged=false

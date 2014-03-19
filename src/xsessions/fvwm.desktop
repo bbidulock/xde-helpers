@@ -4,8 +4,6 @@ Name=FVWM
 Comment=The fvwm window manager
 Type=XSession
 Exec=fvwm
-TryExec=fvwm
-Terminal=false
 Icon=fvwm
 
 [Window Manager]

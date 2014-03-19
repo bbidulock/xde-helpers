@@ -1,10 +1,11 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=Openbox
-Comment=Log in using the Openbox window manager
-Exec=openbox-session
+Name=pawm
+Comment=Puto Amo window manager
+Exec=pawm
+Terminal=false
 Type=XSession
-Icon=openbox
+Icon=pawm
 
 [Window Manager]
 SessionManaged=false
