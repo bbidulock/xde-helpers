@@ -1,0 +1,6 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=bspwm
+Comment=A tiling window manager base on binary space partitioning
+Exec=bspwm
+Type=XSession

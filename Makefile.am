@@ -104,6 +104,7 @@ dist_sess_DATA = \
 	src/xsessions/aewm.desktop \
 	src/xsessions/AfterStep.desktop \
 	src/xsessions/blackbox.desktop \
+	src/xsessions/bspwm.desktop \
 	src/xsessions/ctwm.desktop \
 	src/xsessions/e16-gnome2-session.desktop \
 	src/xsessions/e16-gnome3-session.desktop \
