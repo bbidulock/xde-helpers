@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Alarm Clock Dock App
+GenericName=Clock
+Comment=Alarm clock dock app
+Icon=GNUstep3D
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;
+Exec=wmclockmon
+TryExec=wmclockmon
+Terminal=false
+Categories=DockApp;WMAKER;
+StartupNotify=false

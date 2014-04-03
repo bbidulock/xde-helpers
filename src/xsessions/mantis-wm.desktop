@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=mantis-wm
+Comment=Lightweight window manager for X
+Exec=mantis-wm
+Type=XSession
+NoDisplay=true

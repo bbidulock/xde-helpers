@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Blob Dock App
+GenericName=Game
+Comment=Show blobs moving around
+Icon=GNUstep3D
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;
+Exec=wmblob
+TryExec=wmblob
+Terminal=false
+Categories=DockApp;WMAKER;
+StartupNotify=false
