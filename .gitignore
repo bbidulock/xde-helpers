@@ -1,4 +1,6 @@
 Makefile.in
+Makefile
+config.status
 _build/
 _install/
 aclocal.m4
@@ -10,3 +12,4 @@ scripts/
 *.log
 *.swp
 *.swo
+INSTALL
