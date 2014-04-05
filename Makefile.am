@@ -795,7 +795,6 @@ dist_back_DATA = \
 	src/fallback/time-admin.desktop \
 	src/fallback/time.desktop \
 	src/fallback/tkwish8.4.desktop \
-	src/fallback/tmp.log \
 	src/fallback/tomboy.desktop \
 	src/fallback/top.desktop \
 	src/fallback/totem.desktop \
