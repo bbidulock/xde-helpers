@@ -62,6 +62,6 @@ Name[vi]=wmtemp
 Name[wo]=wmtemp
 Name[zh_CN]=wmtemp
 Name[zh_TW]=wmtemp
-Exec=/usr/bin/wmtemp
+Exec=wmtemp
 Terminal=false
 Categories=X-Debian-Applications-System-Monitoring;

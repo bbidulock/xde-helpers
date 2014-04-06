@@ -63,6 +63,6 @@ Name[wo]=Network Admin
 Name[zh_CN]=Network Admin
 Name[zh_TW]=Network Admin
 Icon=/usr/share/gnome-system-tools/pixmaps/network.xpm
-Exec=/usr/bin/network-admin
+Exec=network-admin
 Terminal=false
 Categories=X-Debian-Applications-System-Administration;

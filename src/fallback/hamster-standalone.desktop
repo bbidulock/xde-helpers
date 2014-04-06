@@ -155,5 +155,5 @@ Comment[zh_CN]=Hamster 桌面时间跟踪项目
 Comment[zh_HK]=Project Hamster 桌面時間追蹤
 Comment[zh_TW]=Project Hamster 桌面時間追蹤
 Icon=hamster-applet
-Exec=/usr/bin/gnome-time-tracker
+Exec=gnome-time-tracker
 Categories=GNOME;GTK;Utility;

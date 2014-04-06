@@ -62,6 +62,6 @@ Name[vi]=Dasher text entry
 Name[wo]=Dasher text entry
 Name[zh_CN]=Dasher text entry
 Name[zh_TW]=Dasher text entry
-Exec=/usr/bin/dasher
+Exec=dasher
 Terminal=false
 Categories=X-Debian-Applications-Accessibility;

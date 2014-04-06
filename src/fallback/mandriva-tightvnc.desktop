@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Tightvnc
 Comment=Remote graphical access
-Exec=/usr/bin/vncviewer
+Exec=vncviewer
 Icon=tightvnc
 Terminal=true
 Type=Application

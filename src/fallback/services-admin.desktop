@@ -63,6 +63,6 @@ Name[wo]=Services Admin
 Name[zh_CN]=Services Admin
 Name[zh_TW]=Services Admin
 Icon=/usr/share/gnome-system-tools/pixmaps/services.xpm
-Exec=/usr/bin/services-admin
+Exec=services-admin
 Terminal=false
 Categories=X-Debian-Applications-System-Administration;

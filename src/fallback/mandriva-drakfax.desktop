@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Fax configuration
 Comment=A client and server fax configuration tool
-Exec=/usr/bin/drakfax
+Exec=drakfax
 Icon=drakfax
 Type=Application
 Categories=GTK;Settings;

@@ -123,6 +123,6 @@ Comment[vi]=WMrack CD Player + Mixer
 Comment[wo]=WMrack CD Player + Mixer
 Comment[zh_CN]=WMrack CD Player + Mixer
 Comment[zh_TW]=WMrack CD Player + Mixer
-Exec=/usr/bin/wmrack -w
+Exec=wmrack -w
 Terminal=false
 Categories=X-Debian-Applications-Sound;

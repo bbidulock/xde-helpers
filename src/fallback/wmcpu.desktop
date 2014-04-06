@@ -62,6 +62,6 @@ Name[vi]=wmCPU
 Name[wo]=wmCPU
 Name[zh_CN]=wmCPU
 Name[zh_TW]=wmCPU
-Exec=/usr/bin/wmcpu
+Exec=wmcpu
 Terminal=false
 Categories=X-Debian-Applications-System-Monitoring;

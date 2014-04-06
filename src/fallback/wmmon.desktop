@@ -62,6 +62,6 @@ Name[vi]=WMmon
 Name[wo]=WMmon
 Name[zh_CN]=WMmon
 Name[zh_TW]=WMmon
-Exec=/usr/bin/wmmon
+Exec=wmmon
 Terminal=false
 Categories=X-Debian-Applications-System;

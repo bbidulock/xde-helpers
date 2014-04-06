@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Menu Style Configuration
 Comment=Menu Style Configuration
-Exec=/usr/bin/drakmenustyle
+Exec=drakmenustyle
 Icon=drakmenustyle
 Terminal=false
 Type=Application

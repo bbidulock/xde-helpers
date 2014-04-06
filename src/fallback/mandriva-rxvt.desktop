@@ -3,5 +3,5 @@ Type=Application
 Categories=X-MandrivaLinux-System-Terminals;TerminalEmulator;
 Name=RXvt
 Comment=A version of the rxvt terminal with support for Traditional Chinese, Simplified Chinese, Japanese and Korean.
-Exec=/usr/bin/rxvt
+Exec=rxvt
 Icon=rxvt-CLE

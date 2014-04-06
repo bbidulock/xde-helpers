@@ -63,6 +63,6 @@ Name[wo]=Python (v2.6)
 Name[zh_CN]=Python (v2.6)
 Name[zh_TW]=Python (v2.6)
 Icon=/usr/share/pixmaps/python2.6.xpm
-Exec=/usr/bin/python2.6
+Exec=python2.6
 Terminal=true
 Categories=X-Debian-Applications-Programming;

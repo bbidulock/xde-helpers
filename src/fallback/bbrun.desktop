@@ -63,6 +63,6 @@ Name[wo]=bbrun
 Name[zh_CN]=bbrun
 Name[zh_TW]=bbrun
 Icon=/usr/share/pixmaps/bbrun.xpm
-Exec=/usr/bin/bbrun
+Exec=bbrun
 Terminal=false
 Categories=X-Debian-Applications-System-Administration;

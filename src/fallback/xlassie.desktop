@@ -62,6 +62,6 @@ Name[vi]=xlassie
 Name[wo]=xlassie
 Name[zh_CN]=xlassie
 Name[zh_TW]=xlassie
-Exec=/usr/bin/xlassie
+Exec=xlassie
 Terminal=false
 Categories=X-Debian-Applications-Network-Communication;

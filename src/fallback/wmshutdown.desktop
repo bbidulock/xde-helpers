@@ -62,6 +62,6 @@ Name[vi]=wmshutdown
 Name[wo]=wmshutdown
 Name[zh_CN]=wmshutdown
 Name[zh_TW]=wmshutdown
-Exec=/usr/bin/wmshutdown
+Exec=wmshutdown
 Terminal=false
 Categories=X-Debian-Applications-System-Administration;

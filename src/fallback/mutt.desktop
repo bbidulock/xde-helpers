@@ -63,6 +63,6 @@ Name[wo]=Mutt
 Name[zh_CN]=Mutt
 Name[zh_TW]=Mutt
 Icon=/usr/share/pixmaps/mutt.xpm
-Exec=/usr/bin/mutt
+Exec=mutt
 Terminal=true
 Categories=X-Debian-Applications-Network-Communication;

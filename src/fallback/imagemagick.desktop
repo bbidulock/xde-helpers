@@ -63,6 +63,6 @@ Name[wo]=ImageMagick
 Name[zh_CN]=ImageMagick
 Name[zh_TW]=ImageMagick
 Icon=/usr/share/pixmaps/display.xpm
-Exec=/usr/bin/display logo:
+Exec=display logo:
 Terminal=false
 Categories=X-Debian-Applications-Graphics;

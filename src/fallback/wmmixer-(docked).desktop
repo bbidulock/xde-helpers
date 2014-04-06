@@ -62,6 +62,6 @@ Name[vi]=WMMixer (Docked)
 Name[wo]=WMMixer (Docked)
 Name[zh_CN]=WMMixer (Docked)
 Name[zh_TW]=WMMixer (Docked)
-Exec=/usr/bin/wmmixer -w
+Exec=wmmixer -w
 Terminal=false
 Categories=X-Debian-Applications-Sound;

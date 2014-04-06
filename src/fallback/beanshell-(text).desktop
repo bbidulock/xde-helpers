@@ -62,6 +62,6 @@ Name[vi]=BeanShell (text)
 Name[wo]=BeanShell (text)
 Name[zh_CN]=BeanShell (text)
 Name[zh_TW]=BeanShell (text)
-Exec=/usr/bin/bsh
+Exec=bsh
 Terminal=true
 Categories=X-Debian-Applications-Programming;

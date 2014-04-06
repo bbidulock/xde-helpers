@@ -63,6 +63,6 @@ Name[wo]=Time Admin
 Name[zh_CN]=Time Admin
 Name[zh_TW]=Time Admin
 Icon=/usr/share/gnome-system-tools/pixmaps/time.xpm
-Exec=/usr/bin/time-admin
+Exec=time-admin
 Terminal=false
 Categories=X-Debian-Applications-System-Administration;

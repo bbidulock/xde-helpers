@@ -62,6 +62,6 @@ Name[vi]=Twisted SSH Client
 Name[wo]=Twisted SSH Client
 Name[zh_CN]=Twisted SSH Client
 Name[zh_TW]=Twisted SSH Client
-Exec=/usr/bin/tkconch
+Exec=tkconch
 Terminal=false
 Categories=X-Debian-Applications-Network-Communication;

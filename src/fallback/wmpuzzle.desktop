@@ -62,6 +62,6 @@ Name[vi]=wmpuzzle
 Name[wo]=wmpuzzle
 Name[zh_CN]=wmpuzzle
 Name[zh_TW]=wmpuzzle
-Exec=/usr/games/wmpuzzle
+Exec=wmpuzzle
 Terminal=false
 Categories=X-Debian-Games-Puzzles;

@@ -63,6 +63,6 @@ Name[wo]=Pstree
 Name[zh_CN]=Pstree
 Name[zh_TW]=Pstree
 Icon=/usr/share/pixmaps/pstree16.xpm
-Exec=/usr/bin/pstree.x11
+Exec=pstree.x11
 Terminal=true
 Categories=X-Debian-Applications-System-Monitoring;

@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Epson Inkjet Printer Manager
 Comment=Alignment, ink level, cartridge maintenance
-Exec=/usr/bin/mtink
+Exec=mtink
 Icon=epson
 Terminal=false
 Type=Application

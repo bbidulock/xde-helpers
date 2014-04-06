@@ -124,6 +124,6 @@ Comment[wo]=View many different types of images
 Comment[zh_CN]=View many different types of images
 Comment[zh_TW]=View many different types of images
 Icon=/usr/share/pixmaps/gnome-eog.xpm
-Exec=/usr/bin/eog
+Exec=eog
 Terminal=false
 Categories=X-Debian-Applications-Viewers;

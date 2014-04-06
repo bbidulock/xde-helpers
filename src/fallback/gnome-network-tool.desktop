@@ -124,6 +124,6 @@ Comment[wo]=Network Information Tools
 Comment[zh_CN]=Network Information Tools
 Comment[zh_TW]=Network Information Tools
 Icon=/usr/share/pixmaps/gnome-nettool.xpm
-Exec=/usr/bin/gnome-nettool
+Exec=gnome-nettool
 Terminal=false
 Categories=X-Debian-Applications-System-Administration;

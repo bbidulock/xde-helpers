@@ -2,6 +2,6 @@
 Type=Application
 Encoding=UTF-8
 Name=wmITime
-Exec=/usr/bin/wmitime
+Exec=wmitime
 Terminal=false
 Categories=Utility;Clock

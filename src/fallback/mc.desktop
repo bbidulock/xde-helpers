@@ -124,6 +124,6 @@ Comment[wo]=Midnight Commander
 Comment[zh_CN]=Midnight Commander
 Comment[zh_TW]=Midnight Commander
 Icon=/usr/share/pixmaps/mc.xpm
-Exec=/usr/bin/mc
+Exec=mc
 Terminal=true
 Categories=X-Debian-Applications-File-Management;

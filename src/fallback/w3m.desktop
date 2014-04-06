@@ -62,6 +62,6 @@ Name[vi]=w3m
 Name[wo]=w3m
 Name[zh_CN]=w3m
 Name[zh_TW]=w3m
-Exec=/usr/bin/w3m /usr/share/doc/w3m/MANUAL.html
+Exec=w3m /usr/share/doc/w3m/MANUAL.html
 Terminal=true
 Categories=X-Debian-Applications-Network-Web-Browsing;

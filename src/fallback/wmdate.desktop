@@ -62,6 +62,6 @@ Name[vi]=wmDate
 Name[wo]=wmDate
 Name[zh_CN]=wmDate
 Name[zh_TW]=wmDate
-Exec=/usr/bin/wmdate
+Exec=wmdate
 Terminal=false
 Categories=X-Debian-Applications-System-Monitoring;

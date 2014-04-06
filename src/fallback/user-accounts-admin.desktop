@@ -63,6 +63,6 @@ Name[wo]=User accounts Admin
 Name[zh_CN]=User accounts Admin
 Name[zh_TW]=User accounts Admin
 Icon=/usr/share/gnome-system-tools/pixmaps/users.xpm
-Exec=/usr/bin/users-admin
+Exec=users-admin
 Terminal=false
 Categories=X-Debian-Applications-System-Administration;

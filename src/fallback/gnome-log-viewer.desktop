@@ -63,6 +63,6 @@ Name[wo]=GNOME Log Viewer
 Name[zh_CN]=GNOME Log Viewer
 Name[zh_TW]=GNOME Log Viewer
 Icon=/usr/share/pixmaps/gnome-system-log.xpm
-Exec=/usr/bin/gnome-system-log
+Exec=gnome-system-log
 Terminal=false
 Categories=X-Debian-Applications-System-Monitoring;

@@ -62,6 +62,6 @@ Name[vi]=wmsensors
 Name[wo]=wmsensors
 Name[zh_CN]=wmsensors
 Name[zh_TW]=wmsensors
-Exec=/usr/bin/wmsensors
+Exec=wmsensors
 Terminal=false
 Categories=X-Debian-Applications-System-Monitoring;

@@ -62,6 +62,6 @@ Name[vi]=XfreeCD
 Name[wo]=XfreeCD
 Name[zh_CN]=XfreeCD
 Name[zh_TW]=XfreeCD
-Exec=/usr/bin/xfreecd
+Exec=xfreecd
 Terminal=false
 Categories=X-Debian-Applications-Sound;

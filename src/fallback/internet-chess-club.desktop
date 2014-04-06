@@ -62,6 +62,6 @@ Name[vi]=Internet Chess Club
 Name[wo]=Internet Chess Club
 Name[zh_CN]=Internet Chess Club
 Name[zh_TW]=Internet Chess Club
-Exec=/usr/games/xboard -ics -icshost chessclub.com
+Exec=xboard -ics -icshost chessclub.com
 Terminal=true
 Categories=X-Debian-Games-Board;

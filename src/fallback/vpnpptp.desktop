@@ -8,6 +8,7 @@ GenericName[uk]=Налаштування з’єднання VPN PPTP/L2TP/OpenL
 Name=vpnpptp
 Name[ru]=vpnpptp
 Name[uk]=vpnpptp
+TryExec=vpnpptp
 Exec=gksu -u root -l /usr/bin/vpnpptp
 Comment=Setup VPN via PPTP/L2TP/OpenL2TP
 Comment[ru]=Настройка соединения VPN PPTP/L2TP/OpenL2TP

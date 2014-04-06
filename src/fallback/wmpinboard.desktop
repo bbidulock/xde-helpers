@@ -62,6 +62,6 @@ Name[vi]=wmPinboard
 Name[wo]=wmPinboard
 Name[zh_CN]=wmPinboard
 Name[zh_TW]=wmPinboard
-Exec=/usr/bin/wmpinboard
+Exec=wmpinboard
 Terminal=false
 Categories=X-Debian-Applications-Tools;

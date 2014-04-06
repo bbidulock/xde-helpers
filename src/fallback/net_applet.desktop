@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=NetApplet
 Comment=Network monitoring applet
-Exec=/usr/bin/net_applet --force
+Exec=net_applet --force
 Icon=/usr/share/libDrakX/pixmaps/connected.png
 Type=Application
 Categories=GTK;System;Monitor;X-MandrivaLinux-CrossDesktop;

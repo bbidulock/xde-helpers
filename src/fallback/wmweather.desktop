@@ -62,6 +62,6 @@ Name[vi]=wmweather
 Name[wo]=wmweather
 Name[zh_CN]=wmweather
 Name[zh_TW]=wmweather
-Exec=/usr/bin/wmweather
+Exec=wmweather
 Terminal=false
 Categories=X-Debian-Applications-Science-Geoscience;

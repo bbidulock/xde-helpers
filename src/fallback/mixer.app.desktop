@@ -62,6 +62,6 @@ Name[vi]=Mixer.app
 Name[wo]=Mixer.app
 Name[zh_CN]=Mixer.app
 Name[zh_TW]=Mixer.app
-Exec=/usr/bin/Mixer.app
+Exec=Mixer.app
 Terminal=false
 Categories=X-Debian-Applications-Sound;

@@ -124,6 +124,6 @@ Comment[wo]=Audacious Media Player
 Comment[zh_CN]=Audacious Media Player
 Comment[zh_TW]=Audacious Media Player
 Icon=/usr/share/pixmaps/audacious-32.xpm
-Exec=/usr/bin/audacious2
+Exec=audacious2
 Terminal=false
 Categories=X-Debian-Applications-Sound;

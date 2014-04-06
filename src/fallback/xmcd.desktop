@@ -63,6 +63,6 @@ Name[wo]=Xmcd
 Name[zh_CN]=Xmcd
 Name[zh_TW]=Xmcd
 Icon=/usr/share/xmcd/pixmaps/xmcd_small.xpm
-Exec=/usr/bin/xmcd
+Exec=xmcd
 Terminal=false
 Categories=X-Debian-Applications-Sound;

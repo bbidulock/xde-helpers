@@ -62,6 +62,6 @@ Name[vi]=Dc
 Name[wo]=Dc
 Name[zh_CN]=Dc
 Name[zh_TW]=Dc
-Exec=/usr/bin/dc
+Exec=dc
 Terminal=true
 Categories=X-Debian-Applications-Science-Mathematics;

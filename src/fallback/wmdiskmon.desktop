@@ -62,6 +62,6 @@ Name[vi]=wmdiskmon
 Name[wo]=wmdiskmon
 Name[zh_CN]=wmdiskmon
 Name[zh_TW]=wmdiskmon
-Exec=/usr/bin/wmdiskmon
+Exec=wmdiskmon
 Terminal=false
 Categories=X-Debian-Applications-System-Monitoring;

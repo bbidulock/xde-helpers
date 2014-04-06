@@ -123,6 +123,6 @@ Comment[vi]=Terminal-based software package manager
 Comment[wo]=Terminal-based software package manager
 Comment[zh_CN]=Terminal-based software package manager
 Comment[zh_TW]=Terminal-based software package manager
-Exec=/usr/bin/aptitude-curses
+Exec=aptitude-curses
 Terminal=true
 Categories=X-Debian-Applications-System-Administration;

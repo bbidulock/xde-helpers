@@ -63,6 +63,6 @@ Name[wo]=wmMatrix
 Name[zh_CN]=wmMatrix
 Name[zh_TW]=wmMatrix
 Icon=/usr/share/icons/mini/wmMatrix.xpm
-Exec=/usr/bin/wmmatrix
+Exec=wmmatrix
 Terminal=false
 Categories=X-Debian-Games-Toys;

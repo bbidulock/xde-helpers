@@ -62,6 +62,6 @@ Name[vi]=wmcalclock
 Name[wo]=wmcalclock
 Name[zh_CN]=wmcalclock
 Name[zh_TW]=wmcalclock
-Exec=/usr/bin/wmCalClock
+Exec=wmCalClock
 Terminal=false
 Categories=X-Debian-Applications-System-Administration;

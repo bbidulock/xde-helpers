@@ -62,6 +62,6 @@ Name[vi]=Tclsh8.4
 Name[wo]=Tclsh8.4
 Name[zh_CN]=Tclsh8.4
 Name[zh_TW]=Tclsh8.4
-Exec=/usr/bin/tclsh8.4
+Exec=tclsh8.4
 Terminal=true
 Categories=X-Debian-Applications-Programming;

@@ -62,6 +62,6 @@ Name[vi]=Character map
 Name[wo]=Character map
 Name[zh_CN]=Character map
 Name[zh_TW]=Character map
-Exec=/usr/bin/gucharmap
+Exec=gucharmap
 Terminal=false
 Categories=X-Debian-Applications-Text;

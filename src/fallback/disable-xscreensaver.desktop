@@ -62,6 +62,6 @@ Name[vi]=Disable XScreenSaver
 Name[wo]=Disable XScreenSaver
 Name[zh_CN]=Disable XScreenSaver
 Name[zh_TW]=Disable XScreenSaver
-Exec=/usr/bin/xscreensaver-command -exit
+Exec=xscreensaver-command -exit
 Terminal=false
 Categories=X-Debian-Screen-Saving;

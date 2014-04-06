@@ -63,6 +63,6 @@ Name[wo]=GL Chess
 Name[zh_CN]=GL Chess
 Name[zh_TW]=GL Chess
 Icon=/usr/share/pixmaps/glchess.xpm
-Exec=/usr/games/glchess
+Exec=glchess
 Terminal=false
 Categories=X-Debian-Games-Board;

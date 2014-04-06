@@ -62,6 +62,6 @@ Name[vi]=Telnet
 Name[wo]=Telnet
 Name[zh_CN]=Telnet
 Name[zh_TW]=Telnet
-Exec=/usr/bin/telnet
+Exec=telnet
 Terminal=true
 Categories=X-Debian-Applications-Network-Communication;

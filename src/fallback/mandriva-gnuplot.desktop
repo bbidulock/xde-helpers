@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Gnuplot
 Comment=The famous function plotting program
-Exec=/usr/bin/gnuplot
+Exec=gnuplot
 Icon=gnuplot
 Terminal=true
 Type=Application

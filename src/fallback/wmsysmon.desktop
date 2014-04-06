@@ -62,6 +62,6 @@ Name[vi]=wmsysmon
 Name[wo]=wmsysmon
 Name[zh_CN]=wmsysmon
 Name[zh_TW]=wmsysmon
-Exec=/usr/bin/wmsysmon
+Exec=wmsysmon
 Terminal=false
 Categories=X-Debian-Applications-System-Monitoring;

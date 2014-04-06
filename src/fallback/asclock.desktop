@@ -62,6 +62,6 @@ Name[vi]=ASclock
 Name[wo]=ASclock
 Name[zh_CN]=ASclock
 Name[zh_TW]=ASclock
-Exec=/usr/bin/asclock
+Exec=asclock
 Terminal=false
 Categories=X-Debian-Games-Toys;

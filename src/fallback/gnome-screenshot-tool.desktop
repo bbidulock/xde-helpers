@@ -62,6 +62,6 @@ Name[vi]=GNOME Screenshot Tool
 Name[wo]=GNOME Screenshot Tool
 Name[zh_CN]=GNOME Screenshot Tool
 Name[zh_TW]=GNOME Screenshot Tool
-Exec=/usr/bin/gnome-panel-screenshot
+Exec=gnome-panel-screenshot
 Terminal=false
 Categories=X-Debian-Applications-Graphics;

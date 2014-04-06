@@ -62,6 +62,6 @@ Name[vi]=wmbutton
 Name[wo]=wmbutton
 Name[zh_CN]=wmbutton
 Name[zh_TW]=wmbutton
-Exec=/usr/bin/wmbutton
+Exec=wmbutton
 Terminal=false
 Categories=X-Debian-Applications-Tools;

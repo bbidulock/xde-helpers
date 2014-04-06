@@ -123,6 +123,6 @@ Comment[vi]=Mailbox Monitor Dockapp
 Comment[wo]=Mailbox Monitor Dockapp
 Comment[zh_CN]=Mailbox Monitor Dockapp
 Comment[zh_TW]=Mailbox Monitor Dockapp
-Exec=/usr/bin/wmmail
+Exec=wmmail
 Terminal=false
 Categories=X-Debian-Applications-Network-Monitoring;

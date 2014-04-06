@@ -62,6 +62,6 @@ Name[vi]=TeXconfig
 Name[wo]=TeXconfig
 Name[zh_CN]=TeXconfig
 Name[zh_TW]=TeXconfig
-Exec=/usr/bin/texconfig
+Exec=texconfig
 Terminal=true
 Categories=X-Debian-Applications-System-Administration;

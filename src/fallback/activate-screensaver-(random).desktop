@@ -62,6 +62,6 @@ Name[vi]=Activate ScreenSaver (Random)
 Name[wo]=Activate ScreenSaver (Random)
 Name[zh_CN]=Activate ScreenSaver (Random)
 Name[zh_TW]=Activate ScreenSaver (Random)
-Exec=/usr/bin/xscreensaver-command -activate
+Exec=xscreensaver-command -activate
 Terminal=false
 Categories=X-Debian-Screen-Saving;

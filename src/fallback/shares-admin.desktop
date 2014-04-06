@@ -63,6 +63,6 @@ Name[wo]=Shares Admin
 Name[zh_CN]=Shares Admin
 Name[zh_TW]=Shares Admin
 Icon=/usr/share/gnome-system-tools/pixmaps/shares.xpm
-Exec=/usr/bin/shares-admin
+Exec=shares-admin
 Terminal=false
 Categories=X-Debian-Applications-System-Administration;

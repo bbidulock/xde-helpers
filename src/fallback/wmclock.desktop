@@ -62,6 +62,6 @@ Name[vi]=Wmclock
 Name[wo]=Wmclock
 Name[zh_CN]=Wmclock
 Name[zh_TW]=Wmclock
-Exec=/usr/bin/wmclock
+Exec=wmclock
 Terminal=false
 Categories=X-Debian-Applications-System-Administration;

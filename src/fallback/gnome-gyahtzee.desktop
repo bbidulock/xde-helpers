@@ -63,6 +63,6 @@ Name[wo]=Gnome GYahtzee
 Name[zh_CN]=Gnome GYahtzee
 Name[zh_TW]=Gnome GYahtzee
 Icon=/usr/share/pixmaps/gtali.xpm
-Exec=/usr/games/gtali
+Exec=gtali
 Terminal=false
 Categories=X-Debian-Games-Board;

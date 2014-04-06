@@ -62,6 +62,6 @@ Name[vi]=stalonetray
 Name[wo]=stalonetray
 Name[zh_CN]=stalonetray
 Name[zh_TW]=stalonetray
-Exec=/usr/bin/stalonetray
+Exec=stalonetray
 Terminal=false
 Categories=X-Debian-Applications-System-Administration;

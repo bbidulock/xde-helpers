@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=ROX
 Comment=File Manager of the ROX desktop environment
-Exec=/usr/bin/rox %U
+Exec=rox %U
 Icon=rox
 Terminal=false
 Type=Application

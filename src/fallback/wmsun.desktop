@@ -62,6 +62,6 @@ Name[vi]=wmSun
 Name[wo]=wmSun
 Name[zh_CN]=wmSun
 Name[zh_TW]=wmSun
-Exec=/usr/bin/wmsun
+Exec=wmsun
 Terminal=false
 Categories=X-Debian-Applications-Science-Geoscience;

@@ -62,6 +62,6 @@ Name[vi]=wmwork
 Name[wo]=wmwork
 Name[zh_CN]=wmwork
 Name[zh_TW]=wmwork
-Exec=/usr/bin/wmwork
+Exec=wmwork
 Terminal=false
 Categories=X-Debian-Applications-Project-Management;

@@ -62,6 +62,6 @@ Name[vi]=BeanShell (windowed)
 Name[wo]=BeanShell (windowed)
 Name[zh_CN]=BeanShell (windowed)
 Name[zh_TW]=BeanShell (windowed)
-Exec=/usr/bin/xbsh
+Exec=xbsh
 Terminal=false
 Categories=X-Debian-Applications-Programming;

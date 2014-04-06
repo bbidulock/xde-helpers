@@ -62,6 +62,6 @@ Name[vi]=Sh
 Name[wo]=Sh
 Name[zh_CN]=Sh
 Name[zh_TW]=Sh
-Exec=/bin/sh --login
+Exec=sh --login
 Terminal=true
 Categories=X-Debian-Applications-Shells;

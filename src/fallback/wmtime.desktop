@@ -62,6 +62,6 @@ Name[vi]=WMtime
 Name[wo]=WMtime
 Name[zh_CN]=WMtime
 Name[zh_TW]=WMtime
-Exec=/usr/bin/wmtime
+Exec=wmtime
 Terminal=false
 Categories=X-Debian-Applications-System-Monitoring;

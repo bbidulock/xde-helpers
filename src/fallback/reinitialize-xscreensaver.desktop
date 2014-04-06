@@ -62,6 +62,6 @@ Name[vi]=Reinitialize XScreenSaver
 Name[wo]=Reinitialize XScreenSaver
 Name[zh_CN]=Reinitialize XScreenSaver
 Name[zh_TW]=Reinitialize XScreenSaver
-Exec=/usr/bin/xscreensaver-command -restart
+Exec=xscreensaver-command -restart
 Terminal=false
 Categories=X-Debian-Screen-Saving;

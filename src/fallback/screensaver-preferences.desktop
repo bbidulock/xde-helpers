@@ -62,6 +62,6 @@ Name[vi]=ScreenSaver Preferences
 Name[wo]=ScreenSaver Preferences
 Name[zh_CN]=ScreenSaver Preferences
 Name[zh_TW]=ScreenSaver Preferences
-Exec=/usr/bin/xscreensaver-command -prefs
+Exec=xscreensaver-command -prefs
 Terminal=false
 Categories=X-Debian-Screen-Saving;

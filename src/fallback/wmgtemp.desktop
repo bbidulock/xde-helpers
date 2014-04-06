@@ -123,6 +123,6 @@ Comment[vi]=Temperature sensor
 Comment[wo]=Temperature sensor
 Comment[zh_CN]=Temperature sensor
 Comment[zh_TW]=Temperature sensor
-Exec=/usr/bin/wmgtemp
+Exec=wmgtemp
 Terminal=false
 Categories=X-Debian-Applications-System-Monitoring;

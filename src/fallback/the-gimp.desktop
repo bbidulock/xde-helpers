@@ -63,6 +63,6 @@ Name[wo]=The GIMP
 Name[zh_CN]=The GIMP
 Name[zh_TW]=The GIMP
 Icon=/usr/share/pixmaps/gimp.xpm
-Exec=/usr/bin/gimp
+Exec=gimp
 Terminal=false
 Categories=X-Debian-Applications-Graphics;

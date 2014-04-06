@@ -62,6 +62,6 @@ Name[vi]=WMMixer
 Name[wo]=WMMixer
 Name[zh_CN]=WMMixer
 Name[zh_TW]=WMMixer
-Exec=/usr/bin/wmmixer
+Exec=wmmixer
 Terminal=false
 Categories=X-Debian-Applications-Sound;

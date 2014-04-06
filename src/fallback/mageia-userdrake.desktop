@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=User Administration
 Comment=Add or remove users and groups
-Exec=/usr/bin/userdrake
+Exec=userdrake
 Icon=userdrake
 Type=Application
 StartupNotify=true

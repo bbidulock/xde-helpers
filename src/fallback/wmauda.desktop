@@ -62,6 +62,6 @@ Name[vi]=wmauda
 Name[wo]=wmauda
 Name[zh_CN]=wmauda
 Name[zh_TW]=wmauda
-Exec=/usr/bin/wmauda
+Exec=wmauda
 Terminal=false
 Categories=X-Debian-Applications-Sound;

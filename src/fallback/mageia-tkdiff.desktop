@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=TkDiff
 Comment=Graphical interface to diff
-Exec=/usr/bin/tkdiff
+Exec=tkdiff
 Icon=development_tools_section
 Terminal=false
 Type=Application

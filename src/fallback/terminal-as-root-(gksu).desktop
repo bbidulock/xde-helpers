@@ -124,6 +124,6 @@ Comment[wo]=Runs an X terminal application. Uses GKsu to ask the password.
 Comment[zh_CN]=Runs an X terminal application. Uses GKsu to ask the password.
 Comment[zh_TW]=Runs an X terminal application. Uses GKsu to ask the password.
 Icon=/usr/share/pixmaps/gksu-debian.xpm
-Exec=/usr/bin/gksu -u root /usr/bin/x-terminal-emulator
+Exec=gksu -u root /usr/bin/x-terminal-emulator
 Terminal=false
 Categories=X-Debian-Applications-Terminal-Emulators;

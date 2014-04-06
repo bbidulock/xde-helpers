@@ -62,6 +62,6 @@ Name[vi]=Chess Net
 Name[wo]=Chess Net
 Name[zh_CN]=Chess Net
 Name[zh_TW]=Chess Net
-Exec=/usr/games/xboard -ics -icshost chess.net
+Exec=xboard -ics -icshost chess.net
 Terminal=true
 Categories=X-Debian-Games-Board;

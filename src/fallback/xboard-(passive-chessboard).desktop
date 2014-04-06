@@ -62,6 +62,6 @@ Name[vi]=XBoard (passive chessboard)
 Name[wo]=XBoard (passive chessboard)
 Name[zh_CN]=XBoard (passive chessboard)
 Name[zh_TW]=XBoard (passive chessboard)
-Exec=/usr/games/xboard -ncp
+Exec=xboard -ncp
 Terminal=false
 Categories=X-Debian-Games-Board;

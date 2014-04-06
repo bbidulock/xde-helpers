@@ -62,6 +62,6 @@ Name[vi]=WMifs
 Name[wo]=WMifs
 Name[zh_CN]=WMifs
 Name[zh_TW]=WMifs
-Exec=/usr/bin/wmifs
+Exec=wmifs
 Terminal=false
 Categories=X-Debian-Applications-Network-Monitoring;

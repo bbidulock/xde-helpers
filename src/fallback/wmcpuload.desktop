@@ -62,6 +62,6 @@ Name[vi]=wmcpuload
 Name[wo]=wmcpuload
 Name[zh_CN]=wmcpuload
 Name[zh_TW]=wmcpuload
-Exec=/usr/bin/wmcpuload
+Exec=wmcpuload
 Terminal=false
 Categories=X-Debian-Applications-System-Monitoring;

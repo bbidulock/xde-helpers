@@ -62,6 +62,6 @@ Name[vi]=docker
 Name[wo]=docker
 Name[zh_CN]=docker
 Name[zh_TW]=docker
-Exec=/usr/bin/docker
+Exec=docker
 Terminal=false
 Categories=X-Debian-Applications-Viewers;

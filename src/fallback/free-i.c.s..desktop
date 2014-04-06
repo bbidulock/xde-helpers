@@ -62,6 +62,6 @@ Name[vi]=Free I.C.S.
 Name[wo]=Free I.C.S.
 Name[zh_CN]=Free I.C.S.
 Name[zh_TW]=Free I.C.S.
-Exec=/usr/games/xboard -ics -icshost freechess.org
+Exec=xboard -ics -icshost freechess.org
 Terminal=true
 Categories=X-Debian-Games-Board;

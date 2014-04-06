@@ -123,6 +123,6 @@ Comment[vi]=Epiphany web browser
 Comment[wo]=Epiphany web browser
 Comment[zh_CN]=Epiphany web browser
 Comment[zh_TW]=Epiphany web browser
-Exec=/usr/bin/epiphany-browser
+Exec=epiphany-browser
 Terminal=false
 Categories=X-Debian-Applications-Network-Web-Browsing;

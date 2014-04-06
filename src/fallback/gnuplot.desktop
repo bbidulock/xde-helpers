@@ -123,6 +123,6 @@ Comment[vi]=Gnuplot - interactive plotting program
 Comment[wo]=Gnuplot - interactive plotting program
 Comment[zh_CN]=Gnuplot - interactive plotting program
 Comment[zh_TW]=Gnuplot - interactive plotting program
-Exec=/usr/bin/gnuplot
+Exec=gnuplot
 Terminal=true
 Categories=X-Debian-Applications-Science-Mathematics;

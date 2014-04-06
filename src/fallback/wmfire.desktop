@@ -123,6 +123,6 @@ Comment[vi]=very cool fiery way of showing your CPU usage
 Comment[wo]=very cool fiery way of showing your CPU usage
 Comment[zh_CN]=very cool fiery way of showing your CPU usage
 Comment[zh_TW]=very cool fiery way of showing your CPU usage
-Exec=/usr/bin/wmfire
+Exec=wmfire
 Terminal=false
 Categories=X-Debian-Applications-Tools;

@@ -9,6 +9,7 @@ Name=ponoff
 Name[ru]=ponoff
 Name[uk]=ponoff
 Exec=gksu -u root -l /usr/bin/ponoff
+TryExec=ponoff
 Comment=Control VPN via PPTP/L2TP/OpenL2TP
 Comment[ru]=Управление соединением VPN через PPTP/L2TP/OpenL2TP
 Comment[uk]=Керування з'єднанням VPN через PPTP/L2TP/OpenL2TP

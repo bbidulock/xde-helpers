@@ -62,6 +62,6 @@ Name[vi]=WMppp
 Name[wo]=WMppp
 Name[zh_CN]=WMppp
 Name[zh_TW]=WMppp
-Exec=/usr/bin/wmppp
+Exec=wmppp
 Terminal=false
 Categories=X-Debian-Applications-Network;

@@ -62,6 +62,6 @@ Name[vi]=Bc
 Name[wo]=Bc
 Name[zh_CN]=Bc
 Name[zh_TW]=Bc
-Exec=/usr/bin/bc
+Exec=bc
 Terminal=true
 Categories=X-Debian-Applications-Science-Mathematics;

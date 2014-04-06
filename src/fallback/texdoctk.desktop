@@ -62,6 +62,6 @@ Name[vi]=TeXdoctk
 Name[wo]=TeXdoctk
 Name[zh_CN]=TeXdoctk
 Name[zh_TW]=TeXdoctk
-Exec=/usr/bin/texdoctk
+Exec=texdoctk
 Terminal=false
 Categories=X-Debian-Help;

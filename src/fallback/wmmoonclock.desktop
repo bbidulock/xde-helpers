@@ -62,6 +62,6 @@ Name[vi]=wmMoonClock
 Name[wo]=wmMoonClock
 Name[zh_CN]=wmMoonClock
 Name[zh_TW]=wmMoonClock
-Exec=/usr/bin/wmMoonClock
+Exec=wmMoonClock
 Terminal=false
 Categories=X-Debian-Applications-Science-Geoscience;

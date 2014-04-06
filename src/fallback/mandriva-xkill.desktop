@@ -2,7 +2,7 @@
 Encoding=UTF-8
 Name=XKill
 Comment=Kill a client by its X resource
-Exec=/usr/bin/xkill
+Exec=xkill
 Icon=xkill
 Terminal=false
 Type=Application

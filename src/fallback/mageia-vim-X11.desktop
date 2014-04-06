@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=VI editor
 Comment=All-purpose text editor
-Exec=/usr/bin/gvim -f
+Exec=gvim -f
 Icon=gvim
 Terminal=false
 Type=Application

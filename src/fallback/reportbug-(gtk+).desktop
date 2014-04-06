@@ -62,6 +62,6 @@ Name[vi]=Reportbug (GTK+)
 Name[wo]=Reportbug (GTK+)
 Name[zh_CN]=Reportbug (GTK+)
 Name[zh_TW]=Reportbug (GTK+)
-Exec=/usr/bin/reportbug --exit-prompt --ui gtk2
+Exec=reportbug --exit-prompt --ui gtk2
 Terminal=false
 Categories=X-Debian-Applications-System-Administration;

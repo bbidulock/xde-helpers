@@ -63,6 +63,6 @@ Name[wo]=grecord (GNOME 2.0 Recorder)
 Name[zh_CN]=grecord (GNOME 2.0 Recorder)
 Name[zh_TW]=grecord (GNOME 2.0 Recorder)
 Icon=/usr/share/pixmaps/gnome-grecord.xpm
-Exec=/usr/bin/gnome-sound-recorder
+Exec=gnome-sound-recorder
 Terminal=false
 Categories=X-Debian-Applications-Sound;

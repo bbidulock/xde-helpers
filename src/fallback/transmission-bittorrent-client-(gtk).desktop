@@ -63,6 +63,6 @@ Name[wo]=Transmission BitTorrent Client (GTK)
 Name[zh_CN]=Transmission BitTorrent Client (GTK)
 Name[zh_TW]=Transmission BitTorrent Client (GTK)
 Icon=/usr/share/pixmaps/transmission.xpm
-Exec=/usr/bin/transmission
+Exec=transmission
 Terminal=false
 Categories=X-Debian-Applications-Network-File-Transfer;

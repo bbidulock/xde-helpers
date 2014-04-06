@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=TkCVS
 Comment=Graphical interface to CVS and SVN
-Exec=/usr/bin/tkcvs 
+Exec=tkcvs 
 Icon=development_tools_section
 Terminal=false
 Type=Application

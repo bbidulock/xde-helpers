@@ -123,6 +123,6 @@ Comment[vi]=System resource monitor dockapp for Windowmaker and Afterstep.
 Comment[wo]=System resource monitor dockapp for Windowmaker and Afterstep.
 Comment[zh_CN]=System resource monitor dockapp for Windowmaker and Afterstep.
 Comment[zh_TW]=System resource monitor dockapp for Windowmaker and Afterstep.
-Exec=/usr/bin/asmon
+Exec=asmon
 Terminal=false
 Categories=X-Debian-Applications-System-Monitoring;

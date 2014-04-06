@@ -124,6 +124,6 @@ Comment[wo]=File-Roller: GNOME archiver
 Comment[zh_CN]=File-Roller: GNOME archiver
 Comment[zh_TW]=File-Roller: GNOME archiver
 Icon=/usr/share/pixmaps/file-roller.xpm
-Exec=/usr/bin/file-roller
+Exec=file-roller
 Terminal=false
 Categories=X-Debian-Applications-File-Management;
