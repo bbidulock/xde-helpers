@@ -10,3 +10,4 @@ Exec=xmodmap|gxmessage -name xmodmap -font 'Liberation Mono 8' -title 'X Mod Key
 Terminal=false
 Categories=X-X11;Application;X-XTool;
 StartupNotify=false
+StartupWMClass=xmodmap

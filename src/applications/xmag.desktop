@@ -134,3 +134,4 @@ Categories=X-X11;Application;X-XTool;
 X-AfterStep-IndexName=xmag
 TryExec=xmag
 StartupNotify=false
+StartupWMClass=xmag

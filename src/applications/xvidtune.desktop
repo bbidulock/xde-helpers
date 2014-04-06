@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
 Encoding=UTF-8
-Name=Xvidtune
+Name=X Video Tuner
 GenericName=X Tool
 Comment=Video mode tuner for Xorg
 Exec=xvidtune

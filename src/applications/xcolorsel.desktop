@@ -1,7 +1,7 @@
 [Desktop Entry]
-Name=Color Selector
+Name=X Color Selector
 GenericName=Color Selector
-Comment=display contents of rgb.txt files together with color probes
+Comment=Display contents of rgb.txt files together with color probes.
 Exec=xcolorsel
 Icon=xlogo
 Terminal=false

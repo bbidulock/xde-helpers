@@ -10,3 +10,4 @@ Exec=xprop|gxmessage -name xprop -geometry 400x400 -font 'Liberation Mono 8' -ti
 Terminal=false
 Categories=X-X11;Application;X-XTool;
 StartupNotify=false
+StartupWMClass=xprop

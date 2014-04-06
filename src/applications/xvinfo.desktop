@@ -10,3 +10,4 @@ Exec=xvinfo|gxmessage -name xvinfo -font 'Liberation Mono 8' -title 'X Video Inf
 Terminal=false
 Categories=X-X11;Application;X-XTool;
 StartupNotify=false
+StartupWMClass=xvinfo

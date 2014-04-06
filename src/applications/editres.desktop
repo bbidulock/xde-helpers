@@ -2,12 +2,13 @@
 Encoding=UTF-8
 Type=Application
 Name=X Resource Editor
-GenericName=editres
-Comment=Edit X toolkit resources
-Icon=xlogo
-TryExec=/usr/bin/editres
+GenericName=X Tool
+Comment=Resource editor for X Toolkit applications
 Exec=editres
+Icon=xlogo
 Terminal=false
 Categories=X-X11;Application;X-XTool;
+X-AfterStep-IndexName=editres
+TryExec=editres
 StartupNotify=false
 StartupWMClass=editres

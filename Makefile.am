@@ -51,30 +51,63 @@ dist_appl_DATA = \
 	src/applications/slock.desktop \
 	src/applications/unclutter.desktop \
 	src/applications/volume-app.desktop \
+	src/applications/wmacpi.desktop \
+	src/applications/wmagnify.desktop \
+	src/applications/wmaker.desktop \
+	src/applications/wmaker.inst.desktop \
+	src/applications/wmappl-bin.desktop \
 	src/applications/wmappl.desktop \
+	src/applications/wmauda.desktop \
+	src/applications/wmbatteries.desktop \
 	src/applications/wmbattery.desktop \
+	src/applications/wmbiff.desktop \
 	src/applications/wmBinClock.desktop \
 	src/applications/wmblob.desktop \
+	src/applications/wmcalc-bin.desktop \
 	src/applications/wmcalc.desktop \
 	src/applications/wmCalClock.desktop \
 	src/applications/wmCalClockKbd.desktop \
+	src/applications/wmcliphist.desktop \
+	src/applications/wmclock.desktop \
+	src/applications/wmclockmon-cal.desktop \
+	src/applications/wmclockmon-config.desktop \
 	src/applications/wmclockmon.desktop \
 	src/applications/wmcore.desktop \
 	src/applications/wmcpu.desktop \
 	src/applications/wmcpuload.desktop \
+	src/applications/wmcpumon.desktop \
+	src/applications/wmctrl.desktop \
+	src/applications/wmdiskmon.desktop \
+	src/applications/wmf2eps.desktop \
+	src/applications/wmf2fig.desktop \
+	src/applications/wmf2gd.desktop \
+	src/applications/wmf2svg.desktop \
+	src/applications/wmf2x.desktop \
+	src/applications/wmgenmenu.desktop \
+	src/applications/wmmail.desktop \
+	src/applications/wmmenugen.desktop \
 	src/applications/wmmixer.desktop \
 	src/applications/wmnd.desktop \
 	src/applications/wmnet.desktop \
+	src/applications/wm-oldmenu2new.desktop \
+	src/applications/wmsetbg.desktop \
+	src/applications/wmsmixer.desktop \
 	src/applications/wmsysmon.desktop \
+	src/applications/wmsystemtray.desktop \
 	src/applications/wmsystray.desktop \
 	src/applications/wmtime.desktop \
 	src/applications/wmtimer.desktop \
 	src/applications/wmtrash.desktop \
+	src/applications/wmudmount.desktop \
 	src/applications/wmwave.desktop \
 	src/applications/wmWeather.desktop \
+	src/applications/wmweather+.desktop \
 	src/applications/wmwifi.desktop \
 	src/applications/xcalc.desktop \
+	src/applications/xclipboard.desktop \
 	src/applications/xclock.desktop \
+	src/applications/xcolorsel.desktop \
+	src/applications/xconsole.desktop \
 	src/applications/xde-input.desktop \
 	src/applications/xde-logout.desktop \
 	src/applications/xde-panel.desktop \
@@ -88,16 +121,20 @@ dist_appl_DATA = \
 	src/applications/xkill.desktop \
 	src/applications/xlsatoms.desktop \
 	src/applications/xlsclients.desktop \
+	src/applications/xmag.desktop \
+	src/applications/xman.desktop \
 	src/applications/xmodmap.desktop \
 	src/applications/xprop.desktop \
 	src/applications/xrandr.desktop \
 	src/applications/xrefresh.desktop \
 	src/applications/xrestop.desktop \
 	src/applications/xset.desktop \
+	src/applications/xvidtune.desktop \
 	src/applications/xvinfo.desktop \
 	src/applications/xwd.desktop \
 	src/applications/xwininfo.desktop \
-	src/applications/xwud.desktop
+	src/applications/xwud.desktop \
+	src/applications/zat.desktop
 
 dist_sess_DATA = \
 	src/xsessions/2bwm.desktop \
@@ -301,7 +338,6 @@ dist_back_DATA = \
 	src/fallback/draw.desktop \
 	src/fallback/eboard.desktop \
 	src/fallback/eclipse.desktop \
-	src/fallback/editres.desktop \
 	src/fallback/educational.desktop \
 	src/fallback/eekboard.desktop \
 	src/fallback/ekiga.desktop \
@@ -880,12 +916,8 @@ dist_back_DATA = \
 	src/fallback/xcalc.desktop \
 	src/fallback/xchat.desktop \
 	src/fallback/xchat-gnome.desktop \
-	src/fallback/xclipboard.desktop \
 	src/fallback/xclock-(analog).desktop \
-	src/fallback/xclock.desktop \
 	src/fallback/xclock-(digital).desktop \
-	src/fallback/xcolorsel.desktop \
-	src/fallback/xconsole.desktop \
 	src/fallback/xditview.desktop \
 	src/fallback/xdvi.desktop \
 	src/fallback/xedit.desktop \
@@ -896,7 +928,6 @@ dist_back_DATA = \
 	src/fallback/xfcalendar.desktop \
 	src/fallback/xfig.desktop \
 	src/fallback/xfishtank.desktop \
-	src/fallback/xfontsel.desktop \
 	src/fallback/xfprint.desktop \
 	src/fallback/xfprint-manager.desktop \
 	src/fallback/xfprint-settings.desktop \
@@ -905,15 +936,11 @@ dist_back_DATA = \
 	src/fallback/xine-ui.desktop \
 	src/fallback/xiterm.desktop \
 	src/fallback/xjed.desktop \
-	src/fallback/xkbvleds.desktop \
-	src/fallback/xkill.desktop \
 	src/fallback/xlassie.desktop \
 	src/fallback/xload.desktop \
 	src/fallback/xlockmore.desktop \
 	src/fallback/xlogo.desktop \
 	src/fallback/xlyap.desktop \
-	src/fallback/xmag.desktop \
-	src/fallback/xman.desktop \
 	src/fallback/xmcd.desktop \
 	src/fallback/xmix.desktop \
 	src/fallback/xmixer.desktop \
@@ -921,7 +948,6 @@ dist_back_DATA = \
 	src/fallback/xpaint.desktop \
 	src/fallback/xpat2.desktop \
 	src/fallback/xpdf.desktop \
-	src/fallback/xrefresh.desktop \
 	src/fallback/xsane.desktop \
 	src/fallback/xscreensaver-properties.desktop \
 	src/fallback/xsnow.desktop \
@@ -930,7 +956,6 @@ dist_back_DATA = \
 	src/fallback/xterm.desktop \
 	src/fallback/xterm-(unicode).desktop \
 	src/fallback/xv.desktop \
-	src/fallback/xvidtune.desktop \
 	src/fallback/x-window-snapshot.desktop \
 	src/fallback/yelp.desktop \
 	src/fallback/yudit.desktop \
@@ -938,6 +963,4 @@ dist_back_DATA = \
 	src/fallback/zenmap-root.desktop \
 	src/fallback/zeroinstall-add.desktop \
 	src/fallback/zeroinstall-manage.desktop
-
-
 

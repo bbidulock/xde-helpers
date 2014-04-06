@@ -10,3 +10,4 @@ Exec=xinput|gxmessage -name xinput -font 'Liberation Mono 8' -title 'X Input Inf
 Terminal=false
 Categories=X-X11;Application;X-XTool;
 StartupNotify=false
+StartupWMClass=xinput

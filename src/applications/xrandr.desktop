@@ -10,3 +10,4 @@ Exec=xrandr|gxmessage -name xrandr -font 'Liberation Mono 8' -title 'X Window Pr
 Terminal=false
 Categories=X-X11;Application;X-XTool;
 StartupNotify=false
+StartupWMClass=xrandr

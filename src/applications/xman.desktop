@@ -1,8 +1,8 @@
 [Desktop Entry]
 Type=Application
 Encoding=UTF-8
-Name=Help (man Pages)
-GenericName=man page displayer
+Name=X Manual Page
+GenericName=Man Page Viewer
 Comment=Manual page display program for the X Window System
 Exec=xman
 Icon=xlogo

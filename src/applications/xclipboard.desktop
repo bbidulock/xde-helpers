@@ -129,3 +129,5 @@ Terminal=false
 Categories=X-X11;Application;X-XTool;
 X-AfterStep-IndexName=xclipboard
 TryExec=xclipboard
+StartupNotify=false
+StartupWMClass=xclipboard
