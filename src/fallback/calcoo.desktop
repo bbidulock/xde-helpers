@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Calcoo Calculator
+GenericName=Calculator
+Comment=GTK+ scientific calculator
+Exec=calcoo
+Icon=calcoo
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Categories=Utility;
+TryExec=calcoo

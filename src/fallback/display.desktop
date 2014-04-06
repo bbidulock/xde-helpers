@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=ImageMagick Image Viewer
+GenericName=Image Viewer
+Comment=X application for displaying and manipulating images
+Exec=display
+Icon=imagic
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Categories=Graphics
+TryExec=display

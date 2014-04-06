@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=JED Text Editor
+GenericName=JED Text Editor
+Comment=Text Editor that makes extensive use of the S-Lang library.
+Exec=jed
+Icon=text-editor
+Terminal=true
+Type=Application
+Encoding=UTF-8
+Categories=Utility;TextEditor;
+X-AfterStep-IndexName=jed
+TryExec=jed

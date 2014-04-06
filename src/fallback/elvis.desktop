@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Elvis
+GenericName=Elvis
+Comment=Elvis Text Editor
+Exec=elvis
+Icon=text-editor
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Categories=Utilitiy;TextEditor;
+X-AfterStep-IndexName=elvis
+TryExec=elvis

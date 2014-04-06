@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Reset color map
+GenericName=X Tool
+Comment=X standard colormap utility
+Exec=xstdcmap -default
+Icon=xlogo
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Categories=X-X11;Application;X-XTool;
+TryExec=xstdcmap

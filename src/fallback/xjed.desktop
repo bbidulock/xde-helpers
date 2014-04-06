@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=XJed
+GenericName=XJed
+Comment=another text editor
+Exec=xjed
+Icon=text-editor
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Categories=Utility;TextEditor;
+X-AfterStep-IndexName=xjed
+TryExec=xjed

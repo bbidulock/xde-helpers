@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Yudit Unicode Editor
+GenericName=Multi-language unicode text editor
+Comment=Multi-language unicode text editor
+Exec=yudit
+Icon=text-editor
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Categories=Utilitiy;TextEditor;
+TryExec=yudit

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=vile
+GenericName=vile
+Comment=vile Text Editor
+Exec=vile
+Icon=text-editor
+Terminal=true
+Type=Application
+Encoding=UTF-8
+Categories=Utility;TextEditor;
+X-AfterStep-IndexName=vile
+TryExec=vile

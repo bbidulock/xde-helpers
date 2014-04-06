@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=LE
+GenericName=LE
+Comment=LE Text Editor
+Exec=le
+Icon=text-editor
+Terminal=true
+Type=Application
+Encoding=UTF-8
+Categories=TextEditor;
+X-AfterStep-IndexName=le
+TryExec=le

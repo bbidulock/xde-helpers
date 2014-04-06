@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=X Fishtank
+GenericName=Desktop Background
+Comment=Animated aquarium background on your screen with tropical fish.
+Exec=xfisktank
+Icon=wallpaper
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Categories=AfterStepDesktop
+X-AfterStep-IndexName=xfishtank
+TryExec=xfishtank

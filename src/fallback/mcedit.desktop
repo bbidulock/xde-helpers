@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=mcedit
+GenericName=mcedit
+Comment=Midnight Commander Text Editor
+Exec=mcedit
+Icon=text-editor
+Terminal=true
+Type=Application
+Encoding=UTF-8
+Categories=TextEditor;
+X-AfterStep-IndexName=mcedit
+TryExec=mcedit

@@ -220,20 +220,21 @@ dist_dirs_DATA = \
 
 dist_back_DATA = \
 	src/fallback/abiword.desktop \
-	src/fallback/aboutinfo.desktop \
 	src/fallback/about-mageia.desktop \
 	src/fallback/about-mandriva.desktop \
 	src/fallback/about-this-computer.desktop \
 	src/fallback/abstractile.desktop \
-	src/fallback/accessories.desktop \
 	src/fallback/activate-screensaver-(next).desktop \
 	src/fallback/activate-screensaver-(previous).desktop \
 	src/fallback/activate-screensaver-(random).desktop \
 	src/fallback/alacarte.desktop \
 	src/fallback/alltray.desktop \
+	src/fallback/alsamixer.desktop \
 	src/fallback/aptitude-(terminal).desktop \
 	src/fallback/asclock.desktop \
 	src/fallback/asmon.desktop \
+	src/fallback/aswallpaper.desktop \
+	src/fallback/aterm.desktop \
 	src/fallback/at-properties.desktop \
 	src/fallback/audacious2.desktop \
 	src/fallback/audacious2-gtkui.desktop \
@@ -259,6 +260,7 @@ dist_back_DATA = \
 	src/fallback/brasero-nautilus.desktop \
 	src/fallback/bug-buddy.desktop \
 	src/fallback/calc.desktop \
+	src/fallback/calcoo.desktop \
 	src/fallback/caribou.desktop \
 	src/fallback/cddb-slave.desktop \
 	src/fallback/character-map.desktop \
@@ -270,7 +272,6 @@ dist_back_DATA = \
 	src/fallback/CMake.desktop \
 	src/fallback/codeina.desktop \
 	src/fallback/compiz-gtk.desktop \
-	src/fallback/config.desktop \
 	src/fallback/cosmos-slideshow.desktop \
 	src/fallback/cups.desktop \
 	src/fallback/cwaves.desktop \
@@ -286,10 +287,11 @@ dist_back_DATA = \
 	src/fallback/deja-dup.desktop \
 	src/fallback/deja-dup-preferences.desktop \
 	src/fallback/demo-screen-hacks.desktop \
-	src/fallback/desktop.desktop \
 	src/fallback/desktop-effects.desktop \
 	src/fallback/dia.desktop \
+	src/fallback/diakonos.desktop \
 	src/fallback/disable-xscreensaver.desktop \
+	src/fallback/display.desktop \
 	src/fallback/display-properties.desktop \
 	src/fallback/distort.desktop \
 	src/fallback/docker.desktop \
@@ -303,10 +305,10 @@ dist_back_DATA = \
 	src/fallback/educational.desktop \
 	src/fallback/eekboard.desktop \
 	src/fallback/ekiga.desktop \
+	src/fallback/elvis.desktop \
 	src/fallback/emacs.desktop \
 	src/fallback/empathy-accounts.desktop \
 	src/fallback/empathy.desktop \
-	src/fallback/emulator.desktop \
 	src/fallback/enable-xscreensaver.desktop \
 	src/fallback/eog.desktop \
 	src/fallback/epiphany.desktop \
@@ -337,7 +339,6 @@ dist_back_DATA = \
 	src/fallback/fiberlamp.desktop \
 	src/fallback/file-roller.desktop \
 	src/fallback/filezilla.desktop \
-	src/fallback/find.desktop \
 	src/fallback/firefox.desktop \
 	src/fallback/flphoto.desktop \
 	src/fallback/footlogo-floaters.desktop \
@@ -350,7 +351,6 @@ dist_back_DATA = \
 	src/fallback/fuzzyflakes.desktop \
 	src/fallback/fvwm.desktop \
 	src/fallback/galaxy.desktop \
-	src/fallback/game.desktop \
 	src/fallback/gcalctool.desktop \
 	src/fallback/gcm-import.desktop \
 	src/fallback/gcm-prefs.desktop \
@@ -364,6 +364,7 @@ dist_back_DATA = \
 	src/fallback/gedit.desktop \
 	src/fallback/gftp.desktop \
 	src/fallback/ggl-qt.desktop \
+	src/fallback/ghostview.desktop \
 	src/fallback/gimp.desktop \
 	src/fallback/gkbd-keyboard-display.desktop \
 	src/fallback/gksu.desktop \
@@ -508,7 +509,6 @@ dist_back_DATA = \
 	src/fallback/gpk-prefs.desktop \
 	src/fallback/gpk-service-pack.desktop \
 	src/fallback/gpk-update-viewer.desktop \
-	src/fallback/graphics.desktop \
 	src/fallback/grecord-(gnome-2.0-recorder).desktop \
 	src/fallback/gsetroot.desktop \
 	src/fallback/gstreamer-properties.desktop \
@@ -516,10 +516,12 @@ dist_back_DATA = \
 	src/fallback/gthumb.desktop \
 	src/fallback/gthumb-import.desktop \
 	src/fallback/gthumb-importer.desktop \
+	src/fallback/gtksubtitler.desktop \
 	src/fallback/gucharmap.desktop \
 	src/fallback/gurpmi.addmedia.desktop \
 	src/fallback/gv.desktop \
 	src/fallback/gvim.desktop \
+	src/fallback/gwcommand.desktop \
 	src/fallback/hamster-standalone.desktop \
 	src/fallback/harddrake.desktop \
 	src/fallback/homebank.desktop \
@@ -544,12 +546,15 @@ dist_back_DATA = \
 	src/fallback/internet-chess-club.desktop \
 	src/fallback/itweb-settings.desktop \
 	src/fallback/jconsole.desktop \
+	src/fallback/jed.desktop \
+	src/fallback/joe.desktop \
 	src/fallback/jpackage-chainsaw.desktop \
 	src/fallback/jpackage-logfactor5.desktop \
 	src/fallback/keybinding.desktop \
 	src/fallback/keyboard.desktop \
 	src/fallback/Kino.desktop \
 	src/fallback/leafpad.desktop \
+	src/fallback/le.desktop \
 	src/fallback/libfm-pref-apps.desktop \
 	src/fallback/libreoffice-calc.desktop \
 	src/fallback/libreoffice-draw.desktop \
@@ -609,17 +614,18 @@ dist_back_DATA = \
 	src/fallback/mandriva-z42tool.desktop \
 	src/fallback/math.desktop \
 	src/fallback/mc.desktop \
+	src/fallback/mcedit.desktop \
 	src/fallback/metaballs.desktop \
 	src/fallback/metacity.desktop \
+	src/fallback/mined.desktop \
 	src/fallback/mixer.app.desktop \
+	src/fallback/mlterm.desktop \
 	src/fallback/mmc-wizard.desktop \
-	src/fallback/modules.desktop \
 	src/fallback/mount-archive.desktop \
 	src/fallback/mousepad.desktop \
 	src/fallback/mozilla-firefox.desktop \
 	src/fallback/mozilla-thunderbird.desktop \
 	src/fallback/mplayer.desktop \
-	src/fallback/multimedia.desktop \
 	src/fallback/mutt.desktop \
 	src/fallback/mutter.desktop \
 	src/fallback/my-default-printer.desktop \
@@ -634,6 +640,7 @@ dist_back_DATA = \
 	src/fallback/nautilus-folder-handler.desktop \
 	src/fallback/nautilus-home.desktop \
 	src/fallback/nautilus-search.desktop \
+	src/fallback/nedit.desktop \
 	src/fallback/net_applet.desktop \
 	src/fallback/net-gvim.desktop \
 	src/fallback/network-admin.desktop \
@@ -646,9 +653,9 @@ dist_back_DATA = \
 	src/fallback/notification-daemon.desktop \
 	src/fallback/notification-properties.desktop \
 	src/fallback/notification-settings.desktop \
+	src/fallback/nvi.desktop \
 	src/fallback/obconf.desktop \
 	src/fallback/oclock.desktop \
-	src/fallback/office.desktop \
 	src/fallback/ooo-extension-manager.desktop \
 	src/fallback/openbox.desktop \
 	src/fallback/openjdk-6-policytool.desktop \
@@ -673,6 +680,7 @@ dist_back_DATA = \
 	src/fallback/pcmanfm.desktop \
 	src/fallback/penrose.desktop \
 	src/fallback/personal-slideshow.desktop \
+	src/fallback/pico.desktop \
 	src/fallback/pidgin.desktop \
 	src/fallback/pirut.desktop \
 	src/fallback/pitivi.desktop \
@@ -681,6 +689,7 @@ dist_back_DATA = \
 	src/fallback/polkit-gnome-authorization.desktop \
 	src/fallback/ponoff.desktop \
 	src/fallback/popsquares.desktop \
+	src/fallback/procinfo.desktop \
 	src/fallback/pstree.desktop \
 	src/fallback/pup.desktop \
 	src/fallback/python2.6.desktop \
@@ -719,9 +728,10 @@ dist_back_DATA = \
 	src/fallback/rpmdrake-browse-only.desktop \
 	src/fallback/rpmdrake.desktop \
 	src/fallback/rpmdrake-sources.desktop \
+	src/fallback/rxvt.desktop \
+	src/fallback/scavenger.desktop \
 	src/fallback/scim.desktop \
 	src/fallback/scim-setup.desktop \
-	src/fallback/screensaver.desktop \
 	src/fallback/screensaver-preferences.desktop \
 	src/fallback/scribus.desktop \
 	src/fallback/seahorse.desktop \
@@ -734,6 +744,7 @@ dist_back_DATA = \
 	src/fallback/services-admin.desktop \
 	src/fallback/services.desktop \
 	src/fallback/session-properties.desktop \
+	src/fallback/setedit.desktop \
 	src/fallback/setroubleshoot.desktop \
 	src/fallback/shadebobs.desktop \
 	src/fallback/shares-admin.desktop \
@@ -772,7 +783,6 @@ dist_back_DATA = \
 	src/fallback/system-config-services.desktop \
 	src/fallback/system-config-soundcard.desktop \
 	src/fallback/system-config-users.desktop \
-	src/fallback/system.desktop \
 	src/fallback/system-install-packages.desktop \
 	src/fallback/system-wacomcpl.desktop \
 	src/fallback/tclsh8.4.desktop \
@@ -780,11 +790,9 @@ dist_back_DATA = \
 	src/fallback/template.desktop \
 	src/fallback/terminal-as-root-(gksu).desktop \
 	src/fallback/Terminal.desktop \
-	src/fallback/terminals.desktop \
 	src/fallback/tetex-xdvi.desktop \
 	src/fallback/texconfig.desktop \
 	src/fallback/texdoctk.desktop \
-	src/fallback/text_editors.desktop \
 	src/fallback/the-gimp.desktop \
 	src/fallback/the-gnome-onscreen-keyboard.desktop \
 	src/fallback/Thunar-bulk-rename.desktop \
@@ -807,8 +815,12 @@ dist_back_DATA = \
 	src/fallback/twisted-ssh-client.desktop \
 	src/fallback/unbranded-software-center.desktop \
 	src/fallback/update-manager.desktop \
+	src/fallback/urxvt.desktop \
 	src/fallback/user-accounts-admin.desktop \
 	src/fallback/users.desktop \
+	src/fallback/vi.desktop \
+	src/fallback/vile.desktop \
+	src/fallback/vim.desktop \
 	src/fallback/vinagre.desktop \
 	src/fallback/vinagre-file.desktop \
 	src/fallback/vino-preferences.desktop \
@@ -862,6 +874,7 @@ dist_back_DATA = \
 	src/fallback/xaos.desktop \
 	src/fallback/xarchiver.desktop \
 	src/fallback/xbiff.desktop \
+	src/fallback/xbill.desktop \
 	src/fallback/xboard.desktop \
 	src/fallback/xboard-(passive-chessboard).desktop \
 	src/fallback/xcalc.desktop \
@@ -869,15 +882,20 @@ dist_back_DATA = \
 	src/fallback/xchat-gnome.desktop \
 	src/fallback/xclipboard.desktop \
 	src/fallback/xclock-(analog).desktop \
+	src/fallback/xclock.desktop \
 	src/fallback/xclock-(digital).desktop \
+	src/fallback/xcolorsel.desktop \
 	src/fallback/xconsole.desktop \
 	src/fallback/xditview.desktop \
 	src/fallback/xdvi.desktop \
 	src/fallback/xedit.desktop \
+	src/fallback/xemacs.desktop \
 	src/fallback/xev.desktop \
 	src/fallback/xeyes.desktop \
 	src/fallback/xfburn.desktop \
 	src/fallback/xfcalendar.desktop \
+	src/fallback/xfig.desktop \
+	src/fallback/xfishtank.desktop \
 	src/fallback/xfontsel.desktop \
 	src/fallback/xfprint.desktop \
 	src/fallback/xfprint-manager.desktop \
@@ -885,6 +903,9 @@ dist_back_DATA = \
 	src/fallback/xfreecd.desktop \
 	src/fallback/xine.desktop \
 	src/fallback/xine-ui.desktop \
+	src/fallback/xiterm.desktop \
+	src/fallback/xjed.desktop \
+	src/fallback/xkbvleds.desktop \
 	src/fallback/xkill.desktop \
 	src/fallback/xlassie.desktop \
 	src/fallback/xload.desktop \
@@ -895,20 +916,28 @@ dist_back_DATA = \
 	src/fallback/xman.desktop \
 	src/fallback/xmcd.desktop \
 	src/fallback/xmix.desktop \
+	src/fallback/xmixer.desktop \
 	src/fallback/xmms.desktop \
 	src/fallback/xpaint.desktop \
+	src/fallback/xpat2.desktop \
 	src/fallback/xpdf.desktop \
 	src/fallback/xrefresh.desktop \
 	src/fallback/xsane.desktop \
 	src/fallback/xscreensaver-properties.desktop \
+	src/fallback/xsnow.desktop \
+	src/fallback/xstdcmap.desktop \
+	src/fallback/xsysinfo.desktop \
 	src/fallback/xterm.desktop \
 	src/fallback/xterm-(unicode).desktop \
-	src/fallback/xtools.desktop \
+	src/fallback/xv.desktop \
 	src/fallback/xvidtune.desktop \
 	src/fallback/x-window-snapshot.desktop \
 	src/fallback/yelp.desktop \
+	src/fallback/yudit.desktop \
 	src/fallback/zenmap.desktop \
 	src/fallback/zenmap-root.desktop \
 	src/fallback/zeroinstall-add.desktop \
 	src/fallback/zeroinstall-manage.desktop
+
+
 

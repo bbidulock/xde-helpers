@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=X Snow
+GenericName=Desktop Background
+Comment=Application that snows on the root, in-between, and on windows.
+Exec=xsnow
+Icon=wallpaper
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Categories=AfterStepDesktop
+X-AfterStep-IndexName=xsnow
+TryExec=xsnow

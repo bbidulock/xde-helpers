@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Rxvt-Unicode Terminal
+GenericName=Terminal Program
+Comment=rxvt-unicode is a clone of the well known terminal emulator rxvt
+Exec=urxvt
+Icon=terminal
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Categories=Utilitiy;TerminalEmulator;
+X-AfterStep-IndexName=rxvt-unicode
+TryExec=urxvt
+StartupNotify=false
+StartupWMClass=urxvt

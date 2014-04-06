@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Picture Manager
+GenericName=Picture Manager
+Comment=Manages and converts backgrounds for use with AfterStep.
+Exec=ASWallpaper
+Icon=wallpaper
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Categories=AfterStepDesktop
+X-AfterStep-IndexName=ASWallpaper
+TryExec=ASWallpaper
+OnlyShowIn=AFTERSTEP;

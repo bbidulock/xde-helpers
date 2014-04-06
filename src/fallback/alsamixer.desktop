@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=ALSA Mixer
+GenericName=Mixer
+Comment=Ncurses soundcard mixer for ALSA soundcard driver
+Exec=alsamixer
+Icon=gnome-mixer
+Terminal=true
+Type=Application
+Encoding=UTF-8
+Categories=Application;AudioVideo;
+X-AfterStep-IndexName=alsamixer
+TryExec=alsamixer
