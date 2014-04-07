@@ -232,8 +232,7 @@ dist_auto_DATA = \
 	src/autostart/wmweather+.desktop \
 	src/autostart/xde-input.desktop \
 	src/autostart/xde-panel.desktop \
-	src/autostart/xde-setbg.desktop \
-	src/autostart/xde-traymenu.desktop
+	src/autostart/xde-setbg.desktop
 
 dist_menu_DATA = \
 	src/menus/unexicon-applications.menu \
