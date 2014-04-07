@@ -365,7 +365,6 @@ dist_back_DATA = \
 	src/fallback/fedora-empathy-accounts.desktop \
 	src/fallback/fedora-empathy.desktop \
 	src/fallback/fedora-glade.desktop \
-	src/fallback/fedora-gvim.desktop \
 	src/fallback/fedora-im-chooser.desktop \
 	src/fallback/fedora-iok.desktop \
 	src/fallback/fedora-jconsole.desktop \
@@ -618,7 +617,6 @@ dist_back_DATA = \
 	src/fallback/mageia-tkdiff.desktop \
 	src/fallback/mageiaupdate.desktop \
 	src/fallback/mageia-userdrake.desktop \
-	src/fallback/mageia-vim-X11.desktop \
 	src/fallback/mageia-xterm.desktop \
 	src/fallback/mahjongg.desktop \
 	src/fallback/manage-print-jobs.desktop \
@@ -645,7 +643,6 @@ dist_back_DATA = \
 	src/fallback/mandriva-tightvnc.desktop \
 	src/fallback/mandrivaupdate.desktop \
 	src/fallback/mandriva-userdrake.desktop \
-	src/fallback/mandriva-vim-X11.desktop \
 	src/fallback/mandriva-xkill.desktop \
 	src/fallback/mandriva-xterm.desktop \
 	src/fallback/mandriva-z42tool.desktop \
@@ -679,7 +676,6 @@ dist_back_DATA = \
 	src/fallback/nautilus-search.desktop \
 	src/fallback/nedit.desktop \
 	src/fallback/net_applet.desktop \
-	src/fallback/net-gvim.desktop \
 	src/fallback/network-admin.desktop \
 	src/fallback/network.desktop \
 	src/fallback/network-scheme.desktop \
