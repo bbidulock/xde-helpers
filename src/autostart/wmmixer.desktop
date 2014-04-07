@@ -11,3 +11,4 @@ TryExec=wmmixer
 Terminal=false
 Categories=DockApp;WMAKER;
 StartupNotify=false
+StartupWMClass=wmmixer

@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Aumix
-Comment=Basic volume controller
-Exec=aumix
-Icon=sound_section
-Terminal=false
-Type=Application
-StartupNotify=true
-Categories=GTK;Audio;Mixer;

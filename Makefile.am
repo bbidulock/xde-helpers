@@ -7,6 +7,7 @@ dist_appl_DATA = \
 	src/applications/AdobeReader.desktop \
 	src/applications/allin1.desktop \
 	src/applications/AlsaMixer.app.desktop \
+	src/applications/aumix.desktop \
 	src/applications/bbpager.desktop \
 	src/applications/bbrun.desktop \
 	src/applications/blackbox.desktop \
@@ -27,6 +28,7 @@ dist_appl_DATA = \
 	src/applications/gtk-chtheme.desktop \
 	src/applications/gtk-theme-switch2.desktop \
 	src/applications/gvncviewer.desktop \
+	src/applications/gxditview.desktop \
 	src/applications/icewm.desktop \
 	src/applications/lal.desktop \
 	src/applications/lxde-logout.desktop \
@@ -112,8 +114,11 @@ dist_appl_DATA = \
 	src/applications/xde-logout.desktop \
 	src/applications/xde-panel.desktop \
 	src/applications/xde-run.desktop \
+	src/applications/xditview.desktop \
 	src/applications/xdpyinfo.desktop \
+	src/applications/xdvi.desktop \
 	src/applications/xev.desktop \
+	src/applications/xeyes.desktop \
 	src/applications/xfontsel.desktop \
 	src/applications/xinput.desktop \
 	src/applications/xkbvleds.desktop \
@@ -124,6 +129,7 @@ dist_appl_DATA = \
 	src/applications/xmag.desktop \
 	src/applications/xman.desktop \
 	src/applications/xmodmap.desktop \
+	src/applications/xpdf.desktop \
 	src/applications/xprop.desktop \
 	src/applications/xrandr.desktop \
 	src/applications/xrefresh.desktop \
@@ -338,7 +344,6 @@ dist_back_DATA = \
 	src/fallback/draw.desktop \
 	src/fallback/eboard.desktop \
 	src/fallback/eclipse.desktop \
-	src/fallback/educational.desktop \
 	src/fallback/eekboard.desktop \
 	src/fallback/ekiga.desktop \
 	src/fallback/elvis.desktop \
@@ -610,7 +615,6 @@ dist_back_DATA = \
 	src/fallback/mageia-drakconf.desktop \
 	src/fallback/mageia-grip.desktop \
 	src/fallback/mageia-gurpmi.desktop \
-	src/fallback/Mageia.Org-aumix.desktop \
 	src/fallback/mageia-tkcvs.desktop \
 	src/fallback/mageia-tkdiff.desktop \
 	src/fallback/mageiaupdate.desktop \
@@ -619,7 +623,6 @@ dist_back_DATA = \
 	src/fallback/mageia-xterm.desktop \
 	src/fallback/mahjongg.desktop \
 	src/fallback/manage-print-jobs.desktop \
-	src/fallback/mandriva-aumix.desktop \
 	src/fallback/mandriva-avidemux-gtk.desktop \
 	src/fallback/mandriva-doc-Drakxtools-Guide-en.desktop \
 	src/fallback/mandriva-doc-Introducing-en.desktop \
@@ -628,7 +631,6 @@ dist_back_DATA = \
 	src/fallback/mandriva-drakfax.desktop \
 	src/fallback/mandriva-drakmenustyle.desktop \
 	src/fallback/mandriva-drakstats.desktop \
-	src/fallback/mandriva-gnuplot.desktop \
 	src/fallback/mandriva-gpilot-install-file.desktop \
 	src/fallback/mandriva-gtkam.desktop \
 	src/fallback/mandriva-gurpmi.desktop \
@@ -868,11 +870,9 @@ dist_back_DATA = \
 	src/fallback/wireshark.desktop \
 	src/fallback/wmauda.desktop \
 	src/fallback/wmbattery.desktop \
-	src/fallback/wmbiff.desktop \
 	src/fallback/wmbutton.desktop \
 	src/fallback/wmcalclock.desktop \
 	src/fallback/wmcdplay.desktop \
-	src/fallback/wmclock.desktop \
 	src/fallback/wmcpu.desktop \
 	src/fallback/wmcpuload.desktop \
 	src/fallback/wmdate.desktop \
@@ -881,11 +881,8 @@ dist_back_DATA = \
 	src/fallback/wmgtemp.desktop \
 	src/fallback/wmifs.desktop \
 	src/fallback/wmitime.desktop \
-	src/fallback/wmmail.desktop \
 	src/fallback/wmmatrix.desktop \
 	src/fallback/wmmemload.desktop \
-	src/fallback/wmmixer.desktop \
-	src/fallback/wmmixer-(docked).desktop \
 	src/fallback/wmmon.desktop \
 	src/fallback/wmmoonclock.desktop \
 	src/fallback/wmmount.desktop \
@@ -916,14 +913,9 @@ dist_back_DATA = \
 	src/fallback/xcalc.desktop \
 	src/fallback/xchat.desktop \
 	src/fallback/xchat-gnome.desktop \
-	src/fallback/xclock-(analog).desktop \
-	src/fallback/xclock-(digital).desktop \
-	src/fallback/xditview.desktop \
-	src/fallback/xdvi.desktop \
 	src/fallback/xedit.desktop \
 	src/fallback/xemacs.desktop \
 	src/fallback/xev.desktop \
-	src/fallback/xeyes.desktop \
 	src/fallback/xfburn.desktop \
 	src/fallback/xfcalendar.desktop \
 	src/fallback/xfig.desktop \
@@ -947,7 +939,6 @@ dist_back_DATA = \
 	src/fallback/xmms.desktop \
 	src/fallback/xpaint.desktop \
 	src/fallback/xpat2.desktop \
-	src/fallback/xpdf.desktop \
 	src/fallback/xsane.desktop \
 	src/fallback/xscreensaver-properties.desktop \
 	src/fallback/xsnow.desktop \

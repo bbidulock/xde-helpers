@@ -1,0 +1,14 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Aumix
+GenericName=Audio Mixer
+Comment=GTK sound mixer
+Comment[en]=GTK sound mixer
+Comment[ru]=Микшер с GTK-интерфейсом
+Exec=aumix
+Icon=/usr/share/aumix/aumix.xpm
+Terminal=false
+StartupNotify=true
+Categories=Application;GTK;AudioVideo;Audio;Video;Mixer;
+MultipleArgs=false

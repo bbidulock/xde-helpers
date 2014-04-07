@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=WMMail
+GenericName=Mailbox Monitor
+Comment=Mailbox Monitor Dockapp
+Icon=GNUstep3D
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;
+Exec=wmmail
+TryExec=wmmail
+Terminal=false
+Categories=DockApp;WMAKER;
+StartupNotify=false
