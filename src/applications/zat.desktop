@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Name=Zathura
+Name=Zat
 Comment=A minimalistic document viewer
 GenericName=PDF Viewer
 GenericName[af]=Pdf Aansig
@@ -91,12 +91,18 @@ Comment[fr]=Un visionneur de document minimaliste
 Comment[he]=מציג מסמכים מינימליסטי
 Comment[id_ID]=Pembaca dokumen minimalis
 Comment[it]=Un visualizzatore di documenti minimalista
+Comment[lt]=Paprasta dokumentų skaitytuvė
+Comment[no]=En minimalistisk dokumentleser
 Comment[pl]=Minimalistyczna przeglądarka dokumentów
 Comment[pt_BR]=Um visualizador de documentos minimalista
 Comment[ru]=Минималистичный просмотрщик документов
 Comment[tr]=Minimalist bir belge görüntüleyicisi
 Comment[uk_UA]=Легкий переглядач документів
+Icon=zat
 Exec=zat %f
+TryExec=zat
 Terminal=false
 Categories=Office;Viewer;
 MimeType=application/pdf;
+Keywords=PDF;document;presentation;
+StartupNotify=true
