@@ -119,6 +119,7 @@ dist_appl_DATA = \
 	src/applications/xdvi.desktop \
 	src/applications/xev.desktop \
 	src/applications/xeyes.desktop \
+	src/applications/xfig.desktop \
 	src/applications/xfontsel.desktop \
 	src/applications/xinput.desktop \
 	src/applications/xkbvleds.desktop \
@@ -679,7 +680,6 @@ dist_back_DATA = \
 	src/fallback/network-admin.desktop \
 	src/fallback/network.desktop \
 	src/fallback/network-scheme.desktop \
-	src/fallback/net-xfig.desktop \
 	src/fallback/nm-applet.desktop \
 	src/fallback/nm-connection-editor.desktop \
 	src/fallback/nm-vpnc-auth-dialog.desktop \
@@ -913,7 +913,6 @@ dist_back_DATA = \
 	src/fallback/xev.desktop \
 	src/fallback/xfburn.desktop \
 	src/fallback/xfcalendar.desktop \
-	src/fallback/xfig.desktop \
 	src/fallback/xfishtank.desktop \
 	src/fallback/xfprint.desktop \
 	src/fallback/xfprint-manager.desktop \
