@@ -14,6 +14,7 @@ dist_appl_DATA = \
 	src/applications/bubblemon.desktop \
 	src/applications/calculator.desktop \
 	src/applications/cbatticon.desktop \
+	src/applications/chbg.desktop \
 	src/applications/conky.desktop \
 	src/applications/ControlPanel.desktop \
 	src/applications/dhcpcd-gtk.desktop \
@@ -309,7 +310,6 @@ dist_back_DATA = \
 	src/fallback/caribou.desktop \
 	src/fallback/cddb-slave.desktop \
 	src/fallback/character-map.desktop \
-	src/fallback/chbg.desktop \
 	src/fallback/cheese.desktop \
 	src/fallback/chess-net.desktop \
 	src/fallback/chromium-browser.desktop \
