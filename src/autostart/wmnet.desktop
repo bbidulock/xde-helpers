@@ -6,8 +6,29 @@ GenericName=Monitor
 Comment=Monitor network interfaces in a dock app
 Icon=GNUstep3D
 OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;
-Exec=wmnet -w -W eth0 -x 1000000000 -l
-TryExec=wmnet
+TryExec=/usr/bin/wmnet
+Exec=wmnet -l
 Terminal=false
 Categories=DockApp;WMAKER;
 StartupNotify=false
+Actions=Interface1;Interface2;Interface3;Interface4;
+
+[Desktop Action Interface1]
+Name=eth0
+Icon=GNUstep3D
+Exec=wmnet -w -W eth0 -x 1000000000 -l
+
+[Desktop Action Interface2]
+Name=eth1
+Icon=GNUstep3D
+Exec=wmnet -w -W eth1 -x 1000000000 -l
+
+[Desktop Action Interface3]
+Name=eth2
+Icon=GNUstep3D
+Exec=wmnet -w -W eth2 -x 1000000000 -l
+
+[Desktop Action Interface4]
+Name=eth3
+Icon=GNUstep3D
+Exec=wmnet -w -W eth3 -x 1000000000 -l

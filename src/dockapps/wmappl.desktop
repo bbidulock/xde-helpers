@@ -11,3 +11,4 @@ TryExec=wmappl
 Terminal=false
 Categories=DockApp;WMAKER;
 StartupNotify=false
+StartupWMClass=wmappl

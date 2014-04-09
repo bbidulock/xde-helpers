@@ -8,7 +8,7 @@ Icon=GNUstep3D
 #only necessary in WMs that do not have a systray
 OnlyShowIn=BLACKBOX;WMAKER;PEKWM;ADWM;
 Exec=docker -wmaker -iconsize 16
-TryExec=docker
+TryExec=/usr/bin/docker
 Terminal=false
 Categories=DockApp;WMAKER;
 StartupNotify=false

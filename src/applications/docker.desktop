@@ -5,9 +5,12 @@ Name=System Tray Docker
 GenericName=System Tray
 Comment=Provide a system tray in the dock
 Icon=GNUstep3D
-OnlyShowIn=BLACKBOX;WMAKER;
+#only necessary in WMs that do not have a systray
+OnlyShowIn=BLACKBOX;WMAKER;PEKWM;ADWM;
 Exec=docker -wmaker -iconsize 16
 TryExec=/usr/bin/docker
 Terminal=false
 Categories=DockApp;WMAKER;
 StartupNotify=false
+#use wmsystemtray instead
+Hidden=true

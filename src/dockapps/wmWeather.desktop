@@ -6,8 +6,14 @@ GenericName=Weather
 Comment=Monitor weather conditions
 Icon=GNUstep3D
 OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;ADWM;
-Exec=wmWeather -s CYEG
 TryExec=/usr/bin/wmWeather
+Exec=wmWeather -s CYEG
 Terminal=false
 Categories=DockApp;WMAKER;
 StartupNotify=false
+Actions=CYEG;
+
+[Desktop Action CYEG]
+Name=Metar Station CYEG
+Icon=GNUstep3D
+Exec=wmWeather -s CYEG

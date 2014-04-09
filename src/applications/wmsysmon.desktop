@@ -5,6 +5,7 @@ Name=System Monitor
 GenericName=Monitor
 Comment=Monitor system in a dock app
 Icon=GNUstep3D
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;ADWM;
 TryExec=/usr/bin/wmsysmon
 Exec=wmsysmon
 Terminal=false

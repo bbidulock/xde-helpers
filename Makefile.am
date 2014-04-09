@@ -20,6 +20,7 @@ dist_appl_DATA = \
 	src/applications/dhcpcd-gtk.desktop \
 	src/applications/docker.desktop \
 	src/applications/editres.desktop \
+	src/applications/eeschema.desktop \
 	src/applications/fbpanel.desktop \
 	src/applications/fbrun.desktop \
 	src/applications/fbxkb.desktop \
@@ -32,6 +33,7 @@ dist_appl_DATA = \
 	src/applications/gvncviewer.desktop \
 	src/applications/gxditview.desktop \
 	src/applications/icewm.desktop \
+	src/applications/kicad.desktop \
 	src/applications/lal.desktop \
 	src/applications/lxde-logout.desktop \
 	src/applications/lxinput.desktop \
@@ -864,11 +866,15 @@ dist_back_DATA = \
 	src/fallback/web.desktop \
 	src/fallback/window-properties.desktop \
 	src/fallback/wireshark.desktop \
+	src/fallback/wmappl.desktop \
 	src/fallback/wmauda.desktop \
 	src/fallback/wmbattery.desktop \
+	src/fallback/wmblob.desktop \
 	src/fallback/wmbutton.desktop \
-	src/fallback/wmcalclock.desktop \
+	src/fallback/wmCalClock.desktop \
 	src/fallback/wmcdplay.desktop \
+	src/fallback/wmclockmon.desktop \
+	src/fallback/wmcore.desktop \
 	src/fallback/wmcpu.desktop \
 	src/fallback/wmcpuload.desktop \
 	src/fallback/wmdate.desktop \
@@ -879,9 +885,11 @@ dist_back_DATA = \
 	src/fallback/wmitime.desktop \
 	src/fallback/wmmatrix.desktop \
 	src/fallback/wmmemload.desktop \
+	src/fallback/wmmixer.desktop \
 	src/fallback/wmmon.desktop \
 	src/fallback/wmmoonclock.desktop \
 	src/fallback/wmmount.desktop \
+	src/fallback/wmnd.desktop \
 	src/fallback/wmnet.desktop \
 	src/fallback/wmpinboard.desktop \
 	src/fallback/wmpomme.desktop \
@@ -892,10 +900,12 @@ dist_back_DATA = \
 	src/fallback/wmshutdown.desktop \
 	src/fallback/wmsun.desktop \
 	src/fallback/wmsysmon.desktop \
+	src/fallback/wmsystemtray.desktop \
 	src/fallback/wmtemp.desktop \
 	src/fallback/wmtictactoe.desktop \
 	src/fallback/wmtime.desktop \
-	src/fallback/wmweather.desktop \
+	src/fallback/wmtimer.desktop \
+	src/fallback/wmWeather.desktop \
 	src/fallback/wmweather+.desktop \
 	src/fallback/wmwork.desktop \
 	src/fallback/wpa_gui.desktop \

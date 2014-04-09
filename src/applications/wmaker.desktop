@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=WindowMaker
+Comment=This session logs you into Window Maker
+Exec=wmaker
+Icon=wmaker
+Type=XSession
+Hidden=true
+Categories=WindowManager;
+
+[Window Manager]
+SessionManaged=false
+X-XDE-Managed=true

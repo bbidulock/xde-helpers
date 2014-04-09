@@ -1,67 +1,34 @@
 [Desktop Entry]
-Type=Application
 Encoding=UTF-8
-Name=wmnet
-Name[ar]=wmnet
-Name[ast]=wmnet
-Name[be]=wmnet
-Name[bg]=wmnet
-Name[bn]=wmnet
-Name[br]=wmnet
-Name[bs]=wmnet
-Name[ca]=wmnet
-Name[cs]=wmnet
-Name[da]=wmnet
-Name[de]=wmnet
-Name[dz]=wmnet
-Name[el]=wmnet
-Name[eo]=wmnet
-Name[es]=wmnet
-Name[et]=wmnet
-Name[eu]=wmnet
-Name[fi]=wmnet
-Name[fr]=wmnet
-Name[ga]=wmnet
-Name[gl]=wmnet
-Name[gu]=wmnet
-Name[he]=wmnet
-Name[hi]=wmnet
-Name[hr]=wmnet
-Name[hu]=wmnet
-Name[id]=wmnet
-Name[it]=wmnet
-Name[ja]=wmnet
-Name[ka]=wmnet
-Name[kk]=wmnet
-Name[km]=wmnet
-Name[ko]=wmnet
-Name[ku]=wmnet
-Name[lt]=wmnet
-Name[mk]=wmnet
-Name[ml]=wmnet
-Name[mr]=wmnet
-Name[nb]=wmnet
-Name[ne]=wmnet
-Name[nl]=wmnet
-Name[nn]=wmnet
-Name[pa]=wmnet
-Name[pl]=wmnet
-Name[pt]=wmnet
-Name[pt_BR]=wmnet
-Name[ro]=wmnet
-Name[ru]=wmnet
-Name[sk]=wmnet
-Name[sq]=wmnet
-Name[sv]=wmnet
-Name[ta]=wmnet
-Name[th]=wmnet
-Name[tl]=wmnet
-Name[tr]=wmnet
-Name[uk]=wmnet
-Name[vi]=wmnet
-Name[wo]=wmnet
-Name[zh_CN]=wmnet
-Name[zh_TW]=wmnet
+Type=Application
+Name=Network Monitor
+GenericName=Monitor
+Comment=Monitor network interfaces in a dock app
+Icon=GNUstep3D
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;
+TryExec=/usr/bin/wmnet
 Exec=wmnet -l
 Terminal=false
-Categories=X-Debian-Applications-Network-Monitoring;
+Categories=DockApp;WMAKER;
+StartupNotify=false
+Actions=Interface1;Interface2;Interface3;Interface4;
+
+[Desktop Action Interface1]
+Name=eth0
+Icon=GNUstep3D
+Exec=wmnet -w -W eth0 -x 1000000000 -l
+
+[Desktop Action Interface2]
+Name=eth1
+Icon=GNUstep3D
+Exec=wmnet -w -W eth1 -x 1000000000 -l
+
+[Desktop Action Interface3]
+Name=eth2
+Icon=GNUstep3D
+Exec=wmnet -w -W eth2 -x 1000000000 -l
+
+[Desktop Action Interface4]
+Name=eth3
+Icon=GNUstep3D
+Exec=wmnet -w -W eth3 -x 1000000000 -l
