@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=ChBg
-Comment=ChBg - Desktop background manager/changer/screensaver
-Exec=chbg
-Icon=chbg
-Terminal=false
-Type=Application
-StartupNotify=true
-Categories=X-MandrivaLinux-System-Configuration-Other;Settings;
