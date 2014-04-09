@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=FOX Desktop Setup
+Comment=Setup desktop appearance for FOX applications
+Exec=ControlPanel
+Icon=preferences-desktop
+Terminal=false
+Categories=Settings;DesktopSettings;
+StartupNotify=false
+StartupWMClass=FOX-DESKTOP

@@ -15,6 +15,7 @@ dist_appl_DATA = \
 	src/applications/calculator.desktop \
 	src/applications/cbatticon.desktop \
 	src/applications/conky.desktop \
+	src/applications/ControlPanel.desktop \
 	src/applications/dhcpcd-gtk.desktop \
 	src/applications/docker.desktop \
 	src/applications/editres.desktop \
@@ -39,6 +40,7 @@ dist_appl_DATA = \
 	src/applications/obxprop.desktop \
 	src/applications/openbox.desktop \
 	src/applications/pango-view.desktop \
+	src/applications/PathFinder.desktop \
 	src/applications/peksystray.desktop \
 	src/applications/piedock.desktop \
 	src/applications/preferred-execute.desktop \
@@ -655,7 +657,6 @@ dist_back_DATA = \
 	src/fallback/mined.desktop \
 	src/fallback/mixer.app.desktop \
 	src/fallback/mlterm.desktop \
-	src/fallback/mmc-wizard.desktop \
 	src/fallback/mount-archive.desktop \
 	src/fallback/mousepad.desktop \
 	src/fallback/mozilla-firefox.desktop \
