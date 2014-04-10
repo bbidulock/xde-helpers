@@ -1,0 +1,25 @@
+[Desktop Entry]
+X-AppInstall-Package=noteedit
+X-AppInstall-Popcon=87
+X-AppInstall-Section=main
+
+Name=NoteEdit
+Name[de]=Noteneditor
+Name[sv]=Notredigerare
+Name[pl]=Edytor nut
+Name[sl]=NoteEdit
+Exec=noteedit %i %m -caption "%c"
+MimeType=audio/x-notes
+Type=Application
+Comment=Note editor
+Comment[de]=Noteneditor
+Comment[sv]=Notredigerare
+Comment[pl]=Edytor nut
+Comment[sl]=Urejevalnik glasbenih dokumentov
+Terminal=0
+Icon=noteedit
+ServiceTypes=Browser/View
+X-KDE-Library=libnoteedit
+Categories=Qt;KDE;Audio;AudioVideo;
+Encoding=UTF-8
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

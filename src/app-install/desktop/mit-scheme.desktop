@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=mit-scheme
+X-AppInstall-Popcon=22
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Name=MIT/GNU Scheme
+Exec=/usr/bin/mit-scheme-i386 --edit
+Terminal=false
+Type=Application
+Icon=_usr_share_pixmaps_mit-scheme_lambda2
+Categories=Development;IDE;TextEditor
+X-AppInstall-Architectures=i386

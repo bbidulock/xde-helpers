@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=tkcvs
+X-AppInstall-Popcon=85
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Encoding=UTF-8
+Name=tkcvs
+GenericName=CVS/Subversion Frontend
+Comment=A graphical frontend to CVS and Subversion.
+Exec=tkcvs
+Icon=tkcvs
+Categories=RevisionControl;Development;ProjectManagement;
+

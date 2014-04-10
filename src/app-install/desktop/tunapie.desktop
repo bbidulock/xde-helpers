@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-AppInstall-Package=tunapie
+X-AppInstall-Popcon=53
+X-AppInstall-Section=main
+
+Type=Application
+Name=Tunapie
+Comment=Lists audio and video streams from shoutcast and icecast
+Icon=tplogo.xpm
+Exec=tunapie
+Categories=AudioVideo

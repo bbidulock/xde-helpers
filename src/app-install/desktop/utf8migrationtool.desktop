@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=utf8-migration-tool
+X-AppInstall-Popcon=98
+X-AppInstall-Section=main
+
+Name=UTF-8 Migration Tool
+Name[fr]=Outil de migration UTF-8
+Comment=UTF-8 Migration Wizard
+Comment[fr]=Assistant de migration UTF-8
+Exec=utf8migrationtool
+Terminal=false
+Type=Application
+Icon=applications-system
+Categories=GNOME;GTK;System;Utility;

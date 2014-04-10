@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=slashem-gtk
+X-AppInstall-Popcon=7
+X-AppInstall-Section=main
+
+Type=Application
+Encoding=UTF-8
+Name=GTK Slash'EM
+GenericName=GTK Slash'EM
+Comment=Super Lotsa Added Stuff Hack - Extended Magic (GTK)
+Icon=slashem
+Exec=/usr/games/slashem-gtk
+Terminal=false
+Categories=Game;AdventureGame;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

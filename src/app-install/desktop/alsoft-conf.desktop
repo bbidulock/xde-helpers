@@ -1,0 +1,10 @@
+[Desktop Entry]
+X-AppInstall-Package=alsoft-conf
+X-AppInstall-Popcon=14
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=OpenAL-Soft Configuration Utility
+Exec=alsoft-conf
+Categories=Settings;

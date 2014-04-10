@@ -1,0 +1,26 @@
+[Desktop Entry]
+X-AppInstall-Package=gadmin-squid
+X-AppInstall-Popcon=24
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=GADMIN-SQUID
+Name[de]=GADMIN-SQUID
+Name[es]=GADMIN-SQUID
+Name[fi]=GADMIN-SQUID
+Name[fr]=GADMIN-SQUID
+Name[ko]=GADMIN-SQUID
+Name[no]=GADMIN-SQUID
+Name[pt_BR]=GADMIN-SQUID
+Name[sl]=GADMIN-SQUID
+Name[sv]=GADMIN-SQUID
+Name[uk]=GADMIN-SQUID
+Name[ro]=GADMIN-SQUID
+Name[zh_TW]=GADMIN-SQUID
+GenericName=GADMIN-SQUID
+Comment=Squid proxy server administration
+Exec=su-to-root -X -c /usr/sbin/gadmin-squid
+Icon=gadmin-squid
+Terminal=false
+Type=Application
+Categories=GTK;System;

@@ -1,0 +1,18 @@
+[Desktop Entry]
+X-AppInstall-Package=madbomber
+X-AppInstall-Popcon=28
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=Mad Bomber
+
+Comment=Catch the Bombs
+
+Type=Application
+Categories=Application;ArcadeGame;Game;
+
+Exec=madbomber
+
+Icon=madbomber-icon
+Terminal=false
+

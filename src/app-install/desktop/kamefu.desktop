@@ -1,0 +1,24 @@
+[Desktop Entry]
+X-AppInstall-Package=kamefu
+X-AppInstall-Popcon=48
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=kamefu
+Name[xx]=xxkamefuxx
+Exec=kamefu
+Icon=package_games
+Type=Application
+Comment=Kamefu - KDE All-Machine Emulator Frontend for UNIX
+Comment[bg]=Kamefu - KDE All-Machine Emulator Frontend за UNIX
+Comment[da]=Kamefu - KDE's grænseflade for emulering af alle maskiner i UNIX
+Comment[es]=Kamefu - Interfaz de emulación para cualquier máquina UNIX
+Comment[gl]=Kamefu - Interface KDE de Emulador Universal para UNIX
+Comment[nl]=Kamefu - Emulator-frontend voor KDE
+Comment[pt]=Kamefu - Interface de Emulador para Todas as Máquinas do KDE
+Comment[pt_BR]=Kamefu - Interface de Emulador para Todas as Máquinas do KDE
+Comment[sr]=Kamefu - KDE-ово лице емулатора свих машина за UNIX
+Comment[sr@Latn]=Kamefu - KDE-ovo lice emulatora svih mašina za UNIX
+Comment[sv]=Kamefu - KDE:s gränssnitt för emulering av alla maskiner i UNIX
+Comment[xx]=xxKamefu - KDE All-Machine Emulator Frontend for UNIXxx
+Categories=Qt;KDE;Game;ArcadeGame

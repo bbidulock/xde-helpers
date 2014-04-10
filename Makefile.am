@@ -70,6 +70,7 @@ dist_appl_DATA = \
 	src/applications/wmbiff.desktop \
 	src/applications/wmBinClock.desktop \
 	src/applications/wmblob.desktop \
+	src/applications/wmbubble.desktop \
 	src/applications/wmcalc-bin.desktop \
 	src/applications/wmcalc.desktop \
 	src/applications/wmCalClock.desktop \
@@ -88,9 +89,7 @@ dist_appl_DATA = \
 	src/applications/wmf2eps.desktop \
 	src/applications/wmf2fig.desktop \
 	src/applications/wmf2gd.desktop \
-	src/applications/wmf2svg.desktop \
 	src/applications/wmf2x.desktop \
-	src/applications/wmgenmenu.desktop \
 	src/applications/wmmail.desktop \
 	src/applications/wmmenugen.desktop \
 	src/applications/wmmixer.desktop \
@@ -224,6 +223,7 @@ dist_auto_DATA = \
 	src/autostart/wmappl.desktop \
 	src/autostart/wmbattery.desktop \
 	src/autostart/wmblob.desktop \
+	src/autostart/wmbubble.desktop \
 	src/autostart/wmCalClock.desktop \
 	src/autostart/wmclockmon.desktop \
 	src/autostart/wmcore.desktop \

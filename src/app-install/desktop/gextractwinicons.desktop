@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=gextractwinicons
+X-AppInstall-Popcon=12
+X-AppInstall-Section=main
+
+Version=1.0
+Name=gExtractWinIcons
+Comment=Extract cursors and icons from MS Windows compatible resource files
+Type=Application
+Comment[it_IT]=Estrae cursori e icone dai files di risorsa compatibili con MS Windows
+Exec=/usr/bin/gextractwinicons
+Icon=_usr_share_gextractwinicons_data_gextractwinicons
+Terminal=false
+Categories=Graphics;GTK;
+

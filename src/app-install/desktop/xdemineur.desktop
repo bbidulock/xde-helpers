@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=xdemineur
+X-AppInstall-Popcon=25
+X-AppInstall-Section=main
+
+Name=Xdemineur
+Comment=Yet another minesweeper for X
+MimeType=
+Exec=/usr/games/xdemineur
+Icon=_usr_share_pixmaps_xdemineur-icon
+Path=
+Type=Application
+Terminal=0

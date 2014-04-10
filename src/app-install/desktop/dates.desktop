@@ -1,0 +1,36 @@
+[Desktop Entry]
+X-AppInstall-Package=dates
+X-AppInstall-Popcon=17
+X-AppInstall-Section=main
+
+Name=Dates
+Name[ca]=Cites
+Name[da]=Aftaler
+Name[de]=Dates
+Name[en_GB]=Dates
+Name[es]=Cita
+Name[et]=Kuupäevad
+Name[eu]=Hitzorduak
+Name[fi]=Päivyri
+Name[fr]=Dates
+Name[it]=Date
+Name[nb]=Datoer
+Name[nl]=Agenda
+Name[pa]=ਮਿਤੀਆਂ
+Name[pl]=Kalendarz
+Name[pt_BR]=Dates
+Name[ru]=Dates
+Name[sv]=Datum
+Name[th]=วันที่
+Comment=Your appointments
+Version=1.0
+Type=Application
+Exec=dates
+Icon=dates
+X-HildonDesk-ShowInToolbar=true
+X-Osso-Type=application/x-executable
+X-Osso-Service=dates
+Categories=GTK;Office;Calendar;
+Terminal=false
+X-MB-SingleInstance=true
+StartupNotify=true

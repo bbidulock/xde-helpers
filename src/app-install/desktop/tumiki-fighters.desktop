@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=tumiki-fighters
+X-AppInstall-Popcon=17
+X-AppInstall-Section=main
+
+Type=Application
+Name=Tumiki Fighters
+GenericName=
+Comment=Kenta Cho's Tumiki Fighters
+Icon=tumiki-fighters
+Exec=tumiki-fighters
+Terminal=false
+Categories=Game;ArcadeGame;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390

@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=lybniz
+X-AppInstall-Popcon=30
+X-AppInstall-Section=main
+
+Name=Lybniz Graph Plotter
+Comment=Plot graphs and functions
+Exec=lybniz
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=Education;
+Icon=lybniz

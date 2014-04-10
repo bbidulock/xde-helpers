@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=earth3d
+X-AppInstall-Popcon=72
+X-AppInstall-Section=main
+
+Type=Application
+Encoding=UTF-8
+Icon=earth
+Exec=earth3d
+DocPath=
+Comment=eart3d - 3D Model of the earth
+Name=earth3d
+Categories=Qt;Education;Science

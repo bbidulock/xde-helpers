@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=gnome-screensaver-flags
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+
+Name=Flags of the world
+Comment=Display a slideshow of the different flags with short information.
+Exec=/usr/lib/gnome-screensaver/gnome-screensaver/slideshow --location=/usr/share/backgrounds/flags
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=GNOME;Screensaver;
+OnlyShowIn=GNOME;
+X-Ubuntu-Gettext-Domain=gnome-screensaver

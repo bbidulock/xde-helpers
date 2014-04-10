@@ -1,0 +1,19 @@
+[Desktop Entry]
+X-AppInstall-Package=qtstalker
+X-AppInstall-Popcon=29
+X-AppInstall-Section=main
+
+Type=Application
+Version=1.0
+Encoding=UTF-8
+Name=Qtstalker
+GenericName=Stock Charting
+GenericName[nl]=Koersgrafieken
+Comment=Stock and commodity market charting and technical analysis
+Comment[nl]=Koersgrafieken en technische analyse
+Exec=/usr/bin/qtstalker
+Icon=_usr_share_pixmaps_qtstalker
+Terminal=false
+Categories=Application;Finance;Office;Qt;
+X-Debian-Standards-Version=3.6.0
+

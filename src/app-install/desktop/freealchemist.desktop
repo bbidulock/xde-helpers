@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=freealchemist
+X-AppInstall-Popcon=7
+X-AppInstall-Section=main
+
+Name=FreeAlchemist
+Comment=A simpler figure block game
+Icon=freealchemist
+Exec=/usr/games/freealchemist
+Terminal=false
+Type=Application
+Categories=Game;BlocksGame;

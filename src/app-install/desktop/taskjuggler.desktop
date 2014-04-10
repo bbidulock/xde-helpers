@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=taskjuggler
+X-AppInstall-Popcon=75
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=TaskJuggler
+Exec=TaskJugglerUI
+GenericName=Project Management Software
+Icon=taskjuggler
+Type=Application
+DocPath=taskjuggler/index.html
+Comment=Project Management Software
+MimeType=application/x-tjp;application/x-tjx
+InitialPreference=4
+Categories=Qt;KDE;ProjectManagement;Office
+Terminal=0

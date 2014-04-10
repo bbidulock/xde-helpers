@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=gtk-chtheme
+X-AppInstall-Popcon=148
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Gtk-ChTheme
+GenericName=GTK+ 2.0 theme changer and previewer utility
+Comment=GTK+2.0 Theme Changer
+Exec=/usr/bin/gtk-chtheme
+Terminal=false
+Type=Application
+Icon=_usr_share_pixmaps_gtk-chtheme
+Categories=DesktopSettings;System;

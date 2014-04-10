@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=tree-ppuzzle
+X-AppInstall-Popcon=2
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Terminal=true
+Icon=tree-ppuzzle
+Exec=tree-ppuzzle
+Name=tree-ppuzzle
+GenericName=Reconstruction of phylogenetic trees (parallelized)
+GenericName[en]=Reconstruction of phylogenetic trees (parallelized)
+Comment=Reconstruction of phylogenetic trees by maximum likelihood (parallelized version)
+Comment[en]=Reconstruction of phylogenetic trees by maximum likelihood (parallelized version)
+Type=Application
+Categories=Biology;Science;Education;

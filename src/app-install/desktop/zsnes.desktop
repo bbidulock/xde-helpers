@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=zsnes
+X-AppInstall-Popcon=162
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=zsnes
+Comment=A Super Nintendo Entertainment System (TM) emulator
+Exec=zsnes
+Icon=zsnes.xpm
+Terminal=false
+Type=Application
+Categories=Application;Game;2DGraphics;Emulator
+X-AppInstall-Architectures=i386

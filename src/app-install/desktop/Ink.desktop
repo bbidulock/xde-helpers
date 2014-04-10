@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=gnustep-examples
+X-AppInstall-Popcon=33
+X-AppInstall-Section=main
+
+Name=Ink Text Editor
+Name[bg]=Текстов редактор (Ink)
+Comment=Example text editor for GNUstep
+Comment[bg]=Примерен текстов редактор за GNUstep
+Type=Application
+Categories=Utility;TextEditor;
+Icon=/usr/lib/GNUstep/Applications/Ink.app/Resources/Ink_app.tiff
+Exec=Ink

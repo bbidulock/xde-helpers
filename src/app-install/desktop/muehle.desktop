@@ -1,0 +1,20 @@
+[Desktop Entry]
+X-AppInstall-Package=ggz-kde-games
+X-AppInstall-Popcon=14
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+
+Name=Muehle
+GenericName=Nine Men's Morris game for KDE
+GenericName[de]=Mühlespiel für KDE
+Comment=GGZ Muehle game
+Comment[de]=GGZ Mühlespiel
+
+Type=Application
+Exec=/usr/lib/ggz/muehle
+Icon=muehle
+DocPath=muehle/index.docbook
+Terminal=false
+Categories=X-GGZ-Games;BoardGame;Game;KDE;Qt;
+

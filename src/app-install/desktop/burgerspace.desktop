@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=burgerspace
+X-AppInstall-Popcon=36
+X-AppInstall-Section=main
+
+Name=BurgerSpace
+Categories=Game;ArcadeGame;
+Comment=A hamburger-smashing video game
+Comment[fr]=Un jeu de hamburgers qu'on écrase
+Exec=burgerspace
+Icon=burgerspace.png
+Terminal=0
+Type=Application

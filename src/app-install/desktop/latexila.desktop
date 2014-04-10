@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=latexila
+X-AppInstall-Popcon=27
+X-AppInstall-Section=main
+
+Name=LaTeXila
+GenericName=LaTeX Frontend
+GenericName[fr]=Interface graphique LaTeX
+Comment=LaTeX editor
+Comment[fr]=Éditeur LaTeX
+Exec=latexila
+Icon=latexila
+Terminal=false
+Type=Application
+Categories=GTK;GNOME;Office;Publishing;
+MimeType=text/x-tex;

@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=sagasu
+X-AppInstall-Popcon=6
+X-AppInstall-Section=main
+
+Name=Sagasu
+Name[fr]=Sagasu
+Name[cs]=Sagasu
+Categories=X-Red-Hat-Base;Accessories;Application;Utility;
+Comment=GNOME tool to find strings in a set of files
+Comment[fr]=Outil GNOME cherchant des chaines dans des fichiers
+Comment[cs]=Nástroj GNOME pro hledání řetězců v souborech
+Exec=sagasu
+Icon=sagasu.png
+Terminal=0
+Type=Application

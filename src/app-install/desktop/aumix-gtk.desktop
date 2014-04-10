@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=aumix-gtk
+X-AppInstall-Popcon=102
+X-AppInstall-Section=main
+
+Name=aumix
+GenericName=Audio Mixer
+Comment=Simple mixer control program
+Exec=aumix
+Icon=aumix
+Categories=AudioVideo;Audio;Player;
+Terminal=false
+Type=Application
+

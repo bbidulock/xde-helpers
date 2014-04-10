@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=angrydd
+X-AppInstall-Popcon=24
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Angry Drunken Dwarves
+Comment="Falling blocks puzzle game"
+Exec=angrydd
+Icon=_usr_share_games_angrydd_angrydd
+Terminal=false
+Type=Application
+Categories=Game;BlocksGame;
+StartupNotify=false

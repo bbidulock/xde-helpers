@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=grcm
+X-AppInstall-Popcon=12
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=Grcm
+GenericName=Grcm
+Comment=Manage machine connections
+Exec=grcm
+Icon=gcrm.png
+Terminal=false
+Type=Application
+Categories=Application;GTK;GNOME;Network;

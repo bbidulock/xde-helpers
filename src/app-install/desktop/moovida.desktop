@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=moovida
+X-AppInstall-Popcon=36
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Moovida Media Center
+Comment=Play movies and songs on TV with remote
+Exec=moovida %U
+StartupNotify=true
+StartupWMClass=moovida
+Icon=moovida
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;AudioVideo;Player;X-Ximian-Main;X-Red-Hat-Base;
+X-Osso-Service=com.fluendo.elisa

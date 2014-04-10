@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=mah-jong
+X-AppInstall-Popcon=31
+X-AppInstall-Section=main
+
+Name=Mah-Jong
+GenericName=Classic Mahjong game
+Comment=Play classic Mahjong puzzle game
+Type=Application
+Exec=xmj
+Icon=mah-jong
+Terminal=false
+Categories=Game;BoardGame;
+

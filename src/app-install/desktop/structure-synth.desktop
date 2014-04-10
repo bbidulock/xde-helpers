@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=structure-synth
+X-AppInstall-Popcon=5
+X-AppInstall-Section=main
+
+Name=Structure Synth
+Type=Application
+Exec=structure-synth
+Icon=structure-synth.png
+Encoding=UTF-8
+Comment=Application for creating 3D structures
+Comment[es]=Aplicación para crear estructuras tridimensionales
+Terminal=false
+Categories=Application;3DGraphics;

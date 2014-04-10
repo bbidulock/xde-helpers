@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=fwbuilder
+X-AppInstall-Popcon=159
+X-AppInstall-Section=main
+
+# This is the spec version, *not* the application version
+Version=1.0
+Type=Application
+Name=Firewall Builder
+GenericName=Firewall administration tool
+Comment=Firewall administration tool GUI
+Icon=_usr_share_pixmaps_fwbuilder_firewall_64
+Exec=fwbuilder
+Terminal=false
+Categories=Network

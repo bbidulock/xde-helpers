@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=gsmc
+X-AppInstall-Popcon=9
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=GTK Smith Chart Calculator
+Comment=RF Impedance calculator
+Exec=gsmc
+Icon=mini-gsmc.xpm
+Terminal=false
+Type=Application
+Categories=HamRadio;

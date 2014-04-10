@@ -1,0 +1,22 @@
+[Desktop Entry]
+X-AppInstall-Package=briquolo
+X-AppInstall-Popcon=81
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Briquolo
+Name[fr]=Briquolo
+
+Comment=An OpenGL breakout
+Comment[fr]=Un casse brique OpenGL
+
+Type=Application
+Categories=Game;ArcadeGame;
+
+Exec=briquolo
+
+Icon=_usr_share_games_pixmaps_briquolo
+Terminal=false
+
+GenericName=BreakOut
+GenericName[fr]=Casse Briques

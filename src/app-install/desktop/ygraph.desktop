@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=ygraph
+X-AppInstall-Popcon=11
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Name=ygraph Scientific Data Plotter
+GenericName=Scientific Data Plotter
+Comment=Produce simple xy-plots of scientific data
+Type=Application
+Exec=ygraph
+Icon=ygraph
+Categories=Education;Science;

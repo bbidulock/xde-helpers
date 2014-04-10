@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=gkrellm
+X-AppInstall-Popcon=1162
+X-AppInstall-Section=main
+
+Name=GKrellM System Monitor
+Comment=Monitor for CPU, memory, disks, network, mail
+Exec=gkrellm
+Icon=gkrellm
+Terminal=false
+Type=Application
+Categories=System;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

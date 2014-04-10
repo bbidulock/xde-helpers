@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=monkeystudio
+X-AppInstall-Popcon=19
+X-AppInstall-Section=main
+
+Categories=Development;Qt;IDE;
+Exec=monkeystudio
+Name=Monkey Studio IDE
+GenericName=MkS IDE
+Terminal=false
+Type=Application
+Icon=monkeystudio

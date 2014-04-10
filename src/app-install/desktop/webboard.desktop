@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=webboard
+X-AppInstall-Popcon=13
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=WebBoard
+Name[de]=WebBoard
+Comment=Publish text notes and source code on a pastebin server for collaborative debugging
+Comment[de]=Veröffentlichen Sie Textnachrichten und Quellcode auf einem »pastebin« Server zur gemeinschaftlichen Fehlersuche
+Exec=webboard
+Icon=gtk-paste
+NotShowIn=KDE;
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=GNOME;GTK;Application;Utility

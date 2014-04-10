@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=ploader
+X-AppInstall-Popcon=9
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=pLoader
+Comment=application to upload your pictures to your Piwigo gallery
+Icon=_usr_share_pixmaps_ploader
+Exec=/usr/bin/ploader
+Categories=Graphics;

@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=tennix
+X-AppInstall-Popcon=10
+X-AppInstall-Section=main
+
+Name=Tennix!
+GenericName=Tennis game
+Comment=Play tennis against the computer or a friend
+Exec=tennix
+Icon=tennix
+Terminal=false
+Type=Application
+Categories=Game;SportsGame;

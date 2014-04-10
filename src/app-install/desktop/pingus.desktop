@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=pingus
+X-AppInstall-Popcon=232
+X-AppInstall-Section=main
+
+Name=Pingus
+GenericName=Free Lemmings(TM) clone
+Comment=Guide a horde of penguins through various obstacles
+Exec=pingus
+Icon=pingus
+Terminal=false
+Type=Application
+Categories=Game;StrategyGame;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

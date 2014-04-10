@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=sgt-puzzles
+X-AppInstall-Popcon=137
+X-AppInstall-Section=main
+
+Version=1.0
+Terminal=false
+Exec=singles
+Icon=singles
+Type=Application
+Categories=Game;LogicGame;
+Name=Singles
+Comment=Puzzle game based on Hitori
+Comment[de]=Auf Hitori basierendes Puzzlespiel

@@ -1,0 +1,18 @@
+[Desktop Entry]
+X-AppInstall-Package=kadu
+X-AppInstall-Popcon=265
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Kadu
+Type=Application
+Icon=kadu
+Exec=kadu
+Categories=Network;InstantMessaging;Qt;
+Terminal=false
+StartupNotify=true
+GenericName=Gadu-Gadu Client
+GenericName[pl]=Klient Gadu-Gadu
+Comment=Gadu-Gadu protocol client
+Comment[pl]=Klient protokołu Gadu-Gadu
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

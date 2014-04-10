@@ -1,0 +1,13 @@
+
+[Desktop Entry]
+X-AppInstall-Package=glame
+X-AppInstall-Popcon=90
+X-AppInstall-Section=main
+
+Name=GLAME
+Comment=GNU/Linux Audio Mechanics
+Exec=glame
+Icon=_usr_share_glame_pixmaps_glame
+Terminal=false
+MultipleArgs=false
+Type=Application

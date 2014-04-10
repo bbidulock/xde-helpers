@@ -1,0 +1,13 @@
+
+[Desktop Entry]
+X-AppInstall-Package=rawtherapee
+X-AppInstall-Popcon=73
+X-AppInstall-Section=main
+
+Name=RawTherapee
+Comment=A free RAW converter and digital photo processing software
+Exec=rawtherapee %f
+Icon=_usr_share_pixmaps_rawtherapee
+Terminal=false
+Type=Application
+Categories=Graphics

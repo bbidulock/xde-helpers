@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=medit
+X-AppInstall-Popcon=63
+X-AppInstall-Section=main
+
+Name=medit
+Comment=Text editor
+Exec=medit %F
+Terminal=false
+Type=Application
+StartupNotify=true
+MimeType=text/plain;
+Icon=medit
+Categories=Utility;TextEditor;

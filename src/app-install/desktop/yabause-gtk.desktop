@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-AppInstall-Package=yabause-gtk
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main
+
+Type=Application
+Name=Yabause (Gtk port)
+Comment=Sega Saturn emulator
+Exec=yabause-gtk
+Icon=yabause
+Categories=GNOME;GTK;Game;

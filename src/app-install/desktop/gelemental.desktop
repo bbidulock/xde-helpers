@@ -1,0 +1,34 @@
+[Desktop Entry]
+X-AppInstall-Package=gelemental
+X-AppInstall-Popcon=56
+X-AppInstall-Section=main
+
+Name=Periodic Table
+Name[cs]=Periodická tabulka
+Name[da]=Periodiske system
+Name[de]=Periodensystem
+Name[en_CA]=Periodic Table
+Name[en_GB]=Periodic Table
+Name[en_US]=Periodic Table
+Name[es]=Tabla periódica
+Name[fr]=Tableau périodique
+Name[it]=Tavola periodica
+Name[nl]=Periodiek systeem
+Name[pl]=Układ okresowy pierwiastków
+Name[pt]=Tabela periódica
+Name[ru]=Периодическая система
+Name[sv]=Periodiska systemet
+Name[tr]=Periyodik cetvel
+Comment=View the periodic table of elements
+Comment[cs]=Prohlížení periodické tabulky prvků
+Comment[de]=Das Periodensystem der Elemente betrachten
+Comment[en_CA]=View the periodic table of elements
+Comment[en_GB]=View the periodic table of elements
+Comment[en_US]=View the periodic table of elements
+Comment[fr]=Affiche le tableau périodique des éléments
+Comment[it]=Visualizza la tavola periodica dei elementi
+Exec=gelemental
+Icon=gelemental
+Terminal=false
+Type=Application
+Categories=GTK;Utility;Science;Chemistry;

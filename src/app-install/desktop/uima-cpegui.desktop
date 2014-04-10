@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=uima-utils
+X-AppInstall-Popcon=1
+X-AppInstall-Section=main
+
+Type=Application
+Name=UIMA CPE Gui
+Name[fr]=UIMA CPE Gui
+Comment=Graphical interface to build UIMA CPE
+Comment[fr]=Interface graphique pour construire des chaînes UIMA
+Categories=Education;Science;Java;
+Exec=cpeGui
+Icon=UIMA

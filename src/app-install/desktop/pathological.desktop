@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=pathological
+X-AppInstall-Popcon=86
+X-AppInstall-Section=main
+
+Type=Application
+Name=Pathological
+GenericName=pathological
+Icon=pathological
+Comment=Solve puzzles involving paths and marbles
+Exec=pathological
+Categories=Game;LogicGame;

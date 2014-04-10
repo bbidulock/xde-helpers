@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=pykaraoke-bin
+X-AppInstall-Popcon=29
+X-AppInstall-Section=main
+
+Type=Application
+Name=PyKaraoke Mini
+GenericName=Karaoke player
+Comment=Minimum-interface PyKaraoke
+Icon=_usr_share_pykaraoke_icons_pykaraoke
+Exec=pykaraoke_mini
+Terminal=false
+MimeType=audio/x-karaoke;audio/x-midi;audio/midi;
+Categories=AudioVideo;Player;

@@ -1,0 +1,39 @@
+
+[Desktop Entry]
+X-AppInstall-Package=notification-daemon-xfce
+X-AppInstall-Popcon=124
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Exec=notification-settings
+Icon=notification-settings
+Type=Application
+Terminal=false
+StartupNotify=true
+OnlyShowIn=XFCE;
+Categories=X-XFCE;Settings;DesktopSettings;
+Name=Xfce 4 Notification Settings
+Name[be]=Настаўленьні Інфармавальніка Xfce 4
+Name[en_GB]=Xfce 4 Notification Settings
+Name[fr]=Paramètres de notification Xfce 4
+Name[hu]=Xfce 4 emlékeztető beállítások
+Name[nl]=Xfce 4 Berichtweergave Instellingen
+Name[pl]=Ustawienia powiadomień Xfce 4
+Name[uk]=Xfce 4 Властивості Повідомлення
+GenericName=Notification Settings
+GenericName[be]=Настаўленьні Інфармавальніка
+GenericName[en_GB]=Notification Settings
+GenericName[fr]=Paramètres de notification
+GenericName[hu]=Emlékeztető beállítások
+GenericName[nl]=Berichtweergave Instellingen
+GenericName[pl]=Ustawienia powiadamiania
+GenericName[uk]=Властивості Повідомлення
+Comment=Customize the notification daemon settings
+Comment[be]=Наладка настаўленьняў службы інфармаваньня
+Comment[en_GB]=Customise the notification daemon settings
+Comment[fr]=Configurer les paramètres du démon de notification
+Comment[hu]=Emlékeztető beállítások testreszabása
+Comment[nl]=Verander de berichtweergave daemon instellingen
+Comment[pl]=Dopasuj ustawienia demona powiadomień
+Comment[uk]=Налаштувати властивості служби Повідомлення

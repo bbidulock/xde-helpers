@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=gmsh
+X-AppInstall-Popcon=83
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Gmsh Mesh Generator
+GenericName=Gmsh
+Comment=3-D finite element mesh generator
+Exec=gmsh
+Icon=gmsh16x16-smooth
+Type=Application
+Terminal=false
+Categories=Education;Math;Science;

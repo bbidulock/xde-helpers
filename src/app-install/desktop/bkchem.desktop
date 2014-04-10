@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=bkchem
+X-AppInstall-Popcon=35
+X-AppInstall-Section=main
+
+Version=1.0
+Name=BKchem
+Comment=Edit chemical structures and reactions
+Type=Application
+Exec=bkchem %U
+Icon=bkchem
+Categories=Education;Science;Chemistry;
+MimeType=image/svg+xml;image/svg+xml-compressed;application/x-cdml+xml;application/x-cdml+xml-compressed;

@@ -1,0 +1,33 @@
+[Desktop Entry]
+X-AppInstall-Package=inkblot
+X-AppInstall-Popcon=37
+X-AppInstall-Section=main
+
+Name=Inkblot
+Name[de_DE]=Inkblot
+Name[en_GB]=Inkblot
+Name[fi]=Inkblot
+Name[fr_FR]=Inkblot
+Name[ru]=Inkblot
+Name[sv]=Inkblot
+GenericName=Printer Ink Level Monitor
+GenericName[de_DE]=Tintenfüllstands-Monitor
+GenericName[en_GB]=Printer Ink Level Monitor
+GenericName[fi]=Tulostimen mustemäärän valvonta
+GenericName[fr_FR]=Surveille le niveau d'encre de l'imprimante
+GenericName[ru]=Слежение за уровнем чернил в принтере
+GenericName[sv]=Övervakare för bläcknivå i skrivare
+Comment=Check your printer ink cartridge levels
+Comment[de_DE]=Prüft den Füllstand ihrer Druckertinte
+Comment[en_GB]=Check your printer ink cartridge levels
+Comment[fi]=Tarkista tulostimesi mustemäärät
+Comment[fr_FR]=Vérifiez le niveau d'encre des cartouches de votre imprimante
+Comment[ru]=Проверка уровня чернил в картриджах принтера
+Comment[sv]=Kontrollera bläcknivån för din skrivare
+Exec=inkblot
+Terminal=false
+Type=Application
+Icon=inkblot
+StartupNotify=false
+Categories=GNOME;GTK;System;Utility;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=oolite
+X-AppInstall-Popcon=45
+X-AppInstall-Section=main
+
+Type=Application
+Name=Oolite
+GenericName=
+Comment=A space simulation game
+Comment[ro_RO]=Un joc de simulare în spaţiu
+Icon=oolite-logo1
+Exec=oolite
+Terminal=false
+Categories=Game;Simulation;

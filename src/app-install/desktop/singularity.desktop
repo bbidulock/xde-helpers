@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=singularity
+X-AppInstall-Popcon=30
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Encoding=UTF-8
+Name=Singularity
+Comment=Become the singularity
+Exec=/usr/games/singularity
+Categories=Application;Game;StrategyGame;
+Icon=_usr_share_pixmaps_singularity
+

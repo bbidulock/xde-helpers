@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=dreamchess
+X-AppInstall-Popcon=56
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=Dreamchess
+GenericName=Chess game
+GenericName[fr]=Jeu d'échec
+Comment=a 3D chess game
+Icon=dreamchess
+Exec=dreamchess
+Categories=Game;BoardGame;

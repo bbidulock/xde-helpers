@@ -1,0 +1,34 @@
+[Desktop Entry]
+X-AppInstall-Package=gtodo
+X-AppInstall-Popcon=180
+X-AppInstall-Section=main
+
+Name=Todo list
+Name[cs]=Seznam věcí k udělání
+Name[de]=ToDo-Liste
+Name[eu]=Egitekoen zerrenda
+Name[fr]=ToDo-Liste
+Name[pl]=Lista Zadań
+Name[ru]=Планировщик заданий
+Name[sr]=Роковник
+Name[sr@Latn]=Rokovnik
+Name[sv]=AttGöra-lista
+Name[zh_TW]=待辦列表
+Comment=Todo list tool
+Comment[cs]=Utilita seznam věcí k udělání
+Comment[de]=ToDo-Listenwerkzeug
+Comment[eu]=Egitekoen zerrenda herramienta
+Comment[fr]=ToDo-Listenwerkzeug
+Comment[pl]=Narzędzie - Lista Zadań
+Comment[ru]=Программа управления списками заданий
+Comment[sr]=Алат за држање роковника
+Comment[sr@Latn]=Alat za držanje rokovnika
+Comment[sv]=Verktyg för AttGöra-lista
+Comment[zh_TW]=待辦事項工具
+Exec=gtodo
+Terminal=false
+Type=Application
+Icon=gtodo.png
+Categories=Application;Office;
+StartupNotify=true
+Encoding=UTF-8

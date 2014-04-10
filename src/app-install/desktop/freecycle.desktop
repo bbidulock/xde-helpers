@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=freecycle
+X-AppInstall-Popcon=19
+X-AppInstall-Section=main
+
+MimeType=text/plain
+GenericName=Plastic surgery for your audio loops
+Exec=freecycle
+Icon=freecycle
+Path=
+Type=Application
+Terminal=false
+Name=Freecycle
+Categories=Qt;AudioVideo;Audio;Recorder;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

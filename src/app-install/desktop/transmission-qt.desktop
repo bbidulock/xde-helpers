@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=transmission-qt
+X-AppInstall-Popcon=96
+X-AppInstall-Section=main
+
+Name=Transmission BitTorrent Client (Qt)
+GenericName=BitTorrent Client (Qt)
+Comment=Download and share files over BitTorrent
+Exec=qtr %F
+Icon=transmission
+Terminal=false
+Type=Application
+MimeType=application/x-bittorrent;
+Categories=Network;FileTransfer;P2P;Qt;

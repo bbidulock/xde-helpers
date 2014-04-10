@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=gmerlin
+X-AppInstall-Popcon=52
+X-AppInstall-Section=main
+
+Name=Gmerlin recorder
+Name[de]=Gmerlin recorder
+Comment=Audio/video recorder
+Comment[de]=Audio/video recorder
+Exec=gmerlin_recorder
+Icon=gmerlin-recorder.png
+Type=Application
+Categories=Application;AudioVideo;
+

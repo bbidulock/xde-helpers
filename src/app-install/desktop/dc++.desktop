@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=linuxdcpp
+X-AppInstall-Popcon=193
+X-AppInstall-Section=main
+
+Name=DC++
+GenericName=Direct Connect Client
+GenericName[fr]=Client Direct Connect
+Comment=Linux port of the famous client DC++ for the P2P network Direct Connect
+Comment[fr]=Portage linux du fameux client DC++ pour le reseau P2P Direct Connect
+Exec=linuxdcpp
+Icon=DC++.xpm
+Terminal=false
+Type=Application
+Categories=Network;P2P
+

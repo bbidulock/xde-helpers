@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=twinkle
+X-AppInstall-Popcon=233
+X-AppInstall-Section=main
+
+Name=Twinkle
+GenericName=A SIP softphone
+Comment=A SIP softphone
+Type=Application
+Exec=twinkle
+Icon=_usr_share_twinkle_twinkle48
+StartupNotify=true
+Terminal=false
+Categories=Qt;KDE;Network;Telephony;

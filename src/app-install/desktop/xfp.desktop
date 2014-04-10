@@ -1,0 +1,31 @@
+[Desktop Entry]
+X-AppInstall-Package=xfe
+X-AppInstall-Popcon=155
+X-AppInstall-Section=main
+
+Name=Xfpack
+GenericName=Package Manager
+GenericName[cs]=Správce balíků
+GenericName[de]=Paketmanager
+GenericName[el]=Διαχειριστής Πακέτων
+GenericName[es]=Gestor de paquetes
+GenericName[fr]=Gestionnaire de paquets
+GenericName[hu]=Csomagkezelő
+GenericName[pt_BR]=Gerenciador de Pacotes
+GenericName[sv]=Pakethanterare
+Comment=A simple package manager for Xfe
+Comment[cs]=Jednoduchý správce balíků pro Xfe
+Comment[de]=Ein einfacher Paketmanager für Xfe
+Comment[el]=Έναςς απλός διαχειριστής πακέτων για τον Xfe
+Comment[es]=Un gestor de paquetes simple para Xfe
+Comment[fr]=Un gestionnaire de paquets simple pour Xfe
+Comment[hu]=Egyszerű csomagkezelő Xfe-hez
+Comment[pt_BR]=Um simples gerenciador de pacotes para o Xfe
+Comment[sv]=En enkel pakethanterare för Xfe
+Exec=xfpack
+Terminal=false
+Type=Application
+StartupNotify=true
+MimeType=text/plain;
+Icon=xfp
+Categories=Utility;PackageManager;

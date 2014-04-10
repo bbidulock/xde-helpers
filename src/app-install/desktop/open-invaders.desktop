@@ -1,0 +1,18 @@
+[Desktop Entry]
+X-AppInstall-Package=open-invaders
+X-AppInstall-Popcon=24
+X-AppInstall-Section=main
+
+Type=Application
+Name=Open Invaders
+GenericName=Space Invaders clone
+Comment=Play a Space Invaders clone
+Comment[ca]=Jugueu a un clon del Space Invaders
+Comment[de]=Spiele ein Space Invaders Klon
+Comment[en]=Play a Space Invaders clone
+Comment[es]=Juega a un clon de Space Invaders
+Icon=open-invaders
+Exec=open-invaders -w
+Terminal=false
+Categories=Game;ActionGame;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=glurp
+X-AppInstall-Popcon=24
+X-AppInstall-Section=main
+
+Name=Glurp
+Comment=A Client for the MPD daemon
+Comment[fr]=Un Client pour le démon MPD
+Comment[es]=Un Cliente del server MPD
+Exec=glurp
+Terminal=false
+Type=Application
+Icon=glurp.svg
+Categories=GNOME;Application;AudioVideo;
+StartupNotify=true
+Encoding=UTF-8

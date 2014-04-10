@@ -1,0 +1,42 @@
+[Desktop Entry]
+X-AppInstall-Package=kshutdown
+X-AppInstall-Popcon=82
+X-AppInstall-Section=main
+
+Version=1.0
+# Encoding=UTF-8
+
+Name=KShutdown
+Name[sr]=К-Гашење
+Name[sr@latin]=K-Gašenje
+
+Comment=An advanced shut down utility
+
+# TODO: Imported from KShutdown 1.0.x; please update and uncomment
+#Comment[cs]=Vypínací utilita pro KDE
+#Comment[de]=Erweitertes Herunterfahren für KDE
+#Comment[el]=Ένα εργαλείο τερματισμού για το KDE
+#Comment[fr]=Utilitaire de gestion d'arrêt pour KDE
+#Comment[it]=Una utilit�KDE per lo spegnimento del sistema
+
+Comment[pl]=Zaawansowane narzędzie do zamykania systemu
+Comment[sr]=Напредна алатка за гашење рачунара
+Comment[sr@latin]=Napredna alatka za gašenje računara
+
+# visible in the menu instead of "KShutdown"
+GenericName=System Shut Down Utility
+
+# TODO: Imported from KShutdown 1.0.x; please update and uncomment
+#GenericName[cs]=Časované vypnutí
+#GenericName[fr]=Gestionnaire d'arrêt du système
+
+GenericName[pl]=Narzędzie do zamykania systemu
+GenericName[sr]=Напредна алатка за гашење
+GenericName[sr@latin]=Napredna alatka za gašenje
+
+Exec=kshutdown
+Icon=kshutdown
+Type=Application
+
+# DOC: http://standards.freedesktop.org/menu-spec/latest/apa.html
+Categories=Utility;

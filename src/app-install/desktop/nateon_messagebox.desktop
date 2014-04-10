@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=nateon
+X-AppInstall-Popcon=6
+X-AppInstall-Section=main
+
+Name=MessageBox(KNateon)
+Name[ko]=통합메시지함(네이트온)
+Exec=nateon_messagebox
+Icon=nateon_messagebox
+Type=Application
+Comment=MessageBox for KNateon
+Comment[ko]=네이트온 용 통합메시지함

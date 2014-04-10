@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=k3dsurf
+X-AppInstall-Popcon=42
+X-AppInstall-Section=main
+
+Name=K3DSurf
+Type=Application
+StartupNotify=true
+Comment=tool for mathematical surfaces
+Exec=/usr/bin/k3dsurf
+Icon=_usr_share_pixmaps_k3dsurf
+Terminal=false
+Categories=Qt;KDE;Education;Math;

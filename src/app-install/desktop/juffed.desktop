@@ -1,0 +1,37 @@
+[Desktop Entry]
+X-AppInstall-Package=juffed
+X-AppInstall-Popcon=10
+X-AppInstall-Section=main
+
+Name=JuffEd text editor
+Name[ru]=Текстовый редактор JuffEd
+Name[pl]=Edytor tekstu JuffEd
+Name[de]=Texteditor JuffEd
+Name[fr]=Éditeur de texte JuffEd
+Name[pt]=Editor de texto JuffEd
+Name[tr]=Metin editörü JuffEd
+Name[zh_CN]=文本编辑器 JuffEd
+Comment=Advanced text editor
+Comment[ru]=Продвинутый текстовый редактор
+Comment[pl]=Zaawansowany edytor tekstu
+Comment[de]=Ein erweiterter Texteditor
+Comment[fr]=Un avancé éditeur de texte
+Comment[pt]=Editor de texto avançado
+Comment[tr]=Ileri metin editörü
+Comment[zh_CN]=先进的文本编辑器
+Exec=juffed
+Terminal=false
+Type=Application
+StartupNotify=false
+MimeType=text/plain;
+Icon=juffed
+Categories=Qt;Utility;TextEditor;
+GenericName=Advanced text editor
+GenericName[ru]=Продвинутый текстовый редактор
+GenericName[pl]=Zaawansowany edytor tekstu
+GenericName[de]=Ein erweiterter Texteditor
+GenericName[fr]=Un avancé éditeur de texte
+GenericName[pt]=Editor de texto avançado
+GenericName[tr]=Ileri metin editörü
+GenericName[zh_CN]=先进的文本编辑器
+X-SuSE-translate=true

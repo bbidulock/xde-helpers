@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=goldendict
+X-AppInstall-Popcon=61
+X-AppInstall-Section=main
+
+Type=Application
+Terminal=false
+Categories=Office;Dictionary;Education;Qt
+Name=GoldenDict
+GenericName=Multiformat Dictionary
+Comment=GoldenDict
+Encoding=UTF-8
+Icon=_usr_share_pixmaps_goldendict
+Exec=goldendict

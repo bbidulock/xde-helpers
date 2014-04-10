@@ -1,0 +1,31 @@
+[Desktop Entry]
+X-AppInstall-Package=xfe
+X-AppInstall-Popcon=155
+X-AppInstall-Section=main
+
+Name=Xfview
+GenericName=Text Viewer
+GenericName[cs]=Prohlížeč textů
+GenericName[de]=Textbetrachter
+GenericName[el]=Προβολέας Κειμένου
+GenericName[es]=Visor de texto
+GenericName[fr]=Visualiseur de texte
+GenericName[hu]=Szöveges fájl megjelenítő
+GenericName[pt_BR]=Visualizador de Texto
+GenericName[sv]=Textvisare
+Comment=A simple text viewer for Xfe
+Comment[cs]=Jednoduchý prohlížeč textů pro Xfe
+Comment[de]=Ein einfacher Textbetrachter für Xfe
+Comment[el]=Ένας απλός προβολέας κειμένου για τον Xfe
+Comment[es]=Un visor de texto simple para Xfe
+Comment[fr]=Un visualiseur de texte simple pour Xfe
+Comment[hu]=Egyszerő fájlmegjelenítő Xfe-hez
+Comment[pt_BR]=Um simples visualizador de texto para o Xfe
+Comment[sv]=En enkel textvisare för Xfe
+Exec=xfview
+Terminal=false
+Type=Application
+StartupNotify=true
+MimeType=text/plain;
+Icon=xfv
+Categories=Utility;Viewer;

@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=jclic
+X-AppInstall-Popcon=140
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=JClic
+Comment=Multimedia educational activities: puzzles, associations, text exercises, crosswords, scrambled letters, etc.
+Comment[ca]=Activitats educatives multimèdia: puzzles, associacions, exercicis de text, mots encreuats, sopes de lletres i altres.
+Comment[es]=Actividades educativas multimedia: puzzles, asociaciones, ejercicios de texto, crucigramas, sopas de letras, etc.
+Comment[valencia]=Activitats educatives multimèdia: puzzles, associacions, exercicis de text, mots encreuats, sopes de lletres i altres.
+Icon=jclic.png
+Exec=jclic %U
+Terminal=false
+Type=Application
+Categories=Application;Education
+StartupNotify=false

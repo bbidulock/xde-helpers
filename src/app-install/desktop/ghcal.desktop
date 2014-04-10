@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=hdate-applet
+X-AppInstall-Popcon=67
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Hdate
+Name[he]=לוח שנה עברי
+Comment=Hebrew desktop calendar
+Comment[he]=לוח שנה המציג את התאריך העברי
+Exec=ghcal
+Terminal=false
+Type=Application
+Icon=accessories-calendar
+Categories=GNOME;GTK;Utility;Calendar;
+StartupNotify=false
+GenericName[en_US]=

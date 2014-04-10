@@ -1,0 +1,20 @@
+[Desktop Entry]
+X-AppInstall-Package=pyrenamer
+X-AppInstall-Popcon=92
+X-AppInstall-Section=main
+
+Name=pyRenamer
+Name[de]=pyRenamer
+Name[en]=pyRenamer
+Name[es]=pyRenamer
+Name[fr]=pyRenamer
+Comment=Mass rename files
+Comment[de]=Dateien massenweise umbenennen
+Comment[en]=Mass rename files
+Comment[es]=Renombramiento masivo de archivos
+Comment[fr]=Renomme en masse les fichiers
+Exec=/usr/bin/pyrenamer
+Icon=_usr_share_pyrenamer_pyrenamer
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Utility;FileTools;

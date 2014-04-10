@@ -1,0 +1,23 @@
+[Desktop Entry]
+X-AppInstall-Package=vym
+X-AppInstall-Popcon=160
+X-AppInstall-Section=main
+
+Type=Application
+Exec=vym
+Name=VYM - View Your Mind
+Comment=Create mind maps
+Comment[de]=Mindmap erstellen
+Comment[fr]=Créez des cartes d'associations d'idées
+Comment[it]=Crea mappe mentali
+Comment[ca]=Creeu mapes mentals
+Comment[es]=Crear mapas mentales
+GenericName=Planning Tool
+GenericName[de]=Planungswerkzeug
+GenericName[fr]=Outil de plannification
+GenericName[it]=Strumento di pianificazione
+GenericName[ca]=Eina de planificació
+GenericName[es]=Herramienta de planificación
+Icon=vym
+MimeType=application/x-vym;
+Categories=Qt;KDE;Office;

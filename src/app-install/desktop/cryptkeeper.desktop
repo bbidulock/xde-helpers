@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=cryptkeeper
+X-AppInstall-Popcon=93
+X-AppInstall-Section=main
+
+Name=Cryptkeeper
+Exec=cryptkeeper
+Icon=cryptkeeper
+Categories=System;GTK;Security
+Terminal=false
+Type=Application
+StartupNotify=false
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

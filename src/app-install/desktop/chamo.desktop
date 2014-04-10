@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=cameleon
+X-AppInstall-Popcon=25
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=Chamo
+GenericName=Source code editor
+GenericName[fr]=Editeur de code source
+Comment=Emacs-like editor for OCaml code
+Comment[fr]=Editeur de code OCaml à la emacs
+Exec=chamo.byte
+Icon=chamo.png
+Categories=Utility;TextEditor;GTK;

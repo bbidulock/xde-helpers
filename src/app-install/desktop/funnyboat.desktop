@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=funnyboat
+X-AppInstall-Popcon=60
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Exec=funnyboat
+Icon=funnyboat
+Terminal=false
+Name=Funny Boat
+Comment=a side scrolling arcade shooter game on a steamboat
+Comment[fr_FR]=un étrange bateau a vapeur dans un jeu de tire amusant
+Categories=Game;ArcadeGame;
+StartupNotify=true

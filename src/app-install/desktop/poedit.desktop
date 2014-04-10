@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=poedit
+X-AppInstall-Popcon=122
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=Poedit
+Comment=Gettext catalogs editor
+Comment[fr]=Outil de traduction
+MimeType=application/x-po;application/x-gettext;application/x-gettext-translation;text/x-gettext-translation;text/x-po;
+Exec=poeditor
+Icon=poedit.png
+Terminal=false
+Type=Application
+Categories=Application;Development;Translation;
+StartupNotify=true

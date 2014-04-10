@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=fantasdic
+X-AppInstall-Popcon=27
+X-AppInstall-Section=main
+
+Name=Fantasdic dictionary
+GenericName=Dictionary application
+Comment=Look up words in various dictionary sources
+Exec=/usr/bin/fantasdic
+Terminal=false
+Type=Application
+Categories=Utility;
+Icon=fantasdic

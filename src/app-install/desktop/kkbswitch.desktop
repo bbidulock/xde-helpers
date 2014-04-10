@@ -1,0 +1,19 @@
+[Desktop Entry]
+X-AppInstall-Package=kkbswitch
+X-AppInstall-Popcon=145
+X-AppInstall-Section=main
+
+Type=Application
+Name=KKBSwitch
+Exec=kkbswitch -caption "%c" %i %m 
+Terminal=false
+Icon=kkbswitch.xpm
+DocPath=kkbswitch/index.html
+Comment=Keyboard Layout Indicator
+Comment[ru]=Индикатор раскладки клавиатуры
+Comment[uk]=Індикатор розкладки клавіатури
+X-KDE-autostart-after=panel
+X-KDE-autostart-condition=kkbswitchrc:Options:autostart:true
+X-KDE-autostart-phase=2
+X-KDE-StartupNotify=false
+Categories=Qt;KDE;Utility;

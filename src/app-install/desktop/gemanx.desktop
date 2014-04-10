@@ -1,0 +1,21 @@
+[Desktop Entry]
+X-AppInstall-Package=gemanx-gtk2
+X-AppInstall-Popcon=1
+X-AppInstall-Section=main
+
+Categories=Application;Network;
+Encoding=UTF-8
+Name=GeMan X BBS Client
+Name[zh_TW]=GeMan X BBS 連線軟體
+Name[zh_CN]=GeMan X BBS 连线软件
+Exec=gemanx
+Icon=_usr_share_pixmaps_gemanx
+Type=Application
+Terminal=false
+GenericName=GeMan X BBS Client
+GenericName[zh_TW]=GeMan X BBS 連線軟體
+GenericName[zh_CN]=GeMan X BBS 连线软件
+Comment=GeMan X BBS Client
+Comment[zh_TW]=GeMan X BBS 用 GTK+ 2.x 開發的自由 BBS 連線軟體
+Comment[zh_CN]=GeMan X BBS 用 GTK+ 2.x 开发的自由 BBS 连接软件
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

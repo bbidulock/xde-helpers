@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=qliss3d
+X-AppInstall-Popcon=10
+X-AppInstall-Section=main
+
+Name=Qliss3D
+Comment=demonstration tool for Lissajous physiques
+Exec=qliss3d
+Icon=_usr_share_pixmaps_qliss3d
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=Qt;KDE;Education;Math;

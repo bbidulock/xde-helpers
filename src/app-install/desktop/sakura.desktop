@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=sakura
+X-AppInstall-Popcon=29
+X-AppInstall-Section=main
+
+Name=Sakura
+Comment=Use the command line
+Exec=sakura
+Icon=terminal-tango
+Type=Application
+Categories=GTK;Utility;TerminalEmulator;
+StartupNotify=true
+X-Ubuntu-Gettext-Domain=sakura

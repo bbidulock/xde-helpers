@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-AppInstall-Package=fofix
+X-AppInstall-Popcon=12
+X-AppInstall-Section=main
+
+Name=FoFiX
+Exec=/usr/games/fofix
+Icon=fofix
+Terminal=false
+Type=Application
+Categories=Game;

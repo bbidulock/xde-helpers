@@ -1,0 +1,18 @@
+[Desktop Entry]
+X-AppInstall-Package=mrpt-apps
+X-AppInstall-Popcon=1
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Scene Viewer 3D
+Comment=Viewer of MRPT scenes
+Exec=SceneViewer3D %F
+Icon=sceneviewer
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Categories=Education;Science;Robotics;ArtificialIntelligence;
+StartupNotify=true
+MimeType=application/x-mrpt-3dscene;
+
+X-AppInstall-Architectures=amd64,armel,i386,ia64,mips,mipsel,powerpc,s390,sparc

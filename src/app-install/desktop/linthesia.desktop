@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=linthesia
+X-AppInstall-Popcon=9
+X-AppInstall-Section=main
+
+Type=Application
+Version=0.3
+Name=Linthesia
+GenericName=Piano game
+Icon=linthesia.xpm
+Exec=linthesia
+Categories=Game;Music;Education
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

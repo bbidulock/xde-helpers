@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=qsampler
+X-AppInstall-Popcon=5
+X-AppInstall-Section=main
+
+Name=Qsampler
+GenericName=LinuxSampler GUI
+Comment=Qsampler is a LinuxSampler Qt GUI Interface
+Exec=/usr/bin/qsampler
+Icon=qsampler
+Categories=Audio;AudioVideo;Qt;
+Terminal=false
+Type=Application
+X-SuSE-translate=true

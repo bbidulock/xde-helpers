@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=pspp
+X-AppInstall-Popcon=48
+X-AppInstall-Section=main
+
+Name=GNU PSPP
+GenericName=Statistical Software
+GenericName[de]=Statistiksoftware
+Comment=Analyze statistical data with a free alternative to SPSS
+Comment[de]= Statistische Daten mit einer freien Alternative zu SPSS analysieren
+Exec=psppire %F
+Icon=pspp.png
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=GTK;Education;Science;Math;

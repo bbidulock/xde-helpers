@@ -1,0 +1,29 @@
+[Desktop Entry]
+X-AppInstall-Package=gnome-dvb-client
+X-AppInstall-Popcon=150
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Digital TV Control Center
+Name[cs]=Ovládací centrum digitální TV
+Name[de]=Digital Fernsehen Kontrollzentrum
+Name[en_GB]=Digital TV Control Centre
+Name[es]=Centro de control digial TV
+Name[fr]=Centre de contrôle DVB
+Name[pl]=Centrum Sterowania Cyfrowej TV
+Name[pt_BR]=Painel de Controle de TV Digital
+Comment=Schedule recordings and browse program guide
+Comment[cs]=Plánování nahrávání a prohlížení programového průvodce
+Comment[de]=Aufnahmen planen und Programmführer durchsuchen
+Comment[en_GB]=Schedule recordings and browse programme guide
+Comment[es]=Programa grabaciones y navega la guía de programación
+Comment[fr]=Plannifier les enregistrements et voir le programme TV
+Comment[pl]=Zaprogramuj nagrania i przeglądaj przewodnik programowy
+Comment[pt_BR]=Agendar gravações e procurar por guia de programação
+Exec=gnome-dvb-control
+Icon=gnome-dvb-daemon
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;AudioVideo;TV;Recorder;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

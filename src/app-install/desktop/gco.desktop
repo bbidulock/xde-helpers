@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=gco
+X-AppInstall-Popcon=6
+X-AppInstall-Section=main
+
+Name=GNOME Comics Organizer
+Comment=A GNOME interface for for managing your comic book collection
+Icon=gco-gco.png
+Exec=gco
+Terminal=false
+Type=Application
+StartupNotify=true
+Encoding=UTF-8
+Categories=GNOME;Application;Utility;X-Red-Hat-Base;

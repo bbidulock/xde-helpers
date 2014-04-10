@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=xmms2tray
+X-AppInstall-Popcon=66
+X-AppInstall-Section=main
+
+Version=1.0
+Name=XMMS2tray
+GenericName=XMMS2 tray icon
+Exec=xmms2tray
+Terminal=false
+Type=Application
+Icon=_usr_share_xmms2tray_data_xmms2_24
+Categories=Application;AudioVideo;Audio;Player;GTK;TrayIcon
+OnlyShowIn=KDE;GNOME;XFCE;ROX;Old

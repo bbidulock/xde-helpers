@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=lxsession-edit
+X-AppInstall-Popcon=191
+X-AppInstall-Section=main
+
+Type=Application
+Icon=xfwm4.png
+Exec=lxsession-edit
+Name=Desktop Session Settings
+Name[zh_TW]=桌面工作階段設定
+Name[fi]=Työpöytäistunnon asetukset
+Name[ja]=デスクトップセッションの設定
+Comment=Manage applications loaded in desktop session
+Comment[zh_TW]=管理桌面工作階段中載入的程式
+Comment[fi]=Hallitse automaattisesti käynnistettäviä sovelluksia
+Comment[ja]=デスクトップセッションでロードされるアプリケーションを管理します
+Categories=Settings;DesktopSettings;X-LXDE-Settings;

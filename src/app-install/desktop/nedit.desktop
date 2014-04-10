@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=nedit
+X-AppInstall-Popcon=472
+X-AppInstall-Section=main
+
+Version=1.0
+Name=NEdit
+Exec=nedit
+Icon=Nedit
+Terminal=false
+Type=Application
+Categories=Motif;Utility;TextTools;
+GenericName=Text editor
+GenericName[en]=Text editor
+GenericName[nl]=Tekst verwerker

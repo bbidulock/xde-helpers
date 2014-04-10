@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=gamera-gui
+X-AppInstall-Popcon=3
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=gamera-gui
+Icon=gamera-gui.xpm
+GenericName=GUI for the Gamera framework
+Exec=/usr/bin/gamera_gui %f
+Terminal=false
+Categories=Graphics;OCR;

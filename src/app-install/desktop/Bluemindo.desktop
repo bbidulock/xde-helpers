@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=bluemindo
+X-AppInstall-Popcon=12
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Bluemindo
+GenericName=Bluemindo Audio Player
+Comment=A really simple but powerful audio player in Python/PyGTK, using Gstreamer.
+Exec=bluemindo
+Terminal=false
+Type=Application
+Icon=bluemindo.png
+Categories=AudioVideo;Audio;Music;Player;GTK;

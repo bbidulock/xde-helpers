@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=gnome-btdownload
+X-AppInstall-Popcon=1284
+X-AppInstall-Section=main
+
+Name=BitTorrent Download Client
+Comment=Download files with BitTorrent
+Comment[de]=Dateien mit BitTorrent herunterladen
+Comment[fr]=Télécharger des fichiers avec BitTorrent
+Comment[sv]=Ladda ner filer med BitTorrent
+Exec=gnome-btdownload
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=download
+Categories=Network;FileTransfer;P2P;
+MimeType=application/x-bittorrent;

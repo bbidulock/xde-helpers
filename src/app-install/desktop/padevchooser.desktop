@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=padevchooser
+X-AppInstall-Popcon=440
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Name=PulseAudio Device Chooser
+GenericName=Device Chooser
+Comment=An Applet for Quick Device Changing
+Exec=padevchooser
+Icon=stock_line_in
+StartupNotify=true
+Type=Application
+Categories=Application;AudioVideo;Audio;

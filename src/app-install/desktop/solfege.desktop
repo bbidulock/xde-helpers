@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-AppInstall-Package=solfege
+X-AppInstall-Popcon=105
+X-AppInstall-Section=main
+
+Name=GNU Solfege
+Exec=solfege
+Terminal=false
+Type=Application
+Icon=solfege.png
+Categories=GNOME;Application;AudioVideo;Audio;Education;

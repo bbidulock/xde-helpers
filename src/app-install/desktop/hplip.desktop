@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=hplip-gui
+X-AppInstall-Popcon=911
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Type=Application
+Name=HP Device Manager
+GenericName=Printer Management Application
+Comment=View device status, ink levels and perform maintenance.
+Exec=hp-toolbox
+Icon=/usr/share/hplip/data/images/128x128/hp_logo.png
+Terminal=false
+Categories=Application;Utility;Settings;
+X-KDE-StartupNotify=false
+StartupNotify=false
+NotShowIn=KDE;

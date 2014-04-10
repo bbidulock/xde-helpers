@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=pyntor
+X-AppInstall-Popcon=9
+X-AppInstall-Section=main
+
+Name=Pyntor
+Comment=Viewer for presentation slides
+Comment[de]=Präsentationsprogramm
+Exec=pyntor %f
+Icon=pyntor
+Terminal=false
+Type=Application
+MimeType=application/x-pyntor;
+#FilePattern=pyntor
+Categories=Office;

@@ -1,0 +1,18 @@
+[Desktop Entry]
+X-AppInstall-Package=gambas2-ide
+X-AppInstall-Popcon=94
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Version=1.0
+Exec=gambas2
+Icon=_usr_share_pixmaps_gambas2
+Terminal=false
+Name=Gambas2
+Name[es_ES]=Gambas2
+Comment=Gambas Almost Means Basic
+Comment[es_ES]=Gambas es parecido a Basic Visual
+Type=Application
+Categories=Development;
+StartupNotify=true
+X-AppInstall-Architectures=amd64,armel,i386,ia64,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390,sparc

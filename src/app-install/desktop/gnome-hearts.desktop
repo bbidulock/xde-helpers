@@ -1,0 +1,35 @@
+[Desktop Entry]
+X-AppInstall-Package=gnome-hearts
+X-AppInstall-Popcon=79
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Name=Hearts
+Name[da]=Hjerterfri
+Name[de]=Hearts
+Name[el]=Κούπες
+Name[en_GB]=Hearts
+Name[es]=Corazones
+Name[eu]=Bihotzak
+Name[fi]=Hertta
+Name[fr]=Dame de Pique
+Name[hu]=Fekete Macska
+Name[id]=Hearts
+Name[it]=Hearts
+Name[ml]=ഹാട്ട്സ് (Herats)
+Name[nl]=Hartenjagen
+Name[pl]=Kierki
+Name[pt]=Copas
+Name[pt_BR]=Hearts
+Name[ru]=Черви
+Name[sv]=Hjärter
+Name[tl]=Hearts
+Name[zh_CN]=红心大战
+Comment=Play the popular Hearts card game
+Exec=gnome-hearts
+Icon=gnome-hearts.png
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Game;CardGame;
+StartupNotify=true

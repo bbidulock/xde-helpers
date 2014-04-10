@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=love
+X-AppInstall-Popcon=29
+X-AppInstall-Section=main
+
+Name=Löve Game
+Type=Application
+Exec=love %f
+Icon=love-app-64
+Comment=Run Löve game
+Comment[es]=Ejecutar juego de Löve
+Terminal=false
+MimeType=application/x-love-game;
+Categories=Game;

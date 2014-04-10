@@ -1,0 +1,36 @@
+[Desktop Entry]
+X-AppInstall-Package=gnome-mastermind
+X-AppInstall-Popcon=43
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=Mastermind
+Name[ar]=العقل الموجّه
+Name[de]=Mastermind
+Name[en_GB]=Mastermind
+Name[es]=Mastermind
+Name[eu]=Mastermind
+Name[fr]=Mastermind
+Name[id]=Mastermind
+Name[it]=Mastermind
+Name[pl]=Mastermind
+Name[pt_BR]=Senha
+Name[sv]=Mastermind
+Comment=Break the hidden code!
+Comment[ar]=كسّر الرمز المخفي!
+Comment[de]=Brechen Sie den verborgenen Code!
+Comment[en_GB]=Break the hidden code!
+Comment[es]=¡Descubra el código secreto!
+Comment[eu]=Apurtu ezkutuko kodea!
+Comment[fr]=Révéler le code caché !
+Comment[id]=Pecahkan kode tersembunyi!
+Comment[it]=Scopri la combinazione di colori!
+Comment[pl]=Złam ukryty kod!
+Comment[pt_BR]=Quebre o código secreto!
+Comment[sv]=Hitta den rätta koden!
+Exec=gnome-mastermind
+Icon=gnome-mastermind
+Terminal=false
+Type=Application
+StartupNotify=True
+Categories=GNOME;GTK;Game;BoardGame;

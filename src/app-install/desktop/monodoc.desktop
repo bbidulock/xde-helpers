@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=monodoc-browser
+X-AppInstall-Popcon=185
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Mono Documentation
+GenericName=Documentation Browser
+Comment=View, search and edit documentation related to Mono
+Exec=/usr/bin/monodoc
+Icon=monodoc
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Documentation;Development;

@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=uima-utils
+X-AppInstall-Popcon=1
+X-AppInstall-Section=main
+
+Type=Application
+Name=UIMA Annotation Viewer
+Name[fr]=Visionneur d'annotations UIMA
+Comment=Viewer for UIMA annotations
+Comment[fr]=Visionneur d'annotations UIMA
+Categories=Education;Science;Java;
+Exec=annotationViewer
+Icon=UIMA

@@ -1,0 +1,33 @@
+[Desktop Entry]
+X-AppInstall-Package=gnome-dvb-client
+X-AppInstall-Popcon=150
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Digital TV Setup
+Name[cs]=Nastavení digitální TV
+Name[de]=Digital Fernsehen Einstellungen
+Name[en_GB]=Digital TV Setup
+Name[es]=Ajustes de televisión digital
+Name[fr]=Réglage DVB
+Name[pl]=Ustawienia Cyfrowej TV
+Name[pt_BR]=Configurar TV Digital
+Comment=Setup digital TV
+Comment[ar]=إعداد التلفاز الرقمي
+Comment[cs]=Nastavit digitální TV
+Comment[da]=Opsætning af digitalt tv
+Comment[de]=Digitales Fernsehen einrichten
+Comment[en_GB]=Setup digital TV
+Comment[es]=Configurar la TV digital
+Comment[fr]=Réglage TV numérique
+Comment[pl]=Skonfiguruj telewizję cyfrową
+Comment[pt_BR]=Configurar TV digital
+Comment[sv]=Konfigurera digital-tv
+Comment[tr]=Dijital TV kurulumu
+Exec=gnome-dvb-setup
+Icon=gnome-dvb-setup
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;AudioVideo;TV;HardwareSettings;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

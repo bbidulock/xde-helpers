@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=orbital-eunuchs-sniper
+X-AppInstall-Popcon=14
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Exec=/usr/games/snipe2d
+Icon=orbital-eunuchs-sniper.png
+Terminal=false
+Name=Orbital Eunuchs Sniper
+Comment=Anti-terrorist Satellite Sniping Game
+Categories=Application;Game;ArcadeGame;
+StartupNotify=true

@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=swac-explore
+X-AppInstall-Popcon=5
+X-AppInstall-Section=main
+
+Type=Application
+Encoding=UTF-8
+Name=Swac Explore
+Exec=swac-explore
+StartupNotify=false
+Terminal=false
+Categories=Education
+Comment=audio collections of words (SWAC) explorer
+Comment[fr]=explorateur de collections audio de mots (SWAC)

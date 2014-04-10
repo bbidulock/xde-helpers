@@ -1,0 +1,34 @@
+[Desktop Entry]
+X-AppInstall-Package=pioneers
+X-AppInstall-Popcon=46
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Name=Pioneers
+Name[af]=Pioniers
+Name[cs]=Pioneers
+Name[da]=Pioneers
+Name[de]=Pioneers
+Name[es]=Pioneers
+Name[fr]=Pioneers
+Name[hu]=Pioneers
+Name[it]=Pioneers
+Name[ja]=パイオニア
+Name[nl]=Pioniers
+Name[pt]=Pioneers
+Name[sv]=Pioneers
+Comment=Play a game of Pioneers
+Comment[af]=Speel 'n Pioniers-spel
+Comment[da]=Spil et spil Pioneers
+Comment[fr]=Jouer à une partie de Pioneers
+Comment[hu]=Játsz egy játékot a Pioneersszal
+Comment[it]=Gioca una partita a Pioneers
+Comment[nl]=Speel een spel Pioniers
+Comment[pt]=Jogar um jogo de Pioneers
+Comment[sv]=Spela en omgång av Pioneers
+Exec=pioneers
+Icon=pioneers.png
+Terminal=false
+Type=Application
+Categories=Game;BoardGame;GNOME;GTK;

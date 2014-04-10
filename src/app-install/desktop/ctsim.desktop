@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=ctsim
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main
+
+Version=1.0
+Name=CTSim Computed Tomography Simulator
+GenericName=Computed Tomography Simulator
+Comment=Simulate the process of X-ray Computed Tomography
+Type=Application
+Exec=ctsim
+Icon=ctsim
+Categories=Education;Science;MedicalSoftware

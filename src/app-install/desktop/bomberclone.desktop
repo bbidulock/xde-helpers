@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=bomberclone
+X-AppInstall-Popcon=52
+X-AppInstall-Section=main
+
+Type=Application
+Name=Bomberclone
+Comment=Play a Bomberman like game
+Icon=bomberclone
+Exec=bomberclone
+Terminal=false
+Categories=Game;

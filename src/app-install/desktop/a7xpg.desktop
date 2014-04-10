@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=a7xpg
+X-AppInstall-Popcon=22
+X-AppInstall-Section=main
+
+Type=Application
+Name=A7Xpg
+GenericName=
+Comment=Kenta Cho's A7Xpg
+Icon=a7xpg
+Exec=a7xpg
+Terminal=false
+Categories=Game;ArcadeGame;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390

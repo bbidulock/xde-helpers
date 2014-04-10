@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=price.app
+X-AppInstall-Popcon=59
+X-AppInstall-Section=main
+
+Type=Application
+Version=0.94
+Categories=Graphics;2DGraphics;RasterGraphics;
+Name=PRICE
+Comment=Precision Raster Image Convolution Engine
+Icon=_usr_lib_GNUstep_Applications_PRICE.app_Resources_price-icon-os
+Exec=PRICE
+MimeType=

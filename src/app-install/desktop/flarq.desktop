@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=fldigi
+X-AppInstall-Popcon=32
+X-AppInstall-Section=main
+
+Name=Flarq
+GenericName=Fldigi ARQ Utility
+Comment=Amateur Radio Data Transfer with ARQ
+Exec=flarq
+Icon=flarq
+Terminal=false
+Type=Application
+Categories=Network;HamRadio;

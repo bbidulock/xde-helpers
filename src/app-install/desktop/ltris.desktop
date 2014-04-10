@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=ltris
+X-AppInstall-Popcon=23
+X-AppInstall-Section=main
+
+Name=LTris
+GenericName=Puzzle game
+Comment=Tetris clone
+Exec=ltris
+Icon=ltris
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Game;

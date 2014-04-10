@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=gosa-desktop
+X-AppInstall-Popcon=3
+X-AppInstall-Section=main
+
+MimeType=text/plain;
+GenericName=GOsa²
+Exec=/usr/bin/gosa
+Icon=gosa
+Path=/usr/bin
+Type=Application
+Terminal=false
+Name=GOsa
+X-KDE-StartupNotify=true
+Categories=Qt;KDE;Utility;System;

@@ -1,0 +1,10 @@
+[Desktop Entry]
+X-AppInstall-Package=smartpm
+X-AppInstall-Popcon=2
+X-AppInstall-Section=main
+
+Name=Smart Package Manager
+Exec=gksu -- smart --gui
+Icon=smart
+Type=Application
+Categories=System;

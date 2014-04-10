@@ -1,0 +1,22 @@
+[Desktop Entry]
+X-AppInstall-Package=rutilt
+X-AppInstall-Popcon=45
+X-AppInstall-Section=main
+
+Name=RutilT WLAN Manager
+Name[fr]=Utilitaire de Configuration Wifi RutilT
+Name[it]=Strumento di Configurazione WiFi RutilT
+GenericName=WLAN Manager
+GenericName[fr]=Utilitaire de Configuration Wifi
+GenericName[it]=Strumento di Configurazione WiFi
+Comment=Manage your wireless network interfaces
+Comment[fr]=Configurer vos cartes Wifi
+Comment[it]=Configura le tue schede WiFi
+Terminal=false
+Type=Application
+Categories=GTK;System;Settings;Network;
+Version=1.0
+StartupNotify=false
+Icon=rutilt
+Exec=rutilt
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

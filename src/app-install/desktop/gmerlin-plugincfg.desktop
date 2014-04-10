@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=gmerlin
+X-AppInstall-Popcon=52
+X-AppInstall-Section=main
+
+Name=Gmerlin plugin configurator
+Name[de]=Gmerlin plugin configurator
+Comment=Configure gmerlin plugins
+Comment[de]=Gmerlin Plugins konfigurieren
+Exec=gmerlin_plugincfg
+Icon=gmerlin-plugincfg.png
+Type=Application
+Categories=Application;AudioVideo;

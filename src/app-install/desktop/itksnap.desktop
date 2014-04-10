@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=itksnap
+X-AppInstall-Popcon=10
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+GenericName=3D Structure Segmentation
+Name=ITK-SNAP
+Exec=itksnap %F
+Type=Application
+Terminal=false
+Categories=Education;Graphics;Science;DataVisualization;MedicalSoftware;Viewer;
+Icon=itksnap.xpm

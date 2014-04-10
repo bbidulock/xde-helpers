@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=jaaa
+X-AppInstall-Popcon=28
+X-AppInstall-Section=main
+
+Version=1.0
+Name=jaaa
+Comment=Analyse or generate an Audio signal
+Exec=jaaa -A
+Icon=jaaa
+Terminal=false
+Type=Application
+Categories=AudioVideo;Audio;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

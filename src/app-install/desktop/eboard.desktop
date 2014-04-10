@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=eboard
+X-AppInstall-Popcon=116
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=eboard
+Comment=A graphical chessboard program
+Exec=/usr/games/eboard
+Categories=GTK;Game;BoardGame;
+Icon=eboard

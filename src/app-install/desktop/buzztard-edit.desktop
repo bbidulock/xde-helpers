@@ -1,0 +1,23 @@
+[Desktop Entry]
+X-AppInstall-Package=buzztard
+X-AppInstall-Popcon=25
+X-AppInstall-Section=main
+
+Version=0.5.0
+Encoding=UTF-8
+Type=Application
+Name=Buzztard Music Editor
+Name[de]=Buzztard Musik Editor
+Name[id]=Editor Musik Buzztard
+Name[nn]=Buzztard musikkredigering
+Comment=Edit buzztard song files
+Comment[de]=Buzzztard Musikstücke bearbeiten
+Comment[id]=Edit berkas lagu buzztard
+Comment[nn]=Redigerer buzztard-songfiler
+Exec=buzztard-edit --command=load --input-file=%f
+Terminal=false
+Icon=/usr/share/buzztard/pixmaps/buzztard
+DocPath=buzztard/buzztard.xml
+Categories=GNOME;GTK;AudioVideo;Audio;Sequencer
+MimeType=audio/x-bzt;audio/x-bzt-xml
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

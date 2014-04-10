@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=gtkhash
+X-AppInstall-Popcon=33
+X-AppInstall-Section=main
+
+Name=GtkHash
+Comment=Compute message digests and checksums
+Comment[de]=Berechnen von Prüfsummen
+Exec=gtkhash
+Icon=gtkhash
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;Utility;

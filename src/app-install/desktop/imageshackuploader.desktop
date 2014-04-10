@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=imageshack-uploader
+X-AppInstall-Popcon=27
+X-AppInstall-Section=main
+
+Name=ImageShack Uploader
+Name[ru]=Загрузчик ImageShack
+Comment=Upload your images and videos to ImageShack
+Comment[ru]=Загрузите свои изображения и видео на ImageShack
+Icon=imageshack
+Exec=imageshack-uploader
+Terminal=false
+Type=Application
+Categories=Network;Qt;FileTransfer;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390,sparc

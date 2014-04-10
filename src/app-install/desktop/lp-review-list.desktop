@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=lptools
+X-AppInstall-Popcon=15
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=Launchpad Reviews
+GenericName=Code Review Listing Dialog
+Comment=Show when new code reviews appear
+Exec=review-list
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Network;

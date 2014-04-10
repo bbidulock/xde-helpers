@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=bsc
+X-AppInstall-Popcon=32
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=bsc
+Comment=File manager with two panels
+Comment[de]=Dateiverwaltung mit zwei Ansichten
+GenericName=File manager with two panels
+GenericName[de]=Dateiverwaltung mit zwei Ansichten
+Exec=/usr/bin/bsc
+Categories=Utility;FileManager;Qt
+Icon=_usr_share_pixmaps_bsc

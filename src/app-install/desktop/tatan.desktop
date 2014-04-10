@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=tatan
+X-AppInstall-Popcon=2
+X-AppInstall-Section=main
+
+Type=Application
+Name=Tatan
+GenericName=
+Comment=HIZ's Tatan
+Icon=tatan
+Exec=tatan
+Terminal=false
+Categories=Game;ArcadeGame;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390

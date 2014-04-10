@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=python2.6
+X-AppInstall-Popcon=17684
+X-AppInstall-Section=main
+
+Name=Python (v2.6)
+Comment=Python Interpreter (v2.6)
+Exec=/usr/bin/python2.6
+Icon=_usr_share_pixmaps_python2.6
+Terminal=true
+Type=Application
+Categories=Development;
+StartupNotify=true
+NoDisplay=true

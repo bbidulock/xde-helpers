@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=sugar-emulator-0.84
+X-AppInstall-Popcon=2
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=Sugar
+GenericName=Sugar Emulator
+Comment=The emulator for the Sugar Desktop Environment
+Exec=/usr/bin/sugar-emulator
+Terminal=false
+Type=Application
+Categories=Application;Emulator;Education

@@ -1,0 +1,41 @@
+[Desktop Entry]
+X-AppInstall-Package=desktopnova
+X-AppInstall-Popcon=49
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=DesktopNova
+Name[ar]=DesktopNova
+Name[cs]=DesktopNova
+Name[de]=DesktopNova
+Name[es]=DesktopNova
+Name[fr]=DesktopNova
+Name[gl]=DesktopNova
+Name[hu]=DesktopNova
+Name[it]=DesktopNova
+Name[pl]=DesktopNova
+Name[pt]=DesktopNova
+Name[pt_BR]=DesktopNova
+Name[ru]=DesktopNova
+Name[tr]=DesktopNova
+Name[zh_CN]=DesktopNova
+Comment=Changes your background image automatically
+Comment[ar]=يغير صورة خلفية سطح مكتبك تلقائيا
+Comment[cs]=Automaticky mění pozadí pracovní plochy
+Comment[de]=Ändert Ihr Hintergrundbild automatisch
+Comment[es]=Cambia automáticamente su imagen de fondo
+Comment[fr]=Change le papier-peint automatiquement
+Comment[gl]=Cambia a imaxe de fondo automaticamente
+Comment[hu]=Automatikusan megváltoztatja a háttérképet
+Comment[it]=Cambia lo l'immagine dello sfondo automaticamente
+Comment[pl]=Zmienia tło obrazu automatycznie
+Comment[pt]=Muda a sua imagem de fundo automaticamente
+Comment[pt_BR]=Troca seu papel de parede automaticamente
+Comment[ru]=Изменяет обои рабочего стола автоматически
+Comment[tr]=Arka plan görüntüsünü otomatik olarak değiştirir
+Comment[zh_CN]=自动更换你的壁纸
+Icon=desktopnova
+Exec=desktopnova
+Categories=GNOME;Application;Utility;
+

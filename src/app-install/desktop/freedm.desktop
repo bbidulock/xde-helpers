@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=freedm
+X-AppInstall-Popcon=22
+X-AppInstall-Section=main
+
+Name=Free DM
+GenericName=Multiplayer-only Clone of the first person shooter Doom
+Comment=First Person Shooter Game
+Exec=/usr/games/freedm
+Icon=freedm
+Terminal=false
+Type=Application
+Categories=Game;ActionGame;

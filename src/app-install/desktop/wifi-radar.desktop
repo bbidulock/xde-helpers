@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=wifi-radar
+X-AppInstall-Popcon=588
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=WiFi Radar
+GenericName=Wireless tool
+Comment=Tool for connecting to wireless networks
+Icon=wifi-radar.svg
+Exec=su-to-root -X -c /usr/sbin/wifi-radar
+Categories=Application;Network;

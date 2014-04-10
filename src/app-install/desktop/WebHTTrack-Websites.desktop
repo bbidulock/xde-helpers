@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=webhttrack
+X-AppInstall-Popcon=107
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Categories=Network;
+Terminal=false
+Name=Browse Mirrored Websites
+Comment=Browse Websites Mirrored by WebHTTrack
+Exec=webhttrack browse
+Icon=_usr_share_httrack_icons_webhttrack

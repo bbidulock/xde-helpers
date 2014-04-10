@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=lekhonee-gnome
+X-AppInstall-Popcon=2
+X-AppInstall-Section=main
+
+Type=Application
+Name=Lekhonee Gnome
+GenericName=A Wordpress blog client
+Comment=A Wordpress blog client
+Icon=lekhonee-gnome
+Exec=lekhonee-gnome
+Terminal=false
+Categories=Application;Network;

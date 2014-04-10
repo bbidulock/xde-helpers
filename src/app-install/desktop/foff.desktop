@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=foff
+X-AppInstall-Popcon=9
+X-AppInstall-Section=main
+
+Version=1.0
+Name=FOFF
+Comment=Lightweight graphical FTP client
+Type=Application
+Exec=foff
+Icon=foff
+Categories=Network;FileTransfer;
+Terminal=false
+StartupNotify=false

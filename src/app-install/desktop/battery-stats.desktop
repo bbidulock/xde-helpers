@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=battery-stats
+X-AppInstall-Popcon=99
+X-AppInstall-Section=main
+
+Name=Battery Charge Graph
+Type=Application
+Comment=Battery Charge Graph
+Exec=/usr/bin/battery-graph
+Icon=/usr/share/battery-graph/pixmaps/battery-stats.xpm
+Terminal=false
+Categories=Utility
+X-AppInstall-Architectures=amd64,hppa,i386,ia64,sparc

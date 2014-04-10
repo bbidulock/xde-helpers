@@ -1,0 +1,18 @@
+[Desktop Entry]
+X-AppInstall-Package=cb2bib
+X-AppInstall-Popcon=10
+X-AppInstall-Section=main
+
+Comment=Bibliographic Reference Citation Tool
+Comment[ca]=Eina bibliogràfica per escriure citacions
+Exec=cb2bib --citer %F
+GenericName=Reference Citation Tool
+GenericName[ca]=Eina per citacions bibliogràfiques
+Icon=cb2bib
+MimeType=text/x-bibtex;
+Name=c2bCiter
+Path=/usr/bin
+StartupNotify=false
+Terminal=false
+Categories=Office;
+Type=Application

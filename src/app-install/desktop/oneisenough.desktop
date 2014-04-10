@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=oneisenough
+X-AppInstall-Popcon=30
+X-AppInstall-Section=main
+
+Type=Application
+Name=One Is Enough
+GenericName=oneisenough
+Comment=2D platform game about communist and capitalist balls
+Icon=oneisenough
+Exec=oneisenough
+Terminal=false
+Categories=Game;ArcadeGame;

@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=packagesearch
+X-AppInstall-Popcon=101
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Name=Debian Package Search
+Comment=Search for packages and view package information
+Exec=packagesearch
+Icon=packagesearch
+Type=Application
+Categories=PackageManager;System;Settings;Qt;

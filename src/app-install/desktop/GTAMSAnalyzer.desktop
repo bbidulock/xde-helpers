@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=gtamsanalyzer.app
+X-AppInstall-Popcon=44
+X-AppInstall-Section=main
+
+Name=GTAMSAnalyzer
+Name[bg]=GTAMSAnalyzer
+Comment=Qualitative Research Software for GNUstep
+Comment[bg]=Софтуер за изследване на текст за GNUstep
+Version=1.0
+Type=Application
+Categories=Utility;TextTools;
+Icon=/usr/lib/GNUstep/Applications/GTAMSAnalyzer.app/Resources/largeApp.tif
+Exec=GTAMSAnalyzer

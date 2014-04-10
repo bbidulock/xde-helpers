@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-AppInstall-Package=teleport
+X-AppInstall-Popcon=6
+X-AppInstall-Section=main
+
+Name=Teleport
+Comment=Move applications between displays
+Exec=mb-applet-launcher -k /usr/share/pixmaps/teleport.png teleport
+Type=PanelApp
+Icon=teleport.png
+Categories=Panel;Utility;GPE

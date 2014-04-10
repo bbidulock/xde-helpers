@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=gpsdrive
+X-AppInstall-Popcon=70
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=GpsDrive
+Comment=GPS Navigation
+Comment[de]=GPS Navigationsprogramm
+Exec=gpsdrive
+Icon=gpsicon.png
+Terminal=false
+Type=Application
+Categories=Graphics;Network;Geography
+StartupNotify=true

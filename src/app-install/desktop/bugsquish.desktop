@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=bugsquish
+X-AppInstall-Popcon=23
+X-AppInstall-Section=main
+
+Version=0.9.4
+Encoding=UTF-8
+Name=Bug Squish
+Type=Application
+GenericName=Game
+Comment=Squash the bugs before they suck up your blood
+Exec=bugsquish
+Icon=bugsquish-icon
+Terminal=false
+Hidden=false
+Categories=Application;Game;2DGraphics;ActionGame;

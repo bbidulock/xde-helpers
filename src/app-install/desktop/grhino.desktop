@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=grhino
+X-AppInstall-Popcon=15
+X-AppInstall-Section=main
+
+Name=GRhino
+GenericName=GTP-compliant Reversi game
+Comment=Reversi game for GNOME, supporting the Go/Game Text Protocol
+Exec=grhino
+Icon=grhino.png
+Terminal=false
+Type=Application
+Version=0.16.0
+Categories=Application;GNOME;Game;BoardGame;
+StartupNotify=true

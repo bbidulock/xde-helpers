@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=sgt-puzzles
+X-AppInstall-Popcon=137
+X-AppInstall-Section=main
+
+Version=1.0
+Terminal=false
+Exec=inertia
+Icon=inertia
+Type=Application
+Categories=Game;LogicGame;
+Name=Inertia
+Comment=Collect all the gems without running into any mines
+Comment[fr]=Collecter tous les gèmes sans toucher une seule mine
+Comment[de]=Sammle alle Edelsteine ohne in Minen zu geraten

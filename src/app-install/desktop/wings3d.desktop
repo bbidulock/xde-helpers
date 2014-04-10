@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=wings3d
+X-AppInstall-Popcon=79
+X-AppInstall-Section=main
+
+Name=Wings3D polygon mesh modeller
+Comment=Create and edit 3D models of objects
+Exec=/usr/bin/wings3d -noshell -noinput -detached
+Terminal=false
+Type=Application
+Icon=_usr_share_icons_wings3d
+Categories=Graphics;3DGraphics;
+StartupNotify=false

@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=sqlitebrowser
+X-AppInstall-Popcon=222
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=SQLite database browser
+Comment=GUI editor for SQLite databases
+Exec=sqlitebrowser
+Icon=sqlitebrowser.png
+Terminal=false
+Type=Application
+Categories=Development;Database;Qt;
+StartupNotify=false
+MimeType=application/x-sqlite;

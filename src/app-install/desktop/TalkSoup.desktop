@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=talksoup.app
+X-AppInstall-Popcon=41
+X-AppInstall-Section=main
+
+Type=Application
+Version=0.94
+Categories=Network;IRCClient;
+Name=TalkSoup
+Comment=An IRC Client for GNUstep and Mac OS X
+Icon=TalkSoup.tiff
+Exec=TalkSoup

@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-AppInstall-Package=shisen.app
+X-AppInstall-Popcon=19
+X-AppInstall-Section=main
+
+Type=Application
+Version=0.94
+Categories=Game;LogicGame;
+Name=Shisen
+Icon=/usr/lib/GNUstep/Applications/Shisen.app/Resources/GShisen.tiff
+Exec=Shisen

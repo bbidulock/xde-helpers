@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=aconnectgui
+X-AppInstall-Popcon=52
+X-AppInstall-Section=main
+
+Name=Aconnectgui
+Comment=Midi connections manager 
+Exec=/usr/bin/aconnectgui
+Icon=_usr_share_pixmaps_aconnectgui
+Terminal=false
+Type=Application
+Categories=Application;AudioVideo;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

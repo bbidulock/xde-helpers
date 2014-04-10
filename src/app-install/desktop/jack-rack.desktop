@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=jack-rack
+X-AppInstall-Popcon=74
+X-AppInstall-Section=main
+
+Name=JACK Rack
+Comment=Stereo LADSPA effects rack
+Exec=jack-rack
+Icon=jack-rack-icon
+Terminal=false
+Type=Application
+Categories=GNOME;Application;AudioVideo;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

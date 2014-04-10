@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=monsterz
+X-AppInstall-Popcon=83
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Monsterz
+Comment=Little arcade puzzle game, similar to the famous Bejeweled
+Exec=monsterz
+Icon=_usr_share_games_monsterz_graphics_icon
+Terminal=false
+Type=Application
+Categories=Game;ArcadeGame;

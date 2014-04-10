@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=mmpong-gl
+X-AppInstall-Popcon=3
+X-AppInstall-Section=main
+
+Type=Application
+Exec=mmpong-gl
+Icon=mmpong-gl
+Categories=Game;ArcadeGame
+
+Name=mmpong-gl
+Comment=massively multiplayer pong game
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

@@ -1,0 +1,14 @@
+# $Id: autokey.desktop 22 2008-01-29 11:29:13Z peabody $
+[Desktop Entry]
+X-AppInstall-Package=autokey-qt
+X-AppInstall-Popcon=10
+X-AppInstall-Section=main
+
+Name=AutoKey (QT)
+GenericName=Keyboard Automation
+Comment=Program keyboard shortcuts
+Exec=autokey-qt
+Terminal=false
+Type=Application
+Icon=_usr_share_pixmaps_akicon
+Categories=KDE;Utility;

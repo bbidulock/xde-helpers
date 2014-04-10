@@ -1,0 +1,36 @@
+[Desktop Entry]
+X-AppInstall-Package=agave
+X-AppInstall-Popcon=88
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=Agave
+Name[cs]=Agave
+Name[de]=Agave
+Name[fr]=Agave
+Name[it]=Agave
+Name[ja]=Agave
+Name[nl]=Agave kleurenschema's
+Name[pl]=Agave
+Name[sv]=Agave
+Name[zh_TW]=Agave
+Comment=Generate color schemes
+Comment[bg]=Генериране на цветови палитри
+Comment[ca]=Genera esquemes de color
+Comment[cs]=Vytváření barevných schémat
+Comment[de]=Farbkombinationen erzeugen
+Comment[es_ES]=Genere esquemas de color
+Comment[fr]=Générer des arrangements de couleurs
+Comment[gl_ES]=Xenere esquemas de cor
+Comment[it]=Genera schemi di colore
+Comment[ja]=色スキーマの生成
+Comment[nl]=Kleurenschema's maken
+Comment[pl]=Wygeneruj zestaw kolorów
+Comment[pt_BR]=Crie esquemas de cores
+Comment[ru]=Создать цветовую схему
+Comment[sv]=Generera färgscheman
+Comment[zh_TW]=產生色彩配置檔
+Icon=agave
+Exec=agave
+Categories=GNOME;Application;Graphics

@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=fotowall
+X-AppInstall-Popcon=36
+X-AppInstall-Section=main
+
+Name=Fotowall
+GenericName=Fotowall
+Comment=Photo collection creativity tool
+Exec=fotowall
+Icon=fotowall
+Terminal=false
+Type=Application
+Categories=Graphics;Publishing;

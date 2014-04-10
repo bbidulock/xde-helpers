@@ -1,0 +1,18 @@
+[Desktop Entry]
+X-AppInstall-Package=python-dogtail
+X-AppInstall-Popcon=1
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=Dogtail Script Recorder
+Name[en_CA]=Dogtail Script Recorder
+Name[en_GB]=Dogtail Script Recorder
+Comment=Automate your desktop using Dogtail
+Comment[en_CA]=Automate your desktop using Dogtail
+Comment[en_GB]=Automate your desktop using Dogtail
+Exec=dogtail-recorder
+Terminal=false
+Type=Application
+Icon=dogtail-head.svg
+StartupNotify=true
+Categories=Application;Development;

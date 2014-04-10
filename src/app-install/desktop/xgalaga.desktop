@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=xgalaga
+X-AppInstall-Popcon=64
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Galaga
+Comment=Play Galaga Game
+Exec=xgalaga
+Icon=xgalaga-icon
+Terminal=false
+Type=Application
+Categories=Game;ArcadeGame;

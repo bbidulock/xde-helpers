@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=v4l2ucp
+X-AppInstall-Popcon=134
+X-AppInstall-Section=main
+
+Type=Application
+Name=Video4Linux Control Panel
+Comment=A universal control panel for V4L2 devices
+Exec=v4l2ucp
+Categories=Settings;HardwareSettings;
+Icon=v4l2ucp
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

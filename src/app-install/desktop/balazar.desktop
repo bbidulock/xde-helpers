@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=balazar
+X-AppInstall-Popcon=36
+X-AppInstall-Section=main
+
+Type=Application
+Name=Balazar
+GenericName=Action / Adventure Game
+Comment=Play a 3D adventure and roleplaying game
+Comment[ca]=Jugueu a un joc d'estratègia i rol amb gràfics 3D
+Comment[es]=Juega a un juego de estrategia y rol con graficos 3D
+Icon=balazar
+Categories=Game;AdventureGame;ArcadeGame;RolePlaying;
+Exec=balazar

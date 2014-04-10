@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=fluid
+X-AppInstall-Popcon=34
+X-AppInstall-Section=main
+
+Name=FLUID
+Comment=FLTK GUI Designer
+Exec=cd %D && fluid %F
+Icon=fluid
+Terminal=false
+Type=Application
+MimeType=application/x-fluid
+Categories=Development;GUIDesigner;

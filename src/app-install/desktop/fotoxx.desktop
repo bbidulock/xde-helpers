@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=fotoxx
+X-AppInstall-Popcon=68
+X-AppInstall-Section=main
+
+Name=fotoxx
+Categories=Graphics
+Type=Application
+Terminal=false
+Exec=/usr/bin/fotoxx
+Icon=_usr_share_fotoxx_icons_fotoxx
+GenericName=Digital Photo Editor
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=snowballz
+X-AppInstall-Popcon=15
+X-AppInstall-Section=main
+
+Type=Application
+Name=SnowballZ
+GenericName=snowballz
+Comment=Command your army of penguins
+Icon=snowballz
+Exec=snowballz
+Terminal=false
+Categories=Game;StrategyGame;

@@ -1,0 +1,35 @@
+[Desktop Entry]
+X-AppInstall-Package=gtkpod
+X-AppInstall-Popcon=197
+X-AppInstall-Section=main
+
+Name=gtkpod iPod Manager
+Name[es]=Administrador de iPod gtkpod
+Name[he]=תוכנת gtkpod מנהל ה־iPod
+Name[it]=Gestore di iPod
+Name[sv]=Gtkpod hantering av iPod
+Name[zh_CN]=gtkpod iPod管理器
+GenericName=iPod Manager
+GenericName[es]=Administrador de iPod
+GenericName[fr]=Gestionnaire iPod
+GenericName[he]=מנהל ה־iPod
+GenericName[it]=Gestore di iPod
+GenericName[ro]=Gestionar de iPod
+GenericName[ru]=Менеджер iPod
+GenericName[sv]=Hantering av iPod
+GenericName[zh_CN]=iPod管理器
+Comment=Manage music and video on an Apple iPod
+Comment[de]=Verwaltet Musik & Videos auf dem iPod
+Comment[es]=Administrar musica y vídeo en un iPod Apple
+Comment[fr]=Gérer musiques et vidéos sur un iPod Apple
+Comment[he]=ניהול מוסיקה ווידאו על נגן ה־iPod של Apple
+Comment[it]=Gestisci musica e video negli iPod Apple
+Comment[ro]=Gestionează muzica şi fişierele video pe un iPod Apple
+Comment[ru]=Менеджер музыки и видео для Apple iPod
+Comment[sv]=Hantera musik och video på en Apple iPod
+Comment[zh_CN]=管理Apple iPod的音乐和视频
+Exec=gtkpod
+Icon=gtkpod
+Terminal=false
+Type=Application
+Categories=GTK;AudioVideo;

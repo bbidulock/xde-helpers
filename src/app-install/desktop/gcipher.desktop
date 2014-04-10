@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=gcipher
+X-AppInstall-Popcon=23
+X-AppInstall-Section=main
+
+Name=GCipher
+Comment=A simple encryption tool
+Name[en_US.ISO8859-15]=GCipher
+Comment[en_US.ISO8859-15]=A simple encryption tool
+Exec=gcipher
+Icon=/usr/share/pixmaps/gnome-lockscreen.png
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;Application;Utility;X-Red-Hat-Base;

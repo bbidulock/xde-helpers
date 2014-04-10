@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=praat
+X-AppInstall-Popcon=28
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Praat Speech Analyzer
+Name[en_GB]=Praat Speech Analyser
+GenericName=Speech Analyzer
+GenericName[en_GB]=Speech Analyser
+Comment=Analyze, synthesize and manipulate speech
+Comment[en_GB]=Analyse, synthesise and manipulate speech
+Type=Application
+Exec=praat
+Icon=praat
+Categories=Education;Science;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

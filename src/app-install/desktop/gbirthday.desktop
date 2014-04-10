@@ -1,0 +1,22 @@
+[Desktop Entry]
+X-AppInstall-Package=gbirthday
+X-AppInstall-Popcon=9
+X-AppInstall-Section=main
+
+Name=GBirthday
+Version=0.4.0
+Comment=Birthday reminder for Evolution contacts
+Comment[en]=Birthday reminder for Evolution contacts
+Comment[de]=Geburtstags-Reminder für Evolution Kontakte
+Comment[es]=Recordatorio de cumpleaños para los contactos de Evolution
+Comment[fr]=Rappel d'anniversaire pour Paul contacts
+Comment[gl]=Recordatorio de aniversarios pros contactos do Evolution
+Comment[it]=Promemoria compleanno per i contatti di Evolution
+Comment[pt]=Lembrete dos aniversários para os contatos do Evolution
+Comment[sk]=Upozornenie na narodeniny pre kontakty programu Evolution
+Exec=gbirthday
+Terminal=false
+Type=Application
+Categories=Office;
+StartupNotify=false
+Icon=_usr_share_gbirthday_pics_birthday

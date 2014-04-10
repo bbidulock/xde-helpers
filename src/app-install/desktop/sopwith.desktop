@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=sopwith
+X-AppInstall-Popcon=19
+X-AppInstall-Section=main
+
+Name=Sopwith
+Comment=WW1 Dogfighting Game
+Exec=sopwith
+Icon=sopwith.png
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=Game;ArcadeGame;

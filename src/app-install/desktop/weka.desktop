@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=weka
+X-AppInstall-Popcon=22
+X-AppInstall-Section=main
+
+Name=weka
+GenericName=Machine learning algorithms for data mining tasks
+Exec=/usr/bin/weka
+Terminal=false
+Type=Application
+Categories=Education;Science;Java
+Encoding=UTF-8

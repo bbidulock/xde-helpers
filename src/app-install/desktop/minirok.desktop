@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=minirok
+X-AppInstall-Popcon=22
+X-AppInstall-Section=main
+
+Type=Application
+Name=Minirok
+Exec=minirok %U
+Icon=minirok
+Encoding=UTF-8
+Terminal=false
+Categories=Qt;KDE;AudioVideo;Audio;Player;
+MimeType=audio/vorbis;audio/x-flac;audio/x-mp3;audio/x-musepack;audio/x-oggflac;audio/x-vorbis;

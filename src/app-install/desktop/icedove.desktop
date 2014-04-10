@@ -1,0 +1,34 @@
+[Desktop Entry]
+X-AppInstall-Package=icedove
+X-AppInstall-Popcon=7616
+X-AppInstall-Section=main
+
+Name=Icedove Mail/News
+Comment=Read/Write Mail/News with Icedove
+GenericName=Mail Client
+Exec=icedove %u
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=icedove
+Categories=Network;Email;News;GTK;
+MimeType=message/rfc822;
+StartupWMClass=Icedove-bin
+StartupNotify=true
+Name[ca]=Client de correu Icedove
+Name[cs]=Poštovní klient Icedove
+Name[fi]=Icedove-sähköposti
+Name[fr]=Messagerie Icedove
+Name[pl]=Klient poczty Icedove
+Name[pt_BR]=Cliente de E-mail Icedove
+Name[sv]=E-postklienten Icedove
+Comment[ca]=Llegiu i escriviu correu
+Comment[cs]=Čtení a psaní pošty
+Comment[de]=Emails lesen und verfassen
+Comment[fi]=Lue ja kirjoita sähköposteja
+Comment[fr]=Lire et écrire des courriels
+Comment[it]=Leggere e scrivere email
+Comment[ja]=メールの読み書き
+Comment[pl]=Czytanie i wysyłanie e-maili
+Comment[pt_BR]=Ler e escrever suas mensagens
+Comment[sv]=Läs och skriv e-post

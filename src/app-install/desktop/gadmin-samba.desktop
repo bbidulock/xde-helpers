@@ -1,0 +1,26 @@
+[Desktop Entry]
+X-AppInstall-Package=gadmin-samba
+X-AppInstall-Popcon=126
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=GADMIN-SAMBA
+Name[de]=GADMIN-SAMBA
+Name[es]=GADMIN-SAMBA
+Name[fi]=GADMIN-SAMBA
+Name[fr]=GADMIN-SAMBA
+Name[ko]=GADMIN-SAMBA
+Name[no]=GADMIN-SAMBA
+Name[pt_BR]=GADMIN-SAMBA
+Name[sl]=GADMIN-SAMBA
+Name[sv]=GADMIN-SAMBA
+Name[uk]=GADMIN-SAMBA
+Name[ro]=GADMIN-SAMBA
+Name[zh_TW]=GADMIN-SAMBA
+GenericName=GADMIN-SAMBA
+Comment=SAMBA file, print and domain server administration
+Exec=su-to-root -X -c /usr/sbin/gadmin-samba
+Icon=gadmin-samba
+Terminal=false
+Type=Application
+Categories=GTK;System;

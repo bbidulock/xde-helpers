@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=filler
+X-AppInstall-Popcon=7
+X-AppInstall-Section=main
+
+Name=Filler
+Comment=Filler in Java Game
+Comment[pl]=Filler w Javie
+Icon=filler.png
+Exec=filler
+Terminal=0
+Type=Application

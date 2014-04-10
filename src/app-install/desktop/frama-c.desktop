@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=frama-c
+X-AppInstall-Popcon=6
+X-AppInstall-Section=main
+
+Name=Frama-C
+Comment=Framework for source code analysis of software written in C
+Exec=frama-c-gui
+Type=Application
+Categories=Development;Science;IDE;GTK;
+Terminal=false
+Icon=frama-c

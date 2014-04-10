@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=xpuzzles
+X-AppInstall-Popcon=14
+X-AppInstall-Section=main
+
+Name=xcubes
+GenericName=cubes game
+Exec=/usr/games/xcubes
+Icon=_usr_share_pixmaps_xcubes.m
+Terminal=false
+Type=Application
+Categories=Game;

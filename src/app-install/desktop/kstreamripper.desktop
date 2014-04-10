@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=kstreamripper
+X-AppInstall-Popcon=70
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Name=KStreamRipper
+Comment=Streamripper Frontend
+Exec=kstreamripper
+Icon=kstreamripper
+Type=Application
+Terminal=false
+Categories=AudioVideo;Audio;Tuner;Recorder;

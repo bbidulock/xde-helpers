@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=liquidwar
+X-AppInstall-Popcon=51
+X-AppInstall-Section=main
+
+Type=Application
+Version=1.0
+Name=Liquid War
+Comment=A unique multiplayer wargame
+Categories=Game;ArcadeGame;
+Exec=liquidwar
+Icon=liquidwar
+Terminal=false

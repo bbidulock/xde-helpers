@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=sgt-puzzles
+X-AppInstall-Popcon=137
+X-AppInstall-Section=main
+
+Version=1.0
+Terminal=false
+Exec=galaxies
+Icon=galaxies
+Type=Application
+Categories=Game;LogicGame;
+Name=Galaxies
+Comment=Draw edges along the grid lines which divide the rectangle under certain rules
+Comment[fr]=Dessiner des traits sur la grille pour créer des zones rectangulaires suivant certaines règles
+Comment[de]=Zeichne Ecken entlang der Gitterlinien, die das Rechteck gemäß bestimmter Regeln teilen

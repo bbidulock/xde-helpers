@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=qucs
+X-AppInstall-Popcon=105
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=Qucs
+Comment=A Universal Circuit Simulator
+Comment[es]=Un simulador universal de circuitos
+Comment[de]=Ein universeller Schaltkreissimulator
+Exec=qucs %U
+Icon=_usr_share_pixmaps_big.qucs
+Terminal=false
+Type=Application
+Categories=Education;Electronics
+StartupNotify=false

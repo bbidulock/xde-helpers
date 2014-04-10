@@ -1,0 +1,21 @@
+[Desktop Entry]
+X-AppInstall-Package=cbrpager
+X-AppInstall-Popcon=96
+X-AppInstall-Section=main
+
+Name=Cbrpager
+GenericName=Comic book viewer
+GenericName[sv]=Serieboksläsare
+GenericName[fr]=Visionneur de bandes dessinées
+Comment=A viewer for comic book archives
+Comment[it]=Un visualizzatore di fumetti 
+Comment[es]=Un visor de comics
+Comment[sv]=En serieboksläsare
+Comment[fr]=Visionneur d'images spécialisé dans la lecture des bandes dessinées
+Comment[pl]=Przeglądarka komiksów
+Exec=cbrpager %f
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Graphics;Viewer;
+MimeType=application/x-cbz;application/x-cbr;application/x-cb7

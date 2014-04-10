@@ -1,0 +1,24 @@
+[Desktop Entry]
+X-AppInstall-Package=freecad
+X-AppInstall-Popcon=63
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Name=FreeCAD
+Name[de]=FreeCAD
+Comment=Feature based Parametric Modeler
+Comment[de]=Feature-basierter parametrischer Modellierer
+GenericName=CAD Application
+GenericName[de]=CAD-Anwendung
+Exec=/usr/bin/freecad %F
+Path=/usr/lib/freecad
+Terminal=false
+Type=Application
+Icon=_usr_share_freecad_freecad
+Categories=Graphics;Science;Engineering
+StartupNotify=true
+GenericName[de_DE]=Feature-basierter parametrischer Modellierer
+Comment[de_DE]=Feature-basierter parametrischer Modellierer
+MimeType=application/x-extension-fcstd
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

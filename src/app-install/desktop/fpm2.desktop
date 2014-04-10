@@ -1,0 +1,29 @@
+[Desktop Entry]
+X-AppInstall-Package=fpm2
+X-AppInstall-Popcon=48
+X-AppInstall-Section=main
+
+Version=1.0
+
+Type=Application
+
+Name=Figaro's Password Manager 2
+GenericName=Password Manager
+GenericName[cs]=Správce hesel
+GenericName[de]=Kennwortverwalter
+GenericName[se]=Lösenordshanterare
+GenericName[fr]=Gestionnaire de Mots de Passe
+GenericName[it]=Gestore di Parole d'Ordine
+Comment=Manage passwords
+Comment[cs]=Správa hesel
+Comment[de]=Kennwörter verwalten
+Comment[se]=Hantera lösenord
+Comment[fr]=Gérer les mots de passe
+Comment[it]=Gestire le parole d'ordine
+Icon=_usr_share_pixmaps_fpm2_logo
+
+Categories=GTK;Utility;
+
+Exec=fpm2 %f
+Terminal=false
+StartupNotify=true

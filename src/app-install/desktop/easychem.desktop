@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=easychem
+X-AppInstall-Popcon=55
+X-AppInstall-Section=main
+
+Name=EasyChem Chemical Structures Editor
+Comment=Create high-quality chemical formulas
+Name[de]=EasyChem Strukturformeleditor
+Comment[de]=Strukturformeln mit hoher Qualtät erstellen
+Exec=easychem
+Icon=easychem
+Terminal=false
+Type=Application
+Categories=GTK;Education;Science;Chemistry;

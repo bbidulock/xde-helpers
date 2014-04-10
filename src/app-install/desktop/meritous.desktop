@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=meritous
+X-AppInstall-Popcon=14
+X-AppInstall-Section=main
+
+Type=Application
+Name=Meritous
+GenericName=
+Comment=action-adventure dungeon crawl game
+Icon=meritous
+Exec=meritous
+Terminal=false
+Categories=Application;Game;AdventureGame;

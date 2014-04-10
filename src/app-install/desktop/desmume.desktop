@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=desmume
+X-AppInstall-Popcon=52
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=DeSmuME (Gtk)
+Comment=Nintento DS emulator
+Exec=desmume
+Icon=DeSmuME
+Categories=GNOME;GTK;Game;Emulator;
+MimeType=application/x-nintendo-ds-rom;

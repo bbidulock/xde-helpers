@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=songwrite
+X-AppInstall-Popcon=19
+X-AppInstall-Section=main
+
+Name=Songwrite
+GenericName=Tablature editor
+Type=Application
+Categories=Application;AudioVideo;Audio;Music;AudioVideoEditing;Player;
+Terminal=false
+Exec=songwrite
+Comment=guitar tablature editor and player
+Icon=_usr_share_songwrite_data_songwrite_32x32

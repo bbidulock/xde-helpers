@@ -1,0 +1,21 @@
+[Desktop Entry]
+X-AppInstall-Package=rfdump
+X-AppInstall-Popcon=12
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=RFDump
+GenericName=RFID tool
+GenericName[de]=RFID-Tool
+Comment=Tool to directly interoperate with an RFID reader
+Comment[de]=Tool zum direkten Zugriff auf RFID-Leser
+Icon=_usr_share_pixmaps_rfdump
+
+Exec=rfdump
+Terminal=false
+StartupNotify=false
+
+Categories=Utility;Electronics
+

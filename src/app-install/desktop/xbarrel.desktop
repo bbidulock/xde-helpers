@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=xpuzzles
+X-AppInstall-Popcon=14
+X-AppInstall-Section=main
+
+Name=xbarrel
+GenericName=barrel game
+Exec=/usr/games/xbarrel
+Icon=_usr_share_pixmaps_xbarrel.m
+Terminal=false
+Type=Application
+Categories=Game;

@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=pathogen
+X-AppInstall-Popcon=15
+X-AppInstall-Section=main
+
+Name=Pathogen
+GenericName=pathogen
+Comment=Destroy the pathogens
+Type=Application
+Exec=pathogen
+Icon=pathogen
+Terminal=false
+Categories=Game;LogicGame;
+

@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=bzr-explorer
+X-AppInstall-Popcon=7
+X-AppInstall-Section=main
+
+Type=Application
+Version=1.0
+Name=Bazaar Explorer
+GenericName=Version Control GUI
+Comment=GUI application for using Bazaar
+Icon=bzr-explorer
+Exec=bzr explorer
+Categories=Development;RevisionControl;

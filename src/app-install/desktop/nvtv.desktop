@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=nvtv
+X-AppInstall-Popcon=182
+X-AppInstall-Section=main
+
+Version=1.0
+Icon=nvtv
+Name=Nvtv TV Out
+Comment=Control the TV output of NVidia video cards
+Comment[es]=Controle la salida de TV de tarjetas de video NVidia
+Exec=nvtv
+Type=Application
+Categories=AudioVideo;TV
+X-AppInstall-Architectures=amd64,i386

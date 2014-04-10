@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=komparator
+X-AppInstall-Popcon=71
+X-AppInstall-Section=main
+
+Name=Komparator4
+Name[x-test]=xxKomparator4xx
+Exec=komparator4 %U
+Icon=komparator4
+Type=Application
+Comment=A KDE Directory Synchronization Application
+Comment[de]=Eine KDE-Anwendung zum Abgleich von Ordnern
+Comment[x-test]=xxA KDE Directory Synchronization Applicationxx
+Terminal=false
+Categories=Qt;KDE;Utility;Archiving;
+X-DocPath=komparator4/index.html

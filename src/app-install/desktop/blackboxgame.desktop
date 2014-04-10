@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=sgt-puzzles
+X-AppInstall-Popcon=137
+X-AppInstall-Section=main
+
+Version=1.0
+Terminal=false
+Exec=blackboxgame
+Icon=blackboxgame
+Type=Application
+Categories=Game;LogicGame;
+Name=Black Box
+Comment=Deduce the positions of the balls by firing lasers
+Comment[fr]=Déduire la position des balles en tirant un laser
+Comment[de]=Leite die Positionen von Bällen durch Feuern von Lasern her

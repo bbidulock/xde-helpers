@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=openbmap-logger
+X-AppInstall-Popcon=4
+X-AppInstall-Section=main
+
+Name=OBM
+Comment=Logs GSM and GPS and uploads to openBmap.
+Encoding=UTF-8
+Version=0.4.0
+Type=Application
+Exec=openBmapGTK
+Icon=openBmap-desktop
+Terminal=true
+Categories=GTK;Application;Geography;
+X-MB-SingleInstance=true
+StartupNotify=true

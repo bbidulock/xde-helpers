@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=alltray
+X-AppInstall-Popcon=174
+X-AppInstall-Section=main
+
+Name=AllTray
+GenericName=AllTray
+Comment=Dock everything
+Exec=alltray
+Icon=alltray.png
+Terminal=false
+Type=Application
+Categories=Application;Utility;
+StartupNotify=false

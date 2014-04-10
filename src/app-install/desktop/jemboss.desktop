@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=jemboss
+X-AppInstall-Popcon=1
+X-AppInstall-Section=main
+
+Version=1.0
+Terminal=false
+Icon=jemboss
+Exec=runJemboss.csh
+Name=Jemboss
+GenericName=GUI for EMBOSS
+Comment=Graphical user interface for the European Molecular Biology Open Software Suite.
+Type=Application
+Categories=Biology;Science;Education;

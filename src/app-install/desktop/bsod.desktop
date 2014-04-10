@@ -1,0 +1,14 @@
+
+[Desktop Entry]
+X-AppInstall-Package=xscreensaver-screensaver-bsod
+X-AppInstall-Popcon=367
+X-AppInstall-Section=main
+
+Name=BSOD
+Exec=/usr/lib/xscreensaver/bsod -root
+Comment=BSOD stands for "Blue Screen of Death". The finest in personal computer emulation, BSOD simulates popular screen savers from a number of less robust operating systems. Written by Jamie Zawinski.
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=Screensaver;
+OnlyShowIn=GNOME;

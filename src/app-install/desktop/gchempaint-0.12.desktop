@@ -1,0 +1,26 @@
+[Desktop Entry]
+X-AppInstall-Package=gchempaint
+X-AppInstall-Popcon=54
+X-AppInstall-Section=main
+
+Version=1.0
+Name=GChemPaint Chemical Structures Editor
+Name[de]=GChemPaint Chemischer Strukturformeleditor
+Name[fr]=Éditeur de structures chimiques GChemPaint
+Name[pl]=Edytor wzorów strukturalnych GChemPaint
+Name[zh_TW]=GChempaint 化學結構編輯軟體
+Comment=Edit chemical 2D structures
+Comment[de]=Erstellt 2D-Formeln chemischer Strukturen
+Comment[fr]=Édite des structures chimiques 2D
+Comment[it]=Modifica le strutture chimiche 2D
+Comment[pl]=Edytuj dwuwymiarowe wzory chemiczne
+Comment[pt_BR]=Edita estruturas químicas 2D
+Comment[ru]=Редактирование химических структур
+Comment[zh_CN]=编辑 2D 化学结构
+Comment[zh_TW]=編輯 2D 化學結構
+Exec=gchempaint-0.12 %U
+Terminal=false
+Type=Application
+Icon=gchempaint
+Categories=GTK;GNOME;Education;Science;Chemistry;
+MimeType=application/x-gchempaint;chemical/x-cml;chemical/x-pdb;chemical/x-cdx;chemical/x-cdxml;chemical/x-mdl-molfile;chemical/x-ncbi-asn1;chemical/x-ncbi-asn1-binary;chemical/x-ncbi-asn1-xml;

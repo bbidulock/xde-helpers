@@ -1,0 +1,21 @@
+[Desktop Entry]
+X-AppInstall-Package=pybackpack
+X-AppInstall-Popcon=37
+X-AppInstall-Section=main
+
+Name=File Backup Manager
+Name[cs]=Správce zálohování souborů
+Name[ja]=ファイルバックアップ管理
+Name[ru]=Резервное копирование файлов
+Name[de]=Dateisicherungs-Manager
+Comment=Back up important files
+Comment[cs]=Zálohujte důležité soubory
+Comment[ja]=重要なファイルをバックアップ
+Comment[ru]=Создание резервных копий важных файлов
+Comment[de]=Wichtige Dateien sichern
+Categories=Application;System;Settings
+Exec=pybackpack %F
+Icon=file-roller.png
+StartupNotify=true
+Terminal=false
+Type=Application

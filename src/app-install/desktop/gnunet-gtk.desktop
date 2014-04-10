@@ -1,0 +1,24 @@
+[Desktop Entry]
+X-AppInstall-Package=gnunet-gtk
+X-AppInstall-Popcon=20
+X-AppInstall-Section=main
+
+Version=1.0
+Name=GNUnet Secured P2P
+Name[es]=P2P segurizado GNUnet
+Name[fr]=P2P sécurisé GNUnet
+GenericName=GNUnet Client
+GenericName[fr]=Client GNUnet
+Comment=Share files using GNU's anonymous and censorship-resistant network
+Comment[de]=Sicherer Datentausch mit GNUnet P2P
+Comment[es]=Compartir datos con la red anónima y resistente a la censura de GNU
+Comment[fr]=Partager des fichiers sur le réseau anonyme et résistant à la censure de GNU
+
+Type=Application
+Exec=gnunet-gtk
+Icon=gnunet-gtk
+Terminal=false
+Categories=GTK;Network;P2P;FileTransfer;
+StartupNotify=true
+StartupWMClass=gnunet-gtk
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

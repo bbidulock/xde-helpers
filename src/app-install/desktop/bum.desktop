@@ -1,0 +1,23 @@
+[Desktop Entry]
+X-AppInstall-Package=bum
+X-AppInstall-Popcon=177
+X-AppInstall-Section=main
+
+Name=BootUp-Manager
+Name[fr]=BootUp-Manager
+Name[it]=Boot-Up Manager
+Comment=Graphical runlevel configuration tool
+Comment[de]=Ein graphisches Werkzeug zur Handhabung von Runlevel Konfiguration
+Comment[es]=Herramienta gráfica para manejar la configuración de los niveles de ejecución («runlevels»).
+Comment[fr]=Un outil graphique pour configurer les runlevels
+Comment[he]=עורך שלבי הרצה גרפי
+Comment[it]=Un tool grafico per gestire la configurazione dei runlevel
+Comment[pl]=Graficzne narzędzie do zarządzania usługami startowymi.
+Comment[sv]=Grafiskt konfigurationsverktyg av körnivåer
+Comment[tr]=Çalışma seviyelerini yapılandırmalarını yönetmek için grafik araç.
+Exec=su-to-root -X -c bum
+Icon=bum
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=System;Settings;

@@ -1,0 +1,23 @@
+[Desktop Entry]
+X-AppInstall-Package=aqemu
+X-AppInstall-Popcon=53
+X-AppInstall-Section=main
+
+Name=AQEMU
+GenericName=QEMU & KVM Virtual Machine Manager
+Exec=aqemu
+Terminal=false
+Type=Application
+Icon=aqemu-32x32.xpm
+StartupNotify=true
+Categories=Qt;System;Emulator;
+
+Name[ru]=AQEMU
+Name[en]=AQEMU
+Name[it]=AQEMU
+Name[fr]=AQEMU
+Comment[ru]=Управление виртуальными машинами
+Comment[en]=Front-end for QEMU and KVM
+Comment[it]=Interfaccia Grafica per QEMU e KVM
+Comment[fr]=Interface graphique pour QEMU et KVM
+X-AppInstall-Architectures=amd64,armel,i386,powerpc,sparc

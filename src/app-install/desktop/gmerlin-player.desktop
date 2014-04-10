@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=gmerlin
+X-AppInstall-Popcon=52
+X-AppInstall-Section=main
+
+Name=Gmerlin player
+Name[de]=Gmerlin player
+Comment=Multiformat mediaplayer
+Comment[de]=Multiformat mediaplayer
+Exec=gmerlin
+Icon=gmerlin-player.png
+Type=Application
+Categories=Application;AudioVideo;
+

@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=mokomaze
+X-AppInstall-Popcon=3
+X-AppInstall-Section=main
+
+Name=Mokomaze
+Comment=Ball-in-the-labyrinth game
+Encoding=UTF-8
+Version=0.5
+Type=Application
+Exec=/usr/games/mokomaze
+Terminal=false
+Categories=Game;
+X-MB-SingleInstance=true
+Icon=mokomaze

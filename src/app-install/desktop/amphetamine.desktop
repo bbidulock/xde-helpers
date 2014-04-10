@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=amphetamine
+X-AppInstall-Popcon=37
+X-AppInstall-Section=main
+
+Name=Amphetamine
+GenericName=Jump and Run game
+Comment=Fight evil monsters with your magic weapons.
+Type=Application
+Exec=amph
+Icon=amph
+Terminal=false
+Categories=Game;ActionGame;
+

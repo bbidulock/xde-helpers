@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=sgt-puzzles
+X-AppInstall-Popcon=137
+X-AppInstall-Section=main
+
+Version=1.0
+Terminal=false
+Exec=keen
+Icon=keen
+Type=Application
+Categories=Game;LogicGame;
+Name=Keen
+Comment=Game based on KenKen
+Comment[de]=Auf KenKen basierendes Puzzlespiel

@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=cameleon
+X-AppInstall-Popcon=25
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=Report
+GenericName=XML schema builder for OCaml
+GenericName[fr]=Constructeur de schema XML pour OCaml
+Comment=Edit schema to define XML reader in OCaml
+Comment[fr]=Edition de schema qui définissent des lecteurs XML en OCaml
+Exec=report2.gui.byte
+Categories=Development;Viewer;GTK

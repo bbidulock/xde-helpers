@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=golly
+X-AppInstall-Popcon=25
+X-AppInstall-Section=main
+
+Type=Application
+Name=Golly
+GenericName=Game of Life Simulator
+Comment=A Conway's Game of Life simulator
+Comment[it]=Un simulatore del "gioco della vita" di Conway
+Comment[ja]=コンウェイのライフゲーム
+Icon=golly.xpm
+Exec=golly
+Terminal=false
+Categories=Game;LogicGame;

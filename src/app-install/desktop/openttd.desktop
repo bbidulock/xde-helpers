@@ -1,0 +1,56 @@
+# $Id: openttd.desktop.in 19928 2010-06-04 21:14:22Z rubidium $
+# http://standards.freedesktop.org/desktop-entry-spec/desktop-entry-spec-1.1.html
+[Desktop Entry]
+X-AppInstall-Package=openttd
+X-AppInstall-Popcon=113
+X-AppInstall-Section=main
+
+Type=Application
+Version=1.1
+Name=OpenTTD
+Icon=openttd
+Exec=/usr/share/games/openttd/openttd-wrapper
+Terminal=false
+Categories=Game;
+Comment=A clone of Transport Tycoon Deluxe
+Comment[be_BY]=Клён гульні Transport Tycoon Deluxe
+Comment[bg_BG]=Клонинг на Transport Tycoon Deluxe
+Comment[ca_ES]=Un clon de Transport Tycoon Deluxe
+Comment[cs_CZ]=Klon Transport Tycoon Deluxe
+Comment[da_DA]=En klon af Transport Tycoon Deluxe
+Comment[de_DE]=Ein Transport Tycoon Deluxe Klon
+Comment[el_GR]=Ένας κλώνος του Transport Tycoon Deluxe
+Comment[en_GB]=A clone of Transport Tycoon Deluxe
+Comment[eo_EO]=Imitaĵo de Transport Tycoon Deluxe
+Comment[es_ES]=Un clon de Transport Tycoon Deluxe
+Comment[et_ET]=Koopia Transport Tycoon Deluxe-est
+Comment[fi_FI]=Klooni Transport Tycoon Deluxesta
+Comment[fr_FR]=Un clone de Transport Tycoon Deluxe
+Comment[ga_IE]=Clón de Transport Tycoon Deluxe
+Comment[he_IL]=עותק של Transport Tycoon Deluxe
+Comment[hr_HR]=Klon Transport Tycoon Deluxea
+Comment[hu_HU]=Egy Transport Tycoon Deluxe klón
+Comment[id_ID]=Tiruan Transport Tycoon Deluxe
+Comment[is_IS]=Transport Tycoon Deluxe eftirherma
+Comment[it_IT]=Un clone di Transport Tycoon Deluxe
+Comment[ko_KR]=트랜스포트 타이쿤 디럭스 복사본
+Comment[lb_LU]=En Transport Tycoon Deluxe Klon
+Comment[lt_LT]=Transport Tycoon Deluxe klonas
+Comment[ms_MY]=Klon Transport Tycoon Deluxe
+Comment[nb_NO]=En Transport Tycoon Deluxe-klone
+Comment[nl_NL]=Een kloon van Transport Tycoon Deluxe
+Comment[nn_NO]=Ein Transport Tycoon Deluxe-klone
+Comment[pl_PL]=Klon Transport Tycoon Deluxe
+Comment[pt_BR]=Um clone de Transport Tycoon Deluxe
+Comment[pt_PT]=Um clone de Transport Tycoon Deluxe
+Comment[ro_RO]=O clona de Transport Tycoon Deluxe
+Comment[ru_RU]=Клон игры «Transport Tycoon Deluxe»
+Comment[sk_SK]=Klon hry Transport Tycoon Deluxe
+Comment[sl_SL]=Klon Transport Tycoona Deluxe
+Comment[sr_RS]=Transport Tycoon Deluxe klon
+Comment[sv_SE]=En klon av Transport Tycoon Deluxe
+Comment[tr_TR]=Transport Tycoon Deluxe'ün bir klonu
+Comment[uk_UA]=Клон гри "Transport Tycoon Deluxe"
+Comment[vi_VN]=Một bản sao của Transport Tycoon Deluxe
+Comment[zh_CN]=克隆 TTD 全新版
+Comment[zh_TW]=《運輸大亨豪華版》的全新重寫版本

@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=garlic
+X-AppInstall-Popcon=35
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Garlic Protein Visualization
+Name[en_GB]=Garlic Protein Visualisation
+GenericName=Protein Visualization
+GenericName[en_GB]=Protein Visualisation
+Comment=Visualize and investigate proteins and some geometric objects
+Comment[en_GB]=Visualise and investigate proteins and some geometric objects
+Type=Application
+Exec=garlic
+Icon=garlic
+Categories=Science;Biology;Chemistry;Education;

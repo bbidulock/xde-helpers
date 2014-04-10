@@ -1,0 +1,33 @@
+[Desktop Entry]
+X-AppInstall-Package=gnome-color-chooser
+X-AppInstall-Popcon=161
+X-AppInstall-Section=main
+
+Version=1.0
+Name=GNOME Color Chooser
+Comment=Customize your GNOME desktop
+Comment[bg]=Настройка работния плот на GNOME
+Comment[cs]=Úprava vzhledu prostředí GNOME
+Comment[de]=Den GNOME-Desktop farblich anpassen
+Comment[en_CA]=Customize your GNOME desktop
+Comment[es]=Personalize su escritorio GNOME
+Comment[fr]=Customisez votre bureau GNOME
+Comment[he]=התאם אישית את שולחן ה־GNOME שלך
+Comment[hu]=GNOME-asztal testreszabása
+Comment[id]=Kostumisasikan desktop GNOME anda
+Comment[it]=Personalizza il proprio ambiente grafico GNOME
+Comment[oc]=Customizatz vòstre burèu GNOME
+Comment[pl]=Indywializuje pulpit GNOME
+Comment[pt]=Personalizar o ambiente de trabalho GNOME
+Comment[pt_BR]=Customizar sua área de trabalho do GNOME
+Comment[ru]=Настроить Ваш рабочий стол GNOME
+Comment[sv]=Anpassa ditt GNOME-skrivbord
+Comment[th]=ปรับแต่งเดสท็อป GNOME ของคุณ
+Comment[tr]=GNOME masaüstünüzü özelleştirin
+Comment[zh_CN]=自定义您的 GNOME 桌面
+Exec=gnome-color-chooser
+Terminal=false
+Type=Application
+Icon=gnome-color-chooser.svg
+Categories=GNOME;Settings;
+StartupNotify=true

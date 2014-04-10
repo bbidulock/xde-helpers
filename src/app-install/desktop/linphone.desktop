@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=linphone
+X-AppInstall-Popcon=126
+X-AppInstall-Section=main
+
+Name=Linphone
+Comment=Linphone is a web-phone
+Comment[fr]=Linphone est un web-phone.
+Comment[de]=Linphone ist ein web-phone.
+Type=Application
+Exec=linphone-3
+Icon=_usr_share_pixmaps_linphone_linphone
+Terminal=false
+Categories=Network;Telephony;

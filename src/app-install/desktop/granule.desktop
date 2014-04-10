@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=granule
+X-AppInstall-Popcon=18
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=Granule
+Comment=Flashcards Program
+Exec=granule
+Icon=granule.png
+Terminal=false
+Type=Application
+Categories=GNOME;Application;Utility;
+

@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=idle-python2.6
+X-AppInstall-Popcon=93
+X-AppInstall-Section=main
+
+Name=IDLE (using Python-2.6)
+Comment=Integrated Development Environment for Python (using Python-2.6)
+Exec=/usr/bin/idle-python2.6 -n
+Icon=_usr_share_pixmaps_python2.6
+Terminal=false
+Type=Application
+Categories=Application;Development;
+StartupNotify=true

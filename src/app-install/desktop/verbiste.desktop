@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=verbiste-gnome
+X-AppInstall-Popcon=201
+X-AppInstall-Section=main
+
+Name=Verbiste
+Name[fr]=Verbiste
+Categories=Office;Dictionary
+Comment=French conjugation system
+Comment[fr]=Système de conjugaison française
+Exec=verbiste
+Icon=verbiste.png
+Terminal=false
+Type=Application
+Version=1.0

@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=asc
+X-AppInstall-Popcon=34
+X-AppInstall-Section=main
+
+Name=Advanced Strategic Command
+GenericName=asc
+Comment=Defend your Command
+Type=Application
+Exec=asc
+Icon=asc
+Terminal=false
+Categories=Game;StrategyGame;

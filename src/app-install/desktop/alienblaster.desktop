@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=alienblaster
+X-AppInstall-Popcon=22
+X-AppInstall-Section=main
+
+Name=AlienBlaster
+GenericName=2D Action Shooter
+Comment=Blast the invading aliens
+Type=Application
+Exec=alienblaster
+Icon=alienblaster
+Terminal=false
+Categories=Game;ActionGame;
+

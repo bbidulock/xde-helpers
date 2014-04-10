@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=sgt-puzzles
+X-AppInstall-Popcon=137
+X-AppInstall-Section=main
+
+Version=1.0
+Terminal=false
+Exec=twiddle
+Icon=twiddle
+Type=Application
+Categories=Game;LogicGame;
+Name=Twiddle
+Comment=Arrange the numbers into ascending order 
+Comment[fr]=Placer les nombres dans ordre ascendant
+Comment[de]=Sortiere die Zahlen in absteigende Reihenfolge

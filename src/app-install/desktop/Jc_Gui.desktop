@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=jcgui
+X-AppInstall-Popcon=4
+X-AppInstall-Section=main
+
+Name=Jc_Gui
+GenericName=Jconvolver Gui
+Comment=Host for jconvolver
+Exec=Jc_Gui
+Icon=Jc_Gui
+Categories=AudioVideo;X-Jack;
+Terminal=false
+Type=Application

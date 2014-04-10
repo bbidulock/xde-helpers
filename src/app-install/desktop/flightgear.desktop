@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=flightgear
+X-AppInstall-Popcon=95
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Type=Application
+Version=1.4
+Name=FlightGear
+Exec=fgfs
+Terminal=false
+Categories=Game;Simulation;
+Comment=A flight simulator
+Comment[pt]=Simulação de Vôo
+Icon=

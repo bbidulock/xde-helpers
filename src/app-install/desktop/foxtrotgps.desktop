@@ -1,0 +1,23 @@
+[Desktop Entry]
+X-AppInstall-Package=foxtrotgps
+X-AppInstall-Popcon=67
+X-AppInstall-Section=main
+
+Name=FoxtrotGPS
+GenericName=GPS and Map
+GenericName[de]=GPS und Karten
+GenericName[es]=GPS y mapa
+GenericName[fi]=GPS ja kartta
+Comment=Display map and GPS position
+Comment[de]=Zeigt Karten und GPS-Position
+Comment[es]=Mostrar mapa y posición GPS
+Comment[fi]=Näytä kartta ja GPS-sijainti
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Exec=foxtrotgps
+Icon=foxtrotgps
+Terminal=false
+Categories=GTK;Utility;Geography;
+StartupNotify=true
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

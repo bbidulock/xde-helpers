@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=alsamixergui
+X-AppInstall-Popcon=642
+X-AppInstall-Section=main
+
+Name=Alsamixergui
+Comment=Graphical audio mixer
+Exec=/usr/bin/alsamixergui
+Icon=_usr_share_pixmaps_alsamixergui
+Terminal=false
+Type=Application
+Categories=Application;AudioVideo;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

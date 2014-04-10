@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=fldigi
+X-AppInstall-Popcon=32
+X-AppInstall-Section=main
+
+Name=Fldigi
+GenericName=Amateur Radio Digital Modem
+Comment=Amateur Radio Sound Card Communications
+Exec=fldigi
+Icon=fldigi
+Terminal=false
+Type=Application
+Categories=Network;HamRadio;

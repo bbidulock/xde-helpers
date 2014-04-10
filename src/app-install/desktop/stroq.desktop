@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=stroq
+X-AppInstall-Popcon=1
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=StroQ
+GenericName=Board Game
+Type=Application
+Categories=Application;Game;BoardGame;
+Terminal=0
+Exec=stroq
+Icon=_usr_share_pixmaps_stroq-icon
+Comment=StroQ, a Polarium/Chokkan Hitofude clone

@@ -1,0 +1,35 @@
+[Desktop Entry]
+X-AppInstall-Package=minbar
+X-AppInstall-Popcon=9
+X-AppInstall-Section=main
+
+Name=Minbar Prayer Times
+Name[ar]=برنامج مواقيت الصّلاة «منبر»
+Name[bs]=Minbar Vaktovi Namaza
+Name[es]=Minbar Prayer Times
+Name[fa]=منبر، برنامه‌ی اوقات شرعی
+Name[fr]=Horaires de prière avec Minbar
+Name[id]=Waktu Sholat Minbar
+Name[ps]=منبار د لمونځ وختونه
+Name[ru]=Программа расчета времени намаза «Минбар»
+Name[tr]=Minbar Namaz Vakitleri
+Name[ur]=منبر اوقات نماز
+Name[ur_PK]=منبر اوقاتِ نماز
+Comment=Islamic prayer times
+Comment[ar]=مواقيت الصّلاة
+Comment[bs]=Islamski vaktovi namaza
+Comment[es]=Horario islamico de salat
+Comment[fa]=اوقات شرعی نماز
+Comment[fr]=Horaires de prière musulmane
+Comment[id]=Waktu sholat Islam
+Comment[ps]=د اسلامي لمونځونو وختونه
+Comment[ru]=Время намазов
+Comment[tr]=İslami ibadet vakitleri
+Comment[ur]=اسلامی اوقات نماز
+Comment[ur_PK]=اسلامی اوقاتِ نماز
+Exec=minbar
+Icon=minbar
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;Utility;Utility;

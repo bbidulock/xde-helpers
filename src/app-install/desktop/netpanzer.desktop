@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=netpanzer
+X-AppInstall-Popcon=23
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=NetPanzer
+GenericName=Realtime Strategy Game
+Comment=Online multiplayer tactical warfare game
+Icon=netpanzer
+Exec=netpanzer
+Terminal=false
+StartupNotify=false
+Categories=Game;StrategyGame;

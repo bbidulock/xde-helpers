@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=mysql-navigator
+X-AppInstall-Popcon=173
+X-AppInstall-Section=main
+
+Version=1.0
+Name=MySQL Navigator
+Comment=GUI client for MySQL
+Exec=mysql-navigator
+Icon=mysql-navigator.xpm
+Type=Application
+Terminal=false
+Categories=Database;Utility;

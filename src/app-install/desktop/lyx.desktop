@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=lyx
+X-AppInstall-Popcon=1415
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=LyX Document Processor
+GenericName=Document Processor
+Comment=High level LaTeX frontend
+Exec=lyx %F
+Icon=lyx
+StartupNotify=false
+StartupWMClass=Lyx
+Terminal=false
+Categories=Office;WordProcessor;Qt;
+MimeType=text/x-lyx;application/x-lyx;

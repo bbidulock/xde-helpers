@@ -1,0 +1,21 @@
+[Desktop Entry]
+X-AppInstall-Package=streamtuner
+X-AppInstall-Popcon=163
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Type=Application
+Name=streamtuner
+GenericName=Stream Directory Browser
+GenericName[de]=Streamverzeichnis durchsuchen
+GenericName[fr]=Navigateur de Répertoire de Stations
+GenericName[ja]=ストリーム ディレクトリ ブラウザ
+Comment=Browse Internet stream directories
+Comment[de]=Internet Streamverzeichnisse durchsuchen
+Comment[fr]=Parcours les répertoires de stations sur Internet
+Comment[ja]=インターネットストリーム ディレクトリを調べる
+Icon=streamtuner.png
+Exec=streamtuner
+Terminal=false
+Categories=AudioVideo;GTK;Tuner;
+StartupNotify=true

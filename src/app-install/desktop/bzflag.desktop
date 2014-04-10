@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=bzflag
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+
+Name=BZFlag
+GenericName=Tank Battle Game
+Comment=Battle enemy tanks
+Exec=/usr/games/bzflag
+Icon=bzflag-48x48
+Type=Application
+Categories=Game;ActionGame;3DGraphics;

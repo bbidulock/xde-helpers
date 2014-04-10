@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=ncbi-tools-x11
+X-AppInstall-Popcon=85
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Cn3D NCBI Database Viewer
+GenericName=Database Viewer
+Comment=View NCBI databases in 3D
+Type=Application
+Exec=Cn3D-3.0
+Icon=ncbilogo
+Categories=Education;Science;Biology;

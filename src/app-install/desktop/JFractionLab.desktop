@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=jfractionlab
+X-AppInstall-Popcon=24
+X-AppInstall-Section=main
+
+Name=JFractionLab
+Comment=Calculate Fractions is fun!
+Comment[es]=¡Calcular con fracciones es divertido!
+Encoding=UTF-8
+Exec=JFractionLab
+GenericName=
+GenericName[es]=
+Icon=_usr_share_jfractionlab_images_jfractionlab_icon
+Type=Application
+X-KDE-SubstituteUID=false
+Categories=Application;Education;Math;

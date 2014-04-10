@@ -1,0 +1,23 @@
+[Desktop Entry]
+X-AppInstall-Package=lletters
+X-AppInstall-Popcon=29
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Linux Letters and Numbers
+Name[es]=Linux Letras y Números
+Name[fr]=Linux Lettres et Nombres
+Name[nl]=Linux Letters en Nummers
+GenericName=lletters
+Comment=GTK letters-learning game for small children
+Comment[es]=Juego de aprendizaje de letras para niños
+Icon=lletters.xpm
+
+FilePattern=lletters
+Exec=lletters
+Terminal=false
+StartupNotify=false
+
+Categories=Application;Game;Education;KidsGame;2DGraphics;

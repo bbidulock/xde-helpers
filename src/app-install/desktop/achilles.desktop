@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=achilles
+X-AppInstall-Popcon=33
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Name=Achilles Life Simulator
+GenericName=Life Simulator
+Comment=Watch a simulation of artificial life and evolution
+Type=Application
+Exec=achilles
+Icon=achilles
+Categories=Application;Education;Science;Biology;Simulation;

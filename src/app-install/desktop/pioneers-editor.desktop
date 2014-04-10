@@ -1,0 +1,33 @@
+[Desktop Entry]
+X-AppInstall-Package=pioneers
+X-AppInstall-Popcon=46
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Name=Pioneers Editor
+Name[af]=Pioniers-redigeerder
+Name[cs]=Pioneers Editor
+Name[da]=Editor for Pioneers
+Name[de]=Pioneers Editor
+Name[es]=Editos de Pioneers
+Name[fr]=Éditeur de partie
+Name[hu]=Pioneers szerkesztő
+Name[it]=Editor Pioneers
+Name[ja]=パイオニアエディタ
+Name[nl]=Pioniers Editor
+Name[pt]=Editor de Pioneers
+Name[sv]=Redigerare för Pioneers
+Comment=Create your own game for Pioneers
+Comment[da]=Skab dit eget spil til Pioneers
+Comment[fr]=Créez votre propre partie de Pioneers
+Comment[hu]=Készíts saját játékot a Pioneershoz
+Comment[it]=Creal la tua partita di Pioneers
+Comment[nl]=Ontwerp je eigen spel voor Pioniers
+Comment[pt]=Crie o seu jogo de Pioneers
+Comment[sv]=Skapa ett egna spel för Pioneers
+Exec=pioneers-editor
+Icon=pioneers-editor.png
+Terminal=false
+Type=Application
+Categories=Game;BoardGame;GNOME;GTK;

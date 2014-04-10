@@ -1,0 +1,22 @@
+[Desktop Entry]
+X-AppInstall-Package=kid3
+X-AppInstall-Popcon=207
+X-AppInstall-Section=main
+
+Name=Kid3
+Exec=kid3 %f
+Icon=kid3
+Type=Application
+X-DocPath=kid3/index.html
+MimeType=audio/mpeg;application/ogg;audio/x-flac;audio/x-flac+ogg;audio/x-vorbis+ogg;audio/x-speex+ogg;audio/x-oggflac;audio/x-musepack;audio/aac;audio/mp4;audio/x-speex;audio/x-tta;audio/x-wavpack;x-directory/normal;inode/directory;
+GenericName=Audio Tagger
+GenericName[de]=Audio Tag Editor
+GenericName[es]=Editor de etiquetas de audio
+GenericName[fi]=Äänitiedostojen tagimuokkaaja
+GenericName[fr]=Éditeur de balises
+GenericName[it]=Editor di tag audio
+GenericName[nl]=Audio tag editor
+GenericName[pl]=Edytor znaczników audio
+GenericName[ru]=Программа-редактор аудио-тегов
+Terminal=false
+Categories=Qt;KDE;AudioVideo;Audio;AudioVideoEditing;

@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=systempreferences.app
+X-AppInstall-Popcon=15
+X-AppInstall-Section=main
+
+Type=Application
+Version=1.0
+Categories=Settings;DesktopSettings;
+Name=System Preferences
+Name[bg]=Настройки на системата
+Comment=GNUstep preferences application
+Comment[bg]=Настройки на GNUstep
+Icon=/usr/lib/GNUstep/Applications/SystemPreferences.app/Resources/SystemPreferences.tiff
+Exec=SystemPreferences

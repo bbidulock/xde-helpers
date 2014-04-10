@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=tork
+X-AppInstall-Popcon=71
+X-AppInstall-Section=main
+
+Name=TorK
+GenericName=Anonymity Manager
+Comment=An Anonymity Manager for KDE
+Type=Application
+Categories=Qt;KDE;Network;FileTransfer
+Terminal=false
+Icon=tork
+Exec=tork %i %m -caption "%c" %u
+X-DCOP-ServiceType=Unique

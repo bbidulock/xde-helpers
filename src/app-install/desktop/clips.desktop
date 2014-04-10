@@ -1,0 +1,23 @@
+[Desktop Entry]
+X-AppInstall-Package=clips
+X-AppInstall-Popcon=21
+X-AppInstall-Section=main
+
+# The format of this file is specified at
+# http://freedesktop.org/Standards/desktop-entry-spec/
+# The entries are in the order they are listed in version 0.9.4
+Type=Application
+Version=1.0
+Encoding=UTF-8
+Name=CLIPS
+GenericName=Expert system tool
+GenericName[en_GB]=Expert system tool
+GenericName[es]=Herramienta de sistemas expertos
+Comment=Expert system tool
+Comment[es]=Herramienta de sistemas expertos
+Icon=clips.xpm
+Exec=clips
+Path=
+Terminal=true
+MimeType=
+Categories=Development;Building;ArtificialIntelligence

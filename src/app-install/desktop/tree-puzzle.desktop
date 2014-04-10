@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=tree-puzzle
+X-AppInstall-Popcon=21
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Terminal=yes
+Icon=tree-puzzle
+Exec=tree-puzzle
+Name=tree-puzzle
+GenericName=Reconstruction of phylogenetic trees
+GenericName[en]=Reconstruction of phylogenetic trees
+Comment=Reconstruction of phylogenetic trees by maximum likelihood
+Comment[en]=Reconstruction of phylogenetic trees by maximum likelihood
+Type=Application
+Categories=Biology;Science;Education;

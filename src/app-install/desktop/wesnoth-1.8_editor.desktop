@@ -1,0 +1,43 @@
+[Desktop Entry]
+X-AppInstall-Package=wesnoth-1.8-core
+X-AppInstall-Popcon=256
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=Battle for Wesnoth Map Editor (1.8)
+Name[cs]=Editor map Bitvy o Wesnoth (1.8)
+Name[de]=Battle for Wesnoth Karteneditor (1.8)
+Name[es]=Editor de mapas de Wesnoth (1.8)
+Name[fr]=Éditeur de cartes Wesnoth (1.8)
+Name[hu]=Harc Wesnothért pályaszerkesztő (1.8)
+Name[lt]=Mūšio dėl Vesnoto žemėlapių redaktorius (1.8)
+Name[sr]=Уређивач мапа Боја за Веснот (1.8)
+Name[sr@ijekavian]=Уређивач мапа Боја за Веснот (1.8)
+Name[sr@ijekavianlatin]=Uređivač mapa Boja za Vesnot (1.8)
+Name[sr@latin]=Uređivač mapa Boja za Vesnot (1.8)
+Name[tr]=Wesnoth Savaşı Harita Düzenleyici (1.8)
+GenericName=Map Editor
+GenericName[cs]=Editor map
+GenericName[de]=Karteneditor
+GenericName[es]=Editor de mapas
+GenericName[fr]=Éditeur de cartes
+GenericName[hu]=Pályaszerkesztő
+GenericName[lt]=Žemėlapių redaktorius
+GenericName[sr]=Уређивач мапа
+GenericName[sr@latin]=Uređivač mapa
+GenericName[tr]=Harita Düzenleyici
+Comment=A map editor for Battle for Wesnoth maps
+Comment[cs]=Editor map pro Bitvu o Wesnoth
+Comment[de]=Ein Karteneditor für Battle for Wesnoth
+Comment[es]=Un editor de mapas para la Batalla por Wesnoth
+Comment[fr]=Un éditeur de cartes pour La Bataille pour Wesnoth
+Comment[hu]=A Harc Wesnothért játék pályaszerkesztője
+Comment[lt]=Žemėlapių redaktorius Mūšio dėl Vesnoto žemėlapiams
+Comment[sr]=Уређивач за мапе намењене Боју за Веснот
+Comment[sr@latin]=Uređivač za mape namenjene Boju za Vesnot
+Comment[tr]=Wesnoth savaşı haritaları için harita düzenleyici
+Icon=wesnoth-1.8_editor-icon
+Exec=wesnoth-1.8-nolog -e
+Categories=Game;StrategyGame;
+

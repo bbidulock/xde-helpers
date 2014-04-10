@@ -1,0 +1,19 @@
+[Desktop Entry]
+X-AppInstall-Package=podbrowser
+X-AppInstall-Popcon=12
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Name=Pod Browser
+Comment=Browse Perl Documentation
+Type=Application
+Exec=podbrowser
+Icon=podbrowser.png
+X-GNOME-DocPath=
+Terminal=false
+Name[en_GB]=Pod Browser
+GenericName[en_GB]=
+Comment[en_GB]=Browse Perl Documentation
+StartupNotify=true
+Categories=GNOME;Application;Development;X-Red-Hat-Base;

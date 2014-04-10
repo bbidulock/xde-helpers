@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=kobodeluxe
+X-AppInstall-Popcon=40
+X-AppInstall-Section=main
+
+Type=Application
+Name=Kobo Deluxe
+Name[bg]=Кобо делукс
+Comment=Destroy enemy bases in space
+Comment[nl]=Schiet vijandelijke bases in de ruimte kapot
+Comment[fr]=Détruire des bases ennemies dans l'espace
+Comment[bg]=Унищожете вражеските бази в космоса
+Exec=kobodl
+Icon=kobo-icon
+StartupNotify=true
+Terminal=false
+Categories=Game;ArcadeGame

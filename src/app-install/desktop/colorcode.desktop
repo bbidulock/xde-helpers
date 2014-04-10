@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=colorcode
+X-AppInstall-Popcon=10
+X-AppInstall-Section=main
+
+Version=1.0
+Name=ColorCode
+Comment=Advanced clone of the MasterMind code-breaking game
+GenericName=Clone of the MasterMind code-breaking game
+GenericName[fr]=Clone avancé du jeu MasterMind
+Exec=/usr/games/colorcode
+Terminal=false
+Icon=_usr_share_pixmaps_colorcode32
+Type=Application
+Categories=Qt;Game;LogicGame;
+

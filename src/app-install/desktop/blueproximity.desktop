@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=blueproximity
+X-AppInstall-Popcon=130
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/usr/bin/blueproximity
+Name=BlueProximity
+Icon=blueproximity
+Categories=Application;Utility;
+StartupNotify=false

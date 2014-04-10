@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=jajuk
+X-AppInstall-Popcon=17
+X-AppInstall-Section=main
+
+Name=Jajuk
+Comment=Jajuk Advanced Jukebox
+Exec=jajuk
+Icon=jajuk.png
+Terminal=false
+Type=Application
+Categories=AudioVideo

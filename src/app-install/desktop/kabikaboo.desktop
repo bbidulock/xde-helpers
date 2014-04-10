@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=kabikaboo
+X-AppInstall-Popcon=7
+X-AppInstall-Section=main
+
+Exec=kabikaboo
+Icon=_usr_share_kabikaboo_kabikaboo
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Office;
+StartupNotify=false
+Name=Kabikaboo
+GenericName=Writing Assistant
+Comment=Manage large collections of notes

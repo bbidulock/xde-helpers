@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=wrapperfactory.app
+X-AppInstall-Popcon=126
+X-AppInstall-Section=main
+
+Name=WrapperFactory
+Name[bg]=WrapperFactory
+Comment=Graphically create Unix application wrappers for GNUstep
+Comment[bg]=Графично създаване на стартери за GNUstep
+Type=Application
+Version=1.0
+Categories=System;FileTools;
+Icon=_usr_lib_GNUstep_Applications_WrapperFactory.app_Resources_WrapperFactory
+Exec=WrapperFactory

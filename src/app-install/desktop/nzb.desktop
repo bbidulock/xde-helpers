@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=nzb
+X-AppInstall-Popcon=18
+X-AppInstall-Section=main
+
+Name=Nzb
+Comment=Grab nzb files
+Type=Application
+Icon=nzb
+Exec=nzb
+Terminal=false
+Categories=Network;
+

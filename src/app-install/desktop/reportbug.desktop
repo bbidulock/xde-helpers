@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=reportbug
+X-AppInstall-Popcon=6221
+X-AppInstall-Section=main
+
+Type=Application
+Encoding=UTF-8
+Name=Reportbug
+Comment=Report bugs to the Debian BTS
+Icon=debian-logo
+Exec=reportbug --exit-prompt --ui gtk2
+Categories=Application;System;

@@ -1,0 +1,10 @@
+[Desktop Entry]
+X-AppInstall-Package=nighthawk
+X-AppInstall-Popcon=12
+X-AppInstall-Section=main
+
+Type=Application
+Name=Nighthawk
+Exec=nighthawk
+Terminal=false
+Categories=Game;ArcadeGame;

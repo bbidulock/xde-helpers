@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=3dchess
+X-AppInstall-Popcon=50
+X-AppInstall-Section=main
+
+Type=Application
+Version=1.0
+Name=3D Chess
+Comment=3D chess for X11
+Exec=/usr/games/3Dc
+Terminal=false
+Categories=Game;BoardGame;

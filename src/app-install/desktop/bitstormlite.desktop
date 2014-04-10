@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=bitstormlite
+X-AppInstall-Popcon=23
+X-AppInstall-Section=main
+
+Name=BitStormLite
+GenericName[zh_CN]=BitStormLite
+Exec=bitstormlite %f
+Type=Application
+MimeType=application/x-bittorrent;application/x-torrent
+Comment=A small and fast BitTorrent client
+Comment[zh_CN]=一个轻巧快速的BitTorrent客户端
+Terminal=false
+Categories=Network
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

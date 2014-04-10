@@ -1,0 +1,19 @@
+[Desktop Entry]
+X-AppInstall-Package=kicad
+X-AppInstall-Popcon=183
+X-AppInstall-Section=main
+
+MimeType=text/pro
+Name=KiCad
+Exec=kicad
+Icon=icon_kicad.xpm
+Categories=Development;Engineering;Electronics
+Type=Application
+Terminal=false
+Comment=PCB-Suite
+GenericName[en]=KiCad - project manager
+GenericName[ru]=KiCad - менеджер проектов
+GenericName[nl_NL]=KiCad - Project Beheerder
+Comment[en]=Electrical schematic and PCB design suite
+Comment[ru]=Комплекс для разработки электрических схем и печатных плат
+Comment[nl_NL]=Elektrische schema's en PCB ontwerp Suite

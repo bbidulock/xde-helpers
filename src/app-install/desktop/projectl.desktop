@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=projectl
+X-AppInstall-Popcon=5
+X-AppInstall-Section=main
+
+Type=Application
+Name=ProjectL
+GenericName=
+Comment=HIZ's ProjectL
+Icon=projectl
+Exec=projectl
+Terminal=false
+Categories=Game;ArcadeGame;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390

@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=bluewho
+X-AppInstall-Popcon=30
+X-AppInstall-Section=main
+
+Version=1.0
+Name=BlueWho
+Comment=Information and notification of new discovered bluetooth devices
+Type=Application
+Comment[it_IT]=Informazioni e notifica dei nuovi dispositivi bluetooth rilevati
+Exec=/usr/bin/bluewho
+Icon=_usr_share_bluewho_data_bluewho
+Terminal=false
+Categories=Utility;GTK;

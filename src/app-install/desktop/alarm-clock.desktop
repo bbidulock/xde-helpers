@@ -1,0 +1,26 @@
+[Desktop Entry]
+X-AppInstall-Package=alarm-clock
+X-AppInstall-Popcon=142
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Alarm Clock
+Name[pl]=Budzik
+Name[pt]=Relógio Despertador
+Comment=Schedule your tasks
+Comment[pl]=Budzik dla środowiska GNOME
+Comment[pt]=Agende as suas tarefas
+
+Name[sr]=Будилник
+Name[sr@latin]=Budilnik
+Comment[sr]=Организујте Ваше време
+Comment[sr@latin]=Organizujte Vaše vreme
+
+Exec=alarmclock
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Utility;
+Icon=alarm-clock
+StartupNotify=false
+MimeType=text/plain;
+OnlyShowIn=GNOME;

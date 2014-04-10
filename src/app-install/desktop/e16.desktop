@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=e16
+X-AppInstall-Popcon=115
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Type=Application
+Name=E16
+Comment=The Enlightenment (e16) window manager
+Comment[it]=Il window manager Enlightenment (e16)
+Exec=e16
+Icon=_usr_share_e16_misc_e16

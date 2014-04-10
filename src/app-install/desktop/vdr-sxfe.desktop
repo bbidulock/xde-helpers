@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=xineliboutput-sxfe
+X-AppInstall-Popcon=63
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Name=VDR X-Frontend
+Comment=VDR Xineliboutput Client - X-Frontend
+Exec=vdr-sxfe --lirc
+Icon=_usr_share_icons_xineliboutput-sxfe
+Terminal=false
+Type=Application
+Categories=AudioVideo;Video;Player;TV;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

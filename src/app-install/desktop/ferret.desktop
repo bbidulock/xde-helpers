@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=ferret
+X-AppInstall-Popcon=14
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Name=ferret
+Comment=Design E-R databases
+Exec=ferret %F
+Terminal=false
+Type=Application
+Categories=Application;Development;
+MimeType=application/x-ferret;
+Name[pt_BR]=ferret

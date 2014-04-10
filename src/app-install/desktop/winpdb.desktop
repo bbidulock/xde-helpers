@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=winpdb
+X-AppInstall-Popcon=106
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=Winpdb
+Comment=Platform independent Python debugger
+Exec=winpdb %F
+Icon=winpdb
+Categories=Development;Debugger;

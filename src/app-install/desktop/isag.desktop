@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-AppInstall-Package=isag
+X-AppInstall-Popcon=68
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Isag System Activity Grapher
+Comment=Interactive System Activity Grapher for sysstat
+Exec=isag
+Type=Application
+Categories=System;Monitor;

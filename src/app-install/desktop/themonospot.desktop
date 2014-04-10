@@ -1,0 +1,23 @@
+[Desktop Entry]
+X-AppInstall-Package=themonospot
+X-AppInstall-Popcon=12
+X-AppInstall-Section=main
+
+Categories=AudioVideo;AudioVideoEditing;GTK;GNOME;
+Comment[it]=themonospot - estrae informazioni da un file avi o mkv
+Comment=themonospot - extract information from avi or mkv files
+Comment[it_IT]=themonospot - estrae informazioni da un file avi o mkv
+Exec=themonospot
+GenericName[it]=themonospot
+GenericName=themonospot
+Icon=themonospot
+MimeType=
+Name[it]=themonospot
+Name=themonospot
+StartupNotify=true
+Terminal=false
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

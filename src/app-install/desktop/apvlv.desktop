@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-AppInstall-Package=apvlv
+X-AppInstall-Popcon=113
+X-AppInstall-Section=main
+
+Name=apvlv
+Type=Application
+Comment=Alf's PDF Viewer Like Vim
+Exec=apvlv
+Icon=_usr_share_pixmaps_apvlv_apvlv
+Categories=Graphics;Viewer;

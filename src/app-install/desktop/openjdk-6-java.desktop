@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=openjdk-6-jre
+X-AppInstall-Popcon=7025
+X-AppInstall-Section=main
+
+Name=OpenJDK Java 6 Runtime
+Name[fi]=OpenJDK Java 6 - ajonaikainen ympäristö
+Comment=OpenJDK Java 6 Runtime
+Comment[fi]=OpenJDK Java 6 - ajonaikainen ympäristö
+Exec=/usr/lib/jvm/java-6-openjdk/bin/java -jar
+Terminal=false
+Type=Application
+Icon=openjdk-6
+MimeType=application/x-java-archive;application/java-archive;application/x-jar;
+Categories=Application;Network
+X-AppInstall-Architectures=amd64,armel,i386,ia64,mips,mipsel,powerpc,s390,sparc

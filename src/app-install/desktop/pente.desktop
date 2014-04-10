@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=pente
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main
+
+Name=Pente
+Comment=Five in a row game for X
+Icon=pente
+Terminal=false
+Type=Application
+Categories=Game;BoardGame;
+Exec=pente

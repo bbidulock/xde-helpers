@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=gtweakui
+X-AppInstall-Popcon=170
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=gTweakUI - Galeon
+Comment=Extra galeon preferences
+Exec=gtweakui-galeon
+Icon=/usr/share/gTweakUI/g.png
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;Application;Settings;
+X-Desktop-File-Install-Version=0.3
+OnlyShowIn=GNOME;

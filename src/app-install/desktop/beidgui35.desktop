@@ -1,0 +1,19 @@
+[Desktop Entry]
+X-AppInstall-Package=beidgui
+X-AppInstall-Popcon=2
+X-AppInstall-Section=main
+
+Name=Belgian eID
+Name[nl]=Belgische eID
+Name[fr]=eID belge
+GenericName=beidgui
+Comment=Display and administer your eID card
+Comment[nl]=Weergeven en beheren van uw eID kaart
+Comment[fr]=Affichage et gestion de votre carte eID
+Exec=/usr/bin/beidgui
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=_usr_share_icons_eid35
+Categories=Utility;Qt;
+X-AppInstall-Architectures=amd64,armel,i386,ia64,mips,mipsel,powerpc,s390,sparc

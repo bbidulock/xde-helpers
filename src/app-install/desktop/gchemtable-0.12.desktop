@@ -1,0 +1,29 @@
+[Desktop Entry]
+X-AppInstall-Package=gcu-bin
+X-AppInstall-Popcon=46
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Periodic table of the elements
+Name[de]=Periodensystem der Elemente
+Name[es]=Tabla periódica de los elementos
+Name[fr]=Tableau périodique des éléments
+Name[it]=Tavola periodica degli elementi
+Name[pl]=Układ okresowy pierwiastków
+Name[pt_BR]=Tabela periódica dos elementos
+Name[ru]=Периодическая таблица элементов
+Name[zh_CN]=元素周期表
+Name[zh_TW]=週期表上的元素
+Comment=A Mendeleiev table of the chemical elements
+Comment[de]=Mendelejew's Periodensystem der Elemente
+Comment[fr]=Tableau de Mendeleiev des éléments chimiques
+Comment[it]=U tavola di Mendeleiev di elementi chimici
+Comment[pl]=Układ okresowy pierwiastków Mendelejewa
+Comment[pt_BR]=Tabela de Mendeleiev dos elementos químicos
+Comment[ru]=Периодическая таблица химических элементов Д.И.Менделеева
+Comment[zh_TW]=門得列夫週期表
+Exec=gchemtable-0.12
+Icon=gchemtable
+Terminal=false
+Type=Application
+Categories=GTK;GNOME;Education;Science;Chemistry;

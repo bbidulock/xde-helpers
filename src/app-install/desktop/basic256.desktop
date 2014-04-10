@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=basic256
+X-AppInstall-Popcon=18
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=BASIC-256
+Exec=basic256
+Categories=Education;Science;ComputerScience;
+Comment=Learn BASIC in an environment designed for young children
+Comment[ca]=Apreneu BASIC en un entorn dissenyat per a nens.
+Comment[de]=Lerne BASIC in einer Programmierumgebung speziell für die ganz Kleinen.
+Comment[es]=Aprende BASIC en un entorno diseñado para niños.
+Comment[fr]=Apprend BASIC dans un environnement visé aux jeunes enfants.

@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=pysycache
+X-AppInstall-Popcon=68
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Exec=pysycache -admin 
+Icon=_usr_share_pixmaps_pysycache
+Type=Application
+Categories=Education;KidsGame
+Name=Pysycache Admin
+GenericName=Pysycache Admin
+Comment=Configuration of PySyCache
+Comment[fr]=Configuration de PySyCache
+Comment[es]=Configuración de PySyCache
+Terminal=false
+StartupNotify=true

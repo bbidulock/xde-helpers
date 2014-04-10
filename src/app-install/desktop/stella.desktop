@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=stella
+X-AppInstall-Popcon=22
+X-AppInstall-Section=main
+
+Name=Stella
+Comment=A multi-platform Atari 2600 emulator
+Exec=stella
+Icon=stella.png
+Terminal=false
+Type=Application
+Categories=Application;Emulator;Game;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

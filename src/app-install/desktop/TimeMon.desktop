@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-AppInstall-Package=timemon.app
+X-AppInstall-Popcon=46
+X-AppInstall-Section=main
+
+Type=Application
+Version=0.94
+Categories=System;Monitor;
+Name=TimeMon
+Icon=/usr/lib/GNUstep/Applications/TimeMon.app/Resources/icon.png
+Exec=TimeMon

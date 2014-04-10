@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=pixbros
+X-AppInstall-Popcon=4
+X-AppInstall-Section=main
+
+Type=Application
+Name=PIX Bros
+GenericName=pixbros
+Comment=2D game inspired in Bubble Bobble, Snow Bros and Tumble Pop
+Icon=pixbros
+Exec=pixbros
+Terminal=false
+Categories=Game;ArcadeGame;

@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=wine-bin
+X-AppInstall-Popcon=6949
+X-AppInstall-Section=main
+
+Name=Wine configuration
+Comment=Setup the compatibility layer for Windows programs
+Comment[ca]=Configura la capa de compatibilitat per a programes de Windows
+Exec=winecfg
+Icon=_usr_share_pixmaps_wine
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Categories=Application;System;
+X-AppInstall-Architectures=amd64,i386

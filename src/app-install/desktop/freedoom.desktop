@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=freedoom
+X-AppInstall-Popcon=28
+X-AppInstall-Section=main
+
+Name=Freedoom
+GenericName=Clone of the legendary first person shooter Doom
+Comment=First Person Shooter Game
+Exec=/usr/games/freedoom
+Icon=freedoom
+Terminal=false
+Type=Application
+Categories=Game;ActionGame;

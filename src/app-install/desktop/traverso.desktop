@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=traverso
+X-AppInstall-Popcon=40
+X-AppInstall-Section=main
+
+MimeType=text/plain
+GenericName=Multitrack Recorder
+GenericName[de]=Multitrack Recorder
+Exec=traverso
+Icon=traverso
+Path=
+Type=Application
+Terminal=false
+Name=Traverso
+Categories=Qt;AudioVideo;Audio;Recorder;

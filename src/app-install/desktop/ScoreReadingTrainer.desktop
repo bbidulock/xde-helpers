@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=score-reading-trainer
+X-AppInstall-Popcon=42
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=Score Reading Trainer
+Name[es]=Entrenador de Lectura de Partituras
+Exec=score-reading-trainer %i %m -caption "%c"
+Icon=ScoreReadingTrainer
+Type=Application
+DocPath=ScoreReadingTrainer/ScoreReadingTrainer.html
+Comment=Improve scoring reading skills.
+Comment[es]=Mejorá tu habilidad para leer partituras.
+Terminal=0
+Categories=Application;AudioVideo;Audio;Education;

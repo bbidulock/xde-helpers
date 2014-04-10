@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=dreampie
+X-AppInstall-Popcon=11
+X-AppInstall-Section=main
+
+Name=DreamPie
+Comment=An interactive Python shell
+Exec=dreampie
+Icon=dreampie
+Terminal=false
+Type=Application
+Categories=GTK;Development;
+StartupNotify=true
+

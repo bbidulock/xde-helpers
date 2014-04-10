@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=yorick-spydr
+X-AppInstall-Popcon=5
+X-AppInstall-Section=main
+
+Categories=Education;Science;Astronomy;
+Type=Application
+Comment=FITS image display and simple analysis
+Exec=yorick -i spydr.i -c --batch  %F
+Icon=spydr48
+Name=Spydr
+GenericName=FITS Image Viewer
+MimeType=image/x-fits;
+Terminal=false

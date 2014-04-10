@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=zynaddsubfx
+X-AppInstall-Popcon=78
+X-AppInstall-Section=main
+
+
+Name=ZynAddSubFX Software Synthesizer
+Name[pt]=Sintetizador por Software ZynAddSubFX
+Comment=ZynAddSubFX Software Synthesizer
+Exec=/usr/bin/zynaddsubfx
+Terminal=false
+Type=Application
+Icon=_usr_share_pixmaps_zynaddsubfx
+Categories=Application;AudioVideo;Audio;

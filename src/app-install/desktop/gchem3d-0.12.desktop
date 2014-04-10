@@ -1,0 +1,24 @@
+[Desktop Entry]
+X-AppInstall-Package=gcu-bin
+X-AppInstall-Popcon=46
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Molecules Viewer
+Name[de]=Molekülbetrachter
+Name[fr]=Visionneuse de molécules
+Name[pl]=Przeglądarka cząsteczek
+Name[zh_TW]=分子看圖軟體
+Comment=Display chemical 3D structures
+Comment[de]=3D-Struktur anzeigen
+Comment[fr]=Affiche des structures moléculaires en trois dimensions
+Comment[it]=Visualizza le strutture chimiche 3D
+Comment[pl]=Wyświetl trójwymiarowe struktury chemiczne
+Comment[pt_BR]=Mostra estruturas químicas em três dimensões
+Comment[zh_TW]=顯示化學 3D 結構
+Exec=gchem3d-0.12 %u
+Icon=gchem3d
+Terminal=false
+Type=Application
+Categories=GTK;GNOME;Education;Science;Chemistry;
+MimeType=chemical/x-xyz;chemical/x-mdl-molfile;chemical/x-pdb;chemical/x-cml;

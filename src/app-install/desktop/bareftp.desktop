@@ -1,0 +1,34 @@
+[Desktop Entry]
+X-AppInstall-Package=bareftp
+X-AppInstall-Popcon=18
+X-AppInstall-Section=main
+
+Version=1.0
+Name=bareFTP
+GenericName=File Transfer Client
+GenericName[ca]=Client de transferència de fitxers
+GenericName[de]=File Transfer Client
+GenericName[es]=Transferencia de archivos
+GenericName[fr]=Client de transfert de fichiers
+GenericName[it]=Client per il trasferimento di file
+GenericName[nb]=Klient for filoverføring
+GenericName[pl]=Klient FTP
+GenericName[pt_BR]=Transferência de arquivos
+GenericName[sv]=FTP Klient
+Comment=Transfer files using the FTP, FTPS or SFTP protocol
+Comment[ca]=Transferir fitxers utilitzant el protocol FTP, FTPS o SFTP
+Comment[de]=Übertrage Dateien mit den Protokollen FTP, FTPS und SFTP
+Comment[es]=Transferencia de archivos usando los protocolos FTP, FTPS y SFTP
+Comment[fr]=Transférez des fichiers en utilisant les protocoles FTP, FTPS ou SFTP
+Comment[it]=Trasferisce file usando i protocolli FTP, FTPS o SFTP
+Comment[nb]=Overfør filer med hjelp av FTP, FTPS eller FPTS
+Comment[pl]=Przesyłanie plików używając protokołu FTP, FTPS lub SFTP
+Comment[pt_BR]=Transferência de arquivos usando os protocolos FTP, FTPS e SFTP
+Comment[sv]=Överför filer via FTP, FTPS eller SFTP.
+Exec=bareftp
+Icon=bareftp
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=Network;FileTransfer;
+X-AppInstall-Architectures=amd64,armel,i386,ia64,kfreebsd-amd64,kfreebsd-i386,powerpc,s390,sparc

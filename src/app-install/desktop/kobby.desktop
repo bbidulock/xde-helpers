@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-AppInstall-Package=kobby
+X-AppInstall-Popcon=5
+X-AppInstall-Section=main
+
+Type=Application
+Exec=kobby
+Icon=meeting-attending
+Name=Kobby
+GenericName=Collaborative Text Editor
+Categories=Qt;KDE;Utility;TextEditor;Network;

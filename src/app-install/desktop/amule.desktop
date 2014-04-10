@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=amule
+X-AppInstall-Popcon=1315
+X-AppInstall-Section=main
+
+Name=aMule
+Exec=amule
+Icon=amule
+Terminal=false
+Type=Application
+Categories=Network;P2P;
+Comment=A client for the eD2k network

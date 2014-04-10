@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=fastlink
+X-AppInstall-Popcon=18
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Terminal=false
+Exec=lodscore
+Name=lodscore
+GenericName=Fastlink compare likelihoods
+GenericName[en]=Fastlink compare likelihoods
+Comment=Compares likelihoods at locally optimal theta 
+Comment[en]=Compares likelihoods at locally optimal theta 
+Type=Application
+Categories=Biology;Science;Education;

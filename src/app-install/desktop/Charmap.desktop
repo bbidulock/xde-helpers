@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=charmap.app
+X-AppInstall-Popcon=72
+X-AppInstall-Section=main
+
+Type=Application
+Version=1.0
+Categories=Utility;
+Name=Charmap
+Name[bg]=Таблица със знаци (Charmap)
+Comment=Character map for GNUstep
+Comment[bg]=Таблица със знаци за GNUstep
+Icon=/usr/lib/GNUstep/Applications/Charmap.app/Resources/Charmap.png
+Exec=Charmap

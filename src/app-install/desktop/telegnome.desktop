@@ -1,0 +1,32 @@
+[Desktop Entry]
+X-AppInstall-Package=telegnome
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main
+
+Name=TeleGNOME
+Name[cs]=TeleGNOME
+Name[da]=TeleGNOME
+Name[de]=TeleGNOME
+Name[es]=TeleGNOME
+Name[fr]=TeleGNOME
+Name[gl]=TeleGNOME
+Name[pl]=TeleGNOME
+Name[sl]=TeleGNOME
+Name[sv]=TeleGNOME
+Comment=Viewer for Teletext pages
+Comment[cs]=Prohlížeč teletextových stránek
+Comment[da]=Fremviser for sider på tekst-tv
+Comment[de]=Betrachter für Videotextseiten
+Comment[es]=Visor para páginas de Teletexto
+Comment[fr]=Visionneur de page TéléTexte
+Comment[gl]=Visor de páxinas de teletexto
+Comment[nl]=Bladerprogramma voor Teletekstpagina's
+Comment[pl]=Przeglądarka stron teletekstu
+Comment[pt_BR]=Visualizador para pág. Teletekst
+Comment[sl]=Pregledovalnik teletekst strani
+Comment[sv]=Visare för text-tv-sidor
+Exec=telegnome
+Icon=telegnome.png
+Terminal=0
+Type=Application
+Categories=GNOME;GTK;Network;News;

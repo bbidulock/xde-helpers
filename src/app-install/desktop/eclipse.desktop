@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=eclipse-platform
+X-AppInstall-Popcon=1390
+X-AppInstall-Section=main
+
+Type=Application
+Name=Eclipse
+Comment=Eclipse Integrated Development Environment
+Icon=eclipse
+Exec=eclipse
+Terminal=false
+Categories=Development;IDE;Java;
+X-AppInstall-Architectures=amd64,armel,i386,ia64,powerpc,sparc

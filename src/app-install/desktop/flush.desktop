@@ -1,0 +1,18 @@
+[Desktop Entry]
+X-AppInstall-Package=flush
+X-AppInstall-Popcon=21
+X-AppInstall-Section=main
+
+Type=Application
+Name=Flush
+GenericName=BitTorrent client
+GenericName[ru]=BitTorrent клиент
+Comment=Downloading files by BitTorrent protocol
+Comment[ru]=Скачивание файлов по BitTorrent протоколу
+Icon=flush
+Exec=flush %F
+MimeType=application/x-bittorrent
+Categories=GTK;Network;FileTransfer;P2P;
+Version=1.0
+
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

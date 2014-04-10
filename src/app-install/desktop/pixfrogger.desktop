@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=pixfrogger
+X-AppInstall-Popcon=75
+X-AppInstall-Section=main
+
+Type=Application
+Name=PIX Frogger
+GenericName=pixfrogger
+Comment=Help the frog cross the street
+Icon=pixfrogger
+Exec=pixfrogger
+Terminal=false
+Categories=Game;ArcadeGame;

@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=xmpuzzles
+X-AppInstall-Popcon=10
+X-AppInstall-Section=main
+
+Name=xmtriangles
+GenericName=triangles game
+Exec=/usr/games/xmtriangles
+Icon=_usr_share_pixmaps_xtriangles.m
+Terminal=false
+Type=Application
+Categories=Game;

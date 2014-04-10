@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=fastlink
+X-AppInstall-Popcon=18
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Terminal=false
+Exec=linkmap
+Name=linkmap
+GenericName=Fastlink location scores
+GenericName[en]=Fastlink location scores
+Comment=Calculates location scores of one locus against a fixed map of other loci
+Comment[en]=Calculates location scores of one locus against a fixed map of other loci
+Type=Application
+Categories=Biology;Science;Education;

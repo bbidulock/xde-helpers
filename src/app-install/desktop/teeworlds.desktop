@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=teeworlds
+X-AppInstall-Popcon=58
+X-AppInstall-Section=main
+
+Type=Application
+Name=Teeworlds
+GenericName=Platform Game
+Comment=An online multi-player platform 2D shooter
+Exec=teeworlds
+Icon=teeworlds
+Categories=Game;ArcadeGame;
+X-AppInstall-Architectures=amd64,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

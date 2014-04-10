@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=tangerine
+X-AppInstall-Popcon=27
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Tangerine Media Sharing
+Comment=Share your music with close friends
+Exec=tangerine-properties
+Terminal=false
+Icon=tangerine
+Categories=Application;Settings;Music;X-SuSE-ControlCenter-System;
+
+
+X-AppInstall-Architectures=amd64,armel,i386,ia64,kfreebsd-amd64,kfreebsd-i386,powerpc,s390,sparc

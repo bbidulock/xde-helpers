@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=g3dviewer
+X-AppInstall-Popcon=7
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=G3DViewer
+GenericName=G3DViewer
+Icon=_usr_share_g3dviewer_glade_g3d48
+Comment=3D model viewer
+Comment[de_DE]=3D-Modell-Betrachter
+Exec=/usr/bin/g3dviewer
+Terminal=false
+StartupNotify=false
+Type=Application
+Categories=GTK;3DGraphics;Application;Graphics;

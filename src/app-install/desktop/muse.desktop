@@ -1,0 +1,19 @@
+[Desktop Entry]
+X-AppInstall-Package=muse
+X-AppInstall-Popcon=66
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+
+Name=MusE
+GenericName=MIDI/Audio Sequencer
+Comment=Multitrack virtual studio
+Icon=muse.xpm
+
+Type=Application
+Categories=Application;AudioVideo;Audio;
+
+Exec=muse
+Terminal=false
+
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

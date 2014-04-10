@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=gxmms2
+X-AppInstall-Popcon=132
+X-AppInstall-Section=main
+
+Name=gxmms2
+GenericName=Audio Player
+Comment=Play music
+Comment[de]=Musik abspielen
+Categories=GTK;AudioVideo;Audio;Player;
+Exec=gxmms2
+Icon=xmms2
+Terminal=false
+Type=Application
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=xpuzzles
+X-AppInstall-Popcon=14
+X-AppInstall-Section=main
+
+Name=xpanex
+GenericName=panex game
+Exec=/usr/games/xpanex
+Icon=_usr_share_pixmaps_xpanex.m
+Terminal=false
+Type=Application
+Categories=Game;

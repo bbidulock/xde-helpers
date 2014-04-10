@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=vidalia
+X-AppInstall-Popcon=79
+X-AppInstall-Section=main
+
+Type=Application
+Exec=vidalia
+Name=Vidalia
+Icon=vidalia
+GenericName=Tor GUI
+Terminal=false
+Categories=Qt;Network;

@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=xiterm+thai
+X-AppInstall-Popcon=4
+X-AppInstall-Section=main
+
+Version=1.07
+Name=Thai X terminal
+Comment=Thai X terminal
+Icon=xiterm+thai.png
+Exec=txiterm -ls -cursorColor yellow -cursorColorThai red -bg black -fg white
+Type=Application
+Categories=Application;Utility

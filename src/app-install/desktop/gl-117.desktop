@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=gl-117
+X-AppInstall-Popcon=48
+X-AppInstall-Section=main
+
+Version=0.9.4
+Name=gl-117
+Type=Application
+GenericName=Game
+Comment=Play a flight simulator
+Exec=gl-117
+Terminal=false
+Hidden=false
+Categories=Game;3DGraphics;ActionGame;Simulation;
+Icon=gl-117

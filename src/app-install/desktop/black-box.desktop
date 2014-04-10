@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=black-box
+X-AppInstall-Popcon=16
+X-AppInstall-Section=main
+
+Name=Black-Box
+GenericName=Laser puzzle
+Comment=Find the crystals
+Type=Application
+Exec=black-box
+Icon=black-box
+Terminal=false
+Categories=Game;LogicGame

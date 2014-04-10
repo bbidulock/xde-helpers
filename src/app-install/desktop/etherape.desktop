@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=etherape
+X-AppInstall-Popcon=179
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Name=EtherApe
+Comment=Graphical Network Monitor
+Exec=etherape
+Terminal=false
+Type=Application
+Icon=etherape.png
+Categories=GNOME;System;Network;

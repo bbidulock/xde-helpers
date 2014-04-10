@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=rbbr
+X-AppInstall-Popcon=15
+X-AppInstall-Section=main
+
+Type=Application
+Encoding=UTF-8
+Name=Ruby Browser
+GenericName=
+Comment=Browse Ruby Classes and Modules
+Icon=_usr_share_rbbr_icon
+Exec=rbbr
+Terminal=false
+Categories=Application;Development;

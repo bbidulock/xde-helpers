@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=freepops-updater-gnome
+X-AppInstall-Popcon=15
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Terminal=false
+Name=FreePOPs updater
+Comment=Download updated version of FreePOPs plugins
+Icon=_usr_share_pixmaps_freepops-updater-zenity
+Exec=su-to-root -X -c freepops-updater-zenity
+Categories=GNOME;Application;System;
+GenericName=

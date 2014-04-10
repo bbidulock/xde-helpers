@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=xdx
+X-AppInstall-Popcon=15
+X-AppInstall-Section=main
+
+Name=Xdx
+Comment=DX-cluster client for amateur radio
+Comment[nl]=DX-cluster client voor zendamateurs
+Exec=/usr/bin/xdx
+Icon=_usr_share_xdx_pixmaps_xdx
+Terminal=false
+Type=Application
+Categories=Network;HamRadio

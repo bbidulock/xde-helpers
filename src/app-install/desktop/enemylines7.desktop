@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=enemylines7
+X-AppInstall-Popcon=13
+X-AppInstall-Section=main
+
+Name=Enemylines7
+Encoding=UTF-8
+Comment=first person 3d-shooter game
+Comment[fr_FR]=un jeu de tir à la premiere personne 
+Exec=enemylines7
+Icon=enemylines7
+Terminal=false
+Type=Application
+Categories=Game;ArcadeGame;

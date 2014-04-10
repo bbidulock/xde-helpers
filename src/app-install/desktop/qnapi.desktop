@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=qnapi
+X-AppInstall-Popcon=73
+X-AppInstall-Section=main
+
+Exec=qnapi
+Name=QNapi
+Icon=_usr_share_icons_qnapi-48
+Type=Application
+Categories=AudioVideo;
+Comment=A program to download subtitles for movies
+GenericName=A program to download subtitles for movies
+Comment[pl]=Program do pobierania napisów do filmów
+GenericName[pl]=Program do pobierania napisów do filmów
+Terminal=false

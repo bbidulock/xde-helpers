@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=biniax2
+X-AppInstall-Popcon=19
+X-AppInstall-Section=main
+
+Type=Application
+Version=1.0
+Name=Biniax-2
+Comment==Colorful Logic game with arcade and tactics modes
+Icon=biniax2
+Exec=biniax2
+Terminal=false
+StartupNotify=false
+Categories=Game;ArcadeGame;

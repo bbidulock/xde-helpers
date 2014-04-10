@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=whichwayisup
+X-AppInstall-Popcon=14
+X-AppInstall-Section=main
+
+Type=Application
+Name=Which Way is Up
+GenericName=whichwayisup
+Comment=2D platform game with a slight rotational twist
+Icon=whichwayisup
+Exec=whichwayisup
+Terminal=false
+Categories=Game;ArcadeGame;

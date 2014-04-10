@@ -1,0 +1,20 @@
+[Desktop Entry]
+X-AppInstall-Package=google-gadgets-gtk
+X-AppInstall-Popcon=55
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=Google Gadget Designer
+Name[en]=Google Gadget Designer
+Name[fr]=Créateur de Google Gadget
+Name[zh_CN]=Google 小工具设计器
+Comment=Google Gadget Designer
+Comment[en]=Google Gadget Designer
+Comment[fr]=Créateur de Google Gadget
+Comment[zh_CN]=Google 小工具设计器
+Exec=/usr/bin/ggl-gtk -sa -nd -gp /usr/share/google-gadgets/designer.gg
+Icon=google-gadgets
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=GNOME;GTK;Development;GUIDesigner;

@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=mines.app
+X-AppInstall-Popcon=63
+X-AppInstall-Section=main
+
+Type=Application
+Version=0.94
+Categories=Game;LogicGame;
+Name=Mines
+Comment=GNUstep minesweeper game
+Icon=_usr_lib_GNUstep_Applications_Mines.app_Resources_Mines
+Exec=Mines

@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=gvb
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main
+
+Categories=Education;Science;Physics;
+Comment=Play with waves and vibrations
+Comment[fr]=Joue avec les ondes e les vibrations
+Comment[it]=Gioca con onde e vibrazioni
+Exec=gvb
+Icon=gvb.svg
+Name=Gvb
+Terminal=false
+Type=Application
+X-KDE-SubstituteUID=false

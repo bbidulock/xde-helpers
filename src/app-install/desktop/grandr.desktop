@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=grandr
+X-AppInstall-Popcon=302
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=Multiple screens
+Comment=Configure multiple screens
+Exec=grandr
+Icon=display-capplet.png
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;Settings;HardwareSettings;System;
+OnlyShowIn=GNOME;
+X-Ubuntu-Gettext-Domain=grandr

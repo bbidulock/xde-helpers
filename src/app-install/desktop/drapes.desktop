@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=drapes
+X-AppInstall-Popcon=142
+X-AppInstall-Section=main
+
+Name=Desktop Drapes
+Name[zh_HK]=桌面布簾
+Comment=Manage your desktop wallpapers
+Comment[zh_HK]=管理桌面桌布
+Exec=drapes --tray
+Type=Application
+Icon=drapes
+StartupNotify=false
+Categories=Settings;DesktopSettings;GNOME

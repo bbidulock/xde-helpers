@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=python2.5
+X-AppInstall-Popcon=36010
+X-AppInstall-Section=main
+
+Name=Python (v2.5)
+Comment=Python Interpreter (v2.5)
+Exec=/usr/bin/python2.5
+Icon=_usr_share_pixmaps_python2.5
+Terminal=true
+Type=Application
+Categories=Development;
+StartupNotify=true

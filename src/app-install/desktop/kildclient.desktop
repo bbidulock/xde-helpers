@@ -1,0 +1,23 @@
+[Desktop Entry]
+X-AppInstall-Package=kildclient
+X-AppInstall-Popcon=11
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Exec=kildclient
+Icon=kildclient
+Terminal=false
+Categories=Network;RolePlaying;
+
+Name=KildClient
+Name[eo]=KildClient
+Name[pt_BR]=KildClient
+
+GenericName=MUD Client
+GenericName[eo]=Kliento por konekti al MUD-oj
+GenericName[pt_BR]=Cliente de MUD
+
+Comment=Connect to MUDs (Multi User Dungeons)
+Comment[eo]=Konektu al MUD-oj (Multi User Dungeons)
+Comment[pt_BR]=Conecte-se a MUDs (Multi User Dungeons)

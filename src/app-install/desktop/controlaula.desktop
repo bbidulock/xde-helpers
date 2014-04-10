@@ -1,0 +1,19 @@
+[Desktop Entry]
+X-AppInstall-Package=controlaula
+X-AppInstall-Popcon=209
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Exec=/usr/bin/controlaula.gambas -teacher
+Icon=_usr_share_pixmaps_CA2pp
+Terminal=false
+Name[es_ES]=Control del Aula
+Name= Classrooom control
+Name[fr]=Control de la classe
+Comment[es_ES]=Herramienta para que el profesor pueda controlar los ordenadores del aula
+Comment[fr]=Outil pour controller les ordinateurs de la classe
+Comment=Teacher tool to control classroom computers
+Categories=Application;Education;
+X-AppInstall-Architectures=amd64,armel,i386,ia64,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390,sparc

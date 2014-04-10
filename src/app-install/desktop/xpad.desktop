@@ -1,0 +1,85 @@
+[Desktop Entry]
+X-AppInstall-Package=xpad
+X-AppInstall-Popcon=103
+X-AppInstall-Section=main
+
+Version=1.0
+
+Name=Xpad
+Name[af]=Xpad
+Name[bg]=Xpad
+Name[da]=Xpad
+Name[de]=Xpad
+Name[en_GB]=Xpad
+Name[es]=Xpad
+Name[et]=Xpad
+Name[fi]=Xpad
+Name[fr]=Xpad
+Name[ga]=Xpad
+Name[hr]=Xpad
+Name[hu]=Xpad
+Name[ko]=Xpad
+Name[lv]=Xpad
+Name[nl]=Xpad
+Name[pt]=Xpad
+Name[ro]=Xpad
+Name[ru]=Xpad
+Name[sv]=Xpad
+Name[th]=Xpad
+Name[vi]=Xpad
+Name[zh_CN]=Xpad
+Name[zh_TW]=Xpad
+GenericName=Sticky Notes
+GenericName[af]=Plaknotas (klewerig)
+GenericName[bg]=Лепкави бележки
+GenericName[da]=Selvklæbende noter
+GenericName[de]=Klebezettel
+GenericName[en_GB]=Sticky Notes
+GenericName[es]=Notas pegajosas
+GenericName[fi]=Liimalappumuistiinpanot
+GenericName[fr]=Notes autocollantes
+GenericName[ga]=Nótaí Greamaitheacha
+GenericName[hr]=Post-it papirići
+GenericName[hu]=Ragadós jegyzetek
+GenericName[it]=Note Adesive
+GenericName[ko]=Sticky Notes
+GenericName[lv]=Līmlapiņas
+GenericName[nl]=Memo's
+GenericName[pt]=Sticky Notes
+GenericName[ro]=Note Lipicioase(sticky)
+GenericName[ru]=Cтикеры
+GenericName[sv]=Klistriga anteckningar
+GenericName[vi]=Ghi chép bám dính
+GenericName[zh_CN]=自粘性备注
+GenericName[zh_TW]=自粘性便條
+Comment=Jot down notes for later
+Comment[af]=Maak notas vir later
+Comment[bg]=Запазване на бележките за по-късно
+Comment[da]=Krads noter ned til senere brug
+Comment[de]=Notizen für später notieren
+Comment[en_GB]=Jot down notes for later
+Comment[es]=Anotar más tarde
+Comment[fi]=Raapusta muistiin myöhempää käyttöä varten
+Comment[fr]=Garder les notes pour plus tard
+Comment[ga]=Breac nótaí le léamh ar ball
+Comment[hu]=Jegyzetek felvitele későbbi használatra
+Comment[it]=Prendi delle note per più tardi
+Comment[nl]=Notities maken voor later
+Comment[pt]=Anotar para mais tarde
+Comment[ro]=Notiţe pentru mai târziu
+Comment[ru]=Заметки/стикеры на вашем рабочем столе
+Comment[sv]=Plita ner anteckningar för senare användning
+Comment[vi]=Ghi nhanh chú thích đến sau
+Comment[zh_CN]=简要记录备注以备日后使用
+Comment[zh_TW]=大略記下備註以供之後使用
+
+Exec=xpad
+Terminal=false
+Icon=xpad
+
+StartupNotify=true
+StartupWMClass=xpad
+
+Type=Application
+Categories=GTK;Utility;
+

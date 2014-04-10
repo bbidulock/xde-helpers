@@ -1,0 +1,31 @@
+[Desktop Entry]
+X-AppInstall-Package=xfe
+X-AppInstall-Popcon=155
+X-AppInstall-Section=main
+
+Name=Xfimage
+GenericName=Image Viewer
+GenericName[cs]=Prohlížeč obrázků
+GenericName[de]=Bildbetrachter
+GenericName[el]=Προβολέας Εικόνων
+GenericName[es]=Visor de imágenes
+GenericName[fr]=Visualiseur d'images
+GenericName[hu]=Képnézegető
+GenericName[pt_BR]=Visualizador de Imagens
+GenericName[sv]=Bildvisare
+Comment=A simple image viewer for Xfe
+Comment[cs]=Jednoduchý prohlížeč obrázků pro Xfe
+Comment[de]=Ein einfacher Bildbetrachter für Xfe
+Comment[el]=Ένας απλός προβολέας εικόνων για τον Xfe
+Comment[es]=Un visor de imágenes simple para Xfe
+Comment[fr]=Un visualiseur d'images simple pour Xfe
+Comment[hu]=Egyszerű képnézegető Xfe-hez
+Comment[pt_BR]=Um simples visualizador de imagens para o Xfe
+Comment[sv]=En enkel bildvisare för Xfe
+Exec=xfimage
+Terminal=false
+Type=Application
+StartupNotify=true
+MimeType=text/plain;
+Icon=xfi
+Categories=Utility;Viewer;

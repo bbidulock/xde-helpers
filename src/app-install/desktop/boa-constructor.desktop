@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=boa-constructor
+X-AppInstall-Popcon=41
+X-AppInstall-Section=main
+
+Name=Boa Constructor
+Comment=RAD Tool for Python and WxWindows
+Exec=boa-constructor
+Icon=boa-constructor
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Categories=Development;Debugger;GUIDesigner;
+StartupNotify=true

@@ -1,0 +1,19 @@
+# KDE Config File
+[Desktop Entry]
+X-AppInstall-Package=viewmol
+X-AppInstall-Popcon=64
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=Viewmol
+Name[ru]=Viewmol
+MimeType=chemical/x-msi-car;chemical/x-dmol;chemical/x-mopac;chemical/x-gaussian-log;chemical/x-gulp;chemical/x-pdb;chemical/x-turbomole-control;chemical/x-turbomole-coord;
+Comment=Viewmol
+Type=Application
+Exec=/usr/bin/viewmol %f
+Icon=viewmol.png
+MiniIcon=
+Path=$HOME
+Terminal=0
+Categories=Education;Science;Chemistry;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

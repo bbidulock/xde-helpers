@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=frozen-bubble
+X-AppInstall-Popcon=456
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=Frozen-Bubble
+Comment=Pop out the bubbles !
+Exec=frozen-bubble 
+Icon=frozen-bubble-icon-48x48.png
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Categories=Game;ArcadeGame;

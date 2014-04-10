@@ -1,0 +1,19 @@
+[Desktop Entry]
+X-AppInstall-Package=amora-applet
+X-AppInstall-Popcon=5
+X-AppInstall-Section=main
+
+Name=Amora Daemon
+Comment=Remote control your desktop from your Bluetooth enabled mobile phone 
+Comment[de]=Steuere den Arbeitsplatz mit einem Bluetooth-Mobiltelefon fern
+GenericName=Bluetooth remote control
+GenericName[de]=Bluetooth-Fernsteuerung
+Exec=amorad-gui
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=amora
+Categories=Office;Presentation;Utility;RemoteAccess
+StartupWMClass=amorad
+StartupNotify=true
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

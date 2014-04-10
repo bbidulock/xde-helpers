@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=airstrike
+X-AppInstall-Popcon=61
+X-AppInstall-Section=main
+
+Name=Airstrike
+Comment=Dogfight an enemy plane
+Comment[de_DE]=Kämpfe gegen ein feindliches Flugzeug
+Exec=/usr/games/airstrike
+Icon=airstrike.xpm
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=Game;ArcadeGame;

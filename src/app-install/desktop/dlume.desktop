@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=dlume
+X-AppInstall-Popcon=9
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=Dlume
+Comment=Simple and easy to use addressbook
+Type=Application
+Categories=Application;Office;ContactManagement
+Terminal=false
+Exec=dlume
+Icon=dlume.xpm
+StartupNotify=false
+X-SingleInstance=true

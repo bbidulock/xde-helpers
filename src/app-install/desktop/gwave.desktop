@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=gwave
+X-AppInstall-Popcon=91
+X-AppInstall-Section=main
+
+Version=1.0
+Name=gwave
+GenericName=Gwave Waveform Viewer
+Comment=A waveform viewer eg for spice simulators 
+Type=Application
+Exec=gwave
+Icon=gwave
+Categories=Engineering;Electronics

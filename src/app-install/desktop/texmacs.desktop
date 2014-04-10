@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=texmacs
+X-AppInstall-Popcon=385
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Name=GNU TeXmacs Editor
+GenericName=TeXmacs Editor
+Comment=A structured wysiwyg scientific text editor
+MimeType=text/x-texmacs;text/plain;text/x-tex;
+Exec=texmacs %f
+Icon=TeXmacs
+Path=
+Type=Application
+Terminal=false
+Categories=Application;Science;Utility;

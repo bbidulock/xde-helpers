@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=qtoctave
+X-AppInstall-Popcon=142
+X-AppInstall-Section=main
+
+Version=1.0
+Name=QtOctave
+Comment=Graphical Qt frontend for GNU Octave
+Exec=qtoctave
+Icon=qtoctave
+Type=Application
+Categories=Development;Math;Science;Education;

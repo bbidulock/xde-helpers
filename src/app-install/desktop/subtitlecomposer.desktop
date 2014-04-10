@@ -1,0 +1,20 @@
+[Desktop Entry]
+X-AppInstall-Package=subtitlecomposer
+X-AppInstall-Popcon=53
+X-AppInstall-Section=main
+
+Type=Application
+Name=Subtitle Composer
+Name[es]=Subtitle Composer
+Name[fr]=Subtitle Composer
+GenericName=Subtitle Editor
+GenericName[es]=Editor de subtítulos
+GenericName[fr]=Éditeur de sous-titres
+Comment=KDE subtitle editor
+Comment[es]=Editor de subtítulos para KDE
+Comment[fr]=Éditeur de sous-titres pour KDE
+Icon=subtitlecomposer
+Exec=subtitlecomposer %f -caption "%c"
+MimeType=text/x-ssa;text/x-ass;text/x-microdvd;text/x-mpsub;application/x-subrip;text/x-subviewer;text/x-mplsub;text/x-tmplayer;text/x-tmplayer+;
+Terminal=false
+Categories=Qt;KDE;AudioVideo;

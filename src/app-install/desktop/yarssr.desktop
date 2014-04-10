@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=yarssr
+X-AppInstall-Popcon=20
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=Yarssr
+Comment=RSS reader for the notification area
+Exec=yarssr
+Icon=paper_green
+Categories=Network;News;

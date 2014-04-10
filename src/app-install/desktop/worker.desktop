@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=worker
+X-AppInstall-Popcon=37
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=Worker
+GenericName=File Manager
+GenericName[de]=Dateimanager
+Comment=File manager for X, much like the Amiga's DirOpus.
+Comment[de]=Dateimanager für X, ähnlich wie Amigas DirOpus.
+Exec=worker
+Icon=WorkerIcon48
+Categories=Utility;FileTools;FileManager;

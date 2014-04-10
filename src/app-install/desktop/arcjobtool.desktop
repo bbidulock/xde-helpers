@@ -1,0 +1,22 @@
+[Desktop Entry]
+X-AppInstall-Package=arcjobtool
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+
+Name=ARC Job Submission Tool
+Name[de]=ARC Jobhochladungswerkzeug
+Name[ru]=ARC инструмент запуска задачи
+Name[sv]=ARC jobbinsändningsverktyg
+GenericName=Grid Client
+GenericName[de]=Gridklient
+GenericName[ru]=Клиент грида
+GenericName[sv]=Gridklient
+Comment=Grid Job Management Tool
+Comment[de]=Gridjobbearbeitungswerkzeug
+Comment[ru]=Инструмент обращания гридових задачи
+Comment[sv]=Gridjobbhanteringsverktyg
+Exec=arcjobtool
+Icon=arcjobtool
+Terminal=false
+Type=Application
+Categories=Network;

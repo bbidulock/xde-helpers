@@ -1,0 +1,17 @@
+# KDE Config File  
+[Desktop Entry]
+X-AppInstall-Package=klogic
+X-AppInstall-Popcon=65
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Type=Application
+Exec=klogic -caption "%c" %i %m  
+Icon=klogic
+X-DocPath=klogic/index.html
+Comment=Simulate digital circuits
+Comment[de]=Digitalschaltungen simulieren
+Terminal=false
+Name=KLogic
+Name[de]=KLogic
+Categories=KDE;Science;Electronics;Education;

@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-AppInstall-Package=kzenexplorer
+X-AppInstall-Popcon=11
+X-AppInstall-Section=main
+
+Name=kZenExplorer
+Exec=kzenexplorer
+Icon=kzenexplorer
+Type=Application
+Categories=Application;AudioVideo
+Terminal=false

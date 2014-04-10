@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=kmidimon
+X-AppInstall-Popcon=21
+X-AppInstall-Section=main
+
+Name=KMidimon
+Exec=kmidimon %u
+Icon=kmidimon
+Type=Application
+Comment=ALSA Sequencer MIDI monitor
+Comment[es]=Monitor MIDI utilizando el secuenciador ALSA
+Categories=AudioVideo;Audio;Music;Midi;Player;Recorder;
+MimeType=audio/midi;audio/x-midi;audio/cakewalk;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

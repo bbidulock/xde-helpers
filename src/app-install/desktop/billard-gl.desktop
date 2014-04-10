@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=billard-gl
+X-AppInstall-Popcon=90
+X-AppInstall-Section=main
+
+Type=Application
+Name=Billard-GL
+GenericName=billard-gl
+Comment=Play Billard Game
+Icon=billard-gl
+Exec=billard-gl
+Terminal=false
+Categories=Game;Simulation;

@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=shutter
+X-AppInstall-Popcon=104
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Shutter
+Comment=Feature-rich screenshot application
+Exec=shutter %F
+Icon=shutter
+Terminal=false
+Type=Application
+Categories=Utility;Application;
+MimeType=image/bmp;image/jpeg;image/gif;image/png;image/tiff;image/x-bmp;image/x-ico;image/x-png;image/x-pcx;image/x-tga;image/xpm;image/svg+xml;
+Name[de_DE]=Shutter
+Comment[de_DE]=Vielseitiges Programm zur Aufnahme von Bildschirmfotos

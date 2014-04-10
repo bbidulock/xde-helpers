@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=hardinfo
+X-AppInstall-Popcon=2088
+X-AppInstall-Section=main
+
+Name=System Profiler and Benchmark
+Name[pt_BR]=Informações e Testes do Sistema
+Exec=hardinfo
+Icon=_usr_share_hardinfo_pixmaps_logo
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=System;
+
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

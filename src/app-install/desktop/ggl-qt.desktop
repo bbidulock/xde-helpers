@@ -1,0 +1,22 @@
+[Desktop Entry]
+X-AppInstall-Package=google-gadgets-qt
+X-AppInstall-Popcon=623
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=Google Gadgets (Qt)
+Name[en]=Google Gadgets (Qt)
+Name[fr]=Google Gadgets (Qt)
+Name[zh_CN]=Google 小工具 (Qt)
+Comment=Run Google Gadgets in KDE/Qt environment
+Comment[en]=Run Google Gadgets in KDE/Qt environment
+Comment[fr]=Exécuter Google Gadgets dans un environnement KDE/Qt
+Comment[zh_CN]=在 KDE/Qt 环境中运行 Google 小工具
+Exec=/usr/bin/ggl-qt %F
+Icon=google-gadgets
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=KDE;Qt;Network;News;
+MimeType=application/x-google-gadget;app/gg;
+OnlyShowIn=KDE;

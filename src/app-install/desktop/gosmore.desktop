@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=gosmore
+X-AppInstall-Popcon=53
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=Gosmore Map Viewer
+GenericName=Map Viewer
+Comment=View, search and route with OpenStreetMap
+Exec=gosmore nopak
+Icon=gosmore
+Terminal=false
+Categories=Geography
+StartupNotify=false

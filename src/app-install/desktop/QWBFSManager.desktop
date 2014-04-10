@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=qwbfsmanager
+X-AppInstall-Popcon=12
+X-AppInstall-Section=main
+
+Categories=Game;Qt;
+Exec=qwbfsmanager
+Name=QWBFS Manager
+GenericName=QWBFS Manager
+Comment=QWBFS Manager is a graphical user interface (GUI) for working with WBFS filesystem formatted hard disk drive.
+Terminal=false
+Type=Application
+Icon=qwbfsmanager
+X-AppInstall-Architectures=amd64,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

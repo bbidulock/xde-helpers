@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=yahtzeesharp
+X-AppInstall-Popcon=1
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=YahtzeeSharp
+GenericName=YahtzeeSharp
+Icon=yahtzeesharp
+Exec=yahtzeesharp
+Terminal=false
+Comment=An open source Yahtzee like game written in C#
+Categories=Game;BoardGame;

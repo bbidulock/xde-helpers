@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=val-and-rick
+X-AppInstall-Popcon=11
+X-AppInstall-Section=main
+
+Type=Application
+Encoding=UTF-8
+Name=Val & Rick
+GenericName=
+Comment=Kenta Cho's Val & Rick
+Icon=val-and-rick.xpm
+Exec=/usr/games/val-and-rick
+Terminal=false
+Categories=Game;ArcadeGame;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390

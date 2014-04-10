@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=xoids
+X-AppInstall-Popcon=12
+X-AppInstall-Section=main
+
+Type=Application
+Name=Xoids
+GenericName=Asteroids Game
+GenericName[ca]=Joc d'asteroides
+Comment=Pilot a spaceship and destroy asteroids and UFOs
+Comment[ca]=Conduïu una nau especial i destruïu asteroides i OVNI
+Exec=xoids
+Icon=xoids
+Categories=Game;ActionGame;

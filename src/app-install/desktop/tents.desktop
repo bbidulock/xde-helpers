@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=sgt-puzzles
+X-AppInstall-Popcon=137
+X-AppInstall-Section=main
+
+Version=1.0
+Terminal=false
+Exec=tents
+Icon=tents
+Type=Application
+Categories=Game;LogicGame;
+Name=Tents
+Comment=Place tents in some of the remaining squares, under some conditions
+Comment[fr]=Placer des tentes aux places restantes, sous certaines conditions
+Comment[de]=Positioniere Zelte gemäß bestimmter Bedingungen in einige der verbliebenen Quadrate

@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=jxplorer
+X-AppInstall-Popcon=14
+X-AppInstall-Section=main
+
+Name=JXplorer
+GenericName=LDAP Browser
+Comment=Java LDAP Browser
+Exec=jxplorer
+Icon=jxplorer
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Network;Development;

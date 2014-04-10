@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=btnx-config
+X-AppInstall-Popcon=39
+X-AppInstall-Section=main
+
+Version=1.0
+Name=btnx
+Type=Application
+Categories=System;
+Exec=su-to-root -X -c /usr/sbin/btnx-config
+Icon=btnx.png
+GenericName[en_US]=
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

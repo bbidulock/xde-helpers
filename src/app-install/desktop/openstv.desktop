@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=openstv
+X-AppInstall-Popcon=3
+X-AppInstall-Section=main
+
+Version=1.0
+Name=OpenSTV Voting Software
+GenericName=Voting Software
+Comment=Conduct a Single Transferable Vote election
+Categories=Office;
+Exec=openstv
+Icon=openstv
+Terminal=false
+Type=Application

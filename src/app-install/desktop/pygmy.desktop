@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=pygmy
+X-AppInstall-Popcon=15
+X-AppInstall-Section=main
+
+Name=Pygmy
+Comment=GTK+ MPD client
+Exec=pygmy
+Terminal=false
+Type=Application
+Icon=pygmy
+Categories=GTK;Application;AudioVideo;Player;
+StartupNotify=true
+Version=0.9.4
+Encoding=UTF-8

@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=meshlab
+X-AppInstall-Popcon=94
+X-AppInstall-Section=main
+
+Version=1.0
+Name=MeshLab
+Name[en_GB]=MeshLab
+GenericName=Mesh processing
+GenericName[en_GB]=Mesh processing
+Comment=View and process meshes
+Type=Application
+Exec=meshlab
+Icon=_usr_share_pixmaps_meshlab_32x32
+Terminal=false
+MimeType=model/mesh;application/x-3ds;image/x-3ds;application/sla;
+Categories=Graphics;3DGraphics;Viewer;Qt;

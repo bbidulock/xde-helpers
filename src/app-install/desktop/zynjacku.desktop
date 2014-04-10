@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=zynjacku
+X-AppInstall-Popcon=11
+X-AppInstall-Section=main
+
+Type=Application
+Name=Zynjacku
+GenericName=LV2 synths host
+Comment=LV2 synths host for JACK
+Icon=zynjacku32x32
+Exec=zynjacku 
+Terminal=false
+Categories=AudioVideo;Audio;

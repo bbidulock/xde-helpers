@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=drawxtl
+X-AppInstall-Popcon=14
+X-AppInstall-Section=main
+
+Name=DRAWxtl
+GenericName=Crystal Structure Viewer
+Comment=Display crystal structures
+Type=Application
+Exec=drawxtl
+Icon=drawxtl
+Categories=Science;Chemistry;Education;
+MimeType=chemical/x-cif;chemical/x-shelx;

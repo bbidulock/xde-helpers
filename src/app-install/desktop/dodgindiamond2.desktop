@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=dodgindiamond2
+X-AppInstall-Popcon=12
+X-AppInstall-Section=main
+
+Type=Application
+Name=Dodgin Diamond 2
+GenericName=dodgindiamond2
+Exec=dodgindiamond2
+Terminal=false
+Categories=Game;ArcadeGame;
+Comment=Shoot 'em up

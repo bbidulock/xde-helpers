@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=projectmanager.app
+X-AppInstall-Popcon=78
+X-AppInstall-Section=main
+
+Name=Project Manager IDE
+Name[bg]=Среда за разработка (ProjectManager)
+Comment=IDE for GNUstep
+Comment[bg]=Интегрирана среда за разработка за GNUstep
+Type=Application
+Categories=Development;IDE;
+Icon=_usr_lib_GNUstep_Applications_ProjectManager.app_Resources_ProjectManager
+Exec=ProjectManager

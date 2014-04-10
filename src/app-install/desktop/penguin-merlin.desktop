@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=ace-of-penguins
+X-AppInstall-Popcon=90
+X-AppInstall-Section=main
+
+Type=Application
+Name=Penguin Merlin
+GenericName=
+Comment=
+Icon=
+Exec=/usr/games/ace-merlin
+Terminal=false
+Categories=Game;LogicGame;

@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=codelite
+X-AppInstall-Popcon=45
+X-AppInstall-Section=main
+
+Name=CodeLite
+Exec=codelite %f
+Icon=_usr_share_codelite_images_cubes
+Terminal=false
+Type=Application
+Categories=Development;
+StartupNotify=true

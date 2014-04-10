@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=emma
+X-AppInstall-Popcon=38
+X-AppInstall-Section=main
+
+Name=emma
+Version=1.0
+GenericName=emma - MySQL managing assistant
+Comment=MySQL managing assistant
+Exec=Emma
+Icon=_usr_share_emma_icons_emma
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;Development;Database;

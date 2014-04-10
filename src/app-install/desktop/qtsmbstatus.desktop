@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=qtsmbstatus-client
+X-AppInstall-Popcon=3
+X-AppInstall-Section=main
+
+Name=QtSmbstatus Client
+Comment=QtSmbstatus is a GUI (graphical user interface) for smbstatus
+Comment[fr]=QtSmbstatus - une interface graphique à smbstatus
+Comment[es]=QtSmbstatus - una interface grafica de smbstatus
+Comment[ru]=QtSmbstatus - графический интейфейс для smbstatus
+Comment[uk]=QtSmbstatus - графічний інтерфейс для smbstatus
+Exec=qtsmbstatus
+Terminal=false
+Type=Application
+Icon=qtsmbstatus
+Categories=Qt;Network;Utility;
+StartupNotify=false

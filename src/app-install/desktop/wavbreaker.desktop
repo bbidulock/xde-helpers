@@ -1,0 +1,18 @@
+[Desktop Entry]
+X-AppInstall-Package=wavbreaker
+X-AppInstall-Popcon=16
+X-AppInstall-Section=main
+
+Name=Wavbreaker File Splitter
+Name[de]=Wavbreaker Datei-Splitter
+GenericName=Audio File Splitter
+GenericName[de]=Audio-Datei Splitter
+Comment=Split wave files into multiple chunks
+Comment[de]=Teilen Sie Wave-Dateien in mehrere Teile
+Exec=wavbreaker
+Icon=wavbreaker
+Terminal=false
+Type=Application
+Categories=Application;AudioVideo;Audio;
+MimeType=audio/x-wav
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=adept
+X-AppInstall-Popcon=70
+X-AppInstall-Section=main
+
+Type=Application
+Version=1.0
+Name=Adept Installer
+GenericName=Add/Remove Software
+Icon=applications-other
+# necessary because X-KDE-SubsituteUID is not processed by XFCE/GNOME
+OnlyShowIn=KDE;
+Exec=adept installer
+Terminal=false
+Categories=Qt;KDE;Core;
+X-KDE-SubstituteUID=true

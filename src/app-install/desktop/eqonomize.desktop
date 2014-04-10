@@ -1,0 +1,22 @@
+[Desktop Entry]
+X-AppInstall-Package=eqonomize
+X-AppInstall-Popcon=37
+X-AppInstall-Section=main
+
+Name=Eqonomize!
+GenericName=Personal Accounting
+GenericName[sv]=Bokföring
+GenericName[de]=Buchhaltung
+Exec=eqonomize %i %m -caption "%c"
+Icon=eqonomize
+Type=Application
+MimeType=application/x-eqonomize
+DocPath=eqonomize/index.html
+Categories=Qt;KDE;Office;Finance
+Terminal=false
+X-DCOP-ServiceType=Unique
+X-DCOP-ServiceName=eqonomize
+X-KDE-StartupNotify=true
+Comment=Manage your personal finances
+Comment[sv]=Hantera din privatekonomi
+Comment[de]=Verwaltung der persönlichen Finanzen

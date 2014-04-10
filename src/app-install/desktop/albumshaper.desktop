@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-AppInstall-Package=albumshaper
+X-AppInstall-Popcon=62
+X-AppInstall-Section=main
+
+Name=Album Shaper
+Comment=Photo album organiser
+Exec=albumshaper
+Icon=_usr_share_albumshaper_images_miscImages_as32
+Type=Application
+Categories=Utility;Graphics;

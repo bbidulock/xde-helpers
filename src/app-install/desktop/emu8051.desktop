@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=emu8051
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main
+
+Version=1.0
+Name=emu8051
+Name[en_GB]=Emu8051
+GenericName=intel 8051 emulator
+GenericName[en_GB]=intel 8051 emulator
+Exec=/usr/bin/emu8051
+Type=Application
+Terminal=false
+Categories=Science;Education;Electronics;
+

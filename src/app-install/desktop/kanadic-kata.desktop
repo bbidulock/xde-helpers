@@ -1,0 +1,10 @@
+[Desktop Entry]
+X-AppInstall-Package=kanadic
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+
+Name=Full Kana+ Drill
+Type=Application
+Icon=_usr_share_pixmaps_kdrill
+Exec=/usr/bin/kdrill -edictfile /usr/share/edict/fullkatahira.edic.gz -kdictfile none
+Categories=Game;LogicGame

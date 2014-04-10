@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=alleyoop
+X-AppInstall-Popcon=56
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Alleyoop Memory Checker
+GenericName=Memory Checker
+Comment=Find memory-management problems in your programs using the valgrind tool
+Type=Application
+Exec=alleyoop
+Icon=alleyoop
+Categories=Debugger;Development;GNOME;Profiling;
+X-AppInstall-Architectures=amd64,i386,powerpc

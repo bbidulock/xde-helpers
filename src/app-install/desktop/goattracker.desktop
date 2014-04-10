@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=goattracker
+X-AppInstall-Popcon=10
+X-AppInstall-Section=main
+
+Name=GoatTracker
+Exec=goattracker
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=goattrk2.xpm
+Categories=AudioVideo;AudioVideoEditing

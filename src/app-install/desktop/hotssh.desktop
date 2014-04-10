@@ -1,0 +1,34 @@
+[Desktop Entry]
+X-AppInstall-Package=hotssh
+X-AppInstall-Popcon=31
+X-AppInstall-Section=main
+
+Name=Secure Shell
+Name[ar]=صدفة آمنة
+Name[ca]=Intèrpret d'ordres segur
+Name[es]=Shell segura
+Name[fi]=SSH
+Name[fr]=Shell sécurisé
+Name[ja]=セキュア・シェル
+Name[nb]=Sikkert skall
+Name[pt]=Consola Segura
+Name[pt_BR]=SSH
+Name[sl]=Varna lupina
+Name[sv]=Secure Shell
+Comment=Connect to a remote computer using Secure Shell
+Comment[ca]=Connecta't a un ordinador remot utilitzant un intèrpret d'ordres segur
+Comment[es]=Conectar a un equipo remoto usando Shell segura
+Comment[fi]=Ota toiseen tietokoneeseen yhteyttä SSH:lla
+Comment[fr]=Se connecter à un ordinateur distant en utilisant un shell sécurisé
+Comment[ja]=SSH を使ってリモートのコンピュータに接続します
+Comment[nb]=Komle til en ekstern datamaskin med sikkert skall
+Comment[pt]=Ligar a um computador remoto utilizando uma Consola Segura
+Comment[pt_BR]=Conecte-se a um computador remoto usando SSH
+Comment[sl]=Poveži se z oddaljenim računalnikom z varno lupino
+Comment[sv]=Anslut till en fjärrdator med Secure Shell
+Exec=hotssh
+Terminal=false
+Type=Application
+Icon=hotwire-openssh
+Categories=GTK;Network;
+StartupNotify=true

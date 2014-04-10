@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=ggcov
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main
+
+Name=GGcov
+Comment=Source code coverage browser
+Icon=ggcov64.png
+Exec=ggcov
+Terminal=false
+Type=Application
+Categories=Application;Development;
+X-AppInstall-Architectures=i386,kfreebsd-i386

@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=sooperlooper
+X-AppInstall-Popcon=69
+X-AppInstall-Section=main
+
+Type=Application
+Name=SooperLooper
+GenericName=
+Comment=
+Icon=sooperlooper
+Exec=/usr/bin/slgui
+Terminal=false
+Categories=AudioVideo;Audio;

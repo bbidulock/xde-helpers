@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=xenwatch
+X-AppInstall-Popcon=74
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=xenlog
+Comment=xenstore activity logger
+Exec=xenlog
+Terminal=true
+Type=Application
+Categories=GTK;System;Utility;
+X-AppInstall-Architectures=amd64,i386

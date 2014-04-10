@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=warzone2100
+X-AppInstall-Popcon=93
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=Warzone 2100
+Name[de]=Warzone 2100
+GenericName=Strategy Game
+GenericName[de]=Strategiespiel
+Comment=Postnuclear realtime strategy
+Comment[de]=Postnukleare Echtzeit Strategie
+Icon=warzone2100
+Exec=warzone2100
+Categories=Game;StrategyGame;

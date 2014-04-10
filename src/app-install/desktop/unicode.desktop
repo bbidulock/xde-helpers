@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=unicode-screensaver
+X-AppInstall-Popcon=38
+X-AppInstall-Section=main
+
+Name=Unicode
+Exec=/usr/lib/xscreensaver/unicode -root
+Comment=Repeatedly randomly picks an unicode character and displays it in a very large font size together with its unicode code point and the character name. Written by Joachim Breitner; 2009.
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=Screensaver
+OnlyShowIn=GNOME;

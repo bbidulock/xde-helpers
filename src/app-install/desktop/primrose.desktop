@@ -1,0 +1,13 @@
+# From http://aur.archlinux.org/packages/primrose/primrose/primrose.desktop
+# Forwarded to http://sf.net/support/tracker.php?aid=2672210
+[Desktop Entry]
+X-AppInstall-Package=primrose
+X-AppInstall-Popcon=7
+X-AppInstall-Section=main
+
+Name=Primrose
+Exec=primrose
+Icon=primrose
+Type=Application
+Comment=Captivating tile-clearing puzzle game
+Categories=Game;LogicGame;

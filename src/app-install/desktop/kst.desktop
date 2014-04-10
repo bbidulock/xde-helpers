@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=kst-bin
+X-AppInstall-Popcon=41
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=Kst
+Exec=/usr/bin/kst
+DocPath=kst/index.html
+Icon=kst
+Path=
+Type=Application
+Terminal=false
+X-KDE-StartupNotify=true
+Categories=Qt;KDE;Utility;

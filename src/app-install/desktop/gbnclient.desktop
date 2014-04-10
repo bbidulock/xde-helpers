@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=gbatnav
+X-AppInstall-Popcon=11
+X-AppInstall-Section=main
+
+Name=Gnome Batalla Naval client
+Name[es]=Cliente Gnome del Batalla Naval
+Name[ja]=GNOME 长里ゲ〖ム (クライアント)
+Comment=Gnome Batalla Naval client
+Comment[es]=Cliente Gnome del Batalla Naval
+Comment[ja]=GNOME 长里ゲ〖ム (クライアント)
+Exec=gbnclient 
+Icon=gnome-gbatnav.png
+Terminal=0
+Type=Application

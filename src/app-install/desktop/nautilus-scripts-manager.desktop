@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=nautilus-scripts-manager
+X-AppInstall-Popcon=68
+X-AppInstall-Section=main
+
+Name=Nautilus scripts manager
+Name[it]=Gestore di script per Nautilus
+Comment=Enable or disable Nautilus scripts
+Comment[it]=Abilita e disabilita gli script per Nautilus
+Exec=nautilus-scripts-manager
+Terminal=false
+Type=Application
+Icon=nautilus-scripts-manager.svg
+Categories=Settings;
+

@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=alsa-tools-gui
+X-AppInstall-Popcon=268
+X-AppInstall-Section=main
+
+Type=Application
+Name=HDSPMixer
+GenericName=
+Comment=Control the advanced routing features of the RME Hammerfall DSP
+Icon=alsa-tools
+Exec=hdspmixer
+Terminal=false
+Categories=AudioVideo;Audio;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

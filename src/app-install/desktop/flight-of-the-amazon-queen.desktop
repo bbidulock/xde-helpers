@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=flight-of-the-amazon-queen
+X-AppInstall-Popcon=38
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Name=Flight of the Amazon Queen
+GenericName=Game
+Comment=Embark on a quest to rescue a kidnapped princess and in the process, discover the true sinister intentions of a suspiciously located Lederhosen company
+Type=Application
+Exec=/usr/games/scummvm -p /usr/share/scummvm/flight-of-the-amazon-queen queen
+Icon=flight-of-the-amazon-queen
+Categories=AdventureGame;Game;RolePlaying;

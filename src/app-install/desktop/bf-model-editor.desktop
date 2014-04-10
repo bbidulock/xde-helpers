@@ -1,0 +1,22 @@
+[Desktop Entry]
+X-AppInstall-Package=bear-factory
+X-AppInstall-Popcon=1
+X-AppInstall-Section=main
+
+Version=1.0
+
+Name=Bear Factory — Model Editor
+
+Comment=Model editor for the Bear Engine
+Comment[en]=Model editor for the Bear Engine
+Comment[fr]=Éditeur de personnage pour Le moteur « Bear »
+
+Exec=bf-model-editor
+Terminal=false
+Icon=bear-factory
+
+StartupNotify=true
+Type=Application
+Categories=Utility;
+
+X-AppInstall-Architectures=amd64,hppa,i386,ia64,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,sparc

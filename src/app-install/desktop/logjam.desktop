@@ -1,0 +1,27 @@
+[Desktop Entry]
+X-AppInstall-Package=logjam
+X-AppInstall-Popcon=28
+X-AppInstall-Section=main
+
+Name=LogJam
+Name[de]=LogJam
+Name[en_US.UTF-8]=LogJam
+Name[es]=LogJam
+Name[he]=לוגג'ם
+Name[ja]=LogJam
+Name[ru_RU]=LogJam
+Name[uk_UA]=LogJam
+Comment=Manage journal/weblog
+Comment[de]=Journal/Weblog managen
+Comment[en_US.UTF-8]=Manage journal/weblog
+Comment[es]=Gestionar diario/weblog
+Comment[he]=נהל יומן
+Comment[ja]=日記/ブログを管理
+Comment[ru_RU]=Управление дневником/веблогом
+Comment[uk_UA]=Керування веб-журналами
+Exec=logjam
+Icon=logjam.png
+Terminal=false
+Type=Application
+Categories=Application;Network;
+StartupNotify=true

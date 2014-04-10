@@ -1,0 +1,27 @@
+[Desktop Entry]
+X-AppInstall-Package=jhbuild
+X-AppInstall-Popcon=18
+X-AppInstall-Section=main
+
+Type=Application
+Name=GNOME Build Tool
+Name[de]=GNOME Erstellungswerkzeug
+Name[en_GB]=GNOME Build Tool
+Name[es]=Herramienta de construcción de GNOME
+Name[fr]=Outil de compilation pour GNOME
+Name[sv]=Byggverktyg för GNOME
+Comment=Build GNOME modules
+Comment[de]=GNOME-Module erstellen
+Comment[en_GB]=Build GNOME modules
+Comment[es]=Construya módulos de GNOME
+Comment[fr]=Compilation des modules GNOME
+Comment[sv]=Bygg GNOME-moduler
+Exec=jhbuild gui
+Categories=GNOME;Development;Building;
+Icon=applications-development
+Terminal=false
+StartupNotify=true
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=jhbuild
+X-GNOME-Bugzilla-Component=general
+X-GNOME-Bugzilla-Version=2.29.2

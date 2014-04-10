@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=camera.app
+X-AppInstall-Popcon=218
+X-AppInstall-Section=main
+
+Type=Application
+Version=0.94
+Categories=Graphics;Photography;
+Name=Camera
+Comment=Download files from your digital camera.
+Icon=_usr_lib_GNUstep_Applications_Camera.app_Resources_Camera
+Exec=Camera

@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=arandr
+X-AppInstall-Popcon=98
+X-AppInstall-Section=main
+
+Name=ARandR
+GenericName=Screen Settings
+GenericName[de]=Bildschirmeinstellungen
+Icon=display
+Exec=arandr
+Terminal=false
+Type=Application
+Categories=Settings;HardwareSettings;
+StartupNotify=true

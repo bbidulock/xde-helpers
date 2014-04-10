@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=boswars
+X-AppInstall-Popcon=65
+X-AppInstall-Section=main
+
+Name=Bos Wars
+GenericName=boswars
+Comment=Battle for survival
+Type=Application
+Exec=boswars
+Icon=boswars
+Terminal=false
+Categories=Game;StrategyGame;
+

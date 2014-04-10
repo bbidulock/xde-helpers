@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=gquilt
+X-AppInstall-Popcon=14
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=gquilt Patch Manager
+Exec=gquilt
+Terminal=false
+Type=Application
+Icon=gquilt.xpm
+Categories=Development;RevisionControl;

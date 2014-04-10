@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=gambit
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Gambit Game Analysis
+Comment=Construction and analysis of finite extensive and normal form games
+Exec=gambit
+Icon=gambit
+Type=Application
+Categories=Education;Math;Science;

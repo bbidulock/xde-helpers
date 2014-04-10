@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=gausssum
+X-AppInstall-Popcon=22
+X-AppInstall-Section=main
+
+Name=GaussSum
+Comment=Graphical display of computational chemistry output
+Exec=gausssum %F
+Icon=gausssum.xpm
+Terminal=false
+Type=Application
+Categories=Education;Science;
+MimeType=chemical/x-gamess-output;chemical/x-gaussian-log;

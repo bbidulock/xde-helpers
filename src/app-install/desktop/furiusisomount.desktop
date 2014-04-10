@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=furiusisomount
+X-AppInstall-Popcon=84
+X-AppInstall-Section=main
+
+Categories=Utility;DiscBurning;
+Exec=furiusisomount
+GenericName=Furius ISO Mount
+Icon=furiusisomount
+Name=Furius ISO Mount
+Comment=Manage ISO, IMG, BIN, MDF and NRG images
+Comment[it]=Gestire immagini ISO, IMG, BIN, MDF e NRG
+Terminal=false
+StartupNotify=true
+Type=Application
+X-AppInstall-Package=furiusisomount
+X-AppInstall-Popcon=84

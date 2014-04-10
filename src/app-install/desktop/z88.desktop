@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=z88
+X-AppInstall-Popcon=12
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Z88
+GenericName=Z88
+Comment= Finite Element Analysis Program
+Exec=z88
+Type=Application
+Terminal=true
+Categories=Education;Math;Science;

@@ -1,0 +1,18 @@
+[Desktop Entry]
+X-AppInstall-Package=catfish
+X-AppInstall-Popcon=76
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=Catfish
+Comment=File search
+Comment[de]=Dateisuche
+Comment[es]=Buscador de archivos
+Comment[fi]=Etsi tiedostoja
+Comment[fr]=Recherche de fichiers
+Categories=GTK;Utility;Filesystem;
+Exec=catfish
+Icon=catfish
+Terminal=false
+StartupNotify=true

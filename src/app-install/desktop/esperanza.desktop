@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=esperanza
+X-AppInstall-Popcon=47
+X-AppInstall-Section=main
+
+Name=Esperanza
+Comment=XMMS2 client which aims to be as feature-full and easy-to-use as possible
+Type=Application
+Exec=esperanza
+Icon=xmms2
+Categories=Qt;AudioVideo;Audio;Player;
+Terminal=false

@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=khmerconverter
+X-AppInstall-Popcon=3
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Khmer Converter
+Name[km]=កម្មវិធី​បម្លែង​ពុម្ព​អក្សរ​ខ្មែរ
+Comment=Convert Khmer between Unicode and legacy Khmer encodings.
+#Comment[km]=
+Exec=khmerconverter
+Icon=khmerconverter.png
+Type=Application
+Terminal=false
+Categories=Translation;Utility;

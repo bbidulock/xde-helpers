@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=openuniverse
+X-AppInstall-Popcon=59
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=OpenUniverse Space Simulator
+GenericName=Space Simulator
+Comment=Explore the solar system in this accurate simulation
+Comment[es]=Explora el sistema solar en esta simulación
+Exec=openuniverse %F
+Icon=openuniverse.xpm
+Categories=Application;Science;Education;Astronomy;

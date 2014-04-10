@@ -1,0 +1,22 @@
+[Desktop Entry]
+X-AppInstall-Package=tkabber
+X-AppInstall-Popcon=44
+X-AppInstall-Section=main
+
+Type=Application
+Encoding=UTF-8
+Name=Tkabber
+GenericName=GUI client for XMPP (Jabber) instant messaging
+GenericName[es]=Cliente gráfico de mensajería instantánea XMPP (Jabber)
+GenericName[de]=GUI-Client für die XMPP-Nachrichtenübermittlung (Jabber)
+GenericName[pl]=Graficzny klient do wymiany wiadomości błyskawicznych XMPP (Jabber)
+GenericName[ru]=GUI клиент для мгновенного обмена сообщениями XMPP (Jabber)
+Comment=Communicate via XMPP (Jabber) protocol
+Comment[es]=Comunicación usando el protocolo XMPP (Jabber)
+Comment[de]=Über das XMPP-Protokoll (Jabber) kommunizieren
+Comment[pl]=Komunikuj się za pomocą protokołu XMPP (Jabber)
+Comment[ru]=Общаться с помощью протокола XMPP (Jabber)
+Icon=/usr/share/icons/tkabber.xpm
+Exec=/usr/bin/tkabber
+Terminal=false
+Categories=Network;InstantMessaging;

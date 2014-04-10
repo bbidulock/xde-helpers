@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=lshw-gtk
+X-AppInstall-Popcon=188
+X-AppInstall-Section=main
+
+Type=Application
+Name=Hardware Lister
+Comment=Provides information on hardware
+Comment[ca]=Proveeix informació sobre el maquinari
+Icon=lshw-gtk
+Exec=lshw-gtk
+Terminal=false
+Categories=Settings;HardwareSettings;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

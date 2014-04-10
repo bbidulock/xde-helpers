@@ -1,0 +1,18 @@
+[Desktop Entry]
+X-AppInstall-Package=tora
+X-AppInstall-Popcon=79
+X-AppInstall-Section=main
+
+Version=1.0
+Name=TOra
+Exec=tora
+Icon=tora
+Type=Application
+MimeType=application/x-tora
+Comment=A graphical toolkit for database administration and development
+Comment[fr]=Une boite à outil graphique pour l'administration et le développement de base de données
+Comment[de]=Grafisches Toolkit zur Administration und Entwicklung von Datenbanken
+X-KDE-StartupNotify=true
+Terminal=false
+Categories=Database;Office;Development;KDE;Qt
+

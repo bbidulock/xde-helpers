@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=pyragua
+X-AppInstall-Popcon=6
+X-AppInstall-Section=main
+
+Type=Application
+Version=1.0
+Name=Pyragua
+GenericName[en_GB]=Integrated Development Environment
+GenericName[es]=Entorno Integrado de Desarrollo
+Comment=A fast and lightweight IDE using wxPython
+Exec=pyragua %F
+Icon=pyragua
+Categories=Development;IDE;
+Terminal=false
+StartupNotify=true

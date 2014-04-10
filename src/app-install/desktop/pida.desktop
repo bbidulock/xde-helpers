@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=pida
+X-AppInstall-Popcon=48
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Encoding=UTF-8
+Name=PIDA
+Comment=Python Integrated Development Application
+Comment[de]=Integrierte Entwicklungsumgebung für Python
+Icon=pida-icon
+Exec=pida %F
+MimeType=text/plain
+Categories=Development;IDE;GTK;

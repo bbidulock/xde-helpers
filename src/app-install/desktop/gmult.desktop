@@ -1,0 +1,68 @@
+[Desktop Entry]
+X-AppInstall-Package=gmult
+X-AppInstall-Popcon=9
+X-AppInstall-Section=main
+
+Version=1.0
+
+Name=Multiplication Puzzle
+Name[af]=Maalraaisel
+Name[da]=Multiplication Puzzle
+Name[de]=Multiplizierrätsel
+Name[en_GB]=Multiplication Puzzle
+Name[es]=Rompecabezas de multiplicación
+Name[eu]=Biderketa puzzlea
+Name[fi]=Kertolaskupulma
+Name[fr]=Jeu-devinette de multiplication
+Name[hu]=Szorzás Rejtvény
+Name[id]=Puzzle Multiplikasi
+Name[io]=Multiplikada Enigmato
+Name[it]=Moltiplicazione Cifrata
+Name[ja]=掛けるパズル
+Name[ms]=Teka-teki Darab
+Name[nl]=Vermenigvuldigingspuzzel
+Name[pl]=Multiplication Puzzle
+Name[pt_BR]=Enigma da Multiplicação
+Name[rm]=Puzzle da multiplicaziun
+Name[ro]=Joc de aritmetică
+Name[ru]=Игра "Умножение"
+Name[sr]=Слагалица са множењем
+Name[sv]=Multipliceringspussel
+Name[tr]=Çarpma Bulmacası
+Name[vi]=Câu đố nhân
+Name[zh_CN]=乘法猜数游戏
+Name[zh_TW]=乘法字謎
+Comment=Figure out which letters are which numbers
+Comment[af]=Bepaal watter letters is watter getalle
+Comment[da]=Regn ud hvilke bogstaver der repræsenterer hvilke tal
+Comment[de]=Finde heraus, welche Buchstaben welche Ziffern sind.
+Comment[en_GB]=Figure out which letters are which numbers
+Comment[es]=Averiguar cuáles letras son qué números
+Comment[eu]=Kalkulatu zein letra den zein zenbaki
+Comment[fi]=Yritä ratkaista, mikä kirjain vastaa mitä numeroa
+Comment[fr]=Vous devez deviner à quel nombre correspond chaque lettre
+Comment[hu]=Találja ki, hogy melyik betű melyik számnak felel meg
+Comment[id]=Tebak nomor mana berada pada huruf yang mana
+Comment[io]=Dechifrez nombri de literi
+Comment[it]=Indovina quale numero corrisponde a ogni lettera
+Comment[ja]=どの文字がどの数字かをあててください
+Comment[ms]=Tentukan aksara yang mana adalah nombor
+Comment[nl]=Probeer uit te vissen welke cijfers er schuilgaan achter de letters
+Comment[pl]=Stwierdź które są numery, które litery
+Comment[rm]=Chatta oura che custabs chi sun che nomers
+Comment[ro]=Deduceţi care litere corespund căror numere
+Comment[sr]=Пронађи која слова су који бројеви
+Comment[sv]=Lista ut vilka bokstäver som är vilka nummer
+Comment[tr]=Hangi harflerin hangi rakamlara karşılık geldiğini bulun
+Comment[vi]=Tính ra chữ cái nào là chữ số nào
+Comment[zh_CN]=猜出各个字母代表哪些数字
+Comment[zh_TW]=推測出哪個文字代表哪個數字
+
+Icon=gmult
+Exec=gmult
+Terminal=false
+
+StartupNotify=true
+
+Type=Application
+Categories=Game;LogicGame;GTK;

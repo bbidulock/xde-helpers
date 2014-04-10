@@ -1,0 +1,35 @@
+[Desktop Entry]
+X-AppInstall-Package=longomatch
+X-AppInstall-Popcon=3
+X-AppInstall-Section=main
+
+Version=1.0
+Name=LongoMatch
+Name[cs]=LongoMatch
+Name[da]=LongoMatch
+Name[de]=LongoMatch
+Name[es]=LongoMatch
+Name[sl]=LongoMatch
+Name[sv]=LongoMatch
+X-GNOME-FullName=LongoMatch: The Digital Coach
+X-GNOME-FullName[cs]=LongoMatch: Digitální rozhodčí
+X-GNOME-FullName[da]=LongoMatch: Den digitale træner
+X-GNOME-FullName[de]=LongoMatch: Der digitale Trainer
+X-GNOME-FullName[es]=LongoMatch: el entrenador digital
+X-GNOME-FullName[sl]=LongoMatch: digitalni trener
+Type=Application
+Exec=longomatch
+Terminal=false
+Categories=Video;AudioVideo;Player;AudioVideoEditing;
+Icon=longomatch
+Comment=Sports video analysis tool for coaches
+Comment[cs]=Nástroj pro rozhodčí sloužící k analýze sportovních videí
+Comment[da]=Værktøj til videoanalyse for sportstrænere
+Comment[de]=Analyse von Sportvideos für Trainer
+Comment[es]=Herramienta de vídeo análisis para entrenadores
+Comment[sl]=Orodje za analizo posnetkov tekem za trenerje
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=longomatch
+X-GNOME-Bugzilla-Component=general
+X-GNOME-Bugzilla-Version=0.15.7
+X-AppInstall-Architectures=amd64,armel,i386,ia64,kfreebsd-amd64,kfreebsd-i386,powerpc,s390,sparc

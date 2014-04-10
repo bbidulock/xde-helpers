@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=alsaplayer-common
+X-AppInstall-Popcon=499
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Alsaplayer
+Type=Application
+Comment=Versatile audio player for the Audio Linux Sound Architecture
+Comment[fr]=lecteur audio versatile for the Audio Linux Sound Architecture
+Exec=alsaplayer
+Icon=alsaplayer
+MimeType=audio/x-scpls;audio/x-mpegurl;audio/mpegurl;audio/mp3;audio/x-mp3;audio/mpeg;audio/x-mpeg;audio/x-wav;audio/ogg+vorbis;audio/ogg;audio/flac;
+Categories=AudioVideo;Audio;Player;
+StartupNotify=true
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

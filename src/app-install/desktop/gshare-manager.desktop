@@ -1,0 +1,33 @@
+[Desktop Entry]
+X-AppInstall-Package=gshare
+X-AppInstall-Popcon=34
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=File Sharing
+Name[ca]=Compartició de fitxers
+Name[fr]=Partage de fichiers
+Name[nb]=Fildeling
+Name[nl]=Bestanden delen
+Name[nn]=Fildeling
+Name[pl]=Udostępnianie plików
+Name[pt]=Partilha de Ficheiros
+Name[pt_BR]=Compartilhamento de Arquivos
+Name[sv]=Fildelning
+Comment=Configure the file sharing service
+Comment[ca]=Configuri el servei de fitxers compartits
+Comment[fr]=Configurer le service de partage de fichiers
+Comment[nb]=Sett opp fildelingstjenesten
+Comment[nl]=Instellingen voor delen van bestanden
+Comment[nn]=Set opp fildelingstenesta
+Comment[pl]=Konfiguruj usługę udostępniania plików
+Comment[pt]=Configurar o serviço de partilha de ficheiros
+Comment[pt_BR]=Configurar o serviço de compartilhamento de arquivos
+Comment[sv]=Konfigurera fildelningstjänsten
+Exec=gshare-manager
+Terminal=false
+Type=Application
+Icon=folder-remote
+StartupNotify=true
+Categories=GNOME;Application;Settings;
+OnlyShowIn=GNOME;

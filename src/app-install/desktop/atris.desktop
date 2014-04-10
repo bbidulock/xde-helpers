@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=atris
+X-AppInstall-Popcon=24
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Version=1.0.7
+Type=Application
+Name=Atris
+Comment=Tetris-like game
+Exec=atris
+Categories=Game;BlocksGame;

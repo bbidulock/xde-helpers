@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=paman
+X-AppInstall-Popcon=417
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=PulseAudio Manager
+Comment=Manager your PulseAudio sound server.
+Exec=paman
+Icon=audio-card
+StartupNotify=true
+Type=Application
+Categories=AudioVideo;Audio;

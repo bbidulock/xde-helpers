@@ -1,0 +1,18 @@
+[Desktop Entry]
+X-AppInstall-Package=ggz-kde-games
+X-AppInstall-Popcon=14
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+
+Name=Keepalive
+GenericName=Online roleplaying game
+GenericName[de]=Online-Rollenspiel
+Comment=GGZ Roleplay game
+Comment[de]=GGZ Rollenspiel
+
+Type=Application
+Exec=/usr/lib/ggz/keepalive
+Icon=keepalive
+Terminal=false
+Categories=X-GGZ-Games;RolePlaying;Game;KDE;Qt;

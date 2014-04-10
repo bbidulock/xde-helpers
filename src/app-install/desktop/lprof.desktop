@@ -1,0 +1,29 @@
+[Desktop Entry]
+X-AppInstall-Package=lprof
+X-AppInstall-Popcon=43
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=LProf
+Name[en_US]=LProf
+GenericName=ICC Profiler
+GenericName[en_US]=ICC Profiler
+GenericName[ru]=ICC-профилировщик
+Categories=Graphics;RasterGraphics;
+Comment=Hardware ICC Profiler
+Comment[en_US]=Hardware ICC Profiler
+Comment[ru]=ICC-профилировщик аппаратного обеспечения
+Exec=lprof
+Icon=lprof.png
+MimeType=
+Path=
+StartupNotify=true
+StartupWMClass=lprof
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DCOP-ServiceType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+X-StandardInstall=false
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

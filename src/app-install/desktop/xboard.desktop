@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=xboard
+X-AppInstall-Popcon=117
+X-AppInstall-Section=main
+
+Type=Application
+Encoding=UTF-8
+Name=XBoard
+GenericName=X Window Chess Board
+Comment=Use an X Windows Chess Board
+Exec=xboard
+Icon=xboard
+Terminal=false
+Categories=Game;BoardGame;

@@ -1,0 +1,27 @@
+[Desktop Entry]
+X-AppInstall-Package=gpxviewer
+X-AppInstall-Popcon=19
+X-AppInstall-Section=main
+
+Name=GPX Viewer
+Name[cs]=Prohlížeč souborů GPX
+Name[de]=GPX Viewer
+Name[el]=Απεικονιστής GPX
+Name[en_GB]=GPX Viewer
+Name[es]=Visor GPX
+Name[hr]=GPX Viewer
+Name[it]=GPX Viewer
+Name[ja]=GPXビューア
+Name[nl]=GPX Viewer
+Name[pl]=GPX Viewer
+Name[pt]=GPX Viewer
+Name[ru]=GPX Viewer
+Name[sl]=Pregledovalnik datotek GPX
+Name[sv]=GPX Viewer
+Name[th]=GPX Viewer
+Name[zh_CN]=GPX 查看器
+Type=Application
+Comment=GPS Trace Viewer
+Exec=gpxviewer
+Icon=gpxviewer
+Categories=Network

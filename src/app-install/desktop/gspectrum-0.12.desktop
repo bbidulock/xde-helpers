@@ -1,0 +1,22 @@
+[Desktop Entry]
+X-AppInstall-Package=gcu-bin
+X-AppInstall-Popcon=46
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Spectrum viewer
+Name[de]=Spektrenbetrachter
+Name[fr]=Visionneuse de spectres
+Name[pl]=Przeglądarka widm
+Name[zh_TW]=Spectrum viewer 光譜瀏覽軟體
+Comment=A spectrum viewer for the GNOME desktop
+Comment[de]=Ein Spektrenbetrachter für den GNOME Desktop
+Comment[fr]=Une visionneuse de spectre pour le bureau de GNOME
+Comment[pl]=Przeglądarka widm dla pulpitu GNOME
+Comment[zh_TW]=Gnome 桌面的光譜瀏覽軟體
+Exec=gspectrum-0.12
+Icon=gspectrum
+Terminal=false
+Type=Application
+Categories=GTK;GNOME;Education;Science;Chemistry;
+MimeType=chemical/x-jcamp-dx;

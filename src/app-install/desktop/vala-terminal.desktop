@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=vala-terminal
+X-AppInstall-Popcon=5
+X-AppInstall-Section=main
+
+Name=Terminal
+Comment=Command Line Interface
+Exec=vala-terminal
+Icon=vala-terminal
+Terminal=false
+Type=Application
+Categories=GTK;Application;Utility;
+MimeType=text/x-vcard;
+X-SingleInstance=true
+StartupNotify=true

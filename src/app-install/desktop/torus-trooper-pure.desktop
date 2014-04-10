@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=torus-trooper-pure
+X-AppInstall-Popcon=6
+X-AppInstall-Section=main
+
+Type=Application
+Name=Torus Trooper Pure
+GenericName=
+Comment=HIZ's version of Torus Trooper
+Icon=torus-trooper-pure
+Exec=torus-trooper-pure
+Terminal=false
+Categories=Game;ArcadeGame;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390

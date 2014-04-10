@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=gnustep-examples
+X-AppInstall-Popcon=33
+X-AppInstall-Section=main
+
+Name=GNUstep Calculator
+Name[bg]=Калкулатор за GNUstep
+Comment=Example calculator for GNUstep
+Comment[bg]=Примерен калкулатор за GNUstep
+Type=Application
+Categories=Utility;Calculator;
+Icon=/usr/lib/GNUstep/Applications/Calculator.app/Resources/Calculator.app.tiff
+Exec=Calculator

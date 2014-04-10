@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=gmail-notify
+X-AppInstall-Popcon=82
+X-AppInstall-Section=main
+
+Type=Application
+Encoding=UTF-8
+Name=Gmail Notify
+GenericName=Gmail Notify
+Comment=New Gmail notification tool
+Icon=gmail-notify-icon.png
+Exec=gmail-notify
+Terminal=false
+Categories=Application;Network;

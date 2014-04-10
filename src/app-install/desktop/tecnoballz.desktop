@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=tecnoballz
+X-AppInstall-Popcon=20
+X-AppInstall-Section=main
+
+Type=Application
+Name=TecnoballZ
+GenericName=tecnoballz
+Comment=Play an Arkanoid-like game
+Icon=tecnoballz.xpm
+Exec=tecnoballz
+Terminal=false
+Categories=Game;ArcadeGame;
+

@@ -1,0 +1,34 @@
+[Desktop Entry]
+X-AppInstall-Package=qelectrotech
+X-AppInstall-Popcon=27
+X-AppInstall-Section=main
+
+Version=1.0
+#Encoding=UTF-8
+Name=QElectroTech
+Exec=qelectrotech
+Icon=qelectrotech
+Terminal=false
+Type=Application
+MimeType=application/x-qet-project;application/x-qet-element;
+Categories=Graphics;Qt;VectorGraphics;Science;Electricity;Engineering;
+Comment=An electric diagrams editor.
+Comment[fr]=Un éditeur de schémas électriques
+Comment[fr_FR]=Un éditeur de schémas électriques
+Comment[es]=Un editor de esquemas eléctricos
+Comment[ru]=Редактор электрических схем
+Comment[ru_RU]=Редактор электрических схем
+Comment[pt]=Um editor de esquemas eléctricos
+Comment[pt_PT]=Um editor de esquemas eléctricos
+Comment[cs]=Editor nákresů elektrických obvodů
+Comment[cs_CZ]=Editor nákresů elektrických obvodů
+GenericName=Electric diagrams editor
+GenericName[fr]=Un éditeur de schémas électriques
+GenericName[fr_FR]=Un éditeur de schémas électriques
+GenericName[es]=Un editor de esquemas eléctricos
+GenericName[ru]=Редактор электрических схем
+GenericName[ru_RU]=Редактор электрических схем
+GenericName[pt]=Editor de esquemas eléctricos
+GenericName[pt_PT]=Editor de esquemas eléctricos
+GenericName[cs]=Editor nákresů elektrických obvodů
+GenericName[cs_CZ]=Editor nákresů elektrických obvodů

@@ -1,0 +1,21 @@
+[Desktop Entry]
+X-AppInstall-Package=fityk
+X-AppInstall-Popcon=47
+X-AppInstall-Section=main
+
+Type=Application
+Name=fityk
+Comment=Peak fitting and data analysis
+GenericName=Curve Fitter
+Icon=fityk
+Exec=fityk %F
+Terminal=false
+StartupNotify=true
+MimeType=application/x-fityk;
+# according to: http://standards.freedesktop.org/menu-spec/latest/apa.html
+# we need one category from Main Categories list. Two reasonable choices are
+# Office and Education. Education is not the best category for fityk, but
+# Science is a subcategory of Education and that's were scientific software
+# is usually put.
+Categories=Education;Science;DataVisualization;GTK;
+

@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=gtkperf
+X-AppInstall-Popcon=23
+X-AppInstall-Section=main
+
+Name=GtkPerf
+Comment=Test GTK+ performance
+Exec=gtkperf
+Icon=duck
+Terminal=false
+Type=Application
+Categories=System;
+

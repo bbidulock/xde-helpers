@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=gbgoffice
+X-AppInstall-Popcon=23
+X-AppInstall-Section=main
+
+Name=GbgOffice
+Name[bg]=БГ Офис помощник
+Comment=GTK2 Bulgarian-English Dictionary
+Comment[bg]=Двупосочен българо-английски речник
+Exec=gbgoffice
+Icon=_usr_share_pixmaps_gbgoffice-icon
+Terminal=false
+Type=Application
+Categories=Dictionary;Office;

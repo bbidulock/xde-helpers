@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=renpy-thequestion
+X-AppInstall-Popcon=6
+X-AppInstall-Section=main
+
+Type=Application
+Name=The Question
+GenericName=renpy-thequestion
+Comment=a simple visual-novel game with Ren'Py
+Comment[es]=una novela grafica sencilla con Ren'Py
+Icon=renpy-thequestion
+Exec=the_question
+Terminal=false
+Categories=Game;

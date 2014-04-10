@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=openrocket
+X-AppInstall-Popcon=2
+X-AppInstall-Section=main
+
+Type=Application
+Name=OpenRocket
+GenericName=Rocket Design and Simulation
+Comment=Design and simulate model rockets
+Icon=/usr/share/pixmaps/openrocket.xpm
+Exec=/usr/bin/openrocket %f
+Terminal=false
+MimeType=text/plain;
+Categories=Development;Science;

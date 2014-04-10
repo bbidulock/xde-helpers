@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-AppInstall-Package=crawl-tiles
+X-AppInstall-Popcon=17
+X-AppInstall-Section=main
+
+Type=Application
+
+Name=Dungeon Crawl
+Exec=/usr/games/crawl-tiles
+Icon=crawl
+Categories=Game;AdventureGame;

@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=horgand
+X-AppInstall-Popcon=31
+X-AppInstall-Section=main
+
+Name=Horgand
+GenericName=Soft Synth
+Comment=Organd Soft Synth
+Type=Application
+Categories=AudioVideo;Audio;
+Exec=horgand
+Terminal=false
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

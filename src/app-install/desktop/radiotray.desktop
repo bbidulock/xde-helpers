@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-AppInstall-Package=radiotray
+X-AppInstall-Popcon=54
+X-AppInstall-Section=main
+
+Name=Radio Tray
+Terminal=false
+Exec=radiotray
+Icon=radiotray
+Type=Application
+Categories=AudioVideo;Audio;Player;GTK;
