@@ -1,14 +1,14 @@
 [Desktop Entry]
 Encoding=UTF-8
 Type=Application
-Name=Bubble Monitor Dock App
-GenericName=System Monitor
-Comment=Bubble monitor system monitor dock app
+Name=Blue Clock Dock App
+GenericName=Clock
+Comment=A blue clock dock app
 Icon=GNUstep3D
 OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;
-TryExec=/usr/bin/wmbubble
-Exec=wmbubble
+TryExec=/usr/bin/wmblueclock
+Exec=wmblueclock
 Terminal=false
 Categories=DockApp;WMAKER;
 StartupNotify=false
-StartupWMClass=wmbubble
+StartupWMClass=wmblueclock

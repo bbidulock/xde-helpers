@@ -24,6 +24,7 @@ dist_appl_DATA = \
 	src/applications/fbpanel.desktop \
 	src/applications/fbrun.desktop \
 	src/applications/fbxkb.desktop \
+	src/applications/flipse.desktop \
 	src/applications/fluxbox.desktop \
 	src/applications/ftmenu.desktop \
 	src/applications/gmrun.desktop \
@@ -70,6 +71,10 @@ dist_appl_DATA = \
 	src/applications/wmbiff.desktop \
 	src/applications/wmBinClock.desktop \
 	src/applications/wmblob.desktop \
+	src/applications/wmblueclock.desktop \
+	src/applications/wmbluecpu.desktop \
+	src/applications/wmbluegpu.desktop \
+	src/applications/wmbluemem.desktop \
 	src/applications/wmbubble.desktop \
 	src/applications/wmcalc-bin.desktop \
 	src/applications/wmcalc.desktop \
@@ -91,6 +96,7 @@ dist_appl_DATA = \
 	src/applications/wmf2gd.desktop \
 	src/applications/wmf2x.desktop \
 	src/applications/wmmail.desktop \
+	src/applications/wmMand.desktop \
 	src/applications/wmmenugen.desktop \
 	src/applications/wmmixer.desktop \
 	src/applications/wmnd.desktop \

@@ -1,0 +1,14 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Flipse Dock
+GenericName=Dock
+Comment=Swallow unmanaged dock apps in a window
+Icon=GNUstep3D
+NotShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;
+TryExec=/usr/bin/flipse
+Exec=flipse
+Terminal=false
+Categories=DockApp;WMAKER;
+StartupNotify=false
+StartupWMClass=flipse
