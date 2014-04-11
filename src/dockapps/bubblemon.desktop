@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Bubble Monitor
+GenericName=Amusement
+Comment=Bubble monitor dock app (swimming duck)
+Icon=GNUstep3D
+TryExec=/usr/bin/bubblemon
+Exec=bubblemon
+Terminal=false
+Categories=DockApp;WMAKER;
+StartupNotify=false
+StartupWMClass=bubblemon

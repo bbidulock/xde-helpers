@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Trash Can Dock App
+GenericName=Trash Can
+Comment=Trash can dock app
+Icon=GNUstep3D
+TryExec=/usr/bin/wmtrash
+Exec=wmtrash
+Terminal=false
+Categories=DockApp;WMAKER;
+StartupNotify=false

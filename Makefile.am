@@ -7,6 +7,7 @@ dist_appl_DATA = \
 	src/applications/AdobeReader.desktop \
 	src/applications/allin1.desktop \
 	src/applications/AlsaMixer.app.desktop \
+	src/applications/asclock.desktop \
 	src/applications/aumix.desktop \
 	src/applications/bbpager.desktop \
 	src/applications/bbrun.desktop \
@@ -95,7 +96,10 @@ dist_appl_DATA = \
 	src/applications/wmf2fig.desktop \
 	src/applications/wmf2gd.desktop \
 	src/applications/wmf2x.desktop \
+	src/applications/wminet.desktop \
+	src/applications/wmitime.desktop \
 	src/applications/wmmail.desktop \
+	src/applications/wmmaiload.desktop \
 	src/applications/wmMand.desktop \
 	src/applications/wmmenugen.desktop \
 	src/applications/wmmixer.desktop \
@@ -104,11 +108,13 @@ dist_appl_DATA = \
 	src/applications/wm-oldmenu2new.desktop \
 	src/applications/wmsetbg.desktop \
 	src/applications/wmsmixer.desktop \
+	src/applications/wmstickynotes.desktop \
 	src/applications/wmsysmon.desktop \
 	src/applications/wmsystemtray.desktop \
 	src/applications/wmsystray.desktop \
 	src/applications/wmtime.desktop \
 	src/applications/wmtimer.desktop \
+	src/applications/wmtop.desktop \
 	src/applications/wmtrash.desktop \
 	src/applications/wmudmount.desktop \
 	src/applications/wmwave.desktop \
@@ -271,6 +277,63 @@ dist_dirs_DATA = \
 	src/desktop-directories/xde-system-tools.directory \
 	src/desktop-directories/xde-x11-tools.directory \
 	src/desktop-directories/X-X11-Tools.directory
+
+dist_dock_DATA = \
+	src/dockapps/allin1.desktop \
+	src/dockapps/AlsaMixer.app.desktop \
+	src/dockapps/asclock.desktop \
+	src/dockapps/bbrun.desktop \
+	src/dockapps/bubblemon.desktop \
+	src/dockapps/docker.desktop \
+	src/dockapps/flipse.desktop \
+	src/dockapps/lal.desktop \
+	src/dockapps/peksystray.desktop \
+	src/dockapps/volume-app.desktop \
+	src/dockapps/wmacpi.desktop \
+	src/dockapps/wmappl.desktop \
+	src/dockapps/wmauda.desktop \
+	src/dockapps/wmbatteries.desktop \
+	src/dockapps/wmbattery.desktop \
+	src/dockapps/wmbiff.desktop \
+	src/dockapps/wmBinClock.desktop \
+	src/dockapps/wmblob.desktop \
+	src/dockapps/wmblueclock.desktop \
+	src/dockapps/wmbluecpu.desktop \
+	src/dockapps/wmbluegpu.desktop \
+	src/dockapps/wmbluemem.desktop \
+	src/dockapps/wmbubble.desktop \
+	src/dockapps/wmcalc.desktop \
+	src/dockapps/wmCalClock.desktop \
+	src/dockapps/wmCalClockKbd.desktop \
+	src/dockapps/wmcliphist.desktop \
+	src/dockapps/wmclock.desktop \
+	src/dockapps/wmclockmon.desktop \
+	src/dockapps/wmcore.desktop \
+	src/dockapps/wmcpu.desktop \
+	src/dockapps/wmcpuload.desktop \
+	src/dockapps/wmdiskmon.desktop \
+	src/dockapps/wminet.desktop \
+	src/dockapps/wmitime.desktop \
+	src/dockapps/wmmail.desktop \
+	src/dockapps/wmmaiload.desktop \
+	src/dockapps/wmMand.desktop \
+	src/dockapps/wmmixer.desktop \
+	src/dockapps/wmnd.desktop \
+	src/dockapps/wmnet.desktop \
+	src/dockapps/wmsmixer.desktop \
+	src/dockapps/wmstickynotes.desktop \
+	src/dockapps/wmsysmon.desktop \
+	src/dockapps/wmsystemtray.desktop \
+	src/dockapps/wmsystray.desktop \
+	src/dockapps/wmtime.desktop \
+	src/dockapps/wmtimer.desktop \
+	src/dockapps/wmtop.desktop \
+	src/dockapps/wmtrash.desktop \
+	src/dockapps/wmudmount.desktop \
+	src/dockapps/wmwave.desktop \
+	src/dockapps/wmWeather.desktop \
+	src/dockapps/wmweather+.desktop \
+	src/dockapps/wmwifi.desktop
 
 dist_back_DATA = \
 	src/fallback/abiword.desktop \

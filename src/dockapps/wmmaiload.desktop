@@ -1,0 +1,14 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=WMMaiLoad
+GenericName=E-Mail Monitor
+Comment=A dock app that monitors your incoming mails
+Exec=wmmaiload
+Icon=GNUstep3D
+Terminal=false
+StartupNotify=false
+Categories=DockApp;WMAKER;
+StartupWMClass=WMMaiLoad
+X-Arch-Package=wmmaiload
+
