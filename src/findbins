@@ -1,0 +1,14 @@
+#!/bin/bash
+
+find $@ -name '*.desktop' | sort | \
+while read f ; do
+	grep 'Exec=' $f | sed 's,^.*Exec=,,' | awk '{print$1}' | \
+	while read e ; do
+		x=$(basename $e)
+		if [ -e /usr/bin/$x ] ; then
+			echo $f
+			break
+#echo $(basename $f)
+		fi
+	done
+done
