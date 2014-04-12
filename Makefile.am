@@ -34,6 +34,7 @@ dist_appl_DATA = \
 	src/applications/gtk-theme-switch2.desktop \
 	src/applications/gvncviewer.desktop \
 	src/applications/gxditview.desktop \
+	src/applications/gxmessage.desktop \
 	src/applications/icewm.desktop \
 	src/applications/kicad.desktop \
 	src/applications/lal.desktop \
@@ -121,6 +122,8 @@ dist_appl_DATA = \
 	src/applications/wmWeather.desktop \
 	src/applications/wmweather+.desktop \
 	src/applications/wmwifi.desktop \
+	src/applications/xboard.desktop \
+	src/applications/xboard-ics.desktop \
 	src/applications/xcalc.desktop \
 	src/applications/xclipboard.desktop \
 	src/applications/xclock.desktop \
@@ -983,7 +986,6 @@ dist_back_DATA = \
 	src/fallback/xarchiver.desktop \
 	src/fallback/xbiff.desktop \
 	src/fallback/xbill.desktop \
-	src/fallback/xboard.desktop \
 	src/fallback/xboard-(passive-chessboard).desktop \
 	src/fallback/xcalc.desktop \
 	src/fallback/xchat.desktop \
