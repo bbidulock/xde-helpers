@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=wmMoonClock
+Exec=wmMoonClock
+Terminal=false
+Categories=DockApp;WMAKER;

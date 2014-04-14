@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=WMrack
+Comment=WMrack CD Player + Mixer
+Exec=wmrack -w
+Terminal=false
+Categories=DockApp;WMAKER;

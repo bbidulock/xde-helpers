@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=WMmon
+Exec=wmmon
+Terminal=false
+Categories=DockApp;WMAKER;

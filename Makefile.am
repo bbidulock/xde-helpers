@@ -305,29 +305,48 @@ dist_dock_DATA = \
 	src/dockapps/wmbluegpu.desktop \
 	src/dockapps/wmbluemem.desktop \
 	src/dockapps/wmbubble.desktop \
+	src/dockapps/wmbutton.desktop \
 	src/dockapps/wmcalc.desktop \
 	src/dockapps/wmCalClock.desktop \
 	src/dockapps/wmCalClockKbd.desktop \
+	src/dockapps/wmcdplay.desktop \
 	src/dockapps/wmcliphist.desktop \
 	src/dockapps/wmclock.desktop \
 	src/dockapps/wmclockmon.desktop \
 	src/dockapps/wmcore.desktop \
 	src/dockapps/wmcpu.desktop \
 	src/dockapps/wmcpuload.desktop \
+	src/dockapps/wmdate.desktop \
 	src/dockapps/wmdiskmon.desktop \
+	src/dockapps/wmfire.desktop \
+	src/dockapps/wmgtemp.desktop \
+	src/dockapps/wmifs.desktop \
 	src/dockapps/wminet.desktop \
 	src/dockapps/wmitime.desktop \
 	src/dockapps/wmmail.desktop \
 	src/dockapps/wmmaiload.desktop \
 	src/dockapps/wmMand.desktop \
+	src/dockapps/wmmatrix.desktop \
+	src/dockapps/wmmemload.desktop \
 	src/dockapps/wmmixer.desktop \
+	src/dockapps/wmmon.desktop \
+	src/dockapps/wmmoonclock.desktop \
+	src/dockapps/wmmount.desktop \
 	src/dockapps/wmnd.desktop \
 	src/dockapps/wmnet.desktop \
+	src/dockapps/wmpinboard.desktop \
+	src/dockapps/wmpomme.desktop \
+	src/dockapps/wmppp.desktop \
+	src/dockapps/wmrack.desktop \
+	src/dockapps/wmsensors.desktop \
+	src/dockapps/wmshutdown.desktop \
 	src/dockapps/wmsmixer.desktop \
 	src/dockapps/wmstickynotes.desktop \
+	src/dockapps/wmsun.desktop \
 	src/dockapps/wmsysmon.desktop \
 	src/dockapps/wmsystemtray.desktop \
 	src/dockapps/wmsystray.desktop \
+	src/dockapps/wmtemp.desktop \
 	src/dockapps/wmtime.desktop \
 	src/dockapps/wmtimer.desktop \
 	src/dockapps/wmtop.desktop \
@@ -336,7 +355,8 @@ dist_dock_DATA = \
 	src/dockapps/wmwave.desktop \
 	src/dockapps/wmWeather.desktop \
 	src/dockapps/wmweather+.desktop \
-	src/dockapps/wmwifi.desktop
+	src/dockapps/wmwifi.desktop \
+	src/dockapps/wmwork.desktop
 
 dist_back_DATA = \
 	src/fallback/abiword.desktop \

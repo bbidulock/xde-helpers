@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=wmpomme
+Icon=/usr/share/pixmaps/wmpomme.xpm
+Exec=wmpomme
+Terminal=false
+Categories=DockApp;WMAKER;

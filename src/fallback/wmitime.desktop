@@ -1,7 +1,13 @@
 [Desktop Entry]
-Type=Application
 Encoding=UTF-8
+Type=Application
 Name=wmITime
+GenericName=Clock
+Comment=A dock app showing standard time, date and Internet time
 Exec=wmitime
+Icon=GNUstep3D
 Terminal=false
-Categories=Utility;Clock
+StartupNotify=false
+Categories=DockApp;WMAKER;
+StartupWMClass=wmitime
+X-Arch-Package=wmitime

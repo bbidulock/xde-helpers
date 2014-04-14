@@ -3,8 +3,12 @@
     <Name>Applications</Name>
     <Directory>xde-applications.directory</Directory>
 
+    <AppDir>/usr/share/xde/fallback</AppDir>
+
     <LegacyDir>/etc/X11/applnk</LegacyDir>
     <LegacyDir>/usr/share/gnome/apps</LegacyDir>
+
+    <AppDir>/usr/share/xde/dockapps</AppDir>
 
     <DefaultAppDirs/>
     <DefaultDirectoryDirs/>

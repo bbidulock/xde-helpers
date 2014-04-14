@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=wmgtemp
+Comment=Temperature sensor
+Exec=wmgtemp
+Terminal=false
+Categories=DockApp;WMAKER;

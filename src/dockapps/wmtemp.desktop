@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=wmtemp
+Exec=wmtemp
+Terminal=false
+Categories=DockApp;WMAKER;

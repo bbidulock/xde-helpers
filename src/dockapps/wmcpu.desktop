@@ -2,11 +2,11 @@
 Encoding=UTF-8
 Type=Application
 Name=CPU Load Dock App (bars)
-Comment=Show the CPU load
 GenericName=Load Monitor
+Comment=Show the CPU load
 Icon=GNUstep3D
-TryExec=/usr/bin/wmcpu
 Exec=wmcpu
+TryExec=/usr/bin/wmcpu
 Terminal=false
 Categories=DockApp;WMAKER;
 StartupNotify=false
