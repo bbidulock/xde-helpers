@@ -3,5 +3,5 @@ Name=XDWM
 Comment=This session logs you into XDWM
 Exec=xdwm-session
 TryExec=xdwm-session
-Icon=
+Icon=xdwm
 Type=Application

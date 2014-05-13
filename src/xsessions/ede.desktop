@@ -2,5 +2,6 @@
 Encoding=UTF-8
 Name=EDE
 Exec=startede
+Icon=ede
 Comment=This session logs you into EDE Desktop
 Type=Application

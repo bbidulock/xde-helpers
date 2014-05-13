@@ -3,4 +3,5 @@ Encoding=UTF-8
 Name=bspwm
 Comment=A tiling window manager base on binary space partitioning
 Exec=bspwm
+Icon=bspwm
 Type=XSession

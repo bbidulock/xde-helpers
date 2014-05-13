@@ -2,3 +2,4 @@
 Name=E16 GNOME3
 Type=XSession
 Exec=gnome-session --session=e16-gnome
+Icon=/usr/share/e16/icons/e16.png

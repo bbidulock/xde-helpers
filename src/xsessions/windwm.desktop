@@ -3,5 +3,5 @@ Name=Wind
 Comment=Wind window manager
 Exec=wind
 TryExec=wind
-Icon=
+Icon=windwm
 Type=Application

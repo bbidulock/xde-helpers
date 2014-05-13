@@ -63,6 +63,7 @@ Name[zh_CN]=Mutter
 Name[zh_HK]=Mutter
 Name[zh_TW]=Mutter
 Exec=mutter
+Icon=mutter
 # name of loadable control center module
 X-GNOME-WMSettingsModule=metacity
 # name we put on the WM spec check window

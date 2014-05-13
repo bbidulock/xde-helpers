@@ -4,4 +4,5 @@ Name=awesome
 Comment=Highly configurable framework window manager
 TryExec=awesome
 Exec=awesome
+Icon=awesome
 Type=Application
