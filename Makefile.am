@@ -194,7 +194,10 @@ dist_sess_DATA = \
 	src/xsessions/icewm.desktop \
 	src/xsessions/icewm-session.desktop \
 	src/xsessions/Jwm.desktop \
+	src/xsessions/larswm.desktop \
 	src/xsessions/LXDE.desktop \
+	src/xsessions/mantis-wm.desktop \
+	src/xsessions/matwm2.desktop \
 	src/xsessions/metacity.desktop \
 	src/xsessions/mutter.desktop \
 	src/xsessions/mwm.desktop \
@@ -212,11 +215,14 @@ dist_sess_DATA = \
 	src/xsessions/waimea.desktop \
 	src/xsessions/wind.desktop \
 	src/xsessions/windwm.desktop \
+	src/xsessions/wm2.desktop \
 	src/xsessions/wmaker.desktop \
 	src/xsessions/wmii.desktop \
+	src/xsessions/wmx.desktop \
 	src/xsessions/xdwm.desktop \
 	src/xsessions/xfce.desktop \
 	src/xsessions/yeahwm.desktop
+
 
 dist_auto_DATA = \
 	src/autostart/bbrun.desktop \

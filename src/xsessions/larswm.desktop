@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=larswm
+Comment=A tiling window manager based on 9wm
+Exec=larswm
+Icon=larswm
+TryExec=larswm
+Type=XSession
