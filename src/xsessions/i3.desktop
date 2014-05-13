@@ -3,3 +3,4 @@ Name=i3
 Comment=improved dynamic tiling window manager
 Exec=i3
 Type=Application
+Icon=i3

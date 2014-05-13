@@ -3,5 +3,5 @@ Encoding=UTF-8
 Name=Dwm
 Comment=Dynamic window manager
 Exec=dwm
-Icon=archlinux-wm-dwm
+Icon=dwm
 Type=XSession
