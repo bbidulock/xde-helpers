@@ -1,7 +1,15 @@
 [Desktop Entry]
 Encoding=UTF-8
+Type=XSession
 Name=EDE
-Exec=startede
 Icon=ede
+Exec=startede
+GenericName=Window Manager
+GenericName[fr]=Gestionnaire de Fenêtres
+GenericName[pt]=Gestor de Janelas
 Comment=This session logs you into EDE Desktop
-Type=Application
+
+[Window Manager]
+SessionManaged=true
+StartupNotification=false
+X-XDE-Managed=false

@@ -1,8 +1,15 @@
 [Desktop Entry]
-Type=Application
 Encoding=UTF-8
-Name=fvwm2
+Type=Application
+Name=FVWM2
+Icon=fvwm
 Exec=fvwm2
+GenericName=Window Manager
+GenericName[fr]=Gestionnaire de Fenêtres
+GenericName[pt]=Gestor de Janelas
+Comment=The FVWM window manager
+Categories=WindowManager;Application;System;
+StartupNotify=true
 NoDisplay=true
 # name of loadable control center module
 X-GNOME-WMSettingsModule=Fvwm

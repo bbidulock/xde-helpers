@@ -1,21 +1,29 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=Blackbox
-Comment=Highly configurable and low resource X11 Window manager
-TryExec=blackbox
-Exec=blackbox
-Terminal=false
-Icon=blackbox
 Type=XSession
+Name=Blackbox
+Icon=blackbox
+Exec=blackbox
+GenericName=Window Manager
+GenericName[fr]=Gestionnaire de Fenêtres
+GenericName[pt]=Gestor de Janelas
+Comment=Highly configurable and low resource X11 Window manager
+Categories=WindowManager;Application;System;
+StartupNotify=false
+NoDisplay=true
+X-GNOME-WMName=blackbox
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-Autostart-Notify=false
 Actions=XDE;
-
-[Window Manager]
-SessionManaged=false
-X-XDE-Managed=true
 
 [Desktop Action XDE]
 Name=XDE
 Icon=xde
-Comment=Blackbox in an XDE session
-TryExec=xde-session
 Exec=xde-session -desktop BLACKBOX -startwm start-blackbox
+Comment=Blackbox in an XDE session
+
+[Window Manager]
+SessionManaged=true
+StartupNotification=false
+X-XDE-Managed=true

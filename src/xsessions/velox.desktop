@@ -1,18 +1,29 @@
-# velox.desktop
-
 [Desktop Entry] 
 Encoding=UTF-8
+Type=XSession
 Name=velox
 Icon=velox
-Comment=Simple tiling window manager
-TryExec=velox
 Exec=velox
+GenericName=Window Manager
+GenericName[fr]=Gestionnaire de Fenêtres
+GenericName[pt]=Gestor de Janelas
+Comment=Simple tiling window manager
+Categories=WindowManager;Application;System;
+StartupNotify=false
+NoDisplay=true
+X-GNOME-WMName=velox
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-Autostart-Notify=false
 Actions=XDE;
 
 [Desktop Action XDE]
 Name=XDE
 Icon=xde
-Comment=velox under an XDE session
-TryExec=xde-session
 Exec=xde-session -exec uxterm -desktop VELOX -startwm velox
+Comment=velox under an XDE session
 
+[Window Manager]
+SessionManaged=true
+StartupNotification=false
+X-XDE-Managed=true

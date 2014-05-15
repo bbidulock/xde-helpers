@@ -1,5 +1,9 @@
 [Desktop Entry]
+Encoding=UTF-8
+Type=XSession
 Name=GNOME
+Icon=archlinux-wm-gnome
+Exec=gnome-session
 Name[ar]=جنوم
 Name[as]=GNOME
 Name[ast]=GNOME
@@ -73,6 +77,9 @@ Name[vi]=GNOME
 Name[zh_CN]=GNOME
 Name[zh_HK]=GNOME
 Name[zh_TW]=GNOME
+GenericName=Window Manager
+GenericName[fr]=Gestionnaire de Fenêtres
+GenericName[pt]=Gestor de Janelas
 Comment=This session logs you into GNOME
 Comment[ar]=تولجك هذه الجلسة في جنوم
 Comment[as]=এই অধিবেশনে আপোনাক GNOME ত প্ৰৱেশ কৰাই
@@ -147,7 +154,3 @@ Comment[vi]=Phiên chạy này sẽ đăng nhập bạn vào GNOME
 Comment[zh_CN]=此会话将您登录到 GNOME
 Comment[zh_HK]=這個作業階段讓你登入 GNOME
 Comment[zh_TW]=這個作業階段讓您登入 GNOME
-Exec=gnome-session
-TryExec=gnome-session
-Icon=archlinux-wm-gnome
-Type=Application

@@ -1,20 +1,29 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=echinus
-Comment=Simple and lightweight tiling and floating window manager for X11
-Exec=echinus
-Terminal=false
 Type=XSession
+Name=echinus
 Icon=echinus
+Exec=echinus
+GenericName=Window Manager
+GenericName[fr]=Gestionnaire de Fenêtres
+GenericName[pt]=Gestor de Janelas
+Comment=Simple and lightweight tiling and floating window manager for X11
+Categories=WindowManager;Application;System;
+StartupNotify=false
+NoDisplay=true
+X-GNOME-WMName=echinus
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-Autostart-Notify=false
 Actions=XDE;
-
-[Window Manager]
-SessionManaged=false
-X-XDE-Managed=true
 
 [Desktop Action XDE]
 Name=XDE
 Icon=xde
-Comment=echinus in an XDE session
-TryExec=xde-session
 Exec=xde-session -desktop ECHINUS -startwm start-echinus
+Comment=echinus in an XDE session
+
+[Window Manager]
+SessionManaged=true
+StartupNotification=false
+X-XDE-Managed=true

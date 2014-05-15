@@ -1,12 +1,15 @@
 [Desktop Entry]
 Encoding=UTF-8
 Type=XSession
-Exec=twm
-Icon=twm
 Name=TWM
+Icon=twm
+Exec=twm
 Name[eo]=TFA
 Name[hi]=टीडबल्यूएम
 Name[te]=టి డబ్ల్యు ఎం
+GenericName=Window Manager
+GenericName[fr]=Gestionnaire de Fenêtres
+GenericName[pt]=Gestor de Janelas
 Comment=The Tab Window Manager
 Comment[af]=Die Tab venster bestuurder
 Comment[ar]=مدير النوافذ Tab
@@ -67,16 +70,23 @@ Comment[uk]=Tab Window Manager
 Comment[vi]=Trình Quản lý Cửa sổ Thẻ
 Comment[zh_CN]=标签式窗口管理器
 Comment[zh_TW]=Tab 視窗管理程式
+Categories=WindowManager;Application;System;
+StartupNotify=false
+NoDisplay=true
+X-GNOME-WMName=twm
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-Autostart-Notify=false
 Actions=XDE;
-
-[Window Manager]
-SessionManaged=true
-StartupNotification=false
-ConfigExec=twm -f %f
 
 [Desktop Action XDE]
 Name=XDE
 Icon=xde
-Comment=TWM under an XDE session
-TryExec=xde-session
 Exec=xde-session -desktop TWM -startwm start-twm
+Comment=TWM under an XDE session
+
+[Window Manager]
+SessionManaged=true
+StartupNotification=false
+X-XDE-Managed=true
+ConfigExec=twm -f %f

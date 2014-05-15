@@ -8,11 +8,16 @@ dist_appl_DATA = \
 	src/applications/allin1.desktop \
 	src/applications/AlsaMixer.app.desktop \
 	src/applications/asclock.desktop \
+	src/applications/atop.desktop \
 	src/applications/aumix.desktop \
 	src/applications/bbpager.desktop \
 	src/applications/bbrun.desktop \
 	src/applications/blackbox.desktop \
+	src/applications/bluetoothctl.desktop \
 	src/applications/bubblemon.desktop \
+	src/applications/bvi.desktop \
+	src/applications/bviplus.desktop \
+	src/applications/cacafire.desktop \
 	src/applications/calculator.desktop \
 	src/applications/cbatticon.desktop \
 	src/applications/chbg.desktop \
@@ -35,6 +40,7 @@ dist_appl_DATA = \
 	src/applications/gvncviewer.desktop \
 	src/applications/gxditview.desktop \
 	src/applications/gxmessage.desktop \
+	src/applications/i3.desktop \
 	src/applications/icewm.desktop \
 	src/applications/kicad.desktop \
 	src/applications/lal.desktop \
@@ -42,6 +48,7 @@ dist_appl_DATA = \
 	src/applications/lxinput.desktop \
 	src/applications/lxpanelctl.desktop \
 	src/applications/lxpanel.desktop \
+	src/applications/metacity.desktop \
 	src/applications/notification-properties.desktop \
 	src/applications/obxprop.desktop \
 	src/applications/openbox.desktop \
@@ -223,7 +230,6 @@ dist_sess_DATA = \
 	src/xsessions/xdwm.desktop \
 	src/xsessions/xfce.desktop \
 	src/xsessions/yeahwm.desktop
-
 
 dist_auto_DATA = \
 	src/autostart/bbrun.desktop \

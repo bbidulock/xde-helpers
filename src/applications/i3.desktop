@@ -1,17 +1,17 @@
 [Desktop Entry]
 Encoding=UTF-8
 Type=Application
-Name=WindowMaker
-Icon=wmaker
-Exec=wmaker
+Name=i3
+Icon=i3
+Exec=i3
 GenericName=Window Manager
 GenericName[fr]=Gestionnaire de Fenêtres
 GenericName[pt]=Gestor de Janelas
-Comment=This session logs you into Window Maker
+Comment=improved dynamic tiling window manager
 Categories=WindowManager;Application;System;
 StartupNotify=false
 NoDisplay=true
-X-GNOME-WMName=wmaker
+X-GNOME-WMName=i3
 X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-Autostart-Notify=false

@@ -1,6 +1,8 @@
 [Desktop Entry]
 Encoding=UTF-8
+Type=XSession
 Name=Secure Remote connection
+Exec=/usr/lib64/gdm-ssh-session
 Name[ar]=اتصال بعيد مؤمن
 Name[as]=নিৰাপদ দূৰবৰ্তী সংযোগ
 Name[bg]=Сигурна, отдалечена връзка
@@ -62,6 +64,7 @@ Name[vi]=Kết nối từ xa bảo mật
 Name[zh_CN]=安全远程连接
 Name[zh_HK]=安全遠端連線
 Name[zh_TW]=安全遠端連線
+GenericName=Remote Session
 Comment=This session logs you into a remote host using ssh
 Comment[ar]=تسجلك هذه الجلسة في مستضيف بعيد باستخدام ssh
 Comment[as]=এই অধিবেশনে ssh সহযোগে দূৰবৰ্তী গৃহস্থ ব্যৱস্থাপ্ৰণালীত প্ৰৱেশ কৰাব
@@ -125,5 +128,3 @@ Comment[vi]=Phiên chạy này đăng nhập bạn vào máy từ xa bằng SSH
 Comment[zh_CN]=此会话使您通过 SSH 登录到远程主机
 Comment[zh_HK]=本作業階段會使用 ssh 登入至遠端主機
 Comment[zh_TW]=本作業階段會使用 ssh 登入至遠端主機
-Exec=/usr/lib64/gdm-ssh-session
-Type=Application

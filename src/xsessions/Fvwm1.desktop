@@ -1,21 +1,29 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=Fvwm1
-Comment=Fvwm1
 Type=XSession
-Exec=fvwm1
-TryExec=fvwm1
-Terminal=false
+Name=Fvwm1
 Icon=fvwm
+Exec=fvwm1
+GenericName=Window Manager
+GenericName[fr]=Gestionnaire de Fenêtres
+GenericName[pt]=Gestor de Janelas
+Comment=Fvwm1
+Categories=WindowManager;Application;System;
+StartupNotify=false
+NoDisplay=true
+X-GNOME-WMName=fvwm
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-Autostart-Notify=false
 Actions=XDE;
-
-[Window Manager]
-SessionManaged=true
-X-XDE-Managed=true
 
 [Desktop Action XDE]
 Name=XDE
 Icon=xde
-Comment=Fvwm1 in an XDE session
-TryExec=xde-session
 Exec=xde-session -desktop FVWM1 -startwm fvwm1
+Comment=Fvwm1 in an XDE session
+
+[Window Manager]
+SessionManaged=true
+StartupNotification=false
+X-XDE-Managed=true

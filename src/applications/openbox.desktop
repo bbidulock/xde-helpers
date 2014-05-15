@@ -1,15 +1,16 @@
 [Desktop Entry]
 Encoding=UTF-8
 Type=Application
-Name=Openbox Window Manager
-GenericName=openbox 3.5.0
-Comment=Launch the openbox window manager
-Icon=archlinux-wm-openbox
-TryExec=/usr/bin/openbox
-Exec=openbox
-Terminal=false
+Name=Openbox
+Icon=openbox
+Exec=openbox-session
+TryExec=openbox
+GenericName=Window Manager
+GenericName[fr]=Gestionnaire de Fenêtres
+GenericName[pt]=Gestor de Janelas
+Comment=Log in using the Openbox window manager
 Categories=WindowManager;Application;System
-StartupNotify=false
+StartupNotify=true
 NoDisplay=true
 # name we put on the WM spec check window
 X-GNOME-WMName=Openbox

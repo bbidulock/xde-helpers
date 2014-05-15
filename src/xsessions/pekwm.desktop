@@ -1,21 +1,29 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=Pekwm
-Comment=Small, fast, functional, and flexible window manager
-Exec=pekwm
-Terminal=false
 Type=XSession
+Name=Pekwm
 Icon=pekwm
+Exec=pekwm
+GenericName=Window Manager
+GenericName[fr]=Gestionnaire de Fenêtres
+GenericName[pt]=Gestor de Janelas
+Comment=Small, fast, functional, and flexible window manager
+Categories=WindowManager;Application;System;
+StartupNotify=false
+NoDisplay=true
+X-GNOME-WMName=pekwm
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-Autostart-Notify=false
 Actions=XDE;
-
-[Window Manager]
-SessionManaged=false
-X-XDE-Managed=true
 
 [Desktop Action XDE]
 Name=XDE
 Icon=xde
-Comment=Pekwm under an XDE session
-TryExec=xde-session
 Exec=xde-session -desktop PEKWM -startwm pekwm
+Comment=Pekwm under an XDE session
 
+[Window Manager]
+SessionManaged=true
+StartupNotification=false
+X-XDE-Managed=true

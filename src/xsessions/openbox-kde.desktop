@@ -1,9 +1,12 @@
 [Desktop Entry]
 Encoding=UTF-8
+Type=XSession
 Name=KDE/Openbox
-Comment=Use the Openbox window manager inside of the K Desktop Environment
+Icon=openbox
 Exec=openbox-kde-session
 TryExec=startkde
-Icon=openbox
-Type=XSession
+GenericName=Window Manager
+GenericName[fr]=Gestionnaire de Fenêtres
+GenericName[pt]=Gestor de Janelas
+Comment=Use the Openbox window manager inside of the K Desktop Environment
 Hidden=true

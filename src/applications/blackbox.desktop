@@ -1,13 +1,17 @@
 [Desktop Entry]
 Encoding=UTF-8
 Type=Application
-Name=Blackbox Window Manager
-GenericName=blackbox 0.70.1
-Comment=Launch the blackbox window manager.
-Icon=archlinux-wm-blackbox
-TryExec=/usr/bin/blackbox
-Exec=/usr/bin/blackbox
-Terminal=false
+Name=Blackbox
+Icon=blackbox
+Exec=blackbox
+GenericName=Window Manager
+GenericName[fr]=Gestionnaire de Fenêtres
+GenericName[pt]=Gestor de Janelas
+Comment=Highly configurable and low resource X11 Window manager
 Categories=WindowManager;Application;System;
 StartupNotify=false
 NoDisplay=true
+X-GNOME-WMName=blackbox
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-Autostart-Notify=false

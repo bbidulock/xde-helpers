@@ -1,6 +1,10 @@
 [Desktop Entry]
 Version=1.0
+Encoding=UTF-8
+Type=XSession
 Name=Xfce Session
+Icon=archlinux-wm-xfce
+Exec=startxfce4
 Name[ar]=جلسة إكسفس
 Name[bg]=Xfce сесия
 Name[ca]=Sessió Xfce
@@ -39,6 +43,9 @@ Name[ug]=Xfce ئەڭگىمەسى
 Name[uk]=Сеанс Xfce
 Name[zh_CN]=Xfce 会话
 Name[zh_TW]=Xfce 工作階段
+GenericName=Window Manager
+GenericName[fr]=Gestionnaire de Fenêtres
+GenericName[pt]=Gestor de Janelas
 Comment=Use this session to run Xfce as your desktop environment
 Comment[ar]=إستعمل هذه الجلسة لتشغيل إكسفس كسطح مكتب
 Comment[bg]=Използвайте тази сесия за стартиране на Xfce като вашата графична среда
@@ -75,6 +82,3 @@ Comment[ug]=مەزكۇر ئەڭگىمەدە ئۈستەلئۈستى ئۈچۈن Xf
 Comment[uk]=Використайте цей сеанс для запуску Xfce як Вашого типого середовища.
 Comment[zh_CN]=使用此会话将 Xfce 作为您的桌面环境运行
 Comment[zh_TW]=使用這個工作階段來執行 Xfce 作為您的桌面環境
-Exec=startxfce4
-Icon=archlinux-wm-xfce
-Type=Application

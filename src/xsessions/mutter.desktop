@@ -1,6 +1,9 @@
 [Desktop Entry]
-Type=Application
+Encoding=UTF-8
+Type=XSession
 Name=Mutter
+Icon=mutter
+Exec=mutter
 Name[ar]=مَتَر
 Name[as]=Mutter
 Name[ast]=Mutter
@@ -62,8 +65,12 @@ Name[vi]=Mutter
 Name[zh_CN]=Mutter
 Name[zh_HK]=Mutter
 Name[zh_TW]=Mutter
-Exec=mutter
-Icon=mutter
+GenericName=Window Manager
+GenericName[fr]=Gestionnaire de Fenêtres
+GenericName[pt]=Gestor de Janelas
+Categories=WindowManager;Application;System;
+StartupNotify=true
+NoDisplay=true
 # name of loadable control center module
 X-GNOME-WMSettingsModule=metacity
 # name we put on the WM spec check window

@@ -1,16 +1,29 @@
 [Desktop Entry]
 Encoding=UTF-8
+Type=XSession
 Name=awesome
-Comment=Highly configurable framework window manager
-TryExec=awesome
-Exec=awesome
 Icon=awesome
-Type=Application
+Exec=awesome
+GenericName=Window Manager
+GenericName[fr]=Gestionnaire de Fenêtres
+GenericName[pt]=Gestor de Janelas
+Comment=Highly configurable framework window manager
+Categories=WindowManager;Application;System;
+StartupNotify=false
+NoDisplay=true
+X-GNOME-WMName=awesome
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-Autostart-Notify=false
 Actions=XDE;
 
 [Desktop Action XDE]
 Name=XDE
 Icon=xde
-Comment=awesome in an XDE session
-TryExec=xde-session
 Exec=xde-session -desktop AWESOME -startwm awesome
+Comment=awesome in an XDE session
+
+[Window Manager]
+SessionManaged=false
+StartupNotification=false
+X-XDE-Managed=false
