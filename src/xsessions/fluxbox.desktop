@@ -6,7 +6,15 @@ Exec=startfluxbox
 Terminal=false
 Type=XSession
 Icon=fluxbox
+Actions=XDE;
 
 [Window Manager]
 SessionManaged=false
 X-XDE-Managed=true
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Comment=Fluxbox in an XDE session
+TryExec=xde-session
+Exec=xde-session -desktop FLUXBOX -startwm fluxbox

@@ -5,3 +5,11 @@ Comment=Dynamic window manager
 Exec=dwm
 Icon=dwm
 Type=XSession
+Actions=XDE;
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Comment=Dwm in an XDE session
+TryExec=xde-session
+Exec=xde-session -desktop DWM -startwm start-dwm

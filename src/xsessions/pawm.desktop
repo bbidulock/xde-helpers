@@ -6,7 +6,15 @@ Exec=pawm
 Terminal=false
 Type=XSession
 Icon=pawm
+Actions=XDE;
 
 [Window Manager]
 SessionManaged=false
 X-XDE-Managed=true
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Comment=Puto Amo under and XDE session
+TryExec=xde-session
+Exec=xde-session -desktop PAWM -startwm pawm

@@ -6,7 +6,15 @@ Exec=uwm
 Terminal=false
 Type=XSession
 Icon=uwm16x16
+Actions=XDE;
 
 [Window Manager]
 SessionManaged=false
 X-XDE-Managed=true
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Comment=Micro (μ) Window Manger under an XDE session
+TryExec=xde-session
+Exec=xde-session -desktop UWM -startwm uwm

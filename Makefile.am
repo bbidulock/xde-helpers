@@ -166,6 +166,7 @@ dist_sess_DATA = \
 	src/xsessions/2bwm.desktop \
 	src/xsessions/adwm.desktop \
 	src/xsessions/aewm.desktop \
+	src/xsessions/aewm++.desktop \
 	src/xsessions/AfterStep.desktop \
 	src/xsessions/awesome.desktop \
 	src/xsessions/blackbox.desktop \

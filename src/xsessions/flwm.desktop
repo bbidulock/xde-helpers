@@ -5,7 +5,15 @@ Exec=flwm
 Icon=flwm
 Name=FLWM
 Comment=The Fast Light Window Manager
+Actions=XDE;
 
 [Window Manager]
 SessionManaged=false
 StartupNotification=false
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Comment=FLWM in an XDE session
+TryExec=xde-session
+Exec=xde-session -desktop FLWM -startwm start-flwm

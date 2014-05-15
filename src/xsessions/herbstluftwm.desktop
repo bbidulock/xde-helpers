@@ -5,3 +5,11 @@ Comment=Manual tiling window manager
 Exec=herbstluftwm
 Icon=herbstluftwm
 Type=XSession
+Actions=XDE;
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Comment=herbstluftwm in an XDE session
+TryExec=xde-session
+Exec=xde-session -desktop HERBSTLUFTWM -startwm start-herbstluftwm

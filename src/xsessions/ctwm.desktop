@@ -5,8 +5,16 @@ Exec=ctwm
 Icon=ctwm
 Name=CTWM
 Comment=Claude's Tab Window Manager for the X Window System
+Actions=XDE;
 
 [Window Manager]
 SessionManaged=true
 StartupNotification=false
 ConfigExec=ctwm -f %f
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Comment=CTWM in an XDE session
+TryExec=xde-session
+Exec=xde-session -desktop CTWM -startwm start-ctwm

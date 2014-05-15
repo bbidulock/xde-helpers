@@ -7,3 +7,19 @@ Comment=Simple and fast window manger
 Exec=icewm
 TryExec=icewm
 Icon=icewm
+Actions=XDE;Session;
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Comment=IceWM in an XDE session
+TryExec=xde-session
+Exec=xde-session -desktop ICEWM -startwm start-icewmn
+
+[Desktop Action Session]
+Name=IceWM Session
+Name[en_US]=IceWM Session
+Icon=icewm
+Comment=Simple and fast window manger
+TryExec=icewm-session
+Exec=icewm-session

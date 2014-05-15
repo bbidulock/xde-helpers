@@ -6,7 +6,15 @@ Exec=adwm
 Terminal=false
 Type=XSession
 Icon=adwm
+Actions=XDE;
 
 [Window Manager]
 SessionManaged=false
 X-XDE-Managed=true
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Comment=adwm in an XDE session
+TryExec=xde-session
+Exec=xde-session -desktop ADWM -startwm start-adwm

@@ -5,7 +5,15 @@ Comment=The fvwm window manager
 Type=XSession
 Exec=fvwm
 Icon=fvwm
+Actions=XDE;
 
 [Window Manager]
 SessionManaged=true
 X-XDE-Managed=true
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Comment=FVWM in an XDE session
+TryExec=xde-session
+Exec=xde-session -desktop FVWM -startwm fvwm

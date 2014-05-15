@@ -7,8 +7,15 @@ Exec=blackbox
 Terminal=false
 Icon=blackbox
 Type=XSession
+Actions=XDE;
 
 [Window Manager]
 SessionManaged=false
 X-XDE-Managed=true
 
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Comment=Blackbox in an XDE session
+TryExec=xde-session
+Exec=xde-session -desktop BLACKBOX -startwm start-blackbox

@@ -9,3 +9,11 @@ Comment=Minimal GTK2 Window Manager
 [Window Manager]
 SessionManaged=false
 StartupNotification=false
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Comment=metacity under and XDE session
+TryExec=xde-session
+Exec=xde-session -desktop METACITY -startwm start-metacity
+

@@ -6,3 +6,11 @@ Exec=larswm
 Icon=larswm
 TryExec=larswm
 Type=XSession
+Actions=XDE;
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Comment=larswm in an XDE session
+TryExec=xde-session
+Exec=xde-session -desktop LARSWM -startwm start-larswm

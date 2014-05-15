@@ -5,3 +5,12 @@ Comment=OpenBSD fork of calmwm, a clean and lightweight window manager
 Exec=cwm
 Icon=cwm
 Type=XSession
+Actions=XDE;
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Comment=cwm in an XDE session
+TryExec=xde-session
+Exec=xde-session -desktop CWM -startwm start-cwm
+

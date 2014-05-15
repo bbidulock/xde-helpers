@@ -6,7 +6,15 @@ Exec=jwm
 Terminal=false
 Type=XSession
 Icon=jwm
+Actions=XDE;
 
 [Window Manager]
 SessionManaged=false
 X-XDE-Managed=true
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Comemnt=JWM in an XDE session
+TryExec=xde-session
+Exec=xde-session -desktop JWM -startwm jwm

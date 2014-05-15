@@ -5,3 +5,4 @@ Exec=wind
 TryExec=wind
 Icon=windwm
 Type=Application
+Hidden=true

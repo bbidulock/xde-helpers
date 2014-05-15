@@ -5,7 +5,28 @@ Comment=Log in using the Openbox window manager
 Exec=openbox-session
 Type=XSession
 Icon=openbox
+Actions=XDE;Gnome;KDE;
 
 [Window Manager]
 SessionManaged=false
 X-XDE-Managed=true
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Comment=Openbox under an XDE session
+TryExec=xde-session
+Exec=xde-session -desktop OPENBOX -startwm start-openbox
+
+[Desktop Action Gnome]
+Name=Gnome
+Icon=gnome
+Comment=Use the Openbox window manager inside of the GNOME desktop environment
+Exec=openbox-gnome-session
+
+[Desktop Action KDE]
+Name=KDE
+Icon=kde
+Comment=Use the Openbox window manager inside of the K Desktop Environment
+TryExec=startkde
+Exec=openbox-kde-session

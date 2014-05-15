@@ -5,3 +5,11 @@ Comment=wmii pre-3.6 Development Snapshot
 Exec=wmii
 Icon=wmii
 Type=XSession
+Actions=XDE;
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Comment=wmii under an XDE session
+TryExec=xde-session
+Exec=xde-session -exec uxterm -desktop WMII -startwm wmii

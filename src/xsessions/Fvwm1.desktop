@@ -7,7 +7,15 @@ Exec=fvwm1
 TryExec=fvwm1
 Terminal=false
 Icon=fvwm
+Actions=XDE;
 
 [Window Manager]
 SessionManaged=true
 X-XDE-Managed=true
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Comment=Fvwm1 in an XDE session
+TryExec=xde-session
+Exec=xde-session -desktop FVWM1 -startwm fvwm1

@@ -6,3 +6,4 @@ Exec=openbox-kde-session
 TryExec=startkde
 Icon=openbox
 Type=XSession
+Hidden=true

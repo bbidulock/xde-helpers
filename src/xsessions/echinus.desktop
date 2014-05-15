@@ -6,7 +6,15 @@ Exec=echinus
 Terminal=false
 Type=XSession
 Icon=echinus
+Actions=XDE;
 
 [Window Manager]
 SessionManaged=false
 X-XDE-Managed=true
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Comment=echinus in an XDE session
+TryExec=xde-session
+Exec=xde-session -desktop ECHINUS -startwm start-echinus

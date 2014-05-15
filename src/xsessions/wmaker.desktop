@@ -5,7 +5,15 @@ Comment=This session logs you into Window Maker
 Exec=wmaker
 Icon=wmaker
 Type=XSession
+Actions=XDE;
 
 [Window Manager]
 SessionManaged=false
 X-XDE-Managed=true
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Comment=WindowMaker under an XDE session
+TryExec=xde-session
+Exec=xde-session -desktop WMAKER -startwm wmaker

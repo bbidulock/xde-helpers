@@ -5,6 +5,14 @@ Exec=yeahwm
 Icon=yeahwm
 Name=yeahwm
 Comment=Minimalist Window Manager for X
+Actions=XDE;
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Comment=YeahWM under an XDE session
+TryExec=xde-session
+Exec=xde-session -desktop YEAHWM -startwm start-yeahwm
 
 [Window Manager]
 SessionManaged=false

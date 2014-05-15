@@ -1,0 +1,19 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=XSession
+Exec=aewm++
+Icon=aewm++
+Name=AEWM++
+Comment=A small window manager for X11 based originally off aewm
+Actions=XDE;
+
+[Window Manager]
+SessionManaged=false
+StartupNotification=false
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Comment=aewm++ in an XDE session
+TryExec=xde-session
+Exec=xde-session -desktop 'AEWM++' -startwm 'start-aewm++'

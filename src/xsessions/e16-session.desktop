@@ -8,3 +8,35 @@ Comment[it]=Questo avvia il window manager Enlightenment (e16)
 Comment[pt]=Esta sessão inicia o gestor de janelas Enlightenment (e16)
 Exec=/usr/share/e16/misc/starte16
 Icon=/usr/share/e16/icons/e16.png
+Actions=XDE;KDE;Gnome2;Gnome3;
+
+[Desktop Action KDE]
+Name=KDE
+Icon=kde
+Comment=This session starts KDE using enlightenment (e16) as window manager
+Comment[fr]=Démarre une session KDE en utilisant enlightenment (e16) comme gestionnaire de fenêtres
+Comment[it]=Questo avvia KDE usando Enlightenment (e16) come window manager
+Comment[pt]=Esta sessão inicia o KDE utilizando o Enlightenment (e16) como gestor de janelas
+Exec=/usr/share/e16/misc/starte16-kde
+Icon=/usr/share/e16/icons/e16.png
+
+[Desktop Action Gnome2]
+Name=Gnome2
+Icon=gnome
+Comment=This session starts GNOME using enlightenment (e16) as window manager
+Comment[fr]=Démarre une session GNOME en utilisant enlightenment (e16) comme gestionnaire de fenêtres
+Comment[it]=Questo avvia GNOME usando Enlightenment (e16) come window manager
+Comment[pt]=Esta sessão inicia o GNOME utilizando o Enlightenment (e16) como gestor de janelas
+Exec=/usr/share/e16/misc/starte16-gnome
+
+[Desktop Action Gnome3]
+Name=Gnome3
+Icon=gnome
+Exec=gnome-session --session=e16-gnome
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Comment=E16 in an XDE session
+TryExec=xde-session
+Exec=xde-session -desktop E16 -startwm /usr/share/e16/misc/starte16

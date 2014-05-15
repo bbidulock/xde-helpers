@@ -6,7 +6,16 @@ Exec=pekwm
 Terminal=false
 Type=XSession
 Icon=pekwm
+Actions=XDE;
 
 [Window Manager]
 SessionManaged=false
 X-XDE-Managed=true
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Comment=Pekwm under an XDE session
+TryExec=xde-session
+Exec=xde-session -desktop PEKWM -startwm pekwm
+

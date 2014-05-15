@@ -5,8 +5,16 @@ Exec=mwm
 Icon=mwm
 Name=MWM
 Comment=Motif Window Manager
+Actions=XDE;
 
 [Window Manager]
 SessionManaged=false
 StartupNotification=false
 ConfigExec=mwm -xrm 'configFile:%f'
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Comment=MWM under an XDE session
+TryExec=xde-session
+Exec=xde-session -desktop MWM -startwm mwm

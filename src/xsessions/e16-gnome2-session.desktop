@@ -8,3 +8,4 @@ Comment[it]=Questo avvia GNOME usando Enlightenment (e16) come window manager
 Comment[pt]=Esta sessão inicia o GNOME utilizando o Enlightenment (e16) como gestor de janelas
 Exec=/usr/share/e16/misc/starte16-gnome
 Icon=/usr/share/e16/icons/e16.png
+Hidden=true

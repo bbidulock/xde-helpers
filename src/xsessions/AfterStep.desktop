@@ -23,3 +23,11 @@ X-GNOME-Autostart-Notify=true
 
 Exec=afterstep
 Icon=AfterStep
+Actions=XDE;
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Comment=AfterStep in an XDE session
+TryExec=xde-session
+Exec=xde-session -desktop AFTERSTEP -startwm afterstep

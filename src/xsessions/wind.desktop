@@ -5,7 +5,17 @@ Exec=wind
 Icon=windwm
 Name=windwm
 Comment=Window Manager
+Actions=XDE;
 
 [Window Manager]
 SessionManaged=false
 StartupNotification=false
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Comment=Wind under an XDE session
+TryExec=xde-session
+Exec=xde-session -desktop WIND -startwm start-wind
+
+

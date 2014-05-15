@@ -6,3 +6,4 @@ Exec=openbox-gnome-session
 TryExec=gnome-session
 Icon=openbox
 Type=XSession
+Hidden=true

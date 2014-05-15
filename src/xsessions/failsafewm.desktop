@@ -5,7 +5,15 @@ Exec=failsafewm
 Icon=failsafewm
 Name=failsafewm
 Comment=A frameless, low-footprint window manager
+Actions=XDE;
 
 [Window Manager]
 SessionManaged=false
 StartupNotification=false
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Comment=failsafewm in an XDE session
+TryExec=xde-session
+Exec=xde-session -desktop FAILSAFEWM -startwm failsafewm

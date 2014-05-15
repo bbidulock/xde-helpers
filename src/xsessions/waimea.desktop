@@ -5,7 +5,15 @@ Exec=waimea
 Icon=waimea
 Name=Waimea
 Comment=An X11 window manager design for maximum efficiency
+Actions=XDE;
 
 [Window Manager]
 SessionManaged=false
 StartupNotification=false
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Comment=Waimea under an XDE session
+TryExec=xde-session
+Exec=xde-session -desktop WAIMEA -startwm start-waimea

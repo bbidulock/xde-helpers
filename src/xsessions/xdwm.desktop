@@ -5,3 +5,12 @@ Exec=xdwm-session
 TryExec=xdwm-session
 Icon=xdwm
 Type=Application
+Actions=XDE;
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Comment=XDWM under an XDE session
+TryExec=xde-session
+Exec=xde-session -desktop XDWM -startwm xdwm
+

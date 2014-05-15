@@ -4,7 +4,16 @@ Encoding=UTF-8
 Name=evilwm
 Exec=evilwm
 Icon=evilwm
+NoDisplay=true
+Actions=XDE;
 X-GNOME-WMName=evilwm
 # evilwm doesn't talk XSMP yet, so don't start in the WindowManager phase:
 X-GNOME-Autostart-Phase=Applications
 X-GNOME-Provides=windowmanager
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Comment=evilwm in an XDE session
+TryExec=xde-session
+Exec=xde-session -desktop EVILWM -startwm start-evilwm
