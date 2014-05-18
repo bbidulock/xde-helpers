@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Icon=xfe
+Type=Application
+Name=Xfe File Manager
+StartupNotify=true
+Exec=xfe %u
+Categories=FileManager;

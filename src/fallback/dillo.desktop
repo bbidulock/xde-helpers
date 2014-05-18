@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Icon=networking_www_section
+Type=Application
+Name=Dillo
+StartupNotify=true
+Exec=dillo %u
+Category=Network;WebBrowser;
