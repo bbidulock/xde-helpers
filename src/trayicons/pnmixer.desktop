@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Categories=TrayIcon;System;Utility;
+Name=Audio Mixer Tray Icon
+Comment=PNMixer is a GTK volume mixer applet that runs in the system tray
+GenericName=System Tray Icon

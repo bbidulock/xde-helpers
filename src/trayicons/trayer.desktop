@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Categories=TrayIcon;System;Utility;
+Name=Trayer System Tray
+Comment=A lightweight GTK2-based system tray
+GenericName=System Tray Icon

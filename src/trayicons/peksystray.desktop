@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Categories=TrayIcon;System;Utility;
+Name=PekWM System Tray
+Comment=A small system tray designed for all lightweight window managers supporting docking
+GenericName=System Tray Icon

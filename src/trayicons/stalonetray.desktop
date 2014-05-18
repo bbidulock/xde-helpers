@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Categories=TrayIcon;System;Utility;
+Name=Standalone System Tray
+Comment=A stand-alone system tray.
+GenericName=System Tray Icon

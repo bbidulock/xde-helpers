@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Categories=TrayIcon;System;Utility;DockApp;SystemTray;
+Name=wmsystemtray System Tray Dock App
+Comment=System tray designed as a WindowMaker dock app
+GenericName=System Tray Icon

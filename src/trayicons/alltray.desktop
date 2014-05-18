@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Categories=TrayIcon;System;Utility;
+Name=Application Tray Icon
+Comment=Drops any app in the tray
+GenericName=System Tray Icon

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Categories=TrayIcon;System;Utility;
+Name=MailTC Tray Icon
+Comment=Lightweight GTK2 mail checker for the system tray
+GenericName=System Tray Icon
