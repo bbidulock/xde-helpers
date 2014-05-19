@@ -9,4 +9,5 @@ TryExec=/usr/bin/wmwave
 Exec=wmwave
 Terminal=false
 Categories=DockApp;WMAKER;
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
 StartupNotify=false

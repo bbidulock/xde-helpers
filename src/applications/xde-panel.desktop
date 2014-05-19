@@ -5,8 +5,11 @@ Name=XDE Panel
 GenericName=Panel
 Comment=Panel for X Desktop Environment.
 Icon=perlpanel-panel
-Exec=xde-panel
+Exec=sh -c "xde-panel $HOME/.config/xde-panel/${XDG_CURRENT_DESKTOP:-default}/rc.xml"
+TryExec=xde-panel
 Terminal=false
 Categories=XDE;System;Utility;
+# only launch for WM's with lacking or no panel
+OnlyShowIn=FLUXBOX;BLACKBOX;OPENBOX;PEKWM;WMAKER;ECHINUS;SCROTWM;ADWM;WAIMEA;
 StartupNotify=true
 StartupWMClass=xde-panel

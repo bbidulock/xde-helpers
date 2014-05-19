@@ -5,9 +5,11 @@ Name=System Tray Docker
 GenericName=System Tray
 Comment=Provide a system tray in the dock
 Icon=GNUstep3D
-OnlyShowIn=BLACKBOX;WMAKER;
 Exec=peksystray
 TryExec=/usr/bin/peksystray
 Terminal=false
 Categories=DockApp;WMAKER;
+# only window managers with a dock and panel and no system tray
+OnlyShowIn=OPENBOX;BLACKBOX;WMAKER;
 StartupNotify=false
+X-Arch-Package=peksystray

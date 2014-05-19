@@ -8,9 +8,12 @@ Comment=Retrovol sound mixer
 #Icon=multimedia-volume-control.png
 #Icon=gnome-mixer.png
 Icon=wmaker-sound_mixer.png
-TryExec=/usr/bin/retrovol
-Exec=/usr/bin/retrovol
+TryExec=retrovol
+Exec=retrovol -hide
 Terminal=false
 Categories=TrayIcon;
 StartupNotify=false
+NotShowIn=GNOME;KDE;XFCE;LXDE;
+Hidden=true
+# use pnmixer instead
 X-GNOME-Autostart-enable=true

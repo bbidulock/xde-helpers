@@ -9,4 +9,5 @@ TryExec=/usr/bin/wmwifi
 Exec=wmwifi
 Terminal=false
 Categories=DockApp;WMAKER;
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
 StartupNotify=false

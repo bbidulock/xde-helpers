@@ -9,5 +9,7 @@ Exec=wmcpu
 TryExec=/usr/bin/wmcpu
 Terminal=false
 Categories=DockApp;WMAKER;
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
 StartupNotify=false
 StartupWMClass=wmcpu
+X-Arch-Package=wmcpu

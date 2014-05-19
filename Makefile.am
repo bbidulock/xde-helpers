@@ -21,6 +21,8 @@ dist_appl_DATA = \
 	src/applications/calculator.desktop \
 	src/applications/cbatticon.desktop \
 	src/applications/chbg.desktop \
+	src/applications/compton.desktop \
+	src/applications/compton-fluxbox.desktop \
 	src/applications/conky.desktop \
 	src/applications/ControlPanel.desktop \
 	src/applications/dhcpcd-gtk.desktop \
@@ -33,6 +35,7 @@ dist_appl_DATA = \
 	src/applications/flipse.desktop \
 	src/applications/fluxbox.desktop \
 	src/applications/ftmenu.desktop \
+	src/applications/gatotray.desktop \
 	src/applications/gmrun.desktop \
 	src/applications/gtk2_prefs.desktop \
 	src/applications/gtk-chtheme.desktop \
@@ -42,13 +45,17 @@ dist_appl_DATA = \
 	src/applications/gxmessage.desktop \
 	src/applications/i3.desktop \
 	src/applications/icewm.desktop \
+	src/applications/icewmtray.desktop \
+	src/applications/idesk.desktop \
 	src/applications/kicad.desktop \
 	src/applications/lal.desktop \
 	src/applications/lxde-logout.desktop \
 	src/applications/lxinput.desktop \
 	src/applications/lxpanelctl.desktop \
 	src/applications/lxpanel.desktop \
+	src/applications/menutray.desktop \
 	src/applications/metacity.desktop \
+	src/applications/nm-applet.desktop \
 	src/applications/notification-properties.desktop \
 	src/applications/obxprop.desktop \
 	src/applications/openbox.desktop \
@@ -56,6 +63,7 @@ dist_appl_DATA = \
 	src/applications/PathFinder.desktop \
 	src/applications/peksystray.desktop \
 	src/applications/piedock.desktop \
+	src/applications/pnmixer.desktop \
 	src/applications/preferred-execute.desktop \
 	src/applications/preferred-file-manager.desktop \
 	src/applications/preferred-mail-reader.desktop \
@@ -63,9 +71,11 @@ dist_appl_DATA = \
 	src/applications/preferred-text-editor.desktop \
 	src/applications/preferred-web-browser.desktop \
 	src/applications/raktpdf.desktop \
+	src/applications/remmina-applet.desktop \
 	src/applications/retrovol.desktop \
 	src/applications/sbxkb.desktop \
 	src/applications/slock.desktop \
+	src/applications/smproxy.desktop \
 	src/applications/unclutter.desktop \
 	src/applications/volume-app.desktop \
 	src/applications/wmacpi.desktop \
@@ -85,10 +95,12 @@ dist_appl_DATA = \
 	src/applications/wmbluegpu.desktop \
 	src/applications/wmbluemem.desktop \
 	src/applications/wmbubble.desktop \
+	src/applications/wmbutton.desktop \
 	src/applications/wmcalc-bin.desktop \
 	src/applications/wmcalc.desktop \
 	src/applications/wmCalClock.desktop \
 	src/applications/wmCalClockKbd.desktop \
+	src/applications/wmcdplay.desktop \
 	src/applications/wmcliphist.desktop \
 	src/applications/wmclock.desktop \
 	src/applications/wmclockmon-cal.desktop \
@@ -99,27 +111,48 @@ dist_appl_DATA = \
 	src/applications/wmcpuload.desktop \
 	src/applications/wmcpumon.desktop \
 	src/applications/wmctrl.desktop \
+	src/applications/wmdate.desktop \
 	src/applications/wmdiskmon.desktop \
 	src/applications/wmf2eps.desktop \
 	src/applications/wmf2fig.desktop \
 	src/applications/wmf2gd.desktop \
 	src/applications/wmf2x.desktop \
+	src/applications/wmfire.desktop \
+	src/applications/wmforkplop.desktop \
+	src/applications/wmfrog.desktop \
+	src/applications/wmgtemp.desktop \
+	src/applications/wmifinfo.desktop \
+	src/applications/wmifs.desktop \
 	src/applications/wminet.desktop \
 	src/applications/wmitime.desktop \
 	src/applications/wmmail.desktop \
 	src/applications/wmmaiload.desktop \
 	src/applications/wmMand.desktop \
+	src/applications/wmmatrix.desktop \
+	src/applications/wmmemload.desktop \
 	src/applications/wmmenugen.desktop \
 	src/applications/wmmixer.desktop \
+	src/applications/wmmon.desktop \
+	src/applications/wmmoonclock.desktop \
+	src/applications/wmmount.desktop \
 	src/applications/wmnd.desktop \
 	src/applications/wmnet.desktop \
 	src/applications/wm-oldmenu2new.desktop \
+	src/applications/wmpinboard.desktop \
+	src/applications/wmpomme.desktop \
+	src/applications/wmppp.desktop \
+	src/applications/wmrack.desktop \
+	src/applications/wmsensors.desktop \
 	src/applications/wmsetbg.desktop \
+	src/applications/wmshutdown.desktop \
 	src/applications/wmsmixer.desktop \
+	src/applications/wmsmpmon.desktop \
 	src/applications/wmstickynotes.desktop \
+	src/applications/wmsun.desktop \
 	src/applications/wmsysmon.desktop \
 	src/applications/wmsystemtray.desktop \
 	src/applications/wmsystray.desktop \
+	src/applications/wmtemp.desktop \
 	src/applications/wmtime.desktop \
 	src/applications/wmtimer.desktop \
 	src/applications/wmtop.desktop \
@@ -129,6 +162,7 @@ dist_appl_DATA = \
 	src/applications/wmWeather.desktop \
 	src/applications/wmweather+.desktop \
 	src/applications/wmwifi.desktop \
+	src/applications/wmwork.desktop \
 	src/applications/xboard.desktop \
 	src/applications/xboard-ics.desktop \
 	src/applications/xcalc.desktop \
@@ -140,6 +174,7 @@ dist_appl_DATA = \
 	src/applications/xde-logout.desktop \
 	src/applications/xde-panel.desktop \
 	src/applications/xde-run.desktop \
+	src/applications/xde-setbg.desktop \
 	src/applications/xditview.desktop \
 	src/applications/xdpyinfo.desktop \
 	src/applications/xdvi.desktop \
@@ -332,7 +367,10 @@ dist_dock_DATA = \
 	src/dockapps/wmdate.desktop \
 	src/dockapps/wmdiskmon.desktop \
 	src/dockapps/wmfire.desktop \
+	src/dockapps/wmforkplop.desktop \
+	src/dockapps/wmfrog.desktop \
 	src/dockapps/wmgtemp.desktop \
+	src/dockapps/wmifinfo.desktop \
 	src/dockapps/wmifs.desktop \
 	src/dockapps/wminet.desktop \
 	src/dockapps/wmitime.desktop \
@@ -354,6 +392,7 @@ dist_dock_DATA = \
 	src/dockapps/wmsensors.desktop \
 	src/dockapps/wmshutdown.desktop \
 	src/dockapps/wmsmixer.desktop \
+	src/dockapps/wmsmpmon.desktop \
 	src/dockapps/wmstickynotes.desktop \
 	src/dockapps/wmsun.desktop \
 	src/dockapps/wmsysmon.desktop \

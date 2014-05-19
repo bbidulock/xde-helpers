@@ -10,5 +10,7 @@ TryExec=/usr/bin/allin1
 Exec=allin1
 Terminal=false
 Categories=DockApp;WMAKER;
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
 StartupNotify=false
 StartupWMClass=allin1
+X-Arch-Package=allin1

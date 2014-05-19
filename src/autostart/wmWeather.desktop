@@ -5,11 +5,11 @@ Name=Weather Monitor Dock App
 GenericName=Weather
 Comment=Monitor weather conditions
 Icon=GNUstep3D
-OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;ADWM;
 TryExec=/usr/bin/wmWeather
 Exec=wmWeather -s CYEG
 Terminal=false
 Categories=DockApp;WMAKER;
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
 StartupNotify=false
 Actions=CYEG;
 

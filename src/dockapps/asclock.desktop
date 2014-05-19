@@ -9,8 +9,9 @@ Icon=GNUstep3D
 Terminal=false
 StartupNotify=false
 Categories=DockApp;WMAKER;
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
 StartupWMClass=asclock
-X-Arch-Package=asclock
+X-Arch-Package=asclock-xlib
 Actions=Newstone;Orb;Stone;Analog;Beats;Classic;Shaped;
 
 [Desktop Action Newstone]

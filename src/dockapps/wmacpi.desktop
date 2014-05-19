@@ -9,5 +9,7 @@ TryExec=/usr/bin/wmacpi
 Exec=wmacpi
 Terminal=false
 Categories=DockApp;WMAKER;
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
 StartupNotify=false
 StartupWMClass=wmacpi
+X-Arch-Package=wmacpi

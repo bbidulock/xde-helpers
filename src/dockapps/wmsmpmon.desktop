@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=wmSMPmon
+Comment=Graphs usage for multiple CPUs as well as memory and swap usage.
+Exec=wmSMPmon
+Terminal=false
+Categories=DockApp;WMAKER;
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+X-Arch-Package=wmsmpmon

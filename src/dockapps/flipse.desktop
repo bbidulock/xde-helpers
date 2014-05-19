@@ -5,10 +5,12 @@ Name=Flipse Dock
 GenericName=Dock
 Comment=Swallow unmanaged dock apps in a window
 Icon=GNUstep3D
-NotShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;
 TryExec=/usr/bin/flipse
 Exec=flipse
 Terminal=false
 Categories=DockApp;WMAKER;
+# only window managers that do not have a dock
+NotShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
 StartupNotify=false
 StartupWMClass=flipse
+X-Arch-Package=flipse

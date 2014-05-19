@@ -9,5 +9,7 @@ TryExec=/usr/bin/wmCalClockKbd
 Exec=wmCalClockKbd
 Terminal=false
 Categories=DockApp;WMAKER;
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
 StartupNotify=false
 StartupWMClass=wmCalClockKbd
+X-Arch-Package=wmcalclockkbd

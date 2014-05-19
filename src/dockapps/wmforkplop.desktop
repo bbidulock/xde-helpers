@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=wmforkplop
+GenericName=System Monitor Dock App
+Comment=A mixture between wmhdplop and the great wmtop
+Exec=wmforkplop
+Terminal=false
+Categories=DockApp;WMAKER;
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+X-Arch-Package=wmforkplop

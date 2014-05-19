@@ -9,4 +9,6 @@ TryExec=/usr/bin/lal
 Exec=lal
 Terminal=false
 Categories=DockApp;WMAKER;
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
 StartupNotify=false
+X-Arch-Package=lal

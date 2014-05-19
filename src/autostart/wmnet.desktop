@@ -5,11 +5,11 @@ Name=Network Monitor
 GenericName=Monitor
 Comment=Monitor network interfaces in a dock app
 Icon=GNUstep3D
-OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;
 TryExec=/usr/bin/wmnet
 Exec=wmnet -w -l
 Terminal=false
 Categories=DockApp;WMAKER;
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
 StartupNotify=false
 Actions=Interface1;Interface2;Interface3;Interface4;
 
