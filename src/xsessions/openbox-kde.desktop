@@ -10,3 +10,8 @@ GenericName[fr]=Gestionnaire de Fenêtres
 GenericName[pt]=Gestor de Janelas
 Comment=Use the Openbox window manager inside of the K Desktop Environment
 Hidden=true
+# name we put on the WM spec check window
+X-GNOME-WMName=Openbox
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-Autostart-Notify=true

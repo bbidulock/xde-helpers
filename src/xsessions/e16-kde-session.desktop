@@ -12,3 +12,7 @@ Comment[fr]=Démarre une session KDE en utilisant enlightenment (e16) comme gest
 Comment[it]=Questo avvia KDE usando Enlightenment (e16) come window manager
 Comment[pt]=Esta sessão inicia o KDE utilizando o Enlightenment (e16) como gestor de janelas
 Hidden=true
+X-GNOME-WMName=enlightenment
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-Autostart-Notify=true

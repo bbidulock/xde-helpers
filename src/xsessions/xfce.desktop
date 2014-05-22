@@ -82,3 +82,8 @@ Comment[ug]=مەزكۇر ئەڭگىمەدە ئۈستەلئۈستى ئۈچۈن Xf
 Comment[uk]=Використайте цей сеанс для запуску Xfce як Вашого типого середовища.
 Comment[zh_CN]=使用此会话将 Xfce 作为您的桌面环境运行
 Comment[zh_TW]=使用這個工作階段來執行 Xfce 作為您的桌面環境
+# name we put on the WM spec check window
+X-GNOME-WMName=xfwm
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-Autostart-Notify=true
