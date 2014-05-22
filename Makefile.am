@@ -116,7 +116,6 @@ dist_appl_DATA = \
 	src/applications/wmf2eps.desktop \
 	src/applications/wmf2fig.desktop \
 	src/applications/wmf2gd.desktop \
-	src/applications/wmf2x.desktop \
 	src/applications/wmfire.desktop \
 	src/applications/wmforkplop.desktop \
 	src/applications/wmfrog.desktop \
