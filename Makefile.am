@@ -485,7 +485,6 @@ dist_back_DATA = \
 	src/fallback/draw.desktop \
 	src/fallback/eboard.desktop \
 	src/fallback/eclipse.desktop \
-	src/fallback/edit.log \
 	src/fallback/eekboard.desktop \
 	src/fallback/ekiga.desktop \
 	src/fallback/elvis.desktop \
@@ -799,7 +798,6 @@ dist_back_DATA = \
 	src/fallback/midori.desktop \
 	src/fallback/mimeinfo.cache \
 	src/fallback/mined.desktop \
-	src/fallback/missfont.log \
 	src/fallback/mixer.app.desktop \
 	src/fallback/mlterm.desktop \
 	src/fallback/mount-archive.desktop \
