@@ -3,6 +3,7 @@ Type=Application
 Encoding=UTF-8
 Name=grecord (GNOME 2.0 Recorder)
 Icon=/usr/share/pixmaps/gnome-grecord.xpm
+TryExec=gnome-sound-recorder
 Exec=gnome-sound-recorder
 Terminal=false
 Categories=Sound;

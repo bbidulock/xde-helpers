@@ -4,6 +4,7 @@ Type=Application
 Name=PathFinder
 GenericName=File manager
 Comment=File browser
+TryExec=PathFinder
 Exec=PathFinder
 Icon=PathFinder
 Terminal=false

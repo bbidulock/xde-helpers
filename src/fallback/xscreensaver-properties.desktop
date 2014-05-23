@@ -1,4 +1,5 @@
 [Desktop Entry]
+TryExec=xscreensaver-demo
 Exec=xscreensaver-demo
 Icon=xscreensaver
 Terminal=false

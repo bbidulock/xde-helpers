@@ -97,6 +97,7 @@ Comment[vi]=Cấu hình tuỳ thích vật chứa và chạy tự động
 Comment[zh_CN]=配置介质和自动运行首选项
 Comment[zh_HK]=設定媒體和自動執行偏好設定
 Comment[zh_TW]=設定媒體和自動執行偏好設定
+TryExec=gnome-control-center
 Exec=gnome-control-center media
 Icon=drive-optical
 Terminal=false

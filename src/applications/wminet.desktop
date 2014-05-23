@@ -4,6 +4,7 @@ Type=Application
 Name=wmInet
 GenericName=Network Monitor
 Comment=A dock app for monitoring internet connections
+TryExec=wminet
 Exec=wminet
 Icon=GNUstep3D
 Terminal=false

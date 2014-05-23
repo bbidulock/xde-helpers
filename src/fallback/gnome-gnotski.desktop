@@ -94,6 +94,7 @@ Comment[uk]=Ковзати блоки для вирішення головоло
 Comment[vi]=Trượt khối để giải hình ghép
 Comment[zh_HK]=移動方塊解開圍困的方塊遊戲
 Comment[zh_TW]=移動方塊解開圍困的方塊遊戲
+TryExec=gnotski
 Exec=gnotski
 Icon=gnome-klotski
 Terminal=false

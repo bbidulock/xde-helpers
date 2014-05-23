@@ -60,6 +60,7 @@ Name[zh_CN]=校验签名
 Name[zh_HK]=驗證簽署
 Name[zh_TW]=驗證簽章
 MimeType=application/pgp-signature;
+TryExec=seahorse-tool
 Exec=seahorse-tool --verify
 Type=Application
 Terminal=false

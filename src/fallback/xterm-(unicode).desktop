@@ -4,6 +4,7 @@ Encoding=UTF-8
 Name=XTerm (Unicode)
 Comment=XTerm: terminal emulator for X with Unicode support
 Icon=/usr/share/pixmaps/xterm-color_32x32.xpm
+TryExec=uxterm
 Exec=uxterm
 Terminal=false
 Categories=Utility;TerminalEmulator;

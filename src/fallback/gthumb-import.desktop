@@ -129,6 +129,7 @@ Comment[th]=นำเข้ารูปภาพจากการ์ดใน�
 Comment[uk]=Імпорт фотознімків з цифрового фотоапарату
 Comment[zh_CN]=由数码照相机导入相片
 Categories=GNOME;GTK;Graphics;Viewer;RasterGraphics;2DGraphics;Photography;
+TryExec=gthumb
 Exec=gthumb --import-photos %U
 Icon=gthumb
 MimeType=x-content/image-dcf;x-content/image-picturecd;

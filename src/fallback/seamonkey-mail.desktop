@@ -1,6 +1,7 @@
 [Desktop Entry]
 Name=SeaMonkey Mail
 Comment=Read Mail with SeaMonkey
+TryExec=seamonkey
 Exec=seamonkey -mail
 Icon=/usr/share/pixmaps/seamonkey-mail-icon.png
 Terminal=0

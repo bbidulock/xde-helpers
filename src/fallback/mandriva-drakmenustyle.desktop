@@ -1,6 +1,7 @@
 [Desktop Entry]
 Name=Menu Style Configuration
 Comment=Menu Style Configuration
+TryExec=drakmenustyle
 Exec=drakmenustyle
 Icon=drakmenustyle
 Terminal=false

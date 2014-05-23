@@ -25,6 +25,7 @@ Comment[pt]=Centro de Controlo Mageia
 Comment[ro]=Configurați calculatorul
 Comment[uk]=Центр керування Mageia
 Comment[zh_TW]=設定您的電腦
+TryExec=drakconf
 Exec=drakconf
 Icon=drakconf
 Terminal=false

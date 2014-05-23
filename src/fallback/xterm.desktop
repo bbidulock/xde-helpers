@@ -203,6 +203,7 @@ Comment[zh_CN]=终端程序
 Comment[zh_TW]=終端機程式
 Comment[zu]=Uhlelo lwemisebenzi lwangaohandle
 Icon=/usr/share/pixmaps/xterm-color_32x32.xpm
+TryExec=xterm
 Exec=xterm
 Terminal=false
 Categories=Utility;TerminalEmulator;

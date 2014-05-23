@@ -137,6 +137,7 @@ Comment[zh_CN]=配置系统键盘
 Comment[zh_TW]=設定系統的鍵盤
 Comment[zu]=Hlanganisela ibhodi lezikhiye lesistimu
 Icon=system-config-keyboard
+TryExec=system-config-keyboard
 Exec=system-config-keyboard
 Type=Application
 Categories=Settings;System;HardwareSettings;

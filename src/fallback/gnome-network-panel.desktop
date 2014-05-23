@@ -100,6 +100,7 @@ Comment[vi]=Thiết lập mạng
 Comment[zh_CN]=网络设置
 Comment[zh_HK]=網絡設定值
 Comment[zh_TW]=網路設定值
+TryExec=gnome-control-center
 Exec=gnome-control-center network
 Icon=preferences-system-network
 Terminal=false

@@ -145,6 +145,7 @@ GenericName[zh_HK]=Planner 專案管理
 Comment[zh_HK]=Planner 專案管理
 GenericName[zh_TW]=Planner 專案管理
 Comment[zh_TW]=Planner 專案管理
+TryExec=planner
 Exec=planner %F
 Icon=gnome-planner
 Terminal=false

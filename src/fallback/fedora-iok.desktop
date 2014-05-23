@@ -72,6 +72,7 @@ Comment[th]=ป้อนตัวอักษร Indic ด้วยแป้น�
 Comment[uk]=Введіть індійські символи за допомогою віртуальної клавіатури
 Comment[zh_CN]=在虚拟键盘中输入印度语字符
 Comment[zh_TW]=以虛擬鍵盤輸入印度語字元
+TryExec=iok
 Exec=iok
 Icon=iok
 StartupNotify=true

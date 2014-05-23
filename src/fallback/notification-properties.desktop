@@ -44,6 +44,7 @@ Comment[ru]=Изменить параметры всплывающих увед�
 Comment[sl]=Nastavitev možnosti pojavnih obvestil 
 Comment[sv]=Konfigurera dina inställningar för popupnotifieringar
 Comment[zh_CN]=设置您的弹出通知首选项
+TryExec=notification-properties
 Exec=notification-properties
 Icon=notification-properties
 Terminal=false

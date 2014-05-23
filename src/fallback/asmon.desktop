@@ -3,6 +3,7 @@ Type=Application
 Encoding=UTF-8
 Name=Asmon
 Comment=System resource monitor dockapp for Windowmaker and Afterstep.
+TryExec=asmon
 Exec=asmon
 Terminal=false
 Categories=System;Monitoring;

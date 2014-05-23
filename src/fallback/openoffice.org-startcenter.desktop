@@ -4,6 +4,7 @@ Terminal=false
 Icon=openofficeorg3-startcenter
 Type=Application
 Categories=Office;
+TryExec=ooffice
 Exec=ooffice %U
 MimeType=application/vnd.openofficeorg.extension
 Name=OpenOffice.org 

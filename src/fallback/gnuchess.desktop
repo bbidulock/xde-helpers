@@ -62,6 +62,7 @@ Name[vi]=GnuChess
 Name[wo]=GnuChess
 Name[zh_CN]=GnuChess
 Name[zh_TW]=GnuChess
+TryExec=gnuchess
 Exec=gnuchess
 Terminal=true
 Categories=X-Debian-Games-Board;

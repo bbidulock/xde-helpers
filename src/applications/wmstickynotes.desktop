@@ -4,6 +4,7 @@ Type=Application
 Name=wmStickyNotes
 GenericName=Notepad
 Comment=A dock app for keeping small notes around the desktop
+TryExec=wmstickynotes
 Exec=wmstickynotes
 Icon=GNUstep3D
 Terminal=false

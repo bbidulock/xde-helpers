@@ -155,6 +155,7 @@ Comment[vi]=Trên máy tính này, tìm tài liệu và thư mục theo tên hay
 Comment[zh_CN]=按照名称或内容定位此计算机中的文档和文件夹
 Comment[zh_HK]=以名稱或內容尋找此電腦中的文件及資料夾
 Comment[zh_TW]=以名稱或內容尋找此電腦中的文件及資料夾
+TryExec=gnome-search-tool
 Exec=gnome-search-tool
 Icon=system-search
 Terminal=false

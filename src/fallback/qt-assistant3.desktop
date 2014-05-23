@@ -2,6 +2,7 @@
 [Desktop Entry]
 Name=Qt3 Assistant 
 Comment=Add translations to Qt3 applications
+TryExec=assistant
 Exec=assistant
 Icon=assistant3
 Terminal=false

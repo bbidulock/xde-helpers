@@ -2,6 +2,7 @@
 Version=1.0
 Name=wpa_gui
 Comment[en]=Wpa_supplicant management
+TryExec=kdesu
 Exec=kdesu wpa_gui
 Icon=wpa_gui
 GenericName=wpa_supplicant user interface

@@ -3,6 +3,7 @@ Encoding=UTF-8
 Type=Application
 Name=Blackbox
 Icon=blackbox
+TryExec=blackbox
 Exec=blackbox
 GenericName=Window Manager
 GenericName[fr]=Gestionnaire de Fenêtres

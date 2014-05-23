@@ -153,6 +153,7 @@ Comment[vi]=Chạy phép tính kiểu số học, khoa học hay tài chính
 Comment[zh_CN]=执行算术、科学或财务计算
 Comment[zh_HK]=進行數字、科學或金融的計算
 Comment[zh_TW]=進行數字、科學或金融的計算
+TryExec=gcalctool
 Exec=gcalctool
 Icon=accessories-calculator
 Terminal=false

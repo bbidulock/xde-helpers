@@ -2,6 +2,7 @@
 Type=Application
 Encoding=UTF-8
 Name=WMifs
+TryExec=wmifs
 Exec=wmifs
 Terminal=false
 Categories=DockApp;WMAKER;

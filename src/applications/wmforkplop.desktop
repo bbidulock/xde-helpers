@@ -4,6 +4,7 @@ Encoding=UTF-8
 Name=wmforkplop
 GenericName=System Monitor Dock App
 Comment=A mixture between wmhdplop and the great wmtop
+TryExec=wmforkplop
 Exec=wmforkplop
 Terminal=false
 Categories=DockApp;WMAKER;

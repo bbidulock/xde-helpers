@@ -37,6 +37,7 @@ Name[uk]=Улюблені програми
 Name[vi]=Các ứng dụng ưa thích
 Name[zh_TW]=偏好的應用程式
 Icon=preferences-desktop
+TryExec=libfm-pref-apps
 Exec=libfm-pref-apps
 StartupNotify=true
 Categories=Settings;DesktopSettings;X-LXDE-Settings;GTK;

@@ -2,6 +2,7 @@
 Encoding=UTF-8
 Name=xine
 Comment=Video Player
+TryExec=xine
 Exec=xine %U
 MimeType=video/mpeg;video/quicktime;video/x-msvideo;video/x-anim;audio/x-mp3;audio/x-mp2;
 Icon=xine

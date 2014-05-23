@@ -109,6 +109,7 @@ Comment[uk]=Налаштовування принтерів
 Comment[vi]=Cấu hình máy in
 Comment[zh_CN]=配置打印机
 Comment[zh_TW]=設定印表機
+TryExec=system-config-printer
 Exec=system-config-printer
 Terminal=false
 Type=Application

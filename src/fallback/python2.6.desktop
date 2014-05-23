@@ -1,6 +1,7 @@
 [Desktop Entry]
 Name=Python (v2.6)
 Comment=Python Interpreter (v2.6)
+TryExec=python2.6
 Exec=python2.6
 Icon=/usr/share/pixmaps/python2.6.xpm
 Terminal=true

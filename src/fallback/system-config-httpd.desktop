@@ -41,6 +41,7 @@ Comment[uk]=Настройка HTTP сервера
 Comment[vi]=Cấu hình máy chủ HTTP
 Comment[zh_CN]=配置 HTTP 服务器
 Comment[zh_TW]=設定 HTTP 伺服器
+TryExec=system-config-httpd
 Exec=system-config-httpd
 Terminal=0
 Type=Application

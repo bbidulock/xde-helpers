@@ -3,6 +3,7 @@ Type=Application
 Encoding=UTF-8
 Name=Xbiff
 Comment=Xbiff: mailbox flag for X
+TryExec=xbiff
 Exec=xbiff
 Terminal=false
 Categories=Network;Email;

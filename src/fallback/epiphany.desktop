@@ -326,6 +326,7 @@ Comment[yo]=Wáròyìn wẹ́ẹ̀bù náà
 Comment[zh_CN]=浏览网络
 Comment[zh_HK]=瀏覽網頁
 Comment[zh_TW]=瀏覽網頁
+TryExec=epiphany-browser
 Exec=epiphany-browser %U
 StartupNotify=true
 Terminal=false

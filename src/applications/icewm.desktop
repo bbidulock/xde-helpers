@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=IceWM
 Icon=icewm
+TryExec=icewm
 Exec=icewm
 GenericName=Window Manager
 GenericName[fr]=Gestionnaire de Fenêtres

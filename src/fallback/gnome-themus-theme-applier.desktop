@@ -124,6 +124,7 @@ Comment[zh_CN]=设定默认主题
 Comment[zh_HK]=設定預設的佈景主題
 Comment[zh_TW]=設定預設的佈景主題
 Icon=gnome-settings-theme
+TryExec=themus-theme-applier
 Exec=themus-theme-applier %u
 Terminal=false
 Type=Application

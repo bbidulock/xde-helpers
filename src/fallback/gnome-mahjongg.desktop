@@ -125,6 +125,7 @@ Comment[vi]=Tháo chồng đá lát ra bằng cách bỏ các cặp khớp
 Comment[xh]=Diliza inqwaba yeethayili ngokuthi ususe izibini ezingqamanayo
 Comment[zh_HK]=把相同牌面的麻雀一對對地移走
 Comment[zh_TW]=把相同牌面的麻將一對對地移走
+TryExec=mahjongg
 Exec=mahjongg
 Icon=gnome-mahjongg
 Terminal=false

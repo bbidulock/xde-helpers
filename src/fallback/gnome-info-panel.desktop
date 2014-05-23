@@ -100,6 +100,7 @@ Comment[vi]=Thông tin hệ thống
 Comment[zh_CN]=系统信息
 Comment[zh_HK]=系統資訊
 Comment[zh_TW]=系統資訊
+TryExec=gnome-control-center
 Exec=gnome-control-center info
 Icon=applications-system
 Terminal=false

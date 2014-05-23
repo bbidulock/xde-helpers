@@ -144,6 +144,7 @@ Comment[zh_CN]=更改您的桌面背景设置
 Comment[zh_HK]=更改桌面背景設定
 Comment[zh_TW]=變更桌面背景設定
 Comment[zu]=Shintsha uhlelo lwesizinda sesiga-nyezi sakho
+TryExec=gnome-background-properties
 Exec=gnome-background-properties %F
 Icon=preferences-desktop-wallpaper
 Terminal=false

@@ -100,6 +100,7 @@ Comment[vi]=Đổi độ phân giải và vị trí màn hình/máy chiếu
 Comment[zh_CN]=更改显示器和投影仪的分辨率和位置
 Comment[zh_HK]=改變顯示器和投影機的解像度和位置
 Comment[zh_TW]=改變顯示器和投影機的解析度和位置
+TryExec=gnome-control-center
 Exec=gnome-control-center display
 Icon=preferences-desktop-display
 Terminal=false

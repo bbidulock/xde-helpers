@@ -78,6 +78,7 @@ GenericName[sq]=Përgjegjës arkivash
 GenericName[sv]=Arkivhanterare
 GenericName[tr]=Arşiv yöneticisi
 GenericName[uk]=Менеджер архівів
+TryExec=xarchiver
 Exec=xarchiver
 Icon=xarchiver
 Terminal=false

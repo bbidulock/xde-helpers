@@ -4,6 +4,7 @@ Name=Bluetooth Control
 Type=Application
 Comment=Control bluetooth devices
 Terminal=true
+TryExec=bluetoothctl
 Exec=bluetoothctl
 Icon=bluetooth
 Categories=ConsoleOnly;System;

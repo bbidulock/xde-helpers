@@ -10,6 +10,7 @@ GenericName[fr]=Zone de Notification Mixeur
 Comment=An audio mixer for the system tray
 Comment[de]=Ein Audiomixer für das Benachrichtigungsfeld
 Comment[fr]=Un Mixeur Audio pour la Zone de Notification
+TryExec=pnmixer
 Exec=pnmixer
 Icon=multimedia-volume-control
 Terminal=false

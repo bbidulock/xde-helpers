@@ -5,6 +5,7 @@ Comment=Gstreamer Codec Installer
 Comment[fr]=Installateur de codec pour Gstreamer
 Comment[de]=Gstreamer Codecs Installierer
 Icon=/usr/share/codeina/icons/codeina.png
+TryExec=codeina
 Exec=codeina
 Terminal=false
 Type=Application

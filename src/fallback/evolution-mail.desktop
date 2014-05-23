@@ -34,6 +34,7 @@ Comment[ro]=Evolution Mail
 Comment[sv]=Visa en notifieringsikon när dokument skrivs ut
 Comment[xh]=I-Imeyili ye-Evolution
 Comment[zh_CN]=Evolution 电子邮件
+TryExec=evolution
 Exec=evolution --component=mail
 Icon=evolution
 Terminal=false

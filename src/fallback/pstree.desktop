@@ -3,6 +3,7 @@ Type=Application
 Encoding=UTF-8
 Name=Pstree
 Icon=/usr/share/pixmaps/pstree16.xpm
+TryExec=pstree.x11
 Exec=pstree.x11
 Terminal=true
 Categories=System;Monitoring;

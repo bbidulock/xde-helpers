@@ -15,6 +15,7 @@ Comment[sv]=IRC-klient
 Comment[ro]=Client de IRC
 Comment[zh_TW]=X-Chat 聊天程式
 Comment=Chat with other people using Internet Relay Chat
+TryExec=xchat
 Exec=xchat
 Icon=xchat
 Terminal=false

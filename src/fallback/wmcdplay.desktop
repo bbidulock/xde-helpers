@@ -2,6 +2,7 @@
 Type=Application
 Encoding=UTF-8
 Name=WMCDplay
+TryExec=wmcdplay
 Exec=wmcdplay
 Terminal=false
 Categories=DockApp;WMAKER;

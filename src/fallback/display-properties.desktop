@@ -91,6 +91,7 @@ Comment[ta]=திரைகளின் இடத்தையும் தெள
 Comment[uk]=Зміна роздільної здатності та позиції моніторів
 Comment[zh_HK]=改變螢幕解像度和位置
 Comment[zh_TW]=改變螢幕解析度和位置
+TryExec=gnome-display-properties
 Exec=gnome-display-properties
 Icon=gnome-display-properties
 Terminal=false

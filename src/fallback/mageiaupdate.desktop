@@ -66,6 +66,7 @@ Name[wa]=Metaedjes a djoû di Mageia
 Name[zh_CN]=Mageia 更新
 Name[zh_TW]=Mageia 更新
 Icon=mageiaupdate
+TryExec=MageiaUpdate
 Exec=MageiaUpdate
 Terminal=false
 Type=Application

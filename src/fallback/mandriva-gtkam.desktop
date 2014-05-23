@@ -1,6 +1,7 @@
 [Desktop Entry]
 Name=GTKam
 Comment=Access digital cameras (via GPhoto2)
+TryExec=gtkam
 Exec=gtkam 
 Icon=gtkam
 Terminal=false

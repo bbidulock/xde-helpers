@@ -143,6 +143,7 @@ Comment[vi]=Tùy chỉnh màn hình nền
 Comment[zh_CN]=自定义桌面外观
 Comment[zh_HK]=自選桌面的外觀
 Comment[zh_TW]=自訂桌面的外觀
+TryExec=gnome-appearance-properties
 Exec=gnome-appearance-properties %F
 Icon=preferences-desktop-theme
 Terminal=false

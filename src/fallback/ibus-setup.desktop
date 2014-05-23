@@ -93,6 +93,7 @@ Comment[vi]=Tùy chọn IBus
 Comment[zh_CN]=IBus 设置
 Comment[zh_HK]=IBus 偏好設定
 Comment[zh_TW]=IBus 偏好設定
+TryExec=ibus-setup
 Exec=ibus-setup
 Icon=ibus-setup
 Terminal=false

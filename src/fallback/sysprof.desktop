@@ -2,6 +2,7 @@
 Version=1.0
 Name=Sysprof
 Comment=A sampling CPU profiler
+TryExec=sysprof
 Exec=sysprof
 Icon=sysprof-icon
 StartupNotify=true

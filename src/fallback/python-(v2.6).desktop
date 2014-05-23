@@ -3,6 +3,7 @@ Type=Application
 Encoding=UTF-8
 Name=Python (v2.6)
 Icon=/usr/share/pixmaps/python2.6.xpm
+TryExec=python2.6
 Exec=python2.6
 Terminal=true
 Categories=Programming;

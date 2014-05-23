@@ -175,6 +175,7 @@ Comment[zh_CN]=设置键盘首选项
 Comment[zh_HK]=修改鍵盤偏好設定
 Comment[zh_TW]=修改鍵盤偏好設定
 Comment[zu]=Hlela indawo zakho ozithandayo kwindawo yokushaya uma ubhala
+TryExec=gnome-keyboard-properties
 Exec=gnome-keyboard-properties
 Icon=preferences-desktop-keyboard
 Terminal=false

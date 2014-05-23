@@ -101,6 +101,7 @@ Comment[vi]=Cấu hình máy tính
 Comment[wa]=Apontyî vosse copiutrece
 Comment[zh_CN]=配置您的计算机
 Comment[zh_TW]=設定您的電腦
+TryExec=drakconf
 Exec=drakconf
 Icon=drakconf
 Terminal=false

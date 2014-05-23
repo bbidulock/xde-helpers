@@ -86,6 +86,7 @@ Comment[ur]=آپ کو طباعت نظام کے پس منظر کے انتخاب �
 Comment[vi]=Cho phép chọn hệ thống in mà xfprint sẽ sử dụng
 Comment[zh_CN]=允许你选择xfprint使用的打印系统后端
 Comment[zh_TW]=允許您選擇 xfprint 所使用的列印系統後端
+TryExec=xfprint-settings
 Exec=xfprint-settings
 Icon=printer
 Terminal=false

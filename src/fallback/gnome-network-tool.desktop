@@ -4,6 +4,7 @@ Encoding=UTF-8
 Name=GNOME Network Tool
 Comment=Network Information Tools
 Icon=/usr/share/pixmaps/gnome-nettool.xpm
+TryExec=gnome-nettool
 Exec=gnome-nettool
 Terminal=false
 Categories=System;Administration;

@@ -4,6 +4,7 @@ Terminal=false
 Icon=libreoffice-startcenter
 Type=Application
 Categories=Office;X-Red-Hat-Base;X-SuSE-Core-Office;X-MandrivaLinux-Office-Other;
+TryExec=libreoffice
 Exec=libreoffice %U
 MimeType=application/vnd.openofficeorg.extension;
 Name=LibreOffice 

@@ -130,6 +130,7 @@ Comment[vi]=Đổi nền
 Comment[zh_CN]=更改背景图像
 Comment[zh_HK]=更改背景
 Comment[zh_TW]=更改背景
+TryExec=gnome-control-center
 Exec=gnome-control-center background
 Icon=preferences-desktop-wallpaper
 Terminal=false

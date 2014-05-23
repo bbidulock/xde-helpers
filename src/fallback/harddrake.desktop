@@ -132,6 +132,7 @@ GenericName[tr]=Donanım Yapılandırma Aracı
 GenericName[uk]=Інструмент налаштування обладнання
 GenericName[zh_CN]=硬件配置工具
 GenericName[zh_TW]=硬體設定工具
+TryExec=harddrake2
 Exec=harddrake2
 Icon=harddrake
 Type=Application

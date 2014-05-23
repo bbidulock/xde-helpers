@@ -110,6 +110,7 @@ Comment[vi]=Bật/tắt các bổ sung đã cài đặt
 Comment[zh_CN]=启用/禁用安装的插件
 Comment[zh_HK]=啟用/停用已安裝的外掛程式
 Comment[zh_TW]=啟用/停用已安裝的外掛程式
+TryExec=gswitchit-plugins-capplet
 Exec=gswitchit-plugins-capplet
 Icon=gnome-dev-keyboard
 Terminal=false

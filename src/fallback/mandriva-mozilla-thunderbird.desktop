@@ -3,6 +3,7 @@ Version=1.0
 Name=Mozilla Thunderbird
 GenericName=Mail/News
 Comment=Mail and News Client
+TryExec=mozilla-thunderbird
 Exec=mozilla-thunderbird
 Icon=mozilla-thunderbird
 Terminal=false

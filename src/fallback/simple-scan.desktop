@@ -77,6 +77,7 @@ Comment[ug]=ھۆججەتلەرنى سكەنلەش
 Comment[uk]=Сканувати документи
 Comment[zh_CN]=扫描文档
 Comment[zh_TW]=掃描文件
+TryExec=simple-scan
 Exec=simple-scan
 Icon=scanner
 Terminal=false

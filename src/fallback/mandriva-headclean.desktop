@@ -1,6 +1,7 @@
 [Desktop Entry]
 Name=Lexmark headclean
 Comment=Lexmark Lexmark 5xxx, 7xxx and 11xx Head Cleaner
+TryExec=headclean.sh
 Exec=headclean.sh
 Icon=printmgr
 Terminal=false

@@ -2,6 +2,7 @@
 Type=Application
 Encoding=UTF-8
 Name=BeanShell (text)
+TryExec=bsh
 Exec=bsh
 Terminal=true
 Categories=Programming;

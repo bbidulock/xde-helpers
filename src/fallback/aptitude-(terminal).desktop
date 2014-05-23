@@ -3,6 +3,7 @@ Type=Application
 Encoding=UTF-8
 Name=Aptitude (terminal)
 Comment=Terminal-based software package manager
+TryExec=aptitude-curses
 Exec=aptitude-curses
 Terminal=true
 Categories=System;Administration;

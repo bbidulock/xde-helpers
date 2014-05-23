@@ -51,4 +51,5 @@ Name[ur_PK]=ڈبین X ٹرمنل ایمولیٹر
 Name[zh_CN]=Debian X 终端模拟器
 Name[zh_TW]=Debian X 終端機模擬器
 StartupNotify=false
+TryExec=x-terminal-emulator
 Exec=x-terminal-emulator

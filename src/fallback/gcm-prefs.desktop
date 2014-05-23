@@ -63,6 +63,7 @@ Comment[sv]=Hantera ICC-färgprofiler
 Comment[ta]=ஐசிசி  நிற வரையுருக்களை மேலாளுக
 Comment[zh_CN]=管理 ICC 色彩配置文件
 Icon=gnome-color-manager
+TryExec=gcm-prefs
 Exec=gcm-prefs
 Terminal=false
 Type=Application

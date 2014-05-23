@@ -1,6 +1,7 @@
 [Desktop Entry]
 Name=Tightvnc
 Comment=Remote graphical access
+TryExec=vncviewer
 Exec=vncviewer
 Icon=tightvnc
 Terminal=true

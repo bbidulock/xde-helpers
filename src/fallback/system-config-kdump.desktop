@@ -44,6 +44,7 @@ Comment[zh_CN]=配置内核崩溃转储
 Comment[zh_TW]=配置 kernel 當機傾印
 Categories=System;Settings;
 Icon=system-config-kdump
+TryExec=system-config-kdump
 Exec=system-config-kdump
 Type=Application
 Terminal=false

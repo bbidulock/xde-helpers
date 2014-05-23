@@ -191,6 +191,7 @@ Comment[vi]=Xem thông tin thêm về GNOME
 Comment[zh_CN]=进一步了解 GNOME
 Comment[zh_HK]=獲取更多有關 GNOME 的資訊
 Comment[zh_TW]=獲取更多有關 GNOME 的資訊
+TryExec=gnome-about
 Exec=gnome-about
 Icon=gnome-logo-icon-transparent
 Terminal=false

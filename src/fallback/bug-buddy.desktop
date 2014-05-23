@@ -169,6 +169,7 @@ Comment[xh]=Nika ingxelo ngesiphene kwiinkqubo ezisekelwe kwi-GNOME
 Comment[zh_CN]=报告基于 GNOME 的应用程序中的错误
 Comment[zh_HK]=匯報有關 GNOME 程式的錯誤
 Comment[zh_TW]=匯報有關 GNOME 程式的錯誤
+TryExec=bug-buddy
 Exec=bug-buddy
 Icon=bug-buddy
 Terminal=false

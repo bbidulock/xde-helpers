@@ -3,6 +3,7 @@ Encoding=UTF-8
 Type=Application
 Name=Gtk Theme Switch 2
 Comment=A simple GTK2 theme switcher.
+TryExec=gtk-theme-switch2
 Exec=gtk-theme-switch2
 Icon=preferences-desktop-theme
 StartupNotify=true

@@ -52,5 +52,6 @@ Name[zh_CN]=Links 文本浏览器
 Name[zh_TW]=Links 文字瀏覽器
 StartupNotify=false
 Terminal=true
+TryExec=links
 Exec=links
 Categories=Network;WebBrowser;ConsoleOnly;

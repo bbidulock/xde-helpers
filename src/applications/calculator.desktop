@@ -4,6 +4,7 @@ Type=Application
 Name=FOX Calculator
 GenericName=Calculator
 Comment=A desktop calculator
+TryExec=calculator
 Exec=calculator
 Icon=calculator
 Terminal=false

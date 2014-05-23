@@ -3,6 +3,7 @@ Type=Application
 Encoding=UTF-8
 Name=Synaptic Package Manager
 Icon=/usr/share/synaptic/pixmaps/synaptic_32x32.xpm
+TryExec=su-to-root
 Exec=su-to-root -X -c /usr/sbin/synaptic
 Terminal=false
 Categories=PackageManager;Settings;

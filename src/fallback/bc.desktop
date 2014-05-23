@@ -2,6 +2,7 @@
 Type=Application
 Encoding=UTF-8
 Name=Bc
+TryExec=bc
 Exec=bc
 Terminal=true
 Categories=Science;Mathematics;

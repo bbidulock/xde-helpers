@@ -65,6 +65,7 @@ Comment[sr@Latn]=Izrada korisničkih sučelja
 Comment[sv]=Konstruera användargränssnitt
 Comment[vi]=Thiết kế giao diện người dùng.
 Comment[zh_TW]=設計使用者介面
+TryExec=glade-2
 Exec=glade-2 %F
 Terminal=false
 Type=Application

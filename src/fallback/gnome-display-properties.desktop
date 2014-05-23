@@ -144,6 +144,7 @@ Comment[zh_CN]=更改屏幕分辨率
 Comment[zh_HK]=更改螢幕解像度
 Comment[zh_TW]=變更螢幕解析度
 Comment[zu]=Shintsa isinqumo sobuso besiga-nyezi
+TryExec=gnome-display-properties
 Exec=gnome-display-properties
 Icon=gnome-display-properties
 Terminal=false

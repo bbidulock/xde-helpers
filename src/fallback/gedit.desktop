@@ -265,6 +265,7 @@ Comment[xh]=Hlela iifayili zombhalo
 Comment[zh_CN]=编辑文本文件
 Comment[zh_HK]=編輯文字檔
 Comment[zh_TW]=編輯文字檔
+TryExec=gedit
 Exec=gedit %U
 Terminal=false
 Type=Application

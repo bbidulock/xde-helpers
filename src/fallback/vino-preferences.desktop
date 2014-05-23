@@ -139,6 +139,7 @@ Comment[uk]=Оберіть спосіб віддаленого перегляд�
 Comment[zh_CN]=选择其他用户如何从远程查看您的桌面
 Comment[zh_HK]=選擇其他使用者要以何種方式遠端觀看你的桌面
 Comment[zh_TW]=選擇其他使用者要以何種方式遠端觀看您的桌面
+TryExec=vino-preferences
 Exec=vino-preferences
 Icon=preferences-desktop-remote-desktop
 Terminal=false

@@ -3,6 +3,7 @@ Type=Application
 Encoding=UTF-8
 Name=gmix (Gnome 2.0 Mixer)
 Icon=/usr/share/pixmaps/gnome-mixer.xpm
+TryExec=gnome-volume-control
 Exec=gnome-volume-control
 Terminal=false
 Categories=Sound;

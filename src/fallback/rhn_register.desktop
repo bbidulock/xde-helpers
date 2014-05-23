@@ -24,6 +24,7 @@ Name[zh_CN]=ULN 注册
 Name[zh_TW]=ULN 註冊
 GenericName=Register for software updates from Unbreakable Linux Network
 Comment=Register to Unbreakable Linux Network.
+TryExec=uln_register
 Exec=uln_register
 Icon=up2date
 Terminal=false

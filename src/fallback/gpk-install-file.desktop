@@ -128,6 +128,7 @@ Comment[zh_CN]=在系统中安装选定的软件
 Comment[zh_HK]=安裝選取的軟件到系統中
 Comment[zh_TW]=安裝選取的軟體到系統中
 Categories=System;X-Red-Hat-Base;X-Fedora;
+TryExec=gpk-install-local-file
 Exec=gpk-install-local-file %F
 Terminal=false
 Type=Application

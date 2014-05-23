@@ -4,6 +4,7 @@ Type=Application
 Name=ChBg
 Comment=Desktop wallpaper changer
 Comment[sk_SK]=Program na zmenu obrázkov na pozadí pracovnej plochy
+TryExec=chbg
 Exec=chbg
 Icon=chbg_64x64.xpm
 Terminal=false

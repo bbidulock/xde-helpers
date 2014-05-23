@@ -133,6 +133,7 @@ Comment[xh]=Lungisa uluhlu olukhethwayo lweseva yedatabase yeCD yakho
 Comment[zh_CN]=修改您的 CD 数据库服务器首选项
 Comment[zh_HK]=修改你的 CD 資料庫伺服器偏好設定
 Comment[zh_TW]=修改您的 CD 資料庫伺服器偏好設定
+TryExec=cddb-slave2-properties
 Exec=cddb-slave2-properties
 Icon=gnome-cd.png
 StartupNotify=true

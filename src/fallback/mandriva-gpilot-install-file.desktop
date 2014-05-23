@@ -1,6 +1,7 @@
 [Desktop Entry]
 Name=GNOME Pilot Install Databases
 Comment=Install Databases on your Palm Pilot
+TryExec=gpilot-install-file
 Exec=gpilot-install-file %U
 Icon=gnome-palm
 Terminal=false

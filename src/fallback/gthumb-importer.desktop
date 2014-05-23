@@ -135,6 +135,7 @@ Comment[zh_HK]=管理數碼相片和圖片
 Comment[zh_TW]=管理數位相片和圖片
 Categories=GNOME;GTK;Graphics;Viewer;RasterGraphics;2DGraphics;Photography;
 Encoding=UTF-8
+TryExec=gthumb-importer
 Exec=gthumb-importer %U
 Icon=gthumb
 MimeType=x-content/image-dcf;x-content/image-picturecd;

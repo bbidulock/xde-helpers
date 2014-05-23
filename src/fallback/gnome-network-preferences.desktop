@@ -132,6 +132,7 @@ Comment[xh]=Misela uluhlu lokukhetha lonxibelelwano lwekhompyutha esbenza njengo
 Comment[zh_CN]=设置您的网络代理首选项
 Comment[zh_HK]=設定代理伺服器
 Comment[zh_TW]=設定代理伺服器
+TryExec=gnome-network-preferences
 Exec=gnome-network-preferences
 Icon=stock_proxy
 Terminal=false

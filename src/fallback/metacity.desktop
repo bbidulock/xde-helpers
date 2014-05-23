@@ -3,6 +3,7 @@ Encoding=UTF-8
 Type=Application
 Name=Metacity
 Icon=metacity
+TryExec=metacity
 Exec=metacity
 Name[ar]=مِتسِتي
 Name[as]=Metacity

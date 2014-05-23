@@ -3,6 +3,7 @@ Type=Application
 Encoding=UTF-8
 Name=User accounts Admin
 Icon=/usr/share/gnome-system-tools/pixmaps/users.xpm
+TryExec=users-admin
 Exec=users-admin
 Terminal=false
 Categories=System;Administration;

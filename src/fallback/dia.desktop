@@ -83,6 +83,7 @@ Comment[zh_CN]=编辑您的图表
 Comment[zh_HK]=編輯你的圖表
 Comment[zh_TW]=編輯您的圖表
 Type=Application
+TryExec=dia
 Exec=dia %F
 Icon=dia
 Terminal=false

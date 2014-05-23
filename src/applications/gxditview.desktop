@@ -4,6 +4,7 @@ Type=Application
 Name=GXditview
 GenericName=Ditroff Viewer
 Comment=GNU ditroff file viewer for X
+TryExec=gxditview
 Exec=gxditview %f
 Icon=postscript-viewer
 Terminal=false

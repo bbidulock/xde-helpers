@@ -110,6 +110,7 @@ GenericName[uk]=Менеджер процесів
 GenericName[vi]=Quản lý tiến trình
 GenericName[zh_CN]=进程管理器
 GenericName[zh_TW]=工作管理員
+TryExec=lxtask
 Exec=lxtask
 Icon=utilities-system-monitor
 Terminal=false

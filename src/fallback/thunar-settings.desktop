@@ -88,6 +88,7 @@ Comment[uk]=Налаштувати файловий менеджер Thunar
 Comment[ur]=تھنر فائل منیجر مرتب کریں
 Comment[ur_PK]=تھنر فائل منیجر مرتب کریں
 Comment[zh_CN]=配置 Thunar 文件管理器
+TryExec=thunar-settings
 Exec=thunar-settings
 Icon=file-manager
 Terminal=false

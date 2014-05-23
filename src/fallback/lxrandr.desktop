@@ -9,6 +9,7 @@ Comment[zh_TW]=變更螢幕解析度以及設定外接顯示器
 Comment[fi]=Muuta näytön tarkkuutta ja aseta ulkoiset näytöt
 Comment[et]=Muuda ekraani eraldusvõimet ja seadista väliseid kuvareid
 Comment[ja]=解像度の変更と外部モニタの設定を行います
+TryExec=lxrandr
 Exec=lxrandr
 Encoding=UTF-8
 Type=Application

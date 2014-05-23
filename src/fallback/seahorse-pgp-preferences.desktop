@@ -117,6 +117,7 @@ Comment[uk]=Налаштовування сервера ключів та інш
 Comment[zh_CN]=配置密钥服务器和其他加密设置
 Comment[zh_HK]=配置密碼匙伺服器及加密設定
 Comment[zh_TW]=配置金鑰伺服器及加密設定
+TryExec=seahorse-preferences
 Exec=seahorse-preferences
 Terminal=false
 Type=Application

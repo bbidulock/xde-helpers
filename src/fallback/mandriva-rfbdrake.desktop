@@ -1,6 +1,7 @@
 [Desktop Entry]
 Name=Virtual Network Connection
 Comment=A remote frame buffer tool
+TryExec=rfbdrake
 Exec=rfbdrake
 Icon=rfbdrake
 Type=Application

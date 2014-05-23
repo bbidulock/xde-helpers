@@ -1,6 +1,7 @@
 [Desktop Entry]
 Name=SeaMonkey
 Comment=Web Browser
+TryExec=seamonkey
 Exec=seamonkey
 Icon=/usr/share/pixmaps/seamonkey-icon.png
 Terminal=0

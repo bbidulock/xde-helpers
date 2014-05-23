@@ -171,6 +171,7 @@ Comment[zh_CN]=选择默认的应用程序
 Comment[zh_HK]=選取預設使用的應用程式
 Comment[zh_TW]=選取預設使用的應用程式
 Comment[zu]=Khetha izithobo zakho ezinephutha
+TryExec=gnome-default-applications-properties
 Exec=gnome-default-applications-properties
 Icon=gnome-settings-default-applications
 Terminal=false

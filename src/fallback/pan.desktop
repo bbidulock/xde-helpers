@@ -79,6 +79,7 @@ Comment[uk]=Читання новин Usenet
 Comment[vi]=Đọc tin tức từ Usenet
 Comment[zh_CN]=阅读来自 Usenet 的新闻
 Comment[zh_TW]=從 Usenet 讀取新聞
+TryExec=pan
 Exec=pan 
 Icon=pan
 Terminal=false

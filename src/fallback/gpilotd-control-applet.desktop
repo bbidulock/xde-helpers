@@ -102,6 +102,7 @@ Comment[xh]=Misela izixhobo ze-PalmOS
 Comment[zh_CN]=配置 PalmOS 设备
 Comment[zh_HK]=設定 PalmOS 裝置
 Comment[zh_TW]=設定 PalmOS 裝置
+TryExec=gpilotd-control-applet
 Exec=gpilotd-control-applet
 Icon=pda
 Terminal=false

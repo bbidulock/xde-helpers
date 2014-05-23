@@ -2,6 +2,7 @@
 Name=AllTray
 GenericName=AllTray
 Comment=Dock everything
+TryExec=alltray
 Exec=alltray
 Icon=alltray.png
 Terminal=false

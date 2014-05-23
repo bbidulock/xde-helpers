@@ -129,6 +129,7 @@ Comment[vi]=Chọn tính năng khả năng truy cập cần dùng khi đăng nh�
 Comment[zh_CN]=选择您登录时想要启用的辅助特性
 Comment[zh_HK]=選擇當你登入時要啟用哪個無障礙功能
 Comment[zh_TW]=選擇當您登入時要啟用哪個無障礙功能
+TryExec=gnome-at-properties
 Exec=gnome-at-properties
 Icon=preferences-desktop-accessibility
 Terminal=false

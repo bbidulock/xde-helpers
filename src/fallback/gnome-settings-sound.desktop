@@ -151,6 +151,7 @@ Comment[zh_CN]=启用窗口管理器的事件音效
 Comment[zh_HK]=啟用音效並將音效及不同的事件建立聯繫
 Comment[zh_TW]=啟用音效並將音效及不同的事件建構連繫
 Comment[zu]=Nika amandla umsindo futhi ujwayeze imisindo nemicimbi
+TryExec=gnome-sound-properties
 Exec=gnome-sound-properties
 Icon=gnome-settings-sound
 Terminal=false

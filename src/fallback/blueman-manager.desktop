@@ -75,6 +75,7 @@ Comment[vi]=Blueman - Trình quản lý Bluetooth
 Comment[zh_CN]=Blueman蓝牙管理器
 Comment[zh_TW]=Blueman 藍牙裝置管理軟體
 Icon=blueman
+TryExec=blueman-manager
 Exec=blueman-manager
 Terminal=false
 Type=Application

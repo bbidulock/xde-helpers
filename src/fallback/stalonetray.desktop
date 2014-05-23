@@ -2,6 +2,7 @@
 Type=Application
 Encoding=UTF-8
 Name=stalonetray
+TryExec=stalonetray
 Exec=stalonetray
 Terminal=false
 Categories=System;Administration;

@@ -147,6 +147,7 @@ Comment[zh_CN]=查看及管理图像
 Comment[zh_HK]=管理數碼相片和圖片
 Comment[zh_TW]=管理數位相片和圖片
 Categories=GNOME;GTK;Graphics;Viewer;RasterGraphics;2DGraphics;Photography;
+TryExec=gthumb
 Exec=gthumb %U
 Icon=gthumb
 MimeType=image/bmp;image/jpeg;image/gif;image/png;image/tiff;image/x-bmp;image/x-ico;image/x-png;image/x-pcx;image/x-tga;image/xpm;image/svg+xml;

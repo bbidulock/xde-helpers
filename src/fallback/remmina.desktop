@@ -43,6 +43,7 @@ Comment[sv]=Anslut till fjärrskrivbord
 Comment[tr]=Uzak masaüstlerine bağlan
 Comment[uk]=З'єднання з відаленим комп'ютером
 Comment[zh_CN]=连接到远程桌面
+TryExec=remmina
 Exec=remmina
 Icon=remmina
 Terminal=false

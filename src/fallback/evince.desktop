@@ -148,6 +148,7 @@ Comment[vi]=Xem tài liệu nhiều trang
 Comment[zh_CN]=查看多页文档
 Comment[zh_HK]=顯示多頁文件
 Comment[zh_TW]=顯示多頁文件
+TryExec=evince
 Exec=evince %U
 StartupNotify=true
 Terminal=false

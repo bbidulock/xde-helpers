@@ -63,6 +63,7 @@ Name[wo]=Gnome Robots
 Name[zh_CN]=Gnome Robots
 Name[zh_TW]=Gnome Robots
 Icon=/usr/share/pixmaps/gnobots2.xpm
+TryExec=gnobots2
 Exec=gnobots2
 Terminal=false
 Categories=X-Debian-Games-Puzzles;

@@ -140,6 +140,7 @@ GenericName[uk]=Текстовий редактор
 GenericName[ur]=ٹیکسٹ ایڈیٹر
 GenericName[zh_CN]=文字编辑器
 GenericName[zh_TW]=文字編輯器
+TryExec=mousepad
 Exec=mousepad %f
 Icon=mousepad
 StartupNotify=true

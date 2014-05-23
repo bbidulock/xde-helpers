@@ -4,6 +4,7 @@ Type=Application
 Name=ASClock
 GenericName=Clock
 Comment=The AfterStep clock dock app
+TryExec=asclock
 Exec=asclock -d -t shaped
 Icon=GNUstep3D
 Terminal=false

@@ -4,5 +4,6 @@ Type=Application
 Version=1.0
 Name=aafire
 Comment=ASCII art library demonstration program
+TryExec=aafire
 Exec=aafire
 Categories=Game;

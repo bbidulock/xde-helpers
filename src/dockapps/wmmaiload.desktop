@@ -4,6 +4,7 @@ Type=Application
 Name=WMMaiLoad
 GenericName=E-Mail Monitor
 Comment=A dock app that monitors your incoming mails
+TryExec=wmmaiload
 Exec=wmmaiload
 Icon=GNUstep3D
 Terminal=false

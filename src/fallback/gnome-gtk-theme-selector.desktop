@@ -145,6 +145,7 @@ Comment[zh_CN]=选择桌面的不同部分的主题
 Comment[zh_HK]=選取佈景主題，供桌面不同的部份使用
 Comment[zh_TW]=選取佈景主題，供桌面不同的部份使用
 Comment[zu]=Khetha indikima zamalungu ahlukile esiga-nyezi
+TryExec=gnome-theme-manager
 Exec=gnome-theme-manager
 Icon=gnome-settings-theme
 Terminal=false

@@ -181,6 +181,7 @@ Comment[vi]=Duyệt web
 Comment[wa]=Naivyî so les pådjes waibe
 Comment[zh_CN]=浏览 Web
 Comment[zh_TW]=瀏覽網頁
+TryExec=chromium-browser
 Exec=chromium-browser %u
 Icon=chromium-browser
 Terminal=false

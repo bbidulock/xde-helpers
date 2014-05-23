@@ -94,6 +94,7 @@ Comment[uk]=Керування обліковими записами повід�
 Comment[zh_CN]=管理消息和 VoIP 帐户
 Comment[zh_HK]=管理訊息與 VoIP 帳號
 Comment[zh_TW]=管理訊息與 VoIP 帳號
+TryExec=empathy-accounts
 Exec=empathy-accounts
 Icon=empathy
 StartupNotify=true

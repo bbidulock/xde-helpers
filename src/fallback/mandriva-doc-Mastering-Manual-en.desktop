@@ -1,6 +1,7 @@
 [Desktop Entry]
 Name=Mandriva Linux Starter Guide in English
 Comment=The Mandriva Linux manuals in English
+TryExec=www-browser
 Exec=www-browser /usr/share/doc/mandriva/en/Mastering-Manual/index.html
 Icon=documentation_section
 Terminal=false

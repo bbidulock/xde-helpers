@@ -2,6 +2,7 @@
 Type=Application
 Encoding=UTF-8
 Name=TeXconfig
+TryExec=texconfig
 Exec=texconfig
 Terminal=true
 Categories=System;Administration;

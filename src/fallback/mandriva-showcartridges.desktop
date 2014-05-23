@@ -1,6 +1,7 @@
 [Desktop Entry]
 Name=Lexmark showcartridges
 Comment=Lexmark Lexmark 5xxx, 7xxx and 11xx Cartridges Viewer
+TryExec=showcartridges.sh
 Exec=showcartridges.sh
 Icon=printmgr
 Terminal=false

@@ -63,6 +63,7 @@ Name[wo]=Gnome Lines
 Name[zh_CN]=Gnome Lines
 Name[zh_TW]=Gnome Lines
 Icon=/usr/share/pixmaps/glines.xpm
+TryExec=glines
 Exec=glines
 Terminal=false
 Categories=X-Debian-Games-Board;

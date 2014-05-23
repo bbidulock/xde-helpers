@@ -1,6 +1,7 @@
 [Desktop Entry]
 Name=NetApplet
 Comment=Network monitoring applet
+TryExec=net_applet
 Exec=net_applet --force
 Icon=/usr/share/libDrakX/pixmaps/connected.png
 Type=Application

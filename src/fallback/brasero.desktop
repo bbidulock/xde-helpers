@@ -185,6 +185,7 @@ Comment[zh_HK]=建立與複製 CD 和 DVD
 Comment[zh_TW]=建立與複製 CD 和 DVD
 Categories=GNOME;AudioVideo;DiscBurning;Core;Utility;
 MimeType=application/x-cd-image;application/x-cdrdao-toc;application/x-cue;application/x-toc;audio/x-scpls;audio/x-ms-asx;audio/x-mp3-playlist;audio/x-mpegurl;application/x-brasero;x-content/audio-cdda;x-content/video-dvd;x-content/video-vcd;x-content/video-svcd;x-content/image-picturecd;
+TryExec=brasero
 Exec=brasero %U
 Icon=brasero
 StartupNotify=true

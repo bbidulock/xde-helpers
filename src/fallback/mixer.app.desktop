@@ -2,6 +2,7 @@
 Type=Application
 Encoding=UTF-8
 Name=Mixer.app
+TryExec=Mixer.app
 Exec=Mixer.app
 Terminal=false
 Categories=Audio;

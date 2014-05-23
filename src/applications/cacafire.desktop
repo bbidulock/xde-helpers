@@ -4,5 +4,6 @@ Type=Application
 Version=1.0
 Name=cacafire
 Comment=ASCII art library demonstration program
+TryExec=cacafire
 Exec=cacafire
 Categories=Game;

@@ -62,6 +62,7 @@ Name[vi]=wmtictactoe
 Name[wo]=wmtictactoe
 Name[zh_CN]=wmtictactoe
 Name[zh_TW]=wmtictactoe
+TryExec=wmtictactoe
 Exec=wmtictactoe -q
 Terminal=false
 Categories=X-Debian-Games-Toys;

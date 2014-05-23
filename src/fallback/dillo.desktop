@@ -4,5 +4,6 @@ Icon=networking_www_section
 Type=Application
 Name=Dillo
 StartupNotify=true
+TryExec=dillo
 Exec=dillo %u
 Category=Network;WebBrowser;

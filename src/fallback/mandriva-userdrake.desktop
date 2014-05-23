@@ -1,6 +1,7 @@
 [Desktop Entry]
 Name=User Administration
 Comment=Add or remove users and groups
+TryExec=userdrake
 Exec=userdrake
 Icon=userdrake
 Type=Application

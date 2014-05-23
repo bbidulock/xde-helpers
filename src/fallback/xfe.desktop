@@ -4,5 +4,6 @@ Icon=xfe
 Type=Application
 Name=Xfe File Manager
 StartupNotify=true
+TryExec=xfe
 Exec=xfe %u
 Categories=FileManager;

@@ -4,6 +4,7 @@ Terminal=false
 Icon=openofficeorg3-base
 Type=Application
 Categories=Office;
+TryExec=ooffice
 Exec=ooffice -base %U
 MimeType=application/vnd.oasis.opendocument.database;application/vnd.sun.xml.base;
 Name=OpenOffice.org Base

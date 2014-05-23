@@ -4,6 +4,7 @@ Type=Application
 Name=HP Device Manager
 GenericName=HP Device Manager
 Comment=View device status, ink levels and perform maintenance.
+TryExec=/usr/share/hplip/toolbox
 Exec=/usr/share/hplip/toolbox
 Icon=/usr/share/hplip/data/images/HPmenu.png
 Terminal=false

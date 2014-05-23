@@ -2,6 +2,7 @@
 Type=Application
 Encoding=UTF-8
 Name=Free I.C.S.
+TryExec=xboard
 Exec=xboard -ics -icshost freechess.org
 Icon=xboard
 Terminal=true

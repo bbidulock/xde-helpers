@@ -150,6 +150,7 @@ Comment[zh_CN]=设置键盘的辅助功能
 Comment[zh_HK]=修改無障礙鍵盤功能設定
 Comment[zh_TW]=修改無障礙鍵盤功能設定
 Comment[zu]=Hlela indawo yakho yokubhala ngezimvume ezithandekayo
+TryExec=gnome-accessibility-keyboard-properties
 Exec=gnome-accessibility-keyboard-properties
 Icon=gnome-settings-accessibility-keyboard
 Terminal=false

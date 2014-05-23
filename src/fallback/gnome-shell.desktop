@@ -2,6 +2,7 @@
 Type=Application
 Name=GNOME Shell
 Comment=Window management and application launching
+TryExec=gnome-shell
 Exec=gnome-shell
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=gnome-shell

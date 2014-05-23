@@ -25,6 +25,7 @@ dist_appl_DATA = \
 	src/applications/compton-fluxbox.desktop \
 	src/applications/conky.desktop \
 	src/applications/ControlPanel.desktop \
+	src/applications/defaults.list \
 	src/applications/dhcpcd-gtk.desktop \
 	src/applications/docker.desktop \
 	src/applications/editres.desktop \
@@ -55,6 +56,7 @@ dist_appl_DATA = \
 	src/applications/lxpanel.desktop \
 	src/applications/menutray.desktop \
 	src/applications/metacity.desktop \
+	src/applications/mimeinfo.cache \
 	src/applications/nm-applet.desktop \
 	src/applications/notification-properties.desktop \
 	src/applications/obxprop.desktop \
@@ -351,6 +353,7 @@ dist_dock_DATA = \
 	src/dockapps/wmcore.desktop \
 	src/dockapps/wmcpu.desktop \
 	src/dockapps/wmcpuload.desktop \
+	src/dockapps/wmcpumon.desktop \
 	src/dockapps/wmdate.desktop \
 	src/dockapps/wmdiskmon.desktop \
 	src/dockapps/wmfire.desktop \
@@ -458,7 +461,9 @@ dist_back_DATA = \
 	src/fallback/dasher-text-entry.desktop \
 	src/fallback/dc.desktop \
 	src/fallback/debian-floaters.desktop \
+	src/fallback/debian-sensible-browser.desktop \
 	src/fallback/debian-task-selector.desktop \
+	src/fallback/debian-x-terminal-emulator.desktop \
 	src/fallback/deco.desktop \
 	src/fallback/default-applications.desktop \
 	src/fallback/default.desktop \
@@ -468,6 +473,7 @@ dist_back_DATA = \
 	src/fallback/desktop-effects.desktop \
 	src/fallback/dia.desktop \
 	src/fallback/diakonos.desktop \
+	src/fallback/dillo.desktop \
 	src/fallback/disable-xscreensaver.desktop \
 	src/fallback/display.desktop \
 	src/fallback/display-properties.desktop \
@@ -479,6 +485,7 @@ dist_back_DATA = \
 	src/fallback/draw.desktop \
 	src/fallback/eboard.desktop \
 	src/fallback/eclipse.desktop \
+	src/fallback/edit.log \
 	src/fallback/eekboard.desktop \
 	src/fallback/ekiga.desktop \
 	src/fallback/elvis.desktop \
@@ -739,12 +746,14 @@ dist_back_DATA = \
 	src/fallback/libreoffice-writer.desktop \
 	src/fallback/liferea.desktop \
 	src/fallback/lightsoff.desktop \
+	src/fallback/links.desktop \
 	src/fallback/lock-screen-(xscreensaver).desktop \
 	src/fallback/lxappearance.desktop \
 	src/fallback/lxde-logout.desktop \
 	src/fallback/lxrandr.desktop \
 	src/fallback/lxtask.desktop \
 	src/fallback/lxterminal.desktop \
+	src/fallback/lynx.desktop \
 	src/fallback/m6502.desktop \
 	src/fallback/mageia-drakconf.desktop \
 	src/fallback/mageia-grip.desktop \
@@ -787,7 +796,10 @@ dist_back_DATA = \
 	src/fallback/mcedit.desktop \
 	src/fallback/metaballs.desktop \
 	src/fallback/metacity.desktop \
+	src/fallback/midori.desktop \
+	src/fallback/mimeinfo.cache \
 	src/fallback/mined.desktop \
+	src/fallback/missfont.log \
 	src/fallback/mixer.app.desktop \
 	src/fallback/mlterm.desktop \
 	src/fallback/mount-archive.desktop \
@@ -839,6 +851,7 @@ dist_back_DATA = \
 	src/fallback/openoffice.org-startcenter.desktop \
 	src/fallback/openoffice.org-writer.desktop \
 	src/fallback/openshot.desktop \
+	src/fallback/opera-browser.desktop \
 	src/fallback/orca.desktop \
 	src/fallback/palimpsest.desktop \
 	src/fallback/pan.desktop \
@@ -1054,6 +1067,7 @@ dist_back_DATA = \
 	src/fallback/xev.desktop \
 	src/fallback/xfburn.desktop \
 	src/fallback/xfcalendar.desktop \
+	src/fallback/xfe.desktop \
 	src/fallback/xfishtank.desktop \
 	src/fallback/xfprint.desktop \
 	src/fallback/xfprint-manager.desktop \

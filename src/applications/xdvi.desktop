@@ -2,6 +2,7 @@
 Encoding=UTF-8
 Type=Application
 Name=XDvi
+TryExec=xdvi
 Exec=xdvi %f
 Icon=xdvi
 Terminal=false

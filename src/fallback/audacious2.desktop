@@ -33,6 +33,7 @@ Icon=audacious
 
 Categories=AudioVideo;Audio;Player;GTK;
 
+TryExec=audacious2
 Exec=audacious2 %U
 Terminal=false
 StartupNotify=true

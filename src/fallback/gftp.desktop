@@ -4,6 +4,7 @@ Name=gFTP
 Comment=Download and upload files using multiple file transfer protocols
 Comment[fr]=Télécharge des fichiers en utilisant le protocole FTP
 GenericName=gFTP
+TryExec=gftp
 Exec=gftp %u
 Terminal=false
 X-MultipleArgs=false

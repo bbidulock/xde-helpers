@@ -151,6 +151,7 @@ GenericName[xh]=Umdlalo we Chess
 GenericName[zh_CN]=国际象棋游戏
 GenericName[zh_TW]=棋類遊戲
 GenericName[zu]=Umdlalo we-Chess
+TryExec=xboard
 Exec=xboard -ics
 Icon=xboard
 Terminal=true

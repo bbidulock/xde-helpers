@@ -96,6 +96,7 @@ Comment[tr]=Kurulu & kurulabilir paketleri incelemek için bir grafik ön yüz
 Comment[uk]=Графічний інтерфейс для перегляду встановлених і доступних пакунків
 Comment[zh_CN]=浏览已安装和可安装软件的图形化工具
 Comment[zh_TW]=檢視已安裝及可用的套件
+TryExec=rpmdrake
 Exec=rpmdrake
 Terminal=false
 Type=Application

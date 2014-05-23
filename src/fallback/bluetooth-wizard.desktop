@@ -98,6 +98,7 @@ Comment[zh_CN]=蓝牙设备
 Comment[zh_HK]=設置藍牙裝置
 Comment[zh_TW]=設置藍牙裝置
 Icon=bluetooth
+TryExec=bluetooth-wizard
 Exec=bluetooth-wizard
 Terminal=false
 Type=Application

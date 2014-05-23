@@ -1,6 +1,7 @@
 [Desktop Entry]
 Name=Chainsaw
 Comment=Log4j log viewer
+TryExec=chainsaw
 Exec=chainsaw
 Icon=chainsaw.png
 Terminal=false

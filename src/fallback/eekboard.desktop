@@ -2,6 +2,7 @@
 Name=Eekboard
 GenericName=Eekboard Virtual Keyboard
 Comment=Virtual Keyboard
+TryExec=eekboard
 Exec=eekboard
 Icon=eekboard
 Terminal=false

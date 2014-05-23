@@ -2,6 +2,7 @@
 Type=Application
 Encoding=UTF-8
 Name=w3m
+TryExec=w3m
 Exec=w3m /usr/share/doc/w3m/MANUAL.html
 Terminal=true
 Categories=Network;WebBrowser;

@@ -3,6 +3,7 @@ Type=Application
 Encoding=UTF-8
 Name=Xmcd
 Icon=/usr/share/xmcd/pixmaps/xmcd_small.xpm
+TryExec=xmcd
 Exec=xmcd
 Terminal=false
 Categories=Audio;

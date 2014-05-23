@@ -4,6 +4,7 @@ Encoding=UTF-8
 Name=File-Roller
 Comment=File-Roller: GNOME archiver
 Icon=/usr/share/pixmaps/file-roller.xpm
+TryExec=file-roller
 Exec=file-roller
 Terminal=false
 Categories=Utility;Archiving;

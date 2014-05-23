@@ -3,6 +3,7 @@ Type=Application
 Encoding=UTF-8
 Name=Services Admin
 Icon=/usr/share/gnome-system-tools/pixmaps/services.xpm
+TryExec=services-admin
 Exec=services-admin
 Terminal=false
 Categories=System;Administration;

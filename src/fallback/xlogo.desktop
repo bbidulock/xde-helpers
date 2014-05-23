@@ -123,6 +123,7 @@ Comment[vi]=Xlogo: demo which displays the X logo
 Comment[wo]=Xlogo: demo which displays the X logo
 Comment[zh_CN]=Xlogo: demo which displays the X logo
 Comment[zh_TW]=Xlogo: demo which displays the X logo
+TryExec=xlogo
 Exec=xlogo
 Terminal=false
 Categories=X-Debian-Games-Toys;

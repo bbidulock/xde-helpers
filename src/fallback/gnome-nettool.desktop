@@ -150,6 +150,7 @@ Comment[vi]=Xem thông tin về mạng của bạn
 Comment[zh_CN]=查看您的网络的信息
 Comment[zh_HK]=檢視你網絡的資訊
 Comment[zh_TW]=檢視您網路的資訊
+TryExec=gnome-nettool
 Exec=gnome-nettool
 Icon=gnome-nettool
 Terminal=false

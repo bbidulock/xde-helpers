@@ -163,6 +163,7 @@ Comment[zh_CN]=设定您的屏幕保护程序首选项
 Comment[zh_HK]=設定螢幕保護程式
 Comment[zh_TW]=設定螢幕保護程式
 Icon=preferences-desktop-screensaver
+TryExec=gnome-screensaver-preferences
 Exec=gnome-screensaver-preferences
 Terminal=false
 Type=Application

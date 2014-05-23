@@ -42,6 +42,7 @@ Comment[sk]=Nastaviť oprávnenia
 Comment[sv]=Konfigurera behörigheter
 Comment[zh_CN]=配置授权
 Icon=gtk-dialog-authentication
+TryExec=polkit-gnome-authorization
 Exec=polkit-gnome-authorization
 Terminal=false
 Type=Application

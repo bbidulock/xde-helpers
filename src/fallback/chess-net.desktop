@@ -2,6 +2,7 @@
 Type=Application
 Encoding=UTF-8
 Name=Chess Net
+TryExec=xboard
 Exec=xboard -ics -icshost chess.net
 Icon=xboard
 Terminal=true

@@ -63,6 +63,7 @@ Name[wo]=Gnome Klotski
 Name[zh_CN]=Gnome Klotski
 Name[zh_TW]=Gnome Klotski
 Icon=/usr/share/pixmaps/gnotski.xpm
+TryExec=gnotski
 Exec=gnotski
 Terminal=false
 Categories=X-Debian-Games-Puzzles;

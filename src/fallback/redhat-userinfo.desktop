@@ -124,6 +124,7 @@ Comment[uk]=Зміна персональної інформації
 Comment[vi]=Đổi thông tin cá nhân
 Comment[zh_CN]=改变个人信息。
 Comment[zh_TW]=更改個人資訊
+TryExec=userinfo
 Exec=userinfo
 Terminal=false
 Type=Application

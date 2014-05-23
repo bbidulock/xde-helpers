@@ -51,5 +51,6 @@ Name[ur_PK]=اوپرا براؤزر
 Name[zh_CN]=Opera 浏览器
 Name[zh_TW]=Opera 瀏覽器
 StartupNotify=false
+TryExec=opera
 Exec=opera %u
 Categories=Network;WebBrowser;

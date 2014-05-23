@@ -131,6 +131,7 @@ Comment[zh_CN]=修改系统日期或时间
 Comment[zh_TW]=更改系統的日期與時間
 Categories=System;Settings;X-Red-Hat-Base;
 Icon=system-config-date
+TryExec=system-config-date
 Exec=system-config-date
 Type=Application
 Terminal=false

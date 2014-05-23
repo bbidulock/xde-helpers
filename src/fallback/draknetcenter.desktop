@@ -38,6 +38,7 @@ Name[uz@cyrillic]=Тармоқ маркази
 Name[wa]=Cinte rantoele
 Name[zh_CN]=网络中心
 Name[zh_TW]=網路中心
+TryExec=draknetcenter
 Exec=draknetcenter
 Icon=/usr/share/mcc/themes/default/netcenter.png
 Type=Application

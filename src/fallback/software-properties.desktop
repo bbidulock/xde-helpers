@@ -93,6 +93,7 @@ Comment[th]=ปรับแต่งแหล่งสำหรับซอฟ�
 Comment[tr]=Kurulabilir yazılım ve güncellemeler için kaynakları yapılandır
 Comment[zh_CN]=设定可安装和升级的源
 Comment[zh_TW]=設置可安裝的軟體及更新部份之來源。
+TryExec=su-to-root
 Exec=su-to-root -X -c /usr/bin/software-properties-gtk
 Icon=software-properties
 Terminal=false

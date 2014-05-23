@@ -2,6 +2,7 @@
 Type=Application
 Encoding=UTF-8
 Name=WMppp
+TryExec=wmppp
 Exec=wmppp
 Terminal=false
 Categories=DockApp;WMAKER;

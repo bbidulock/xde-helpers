@@ -5,6 +5,7 @@ Name=mc
 Comment=Midnight Commander
 Comment[zh_TW]=Midnight Commander
 Icon=/usr/share/pixmaps/mc.xpm
+TryExec=mc
 Exec=mc
 Terminal=true
 Categories=FileManager;System;FileTools;

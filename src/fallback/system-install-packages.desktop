@@ -130,6 +130,7 @@ Comment[uk]=Встановити вибрані програми у систем
 Comment[zh_CN]=在系统安装已选择的软件包
 Comment[zh_TW]=在系統上安裝選取的軟體
 Categories=Application;System;X-Red-Hat-Base;X-Fedora;
+TryExec=system-install-packages
 Exec=system-install-packages %F
 Terminal=false
 Type=Application

@@ -142,6 +142,7 @@ Comment[xh]=Dlala ii-CD ezinesandi
 Comment[zh_CN]=播放音频 CD
 Comment[zh_HK]=播放音樂 CD
 Comment[zh_TW]=播放音樂 CD
+TryExec=gnome-cd
 Exec=gnome-cd
 Icon=gnome-cd.png
 StartupNotify=true

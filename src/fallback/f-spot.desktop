@@ -206,6 +206,7 @@ Comment[te]=నిర్వహించు, ఆనందించు, మరి�
 Comment[uk]=Організація, перегляд та передача фотографій
 Comment[vi]=Tổ chức, thích thú và chia ra các ảnh chụp của bạn
 Comment[zh_CN]=组织、欣赏及共享您的照片
+TryExec=f-spot
 Exec=f-spot
 Icon=f-spot
 StartupNotify=true

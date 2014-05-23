@@ -1,6 +1,7 @@
 [Desktop Entry]
 Name=XTerm
 Comment=The standard terminal emulator for the X Window System
+TryExec=xterm
 Exec=xterm -name Terminal
 Icon=xterm-terminal
 Terminal=false

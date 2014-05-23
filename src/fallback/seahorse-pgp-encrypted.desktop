@@ -62,6 +62,7 @@ Name[zh_CN]=解密文件
 Name[zh_HK]=解密檔案
 Name[zh_TW]=解密檔案
 MimeType=application/pgp-encrypted;
+TryExec=seahorse-tool
 Exec=seahorse-tool --decrypt
 Type=Application
 Terminal=false

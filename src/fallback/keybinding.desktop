@@ -174,6 +174,7 @@ Comment[zh_CN]=为命令指定快捷键
 Comment[zh_HK]=為不同的指令分配捷徑鍵
 Comment[zh_TW]=為不同的指令分配捷徑鍵
 Comment[zu]=Nikela iinkinombho kwimilayezo
+TryExec=gnome-keybinding-properties
 Exec=gnome-keybinding-properties
 Icon=preferences-desktop-keyboard-shortcuts
 Terminal=false

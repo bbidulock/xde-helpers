@@ -84,6 +84,7 @@ Comment[ur]=ڈیسک ٹاپ کیلینڈر
 Comment[vi]=Lịch màn hình
 Comment[zh_CN]=桌面日历
 Comment[zh_TW]=桌面月曆
+TryExec=orage
 Exec=orage
 Icon=xfcalendar
 StartupNotify=true

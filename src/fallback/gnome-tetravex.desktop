@@ -63,6 +63,7 @@ Name[wo]=Gnome Tetravex
 Name[zh_CN]=Gnome Tetravex
 Name[zh_TW]=Gnome Tetravex
 Icon=/usr/share/pixmaps/gnotravex.xpm
+TryExec=gnotravex
 Exec=gnotravex
 Terminal=false
 Categories=X-Debian-Games-Puzzles;

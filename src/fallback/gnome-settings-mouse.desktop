@@ -175,6 +175,7 @@ Comment[zh_CN]=设置鼠标首选项
 Comment[zh_HK]=修改滑鼠偏好設定
 Comment[zh_TW]=修改滑鼠偏好設定
 Comment[zu]=Hlela okuthandekayo kwesingoso
+TryExec=gnome-mouse-properties
 Exec=gnome-mouse-properties
 Icon=input-mouse
 Terminal=false

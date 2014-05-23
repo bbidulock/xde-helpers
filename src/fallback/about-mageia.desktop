@@ -2,6 +2,7 @@
 Name=About Mageia
 Comment=More about Mageia
 Icon=mageia
+TryExec=about-mageia
 Exec=about-mageia
 Type=Application
 Categories=Documentation;System;

@@ -140,6 +140,7 @@ Comment[vi]=Cài đặt sắc thái cho các phần khác nhau của giao diện
 Comment[zh_CN]=为桌面的各部分安装主题包
 Comment[zh_HK]=安裝佈景主題套件供桌面不同的部份使用
 Comment[zh_TW]=安裝佈景主題套件供桌面不同的部份使用
+TryExec=gnome-appearance-properties
 Exec=gnome-appearance-properties -i %u
 Icon=preferences-desktop-theme
 Terminal=false

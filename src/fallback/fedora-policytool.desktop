@@ -2,6 +2,7 @@
 [Desktop Entry]
 Name=OpenJDK Policy Tool
 Comment=Manage OpenJDK policy files
+TryExec=policytool
 Exec=policytool
 Icon=java
 Terminal=false

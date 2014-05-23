@@ -173,6 +173,7 @@ Comment[zh_CN]=设置系统启动时所要运行的服务程序
 Comment[zh_TW]=設定當系統啟動時，要執行哪些服務
 StartupNotify=true
 Icon=system-config-services.png
+TryExec=system-config-services
 Exec=system-config-services
 Type=Application
 Terminal=false

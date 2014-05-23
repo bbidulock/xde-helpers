@@ -62,6 +62,7 @@ Name[vi]=Activate ScreenSaver (Next)
 Name[wo]=Activate ScreenSaver (Next)
 Name[zh_CN]=Activate ScreenSaver (Next)
 Name[zh_TW]=Activate ScreenSaver (Next)
+TryExec=xscreensaver-command
 Exec=xscreensaver-command -next
 Terminal=false
 Categories=X-Debian-Screen-Saving;

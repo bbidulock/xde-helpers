@@ -86,6 +86,7 @@ Comment[te]=అనువర్తనము క్రాషెస్‌ను ద
 Comment[uk]=Переглянути збої програми та створити звіт
 Comment[zh_CN]=查看并报告应用程序崩溃
 Comment[zh_TW]=檢視與回報應用程式錯誤
+TryExec=abrt-gui
 Exec=abrt-gui
 Icon=abrt
 Terminal=false

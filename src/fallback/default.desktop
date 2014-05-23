@@ -2,6 +2,7 @@
 Type=Application
 Encoding=UTF-8
 Name=Default
+TryExec=xboard
 Exec=xboard -ics
 Icon=xboard
 Terminal=true

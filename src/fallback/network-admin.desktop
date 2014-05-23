@@ -3,6 +3,7 @@ Type=Application
 Encoding=UTF-8
 Name=Network Admin
 Icon=/usr/share/gnome-system-tools/pixmaps/network.xpm
+TryExec=network-admin
 Exec=network-admin
 Terminal=false
 Categories=System;Administration;

@@ -57,6 +57,7 @@ Name[zh_HK]=服務包製作程式
 Name[zh_TW]=服務包製作程式
 Comment=Create service packs for sharing with other computers
 Icon=gpk-service-pack
+TryExec=gpk-service-pack
 Exec=gpk-service-pack
 Terminal=false
 Type=Application

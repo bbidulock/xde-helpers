@@ -2,6 +2,7 @@
 [Desktop Entry]
 Version=1.0
 Encoding=UTF-8
+TryExec=notification-settings
 Exec=notification-settings
 Icon=notification-settings
 Type=Application

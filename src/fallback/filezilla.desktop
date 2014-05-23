@@ -7,6 +7,7 @@ GenericName[fr]=Client FTP
 Comment=Download and upload files via FTP, FTPS and SFTP
 Comment[de]=Dateien über FTP, FTPS und SFTP übertragen
 Comment[fr]=Transférer des fichiers via FTP, FTPS et SFTP
+TryExec=filezilla
 Exec=filezilla
 Terminal=false
 Icon=filezilla

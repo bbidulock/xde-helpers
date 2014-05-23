@@ -107,6 +107,7 @@ Comment[uk]=Параметри спільного доступу до файлі
 Comment[zh_CN]=文件共享选项
 Comment[zh_HK]=用於分享個人檔案的偏好設定
 Comment[zh_TW]=共享個人檔案的偏好設定
+TryExec=gnome-file-share-properties
 Exec=gnome-file-share-properties
 Icon=folder-remote
 StartupNotify=true

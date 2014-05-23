@@ -196,6 +196,7 @@ GenericName[vi]=Bộ ghi chú
 GenericName[zh_CN]=记事本
 GenericName[zh_HK]=筆記軟件
 GenericName[zh_TW]=筆記軟體
+TryExec=tomboy
 Exec=tomboy --search
 Icon=tomboy
 StartupNotify=true

@@ -11,6 +11,7 @@ Comment[de]=Konfiguriert den Openbox Window Manager
 Comment[es]=Configura i personaliza el gestor de ventanas Openbox
 Comment[zh_TW]=管理 Openbox 組態設定
 Icon=obconf
+TryExec=obconf
 Exec=obconf %f
 Categories=Settings;DesktopSettings;GTK;
 MimeType=application/x-openbox-theme;

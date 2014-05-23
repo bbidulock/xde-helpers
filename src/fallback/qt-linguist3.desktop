@@ -2,6 +2,7 @@
 [Desktop Entry]
 Name=Qt3 Linguist 
 Comment=Add translations to Qt3 applications
+TryExec=linguist
 Exec=linguist
 Icon=linguist3
 MimeType=application/x-linguist;

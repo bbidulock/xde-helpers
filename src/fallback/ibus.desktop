@@ -93,6 +93,7 @@ Comment[vi]=Bộ gõ IBus
 Comment[zh_CN]=IBus 输入法框架
 Comment[zh_HK]=IBus 輸入法框架
 Comment[zh_TW]=IBus 輸入法框架
+TryExec=ibus-daemon
 Exec=ibus-daemon --xim
 Icon=ibus
 Terminal=false

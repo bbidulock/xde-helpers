@@ -97,6 +97,7 @@ Comment[zh_CN]=通过蓝牙传输文件
 Comment[zh_HK]=透過藍牙傳送檔案
 Comment[zh_TW]=透過藍牙傳送檔案
 Icon=bluetooth
+TryExec=bluetooth-sendto
 Exec=bluetooth-sendto
 Terminal=false
 Type=Application

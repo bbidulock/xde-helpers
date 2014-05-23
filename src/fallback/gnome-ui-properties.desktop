@@ -142,6 +142,7 @@ Comment[zh_CN]=自定义应用程序工具栏和菜单栏的外观
 Comment[zh_HK]=自訂應用程式中工具列及選單列的外觀
 Comment[zh_TW]=自訂應用程式中工具列及選單列的外觀
 Comment[zu]=Hlela ngokwesiko ukubonakala kwehlu lwamathuluzi nohlu phakathi kwezithobo
+TryExec=gnome-ui-properties
 Exec=gnome-ui-properties
 Icon=gnome-settings-ui-behavior
 Terminal=false

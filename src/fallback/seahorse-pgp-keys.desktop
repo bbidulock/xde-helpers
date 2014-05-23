@@ -63,6 +63,7 @@ Name[zh_CN]=导入密钥
 Name[zh_HK]=匯入密碼匙
 Name[zh_TW]=匯入金鑰
 MimeType=application/pgp-keys;
+TryExec=seahorse-tool
 Exec=seahorse-tool --import
 Type=Application
 Terminal=false

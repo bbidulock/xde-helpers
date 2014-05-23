@@ -3,6 +3,7 @@ Type=Application
 Encoding=UTF-8
 Name=wmfire
 Comment=very cool fiery way of showing your CPU usage
+TryExec=wmfire
 Exec=wmfire
 Terminal=false
 Categories=DockApp;WMAKER;

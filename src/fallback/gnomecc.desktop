@@ -160,6 +160,7 @@ GenericName[zh_HK]=GNOME 設定工具
 GenericName[zh_TW]=GNOME 設定工具
 GenericName[zu]=Ithulusi lokumisa lwe-GNOME
 Icon=gnome-control-center
+TryExec=gnome-control-center
 Exec=gnome-control-center
 Terminal=false
 Type=Application

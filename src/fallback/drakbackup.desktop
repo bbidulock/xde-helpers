@@ -1,6 +1,7 @@
 [Desktop Entry]
 Name=Drakbackup
 Comment=Backups
+TryExec=drakbackup
 Exec=drakbackup
 Icon=/usr/share/mcc/themes/default/backup-mdk.png
 Type=Application

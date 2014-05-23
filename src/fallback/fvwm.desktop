@@ -3,6 +3,7 @@ Encoding=UTF-8
 Type=Application
 Name=FVWM2
 Icon=fvwm
+TryExec=fvwm2
 Exec=fvwm2
 GenericName=Window Manager
 GenericName[fr]=Gestionnaire de Fenêtres

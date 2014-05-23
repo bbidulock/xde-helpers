@@ -2,6 +2,7 @@
 Type=Application
 Encoding=UTF-8
 Name=wmshutdown
+TryExec=wmshutdown
 Exec=wmshutdown
 Terminal=false
 Categories=DockApp;WMAKER;

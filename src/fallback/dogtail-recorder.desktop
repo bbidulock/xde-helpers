@@ -6,6 +6,7 @@ Name[en_GB]=Dogtail Script Recorder
 Comment=Automate your desktop using Dogtail
 Comment[en_CA]=Automate your desktop using Dogtail
 Comment[en_GB]=Automate your desktop using Dogtail
+TryExec=dogtail-recorder
 Exec=dogtail-recorder
 Terminal=false
 Type=Application

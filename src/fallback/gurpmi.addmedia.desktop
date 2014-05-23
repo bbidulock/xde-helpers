@@ -41,6 +41,7 @@ Name[uz]=Toʻplam faylidan qoʻshish
 Name[uz@cyrillic]=Тўплам файлидан қўшиш
 Name[zh_CN]=添加自定义介质
 Name[zh_TW]=新增 urpmi 媒體
+TryExec=gurpmi.addmedia
 Exec=gurpmi.addmedia %f
 MimeType=application/x-urpmi-media;
 NoDisplay=true

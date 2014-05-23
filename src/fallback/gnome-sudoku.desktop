@@ -118,6 +118,7 @@ Comment[vi]=Kiểm tra kỹ năng lôgic của bạn trong câu đố lưới co
 Comment[zh_CN]=通过这个数字格子解谜游戏测试您的逻辑能力
 Comment[zh_HK]=透過這個數字格子題目來測試你的邏輯能力
 Comment[zh_TW]=透過這個數字格子題目來測試您的邏輯能力
+TryExec=gnome-sudoku
 Exec=gnome-sudoku
 Icon=gnome-sudoku
 Terminal=false

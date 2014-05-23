@@ -104,6 +104,7 @@ Comment[vi]=Khung tuỳ thích ngày giờ
 Comment[zh_CN]=日期和时间首选项面板
 Comment[zh_HK]=日期和時刻偏好設定面板
 Comment[zh_TW]=日期和時刻偏好設定面板
+TryExec=gnome-control-center
 Exec=gnome-control-center datetime
 Icon=preferences-system-time
 Terminal=false

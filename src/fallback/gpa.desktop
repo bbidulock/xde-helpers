@@ -1,6 +1,7 @@
 [Desktop Entry]
 Name=GNU Privacy Assistant
 Name[en_US.ISO8859-1]=GNU Privacy Assistant
+TryExec=gpa
 Exec=gpa
 Icon=gpa.png
 Terminal=false

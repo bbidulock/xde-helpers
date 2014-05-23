@@ -3,6 +3,7 @@ Type=Application
 Encoding=UTF-8
 Name=GNOME Log Viewer
 Icon=/usr/share/pixmaps/gnome-system-log.xpm
+TryExec=gnome-system-log
 Exec=gnome-system-log
 Terminal=false
 Categories=System;Monitoring;

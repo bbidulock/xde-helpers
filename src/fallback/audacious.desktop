@@ -4,6 +4,7 @@ Encoding=UTF-8
 Name=Audacious
 Comment=Audacious Media Player
 Icon=/usr/share/pixmaps/audacious-32.xpm
+TryExec=audacious2
 Exec=audacious2
 Terminal=false
 Categories=Sound;

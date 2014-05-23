@@ -271,6 +271,7 @@ Comment[vi]=Quản lý thư tín, lịch biểu và các liên lạc
 Comment[zh_CN]=配置您的电子邮件，联系人和日程表
 Comment[zh_HK]=管理你的郵件、聯絡人和行程
 Comment[zh_TW]=管理您的郵件、連絡人和行程
+TryExec=evolution
 Exec=evolution
 Icon=evolution
 Terminal=false

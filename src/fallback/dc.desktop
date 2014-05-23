@@ -2,6 +2,7 @@
 Type=Application
 Encoding=UTF-8
 Name=Dc
+TryExec=dc
 Exec=dc
 Terminal=true
 Categories=Science;Mathematics;

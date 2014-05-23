@@ -2,6 +2,7 @@
 Type=Application
 Encoding=UTF-8
 Name=wmmount
+TryExec=wmmount
 Exec=wmmount -- -w -s
 Terminal=false
 Categories=DockApp;WMAKER;

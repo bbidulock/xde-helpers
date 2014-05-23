@@ -137,6 +137,7 @@ Comment[zh_CN]=改变默认的系统语言
 Comment[zh_TW]=更改預設系統語言
 Comment[zu]=Shintsha ulimi lwesistimu yendalo
 Icon=preferences-desktop-locale
+TryExec=system-config-language
 Exec=system-config-language
 Type=Application
 StartupNotify=true

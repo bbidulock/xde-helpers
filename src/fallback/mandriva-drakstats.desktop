@@ -1,6 +1,7 @@
 [Desktop Entry]
 Name=Packages Stats
 Comment=Mandriva Linux packages stats
+TryExec=drakstats
 Exec=drakstats
 Icon=drakstats
 Type=Application

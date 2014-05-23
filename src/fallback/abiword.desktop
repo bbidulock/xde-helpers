@@ -1,5 +1,6 @@
 
 [Desktop Entry]
+TryExec=abiword
 Exec=abiword
 Icon=abiword_48
 Terminal=false

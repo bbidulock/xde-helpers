@@ -62,6 +62,7 @@ Name[vi]=Lock Screen (XScreenSaver)
 Name[wo]=Lock Screen (XScreenSaver)
 Name[zh_CN]=Lock Screen (XScreenSaver)
 Name[zh_TW]=Lock Screen (XScreenSaver)
+TryExec=xscreensaver-command
 Exec=xscreensaver-command -lock
 Terminal=false
 Categories=X-Debian-Screen-Locking;

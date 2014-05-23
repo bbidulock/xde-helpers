@@ -3,6 +3,7 @@ Name=OpenJDK Java 6 Policy Tool
 Name[fi]=OpenJDK Java 6 - käytäntötyökalu
 Comment=OpenJDK Java 6 Policy Tool
 Comment[fi]=OpenJDK Java 6 - käytäntötyökalu
+TryExec=/usr/lib/jvm/java-6-openjdk/bin/policytool
 Exec=/usr/lib/jvm/java-6-openjdk/bin/policytool
 Terminal=false
 Type=Application

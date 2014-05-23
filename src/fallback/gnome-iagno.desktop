@@ -136,6 +136,7 @@ Comment[vi]=Thống trị bảng trong trò chơi kiểu Reversi cổ điển
 Comment[zh_CN]=在经典版本的黑白棋中占领盘面
 Comment[zh_HK]=經典版本的蘋果棋
 Comment[zh_TW]=經典版本的黑白棋
+TryExec=iagno
 Exec=iagno
 Terminal=false
 Type=Application

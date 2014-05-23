@@ -66,6 +66,7 @@ Comment[te]=వర్చ్యువల్ మిషన్లను నిర్
 Comment[zh_CN]=管理虚拟机
 Comment[zh_TW]=管理虛擬機器
 Icon=/usr/share/virt-manager/pixmaps/virt-manager-icon.svg
+TryExec=virt-manager
 Exec=virt-manager
 Type=Application
 Terminal=false

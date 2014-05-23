@@ -3,6 +3,7 @@ Type=Application
 Encoding=UTF-8
 Name=Shares Admin
 Icon=/usr/share/gnome-system-tools/pixmaps/shares.xpm
+TryExec=shares-admin
 Exec=shares-admin
 Terminal=false
 Categories=System;Administration;

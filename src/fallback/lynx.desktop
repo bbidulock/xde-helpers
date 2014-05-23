@@ -52,5 +52,6 @@ Name[zh_CN]=Lynx 文本浏览器
 Name[zh_TW]=Lynx 文字瀏覽器
 StartupNotify=false
 Terminal=true
+TryExec=lynx
 Exec=lynx
 Categories=Network;WebBrowser;ConsoleOnly;

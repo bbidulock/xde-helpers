@@ -103,6 +103,7 @@ Comment[vi]=Tuỳ thích hỗ trợ truy cập
 Comment[zh_CN]=通用辅助功能首选项
 Comment[zh_HK]=無障礙偏好設定
 Comment[zh_TW]=無障礙偏好設定
+TryExec=gnome-control-center
 Exec=gnome-control-center universal-access
 Icon=preferences-desktop-accessibility
 Terminal=false

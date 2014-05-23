@@ -108,6 +108,7 @@ Comment[vi]=Quản lý đĩa và các loại vật chứa
 Comment[zh_CN]=管理驱动器及媒体
 Comment[zh_HK]=管理磁碟機與媒體
 Comment[zh_TW]=管理磁碟機與媒體
+TryExec=palimpsest
 Exec=palimpsest
 Icon=palimpsest
 Terminal=false

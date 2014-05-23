@@ -85,6 +85,7 @@ Comment[te]=అప్రమేయ ముద్రణాయంత్రాన్�
 Comment[vi]=Chọn máy in mặc định
 Comment[zh_CN]=选择默认打印机
 Comment[zh_TW]=選擇預設印表機
+TryExec=my-default-printer
 Exec=my-default-printer
 Terminal=false
 Type=Application

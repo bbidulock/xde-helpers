@@ -166,6 +166,7 @@ Comment[vi]=Trò chuyện qua mạng tin nhắn tức khắc: hỗ trợ AIM, Go
 Comment[zh_CN]=互联网通讯程序。 支持 AIM、Google Talk、Jabber/XMPP、MSN、Yahoo 和更多
 Comment[zh_HK]=讓你可以透過即時通訊與好友聊天，支援 AIM、Google Talk、Jabber/XMPP、MSN、Yahoo 等等
 Comment[zh_TW]=讓您可以透過即時通訊與好友聊天，支援 AIM、Google Talk、Jabber/XMPP、MSN、Yahoo 等等
+TryExec=pidgin
 Exec=pidgin
 Icon=pidgin
 StartupNotify=true

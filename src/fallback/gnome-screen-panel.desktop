@@ -116,6 +116,7 @@ Comment[vi]=Thiết lập khoá và độ sáng màn hình
 Comment[zh_CN]=配置屏幕亮度和锁定
 Comment[zh_HK]=螢幕亮度與鎖定設定值
 Comment[zh_TW]=螢幕亮度與鎖定設定值
+TryExec=gnome-control-center
 Exec=gnome-control-center screen
 Icon=system-lock-screen
 Terminal=false

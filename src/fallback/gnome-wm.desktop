@@ -100,6 +100,7 @@ Name[zh_CN]=窗口管理器
 Name[zh_HK]=視窗管理員
 Name[zh_TW]=視窗管理員
 Name[zu]=Umphathi wefasitela
+TryExec=gnome-wm
 Exec=gnome-wm
 NoDisplay=true
 X-GNOME-Autostart-Phase=WindowManager

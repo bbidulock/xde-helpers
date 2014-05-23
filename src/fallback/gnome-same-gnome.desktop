@@ -98,6 +98,7 @@ Comment[uk]=Очищати екран, видаляючи групи з коль
 Comment[vi]=Xoá màn hình bằng cách gỡ bỏ nhóm bóng cùng màu
 Comment[zh_HK]=清除畫面上聚在一起的同色球
 Comment[zh_TW]=清除畫面上聚在一起的同色球
+TryExec=same-gnome
 Exec=same-gnome
 Icon=gnome-same-gnome
 Terminal=false

@@ -5,6 +5,7 @@ Name[pl]=Odtwarzacz xine
 GenericName=Media Player
 Comment=Xine Media Player
 Comment[pl]=Odtwarzacz filmów
+TryExec=xine
 Exec=xine %U
 Icon=xine
 Terminal=false

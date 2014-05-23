@@ -102,6 +102,7 @@ Comment[vi]=Thiết lập quản lý năng lượng
 Comment[zh_CN]=电源管理设置
 Comment[zh_HK]=電源管理設定值
 Comment[zh_TW]=電源管理設定值
+TryExec=gnome-control-center
 Exec=gnome-control-center power
 Icon=battery-good-charging
 Terminal=false

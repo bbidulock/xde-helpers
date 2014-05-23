@@ -2,6 +2,7 @@
 Type=Application
 Encoding=UTF-8
 Name=Dasher text entry
+TryExec=dasher
 Exec=dasher
 Terminal=false
 Categories=Accessibility;

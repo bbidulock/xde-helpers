@@ -150,6 +150,7 @@ Comment[xh]=Umdlalo we Chess
 Comment[zh_CN]=国际象棋游戏
 Comment[zh_TW]=棋類遊戲
 Comment[zu]=Umdlalo we-Chess
+TryExec=xboard
 Exec=xboard
 Icon=xboard
 Terminal=false

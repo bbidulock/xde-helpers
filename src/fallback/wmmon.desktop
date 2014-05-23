@@ -2,6 +2,7 @@
 Type=Application
 Encoding=UTF-8
 Name=WMmon
+TryExec=wmmon
 Exec=wmmon
 Terminal=false
 Categories=DockApp;WMAKER;

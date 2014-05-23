@@ -124,6 +124,7 @@ Comment[tr]=İnsanlarla IRC kullanarak sohbet edin
 Comment[zh_CN]=使用IRC聊天
 Comment[zh_HK]=使用 IRC 和人交談
 Comment[zh_TW]=使用 IRC 與人聊天
+TryExec=xchat-gnome
 Exec=xchat-gnome
 Icon=xchat-gnome
 Terminal=false

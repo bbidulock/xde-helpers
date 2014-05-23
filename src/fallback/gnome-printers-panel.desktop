@@ -100,6 +100,7 @@ Comment[vi]=Thay đổi thiết lập máy in
 Comment[zh_CN]=更改打印机设置
 Comment[zh_HK]=改變打印機設定值
 Comment[zh_TW]=改變印表機設定值
+TryExec=gnome-control-center
 Exec=gnome-control-center printers
 Icon=printer
 Terminal=false

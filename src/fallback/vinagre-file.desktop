@@ -128,6 +128,7 @@ Comment[vi]=Truy cập đến màn hình nền từ xa
 Comment[zh_CN]=访问远程桌面
 Comment[zh_HK]=存取遠端桌面
 Comment[zh_TW]=存取遠端桌面
+TryExec=vinagre
 Exec=vinagre -F %U
 Icon=preferences-desktop-remote-desktop
 Terminal=false

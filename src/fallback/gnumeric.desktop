@@ -180,6 +180,7 @@ Comment[ru]=Вычисление, анализ и визуализация ин�
 Comment[sv]=Beräkning, analys och visualisering av information
 Comment[vi]=Tính, phân tích và cách thức hiển thị thông tin
 Comment[zh_TW]=計算, 分析及資訊圖像化
+TryExec=gnumeric
 Exec=gnumeric %U
 Icon=gnumeric
 Terminal=false

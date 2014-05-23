@@ -133,6 +133,7 @@ Comment[vi]=Hãy chọn những ứng dụng nào cần khởi chạy khi bạn 
 Comment[zh_CN]=选择登录时要启动的应用程序
 Comment[zh_HK]=選擇在你登入時要啟動哪些應用程式
 Comment[zh_TW]=選擇在您登入時要啟動哪些應用程式
+TryExec=gnome-session-properties
 Exec=gnome-session-properties
 Icon=session-properties
 Terminal=false

@@ -2,6 +2,7 @@
 Type=Application
 Encoding=UTF-8
 Name=xlassie
+TryExec=xlassie
 Exec=xlassie
 Terminal=false
 Categories=Network;Communication;

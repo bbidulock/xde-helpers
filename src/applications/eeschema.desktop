@@ -2,6 +2,7 @@
 Categories=Development;Electronics
 Comment=Design an electronic schematic
 Comment[fr]=Dessiner des schémas électroniques
+TryExec=eeschema
 Exec=eeschema
 GenericName=Electronic schematic design
 GenericName[fr]=Saisie de schéma électronique

@@ -8,6 +8,7 @@ Name=XaoS
 Comment=Fractal Generator
 GenericName=XaoS Fractal Explorer
 Type=Application
+TryExec=xaos
 Exec=xaos
 Icon=xaos
 Terminal=false

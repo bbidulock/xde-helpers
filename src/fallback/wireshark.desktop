@@ -69,6 +69,7 @@ Comment[fi]=Verkkoliikenne analysaattori
 Comment[fr]=Analyseur de trafic réseau
 Comment[sv]=Nätverkstrafikanalysator
 Icon=hi48-app-wireshark.png
+TryExec=wireshark
 Exec=wireshark
 Terminal=false
 # Categorie entry according to version 1.0 of

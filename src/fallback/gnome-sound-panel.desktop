@@ -144,6 +144,7 @@ Comment[vi]=Thay đổi âm lượng và sự kiện âm thanh
 Comment[zh_CN]=更改音量和声音事件
 Comment[zh_HK]=改變音效的音量和音效事件
 Comment[zh_TW]=改變音效的音量和音效事件
+TryExec=gnome-control-center
 Exec=gnome-control-center sound
 Icon=multimedia-volume-control
 Terminal=false

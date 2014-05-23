@@ -86,6 +86,7 @@ Comment[uk]=Щоб виграти складайте лінії однаково
 Comment[vi]=Đua để sắp dòng cùng màu để thắng
 Comment[zh_HK]=將 4 粒棋子排成一直線
 Comment[zh_TW]=將 4 粒棋子排成一直線
+TryExec=gnect
 Exec=gnect
 Terminal=false
 Type=Application

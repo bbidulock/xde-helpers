@@ -86,6 +86,7 @@ Comment[zh_CN]=移除同样的色块以清空屏幕
 Comment[zh_HK]=清除畫面上聚在一起的同樣顏色和形狀的拼圖
 Comment[zh_TW]=清除畫面上聚在一起的同樣顏色和形狀的拼圖
 Icon=gnome-swell-foop
+TryExec=swell-foop
 Exec=swell-foop
 Terminal=false
 Type=Application

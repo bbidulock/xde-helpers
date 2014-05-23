@@ -1,6 +1,7 @@
 [Desktop Entry]
 Name=Notification Daemon
 Comment=Display notifications
+TryExec=/usr/libexec/notification-daemon
 Exec=/usr/libexec/notification-daemon
 Terminal=false
 Type=Application

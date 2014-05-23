@@ -32,6 +32,7 @@ Comment[pa]=ਮੂਲ ਪ੍ਰਿੰਟਰ ਚੁਣੋ
 Comment[pt_BR]=Selecione a impressora padrão
 Comment[ru]=Выбор принтера по умолчанию
 Comment[zh_CN]=选择默认打印机
+TryExec=gnome-default-printer
 Exec=gnome-default-printer
 Icon=stock_print
 Terminal=false

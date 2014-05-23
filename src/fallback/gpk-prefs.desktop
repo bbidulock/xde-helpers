@@ -122,6 +122,7 @@ Comment[zh_CN]=更改软件更新首选项
 Comment[zh_HK]=改變軟件更新偏好設定
 Comment[zh_TW]=改變軟體更新偏好設定
 Icon=gpk-prefs
+TryExec=gpk-prefs
 Exec=gpk-prefs
 Terminal=false
 Type=Application

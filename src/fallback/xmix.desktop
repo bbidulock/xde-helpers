@@ -2,6 +2,7 @@
 Type=Application
 Encoding=UTF-8
 Name=xmix
+TryExec=xmix
 Exec=xmix
 Terminal=false
 Categories=Audio;Mixer;

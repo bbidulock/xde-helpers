@@ -5,6 +5,7 @@ Name=Battery Status Icon
 GenericName=cbatticon
 Comment=System Tray battery status applet.
 Icon=battery
+TryExec=cbatticon
 Exec=cbatticon
 Termnal=false
 Categories=TrayIcon;System;

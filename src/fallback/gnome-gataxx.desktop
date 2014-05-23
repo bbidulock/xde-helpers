@@ -95,6 +95,7 @@ Comment[uk]=Домінувати на дошці у сучасних варіа�
 Comment[vi]=Thống trị bảng trong trò chơi kiểu Reversi hiện đại
 Comment[zh_HK]=蘋果棋的新型變化
 Comment[zh_TW]=黑白棋的新型變化
+TryExec=gataxx
 Exec=gataxx
 Terminal=false
 Type=Application

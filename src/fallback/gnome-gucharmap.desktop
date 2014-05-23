@@ -162,6 +162,7 @@ Comment[xh]=Fakela izimo ezizodwa emaxwebhini
 Comment[zh_CN]=在文档中插入特殊字符
 Comment[zh_HK]=在文件中插入特殊字符
 Comment[zh_TW]=在文件中插入特殊字元
+TryExec=gucharmap
 Exec=gucharmap
 Icon=accessories-character-map
 Terminal=false

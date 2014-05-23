@@ -104,6 +104,7 @@ Comment[vi]=Một Frontend đồ họa để cài đặt các tập tin RPM
 Comment[wa]=Ene eterface grafike po-z astaler des pacaedjes RPM
 Comment[zh_CN]=图形化安装 RPM 软件包
 Comment[zh_TW]=RPM 檔案安裝的圖形化前端
+TryExec=gurpmi
 Exec=gurpmi %F
 Terminal=false
 Type=Application

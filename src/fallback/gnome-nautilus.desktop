@@ -100,6 +100,7 @@ Name[zh_CN]=文件管理器
 Name[zh_HK]=檔案管理程式
 Name[zh_TW]=檔案管理程式
 Name[zu]=Mphathi Hele
+TryExec=nautilus
 Exec=nautilus
 X-Gnome-Vfs-System=gio
 Icon=system-file-manager

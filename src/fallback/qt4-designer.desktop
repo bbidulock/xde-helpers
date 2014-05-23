@@ -3,6 +3,7 @@
 Name=Qt4 Designer
 GenericName=Interface Designer
 Comment=Design GUIs for Qt4 applications
+TryExec=designer-qt4
 Exec=designer-qt4
 Icon=designer
 MimeType=application/x-designer;

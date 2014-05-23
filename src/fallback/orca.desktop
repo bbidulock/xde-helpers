@@ -206,6 +206,7 @@ Comment[vi]=Đọc thông tin trên màn hình thành tiếng hoặc chữ nổi
 Comment[zh_CN]=将画面信息以语音或点字展示，或放大画面
 Comment[zh_HK]=將畫面資訊以語音或點字展示，或放大畫面
 Comment[zh_TW]=將畫面資訊以語音或點字展示，或放大畫面
+TryExec=orca
 Exec=orca --replace
 Icon=orca
 Terminal=false

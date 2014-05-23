@@ -96,6 +96,7 @@ Comment[vi]=Truy cập và tổ chức tập tin
 Comment[zh_CN]=访问和组织文件
 Comment[zh_HK]=存取與組織檔案
 Comment[zh_TW]=存取與組織檔案
+TryExec=nautilus
 Exec=nautilus %U
 Icon=system-file-manager
 Terminal=false

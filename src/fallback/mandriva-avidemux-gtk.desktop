@@ -1,6 +1,7 @@
 [Desktop Entry]
 Name=Avidemux
 Comment=A free video editor
+TryExec=avidemux2_gtk
 Exec=avidemux2_gtk %U
 Icon=avidemux
 Terminal=false

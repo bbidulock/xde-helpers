@@ -208,6 +208,7 @@ Comment[vi]=Nhập văn bản mà không có bàn phím
 Comment[zh_CN]=不使用键盘输入文本
 Comment[zh_HK]=不使用鍵盤輸入文字
 Comment[zh_TW]=不使用鍵盤輸入文字
+TryExec=dasher
 Exec=dasher
 Icon=dasher
 Terminal=false

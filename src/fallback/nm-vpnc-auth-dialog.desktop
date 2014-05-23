@@ -37,6 +37,7 @@ Comment[sl]=Zahtevaj overitev VPN
 Comment[sr]=Потрбно је ВПН потврђивање
 Comment[sr@latin]=Potrbno je VPN potvrđivanje
 Comment[sv]=Begär VPN-autentisering
+TryExec=/usr/libexec/nm-vpnc-auth-dialog
 Exec=/usr/libexec/nm-vpnc-auth-dialog
 Terminal=false
 Type=Application

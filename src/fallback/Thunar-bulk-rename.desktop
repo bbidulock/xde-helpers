@@ -142,6 +142,7 @@ GenericName[ur]=بلک رینیم
 GenericName[ur_PK]=بلک رینیم
 GenericName[zh_CN]=批量重命名
 GenericName[zh_TW]=批次重新命名
+TryExec=/usr/lib/thunar/ThunarBulkRename
 Exec=/usr/lib/thunar/ThunarBulkRename %F
 Icon=Thunar
 Terminal=false

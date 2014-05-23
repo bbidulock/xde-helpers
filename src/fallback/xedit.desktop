@@ -3,6 +3,7 @@ Type=Application
 Encoding=UTF-8
 Name=Xedit
 Comment=Xedit: a simple text editor for X
+TryExec=xedit
 Exec=xedit
 Terminal=false
 Categories=Utility;TextEditor;

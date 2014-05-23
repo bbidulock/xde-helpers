@@ -116,6 +116,7 @@ Comment[zh_CN]=查看以前的包管理任务
 Comment[zh_HK]=檢視過去的套件管理工作
 Comment[zh_TW]=檢視過去的套件管理工作
 Icon=gpk-log
+TryExec=gpk-log
 Exec=gpk-log
 Terminal=false
 Type=Application

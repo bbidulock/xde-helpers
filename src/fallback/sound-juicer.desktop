@@ -121,6 +121,7 @@ Comment[vi]=Trích âm nhạc ra các CD của bạn
 Comment[zh_CN]=从您的 CD 中复制音乐
 Comment[zh_HK]=從光碟中擷取音樂
 Comment[zh_TW]=從光碟中擷取音樂
+TryExec=sound-juicer
 Exec=sound-juicer %u
 Icon=sound-juicer
 StartupNotify=true

@@ -66,6 +66,7 @@ Name[wa]=Metaedjes a djoû di Mandriva Linux
 Name[zh_CN]=Mandriva Linux 更新
 Name[zh_TW]=Mandriva Linux 更新
 Icon=mandrivaupdate
+TryExec=MandrivaUpdate
 Exec=MandrivaUpdate
 Terminal=false
 Type=Application

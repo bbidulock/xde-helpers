@@ -3,6 +3,7 @@ Encoding=UTF-8
 Type=Application
 Name=Mutter
 Icon=mutter
+TryExec=mutter
 Exec=mutter
 Name[ar]=مَتَر
 Name[as]=Mutter

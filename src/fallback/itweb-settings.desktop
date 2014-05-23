@@ -2,6 +2,7 @@
 [Desktop Entry]
 Name=IcedTea Web Control Panel
 Comment=Configure IcedTea Web (javaws and plugin)
+TryExec=itweb-settings
 Exec=itweb-settings
 Icon=javaws
 Terminal=false

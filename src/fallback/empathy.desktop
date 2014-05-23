@@ -207,6 +207,7 @@ Comment[ta]=கூகுள் டாக், ஃபேஸ்புக், எம
 Comment[zh_CN]=使用 Google Talk、Facebook、MSN 以及许多其它聊天服务
 Comment[zh_HK]=使用 Google Talk、Facebook、MSN 與其他聊天服務和他人對話
 Comment[zh_TW]=使用 Google Talk、Facebook、MSN 與其他聊天服務和他人對話
+TryExec=empathy
 Exec=empathy
 Icon=empathy
 StartupNotify=false

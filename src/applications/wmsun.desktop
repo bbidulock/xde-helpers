@@ -2,6 +2,7 @@
 Type=Application
 Encoding=UTF-8
 Name=wmSun
+TryExec=wmsun
 Exec=wmsun
 Terminal=false
 Categories=DockApp;WMAKER;

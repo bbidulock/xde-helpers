@@ -2,6 +2,7 @@
 Type=Application
 Encoding=UTF-8
 Name=wmsensors
+TryExec=wmsensors
 Exec=wmsensors
 Terminal=false
 Categories=DockApp;WMAKER;

@@ -2,6 +2,7 @@
 Version=1.0
 Name=Shotwell Viewer
 GenericName=Photo Viewer
+TryExec=shotwell
 Exec=shotwell %f
 Icon=shotwell
 Terminal=false

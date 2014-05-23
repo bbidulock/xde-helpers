@@ -148,6 +148,7 @@ Comment[xh]=Dlala umdlalo wamakhadi oqhelekileyo i-FreeCell
 Comment[zh_CN]=玩流行的空当接龙纸牌游戏
 Comment[zh_HK]=玩受歡迎的 FreeCell 啤牌接龍遊戲
 Comment[zh_TW]=玩受歡迎的 FreeCell 紙牌接龍遊戲
+TryExec=sol
 Exec=sol --freecell
 Icon=gnome-freecell
 Terminal=false

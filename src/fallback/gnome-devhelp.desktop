@@ -202,6 +202,7 @@ GenericName[vi]=Bộ duyệt tài liệu
 GenericName[zh_CN]=文档浏览器
 GenericName[zh_HK]=文件瀏覽器
 GenericName[zh_TW]=文件瀏覽器
+TryExec=devhelp
 Exec=devhelp
 Terminal=false
 Type=Application

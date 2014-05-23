@@ -163,6 +163,7 @@ Comment[xh]=Hlela ngqo yonke i-database yakho yokumiselwa kwenkqubo yekhompyutha
 Comment[zh_CN]=直接编辑您的整个配置数据库
 Comment[zh_HK]=直接修改所有 GNOME 組態
 Comment[zh_TW]=直接修改所有 GNOME 組態
+TryExec=gconf-editor
 Exec=gconf-editor
 Terminal=false
 Type=Application

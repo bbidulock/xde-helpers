@@ -3,6 +3,7 @@ Encoding=UTF-8
 Type=Application
 Name=WindowMaker
 Icon=wmaker
+TryExec=wmaker
 Exec=wmaker
 GenericName=Window Manager
 GenericName[fr]=Gestionnaire de Fenêtres

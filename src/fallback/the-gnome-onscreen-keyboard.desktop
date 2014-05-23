@@ -2,6 +2,7 @@
 Type=Application
 Encoding=UTF-8
 Name=The GNOME Onscreen Keyboard
+TryExec=gok
 Exec=gok
 Terminal=false
 Categories=Accessibility;

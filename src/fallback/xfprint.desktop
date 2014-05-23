@@ -85,6 +85,7 @@ Comment[ur]=فائل کی طباعت اور اس کے خاکہ کی ترتیب �
 Comment[vi]=In một tập tin và cho phép người dùng xác lập vẻ ngoài của nó
 Comment[zh_CN]=打印文件并让你设置其版面
 Comment[zh_TW]=列印檔案並讓您設定其版面
+TryExec=xfprint4
 Exec=xfprint4
 Icon=printer
 Terminal=false

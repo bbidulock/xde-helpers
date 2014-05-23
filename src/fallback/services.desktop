@@ -162,6 +162,7 @@ Comment[xh]=Misa ukuba zeziphi na iinkonzo eziya kusebenza xa inkqubo iqalisa
 Comment[zh_CN]=配置要在系统启动时使用哪些服务
 Comment[zh_HK]=設定當系統啟動時要執行哪項服務
 Comment[zh_TW]=設定當系統啟動時要執行哪項服務
+TryExec=services-admin
 Exec=services-admin
 Icon=network-server
 Terminal=false

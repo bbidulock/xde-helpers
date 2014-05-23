@@ -171,6 +171,7 @@ Comment[xh]=Misela iimpawu zefestile yakho
 Comment[zh_CN]=设定您的窗口属性
 Comment[zh_HK]=設定視窗屬性
 Comment[zh_TW]=設定視窗屬性
+TryExec=gnome-window-properties
 Exec=gnome-window-properties
 Icon=preferences-system-windows
 Terminal=false

@@ -215,6 +215,7 @@ Comment[vi]=Chụp ảnh và phim dùng webcam, thêm các hiệu ứng đồ h�
 Comment[zh_CN]=使用摄像头拍照或录像，并加上有趣的图像效果
 Comment[zh_HK]=從你的網絡攝影機擷取相片與影片，並加入有趣的圖片特效
 Comment[zh_TW]=從您的網路攝影機擷取相片與影片，並加入有趣的圖片特效
+TryExec=cheese
 Exec=cheese
 Terminal=false
 Type=Application

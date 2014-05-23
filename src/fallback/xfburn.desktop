@@ -79,6 +79,7 @@ Comment[ur]=سی ڈی اور ڈی وی ڈی برننگ اطلاقیہ
 Comment[ur_PK]=سی ڈی اور ڈی وی ڈی برننگ اطلاقیہ
 Comment[zh_CN]=CD和DVD烧录程序
 Comment[zh_TW]=CD 及 DVD 燒錄程式
+TryExec=xfburn
 Exec=xfburn
 Icon=media-cdrom
 MimeType=application/x-cd-image
@@ -91,6 +92,7 @@ Actions=BurnImage;
 [Desktop Action BurnImage]
 MimeType=application/x-cd-image
 Icon=media-cdrom
+TryExec=xfburn
 Exec=xfburn -i %f
 Name=Burn Image (xfburn)
 Name[ast]=Grabar imaxe (xfburn)

@@ -86,6 +86,7 @@ Comment[uk]=Скасувати, призупинити, відновити чи 
 Comment[vi]=Thôi, tạm dừng, tiếp tục lại hoặc in lại các công việc
 Comment[zh_CN]=取消，暂停，恢复或者重新打印任务
 Comment[zh_TW]=取消、暫停、回復或重新列印工作
+TryExec=system-config-printer-applet
 Exec=system-config-printer-applet --no-tray-icon
 Terminal=false
 Type=Application

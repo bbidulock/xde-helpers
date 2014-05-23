@@ -160,6 +160,7 @@ Comment[en_CA]=Lets you choose from thousands of free applications available for
 Comment[en_GB]=Lets you choose from thousands of free applications available for your system 
 Comment[fr]=Choisissez parmi les milliers d'applications libres disponibles pour votre système 
 Comment[pt_BR]=Permite-lhe escolher entre milhares de aplicativos livres disponíveis para o seu sistema 
+TryExec=software-center
 Exec=software-center
 Icon=softwarecenter
 Terminal=false

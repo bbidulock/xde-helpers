@@ -4,6 +4,7 @@ Type=Application
 Name=Xditview
 GenericName=Ditroff Viewer
 Comment=A ditroff file viewer for X
+TryExec=xditview
 Exec=xditview %f
 Icon=postscript-viewer
 Terminal=false

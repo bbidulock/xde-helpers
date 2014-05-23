@@ -109,6 +109,7 @@ Comment[th]=ปรับระดับเสียง
 Comment[tr]=Ses şiddetini ayarla
 Comment[uk]=Скоригуйте рівень гучності
 Comment[zh_CN]=调节音量水平
+TryExec=pavucontrol
 Exec=pavucontrol
 Icon=pavucontrol
 StartupNotify=true

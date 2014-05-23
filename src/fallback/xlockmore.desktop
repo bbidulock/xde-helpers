@@ -2,6 +2,7 @@
 Name=Xlock
 Comment=X11 screen saver
 Icon=gnome-lockscreen.png
+TryExec=xlock
 Exec=xlock
 Terminal=false
 Type=Application

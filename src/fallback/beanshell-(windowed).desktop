@@ -2,6 +2,7 @@
 Type=Application
 Encoding=UTF-8
 Name=BeanShell (windowed)
+TryExec=xbsh
 Exec=xbsh
 Terminal=false
 Categories=Programming;

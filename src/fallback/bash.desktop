@@ -2,6 +2,8 @@
 Type=Application
 Encoding=UTF-8
 Name=Bash
+TrhExec=bash
+TryExec=bash
 Exec=bash --login
 Terminal=true
 Categories=Shells;

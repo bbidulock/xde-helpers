@@ -9,6 +9,7 @@
     <LegacyDir>/usr/share/gnome/apps</LegacyDir>
 
     <AppDir>/usr/share/xde/dockapps</AppDir>
+    <AppDir>/usr/share/xde/trayicons</AppDir>
 
     <DefaultAppDirs/>
     <DefaultDirectoryDirs/>

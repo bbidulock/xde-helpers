@@ -3,6 +3,7 @@ Encoding=UTF-8
 Type=Application
 Name=i3
 Icon=i3
+TryExec=i3
 Exec=i3
 GenericName=Window Manager
 GenericName[fr]=Gestionnaire de Fenêtres

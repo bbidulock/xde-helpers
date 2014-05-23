@@ -63,6 +63,7 @@ Name[wo]=Gnome Solitaire Games
 Name[zh_CN]=Gnome Solitaire Games
 Name[zh_TW]=Gnome Solitaire Games
 Icon=/usr/share/pixmaps/aisleriot.xpm
+TryExec=sol
 Exec=sol
 Terminal=false
 Categories=X-Debian-Games-Card;

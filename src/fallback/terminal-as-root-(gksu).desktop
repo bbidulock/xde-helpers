@@ -4,6 +4,7 @@ Encoding=UTF-8
 Name=X-Terminal as root (GKsu)
 Comment=Runs an X terminal application. Uses GKsu to ask the password.
 Icon=/usr/share/pixmaps/gksu-debian.xpm
+TryExec=gksu
 Exec=gksu -u root /usr/bin/x-terminal-emulator
 Terminal=false
 Categories=System;TerminalEmulator;

@@ -3,6 +3,7 @@ Type=Application
 Encoding=UTF-8
 Name=wmgtemp
 Comment=Temperature sensor
+TryExec=wmgtemp
 Exec=wmgtemp
 Terminal=false
 Categories=DockApp;WMAKER;

@@ -163,6 +163,7 @@ Comment[vi]=Xem các tiến trình hiện thời và theo dõi tình trạng h�
 Comment[zh_CN]=查看当前进程及监视系统状态
 Comment[zh_HK]=顯示目前的程序並監控系統的狀態
 Comment[zh_TW]=顯示目前的程序並監控系統的狀態
+TryExec=gnome-system-monitor
 Exec=gnome-system-monitor
 Icon=utilities-system-monitor
 Terminal=false

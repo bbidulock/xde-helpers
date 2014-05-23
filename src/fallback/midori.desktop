@@ -49,5 +49,6 @@ Name[ur_PK]=میڈوری
 Name[zh_CN]=Midori 浏览器
 Name[zh_TW]=Midori
 StartupNotify=true
+TryExec=midori
 Exec=midori %u
 Categories=Network;WebBrowser;

@@ -95,6 +95,7 @@ Comment[tr]=Bilgisayardaki donanım hakkında bilgi göster
 Comment[vi]=Xem thông tin phần cứng trên mới
 Comment[zh_CN]=查看该计算机上的硬件信息
 Comment[zh_TW]=檢視這部電腦上硬體的資訊
+TryExec=hal-device-manager
 Exec=hal-device-manager
 Terminal=0
 Type=Application

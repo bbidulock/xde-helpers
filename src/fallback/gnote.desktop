@@ -102,6 +102,7 @@ GenericName[ta]=குறிப்பு எடுப்பவர்
 GenericName[te]=నోట్-తీసుకొనునది
 GenericName[th]=เครื่องมือบันทึกข้อความ
 GenericName[zh_CN]=记事本
+TryExec=gnote
 Exec=gnote
 Icon=gnote
 StartupNotify=false

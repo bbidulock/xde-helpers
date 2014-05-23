@@ -96,6 +96,7 @@ Comment[te]=డెస్కుటాప్ ప్రభావాలను ఎన
 Comment[uk]=Обрати ефект робочого столу
 Comment[zh_CN]=选择桌面效果
 Comment[zh_TW]=選擇桌面特效
+TryExec=desktop-effects
 Exec=desktop-effects
 Icon=desktop-effects
 Terminal=false

@@ -143,6 +143,7 @@ Comment[xh]=Diliza inqwaba yeethayili ngokuthi ususe izibini ezingqamanayo
 Comment[zh_CN]=移除匹配的牌对以拆除牌堆
 Comment[zh_HK]=把相同牌面的麻雀一對對地移走
 Comment[zh_TW]=把相同牌面的麻將一對對地移走
+TryExec=mahjongg
 Exec=mahjongg
 Icon=gnome-mahjongg
 Terminal=false

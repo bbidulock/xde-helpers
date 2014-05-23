@@ -4,6 +4,7 @@ Name[fr_FR]=Notes de version
 GenericName=Release Notes
 Comment=Release Notes for Fedora 15
 Comment[fr_FR]=Release Notes for Fedora 15
+TryExec=xdg-open
 Exec=xdg-open file:///usr/share/doc/HTML/fedora-release-notes/index.html
 Icon=fedora-release-notes
 Terminal=false

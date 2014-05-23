@@ -135,6 +135,7 @@ Comment[vi]=Tạo xong hình ghép bằng cách khớp đá lát hiển thị s�
 Comment[zh_CN]=匹配编号的方块来完成谜题
 Comment[zh_HK]=配對數字來完成拼圖
 Comment[zh_TW]=配對數字來完成拼圖
+TryExec=gnotravex
 Exec=gnotravex
 Icon=gnome-tetravex
 Terminal=false

@@ -4,6 +4,7 @@ Encoding=UTF-8
 Name=Eye of GNOME
 Comment=View many different types of images
 Icon=/usr/share/pixmaps/gnome-eog.xpm
+TryExec=eog
 Exec=eog
 Terminal=false
 Categories=Graphics;Viewer;

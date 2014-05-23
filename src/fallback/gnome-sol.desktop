@@ -152,6 +152,7 @@ Comment[xh]=Dlala imidlalo emininzi eyahlukeneyo ye-solitaire
 Comment[zh_CN]=玩各种纸牌游戏
 Comment[zh_HK]=玩不同類型的接龍遊戲
 Comment[zh_TW]=玩不同類型的接龍遊戲
+TryExec=sol
 Exec=sol
 Icon=gnome-aisleriot
 Terminal=false

@@ -6,6 +6,7 @@ Type=Application
 Comment=DVI viewer for TeX DVI files
 Icon=xdvi
 MiniIcon=mini-doc1.xpm
+TryExec=xdvi
 Exec=xdvi
 MimeType=application/x-dvi;
 NoDisplay=true

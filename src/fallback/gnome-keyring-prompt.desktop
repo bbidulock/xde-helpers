@@ -82,6 +82,7 @@ Comment[zh_CN]=解锁密钥环读取密码和其它机密的权限
 Comment[zh_HK]=解除對密碼和其他保密的存取鎖定
 Comment[zh_TW]=解除對密碼和其他保密的存取鎖定
 Icon=security-medium
+TryExec=/usr/lib64/gnome-keyring-prompt
 Exec=/usr/lib64/gnome-keyring-prompt
 Terminal=false
 Type=Application

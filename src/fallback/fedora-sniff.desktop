@@ -6,6 +6,7 @@ Name[en_GB]=AT-SPI Browser
 Comment=Browse your Assistive Technology-enabled desktop
 Comment[en_CA]=Browse your Assistive Technology-enabled desktop
 Comment[en_GB]=Browse your Assistive Technology-enabled desktop
+TryExec=sniff
 Exec=sniff
 Terminal=false
 Type=Application

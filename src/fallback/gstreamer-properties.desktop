@@ -151,6 +151,7 @@ Comment[xh]=Ukwakha imimiselo yenkqubo yeGStreamer
 Comment[zh_CN]=配置 GStreamer 应用程序的默认值
 Comment[zh_HK]=修改 GStreamer 應用程式的預設設定
 Comment[zh_TW]=修改 GStreamer 應用程式的預設設定
+TryExec=gstreamer-properties
 Exec=gstreamer-properties
 Icon=gstreamer-properties
 StartupNotify=true

@@ -84,6 +84,7 @@ Comment[zh_CN]=预览字体
 Comment[zh_HK]=預覽字型
 Comment[zh_TW]=預覽字型
 Icon=preferences-desktop-font
+TryExec=gnome-font-viewer
 Exec=gnome-font-viewer %u
 Terminal=false
 Type=Application

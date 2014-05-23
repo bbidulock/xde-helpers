@@ -2,6 +2,7 @@
 Type=Application
 Encoding=UTF-8
 Name=bbkeys
+TryExec=bbkeys
 Exec=bbkeys
 Terminal=false
 Categories=System;

@@ -62,6 +62,7 @@ Comment[sl]=Poiščite dokumente in mape na računalniku po imenu ali vsebini z 
 Comment[sv]=Hitta dokument och mappar på den här datorn efter namn eller innehåll med Tracker
 Comment[th]=ค้นหาเอกสารและโฟลเดอร์ในคอมพิวเตอร์นี้จากชื่อหรือเนื้อหาโดยใช้ Tracker
 Comment[zh_CN]=用 Tracker 以名称或内容定位此计算机上的文档和文件夹
+TryExec=tracker-search-tool
 Exec=tracker-search-tool
 Icon=system-search
 Terminal=false

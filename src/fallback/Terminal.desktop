@@ -144,6 +144,7 @@ GenericName[ur_PK]=ٹرمنل ایمولیٹر
 GenericName[vi]=Trình giả lập Terminal
 GenericName[zh_CN]=终端模拟器
 GenericName[zh_TW]=終端機程式
+TryExec=Terminal
 Exec=Terminal
 Icon=utilities-terminal
 Terminal=false

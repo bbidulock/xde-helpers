@@ -134,6 +134,7 @@ Comment[vi]=Chơi súc sắc kiểu bài xì — chắc thắng nhé
 Comment[zh_CN]=一种类似扑克的的骰子游戏
 Comment[zh_HK]=玩類似撲克的骰子遊戲
 Comment[zh_TW]=玩類似撲克的骰子遊戲
+TryExec=gtali
 Exec=gtali
 Icon=gnome-tali
 Terminal=false

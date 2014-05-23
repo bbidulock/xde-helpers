@@ -90,6 +90,7 @@ Comment[xh]=Umboniseli Womfanekiso Obheka Phambili
 Comment[zh_CN]=图片查看器
 Comment[zh_TW]=圖片瀏覽程式
 Comment[zu]=Umboniseli Womfanekiso
+TryExec=display
 Exec=display logo:
 Icon=/usr/share/pixmaps/display.xpm
 Terminal=false

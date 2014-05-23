@@ -2,6 +2,7 @@
 Type=Application
 Encoding=UTF-8
 Name=Internet Chess Club
+TryExec=xboard
 Exec=xboard -ics -icshost chessclub.com
 Terminal=true
 Categories=Game;BoardGame;

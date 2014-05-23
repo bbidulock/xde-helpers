@@ -194,6 +194,7 @@ Comment[zh_HK]=顯示 GNOME 說明文件
 Comment[zh_TW]=顯示 GNOME 說明文件
 Comment[zu]=Thola usizo nge GNOME
 OnlyShowIn=GNOME;
+TryExec=yelp
 Exec=yelp %u
 Icon=help-browser
 StartupNotify=true

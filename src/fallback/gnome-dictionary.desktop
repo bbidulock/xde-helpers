@@ -159,6 +159,7 @@ Comment[vi]=Tìm từ trong từ điển trực tuyến để kiểm tra chính 
 Comment[zh_CN]=在在线字典中查阅单词定义和拼写
 Comment[zh_HK]=在網上字典中查詢字詞的解譯及拼法
 Comment[zh_TW]=在線上字典中查詢字詞的解譯及拼法
+TryExec=gnome-dictionary
 Exec=gnome-dictionary
 Terminal=false
 Type=Application

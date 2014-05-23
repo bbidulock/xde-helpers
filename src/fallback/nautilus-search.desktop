@@ -102,6 +102,7 @@ Comment[vi]=Tìm tập tin, thư mục và tài liệu trên máy tính.
 Comment[xh]=Ukufumana iifayili, iziqulathi zeefayili, namaxwebhu kwikhompyutha yakho
 Comment[zh_CN]=在您的计算机上查找文件、文件夹和文档
 Comment[zh_TW]=在電腦中搜尋檔案、資料夾和文件
+TryExec=nautilus
 Exec=nautilus --no-desktop x-nautilus-search:
 Icon=system-search
 Terminal=false

@@ -2,6 +2,7 @@
 Type=Application
 Encoding=UTF-8
 Name=wmwork
+TryExec=wmwork
 Exec=wmwork
 Terminal=false
 Categories=DockApp;WMAKER;

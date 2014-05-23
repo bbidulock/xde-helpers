@@ -114,6 +114,7 @@ Comment[vi]=Điều khiển cách hệ thống kiểm tra người dùng thử �
 Comment[zh_CN]=控制系统对试图登录的用户的校验方式
 Comment[zh_TW]=控制系統如何驗證欲登入的使用者
 Icon=user_auth.png
+TryExec=system-config-authentication
 Exec=system-config-authentication
 Type=Application
 Terminal=false

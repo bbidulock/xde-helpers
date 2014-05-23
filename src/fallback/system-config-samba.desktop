@@ -115,6 +115,7 @@ Comment[zh_CN]=创建、修改和删除 samba 共享
 Comment[zh_TW]=建立、修改與刪除 Samba 共享
 Categories=Application;System;X-Red-Hat-ServerConfig;X-Red-Hat-Base;
 Icon=system-config-samba.png
+TryExec=system-config-samba
 Exec=system-config-samba
 Type=Application
 StartupNotify=true

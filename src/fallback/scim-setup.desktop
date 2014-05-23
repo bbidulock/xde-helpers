@@ -56,6 +56,7 @@ Comment[te]=స్మార్ట్‍ ఉమ్మడి ఇన్‌పుట
 Comment[vi]=Tiện ích thiết lập cho bộ gõ SCIM
 Comment[zh_CN]=智能通用输入法平台的设置工具
 Comment[zh_TW]=泛用智慧型輸入法平台的設定工具
+TryExec=scim-setup
 Exec=scim-setup
 Icon=scim-setup
 Terminal=false

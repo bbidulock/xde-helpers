@@ -85,6 +85,7 @@ Comment[zh_CN]=在系统中安装选定的软件
 Comment[zh_HK]=安裝選取的軟件到系統中
 Comment[zh_TW]=安裝選取的軟體到系統中
 Categories=System;
+TryExec=gpk-dbus-service
 Exec=gpk-dbus-service
 Terminal=false
 Type=Application

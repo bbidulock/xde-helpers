@@ -51,6 +51,7 @@ Name[zh_CN]=Mutt
 Name[zh_TW]=Mutt
 StartupNotify=false
 Icon=mutt
+TryExec=mutt
 Exec=mutt
 Terminal=true
 Categories=Network;Email;

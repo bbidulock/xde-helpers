@@ -39,6 +39,7 @@ Comment[uk]=Проситий текстовий редактор
 Comment[vi]=Một trình soạn thảo văn bản đơn giản
 Comment[zh_CN]=简易文字编辑器
 Comment[zh_TW]=簡易文字編輯器
+TryExec=leafpad
 Exec=leafpad %f
 Icon=leafpad
 Terminal=false

@@ -4,6 +4,7 @@ Encoding=UTF-8
 Name=X Manual Page
 GenericName=Man Page Viewer
 Comment=Manual page display program for the X Window System
+TryExec=xman
 Exec=xman
 Icon=xlogo
 Terminal=false

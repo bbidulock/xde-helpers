@@ -1,6 +1,7 @@
 [Desktop Entry]
 Name=Grip
 Comment=CD player and ripper
+TryExec=grip
 Exec=grip 
 Icon=grip
 Terminal=false

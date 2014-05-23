@@ -4,6 +4,7 @@ Type=Application
 Name=wmTop
 GenericName=System Monitor
 Comment=A dock app for monitoring cpu usage
+TryExec=wmtop
 Exec=wmtop
 Icon=GNUstep3D
 Terminal=false

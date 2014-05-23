@@ -3,6 +3,7 @@ Type=Application
 Encoding=UTF-8
 Name=Xev
 Comment=Xev: display X events
+TryExec=x-terminal-emulator
 Exec=x-terminal-emulator -e xev
 Terminal=false
 Categories=X-X11;Application;X-XTool;

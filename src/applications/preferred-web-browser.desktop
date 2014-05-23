@@ -62,6 +62,7 @@ Comment[pt]=Navegue na Internet
 Comment[pt_BR]=Navegue na Internet
 Comment[sk]=Prehliadanie internetu
 Comment[sv]=Surfa på webben
+TryExec=firefox
 Exec=firefox %u
 Icon=web-browser
 Terminal=false

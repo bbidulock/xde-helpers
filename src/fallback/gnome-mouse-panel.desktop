@@ -102,6 +102,7 @@ Comment[vi]=Đặt tuỳ thích chuột và touchpad
 Comment[zh_CN]=设置您的鼠标和触摸板首选项
 Comment[zh_HK]=設定你的滑鼠與觸控板偏好設定
 Comment[zh_TW]=設定您的滑鼠與觸控板偏好設定
+TryExec=gnome-control-center
 Exec=gnome-control-center mouse
 Icon=input-mouse
 Terminal=false

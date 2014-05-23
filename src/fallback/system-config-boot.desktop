@@ -174,6 +174,7 @@ Comment[uk]=Виберіть основний завантажувальний �
 Comment[zh_CN]=选择您的默认引导条目
 Comment[zh_TW]=請選擇您的預設開機項目
 Categories=System;Settings;
+TryExec=system-config-boot
 Exec=system-config-boot
 Terminal=false
 Type=Application

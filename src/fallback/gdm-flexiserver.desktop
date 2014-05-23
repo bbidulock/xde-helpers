@@ -3,6 +3,7 @@ Type=Application
 Encoding=UTF-8
 Name=GDM flexiserver
 Comment=New GDM Session
+TryExec=gdmflexiserver
 Exec=gdmflexiserver
 Terminal=false
 Categories=System;Administration;

@@ -53,6 +53,7 @@ Name[zh_CN]=系统设置
 Name[zh_HK]=系統設定值
 Name[zh_TW]=系統設定值
 Icon=preferences-system
+TryExec=gnome-control-center
 Exec=gnome-control-center --overview
 Terminal=false
 Type=Application

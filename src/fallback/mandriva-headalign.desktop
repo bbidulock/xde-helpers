@@ -1,6 +1,7 @@
 [Desktop Entry]
 Name=Lexmark headalign
 Comment=Lexmark Lexmark 5xxx, 7xxx and 11xx Head Aligner
+TryExec=headalign.sh
 Exec=headalign.sh
 Icon=printmgr
 Terminal=false

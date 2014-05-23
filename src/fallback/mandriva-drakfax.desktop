@@ -1,6 +1,7 @@
 [Desktop Entry]
 Name=Fax configuration
 Comment=A client and server fax configuration tool
+TryExec=drakfax
 Exec=drakfax
 Icon=drakfax
 Type=Application

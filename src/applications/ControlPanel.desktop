@@ -3,6 +3,7 @@ Encoding=UTF-8
 Type=Application
 Name=FOX Desktop Setup
 Comment=Setup desktop appearance for FOX applications
+TryExec=ControlPanel
 Exec=ControlPanel
 Icon=preferences-desktop-theme
 Terminal=false

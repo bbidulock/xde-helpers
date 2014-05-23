@@ -166,6 +166,7 @@ Comment[xh]=Yongeza okanye susa abasebenzisi namaqela
 Comment[zh_CN]=添加或删除用户和组
 Comment[zh_HK]=加入或移除使用者及羣組
 Comment[zh_TW]=加入或移除使用者及群組
+TryExec=users-admin
 Exec=users-admin
 Icon=config-users
 Terminal=false

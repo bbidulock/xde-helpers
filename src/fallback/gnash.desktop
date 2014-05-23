@@ -16,6 +16,7 @@ Name[zh_CN]=Gnash SWF 查看器
 GenericName=
 Comment=
 Icon=gnash
+TryExec=gtk-gnash
 Exec=gtk-gnash %U
 Terminal=false
 Categories=AudioVideo;Video;Player;GTK;

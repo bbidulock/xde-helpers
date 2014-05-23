@@ -2,6 +2,7 @@
 Type=Application
 Encoding=UTF-8
 Name=Reportbug (GTK+)
+TryExec=reportbug
 Exec=reportbug --exit-prompt --ui gtk2
 Terminal=false
 Categories=System;Administration;

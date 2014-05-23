@@ -101,6 +101,7 @@ Comment[vi]=Thêm hoặc xoá người dùng
 Comment[zh_CN]=添加或删除用户
 Comment[zh_HK]=加入或移除使用者
 Comment[zh_TW]=加入或移除使用者
+TryExec=gnome-control-center
 Exec=gnome-control-center user-accounts
 Icon=system-users
 Terminal=false

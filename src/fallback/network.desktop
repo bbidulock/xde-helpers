@@ -154,6 +154,7 @@ Comment[xh]=Misa isimo sezixhobo zothungelwano noqhagamshelwano
 Comment[zh_CN]=配置网络设备和连接
 Comment[zh_HK]=設定網絡裝置與連線
 Comment[zh_TW]=設定網路裝置與連線
+TryExec=network-admin
 Exec=network-admin
 Icon=preferences-system-network
 Terminal=false

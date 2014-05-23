@@ -75,6 +75,7 @@ Comment[ru]=Просмотр файловой системы и управлен
 Comment[uk]=Показує файлову систему і керує файлами
 Comment[zh_TW]=瀏覽檔案系統及管理檔案
 Categories=FileManager;Utility;Core;GTK;FileTools;System;
+TryExec=pcmanfm
 Exec=pcmanfm %U
 StartupNotify=true
 Terminal=false

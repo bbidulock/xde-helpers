@@ -111,6 +111,7 @@ Comment[vi]=Định dạng đĩa mềm
 Comment[zh_CN]=格式化软盘
 Comment[zh_HK]=將軟碟格式化
 Comment[zh_TW]=將軟碟格式化
+TryExec=gfloppy
 Exec=gfloppy
 Terminal=false
 Icon=gnome-dev-floppy

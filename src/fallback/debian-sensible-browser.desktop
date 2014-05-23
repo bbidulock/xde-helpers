@@ -51,5 +51,6 @@ Name[ur_PK]=ڈیبین سینسبل براؤزر
 Name[zh_CN]=Debian 实用浏览器
 Name[zh_TW]=Debian Sensible 瀏覽器
 StartupNotify=false
+TryExec=sensible-browser
 Exec=sensible-browser %u
 

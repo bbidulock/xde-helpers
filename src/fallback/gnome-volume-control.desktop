@@ -116,6 +116,7 @@ Comment[uk]=Зміна гучності звуку та прив'язка зву
 Comment[zh_CN]=更改音量以及将声音与事件关联
 Comment[zh_HK]=改變音效的音量和音效事件
 Comment[zh_TW]=改變音效的音量和音效事件
+TryExec=gnome-volume-control
 Exec=gnome-volume-control
 Icon=gnome-volume-control
 Terminal=false

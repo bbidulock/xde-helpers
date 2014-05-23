@@ -2,6 +2,7 @@
 Comment=Start the Smart Common Input Method platform
 Comment[zh_CN]=
 Encoding=UTF-8
+TryExec=scim
 Exec=scim -d
 GenericName=
 GenericName[zh_CN]=

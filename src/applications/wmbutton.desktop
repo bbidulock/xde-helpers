@@ -2,6 +2,7 @@
 Type=Application
 Encoding=UTF-8
 Name=wmbutton
+TryExec=wmbutton
 Exec=wmbutton
 Terminal=false
 Categories=DockApp;WMAKER;

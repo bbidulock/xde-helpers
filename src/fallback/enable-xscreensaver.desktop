@@ -62,6 +62,7 @@ Name[vi]=Enable XScreenSaver
 Name[wo]=Enable XScreenSaver
 Name[zh_CN]=Enable XScreenSaver
 Name[zh_TW]=Enable XScreenSaver
+TryExec=xscreensaver
 Exec=xscreensaver
 Terminal=false
 Categories=X-Debian-Screen-Saving;

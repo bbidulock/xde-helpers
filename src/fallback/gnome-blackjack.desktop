@@ -122,6 +122,7 @@ Comment[xh]=Dlala umdlalo wamakhadi wekhasino uBlackjack
 Comment[zh_CN]=玩玩赌场纸牌游戏二十一点
 Comment[zh_HK]=玩賭場常見的 21 點
 Comment[zh_TW]=玩賭場常見的 21 點
+TryExec=blackjack
 Exec=blackjack
 Icon=gnome-blackjack
 Terminal=false

@@ -3,6 +3,7 @@ Type=Application
 Encoding=UTF-8
 Name=wmpomme
 Icon=/usr/share/pixmaps/wmpomme.xpm
+TryExec=wmpomme
 Exec=wmpomme
 Terminal=false
 Categories=DockApp;WMAKER;

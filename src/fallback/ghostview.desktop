@@ -117,6 +117,7 @@ Comment[xh]=Umboniseli Wokubhaliweyo Okuposwayo
 Comment[zh_CN]=Postscript 查看器
 Comment[zh_TW]=Postscript 檢視器
 Comment[zu]=Umboniseli Wokubhaliweyo Okudluliswayo
+TryExec=ghostview
 Exec=ghostview
 Icon=/usr/share/pixmaps/gv_icon.xpm
 Terminal=false

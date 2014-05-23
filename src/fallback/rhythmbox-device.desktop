@@ -268,6 +268,7 @@ Comment[vi]=Phát nhạc và tổ chức các tập nhạc
 Comment[zh_CN]=播放并组织您的音乐收藏
 Comment[zh_HK]=播放及管理音樂庫
 Comment[zh_TW]=播放及管理音樂庫
+TryExec=rhythmbox-client
 Exec=rhythmbox-client --select-source %U
 Terminal=false
 NoDisplay=true

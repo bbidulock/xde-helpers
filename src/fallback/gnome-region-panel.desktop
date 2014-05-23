@@ -101,6 +101,7 @@ Comment[vi]=Thay đổi thiết lập lãnh thổ và ngôn ngữ
 Comment[zh_CN]=更改您的区域和语言设置
 Comment[zh_HK]=改變你的地區和語言設定值
 Comment[zh_TW]=改變您的地區和語言設定值
+TryExec=gnome-control-center
 Exec=gnome-control-center region
 Icon=preferences-desktop-locale
 Terminal=false

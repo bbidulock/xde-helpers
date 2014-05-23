@@ -3,6 +3,7 @@ Type=Application
 Encoding=UTF-8
 Name=The GIMP
 Icon=/usr/share/pixmaps/gimp.xpm
+TryExec=gimp
 Exec=gimp
 Terminal=false
 Categories=Graphics;

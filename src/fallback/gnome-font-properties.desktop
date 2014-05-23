@@ -151,6 +151,7 @@ Comment[zh_CN]=选择桌面所用的字体
 Comment[zh_HK]=指定桌面所使用的字型
 Comment[zh_TW]=指定桌面所使用的字型
 Comment[zu]=Khetha isiqwema sesiga-nyezi
+TryExec=gnome-font-properties
 Exec=gnome-font-properties
 Icon=gnome-settings-font
 Terminal=false

@@ -165,6 +165,7 @@ Comment[xh]=Izicatshulwa zoshicilelo lwesandi
 Comment[zh_CN]=录制声音剪辑
 Comment[zh_HK]=錄音
 Comment[zh_TW]=錄音
+TryExec=gnome-sound-recorder
 Exec=gnome-sound-recorder
 Icon=gnome-sound-recorder
 StartupNotify=true

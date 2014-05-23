@@ -3,6 +3,7 @@ Type=Application
 Encoding=UTF-8
 Name=wmfrog
 Comment=A dock app for weather reports.
+TryExec=wmfrog
 Exec=wmfrog
 Terminal=false
 Categories=DockApp;WMAKER;

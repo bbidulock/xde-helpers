@@ -123,6 +123,7 @@ Comment[vi]=GNU Info browser
 Comment[wo]=GNU Info browser
 Comment[zh_CN]=GNU Info browser
 Comment[zh_TW]=GNU Info browser
+TryExec=info
 Exec=info
 Terminal=true
 Categories=X-Debian-Help;

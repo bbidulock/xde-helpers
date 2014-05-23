@@ -2,6 +2,7 @@
 Type=Application
 Encoding=UTF-8
 Name=Debian Task selector
+TryExec=su-to-root
 Exec=su-to-root -c tasksel
 Terminal=true
 Categories=System;Administration;

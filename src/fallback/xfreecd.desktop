@@ -2,6 +2,7 @@
 Type=Application
 Encoding=UTF-8
 Name=XfreeCD
+TryExec=xfreecd
 Exec=xfreecd
 Terminal=false
 Categories=Audio;

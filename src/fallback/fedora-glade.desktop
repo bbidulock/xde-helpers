@@ -202,6 +202,7 @@ Comment[vi]=Tạo hay mở bản đồ án thiết kế giao diện người dù
 Comment[zh_CN]=创建或打开 GTK+ 程序用户界面设计
 Comment[zh_HK]=建立或開啟 GTK+ 應用程式的使用者介面設計
 Comment[zh_TW]=建立或開啟 GTK+ 應用程式的使用者介面設計
+TryExec=glade
 Exec=glade %F
 Terminal=false
 StartupNotify=true
