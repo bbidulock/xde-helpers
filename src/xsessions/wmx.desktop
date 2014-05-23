@@ -7,6 +7,7 @@ Exec=wmx
 GenericName=Window Manager
 GenericName[fr]=Gestionnaire de Fenêtres
 GenericName[pt]=Gestor de Janelas
+Comment=The ideal window manager for today's ascetic programmer
 Categories=WindowManager;Application;System;
 StartupNotify=true
 NoDisplay=true

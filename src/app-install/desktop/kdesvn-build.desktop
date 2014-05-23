@@ -1,5 +1,6 @@
 # KDE Config File
 [Desktop Entry]
+Type=Application
 X-AppInstall-Package=kdesdk-scripts
 X-AppInstall-Popcon=358
 X-AppInstall-Section=main

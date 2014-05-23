@@ -81,8 +81,6 @@ dist_appl_DATA = \
 	src/applications/wmacpi.desktop \
 	src/applications/wmagnify.desktop \
 	src/applications/wmaker.desktop \
-	src/applications/wmaker.inst.desktop \
-	src/applications/wmappl-bin.desktop \
 	src/applications/wmappl.desktop \
 	src/applications/wmauda.desktop \
 	src/applications/wmbatteries.desktop \
@@ -96,26 +94,19 @@ dist_appl_DATA = \
 	src/applications/wmbluemem.desktop \
 	src/applications/wmbubble.desktop \
 	src/applications/wmbutton.desktop \
-	src/applications/wmcalc-bin.desktop \
 	src/applications/wmcalc.desktop \
 	src/applications/wmCalClock.desktop \
 	src/applications/wmCalClockKbd.desktop \
 	src/applications/wmcdplay.desktop \
 	src/applications/wmcliphist.desktop \
 	src/applications/wmclock.desktop \
-	src/applications/wmclockmon-cal.desktop \
-	src/applications/wmclockmon-config.desktop \
 	src/applications/wmclockmon.desktop \
 	src/applications/wmcore.desktop \
 	src/applications/wmcpu.desktop \
 	src/applications/wmcpuload.desktop \
 	src/applications/wmcpumon.desktop \
-	src/applications/wmctrl.desktop \
 	src/applications/wmdate.desktop \
 	src/applications/wmdiskmon.desktop \
-	src/applications/wmf2eps.desktop \
-	src/applications/wmf2fig.desktop \
-	src/applications/wmf2gd.desktop \
 	src/applications/wmfire.desktop \
 	src/applications/wmforkplop.desktop \
 	src/applications/wmfrog.desktop \
@@ -129,20 +120,17 @@ dist_appl_DATA = \
 	src/applications/wmMand.desktop \
 	src/applications/wmmatrix.desktop \
 	src/applications/wmmemload.desktop \
-	src/applications/wmmenugen.desktop \
 	src/applications/wmmixer.desktop \
 	src/applications/wmmon.desktop \
 	src/applications/wmmoonclock.desktop \
 	src/applications/wmmount.desktop \
 	src/applications/wmnd.desktop \
 	src/applications/wmnet.desktop \
-	src/applications/wm-oldmenu2new.desktop \
 	src/applications/wmpinboard.desktop \
 	src/applications/wmpomme.desktop \
 	src/applications/wmppp.desktop \
 	src/applications/wmrack.desktop \
 	src/applications/wmsensors.desktop \
-	src/applications/wmsetbg.desktop \
 	src/applications/wmshutdown.desktop \
 	src/applications/wmsmixer.desktop \
 	src/applications/wmsmpmon.desktop \
