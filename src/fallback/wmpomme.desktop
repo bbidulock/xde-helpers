@@ -7,3 +7,4 @@ TryExec=wmpomme
 Exec=wmpomme
 Terminal=false
 Categories=DockApp;WMAKER;
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;

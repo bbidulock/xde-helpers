@@ -54,3 +54,7 @@ StartupNotify=false
 TryExec=opera
 Exec=opera %u
 Categories=Network;WebBrowser;
+X-XFCE-Binaries=opera;
+X-XFCE-Category=WebBrowser
+X-XFCE-Commands=%B;
+X-XFCE-CommandsWithParameter=%B "%s";

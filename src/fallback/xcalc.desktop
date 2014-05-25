@@ -1,7 +1,8 @@
 [Desktop Entry]
+Version=1.0
 Type=Application
 Encoding=UTF-8
-Name=X Calc
+Name=Xcalc Calculator
 GenericName=Calculator
 Comment=X calculator
 Name[br]=Jederez X
@@ -63,9 +64,11 @@ GenericName[xh]=Umatshini wokubala
 GenericName[zh_CN]=计算器
 GenericName[zh_TW]=計算機
 GenericName[zu]=Umshini wokubala
-Exec=xcalc
-Icon=xcalc
-Terminal=false
-Categories=Application;Utility;
-X-AfterStep-IndexName=xcalc
+#Icon=xcalc
+Icon=accessories-calculator
 TryExec=xcalc
+Exec=xcalc
+Terminal=false
+Categories=Utility;Calculator;
+StartupNotify=true
+X-AfterStep-IndexName=xcalc

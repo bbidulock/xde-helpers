@@ -7,3 +7,5 @@ TryExec=wmfire
 Exec=wmfire
 Terminal=false
 Categories=DockApp;WMAKER;
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+X-Arch-Package=wmfire

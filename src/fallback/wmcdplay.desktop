@@ -6,3 +6,5 @@ TryExec=wmcdplay
 Exec=wmcdplay
 Terminal=false
 Categories=DockApp;WMAKER;
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+X-Arch-Package=wmcdplay

@@ -53,3 +53,7 @@ Name[zh_TW]=Debian X 終端機模擬器
 StartupNotify=false
 TryExec=x-terminal-emulator
 Exec=x-terminal-emulator
+X-XFCE-Binaries=x-terminal-emulator;
+X-XFCE-Category=TerminalEmulator
+X-XFCE-Commands=%B;
+X-XFCE-CommandsWithParameter=%B -e %s;

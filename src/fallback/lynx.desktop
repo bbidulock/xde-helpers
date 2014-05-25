@@ -55,3 +55,7 @@ Terminal=true
 TryExec=lynx
 Exec=lynx
 Categories=Network;WebBrowser;ConsoleOnly;
+X-XFCE-Binaries=lynx;lynx-current;
+X-XFCE-Category=WebBrowser
+X-XFCE-Commands=exo-open --launch TerminalEmulator %B;
+X-XFCE-CommandsWithParameter=exo-open --launch TerminalEmulator %B %s;

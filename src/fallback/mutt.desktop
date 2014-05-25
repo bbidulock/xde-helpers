@@ -1,4 +1,5 @@
 [Desktop Entry]
+Version=1.0
 Type=Application
 Encoding=UTF-8
 Name=Mutt
@@ -54,4 +55,8 @@ Icon=mutt
 TryExec=mutt
 Exec=mutt
 Terminal=true
-Categories=Network;Email;
+Categories=Network;Email;ConsoleOnly;
+X-XFCE-Binaries=mutt;
+X-XFCE-Category=MailReader
+X-XFCE-Commands=exo-open --launch TerminalEmulator %B;
+X-XFCE-CommandsWithParameter=exo-open --launch TerminalEmulator /usr/lib/xfce4/exo-1/exo-compose-mail-1 mutt %B "mailto:%s";

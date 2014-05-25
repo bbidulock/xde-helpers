@@ -10,5 +10,6 @@ Icon=GNUstep3D
 Terminal=false
 StartupNotify=false
 Categories=DockApp;WMAKER;
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
 StartupWMClass=wmitime
 X-Arch-Package=wmitime

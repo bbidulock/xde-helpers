@@ -53,4 +53,7 @@ Name[zh_TW]=Debian Sensible 瀏覽器
 StartupNotify=false
 TryExec=sensible-browser
 Exec=sensible-browser %u
-
+X-XFCE-Binaries=sensible-browser;
+X-XFCE-Category=WebBrowser
+X-XFCE-Commands=%B;
+X-XFCE-CommandsWithParameter=%B "%s";

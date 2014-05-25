@@ -6,3 +6,5 @@ TryExec=wmifs
 Exec=wmifs
 Terminal=false
 Categories=DockApp;WMAKER;
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+X-Arch-Package=wmifs
