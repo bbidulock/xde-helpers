@@ -2,6 +2,7 @@
 Version=1.0
 Type=Application
 Name=Compton
+GenericName=X compositor
 Comment=An X compositor
 Categories=Utility;
 Exec=compton --config ~/.config/compton/compton.conf

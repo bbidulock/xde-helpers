@@ -2,7 +2,7 @@
 Encoding=UTF-8
 Type=Application
 Name=PathFinder
-GenericName=File manager
+GenericName=File Manager
 Comment=File browser
 TryExec=PathFinder
 Exec=PathFinder
