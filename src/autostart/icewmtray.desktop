@@ -10,6 +10,6 @@ TryExec=icewmtray
 Terminal=false
 Categories=ICEWM;System;Utility;
 OnlyShowIn=ICEWM;
-NoDisplay=true
 StartupNotify=false
+Hidden=true
 # We normally launch this using icewm-session
