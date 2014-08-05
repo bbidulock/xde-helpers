@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Encoding=UTF-8
+Icon=/usr/libexec/ROX-Filer/.DirIcon
+Name=ROX Filer
+TryExec=rox
+Exec=rox
+Terminal=false
+Categories=FileManager;System;FileTools;
+StartupNotify=true
+X-XFCE-Binaries=rox;
+X-XFCE-Category=FileManager
+X-XFCE-Commands=%B;
+X-XFCE-CommandsWithParameter=%B "%s";

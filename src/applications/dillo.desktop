@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Icon=networking_www_section
+Type=Application
+Name=Dillo
+StartupNotify=true
+TryExec=dillo
+Exec=dillo %u
+Category=Network;WebBrowser;
+X-XFCE-Binaries=dillo;
+X-XFCE-Category=WebBrowser
+X-XFCE-Commands=%B;
+X-XFCE-CommandsWithParameter=%B "%s";
