@@ -1,15 +1,15 @@
 [Desktop Entry]
 Type=Application
 Encoding=UTF-8
-Name=wmbatteries
-GenericName=Battery Monitor Dock App
+Name=Battery Monitor Dock App
+GenericName=Battery Monitor
 Comment=Dock app based on wmacpiload
 Icon=GNUstep3D
 TryExec=/usr/bin/wmbatteries
 Exec=wmbatteries
 Terminal=false
 Categories=DockApp;WMAKER;
-OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+NotShowIn=GNOME;KDE;
 StartupNotify=false
 StartupWMClass=wmbatteries
 X-Arch-Package=wmbatteries

@@ -7,5 +7,5 @@ TryExec=wmSMPmon
 Exec=wmSMPmon
 Terminal=false
 Categories=DockApp;WMAKER;
-OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+NotShowIn=GNOME;KDE;
 X-Arch-Package=wmsmpmon

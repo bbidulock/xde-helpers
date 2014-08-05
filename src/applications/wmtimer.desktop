@@ -9,5 +9,5 @@ TryExec=/usr/bin/wmtimer
 Exec=wmtimer
 Terminal=false
 Categories=DockApp;WMAKER;
-OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+NotShowIn=GNOME;KDE;
 StartupNotify=false

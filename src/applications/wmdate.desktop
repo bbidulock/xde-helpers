@@ -1,9 +1,15 @@
 [Desktop Entry]
-Type=Application
 Encoding=UTF-8
-Name=wmDate
-TryExec=wmdate
+Type=Application
+Name=Calendar Dock App
+GenericName=Calendar
+Comment=wmDate - a calendar dock app
+Icon=GNUstep3D
+TryExec=/usr/bin/wmdate
 Exec=wmdate
 Terminal=false
 Categories=DockApp;WMAKER;
-OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+NotShowIn=GNOME;KDE;
+StartupNotify=false
+StartupWMClass=wmdate
+X-Arch-Package=wmdate

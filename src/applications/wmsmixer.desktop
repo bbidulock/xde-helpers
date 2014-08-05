@@ -9,6 +9,6 @@ TryExec=/usr/bin/wmsmixer
 Exec=wmsmixer -w
 Terminal=false
 Categories=DockApp;WMAKER;
-OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+NotShowIn=GNOME;KDE;
 StartupNotify=false
 StartupWMClass=wmsmixer

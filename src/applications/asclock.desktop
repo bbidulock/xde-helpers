@@ -1,7 +1,7 @@
 [Desktop Entry]
 Encoding=UTF-8
 Type=Application
-Name=ASClock
+Name=AfterStep Clock Dock App
 GenericName=Clock
 Comment=The AfterStep clock dock app
 TryExec=asclock
@@ -10,7 +10,7 @@ Icon=GNUstep3D
 Terminal=false
 StartupNotify=false
 Categories=DockApp;WMAKER;
-OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+NotShowIn=GNOME;KDE;
 StartupWMClass=asclock
 X-Arch-Package=asclock-xlib
 Actions=Newstone;Orb;Stone;Analog;Beats;Classic;Shaped;

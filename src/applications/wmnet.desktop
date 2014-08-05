@@ -9,7 +9,7 @@ TryExec=/usr/bin/wmnet
 Exec=wmnet -w -l
 Terminal=false
 Categories=DockApp;WMAKER;
-OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+NotShowIn=GNOME;KDE;
 StartupNotify=false
 Actions=Interface1;Interface2;Interface3;Interface4;
 

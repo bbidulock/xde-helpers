@@ -9,6 +9,6 @@ TryExec=/usr/bin/wmtime
 Exec=wmtime
 Terminal=false
 Categories=DockApp;WMAKER;
-OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+NotShowIn=GNOME;KDE;
 StartupNotify=false
 StartupWMClass=wmtime
