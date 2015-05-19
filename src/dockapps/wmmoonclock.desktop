@@ -1,9 +1,0 @@
-[Desktop Entry]
-Type=Application
-Encoding=UTF-8
-Name=wmMoonClock
-TryExec=wmMoonClock
-Exec=wmMoonClock
-Terminal=false
-Categories=DockApp;WMAKER;
-OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;

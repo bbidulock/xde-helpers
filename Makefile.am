@@ -124,7 +124,7 @@ dist_appl_DATA = \
 	src/applications/wmmemload.desktop \
 	src/applications/wmmixer.desktop \
 	src/applications/wmmon.desktop \
-	src/applications/wmmoonclock.desktop \
+	src/applications/wmMoonClock.desktop \
 	src/applications/wmmount.desktop \
 	src/applications/wmnd.desktop \
 	src/applications/wmnet.desktop \
@@ -371,7 +371,7 @@ dist_dock_DATA = \
 	src/dockapps/wmmemload.desktop \
 	src/dockapps/wmmixer.desktop \
 	src/dockapps/wmmon.desktop \
-	src/dockapps/wmmoonclock.desktop \
+	src/dockapps/wmMoonClock.desktop \
 	src/dockapps/wmmount.desktop \
 	src/dockapps/wmnd.desktop \
 	src/dockapps/wmnet.desktop \
@@ -1029,7 +1029,7 @@ dist_back_DATA = \
 	src/fallback/wmmemload.desktop \
 	src/fallback/wmmixer.desktop \
 	src/fallback/wmmon.desktop \
-	src/fallback/wmmoonclock.desktop \
+	src/fallback/wmMoonClock.desktop \
 	src/fallback/wmmount.desktop \
 	src/fallback/wmnd.desktop \
 	src/fallback/wmnet.desktop \
