@@ -1,12 +1,12 @@
-xde-helpers -- NEWS file.  2015-05-19
+@PACKAGE@ -- NEWS file.  @DATE@
 
 History of major user-visible changes:
 ======================================
 
-Release xde-helpers-1.1.59 released 2015-05-19
+Release @PACKAGE@-@VERSION@ released @DATE@
 -------------------------------------------
 
-This is the current development release of xde-helpers.
+This is the current development release of @PACKAGE@.
 
 Major changes for release 1.0.2:
 --------------------------------

@@ -1,9 +1,9 @@
-xde-helpers -- read me first file.  2015-05-19
+@PACKAGE@ -- read me first file.  @DATE@
 
-xde-helpers
+@PACKAGE@
 ===========
 
-Package xde-helpers-1.1.59 was released under GPLv3 license 2015-05-19.
+Package @PACKAGE@-@VERSION@ was released under GPLv3 license @DATE@.
 
 This is a set of .desktop files intended to assist the XDE (X Desktop
 Environment).
@@ -11,11 +11,11 @@ Environment).
 Release
 -------
 
-This is the xde-helpers-1.1.59 package, released 2015-05-19.  This release,
+This is the @PACKAGE@-@VERSION@ package, released @DATE@.  This release,
 and the latest version, can be obtained from the GitHub repository at
-(http://github.com/bbidulock/xde-helpers), using a command such as:
+(http://github.com/bbidulock/@PACKAGE@), using a command such as:
 
-    $> git clone http://github.com/bbidulock/xde-helpers.git
+    $> git clone http://github.com/bbidulock/@PACKAGE@.git
 
 Please see the `NEWS' file for release notes and history of user visible
 changes for the current version, and the `ChangeLog' file for a more
@@ -34,34 +34,34 @@ file `COPYING'.
 Quick Start:
 ------------
 
-The quickest and easiest way to get xde-helpers up and running is to run
+The quickest and easiest way to get @PACKAGE@ up and running is to run
 the following commands:
 
-    $> git clone http://github.com/bbidulock/xde-helpers.git xde-helpers
-    $> cd xde-helpers
+    $> git clone http://github.com/bbidulock/@PACKAGE@.git @PACKAGE@
+    $> cd @PACKAGE@
     $> ./autogen.sh
     $> ./configure --prefix=/usr
     $> make V=0
     $> make DESTDIR="$pkgdir" install
 
-This will configure, compile and install xde-helpers the quickest.  For
+This will configure, compile and install @PACKAGE@ the quickest.  For
 those who would like to spend the extra 15 seconds reading ./configure
 --help, some compile time options can be turned on and off before the
 build.
 
 For general information on GNU's ./configure, see the file `INSTALL'.
 
-Running xde-helpers
+Running @PACKAGE@
 -----------------
 
 Read the manual pages after installation:
 
-	man xde-helpers
+	man @PACKAGE@
 
 Issues
 ------
 
-Report issues to (https://github.com/bbidulock/xde-helpers/issues).
+Report issues to (https://github.com/bbidulock/@PACKAGE@/issues).
 
 
 # vim: set ft=asciidoc tw=72 nocin nosi fo+=tcqlorn:
