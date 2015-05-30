@@ -1,15 +1,16 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=WMbiff
 GenericName=Mail Monitor
 Comment=Mail Monitor Dockapp
 Icon=GNUstep3D
-Exec=wmbiff
 TryExec=wmbiff
+Exec=wmbiff
 Terminal=false
-Categories=DockApp;WMAKER;
 OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+Categories=DockApp;WMAKER;
 StartupNotify=false
 StartupWMClass=wmbiff
 X-Arch-Package=wmbiff

@@ -1,6 +1,7 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=CD Player Dock App
 GenericName=Audio CD Player
 Comment=A CD player dock app
@@ -8,8 +9,8 @@ Icon=GNUstep3D
 TryExec=/usr/bin/wmcdplay
 Exec=wmcdplay -w
 Terminal=false
-Categories=DockApp;WMAKER;
 OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+Categories=DockApp;WMAKER;
 StartupNotify=false
 StartupWMClass=wmcdplay
 X-Arch-Package=wmcdplay
