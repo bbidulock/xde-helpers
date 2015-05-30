@@ -12,4 +12,4 @@ Categories=DockApp;WMAKER;
 OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
 StartupNotify=false
 StartupWMClass=bubblemon
-X-Arch-Package=bubblemon-dockapp
+X-Arch-Package=bubblemon-dockapp 1.46-4

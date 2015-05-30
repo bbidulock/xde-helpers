@@ -1,7 +1,7 @@
 [Desktop Entry]
 Encoding=UTF-8
 Type=Application
-Name=ASClock
+Name=AfterStep Clock Dock App
 GenericName=Clock
 Comment=The AfterStep clock dock app
 TryExec=asclock
@@ -42,3 +42,4 @@ Exec=asclock -d -t classic
 [Desktop Action Shaped]
 Name=Shaped theme
 Exec=asclock -d -t shaped
+X-Arch-Package=asclock-xlib 2.0.12-5
