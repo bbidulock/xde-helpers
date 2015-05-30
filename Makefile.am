@@ -396,6 +396,25 @@ dist_dirs_DATA = \
 	src/desktop-directories/xde-x11-tools.directory \
 	src/desktop-directories/X-X11-Tools.directory
 
+dist_tray_DATA = \
+	src/trayicons/alltray.desktop \
+	src/trayicons/cbatticon.desktop \
+	src/trayicons/docker-tray.desktop \
+	src/trayicons/ftmenu.desktop \
+	src/trayicons/gatotray.desktop \
+	src/trayicons/lalcal.desktop \
+	src/trayicons/mailtc.desktop \
+	src/trayicons/menutray.desktop \
+	src/trayicons/moc-tray.desktop \
+	src/trayicons/peksystray.desktop \
+	src/trayicons/pnmixer.desktop \
+	src/trayicons/sbxkb.desktop \
+	src/trayicons/stalonetray.desktop \
+	src/trayicons/trayer.desktop \
+	src/trayicons/trayion.desktop \
+	src/trayicons/wmsystemtray.desktop \
+	src/trayicons/xdg-traymenu.desktop
+
 dist_dock_DATA = \
 	src/dockapps/allin1.desktop \
 	src/dockapps/AlsaMixer.app.desktop \

@@ -23,6 +23,7 @@ AC_PROG_MKDIR_P
 xdedir='$(datadir)/xde'
 appldir='$(xdedir)/applications'
 dockdir='$(xdedir)/dockapps'
+traydir='$(xdedir)/trayicons'
 backdir='$(xdedir)/fallback'
 sessdir='$(xdedir)/xsessions'
 dirsdir='$(xdedir)/desktop-directories'
@@ -33,6 +34,7 @@ menudir='$(xdgdir)/menus'
 AC_SUBST([xdedir])
 AC_SUBST([appldir])
 AC_SUBST([dockdir])
+AC_SUBST([traydir])
 AC_SUBST([backdir])
 AC_SUBST([sessdir])
 AC_SUBST([dirsdir])
