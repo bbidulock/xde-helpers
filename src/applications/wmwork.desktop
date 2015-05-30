@@ -14,3 +14,7 @@ Categories=DockApp;WMAKER;
 StartupNotify=false
 StartupWMClass=wmwork
 X-Arch-Package=wmwork 0.2.5-1
+X-Arch-Package-Name=wmwork
+X-Arch-Package-Version=0.2.5-1
+X-Arch-Package-Description=A dock app that helps you keep track of time worked on projects
+X-Arch-Package-URL=http://web.archive.org/web/20121028075048/http://dockapps.windowmaker.org/file.php/id/25

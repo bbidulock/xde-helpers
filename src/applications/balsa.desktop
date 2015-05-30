@@ -130,3 +130,7 @@ X-XFCE-Category=MailReader
 X-XFCE-Commands=%B;
 X-XFCE-CommandsWithParameter=/usr/lib/xfce4/exo-1/exo-compose-mail-1 balsa %B "mailto:%s";
 X-Arch-Package=balsa-gtk2 2.4.12-2
+X-Arch-Package-Name=balsa-gtk2
+X-Arch-Package-Version=2.4.12-2
+X-Arch-Package-Description=An e-mail client for GNOME (GTK2 version)
+X-Arch-Package-URL=http://pawsa.fedorapeople.org/balsa/

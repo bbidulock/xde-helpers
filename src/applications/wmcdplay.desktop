@@ -13,4 +13,8 @@ OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
 Categories=DockApp;WMAKER;
 StartupNotify=false
 StartupWMClass=wmcdplay
-X-Arch-Package=wmcdplay
+X-Arch-Package=wmcdplay 1.1-1
+X-Arch-Package-Name=wmcdplay
+X-Arch-Package-Version=1.1-1
+X-Arch-Package-Description=A CD player WindowMaker dock app
+X-Arch-Package-URL=http://windowmaker.org/dockapps/?name=wmcdplay

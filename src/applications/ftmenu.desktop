@@ -13,3 +13,7 @@ Categories=TrayIcon;System;Utility;
 StartupNotify=false
 StartupWMClass=ftmenu
 X-Arch-Package=ftmenu 0.4.0-1
+X-Arch-Package-Name=ftmenu
+X-Arch-Package-Version=0.4.0-1
+X-Arch-Package-Description=Fluxbox menu icon tray
+X-Arch-Package-URL=http://ftmenu.sourceforge.net/

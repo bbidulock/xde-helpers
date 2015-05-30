@@ -13,7 +13,11 @@ OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
 Categories=DockApp;WMAKER;
 StartupNotify=false
 StartupWMClass=wmtop
-X-Arch-Package=wmtop
+X-Arch-Package=wmtop 0.84-3
+X-Arch-Package-Name=wmtop
+X-Arch-Package-Version=0.84-3
+X-Arch-Package-Description=wmapplet for monitoring cpu usage
+X-Arch-Package-URL=http://wmtop.sourceforge.net/
 Action=Neon;LCD;
 
 [Desktop Action Neon]

@@ -14,3 +14,7 @@ Categories=DockApp;WMAKER;
 StartupNotify=false
 StartupWMClass=bubblemon
 X-Arch-Package=bubblemon-dockapp 1.46-4
+X-Arch-Package-Name=bubblemon-dockapp
+X-Arch-Package-Version=1.46-4
+X-Arch-Package-Description=This is a system monitoring dockapp, visually based on the GNOME 'BubbleMon' applet
+X-Arch-Package-URL=http://www.ne.jp/asahi/linux/timecop/

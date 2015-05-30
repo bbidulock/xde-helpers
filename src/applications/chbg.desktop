@@ -12,3 +12,7 @@ Terminal=false
 Categories=Settings;
 StartupNotify=true
 X-Arch-Package=chbg 1.5-6
+X-Arch-Package-Name=chbg
+X-Arch-Package-Version=1.5-6
+X-Arch-Package-Description=Periodically change background image in X11. Can be a slideshow screensaver too
+X-Arch-Package-URL=http://chbg.sourceforge.net/about.html

@@ -60,3 +60,7 @@ X-XFCE-Category=WebBrowser
 X-XFCE-Commands=%B;
 X-XFCE-CommandsWithParameter=%B "%s";
 X-Arch-Package=sensible-utils 0.0.7-1
+X-Arch-Package-Name=sensible-utils
+X-Arch-Package-Version=0.0.7-1
+X-Arch-Package-Description=Utilities for sensible alternative selection
+X-Arch-Package-URL=http://packages.debian.org/source/sid/sensible-utils
