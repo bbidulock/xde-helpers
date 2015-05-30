@@ -92,15 +92,16 @@ my @order = (
 	'X-KDE-UniqueApplet',
 	'X-KDE-Username',
 
-	'X-GNOME-AutoRestart',
-	'X-GNOME-Autostart-enabled',
 	'X-GNOME-Autostart-Notify',
 	'X-GNOME-Autostart-Phase',
+	'X-GNOME-Provides',
+	'X-GNOME-WMName',
+
+	'X-GNOME-AutoRestart',
+	'X-GNOME-Autostart-enabled',
 	'X-GNOME-DocPath',
 	'X-GNOME-Gettext-Domain',
-	'X-GNOME-Provides',
 	'X-GNOME-Username',
-	'X-GNOME-WMName',
 	'X-GnomeWMSettingsLibrary',
 	'X-GNOME-WMSettingsModule',
 
