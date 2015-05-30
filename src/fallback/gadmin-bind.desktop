@@ -1,0 +1,26 @@
+[Desktop Entry]
+X-AppInstall-Package=gadmin-bind
+X-AppInstall-Popcon=29
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=GADMIN-BIND
+Name[de]=GADMIN-BIND
+Name[es]=GADMIN-BIND
+Name[fi]=GADMIN-BIND
+Name[fr]=GADMIN-BIND
+Name[ko]=GADMIN-BIND
+Name[no]=GADMIN-BIND
+Name[pt_BR]=GADMIN-BIND
+Name[sl]=GADMIN-BIND
+Name[sv]=GADMIN-BIND
+Name[uk]=GADMIN-BIND
+Name[ro]=GADMIN-BIND
+Name[zh_TW]=GADMIN-BIND
+GenericName=GADMIN-BIND
+Comment=BIND DNS server administration
+Exec=su-to-root -X -c /usr/sbin/gadmin-bind
+Icon=gadmin-bind
+Terminal=false
+Type=Application
+Categories=GTK;System;

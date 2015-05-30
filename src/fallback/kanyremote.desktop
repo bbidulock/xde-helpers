@@ -1,0 +1,35 @@
+[Desktop Entry]
+X-AppInstall-Package=kanyremote
+X-AppInstall-Popcon=15
+X-AppInstall-Section=main
+
+Exec=kanyremote
+Icon=kanyremote
+Type=Application
+Name=kanyremote
+Name[xx]=xxkanyremotexx
+GenericName=Bluetooth Remote Control for KDE
+GenericName[bg]=Bluetooth дистационно управление за KDE
+GenericName[es]=Control Remoto Bluetooth con KDE
+GenericName[fr]=Télécommande bluetooth pour KDE
+GenericName[it]=Bluetooth Control Remoto con KDE
+GenericName[nl]=Bluetooth afstandsbesturing voor KDE
+GenericName[pl]=Zdalne Sterowanie Przez Bluetooth w KDE
+GenericName[pt]=Controle Remoto Bluetooth para o KDE
+GenericName[ru]=Пульт управления по Bluetooth для KDE
+GenericName[sk]=Bluetooth Diaľkové ovládanie KDE
+GenericName[xx]=xxBluetooth Remote Control for KDExx
+Categories=Utility;
+OnlyShowIn=KDE;
+Comment=Bluetooth remote control for KDE
+Comment[bg]=Bluetooth дистационно управление за KDE
+Comment[es]=Control Remoto Bluetooth con KDE
+Comment[fr]=Télécommande bluetooth pour KDE
+Comment[it]=Bluetooth control remoto con KDE
+Comment[nl]=Bluetooth afstandsbesturing voor KDE
+Comment[pl]=Zdalne Sterowanie Przez Bluetooth w KDE
+Comment[pt]=Controle Remoto Bluetooth para o KDE
+Comment[ru]=Пульт управления по Bluetooth для KDE
+Comment[sk]=Bluetooth Diaľkové ovládanie KDE
+Comment[xx]=xxBluetooth remote controlxx
+X-Desktop-File-Install-Version=5.11.7

@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=ballview
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main
+
+Version=1.0
+Terminal=false
+Icon=ballview
+Exec=BALLView
+Name=BALLView
+GenericName=Molecular modeling and visualization tool
+Type=Application
+MimeType=chemical/x-pdb;chemical/x-mdl-molfile;chemical/x-mol2;
+Categories=Education;Science;Chemistry;
+X-AppInstall-Architectures=amd64,armel,i386,ia64,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390,sparc

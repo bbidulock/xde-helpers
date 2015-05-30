@@ -1,0 +1,20 @@
+[Desktop Entry]
+X-AppInstall-Package=gjiten
+X-AppInstall-Popcon=39
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=Gjiten
+Name[de]=Gjiten
+Name[de_CH]=Gjiten
+Name[ja]=Gjiten 日本語辞典
+Comment=Japanese dictionary
+Comment[de]=Japanisches Wörterbuch
+Comment[de_CH]=Japanisches Wörterbuch
+Comment[ja]=日本語辞典です
+Exec=gjiten
+Icon=jiten.png
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=GNOME;Application;Utility;

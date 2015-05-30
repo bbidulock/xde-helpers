@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=AcetoneISO
+GenericName=CD/DVD image manipulator
+GenericName[de]=CD/DVD-Abbildmanager
+GenericName[it]=Strumenti per immagini CD/DVD
+GenericName[ru]=Манипулятор CD/DVD образов
+Icon=Acetino2
+Exec=acetoneiso %f
+Terminal=false
+Categories=Qt;KDE;AudioVideo;DiscBurning;
+MimeType=application/x-iso;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=acetoneiso
+X-AppInstall-Popcon=86
+X-AppInstall-Section=main
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

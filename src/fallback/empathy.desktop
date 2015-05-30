@@ -217,4 +217,5 @@ Categories=GNOME;GTK;Network;InstantMessaging;
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=empathy
 X-GNOME-Bugzilla-Component=General
-X-GNOME-Bugzilla-Version=2.34.0
+X-GNOME-Bugzilla-Version=3.12.10
+X-Arch-Package=epmpathy 3.12.10-1

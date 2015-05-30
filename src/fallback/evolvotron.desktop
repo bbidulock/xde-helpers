@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=evolvotron
+X-AppInstall-Popcon=15
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Type=Application
+Version=0.4.0
+Name=Evolvotron
+Exec=evolvotron
+Terminal=false
+Categories=Graphics;2DGraphics;
+Comment=Interactive image generator

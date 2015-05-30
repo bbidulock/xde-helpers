@@ -260,5 +260,6 @@ X-GNOME-FullName[zh_TW]=Brasero 光碟燒錄程式
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=brasero
 X-GNOME-Bugzilla-Component=general
-X-GNOME-Bugzilla-Version=3.0.0
+X-GNOME-Bugzilla-Version=3.12.0
 X-Desktop-File-Install-Version=0.18
+X-Arch-Package=brasero 3.12.0-1

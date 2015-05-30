@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=gsoko
+X-AppInstall-Popcon=11
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=Sokoban
+Comment=Clone of the Sokoban game
+Exec=gsoko
+Icon=gsoko.png
+Terminal=false
+Type=Application
+X-SingleInstance=true
+Categories=Game;LogicGame
+

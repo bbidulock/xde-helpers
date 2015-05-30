@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=blobwars
+X-AppInstall-Popcon=93
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Categories=ArcadeGame;Game;
+X-Desktop-File-Install-Version=1.0
+Name=Metal Blob Solid
+Icon=blobwars
+Exec=blobwars
+Terminal=false
+Type=Application

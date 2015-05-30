@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=projectm-jack
+X-AppInstall-Popcon=2
+X-AppInstall-Section=main
+
+Name=projectM Jack Audio Visualization
+GenericName=JACK Audio Stream Visualization
+Comment=A milkdrop based music visualizer visualizing JackAudio streams on a Qt4 GUI
+Exec=/usr/bin/projectM-jack
+Icon=prjm16-transparent.svg
+Type=Application
+Categories=AudioVideo;Audio;
+Terminal=false

@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=relational
+X-AppInstall-Popcon=6
+X-AppInstall-Section=main
+
+Name=Relational
+GenericName=Relational Algebra
+GenericName[it]=Algebra Relazionale
+Comment=Learn and experiment relational algebra
+Comment[it]=Impara l'algebra relazionale
+Exec=relational
+Icon=kexi
+Terminal=0
+Type=Application
+Encoding=UTF-8
+Categories=Education;

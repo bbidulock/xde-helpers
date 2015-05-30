@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=sgt-puzzles
+X-AppInstall-Popcon=137
+X-AppInstall-Section=main
+
+Version=1.0
+Terminal=false
+Exec=fifteen
+Icon=fifteen
+Type=Application
+Categories=Game;LogicGame;
+Name=Fifteen
+Comment=Try to end up with the tiles in numerical order, with the space in the bottom right
+Comment[fr]=Essayer de tout remettre dans le bon ordre numérique, avec l'espace en bas à droite
+Comment[de]=Versuch, die Spielsteine in numerische Reihenfolge und einem Leerraum unten rechts anzuordnen

@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-AppInstall-Package=lmemory
+X-AppInstall-Popcon=22
+X-AppInstall-Section=main
+
+Type=Application
+Name=LMemory
+GenericName=Memory Game
+Exec=lmemory
+Terminal=false
+Categories=Game;KidsGame;

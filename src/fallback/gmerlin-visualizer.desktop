@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=gmerlin
+X-AppInstall-Popcon=52
+X-AppInstall-Section=main
+
+Name=Gmerlin visualizer
+Name[de]=Gmerlin visualisierer
+Comment=Run visualization plugins
+Comment[de]=Visualisierungs Plugins laufen lassen
+Exec=gmerlin_visualizer
+Icon=gmerlin-visualizer.png
+Type=Application
+Categories=Application;AudioVideo;
+

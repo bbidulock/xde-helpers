@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=xmpuzzles
+X-AppInstall-Popcon=10
+X-AppInstall-Section=main
+
+Name=xmskewb
+GenericName=skewb game
+Exec=/usr/games/xmskewb
+Icon=_usr_share_pixmaps_xskewb.m
+Terminal=false
+Type=Application
+Categories=Game;

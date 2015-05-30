@@ -1,0 +1,21 @@
+[Desktop Entry]
+X-AppInstall-Package=wormux
+X-AppInstall-Popcon=165
+X-AppInstall-Section=main
+
+Name=Wormux
+GenericName=Arcade Game
+Comment=A 2D game where funny characters launch funny weapons
+Comment[de]=Ein 2D Spiel mit lustigen Figuren und Waffen
+Comment[es]=Un juego en 2D donde extraños personajes se destripan con alegría
+Comment[fr_FR]=Un jeu en 2D où de drôles de personnages s'étripent joyeusement
+Comment[it]=Un gioco in 2D dove dei simpatici personaggi si sparano allegramente
+Comment[pl_PL]=Gra 2D, w ktorej smieszne postacie uzywaja smiesznych typow broni
+Comment[ro_RO]=Un joc în 2D în care personaje amuzante lansează arme amuzante
+Exec=wormux
+Icon=wormux_128x128.xpm
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=Game;ActionGame;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

@@ -1,0 +1,29 @@
+[Desktop Entry]
+X-AppInstall-Package=plee-the-bear
+X-AppInstall-Popcon=7
+X-AppInstall-Section=main
+
+Version=1.0
+
+Name=Plee the Bear
+Name[fr]=Plee l'ours
+Name[de]=Plee der Bär
+
+Comment=Catch your son, he ate all the honey then ran away
+Comment[en]=Catch your son, he ate all the honey then ran away
+Comment[fr]=Attrapez votre fils, il a mangé tout le miel et s'est enfuit
+Comment[de]=Fange deinen Sohn. Er hat den Honig aufgegessen und ist dann weggelaufen
+
+Exec=plee-the-bear
+Terminal=false
+Icon=ptb
+
+StartupNotify=true
+Type=Application
+Categories=Game;ArcadeGame;
+
+GenericName=A 2D platform game
+GenericName[en]=A 2D platform game
+GenericName[fr]=Un jeu de plateforme en 2D
+
+X-AppInstall-Architectures=amd64,hppa,i386,ia64,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,sparc

@@ -1,0 +1,18 @@
+[Desktop Entry]
+X-AppInstall-Package=wine-bin
+X-AppInstall-Popcon=6949
+X-AppInstall-Section=main
+
+Type=Application
+Encoding=UTF-8
+Name=WINE
+GenericName=Wine Win32 API Emulator
+GenericName[ru]=Эмулятор Win32 API
+Comment=Launch your Windows programs
+Comment[ru]=Программа для запуска приложений для ОС Windows
+Exec=wine %f
+Terminal=false
+Categories=Emulator;
+MimeType=application/x-ms-dos-executable;application/x-msdos-program;application/x-msdownload;application/exe;application/x-exe;application/dos-exe;vms/exe;application/x-winexe;application/msdos-windows;application/x-msdos-program
+Icon=wine
+X-AppInstall-Architectures=amd64,i386

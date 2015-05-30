@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=oggconvert
+X-AppInstall-Popcon=166
+X-AppInstall-Section=main
+
+Version=1.0
+Name=OggConvert
+Comment=Convert media files to Free formats
+Type=Application
+Exec=oggconvert
+Icon=oggconvert
+Categories=AudioVideo;
+Terminal=false
+StartupNotify=true
+

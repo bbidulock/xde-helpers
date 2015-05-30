@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=spout
+X-AppInstall-Popcon=4
+X-AppInstall-Section=main
+
+Type=Application
+Encoding=UTF-8
+Name=Spout
+GenericName=
+Comment=
+Icon=spout.xpm
+Exec=/usr/games/spout
+Terminal=false
+Categories:Application:Game:ArcadeGame

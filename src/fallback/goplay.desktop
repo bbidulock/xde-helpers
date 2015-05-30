@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=goplay
+X-AppInstall-Popcon=58
+X-AppInstall-Section=main
+
+Type=Application
+Name=GoPlay!
+GenericName=goplay
+Comment=Gaming packages browser
+Icon=goplay
+Exec=goplay
+Terminal=false
+Categories=Utility;
+MimeType=

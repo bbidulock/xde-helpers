@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Mount-gtk
+Type=Application
+Terminal=false
+Name[en_GB]=Mount-gtk
+Exec=mount-gtk
+Icon=drive-removable-media
+Categories=GTK;Utility;
+X-Arch-Package=mount-gtk2 1.4.3-2
+X-Arch-Package=mount-gtk2 1.4.3-2

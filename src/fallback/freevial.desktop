@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=freevial
+X-AppInstall-Popcon=7
+X-AppInstall-Section=main
+
+Type=Application
+Name=Freevial
+Comment=Play a trivia-like game for community events
+Comment[ca]=Jugeu a un joc de preguntes i respostes pensat per a actes comunitaris
+Icon=freevial
+Exec=freevial
+Terminal=false
+Categories=Game;

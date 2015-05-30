@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-AppInstall-Package=tetzle
+X-AppInstall-Popcon=4
+X-AppInstall-Section=main
+
+Name=Tetzle
+Exec=tetzle
+Icon=tetzle
+Terminal=false
+Type=Application
+Categories=Qt;Game;LogicGame;

@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=ebview
+X-AppInstall-Popcon=13
+X-AppInstall-Section=main
+
+Name=EBView
+Name[ja]=EBView 辞書ブラウザ
+Comment=EPWING CD-ROM dictionary viewer
+Comment[ja]=EPWING形式のCD-ROM辞書を検索します
+Icon=_usr_share_pixmaps_ebview
+Exec=/usr/bin/ebview
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Application;GTK;Utility;Dictionary;
+MimeType=application/ebview;

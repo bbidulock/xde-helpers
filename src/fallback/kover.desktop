@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=kover
+X-AppInstall-Popcon=48
+X-AppInstall-Section=main
+
+Type=Application
+MimeType=application/x-kover
+Exec=kover  
+Icon=kover
+Comment=CD Cover Printer
+Terminal=false
+Name=Kover
+Encoding=UTF-8

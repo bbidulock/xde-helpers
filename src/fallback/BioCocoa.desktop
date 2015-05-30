@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=biococoa.app
+X-AppInstall-Popcon=36
+X-AppInstall-Section=main
+
+Type=Application
+Version=0.94
+Categories=Education;Science;Biology;
+Name=BioCocoa
+Comment=GNUstep BioCocoa
+Icon=_usr_lib_GNUstep_Applications_BioCocoa.app_Resources_biococoa
+Exec=BioCocoa

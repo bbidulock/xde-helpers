@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=keysafe
+X-AppInstall-Popcon=3
+X-AppInstall-Section=main
+
+Version=1.0
+Name=KeySafe Config
+Comment=KeySafe configuration tool
+Exec=/usr/bin/ksed
+Type=Application
+Terminal=false
+Categories=Settings;Security

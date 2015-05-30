@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=bloboats
+X-AppInstall-Popcon=25
+X-AppInstall-Section=main
+
+Name=Bloboats
+Comment=An arcade-like boat racing game
+Exec=bloboats
+Icon=bloboats
+Terminal=false
+Type=Application
+Categories=Game;ArcadeGame;
+StartupNotify=false

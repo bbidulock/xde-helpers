@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=ballz
+X-AppInstall-Popcon=7
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=B.A.L.L.Z.
+Comment=Platform game with some puzzle elements
+Exec=ballz
+Icon=ballz.png
+Terminal=false
+Type=Application
+Categories=Game;ActionGame;

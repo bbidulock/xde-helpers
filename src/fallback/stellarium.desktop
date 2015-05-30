@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=stellarium
+X-AppInstall-Popcon=354
+X-AppInstall-Section=main
+
+Type=Application
+Name=Stellarium
+GenericName=Desktop planetarium
+Exec=stellarium
+Icon=stellarium
+StartupNotify=false
+Terminal=false
+Categories=Astronomy;Education;Science;
+Comment=Planetarium
+Comment[fr]=Planétarium

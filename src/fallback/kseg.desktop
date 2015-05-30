@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=kseg
+X-AppInstall-Popcon=46
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Name=KSeg Geometry Sketchpad
+Comment=Sketchpad for planar Euclidean geometry
+Exec=kseg
+Icon=kseg
+Type=Application
+Terminal=false
+Categories=Application;Math;Science;Education

@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=pymol
+X-AppInstall-Popcon=296
+X-AppInstall-Section=main
+
+Version=1.0
+Name=PyMOL Molecular Graphics System
+Name[pl]=PyMOL, graficzny modeler cząsteczek
+GenericName=Molecular Modeller
+GenericName[pl]=Modeler cząsteczek
+Comment=Model molecular structures and produce high-quality images of them
+Comment[pl]=Program do tworzenia i wizualizowania modeli cząsteczek
+Type=Application
+Exec=pymol
+Icon=pymol
+MimeType=chemical/x-pdb
+Categories=Education;Science;Chemistry;

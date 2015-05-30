@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=mysql-admin
+X-AppInstall-Popcon=834
+X-AppInstall-Section=main
+
+Name=MySQL Administrator
+Comment=MySQL Administration Tool
+Exec=/usr/bin/mysql-admin
+Terminal=false
+Type=Application
+Icon=_usr_share_mysql-gui_MySQLIcon_Admin_48x48
+Categories=GTK;Database;Development;Application
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

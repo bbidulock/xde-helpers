@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=rezound
+X-AppInstall-Popcon=69
+X-AppInstall-Section=main
+
+Type=Application
+Name=ReZound
+GenericName=
+Comment=
+Icon=rezound32.xpm
+Exec=/usr/bin/rezound --audio-method=jack
+Terminal=false
+Categories=Application;AudioVideo;Audio;

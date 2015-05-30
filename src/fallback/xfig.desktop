@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=/usr/bin/xfig
+InitialPreference=2
+MimeType=image/fig;image/x-xfig;
+Name=xfig
+Terminal=false
+Type=Application
+Categories=Application;Graphics;
+Icon=xfig
+X-Arch-Package=xfig 3.2.5c-2
+X-Arch-Package=xfig 3.2.5c-2

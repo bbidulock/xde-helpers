@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=mnemosyne
+X-AppInstall-Popcon=35
+X-AppInstall-Section=main
+
+Name=Mnemosyne
+Comment=A flash card program to make your review process more efficient
+Exec=mnemosyne %f
+Icon=mnemosyne
+Categories=Education
+Terminal=false
+Type=Application

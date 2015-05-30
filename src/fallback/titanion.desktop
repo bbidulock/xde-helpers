@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=titanion
+X-AppInstall-Popcon=13
+X-AppInstall-Section=main
+
+Type=Application
+Name=Titanion
+GenericName=
+Comment=Kenta Cho's Titanion
+Icon=titanion
+Exec=titanion
+Terminal=false
+Categories=Game;ArcadeGame;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390

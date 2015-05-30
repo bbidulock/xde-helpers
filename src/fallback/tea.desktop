@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=tea
+X-AppInstall-Popcon=46
+X-AppInstall-Section=main
+
+Name=TEA Text Editor
+Version=1.0
+GenericName=TEA Editor
+Comment=Text editor with hundreds of functions
+Icon=tea
+Exec=tea %U
+Terminal=false
+Type=Application
+Categories=Utility;TextEditor;

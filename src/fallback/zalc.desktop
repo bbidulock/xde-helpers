@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.2.4
+Name=Zalc
+Comment=A small, FLTK-based calculator
+Comment[ru_RU]=Простой, базирующийся на FLTK калькулятор
+Exec=zalc
+Icon=zalc
+Type=Application
+Categories=Utility;
+X-Arch-Package=zalc 1.2.4-2
+X-Arch-Package=zalc 1.2.4-2

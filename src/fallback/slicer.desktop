@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=slicer
+X-AppInstall-Popcon=12
+X-AppInstall-Section=main
+
+Name=3D Slicer
+Comment=Start 3D Slicer
+Exec=/usr/bin/slicer3
+Type=Application
+Icon=3DSlicerLogo-DesktopIcon-48x48x256.png
+StartupNotify=true
+Categories=Graphics;MedicalSoftware;
+X-Desktop-File-Install-Version=
+MimeType=
+X-AppInstall-Architectures=amd64,i386,ia64,kfreebsd-amd64,kfreebsd-i386,powerpc,s390,sparc

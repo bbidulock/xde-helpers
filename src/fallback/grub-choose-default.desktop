@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-AppInstall-Package=grub-choose-default
+X-AppInstall-Popcon=21
+X-AppInstall-Section=main
+
+Name=Choose next default for grub
+Comment=Control grub default through a GUI
+Exec=su-to-root -c /usr/sbin/grub-choose-default
+Terminal=false
+Type=Application
+Categories=System;

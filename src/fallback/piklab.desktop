@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=piklab
+X-AppInstall-Popcon=104
+X-AppInstall-Section=main
+
+Type=Application
+Exec=piklab %U
+Icon=piklab
+X-DocPath=piklab/index.html
+Categories=Qt;KDE;Development;IDE;Electronics;
+Comment=Integrated development environment for applications based on PIC microcontrollers.
+Comment[fr]=Environnement de développement intégré pour applications utilisant des microcontroleurs PIC.
+Comment[es]=Entorno integrado de desarrollo de aplicaciones basadas en microcontroladores PIC.
+Terminal=false
+Name=Piklab
+GenericName=IDE
+MimeType=text/x-hex;application/x-piklab;

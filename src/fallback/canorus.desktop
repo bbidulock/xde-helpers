@@ -1,0 +1,21 @@
+[Desktop Entry]
+X-AppInstall-Package=canorus
+X-AppInstall-Popcon=19
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Canorus
+GenericName=Music score editor
+GenericName[de]=Notensatzprogramm
+GenericName[sl]=Program za pisanje not
+Comment=A free next-generation cross-platform music score editor!
+Comment[de]=Ein freies, plattformübergreifendes Notensatzprogramm der nächsten Generation!
+Comment[sl]=Prost program za pisanje not naslednje generacije!
+Exec=canorus
+Icon=_usr_share_canorus_images_clogosm
+Terminal=false
+Type=Application
+Categories=Music;Audio;AudioVideoEditing;Midi;Sequencer;AudioVideo;Qt
+StartupNotify=true
+MimeType=application/x-notes
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

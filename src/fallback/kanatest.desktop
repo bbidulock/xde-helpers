@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=kanatest
+X-AppInstall-Popcon=24
+X-AppInstall-Section=main
+
+Name=Kana test
+GenericName=kanatest
+Comment=Drill game to learn Japanese kana characters
+Comment[fr]=Jeu pour apprendre les kana Japonnais
+Comment[ro]=Joc pentru învățarea caracterelor kana japoneze
+Comment[ru]=Тренировочная игра для изучения знаков японской каны
+Exec=kanatest
+Terminal=false
+Type=Application
+Icon=kanatest
+Categories=Education;Languages;
+StartupNotify=true

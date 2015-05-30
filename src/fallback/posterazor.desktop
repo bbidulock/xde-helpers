@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=posterazor
+X-AppInstall-Popcon=17
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=PosteRazor
+Comment=Cuts a raster image into multipage PDF documents
+Exec=PosteRazor %f
+Terminal=false
+Icon=PosteRazor
+Categories=Graphics;

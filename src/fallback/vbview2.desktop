@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=voxbo
+X-AppInstall-Popcon=7
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+GenericName=VoxBo Image Viewer
+Name=VBView2
+Exec=vbview2 %F
+Type=Application
+Terminal=false
+Categories=Education;Graphics;Science;DataVisualization;MedicalSoftware;Qt;Viewer;

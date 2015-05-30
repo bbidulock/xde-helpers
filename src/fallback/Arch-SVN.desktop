@@ -1,0 +1,11 @@
+[Desktop Entry]
+Comment=Archlinux SVN
+Exec=xdg-open http://projects.archlinux.org/svntogit/
+Icon=arch-logo
+Name=SVN
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Archlinux;
+X-Arch-Package=archlinux-menus 2.5-2
+X-Arch-Package=archlinux-menus 2.5-2

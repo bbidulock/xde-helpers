@@ -1,0 +1,25 @@
+[Desktop Entry]
+X-AppInstall-Package=im-config
+X-AppInstall-Popcon=33
+X-AppInstall-Section=main
+
+Name=Input Method
+Name[ja]=入力メソッド
+Name[zh_TW]=輸入法
+Name[zh_HK]=輸入法
+Name[zh_CN]=输入法
+Name[ko]=입력기
+Name[vi]=Trình chuyển cách nhập liệu
+Name[fr]=Méthode d'entrée
+Name[de]=Eingabemethode
+Comment=Set Keyboard Input Method
+Comment[ja]=キーボード入力メソッドの設定
+Comment[zh_TW]=設定鍵盤輸入模式
+Comment[zh_HK]=設定鍵盤輸入模式
+Comment[zh_CN]=设定键盘输入模式
+Comment[vi]=Chọn kiểu nhập bàn phím
+Type=Application
+Exec=im-config
+Terminal=false
+Icon=input-keyboard
+Categories=Settings

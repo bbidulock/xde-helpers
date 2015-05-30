@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-AppInstall-Package=flpsed
+X-AppInstall-Popcon=74
+X-AppInstall-Section=main
+
+Version=1.0
+Name=flpsed PDF Annotator
+Comment=Add text and annotations to PDF and PostScript documents
+Type=Application
+Exec=flpsed
+Categories=Graphics;Viewer;WordProcessor;

@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=cameleon
+X-AppInstall-Popcon=25
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=Cameleon
+GenericName=OCaml Integrated Development Environment
+GenericName[fr]=Environnement de développement logiciel OCaml 
+Comment=Visual environment to develop OCaml application
+Comment[fr]=Environnement visuel pour le développement d'application OCaml
+Exec=cameleon2.byte
+Categories=Development;IDE;GTK;

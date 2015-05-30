@@ -1,0 +1,28 @@
+#!/bin/bash
+
+dirs=(
+	../dockapps
+	../trayicons
+	../applications
+	/usr/share/xde/applications
+	/usr/share/applications
+	../app-install/desktop
+	../xsessions
+	/usr/share/xde/xsessions
+	/usr/share/xsessions
+#	../autostart
+#	/etc/xdg/xde/autostart
+#	/etc/xdg/autostart
+)
+
+for d in ${dirs[*]}
+do
+	files=$(find $d -name '*.desktop'|sort|xargs -n1 basename)
+	for f in $files
+	do
+		if [ ! -r $f ]
+		then
+			cp -n -v "$d/$f" .
+		fi
+	done
+done

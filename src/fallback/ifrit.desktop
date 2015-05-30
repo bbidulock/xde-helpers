@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=ifrit
+X-AppInstall-Popcon=20
+X-AppInstall-Section=main
+
+Version=1.0
+Name=IFRIT 3D Data Visualization
+Name[en_GB]=IFRIT 3D Data Visualisation
+GenericName=Data Visualization
+GenericName[en_GB]=Data Visualisation
+Comment=Visualize numerical simulations in 3D
+Comment[en_GB]=Visualise numerical simulations in 3D
+Type=Application
+Exec=/usr/bin/ifrit
+Icon=ifrit
+Categories=Application;Science;Education;Physics;

@@ -1,0 +1,11 @@
+
+[Desktop Entry]
+Name=Font Viewer
+Name[es]=Visualizador de fuentes
+Comment=Allows you to view TrueType and Type1 files
+Comment[es]=Permite ver ficheros TrueType y Type1
+Exec=gfontview
+Icon=gfontview.png
+Terminal=0
+Type=Application
+X-Arch-Package=gfontview 0.5.0-2

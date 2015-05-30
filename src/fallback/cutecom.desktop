@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=cutecom
+X-AppInstall-Popcon=80
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=CuteCom
+MimeType=
+GenericName=Serial Terminal
+Exec=cutecom
+Icon=openterm
+Path=
+Type=Application
+Terminal=0
+X-KDE-StartupNotify=false

@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=kazehakase
+X-AppInstall-Popcon=118
+X-AppInstall-Section=main
+
+Name=Kazehakase Web Browser
+Name[ja]=風博士ウェブブラウザ
+Comment=Web browser
+Comment[ja]=ウェブブラウザ
+Exec=kazehakase %U
+Terminal=false
+Type=Application
+Icon=kazehakase-icon
+Categories=Network;WebBrowser;
+MimeType=text/html;text/xml;application/xhtml+xml;

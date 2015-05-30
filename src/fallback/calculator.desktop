@@ -1,0 +1,14 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=FOX Calculator
+GenericName=Calculator
+Comment=Simple desktop calculator
+TryExec=calculator
+Exec=calculator
+Icon=calculator
+Terminal=false
+Categories=Utility;Calculator;
+StartupNotify=false
+StartupWMClass=Calculator
+X-Arch-Package=fox 1:1.6.50-1

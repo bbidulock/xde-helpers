@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=gtkboard
+X-AppInstall-Popcon=39
+X-AppInstall-Section=main
+
+Name=Gtkboard Board Games
+GenericName=Board Games
+Comment=Play various and sundry board games
+Version=1.0
+Encoding=UTF-8
+Exec=gtkboard
+Icon=gtkboard
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Application;Game;LogicGame;BoardGame;
+StartupNotify=true

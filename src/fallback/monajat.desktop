@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=monajat-applet
+X-AppInstall-Popcon=2
+X-AppInstall-Section=main
+
+Name=Monajat Applet for supplications
+Name[ar]=بريمج مناجاة للأذكار
+Comment=Monajat in system tray icon
+Comment[ar]=بريمج مناجاة للأذكار
+Exec=/usr/bin/monajat-applet --auto
+Terminal=false
+Type=Application
+Icon=monajat
+X-KDE-autostart-after=panel
+StartupNotify=false
+Categories=X-Islamic-Software;Utility;
+

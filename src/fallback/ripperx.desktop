@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=ripperx
+X-AppInstall-Popcon=154
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Ripper X
+GenericName=Ripper X
+Comment=Rip Cds
+Type=Application
+Exec=ripperx
+Icon=ripperx
+Categories=AudioVideo;Audio;

@@ -1,0 +1,16 @@
+
+[Desktop Entry]
+X-AppInstall-Package=spe
+X-AppInstall-Popcon=71
+X-AppInstall-Section=main
+
+Name=SPE (Stani's Python Editor)
+Comment=Integrated Python Development Environment
+Exec=/usr/bin/spe
+Icon=spe
+Terminal=false
+Type=Application
+Categories=Development;IDE;Debugger;GUIDesigner;
+StartupNotify=true
+MimeType=text/x-python;
+GenericName=

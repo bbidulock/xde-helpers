@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=gnustep-dl2
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main
+
+Type=Application
+Version=1.0
+Categories=Database;Development;
+Name=DBModeler
+Comment=Database Access Modeler
+Icon=_usr_share_GNUstep_DBModeler.app_DBModeler
+Exec=DBModeler

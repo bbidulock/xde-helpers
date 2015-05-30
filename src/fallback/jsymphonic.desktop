@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=jsymphonic
+X-AppInstall-Popcon=3
+X-AppInstall-Section=main
+
+Name=JSymphonic
+Comment=File manager for Sony MP3 players
+Exec=jsymphonic
+Icon=jsymphonic
+Terminal=false
+Type=Application
+Categories=Java;Audio;Utility

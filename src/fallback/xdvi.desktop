@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=XDvi
+TryExec=xdvi
+Exec=xdvi %f
+Icon=xdvi
+Terminal=false
+Categories=Office;Viewer;
+MimeType=application/x-dvi;application/x-gzdvi;application/x-bzdvi;
+StartupNotify=false
+StartupWMClass=xdvi
+X-Arch-Package=texlive-bin

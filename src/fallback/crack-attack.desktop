@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=crack-attack
+X-AppInstall-Popcon=89
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=Crack Attack
+Comment=Puzzle game similar to Tetris Attack
+Exec=crack-attack
+Icon=crack-attack.xpm
+Terminal=false
+Type=Application
+Categories=Application;Game;BlocksGame;
+StartupNotify=false

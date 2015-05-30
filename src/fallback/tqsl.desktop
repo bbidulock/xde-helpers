@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=trustedqsl
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=TrustedQSL
+Comment=Sign QSO data for upload to LoTW
+Exec=tqsl
+Icon=tqsl.png
+Terminal=false
+Type=Application
+Categories=Utility;HamRadio;

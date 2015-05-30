@@ -1,13 +1,15 @@
 [Desktop Entry]
+Encoding=UTF-8
+Type=Application
 Name=Calcoo Calculator
-GenericName=Calculator
+GenericName=Scientific Calculator
 Comment=GTK+ scientific calculator
+TryExec=/usr/bin/calcoo
 Exec=calcoo
 Icon=calcoo
+Categories=Application;Education;Science;
 Terminal=false
-Type=Application
-Encoding=UTF-8
-Categories=Application;Science;
-TryExec=calcoo
 StartupNotify=false
 StartupWMClass=calcoo
+X-Arch-Package=calcoo 1.3.18-4
+X-Arch-Package=calcoo 1.3.18-4

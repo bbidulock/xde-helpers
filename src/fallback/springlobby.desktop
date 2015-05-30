@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=springlobby
+X-AppInstall-Popcon=37
+X-AppInstall-Section=main
+
+Name=SpringLobby
+Comment=Play real-time strategy games using the Spring engine
+Exec=springlobby
+Icon=springlobby.svg
+Terminal=false
+Type=Application
+Categories=Application;Game;StrategyGame;
+X-SuSE-translate=false
+X-AppInstall-Architectures=amd64,i386

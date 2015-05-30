@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=lusernet.app
+X-AppInstall-Popcon=4
+X-AppInstall-Section=main
+
+Name=LuserNET News Reader
+Name[bg]=Четец на новини (LuserNET)
+Comment=News Reader for GNUstep
+Comment[bg]=Четец на новини за GNUstep
+Version=1.0
+Type=Application
+Categories=Network;News;
+Icon=_usr_share_GNUstep_LuserNET.app_News.app
+Exec=LuserNET

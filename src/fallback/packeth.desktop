@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=packeth
+X-AppInstall-Popcon=24
+X-AppInstall-Section=main
+
+Name=PackETH
+GenericName=Packet Generator
+Type=Application
+Categories=Network;
+Exec=packeth
+StartupNotify=false
+Terminal=false
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

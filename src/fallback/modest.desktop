@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=modest
+X-AppInstall-Popcon=2
+X-AppInstall-Section=main
+
+Name=modest
+GenericName=Email
+Comment=E-mail client
+Exec=modest -s %U
+Terminal=false
+Type=Application
+StartupNotify=true
+MimeType=message/rfc822;
+Icon=modest
+Categories=GNOME;GTK;Network;Email;
+X-Ubuntu-Gettext-Domain=modest
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

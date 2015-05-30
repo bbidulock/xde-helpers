@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=gamine
+X-AppInstall-Popcon=52
+X-AppInstall-Section=main
+
+Name=Gamine
+Comment= simple interactive game for young children
+Icon=gamine
+Exec=/usr/games/gamine
+Terminal=false
+Type=Application
+Categories=Game;ArcadeGame;

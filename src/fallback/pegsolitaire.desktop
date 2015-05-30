@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=pegsolitaire
+X-AppInstall-Popcon=5
+X-AppInstall-Section=main
+
+Name=Peg Solitaire
+GenericName=pegsolitaire
+Comment=Play an educational puzzle game similar to Hi-Q
+Type=Application
+Exec=pegsolitaire
+Icon=pegsolitaire-icon
+Terminal=false
+Categories=Game;LogicGame;

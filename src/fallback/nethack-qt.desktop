@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=nethack-qt
+X-AppInstall-Popcon=50
+X-AppInstall-Section=main
+
+Type=Application
+Encoding=UTF-8
+Name=Qt NetHack
+GenericName=NetHack (Qt interface)
+Comment=
+Icon=nethack
+Exec=/usr/games/nethack-qt
+Terminal=false
+Categories=Application;Game;AdventureGame;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

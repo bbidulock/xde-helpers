@@ -54,3 +54,5 @@ StartupNotify=true
 Categories=GNOME;GTK;Settings;
 NotShowIn=KDE;
 NoDisplay=true
+X-Arch-Package=notification-daemon-gtk2 0.5.0-7
+X-Arch-Package=notification-daemon-gtk2 0.5.0-7

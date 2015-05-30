@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-AppInstall-Package=screenie-qt
+X-AppInstall-Popcon=10
+X-AppInstall-Section=main
+
+Type=Application
+Version=1.0
+Name=Screenie
+GenericName=Screenshot Composer
+Exec=screenie-qt
+Categories=Qt;Graphics;

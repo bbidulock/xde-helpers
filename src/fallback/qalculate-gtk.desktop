@@ -1,0 +1,18 @@
+[Desktop Entry]
+X-AppInstall-Package=qalculate-gtk
+X-AppInstall-Popcon=223
+X-AppInstall-Section=main
+
+Name=Qalculate!
+Name[nl]=Qalculate!
+Name[sv]=Qalculate!
+Comment=Powerful and easy to use calculator
+Comment[nl]=Gemakkelijk te gebruiken rekenmachine met veel mogelijkheden
+Comment[sv]=Kraftfull och användarvänlig miniräknare
+Exec=qalculate-gtk
+Icon=qalculate.png
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;Application;Utility;
+

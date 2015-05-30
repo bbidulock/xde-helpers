@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=sofa-apps
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main
+
+GenericName=SOFA
+Name=SOFA
+Comment=Open Source Framework for Medical Simulation
+Exec=sofa
+Icon=sofa
+Terminal=false
+Type=Application
+Categories=Graphics;

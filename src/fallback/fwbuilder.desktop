@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Firewall Builder
+GenericName=Firewall administration tool
+Comment=Design and Manage Firewall Rules
+Icon=fwbuilder
+Categories=System;Settings;Security;Qt;
+Exec=fwbuilder
+Type=Application
+StartupNotify=true
+Terminal=false
+MimeType=text/x-xml-fwbuilder;
+X-Arch-Package=fwbuilder 5.1.0.3599-5

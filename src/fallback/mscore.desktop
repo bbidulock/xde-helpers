@@ -1,0 +1,19 @@
+[Desktop Entry]
+X-AppInstall-Package=musescore
+X-AppInstall-Popcon=171
+X-AppInstall-Section=main
+
+Version=1.0
+Comment=WYSIWYG Music score typesetter
+Comment[ru]=Визуальный редактор нотных партитур
+Exec=mscore
+GenericName=mscore
+GenericName[ru]=MuseScore
+Icon=mscore
+Name=MuseScore
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Qt;Audio;Sequencer;Midi;AudioVideoEditing;Music;AudioVideo;
+MimeType=application/x-musescore;application/x-musescore+xml;application/vnd.recordare.musicxml;application/vnd.recordare.musicxml+xml;
+X-AppInstall-Architectures=amd64,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

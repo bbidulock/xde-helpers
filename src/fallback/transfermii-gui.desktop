@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=transfermii-gui
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main
+
+Name=Transfermii
+GenericName=Transfer miis from a wiimote
+GenericName[fr]=Copier les miis d'une wiimote.
+Exec=transfermii_gui
+Icon=transfermii_gui.xpm
+Terminal=false
+Type=Application
+Categories=Utility;HardwareSettings
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

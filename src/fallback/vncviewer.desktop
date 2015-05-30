@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=TigerVNC Viewer
+Comment=VNC client
+Exec=/usr/bin/vncviewer
+Icon=tigervnc
+Terminal=false
+StartupNotify=false
+Categories=Network;RemoteAccess;
+X-Arch-Package=tigervnc 1.4.3-4
+X-Arch-Package=tigervnc 1.4.3-4

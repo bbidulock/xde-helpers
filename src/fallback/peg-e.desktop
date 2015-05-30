@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=peg-e
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main
+
+Name=Peg-E
+Comment=Peg elimination game
+Exec=peg-e
+Icon=peg-e
+Terminal=false
+Type=Application
+Categories=Qt;Game;

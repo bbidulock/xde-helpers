@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=aptitude-gtk
+X-AppInstall-Popcon=133
+X-AppInstall-Section=main
+
+Type=Application
+Name=Aptitude Package Manager
+GenericName=Package Manager
+Comment=Install, remove and upgrade software packages
+Icon=debian-logo
+Exec=su-to-root -X -c aptitude-gtk
+Categories=PackageManager;GTK;System;Settings;
+

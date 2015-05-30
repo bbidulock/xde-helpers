@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=UXTerm
+#GenericName=Terminal
+Comment=standard terminal emulator for the X window system
+Exec=uxterm
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Icon=xterm-color_48x48
+Categories=System;TerminalEmulator;
+X-Arch-Package=xterm 318-1
+X-Arch-Package=xterm 318-1

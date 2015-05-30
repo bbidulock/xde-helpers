@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=electric
+X-AppInstall-Popcon=35
+X-AppInstall-Section=main
+
+Version=1.0
+Name=electric
+GenericName=Electrical CAD
+Comment=Electrical CAD System
+Type=Application
+Exec=electric
+Icon=electric
+Categories=Education;Electronics;Engineering;

@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=gnoemoe
+X-AppInstall-Popcon=12
+X-AppInstall-Section=main
+
+Name=GnoeMoe
+GenericName=MOO Client
+Comment=GnoeMoe Gnome MOO Client
+Exec=gnoemoe
+Icon=gnoemoe-logo.svg
+Terminal=0
+Type=Application
+Categories=GNOME;GTK;Network

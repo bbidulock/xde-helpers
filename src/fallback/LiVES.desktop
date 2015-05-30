@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-AppInstall-Package=lives
+X-AppInstall-Popcon=91
+X-AppInstall-Section=main
+
+Name=LiVES 
+Comment=Video Editor/VJ tool
+Categories=AudioVideo;AudioVideoEditing;
+Exec=lives
+Icon=lives
+Type=Application

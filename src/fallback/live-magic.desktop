@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=live-magic
+X-AppInstall-Popcon=92
+X-AppInstall-Section=main
+
+Type=Application
+Version=1.0
+Name=Live Magic
+Comment=Create Debian Live systems (LiveCDs, etc.)
+Icon=_usr_share_live-magic_debian_openlogo-nd-100
+Exec=/usr/bin/live-magic
+Categories=Application;Utility;GTK

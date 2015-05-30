@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Pie Dock
+GenericName=System Tray
+Comment=A circular menu
+Icon=emblem-new
+Exec=piedock
+TryExec=/usr/bin/piedock
+Terminal=false
+Categories=System;Utility;
+StartupNotify=false

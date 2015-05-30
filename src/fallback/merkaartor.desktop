@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=merkaartor
+X-AppInstall-Popcon=89
+X-AppInstall-Section=main
+
+Type=Application
+Version=1.0
+Name=Merkaartor
+GenericName=OpenStreetMap Editor
+GenericName[fr]=Un éditeur pour OpenStreetMap
+GenericName[tr]=Açık Sokak Haritası Düzenleyicisi
+Icon=merkaartor
+Exec=merkaartor
+Terminal=false
+StartupNotify=false
+Categories=Geography;Network;Qt;
+

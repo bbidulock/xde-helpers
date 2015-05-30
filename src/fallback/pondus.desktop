@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=pondus
+X-AppInstall-Popcon=24
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=Pondus
+Comment=Keep track of your weight
+Icon=pondus
+Exec=pondus
+Categories=GTK;Utility;
+Terminal=false

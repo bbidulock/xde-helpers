@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=gopchop
+X-AppInstall-Popcon=62
+X-AppInstall-Section=main
+
+Name=GOPchop
+Comment=MPEG2 GOP-accurate editor
+Version=1.0
+Type=Application
+Categories=Graphics;AudioVideo;GTK;
+MimeType=video/mpeg
+Exec=gopchop %F
+Terminal=false
+StartupNotify=true
+Icon=gopchop.png

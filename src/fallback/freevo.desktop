@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=freevo
+X-AppInstall-Popcon=40
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Name=Freevo
+GenericName=Freevo
+Comment=Playing various multimedia formats, like pictures, audio or video. 
+Comment[de]=Wiedergabe verschiedenster Multimediaformate, wie z.B. Fotos, Musik oder Videos. 
+Exec=freevo
+Terminal=false
+Type=Application
+Icon=_usr_share_pixmaps_freevo
+Categories=Application;AudioVideo;X-Ximian-Main;X-Red-Hat-Base;

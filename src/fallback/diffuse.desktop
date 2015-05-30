@@ -1,0 +1,22 @@
+[Desktop Entry]
+X-AppInstall-Package=diffuse
+X-AppInstall-Popcon=81
+X-AppInstall-Section=main
+
+Name=Diffuse Merge Tool
+Name[de]=Diffuse Mischwerkzeug
+Name[es]=Diffuse utillaje de textos
+Name[ja]=Diffuse マージツール
+Name[zh_CN]=Diffuse 比较合并工具
+Comment=Graphical tool for merging and comparing text files
+Comment[de]=Werzeug zum Mischen und Vergleichen von Textdateien
+Comment[es]=Un utillaje para juntar y comparar archivos de texto
+Comment[ja]=テキストファイルをマージして比較するためのグラフィックツール
+Comment[zh_CN]=图形化的比较和合并文本文件的工具
+Exec=diffuse -s %F
+Icon=diffuse
+Terminal=false
+Type=Application
+MimeType=text/plain;text/x-csrc;text/x-chdr;
+Categories=Development;GTK;TextEditor;TextTools;
+StartupNotify=true

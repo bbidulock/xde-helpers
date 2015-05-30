@@ -1,0 +1,24 @@
+[Desktop Entry]
+X-AppInstall-Package=vagalume
+X-AppInstall-Popcon=20
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Categories=Audio;AudioVideo;GNOME;GTK;Application;Player;
+Name=Vagalume Last.fm Client
+Name[de]=Vagalume Last.fm Client
+Name[es]=Cliente de Last.fm Vagalume
+Name[fi]=Vagalume Last.fm Asiakasohjelma
+Name[fr]=Vagalume un client pour Last.fm
+Name[gl]=Cliente de Last.fm Vagalume
+Name[it]=Vagalume Client Last.fm
+Name[lv]=Vagalume Last.fm klients
+Name[pl]=Vagalume Klient Last.fm
+Name[pt]=Cliente do Last.fm Vagalume
+Name[pt_BR]=Cliente do Last.fm Vagalume
+Name[ru]=Vagalume Last.fm клиент
+Exec=/usr/bin/vagalume
+Icon=vagalume
+X-Icon-path=/usr/share/pixmaps
+X-Window-Icon=vagalume

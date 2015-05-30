@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=rrootage
+X-AppInstall-Popcon=17
+X-AppInstall-Section=main
+
+Type=Application
+Name=rRootage
+GenericName=rrootage
+Comment=Destroy autocreated battleships
+Icon=rrootage.xpm
+Exec=rrootage
+Terminal=false
+Categories=Game;ArcadeGame;

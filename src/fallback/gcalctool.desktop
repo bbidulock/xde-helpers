@@ -157,3 +157,4 @@ X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=gcalctool
 X-GNOME-Bugzilla-Component=general
 X-GNOME-Bugzilla-OtherBinaries=gnome-calculator
+X-Arch-Package=gcalctool-oldgui 5.28.2-3

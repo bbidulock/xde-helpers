@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=bmon
+X-AppInstall-Popcon=241
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Name=bmon
+Comment=Bandwidth monitor
+Comment[en]=Bandbreiten-Monitor
+Exec=bmon
+Terminal=true
+Type=Application
+Categories=Application;Network;

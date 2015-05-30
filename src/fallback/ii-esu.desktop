@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=ii-esu
+X-AppInstall-Popcon=6
+X-AppInstall-Section=main
+
+Type=Application
+Name=ii-esu
+GenericName=ii-esu
+Comment=HIZ's ES
+Icon=ii-esu
+Exec=ii-esu
+Terminal=false
+Categories=Game;ArcadeGame;

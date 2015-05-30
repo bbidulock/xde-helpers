@@ -148,7 +148,7 @@ StartupNotify=true
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=gnome-bluetooth
 X-GNOME-Bugzilla-Component=properties
-X-GNOME-Bugzilla-Version=3.0.1
+X-GNOME-Bugzilla-Version=3.16.1
 X-GNOME-Bugzilla-OtherBinaries=bluetooth-sendto;bluetooth-wizard;
 
 X-Desktop-File-Install-Version=0.15

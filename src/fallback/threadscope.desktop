@@ -1,0 +1,18 @@
+[Desktop Entry]
+X-AppInstall-Package=threadscope
+X-AppInstall-Popcon=3
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Name=threadscope
+Icon=_usr_share_threadscope-0.1.2_threadscope
+Comment=Haskell GHC thread profiler
+Exec=/usr/bin/threadscope
+Terminal=false
+Type=Application
+Categories=Application;Development;
+MimeType=application/x-threadscope;
+Name[es]=threadscope
+Comment[es]=Perfilador de hilos para Haskell GHC
+X-AppInstall-Architectures=amd64,armel,i386,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390,sparc

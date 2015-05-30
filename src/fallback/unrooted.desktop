@@ -1,0 +1,24 @@
+[Desktop Entry]
+X-AppInstall-Package=njplot
+X-AppInstall-Popcon=81
+X-AppInstall-Section=main
+
+Version=1.0
+Terminal=false
+Icon=unrooted
+Exec=unrooted %f
+Name=NJplot (unrooted)
+Name[en]=NJplot (unrooted)
+Name[fr]=NJplot (non enraciné)
+Name[pt_BR]=NJplot (não enraizado)
+GenericName=Tree Plotter
+GenericName[en]=Tree Plotter
+GenericName[fr]=Traceur d'arbres
+GenericName[pt_BR]=Plotador de árvores
+Comment=Displays and exports in PostScript format unrooted phylogenetic trees
+Comment[en]=Displays and exports in PostScript format unrooted phylogenetic trees
+Comment[fr]=Affiche et exporte au format PostScript des arbres phyolgénétiques non enracinés
+Comment[pt_BR]=Exibe e exporta em formato PostScript árvores filogenéticas não enraizadas
+Type=Application
+Categories=Biology;Science;Education;
+MimeType=text/x-clustalw-tree;chemical/njplot;

@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=gcdmaster
+X-AppInstall-Popcon=50
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=Gnome CD Master
+Comment=Gnome Audio CD editor and burner
+Exec=gcdmaster %F
+Icon=gcdmaster.png
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;AudioVideo;Application;X-Fedora;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

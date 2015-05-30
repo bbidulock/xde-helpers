@@ -1,0 +1,27 @@
+[Desktop Entry]
+X-AppInstall-Package=tucnak2
+X-AppInstall-Popcon=4
+X-AppInstall-Section=main
+
+# vim:encoding=utf-8
+# The format of this file is specified at
+# http://freedesktop.org/Standards/desktop-entry-spec
+# The entries are in the order they are listed in version 0.9.5
+# for registered categories see http://standards.freedesktop.org/menu-spec/1.0/apa.html
+Type=Application
+Version=0.9.5
+Name=Tucnak 2
+Name[cs]=Tučňák 2
+GenericName=VHF Contest Logger
+GenericName[cs]=Závodní deník pro VKV
+Comment=VHF Contest Logger
+Comment[fi]=Verkkoliikenne analysaattori
+Comment[fr]=Analyseur de trafic réseau
+Comment[sv]=Nätverkstrafikanalysator
+Icon=tucnak.png
+Exec=tucnak2
+Terminal=false
+MimeType=
+Categories=Utility;Database;HamRadio
+StartupNotify=false
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

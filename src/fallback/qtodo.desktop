@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=qtodo
+X-AppInstall-Popcon=31
+X-AppInstall-Section=main
+
+Name=QToDo
+Comment=ToDo-List manager
+Exec=qtodo
+Icon=_usr_share_pixmaps_qtodo
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=Qt;KDE;Utility;

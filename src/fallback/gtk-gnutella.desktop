@@ -1,0 +1,37 @@
+[Desktop Entry]
+X-AppInstall-Package=gtk-gnutella
+X-AppInstall-Popcon=123
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Name=gtk-gnutella
+Name[de]=gtk-gnutella
+Name[fr]=gtk-gnutella
+Name[hu]=gtk-gnutella
+Name[ja]=gtk-gnutella
+Name[nb]=gtk-gnutella
+Name[nl]=gtk-gnutella
+Name[nn]=gtk-gnutella
+Comment=A GUI based Gnutella Servent
+Comment[de]=Ein grafischer Gnutella-Servent
+Comment[fr]=Un servent Gnutella graphique
+Comment[hu]=Grafikus Gnutella-kiszolgáló
+Comment[ja]=GUI ベースの Gnutella サーバントです
+Comment[nb]=En grafisk Gnutella-tjenent
+Comment[nl]=Een grafische Gnutella servent
+Comment[nn]=Ein grafisk Gnutella-tenent
+GenericName=P2P Client
+GenericName[de]=P2P-Client
+GenericName[fr]=Client P2P
+GenericName[hu]=P2P Kliens
+GenericName[ja]=P2P クライアント
+GenericName[nb]=Fildelingsprogram
+GenericName[nl]=P2P programma
+GenericName[nn]=Fildelingsprogram
+Exec=gtk-gnutella
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=GTK;Application;Network;FileTransfer;P2P;
+Icon=gtk-gnutella.png

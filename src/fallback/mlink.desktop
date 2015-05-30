@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=fastlink
+X-AppInstall-Popcon=18
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Terminal=false
+Exec=mlink
+Name=mlink
+GenericName=Fastlink lod scores
+GenericName[en]=Fastlink lod scores
+Comment=Calculate lod scores and risk with two of more loci
+Comment[en]=Calculate lod scores and risk with two of more loci
+Type=Application
+Categories=Biology;Science;Education;

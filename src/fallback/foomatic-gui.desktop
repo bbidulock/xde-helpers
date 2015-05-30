@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=foomatic-gui
+X-AppInstall-Popcon=711
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Type=Application
+Name=Printers
+Name[ru]=Настройка принтеров
+Comment=Foomatic-GUI printer configuration tool
+Comment[ru]=Программа для настройки принтеров Foomatic-GUI
+Icon=foomatic-gui-logo.png
+Exec=su-to-root -X -c /usr/bin/foomatic-gui
+Terminal=false
+Categories=Application;System;

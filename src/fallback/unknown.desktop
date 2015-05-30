@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=fastlink
+X-AppInstall-Popcon=18
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Terminal=false
+Exec=unknown
+Name=unknown
+GenericName=Fastlink identify genotypes
+GenericName[en]=Fastlink identify genotypes
+Comment=Identify possible genotypes for unknowns
+Comment[en]=Identify possible genotypes for unknowns
+Type=Application
+Categories=Biology;Science;Education;

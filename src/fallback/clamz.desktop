@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=clamz
+X-AppInstall-Popcon=16
+X-AppInstall-Section=main
+
+Name=Clamz MP3 Downloader (command-line)
+Comment=Download MP3 files from AmazonMP3.com
+Exec=clamz "--default-output-dir=\\${XDG_MUSIC_DIR:-\\$HOME/Music}/\\${album_artist}/\\${album}"
+Terminal=true
+Type=Application
+Categories=Network;
+MimeType=audio/x-amzxml;

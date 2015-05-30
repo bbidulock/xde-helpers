@@ -1,0 +1,18 @@
+[Desktop Entry]
+X-AppInstall-Package=synce-trayicon
+X-AppInstall-Popcon=74
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Terminal=false
+Name=SynCE Tray Icon
+Name[sv]=SynCE Notifierings Ikon
+GenericName=SynCE Tray Icon
+GenericName[sv]=SynCE Notifierings Ikon
+Comment=SynCE PDA control for GNOME
+Icon=synce-color
+Exec=/usr/bin/synce-trayicon
+Categories=GNOME;GTK;Utility;
+

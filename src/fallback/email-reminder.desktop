@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=email-reminder
+X-AppInstall-Popcon=30
+X-AppInstall-Section=main
+
+Name=Email-Reminder
+Comment=Set/modify your personal email reminders
+Comment[fr]=Ajouter et modifier vos rappels par courriel
+Exec=/usr/bin/email-reminder-editor
+Terminal=false
+Type=Application
+Categories=Utility;Calendar
+StartupNotify=true

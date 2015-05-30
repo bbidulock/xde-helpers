@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=grafx2
+X-AppInstall-Popcon=9
+X-AppInstall-Section=main
+
+Name=GrafX2
+Comment=Deluxe Paint Clone
+Exec=grafx2
+Terminal=false
+Type=Application
+Icon=grafx2
+Categories=Application;Graphics;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

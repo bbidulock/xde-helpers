@@ -14,4 +14,4 @@ OnlyShowIn=BLACKBOX;WMAKER;PEKWM;ADWM;
 StartupNotify=false
 #use wmsystemtray instead
 Hidden=true
-X-Arch-Package=docker-tray
+X-Arch-Package=docker-tray 1.5-3

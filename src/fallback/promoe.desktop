@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=promoe
+X-AppInstall-Popcon=19
+X-AppInstall-Section=main
+
+# Spec version, NOT application Version
+Version=1.0
+Name=Promoe
+GenericName=XMMS2 Client
+Categories=Qt;Application;AudioVideo;Audio;
+Exec=promoe
+Icon=xmms2
+Terminal=false
+Type=Application
+

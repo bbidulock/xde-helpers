@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=system-config-cluster
+X-AppInstall-Popcon=2
+X-AppInstall-Section=main
+
+Name=Cluster Management
+GenericName=system-config-cluster
+Comment=Configure and manage clusters in a graphical setting
+StartupNotify=true
+Icon=_usr_share_system-config-cluster_pixmaps_node
+Exec=/usr/bin/system-config-cluster
+Type=Application
+Terminal=false
+Categories=System

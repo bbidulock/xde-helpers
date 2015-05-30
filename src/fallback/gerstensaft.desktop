@@ -1,0 +1,25 @@
+[Desktop Entry]
+X-AppInstall-Package=gerstensaft
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Graphical frontend to SAFT
+Name[de]=Grafisches Frontend für SAFT
+Name[ro]=Interfață grafică pentru SAFT
+Name[sv]=Grafiskt gränssnitt för SAFT
+Name[vi]=Giao diện đồ họa của SAFT
+Comment=Graphical frontend to SAFT
+Comment[de]=Grafisches Frontend für SAFT
+Comment[ro]=Interfață grafică pentru SAFT
+Comment[sv]=Grafiskt gränssnitt för SAFT
+Comment[vi]=Giao diện đồ họa của SAFT
+
+Icon=beer-mini.xpm
+Exec=/usr/bin/beer
+Terminal=false
+StartupNotify=false
+
+Categories=Application;Network;

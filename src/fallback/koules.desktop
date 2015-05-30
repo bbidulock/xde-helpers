@@ -1,0 +1,23 @@
+[Desktop Entry]
+X-AppInstall-Package=koules
+X-AppInstall-Popcon=28
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=koules
+GenericName=Arcade Game
+GenericName[de]=Arkade-Spiel
+GenericName[ro_RO]=Joc de arcadă
+GenericName[fr]=Un jeu d'arcade
+Comment=Push your enemies away, but stay away from obstacles
+Comment[de]=Dränge deine Gegner weg, aber halte dich von Hindernissen Fern
+Comment[fr]=Eliminez-vos enemies en restant à l'écart des obstacles
+Icon=koules.png
+
+Exec=koules
+Terminal=false
+StartupNotify=false
+
+Categories=Game;ArcadeGame;
+

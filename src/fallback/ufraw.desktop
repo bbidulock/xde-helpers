@@ -1,0 +1,52 @@
+[Desktop Entry]
+X-AppInstall-Package=ufraw
+X-AppInstall-Popcon=682
+X-AppInstall-Section=main
+
+Name=UFRaw
+GenericName=Raw image converter
+GenericName[cs]=Konvertor raw snímků
+GenericName[da]=Raw-billedbehandler
+GenericName[de]=Konverter für Raw-Bilder
+GenericName[es]=Conversor de imágenes raw
+GenericName[fr]=Convertisseur d'image RAW
+GenericName[it]=Convertitore per immagini Raw
+GenericName[ko]=Raw 이미지 변환기
+GenericName[nb]=Raw-bildebehandler
+GenericName[nl]=Camera Raw Conversie
+GenericName[pl]=Konwerter zdjęć RAW
+GenericName[pt]=Conversor de imagens cruas
+GenericName[ru]=Проявитель цифровых негативов
+GenericName[sr]=Преводилац Raw слика
+GenericName[sr@latin]=Prevodilac Raw slika
+GenericName[zh_CN]=Raw 图像转换器
+
+Comment=A utility to read and manipulate raw images from digital cameras
+Comment[cs]=Program ke čtení a manipulaci raw snímků z digitálních fotoaparátů
+Comment[da]=Et program til at læse og behandle raw-billeder fra digitalkameraer
+Comment[de]=Ein Werkzeug, um Raw-Bilder von Digitalkameras zu lesen und zu manipulieren
+Comment[es]=Programa para leer y manipular imágenes raw de cámaras digitales
+Comment[fr]=Un utilitaire pour lire et manipuler les images RAW des appareils photos numériques
+Comment[it]=Gestione immagini Raw realizzate con fotocamere digitali
+Comment[ko]=디지털 카메라의 Raw 이미지를 읽고, 처리하는 프로그램
+Comment[nb]=Et program for å lese og behandle raw-bilder fra digitale kameraer
+Comment[nl]=Programma om digitale camera RAW bestanden te bewerken en converteren
+Comment[pl]=Program do odczytu i korekty zdjęć w formacie RAW z aparatów cyfrowych
+Comment[pt]=Programa para ler e manipular imagens de câmeras digitais
+Comment[ru]=Проявка цифровых негативов и сохранение в TIFF/JPEG
+Comment[sr]=Алат за читање и обраду raw слика из дигиталних камера
+Comment[sr@latin]=Alat za čitanje i obradu raw slika iz digitalnih kamera
+Comment[zh_CN]=一个从数码相机中读取并处理原始图像的工具
+
+Version=1.0
+
+Type=Application
+Categories=Graphics;Photography;GTK;
+
+Exec=ufraw %U
+Terminal=false
+StartupNotify=true
+
+MimeType=application/x-ufraw;image/x-dcraw;
+
+Icon=ufraw

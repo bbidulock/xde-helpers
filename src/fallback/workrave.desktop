@@ -1,0 +1,18 @@
+[Desktop Entry]
+X-AppInstall-Package=workrave
+X-AppInstall-Popcon=301
+X-AppInstall-Section=main
+
+Type=Application
+Categories=Utility;GTK;Accessibility
+Exec=workrave
+Icon=_usr_share_pixmaps_workrave_workrave
+Comment=Assists in the prevention and recovery of Repetitive Strain Injury (RSI)
+Comment[et]=Aitab hoiduda ja taastuda ülekoormusvigastustest (RSI).
+Comment[fr]=Aide à éviter les Troubles Musculo-Squelettiques (TMS) ou à s'en remettre
+Comment[hu]=Ez a program segít az ismétlődő mozgásból eredő izomhúzódás (RSI – repetitive strain injury) megelőzésében és az abból való felépülésben
+Comment[nl]=Dit programma helpt bij het voorkomen en genezen van Repetitive Strain Injury (RSI).
+Comment[ro]=Vă asistă în prevenirea Repetitive Strain Injury (RSI)
+Comment[sv]=Hjälper till att förebygga och återhämta sig från musarm (RSI).
+Name=Workrave
+Categories=Application;Other

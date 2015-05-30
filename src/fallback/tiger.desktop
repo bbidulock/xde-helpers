@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=tiger
+X-AppInstall-Popcon=855
+X-AppInstall-Section=main
+
+Name=Tiger UNIX security tool
+Comment=Tiger UNIX security tool (root)
+Exec=su-to-root -c '/usr/sbin/tiger'
+Terminal=true
+Type=Application
+Categories=System;
+StartupNotify=true

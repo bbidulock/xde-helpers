@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-AppInstall-Package=hatari
+X-AppInstall-Popcon=54
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=Hatari UI
+Exec=hatariui
+Icon=hatari-icon

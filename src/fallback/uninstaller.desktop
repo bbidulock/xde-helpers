@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=wine-bin
+X-AppInstall-Popcon=6949
+X-AppInstall-Section=main
+
+Type=Application
+Encoding=UTF-8
+Name=Wine Uninstaller
+Comment=Uninstall Windows programs
+Comment[ca]=Desinstaŀla programes de Windows
+Exec=uninstaller
+Icon=_usr_share_pixmaps_wine
+Terminal=false
+Categories=Application;System;
+X-AppInstall-Architectures=amd64,i386

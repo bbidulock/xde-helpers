@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=tvtime
+X-AppInstall-Popcon=308
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Comment=High quality video deinterlacer
+Icon=tvtime.png
+Exec=tvtime
+Name=TVtime Television Viewer
+GenericName=Television Viewer
+Terminal=false
+Type=Application
+Categories=Application;AudioVideo;
+X-AppInstall-Architectures=amd64,i386

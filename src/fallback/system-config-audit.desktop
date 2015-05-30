@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=system-config-audit
+X-AppInstall-Popcon=12
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=Audit Configuration
+Name[cs]=Nastavení auditu
+Comment=Modify audit configuration
+Comment[cs]=Upravit nastavení auditu
+Exec=su-to-root -X -c system-config-audit
+Terminal=false
+Type=Application
+Icon=logviewer
+Categories=Settings;System;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

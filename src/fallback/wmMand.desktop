@@ -1,0 +1,15 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Mandelbrot Set Browser Dock App
+GenericName=Amusement
+Comment=Mandelbrot set browser dockapp for WindowMaker
+Icon=GNUstep3D
+TryExec=/usr/bin/wmMand
+Exec=wmMand
+Terminal=false
+Categories=DockApp;WMAKER;
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+StartupNotify=false
+StartupWMClass=wmMand
+

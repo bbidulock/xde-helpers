@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=multisync
+X-AppInstall-Popcon=110
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=Multisync
+Comment=Synchronization program for personal information such as calendars, addressbooks etc.
+Comment[de]=Synchronisation von Organizern, PIMs und Mobiltelefonen
+Exec=/usr/bin/multisync
+Terminal=false
+Type=Application
+Icon=_usr_share_multisync_pixmaps_multisync
+StartupWMClass=multisync
+X-Desktop-File-Install-Version=0.3
+Categories=Application;Utility;X-Red-Hat-Base;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

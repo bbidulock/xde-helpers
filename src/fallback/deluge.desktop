@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=deluge-gtk
+X-AppInstall-Popcon=575
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Deluge BitTorrent Client
+GenericName=Bittorrent Client
+Comment=Transfer files using the Bittorrent protocol
+Exec=deluge-gtk
+Icon=deluge
+Terminal=false
+Type=Application
+Categories=Network;
+StartupNotify=true
+MimeType=application/x-bittorrent;

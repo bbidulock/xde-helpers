@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-AppInstall-Package=gomoku.app
+X-AppInstall-Popcon=16
+X-AppInstall-Section=main
+
+Type=Application
+Version=0.94
+Categories=Game;BoardGame;
+Name=Gomoku.app
+Comment=GNUstep Gomoku Game
+Exec=Gomoku

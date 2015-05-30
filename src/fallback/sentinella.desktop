@@ -1,0 +1,29 @@
+# This file is distributed under the same license as the Sentinella package.
+# Copyright (C) 2010 Carlos Olmedo Escobar <carlos.olmedo.e@gmail.com>
+# http://standards.freedesktop.org/desktop-entry-spec/latest/index.html
+[Desktop Entry]
+X-AppInstall-Package=sentinella
+X-AppInstall-Popcon=12
+X-AppInstall-Section=main
+
+Name=Sentinella
+Exec=sentinella -caption "%c" %i
+Icon=sentinella
+GenericName=Action launcher based on system activity
+GenericName[da]=Handlings launcher baseret på system aktivitet
+GenericName[de]=basierend auf der System Aktivität
+GenericName[es]=Lanzador de acciones basado en actividad del sistema
+GenericName[fr]=Lanceur d'action basé sur l'activité du système
+GenericName[gl]=Lanzador de accións baseado na actividade do sistema
+GenericName[hu]=Rendszer aktivitáson alapuló eseménykezelő alkalmazás
+GenericName[it]=Avvia azioni a seconda dell'attività di sistema
+GenericName[nl]=Actiestarter op basis van systeemactiviteit
+GenericName[pt]=Lançador de Acção baseado na actividade do sistema
+GenericName[ro]=Lansator de acțiuni bazat pe activitatea sistemului
+GenericName[ru]=Исполнитель действий согласно системной активности
+GenericName[sv]=Åtgärdsaktiverare baserad på systemets aktiviteter
+GenericName[zh_CN]=基于系统状态的命令启动器
+Terminal=false
+Type=Application
+X-KDE-StartupNotify=true
+Categories=System;Monitor;Qt;

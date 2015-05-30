@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Type=Application
 Name=Xfe File Manager
 Name[cs]=Xfe
 Name[de]=Xfe
@@ -49,13 +47,15 @@ Comment[pt_BR]=Um gerenciador de arquivos leve para o X Window
 Comment[ru]=Легкий файловый менеджер для X Window
 Comment[sv]=En lättviktig filhanterare för X Window
 Comment[zh_TW]=X 視窗的輕量檔案管理員
-Terminal=false
-Icon=xfe
-TryExec=xfe
 Exec=xfe %u
-Categories=System;FileManager;
+Terminal=false
+Type=Application
 StartupNotify=true
+Icon=xfe
+Categories=System;FileManager;
 X-XFCE-Binaries=xfe;
 X-XFCE-Category=FileManager
 X-XFCE-Commands=%B;
 X-XFCE-CommandsWithParameter=%B "%s";
+X-Arch-Package=xfe-arch 1.37-1
+X-Arch-Package=xfe-arch 1.37-1

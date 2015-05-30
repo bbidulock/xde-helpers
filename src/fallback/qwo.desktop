@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=qwo
+X-AppInstall-Popcon=2
+X-AppInstall-Section=main
+
+Name=qwo
+Comment=An input method for touchscreens
+Version=0.5
+Type=Application
+Exec=qwo
+Terminal=false
+Categories=Utility;Keyboard
+X-MB-SingleInstance=true
+Icon=qwo

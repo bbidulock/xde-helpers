@@ -1,0 +1,45 @@
+[Desktop Entry]
+Version=1.0
+
+Type=Application
+
+Name=Pragha
+GenericName=Music Player
+GenericName[ca_ES]=Reproductor de música
+GenericName[cs]=Hudební přehrávač
+GenericName[de]=Musik-Player
+GenericName[es]=Reproductor de música
+GenericName[fr]=Lecteur de musique
+GenericName[it]=Riproduttore Musicale
+GenericName[ko_KR]=음악 플레이어
+GenericName[nl]=Muziekspeler
+GenericName[pt]=Reprodutor de músicas
+GenericName[ru]=Музыкальный проигрыватель
+GenericName[tr]=Müzik Çalar
+GenericName[uk]=Музичний програвач Pragha
+GenericName[zh_CN]=音乐播放器
+Comment=Manage and listen to music
+Comment[ca_ES]=Escolteu i gestioneu la música
+Comment[cs]=Spravovat a poslouchat hudbu
+Comment[de]=Musik verwalten und anhören
+Comment[es]=Escuche y administre su música
+Comment[fr]=Gérer et écouter de la musique
+Comment[it]=Gestisci e ascolta la musica
+Comment[ko_KR]=음악을 관리하고 들으세요
+Comment[nl]=Beheer en luister naar muziek
+Comment[pt]=Gestão e reprodução de músicas
+Comment[ru]=Слушайте и управляйте музыкой
+Comment[tr]=Müziği yönetin ve dinleyin
+Comment[zh_CN]=管理和听音乐
+Icon=pragha
+
+Categories=GTK;AudioVideo;Player;
+
+Exec=pragha %F
+TryExec=pragha
+Terminal=false
+StartupNotify=true
+
+MimeType=application/x-ape;audio/ape;audio/x-ape;audio/x-m4a;video/x-ms-asf;audio/x-ms-wma;audio/x-mp3;audio/mpeg;audio/x-mpeg;audio/mpeg3;audio/mp3;application/ogg;application/x-ogg;audio/vorbis;audio/x-vorbis;audio/ogg;audio/x-ogg;audio/x-flac;application/x-flac;audio/flac;audio/x-wav;audio/mpegurl;audio/x-mpegurl;audio/x-scpls;application/xspf+xml;audio/x-ms-wax;
+X-Arch-Package=pragha 1.3.2.1-1
+X-Arch-Package=pragha 1.3.2.1-1

@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=luola
+X-AppInstall-Popcon=19
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=Luola
+
+
+Type=Application
+Categories=Application;ArcadeGame;Game;
+
+Exec=luola
+
+Icon=luola-icon
+Terminal=false
+

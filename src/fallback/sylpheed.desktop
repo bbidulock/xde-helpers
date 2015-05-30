@@ -1,0 +1,18 @@
+[Desktop Entry]
+X-AppInstall-Package=sylpheed
+X-AppInstall-Popcon=284
+X-AppInstall-Section=main
+
+Name=Sylpheed
+Name[ja]=Sylpheed
+Comment=E-Mail client
+Comment[de]=E-Mail Programm
+Comment[fr]=Client de messagerie électronique
+Comment[hu]=Grafikus email kliens
+Comment[ja]=電子メールクライアント
+Comment[pl]=Klient poczty elektronicznej
+Exec=sylpheed
+Icon=sylpheed
+Terminal=false
+Type=Application
+Categories=GTK;Network;Email;News;

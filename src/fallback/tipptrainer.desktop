@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=tipptrainer
+X-AppInstall-Popcon=32
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Tipptrainer Typing Tutor
+GenericName=Typing Tutor
+Comment=A program to learn touch typing
+Comment[de]=Programm zur Erlernung des Blindschreibens
+Icon=/usr/share/tipptrainer/tipptrainer
+Type=Application
+Categories=Education;
+Exec=tipptrainer

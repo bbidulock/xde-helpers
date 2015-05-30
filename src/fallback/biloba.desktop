@@ -1,0 +1,18 @@
+[Desktop Entry]
+X-AppInstall-Package=biloba
+X-AppInstall-Popcon=16
+X-AppInstall-Section=main
+
+Type=Application
+Version=1.0
+Name=Biloba
+GenericName=Board Game
+GenericName[es]=Juego de tablero
+GenericName[fr]=Jeu de plateau
+Comment=Up to four player network capable turn based strategy board game
+Comment[es]=Juego de estrategia por turnos de hasta cuatro jugadores en red
+Comment[fr]=Jeu de stratégie tour par tour, jusqu'à quatre joueurs en réseau
+Comment[ast]=Xuegu d'estratexia por turnos pa hasta cuatro xugaores en rede
+Exec=biloba
+Icon=biloba
+Categories=BoardGame;Game;

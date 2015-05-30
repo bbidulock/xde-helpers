@@ -1,5 +1,7 @@
 [Desktop Entry]
+Encoding=UTF-8
 Name=GV PostScript & PDF Viewer 
+MimeType=application/ps;application/pdf;application/postscript;image/x-eps;application/illustrator
 GenericName=PS and PDF viewer
 Comment=PostScript and PDF previewer
 Comment=PostScript and PDF previewer
@@ -112,11 +114,12 @@ Comment[xh]=Umboniseli Wokubhaliweyo Okuposwayo
 Comment[zh_CN]=Postscript 查看器
 Comment[zh_TW]=Postscript 檢視器
 Comment[zu]=Umboniseli Wokubhaliweyo Okudluliswayo
-Exec=gv
-Icon=/usr/share/pixmaps/gv_icon.xpm
-Terminal=false
-Type=Application
-MimeType=application/ps;application/pdf;
-Encoding=UTF-8
-Categories=Viewer;Graphics;Office;
 TryExec=gv
+Exec=gv
+Icon=gv_icon.xpm
+Categories=Application;Graphics;Viewer;Office;
+Type=Application
+Terminal=false
+StartupNotify=true
+X-Arch-Package=gv 3.7.4-2
+X-Arch-Package=gv 3.7.4-2

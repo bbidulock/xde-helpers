@@ -1,0 +1,35 @@
+[Desktop Entry]
+X-AppInstall-Package=gpdftext
+X-AppInstall-Popcon=43
+X-AppInstall-Section=main
+
+Name=gPDFText ebook editor
+Name[cs]=Editor elektronických knih gPDFText
+Name[de]=gPDFText eBook-Editor
+Name[es]=Editor gPDFText para libros electrónicos
+Name[it]=Editor di eBook gPDFText
+Name[pl]=gPDFText Edytor ebook-ów
+Name[pt]=Editor de ebook gPDFText
+Name[ru]=Редактор ebook gPDFText
+Name[sv]=gPDFText ebok-redigerare
+Name[vi]=Trình chỉnh sửa ebook gPDFText
+Name[zh_CN]=gPDFText电子书编辑
+Comment=Edit text from ebook PDF files
+Comment[cs]=Upravuje text ze souborů elektronických knih PDF
+Comment[de]=Text von eBook-PDF-Dateien bearbeiten
+Comment[es]=Editar texto de los archivos PDF
+Comment[it]=Modifica il testo da file PDF eBook
+Comment[pl]=Edytuj tekst z pliku ebooka PDF
+Comment[pt]=Editar texto dos ficheiros PDF ebook
+Comment[ru]=Редактировать текст из файлов ebook PDF
+Comment[sv]=Redigera text från eböcker i PDF-format.
+Comment[vi]=Sửa văn bản từ tập tin ebook PDF
+Comment[zh_CN]=编辑PDF电子书文本
+Exec=gpdftext %U
+Terminal=false
+Type=Application
+Icon=gpdftext
+MimeType=application/pdf;
+Categories=Utility;TextEditor;
+StartupNotify=true
+

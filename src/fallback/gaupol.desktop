@@ -1,0 +1,35 @@
+[Desktop Entry]
+X-AppInstall-Package=gaupol
+X-AppInstall-Popcon=376
+X-AppInstall-Section=main
+
+Name=Gaupol
+Name[fi]=Gaupol
+Name[hu]=Gaupol
+Name[ru]=Gaupol
+GenericName=Subtitle Editor
+GenericName[de]=Untertiteleditor
+GenericName[fi]=Tekstitysmuokkain
+GenericName[hu]=Felirat szerkesztő
+GenericName[ru]=Редактор субтитров
+Comment=Edit subtitle files
+Comment[de]=Untertiteldateien bearbeiten
+Comment[fi]=Muokkaa tekstitystiedostoja
+Comment[hu]=Felirat fájl szerkesztése
+Comment[pl]=Edytuj pliki napisów
+Comment[ru]=Редактирование файлов субтитров
+Comment[sv]=Redigera undertextfiler
+Exec=gaupol %F
+Terminal=false
+StartupNotify=true
+Icon=gaupol
+Type=Application
+MimeType=text/x-microdvd;text/x-mpsub;text/x-ssa;application/x-subrip;text/x-subviewer;
+Categories=GTK;AudioVideo;Video;
+X-GNOME-FullName=Gaupol Subtitle Editor
+X-GNOME-FullName[de]=Untertiteleditor Gaupol
+X-GNOME-FullName[fi]=Gaupol tekstitysmuokkain
+X-GNOME-FullName[hu]=Gaupol felirat szerkesztő
+X-GNOME-FullName[pl]=Edytor napisów Gaupol
+X-GNOME-FullName[ru]=Редактор субтитров Gaupol
+X-GNOME-FullName[sv]=Undertextredigeraren Gaupol

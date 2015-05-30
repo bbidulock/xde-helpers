@@ -1,0 +1,15 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Calendar Clock Keyboard Dock App
+GenericName=Clock
+Comment=Calendar clock dock app with keyboard indicator
+Icon=GNUstep3D
+TryExec=/usr/bin/wmCalClockKbd
+Exec=wmCalClockKbd
+Terminal=false
+Categories=DockApp;WMAKER;
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+StartupNotify=false
+StartupWMClass=wmCalClockKbd
+X-Arch-Package=wmcalclockkbd

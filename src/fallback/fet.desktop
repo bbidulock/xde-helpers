@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=fet
+X-AppInstall-Popcon=15
+X-AppInstall-Section=main
+
+Type=Application
+Name=Timetable Generator
+GenericName=
+Comment=Generate timetables for educational institutions
+Icon=fet
+Exec=fet
+Terminal=false
+Categories=Utility;

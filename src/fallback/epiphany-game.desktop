@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=epiphany
+X-AppInstall-Popcon=68
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Epiphany
+GenericName=Game
+GenericName[es]=Juego
+Comment=Collect valuable minerals, while avoiding being hit by a falling boulder or a bomb
+Comment[es]=Recolecta valiosos minerales mientras evitas que te alcancen los bloques de roca que caen o las bombas
+Type=Application
+Exec=epiphany-game
+Icon=epiphany-game
+Categories=ArcadeGame;Game;

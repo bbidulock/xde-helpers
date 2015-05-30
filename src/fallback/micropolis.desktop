@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=micropolis
+X-AppInstall-Popcon=20
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Exec=/usr/games/micropolis
+Icon=_usr_share_icons_Micropolis
+Terminal=false
+Name=Micropolis
+Comment=A real-time city management simulator
+Comment[de_DE]=Eine Stadt-Simulation in Echtzeit
+Categories=Game;Simulation;
+StartupNotify=true

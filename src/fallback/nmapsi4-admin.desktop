@@ -1,0 +1,18 @@
+[Desktop Entry]
+X-AppInstall-Package=nmapsi4
+X-AppInstall-Popcon=35
+X-AppInstall-Section=main
+
+Name=NmapSI4 - Full mode
+Comment=Is a Qt4 interface for nmap scanner
+Comment[ru]=Qt4 интерфейс для сканера nmap
+Comment[uk]=Qt4 інтерфейс для сканера nmap
+Comment[it]=Interfaccia Qt4 per nmap
+Exec=su-to-root -X -c nmapsi4
+Icon=_usr_share_icons_hicolor_32x32_apps_nmapsi4
+Terminal=false
+Type=Application
+X-KDE-SubstituteUID=true
+X-KDE-Username=root
+X-GNOME-Username=root
+Categories=Qt;Application;System;Security;

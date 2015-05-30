@@ -1,0 +1,21 @@
+[Desktop Entry]
+X-AppInstall-Package=freespeak
+X-AppInstall-Popcon=19
+X-AppInstall-Section=main
+
+Version=1.0
+Name=FreeSpeak
+Name[fr]=FreeSpeak
+Name[it]=FreeSpeak
+Categories=Education;Translation
+Exec=freespeak
+Icon=freespeak
+StartupNotify=true
+Terminal=false
+Type=Application
+GenericName=A free frontend to online translator engines
+GenericName[fr]=Une interface pour les moteurs de traduction en ligne
+GenericName[it]=Un frontend libero ai motori di traduzione online
+Comment=A free frontend to online translator engines
+Comment[fr]=Une interface pour les moteurs de traduction en ligne
+Comment[it]=Un frontend libero ai motori di traduzione online

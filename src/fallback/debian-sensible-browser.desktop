@@ -57,3 +57,4 @@ X-XFCE-Binaries=sensible-browser;
 X-XFCE-Category=WebBrowser
 X-XFCE-Commands=%B;
 X-XFCE-CommandsWithParameter=%B "%s";
+X-Arch-Package=sensible-utils 0.0.7-1

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Flmusic
+Comment=Very simple CD/audio player
+Exec=flmusic
+Icon=flmusic
+Terminal=false
+StartupNotify=false
+Categories=AudioVideo;Audio;Player;
+X-Arch-Package=flmusic 1.2.1-1
+X-Arch-Package=flmusic 1.2.1-1

@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=blobby
+X-AppInstall-Popcon=19
+X-AppInstall-Section=main
+
+Type=Application
+Version=1.0
+Name=Blobby Volley 2
+GenericName=Volley-Ball Game
+Icon=blobby
+Exec=blobby
+Terminal=false
+Categories=Game;ArcadeGame;

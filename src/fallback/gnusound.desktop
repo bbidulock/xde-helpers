@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=gnusound
+X-AppInstall-Popcon=72
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Type=Application
+Name=GNUsound
+Comment=Sound editor
+Exec=gnusound %F
+Icon=_usr_share_gnusound_gui_logo
+Terminal=0
+MimeType=audio/wav;audio/x-wav;audio/mpeg;audio/x-mpeg;audio/mpeg3;audio/x-mpeg-3;audio/x-mp3;video/mpeg;video/x-mpeg;audio/aiff;audio/x-aiff;audio/basic;video/avi;video/msvideo;video/x-msvideo;audio/x-au;audio/x-realaudio;audio/x-pn-realaudio;audio/voc;audio/x-voc;audio/x-flac;application/x-flac;application/ogg;audio/x-ulaw;audio/x-voc;video/quicktime;video/x-ms-asf;video/x-ms-wmv
+GenericName=Sound Editor
+Categories=Application;AudioVideo;Audio;AudioVideoEditing;Player;Recorder;GTK;GNOME;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

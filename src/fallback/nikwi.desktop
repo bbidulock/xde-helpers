@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=nikwi
+X-AppInstall-Popcon=4
+X-AppInstall-Section=main
+
+Type=Application
+Name=Nikwi Deluxe
+GenericName=nikwi
+Comment=Platform game where your goal is to collect candies
+Icon=nikwi
+Exec=nikwi
+Terminal=false
+Categories=Game;ArcadeGame;
+X-AppInstall-Architectures=amd64,armel,i386,ia64,kfreebsd-amd64,kfreebsd-i386,mipsel

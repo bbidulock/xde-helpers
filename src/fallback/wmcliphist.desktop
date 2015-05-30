@@ -1,0 +1,15 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Clip History Dock App
+GenericName=Clipboard
+Comment=Dock app that keeps X clipboard history
+Icon=GNUstep3D
+TryExec=/usr/bin/wmcliphist
+Exec=wmcliphist
+Terminal=false
+Categories=DockApp;WMAKER;
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+StartupNotify=false
+StartupWMClass=wmcliphist
+X-Arch-Package=wmcliphist

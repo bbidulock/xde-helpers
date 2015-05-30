@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=usbview
+X-AppInstall-Popcon=270
+X-AppInstall-Section=main
+
+Name=usbview
+Comment=View USB devices attached to system
+Exec=/usr/bin/usbview
+Terminal=false
+MultipleArgs=false
+Type=Applications/System/Hardware
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,sparc

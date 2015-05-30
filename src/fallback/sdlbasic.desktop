@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=sdlbasic
+X-AppInstall-Popcon=10
+X-AppInstall-Section=main
+
+Type=Application
+Name=sdlBasic
+GenericName=sdlBasic
+Comment=Multiplatform basic interpreter for the development of videogames
+Icon=sdlbasic
+Categories=Development;
+Exec=sdlBasic
+Terminal=false

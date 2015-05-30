@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=spim
+X-AppInstall-Popcon=15
+X-AppInstall-Section=main
+
+Name=xSPIM
+Comment=Graphical MIPS32 Assembly language emulator
+Exec=xspim
+Icon=xspim
+Terminal=false
+Type=Application
+Categories=ComputerScience;Science;Education
+StartupNotify=True
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,kfreebsd-amd64,kfreebsd-i386,powerpc,s390,sparc

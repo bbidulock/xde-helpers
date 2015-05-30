@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=driftnet
+X-AppInstall-Popcon=42
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Name=Driftnet
+Comment=Picks out and displays images from network traffic
+Exec=driftnet
+Icon=driftnet
+Type=Application
+Categories=Network;Monitor;
+

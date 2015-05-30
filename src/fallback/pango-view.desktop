@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Pango Viewer
+GenericName=pango 1.32.5
+Comment=View "Hello world!" with pango.
+Icon=pango-view
+TryExec=/usr/bin/pango-view
+Exec=pango-view -t "Hello world!"
+Terminal=false
+Categories=System;Utility;
+StartupNotify=false

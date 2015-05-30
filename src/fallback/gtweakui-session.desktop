@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=gtweakui
+X-AppInstall-Popcon=170
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=gTweakUI - Session
+Comment=Extra session preferences
+Exec=gtweakui-session
+Icon=
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;Application;Settings
+X-Desktop-File-Install-Version=0.3
+OnlyShowIn=GNOME;

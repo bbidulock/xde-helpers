@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=chemtool
+X-AppInstall-Popcon=78
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Chemtool
+GenericName=Chemistry Structure Editor
+Comment=Draw and make calculations on chemical structures
+Type=Application
+Exec=chemtool
+Icon=chemtool
+Terminal= false
+MimeType=application/x-chemtool;
+Categories=Science;Chemistry;Education;

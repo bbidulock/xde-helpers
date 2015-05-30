@@ -1,0 +1,21 @@
+[Desktop Entry]
+X-AppInstall-Package=gconf-cleaner
+X-AppInstall-Popcon=53
+X-AppInstall-Section=main
+
+Name=GConf Cleaner
+Name[de]=GConf Cleaner
+Name[fr]=GConf Cleaner
+Name[ja]=GConfクリーナー
+Name[sv]=GConf Cleaner
+Comment=A Cleaning tool for GConf
+Comment[de]=Ein Reinigungs-Werkzeug für Gconf
+Comment[fr]=Un outil de nettoyage pour Gconf
+Comment[ja]=GConf用の掃除ツール
+Comment[sv]=En rensningsverktyg för GConf
+Exec=gconf-cleaner
+Icon=gconf-cleaner.png
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;System;

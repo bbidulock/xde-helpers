@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=gnome-art
+X-AppInstall-Popcon=265
+X-AppInstall-Section=main
+
+Name=Art Manager
+Comment=Install themes from art.gnome.org website
+Exec=gnome-art
+Icon=gnome-graphics
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;Application;Settings;
+OnlyShowIn=GNOME;

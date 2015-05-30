@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=projectcenter.app
+X-AppInstall-Popcon=20
+X-AppInstall-Section=main
+
+Type=Application
+Categories=Development;IDE;
+Icon=_usr_share_pixmaps_ProjectCenter
+Name=ProjectCenter
+Name[bg]=Среда за разработка (ProjectCenter)
+Comment=The Official GNUstep IDE
+Comment[bg]=Официалната интегрирана среда за разработка за GNUstep
+Exec=ProjectCenter

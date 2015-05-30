@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=fillets-ng
+X-AppInstall-Popcon=43
+X-AppInstall-Section=main
+
+Name=Fish Fillets
+Comment=Puzzle game about witty fish saving the world sokoban-style
+Comment[ro]=Un puzzle cu un pește inteligent care salvează lumea în stil sokoban
+Exec=fillets
+Icon=fillets-ng
+Terminal=false
+Type=Application
+Categories=Game;LogicGame;

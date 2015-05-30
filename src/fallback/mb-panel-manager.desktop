@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=matchbox-panel-manager
+X-AppInstall-Popcon=20
+X-AppInstall-Section=main
+
+Name=Panel Manager
+Comment=Manage panel configuration 
+Exec=matchbox-panel-manager
+Type=Application
+Icon=mbpanelmgr.png
+Categories=Application;SystemSettings;MB
+StartupNotify=True
+SingleInstance=True

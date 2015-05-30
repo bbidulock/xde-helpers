@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=yapet
+X-AppInstall-Popcon=5
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=YAPET
+GenericName=Password Encryption
+Comment=Yet Another Password Encryption Tool
+Exec=/usr/bin/yapet %f
+Terminal=true
+Categories=Utility;Security;ConsoleOnly;
+# $Id: yapet.desktop.in 2368 2009-06-11 17:15:11Z rafi $

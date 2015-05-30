@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=xawtv
+X-AppInstall-Popcon=351
+X-AppInstall-Section=main
+
+Comment=TV viewer for X11
+Name=XawTV
+Exec=xawtv
+Terminal=false
+GenericName=XawTV
+Type=Application
+Categories=AudioVideo;
+Icon=xawtv48x48
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,kfreebsd-i386,mips,mipsel,powerpc,s390,sparc

@@ -208,3 +208,4 @@ X-GNOME-Bugzilla-Component=general
 X-GNOME-Bugzilla-Version=2.30.2
 MimeType=application/docbook+xml;x-scheme-handler/ghelp;x-scheme-handler/help;x-scheme-handler/info;x-scheme-handler/man;
 X-Desktop-File-Install-Version=0.18
+X-Arch-Package=yelp 3.16.1-1

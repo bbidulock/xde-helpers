@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=pangzero
+X-AppInstall-Popcon=16
+X-AppInstall-Section=main
+
+Name=Pang Zero
+GenericName=pangzero
+Comment=Pop balloons with your harpoon
+Type=Application
+Exec=pangzero
+Icon=pangzero
+Terminal=false
+Categories=Game;ArcadeGame;
+

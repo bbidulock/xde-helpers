@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=ChBg
+Comment=Desktop wallpaper changer
+Comment[sk_SK]=Program na zmenu obrázkov na pozadí pracovnej plochy
+TryExec=chbg
+Exec=chbg
+Icon=chbg_64x64.xpm
+Terminal=false
+Categories=Settings;
+StartupNotify=true
+X-Arch-Package=chbg 1.5-6

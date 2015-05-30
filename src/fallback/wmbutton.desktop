@@ -1,10 +1,14 @@
 [Desktop Entry]
 Type=Application
 Encoding=UTF-8
-Name=wmbutton
+Name=Application Button Dock App
+GenericName=Application Launcher
+Comment=WMButton application launcher dock app
 TryExec=wmbutton
 Exec=wmbutton
 Terminal=false
 Categories=DockApp;WMAKER;
 OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+StartupNotify=false
+StartupWMClass=wmbutton
 X-Arch-Package=wmbutton

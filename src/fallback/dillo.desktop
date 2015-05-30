@@ -1,8 +1,10 @@
 [Desktop Entry]
 Version=1.0
-Icon=networking_www_section
+Icon=dillo
 Type=Application
 Name=Dillo
+GenericName=Web Browser
+Comment=A small, fast graphical web browser build on FLTK
 StartupNotify=true
 TryExec=dillo
 Exec=dillo %u
@@ -11,3 +13,4 @@ X-XFCE-Binaries=dillo;
 X-XFCE-Category=WebBrowser
 X-XFCE-Commands=%B;
 X-XFCE-CommandsWithParameter=%B "%s";
+X-Arch-Package=dillo 3.0.4.1-1

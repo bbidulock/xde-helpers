@@ -1,0 +1,20 @@
+[Desktop Entry]
+X-AppInstall-Package=rubrica
+X-AppInstall-Popcon=14
+X-AppInstall-Section=main
+
+Name=Rubrica Addressbook
+_Name=Rubrica Addressbook
+Comment=Manage contacts and addresses
+Comment[it]=Gestore di contatti e indirizzi
+_Comment=Manage contacts and addresses
+MimeType=application/x-rubrica
+Patterns=*.rub;*.RUB;
+Exec=rubrica2
+Icon=stock_addressbook.png
+Terminal=false
+Type=Application
+Categories=GNOME;Application;Office;
+StartupNotify=true
+Encoding=UTF-8
+

@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=mango-lassi
+X-AppInstall-Popcon=13
+X-AppInstall-Section=main
+
+Name=Input Device Sharing
+Name[de]=Gemeinsame Eingabegeräte
+Comment=Share mouse and pointer with other Computers
+Comment[de]=Maus und Tastatur mit anderen Computern teilen
+Exec=/usr/bin/mango-lassi
+Icon=mango-lassi
+Type=Application
+Categories=Network;
+

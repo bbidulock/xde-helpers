@@ -1,0 +1,30 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=XSession
+Name=Dwm
+Icon=dwm
+Exec=dwm
+GenericName=Window Manager
+GenericName[fr]=Gestionnaire de Fenêtres
+GenericName[pt]=Gestor de Janelas
+Comment=Dynamic window manager
+Categories=WindowManager;Application;System;
+StartupNotify=false
+NoDisplay=true
+X-GNOME-WMName=dwm
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-Autostart-Notify=false
+X-Arch-Package=dwm-git 1:6.0.43.g14343e6-1
+Actions=XDE;
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Exec=xde-session -desktop DWM -startwm start-dwm
+Comment=Dwm in an XDE session
+
+[Window Manager]
+SessionManaged=true
+StartupNotification=false
+X-XDE-Managed=true

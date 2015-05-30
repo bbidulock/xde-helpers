@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=X Display Properties
+GenericName=xdpyinfo
+Comment=List properties of the X display
+Icon=xlogo
+TryExec=xdpyinfo
+Exec=xdpyinfo|gxmessage -name xdpyinfo -geometry 450x450 -font 'Liberation Mono 8' -title 'X Display Properties' -file -
+Terminal=false
+Categories=X-X11;Application;X-XTool;
+StartupNotify=false
+StartupWMClass=xdpyinfo

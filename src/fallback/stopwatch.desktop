@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=stopwatch
+X-AppInstall-Popcon=66
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Encoding=UTF-8
+Name=Stopwatch
+Comment=A virtual stopwatch
+Exec=/usr/bin/stopwatch
+Categories=Application;Utility
+Icon=_usr_share_pixmaps_stopwatch
+

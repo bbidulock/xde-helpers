@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-AppInstall-Package=easydiff.app
+X-AppInstall-Popcon=13
+X-AppInstall-Section=main
+
+Type=Application
+Version=0.94
+Categories=Utility;TextTools;
+Name=EasyDiff
+Comment=A graphical GNUstep diff utility
+Exec=EasyDiff

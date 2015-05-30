@@ -1,0 +1,20 @@
+[Desktop Entry]
+X-AppInstall-Package=gmlive
+X-AppInstall-Popcon=19
+X-AppInstall-Section=main
+
+Name=Gmlive
+Name[es_ES]=GMLive
+Name[pl]=Gmlive
+Name[zh_CN]=GMLive
+Name[zh_TW]=GMLive
+Comment=Streaming Direct Broadcast System based on P2P
+Comment[es_ES]=Sistema de streaming directo y basado en P2P
+Comment[pl]=Streaming Direct Broadcast System based on P2P
+Comment[zh_TW]=基於 P2P 的串流廣播系統
+Exec=gmlive
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=gmlive
+Categories=AudioVideo;

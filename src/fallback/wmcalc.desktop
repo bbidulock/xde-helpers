@@ -1,0 +1,15 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Calculator Dock App
+GenericName=Calculator
+Comment=4-function calculator dock app
+Icon=GNUstep3D
+TryExec=/usr/bin/wmcalc
+Exec=wmcalc
+Terminal=false
+Categories=DockApp;WMAKER;
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+StartupNotify=false
+StartupWMClass=wmcalc
+X-Arch-Package=wmcalc

@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=qsynth
+X-AppInstall-Popcon=190
+X-AppInstall-Section=main
+
+Name=Qsynth
+Version=0.3.5
+GenericName=FluidSynth GUI
+Comment=Qsynth is a FluidSynth Qt GUI Interface
+Exec=/usr/bin/qsynth
+Icon=_usr_share_pixmaps_qsynth
+Categories=Audio;AudioVideo;Midi;Music;Qt
+Terminal=false
+Type=Application
+X-SuSE-translate=true

@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=viruskiller
+X-AppInstall-Popcon=21
+X-AppInstall-Section=main
+
+Categories=Game;ArcadeGame;
+X-Desktop-File-Install-Version=1.0
+Name=Virus Killer
+Icon=viruskiller
+Exec=viruskiller
+Terminal=false
+Type=Application

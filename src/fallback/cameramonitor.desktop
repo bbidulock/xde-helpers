@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=cameramonitor
+X-AppInstall-Popcon=107
+X-AppInstall-Section=main
+
+Name=Camera Monitor
+Comment=Camera Monitor
+Exec=cameramonitor
+Icon=_usr_share_cameramonitor_cameramonitor
+Terminal=false
+Type=Application
+Categories=GNOME;Application;AudioVideo;

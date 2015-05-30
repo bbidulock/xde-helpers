@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=epigrass
+X-AppInstall-Popcon=5
+X-AppInstall-Section=main
+
+Name=Epigrass
+Comment=Epidemics Simulator
+GenericName=Epidemics Simulator
+Exec=epigrass
+Icon=/usr/share/pixmaps/egicon.png
+Type=Application
+StartupNotify=false
+Terminal=false
+Categories=Education;Science;

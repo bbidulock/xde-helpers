@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=gretl
+X-AppInstall-Popcon=24
+X-AppInstall-Section=main
+
+Name=gretl
+Comment=Econometrics program
+Exec=gretl %f
+Icon=gretl.xpm
+Terminal=0
+Type=Application
+Categories=Application;Science;Econometrics
+

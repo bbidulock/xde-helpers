@@ -1,0 +1,14 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=X Keyboard LEDs
+GenericName=Keyboard
+Comment=Display X Keyboard LEDs
+Exec=xkbvleds
+Icon=xlogo
+Terminal=false
+Categories=X-X11;Application;X-XTool;
+X-AfterStep-IndexName=xkbvleds
+TryExec=xkbvleds
+StartupNotify=false
+StartupWMClass=xkbvleds

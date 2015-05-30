@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=monodoc-http
+X-AppInstall-Popcon=16
+X-AppInstall-Section=main
+
+Name=Monodoc (http)
+GenericName=Documentation Browser
+Comment=Monodoc Documentation Browser
+Exec=monodoc-http
+Icon=monodoc.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=Application;Development;

@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Adobe Reader 9
+GenericName=PDF Viewer
+Icon=AdobeReader9
+TryExec=/opt/Adobe/Reader9/bin/acroread 
+Exec=/opt/Adobe/Reader9/bin/acroread 
+Terminal=false
+Categories=Application;Office;Viewer;X-Red-Hat-Base;
+MimeType=application/pdf;application/vnd.fdf;application/vnd.adobe.pdx;application/vnd.adobe.xdp+xml;application/vnd.adobe.xfdf;
+StartupNotify=false
+InitialPreference=9
+X-KDE-StartupNotify=false
+Caption=PDF Viewer

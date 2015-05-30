@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Adept Installer
+GenericName=Add/Remove Software
+Icon=applications-other
+Exec=adept installer
+Terminal=false
+OnlyShowIn=KDE;
+Categories=Qt;KDE;Core;
+StartupNotify=false
+X-KDE-SubstituteUID=true
+X-AppInstall-Package=adept
+X-AppInstall-Popcon=70
+X-AppInstall-Section=main

@@ -1,0 +1,18 @@
+# KDE Config File  
+[Desktop Entry]
+X-AppInstall-Package=guidedog
+X-AppInstall-Popcon=16
+X-AppInstall-Section=main
+
+Type=Application
+Exec=guidedog -caption "%c" %i %m  
+Icon=guidedog.png
+DocPath=guidedog/index.html
+Comment=
+Comment[de]=
+Terminal=0
+Name=Guidedog
+Name[de]=Guidedog
+X-KDE-RootOnly=true
+X-KDE-SubstituteUID=true
+X-KDE-Username=root

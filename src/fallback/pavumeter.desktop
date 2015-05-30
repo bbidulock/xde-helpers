@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=pavumeter
+X-AppInstall-Popcon=376
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=PulseAudio Volume Meter (Playback)
+GenericName=Playback Volume Meter
+Comment=Monitor the output volume
+Exec=pavumeter
+Icon=audio-input-microphone
+StartupNotify=true
+Type=Application
+Categories=AudioVideo;Audio;

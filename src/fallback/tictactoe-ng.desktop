@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=tictactoe-ng
+X-AppInstall-Popcon=3
+X-AppInstall-Section=main
+
+Name=Tic Tac Toe
+Type=Application
+Comment=Simple, fun tic tac toe game for GNOME
+Exec=tictactoe-ng
+Icon=tictactoe
+Terminal=False
+Categories=GNOME;GTK;Game;

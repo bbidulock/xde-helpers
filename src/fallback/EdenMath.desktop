@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=edenmath.app
+X-AppInstall-Popcon=68
+X-AppInstall-Section=main
+
+Type=Application
+Version=0.94
+Categories=Utility;Calculator;
+Name=EdenMath
+Comment=A Scientific Calculator
+Icon=_usr_lib_GNUstep_Applications_EdenMath.app_Resources_EdenMath
+Exec=EdenMath

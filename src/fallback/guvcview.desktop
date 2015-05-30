@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=guvcview
+X-AppInstall-Popcon=88
+X-AppInstall-Section=main
+
+Version=1.0
+Name=guvcview
+GenericName=GTK UVC video viewer
+Comment=A video viewer and capturer for the linux uvc driver
+Exec=guvcview
+Icon=_usr_share_pixmaps_guvcview_guvcview
+Terminal=false
+Type=Application
+Categories=Video;AudioVideo;
+StartupNotify=true
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

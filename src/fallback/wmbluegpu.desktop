@@ -1,0 +1,15 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Blue GPU Temperature Monitor Dock App
+GenericName=System Monitor
+Comment=A blue GPU temperature monitor dock app for Nvidia
+Icon=GNUstep3D
+TryExec=/usr/bin/wmbluegpu
+Exec=wmbluegpu
+Terminal=false
+Categories=DockApp;WMAKER;
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+StartupNotify=false
+StartupWMClass=wmbluegpu
+X-Arch-Package=wmbluegpu

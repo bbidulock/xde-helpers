@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-AppInstall-Package=mm3d
+X-AppInstall-Popcon=32
+X-AppInstall-Section=main
+
+Name=Misfit Model 3D
+Comment=Create and edit 3D models and animations
+Exec=mm3d
+Terminal=false
+Type=Application
+Categories=Application;Graphics;

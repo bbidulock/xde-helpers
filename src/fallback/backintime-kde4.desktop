@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=backintime-kde
+X-AppInstall-Popcon=28
+X-AppInstall-Section=main
+
+Name=Back In Time
+Exec=backintime-kde4
+Icon=document-save
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+StartupNotify=true
+Categories=Qt;KDE;System;
+Comment=Simple backup system
+Comment[sl]=Enostaven sistem ustvarjanja varnostnih kopij

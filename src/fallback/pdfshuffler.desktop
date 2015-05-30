@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=pdfshuffler
+X-AppInstall-Popcon=83
+X-AppInstall-Section=main
+
+Version=1.0
+Name=PDF-Shuffler
+Comment=PDF Merging, Rearranging, Splitting, Rotating and Cropping
+Type=Application
+Exec=pdfshuffler
+Icon=pdfshuffler
+Categories=Office;
+Terminal=false
+StartupNotify=false

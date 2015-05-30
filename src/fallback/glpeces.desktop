@@ -1,0 +1,23 @@
+[Desktop Entry]
+X-AppInstall-Package=glpeces
+X-AppInstall-Popcon=5
+X-AppInstall-Section=main
+
+Comment=Play with 33 tangram and more 4600 figures
+Comment[ca]=Jugau amb 33 tangrams i més de 4600 figures
+Comment[es]=Juega con 33 tangram y más de de 4600 figuras
+Exec=/usr/games/glpeces
+GenericName=Peces (Tangram game)
+GenericName[ca]=Peces (Joc de tangram)
+GenericName[es]=Peces (Juegos de tangram)
+Icon=_usr_share_pixmaps_glpeces
+MimeType=
+Name=Peces
+Name[ca]=Peces
+StartupNotify=true
+Terminal=false
+Type=Application
+X-DCOP-ServiceType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=Game;LogicGame;

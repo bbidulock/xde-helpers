@@ -1,11 +1,15 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=eboard
+Type=Application
+Version=1.0
+Name=eBoard
 GenericName=Chess Game
-Comment=A graphical chess engine frontend
+Comment=A chess interface to ICS and chess engines
+Icon=eboard
 TryExec=eboard
 Exec=eboard
-Icon=/usr/share/pixmaps/chess.png
 Terminal=false
-Type=Application
-Categories=Application;Game;BoardGame
+Categories=GTK;Game;BoardGame;
+StartupNotify=true
+StartupWMClass=eboard
+X-Arch-Package=eboard 1.1.1-5

@@ -1,0 +1,15 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Blue Clock Dock App
+GenericName=Clock
+Comment=A blue clock dock app
+Icon=GNUstep3D
+TryExec=/usr/bin/wmblueclock
+Exec=wmblueclock
+Terminal=false
+Categories=DockApp;WMAKER;
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+StartupNotify=false
+StartupWMClass=wmblueclock
+X-Arch-Package=wmblueclock

@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=objcryst-fox
+X-AppInstall-Popcon=1
+X-AppInstall-Section=main
+
+Type=Application
+Encoding=UTF-8
+Name=Fox
+Comment=Crystal structure determination
+GenericName=Diffraction Analysis
+Icon=_usr_share_pixmaps_fox
+Exec=fox %F
+Terminal=False
+StartupNotify=true
+Categories=Education;Science;DataVisualization;

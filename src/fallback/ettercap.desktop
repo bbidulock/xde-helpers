@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Ettercap
+Comment=Multipurpose Network sniffer/analyser/interceptor/logger
+Exec=ettercap-pkexec -G
+Icon=ettercap
+Terminal=false
+Type=Application
+Categories=Network;
+Keywords=ettercap,ettercap-pkexec
+X-Arch-Package=ettercap-gtk 0.8.2-1
+X-Arch-Package=ettercap-gtk 0.8.2-1

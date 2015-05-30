@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=kbarcode
+X-AppInstall-Popcon=56
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Type=Application
+Exec=kbarcode --batch
+Icon=kbarcode.png
+DocPath=kbarcode/index.html
+Comment=Barcode and label printing tool (batch printing mode)
+Comment[de]=Werkzeug zum Barcode und Etiketten Druck (Stapelverarbeitung)
+Terminal=false
+Name=KBarcode Batch Printing
+Name[de]=KBarcode Batch Druck
+Categories=Qt;KDE;Office;

@@ -1,0 +1,18 @@
+[Desktop Entry]
+X-AppInstall-Package=yate-qt4
+X-AppInstall-Popcon=6
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=Yate VoIP Client
+Name[ro]=Yate client de VoIP
+GenericName=VoIP Phone
+GenericName[ro]=Telefon VoIP
+Comment=Place phone calls over the Internet
+Comment[ro]=Apeluri telefonice peste Internet
+Exec=yate-qt4
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Application;Network;Qt
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

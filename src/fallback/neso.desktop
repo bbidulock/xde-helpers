@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=tryton-neso
+X-AppInstall-Popcon=3
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=Neso
+GenericName=Standalone Client/Server for the Tryton Application Platform
+GenericName[de]=Autonomer Client/Server für die Tryton Applikationsplattform
+Comment=Run Tryton
+Comment[de]=Tryton starten
+Exec=neso
+Icon=neso-icon
+Terminal=false
+Categories=Office;Finance;

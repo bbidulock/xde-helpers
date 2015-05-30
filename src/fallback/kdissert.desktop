@@ -1,0 +1,35 @@
+[Desktop Entry]
+X-AppInstall-Package=kdissert
+X-AppInstall-Popcon=112
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Type=Application
+Exec=kdissert -caption "%c" %i %m
+Icon=kdissert
+DocPath=kdissert/index.html
+MimeType=application/x-kdissert
+Categories=Qt;KDE;Utility;X-KDE-More;
+Name=kdissert
+Name[da]=Kdissert
+Name[sv]=Kdissert
+Name[xx]=xxkdissertxx
+GenericName=Mindmap Tool
+GenericName[bg]=Игра за упражнение на паметта
+GenericName[da]=Mindmap-værktøj
+GenericName[el]=Εργαλείο χάρτη σκέψης
+GenericName[es]=Herramienta de mapa mental
+GenericName[et]=Mõttekaardi rakendus
+GenericName[fr]=Outil de cartographie conceptuelle
+GenericName[gl]=Ferramenta de Mapas de Ideas
+GenericName[it]=Strumento per mappe mentali
+GenericName[ka]=გონების რუქის ხელსაწყო
+GenericName[nl]=Hulpmiddel voor het maken van zogenaamde mindmaps
+GenericName[pt]=Ferramenta de Mapas da Mente
+GenericName[pt_BR]=Ferramenta de Mapas mentais
+GenericName[sk]=Mindmap nástroj
+GenericName[sr]=Алат за мапе ума
+GenericName[sr@Latn]=Alat za mape uma
+GenericName[sv]=Mindmap-verktyg
+GenericName[tr]=Bellek Haritası Aracı
+GenericName[xx]=xxMindmap Toolxx

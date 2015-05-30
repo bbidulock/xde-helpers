@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=sgt-puzzles
+X-AppInstall-Popcon=137
+X-AppInstall-Section=main
+
+Version=1.0
+Terminal=false
+Exec=untangle
+Icon=untangle
+Type=Application
+Categories=Game;LogicGame;
+Name=Untangle
+Comment=Position the points so that no line crosses another
+Comment[fr]=Placer les attaches de telle sorte qu'aune ligne ne se croise
+Comment[de]=Positioniere die Punkte, so dass sich keine Linien kreuzen

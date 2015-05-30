@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=GTK+ Demo
+Comment=GTK+ code examples and demonstrations
+Exec=gtk3-demo
+Icon=gtk3-demo
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GTK;
+NoDisplay=true
+X-Arch-Package=gtk3 3.16.3-2
+X-Arch-Package=gtk3 3.16.3-2

@@ -1,0 +1,26 @@
+[Desktop Entry]
+X-AppInstall-Package=gadmin-openvpn-client
+X-AppInstall-Popcon=18
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=GADMIN-OPENVPN-Client
+Name[de]=GADMIN-OPENVPN-Client
+Name[es]=GADMIN-OPENVPN-Client
+Name[fi]=GADMIN-OPENVPN-Client
+Name[fr]=GADMIN-OPENVPN-Client
+Name[ko]=GADMIN-OPENVPN-Client
+Name[no]=GADMIN-OPENVPN-Client
+Name[pt_BR]=GADMIN-OPENVPN-Client
+Name[sl]=GADMIN-OPENVPN-Client
+Name[sv]=GADMIN-OPENVPN-Client
+Name[uk]=GADMIN-OPENVPN-Client
+Name[ro]=GADMIN-OPENVPN-Client
+Name[zh_TW]=GADMIN-OPENVPN-Client
+GenericName=GADMIN-OPENVPN-Client
+Comment=OpenVPN Client administration
+Exec=su-to-root -X -c /usr/sbin/gadmin-openvpn-client
+Icon=gadmin-openvpn-client
+Terminal=false
+Type=Application
+Categories=GTK;System;

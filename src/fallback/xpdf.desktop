@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Xpdf
+Comment=Views Adobe PDF (acrobat) files
+Exec=xpdf %f
+Terminal=false
+Type=Application
+Icon=xpdf
+Categories=Office;
+MimeType=application/pdf;
+X-Arch-Package=xpdf 3.04-2
+X-Arch-Package=xpdf 3.04-2

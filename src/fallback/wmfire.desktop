@@ -1,11 +1,15 @@
 [Desktop Entry]
 Type=Application
 Encoding=UTF-8
-Name=wmfire
+Name=CPU Monitor Dock App (wmfire)
+GenericName=System Monitor
 Comment=very cool fiery way of showing your CPU usage
-TryExec=wmfire
+Icon=GNUstep3D
+TryExec=/usr/bin/wmfire
 Exec=wmfire
 Terminal=false
 Categories=DockApp;WMAKER;
 OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+StartupNotify=false
+StartupWMClass=wmfire
 X-Arch-Package=wmfire

@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=slimevolley
+X-AppInstall-Popcon=9
+X-AppInstall-Section=main
+
+Name=Slime Volley
+Comment=Unrealistic 2D volleyball simulation
+Comment[fr]=Simulation non réaliste de volley en 2D
+Exec=slimevolley
+Icon=slimevolley
+Terminal=false
+Type=Application
+Categories=Game;SportsGame;

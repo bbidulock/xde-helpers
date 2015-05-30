@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=bibledit
+X-AppInstall-Popcon=9
+X-AppInstall-Section=main
+
+Name=Bibledit
+Comment=Bible Editor
+Icon=bibledit
+Exec=bibledit
+Type=Application
+Categories=Office;
+
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

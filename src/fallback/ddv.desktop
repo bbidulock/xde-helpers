@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=ncbi-tools-x11
+X-AppInstall-Popcon=85
+X-AppInstall-Section=main
+
+Version=1.0
+Name=DDV Sequence Alignment Viewer
+GenericName=Sequence Alignment Viewer
+Comment=View multiple sequence alignment for GenBank
+Type=Application
+Exec=ddv
+Icon=ncbilogo
+Categories=Education;Science;Biology;

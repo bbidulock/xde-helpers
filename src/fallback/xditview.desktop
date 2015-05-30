@@ -1,0 +1,15 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Xditview
+GenericName=Ditroff Viewer
+Comment=A ditroff file viewer for X
+TryExec=xditview
+Exec=xditview %f
+Icon=postscript-viewer
+Terminal=false
+Categories=Office;Viewer;
+MimeType=text/troff;
+StartupNotify=false
+StartupWMClass=xditview
+X-Arch-Package=xorg-xditview

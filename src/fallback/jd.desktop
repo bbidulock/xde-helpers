@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=jd
+X-AppInstall-Popcon=37
+X-AppInstall-Section=main
+
+Exec=jd
+Icon=jd
+Terminal=false
+Type=Application
+Name=JD 2ch browser
+Name[ja]=2ch ブラウザ JD
+Comment=JD is a 2ch browser based on gtkmm2.
+Comment[ja]=gtkmm2 を利用した 2ch ブラウザ
+Categories=Network;

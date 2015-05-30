@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=aranym
+X-AppInstall-Popcon=11
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=ARAnyM
+Comment=Virtual Machine for running Atari 32-bit operating systems and applications
+Exec=aranym
+Icon=aranym
+Terminal=false
+Type=Application
+Categories=System;Emulator;

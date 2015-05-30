@@ -1,0 +1,28 @@
+[Desktop Entry]
+X-AppInstall-Package=bibus
+X-AppInstall-Popcon=40
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Name=Bibus
+Name[en]=Bibus
+Name[de]=Bibus
+Name[fr]=Bibus
+Name[hu]=Bibus
+GenericName[en]=Bibus bibliographic database
+GenericName[de]=Bibliographische Datenbank Bibus
+GenericName[fr]=Base de donnée bibliographique Bibus
+GenericName[hu]=Bibus referencia kezelő
+Comment=manage references and citations in your publications
+Comment[en]=manage references and citations in your publications
+Comment[de]=verwalte Literaturverweise und Zitate in Publikationen 
+Comment[fr]=Logiciel de gestion bibliographique
+Comment[hu]=közlemények citációját és referenciáit kezeli
+Categories=GNOME;Application;WordProcessor;Office;
+Type=Application
+Terminal=false
+Exec=bibus
+Icon=bibus.png
+StartupNotify=true
+

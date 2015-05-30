@@ -1,0 +1,22 @@
+[Desktop Entry]
+X-AppInstall-Package=composite
+X-AppInstall-Popcon=10
+X-AppInstall-Section=main
+
+Name=Composite
+Comment=Live performance sequencer, sampler, looper
+
+GenericName=Sequencer
+
+Version=0.006
+
+Type=Application
+Categories=AudioVideo;X-Sound;Audio;Qt;
+
+MimeType=text/xml;
+
+Exec=composite-gui %F
+Terminal=false
+StartupNotify=true
+
+Icon=composite-icon

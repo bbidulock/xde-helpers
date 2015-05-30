@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=convertall
+X-AppInstall-Popcon=40
+X-AppInstall-Section=main
+
+Version=1.0
+Name=ConvertAll
+GenericName=Unit Converter
+Comment=Convert between many different units
+Icon=convertall
+Exec=convertall
+Terminal=false
+Type=Application
+Categories=Qt;Utility;
+

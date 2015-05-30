@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=boats
+X-AppInstall-Popcon=2
+X-AppInstall-Section=main
+
+Type=Application
+Name=Boat Scenario
+Comment=Race scenario drawing tool
+Exec=boats %F
+Icon=boats.png
+Categories=Education;Qt;
+MimeType=application/x-boats

@@ -1,0 +1,27 @@
+[Desktop Entry]
+X-AppInstall-Package=gjots2
+X-AppInstall-Popcon=29
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=Gjots2 Jotter
+Name[cs]=Zápisník Gjots2
+Name[en_US]=Gjots2 Jotter
+Name[fr]=Gjots2 Jotter
+Name[it]=Gjots2 Jotter
+Name[nb]=Gjots2 Jotter
+Name[no]=Gjots2 Jotter
+Name[ru]=Блокнот Gjots2
+Comment=Store and organise your random notes
+Comment[cs]=Ukládá a organizuje náhodné poznámky
+Comment[en_US]=Store and organise your random notes
+Comment[fr]=Gère et organise vos notes
+Comment[it]=Memorizza ed organizza i tuoi vari appunti
+Comment[nb]=Organiser og ta vare på dine uordnede notater
+Comment[no]=Organiser og ta vare på dine uordnede notater
+Comment[ru]=Сохраняйте и организуйте Ваши заметки
+Exec=gjots2
+Terminal=false
+Type=Application
+Icon=gjots.png
+Categories=GNOME;Application;Utility;

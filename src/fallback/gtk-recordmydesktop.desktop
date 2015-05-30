@@ -1,0 +1,18 @@
+[Desktop Entry]
+X-AppInstall-Package=gtk-recordmydesktop
+X-AppInstall-Popcon=235
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Name=Desktop recorder
+Name[es]=Grabar vídeo de tu escritorio
+Comment=Record a video of your desktop
+Comment[fr]=Enregistrer une vidéo de votre bureau
+Comment[es]=Graba en vídeo las acciones que haces en tu escritorio
+Exec=gtk-recordMyDesktop
+Terminal=false
+Type=Application
+Icon=gtk-recordmydesktop.png
+Categories=AudioVideo;Recorder;
+StartupNotify=false

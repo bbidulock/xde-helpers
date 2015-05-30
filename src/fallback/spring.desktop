@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=spring
+X-AppInstall-Popcon=41
+X-AppInstall-Section=main
+
+Name=Spring
+MimeType=application/x-spring-demo;
+Comment=An open source RTS with similar gameplay to TA
+Comment[de]=Open-Source Multiplayerstrategie
+Comment[it]=Un gioco di strategia in tempo reale multi giocatore simile a TA
+Exec=spring %f
+Icon=spring
+Terminal=false
+Type=Application
+Categories=Game;StrategyGame;
+X-AppInstall-Architectures=amd64,i386

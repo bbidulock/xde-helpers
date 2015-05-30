@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=aqsis
+X-AppInstall-Popcon=20
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=Aqsis Shader Compiler
+GenericName=RenderMan Shader Compiler
+Comment=Compile RenderMan Shading Language (RSL) files
+Icon=aqsis
+Exec=/usr/share/aqsis/scripts/aqsl.sh %F
+Terminal=true
+MimeType=text/x-sl;
+Categories=Graphics;3DGraphics;ConsoleOnly;
+X-AppInstall-Architectures=amd64,armel,i386,ia64,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390,sparc

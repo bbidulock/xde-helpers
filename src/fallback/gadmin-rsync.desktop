@@ -1,0 +1,26 @@
+[Desktop Entry]
+X-AppInstall-Package=gadmin-rsync
+X-AppInstall-Popcon=34
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=GAdmin-Rsync
+Name[de]=GAdmin-Rsync
+Name[es]=GAdmin-Rsync
+Name[fi]=GAdmin-Rsync
+Name[fr]=GAdmin-Rsync
+Name[ko]=GAdmin-Rsync
+Name[no]=GAdmin-Rsync
+Name[pt_BR]=GAdmin-Rsync
+Name[sl]=GAdmin-Rsync
+Name[sv]=GAdmin-Rsync
+Name[uk]=GAdmin-Rsync
+Name[ro]=GAdmin-Rsync
+Name[zh_TW]=GAdmin-Rsync
+GenericName=GAdmin-Rsync
+Comment=GAdmin-Rsync
+Exec=su-to-root -X -c /usr/sbin/gadmin-rsync
+Icon=gadmin-rsync
+Terminal=false
+Type=Application
+Categories=GTK;System;

@@ -1,0 +1,20 @@
+[Desktop Entry]
+X-AppInstall-Package=ggz-kde-games
+X-AppInstall-Popcon=14
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+
+Name=Fyrdman
+GenericName=Hastings1066 Strategy Game
+GenericName[de]=Hastings1066 Strategiespiel
+GenericName[fr]=Hastings1066 jeu de stratégie
+Comment=Join the battle of 1066
+Comment[de]=Nimm an der Schlacht von 1066 teil
+Comment[fr]=Participe dans la bataille de 1066
+
+Type=Application
+Exec=/usr/lib/ggz/fyrdman
+Icon=fyrdman
+Terminal=false
+Categories=X-GGZ-Games;StrategyGame;Game;KDE;Qt;

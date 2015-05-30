@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=etw
+X-AppInstall-Popcon=31
+X-AppInstall-Section=main
+
+Type=Application
+Name=Eat The Whistle
+GenericName=Soccer Game
+GenericName[fr]=Jeu de football
+GenericName[ro]=Joc de fotbal
+Comment=Arcade Soccer Game
+Comment[ro]=Fotbal, joc de arcadă
+Icon=etw
+Exec=etw
+Terminal=false
+Categories=Game;SportsGame;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

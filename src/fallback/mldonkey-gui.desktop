@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=mldonkey-gui
+X-AppInstall-Popcon=63
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=MLDonkey
+Comment=Graphical frontend for MLDonkey
+Comment[fr]=Interface graphique pour MLDonkey
+Exec=mlgui
+Icon=mlgui.xpm
+Categories=Network;FileTransfer;GTK;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

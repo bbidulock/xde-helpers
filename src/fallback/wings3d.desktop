@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Wings3D
+GenericName=3D Modeler
+Comment=3D modeling program
+Exec=wings3d
+Icon=wings3d
+Terminal=false
+StartupNotify=false
+Categories=Graphics;3DGraphics;
+X-Arch-Package=wings3d 1.5.3-2
+X-Arch-Package=wings3d 1.5.3-2

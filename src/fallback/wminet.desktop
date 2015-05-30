@@ -1,0 +1,24 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=wmInet
+GenericName=Network Monitor
+Comment=A dock app for monitoring internet connections
+TryExec=wminet
+Exec=wminet
+Icon=GNUstep3D
+Terminal=false
+StartupNotify=false
+Categories=DockApp;WMAKER;
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+StartupWMClass=wminet
+X-Arch-Package=wminet
+Actions=Neon;LCD;
+
+[Desktop Action Neon]
+Name=Neon pixmap
+Exec=wminet
+
+[Desktop Action LCD]
+Name=Liquid Crystal Display pixmap
+Exec=wminet -t

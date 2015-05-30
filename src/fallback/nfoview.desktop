@@ -1,0 +1,36 @@
+[Desktop Entry]
+X-AppInstall-Package=nfoview
+X-AppInstall-Popcon=12
+X-AppInstall-Section=main
+
+Name=NFO Viewer
+Name[bg]=NFO Viewer
+Name[de]=NFO-Betrachter
+Name[de_CH]=NFO-Betrachter
+Name[fi]=NFO-katselin
+Name[fr]=NFO Viewer
+Name[he]=מציג NFO
+Name[hu]=NFO-fájlnéző
+Name[it]=Visualizzatore NFO
+Name[pl]=Przeglądarka NFO
+Name[ru]=Просмотр NFO
+Name[zh_CN]=NFO Viewer
+Comment=View NFO files
+Comment[bg]=Преглеждане на NFO файлове
+Comment[de]=NFO-Dokumente anzeigen
+Comment[de_CH]=NFO-Dokumente anzeigen
+Comment[fi]=Katsele NFO tiedostoja
+Comment[fr]=Visionner des fichiers NFO
+Comment[he]=צפייה בקובצי NFO
+Comment[hu]=NFO fájl nézése
+Comment[it]=Visualizza file NFO
+Comment[pl]=Wyświetlanie plików NFO
+Comment[ru]=Просмотр файлов NFO
+Comment[zh_CN]=浏览 NFO 文件
+Exec=nfoview %F
+Terminal=false
+StartupNotify=true
+Icon=nfoview
+Type=Application
+MimeType=text/x-nfo;
+Categories=GTK;Utility;Viewer;

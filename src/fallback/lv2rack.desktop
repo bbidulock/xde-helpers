@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=zynjacku
+X-AppInstall-Popcon=11
+X-AppInstall-Section=main
+
+Type=Application
+Name=Lv2rack
+GenericName=LV2 plugins host
+Comment=LV2 plugins host for JACK
+Icon=lv2rack32x32
+Exec=lv2rack 
+Terminal=false
+Categories=AudioVideo;Audio;

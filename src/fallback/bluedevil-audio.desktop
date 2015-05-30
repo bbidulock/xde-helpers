@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=bluedevil
+X-AppInstall-Popcon=550
+X-AppInstall-Section=main
+
+Type=Application
+Version=1.0
+Name=BlueDevil Audio connect
+GenericName=BlueDevil Audio connect
+MimeType=virtual/bluedevil-audio;
+Exec=bluedevil-audio %U
+Comment=BlueDevil Audio connect
+Icon=preferences-system-bluetooth
+Terminal=false
+Categories=Qt;KDE;Bluetooth;Network;Audio;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

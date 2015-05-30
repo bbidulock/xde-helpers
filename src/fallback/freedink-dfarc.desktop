@@ -1,0 +1,31 @@
+[Desktop Entry]
+X-AppInstall-Package=freedink-dfarc
+X-AppInstall-Popcon=20
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=DFArc - Dink frontend
+Name[da]=DFArc - Dinks grænseflade
+Name[de]=DFArc - Dink-Frontend
+Name[es]=DFArc - cliente Dink
+Name[fi]=DFArc - Dink Smallwood -pelin hallintaohjelma
+Name[fr]=DFArc - Interface de lancement pour Dink
+Name[it]=DFArc - interfaccia di Dink
+Name[mk]=DFArc - Dink насловна
+Name[pl]=DFArc - Dink frontend
+Name[vi]=DFArc — giao diện Dink
+Comment=Run, edit, install, remove and package D-Mods (Dink Modules)
+Comment[da]=Kør, redigere, installer, fjern og pak D-Mods (Dink-moduler)
+Comment[de]=D-Mods (Dink-Module) ausführen, bearbeiten, installieren und deinstallieren
+Comment[es]=Ejecuta, edita, instala, elimina y empaqueta D-Mods (Módulos Dink)
+Comment[fi]=Pelaa, muokkaa, asenna, poista ja paketoi D-Modeja (Dink-pelimoduuleita)
+Comment[fr]=Lancer, éditer, installer, supprimer et mettre en paquets des D-Mods (Dink Modules)
+Comment[it]=Eseguire, modificare, installare, rimuovere e impacchettare file D-Mod (Moduli di Dink)
+Comment[mk]=Вклучувај, уреди, инсталирај, отстрани и спакувај D-Mods-а (Dink Модули)
+Comment[pl]=Uruchom, zedytuj, instaluj, usuń i spakuj D-Mod'y(Dink Modules)
+Comment[vi]=Khởi chạy, chỉnh sửa, cài đặt, gỡ bỏ và đóng gói các D-Mod (mô-đun Dink)
+Exec=dfarc
+Icon=dfarc
+Categories=Game;AdventureGame;
+MimeType=application/x-dmod;

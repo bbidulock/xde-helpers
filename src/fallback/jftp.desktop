@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=jftp
+X-AppInstall-Popcon=19
+X-AppInstall-Section=main
+
+Version=1.0
+Name=JFTP
+GenericName=JFTP
+Comment=Java GUI client for FTP, SMB, SFTP and NFS
+Exec=jftp %u
+Icon=jftp.xpm
+Terminal=0
+Type=Application
+Categories=Java;Network;FileTransfer;

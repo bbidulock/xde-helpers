@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=pydance
+X-AppInstall-Popcon=16
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=pydance
+Icon=pydance.png
+GenericName=Dancing Game
+Exec=pydance
+Categories=Application;Game;ArcadeGame;Music

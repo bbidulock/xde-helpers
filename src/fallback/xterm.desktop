@@ -1,5 +1,7 @@
 [Desktop Entry]
 Version=1.0
+Exec=xterm
+Terminal=false
 Type=Application
 Encoding=UTF-8
 Name=X Terminal
@@ -226,9 +228,6 @@ Comment[zu]=Uhlelo lwemisebenzi lwangaohandle
 #Icon=xterm
 #Icon=/usr/share/pixmaps/xterm-color_32x32.xpm
 Icon=xterm-color_48x48
-TryExec=xterm
-Exec=xterm
-Terminal=false
 Categories=System;TerminalEmulator;
 StartupNotify=false
 StartupWMClass=xterm
@@ -236,3 +235,5 @@ X-XFCE-Binaries=xterm;
 X-XFCE-Category=TerminalEmulator
 X-XFCE-Commands=%B;
 X-XFCE-CommandsWithParameter=%B -e %s;
+X-Arch-Package=xterm 318-1
+X-Arch-Package=xterm 318-1

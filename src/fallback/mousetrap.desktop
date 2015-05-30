@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=gnome-mousetrap
+X-AppInstall-Popcon=9
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=MouseTrap
+Comment=Controls the mouse via Webcam.
+Exec=mousetrap
+Icon=mousetrap
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Utility;GNOME;GTK;Accessibility;

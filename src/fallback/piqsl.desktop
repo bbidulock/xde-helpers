@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=aqsis
+X-AppInstall-Popcon=20
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=Aqsis Advanced Framebuffer
+GenericName=RenderMan Advanced Framebuffer
+Comment=Display driver for Aqsis and other RenderMan-compliant renderers
+Icon=aqsis
+Exec=piqsl %F
+Terminal=false
+MimeType=image/tiff;image/x-exr;
+Categories=Graphics;3DGraphics;Viewer;
+X-AppInstall-Architectures=amd64,armel,i386,ia64,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390,sparc

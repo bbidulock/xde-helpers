@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=webissues
+X-AppInstall-Popcon=1
+X-AppInstall-Section=main
+
+Type=Application
+Name=WebIssues
+GenericName=Issue Tracker
+Comment=Client for the WebIssues system
+Icon=webissues
+Exec=webissues
+Categories=Qt;Office;ProjectManagement;

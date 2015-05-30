@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-AppInstall-Package=links2
+X-AppInstall-Popcon=775
+X-AppInstall-Section=main
+
+Type=Application
+Name=Links 2
+Exec=xlinks2
+Terminal=false
+Categories=Network;WebBrowser;
+Comment=Web browser running in both graphics and text mode

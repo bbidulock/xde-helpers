@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=multiget
+X-AppInstall-Popcon=25
+X-AppInstall-Section=main
+
+Name=MultiGet
+Comment=MultiGet Downloader
+Comment[zh_CN]=MultiGet 下载器
+Type=Application
+Terminal=false
+Exec=multiget
+Icon=_usr_share_pixmaps_multiget_48
+Categories=Network;

@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=model-builder
+X-AppInstall-Popcon=3
+X-AppInstall-Section=main
+
+Name=Model Builder
+Comment=Graphical ODE simulator
+GenericName=Graphical ODE simulator
+Exec=PyMB
+Icon=_usr_share_pixmaps_MB
+Type=Application
+StartupNotify=false
+Terminal=false
+Categories=Education;Science;Math;Engineering;

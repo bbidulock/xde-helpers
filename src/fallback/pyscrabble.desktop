@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=pyscrabble
+X-AppInstall-Popcon=16
+X-AppInstall-Section=main
+
+Version=1.0
+Name=PyScrabble
+Comment=A classical game of words
+Comment[de]=Ein klassisches Wörterspiel
+Comment[sv]=Ett klassiskt ordspel
+Exec=pyscrabble
+Icon=pyscrabble
+Terminal=false
+Type=Application
+Categories=Game;BoardGame;GTK;

@@ -1,68 +1,45 @@
 [Desktop Entry]
-Type=Application
 Encoding=UTF-8
-Name=ASclock
-Name[ar]=ASclock
-Name[ast]=ASclock
-Name[be]=ASclock
-Name[bg]=ASclock
-Name[bn]=ASclock
-Name[br]=ASclock
-Name[bs]=ASclock
-Name[ca]=ASclock
-Name[cs]=ASclock
-Name[da]=ASclock
-Name[de]=ASclock
-Name[dz]=ASclock
-Name[el]=ASclock
-Name[eo]=ASclock
-Name[es]=ASclock
-Name[et]=ASclock
-Name[eu]=ASclock
-Name[fi]=ASclock
-Name[fr]=ASclock
-Name[ga]=ASclock
-Name[gl]=ASclock
-Name[gu]=ASclock
-Name[he]=ASclock
-Name[hi]=ASclock
-Name[hr]=ASclock
-Name[hu]=ASclock
-Name[id]=ASclock
-Name[it]=ASclock
-Name[ja]=ASclock
-Name[ka]=ASclock
-Name[kk]=ASclock
-Name[km]=ASclock
-Name[ko]=ASclock
-Name[ku]=ASclock
-Name[lt]=ASclock
-Name[mk]=ASclock
-Name[ml]=ASclock
-Name[mr]=ASclock
-Name[nb]=ASclock
-Name[ne]=ASclock
-Name[nl]=ASclock
-Name[nn]=ASclock
-Name[pa]=ASclock
-Name[pl]=ASclock
-Name[pt]=ASclock
-Name[pt_BR]=ASclock
-Name[ro]=ASclock
-Name[ru]=ASclock
-Name[sk]=ASclock
-Name[sq]=ASclock
-Name[sv]=ASclock
-Name[ta]=ASclock
-Name[th]=ASclock
-Name[tl]=ASclock
-Name[tr]=ASclock
-Name[uk]=ASclock
-Name[vi]=ASclock
-Name[wo]=ASclock
-Name[zh_CN]=ASclock
-Name[zh_TW]=ASclock
+Type=Application
+Name=AfterStep Clock Dock App
+GenericName=Clock
+Comment=The AfterStep clock dock app
 TryExec=asclock
-Exec=asclock
+Exec=asclock -d -t shaped
+Icon=GNUstep3D
 Terminal=false
-Categories=X-Debian-Games-Toys;
+StartupNotify=false
+Categories=DockApp;WMAKER;
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+StartupWMClass=asclock
+X-Arch-Package=asclock-xlib
+Actions=Newstone;Orb;Stone;Analog;Beats;Classic;Shaped;
+
+[Desktop Action Newstone]
+Name=Newstone theme
+Exec=asclock -d -t Newstone
+
+[Desktop Action Orb]
+Name=Orb theme
+Exec=asclock -d -t Orb
+
+[Desktop Action Stone]
+Name=Stone theme
+Exec=asclock -d -t Stone
+
+[Desktop Action Analog]
+Name=Analog theme
+Exec=asclock -d -t analog
+
+[Desktop Action Beats]
+Name=Beats theme
+Exec=asclock -d -t beats
+
+[Desktop Action Classic]
+Name=Classic theme
+Exec=asclock -d -t classic
+
+[Desktop Action Shaped]
+Name=Shaped theme
+Exec=asclock -d -t shaped
+X-Arch-Package=asclock-xlib 2.0.12-5

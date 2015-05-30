@@ -1,0 +1,29 @@
+[Desktop Entry]
+X-AppInstall-Package=xqf
+X-AppInstall-Popcon=51
+X-AppInstall-Section=main
+
+Name=XQF Game Server Browser
+Name[ca]=Navegador de jocs XQF
+Name[da]=XQF spilserver browser
+Name[de]=XQF Spieleserver Browser
+Name[es]=Navegador de servidores de juegos XQF
+Name[fi]=XQF Pelipalvelinselain
+Name[pl]=Wyszukiwarka serwerów XQF
+Name[ru]=Браузер игровых серверов XQF
+GenericName=Game Server Browser
+GenericName[ca]=Navegador de jocs
+Comment=Locate and connect to game servers
+Comment[ca]=Cerqueu i connecteu-vos a servidors de jocs
+Comment[da]=Find og forbind til spilservere
+Comment[de]=Spieleserver finden und mit ihnen verbinden
+Comment[es]=Localiza y connecta a servidores de juegos
+Comment[fi]=Etsi ja yhdistä pelipalvelimiin
+Comment[pl]=Znajdź serwery i połącz się
+Comment[ru]=Поиск и подключение к игровым серверам
+Exec=xqf
+Icon=xqf_32x32.png
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=GTK;Game;ActionGame;X-SuSE-Core-Game;

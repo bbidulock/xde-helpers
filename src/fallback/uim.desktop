@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=uim-gtk2.0
+X-AppInstall-Popcon=944
+X-AppInstall-Section=main
+
+Type=Application
+Encoding=UTF-8
+Name=Input Method
+Name[ja]=入力メソッド
+Name[ko]=입력기
+Comment=Customize uim input method environment
+Comment[ja]=入力メソッド環境 (uim) を設定します
+Comment[ko]=uim 환경설정
+Exec=uim-pref-gtk
+Icon=/usr/share/uim/pixmaps/uim-icon.png
+Terminal=false
+Categories=Settings;X-GNOME-PersonalSettings;

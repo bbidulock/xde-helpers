@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=fltk1.1-games
+X-AppInstall-Popcon=24
+X-AppInstall-Section=main
+
+Name=FLTK Block Attack!
+Comment=Block Attack! Game
+Exec=/usr/games/flblocks
+Icon=flblocks
+Terminal=false
+Type=Application
+Categories=Game;BlocksGame;

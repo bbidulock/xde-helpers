@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=picard
+X-AppInstall-Popcon=192
+X-AppInstall-Section=main
+
+Name=MusicBrainz Picard
+Comment=Tag your music with the next generation MusicBrainz tagger
+Exec=picard
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=picard-32
+Categories=AudioVideo;AudioVideoEditing;

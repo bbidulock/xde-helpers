@@ -1,0 +1,19 @@
+[Desktop Entry]
+X-AppInstall-Package=torcs
+X-AppInstall-Popcon=145
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=TORCS
+GenericName=TORCS
+Comment=3D racing cars simulator game
+Comment[es]=Juego de simulación 3D de carrera de autos
+Icon=torcs.xpm
+
+Exec=torcs
+Terminal=false
+StartupNotify=false
+
+Categories=Game;Simulation

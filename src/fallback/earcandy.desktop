@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=earcandy
+X-AppInstall-Popcon=28
+X-AppInstall-Section=main
+
+Name=Ear Candy
+Comment=Gracefully fade applications volume in and out
+Terminal=false
+Icon=earsLabel
+Type=Application
+Exec=earcandy
+Categories=Utility;
+StartupNotify=true

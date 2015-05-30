@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=ayttm
+X-AppInstall-Popcon=25
+X-AppInstall-Section=main
+
+Name=ayttm
+Exec=/usr/bin/ayttm
+Icon=_usr_share_pixmaps_ayttm
+Comment="The GTK Unified Messaging Client"
+Terminal=0
+Type=Application
+Categories=Network;InstantMessaging

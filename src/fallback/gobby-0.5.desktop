@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=gobby-0.5
+X-AppInstall-Popcon=29
+X-AppInstall-Section=main
+
+Name=Gobby Collaborative Editor (0.5)
+Name[en_GB]=Gobby Collaborative Editor (0.5)
+Comment=Edit text files collaboratively
+Comment[en_GB]=Edit text files collaboratively
+Exec=gobby-0.5
+Terminal=false
+Type=Application
+Icon=gobby-0.5
+Categories=TextEditor;Network;
+StartupNotify=true
+MimeType=text/plain;

@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=gdevilspie
+X-AppInstall-Popcon=24
+X-AppInstall-Section=main
+
+Name=gDevilspie
+Comment=GUI for devilspie matching daemon
+Exec=gdevilspie
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=gdevilspie
+Categories=GNOME;Utility;

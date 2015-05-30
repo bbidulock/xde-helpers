@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=git-cola
+X-AppInstall-Popcon=51
+X-AppInstall-Section=main
+
+Name=Cola Git GUI
+Comment=A highly caffeinated git GUI
+Exec=git-cola
+Icon=_usr_share_git-cola_icons_git
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Development;RevisionControl;
+X-KDE-SubstituteUID=false

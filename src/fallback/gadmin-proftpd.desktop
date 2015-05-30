@@ -1,0 +1,26 @@
+[Desktop Entry]
+X-AppInstall-Package=gadmin-proftpd
+X-AppInstall-Popcon=70
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=GADMIN-PROFTPD
+Name[de]=GADMIN-PROFTPD
+Name[es]=GADMIN-PROFTPD
+Name[fi]=GADMIN-PROFTPD
+Name[fr]=GADMIN-PROFTPD
+Name[ko]=GADMIN-PROFTPD
+Name[no]=GADMIN-PROFTPD
+Name[pt_BR]=GADMIN-PROFTPD
+Name[sl]=GADMIN-PROFTPD
+Name[sv]=GADMIN-PROFTPD
+Name[uk]=GADMIN-PROFTPD
+Name[ro]=GADMIN-PROFTPD
+Name[zh_TW]=GADMIN-PROFTPD
+GenericName=GADMIN-PROFTPD
+Comment=ProFTPD FTP server administration
+Exec=su-to-root -X -c /usr/sbin/gadmin-proftpd
+Icon=gadmin-proftpd
+Terminal=false
+Type=Application
+Categories=GTK;System;

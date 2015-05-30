@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=poe.app
+X-AppInstall-Popcon=41
+X-AppInstall-Section=main
+
+Type=Application
+Version=1.0
+Categories=AudioVideo;Audio;AudioVideoEditing;
+Name=Poe
+Comment=Vorbis comment editor
+Comment[bg]=Редактор на коментари на файлове във формат Ogg Vorbis
+Icon=/usr/lib/GNUstep/Applications/Poe.app/Resources/Poe.tiff
+Exec=Poe

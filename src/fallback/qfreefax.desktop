@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=qfreefax
+X-AppInstall-Popcon=2
+X-AppInstall-Section=main
+
+Name=qFreeFax
+Comment=GUI for fax fonctionality provided by French ISP "Free"
+Comment[fr]=Interface d'envoi de fax via un compte "Free"
+Exec=qfreefax
+Icon=qfreefax.png
+Terminal=false
+Type=Application
+Categories=Application;Network;
+StartupNotify=true
+MimeType=application/pdf;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

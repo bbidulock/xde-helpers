@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=aqsis
+X-AppInstall-Popcon=20
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=Aqsis User Interface
+GenericName=RenderMan User Interface
+Comment=Graphical user interface for Aqsis tools
+Icon=aqsis
+Exec=eqsl
+Terminal=false
+Categories=Graphics;3DGraphics;
+X-AppInstall-Architectures=amd64,armel,i386,ia64,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390,sparc

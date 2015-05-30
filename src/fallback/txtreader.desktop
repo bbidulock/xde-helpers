@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=txtreader
+X-AppInstall-Popcon=7
+X-AppInstall-Section=main
+
+Name=Txt Reader
+Name[zh_CN]=Txt Reader 文本阅读器
+GenericName=Txt Reader
+GenericName[zh_CN]=文本阅读器
+Comment=Read text novels and more
+Comment[zh_CN]=阅读小说和其他文本文件
+Exec=txtreader
+StartupNotify=true
+Terminal=false
+Type=Application
+Icon=txtreader
+Categories=Office;Viewer;

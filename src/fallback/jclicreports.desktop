@@ -1,0 +1,20 @@
+[Desktop Entry]
+X-AppInstall-Package=jclic
+X-AppInstall-Popcon=140
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=JClic Report Server
+Name[ca]=Servidor d'informes JClic
+Name[es]=Servidor de informes JClic
+Name[valencia]=Servidor d'informes JClic
+Comment=Management of a database in which the results obtained by the students when carrying out the activities of the JClic projects are compiled
+Comment[ca]=Gestiona una base de dades on es recullen els resultats obtinguts pels alumnes en realitzar les activitats dels projectes JClic
+Comment[es]=Gestionar una base de datos en la que se recopilarán los resultados obtenidos por los alumnos al realizar las actividades de los proyectos JClic
+Comment[valencia]=Gestioneu una base de dades on es recullen els resultats obtinguts pels alumnes en realitzar les activitats dels projectes JClic
+Icon=jclicreports.png
+Exec=jclicreports
+Terminal=false
+Type=Application
+Categories=Application;Education
+StartupNotify=true

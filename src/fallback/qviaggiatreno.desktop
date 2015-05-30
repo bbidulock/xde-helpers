@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=qviaggiatreno
+X-AppInstall-Popcon=6
+X-AppInstall-Section=main
+
+Name=QViaggiaTreno
+Comment=Interfaccia grafica per ViaggiaTreno
+Exec=qviaggiatreno
+Terminal=false
+Type=Application
+GenericName=Informazioni in tempo reale sulla circolazione ferroviaria
+Categories=Qt;Network;
+StartupNotify=true

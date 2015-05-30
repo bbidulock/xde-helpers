@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Gtk VNC Viewer
+GenericName=gtk-vnc 0.5.2
+Comment=VNC client application
+Icon=gnome-remote-desktop
+TryExec=/usr/bin/gvncviewer
+Exec=/usr/bin/gvncviewer
+Terminal=false
+Categories=Application;Utility;
+StartupNotify=false

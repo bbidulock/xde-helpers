@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=ScreenLock
+Name[es]=Bloqueo de pantalla
+Name[pt_BR]=Bloquear tela
+Name[ru]=Блокировка экрана
+Name[tr]=ScreenLock
+Name[uk]=Блокування екрану
+Name[zh_TW]=鎖住螢幕
+Comment=Lock your screen
+Comment[es]=Bloquear pantalla
+Comment[pt_BR]=Bloqueie sua tela
+Comment[ru]=Заблокировать экран
+Comment[tr]=Ekranı kilitle
+Comment[uk]=Заблокувати екран
+Icon=system-lock-screen
+Exec=lxlock
+TryExec=lxlock
+NoDisplay=true
+X-Arch-Package=lxde-common 0.99.0-2
+X-Arch-Package=lxde-common 0.99.0-2

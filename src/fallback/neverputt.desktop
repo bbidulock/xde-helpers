@@ -1,0 +1,19 @@
+[Desktop Entry]
+X-AppInstall-Package=neverputt
+X-AppInstall-Popcon=54
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=Neverputt
+Comment=A 3D mini golf game
+Comment[ca]=Un joc de minigolf en 3D
+Comment[de]=Ein 3D-Minigolf Spiel
+Comment[es]=Un mini golf en 3D
+Comment[fr]=Un jeu de minigolf en 3D
+Comment[nn]=Minigolfspel i 3D
+Comment[pt_BR]=Um jogo de mini golfe em 3D
+Icon=neverputt
+Exec=neverputt
+Terminal=false
+Categories=Game;ArcadeGame;

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=FlBurn
+GenericName=Disc Burning
+Exec=flburn
+Icon=/usr/share/pixmaps/flburn.png
+Categories=AudioVideo
+X-Arch-Package=flburn 0.0.3-4
+X-Arch-Package=flburn 0.0.3-4

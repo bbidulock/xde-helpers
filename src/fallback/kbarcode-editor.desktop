@@ -1,0 +1,18 @@
+[Desktop Entry]
+X-AppInstall-Package=kbarcode
+X-AppInstall-Popcon=56
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Type=Application
+Exec=kbarcode --label
+Icon=kbarcode.png
+DocPath=kbarcode/index.html
+Comment=Barcode and label printing tool (editor)
+Comment[de]=Werkzeug zum Barcode und Etiketten Druck (Editor)
+Terminal=false
+Name=KBarcode Label Editor
+Name[de]=KBarcode Label Editor
+Categories=Qt;KDE;Office;
+
+

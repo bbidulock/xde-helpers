@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=alsa-tools-gui
+X-AppInstall-Popcon=268
+X-AppInstall-Section=main
+
+Type=Application
+Name=Rmedigicontrol
+GenericName=
+Comment=Control RME Digi32 and RME Digi96 soundcards
+Icon=alsa-tools
+Exec=rmedigicontrol
+Terminal=false
+Categories=AudioVideo;Audio;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

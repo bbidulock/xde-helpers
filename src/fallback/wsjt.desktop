@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=wsjt
+X-AppInstall-Popcon=10
+X-AppInstall-Section=main
+
+Name=WSJT
+Encoding=UTF-8
+Comment=Amateur radio weak signal communications
+Exec=wsjt
+Terminal=true
+Type=Application
+Categories=Application;HamRadio;
+Icon=wsjt.png

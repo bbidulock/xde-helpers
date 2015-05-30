@@ -1,0 +1,17 @@
+
+[Desktop Entry]
+X-AppInstall-Package=gmchess
+X-AppInstall-Popcon=9
+X-AppInstall-Section=main
+
+Name=Chinese chess
+Name[zh_CN]=天书棋谈
+Comment=Play the popular chinese chess game
+Comment[zh_CN]=玩流行的中国象棋游戏
+Exec=gmchess
+Icon=gmchess
+Terminal=false
+Type=Application
+Categories=GTK;Game;
+StartupNotify=true
+

@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=gtkwhiteboard
+X-AppInstall-Popcon=14
+X-AppInstall-Section=main
+
+Name=GTK Wiimote Whitebaord
+Comment=A whiteboard written in GTK using the wiimote
+Exec=/usr/bin/gtkwhiteboard
+Icon=_usr_share_pixmaps_gtkwhiteboard
+Terminal=false
+Type=Application
+Categories=Utility;HardwareSettings;
+StartupNotify=true

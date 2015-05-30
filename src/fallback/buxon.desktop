@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=buxon
+X-AppInstall-Popcon=5
+X-AppInstall-Section=main
+
+Type=Application
+Encoding=UTF-8
+Exec=/usr/bin/buxon %u
+Terminal=false
+Name=Buxon
+Comment=sioc:Forum browser
+Icon=buxon
+MimeType=application/rdf+xml
+Categories=Utility;Viewer;

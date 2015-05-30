@@ -1,0 +1,19 @@
+[Desktop Entry]
+X-AppInstall-Package=pypar2
+X-AppInstall-Popcon=25
+X-AppInstall-Section=main
+
+Name=PyPar2
+Comment=A graphical frontend for the par2 utility
+Encoding=UTF-8
+Exec=pypar2
+MimeType=application/x-executable
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;Application
+Icon=pypar2.png
+
+Comment[de]=Eine grafische Oberfläche für par2
+Comment[fr]=Une interface graphique pour le programme par2
+Comment[pl]=Graficzna nakładka na narzędzie par2

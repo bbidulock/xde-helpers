@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=phasex
+X-AppInstall-Popcon=7
+X-AppInstall-Section=main
+
+Name=PHASEX
+Comment=Phase Harmonic Advanced Synthesis EXperiment
+Icon=phasex-icon
+Exec=phasex
+Terminal=false
+Type=Application
+X-Desktop-File-Install-Version=0.10
+Categories=AudioVideo;Audio;X-MIDI;X-Synthesis;X-JACK;X-Digital_Processing;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

@@ -1,0 +1,18 @@
+[Desktop Entry]
+X-AppInstall-Package=texworks
+X-AppInstall-Popcon=40
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Name=TeXworks
+GenericName=TeXworks
+Comment=TeX Editor
+Exec=texworks
+Icon=_usr_share_pixmaps_texworks
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=Application;Science;Utility;
+OnlyShowIn=GNOME;XFCE;KDE
+MimeType=application/x-latex;text/x-bibtex;text/x-tex;

@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=sweethome3d
+X-AppInstall-Popcon=51
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Sweet Home 3D
+GenericName=Interior 2D design application with 3D preview
+Comment=Interior 2D design application with 3D preview
+Exec=sweethome3d
+Icon=sweethome3d
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Graphics;2DGraphics;3DGraphics
+

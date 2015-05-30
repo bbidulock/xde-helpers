@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-AppInstall-Package=sunflow
+X-AppInstall-Popcon=10
+X-AppInstall-Section=main
+
+Type=Application
+Name=Sunflow
+Comment=Photorealistic Rendering Engine
+Exec=sunflow
+Icon=sunflow.png
+Categories=Graphics;3DGraphics

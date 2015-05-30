@@ -1,0 +1,34 @@
+[Desktop Entry]
+X-AppInstall-Package=ganyremote
+X-AppInstall-Popcon=29
+X-AppInstall-Section=main
+
+Exec=ganyremote
+Icon=ganyremote
+Type=Application
+Name=ganyremote
+Name[xx]=xxganyremotexx
+GenericName=Bluetooth Remote Control
+GenericName[bg]=Bluetooth дистационно управление
+GenericName[es]=Control Remoto Bluetooth
+GenericName[fr]=Télécommande bluetooth
+GenericName[it]=Bluetooth Control Remoto
+GenericName[nl]=Bluetooth afstandsbesturing
+GenericName[pl]=Zdalne Sterowanie Przez Bluetooth
+GenericName[pt]=Controle Remoto Bluetooth
+GenericName[ru]=Пульт управления по Bluetooth
+GenericName[sk]=Bluetooth Diaľkové ovládanie
+GenericName[xx]=xxBluetooth Remote Controlxx
+Categories=Utility;
+Comment=Bluetooth remote control
+Comment[bg]=Bluetooth дистационно управление
+Comment[es]=Control Remoto Bluetooth
+Comment[fr]=Télécommande bluetooth
+Comment[it]=Bluetooth control remoto 
+Comment[nl]=Bluetooth afstandsbesturing
+Comment[pl]=Zdalne Sterowanie Przez Bluetooth
+Comment[pt]=Controle Remoto Bluetooth
+Comment[ru]=Пульт управления по Bluetooth
+Comment[sk]=Bluetooth Diaľkové ovládanie
+Comment[xx]=xxBluetooth remote controlxx
+X-Desktop-File-Install-Version=5.11.5

@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=bluedevil
+X-AppInstall-Popcon=550
+X-AppInstall-Section=main
+
+Type=Application
+Version=1.0
+Name=BlueDevil Input connect
+GenericName=BlueDevil Input connect
+MimeType=virtual/bluedevil-input;
+Exec=bluedevil-input %U
+Comment=BlueDevil Input connect
+Icon=preferences-system-bluetooth
+Terminal=false
+Categories=Qt;KDE;Bluetooth;Network;Input;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

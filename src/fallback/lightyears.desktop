@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=lightyears
+X-AppInstall-Popcon=35
+X-AppInstall-Section=main
+
+Type=Application
+Name=20.000 Light Years Into Space
+GenericName=Steampunk RTS Game
+Comment=Create a steam network to power a city and repair in time the damages that it will take
+Comment[ca]=Creeu una xarxa de subministrament d'energia per a la ciutat i eviteu que sigui destruïda
+Icon=lightyears
+Exec=lightyears
+Terminal=false
+Categories=Game;

@@ -12,4 +12,5 @@ StartupNotify=false
 Categories=DockApp;WMAKER;
 OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
 StartupWMClass=wmitime
-X-Arch-Package=wmitime
+X-Arch-Package=wmitime 0.3-3
+X-Arch-Package=wmitime 0.3-3

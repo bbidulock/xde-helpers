@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=recoll
+X-AppInstall-Popcon=72
+X-AppInstall-Section=main
+
+Categories=Utility;Filesystem;Database;
+Comment=Find documents by specifying search terms
+Exec=recoll
+GenericName=Local Text Search
+Icon=recoll
+Name=Recoll
+Terminal=false
+Type=Application

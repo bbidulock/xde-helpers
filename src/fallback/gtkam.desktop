@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=gtkam
+X-AppInstall-Popcon=281
+X-AppInstall-Section=main
+
+Name=Gtkam Digital Camera Browser
+Comment=Browse and download images from an attached digital camera
+Exec=gtkam
+Icon=gtkam-camera.png
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Photography;Graphics;RasterGraphics;Viewer;
+StartupNotify=true
+X-GNOME-DocPath=gtkam/gtkam.xml

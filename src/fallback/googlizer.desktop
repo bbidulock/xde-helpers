@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=googlizer
+X-AppInstall-Popcon=110
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=Googlizer
+Comment=Search Google for whatever's in the X selection
+Exec=googlizer 
+Icon=googlizer.png
+Terminal=false
+Type=Application
+Categories=Application;Network;

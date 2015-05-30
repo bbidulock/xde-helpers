@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=lingot
+X-AppInstall-Popcon=92
+X-AppInstall-Section=main
+
+Name=Lingot
+Comment=LINGOT Is Not a Guitar-Only Tuner
+Comment[cs]=(Nejen kytarová) ladička
+Exec=lingot
+Icon=_usr_share_pixmaps_lingot_lingot-icon
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;AudioVideo;

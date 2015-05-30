@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=X Eyes
+GenericName=Pointer Tracker
+Comment=X Pointer tracker
+Icon=xlogo
+TryExec=/usr/bin/xeyes
+Exec=xeyes
+Terminal=false
+Categories=X-X11;Application;X-XTool;
+StartupNotify=false

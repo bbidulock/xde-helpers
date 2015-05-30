@@ -1,0 +1,22 @@
+[Desktop Entry]
+X-AppInstall-Package=kwave
+X-AppInstall-Popcon=140
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+GenericName=Sound Editor
+GenericName[de]=Sound-Editor
+GenericName[fr]=éditeur de sons
+Name=Kwave Sound Editor
+Name[de]=Kwave Sound-Editor
+Name[fr]=Kwave éditeur de sons
+Comment=A sound editor for KDE
+Comment[de]=Ein Sound-Editor für KDE
+Comment[fr]=Un éditeur de sons pour KDE
+Exec=kwave %F
+Icon=kwave
+MimeType=audio/wav;audio/x-wav;audio/basic;audio/x-aifc;audio/x-aiff;audio/x-ircam;application/x-flac;audio/x-flac;audio/x-ogg;application/ogg;
+Terminal=false
+Categories=Qt;KDE;AudioVideo;Audio;Player;Recorder;AudioVideoEditing;
+X-SuSE-translate=true

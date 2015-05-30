@@ -1,0 +1,32 @@
+[Desktop Entry]
+X-AppInstall-Package=gtkorphan
+X-AppInstall-Popcon=164
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=Remove orphaned packages
+Name[bg]=Премахване на ненужни пакети
+Name[cs]=Odstranit opuštěné balíky
+Name[de]=Verwaiste Pakete entfernen
+Name[fr]=Suppression des paquets orphelins
+Name[it]=Rimuovi pacchetti orfani
+Name[nl]=Verwijder verweesde pakketten
+Name[sv]=Ta bort föräldralösa paket
+Name[vi]=Gỡ bỏ các gói mồ côi
+Name[zh_CN]=移除无人维护的包
+Comment=A graphical tool to find and remove orphaned libraries
+Comment[bg]=Графичен инструмент за намиране и премахване на ненужни библиотеки
+Comment[cs]=Grafický nástroj pro hledání a odstranění opuštěných knihoven
+Comment[de]=Ein grafisches Werkzeug, um verwaiste Bibliotheken zu finden und zu entfernen
+Comment[fr]=Un outil graphique pour trouver et enlever les bibliothèques orphelines
+Comment[it]=Un tool grafico per trovare e rimuovere librerie orfane
+Comment[nl]=Een grafisch programma voor het vinden en verwijderen van verweesde bibliotheken
+Comment[sv]=Ett grafiskt verktyg för att hitta och ta bort föräldralösa bibliotek
+Comment[vi]=Công cụ đồ họa để tìm và gỡ bỏ các thư viên mồ côi
+Comment[zh_CN]=一个用于找出并移除无人维护的库(包)的图形工具
+Exec=su-to-root -X -c gtkorphan
+Icon=_usr_share_pixmaps_gtkorphan
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Application;System;Settings;

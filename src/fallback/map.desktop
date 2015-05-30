@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=sgt-puzzles
+X-AppInstall-Popcon=137
+X-AppInstall-Section=main
+
+Version=1.0
+Terminal=false
+Exec=map
+Icon=map
+Type=Application
+Categories=Game;LogicGame;
+Name=Map
+Comment=Colour each region with one of four colours so that no two regions sharing a boundary have the same colour
+Comment[fr]=Colorer chaque région d'une couleur de telle sorte que deux régions adjacentes n'ait pas la même couleur
+Comment[de]=Färbe jede Region mit einer der vier Farben, so dass keine zwei Regionen mit gemeinsamer Grenze die selbe Farbe haben

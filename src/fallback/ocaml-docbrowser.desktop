@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=cameleon
+X-AppInstall-Popcon=25
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=OCaml docbrowser
+GenericName=Documentation browser for OCaml
+GenericName[fr]=Visualiseur de documentation pour OCaml
+Comment=Handle ocamldoc generated documentation
+Comment[fr]=Prend en charge la documentation produite par ocamldoc
+Exec=docbrowser2.byte
+Categories=Development;Viewer;GTK;

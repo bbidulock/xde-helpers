@@ -1,0 +1,10 @@
+[Desktop Entry]
+X-AppInstall-Package=kdrill
+X-AppInstall-Popcon=11
+X-AppInstall-Section=main
+
+Name=KDrill
+Exec=/usr/bin/kdrill
+Type=Application
+Icon=_usr_share_pixmaps_kdrill
+Categories=Education;Languages

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Comment=Archlinux goodie shopping
+Exec=xdg-open http://www.zazzle.com/archlinux/
+Icon=arch-logo
+Name=Schwag
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Archlinux;
+X-Arch-Package=archlinux-menus 2.5-2
+X-Arch-Package=archlinux-menus 2.5-2

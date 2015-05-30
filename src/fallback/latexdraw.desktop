@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=latexdraw
+X-AppInstall-Popcon=116
+X-AppInstall-Section=main
+
+Name=LaTeXDraw
+Comment=Graphical editor for PSTricks
+GenericName=Vector graphics editor for PSTricks
+Exec=latexdraw %f
+Icon=_usr_share_pixmaps_latexdraw32
+Terminal=false
+Type=Application
+Categories=Graphics;VectorGraphics;
+MimeType=image/svg+xml;application/x-latexdraw-project;

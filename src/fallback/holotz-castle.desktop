@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=holotz-castle
+X-AppInstall-Popcon=28
+X-AppInstall-Section=main
+
+Type=Application
+Name=Holotz Castle
+GenericName=holotz-castle
+Comment=Play an exciting mystery game
+Comment[es]=Juega a un excitante juego de misterio
+Comment[ro_RO]=Jucați un joc misterios și antrenant 
+Icon=holotz-castle
+Exec=holotz-castle
+Terminal=false
+Categories=Game;ArcadeGame;

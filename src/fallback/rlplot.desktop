@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=rlplot
+X-AppInstall-Popcon=27
+X-AppInstall-Section=main
+
+Version=1.1.2
+Encoding=UTF-8
+Name=Rlplot Graph Generator
+Comment=Generate publication quality graphs
+Exec=rlplot
+Icon=RLPlot.xpm
+Type=Application
+Terminal=false
+Categories=Education;Math
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

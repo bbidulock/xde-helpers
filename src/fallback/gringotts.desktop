@@ -1,0 +1,24 @@
+[Desktop Entry]
+X-AppInstall-Package=gringotts
+X-AppInstall-Popcon=39
+X-AppInstall-Section=main
+
+Name=Gringotts
+GenericName=Electronic "Strongbox"
+Comment=An electronic strongbox
+Version=1.0
+Encoding=UTF-8
+Icon=_usr_share_pixmaps_gringotts
+Exec=gringotts
+Terminal=false
+Type=Application
+X-GNOME-DocPath=
+Name[it_IT]=Gringotts
+GenericName[it_IT]="Cassaforte" elettronica
+Comment[it_IT]=Una cassaforte elettronica
+Name[fr]=Gringotts
+GenericName[fr]="Coffre-fort" électronique
+Comment[fr]=Un coffre-fort électronique
+Name[de]=Gringotts
+GenericName[de]=Elektronischer "Tresor"
+Comment[de]=Ein elektronischer "Tresor"

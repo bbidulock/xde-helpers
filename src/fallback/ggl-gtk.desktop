@@ -1,0 +1,22 @@
+[Desktop Entry]
+X-AppInstall-Package=google-gadgets-gtk
+X-AppInstall-Popcon=55
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=Google Gadgets (GTK)
+Name[en]=Google Gadgets (GTK)
+Name[fr]=Google Gadgets (GTK)
+Name[zh_CN]=Google 小工具 (GTK)
+Comment=Run Google Gadgets in GNOME/GTK environment
+Comment[en]=Run Google Gadgets in GNOME/GTK environment
+Comment[fr]=Exécuter Google Gadgets dans un environnement GNOME/GTK
+Comment[zh_CN]=在 GNOME/GTK 环境中运行 Google 小工具
+Exec=/usr/bin/ggl-gtk %F
+Icon=google-gadgets
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=GNOME;GTK;Network;News;
+MimeType=application/x-google-gadget;app/gg;
+OnlyShowIn=GNOME;XFCE;

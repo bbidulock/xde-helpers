@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=socnetv
+X-AppInstall-Popcon=5
+X-AppInstall-Section=main
+
+X-SuSE-translate=true
+Name=SocNetV
+GenericName=Social Networks Analysis and Visualisation
+Comment=Social Networks Visualisation and Analysis.
+Exec=socnetv
+Icon=socnetv
+Categories=Education;Science;Math;Qt;
+Terminal=false
+Type=Application

@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=illuminator-demo
+X-AppInstall-Popcon=3
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=TSView
+Comment=Timestep Data Viewer (Illuminator)
+Exec=tsview-ng
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=GNOME;Application;Graphics;
+X-AppInstall-Architectures=amd64,armel,i386,ia64,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390,sparc

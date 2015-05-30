@@ -1,0 +1,20 @@
+[Desktop Entry]
+X-AppInstall-Package=ggz-python-games
+X-AppInstall-Popcon=9
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+
+Name=GGZBoard
+GenericName=SDL board games collection
+GenericName[de]=SDL-Brettspielesammlung
+GenericName[fr]=Jeux de société
+Comment=GGZ games: Chess, Checkers, Go, ...
+Comment[de]=GGZ-Spiele: Schach, Dame, Go, ...
+Comment[fr]=Jeux GGZ: L'échecs, Dame, Go, ...
+
+Type=Application
+Exec=/usr/games/ggzboard
+Icon=_usr_share_ggz_ggzboard_common_icon
+Terminal=false
+Categories=X-GGZ-Games;BoardGame;Game;

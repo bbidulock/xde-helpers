@@ -1,0 +1,19 @@
+[Desktop Entry]
+X-AppInstall-Package=neverball
+X-AppInstall-Popcon=130
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=Neverball
+Comment=A 3D arcade game with a ball
+Comment[ca]=Un joc arcade en 3D amb una pilota com a protagonista
+Comment[de]=Ein 3D-Arcade-Spiel mit einem Ball
+Comment[es]=Un arcade en 3D con una bola
+Comment[fr]=Un jeu d'arcade 3D avec une balle
+Comment[nn]=3D-spel med ein rullande ball
+Comment[pt_BR]=Um jogo arcade com uma bola 3D
+Icon=neverball
+Exec=neverball
+Terminal=false
+Categories=Game;ArcadeGame;

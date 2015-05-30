@@ -1,0 +1,29 @@
+[Desktop Entry]
+X-AppInstall-Package=qt3-linguist
+X-AppInstall-Popcon=39
+X-AppInstall-Section=main
+
+Exec=linguist-qt3
+Name=Qt3 Linguist
+Name[de]=Qt3-Linguist
+Name[eo]=Qt3-Lingvisto
+Name[es]=Lingüista Qt3
+Name[ko]=Qt 언어학자
+Name[lv]=Qt3 Lingvists
+Comment=Tool for translating message catalogues of Qt3 based programs
+Comment[da]=Redskab til at oversætte Qt3 baserede programmer
+Comment[de]=Dienstprogramm zur Übersetzung von Programmen, die auf Qt3 basieren
+Comment[eo]=Ilo por tradukado de mesaĝaroj de Qt3-bazitaj programoj
+Comment[es]=Herramienta para la traducción de catálogos de mensajes de programas basados en Qt3
+Comment[he]=Qt תוססובמ תוינכות לש תועדוה יגולטק םוגרתל ילכ
+Comment[hu]=Segédprogram a Qt3-alapú programok üzenetfájljainak lefordításához
+Comment[ko]=Qt를 바탕으로 하는 프로그램에서 쓸 번역된 메세지 목록을 관리하는 도구
+Comment[lv]=Rīks ziņojumu katalogu tulkošanai uz Qt3 bāzētās programmās
+Comment[pt]=Ferramenta para traduzir os catálogos de mensagens de programas do Qt3
+Comment[pt_BR]=Ferramenta para traduzir os catálogos de mensagens de programas do Qt3
+Comment[sv]=Verktyg för att översätta meddelandekataloger från Qt3-baserade program
+MimeType=application/x-linguist;
+Terminal=false
+Icon=linguist
+Type=Application
+Categories=Qt;Development

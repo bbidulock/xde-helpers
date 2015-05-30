@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=psychopy
+X-AppInstall-Popcon=9
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+GenericName=Psychology Stimuli IDE
+GenericName[ru]=IDE для психологических стимулов
+Name=PsychoPy
+Exec=psychopy %F
+Type=Application
+Terminal=false
+Categories=Graphics;Science;MedicalSoftware;Development;IDE;
+Icon=psychopy.xpm

@@ -1,0 +1,21 @@
+[Desktop Entry]
+X-AppInstall-Package=guarddog
+X-AppInstall-Popcon=79
+X-AppInstall-Section=main
+
+Type=Application
+Name=Guarddog
+GenericName=Firewall configuration utility
+GenericName[ca]=Eina de configuració del tallafocs
+GenericName[es]=Herramienta de configuración del cortafuegos
+Comment=Configure the firewall
+Comment[ca]=Configureu el tallafocs
+Comment[es]=Configurar el cortafuegos
+Exec=guarddog
+Icon=guarddog
+Terminal=false
+X-KDE-DocPath=guarddog/index.html
+X-KDE-RootOnly=true
+X-KDE-SubstituteUID=true
+X-KDE-Username=root
+Categories=Network;

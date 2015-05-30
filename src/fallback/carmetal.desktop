@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=carmetal
+X-AppInstall-Popcon=83
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=CaRMetal
+Comment=CaRMetal interactive geometry
+Exec=carmetal
+Icon=CaRMetal.png
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=Application;Education;Math;
+MimeType=application/x-carmetal

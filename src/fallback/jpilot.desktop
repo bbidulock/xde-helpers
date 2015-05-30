@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=jpilot
+X-AppInstall-Popcon=185
+X-AppInstall-Section=main
+
+Name=J-Pilot
+Comment=Desktop organizer application for the Palm Pilot
+Exec=jpilot
+Icon=jpilot.xpm
+Terminal=false
+Type=Application
+Categories=Office;PDA;

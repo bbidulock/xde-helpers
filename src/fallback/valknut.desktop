@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=valknut
+X-AppInstall-Popcon=27
+X-AppInstall-Section=main
+
+Type=Application
+Name=Valknut
+GenericName=valknut
+Comment=Connect to Directo Connect network
+Icon=valknut.xpm
+Exec=valknut
+Terminal=false
+Categories=Application;Network;
+

@@ -15,3 +15,4 @@ Type=Application
 Categories=Network;FileTransfer;X-MandrivaLinux-CrossDesktop;GTK;
 Version=1.0
 X-Desktop-File-Install-Version=0.18
+X-Arch-Package=filezilla 3.11.0.1-1

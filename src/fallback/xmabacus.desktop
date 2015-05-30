@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=xmabacus
+X-AppInstall-Popcon=12
+X-AppInstall-Section=main
+
+Name=Xabacus
+Version=7.5.5
+GenericName=Abacus ancient calculator
+Comment=simulation of the ancient calculator (Motif version)
+Exec=xabacus
+Icon=_usr_share_pixmaps_xabacus.m
+Terminal=false
+Type=Application
+X-MultipleArgs=false
+Categories=Utility;Education;Math;Calculator;Motif
+StartupNotify=true

@@ -1,10 +1,10 @@
 [Desktop Entry]
 Encoding=UTF-8
 Type=Application
-Name=FVWM2
+Name=FVWM
 Icon=fvwm
-TryExec=fvwm2
-Exec=fvwm2
+TryExec=fvwm
+Exec=fvwm
 GenericName=Window Manager
 GenericName[fr]=Gestionnaire de Fenêtres
 GenericName[pt]=Gestor de Janelas
@@ -24,3 +24,16 @@ X-GNOME-Bugzilla-Component=general
 X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-Autostart-Notify=true
+X-Arch-Package=fvwm 2.6.5-4
+Actions=XDE;
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Exec=xde-session -desktop FVWM -startwm fvwm
+Comment=FVWM in an XDE session
+
+[Window Manager]
+SessionManaged=true
+StartupNotification=false
+X-XDE-Managed=true

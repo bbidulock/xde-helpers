@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=gunroar
+X-AppInstall-Popcon=24
+X-AppInstall-Section=main
+
+Type=Application
+Name=Gunroar
+GenericName=
+Comment=Kenta Cho's Gunroar
+Icon=gunroar
+Exec=gunroar
+Terminal=false
+Categories=Game;ArcadeGame;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390

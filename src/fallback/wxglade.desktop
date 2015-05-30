@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=python-wxglade
+X-AppInstall-Popcon=123
+X-AppInstall-Section=main
+
+Name=wxGlade
+Comment=GUI designer written in Python with wxPython
+Comment[fr_FR.UTF-8]=Outil de développement rapide écrit en Python avec wxPython
+Comment[es_ES.UTF-8]=Desarrollador de GUI escrito en Python con wxPython
+Exec=wxglade
+Icon=wxglade
+Terminal=false
+Type=Application
+Categories=Development;

@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=quicksynergy
+X-AppInstall-Popcon=134
+X-AppInstall-Section=main
+
+Name=QuickSynergy
+Name[fr]=QuickSynergy
+Comment=A graphical interface for easily configuring Synergy
+Comment[fr]=Une interface graphique pour configurer simplement Synergy
+Exec=quicksynergy
+Icon=quicksynergy
+Terminal=false
+Type=Application
+Categories=GTK;Utility;

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+X-AppInstall-Package=pypibrowser
+X-AppInstall-Popcon=5
+X-AppInstall-Section=main
+
+Name=PyPI Browser
+Exec=pypibrowser
+Categories=Development;PackageManager;Qt

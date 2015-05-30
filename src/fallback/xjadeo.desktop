@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=xjadeo
+X-AppInstall-Popcon=5
+X-AppInstall-Section=main
+
+Type=Application
+Name=xjadeo
+GenericName=X jack video monitor
+Comment=A simple video player that gets sync from jack transport.
+Icon=qjadeo
+Exec=/usr/bin/qjadeo
+Terminal=false
+Categories=AudioVideo;Video;Player;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

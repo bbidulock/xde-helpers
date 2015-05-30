@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=mpdcon.app
+X-AppInstall-Popcon=46
+X-AppInstall-Section=main
+
+Name=MPDCon
+Name[bg]=Клиент за MPD (MPDCon)
+Comment=GNUstep client for MPD
+Comment[bg]=MPD клиент за GNUstep
+Type=Application
+Version=1.0
+Categories=AudioVideo;Audio;Player;
+Icon=/usr/lib/GNUstep/Applications/MPDCon.app/Resources/MPDCon.tiff
+Exec=MPDCon

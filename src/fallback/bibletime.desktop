@@ -1,0 +1,30 @@
+[Desktop Entry]
+X-AppInstall-Package=bibletime
+X-AppInstall-Popcon=56
+X-AppInstall-Section=main
+
+Comment=An easy to use bible study tool
+Comment[C]=An easy to use bible study tool
+Comment[cs]=Snadno pouiteln n�troj pro studium Bible
+Comment[da]=Et letanvendeligt bibelstudieprogram
+Comment[de]=Ein einfach zu benutzendes Bibelprogramm
+Comment[et]=Lihtne Piibliuurimise vahend
+Comment[fi]=Helppokäyttöinen raamatunlukuohjelmisto
+Comment[fr]=Un outil d'éde biblique facile àtiliser
+Comment[it]=Un semplice strumento per studiare la Bibbia
+Exec=bibletime
+Icon=bibletime
+MimeType=
+Name=BibleTime 
+Name[C]=BibleTime 
+Name[cs]=BibleTime 
+Name[da]=Bibletime 
+Name[de]=BibleTime 
+Name[et]=BibleTime 
+Name[fr]=BibleTime 
+Name[it]=BibleTime 
+GenericName=Bible Study Tool
+Terminal=false
+Type=Application
+Categories=X-Bible;X-Religion;Literature;Education;Dictionary;Qt
+DocPath=bibletime/handbook/index.html

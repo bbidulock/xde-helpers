@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-AppInstall-Package=omaque
+X-AppInstall-Popcon=5
+X-AppInstall-Section=main
+
+Type=Application
+Exec=krubyapplication omaque/main.rb %u
+Icon=omaque.png
+Name=Omaque
+Categories=Application;Graphics;Viewer;
+MimeType=application/x-cbz;application/x-cbr;

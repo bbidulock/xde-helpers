@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=gpointing-device-settings
+X-AppInstall-Popcon=757
+X-AppInstall-Section=main
+
+Name=Pointing devices
+Comment=Set your mouse and touchpad preferences
+Exec=gpointing-device-settings
+Icon=input-mouse
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;Settings;HardwareSettings;
+OnlyShowIn=GNOME;

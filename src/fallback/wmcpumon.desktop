@@ -1,0 +1,32 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=CPU Load Monitor
+GenericName=Load Monitor
+Comment=Show the CPU load
+Icon=GNUstep3D
+TryExec=/usr/bin/wmcpuload
+Exec=wmcpumon -s
+Terminal=false
+Categories=DockApp;WMAKER;
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+StartupNotify=false
+StartupWMClass=wmcpumon
+X-Arch-Package=wmcpumon
+Actions=CPU1;CPU2;CPU3;CPU4;
+
+[Desktop Action CPU1]
+Name=CPU Load Monitor (CPU1)
+Exec=wmcpumon -c 1 -s
+
+[Desktop Action CPU2]
+Name=CPU Load Monitor (CPU2)
+Exec=wmcpumon -c 2 -s
+
+[Desktop Action CPU3]
+Name=CPU Load Monitor (CPU3)
+Exec=wmcpumon -c 3 -s
+
+[Desktop Action CPU4]
+Name=CPU Load Monitor (CPU4)
+Exec=wmcpumon -c 4 -s

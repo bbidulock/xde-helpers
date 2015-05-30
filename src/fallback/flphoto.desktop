@@ -11,3 +11,5 @@ Patterns=*.album
 Encoding=UTF-8
 Categories=Graphics;Photography;
 StartupNotify=false
+X-Arch-Package=flphoto 1.3.1-4
+X-Arch-Package=flphoto 1.3.1-4

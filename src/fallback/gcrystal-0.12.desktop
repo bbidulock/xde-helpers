@@ -1,0 +1,25 @@
+[Desktop Entry]
+X-AppInstall-Package=gcrystal
+X-AppInstall-Popcon=35
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Gnome Crystal Crystalline Structures Viewer
+Name[de]=Gnome Crystal Betrachter für Kristallstrukturen
+Name[fr]=Visionneuse de structures cristallines Gnome Cristal
+Name[pl]=Przeglądarka struktur krystalicznych Gnome Crystal
+Name[zh_TW]=Gnome Crystal 晶體結構展示軟體
+Comment=Edit and display crystalline structures
+Comment[de]=Kristallstrukturen anzeigen und bearbeiten
+Comment[fr]=Édite et représente des structures cristallines
+Comment[it]=Modifica e mostra le strutture cristalline
+Comment[pl]=Edytuj i wyświetlaj struktury krystaliczne
+Comment[pt_BR]=Edita e representa estruturas cristalinas
+Comment[zh_TW]=編輯及展示晶體結構
+Exec=gcrystal-0.12 %U
+Icon=gcrystal
+Terminal=false
+Type=Application
+DocPath=gcrystal/gcrystal.xml
+Categories=GTK;GNOME;Education;Science;Chemistry;
+MimeType=application/x-gcrystal;chemical/x-cif;chemical/x-cml;

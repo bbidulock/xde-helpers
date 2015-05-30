@@ -1,0 +1,18 @@
+[Desktop Entry]
+X-AppInstall-Package=mrpt-apps
+X-AppInstall-Popcon=1
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Gridmap Navigation Simulator
+Comment=Robotics Simulator
+Exec=GridmapNavSimul
+Icon=gridmapsimul
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Categories=Education;Science;Robotics;ArtificialIntelligence;
+StartupNotify=true
+MimeType=
+
+X-AppInstall-Architectures=amd64,armel,i386,ia64,mips,mipsel,powerpc,s390,sparc

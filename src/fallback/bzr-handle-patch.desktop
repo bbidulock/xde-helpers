@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=bzr-gtk
+X-AppInstall-Popcon=187
+X-AppInstall-Section=main
+
+Name=Bazaar
+Comment=Apply Bazaar Bundle
+Icon=bzr-icon-64
+Exec=bzr-handle-patch %f
+Terminal=false
+Type=Application
+Categories=Application;Development;RevisionControl;
+MimeType=text/x-diff;text/x-patch;application/x-bazaar-merge-directive;

@@ -1,6 +1,6 @@
 [Desktop Entry]
 Categories=System;Printing;HardwareSettings;X-Red-Hat-Base;
-TryExec=xdg-open
+TryExec=/usr/bin/xdg-open
 Exec=xdg-open http://localhost:631/
 Icon=cups
 StartupNotify=false
@@ -8,6 +8,10 @@ Terminal=false
 Type=Application
 Name=Manage Printing
 Comment=CUPS Web Interface
+Name[ca]=Gestor d'impressió
+Comment[ca]=Interfície web de CUPS
+Name[cs]=Správa tisku CUPS
+Comment[cs]=Webové rozhraní CUPS
 Name[de]=Druckerverwaltung
 Comment[de]=CUPS Webinterface
 Name[en_US]=Manage Printing
@@ -38,3 +42,4 @@ Name[zh]=打印机管理
 Comment[zh]=CUPS网页界面
 Name[zh_TW]=印表管理
 Comment[zh_TW]=CUPS 網頁介面
+X-Arch-Package=cups 2.0.2-4

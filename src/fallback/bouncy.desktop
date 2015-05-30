@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=bouncy
+X-AppInstall-Popcon=27
+X-AppInstall-Section=main
+
+Type=Application
+Name=Bouncy the Hungry Rabbit
+GenericName=bouncy
+Comment=Eat the yummy veggies in the garden (game for small kids)
+Icon=bouncy
+Exec=bouncy
+Terminal=false
+Categories=Game;ArcadeGame;KidsGame;

@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=pympd
+X-AppInstall-Popcon=24
+X-AppInstall-Section=main
+
+Version=0.06.2
+Type=Application
+Encoding=UTF-8
+Name=pympd
+Comment=pyGTK+ Frontend for MPD
+Exec=pympd
+Icon=pympd.svg
+Categories=Application;AudioVideo;Audio;Player;
+Terminal=false

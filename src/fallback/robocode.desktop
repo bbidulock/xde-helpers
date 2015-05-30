@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=robocode
+X-AppInstall-Popcon=9
+X-AppInstall-Section=main
+
+Type=Application
+Name=Robocode
+GenericName=
+Comment=Java programming game based on battle tanks
+Icon=robocode
+Exec=robocode
+Categories=Game;Development;Java;
+Terminal=false

@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=aee
+X-AppInstall-Popcon=23
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Version=1
+Name=xae
+Exec=/usr/bin/xae
+Type=Application
+Categories=TextEditor
+Terminal=0
+Comment=Small text editor
+Comment[de]=Einfacher Text-Editor
+Comment[fr]=Simple editeur de texte
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

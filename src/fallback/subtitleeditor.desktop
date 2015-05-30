@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=subtitleeditor
+X-AppInstall-Popcon=127
+X-AppInstall-Section=main
+
+Name=Subtitle Editor
+GenericName=Subtitle Editor
+Comment=A subtitle editor based on GStreamer and Gtk+
+Exec=subtitleeditor %F
+Terminal=false
+Type=Application
+Icon=subtitleeditor
+Categories=Audio;AudioVideo;AudioVideoEditing;
+StartupNotify=true
+MimeType=application/x-microdvd;application/x-subrip;application/x-subviewer;text/x-mpsub;text/x-ssa;text/plain;

@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=kiki-the-nano-bot
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main
+
+Type=Application
+Name=Kiki the nano bot
+Icon=kiki-the-nano-bot
+Exec=kiki-the-nano-bot
+Terminal=false
+Categories=Game;LogicGame;
+StartupNotify=false

@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=enemylines3
+X-AppInstall-Popcon=10
+X-AppInstall-Section=main
+
+Name=Enemylines3
+Comment=semi-abstract first person 3d-shooter game
+Comment[fr]=Un jeu de tir à la première personne
+Exec=enemylines3
+Icon=enemylines3
+Terminal=false
+Type=Application
+Categories=Game;ArcadeGame;

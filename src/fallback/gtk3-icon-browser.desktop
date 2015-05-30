@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Icon Browser
+Comment=An application that shows themed icons
+Exec=gtk3-icon-browser
+Icon=gtk3-icon-browser
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GTK;
+NoDisplay=true
+X-Arch-Package=gtk3 3.16.3-2
+X-Arch-Package=gtk3 3.16.3-2

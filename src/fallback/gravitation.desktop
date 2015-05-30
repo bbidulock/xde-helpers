@@ -1,0 +1,12 @@
+# Forwarded to http://sf.net/support/tracker.php?aid=2672143
+[Desktop Entry]
+X-AppInstall-Package=gravitation
+X-AppInstall-Popcon=19
+X-AppInstall-Section=main
+
+Type=Application
+Name=Gravitation
+Icon=gravitation
+Exec=gravitation
+Terminal=false
+Categories=Game;AdventureGame;

@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=batmon.app
+X-AppInstall-Popcon=6
+X-AppInstall-Section=main
+
+Name=Battery Monitor (batmon)
+Name[bg]=Монитор за заряда на батерията (batmon)
+Comment=Monitor battery status
+Comment[bg]=Следене на заряда на батерията
+Type=Application
+Version=1.0
+Categories=System;Monitor;
+Exec=batmon
+Icon=/usr/lib/GNUstep/Applications/batmon.app/Resources/Batmon_icon.tiff

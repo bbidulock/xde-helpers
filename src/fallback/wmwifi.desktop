@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Wifi Monitor (LED)
+GenericName=Monitor
+Comment=Statistics about current WiFi connection
+Icon=GNUstep3D
+TryExec=/usr/bin/wmwifi
+Exec=wmwifi
+Terminal=false
+Categories=DockApp;WMAKER;
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+StartupNotify=false

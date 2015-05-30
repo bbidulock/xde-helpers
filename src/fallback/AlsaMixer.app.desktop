@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Alsa Mixer
+GenericName=Volume Control
+Comment=Alsa mixer volume control dock app
+Icon=GNUstep3D
+TryExec=/usr/bin/AlsaMixer.app
+Exec=AlsaMixer.app
+Terminal=false
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+Categories=DockApp;WMAKER;
+StartupNotify=false
+StartupWMClass=alsamixer_app
+X-Arch-Package=alsamixer.app 0.1-4

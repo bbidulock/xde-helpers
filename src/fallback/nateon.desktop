@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=nateon
+X-AppInstall-Popcon=6
+X-AppInstall-Section=main
+
+Name=Nateon
+Name[ko]=네이트온
+Exec=nateon
+Icon=nateon
+Type=Application
+Categories=Qt;KDE;Network;InstantMessaging;
+Comment=nateon client for KDE 3
+Comment[ko]=KDE3용 네이트온 클라이언트
+GenericName=Nateon Messenger
+GenericName[ko]=네이트온 메신저
+X-Ubuntu-Gettext-Domain=desktop_kdevelop

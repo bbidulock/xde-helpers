@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=qtsmbstatus-light
+X-AppInstall-Popcon=2
+X-AppInstall-Section=main
+
+Name=QtSmbstatus Light
+Comment=QtSmbstatus is a GUI (graphical user interface) for smbstatus
+Comment[fr]=QtSmbstatus - une interface graphique à smbstatus
+Comment[es]=QtSmbstatus - una interface grafica de smbstatus
+Comment[ru]=QtSmbstatus - графический интейфейс для smbstatus
+Comment[uk]=QtSmbstatus - графічний інтерфейс для smbstatus
+Exec=qtsmbstatusl
+Terminal=false
+Type=Application
+Icon=qtsmbstatusl
+Categories=Qt;Network;Utility;
+StartupNotify=false

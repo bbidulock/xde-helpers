@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=bzr-gtk
+X-AppInstall-Popcon=187
+X-AppInstall-Section=main
+
+Name=Bazaar Preferences
+Comment=Configure Bazaar settings
+Icon=bzr-icon-64
+Exec=bzr gpreferences
+Terminal=false
+Type=Application
+Categories=Settings;
+OnlyShowIn=GNOME;

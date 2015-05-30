@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=giver
+X-AppInstall-Popcon=23
+X-AppInstall-Section=main
+
+Name=Giver
+Comment=Easy quick file sharing
+GenericName=File Sharing
+Exec=giver
+Icon=giver
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=Network;FileTransfer;
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=giver
+X-GNOME-Bugzilla-Component=General

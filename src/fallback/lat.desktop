@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=lat
+X-AppInstall-Popcon=27
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Name=LDAP Administration Tool
+Comment=Manage LDAP-based directories
+Exec=lat
+Icon=lat.png
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Network;

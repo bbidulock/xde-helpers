@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=freedroid
+X-AppInstall-Popcon=21
+X-AppInstall-Section=main
+
+Name=Freedroid
+Comment=Clear a spaceship from all droids
+Icon=freedroid
+Exec=freedroid
+Type=Application
+Categories=Game;
+Terminal=false

@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=fceu
+X-AppInstall-Popcon=74
+X-AppInstall-Section=main
+
+Type=Application
+Version=1.0
+Name=FCE Ultra
+Comment=Play NES ROMs
+Exec=fceu
+Terminal=false
+MimeType=application/x-nes-rom
+Categories=Game

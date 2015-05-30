@@ -1,0 +1,22 @@
+[Desktop Entry]
+X-AppInstall-Package=audex
+X-AppInstall-Popcon=58
+X-AppInstall-Section=main
+
+Name=Audex
+GenericName=Audio CD extraction tool
+GenericName[fr]=Logiciel d'extraction de CD audio
+GenericName[de]=Audio-CDs auslesen
+GenericName[it]=Estrazione e codifica CDDA
+Exec=audex
+Icon=audex
+Type=Application
+MimeType=application/x-audex;
+Categories=Qt;KDE;AudioVideo;Audio
+Terminal=false
+X-DCOP-ServiceType=Unique
+X-DCOP-ServiceName=audex
+Comment=Extract audio data from your audio cd's
+Comment[fr]=Extrait et encode les données de vos CD audio.
+Comment[de]=Rippt Audio-CDs
+Comment[it]=Estrae e codifica le canzoni dai tuoi CD audio

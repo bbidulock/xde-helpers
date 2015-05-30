@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=agenda.app
+X-AppInstall-Popcon=12
+X-AppInstall-Section=main
+
+Name=SimpleAgenda
+Name[bg]=Календар (SimpleAgenda)
+Comment=Simple agenda and calendar application for GNUstep
+Comment[bg]=Програма за срещи и календари за GNUstep
+Type=Application
+Categories=Office;Calendar;
+Icon=/usr/lib/GNUstep/Applications/SimpleAgenda.app/Resources/Calendar.tiff
+Exec=SimpleAgenda

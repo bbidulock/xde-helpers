@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Remmina Applet
+GenericName=VNC Viewer
+Comment=Connect to remote desktops through the applet menu
+Icon=remmina
+TryExec=/usr/bin/remmina
+Exec=remmina -i
+Terminal=false
+Categories=Network;
+StartupNotify=true

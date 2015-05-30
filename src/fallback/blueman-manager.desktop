@@ -81,3 +81,4 @@ Terminal=false
 Type=Application
 StartupNotify=true
 Categories=GTK;GNOME;Settings;HardwareSettings;
+X-Arch-Package=blueman 1.99.alpha2-1

@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=alsa-tools-gui
+X-AppInstall-Popcon=268
+X-AppInstall-Section=main
+
+Type=Application
+Name=Envy24 control
+GenericName=
+Comment=Control Envy24 (ice1712) based soundcards
+Icon=alsa-tools
+Exec=envy24control
+Terminal=false
+Categories=AudioVideo;Audio;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

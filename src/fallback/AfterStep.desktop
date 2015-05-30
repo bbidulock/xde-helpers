@@ -1,0 +1,33 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=XSession
+Name=AfterStep
+GenericName=Window Manager
+GenericName[fr]=Gestionnaire de Fenêtres
+GenericName[pt]=Gestor de Janelas
+Comment=AfterStep is feature rich NeXTish window manager.
+Icon=AfterStep
+Exec=afterstep
+Terminal=false
+NoDisplay=true
+Categories=WindowManager;Application;System;
+StartupNotify=true
+X-GNOME-Autostart-Notify=true
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-WMName=AfterStep
+X-Arch-Package=afterstep-git 2.2.12.r18.g4f62e0d-1
+X-Ubuntu-Gettext-Domain=gnome-session-3.0
+Actions=XDE;
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Exec=xde-session -desktop AFTERSTEP -startwm afterstep
+Comment=AfterStep in an XDE session
+
+[Window Manager]
+SessionManaged=false
+StartupNotification=false
+X-XDE-Managed=false

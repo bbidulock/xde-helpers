@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=disksearch
+X-AppInstall-Popcon=13
+X-AppInstall-Section=main
+
+Version=1.0
+Name=DiskSearch
+Comment=Search your removable media
+Exec=disksearch
+Icon=disksearch
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GTK;Utility;

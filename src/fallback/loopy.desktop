@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=sgt-puzzles
+X-AppInstall-Popcon=137
+X-AppInstall-Section=main
+
+Version=1.0
+Terminal=false
+Exec=loopy
+Icon=loopy
+Type=Application
+Categories=Game;LogicGame;
+Name=Loopy
+Comment=Draw lines around a digit according to the number in it
+Comment[fr]=Dessiner autour d'un digit le nombre de lignes correspondantes
+Comment[de]=Zeichne Linien um eine Ziffer entsprechend der enthaltenen Zahl

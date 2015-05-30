@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=qstardict
+X-AppInstall-Popcon=36
+X-AppInstall-Section=main
+
+Version=1.0
+Comment=QStarDict is Qt version of StarDict
+Exec=qstardict
+GenericName=Dictionary
+Icon=qstardict
+Name=QStarDict
+Type=Application
+Categories=Qt;Dictionary;Utility
+

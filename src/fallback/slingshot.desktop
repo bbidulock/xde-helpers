@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=slingshot
+X-AppInstall-Popcon=18
+X-AppInstall-Section=main
+
+Name=Slingshot
+Name[xx]=xxslingshotxx
+Exec=slingshot
+Icon=_usr_share_pixmaps_slingshot
+Type=Application
+GenericName=2D space shooting game with gravity
+GenericName[fr]=Jeu d'espace 2D avec gravité
+Categories=Game;StrategyGame;

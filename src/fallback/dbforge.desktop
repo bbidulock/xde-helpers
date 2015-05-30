@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=cameleon
+X-AppInstall-Popcon=25
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=DBForge
+GenericName=Database designer
+GenericName[fr]=Créateur de base de données
+Comment=Design database schema for OCaml
+Comment[fr]=Créé des schémas de base de données pour OCaml
+Exec=dbforge2.gui.byte
+Categories=Development;Database;GTK;

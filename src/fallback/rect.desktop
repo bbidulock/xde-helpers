@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=sgt-puzzles
+X-AppInstall-Popcon=137
+X-AppInstall-Section=main
+
+Version=1.0
+Terminal=false
+Exec=rect
+Icon=rect
+Type=Application
+Categories=Game;LogicGame;
+Name=Rectangles
+Comment=Subdivide the grid into rectangles of various sizes following certain rules
+Comment[fr]=Diviser la grille de jeu en rectangles de tailles variables en suivant certaines règles
+Comment[de]=Unterteile das Gitter gemäß bestimmter Regeln in Rechtecke verschiedener Größe

@@ -1,0 +1,19 @@
+[Desktop Entry]
+X-AppInstall-Package=eiciel
+X-AppInstall-Popcon=136
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=Eiciel
+GenericName=Access control list editor
+GenericName[ca]=Editor de llistes de control d'accés
+GenericName[es]=Editor de listas de control de acceso
+Comment=View or change ACL and User Extended Attributes on files and directories
+Comment[ca]=Visualitza o canvia la llista de control d'accés i els atributs d'usuari en fitxers i directoris
+Comment[es]=Visualiza o cambia la lista de control de acceso y los atributos de usuario en ficheros y directorios
+Exec=/usr/bin/eiciel
+Icon=_usr_share_eiciel_img_icon_eiciel_24
+Terminal=false
+Type=Application
+Categories=GNOME;System;FileTools;
+Version=0.9.8

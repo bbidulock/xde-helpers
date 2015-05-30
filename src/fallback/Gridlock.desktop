@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-AppInstall-Package=gridlock.app
+X-AppInstall-Popcon=39
+X-AppInstall-Section=main
+
+Type=Application
+Version=0.94
+Categories=Game;LogicGame;
+Name=Gridlock
+Icon=_usr_lib_GNUstep_Applications_Gridlock.app_Resources_Gridlock
+Exec=Gridlock

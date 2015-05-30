@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=zaz
+X-AppInstall-Popcon=14
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Encoding=UTF-8
+Name=Zaz
+Comment=Zaz ain't Z***
+Exec=zaz
+Categories=Game;LogicGame;
+Icon=zaz.xpm
+MimeType=

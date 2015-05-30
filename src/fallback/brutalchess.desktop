@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=brutalchess
+X-AppInstall-Popcon=44
+X-AppInstall-Section=main
+
+Name=Brutal Chess
+Comment=Play 3d chess with reflection of the chessmen
+Exec=brutalchess
+Icon=brutalchess
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=Game;BoardGame;

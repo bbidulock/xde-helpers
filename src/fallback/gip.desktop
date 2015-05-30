@@ -1,0 +1,18 @@
+[Desktop Entry]
+X-AppInstall-Package=gip
+X-AppInstall-Popcon=47
+X-AppInstall-Section=main
+
+Name=Gip IP Address Calculator
+Name[de]=Gip IP-Adress-Rechner
+GenericName=IP Adress Calculator
+GenericName[de]=IP-Adress-Rechner
+Comment=Calculate IP addresses and networks
+Comment[de]=IP-Adressen und Netzbereiche berechnen
+Exec=/usr/bin/gip %U
+StartupNotify=true
+Terminal=false
+Icon=_usr_share_gip_calculator
+Type=Application
+Categories=GNOME;GTK;Utility;
+MimeType=application/x-gip;

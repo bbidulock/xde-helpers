@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=jigzo
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=jigzo
+Comment=Photo puzzle game for children
+Exec=/usr/games/jigzo
+Categories=Application;Game;LogicGame;
+Icon=jigzo.xpm

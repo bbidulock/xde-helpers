@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=gmysqlcc
+X-AppInstall-Popcon=23
+X-AppInstall-Section=main
+
+Name=GMySQLcc
+Comment=Gtk+ MySQL Control Center
+Icon=gmysqlcc-32.png
+Exec=gmysqlcc
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=GTK;Development;Database

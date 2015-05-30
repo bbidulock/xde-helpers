@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=knetdockapp
+X-AppInstall-Popcon=38
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=KNetDockApp
+Exec=knetdockapp 
+Icon=knetdockapp
+Type=Application
+Comment=A KDE network interface monitor
+GenericName=Network Monitor
+Terminal=false
+Categories=Qt;KDE;Network;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

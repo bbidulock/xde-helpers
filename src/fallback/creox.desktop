@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=creox
+X-AppInstall-Popcon=37
+X-AppInstall-Section=main
+
+
+Name=Creox c
+GenericName=DFX
+Comment=Real-time guitar effects
+Icon=_usr_share_pixmaps_creox
+
+Type=Application
+Categories=AudioVideo;Audio;
+
+Exec=creox
+Terminal=false

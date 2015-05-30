@@ -1,0 +1,19 @@
+[Desktop Entry]
+X-AppInstall-Package=kcollectd
+X-AppInstall-Popcon=5
+X-AppInstall-Section=main
+
+Exec=kcollectd
+Icon=kcollectd
+Type=Application
+Terminal=false
+StartupNotify=true
+Categories=Qt;KDE;Utility;
+MimeType=application/x-kcollectd
+Name=KDE collectd database-viewer
+Name[de]=KDE collectd Datenbankbetrachter
+GenericName=Collectd viewer
+GenericName[de]=Collectd Datenbankbetrachter
+Comment=Viewer for collectd-databases
+Comment[de]=Betrachter für collectd-Datenbanken
+

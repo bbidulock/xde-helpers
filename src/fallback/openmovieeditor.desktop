@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=openmovieeditor
+X-AppInstall-Popcon=128
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=Open Movie Editor
+Comment=Simple non-linear video edito
+Exec=openmovieeditor
+Icon=_usr_share_pixmaps_openmovieeditor
+Terminal=false
+Type=Application
+Categories=Application;AudioVideo
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

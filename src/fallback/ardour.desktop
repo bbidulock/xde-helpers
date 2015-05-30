@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=ardour
+X-AppInstall-Popcon=86
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Ardour GTK2
+Comment=Ardour Digital Audio Workstation (GTK2 Interface)
+Exec=/usr/bin/ardour2
+Terminal=false
+Type=Application
+Icon=_usr_share_ardour2_icons_ardour_icon_22px
+Categories=AudioVideo;Audio;
+MimeType=application/x-ardour;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

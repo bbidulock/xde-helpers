@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=stepbill.app
+X-AppInstall-Popcon=19
+X-AppInstall-Section=main
+
+Type=Application
+Version=0.94
+Categories=Game;ActionGame;
+Name=StepBill
+Comment=StepBill - XBill for GNUstep (based on MacBill)
+Icon=/usr/lib/GNUstep/Applications/Gomoku.app/Resources/icon.tiff
+Exec=StepBill

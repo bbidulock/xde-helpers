@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=hannah
+X-AppInstall-Popcon=20
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=Help Hannah's Horse
+Comment=A pacman-like game
+Comment[es]=Un juego similar al pacman
+Exec=hannah
+Icon=hannah.xpm
+Categories=Application;Game;

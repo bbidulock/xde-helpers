@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=tucan
+X-AppInstall-Popcon=230
+X-AppInstall-Section=main
+
+Type=Application
+Name=Tucan Manager
+Comment=Download and upload manager for hosting sites.
+Icon=tucan
+Exec=tucan
+Terminal=false
+Categories=Network;FileTransfer;GTK;
+StartupNotify=true

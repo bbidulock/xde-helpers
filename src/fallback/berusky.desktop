@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=berusky
+X-AppInstall-Popcon=23
+X-AppInstall-Section=main
+
+Name=Berusky
+Comment=Logic game based on Sokoban(TM)
+Exec=berusky
+Icon=berusky
+Terminal=false
+Type=Application
+Categories=Game;LogicGame;

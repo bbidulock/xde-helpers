@@ -1,0 +1,14 @@
+
+[Desktop Entry]
+X-AppInstall-Package=sonata
+X-AppInstall-Popcon=175
+X-AppInstall-Section=main
+
+Name=Sonata
+Comment=An elegant GTK+ MPD client
+Exec=sonata
+Terminal=false
+Type=Application
+Icon=sonata
+Categories=GTK;AudioVideo;Player;
+StartupNotify=true

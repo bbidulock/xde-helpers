@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-AppInstall-Package=zatacka
+X-AppInstall-Popcon=5
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Zatacka
+Comment=Arcade multiplayer game for 2-6 players
+Type=Application
+Exec=zatacka
+Categories=Game;ArcadeGame;

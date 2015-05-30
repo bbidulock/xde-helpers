@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=qtemu
+X-AppInstall-Popcon=38
+X-AppInstall-Section=main
+
+Name=QtEmu
+GenericName=Virtual machine manager
+Exec=qtemu
+Icon=qtemu
+Type=Application
+Terminal=false
+Comment=Front end to QEMU virtual machine monitor
+Categories=Qt;System;Emulator;
+X-AppInstall-Architectures=amd64,i386,kfreebsd-amd64,kfreebsd-i386,powerpc

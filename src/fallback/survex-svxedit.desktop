@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=survex-svxedit
+X-AppInstall-Popcon=2
+X-AppInstall-Section=main
+
+Version=1.0
+Name=SvxEdit Cave Survey Data Editor
+GenericName=Cave Survey Data Editor
+Comment=Enter cave survey data for Survex
+Type=Application
+Exec=svxedit
+Icon=svxedit
+Categories=Education;Geology;Science;

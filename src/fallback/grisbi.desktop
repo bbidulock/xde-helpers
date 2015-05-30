@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=grisbi
+X-AppInstall-Popcon=219
+X-AppInstall-Section=main
+
+Name=Grisbi
+GenericName=Money Management
+Name[fr]=Gestionnaire de finances Grisbi
+Comment=Manage your finances, accounts, and investments
+Comment[fr]=Gérez vos finances, vos comptes et vos investissements
+Exec=grisbi
+Icon=_usr_share_pixmaps_grisbi_grisbi
+Terminal=false
+Type=Application
+Categories=Application;Office;Finance;
+MimeType=application/x-grisbi
+StartupNotify=true

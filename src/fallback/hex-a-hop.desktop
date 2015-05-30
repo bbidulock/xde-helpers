@@ -1,0 +1,31 @@
+[Desktop Entry]
+X-AppInstall-Package=hex-a-hop
+X-AppInstall-Popcon=102
+X-AppInstall-Section=main
+
+Type=Application
+Name=Hex-a-hop
+GenericName=Logic Game
+GenericName[bg]=Логическа игра
+GenericName[de]=Logikspiel
+GenericName[es]=Juego de lógica
+GenericName[ja]=論理ゲーム
+GenericName[nl]=Logisch spel
+GenericName[pl]=Gra logiczna
+GenericName[ru]=Логическая игра
+GenericName[ta]=தர்க்கபுதிர் விளையாட்டு
+GenericName[vi]=Trò chơi Lôgic
+Comment=Puzzle game based on hexagonal tiles
+Comment[bg]=Игра-ребус с шестоъгълни плочки
+Comment[de]=Puzzlespiel, basierend auf hexagonalen Platten
+Comment[es]=Rompecabezas basado en baldosas hexagonales
+Comment[ja]=六角形のタイルを用いたパズルゲーム
+Comment[nl]=Puzzelspel gebaseerd op zeshoekige tegels
+Comment[pl]=Gra-łamigłówka na planszy o sześciokątnych polach
+Comment[ru]=Игра-головоломка с шестиугольными плитками
+Comment[ta]=அறுகோண ஓடுகள் உள்ள புதிர் விளையாட்டு
+Comment[vi]=Trờ chối đố dựa vào cái ngói hình sáu cạnh
+Icon=hex-a-hop
+Exec=hex-a-hop
+Terminal=false
+Categories=Game;KidsGame;

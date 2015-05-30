@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=laby
+X-AppInstall-Popcon=11
+X-AppInstall-Section=main
+
+Name=Laby
+Comment=Learn how to program with ants and spider webs
+Comment[fr]=Apprendre à programmer avec des fourmis
+Exec=/usr/games/laby
+Icon=laby
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Game;LogicGame;
+StartupNotify=true

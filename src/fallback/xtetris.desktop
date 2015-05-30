@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Xtetris
+Comment=A classical tetris game for X11
+Exec=xtetris
+Icon=xtetris.png
+Terminal=false
+Categories=Game;BlocksGame;
+X-Arch-Package=xtetris 2.6-2
+X-Arch-Package=xtetris 2.6-2

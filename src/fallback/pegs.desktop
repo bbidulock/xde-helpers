@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=sgt-puzzles
+X-AppInstall-Popcon=137
+X-AppInstall-Section=main
+
+Version=1.0
+Terminal=false
+Exec=pegs
+Icon=pegs
+Type=Application
+Categories=Game;LogicGame;
+Name=Pegs
+Comment=Remove all but one of the pegs by jumping an adjacent peg over it
+Comment[fr]=Supprimer tous les jetons en sautant par dessus les jetons adjacents
+Comment[de]=Entferne alle bis auf einen Stift durch Überspringen benachbarter Stifte

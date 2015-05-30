@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=puredata
+X-AppInstall-Popcon=61
+X-AppInstall-Section=main
+
+Type=Application
+Name=PureData
+GenericName=
+Comment=
+Icon=puredata.xpm
+Exec=/usr/bin/pd
+Terminal=false
+Categories=AudioVideo;Audio;

@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=geotranz
+X-AppInstall-Popcon=7
+X-AppInstall-Section=main
+
+Name=Geotranz
+Comment=Geographic coordinates translator
+Exec=geotranz
+Icon=geotrans
+Terminal=false
+Type=Application
+Categories=Education;Science;Geography;

@@ -1,14 +1,13 @@
 [Desktop Entry]
 Version=1.0
 Terminal=false
+NoDisplay=false
 Icon=libreoffice-startcenter
 Type=Application
 Categories=Office;X-Red-Hat-Base;X-SuSE-Core-Office;X-MandrivaLinux-Office-Other;
-TryExec=libreoffice
 Exec=libreoffice %U
 MimeType=application/vnd.openofficeorg.extension;
 Name=LibreOffice 
-Name[pt_BR]=BrOffice .
 GenericName=Office 
 GenericName[en]=Office
 GenericName[te]=కార్యాలయం
@@ -112,5 +111,38 @@ Comment[et]=Kontoritarkvara komplekt, mis ühildub avatud ja standardiseeritud O
 Comment[nb]=Kontorpakken som bruker det åpne og standardiserte dokumentformatet ODF. Støttet av The Document Foundation.
 Comment[ro]=Suita de productivitate pentru birou compatibilă cu formatul deschis și standardizat ODF. Sprijinită de The Document Foundation.
 Comment[br]=An heuliad burevek keverlec'h gant ar mentrezh teul ODF skoueriekaet ha digor. Skoret eo gant The Document Foundation.
+StartupNotify=true
 X-GIO-NoFuse=true
-NoDisplay=true
+StartupWMClass=libreoffice-startcenter
+X-KDE-Protocols=file,http,smb,ftp,webdav
+X-Arch-Package=libreoffice-still 4.3.7-1
+
+##Define Actions
+Actions=Writer;Calc;Impress;Draw;Base;Math;
+
+[Desktop Action Writer]
+Name=Text Document
+Exec=libreoffice --writer
+
+[Desktop Action Calc]
+Name=Spreadsheet
+Exec=libreoffice --calc
+
+[Desktop Action Impress]
+Name=Presentation
+Exec=libreoffice --impress
+
+[Desktop Action Draw]
+Name=Drawing
+Exec=libreoffice --draw
+
+[Desktop Action Base]
+Name=Database
+Exec=libreoffice --base
+
+[Desktop Action Math]
+Name=Formula
+Exec=libreoffice --math
+
+##End of actions menu
+X-Arch-Package=libreoffice-still 4.3.7-1

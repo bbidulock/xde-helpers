@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-AppInstall-Package=tilda
+X-AppInstall-Popcon=231
+X-AppInstall-Section=main
+
+Name=Tilda
+Exec=tilda
+Icon=tilda.png
+Terminal=false
+Type=Application
+Categories=GTK;Utility;TerminalEmulator

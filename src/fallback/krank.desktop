@@ -1,0 +1,21 @@
+[Desktop Entry]
+X-AppInstall-Package=krank
+X-AppInstall-Popcon=7
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+
+Name=Krank
+
+Categories=Game;LogicGame;ArcadeGame
+
+Comment=a little casual game
+Comment[ru]=небольшая казуальная игрушка
+
+Exec=krank
+Icon=_usr_share_games_krank_krank
+
+Terminal=false
+Type=Application
+StartupNotify=false
+

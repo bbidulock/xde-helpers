@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=regina-normal
+X-AppInstall-Popcon=25
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+GenericName=3-Manifold Topology
+Name=Regina
+Exec=regina-kde %U
+X-KDE-StartupNotify=true
+Icon=regina
+Type=Application
+MimeType=application/x-regina;application/x-python
+DocPath=regina/index.html
+Comment=A Normal Surface Theory Calculator
+Terminal=0
+Categories=Qt;KDE;Math;Education

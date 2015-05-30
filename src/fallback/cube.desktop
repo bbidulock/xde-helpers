@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=sgt-puzzles
+X-AppInstall-Popcon=137
+X-AppInstall-Section=main
+
+Version=1.0
+Terminal=false
+Exec=cube
+Icon=cube
+Type=Application
+Categories=Game;LogicGame;
+Name=Cube
+Comment=Get all six blue squares on to the six faces of the cube at the same time
+Comment[fr]=Essayer d'obtenir simultanément six carrés bleus sur les six faces du cube
+Comment[de]=Bekomme alle sechs blauen Quadrate gleichzeitig auf die sechs Seiten des Würfels

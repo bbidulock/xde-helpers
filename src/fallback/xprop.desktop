@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=X Window Properties
+GenericName=XProp
+Comment=List the properties of a clicked window.
+Icon=xlogo
+TryExec=xprop
+Exec=xprop|gxmessage -name xprop -geometry 400x400 -font 'Liberation Mono 8' -title 'X Window Properties' -file -
+Terminal=false
+Categories=X-X11;Application;X-XTool;
+StartupNotify=false
+StartupWMClass=xprop

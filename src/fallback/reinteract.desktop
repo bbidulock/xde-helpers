@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=reinteract
+X-AppInstall-Popcon=5
+X-AppInstall-Section=main
+
+Name=Reinteract
+Comment=Interactive Python shell
+Exec=reinteract %U
+Terminal=false
+Type=Application
+StartupNotify=true
+MimeType=text/x-reinteract-worksheet;application/x-reinteract-notebook;
+Icon=reinteract
+Categories=GNOME;GTK;Education;Science;

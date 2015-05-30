@@ -11,3 +11,5 @@ Terminal=false
 Categories=DockApp;WMAKER;
 OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
 StartupNotify=false
+StartupWMClass=wmnd
+X-Arch-Package=wmnd

@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=gprename
+X-AppInstall-Popcon=70
+X-AppInstall-Section=main
+
+Version=2.6
+Name=GPRename
+Comment=To rename files and directories in batch
+Exec=gprename
+Icon=_usr_share_pixmaps_gprename_gprename
+Terminal=false
+Type=Application
+Categories=Utility;FileManager;

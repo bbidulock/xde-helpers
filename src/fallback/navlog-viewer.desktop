@@ -1,0 +1,19 @@
+
+[Desktop Entry]
+X-AppInstall-Package=mrpt-apps
+X-AppInstall-Popcon=1
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Navigation log viewer
+Comment=A visualization tool for navigation logs
+Exec=navlog-viewer
+Icon=navlog-viewer
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Categories=Education;Science;Robotics;ArtificialIntelligence;
+StartupNotify=true
+MimeType=application/x-mrpt-navlog;
+
+X-AppInstall-Architectures=amd64,armel,i386,ia64,mips,mipsel,powerpc,s390,sparc

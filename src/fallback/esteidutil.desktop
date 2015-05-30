@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=esteidutil
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=esteidutil
+Name[ee]=esteidutil
+GenericName=Smartcard tool
+Comment=EstEID smartcard management tool
+Comment[et]=ID-kaardi utiliit
+Exec=esteidutil
+Terminal=false
+Icon=esteidutil
+Type=Application
+Categories=Utility;GTK;
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

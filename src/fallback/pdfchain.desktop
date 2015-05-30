@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=pdfchain
+X-AppInstall-Popcon=95
+X-AppInstall-Section=main
+
+Name=PDF Chain
+GenericName=pdfchain
+Comment=GUI for PDFTK - A graphical tool for manipulating PDF
+Exec=pdfchain
+Icon=pdfchain
+Type=Application
+StartupNotify=false
+Categories=Office;
+MimeType=application/pdf;
+Terminal=false

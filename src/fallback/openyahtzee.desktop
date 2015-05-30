@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=openyahtzee
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main
+
+Type=Application
+Name=Open Yahtzee
+GenericName=openyahtzee
+Comment=Roll the dice
+Exec=openyahtzee
+Terminal=false
+Categories=Game;BoardGame;
+

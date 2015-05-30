@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=gnusim8085
+X-AppInstall-Popcon=15
+X-AppInstall-Section=main
+
+Name=GNUSim8085
+Comment=Intel 8085 microprocessor simulator
+Exec=gnusim8085
+Icon=_usr_share_icons_hicolor_scalable_apps_gnusim8085
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Development;

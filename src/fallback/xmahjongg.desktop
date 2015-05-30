@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=xmahjongg
+X-AppInstall-Popcon=48
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=xmahjongg
+Name[bg_BG.UTF-8]=Маджонг (xmahjongg)
+GenericName=
+Comment=A colorful solitaire Mah Jongg game
+Comment[bg_BG.UTF-8]=Премахване на купчина плочки чрез групирането им по двойки
+Icon=
+Exec=/usr/games/xmahjongg
+Terminal=false
+Categories=Game;CardGame;

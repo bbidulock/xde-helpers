@@ -145,3 +145,4 @@ StartupNotify=true
 
 Type=Application
 Categories=GNOME;GTK;System;Utility;Archiving;
+X-Arch-Package=deja-dup 34.0-1

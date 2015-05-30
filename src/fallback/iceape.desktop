@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=iceape-browser
+X-AppInstall-Popcon=1269
+X-AppInstall-Section=main
+
+Name=Iceape Suite
+GenericName=Internet Suite
+Exec=iceape %u
+Terminal=false
+Type=Application
+Categories=GTK;Network;
+Icon=iceape

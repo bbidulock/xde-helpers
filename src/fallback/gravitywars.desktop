@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=gravitywars
+X-AppInstall-Popcon=10
+X-AppInstall-Section=main
+
+Name=Gravity Wars
+GenericName=gravitywars
+Comment=Test your skills against gravity
+Type=Application
+Exec=gravitywars
+Icon=gravitywars
+Terminal=false
+Categories=Game;ArcadeGame;
+

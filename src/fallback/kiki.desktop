@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=kiki
+X-AppInstall-Popcon=93
+X-AppInstall-Section=main
+
+Name=Kiki
+Comment=Regular expression testing
+Exec=kiki
+Icon=kiki
+Terminal=false
+Type=Application
+Categories=Development;

@@ -1,0 +1,9 @@
+[Desktop Entry]
+X-AppInstall-Package=tritium
+X-AppInstall-Popcon=9
+X-AppInstall-Section=main
+
+Name=Tritium
+Comment=Tritium window manager
+Exec=/usr/bin/tritium
+Type=Application

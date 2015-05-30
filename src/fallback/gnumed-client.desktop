@@ -1,0 +1,19 @@
+#====================================================
+# GNUmed client desktop entry specification
+#
+# license: GPL
+#====================================================
+
+[Desktop Entry]
+X-AppInstall-Package=gnumed-client
+X-AppInstall-Popcon=9
+X-AppInstall-Section=main
+
+Type=Application
+Name=GNUmed
+GenericName=Electronic Medical Record
+Comment=Paperless Medical Record and Practice Management
+Icon=gnumed
+Exec=/usr/bin/gnumed
+Terminal=false
+Categories=Office;MedicalSoftware;

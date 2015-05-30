@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=lordsawar
+X-AppInstall-Popcon=21
+X-AppInstall-Section=main
+
+
+Name=LordsAWar
+GenericName=Turn-based strategy game
+Comment=Play a clone of Warlords II
+
+Type=Application
+Exec=lordsawar
+Icon=lordsawar
+Terminal=false
+Categories=Game;StrategyGame;
+

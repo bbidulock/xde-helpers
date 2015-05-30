@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=beneath-a-steel-sky
+X-AppInstall-Popcon=42
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Name=Beneath A Steel Sky
+GenericName=Game
+Comment=A science-fiction adventure game set in a bleak post-apocalyptic vision of the future
+Type=Application
+Exec=/usr/games/scummvm -p /usr/share/scummvm/beneath-a-steel-sky sky
+Icon=beneath-a-steel-sky
+Categories=AdventureGame;Game;RolePlaying;

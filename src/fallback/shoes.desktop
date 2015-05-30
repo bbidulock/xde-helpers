@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=shoes
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Type=Application
+Name=Shoes
+Comment=Interpreter for Shoes programs
+Exec=shoes
+Terminal=false
+Icon=shoes
+Categories=GTK;Development;Building;
+MimeType=application/x-shoes;

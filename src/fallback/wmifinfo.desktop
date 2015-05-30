@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=wmifinfo
+GenericName=Network Monitor Dock App
+Comment=A simple applet showing basic network configuration for all available interfaces
+TryExec=wmifinfo
+Exec=wmifinfo
+Terminal=false
+Categories=DockApp;WMAKER;
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+X-Arch-Package=wmifinfo

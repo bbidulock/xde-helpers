@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=gtklick
+X-AppInstall-Popcon=9
+X-AppInstall-Section=main
+
+Name=gtklick
+Comment=A Simple Metronome
+Exec=gtklick
+Icon=gtklick
+Type=Application
+Terminal=false
+Categories=AudioVideo;Audio;Music;GTK;

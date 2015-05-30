@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=kscope
+X-AppInstall-Popcon=55
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=KScope
+Exec=kscopeapp
+Icon=kscope
+Type=Application
+Terminal=false
+Comment=Source editing environment
+Comment[fr]=Editeur de code source
+GenericName=Source editing environment
+GenericName[fr]=Editeur de code source
+Categories=Qt;Development;

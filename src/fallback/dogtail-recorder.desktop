@@ -13,3 +13,4 @@ Type=Application
 Icon=dogtail-head.svg
 StartupNotify=true
 Categories=Application;Development;
+X-Arch-Package=dogtail 0.9.0-1

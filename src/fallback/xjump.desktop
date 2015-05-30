@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=xjump
+X-AppInstall-Popcon=24
+X-AppInstall-Section=main
+
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=XJump
+Comment=A jumping game
+Comment[fr]=Un jeu de saut
+Exec=xjump
+Icon=xjump-icon.xpm
+Categories=Application;Game;

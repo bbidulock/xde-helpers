@@ -1,5 +1,6 @@
 [Desktop Entry]
-Version=1.0
+Exec=xlinks -g
+Icon=links_32x32.xpm
 Type=Application
 Name=Links Text Browser
 Name[ar]=Links متصفح النصوص
@@ -50,12 +51,11 @@ Name[ur_PK]=روابط متن براؤزر
 Name[zh_CN]=Links 文本浏览器
 Name[zh_TW]=Links 文字瀏覽器
 StartupNotify=false
-Terminal=true
-Icon=links_32x32.xpm
-TryExec=links
-Exec=links
-Categories=Network;WebBrowser;ConsoleOnly;
+Terminal=false
+Categories=Network;WebBrowser;
 X-XFCE-Binaries=links;links-current;
 X-XFCE-Category=WebBrowser
 X-XFCE-Commands=exo-open --launch TerminalEmulator %B;
 X-XFCE-CommandsWithParameter=exo-open --launch TerminalEmulator %B %s;
+X-Arch-Package=links 2.9-1
+X-Arch-Package=links 2.9-1

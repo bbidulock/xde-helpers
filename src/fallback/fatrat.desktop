@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=fatrat
+X-AppInstall-Popcon=50
+X-AppInstall-Section=main
+
+Categories=Application;Network;
+Comment=Qt-based download/upload manager
+Exec=fatrat
+Name=FatRat
+GenericName=Download/upload manager
+Icon=fatrat.png
+StartupNotify=true
+Terminal=false
+Type=Application

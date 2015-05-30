@@ -63,3 +63,5 @@ X-XFCE-Binaries=urxvt;
 X-XFCE-Category=TerminalEmulator
 X-XFCE-Commands=%B;
 X-XFCE-CommandsWithParameter=%B -e %s;
+X-Arch-Package=rxvt-unicode 9.21-1
+X-Arch-Package=rxvt-unicode 9.21-1

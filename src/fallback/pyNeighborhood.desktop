@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-AppInstall-Package=pyneighborhood
+X-AppInstall-Popcon=24
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=pyNeighborhood
+Exec=pyNeighborhood
+Icon=_usr_share_pyneighborhood_icons_pyneighborhood
+Categories=Application;Network;System;Utility

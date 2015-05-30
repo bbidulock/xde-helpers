@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=ttb
+X-AppInstall-Popcon=4
+X-AppInstall-Section=main
+
+Name=TTB Teletekst Browser
+Name[nl]=TTB Teletekst Browser
+Comment=Teletekst Browser
+Comment[nl]=Bekijk Teletekst op je computer
+Exec=ttb
+Type=Application
+Terminal=false
+Categories=Network;
+Icon=ttb
+

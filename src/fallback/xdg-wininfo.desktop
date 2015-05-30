@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=wininfo
+X-AppInstall-Popcon=20
+X-AppInstall-Section=main
+
+Comment=A window information utility for X
+Exec=wininfo
+Name=X Window Information
+GenericName=X Debugging Tool
+Terminal=false
+Type=Application
+Categories=Application;Development;

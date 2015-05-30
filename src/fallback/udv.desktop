@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=ncbi-tools-x11
+X-AppInstall-Popcon=85
+X-AppInstall-Section=main
+
+Version=1.0
+Name=OneD Biological Sequence Viewer
+GenericName=Sequence Viewer
+Comment=View single biological sequences
+Type=Application
+Exec=udv
+Icon=ncbilogo
+Categories=Education;Science;Biology;

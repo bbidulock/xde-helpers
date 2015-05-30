@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=flamerobin
+X-AppInstall-Popcon=36
+X-AppInstall-Section=main
+
+Name=FlameRobin
+GenericName=Database administration tool
+Comment=Administration Tool for Firebird DBMS
+Exec=flamerobin
+Icon=_usr_share_pixmaps_flamerobin
+Type=Application
+Terminal=false
+Categories=Development;Database;GTK
+X-AppInstall-Architectures=amd64,armel,i386,ia64,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390,sparc

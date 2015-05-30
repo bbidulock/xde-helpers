@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=gnudoq
+X-AppInstall-Popcon=14
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=GNUDoQ
+GenericName=Board Game
+Type=Application
+Categories=Application;Game;BoardGame;
+Terminal=0
+Exec=gnudoq
+Icon=_usr_share_pixmaps_gnudoq-icon
+Comment=GNUDoQ, Su Doku generator and solver.

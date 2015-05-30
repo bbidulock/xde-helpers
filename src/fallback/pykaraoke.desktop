@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=pykaraoke
+X-AppInstall-Popcon=25
+X-AppInstall-Section=main
+
+Type=Application
+Name=PyKaraoke
+Name[lt]=PyKaraoke
+GenericName=Karaoke player
+Comment=Universal karaoke songs and movies player
+Comment[lt]=Universalus karaoke muzikos bei video grotuvas
+Icon=_usr_share_pykaraoke_icons_pykaraoke
+Exec=pykaraoke
+Terminal=false
+MimeType=audio/x-karaoke;audio/x-midi;audio/midi;
+Categories=AudioVideo;Player;

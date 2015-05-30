@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=pdfsam
+X-AppInstall-Popcon=76
+X-AppInstall-Section=main
+
+Name=pdfsam
+GenericName=PDF split and merge
+GenericName[de]=PDF teilen und zusammenführen
+Comment=A tool to split and merge pdf documents
+Comment[de]=Ein Werkzeug zur Trennung oder Zusammenführung von PDF-Dokumenten
+Exec=pdfsam
+Terminal=false
+Categories=Office;
+Icon=_usr_share_pdfsam_pdf
+Type=Application

@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=fretsonfire-game
+X-AppInstall-Popcon=72
+X-AppInstall-Section=main
+
+Name=Frets on Fire
+Name[en_GB]=Frets on Fire
+Comment=Rock out with your keyboard
+Comment[ca]=Toca la guitarra amb el teclat
+Comment[en_GB]=Rock out with your keyboard
+Comment[es]=Toca la guitarra con tu teclado
+Comment[gl]=Toca a guitarra co teclado
+Exec=fretsonfire
+Icon=fretsonfire
+Terminal=false
+Type=Application
+Categories=Game;ArcadeGame;

@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=gnujump
+X-AppInstall-Popcon=18
+X-AppInstall-Section=main
+
+Version=1.0
+Name=GNUjump
+Comment=Jump up the tower to survive
+Exec=gnujump
+Icon=gnujump.png
+Terminal=false
+Type=Application
+Categories=Game;ArcadeGame

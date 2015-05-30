@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=bist
+X-AppInstall-Popcon=2
+X-AppInstall-Section=main
+
+Version=1.0
+Name=bist
+Comment=Bist stands for bidimensional structures
+Exec=bist
+Icon=bist.png
+Terminal=false
+Type=Application
+Categories=Education;Science;Chemistry

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Bvi Plus
+GenericName=Binary Editor
+Comment=Binary file editor with vi-like interface
+Icon=bviplus
+TryExec=bviplus
+Exec=bviplus %f
+Terminal=true
+Categories=ConsoleOnly;Utility;TextEditor;
+MimeType=application/octet-stream;

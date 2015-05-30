@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-AppInstall-Package=vite
+X-AppInstall-Popcon=6
+X-AppInstall-Section=main
+
+Name=ViTE
+Comment=A visual trace explorer
+Icon=_usr_share_pixmaps_vite
+Exec=/usr/bin/vite
+Type=Application
+Categories=Utility;Application;

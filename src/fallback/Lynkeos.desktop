@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=lynkeos.app
+X-AppInstall-Popcon=50
+X-AppInstall-Section=main
+
+Name=Lynkeos Image Processor
+Name[bg]=Обработка на изображения (Lynkeos)
+Comment=Filtering of astronomical images
+Comment[bg]=Обработване на астрономически изображения
+Type=Application
+Version=1.0
+Categories=Graphics;Photography;Astronomy;
+Icon=/usr/lib/GNUstep/Applications/Lynkeos.app/Resources/Lynkeos.png
+Exec=Lynkeos

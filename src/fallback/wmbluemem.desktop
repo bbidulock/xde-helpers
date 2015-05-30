@@ -1,0 +1,15 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Blue Memory Monitor Dock App
+GenericName=System Monitor
+Comment=A blue memory monitor dock app
+Icon=GNUstep3D
+TryExec=/usr/bin/wmbluemem
+Exec=wmbluemem
+Terminal=false
+Categories=DockApp;WMAKER;
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+StartupNotify=false
+StartupWMClass=wmbluemem
+X-Arch-Package=wmbluemem

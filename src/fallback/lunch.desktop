@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=lunch
+X-AppInstall-Popcon=6
+X-AppInstall-Section=main
+
+Exec=lunch -g -q
+Type=Application
+Terminal=false
+Categories=System;RemoteAccess;Network;
+Name=Lunch
+Comment=Distributed Process Launcher
+Comment[fr]=Launceur de processus distribué
+Icon=lunch.png

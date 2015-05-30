@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=omegat
+X-AppInstall-Popcon=23
+X-AppInstall-Section=main
+
+Version=1.0
+Name=OmegaT
+Comment=Computer-Assisted Translation tool
+Exec=omegat
+Icon=_usr_share_omegat_images_OmegaT
+Type=Application
+Categories=Office;Development;Translation;Java;
+X-AppInstall-Package=omegat
+X-AppInstall-Popcon=23

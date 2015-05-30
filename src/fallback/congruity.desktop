@@ -1,0 +1,10 @@
+[Desktop Entry]
+X-AppInstall-Package=congruity
+X-AppInstall-Popcon=6
+X-AppInstall-Section=main
+
+Name=Congruity
+Exec=congruity %f
+Type=Application
+MimeType=application/x-easyzapper-hex;application/x-easyzapper-upgrade;application/x-easyzapper-tutor;
+

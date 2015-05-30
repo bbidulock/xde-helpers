@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=gespeaker
+X-AppInstall-Popcon=19
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Gespeaker
+Comment=A frontend for espeak
+Type=Application
+Comment[it_IT]=Un frontend per espeak
+Exec=/usr/bin/gespeaker
+Icon=_usr_share_gespeaker_data_icons_gespeaker
+Terminal=false
+Categories=AudioVideo;Audio;Player;GTK;

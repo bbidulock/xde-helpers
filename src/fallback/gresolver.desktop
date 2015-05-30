@@ -1,0 +1,18 @@
+[Desktop Entry]
+X-AppInstall-Package=gresolver
+X-AppInstall-Popcon=22
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Exec=gresolver
+X-GNOME-DocPath=
+Terminal=false
+StartupNotify=true
+Name=DNS Query Tool
+Name[en_GB]=DNS Query Tool
+Comment=Perform advanced DNS queries
+Comment[en_GB]=Perform advanced DNS queries
+Icon=gresolver
+Categories=Network;

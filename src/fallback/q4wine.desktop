@@ -1,0 +1,25 @@
+[Desktop Entry]
+X-AppInstall-Package=q4wine
+X-AppInstall-Popcon=116
+X-AppInstall-Section=main
+
+Categories=Qt;System;Emulator;
+Comment[it]=tool grafico di configurazione per Wine
+Comment[uk]=Графічна оболонка для налаштування Wine
+Comment=GUI configuration tool for Wine
+Comment[en]=GUI configuration tool for Wine
+Comment[ru]=Графическая оболочка для настройки Wine
+Exec=q4wine -b %u
+GenericName[uk]=Графічна оболонка для налаштування Wine
+GenericName=GUI configuration tool for Wine
+GenericName[en]=GUI configuration tool for Wine
+GenericName[ru]=Графическая оболочка для настройки Wine
+GenericName[it]=tool grafico di configurazione per Wine
+Icon=q4wine
+Name[uk]=Q4Wine
+Name=Q4Wine
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application
+MimeType=application/x-ms-dos-executable;

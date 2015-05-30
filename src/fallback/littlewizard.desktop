@@ -1,0 +1,35 @@
+[Desktop Entry]
+X-AppInstall-Package=littlewizard
+X-AppInstall-Popcon=21
+X-AppInstall-Section=main
+
+Name=Little Wizard
+Name[cs]=Malý kouzelník
+Name[es]=El Pequeño Mago
+Name[fr]=Petit Magicien
+Name[nl]=Kleine Tovenaar
+Name[pl]=Mały Czarodziej
+Name[pt_BR]=O Pequeno Mágico
+Name[sk]=Malý čarodejník
+
+GenericName=Development environment
+GenericName[pl]=Środowisko programistyczne
+GenericName[ru]=Среда программирования
+
+Comment=Development environment for children
+Comment[cs]=Vývojové prostředí pro děti
+Comment[es]=Ambiente de desarrollo para niños
+Comment[fr]=Environnement de dévéloppement pour enfants
+Comment[nl]=Bouwpakket voor kinderen
+Comment[pl]=Środowisko programistyczne dla dzieci
+Comment[pt_BR]=Ambiente de desenvolvimento para crianças
+Comment[ru]=Среда программирования для детей
+Comment[sk]=Vývojové prostredie pre deti
+
+Exec=littlewizard
+Icon=_usr_share_pixmaps_littlewizard_littlewizard-icon
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=GTK;GNOME;Education;Teaching;
+Encoding=UTF-8

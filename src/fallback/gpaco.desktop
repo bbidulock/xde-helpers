@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=gpaco
+X-AppInstall-Popcon=7
+X-AppInstall-Section=main
+
+Type=Application
+Encoding=UTF-8
+Name=Package Organizer
+GenericName=Package Organizer
+Comment=Manages software installed from source code
+Exec=gpaco
+Icon=gpaco.png
+StartupNotify=false
+Terminal=false
+Categories=Application;System;PackageManager;GTK

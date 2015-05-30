@@ -1,0 +1,39 @@
+# see http://standards.freedesktop.org/desktop-entry-spec/latest/
+[Desktop Entry]
+X-AppInstall-Package=gnubiff
+X-AppInstall-Popcon=159
+X-AppInstall-Section=main
+
+Type=Application
+Version=1.0
+Name=Gnubiff
+GenericName=Mail notification program
+GenericName[cs]=Program oznamující poštu
+GenericName[de]=Überwachung von Email-Briefkästen
+GenericName[fr]=Programme de notification de courrier
+GenericName[fr_CA]=Programme de notification de courrier
+GenericName[fr_FR]=Programme de notification de courrier
+GenericName[hu]=Email jelző program
+GenericName[id]=Aplikasi notifikasi surat
+GenericName[it]=Un programma per la notifica della posta
+GenericName[nl]=Postmeldingsprogramma
+GenericName[pt]=Programa de aviso de novas mensagens
+GenericName[pt_BR]=Programa de aviso de novas mensagens
+GenericName[sv]=Meddelandenotiferingsprogram
+GenericName[vi]=Chương trình thông báo thư
+Comment=Gnubiff is a mail notification program.
+Comment[de]=Gnubiff ist ein Programm zur Briefkastenüberwachung.
+Comment[fr]=Gnubiff est un programme de notification de courrier
+Comment[fr_CA]=Gnubiff est un programme de notification de courrier
+Comment[fr_FR]=Gnubiff est un programme de notification de courrier
+Comment[hu]=A gnubiff egy levéljelző program.
+Comment[id]=Gnubiff adalah sebuah aplikasi untuk memberitahu datangnya surat.
+Comment[nl]=Gnubiff is een postmeldingsprogramma
+Comment[pt]=Gnubiff é um programa de aviso de novas mensagens.
+Comment[pt_BR]=Gnubiff é um programa de aviso de novas mensagens.
+Comment[sv]=Gnubiff är ett meddelandenotiferingsprogram.
+Comment[vi]=Gnubiff là một chương trình thông báo thư.
+Icon=gnubiff
+Exec=gnubiff
+Terminal=false
+Categories=Network;Email;

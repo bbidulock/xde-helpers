@@ -1,0 +1,19 @@
+[Desktop Entry]
+X-AppInstall-Package=enigma
+X-AppInstall-Popcon=88
+X-AppInstall-Section=main
+
+Version=1.0
+
+Name=Enigma
+
+Comment=Uncover pairs of stones while navigating obstacles using a marble
+
+Exec=enigma
+Terminal=false
+Icon=enigma
+
+StartupNotify=false
+
+Type=Application
+Categories=Application;Game;LogicGame;

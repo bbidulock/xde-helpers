@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=keytouch
+X-AppInstall-Popcon=188
+X-AppInstall-Section=main
+
+Name=KeyTouch
+Version=1.0
+Comment=Configure extra function keys
+Exec=keytouch
+Icon=_usr_share_keytouch_pixmaps_icon
+Terminal=false
+Type=Application
+Categories=DesktopSettings;Settings;GTK
+StartupNotify=true
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

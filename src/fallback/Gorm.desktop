@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=gorm.app
+X-AppInstall-Popcon=103
+X-AppInstall-Section=main
+
+Type=Application
+Version=0.94
+Categories=Development;GUIDesigner;Building;
+Name=Gorm
+Comment=[GNUstep | Graphical] Object Relationship Modeller
+Icon=_usr_lib_GNUstep_Applications_Gorm.app_Resources_Gorm
+Exec=Gorm
+MimeType=

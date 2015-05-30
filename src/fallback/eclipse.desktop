@@ -7,3 +7,6 @@ TryExec=eclipse
 Exec=eclipse
 Terminal=false
 Categories=Development;IDE;Java;
+StartupNotify=true
+StartupWMClass=eclipse
+X-Arch-Package=eclipse 4.4.2-1

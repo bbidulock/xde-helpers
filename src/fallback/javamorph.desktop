@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=javamorph
+X-AppInstall-Popcon=5
+X-AppInstall-Section=main
+
+Version=0.0
+Name=JavaMorph
+Exec=/usr/bin/javamorph
+Terminal=false
+Icon=_usr_share_pixmaps_JavaMorph
+Type=Application
+MimeType=application/x-javamorph
+Categories=Graphics;
+GenericName=JavaMorph
+Comment=Merge two human-face-JPEGs!

@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=padre
+X-AppInstall-Popcon=21
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=Padre
+Comment=Perl Application Development and Refactoring Environment
+Icon=_usr_share_pixmaps_padre
+Exec=/usr/bin/padre
+Categories=Development;IDE;TextTools;

@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=freedink-engine
+X-AppInstall-Popcon=29
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=FreeDinkedit
+Comment=Portable Dink Smallwood game editor
+Exec=freedinkedit
+Icon=freedink
+Categories=Game;AdventureGame;

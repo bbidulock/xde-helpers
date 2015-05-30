@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=nautilus-pastebin
+X-AppInstall-Popcon=146
+X-AppInstall-Section=main
+
+Name=Nautilus Pastebin Configurator
+Type=Application
+GenericName=Nautilus Pastebin configuration panel
+GenericName[it]=Pannello di configurazione per Nautilus Pastebin
+Icon=nautilus-pastebin
+Categories=Settings;
+X-Ubuntu-Gettext-Domain=nautilus-pastebin
+Exec=nautilus-pastebin-configurator

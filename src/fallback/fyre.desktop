@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=fyre
+X-AppInstall-Popcon=9
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=Fyre
+Comment=Render Peter de Jong maps
+Comment[de]=Peter de Jong-Grafiken berechnen
+Exec=/usr/bin/fyre
+Categories=Application;Graphics;2DGraphics;
+Icon=_usr_share_pixmaps_fyre
+

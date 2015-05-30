@@ -1,0 +1,45 @@
+[Desktop Entry]
+X-AppInstall-Package=last-exit
+X-AppInstall-Popcon=9
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Last-Exit
+Name[ca]=Last-Exit
+Name[de]=Last-Exit
+Name[dz]=ལཱསིཊི-ཨེཀ་ཛིཊི་
+Name[en_GB]=Last-Exit
+Name[es]=Last-Exit
+Name[fi]=Last-Exit
+Name[fr]=Last-Exit
+Name[nb]=Last-Exit
+Name[nl]=Last-Exit
+Name[pl]=Last-Exit
+Name[pt]=Last Exit
+Name[sv]=Last-Exit
+Name[tr]=Last-Exit
+Comment=Last.fm player
+Comment[ca]=Reproductor de Last.fm
+Comment[de]=Last.fm-Player
+Comment[dz]=ལཱསིཊི་ཨེཕ་ཨེམ་གཏང་འཕྲུལ་
+Comment[en_GB]=Last.fm player
+Comment[es]=Reproductor de Last.fm
+Comment[fi]=Last.fm-soitin
+Comment[fr]=Lecteur Last.fm
+Comment[nl]=Last.fm speler
+Comment[pl]=Odtwarzacz Last.fm
+Comment[pt]=Reprodutor para o Last.fm
+Comment[sv]=Last.fm-spelare
+Comment[tr]=Last.fm oynatıcı
+Exec=last-exit
+Icon=last-exit
+Terminal=false
+Type=Application
+Encoding=UTF-8
+StartupNotify=true
+Categories=GTK;Application;AudioVideo;
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=last-exit
+X-GNOME-Bugzilla-Component=General
+
+X-AppInstall-Architectures=amd64,armel,i386,ia64,kfreebsd-amd64,kfreebsd-i386,powerpc,s390,sparc

@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=pyroom
+X-AppInstall-Popcon=18
+X-AppInstall-Section=main
+
+Version=1.0
+Name=PyRoom
+Icon=_usr_share_pyroom_pyroom
+Comment=Distraction free full-screen text editor
+Exec=/usr/bin/pyroom %F
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Office;
+StartupNotify=false
+Name[en_US]=PyRoom

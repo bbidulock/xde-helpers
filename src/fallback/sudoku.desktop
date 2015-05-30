@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Sudoku
+Comment=Suduku Number Game
+TryExec=sudoku
+Exec=sudoku
+Icon=sudoku
+Terminal=false
+Type=Application
+Categories=Game;LogicGame;
+X-Arch-Package=fltk-games 1.3.3-4
+X-Arch-Package=fltk-games 1.3.3-4

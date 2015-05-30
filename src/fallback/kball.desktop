@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=kball
+X-AppInstall-Popcon=19
+X-AppInstall-Section=main
+
+Name=KBall
+GenericName=kball
+Comment=Find the exit
+Type=Application
+Exec=kball
+Icon=kball
+Terminal=false
+Categories=Game;ActionGame;
+

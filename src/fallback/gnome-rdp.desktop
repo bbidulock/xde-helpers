@@ -1,0 +1,19 @@
+[Desktop Entry]
+X-AppInstall-Package=gnome-rdp
+X-AppInstall-Popcon=166
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Gnome-RDP
+GenericName=Remote Desktop Client
+Exec=gnome-rdp
+Icon=gnome-rdp
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=RemoteAccess;Network;
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=gnome-rdp
+X-GNOME-Bugzilla-Component=General
+X-GNOME-Bugzilla-Version=0.2.3
+X-SuSE-translate=true

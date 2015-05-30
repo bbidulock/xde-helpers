@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=keysafe
+X-AppInstall-Popcon=3
+X-AppInstall-Section=main
+
+Version=1.0
+Name=KeySafe
+Comment=A password safe
+Exec=/usr/bin/keysafe
+Type=Application
+Terminal=false
+Categories=GNOME;Utility;Security

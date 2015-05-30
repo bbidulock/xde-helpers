@@ -2,9 +2,8 @@
 Encoding=UTF-8
 Type=Application
 Name=Openbox
+Exec=openbox
 Icon=openbox
-Exec=openbox-session
-TryExec=openbox
 GenericName=Window Manager
 GenericName[fr]=Gestionnaire de Fenêtres
 GenericName[pt]=Gestor de Janelas
@@ -21,3 +20,5 @@ X-GNOME-Provides=windowmanager
 X-Ubuntu-Gettext-Domain=openbox
 # back compat
 X-GNOME-Autostart-Notify=true
+X-Arch-Package=openbox 3.5.2-7
+X-Arch-Package=openbox 3.5.2-7

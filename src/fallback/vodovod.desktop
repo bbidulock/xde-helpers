@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=vodovod
+X-AppInstall-Popcon=23
+X-AppInstall-Section=main
+
+Type=Application
+Name=vodovod
+GenericName=
+Comment=
+Icon=vodovod.xpm
+Exec=vodovod
+Terminal=false
+Categories=Game;ArcadeGame;

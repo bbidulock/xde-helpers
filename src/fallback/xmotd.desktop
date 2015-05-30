@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=xmotd
+X-AppInstall-Popcon=5
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Encoding=UTF-8
+Name=Message of the day
+Name[pl]=Wiadomość dnia
+GenericName=Message of the day display
+GenericName[pl]=Wyświetla wiadomość dnia
+Comment=A message of the day browser for X
+Comment[pl]=Przeglądarka wiadomości dnia dla X
+Icon=xmotd
+Exec=xmotd /etc/motd
+Categories=Utility;

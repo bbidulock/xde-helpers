@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-AppInstall-Package=colorname
+X-AppInstall-Popcon=6
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=colorname
+Categories=Graphics;Utility;GTK
+Exec=/usr/bin/colorname
+Icon=_usr_share_pixmaps_colorname

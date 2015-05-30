@@ -1,13 +1,13 @@
 [Desktop Entry]
 Version=1.0
 Terminal=false
+NoDisplay=false
 Icon=libreoffice-math
 Type=Application
-Categories=Office;X-Red-Hat-Base;X-SuSE-Core-Office;X-MandrivaLinux-Office-Other;
-Exec=libreoffice -math %U
-MimeType=application/vnd.oasis.opendocument.formula;application/vnd.sun.xml.math;application/vnd.stardivision.math;
+Categories=Office;Spreadsheet;Education;Science;Math;X-Red-Hat-Base;X-MandrivaLinux-Office-Other;
+Exec=libreoffice --math %U
+MimeType=application/vnd.oasis.opendocument.formula;application/vnd.sun.xml.math;application/vnd.oasis.opendocument.formula-template;text/mathml;application/mathml+xml;
 Name=LibreOffice Math
-Name[pt_BR]=BrOffice Math
 GenericName=Formula Editor
 GenericName[en]=Formula Editor
 GenericName[te]=ఫార్ములా సరికూర్పరి
@@ -186,8 +186,16 @@ Comment[bg]=С Math можете да създавате и редактират
 Comment[nn]=Med Math kan du laga og redigera vitskaplege formlar og likningar.
 Comment[ro]=Creați și editați formule științifice și ecuații folosind Math.
 Comment[br]=Math. - Krouiñ hag embann reollunioù skiantel hag ataladoù.
-InitialPreference=5
-X-GIO-NoFuse=true
 StartupNotify=true
-TryExec=oomath
-NoDisplay=true
+X-GIO-NoFuse=true
+Keywords=Equation;OpenDocument Formula;Formula;odf;MathML;
+InitialPreference=5
+StartupWMClass=libreoffice-math
+X-KDE-Protocols=file,http,smb,ftp,webdav
+X-Arch-Package=libreoffice-still 4.3.7-1
+
+Actions=NewDocument;
+[Desktop Action NewDocument]
+Name=New Formula
+Exec=libreoffice --math
+X-Arch-Package=libreoffice-still 4.3.7-1

@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=gcolor2
+X-AppInstall-Popcon=161
+X-AppInstall-Section=main
+
+Name=Gcolor2
+GenericName=Gcolor2
+Comment=Simple GTK2 color selector and picker
+Exec=gcolor2
+Icon=_usr_share_pixmaps_gcolor2_gcolor2
+Terminal=false
+Type=Application
+Categories=Application;Graphics;

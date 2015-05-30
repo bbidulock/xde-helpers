@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=xmille
+X-AppInstall-Popcon=15
+X-AppInstall-Section=main
+
+Type=Application
+Encoding=UTF-8
+Name=Xmille
+GenericName=
+Comment=
+Icon=
+Exec=/usr/games/xmille
+Terminal=false
+Categories=Application;Game;CardGame;

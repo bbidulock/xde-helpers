@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=xshogi
+X-AppInstall-Popcon=11
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Type=Application
+Name=Xshogi
+Comment=Play Shogi Game
+Exec=xshogi
+Icon=grisbi.png
+Terminal=false
+Categories=Application;Game;

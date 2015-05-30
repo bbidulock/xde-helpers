@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Monitoring Dock App
+GenericName=System Montor
+Comment=All in one monitoring dock app
+Icon=GNUstep3D
+TryExec=/usr/bin/allin1
+Exec=allin1
+Terminal=false
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+Categories=DockApp;WMAKER;
+StartupNotify=false
+StartupWMClass=allin1
+X-Arch-Package=allin1 0.5.0-3

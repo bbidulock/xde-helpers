@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=reportbug-ng
+X-AppInstall-Popcon=56
+X-AppInstall-Section=main
+
+Type=Application
+Encoding=UTF-8
+Name=Reportbug-NG
+Comment=Report bugs to Debian's BTS
+Comment[cs]=Hlásí chyby vývojářům Debianu
+Exec=reportbug-ng
+Icon=_usr_share_pixmaps_debian-logo
+Categories=Application;System

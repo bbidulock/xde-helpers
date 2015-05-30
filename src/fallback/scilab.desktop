@@ -1,0 +1,19 @@
+[Desktop Entry]
+X-AppInstall-Package=scilab
+X-AppInstall-Popcon=280
+X-AppInstall-Section=main
+
+Comment=Scientific software package for numerical computations
+Comment[fr]=Logiciel scientifique de calcul numérique
+Comment[de]=eine Wissenschaftssoftware für numerische Berechnungen
+Exec=scilab
+GenericName=Scientific Software Package
+GenericName[fr]=Logiciel de calcul numérique
+GenericName[de]=Wissenschaftssoftware
+Icon=_usr_share_scilab_icons_scilab
+Name=Scilab
+Name[de]=Scilab
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=Education;Science;Math;Development;Physics;
