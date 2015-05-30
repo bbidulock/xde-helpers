@@ -7,6 +7,29 @@ Encoding=UTF-8
 Type=Application
 Name=E16
 Comment=The Enlightenment (e16) window manager
+Comment[ca]=El gestor de finestres Enlightenment (e16)
+Comment[de]=Die Enlightenment-(e16)-Fensterverwaltung
+Comment[el]=Ο διαχειριστής παραθύρων Enlightenment (e16)
+Comment[eo]=Enlightenment (e16) la fenestra agordilo
+Comment[fr]=Gestionnaire de fenêtres Enlightenment (e16)
 Comment[it]=Il window manager Enlightenment (e16)
+Comment[ja]=Enlightenment (e16) ウインドウマネージャ
+Comment[ms]=Pengurus tetingkp Enligtenment (e16)
+Comment[pt]=O gestor de janelas Enlightenment (e16)
+Comment[sr]=Управник прозора Просвећењe (e16)
+Comment[tr]=Enlightenment (e16) pencere yöneticisi
+Icon=/usr/share/e16/icons/e16.png
 Exec=e16
-Icon=_usr_share_e16_misc_e16
+X-Arch-Package=enlightenment16 1.0.16-1
+Actions=XDE;
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Exec=xde-session -desktop ENLIGHTENMENT -startwm start-e16
+Comment=Enlightenment in an XDE session
+
+[Window Manager]
+SessionManaged=false
+StartupNotification=true
+X-XDE-Managed=true

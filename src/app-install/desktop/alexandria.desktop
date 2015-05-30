@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=alexandria
-X-AppInstall-Popcon=53
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Alexandria Book Collection Manager
 Name[cs]=Alexandria správce sbírek knih
 Name[cy]=Trefnydd Casgliad Llyfrau Alexandria
@@ -40,8 +38,11 @@ Comment[pl]=Zarządzaj swoją biblioteką
 Comment[pt]=Faça a gestão da sua colecção de livros
 Comment[pt_BR]=Gerencie a sua coleção de livros
 Comment[sv]=Hantera din boksamling
+Icon=alexandria
 Exec=/usr/bin/alexandria
 Terminal=false
-Type=Application
 Categories=Application;Office;
-Icon=alexandria
+StartupNotify=false
+X-AppInstall-Package=alexandria
+X-AppInstall-Popcon=53
+X-AppInstall-Section=main

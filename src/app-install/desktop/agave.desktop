@@ -1,9 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=agave
-X-AppInstall-Popcon=88
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Agave
 Name[cs]=Agave
@@ -33,4 +30,9 @@ Comment[sv]=Generera färgscheman
 Comment[zh_TW]=產生色彩配置檔
 Icon=agave
 Exec=agave
+Terminal=false
 Categories=GNOME;Application;Graphics
+StartupNotify=false
+X-AppInstall-Package=agave
+X-AppInstall-Popcon=88
+X-AppInstall-Section=main

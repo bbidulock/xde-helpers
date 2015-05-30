@@ -1,12 +1,14 @@
 [Desktop Entry]
-X-AppInstall-Package=aclock.app
-X-AppInstall-Popcon=75
-X-AppInstall-Section=main
-
-Type=Application
 Version=0.94
-Categories=Utility;Clock;
+Encoding=UTF-8
+Type=Application
 Name=AClock
 Comment=Analog Clock Dockapp
 Icon=_usr_lib_GNUstep_Applications_AClock.app_Resources_AClock
 Exec=AClock
+Terminal=false
+Categories=Utility;Clock;
+StartupNotify=false
+X-AppInstall-Package=aclock.app
+X-AppInstall-Popcon=75
+X-AppInstall-Section=main

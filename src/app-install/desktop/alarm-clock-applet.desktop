@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=alarm-clock-applet
-X-AppInstall-Popcon=134
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Alarm Clock
 Name[ar]=منبّه
 Name[be]=Будзільнік
@@ -46,6 +45,9 @@ Comment[ru]=Вставайте по утрам
 Icon=alarm-clock
 Exec=alarm-clock-applet
 Terminal=false
-Type=Application
 Categories=GNOME;GTK;Utility;
+StartupNotify=false
+X-AppInstall-Package=alarm-clock-applet
+X-AppInstall-Popcon=134
+X-AppInstall-Section=main
 X-Ubuntu-Gettext-Domain=alarm-clock

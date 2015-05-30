@@ -4,20 +4,18 @@ X-AppInstall-Popcon=1775
 X-AppInstall-Section=main
 
 Version=1.0
-
 Type=Application
-
-Name=Audacious
+Name=Audacious2
 GenericName=Music Player
 GenericName[be]=Музычны плэер
 GenericName[da]=Lydafspiller
 GenericName[de]=Musikspieler
-GenericName[es]=Reproductor de Música
+GenericName[es]=Reproductor de música
 GenericName[fr]=Lecteur de Musique
 GenericName[it]=Lettore di Musica
 GenericName[lt]=Muzikos grotuvas
 GenericName[nl]=Muziekspeler
-GenericName[no]=Lydavspiller
+GenericName[nb]=Lydavspiller
 GenericName[pt]=Leitor de Música
 GenericName[ro]=Lector de Muzică
 GenericName[ru]=Аудиоплеер
@@ -29,13 +27,15 @@ Comment[fr]=Écouter de la musique
 Comment[hu]=Hallgasson zenét
 Comment[it]=Ascoltare musica
 Comment[lt]=Klausyti muzikos
+Comment[nb]=Lytt til musikk
 Comment[nl]=Muziek luisteren
 Comment[ru]=Слушайте музыку
-Icon=audacious
-
+Comment[es]=Escucha música
+Icon=audacious2
 Categories=AudioVideo;Audio;Player;GTK;
-
 Exec=audacious2 %U
+TryExec=audacious2
 Terminal=false
+MimeType=application/ogg;application/x-cue;application/x-ogg;application/xspf+xml;audio/midi;audio/mp3;audio/mpeg;audio/mpegurl;audio/ogg;audio/prs.sid;audio/x-flac;audio/x-it;audio/x-mod;audio/x-mp3;audio/x-mpeg;audio/x-mpegurl;audio/x-ms-wma;audio/x-musepack;audio/x-s3m;audio/x-scpls;audio/x-stm;audio/x-vorbis+ogg;audio/x-wav;audio/x-xm;inode/directory;x-content/audio-cdda;
 StartupNotify=true
-MimeType=application/x-ogg;audio/midi;audio/mp3;audio/mpeg;audio/mpegurl;audio/ogg;audio/prs.sid;audio/x-flac;audio/x-it;audio/x-mod;audio/x-mp3;audio/x-mpeg;audio/x-mpegurl;audio/x-ms-wma;audio/x-musepack;audio/x-s3m;audio/x-scpls;audio/x-stm;audio/x-wav;audio/x-xm;application/ogg;audio/x-vorbis+ogg;application/xspf+xml;
+X-Arch-Package=audacious2 3.2.4-1

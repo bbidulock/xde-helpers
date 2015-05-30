@@ -3,15 +3,60 @@ X-AppInstall-Package=claws-mail
 X-AppInstall-Popcon=584
 X-AppInstall-Section=main
 
+Version=1.0
 Name=Claws Mail
 Name[ja]=Claws Mail
 Name[es]=Claws Mail
-Comment=E-Mail client
-Comment[ja]=�Żҥ᡼�륯�饤�����
-Comment[es]=Cliente de correo
-Exec=claws-mail
+GenericName=E-mail client
+GenericName[ca]=Client de correu electrònic
+GenericName[cs]=E-mailový klient
+GenericName[da]=E-post klient
+GenericName[es]=Cliente de correo electrónico
+GenericName[fi]=Sähköpostiohjelma
+GenericName[fr]=Client de messagerie électronique
+GenericName[hu]=Levelez¿kliens
+GenericName[id]=Pembaca E-mail
+GenericName[ja]=E¿¿¿¿¿¿¿¿¿
+GenericName[lt]=El. pa¿to klientas
+GenericName[pl]=Program poczty elektronicznej
+GenericName[pt-br]=Cliente de e-mail
+GenericName[sk]=Po¿tový klient
+GenericName[sv]=E-postklient
+Exec=claws-mail %u
 Icon=claws-mail
+Categories=Network;Email;GTK;
+Keywords=lightweight;fast;gui;extensible;plugin;pop;pop3;imap;imap4;nntp;news;
+Comment=Lightweight and Fast GTK+ based Mail Client
+Comment[ca]=Client de correu electrònic ràpid i lleuger basat en GTK+
+Comment[cs]=Lehký a rychlý mailový klient zalo¿ený na GTK+
+Comment[da]=Letvægts og hurtig GTK+ baseret e-post klient
+Comment[es]=Cliente de correo rápido y ligero basado en GTK+
+Comment[fi]=Kevyt ja nopea GTK+-pohjainen sähköpostiohjelma
+Comment[fr]=Client de messagerie électronique, rapide et léger, en GTK+
+Comment[hu]=Pehelysúlyú és gyors GTK+ alapú levelez¿kliens
+Comment[id]=Pembaca e-mail berbasis GTK+ yang cepat dan ringan
+Comment[ja]=¿¿¿¿¿GTK+¿¿¿¿E¿¿¿¿¿¿¿¿¿
+Comment[lt]=Lengvas ir greitas el. pa¿to klientas GTK+ pagrindu
+Comment[pl]=Program pocztowy u¿ywaj¿cy GTK+
+Comment[pt-br]=Cliente de e-mail leve e rápido, baseado em GTK+
+Comment[sk]=Od¿ah¿ený a rýchly po¿tový klient, zalo¿ený na GTK+
+Comment[sv]=Lättviktig och snabb GTK+-baserad E-postklient
 Terminal=false
 Type=Application
-Categories=Network;Email;GTK
 StartupNotify=true
+MimeType=x-scheme-handler/mailto;
+X-Info=Claws Mail
+X-Arch-Package=claws-mail 3.11.1-2
+Actions=GetMail;ComposeMail;SendFile;
+
+[Desktop Action GetMail]
+Exec=claws-mail --receive-all
+Name=Get Mail
+
+[Desktop Action ComposeMail]
+Exec=claws-mail --compose
+Name=Email...
+
+[Desktop Action SendFile]
+Exec=claws-mail --compose --attach %f
+Name=Send file...

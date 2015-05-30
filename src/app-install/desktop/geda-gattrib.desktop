@@ -44,3 +44,4 @@ Exec=gattrib %F
 Icon=geda-gattrib
 #MimeType=application/x-geda-schematic;application/x-geda-symbol;
 Categories=Engineering;Electronics;
+X-Arch-Package=geda-gaf 1.8.2-1

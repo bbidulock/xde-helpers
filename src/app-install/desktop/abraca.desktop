@@ -1,13 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=abraca
-X-AppInstall-Popcon=59
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Abraca XMMS2 Client
 Comment=Manage Music
 Comment[de]=Musik verwalten
-Categories=GNOME;Application;AudioVideo;
-Exec=abraca
 Icon=abraca
+Exec=abraca
 Terminal=false
-Type=Application
+Categories=GNOME;Application;AudioVideo;
+StartupNotify=false
+X-AppInstall-Package=abraca
+X-AppInstall-Popcon=59
+X-AppInstall-Section=main

@@ -1,14 +1,15 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Aeskulap Viewer
+Comment=Medical image viewer and DICOM network client
+Icon=aeskulap
+Exec=aeskulap
+Terminal=false
+Categories=Viewer;MedicalSoftware;Graphics;
+MimeType=image/dicom;
+StartupNotify=true
 X-AppInstall-Package=aeskulap
 X-AppInstall-Popcon=38
 X-AppInstall-Section=main
-
-Name=Aeskulap Viewer
-Comment=Medical image viewer and DICOM network client
-Exec=aeskulap
-Icon=aeskulap
-Terminal=false
-Type=Application
-Categories=Viewer;MedicalSoftware;Graphics;
-StartupNotify=true
-MimeType=image/dicom;

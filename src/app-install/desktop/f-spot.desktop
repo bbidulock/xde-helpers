@@ -2,6 +2,7 @@
 X-AppInstall-Package=f-spot
 X-AppInstall-Popcon=517
 X-AppInstall-Section=main
+X-AppInstall-Architectures=amd64,armel,i386,ia64,kfreebsd-amd64,kfreebsd-i386,powerpc,s390,sparc
 
 Version=1.0
 Name=F-Spot
@@ -225,6 +226,7 @@ Comment[vi]=Tổ chức, thích thú và chia ra các ảnh chụp của bạn
 Comment[zh_CN]=组织、欣赏及共享您的照片
 Comment[zh_HK]=組織、享受、並分享你的相片
 Comment[zh_TW]=組織、享受、並分享您的相片
+TryExec=f-spot
 Exec=f-spot
 Icon=f-spot
 StartupNotify=true
@@ -234,6 +236,6 @@ Categories=Graphics;Photography;GNOME;GTK;
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=f-spot
 X-GNOME-Bugzilla-Component=General
-X-GNOME-Bugzilla-Version=0.6.2
+X-GNOME-Bugzilla-Version=0.7.3
 X-GNOME-DocPath=f-spot/f-spot.xml
-X-AppInstall-Architectures=amd64,armel,i386,ia64,kfreebsd-amd64,kfreebsd-i386,powerpc,s390,sparc
+X-Arch-Package=f-spot-dev 0.7.3

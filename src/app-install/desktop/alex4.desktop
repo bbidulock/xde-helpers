@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=alex4
-X-AppInstall-Popcon=38
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Alex the Allegator 4
 Comment=Retro platform game
@@ -11,3 +9,6 @@ Exec=alex4
 Terminal=false
 Categories=Game;ActionGame;
 StartupNotify=false
+X-AppInstall-Package=alex4
+X-AppInstall-Popcon=38
+X-AppInstall-Section=main

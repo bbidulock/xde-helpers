@@ -2,6 +2,7 @@
 X-AppInstall-Package=gnome-color-manager
 X-AppInstall-Popcon=321
 X-AppInstall-Section=main
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
 
 Encoding=UTF-8
 Name=Color Profiles
@@ -70,6 +71,7 @@ Comment[sv]=Hantera ICC-färgprofiler
 Comment[ta]=ஐசிசி  நிற வரையுருக்களை மேலாளுக
 Comment[zh_CN]=管理 ICC 色彩配置文件
 Icon=gnome-color-manager
+TryExec=/usr/bin/gcm-prefs
 Exec=gcm-prefs
 Terminal=false
 Type=Application
@@ -78,4 +80,3 @@ StartupNotify=true
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=gnome-color-manager
 X-GNOME-Bugzilla-Component=gnome-color-manager
-X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

@@ -1,15 +1,17 @@
 [Desktop Entry]
-X-AppInstall-Package=amule-utils-gui
-X-AppInstall-Popcon=194
-X-AppInstall-Section=main
-
-Name=aLinkCreator
-Exec=alc
-Icon=alc
-Terminal=false
+Version=1.0
+Encoding=UTF-8
 Type=Application
-Categories=Network;P2P;
+Name=aLinkCreator
 Comment=aMule ed2k link creator
 Comment[de]=ed2k-Linkersteller
 Comment[fr]=Créateur de liens ed2k d'aMule
 Comment[hu]=ed2k hivatkozás készítő
+Icon=alc
+Exec=alc
+Terminal=false
+Categories=Network;P2P;
+StartupNotify=false
+X-AppInstall-Package=amule-utils-gui
+X-AppInstall-Popcon=194
+X-AppInstall-Section=main

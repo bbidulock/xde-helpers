@@ -1,14 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=adanaxisgpl
-X-AppInstall-Popcon=30
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Adanaxis
 GenericName=Adanaxis
 Comment=Fly your ship in a 4d environment
-Type=Application
-Exec=adanaxisgpl
 Icon=adanaxisgpl32x32
+Exec=adanaxisgpl
 Terminal=false
 Categories=Game;ActionGame;
-
+StartupNotify=false
+X-AppInstall-Package=adanaxisgpl
+X-AppInstall-Popcon=30
+X-AppInstall-Section=main

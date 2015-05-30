@@ -1,14 +1,15 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Abe's Amazing Adventure
+Comment=Side-scrolling game
+Icon=_usr_share_pixmaps_abe
+Exec=abe
+Terminal=false
+Categories=Game;AdventureGame;
+MimeType=
+StartupNotify=false
 X-AppInstall-Package=abe
 X-AppInstall-Popcon=41
 X-AppInstall-Section=main
-
-Version=1.0
-Type=Application
-Encoding=UTF-8
-Name=Abe's Amazing Adventure
-Comment=Side-scrolling game
-Exec=/usr/games/abe
-Categories=Game;AdventureGame;
-Icon=_usr_share_pixmaps_abe
-MimeType=

@@ -1,13 +1,15 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Alsa Modular Synth
+Comment=Modular Software Synth
+Icon=ams_32
+Exec=ams
+Terminal=false
+Categories=GNOME;AudioVideo;Audio;
+StartupNotify=false
 X-AppInstall-Package=ams
 X-AppInstall-Popcon=47
 X-AppInstall-Section=main
-
-Name=Alsa Modular Synth
-Comment=Modular Software Synth
-Exec=ams
-Icon=ams_32
-Terminal=false
-Type=Application
-Categories=GNOME;AudioVideo;Audio;
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

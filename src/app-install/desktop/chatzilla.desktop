@@ -1,8 +1,4 @@
 [Desktop Entry]
-X-AppInstall-Package=iceape-chatzilla
-X-AppInstall-Popcon=14
-X-AppInstall-Section=main
-
 Name=Chatzilla
 GenericName=IRC Chat
 Exec=iceape -chat
@@ -10,3 +6,6 @@ Terminal=false
 Type=Application
 Categories=GTK;Network;IRCClient;
 Icon=chatzilla
+X-AppInstall-Package=iceape-chatzilla
+X-AppInstall-Popcon=14
+X-AppInstall-Section=main

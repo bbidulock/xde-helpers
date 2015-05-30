@@ -147,6 +147,7 @@ Comment[xh]=Susa iibhola ezinombala ebhodini ngokuthi wenze imigca
 Comment[zh_CN]=将彩球连成一线以消去
 Comment[zh_HK]=移動同色的球成一直線令球消失
 Comment[zh_TW]=移動同色的球成一直線令球消失
+TryExec=/usr/bin/glines
 Exec=glines
 Icon=gnome-glines
 Terminal=false
