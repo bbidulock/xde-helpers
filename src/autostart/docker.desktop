@@ -10,8 +10,8 @@ TryExec=/usr/bin/docker
 Terminal=false
 Categories=DockApp;WMAKER;
 #only necessary in WMs that do not have a systray
-OnlyShowIn=BLACKBOX;WMAKER;PEKWM;
+OnlyShowIn=BLACKBOX;WMAKER;PEKWM;ADWM;
 StartupNotify=false
 #use wmsystemtray instead
 Hidden=true
-X-Arch-Package=docker-tray
+X-Arch-Package=docker-tray 1.5-3

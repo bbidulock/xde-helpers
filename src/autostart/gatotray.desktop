@@ -1,14 +1,16 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Type=Application
-Name=System monitor
-GenericName=System monitor
-Comment=System tray system monitor
+Name=Gatotray System Monitor
+GenericName=System Monitor
+Comment=Graphical CPU stats monitor in the system tray
 Icon=utilities-system-monitor
-Exec=gatotray
 TryExec=gatotray
+Exec=gatotray
 Terminal=false
-Categories=TrayIcon;
+Categories=TrayIcon;System;Utility;
 StartupNotify=false
 OnlyShowIn=FLUXBOX;BLACKBOX;
 X-GNOME-Autostart-enabled=true
+X-Arch-Package=gatotray 2.3-1
