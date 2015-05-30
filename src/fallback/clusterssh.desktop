@@ -1,14 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=clusterssh
-X-AppInstall-Popcon=211
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=ClusterSSH
 GenericName=SSH/RSH Cluster Control Client
 Comment=Control multiple ssh or rsh sessions from a single input window
-Exec=cssh
 Icon=_usr_share_pixmaps_clusterssh-32x32
+Exec=cssh
 Terminal=false
-Type=Application
 Categories=System;RemoteAccess;Network;
-Version=1.0
+StartupNotify=false
+X-AppInstall-Package=clusterssh
+X-AppInstall-Popcon=211
+X-AppInstall-Section=main

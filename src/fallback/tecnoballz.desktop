@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=tecnoballz
-X-AppInstall-Popcon=20
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=TecnoballZ
 GenericName=tecnoballz
@@ -11,4 +9,7 @@ Icon=tecnoballz.xpm
 Exec=tecnoballz
 Terminal=false
 Categories=Game;ArcadeGame;
-
+StartupNotify=false
+X-AppInstall-Package=tecnoballz
+X-AppInstall-Popcon=20
+X-AppInstall-Section=main

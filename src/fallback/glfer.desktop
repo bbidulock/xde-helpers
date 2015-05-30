@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=glfer
+Comment=slow CW (QRSS) / dual-frequency CW (DFCW)
+Icon=
+Exec=glfer
+Terminal=false
+Categories=Utility;HamRadio
+StartupNotify=false
 X-AppInstall-Package=glfer
 X-AppInstall-Popcon=5
 X-AppInstall-Section=main
-
-Name=glfer
-Comment=slow CW (QRSS) / dual-frequency CW (DFCW)
-Exec=glfer
-Icon=
-Terminal=false
-Type=Application
-Categories=Utility;HamRadio

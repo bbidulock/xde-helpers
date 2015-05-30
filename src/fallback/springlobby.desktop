@@ -1,14 +1,16 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=SpringLobby
+Comment=Play real-time strategy games using the Spring engine
+Icon=springlobby.svg
+Exec=springlobby
+Terminal=false
+Categories=Application;Game;StrategyGame;
+StartupNotify=false
 X-AppInstall-Package=springlobby
 X-AppInstall-Popcon=37
 X-AppInstall-Section=main
-
-Name=SpringLobby
-Comment=Play real-time strategy games using the Spring engine
-Exec=springlobby
-Icon=springlobby.svg
-Terminal=false
-Type=Application
-Categories=Application;Game;StrategyGame;
-X-SuSE-translate=false
 X-AppInstall-Architectures=amd64,i386
+X-SuSE-translate=false

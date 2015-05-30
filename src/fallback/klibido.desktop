@@ -1,13 +1,16 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Klibido
+GenericName=Usenet Binaries Downloader
+Comment=KDE nntp (usenet) binaries grabber
+Icon=klibido
+Exec=klibidoload %U
+Terminal=false
+Categories=Qt;KDE;Network
+MimeType=application/x-nzb;
+StartupNotify=false
 X-AppInstall-Package=klibido
 X-AppInstall-Popcon=58
 X-AppInstall-Section=main
-
-Name=Klibido
-Exec=klibidoload %U
-Icon=klibido
-Type=Application
-Comment=KDE nntp (usenet) binaries grabber
-Categories=Qt;KDE;Network
-GenericName=Usenet Binaries Downloader
-MimeType=application/x-nzb;

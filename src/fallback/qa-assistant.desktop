@@ -1,14 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=qa-assistant
-X-AppInstall-Popcon=9
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=QA Assistant
 GenericName=Quality Assurance CheckList
 Comment=Quality Assurance Checklist
+Icon=qa-icon
 Exec=qa-assistant
 Terminal=false
-Type=Application
-Icon=qa-icon
-StartupNotify=true
 Categories=GNOME;Utility;Development;
+StartupNotify=true
+X-AppInstall-Package=qa-assistant
+X-AppInstall-Popcon=9
+X-AppInstall-Section=main

@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=qmmp
-X-AppInstall-Popcon=108
-X-AppInstall-Section=main
-
-X-Desktop-File-Install-Version=0.15
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Open cue album
 Name[cs]=Otevřít album cue
 Name[ru]=Открыть альбом cue
@@ -16,10 +14,14 @@ Comment[ru]=Открыть cue-файл(ы) в директории
 Comment[uk]=Відкрити cue-файл(и) в теці
 Comment[zh_CN]=在本目录打开 CUE 文件
 Comment[zh_TW]=在本目錄打開 CUE 檔案
-Exec=sh -c "qmmp '%F'/*.cue"
 Icon=qmmp
+Exec=sh -c "qmmp '%F'/*.cue"
+Terminal=false
 Categories=AudioVideo;Player;Audio;Qt;
 MimeType=inode/directory;
-Type=Application
+StartupNotify=false
 X-KDE-StartupNotify=false
-Terminal=false
+X-Desktop-File-Install-Version=0.15
+X-AppInstall-Package=qmmp
+X-AppInstall-Popcon=108
+X-AppInstall-Section=main

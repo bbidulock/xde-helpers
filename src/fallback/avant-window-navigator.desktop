@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=avant-window-navigator
-X-AppInstall-Popcon=455
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Avant Window Navigator
 Name[af]=Avant Verster Navigator
@@ -94,7 +92,12 @@ Comment[tr]=Yuva benzeri pencere gezgini
 Comment[uk]=Панельіконний навігатор на основі панелей.
 Comment[zh_CN]=Dock样式的窗口导航
 Comment[zh_TW]=一個 dock 類型的視窗導覽工具
-Exec=avant-window-navigator
 Icon=avant-window-navigator
+Exec=avant-window-navigator
+Terminal=false
 Categories=GNOME;Utility;
+StartupNotify=false
+X-AppInstall-Package=avant-window-navigator
+X-AppInstall-Popcon=455
+X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,i386,ia64,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390,sparc

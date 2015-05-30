@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=gitg
-X-AppInstall-Popcon=182
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=gitg
 Name[da]=gitg
 Name[de]=gitg
@@ -29,13 +27,15 @@ Comment[lt]=Git repozitorijų naršyklė
 Comment[nl]=Git repository bekijker
 Comment[pa]=Git ਰਿਪੋਜ਼ਟਰੀ ਬਰਾਊਜ਼ਰ
 Comment[sl]=Brskalnik git skladišč
+Icon=gitg
 Exec=gitg %U
 Terminal=false
-Type=Application
-Icon=gitg
 Categories=GNOME;GTK;Development;RevisionControl;
-#X-GNOME-DocPath=gitg/gitg.xml
+StartupNotify=false
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=gitg
 X-GNOME-Bugzilla-Component=core
 X-GNOME-Bugzilla-Version=0.0.6
+X-AppInstall-Package=gitg
+X-AppInstall-Popcon=182
+X-AppInstall-Section=main

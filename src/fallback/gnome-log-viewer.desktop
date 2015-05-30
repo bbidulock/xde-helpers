@@ -1,9 +1,11 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=GNOME Log Viewer
 Icon=/usr/share/pixmaps/gnome-system-log.xpm
 TryExec=gnome-system-log
 Exec=gnome-system-log
 Terminal=false
 Categories=System;Monitoring;
+StartupNotify=false

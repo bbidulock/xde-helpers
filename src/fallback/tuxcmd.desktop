@@ -1,16 +1,16 @@
-
 [Desktop Entry]
-X-AppInstall-Package=tuxcmd
-X-AppInstall-Popcon=56
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Tux Commander
 Comment=A two panel file manager
-Exec=tuxcmd
 Icon=tuxcmd
+Exec=tuxcmd
 Terminal=false
-Type=Application
 Categories=GTK;Utility;
 StartupNotify=true
 X-Desktop-File-Install-Version=0.15
+X-AppInstall-Package=tuxcmd
+X-AppInstall-Popcon=56
+X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,i386,powerpc,sparc

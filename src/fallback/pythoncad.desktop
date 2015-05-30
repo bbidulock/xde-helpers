@@ -1,13 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=pythoncad
-X-AppInstall-Popcon=59
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=PyCAD
 Comment=PythonCAD
 Icon=gtkpycad
 Exec=pythoncad
 Terminal=false
-Type=Application
-X-Desktop-File-Install-Version=0.3
 Categories=Office;X-Red-Hat-Base;
+StartupNotify=false
+X-Desktop-File-Install-Version=0.3
+X-AppInstall-Package=pythoncad
+X-AppInstall-Popcon=59
+X-AppInstall-Section=main

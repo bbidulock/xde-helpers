@@ -1,6 +1,7 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Gnome Tetravex
 Name[ar]=Gnome Tetravex
 Name[ast]=Gnome Tetravex
@@ -67,3 +68,4 @@ TryExec=gnotravex
 Exec=gnotravex
 Terminal=false
 Categories=X-Debian-Games-Puzzles;
+StartupNotify=false

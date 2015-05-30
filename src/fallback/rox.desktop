@@ -1,9 +1,11 @@
 [Desktop Entry]
-Name=ROX Filer
-Exec=rox
-Icon=rox
-Terminal=false
+Version=1.0
+Encoding=UTF-8
 Type=Application
+Name=ROX Filer
+Icon=rox
+Exec=rox
+Terminal=false
 Categories=System;Utility;Core;FileManager;
-X-Arch-Package=rox 2.11-2
+StartupNotify=false
 X-Arch-Package=rox 2.11-2

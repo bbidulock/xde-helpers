@@ -1,15 +1,16 @@
 [Desktop Entry]
-X-AppInstall-Package=dx
-X-AppInstall-Popcon=58
-X-AppInstall-Section=main
-
 Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=OpenDX Data Explorer
 GenericName=Data Explorer
 Comment=Visualize scientific, engineering and analytical data
 Comment[en_GB]=Visualise scientific, engineering and analytical data
-Type=Application
-Exec=dx
 Icon=dxicon
+Exec=dx
+Terminal=false
 Categories=Application;Education;Science;
+StartupNotify=false
+X-AppInstall-Package=dx
+X-AppInstall-Popcon=58
+X-AppInstall-Section=main

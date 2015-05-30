@@ -1,13 +1,15 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=SpeedCrunch
+GenericName=Calculator
+Comment=High precision calculator
+Icon=speedcrunch
+Exec=speedcrunch
+Terminal=false
+Categories=Qt;Utility;Calculator;
+StartupNotify=false
 X-AppInstall-Package=speedcrunch
 X-AppInstall-Popcon=102
 X-AppInstall-Section=main
-
-Name=SpeedCrunch
-Comment=High precision calculator
-Exec=speedcrunch
-Icon=speedcrunch
-GenericName=Calculator
-Terminal=false
-Type=Application
-Categories=Qt;Utility;Calculator;

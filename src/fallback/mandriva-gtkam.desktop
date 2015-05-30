@@ -1,9 +1,12 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=GTKam
 Comment=Access digital cameras (via GPhoto2)
+Icon=gtkam
 TryExec=gtkam
 Exec=gtkam 
-Icon=gtkam
 Terminal=false
-Type=Application
 Categories=GTK;Graphics;Photography;
+StartupNotify=false

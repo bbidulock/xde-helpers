@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=zapping
-X-AppInstall-Popcon=51
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Zapping TV Viewer
 Name[cs]=Prohližeč TV - Zapping
 Name[de]=Zapping Fernseher
@@ -20,13 +18,15 @@ Comment[fr]=Permet de voir la TV dans une fenêtre
 Comment[it]=Ti permette di vedere la TV in una finestra
 Comment[ja]=ウィンドウに映像を表示
 Comment[nl]=Laat je TV kijken in een window
-Type=Application
-Exec=zapping
 Icon=_usr_share_pixmaps_zapping_gnome-television
+Exec=zapping
 Terminal=false
-StartupNotify=true
 Categories=GNOME;AudioVideo;Video;TV;
+StartupNotify=true
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=Zapping
-X-GNOME-Bugzilla-Version=0.10cvs6
 X-GNOME-Bugzilla-Component=general
+X-GNOME-Bugzilla-Version=0.10cvs6
+X-AppInstall-Package=zapping
+X-AppInstall-Popcon=51
+X-AppInstall-Section=main

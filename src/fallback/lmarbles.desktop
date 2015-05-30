@@ -1,13 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=lmarbles
-X-AppInstall-Popcon=9
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=LMarbles
 GenericName=Puzzle game
 Comment=Build figures out of colored marbles
 Icon=lmarbles.xpm
 Exec=lmarbles
+Terminal=false
 Categories=Game;LogicGame
+StartupNotify=false
+X-AppInstall-Package=lmarbles
+X-AppInstall-Popcon=9
+X-AppInstall-Section=main

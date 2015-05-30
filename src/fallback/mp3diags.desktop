@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=MP3 Diags
+Comment=MP3 Diags - diagnosis and repair tool
+Icon=mp3diags
+Exec=mp3diags
+Terminal=false
+Categories=Audio;AudioVideo;AudioVideoEditing;
+StartupNotify=false
 X-AppInstall-Package=mp3diags
 X-AppInstall-Popcon=71
 X-AppInstall-Section=main
-
-Type=Application
-Icon=mp3diags
-Exec=mp3diags
-#DocPath=
-Comment=MP3 Diags - diagnosis and repair tool
-Name=MP3 Diags
-Categories=Audio;AudioVideo;AudioVideoEditing;

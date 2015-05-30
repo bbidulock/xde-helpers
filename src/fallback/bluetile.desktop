@@ -1,14 +1,16 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Bluetile
+Exec=bluetile
+Terminal=false
+StartupNotify=false
+X-GNOME-Autostart-Notify=true
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-WMName=bluetile
 X-AppInstall-Package=bluetile
 X-AppInstall-Popcon=18
 X-AppInstall-Section=main
-
-Type=Application
-Encoding=UTF-8
-Name=Bluetile
-Exec=bluetile
-X-GNOME-WMName=bluetile
-X-GNOME-Autostart-Phase=WindowManager
-X-GNOME-Provides=windowmanager
-X-GNOME-Autostart-Notify=true
 X-AppInstall-Architectures=amd64,armel,hppa,i386,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390,sparc

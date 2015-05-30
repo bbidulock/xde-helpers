@@ -1,8 +1,12 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Virtual Network Connection
 Comment=A remote frame buffer tool
+Icon=rfbdrake
 TryExec=rfbdrake
 Exec=rfbdrake
-Icon=rfbdrake
-Type=Application
+Terminal=false
 Categories=GNOME;GTK;X-MandrivaLinux-Internet-RemoteAccess;Network;RemoteAccess;Dialup;X-MandrivaLinux-CrossDesktop
+StartupNotify=false

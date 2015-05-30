@@ -1,13 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=XRCed
+Comment=wxPython XRC resource editor and UI designer
+Icon=/usr/share/pixmaps/xrced
+Exec=/usr/bin/xrced
+Terminal=false
+Categories=Development;
+StartupNotify=true
 X-AppInstall-Package=python-wxtools
 X-AppInstall-Popcon=82
 X-AppInstall-Section=main
-
-Name=XRCed
-Comment=wxPython XRC resource editor and UI designer
-Exec=/usr/bin/xrced
-Icon=/usr/share/pixmaps/xrced
-Terminal=false
-Type=Application
-Categories=Development;
-StartupNotify=true

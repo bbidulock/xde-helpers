@@ -1,10 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=merkaartor
-X-AppInstall-Popcon=89
-X-AppInstall-Section=main
-
-Type=Application
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Merkaartor
 GenericName=OpenStreetMap Editor
 GenericName[fr]=Un éditeur pour OpenStreetMap
@@ -12,6 +9,8 @@ GenericName[tr]=Açık Sokak Haritası Düzenleyicisi
 Icon=merkaartor
 Exec=merkaartor
 Terminal=false
-StartupNotify=false
 Categories=Geography;Network;Qt;
-
+StartupNotify=false
+X-AppInstall-Package=merkaartor
+X-AppInstall-Popcon=89
+X-AppInstall-Section=main

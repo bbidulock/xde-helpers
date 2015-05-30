@@ -1,12 +1,13 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=GTK+ Demo
 Comment=GTK+ code examples and demonstrations
-Exec=gtk3-demo
 Icon=gtk3-demo
+Exec=gtk3-demo
 Terminal=false
-Type=Application
-StartupNotify=true
-Categories=GTK;
 NoDisplay=true
-X-Arch-Package=gtk3 3.16.3-2
+Categories=GTK;
+StartupNotify=true
 X-Arch-Package=gtk3 3.16.3-2

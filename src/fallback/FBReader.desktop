@@ -1,17 +1,18 @@
 [Desktop Entry]
-X-AppInstall-Package=fbreader
-X-AppInstall-Popcon=269
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=E-book reader
 Name[ru]=Чтение электронных книг
 GenericName=E-book reader
 GenericName[ru]=Чтение электронных книг
 Comment=E-book reader
 Comment[ru]=Чтение электронных книг
-Exec=FBReader %F
-StartupNotify=true
-Terminal=false
-Type=Application
 Icon=FBReader.png
+Exec=FBReader %F
+Terminal=false
 Categories=Office;Viewer;Literature;
+StartupNotify=true
+X-AppInstall-Package=fbreader
+X-AppInstall-Popcon=269
+X-AppInstall-Section=main

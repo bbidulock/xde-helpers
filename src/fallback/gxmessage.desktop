@@ -1,4 +1,6 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Gxmessage
 GenericName=gxmessage
@@ -8,5 +10,5 @@ Icon=gxmessage
 Exec=gxmessage
 Terminal=false
 Categories=Utility;
-X-Arch-Package=gxmessage-gtk2 2.20.1-1
+StartupNotify=false
 X-Arch-Package=gxmessage-gtk2 2.20.1-1

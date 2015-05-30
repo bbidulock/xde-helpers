@@ -1,13 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=paje.app
-X-AppInstall-Popcon=8
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Paje Trace Viewer
 GenericName=Trace Viewer
 Comment=View traces produced during the execution of multi-threaded programs
-Type=Application
-Exec=Paje
 Icon=Paje
+Exec=Paje
+Terminal=false
 Categories=Application;Profiling;
+StartupNotify=false
+X-AppInstall-Package=paje.app
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main

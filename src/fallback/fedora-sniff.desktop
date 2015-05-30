@@ -1,16 +1,17 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=AT-SPI Browser
 Name[en_CA]=AT-SPI Browser
 Name[en_GB]=AT-SPI Browser
 Comment=Browse your Assistive Technology-enabled desktop
 Comment[en_CA]=Browse your Assistive Technology-enabled desktop
 Comment[en_GB]=Browse your Assistive Technology-enabled desktop
+Icon=dogtail-head.svg
 TryExec=sniff
 Exec=sniff
 Terminal=false
-Type=Application
-Icon=dogtail-head.svg
-StartupNotify=true
 Categories=Application;Development;X-Fedora;
+StartupNotify=true
 X-Desktop-File-Install-Version=0.10

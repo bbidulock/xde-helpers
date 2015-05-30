@@ -1,13 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=IDLE
+Comment=IDE for Python
+Icon=_usr_share_pixmaps_python2.5
+Exec=/usr/bin/idle-python2.5 -n
+Terminal=false
+Categories=Application;Development;
+StartupNotify=true
 X-AppInstall-Package=idle-python2.5
 X-AppInstall-Popcon=62
 X-AppInstall-Section=main
-
-Name=IDLE
-Comment=IDE for Python
-Exec=/usr/bin/idle-python2.5 -n
-Icon=_usr_share_pixmaps_python2.5
-Terminal=false
-Type=Application
-Categories=Application;Development;
-StartupNotify=true

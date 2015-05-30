@@ -1,13 +1,14 @@
 [Desktop Entry]
-X-AppInstall-Package=byobu
-X-AppInstall-Popcon=140
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Byobu Window Manager
 Comment=Text-based Window Manager using GNU Screen
 Icon=_usr_share_byobu_pixmaps_byobu
 Exec=byobu-launcher
-Type=Application
 Terminal=true
-Encoding=UTF-8
 Categories=GNOME;GTK;Utility;
+StartupNotify=false
+X-AppInstall-Package=byobu
+X-AppInstall-Popcon=140
+X-AppInstall-Section=main

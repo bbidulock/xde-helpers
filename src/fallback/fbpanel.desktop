@@ -1,4 +1,5 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=Fluxbox Panel
@@ -8,8 +9,8 @@ Icon=/usr/share/fbpanel/images/logo.png
 TryExec=/usr/bin/fbpanel
 Exec=fbpanel
 Terminal=false
-Categories=GTK;Fluxbox;System;Utility;
 OnlyShowIn=FLUXBOX;BLACKBOX;
+Categories=GTK;Fluxbox;System;Utility;
 StartupNotify=false
 StartupWMClass=fbpanel
 X-GNOME-Autostart-enabled=true

@@ -1,13 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Foobillard
+Comment=A 3D billiards game using OpenGL
+Icon=foobillard.png
+Exec=foobillard
+Terminal=false
+Categories=Game;SportsGame;
+StartupNotify=false
 X-AppInstall-Package=foobillard
 X-AppInstall-Popcon=91
 X-AppInstall-Section=main
-
-Name=Foobillard
-Comment=A 3D billiards game using OpenGL
-Exec=foobillard
-Icon=foobillard.png
-Terminal=false
-Type=Application
-Categories=Game;SportsGame;
-StartupNotify=false

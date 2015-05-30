@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=PCP Charts
+Comment=Strip Chart tool for plotting Performance Co-Pilot metrics.
+Icon=pmchart.png
+Exec=pmchart
+Terminal=false
+Categories=System;Utility;
+StartupNotify=false
 X-AppInstall-Package=pcp-gui
 X-AppInstall-Popcon=7
 X-AppInstall-Section=main
-
-Name=PCP Charts
-Comment=Strip Chart tool for plotting Performance Co-Pilot metrics.
-Exec=pmchart
-Icon=pmchart.png
-Terminal=false
-Type=Application
-Categories=System;Utility;

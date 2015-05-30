@@ -1,13 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Searchmonkey
+Comment=Regular expression power search utilty
+Icon=_usr_share_pixmaps_searchmonkey_searchmonkey-32x32
+Exec=searchmonkey
+Terminal=false
+Categories=TextTools;Utility
+StartupNotify=false
 X-AppInstall-Package=searchmonkey
 X-AppInstall-Popcon=21
 X-AppInstall-Section=main
-
-Name=Searchmonkey
-Comment=Regular expression power search utilty
-Exec=searchmonkey
-Icon=_usr_share_pixmaps_searchmonkey_searchmonkey-32x32
-Type=Application
-StartupNotify=false
-Terminal=false
-Categories=TextTools;Utility

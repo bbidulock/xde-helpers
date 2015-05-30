@@ -1,17 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Defendguin
+Comment=Save the Penguins
+Icon=defendguin-icon
+Exec=defendguin
+Terminal=false
+Categories=Application;ArcadeGame;Game;
+StartupNotify=false
 X-AppInstall-Package=defendguin
 X-AppInstall-Popcon=30
 X-AppInstall-Section=main
-
-Name=Defendguin
-
-Comment=Save the Penguins
-
-Type=Application
-Categories=Application;ArcadeGame;Game;
-
-Exec=defendguin
-
-Icon=defendguin-icon
-Terminal=false
-

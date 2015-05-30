@@ -1,9 +1,7 @@
-
 [Desktop Entry]
-X-AppInstall-Package=pinot
-X-AppInstall-Popcon=7
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Pinot Metasearch Tool
 Name[de]=Pinot Werkzeug zur Metasuche
 Name[es]=Herramienta metabuscador Pinot
@@ -32,10 +30,12 @@ Comment[ru]=Search the Web and your documents
 Comment[sv]=Sök på webben och i dina dokument
 Comment[zh_CN]=搜寻网络路和你的文件
 Comment[zh_TW]=搜尋網際網路和你的文件
-Exec=pinot
-StartupNotify=true
 Icon=pinot
+Exec=pinot
 Terminal=false
-Type=Application
 Categories=GTK;Core;Network;Filesystem;
+StartupNotify=true
 X-Desktop-File-Install-Version=0.15
+X-AppInstall-Package=pinot
+X-AppInstall-Popcon=7
+X-AppInstall-Section=main

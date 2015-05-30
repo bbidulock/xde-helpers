@@ -1,13 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=ncbi-tools-x11
-X-AppInstall-Popcon=85
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Entrez NCBI Database Querying Tool
 GenericName=Database Querying Tool
 Comment=Query NCBI databases and retrieve documents
-Type=Application
-Exec=entrez2
 Icon=ncbilogo
+Exec=entrez2
+Terminal=false
 Categories=Education;Science;Biology;
+StartupNotify=false
+X-AppInstall-Package=ncbi-tools-x11
+X-AppInstall-Popcon=85
+X-AppInstall-Section=main

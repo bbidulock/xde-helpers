@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=exfalso
-X-AppInstall-Popcon=365
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Ex Falso
 GenericName=Audio tag editor
 GenericName[bg]=Редактор на музикални етикети
@@ -60,8 +59,11 @@ Comment[tr]=Ses dosyalarınızdaki etiketleri düzenler
 Comment[uk]=Програма для редагування тегів аудіо-файлів
 Comment[zh_CN]=编辑您的音频文件里的标签
 Comment[zh_TW]=編輯您的音訊標籤
+Icon=exfalso.png
 Exec=exfalso
 Terminal=false
-Type=Application
-Icon=exfalso.png
 Categories=AudioVideo;Audio;GTK
+StartupNotify=false
+X-AppInstall-Package=exfalso
+X-AppInstall-Popcon=365
+X-AppInstall-Section=main

@@ -1,12 +1,13 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=LSHW
 Comment=HardWare LiSter
-Categories=Application;System;X-Red-Hat-Base;X-Fedora;
 Icon=/usr/share/lshw/artwork/logo.svg
 Exec=/usr/sbin/gtk-lshw
-Type=Application
 Terminal=false
-Encoding=UTF-8
+Categories=Application;System;X-Red-Hat-Base;X-Fedora;
+StartupNotify=false
 X-Desktop-File-Install-Version=0.10
-X-Arch-Package=lshw B.02.17-1
 X-Arch-Package=lshw B.02.17-1

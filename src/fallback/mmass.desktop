@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=mMass
+Comment=Mass spectrum viewer and data analysis proteomics tool
+Icon=mmass
+Exec=/usr/bin/mmass
+Terminal=false
+Categories=Education;Science;Chemistry;
+StartupNotify=false
 X-AppInstall-Package=mmass
 X-AppInstall-Popcon=1
 X-AppInstall-Section=main
-
-Version=1.0
-Name=mMass
-Comment=Mass spectrum viewer and data analysis proteomics tool
-Type=Application
-Exec=/usr/bin/mmass
-Icon=mmass
-Categories=Education;Science;Chemistry;

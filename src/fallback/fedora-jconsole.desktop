@@ -1,13 +1,14 @@
-
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=OpenJDK Monitoring & Management Console
 Comment=Monitor and manage OpenJDK applications
+Icon=java
 TryExec=jconsole
 Exec=jconsole
-Icon=java
 Terminal=false
-Type=Application
-StartupWMClass=sun-tools-jconsole-JConsole
 Categories=Development;Monitor;Java;
-Version=1.0
+StartupNotify=false
+StartupWMClass=sun-tools-jconsole-JConsole
 X-Desktop-File-Install-Version=0.18

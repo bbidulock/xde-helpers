@@ -1,13 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=xtide
-X-AppInstall-Popcon=30
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=XTide Tide Predictor
 GenericName=Tide Predictor
 Comment=View tide and current predictions
-Type=Application
-Exec=xtide
 Icon=xtide
+Exec=xtide
+Terminal=false
 Categories=Education;Science;
+StartupNotify=false
+X-AppInstall-Package=xtide
+X-AppInstall-Popcon=30
+X-AppInstall-Section=main

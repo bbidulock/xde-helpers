@@ -1,10 +1,13 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=About Mageia
 Comment=More about Mageia
 Icon=mageia
 TryExec=about-mageia
 Exec=about-mageia
-Type=Application
-Categories=Documentation;System;
 Terminal=false
 NoDisplay=true
+Categories=Documentation;System;
+StartupNotify=false

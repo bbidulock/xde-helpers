@@ -1,9 +1,11 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Bash
-TrhExec=bash
 TryExec=bash
 Exec=bash --login
 Terminal=true
 Categories=Shells;
+StartupNotify=false
+TrhExec=bash

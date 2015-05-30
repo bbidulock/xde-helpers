@@ -1,10 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=xfce4-dict
-X-AppInstall-Popcon=275
-X-AppInstall-Section=main
-
-Type=Application
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Dictionary
 Name[ast]=Diccionariu
 Name[ca]=Diccionari
@@ -95,5 +92,8 @@ Comment[zh_CN]=用于查询不同词典的客户端程序
 Icon=xfce4-dict
 Exec=xfce4-dict
 Terminal=false
-StartupNotify=true
 Categories=Office;Dictionary;GTK;
+StartupNotify=true
+X-AppInstall-Package=xfce4-dict
+X-AppInstall-Popcon=275
+X-AppInstall-Section=main

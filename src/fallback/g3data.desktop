@@ -1,15 +1,17 @@
 [Desktop Entry]
-X-AppInstall-Package=g3data
-X-AppInstall-Popcon=41
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=G3Data Graph Analyzer
 Name[en_GB]=g3data Graph Analyser
 GenericName=Graph Analyzer
 GenericName[en_GB]=Graph Analyser
 Comment=Retrieve data from scanned images of graphs
-Type=Application
-Exec=g3data
 Icon=g3data
+Exec=g3data
+Terminal=false
 Categories=Science;Education;Graphics;
+StartupNotify=false
+X-AppInstall-Package=g3data
+X-AppInstall-Popcon=41
+X-AppInstall-Section=main

@@ -1,12 +1,13 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Widget Factory
 Comment=A showcase for GTK+ widgets, designed for testing themes.
-Exec=gtk3-widget-factory
 Icon=gtk3-widget-factory
+Exec=gtk3-widget-factory
 Terminal=false
-Type=Application
-StartupNotify=true
-Categories=GTK;
 NoDisplay=true
-X-Arch-Package=gtk3 3.16.3-2
+Categories=GTK;
+StartupNotify=true
 X-Arch-Package=gtk3 3.16.3-2

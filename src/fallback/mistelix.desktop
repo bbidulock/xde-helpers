@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=mistelix
-X-AppInstall-Popcon=11
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Mistelix
 Name[ca]=Mistelix
 Name[cs]=Mistelix
@@ -46,10 +44,12 @@ Comment[pt_BR]=Criação de DVDs e slideshows
 Comment[sk]=Robte vlastné DVD a prezentácie
 Comment[sl]=Avtorski DVD-ji in diaprojekcije
 Comment[sv]=Skapa DVD-skivor och bildspel
-Exec=mistelix
 Icon=mistelix
-StartupNotify=true
+Exec=mistelix
 Terminal=false
-Type=Application
 Categories=GNOME;GTK;AudioVideo;Video;AudioVideoEditing;
+StartupNotify=true
+X-AppInstall-Package=mistelix
+X-AppInstall-Popcon=11
+X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,i386,ia64,kfreebsd-amd64,kfreebsd-i386,powerpc,s390,sparc

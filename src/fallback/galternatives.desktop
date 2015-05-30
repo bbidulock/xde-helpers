@@ -1,10 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=galternatives
-X-AppInstall-Popcon=127
-X-AppInstall-Section=main
-
 Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Alternatives Configurator
 Name[cs]=Nastavení alternativ
 Name[es]=Configurador de alternativas
@@ -17,10 +14,12 @@ Comment[es]=Configurar las alternativas por defecto del sistema
 Comment[fr]=Configuration des alternatives par défaut du système
 Comment[pt_BR]=Configure as alternativas padrão do sistema
 Comment[sv]=Konfigurera systemets standardalternativ
-Type=Application
-Exec=/usr/sbin/galternatives
 Icon=_usr_share_pixmaps_galternatives
-X-GNOME-DocPath=
+Exec=/usr/sbin/galternatives
 Terminal=false
 Categories=GTK;Application;System;
 StartupNotify=true
+X-GNOME-DocPath=
+X-AppInstall-Package=galternatives
+X-AppInstall-Popcon=127
+X-AppInstall-Section=main

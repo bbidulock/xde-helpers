@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=LE
 GenericName=LE
 Comment=LE Text Editor
-Exec=le
 Icon=text-editor
-Terminal=true
-Type=Application
-Encoding=UTF-8
-Categories=TextEditor;
-X-AfterStep-IndexName=le
 TryExec=le
+Exec=le
+Terminal=true
+Categories=TextEditor;
+StartupNotify=false
+X-AfterStep-IndexName=le

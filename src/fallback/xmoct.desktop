@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=xmoct
+GenericName=oct game
+Icon=_usr_share_pixmaps_xoct.m
+Exec=/usr/games/xmoct
+Terminal=false
+Categories=Game;
+StartupNotify=false
 X-AppInstall-Package=xmpuzzles
 X-AppInstall-Popcon=10
 X-AppInstall-Section=main
-
-Name=xmoct
-GenericName=oct game
-Exec=/usr/games/xmoct
-Icon=_usr_share_pixmaps_xoct.m
-Terminal=false
-Type=Application
-Categories=Game;

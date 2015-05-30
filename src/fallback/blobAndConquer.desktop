@@ -1,14 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=blobandconquer
-X-AppInstall-Popcon=19
-X-AppInstall-Section=main
-
 Version=0.7
 Encoding=UTF-8
+Type=Application
 Name=Blob Wars : Blob And Conquer
 GenericName=Game
 Comment=Mission and Objective based 3D Action Game
-Type=Application
-Exec=blobAndConquer
 Icon=blobAndConquer
+Exec=blobAndConquer
+Terminal=false
 Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=blobandconquer
+X-AppInstall-Popcon=19
+X-AppInstall-Section=main

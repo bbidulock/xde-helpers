@@ -1,20 +1,20 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Squeak
+Name[de_DE]=Squeak
+Name[es_ES]=Squeak
+Comment=Programming system and content development tool
+Comment[de_DE]=Programmier- und Multimediaentwicklungsumgebung
+Comment[es_ES]=Herramienta de desarrollo de contenidos y aplicaciones
+Icon=_usr_share_pixmaps_squeak
+Exec=squeak
+Terminal=false
+Categories=Application;Education;Development;
+MimeType=application/x-image;application/squeak-image;application/squeak-project
+StartupNotify=false
 X-AppInstall-Package=squeak-vm
 X-AppInstall-Popcon=236
 X-AppInstall-Section=main
-
-Encoding=UTF-8
-Version=1.0
-Type=Application
-Exec=squeak
-Icon=_usr_share_pixmaps_squeak
-Terminal=false
-Name=Squeak
-Name[es_ES]=Squeak
-Name[de_DE]=Squeak
-Comment= Programming system and content development tool
-Comment[es_ES]=Herramienta de desarrollo de contenidos y aplicaciones
-Comment[de_DE]=Programmier- und Multimediaentwicklungsumgebung
-Categories=Application;Education;Development;
-MimeType=application/x-image;application/squeak-image;application/squeak-project
 X-AppInstall-Architectures=amd64,armel,i386,ia64,mips,mipsel,powerpc,s390,sparc

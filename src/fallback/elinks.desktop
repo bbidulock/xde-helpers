@@ -1,5 +1,7 @@
 [Desktop Entry]
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=ELinks Web Browser
 Name[ca]=Navegador web ELinks
 Name[de]=ELinks Webbrowser
@@ -11,12 +13,11 @@ GenericName[es]=Navegador web
 Comment=Browse the web in text mode
 Comment[ca]=Navegeu per el web en mode text
 Comment[es]=Navega por el web en modo texto
+Icon=html
 Exec=/usr/bin/elinks %u
 Terminal=true
-Type=Application
-Icon=html
-MimeType=text/html
 Categories=Application;Network
+MimeType=text/html
 StartupNotify=false
 StartupWMClass=ELinks
 XClassHintResName=ELinks

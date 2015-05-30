@@ -1,14 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Sim-IM
+GenericName=SIM Instant Messenger
+Icon=sim.png
+Exec=sim
+Terminal=false
+Categories=Qt;KDE;Network;InstantMessaging;
+StartupNotify=false
 X-AppInstall-Package=sim
 X-AppInstall-Popcon=29
 X-AppInstall-Section=main
-
-Type=Application
-Version=1.0
-Encoding=UTF-8
-Name=Sim-IM
-Exec=sim
-Icon=sim.png
-GenericName=SIM Instant Messenger
-Terminal=false
-Categories=Qt;KDE;Network;InstantMessaging;

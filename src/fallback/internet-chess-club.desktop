@@ -1,8 +1,10 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Internet Chess Club
 TryExec=xboard
 Exec=xboard -ics -icshost chessclub.com
 Terminal=true
 Categories=Game;BoardGame;
+StartupNotify=false

@@ -1,16 +1,18 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=T.E.G. client
+Name[de]=T.E.G. Client
+Name[es]=Cliente T.E.G.
+Comment=Tenes Empanadas Graciela client
+Comment[de]=Client f\xFCr Tenes Empanadas Graciela
+Comment[es]=Cliente del Tenes Empanadas Graciela
+Icon=teg
+Exec=tegclient
+Terminal=false
+Categories=GTK;GNOME;Game;StrategyGame;
+StartupNotify=false
 X-AppInstall-Package=teg
 X-AppInstall-Popcon=32
 X-AppInstall-Section=main
-
-Name=T.E.G. client
-Name[es]=Cliente T.E.G.
-Name[de]=T.E.G. Client
-Comment=Tenes Empanadas Graciela client
-Comment[es]=Cliente del Tenes Empanadas Graciela
-Comment[de]=Client für Tenes Empanadas Graciela
-Exec=tegclient
-Icon=teg
-Terminal=false
-Type=Application
-Categories=GTK;GNOME;Game;StrategyGame;

@@ -1,14 +1,15 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Kluppe
+Comment=audio loop-player and recorder
+Icon=kluppe.png
+Exec=kluppe
+Terminal=false
+Categories=AudioVideo;Audio;Recorder;
+StartupNotify=false
 X-AppInstall-Package=kluppe
 X-AppInstall-Popcon=13
 X-AppInstall-Section=main
-
-Encoding=UTF-8
-Name=Kluppe
-Comment=audio loop-player and recorder
-Exec=kluppe
-Icon=kluppe.png
-Terminal=false
-Type=Application
-Categories=AudioVideo;Audio;Recorder;
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

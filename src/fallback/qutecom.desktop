@@ -1,19 +1,20 @@
 [Desktop Entry]
-X-AppInstall-Package=qutecom
-X-AppInstall-Popcon=143
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=QuteCom
-Comment=Talk to people over the Internet and send instant messages over multiple protocols
-Comment[fr]=Discuter avec des personnes sur Internet e envoie des messages instantanés en utilisant divers protocoles
-Comment[it]=Comunicare con le persone via Internet e inviare messaggi istantanei multiprotocollo
 GenericName=VoIP softphone and IM client
 GenericName[fr]=Téléphone VoIP e client IM
 GenericName[it]=Programma VoIP e client IM
-Exec=qutecom
+Comment=Talk to people over the Internet and send instant messages over multiple protocols
+Comment[fr]=Discuter avec des personnes sur Internet e envoie des messages instantanés en utilisant divers protocoles
+Comment[it]=Comunicare con le persone via Internet e inviare messaggi istantanei multiprotocollo
 Icon=qutecom
-StartupNotify=true
+Exec=qutecom
 Terminal=false
-Type=Application
 Categories=Qt;Network;Telephony;VideoConference;
+StartupNotify=true
+X-AppInstall-Package=qutecom
+X-AppInstall-Popcon=143
+X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

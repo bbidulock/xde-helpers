@@ -1,15 +1,17 @@
 [Desktop Entry]
-X-AppInstall-Package=liguidsoap
-X-AppInstall-Popcon=4
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Liguidsoap
 GenericName=Graphical user interface to liquidsoap
 GenericName[fr]=Interface graphique pour liquidsoap
 Comment=Simple GTK gui to liquidsoap to interactively configure your streams.
 Comment[fr]=Simple interface graphique pour liquidsoap afin de configurer vos flux.
-Exec=liguidsoap
 Icon=liguidsoap.xpm
+Exec=liguidsoap
 Terminal=false
-Type=Application
 Categories=Audio;
+StartupNotify=false
+X-AppInstall-Package=liguidsoap
+X-AppInstall-Popcon=4
+X-AppInstall-Section=main

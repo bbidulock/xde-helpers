@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=xfce4-settings
-X-AppInstall-Popcon=1263
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Mouse
 Name[ast]=Mur
 Name[ca]=Ratolí
@@ -67,12 +65,14 @@ Comment[uk]=Налаштувати поведінку і зовнішній ви
 Comment[ur]=پؤائینٹر ڈیوائس کا سلوک اور مظہر متعین کریں
 Comment[ur_PK]=پؤائینٹر ڈیوائس کا سلوک اور مظہر متعین کریں
 Comment[zh_CN]=设置定位设备（比如鼠标）行为和外观
-Exec=xfce4-mouse-settings
 Icon=preferences-desktop-peripherals
+Exec=xfce4-mouse-settings
 Terminal=false
-Type=Application
+OnlyShowIn=XFCE;
 Categories=X-XFCE;Settings;DesktopSettings;X-XfceSettingsDialog;
 StartupNotify=true
-OnlyShowIn=XFCE;
-X-XfcePluggable=true
+X-AppInstall-Package=xfce4-settings
+X-AppInstall-Popcon=1263
+X-AppInstall-Section=main
 X-XfceHelpFile=xfce4-settings.html
+X-XfcePluggable=true

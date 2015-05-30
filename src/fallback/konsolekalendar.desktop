@@ -1,15 +1,14 @@
 [Desktop Entry]
-X-AppInstall-Package=konsolekalendar
-X-AppInstall-Popcon=749
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=KonsoleKalendar
 Name[af]=Konsole Kalender
 Name[ar]=KonsoleKalendar
 Name[bg]=KonsoleKalendar
 Name[br]=KonsoleKalendar
-Name[ca]=KonsoleKalendar
 Name[ca@valencia]=KonsoleKalendar
+Name[ca]=KonsoleKalendar
 Name[cs]=Konzolový kalendář
 Name[cy]=KonsoleKalendar
 Name[da]=KonsoleKalendar
@@ -60,9 +59,12 @@ Name[uk]=Календар для консолі
 Name[x-test]=xxKonsoleKalendarxx
 Name[zh_CN]=KonsoleKalendar
 Name[zh_TW]=KonsoleKalendar
-Exec=kdialog --sorry "konsolekalendar is a command-line only program.  Please read the handbook at help:/konsolekalendar for more info."
 Icon=konsolekalendar
-Type=Application
-X-DocPath=konsolekalendar/index.html
+Exec=kdialog --sorry "konsolekalendar is a command-line only program.  Please read the handbook at help:/konsolekalendar for more info."
 Terminal=false
 Categories=Qt;KDE;Utility;X-KDE-More;
+StartupNotify=false
+X-DocPath=konsolekalendar/index.html
+X-AppInstall-Package=konsolekalendar
+X-AppInstall-Popcon=749
+X-AppInstall-Section=main

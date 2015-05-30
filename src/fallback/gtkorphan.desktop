@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=gtkorphan
-X-AppInstall-Popcon=164
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Remove orphaned packages
 Name[bg]=Премахване на ненужни пакети
 Name[cs]=Odstranit opuštěné balíky
@@ -24,9 +22,11 @@ Comment[nl]=Een grafisch programma voor het vinden en verwijderen van verweesde 
 Comment[sv]=Ett grafiskt verktyg för att hitta och ta bort föräldralösa bibliotek
 Comment[vi]=Công cụ đồ họa để tìm và gỡ bỏ các thư viên mồ côi
 Comment[zh_CN]=一个用于找出并移除无人维护的库(包)的图形工具
-Exec=su-to-root -X -c gtkorphan
 Icon=_usr_share_pixmaps_gtkorphan
+Exec=su-to-root -X -c gtkorphan
 Terminal=false
-Type=Application
-StartupNotify=true
 Categories=Application;System;Settings;
+StartupNotify=true
+X-AppInstall-Package=gtkorphan
+X-AppInstall-Popcon=164
+X-AppInstall-Section=main

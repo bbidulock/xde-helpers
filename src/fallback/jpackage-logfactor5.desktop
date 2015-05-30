@@ -1,10 +1,12 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=LogFactor5
 Comment=Graphical user interface for managing log4j log messages
+Icon=logfactor5.png
 TryExec=logfactor5
 Exec=logfactor5
-Icon=logfactor5.png
 Terminal=false
-Type=Application
-Encoding=UTF-8
 Categories=GNOME;Application;Development;X-JPackage;
+StartupNotify=false

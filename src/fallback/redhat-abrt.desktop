@@ -1,6 +1,7 @@
-
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Automatic Bug Reporting Tool
 Name[ar]=اداة تبليغ العلّل آلية
 Name[as]=স্বয়ংক্ৰিয় বাগ প্ৰতিবেদনিং ব্যৱস্থা
@@ -36,8 +37,8 @@ Name[pt]=Ferramenta automática para reportar erros
 Name[pt_BR]=Ferramenta para o relato automático de erros
 Name[ru]=Автоматизированный регистратор ошибок
 Name[sk]=Nástroj na automatické hlásenie chýb
-Name[sr]=Алатка за самосталну пријаву грешака
 Name[sr@latin]=Alatka za samostalnu prijavu grešaka
+Name[sr]=Алатка за самосталну пријаву грешака
 Name[sv]=Automatiskt felrapporteringsverktyg
 Name[ta]=தானியக்க பிழை அறிக்கையிடும் கருவி
 Name[te]=స్వయంచాలక బగ్ నివేదీకరణ సాధనము
@@ -82,11 +83,10 @@ Comment[te]=అనువర్తనము క్రాషెస్‌ను ద
 Comment[uk]=Переглянути збої програми та створити звіт
 Comment[zh_CN]=查看并报告应用程序崩溃
 Comment[zh_TW]=檢視與回報應用程式錯誤
+Icon=abrt
 TryExec=abrt-gui
 Exec=abrt-gui
-Icon=abrt
 Terminal=false
-Type=Application
 Categories=System;X-Red-Hat-Base;
 StartupNotify=true
 X-Desktop-File-Install-Version=0.15

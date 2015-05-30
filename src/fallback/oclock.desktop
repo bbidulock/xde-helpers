@@ -1,6 +1,7 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Oclock
 Name[ar]=Oclock
 Name[ast]=Oclock
@@ -127,3 +128,4 @@ TryExec=oclock
 Exec=oclock
 Terminal=false
 Categories=X-Debian-Games-Toys;
+StartupNotify=false

@@ -1,13 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=entagged
-X-AppInstall-Popcon=36
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Entagged
 Comment=Tag Editor
 Comment[fr]=Editeur de Tags
-Exec=entagged
 Icon=entagged.png
-Terminal=0
-Type=Application
+Exec=entagged
+Terminal=false
 Categories=AudioVideo;
+StartupNotify=false
+X-AppInstall-Package=entagged
+X-AppInstall-Popcon=36
+X-AppInstall-Section=main

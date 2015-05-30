@@ -1,15 +1,16 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Slimrat
+GenericName=File Downloader
+X-GNOME-FullName=Slimrat File Downloader
+Comment=Download files from various hosters
+Icon=slimrat
+Exec=slimrat-gui %U
+Terminal=false
+Categories=GNOME;GTK;Network;
+StartupNotify=true
 X-AppInstall-Package=slimrat
 X-AppInstall-Popcon=31
 X-AppInstall-Section=main
-
-Name=Slimrat
-Comment=Download files from various hosters
-GenericName=File Downloader
-X-GNOME-FullName=Slimrat File Downloader
-Categories=GNOME;GTK;Network;
-Exec=slimrat-gui %U
-Icon=slimrat
-Terminal=false
-Type=Application
-StartupNotify=true

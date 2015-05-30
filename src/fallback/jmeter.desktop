@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=JMeter
+Comment=Load testing application
+Icon=_usr_share_pixmaps_jmeter
+Exec=jmeter
+Terminal=false
+Categories=Development;
+StartupNotify=false
 X-AppInstall-Package=jmeter
 X-AppInstall-Popcon=9
 X-AppInstall-Section=main
-
-Name=JMeter
-Comment=Load testing application
-Exec=jmeter
-Icon=_usr_share_pixmaps_jmeter
-Terminal=false
-Type=Application
-Categories=Development;

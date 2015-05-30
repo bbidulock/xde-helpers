@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=gshare
-X-AppInstall-Popcon=34
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=File Sharing
 Name[ca]=Compartició de fitxers
 Name[fr]=Partage de fichiers
@@ -24,10 +22,12 @@ Comment[pl]=Konfiguruj usługę udostępniania plików
 Comment[pt]=Configurar o serviço de partilha de ficheiros
 Comment[pt_BR]=Configurar o serviço de compartilhamento de arquivos
 Comment[sv]=Konfigurera fildelningstjänsten
+Icon=folder-remote
 Exec=gshare-manager
 Terminal=false
-Type=Application
-Icon=folder-remote
-StartupNotify=true
-Categories=GNOME;Application;Settings;
 OnlyShowIn=GNOME;
+Categories=GNOME;Application;Settings;
+StartupNotify=true
+X-AppInstall-Package=gshare
+X-AppInstall-Popcon=34
+X-AppInstall-Section=main

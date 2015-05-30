@@ -1,9 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=lincity
-X-AppInstall-Popcon=43
-X-AppInstall-Section=main
-
 Version=1.13.1
+Encoding=UTF-8
 Type=Application
 Name=Lincity
 GenericName=Lincity
@@ -12,3 +9,7 @@ Icon=_usr_share_pixmaps_lincity
 Exec=xlincity
 Terminal=false
 Categories=Application;Game;StrategyGame
+StartupNotify=false
+X-AppInstall-Package=lincity
+X-AppInstall-Popcon=43
+X-AppInstall-Section=main

@@ -1,11 +1,12 @@
-
 [Desktop Entry]
-Name=CWaves
-Exec=/usr/lib/xscreensaver/cwaves -root
-TryExec=/usr/lib/xscreensaver/cwaves
-Comment=This generates a languidly-scrolling vertical field of sinusoidal colors. Written by Jamie Zawinski.
-StartupNotify=false
-Terminal=false
+Version=1.0
+Encoding=UTF-8
 Type=Application
-Categories=Screensaver;
+Name=CWaves
+Comment=This generates a languidly-scrolling vertical field of sinusoidal colors. Written by Jamie Zawinski.
+TryExec=/usr/lib/xscreensaver/cwaves
+Exec=/usr/lib/xscreensaver/cwaves -root
+Terminal=false
 OnlyShowIn=GNOME;
+Categories=Screensaver;
+StartupNotify=false

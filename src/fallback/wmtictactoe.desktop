@@ -1,6 +1,7 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=wmtictactoe
 Name[ar]=wmtictactoe
 Name[ast]=wmtictactoe
@@ -66,3 +67,4 @@ TryExec=wmtictactoe
 Exec=wmtictactoe -q
 Terminal=false
 Categories=X-Debian-Games-Toys;
+StartupNotify=false

@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=golly
-X-AppInstall-Popcon=25
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Golly
 GenericName=Game of Life Simulator
@@ -13,3 +11,7 @@ Icon=golly.xpm
 Exec=golly
 Terminal=false
 Categories=Game;LogicGame;
+StartupNotify=false
+X-AppInstall-Package=golly
+X-AppInstall-Popcon=25
+X-AppInstall-Section=main

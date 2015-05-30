@@ -1,16 +1,16 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Qemulator
+Name[de]=Qemulator
+Comment=Qemu Virtual Engines manager
+Comment[de]=Qemu engines manager
+Icon=qemulator.svg
+Exec=qemulator
+Terminal=false
+Categories=Application;Emulator;Utility
+StartupNotify=true
 X-AppInstall-Package=qemulator
 X-AppInstall-Popcon=88
 X-AppInstall-Section=main
-
-Comment=Qemu Virtual Engines manager
-Comment[de]=Qemu engines manager
-Categories=Application;Emulator;Utility
-Encoding=UTF-8
-Exec=qemulator
-Icon=qemulator.svg
-Name=Qemulator
-Name[de]=Qemulator
-StartupNotify=true
-Terminal=false
-Type=Application

@@ -1,6 +1,7 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Activate ScreenSaver (Previous)
 Name[ar]=Activate ScreenSaver (Previous)
 Name[ast]=Activate ScreenSaver (Previous)
@@ -66,3 +67,4 @@ TryExec=xscreensaver-command
 Exec=xscreensaver-command -prev
 Terminal=false
 Categories=X-Debian-Screen-Saving;
+StartupNotify=false

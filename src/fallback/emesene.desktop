@@ -1,13 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=emesene
-X-AppInstall-Popcon=550
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Emesene
 GenericName=Emesene
 Comment=MSN Messenger client
-Exec=emesene
 Icon=emesene
+Exec=emesene
 Terminal=false
-Type=Application
 Categories=Network;InstantMessaging;
+StartupNotify=false
+X-AppInstall-Package=emesene
+X-AppInstall-Popcon=550
+X-AppInstall-Section=main

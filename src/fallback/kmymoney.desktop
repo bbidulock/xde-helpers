@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=kmymoney
-X-AppInstall-Popcon=129
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=KMyMoney
 Name[da]=KMyMoney
 Name[de]=KMyMoney
@@ -41,7 +40,6 @@ GenericName[tr]=Kişisel Finans Yönetici
 GenericName[uk]=Особисте керування фінансами
 GenericName[x-test]=xxPersonal Finance Managerxx
 GenericName[zh_TW]=個人財務管理程式
-Exec=kmymoney %u
 Comment=Personal Finance Manager
 Comment[da]=Styring af privatøkonomi
 Comment[el]=Προσωπικός διαχειριστής οικονομικών
@@ -60,8 +58,13 @@ Comment[tr]=Kişisel Finans Yönetici
 Comment[uk]=Особисте керування фінансами
 Comment[x-test]=xxPersonal Finance Managerxx
 Comment[zh_TW]=個人財務管理程式
-MimeType=application/x-kmymoney;application/vnd.intu.qfx;application/x-ofx;
-Type=Application
-X-DocPath=kmymoney/index.html
 Icon=kmymoney
+Exec=kmymoney %u
+Terminal=false
 Categories=Office;Finance;
+MimeType=application/x-kmymoney;application/vnd.intu.qfx;application/x-ofx;
+StartupNotify=false
+X-DocPath=kmymoney/index.html
+X-AppInstall-Package=kmymoney
+X-AppInstall-Popcon=129
+X-AppInstall-Section=main

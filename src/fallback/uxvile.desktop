@@ -1,14 +1,14 @@
-# $XTermId: uxvile.desktop,v 1.4 2010/03/05 09:47:50 tom Exp $
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=UXVile
+Comment=VI Like Emacs
+Icon=vile
+Exec=uxvile
+Terminal=false
+Categories=Application;Utility;TextEditor;
+StartupNotify=false
 X-AppInstall-Package=xvile
 X-AppInstall-Popcon=1
 X-AppInstall-Section=main
-
-Name=UXVile
-Comment=VI Like Emacs
-Exec=uxvile
-Terminal=false
-Type=Application
-Encoding=UTF-8
-Icon=vile
-Categories=Application;Utility;TextEditor;

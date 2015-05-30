@@ -1,4 +1,7 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Xfi
 Name[cs]=Xfi
 Name[de]=Xfi
@@ -47,12 +50,10 @@ Comment[pt_BR]=Um simples visualizador de imagens para o Xfe
 Comment[ru]=Простой просмотрщик изображений для Xfe
 Comment[sv]=En enkel bildvisare för Xfe
 Comment[zh_TW]=Xfe 的簡單的圖像檢視器
+Icon=xfi
 Exec=xfi
 Terminal=false
-Type=Application
-StartupNotify=true
-MimeType=image/bmp;image/jpeg;image/gif;image/png;image/tiff;image/xpm;
-Icon=xfi
 Categories=Utility;Viewer;
-X-Arch-Package=xfe-arch 1.37-1
+MimeType=image/bmp;image/jpeg;image/gif;image/png;image/tiff;image/xpm;
+StartupNotify=true
 X-Arch-Package=xfe-arch 1.37-1

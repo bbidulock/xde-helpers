@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=ggz-txt-client
-X-AppInstall-Popcon=3
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=ggz-txt
 GenericName=Console internet gaming center
 GenericName[de]=Internet-Spielezentrum für die Konsole
@@ -12,9 +11,11 @@ Comment=GGZ Core Client
 Comment[de]=GGZ-Core-Client
 Comment[fr]=Core Client GGZ
 Comment[pt]=Cliente núcleo do GGZ
-
-Type=Application
-Exec=ggz-txt --reverse
 Icon=
+Exec=ggz-txt --reverse
 Terminal=true
 Categories=X-GGZ;Network;ConsoleOnly;
+StartupNotify=false
+X-AppInstall-Package=ggz-txt-client
+X-AppInstall-Popcon=3
+X-AppInstall-Section=main

@@ -1,9 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=gemdropx
-X-AppInstall-Popcon=13
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Gem Drop X
 GenericName=gemdropx
@@ -11,5 +8,8 @@ Comment=Grab the gems and throw them back up before they crush you
 Icon=gemdropx-icon.xpm
 Exec=gemdropx
 Terminal=false
-StartupNotify=false
 Categories=Application;Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=gemdropx
+X-AppInstall-Popcon=13
+X-AppInstall-Section=main

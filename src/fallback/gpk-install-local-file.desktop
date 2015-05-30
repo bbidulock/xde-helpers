@@ -1,5 +1,7 @@
-
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Software Install
 Name[bg]=Инсталиране на софтуер
 Name[bn_IN]=সফ্টওয়্যার ইনস্টলেশন
@@ -35,8 +37,8 @@ Comment[as]=ব্যৱস্থাপ্ৰণালীত নিৰ্বা�
 Comment[bg]=Инсталиране на избрания софтуер на системата
 Comment[bn]=সিস্টেমের মধ্যে নির্বাচিত সফ্টওয়্যার ইনস্টল
 Comment[bn_IN]=সিস্টেমের মধ্যে নির্বাচিত সফ্টওয়্যার ইনস্টল করুন
-Comment[ca]=Instal·la el programari seleccionat en el sistema
 Comment[ca@valencia]=Instal·la el programari seleccionat en el sistema
+Comment[ca]=Instal·la el programari seleccionat en el sistema
 Comment[cs]=Instalovat vybraný software do tohoto systému
 Comment[da]=Installér valgt software på systemet
 Comment[de]=Ausgewählte Software auf dem System installieren
@@ -74,8 +76,8 @@ Comment[ro]=Instalează pachetele selectate pe sistem
 Comment[ru]=Установить в систему выбранные программы
 Comment[sk]=Nainštalovať na systéme zvolený softvér
 Comment[sl]=Namestitev izbrane programske opreme v sistem
-Comment[sr]=Инсталирај изабране програме на систем
 Comment[sr@latin]=Instaliraj izabrane programe na sistem
+Comment[sr]=Инсталирај изабране програме на систем
 Comment[sv]=Installera markerad programvara på systemet
 Comment[ta]=தேர்ந்தெடுக்கப்பட்ட மென்பொருளை கணினியில் நிறுவவும்
 Comment[te]=సిస్టమ్‌నందు యెంపికచేసిన సాఫ్ట్‍‌వేర్‌ను సంస్థాపించుము
@@ -85,14 +87,12 @@ Comment[uk]=Встановити у систему вибрані програм
 Comment[zh_CN]=在系统中安装选定的软件
 Comment[zh_HK]=安裝選取的軟件到系統中
 Comment[zh_TW]=安裝選取的軟體到系統中
-Categories=System;
+Icon=system-software-install
 TryExec=gpk-install-local-file
 Exec=gpk-install-local-file %F
 Terminal=false
-Type=Application
-Icon=system-software-install
-StartupNotify=true
 NoDisplay=true
+Categories=System;
 MimeType=application/x-rpm;application/x-redhat-package-manager;application/x-servicepack;application/x-deb;
-
+StartupNotify=true
 X-Desktop-File-Install-Version=0.18

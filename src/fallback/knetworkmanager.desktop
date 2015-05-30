@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=network-manager-kde
-X-AppInstall-Popcon=2253
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=KNetworkManager
 Name[cs]=KNetworkManager
 Name[da]=KNetworkManager
@@ -55,9 +54,6 @@ GenericName[tr]=Ağ Yöneticisi
 GenericName[uk]=Керування мережею
 GenericName[x-test]=xxNetwork Managerxx
 GenericName[zh_TW]=網路管理員
-Exec=knetworkmanager
-Icon=knetworkmanager
-Type=Application
 Comment=A KDE frontend for NetworkManager
 Comment[cs]=KDE rozhraní pro NetworkManager
 Comment[da]=En KDE-brugerflade til Networkmanager
@@ -83,11 +79,17 @@ Comment[tr]=NetworkManager için bir KDE ön yüzü
 Comment[uk]=Графічна оболонка NetworkManager для KDE
 Comment[x-test]=xxA KDE frontend for NetworkManagerxx
 Comment[zh_TW]=網路管理員的 KDE 前端介面
+Icon=knetworkmanager
+Exec=knetworkmanager
+X-DCOP-ServiceType=Unique
+Terminal=false
+Categories=Utility;TrayIcon;System;Applet;
+StartupNotify=false
 X-KDE-autostart-after=panel
+X-KDE-autostart-condition=networkmanagementrc:General:Autostart:true
 X-KDE-StartupNotify=false
 X-KDE-UniqueApplet=true
-X-DCOP-ServiceType=Unique
-X-KDE-autostart-condition=networkmanagementrc:General:Autostart:true
-Categories=Utility;TrayIcon;System;Applet;
-
+X-AppInstall-Package=network-manager-kde
+X-AppInstall-Popcon=2253
+X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

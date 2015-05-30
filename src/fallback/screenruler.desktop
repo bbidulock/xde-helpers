@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=screenruler
-X-AppInstall-Popcon=62
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Screen Ruler
 Name[ca]=Regla a la pantalla
@@ -10,6 +8,11 @@ Name[es]=Regla en la pantalla
 Comment=Measure objects on your screen
 Comment[ca]=Mesureu la mida d'objectes a la vostra pantalla
 Comment[es]=Mide objetos en la pantalla
-Exec=screenruler
 Icon=screenruler
+Exec=screenruler
+Terminal=false
 Categories=GTK;Utility;
+StartupNotify=false
+X-AppInstall-Package=screenruler
+X-AppInstall-Popcon=62
+X-AppInstall-Section=main

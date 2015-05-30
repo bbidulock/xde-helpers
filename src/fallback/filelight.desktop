@@ -1,9 +1,7 @@
-# KDE Config File
 [Desktop Entry]
-X-AppInstall-Package=filelight
-X-AppInstall-Popcon=209
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Filelight
 Name[bg]=Filelight
 Name[da]=Filelight
@@ -40,9 +38,6 @@ GenericName[sv]=Statistik över diskanvändning
 GenericName[tr]=Disk Kullanım İstatistikleri
 GenericName[uk]=Статистика використання диска
 GenericName[x-test]=xxDisk Usage Statisticsxx
-Type=Application
-Exec=filelight %f
-Icon=filelight
 Comment=View disk usage information
 Comment[bg]=Преглед на данни за използването на диска
 Comment[da]=Vis information om diskforbrug
@@ -62,6 +57,12 @@ Comment[sv]=Visa information om hårddiskanvändning
 Comment[tr]=Disk kullanım bilgisini görüntüler
 Comment[uk]=Перегляд інформації про використання дисків
 Comment[x-test]=xxView disk usage informationxx
+Icon=filelight
+Exec=filelight %f
 Terminal=false
-MimeType=inode/directory;
 Categories=Qt;KDE;Utility;
+MimeType=inode/directory;
+StartupNotify=false
+X-AppInstall-Package=filelight
+X-AppInstall-Popcon=209
+X-AppInstall-Section=main

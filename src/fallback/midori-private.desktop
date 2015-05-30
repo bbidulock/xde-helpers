@@ -1,5 +1,6 @@
 [Desktop Entry]
 Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Midori Private Browsing
 Name[af]=Midori Privaat Blaaier
@@ -182,13 +183,12 @@ Comment[uz]=Yangi ichki mahfiy oyna ochish
 Comment[vi]=Mở một cửa sổ duyệt web riêng tư mới
 Comment[zh_CN]=打开新的私人浏览窗口
 Comment[zh_TW]=開啟新的私密瀏覽視窗
-Categories=GTK;Network;WebBrowser;
-Exec=midori --private %U
 Icon=midori
-Terminal=false
-StartupNotify=true
-NotShowIn=Pantheon;
-X-Osso-Type=application/x-executable
+Exec=midori --private %U
 X-Osso-Service=midori
-X-Arch-Package=midori 0.5.10-1
+X-Osso-Type=application/x-executable
+Terminal=false
+NotShowIn=Pantheon;
+Categories=GTK;Network;WebBrowser;
+StartupNotify=true
 X-Arch-Package=midori 0.5.10-1

@@ -1,15 +1,16 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Pattern
+Comment=Fill in the entire grid black or white
+Comment[de]=Färbe das gesamte Gitter schwarz oder weiß
+Comment[fr]=Remplir complètement la grille de noir ou de blanc
+Icon=pattern
+Exec=pattern
+Terminal=false
+Categories=Game;LogicGame;
+StartupNotify=false
 X-AppInstall-Package=sgt-puzzles
 X-AppInstall-Popcon=137
 X-AppInstall-Section=main
-
-Version=1.0
-Terminal=false
-Exec=pattern
-Icon=pattern
-Type=Application
-Categories=Game;LogicGame;
-Name=Pattern
-Comment=Fill in the entire grid black or white
-Comment[fr]=Remplir complètement la grille de noir ou de blanc
-Comment[de]=Färbe das gesamte Gitter schwarz oder weiß

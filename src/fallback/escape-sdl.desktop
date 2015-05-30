@@ -1,18 +1,17 @@
 [Desktop Entry]
-X-AppInstall-Package=ggz-python-games
-X-AppInstall-Popcon=9
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
-
+Type=Application
 Name=Escape/SDL
 GenericName=Board game
 GenericName[de]=Brettspiel
 Comment=GGZ game
 Comment[de]=GGZ-Spiel
-
-Type=Application
-Exec=/usr/games/escape-sdl
 Icon=
+Exec=/usr/games/escape-sdl
 Terminal=false
 Categories=X-GGZ-Games;BoardGame;Game;
+StartupNotify=false
+X-AppInstall-Package=ggz-python-games
+X-AppInstall-Popcon=9
+X-AppInstall-Section=main

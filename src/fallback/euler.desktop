@@ -1,15 +1,17 @@
 [Desktop Entry]
-X-AppInstall-Package=euler
-X-AppInstall-Popcon=41
-X-AppInstall-Section=main
-
-Type=Application
 Version=1.0
-Exec=euler
-Icon=euler-32.xpm
-Categories=Education;Science;Math;
+Encoding=UTF-8
+Type=Application
 Name=Euler
 GenericName=Computer Algebra System
 GenericName[de]=Computer-Algebra-System
 Comment=An interactive mathematical program
 Comment[de]=Ein interaktives mathematisches Programm
+Icon=euler-32.xpm
+Exec=euler
+Terminal=false
+Categories=Education;Science;Math;
+StartupNotify=false
+X-AppInstall-Package=euler
+X-AppInstall-Popcon=41
+X-AppInstall-Section=main

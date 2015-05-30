@@ -1,16 +1,18 @@
 [Desktop Entry]
-X-AppInstall-Package=assogiate
-X-AppInstall-Popcon=14
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=File Types Editor
 Name[da]=Filtyperedigering
 Name[sv]=Filtypsredigerare
 Comment=Modify the detection and display of file types
 Comment[da]=Redigér filtyper
-Exec=assogiate
 Icon=assogiate
+Exec=assogiate
 Terminal=false
-Type=Application
-Categories=GNOME;GTK;System;FileTools;X-GNOME-PersonalSettings;
 OnlyShowIn=GNOME;
+Categories=GNOME;GTK;System;FileTools;X-GNOME-PersonalSettings;
+StartupNotify=false
+X-AppInstall-Package=assogiate
+X-AppInstall-Popcon=14
+X-AppInstall-Section=main

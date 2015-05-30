@@ -1,18 +1,17 @@
 [Desktop Entry]
-X-AppInstall-Package=ggz-python-games
-X-AppInstall-Popcon=9
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
-
+Type=Application
 Name=Víbora
 GenericName=GGZ Gaming Zone fullscreen client
 GenericName[de]=GGZ Gaming Zone-Client im Vollbildmodus
 Comment=GGZ Core Client
 Comment[de]=GGZ-Core-Client
-
-Type=Application
-Exec=/usr/games/vibora
 Icon=
+Exec=/usr/games/vibora
 Terminal=false
 Categories=X-GGZ;Network;
+StartupNotify=false
+X-AppInstall-Package=ggz-python-games
+X-AppInstall-Popcon=9
+X-AppInstall-Section=main

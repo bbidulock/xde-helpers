@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=SecPanel
+Comment=A graphical user interface for SSH and SCP
+Icon=secpanel
+Exec=secpanel
+Terminal=false
+Categories=Network;
+StartupNotify=false
 X-AppInstall-Package=secpanel
 X-AppInstall-Popcon=43
 X-AppInstall-Section=main
-
-Type=Application
-Name=SecPanel
-Exec=secpanel
-Icon=secpanel
-Terminal=false
-Categories=Network;
-Comment=A graphical user interface for SSH and SCP

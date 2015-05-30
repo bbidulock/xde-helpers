@@ -1,6 +1,7 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=mc
 Comment=Midnight Commander
 Comment[zh_TW]=Midnight Commander
@@ -9,3 +10,4 @@ TryExec=mc
 Exec=mc
 Terminal=true
 Categories=FileManager;System;FileTools;
+StartupNotify=false

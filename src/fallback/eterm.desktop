@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
-Type=Application
 Encoding=UTF-8
+Type=Application
 Name=Enlightened Terminal Emulator
 Name[ar]=محاكي ترفية Enlightened
 Name[ast]=Emulador de Enlightened Terminal
@@ -53,11 +53,10 @@ Name[zh_TW]=Enlightened 終端機模擬器
 GenericName=Terminal Program
 Comment=Color VT102 emulator for the X window system
 Icon=Eterm
+TryExec=Eterm
 Exec=Eterm
 Terminal=false
 Categories=Utility;TerminalEmulator;
-X-AfterStep-IndexName=Eterm
-TryExec=Eterm
 StartupNotify=false
 StartupWMClass=Eterm
 X-XFCE-Binaries=Eterm;
@@ -65,3 +64,4 @@ X-XFCE-Category=TerminalEmulator
 X-XFCE-Commands=%B;
 X-XFCE-CommandsWithParameter=%B --exec "%s";
 X-Arch-Package=eterm 0.9.6-1
+X-AfterStep-IndexName=Eterm

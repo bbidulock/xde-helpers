@@ -1,15 +1,16 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Netslide
+Comment=Game combining the grid generation of Net with the movement of Sixteen
+Comment[de]=Spiel, dass die Gittererzeugung von Net mit den Spielzügen von Sixteen kombiniert
+Comment[fr]=Jeu combinant l'outil de génération de grille de Net avec le mouvement de Sixteen
+Icon=netslide
+Exec=netslide
+Terminal=false
+Categories=Game;LogicGame;
+StartupNotify=false
 X-AppInstall-Package=sgt-puzzles
 X-AppInstall-Popcon=137
 X-AppInstall-Section=main
-
-Version=1.0
-Terminal=false
-Exec=netslide
-Icon=netslide
-Type=Application
-Categories=Game;LogicGame;
-Name=Netslide
-Comment=Game combining the grid generation of Net with the movement of Sixteen
-Comment[fr]=Jeu combinant l'outil de génération de grille de Net avec le mouvement de Sixteen
-Comment[de]=Spiel, dass die Gittererzeugung von Net mit den Spielzügen von Sixteen kombiniert

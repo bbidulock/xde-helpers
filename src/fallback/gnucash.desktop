@@ -1,11 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=gnucash
-X-AppInstall-Popcon=604
-X-AppInstall-Section=main
-
-Type=Application
-MimeType=application/x-gnucash;
 Version=0.9.4
+Encoding=UTF-8
+Type=Application
 Name=GnuCash Finance Management
 Name[cs]=Správa financí GnuCash
 Name[de_CH]=GnuCash Finanzverwaltung
@@ -37,13 +33,17 @@ Comment[pt_BR]=Gerencie suas finanças, contas e investimentos
 Comment[ro]=Administrează-ţi finanţele, conturile şi investiţiile
 Comment[uk]=Керування вашими фінансами, рахунками та інвестиціями
 Comment[vi]=Quản lý tài chính, các tài khoản và vốn cố định
-Exec=gnucash %f
 Icon=gnucash-icon
-StartupNotify=true
+Exec=gnucash %f
 Terminal=false
 Categories=Office;Finance;
+MimeType=application/x-gnucash;
+StartupNotify=true
+X-GNOME-DocPath=gnucash/gnucash.xml
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=GnuCash
 X-GNOME-Bugzilla-Component=General
 X-GNOME-Bugzilla-Version=2.2.9
-X-GNOME-DocPath=gnucash/gnucash.xml
+X-AppInstall-Package=gnucash
+X-AppInstall-Popcon=604
+X-AppInstall-Section=main

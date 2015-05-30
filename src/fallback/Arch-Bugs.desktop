@@ -1,11 +1,12 @@
 [Desktop Entry]
-Comment=Archlinux Bugtracker
-Exec=xdg-open https://bugs.archlinux.org
-Icon=arch-logo
-Name=Bugs
-StartupNotify=true
-Terminal=false
+Version=1.0
+Encoding=UTF-8
 Type=Application
+Name=Bugs
+Comment=Archlinux Bugtracker
+Icon=arch-logo
+Exec=xdg-open https://bugs.archlinux.org
+Terminal=false
 Categories=Archlinux;
-X-Arch-Package=archlinux-menus 2.5-2
+StartupNotify=true
 X-Arch-Package=archlinux-menus 2.5-2

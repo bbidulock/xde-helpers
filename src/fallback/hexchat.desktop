@@ -1,4 +1,7 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=HexChat
 Name[de]=HexChat
 Name[en_GB]=HexChat
@@ -55,6 +58,10 @@ Comment[sq]=Bisedoni në linjë me persona të tjerë
 Comment[sv]=Chatta med andra människor online
 Comment[tr]=İnsanlar ile çevrimiçi sohbet
 Comment[zh_CN]=与其他人在线聊天
+Icon=hexchat
+Exec=hexchat %U
+Terminal=false
+Categories=GTK;Network;IRCClient;
 Keywords=IM;Chat;
 Keywords[de]=IM;Chat;
 Keywords[en_GB]=IM;Chat;
@@ -71,15 +78,10 @@ Keywords[pt_BR]=IM;Chat;
 Keywords[sq]=IM;Fjalosje;
 Keywords[tr]=IM;Chat;
 Keywords[zh_CN]=IM;聊天;
-Exec=hexchat %U
-Icon=hexchat
-Terminal=false
-Type=Application
-Categories=GTK;Network;IRCClient;
-StartupNotify=true
-X-GNOME-UsesNotifications=true
 MimeType=x-scheme-handler/irc;x-scheme-handler/ircs;
+StartupNotify=true
 X-Arch-Package=hexchat 2.10.2-2
+X-GNOME-UsesNotifications=true
 Actions=SafeMode;
 
 [Desktop Action SafeMode]

@@ -1,9 +1,12 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Lexmark hidecartridges
 Comment=Lexmark Lexmark 5xxx, 7xxx and 11xx Cartridges Hider
+Icon=printmgr
 TryExec=hidecartridges.sh
 Exec=hidecartridges.sh
-Icon=printmgr
 Terminal=false
-Type=Application
 Categories=X-MandrivaLinux-System-Configuration-Printing;
+StartupNotify=false

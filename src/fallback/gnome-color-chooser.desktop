@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=gnome-color-chooser
-X-AppInstall-Popcon=161
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=GNOME Color Chooser
 Comment=Customize your GNOME desktop
 Comment[bg]=Настройка работния плот на GNOME
@@ -25,9 +23,11 @@ Comment[sv]=Anpassa ditt GNOME-skrivbord
 Comment[th]=ปรับแต่งเดสท็อป GNOME ของคุณ
 Comment[tr]=GNOME masaüstünüzü özelleştirin
 Comment[zh_CN]=自定义您的 GNOME 桌面
+Icon=gnome-color-chooser.svg
 Exec=gnome-color-chooser
 Terminal=false
-Type=Application
-Icon=gnome-color-chooser.svg
 Categories=GNOME;Settings;
 StartupNotify=true
+X-AppInstall-Package=gnome-color-chooser
+X-AppInstall-Popcon=161
+X-AppInstall-Section=main

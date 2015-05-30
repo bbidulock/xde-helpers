@@ -1,6 +1,7 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Panel tint2
 Name[am]=ፓነል  tint2
 Name[ar]=الشريط tint2
@@ -142,9 +143,9 @@ Comment[uk]=Налаштувати властивості панелі
 Comment[ur]=پینل کی ترتیبات
 Comment[ur_PK]=پینل کی ترتیبات
 Comment[zh_CN]=自定义面板设置
-Exec=tint2conf
 Icon=tint2conf
+Exec=tint2conf
 Terminal=false
 Categories=Settings;DesktopSettings;
-X-Arch-Package=tint2 0.11-8
+StartupNotify=false
 X-Arch-Package=tint2 0.11-8

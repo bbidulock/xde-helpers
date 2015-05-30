@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=zynjacku
-X-AppInstall-Popcon=11
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Zynjacku
 GenericName=LV2 synths host
@@ -11,3 +9,7 @@ Icon=zynjacku32x32
 Exec=zynjacku 
 Terminal=false
 Categories=AudioVideo;Audio;
+StartupNotify=false
+X-AppInstall-Package=zynjacku
+X-AppInstall-Popcon=11
+X-AppInstall-Section=main

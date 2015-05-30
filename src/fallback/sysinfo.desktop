@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Sysinfo
+Comment=Display detailed computer/system information
+Icon=computer
+Exec=sysinfo
+Terminal=false
+Categories=GNOME;Utility;System;
+StartupNotify=false
 X-AppInstall-Package=sysinfo
 X-AppInstall-Popcon=97
 X-AppInstall-Section=main
-
-Name=Sysinfo
-Comment=Display detailed computer/system information
-Exec=sysinfo
-Icon=computer
-Terminal=false
-Type=Application
-Categories=GNOME;Utility;System;

@@ -1,9 +1,11 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=User accounts Admin
 Icon=/usr/share/gnome-system-tools/pixmaps/users.xpm
 TryExec=users-admin
 Exec=users-admin
 Terminal=false
 Categories=System;Administration;
+StartupNotify=false

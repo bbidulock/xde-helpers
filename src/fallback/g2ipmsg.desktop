@@ -1,17 +1,18 @@
 [Desktop Entry]
-X-AppInstall-Package=g2ipmsg
-X-AppInstall-Popcon=12
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
-Terminal=false
+Type=Application
 Name=GNOME2 IP Messenger
 Name[ja]=GNOME2 IPメッセンジャー
 Name[zh_CN]=GNOME2飞鸽
 Comment=IP Messenger for the GNOME2
 Comment[ja]=GNOME2 版 IPメッセンジャー
 Comment[zh_CN]=GNOME2 版 飞鸽
-Exec=g2ipmsg
 Icon=ipmsg.png
-Type=Application
+Exec=g2ipmsg
+Terminal=false
 Categories=GTK;Application;Utility;
+StartupNotify=false
+X-AppInstall-Package=g2ipmsg
+X-AppInstall-Popcon=12
+X-AppInstall-Section=main

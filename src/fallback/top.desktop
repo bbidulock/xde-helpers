@@ -1,12 +1,14 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Top CPU Processes
 GenericName=Top CPU Processes
 Comment=Display top CPU processes
-Exec=top
 Icon=utilities-system-monitor
+TryExec=top
+Exec=top
 Terminal=true
 Categories=System;
+StartupNotify=false
 X-AfterStep-IndexName=top
-TryExec=top

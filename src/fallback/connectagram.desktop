@@ -1,11 +1,13 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Connectagram
+Icon=connectagram
+Exec=connectagram
+Terminal=false
+Categories=Qt;Game;
+StartupNotify=false
 X-AppInstall-Package=connectagram
 X-AppInstall-Popcon=5
 X-AppInstall-Section=main
-
-Name=Connectagram
-Exec=connectagram
-Icon=connectagram
-Terminal=false
-Type=Application
-Categories=Qt;Game;

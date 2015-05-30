@@ -1,16 +1,17 @@
 [Desktop Entry]
-X-AppInstall-Package=qrfcview
-X-AppInstall-Popcon=12
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=qRFCView
 GenericName=RFC viewer
 GenericName[fr]=Visionneur de RFC
 Comment=Downloads and displays RFC
 Comment[fr]=Récupère et affiche les RFC
-Exec=qRFCView
 Icon=qrfcview.png
+Exec=qRFCView
 Terminal=false
-Type=Application
 Categories=Utility;TextTools;Qt;
+StartupNotify=false
+X-AppInstall-Package=qrfcview
+X-AppInstall-Popcon=12
+X-AppInstall-Section=main

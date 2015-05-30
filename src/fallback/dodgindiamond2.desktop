@@ -1,12 +1,14 @@
 [Desktop Entry]
-X-AppInstall-Package=dodgindiamond2
-X-AppInstall-Popcon=12
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Dodgin Diamond 2
 GenericName=dodgindiamond2
+Comment=Shoot 'em up
 Exec=dodgindiamond2
 Terminal=false
 Categories=Game;ArcadeGame;
-Comment=Shoot 'em up
+StartupNotify=false
+X-AppInstall-Package=dodgindiamond2
+X-AppInstall-Popcon=12
+X-AppInstall-Section=main

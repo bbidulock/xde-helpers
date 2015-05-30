@@ -1,12 +1,14 @@
 [Desktop Entry]
-X-AppInstall-Package=freedink-engine
-X-AppInstall-Popcon=29
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=FreeDink
 Comment=Humorous zelda-like isometric adventure/RPG
-Exec=freedink
 Icon=freedink
+Exec=freedink
+Terminal=false
 Categories=Game;AdventureGame;
+StartupNotify=false
+X-AppInstall-Package=freedink-engine
+X-AppInstall-Popcon=29
+X-AppInstall-Section=main

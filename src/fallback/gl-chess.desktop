@@ -1,6 +1,7 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=GL Chess
 Name[ar]=GL Chess
 Name[ast]=GL Chess
@@ -67,3 +68,4 @@ TryExec=glchess
 Exec=glchess
 Terminal=false
 Categories=X-Debian-Games-Board;
+StartupNotify=false

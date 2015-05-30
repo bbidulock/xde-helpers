@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=goplay
-X-AppInstall-Popcon=58
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=GoPlay!
 GenericName=goplay
@@ -12,3 +10,7 @@ Exec=goplay
 Terminal=false
 Categories=Utility;
 MimeType=
+StartupNotify=false
+X-AppInstall-Package=goplay
+X-AppInstall-Popcon=58
+X-AppInstall-Section=main

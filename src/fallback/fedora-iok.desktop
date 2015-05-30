@@ -1,5 +1,7 @@
 [Desktop Entry]
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Indic Onscreen Keyboard
 Name[ar]=لوحة المفاتيح على الشاشة الخاصة بالهندية
 Name[as]=Indic Onscreen Keyboard
@@ -72,12 +74,11 @@ Comment[th]=ป้อนตัวอักษร Indic ด้วยแป้น�
 Comment[uk]=Введіть індійські символи за допомогою віртуальної клавіатури
 Comment[zh_CN]=在虚拟键盘中输入印度语字符
 Comment[zh_TW]=以虛擬鍵盤輸入印度語字元
+Icon=iok
 TryExec=iok
 Exec=iok
-Icon=iok
-StartupNotify=true
 Terminal=false
-Type=Application
-Categories=GNOME;GTK;Utility;Accessibility;
 NotShowIn=GNOME;
+Categories=GNOME;GTK;Utility;Accessibility;
+StartupNotify=true
 X-Desktop-File-Install-Version=0.18

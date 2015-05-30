@@ -1,11 +1,13 @@
-
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=IcedTea Web Control Panel
 Comment=Configure IcedTea Web (javaws and plugin)
+Icon=javaws
 TryExec=itweb-settings
 Exec=itweb-settings
-Icon=javaws
 Terminal=false
-Type=Application
 Categories=Settings;
+StartupNotify=false
 X-Desktop-File-Install-Version=0.18

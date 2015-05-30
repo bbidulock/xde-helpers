@@ -1,11 +1,12 @@
 [Desktop Entry]
-Type=Application
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=XGalaga
 Comment=An open source remake of the classic arcade game Galaga
-Exec=xgalaga
 Icon=xgalaga
+Exec=xgalaga
 Terminal=false
 Categories=Game;ArcadeGame;
-X-Arch-Package=xgalaga 2.1.1.0-4
+StartupNotify=false
 X-Arch-Package=xgalaga 2.1.1.0-4

@@ -1,13 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Browse Mirrored Websites
+Comment=Browse Websites Mirrored by WebHTTrack
+Icon=_usr_share_httrack_icons_webhttrack
+Exec=webhttrack browse
+Terminal=false
+Categories=Network;
+StartupNotify=false
 X-AppInstall-Package=webhttrack
 X-AppInstall-Popcon=107
 X-AppInstall-Section=main
-
-Version=1.0
-Type=Application
-Categories=Network;
-Terminal=false
-Name=Browse Mirrored Websites
-Comment=Browse Websites Mirrored by WebHTTrack
-Exec=webhttrack browse
-Icon=_usr_share_httrack_icons_webhttrack

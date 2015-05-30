@@ -1,8 +1,10 @@
 [Desktop Entry]
 Version=1.0
-Icon=system-file-manager
+Encoding=UTF-8
 Type=X-XFCE-Helper
 Name=Caja File Manager
+Icon=system-file-manager
+Terminal=false
 StartupNotify=true
 X-XFCE-Binaries=caja;
 X-XFCE-Category=FileManager

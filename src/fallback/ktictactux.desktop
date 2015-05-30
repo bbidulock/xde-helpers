@@ -1,10 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=ggz-kde-games
-X-AppInstall-Popcon=14
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
-
+Type=Application
 Name=KTicTacTux
 GenericName=TicTacToe game for KDE
 GenericName[de]=TicTacToe-Spiel für KDE
@@ -12,9 +9,11 @@ GenericName[fr]=Jeu TicTacToe pour KDE
 Comment=GGZ TicTacToe game
 Comment[de]=GGZ TicTacToe-Spiel
 Comment[fr]=Jeu GGZ TicTacToe
-
-Type=Application
-Exec=/usr/lib/ggz/ktictactux_client
 Icon=ktictactux
+Exec=/usr/lib/ggz/ktictactux_client
 Terminal=false
 Categories=X-GGZ-Games;BoardGame;Game;KDE;Qt;
+StartupNotify=false
+X-AppInstall-Package=ggz-kde-games
+X-AppInstall-Popcon=14
+X-AppInstall-Section=main

@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=powermanga
-X-AppInstall-Popcon=95
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Powermanga
 GenericName=PowerManga
@@ -11,3 +9,7 @@ Icon=powermanga
 Exec=powermanga
 Terminal=false
 Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=powermanga
+X-AppInstall-Popcon=95
+X-AppInstall-Section=main

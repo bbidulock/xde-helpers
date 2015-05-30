@@ -1,16 +1,17 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=qgit
+GenericName=git GUI viewer
+Comment=git GUI viewer
+Exec=qgit
+ServiceTypes=KParts/ReadOnlyPart,Browser/View
+Terminal=false
+Categories=Qt;Development;RevisionControl;
+MimeType=inode/directory
+StartupNotify=false
+X-KDE-BrowserView-Args=DetailedList
 X-AppInstall-Package=qgit
 X-AppInstall-Popcon=132
 X-AppInstall-Section=main
-
-Encoding=UTF-8
-Name=qgit
-GenericName=git GUI viewer
-Exec=qgit
-Type=Application
-Comment=git GUI viewer
-Terminal=false
-MimeType=inode/directory
-ServiceTypes=KParts/ReadOnlyPart,Browser/View
-X-KDE-BrowserView-Args=DetailedList
-Categories=Qt;Development;RevisionControl;

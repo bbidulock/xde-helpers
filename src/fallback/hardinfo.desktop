@@ -1,11 +1,12 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=System Profiler and Benchmark
 Name[pt_BR]=Informações e Testes do Sistema
-Exec=hardinfo
 Icon=/usr/share/hardinfo/pixmaps/logo.png
+Exec=hardinfo
 Terminal=false
-Type=Application
-StartupNotify=true
 Categories=System;
-X-Arch-Package=hardinfo 0.5.1-6
+StartupNotify=true
 X-Arch-Package=hardinfo 0.5.1-6

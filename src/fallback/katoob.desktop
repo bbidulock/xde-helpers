@@ -1,9 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=katoob
-X-AppInstall-Popcon=7
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Katoob
 Name[ar]=كتوب
@@ -14,9 +11,12 @@ Comment[cz]=Vícejazykový textový editor
 Comment[fr]=Éditeur de texte multilingue Unicode
 Comment[he]=עורך טקסט יוניקוד רב-לשוני
 Comment[ja]=多国語対応Unicodeテキストエディタ
-Exec=/usr/bin/katoob %F
 Icon=katoob-icon.pmg
+Exec=/usr/bin/katoob %F
 Terminal=false
 Categories=Utility;TextEditor
 MimeType=text/plain;
-
+StartupNotify=false
+X-AppInstall-Package=katoob
+X-AppInstall-Popcon=7
+X-AppInstall-Section=main

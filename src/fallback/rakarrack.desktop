@@ -1,13 +1,15 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Rakarrack
+Comment=Guitar Effects Processor
+Icon=icono_rakarrack_128x128
+Exec=rakarrack
+Terminal=false
+Categories=AudioVideo;Audio;
+StartupNotify=false
 X-AppInstall-Package=rakarrack
 X-AppInstall-Popcon=33
 X-AppInstall-Section=main
-
-Type=Application
-Categories=AudioVideo;Audio;
-Exec=rakarrack
-Name=Rakarrack
-Comment=Guitar Effects Processor
-Terminal=false
-Icon=icono_rakarrack_128x128
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

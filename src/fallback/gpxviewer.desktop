@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=gpxviewer
-X-AppInstall-Popcon=19
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=GPX Viewer
 Name[cs]=Prohlížeč souborů GPX
 Name[de]=GPX Viewer
@@ -20,8 +19,12 @@ Name[sl]=Pregledovalnik datotek GPX
 Name[sv]=GPX Viewer
 Name[th]=GPX Viewer
 Name[zh_CN]=GPX 查看器
-Type=Application
 Comment=GPS Trace Viewer
-Exec=gpxviewer
 Icon=gpxviewer
+Exec=gpxviewer
+Terminal=false
 Categories=Network
+StartupNotify=false
+X-AppInstall-Package=gpxviewer
+X-AppInstall-Popcon=19
+X-AppInstall-Section=main

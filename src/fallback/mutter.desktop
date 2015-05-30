@@ -1,4 +1,5 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=Mutter
@@ -10,8 +11,8 @@ Name[bg]=Mutter
 Name[bn_IN]=Mutter
 Name[br]=Mutter
 Name[bs]=Mutter
-Name[ca]=Mutter
 Name[ca@valencia]=Mutter
+Name[ca]=Mutter
 Name[cs]=Mutter
 Name[da]=Mutter
 Name[de]=Mutter
@@ -52,8 +53,8 @@ Name[ro]=Mutter
 Name[ru]=Mutter
 Name[sk]=Mutter
 Name[sl]=Mutter
-Name[sr]=Матер
 Name[sr@latin]=Mater
+Name[sr]=Матер
 Name[sv]=Mutter
 Name[ta]=மட்டர்
 Name[te]=మట్టర్
@@ -71,20 +72,17 @@ GenericName[pt]=Gestor de Janelas
 Icon=mutter
 TryExec=mutter
 Exec=mutter
+Terminal=false
+NoDisplay=true
 Categories=WindowManager;Application;System;
 StartupNotify=true
-NoDisplay=true
-# name of loadable control center module
-X-GNOME-WMSettingsModule=metacity
-# name we put on the WM spec check window
+X-GNOME-Autostart-Notify=true
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
 X-GNOME-WMName=Mutter
-# back compat only 
 X-GnomeWMSettingsLibrary=metacity
+X-GNOME-WMSettingsModule=metacity
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=mutter
 X-GNOME-Bugzilla-Component=general
-X-GNOME-Autostart-Phase=WindowManager
-X-GNOME-Provides=windowmanager
-X-GNOME-Autostart-Notify=true
-X-Arch-Package=mutter 3.16.2-1
 X-Arch-Package=mutter 3.16.2-1

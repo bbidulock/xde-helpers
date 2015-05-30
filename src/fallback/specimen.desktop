@@ -1,8 +1,5 @@
 [Desktop Entry]
-X-AppInstall-Package=specimen
-X-AppInstall-Popcon=11
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=Specimen
@@ -12,4 +9,8 @@ Icon=specimen
 Exec=specimen
 Terminal=false
 Categories=Application;AudioVideo;AudioVideoEditing;Music;
+StartupNotify=false
+X-AppInstall-Package=specimen
+X-AppInstall-Popcon=11
+X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

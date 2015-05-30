@@ -1,6 +1,7 @@
-
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Add/Remove Software
 Name[ar]=إضافة وإزالة البرمجيات
 Name[as]=চালনাজ্ঞান যোগ কৰক/আঁতৰাই দিয়ক
@@ -128,9 +129,7 @@ Icon=system-software-install
 TryExec=gpk-application
 Exec=gpk-application
 Terminal=false
-Type=Application
-Categories=GNOME;GTK;System;Settings;
 NotShowIn=KDE;
+Categories=GNOME;GTK;System;Settings;
 StartupNotify=true
-
 X-Desktop-File-Install-Version=0.15

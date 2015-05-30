@@ -1,10 +1,12 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Avidemux
 Comment=A free video editor
+Icon=avidemux
 TryExec=avidemux2_gtk
 Exec=avidemux2_gtk %U
-Icon=avidemux
 Terminal=false
-Type=Application
-StartupNotify=true
 Categories=AudioVideo;Video;AudioVideoEditing;GTK;
+StartupNotify=true

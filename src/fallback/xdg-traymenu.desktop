@@ -1,17 +1,17 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=XDG Tray Menu
 GenericName=Menu
 Comment=XDG Gtk2 tray menu
 Icon=start-here
-Exec=xdg-traymenu
 TryExec=xdg-traymenu
+Exec=xdg-traymenu
 Terminal=false
+NotShowIn=GNOME;KDE;XFCE;LXDE;
 Categories=TrayIcon;
 StartupNotify=false
 StartupWMClass=xdg-traymenu
-NotShowIn=GNOME;KDE;XFCE;LXDE;
 X-GNOME-Autostart-enabled=true
-X-Arch-Package=xdg-traymenu 0.01.37-1
 X-Arch-Package=xdg-traymenu 0.01.37-1

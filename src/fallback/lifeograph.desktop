@@ -1,15 +1,15 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Lifeograph
+GenericName=Diary
+Comment=Keep a private journal of your life
+Icon=lifeograph
+Exec=lifeograph
+Terminal=false
+Categories=Utility
+StartupNotify=false
 X-AppInstall-Package=lifeograph
 X-AppInstall-Popcon=13
 X-AppInstall-Section=main
-
-Version=1.0
-Encoding=UTF-8
-Name=Lifeograph
-Type=Application
-Terminal=false
-Exec=lifeograph
-GenericName=Diary
-Icon=lifeograph
-Categories=Utility
-Comment=Keep a private journal of your life

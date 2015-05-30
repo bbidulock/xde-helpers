@@ -1,11 +1,12 @@
-
 [Desktop Entry]
-Name=Ripples
-Exec=/usr/lib/xscreensaver/ripples -root
-TryExec=/usr/lib/xscreensaver/ripples
-Comment=This draws rippling interference patterns like splashing water. With the -water option, it manipulates your desktop image to look like something is dripping into it. Written by Tom Hammersley.
-StartupNotify=false
-Terminal=false
+Version=1.0
+Encoding=UTF-8
 Type=Application
-Categories=Screensaver;
+Name=Ripples
+Comment=This draws rippling interference patterns like splashing water. With the -water option, it manipulates your desktop image to look like something is dripping into it. Written by Tom Hammersley.
+TryExec=/usr/lib/xscreensaver/ripples
+Exec=/usr/lib/xscreensaver/ripples -root
+Terminal=false
 OnlyShowIn=GNOME;
+Categories=Screensaver;
+StartupNotify=false

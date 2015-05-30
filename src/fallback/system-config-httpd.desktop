@@ -1,4 +1,7 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=HTTP
 Name[fa]=اچ‌تی‌تی‌پی
 Comment=Configure the HTTP server
@@ -41,11 +44,10 @@ Comment[uk]=Настройка HTTP сервера
 Comment[vi]=Cấu hình máy chủ HTTP
 Comment[zh_CN]=配置 HTTP 服务器
 Comment[zh_TW]=設定 HTTP 伺服器
+Icon=system-config-httpd.png
 TryExec=system-config-httpd
 Exec=system-config-httpd
-Terminal=0
-Type=Application
-Icon=system-config-httpd.png
-Encoding=UTF-8
-X-Desktop-File-Install-Version=0.2
+Terminal=false
 Categories=X-Red-Hat-Base;System;X-Red-Hat-ServerConfig;Application;
+StartupNotify=false
+X-Desktop-File-Install-Version=0.2

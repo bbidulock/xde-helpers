@@ -1,10 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=screenlets
-X-AppInstall-Popcon=296
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
-Categories=Utility;
 Name=Screenlets
 Name[de]=Screenlets
 Name[et]=Screenlets
@@ -13,5 +10,9 @@ Comment[de]=Ein grafisches Werkzeug, um Ihre Screenlets zu verwalten.
 Comment[et]=Graafiline tööriist Screenlets vidinate haldamiseks
 Icon=_usr_share_icons_screenlets
 Exec=screenlets-manager > /dev/null
+Terminal=false
+Categories=Utility;
 StartupNotify=true
-
+X-AppInstall-Package=screenlets
+X-AppInstall-Popcon=296
+X-AppInstall-Section=main

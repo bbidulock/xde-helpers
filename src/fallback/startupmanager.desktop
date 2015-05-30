@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=startupmanager
-X-AppInstall-Popcon=222
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=StartUp-Manager
 Name[bg]=StartUp-Manager
 Name[ca]=StartUp-Manager
@@ -66,9 +65,11 @@ Comment[sv]=Ändra inställningar för starthanterare och startskärm
 Comment[tr]=Önyükleyici ve sıçrayan ekran için ayarları değiştir
 Comment[zh_CN]=修改启动加载器和闪屏的设置
 Comment[zh_TW]=變更開機程式的開機畫面設定
-Exec=su-to-root -X -c /usr/sbin/startupmanager
 Icon=startupmanager
+Exec=su-to-root -X -c /usr/sbin/startupmanager
 Terminal=false
-StartupNotify=false
-Type=Application
 Categories=GNOME;System;Settings;
+StartupNotify=false
+X-AppInstall-Package=startupmanager
+X-AppInstall-Popcon=222
+X-AppInstall-Section=main

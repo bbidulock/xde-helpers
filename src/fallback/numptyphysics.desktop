@@ -1,22 +1,24 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Numpty Physics
+Icon=numptyphysics
+Exec=/usr/games/numptyphysics
+X-Osso-Service=org.maemo.garage.numptyphysics
+X-Osso-Type=application/x-executable
+Terminal=false
+Categories=Game;LogicGame;
+MimeType=application/x-numptyphysics-level;application/x-numptyphysics-collection;application/x-numptyphysics-demo;
+StartupNotify=false
+StartupWMClass=NPhysics
 X-AppInstall-Package=numptyphysics
 X-AppInstall-Popcon=25
 X-AppInstall-Section=main
-
-Version=1.0
-Type=Application
-Name=Numpty Physics
-Categories=Game;LogicGame;
-Exec=/usr/games/numptyphysics
-StartupWMClass=NPhysics
-Icon=numptyphysics
+X-HildonDesk-ShowInToolbar=true
 X-Icon-path=/usr/share/pixmaps
 X-Window-Icon=numptyphysics
 X-Window-Icon-Dimmed=numptyphysics
-X-HildonDesk-ShowInToolbar=true
-X-Osso-Type=application/x-executable
-X-Osso-Service=org.maemo.garage.numptyphysics
-MimeType=application/x-numptyphysics-level;application/x-numptyphysics-collection;application/x-numptyphysics-demo;
 
 [X-Osso-URI-Actions]
 http=X-Osso-URI-Action-Open;

@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=telegnome
-X-AppInstall-Popcon=8
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=TeleGNOME
 Name[cs]=TeleGNOME
 Name[da]=TeleGNOME
@@ -25,8 +24,11 @@ Comment[pl]=Przeglądarka stron teletekstu
 Comment[pt_BR]=Visualizador para pág. Teletekst
 Comment[sl]=Pregledovalnik teletekst strani
 Comment[sv]=Visare för text-tv-sidor
-Exec=telegnome
 Icon=telegnome.png
-Terminal=0
-Type=Application
+Exec=telegnome
+Terminal=false
 Categories=GNOME;GTK;Network;News;
+StartupNotify=false
+X-AppInstall-Package=telegnome
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main

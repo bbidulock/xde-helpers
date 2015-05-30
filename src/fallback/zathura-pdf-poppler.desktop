@@ -1,5 +1,6 @@
 [Desktop Entry]
 Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Zathura
 Comment=A minimalistic document viewer
@@ -22,5 +23,5 @@ Terminal=false
 NoDisplay=true
 Categories=Office;Viewer;
 MimeType=application/pdf;
-X-Arch-Package=zathura-pdf-poppler 0.2.5-2
+StartupNotify=false
 X-Arch-Package=zathura-pdf-poppler 0.2.5-2

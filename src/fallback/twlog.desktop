@@ -1,14 +1,16 @@
 [Desktop Entry]
-X-AppInstall-Package=twlog
-X-AppInstall-Popcon=7
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=twlog
 Name[en_US]=twlog
 Comment=A logging program for Ham Operators
 Comment[en_US]=A logging program for Ham Operators
-Exec=twlog
 Icon=twlog.png
+Exec=twlog
 Terminal=false
-Type=Application
 Categories=Utility;HamRadio
+StartupNotify=false
+X-AppInstall-Package=twlog
+X-AppInstall-Popcon=7
+X-AppInstall-Section=main

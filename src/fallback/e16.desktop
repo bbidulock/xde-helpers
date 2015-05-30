@@ -1,4 +1,5 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=E16
@@ -16,6 +17,8 @@ Comment[sr]=Управник прозора Просвећењe (e16)
 Comment[tr]=Enlightenment (e16) pencere yöneticisi
 Icon=/usr/share/e16/icons/e16.png
 Exec=e16
+Terminal=false
+StartupNotify=false
 X-Arch-Package=enlightenment16 1.0.16-1
 Actions=XDE;
 

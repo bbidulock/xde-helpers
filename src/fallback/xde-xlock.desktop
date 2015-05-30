@@ -1,4 +1,5 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=Lock Screen
@@ -10,5 +11,4 @@ Exec=xde-xlock -l
 Terminal=false
 Categories=Application;System;
 StartupNotify=true
-X-Arch-Package=xde-session-git 1.1.0.g13a084c-1
 X-Arch-Package=xde-session-git 1.1.0.g13a084c-1

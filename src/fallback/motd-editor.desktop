@@ -1,16 +1,17 @@
 [Desktop Entry]
-X-AppInstall-Package=ggz-gnome-client
-X-AppInstall-Popcon=11
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=MOTD Editor
 GenericName=Message Of The Day creation
 GenericName[de]=Erstellung von Tagesmeldungen
 Comment=GGZ Utility
 Comment[de]=GGZ-Hilfsprogramm
-
-Type=Application
-Exec=motd_editor
 Icon=
+Exec=motd_editor
 Terminal=false
 Categories=X-GGZ;Utility;GNOME;GTK
+StartupNotify=false
+X-AppInstall-Package=ggz-gnome-client
+X-AppInstall-Popcon=11
+X-AppInstall-Section=main

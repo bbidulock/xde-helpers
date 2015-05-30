@@ -1,14 +1,10 @@
-# KDE Config File
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
 Type=Application
-X-AppInstall-Package=kdesdk-scripts
-X-AppInstall-Popcon=358
-X-AppInstall-Section=main
-
-X-DocPath=kdesvn-build/index.html
 Name=KDE SVN Build
-Name[ca]=Construcció SVN del KDE
 Name[ca@valencia]=Construcció SVN del KDE
+Name[ca]=Construcció SVN del KDE
 Name[cs]=KDE SVN Build
 Name[da]=KDE SVN-build
 Name[de]=KDE-SVN-Build
@@ -32,16 +28,21 @@ Name[pl]=Budowanie KDE z SVN-a
 Name[pt]=Compilação do SVN do KDE
 Name[pt_BR]=Compilação do SVN do KDE
 Name[ru]=Сборка KDE из SVN
-Name[sr]=Градња КДЕ‑а из СВН‑а
 Name[sr@ijekavian]=Градња КДЕ‑а из СВН‑а
 Name[sr@ijekavianlatin]=Gradnja KDE‑a iz SVN‑a
 Name[sr@latin]=Gradnja KDE‑a iz SVN‑a
+Name[sr]=Градња КДЕ‑а из СВН‑а
 Name[sv]=Bygg KDE från SVN
 Name[tr]=KDE SVN Build
 Name[uk]=Збірка KDE з SVN
 Name[x-test]=xxKDE SVN Buildxx
 Name[zh_CN]=KDE SVN 构建
 Name[zh_TW]=KDE SVN 編譯
-Categories=Qt;KDE;Development;
 Exec=kdialog --sorry "KDE SVN Build is a command-line only program. Please read the handbook at help:/kdesvn-build for more info."
 Terminal=true
+Categories=Qt;KDE;Development;
+StartupNotify=false
+X-DocPath=kdesvn-build/index.html
+X-AppInstall-Package=kdesdk-scripts
+X-AppInstall-Popcon=358
+X-AppInstall-Section=main

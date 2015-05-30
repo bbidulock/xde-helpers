@@ -1,11 +1,13 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Scratch
-Comment= Programming system and content development tool
+Comment=Programming system and content development tool
+Icon=scratch
 Exec=scratch
 Terminal=false
-Type=Application
-Icon=scratch
 Categories=Development;
 MimeType=application/x-scratch-project
-X-Arch-Package=scratch 1.4.0.7-5
+StartupNotify=false
 X-Arch-Package=scratch 1.4.0.7-5

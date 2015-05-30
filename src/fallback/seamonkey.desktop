@@ -1,9 +1,12 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=SeaMonkey
 Comment=Web Browser
+Icon=/usr/share/pixmaps/seamonkey-icon.png
 TryExec=seamonkey
 Exec=seamonkey
-Icon=/usr/share/pixmaps/seamonkey-icon.png
-Terminal=0
-Type=Application
+Terminal=false
 Categories=Application;Network;
+StartupNotify=false

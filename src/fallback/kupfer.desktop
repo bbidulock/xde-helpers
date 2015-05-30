@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=kupfer
-X-AppInstall-Popcon=58
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Kupfer
 Name[cs]=Kupfer
 Name[de]=Kupfer
@@ -45,7 +43,10 @@ Comment[sv]=Flexibelt kommandoprogram för program och dokument
 Comment[zh_CN]=方便的命令和操作程序或文档的工具
 Icon=kupfer
 Exec=kupfer %F
-Type=Application
+Terminal=false
 Categories=Utility;
 StartupNotify=true
+X-AppInstall-Package=kupfer
+X-AppInstall-Popcon=58
+X-AppInstall-Section=main
 X-UserData=$CONFIG/kupfer;$DATA/kupfer;$CACHE/kupfer

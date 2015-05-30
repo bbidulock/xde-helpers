@@ -1,9 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=nemiver
-X-AppInstall-Popcon=41
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Nemiver Debugger
 Name[ca]=Depurador Nemiver
@@ -47,5 +44,9 @@ Comment[sv]=Felsök program
 Comment[th]=ดีบั๊กโปรแกรม
 Icon=nemiver
 Exec=nemiver
+Terminal=false
 Categories=GNOME;Development;Debugger;
 StartupNotify=true
+X-AppInstall-Package=nemiver
+X-AppInstall-Popcon=41
+X-AppInstall-Section=main

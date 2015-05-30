@@ -1,15 +1,15 @@
 [Desktop Entry]
 Version=1.0
-Terminal=false
+Encoding=UTF-8
 Type=Application
-Exec=libreoffice %U
-MimeType=application/vnd.oasis.opendocument.text-flat-xml;application/vnd.oasis.opendocument.spreadsheet-flat-xml;application/vnd.oasis.opendocument.graphics-flat-xml;application/vnd.oasis.opendocument.presentation-flat-xml;
 Name=LibreOffice XSLT based filters
 GenericName=XSLT based filters
 GenericName[en]=XSLT based filters
+Exec=libreoffice %U
+Terminal=false
 NoDisplay=true
+MimeType=application/vnd.oasis.opendocument.text-flat-xml;application/vnd.oasis.opendocument.spreadsheet-flat-xml;application/vnd.oasis.opendocument.graphics-flat-xml;application/vnd.oasis.opendocument.presentation-flat-xml;
 StartupNotify=true
 X-GIO-NoFuse=true
 X-KDE-Protocols=file,http,smb,ftp,webdav
-X-Arch-Package=libreoffice-still 4.3.7-1
 X-Arch-Package=libreoffice-still 4.3.7-1

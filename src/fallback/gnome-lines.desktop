@@ -1,6 +1,7 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Gnome Lines
 Name[ar]=Gnome Lines
 Name[ast]=Gnome Lines
@@ -67,3 +68,4 @@ TryExec=glines
 Exec=glines
 Terminal=false
 Categories=X-Debian-Games-Board;
+StartupNotify=false

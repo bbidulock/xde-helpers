@@ -1,9 +1,11 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=grecord (GNOME 2.0 Recorder)
 Icon=/usr/share/pixmaps/gnome-grecord.xpm
 TryExec=gnome-sound-recorder
 Exec=gnome-sound-recorder
 Terminal=false
 Categories=Sound;
+StartupNotify=false

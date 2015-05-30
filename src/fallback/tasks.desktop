@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=tasks
-X-AppInstall-Popcon=22
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Tasks
 Name[bg]=Задачи
@@ -91,7 +89,10 @@ Comment[vi]=Danh sách công việc
 Comment[zh_CN]=任务列表
 Icon=tasks
 Exec=tasks
-Categories=GTK;Office;ProjectManagement;
 Terminal=false
+Categories=GTK;Office;ProjectManagement;
 StartupNotify=true
 X-MB-SingleInstance=true
+X-AppInstall-Package=tasks
+X-AppInstall-Popcon=22
+X-AppInstall-Section=main

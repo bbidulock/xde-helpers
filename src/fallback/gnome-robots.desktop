@@ -1,6 +1,7 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Gnome Robots
 Name[ar]=Gnome Robots
 Name[ast]=Gnome Robots
@@ -67,3 +68,4 @@ TryExec=gnobots2
 Exec=gnobots2
 Terminal=false
 Categories=X-Debian-Games-Puzzles;
+StartupNotify=false

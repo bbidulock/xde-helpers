@@ -1,15 +1,16 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Flip
+Comment=Light all the squares up at the same time
+Comment[de]=Erleuchte alle Quadrate gleichzeitig
+Comment[fr]=Illuminer simultanément tous les carrés du jeu
+Icon=flipgame
+Exec=flipgame
+Terminal=false
+Categories=Game;LogicGame;
+StartupNotify=false
 X-AppInstall-Package=sgt-puzzles
 X-AppInstall-Popcon=137
 X-AppInstall-Section=main
-
-Version=1.0
-Terminal=false
-Exec=flipgame
-Icon=flipgame
-Type=Application
-Categories=Game;LogicGame;
-Name=Flip
-Comment=Light all the squares up at the same time
-Comment[fr]=Illuminer simultanément tous les carrés du jeu
-Comment[de]=Erleuchte alle Quadrate gleichzeitig

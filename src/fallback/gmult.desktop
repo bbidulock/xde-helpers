@@ -1,10 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=gmult
-X-AppInstall-Popcon=9
-X-AppInstall-Section=main
-
 Version=1.0
-
+Encoding=UTF-8
+Type=Application
 Name=Multiplication Puzzle
 Name[af]=Maalraaisel
 Name[da]=Multiplication Puzzle
@@ -57,12 +54,11 @@ Comment[tr]=Hangi harflerin hangi rakamlara karşılık geldiğini bulun
 Comment[vi]=Tính ra chữ cái nào là chữ số nào
 Comment[zh_CN]=猜出各个字母代表哪些数字
 Comment[zh_TW]=推測出哪個文字代表哪個數字
-
 Icon=gmult
 Exec=gmult
 Terminal=false
-
-StartupNotify=true
-
-Type=Application
 Categories=Game;LogicGame;GTK;
+StartupNotify=true
+X-AppInstall-Package=gmult
+X-AppInstall-Popcon=9
+X-AppInstall-Section=main

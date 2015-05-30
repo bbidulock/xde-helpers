@@ -1,6 +1,7 @@
-
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Software Updates
 Name[ar]=تحديثات البرمجيات
 Name[as]=চালনাজ্ঞান উন্নয়ন ব্যৱস্থা
@@ -125,9 +126,7 @@ Icon=gpk-prefs
 TryExec=gpk-prefs
 Exec=gpk-prefs
 Terminal=false
-Type=Application
-Categories=Settings;X-GNOME-SystemSettings;
 NotShowIn=KDE;
+Categories=Settings;X-GNOME-SystemSettings;
 StartupNotify=true
-
 X-Desktop-File-Install-Version=0.15

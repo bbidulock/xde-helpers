@@ -1,10 +1,12 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=systemadm
 Comment=Manage Systemd Units
-Exec=systemadm
 Icon=applications-system
+Exec=systemadm
 Terminal=false
-Type=Application
 Categories=System;Settings;
-X-Arch-Package=systemd-ui-git 3.2.g4e6ab2e-1
+StartupNotify=false
 X-Arch-Package=systemd-ui-git 3.2.g4e6ab2e-1

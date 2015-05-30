@@ -1,11 +1,12 @@
 [Desktop Entry]
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=urxvt (client)
 Comment=An unicode capable rxvt clone client for urxvtd
-Exec=urxvtc
 Icon=utilities-terminal
+Exec=urxvtc
 Terminal=false
-Type=Application
 Categories=System;TerminalEmulator;
-X-Arch-Package=rxvt-unicode 9.21-1
+StartupNotify=false
 X-Arch-Package=rxvt-unicode 9.21-1

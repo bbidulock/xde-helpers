@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=klash
-X-AppInstall-Popcon=260
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Gnash SWF Viewer for KDE
 Name[ca]=Visualitzador d'SWF Gnash per a KDE
@@ -24,3 +22,7 @@ Exec=klash %U
 Terminal=false
 Categories=AudioVideo;Video;Player;KDE;
 MimeType=application/x-shockwave-flash;application/futuresplash;
+StartupNotify=false
+X-AppInstall-Package=klash
+X-AppInstall-Popcon=260
+X-AppInstall-Section=main

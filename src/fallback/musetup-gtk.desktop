@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Musetup-gtk
+Comment=Museek daemon configuration tool
+Icon=musetup-gtk
+Exec=musetup-gtk
+Terminal=false
+Categories=GTK;Network
+StartupNotify=false
 X-AppInstall-Package=musetup-gtk
 X-AppInstall-Popcon=4
 X-AppInstall-Section=main
-
-Name=Musetup-gtk
-Exec=musetup-gtk
-Icon=musetup-gtk
-Type=Application
-Terminal=false
-Comment=Museek daemon configuration tool
-Categories=GTK;Network

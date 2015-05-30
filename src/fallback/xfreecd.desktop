@@ -1,8 +1,10 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=XfreeCD
 TryExec=xfreecd
 Exec=xfreecd
 Terminal=false
 Categories=Audio;
+StartupNotify=false

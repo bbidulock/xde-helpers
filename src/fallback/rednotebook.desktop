@@ -1,16 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=rednotebook
-X-AppInstall-Popcon=57
-X-AppInstall-Section=main
-
 Version=1.0
-#Encoding=UTF-­8 #Encoding causes problems
+Encoding=UTF-8
+Type=Application
 Name=RedNotebook
 GenericName=Journal
 Comment=Daily journal with calendar, templates and keyword searching 
-Exec=rednotebook
 Icon=rednotebook
+Exec=rednotebook
 Terminal=false
-Type=Application
 Categories=Office;
 StartupNotify=true
+X-AppInstall-Package=rednotebook
+X-AppInstall-Popcon=57
+X-AppInstall-Section=main

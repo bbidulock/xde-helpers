@@ -1,17 +1,19 @@
 [Desktop Entry]
-X-AppInstall-Package=gallery-uploader
-X-AppInstall-Popcon=12
-X-AppInstall-Section=main
-
-Categories=Network;FileTransfer;GNOME;GTK;
-Comment=Upload pictures and videos to Gallery
-Comment[fr]=Charge photos e videos sur Gallery
-Comment[it]=Carica foto e video su Gallery
-Exec=gallery-uploader
-Icon=gallery.svg
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Gallery Uploader
 Name[fr]=Chargeur Gallery
 Name[it]=Carica su Gallery
+Comment=Upload pictures and videos to Gallery
+Comment[fr]=Charge photos e videos sur Gallery
+Comment[it]=Carica foto e video su Gallery
+Icon=gallery.svg
+Exec=gallery-uploader
 Terminal=false
-Type=Application
+Categories=Network;FileTransfer;GNOME;GTK;
+StartupNotify=false
 X-KDE-SubstituteUID=false
+X-AppInstall-Package=gallery-uploader
+X-AppInstall-Popcon=12
+X-AppInstall-Section=main

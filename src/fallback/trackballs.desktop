@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Trackballs
+GenericName=Marble Madness type game
+Icon=trackballs
+Exec=/usr/games/trackballs
+Terminal=false
+Categories=Game;ArcadeGame;
+StartupNotify=false
 X-AppInstall-Package=trackballs
 X-AppInstall-Popcon=45
 X-AppInstall-Section=main
-
-GenericName=Marble Madness type game
-Name=Trackballs
-Icon=trackballs
-Type=Application
-Terminal=false
-Categories=Game;ArcadeGame;
-Exec=/usr/games/trackballs

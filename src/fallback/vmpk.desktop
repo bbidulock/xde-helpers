@@ -1,16 +1,18 @@
 [Desktop Entry]
-X-AppInstall-Package=vmpk
-X-AppInstall-Popcon=35
-X-AppInstall-Section=main
-
-Name=VMPK
-Exec=vmpk
-Icon=vmpk
-Terminal=false
+Version=1.0
+Encoding=UTF-8
 Type=Application
-Categories=AudioVideo;Audio;Midi;Education;Music;
+Name=VMPK
 Comment=Virtual MIDI Piano Keyboard
 Comment[es]=Teclado de piano MIDI virtual 
 Comment[ru]=Виртуальная MIDI Пианино Клавиатура
 Comment[tr]=Sanal MIDI Piyano Klavyesi
+Icon=vmpk
+Exec=vmpk
+Terminal=false
+Categories=AudioVideo;Audio;Midi;Education;Music;
+StartupNotify=false
+X-AppInstall-Package=vmpk
+X-AppInstall-Popcon=35
+X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

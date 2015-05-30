@@ -1,10 +1,12 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Grip
 Comment=CD player and ripper
+Icon=grip
 TryExec=grip
 Exec=grip 
-Icon=grip
 Terminal=false
-Type=Application
-StartupNotify=true
 Categories=GTK;AudioVideo;Audio;Player;
+StartupNotify=true

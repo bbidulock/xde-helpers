@@ -1,17 +1,17 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Gtick
+GenericName[pt_BR]=
+Comment=a GTK-based metronome
+Comment[pt-br]=Um metrônomo baseado em GTK
+Comment[pt]=Um metrônomo baseado em GTK
+Icon=_usr_share_pixmaps_gtick_32x32
+Exec=/usr/bin/gtick
+Terminal=false
+Categories=GTK;AudioVideo;Audio;
+StartupNotify=false
 X-AppInstall-Package=gtick
 X-AppInstall-Popcon=114
 X-AppInstall-Section=main
-
-Version=1.0
-Encoding=UTF-8
-Name=Gtick
-Comment=a GTK-based metronome
-Comment[pt]=Um metrônomo baseado em GTK
-Comment[pt-br]=Um metrônomo baseado em GTK
-Exec=/usr/bin/gtick
-Icon=_usr_share_pixmaps_gtick_32x32
-Terminal=false
-Type=Application
-Categories=GTK;AudioVideo;Audio;
-GenericName[pt_BR]=

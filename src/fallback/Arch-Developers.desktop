@@ -1,11 +1,12 @@
 [Desktop Entry]
-Comment=Archlinux development team
-Exec=xdg-open http://www.archlinux.org/developers/
-Icon=arch-logo
-Name=Developers
-StartupNotify=true
-Terminal=false
+Version=1.0
+Encoding=UTF-8
 Type=Application
+Name=Developers
+Comment=Archlinux development team
+Icon=arch-logo
+Exec=xdg-open http://www.archlinux.org/developers/
+Terminal=false
 Categories=Archlinux;
-X-Arch-Package=archlinux-menus 2.5-2
+StartupNotify=true
 X-Arch-Package=archlinux-menus 2.5-2

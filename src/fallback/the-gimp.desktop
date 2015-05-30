@@ -1,9 +1,11 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=The GIMP
 Icon=/usr/share/pixmaps/gimp.xpm
 TryExec=gimp
 Exec=gimp
 Terminal=false
 Categories=Graphics;
+StartupNotify=false

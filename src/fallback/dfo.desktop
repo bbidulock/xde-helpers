@@ -1,13 +1,14 @@
 [Desktop Entry]
-X-AppInstall-Package=dfo
-X-AppInstall-Popcon=13
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Desktop Flickr Organizer
 Comment=Desktop Flickr Organizer for Gnome
 Icon=_usr_share_dfo_icons_FontBookSquareThumbnail
 Exec=dfo
-StartupNotify=true
 Terminal=false
-Type=Application
 Categories=GNOME;GTK;Graphics;
+StartupNotify=true
+X-AppInstall-Package=dfo
+X-AppInstall-Popcon=13
+X-AppInstall-Section=main

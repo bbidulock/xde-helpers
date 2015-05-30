@@ -1,14 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Graphmonkey
+Comment=Draw mathematical graphs/curves
+Icon=graphmonkey
+Exec=graphmonkey
+Terminal=false
+Categories=Education;
+StartupNotify=true
 X-AppInstall-Package=graphmonkey
 X-AppInstall-Popcon=43
 X-AppInstall-Section=main
-
-Name=Graphmonkey
-Comment=Draw mathematical graphs/curves
-Exec=graphmonkey
-Icon=graphmonkey
-Terminal=false
-Type=Application
-Categories=Education;
-StartupNotify=true
-

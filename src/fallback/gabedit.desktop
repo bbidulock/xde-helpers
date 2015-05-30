@@ -1,13 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Gabedit QC-GUI
+Comment=graphical user interface to computational chemistry packages
+Icon=gabedit
+Exec=gabedit
+Terminal=false
+Categories=GTK;Education;Science;Chemistry;
+StartupNotify=true
 X-AppInstall-Package=gabedit
 X-AppInstall-Popcon=22
 X-AppInstall-Section=main
-
-Name=Gabedit QC-GUI
-Comment=graphical user interface to computational chemistry packages
-Exec=gabedit
-Icon=gabedit
-Terminal=false
-Type=Application
-Categories=GTK;Education;Science;Chemistry;
-StartupNotify=true

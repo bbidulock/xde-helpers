@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=xpn
-X-AppInstall-Popcon=9
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Xpn Newsreader
 Name[az]=Xpn Xəbərlər Oxuyucusu
 Name[bg]=Четец на новини (Xpn)
@@ -68,9 +67,11 @@ Comment[tr]=Habeleri Usenet'ten Oku
 Comment[uk]=Читання новин Usenet
 Comment[vi]=Đọc tin tức từ Usenet
 Comment[zh_TW]=從 Usenet 讀取新聞
-Exec=xpn
 Icon=xpn
+Exec=xpn
 Terminal=false
-Type=Application
 Categories=GTK;Application;Network;News
 StartupNotify=false
+X-AppInstall-Package=xpn
+X-AppInstall-Popcon=9
+X-AppInstall-Section=main

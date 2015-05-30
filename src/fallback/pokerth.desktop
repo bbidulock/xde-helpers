@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=pokerth
-X-AppInstall-Popcon=127
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=PokerTH
 Name[bg]=PokerTH
 Name[de]=PokerTH
@@ -42,10 +41,13 @@ Comment[pt_PT]=Jogo do Texas Hol'dem
 Comment[ru]=Игра в техасский холдем
 Comment[tr]=Texas hold'em oyunu
 Comment[uk]=Гра в техаський холдем
-Exec=pokerth
 Icon=pokerth
-Terminal=false
-Type=Application
+Exec=pokerth
 X-DCOP-ServiceType=Multi
-X-KDE-StartupNotify=true
+Terminal=false
 Categories=Qt;Game;CardGame;
+StartupNotify=false
+X-KDE-StartupNotify=true
+X-AppInstall-Package=pokerth
+X-AppInstall-Popcon=127
+X-AppInstall-Section=main

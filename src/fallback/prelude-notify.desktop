@@ -1,13 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=prelude-notify
+Comment=Graphical notification applet for prelude
+Icon=utilities-system-monitor
+Exec=prelude-notify         
+Terminal=false
+Categories=System;Security;
+StartupNotify=true
 X-AppInstall-Package=prelude-notify
 X-AppInstall-Popcon=1
 X-AppInstall-Section=main
-
-Name=prelude-notify
-Comment=Graphical notification applet for prelude
-Exec=prelude-notify         
-Icon=utilities-system-monitor
-Terminal=false
-Type=Application
-StartupNotify=true
-Categories=System;Security;

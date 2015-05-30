@@ -1,8 +1,4 @@
 [Desktop Entry]
-X-AppInstall-Package=mtink
-X-AppInstall-Popcon=53
-X-AppInstall-Section=main
-
 Version=1.0
 Encoding=UTF-8
 Type=Application
@@ -12,4 +8,9 @@ GenericName[fr]=Moniteur d'état d'imprimante
 Comment=Status monitor for Epson inkjet printers
 Comment[fr]=Moniteur d'état pour les imprimante jets d'encre Epson
 Exec=mtink
+Terminal=false
 Categories=Motif;Utility;HardwareSettings;Monitor;
+StartupNotify=false
+X-AppInstall-Package=mtink
+X-AppInstall-Popcon=53
+X-AppInstall-Section=main

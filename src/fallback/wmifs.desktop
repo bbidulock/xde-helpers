@@ -1,10 +1,12 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=WMifs
 TryExec=wmifs
 Exec=wmifs
 Terminal=false
-Categories=DockApp;WMAKER;
 OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+Categories=DockApp;WMAKER;
+StartupNotify=false
 X-Arch-Package=wmifs

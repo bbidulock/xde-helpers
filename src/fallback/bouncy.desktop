@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=bouncy
-X-AppInstall-Popcon=27
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Bouncy the Hungry Rabbit
 GenericName=bouncy
@@ -11,3 +9,7 @@ Icon=bouncy
 Exec=bouncy
 Terminal=false
 Categories=Game;ArcadeGame;KidsGame;
+StartupNotify=false
+X-AppInstall-Package=bouncy
+X-AppInstall-Popcon=27
+X-AppInstall-Section=main

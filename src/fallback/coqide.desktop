@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=CoqIDE Proof Assistant
+Comment=Graphical interface for the Coq proof assistant
+Icon=coq
+Exec=coqide
+Terminal=false
+Categories=Development;Science;Math;IDE;GTK;
+StartupNotify=false
 X-AppInstall-Package=coqide
 X-AppInstall-Popcon=43
 X-AppInstall-Section=main
-
-Name=CoqIDE Proof Assistant
-Comment=Graphical interface for the Coq proof assistant
-Exec=coqide
-Type=Application
-Categories=Development;Science;Math;IDE;GTK;
-Terminal=false
-Icon=coq

@@ -1,6 +1,7 @@
 [Desktop Entry]
 Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=1) Web Browser
 Name[ca]=Navegador web
 Name[cs]=Webový prohlížeč
@@ -62,14 +63,13 @@ Comment[pt]=Navegue na Internet
 Comment[pt_BR]=Navegue na Internet
 Comment[sk]=Prehliadanie internetu
 Comment[sv]=Surfa på webben
+Icon=web-browser
 TryExec=firefox
 Exec=firefox %u
-Icon=web-browser
 Terminal=false
-Type=Application
-StartupWMClass=Firefox-bin
+Categories=Preferred;
 MimeType=text/html;text/xml;application/xhtml+xml;application/vnd.mozilla.xul+xml;text/mml;
 StartupNotify=true
+StartupWMClass=Firefox-bin
 X-Desktop-File-Install-Version=0.15
-Categories=Preferred;
 X-Panel-Monitor=true

@@ -1,8 +1,11 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Search and Indexing
 Name[ar]=البحث والفهرسة
-Name[be]=Пошук і індэксаваньне
 Name[be@latin]=Pošuk i indeksavańnie
+Name[be]=Пошук і індэксаваньне
 Name[ca]=Cerca i indexació
 Name[cs]=Hledání a indexování
 Name[da]=Søgning og indeksering
@@ -63,7 +66,6 @@ Icon=tracker
 TryExec=tracker-preferences
 Exec=tracker-preferences
 Terminal=false
-Type=Application
 Categories=Settings;X-GNOME-PersonalSettings;
 StartupNotify=true
 X-GNOME-Bugzilla-Bugzilla=GNOME

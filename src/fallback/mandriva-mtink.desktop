@@ -1,9 +1,12 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Epson Inkjet Printer Manager
 Comment=Alignment, ink level, cartridge maintenance
+Icon=epson
 TryExec=mtink
 Exec=mtink
-Icon=epson
 Terminal=false
-Type=Application
 Categories=System;Monitor;
+StartupNotify=false

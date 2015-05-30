@@ -1,11 +1,12 @@
-
 [Desktop Entry]
-Name=Abstractile
-Exec=/usr/lib/xscreensaver/abstractile -root
-TryExec=/usr/lib/xscreensaver/abstractile
-Comment=Generates mosaic patterns of interlocking tiles. Written by Steve Sundstrom.
-StartupNotify=false
-Terminal=false
+Version=1.0
+Encoding=UTF-8
 Type=Application
-Categories=Screensaver;
+Name=Abstractile
+Comment=Generates mosaic patterns of interlocking tiles. Written by Steve Sundstrom.
+TryExec=/usr/lib/xscreensaver/abstractile
+Exec=/usr/lib/xscreensaver/abstractile -root
+Terminal=false
 OnlyShowIn=GNOME;
+Categories=Screensaver;
+StartupNotify=false

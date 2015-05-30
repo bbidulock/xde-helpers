@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=GoatTracker
+Icon=goattrk2.xpm
+Exec=goattracker
+X-MultipleArgs=false
+Terminal=false
+Categories=AudioVideo;AudioVideoEditing
+StartupNotify=false
 X-AppInstall-Package=goattracker
 X-AppInstall-Popcon=10
 X-AppInstall-Section=main
-
-Name=GoatTracker
-Exec=goattracker
-Terminal=false
-X-MultipleArgs=false
-Type=Application
-Icon=goattrk2.xpm
-Categories=AudioVideo;AudioVideoEditing

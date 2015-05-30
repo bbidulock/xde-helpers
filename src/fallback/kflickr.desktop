@@ -1,16 +1,18 @@
 [Desktop Entry]
-X-AppInstall-Package=kflickr
-X-AppInstall-Popcon=39
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=kFlickr
 Name[xx]=xxkflickrxx
 Comment=A standalone Flickr uploader for KDE
-Comment[de]=Ein Standalone Flickr.com Uploader für KDE
+Comment[de]=Ein Standalone Flickr.com Uploader f\xFCr KDE
 Comment[fr]=Une application d'envoi de photos sur Flickr
 Comment[xx]=xxA standalone Flickr uploader for KDExx
-Exec=kflickr
 Icon=kflickr
-Type=Application
+Exec=kflickr
+Terminal=false
 Categories=KDE;Graphics;Photography;Network;FileTransfer;
+StartupNotify=false
+X-AppInstall-Package=kflickr
+X-AppInstall-Popcon=39
+X-AppInstall-Section=main

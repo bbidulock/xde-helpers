@@ -1,5 +1,6 @@
 [Desktop Entry]
 Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Xfburn
 Name[ar]=Xfburn
@@ -102,15 +103,14 @@ Comment[ur_PK]=سی ڈی اور ڈی وی ڈی برننگ اطلاقیہ
 Comment[vi]=Ứng dụng ghi đĩa CD và DVD
 Comment[zh_CN]=CD 和 DVD 刻录应用程序
 Comment[zh_TW]=CD 及 DVD 燒錄程式
-Exec=xfburn
-TryExec=xfburn
 Icon=media-cdrom
-MimeType=application/x-cd-image;
+TryExec=xfburn
+Exec=xfburn
 Terminal=false
 Categories=X-XFCE;GTK;DiscBurning;Archiving;AudioVideo;Utility;
+MimeType=application/x-cd-image;
 StartupNotify=true
 X-Arch-Package=xfburn 0.5.4-1
-
 Actions=BurnImage;
 
 [Desktop Action BurnImage]

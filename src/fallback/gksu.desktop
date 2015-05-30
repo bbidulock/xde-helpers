@@ -1,4 +1,7 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Root Terminal
 Name[ar]=طرفيّة الجذر
 Name[ca]=Terminal root
@@ -40,14 +43,12 @@ Comment[pt_BR]=Abre um terminal como usuário root, usando o gksu para pedir a s
 Comment[sv]=Öppnar en terminal som root-användaren och använder gksu för att fråga efter lösenordet
 Comment[th]=เปิดเทอร์มินัลในนามผู้ใช้ root โดยใช้ gksu ถามรหัสผ่าน
 Comment[zh_CN]=以 root 用户身份打开一个终端，使用 gksu 询问密码
-Encoding=UTF-8
+Icon=gksu-root-terminal
 TryExec=urxvt
 Exec=gksu -l urxvt
-Icon=gksu-root-terminal
-StartupNotify=true
-Terminal=false
 X-MultipleArgs=false
-Type=Application
+Terminal=false
 Categories=GTK;Utility;TerminalEmulator;
+StartupNotify=true
 X-Desktop-File-Install-Version=0.18
 X-Arch-Package=gksu 2.0.2-5

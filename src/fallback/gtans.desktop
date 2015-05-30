@@ -1,14 +1,16 @@
 [Desktop Entry]
-X-AppInstall-Package=gtans
-X-AppInstall-Popcon=54
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Tangrams
 Name[es]=Tangramas
 Comment=gtans
 Comment[es]=gtans
-Exec=gtans
 Icon=gtans
-Type=Application
+Exec=gtans
+Terminal=false
 Categories=GTK;Game;LogicGame;
+StartupNotify=false
+X-AppInstall-Package=gtans
+X-AppInstall-Popcon=54
+X-AppInstall-Section=main

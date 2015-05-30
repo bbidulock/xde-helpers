@@ -1,15 +1,16 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Solo
+Comment=Sudoku game
+Comment[de]=Sudoku-Spiel
+Comment[fr]=Un sudoku
+Icon=solo
+Exec=solo
+Terminal=false
+Categories=Game;LogicGame;
+StartupNotify=false
 X-AppInstall-Package=sgt-puzzles
 X-AppInstall-Popcon=137
 X-AppInstall-Section=main
-
-Version=1.0
-Terminal=false
-Exec=solo
-Icon=solo
-Type=Application
-Categories=Game;LogicGame;
-Name=Solo
-Comment=Sudoku game
-Comment[fr]=Un sudoku
-Comment[de]=Sudoku-Spiel

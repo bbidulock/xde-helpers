@@ -1,6 +1,7 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Gnome Klotski
 Name[ar]=Gnome Klotski
 Name[ast]=Gnome Klotski
@@ -67,3 +68,4 @@ TryExec=gnotski
 Exec=gnotski
 Terminal=false
 Categories=X-Debian-Games-Puzzles;
+StartupNotify=false

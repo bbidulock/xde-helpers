@@ -1,17 +1,18 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Iceowl
+GenericName=Calendar Application
+Comment=Manager Calenders and Appointments with Iceowl
+Icon=iceowl
+Exec=iceowl %u
+X-MultipleArgs=false
+Terminal=false
+Categories=Network;Calendar;GTK;
+MimeType=text/calendar
+StartupNotify=true
+StartupWMClass=Sunbird-bin
 X-AppInstall-Package=iceowl
 X-AppInstall-Popcon=538
 X-AppInstall-Section=main
-
-Name=Iceowl
-Comment=Manager Calenders and Appointments with Iceowl
-GenericName=Calendar Application
-Exec=iceowl %u
-Terminal=false
-X-MultipleArgs=false
-Type=Application
-Icon=iceowl
-Categories=Network;Calendar;GTK;
-MimeType=text/calendar
-StartupWMClass=Sunbird-bin
-StartupNotify=true

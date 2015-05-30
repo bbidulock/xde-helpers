@@ -1,13 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Njam
+Comment=pacman-like game with multiplayer support
+Icon=njamicon.png
+Exec=njam
+Terminal=false
+Categories=Game;ArcadeGame;
+StartupNotify=false
 X-AppInstall-Package=njam
 X-AppInstall-Popcon=21
 X-AppInstall-Section=main
-
-Encoding=UTF-8
-Name=Njam
-Comment=pacman-like game with multiplayer support
-Exec=njam
-Icon=njamicon.png
-Terminal=false
-Type=Application
-Categories=Game;ArcadeGame;

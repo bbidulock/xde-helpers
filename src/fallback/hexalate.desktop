@@ -1,11 +1,13 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Hexalate
+Icon=hexalate
+Exec=hexalate
+Terminal=false
+Categories=Qt;Game;
+StartupNotify=false
 X-AppInstall-Package=hexalate
 X-AppInstall-Popcon=8
 X-AppInstall-Section=main
-
-Name=Hexalate
-Exec=hexalate
-Icon=hexalate
-Terminal=false
-Type=Application
-Categories=Qt;Game;

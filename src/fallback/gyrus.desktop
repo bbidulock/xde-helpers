@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=gyrus
-X-AppInstall-Popcon=3
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Gyrus IMAP Cyrus Administrator
 Name[ar]=جيروس: برنامج ادارة IMAP Cyrus
 Name[ca]=Gyrus: administrador de l'IMAP Cyrus
@@ -39,9 +37,12 @@ Comment[sv]=Administrera postlådorna för dina IMAP Cyrus-servrar
 Comment[vi]=Quản lý các hộp thư trên trình phục vụ IMAP Cyrus của bạn
 Exec=gyrus
 Terminal=false
-Type=Application
+Categories=GNOME;GTK;Network;
+StartupNotify=false
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=gyrus
 X-GNOME-Bugzilla-Component=general
 X-GNOME-Bugzilla-Version=0.3.9
-Categories=GNOME;GTK;Network;
+X-AppInstall-Package=gyrus
+X-AppInstall-Popcon=3
+X-AppInstall-Section=main

@@ -1,13 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=ghkl
-X-AppInstall-Popcon=2
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=ghkl
 GenericName=Diffractometer Calculation
 Comment=hkl library graphical interface.
 Exec=ghkl
-MimeType=application/x-foo;
+Terminal=false
 Categories=Education;Science;Physics;GTK
+MimeType=application/x-foo;
+StartupNotify=false
+X-AppInstall-Package=ghkl
+X-AppInstall-Popcon=2
+X-AppInstall-Section=main

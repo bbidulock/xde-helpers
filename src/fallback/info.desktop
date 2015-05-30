@@ -1,6 +1,7 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Info
 Name[ar]=Info
 Name[ast]=Info
@@ -127,3 +128,4 @@ TryExec=info
 Exec=info
 Terminal=true
 Categories=X-Debian-Help;
+StartupNotify=false

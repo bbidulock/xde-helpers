@@ -1,4 +1,5 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=Run Command
@@ -8,7 +9,7 @@ Icon=system-run
 TryExec=fbrun
 Exec=fbrun
 Terminal=false
-Categories=Fluxbox;System;Utility;
 OnlyShowIn=FLUXBOX;
+Categories=Fluxbox;System;Utility;
 StartupNotify=false
 StartupWMClass=fbrun

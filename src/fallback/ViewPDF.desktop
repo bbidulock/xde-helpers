@@ -1,12 +1,14 @@
 [Desktop Entry]
-X-AppInstall-Package=viewpdf.app
-X-AppInstall-Popcon=85
-X-AppInstall-Section=main
-
-Type=Application
 Version=0.94
-Categories=Office;Viewer;
+Encoding=UTF-8
+Type=Application
 Name=ViewPDF
 Comment=A spicy PDF Reader.
 Exec=ViewPDF
+Terminal=false
+Categories=Office;Viewer;
 MimeType=application/pdf;
+StartupNotify=false
+X-AppInstall-Package=viewpdf.app
+X-AppInstall-Popcon=85
+X-AppInstall-Section=main

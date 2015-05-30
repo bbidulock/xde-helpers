@@ -1,4 +1,5 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=Run XDG Application
@@ -11,5 +12,4 @@ Terminal=false
 Categories=System;Utility;
 StartupNotify=true
 StartupWMClass=xde-app
-X-Arch-Package=xde-ctools-git 0.1.89.gaaf6c9a-1
 X-Arch-Package=xde-ctools-git 0.1.89.gaaf6c9a-1

@@ -1,13 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=tkgate
-X-AppInstall-Popcon=39
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=tkgate Circuit Simulator
 GenericName=Circuit Simulator
 Comment=Event driven digital circuit simulator with Tcl/Tk
-Exec=tkgate
 Icon=tkgate
-Type=Application
+Exec=tkgate
+Terminal=false
 Categories=Education;Electronics;Engineering;
+StartupNotify=false
+X-AppInstall-Package=tkgate
+X-AppInstall-Popcon=39
+X-AppInstall-Section=main

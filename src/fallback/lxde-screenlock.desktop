@@ -1,4 +1,6 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=ScreenLock
 Name[es]=Bloqueo de pantalla
@@ -14,8 +16,9 @@ Comment[ru]=Заблокировать экран
 Comment[tr]=Ekranı kilitle
 Comment[uk]=Заблокувати екран
 Icon=system-lock-screen
-Exec=lxlock
 TryExec=lxlock
+Exec=lxlock
+Terminal=false
 NoDisplay=true
-X-Arch-Package=lxde-common 0.99.0-2
+StartupNotify=false
 X-Arch-Package=lxde-common 0.99.0-2

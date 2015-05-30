@@ -1,8 +1,10 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Tclsh8.4
 TryExec=tclsh8.4
 Exec=tclsh8.4
 Terminal=true
 Categories=Programming;
+StartupNotify=false

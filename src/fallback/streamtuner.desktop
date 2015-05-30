@@ -1,8 +1,5 @@
 [Desktop Entry]
-X-AppInstall-Package=streamtuner
-X-AppInstall-Popcon=163
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=streamtuner
@@ -19,3 +16,6 @@ Exec=streamtuner
 Terminal=false
 Categories=AudioVideo;GTK;Tuner;
 StartupNotify=true
+X-AppInstall-Package=streamtuner
+X-AppInstall-Popcon=163
+X-AppInstall-Section=main

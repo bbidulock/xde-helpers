@@ -1,4 +1,5 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=XDE Watch
@@ -8,10 +9,9 @@ Icon=system-monitor
 TryExec=/usr/bin/xde-watch
 Exec=xde-watch -a
 Terminal=false
-Categories=XDE;System;Settings;
 NotShowIn=GNOME;KDE;XFCE;LXDE;
+Categories=XDE;System;Settings;
 StartupNotify=true
 StartupWMClass=xde-watch
 X-GNOME-Autostart-enabled=true
-X-Arch-Package=xde-theme 1.1.142-1
 X-Arch-Package=xde-theme 1.1.142-1

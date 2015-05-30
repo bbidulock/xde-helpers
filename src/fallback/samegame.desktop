@@ -1,15 +1,16 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Same Game
+Comment=Clear the grid of coloured squares by highlighting contiguous regions of more than one coloured square
+Comment[de]=Bereinige das Gitter von gefärbten Qudraten durch Hervorheben zusammenhängender Gebiete von mehr als einem gefärbten Quadrat
+Comment[fr]=Supprimer la grille de couleur en éclairant les régions adjacentes composées de plus d'un carré coloré
+Icon=samegame
+Exec=samegame
+Terminal=false
+Categories=Game;LogicGame;
+StartupNotify=false
 X-AppInstall-Package=sgt-puzzles
 X-AppInstall-Popcon=137
 X-AppInstall-Section=main
-
-Version=1.0
-Terminal=false
-Exec=samegame
-Icon=samegame
-Type=Application
-Categories=Game;LogicGame;
-Name=Same Game
-Comment=Clear the grid of coloured squares by highlighting contiguous regions of more than one coloured square
-Comment[fr]=Supprimer la grille de couleur en éclairant les régions adjacentes composées de plus d'un carré coloré
-Comment[de]=Bereinige das Gitter von gefärbten Qudraten durch Hervorheben zusammenhängender Gebiete von mehr als einem gefärbten Quadrat

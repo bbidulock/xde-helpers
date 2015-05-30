@@ -1,12 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=fraqtive
-X-AppInstall-Popcon=54
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Fraqtive
 GenericName=Fractal Generator
 Comment=Mandelbrot family fractal generator
 Icon=fraqtive
 Exec=fraqtive
+Terminal=false
 Categories=Qt;Education;Science;Math;
+StartupNotify=false
+X-AppInstall-Package=fraqtive
+X-AppInstall-Popcon=54
+X-AppInstall-Section=main

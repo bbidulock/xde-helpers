@@ -1,17 +1,16 @@
 [Desktop Entry]
-X-AppInstall-Package=xboing
-X-AppInstall-Popcon=29
-X-AppInstall-Section=main
-
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=XBoing II
 GenericName=XBoing II
 Comment=Destroy some blocks
-
-Type=Application
-Exec=xboing
 Icon=xboing
+Exec=xboing
 Terminal=false
 Categories=Game;ArcadeGame;
-
+StartupNotify=false
+X-AppInstall-Package=xboing
+X-AppInstall-Popcon=29
+X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

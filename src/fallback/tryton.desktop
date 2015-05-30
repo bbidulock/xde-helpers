@@ -1,16 +1,17 @@
 [Desktop Entry]
-X-AppInstall-Package=tryton-client
-X-AppInstall-Popcon=12
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Tryton
 GenericName=Client for the Tryton Application Platform
 GenericName[de]=Client für die Tryton Applikationsplattform
 Comment=Access Tryton server
 Comment[de]=Verbindet zu einem Tryton Server
-Exec=tryton
 Icon=tryton-icon
+Exec=tryton
 Terminal=false
 Categories=Office;Finance;
+StartupNotify=false
+X-AppInstall-Package=tryton-client
+X-AppInstall-Popcon=12
+X-AppInstall-Section=main

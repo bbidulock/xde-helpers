@@ -1,12 +1,15 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Service Pack Creator
 Name[ar]=منشئ الرزم الخدمية
 Name[as]=সেৱা সৰঞ্জাম নিৰ্মাণ ব্যৱস্থা
 Name[bg]=Създаване на сервизни пакети
 Name[bn]=সার্ভিসপ্যাক নির্মাতা
 Name[bn_IN]=সার্ভিস প্যাক নির্মাণ ব্যবস্থা
-Name[ca]=Creador de paquets de servei
 Name[ca@valencia]=Creador de paquets de servei
+Name[ca]=Creador de paquets de servei
 Name[cs]=Tvůrce opravných balíčků
 Name[da]=Opretning af servicepakke
 Name[de]=Servicepaket-Erstellung
@@ -44,8 +47,8 @@ Name[ro]=Creator de pachete de serviciu
 Name[ru]=Создание сервис-паков
 Name[sk]=Tvorba servisného archívu
 Name[sl]=Ustvarjalnik servisnega paketa popravkov
-Name[sr]=Израда сервисног пакета
 Name[sr@latin]=Izrada servisnog paketa
+Name[sr]=Израда сервисног пакета
 Name[sv]=Skapare av servicepaket
 Name[ta]=சேவை பொதி உருவாக்கி
 Name[te]=సేవా ప్యాక్ సృష్టికర్త
@@ -60,8 +63,6 @@ Icon=gpk-service-pack
 TryExec=gpk-service-pack
 Exec=gpk-service-pack
 Terminal=false
-Type=Application
 NoDisplay=true
 Categories=GNOME;GTK;System;
 StartupNotify=true
-

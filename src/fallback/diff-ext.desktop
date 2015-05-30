@@ -1,12 +1,14 @@
 [Desktop Entry]
-X-AppInstall-Package=diff-ext
-X-AppInstall-Popcon=80
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Diff-ext
 Comment=Configure diff-ext nautilus extension
-Exec=diff-ext-setup
 Icon=de
+Exec=diff-ext-setup
+Terminal=false
 Categories=Development;
+StartupNotify=false
+X-AppInstall-Package=diff-ext
+X-AppInstall-Popcon=80
+X-AppInstall-Section=main

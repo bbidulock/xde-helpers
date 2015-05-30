@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=pybliographer
-X-AppInstall-Popcon=139
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Pybliographic Bibliography Manager
 Name[ca]=Gestor de bibliografia Pybliographic
 Name[cs]=Správce bibliografie Pybliographic
@@ -64,7 +62,9 @@ Comment[zh_CN]=管理书目数据库
 Icon=pybliographic.png
 Exec=pybliographic
 Terminal=false
-Type=Application
 Categories=GNOME;Application;Office;
-StartupNotify=true
 MimeType=text/x-bibtex;
+StartupNotify=true
+X-AppInstall-Package=pybliographer
+X-AppInstall-Popcon=139
+X-AppInstall-Section=main

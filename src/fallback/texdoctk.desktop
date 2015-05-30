@@ -1,6 +1,7 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=TeXdoctk
 Name[ar]=TeXdoctk
 Name[ast]=TeXdoctk
@@ -66,3 +67,4 @@ TryExec=texdoctk
 Exec=texdoctk
 Terminal=false
 Categories=X-Debian-Help;
+StartupNotify=false

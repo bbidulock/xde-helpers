@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=nvi
 GenericName=nvi
 Comment=nvi text editor
-Exec=nvi
 Icon=text-editor
-Terminal=true
-Type=Application
-Encoding=UTF-8
-Categories=Utility;TextEditor;
-X-AfterStep-IndexName=nvi
 TryExec=nvi
+Exec=nvi
+Terminal=true
+Categories=Utility;TextEditor;
+StartupNotify=false
+X-AfterStep-IndexName=nvi

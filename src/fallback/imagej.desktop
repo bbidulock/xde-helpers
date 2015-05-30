@@ -1,9 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=imagej
-X-AppInstall-Popcon=52
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=ImageJ
 GenericName=Image Editor
@@ -31,8 +28,8 @@ GenericName[pl]=Edytor obrazu
 GenericName[pt_BR]=Editor de Imagens
 GenericName[ru]=Редактор изображений
 GenericName[sk]=Editor obrázkov
-GenericName[sr]=Обрада слика
 GenericName[sr@Latn]=Obrada slika
+GenericName[sr]=Обрада слика
 GenericName[sv]=Bildeditor
 GenericName[uk]=Редактор зображень
 GenericName[zh_CN]=图像编辑器
@@ -41,7 +38,12 @@ Comment=Image processing and analysis
 Comment[en_GB]=Image processing and analysis
 Comment[fr]=Traitement et analyse de l'image
 Comment[it]=Trattamento ed analisi delle immagini
-Exec=imagej %f
 Icon=microscope
+Exec=imagej %f
+Terminal=false
 Categories=Graphics;Science;Biology;
 MimeType=image/bmp;image/gif;image/jpeg;image/jpg;image/pjpeg;image/png;image/tiff;image/x-bmp;image/x-fits;image/x-png;image/x-psd;image/x-xbitmap;application/dicom;
+StartupNotify=false
+X-AppInstall-Package=imagej
+X-AppInstall-Popcon=52
+X-AppInstall-Section=main

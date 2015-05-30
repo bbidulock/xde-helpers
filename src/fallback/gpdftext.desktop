@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=gpdftext
-X-AppInstall-Popcon=43
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=gPDFText ebook editor
 Name[cs]=Editor elektronických knih gPDFText
 Name[de]=gPDFText eBook-Editor
@@ -25,11 +24,12 @@ Comment[ru]=Редактировать текст из файлов ebook PDF
 Comment[sv]=Redigera text från eböcker i PDF-format.
 Comment[vi]=Sửa văn bản từ tập tin ebook PDF
 Comment[zh_CN]=编辑PDF电子书文本
+Icon=gpdftext
 Exec=gpdftext %U
 Terminal=false
-Type=Application
-Icon=gpdftext
-MimeType=application/pdf;
 Categories=Utility;TextEditor;
+MimeType=application/pdf;
 StartupNotify=true
-
+X-AppInstall-Package=gpdftext
+X-AppInstall-Popcon=43
+X-AppInstall-Section=main

@@ -1,5 +1,7 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Cosmos
 Name[bg]=Космос
 Name[bn]=কসমস
@@ -46,8 +48,8 @@ Name[pt_BR]=Cosmos
 Name[ru]=Космос
 Name[sl]=Vesolje
 Name[sq]=Kozmos
-Name[sr]=Свемир
 Name[sr@Latn]=Svemir
+Name[sr]=Свемир
 Name[sv]=Kosmos
 Name[ta]=Cosmos
 Name[th]=อวกาศ
@@ -100,8 +102,8 @@ Comment[pt_BR]=Mostra uma apresentação de slides de fotos do cosmo
 Comment[ru]=Показывает слайд-шоу космических рисунков
 Comment[sl]=Prikaži diaprojekcijo slik vesolja
 Comment[sq]=Shfaq minjatura fotografish nga kozmosi
-Comment[sr]=Прикажи слике свемира у низу
 Comment[sr@Latn]=Prikaži slike svemira u nizu
+Comment[sr]=Прикажи слике свемира у низу
 Comment[sv]=Visa ett bildspel med bilder på kosmos
 Comment[ta]=cosmosன் படங்களை ஸ்லைடு காட்சியாக காட்டவும்
 Comment[th]=แสดงภาพสไลด์ของภาพจากอวกาศ
@@ -110,9 +112,8 @@ Comment[uk]=Показує слайд-шоу космічних рисунків
 Comment[vi]=Hiển thị trình diễn các ảnh của vũ trụ
 Comment[zh_HK]=顯示宇宙圖片的幻燈片放映
 Comment[zh_TW]=顯示宇宙圖片的幻燈片放映
-Exec=slideshow --location=/usr/share/pixmaps/backgrounds/cosmos
 TryExec=slideshow
-StartupNotify=false
+Exec=slideshow --location=/usr/share/pixmaps/backgrounds/cosmos
 Terminal=false
-Type=Application
 Categories=GNOME;Screensaver;
+StartupNotify=false

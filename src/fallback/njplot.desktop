@@ -1,12 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=njplot
-X-AppInstall-Popcon=81
-X-AppInstall-Section=main
-
 Version=1.0
-Terminal=false
-Icon=njplot
-Exec=njplot %f
+Encoding=UTF-8
+Type=Application
 Name=NJplot
 GenericName=Tree Plotter
 GenericName[en]=Tree Plotter
@@ -16,6 +11,12 @@ Comment=Displays, modifies and exports in PostScript format phylogenetic trees
 Comment[en]=Displays, modifies and exports in PostScript format phylogenetic trees
 Comment[fr]=Affiche, modifie et exporte au format PostScript des arbres phyolgénétiques
 Comment[pt_BR]=Exibe, modifica e exporta em formato PostScript árvores filogenéticas
-Type=Application
+Icon=njplot
+Exec=njplot %f
+Terminal=false
 Categories=Biology;Science;Education;
 MimeType=text/x-clustalw-tree;chemical/njplot;
+StartupNotify=false
+X-AppInstall-Package=njplot
+X-AppInstall-Popcon=81
+X-AppInstall-Section=main

@@ -1,13 +1,14 @@
 [Desktop Entry]
-X-AppInstall-Package=electricsheep
-X-AppInstall-Popcon=117
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=ElectricSheep
 Comment=Electric Sheep is a distributed screen-saver that harnesses idle computers into a render farm with the purpose of animating and evolving artificial life-forms.
 Exec=electricsheep --root 1
-StartupNotify=false
 Terminal=false
-Type=Application
-Categories=Screensaver;
 OnlyShowIn=GNOME;KDE;XFCE
+Categories=Screensaver;
+StartupNotify=false
+X-AppInstall-Package=electricsheep
+X-AppInstall-Popcon=117
+X-AppInstall-Section=main

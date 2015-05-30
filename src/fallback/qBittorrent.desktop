@@ -1,11 +1,9 @@
 [Desktop Entry]
-X-AppInstall-Package=qbittorrent
-X-AppInstall-Popcon=286
-X-AppInstall-Section=main
-
-Categories=Qt;Network;P2P;
-Comment=V2.2.11
-Exec=qbittorrent %f
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=qBittorrent
+Name[ko]=큐비토런트
 GenericName=Bittorrent client
 GenericName[ar]=العميل Bittorrent
 GenericName[bg]=Торент клиент
@@ -33,10 +31,13 @@ GenericName[tr]=Bittorrent istemcisi
 GenericName[uk]=Bittorrent-клієнт
 GenericName[zh]=Bittorrent之用户
 GenericName[zh_TW]=Bittorrent客戶端
+Comment=V2.2.11
 Icon=qbittorrent
-MimeType=application/x-bittorrent;
-Name=qBittorrent
-Name[ko]=큐비토런트
+Exec=qbittorrent %f
 Terminal=false
-Type=Application
-
+Categories=Qt;Network;P2P;
+MimeType=application/x-bittorrent;
+StartupNotify=false
+X-AppInstall-Package=qbittorrent
+X-AppInstall-Popcon=286
+X-AppInstall-Section=main

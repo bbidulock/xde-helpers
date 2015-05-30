@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=GNOME Pilot Install Databases
 Comment=Install Databases on your Palm Pilot
+Icon=gnome-palm
 TryExec=gpilot-install-file
 Exec=gpilot-install-file %U
-Icon=gnome-palm
 Terminal=false
-Type=Application
-StartupNotify=true
-MimeType=application/x-palm-database;
-Categories=GNOME;GTK;TelephonyTools;Utility;
 Hidden=true
+Categories=GNOME;GTK;TelephonyTools;Utility;
+MimeType=application/x-palm-database;
+StartupNotify=true

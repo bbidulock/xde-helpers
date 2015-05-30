@@ -1,21 +1,21 @@
-#!/usr/bin/env xdg-open
-
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
-GenericName=VPN PPTP/L2TP/OpenL2TP Setup
-GenericName[ru]=Настройка соединения VPN PPTP/L2TP/OpenL2TP
-GenericName[uk]=Налаштування з’єднання VPN PPTP/L2TP/OpenL2TP
+Type=Application
 Name=vpnpptp
 Name[ru]=vpnpptp
 Name[uk]=vpnpptp
-TryExec=vpnpptp
-Exec=gksu -u root -l /usr/bin/vpnpptp
+GenericName=VPN PPTP/L2TP/OpenL2TP Setup
+GenericName[ru]=Настройка соединения VPN PPTP/L2TP/OpenL2TP
+GenericName[uk]=Налаштування з’єднання VPN PPTP/L2TP/OpenL2TP
 Comment=Setup VPN via PPTP/L2TP/OpenL2TP
 Comment[ru]=Настройка соединения VPN PPTP/L2TP/OpenL2TP
 Comment[uk]=Налаштування з’єднання VPN PPTP/L2TP/OpenL2TP
 Icon=/usr/share/pixmaps/vpnpptp.png
-Type=Application
+TryExec=vpnpptp
+Exec=gksu -u root -l /usr/bin/vpnpptp
+Terminal=false
 Categories=GTK;System;Network;Monitor;X-MandrivaLinux-CrossDesktop;
+StartupNotify=false
 X-KDE-SubstituteUID=true
 X-KDE-Username=root
-StartupNotify=false

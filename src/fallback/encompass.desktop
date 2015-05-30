@@ -1,6 +1,6 @@
 [Desktop Entry]
 Version=1.0
-Icon=encompass
+Encoding=UTF-8
 Type=X-XFCE-Helper
 Name=Encompass
 Name[ar]=يشمل
@@ -50,6 +50,8 @@ Name[ur]=اینکمپاس
 Name[ur_PK]=اینکمپاس
 Name[zh_CN]=Encompass
 Name[zh_TW]=Encompass
+Icon=encompass
+Terminal=false
 StartupNotify=true
 X-XFCE-Binaries=encompass;
 X-XFCE-Category=WebBrowser

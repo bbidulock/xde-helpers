@@ -1,4 +1,6 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Gnash SWF Viewer
 Name[ca]=Visualitzador d'SWF Gnash
@@ -19,6 +21,7 @@ Icon=gnash
 TryExec=gtk-gnash
 Exec=gtk-gnash %U
 Terminal=false
+NoDisplay=true
 Categories=AudioVideo;Video;Player;GTK;
 MimeType=application/x-shockwave-flash;application/futuresplash;
-NoDisplay=true
+StartupNotify=false

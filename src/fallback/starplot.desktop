@@ -1,12 +1,15 @@
 [Desktop Entry]
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=StarPlot Star Chart Viewer
 GenericName=Star Chart Viewer
+Comment=View detailed star charts in 3D
 Comment[en]=View detailed star charts in 3D
 Comment[es]=Vista detallada de gráficos de estrellas en 3D
-Type=Application
-Exec=starplot
 Icon=starplot32x32
+Exec=starplot
+Terminal=false
 Categories=Astronomy;Education;Science;
-X-Arch-Package=starplot 0.95.5-3
+StartupNotify=false
 X-Arch-Package=starplot 0.95.5-3

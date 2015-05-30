@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=bygfoot
+Comment=A soccer manager game
+Icon=bygfoot.xpm
+Exec=/usr/games/bygfoot
+Terminal=false
+Categories=Application;Game;
+StartupNotify=false
 X-AppInstall-Package=bygfoot
 X-AppInstall-Popcon=17
 X-AppInstall-Section=main
-
-Version=1.0
-Type=Application
-Name=bygfoot
-Comment= A soccer manager game
-Exec=/usr/games/bygfoot
-Categories=Application;Game;
-Icon=bygfoot.xpm

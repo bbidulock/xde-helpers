@@ -1,16 +1,18 @@
 [Desktop Entry]
 Version=1.0
-Icon=dillo
+Encoding=UTF-8
 Type=Application
 Name=Dillo
 GenericName=Web Browser
 Comment=A small, fast graphical web browser build on FLTK
-StartupNotify=true
+Icon=dillo
 TryExec=dillo
 Exec=dillo %u
-Category=Network;WebBrowser;
+Terminal=false
+StartupNotify=true
 X-XFCE-Binaries=dillo;
 X-XFCE-Category=WebBrowser
 X-XFCE-Commands=%B;
 X-XFCE-CommandsWithParameter=%B "%s";
 X-Arch-Package=dillo 3.0.4.1-1
+Category=Network;WebBrowser;

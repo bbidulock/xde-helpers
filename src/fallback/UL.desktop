@@ -1,12 +1,14 @@
 [Desktop Entry]
-X-AppInstall-Package=adun.app
-X-AppInstall-Popcon=25
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Adun
 Comment=Biomoleculal Simulator
-Version=1.0
 Icon=/usr/lib/GNUstep/Applications/UL.app/Resources/icon.tiff
-Categories=Education;Science;Biology;
 Exec=UL
+Terminal=false
+Categories=Education;Science;Biology;
+StartupNotify=false
+X-AppInstall-Package=adun.app
+X-AppInstall-Popcon=25
+X-AppInstall-Section=main

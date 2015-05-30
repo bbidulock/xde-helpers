@@ -1,5 +1,7 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Privilege granting
 Name[cs]=Přidělování práv
 Name[es]=Obteniendo privilegios
@@ -18,11 +20,10 @@ Comment[it]=Configura il comportamento dello strumento di concessione privilegi
 Comment[ko]=관리 권한 부여 프로그램의 동작을 설정합니다
 Comment[sv]=Konfigurera beteendet för verktyget för rättighetstilldelning
 Comment[zh_CN]=配置权限授予工具的行为
-Exec=gksu-properties
 Icon=gksu.png
-StartupNotify=true
+Exec=gksu-properties
 Terminal=false
-Type=Application
-Categories=GNOME;GTK;Application;Settings;AdvancedSettings;
 OnlyShowIn=GNOME;XFCE;
+Categories=GNOME;GTK;Application;Settings;AdvancedSettings;
+StartupNotify=true
 X-Arch-Package=libgksu 2.0.12-6

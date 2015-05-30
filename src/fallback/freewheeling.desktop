@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=FreeWheeling
+Comment=live looping instrument
+Icon=_usr_share_pixmaps_freewheeling
+Exec=/usr/bin/fweelin
+Terminal=false
+Categories=Application;AudioVideo;
+StartupNotify=false
 X-AppInstall-Package=freewheeling
 X-AppInstall-Popcon=9
 X-AppInstall-Section=main
-
-Name=FreeWheeling
-Comment=live looping instrument
-Exec=/usr/bin/fweelin
-Icon=_usr_share_pixmaps_freewheeling
-Terminal=false
-Type=Application
-Categories=Application;AudioVideo;

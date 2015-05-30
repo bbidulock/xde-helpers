@@ -1,15 +1,15 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=flPhoto
 Comment=FLTK Photo Album
+Icon=flphoto
 TryExec=flphoto
 Exec=flphoto %F
-Icon=flphoto
 Terminal=false
-Type=Application
+Categories=Graphics;Photography;
 MimeType=application/x-flphoto;
 Patterns=*.album
-Encoding=UTF-8
-Categories=Graphics;Photography;
 StartupNotify=false
-X-Arch-Package=flphoto 1.3.1-4
 X-Arch-Package=flphoto 1.3.1-4

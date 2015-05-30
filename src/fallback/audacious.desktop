@@ -1,6 +1,7 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Audacious
 Comment=Audacious Media Player
 Icon=/usr/share/pixmaps/audacious-32.xpm
@@ -8,3 +9,4 @@ TryExec=audacious2
 Exec=audacious2
 Terminal=false
 Categories=Sound;
+StartupNotify=false

@@ -1,11 +1,12 @@
-
 [Desktop Entry]
-Name=Deco
-Exec=/usr/lib/xscreensaver/deco -root
-TryExec=/usr/lib/xscreensaver/deco
-Comment=Subdivides and colors rectangles randomly. It looks kind of like Brady-Bunch-era rec-room wall paneling. http://en.wikipedia.org/wiki/Piet_Mondrian#Paris_1919.E2.80.931938 Written by Jamie Zawinski and Michael Bayne.
-StartupNotify=false
-Terminal=false
+Version=1.0
+Encoding=UTF-8
 Type=Application
-Categories=Screensaver;
+Name=Deco
+Comment=Subdivides and colors rectangles randomly. It looks kind of like Brady-Bunch-era rec-room wall paneling. http://en.wikipedia.org/wiki/Piet_Mondrian#Paris_1919.E2.80.931938 Written by Jamie Zawinski and Michael Bayne.
+TryExec=/usr/lib/xscreensaver/deco
+Exec=/usr/lib/xscreensaver/deco -root
+Terminal=false
 OnlyShowIn=GNOME;
+Categories=Screensaver;
+StartupNotify=false

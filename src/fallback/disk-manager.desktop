@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=disk-manager
-X-AppInstall-Popcon=1107
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Disk Manager
 Name[de]=Geräte Verwaltung
 Name[en_GB]=Disk Manager
@@ -14,6 +12,7 @@ Name[pl]=Disk Manager
 Name[pt_BR]=Gerenciador de Disco
 Name[sv]=Diskhanterare
 Name[zh_CN]=磁盘管理器
+GenericName[fr_FR]=
 Comment=Manage filesystem configuration
 Comment[de]=Verwalte Dateisystem Konfiguration
 Comment[en_GB]=Manage filesystem configuration
@@ -27,6 +26,8 @@ Comment[zh_CN]=管理文件系统的配置
 Icon=disk-manager
 Exec=/usr/sbin/disk-manager-root
 Terminal=false
-Type=Application
 Categories=Application;System;Settings
-GenericName[fr_FR]=
+StartupNotify=false
+X-AppInstall-Package=disk-manager
+X-AppInstall-Popcon=1107
+X-AppInstall-Section=main

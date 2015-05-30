@@ -1,11 +1,7 @@
-# see http://standards.freedesktop.org/desktop-entry-spec/latest/
 [Desktop Entry]
-X-AppInstall-Package=gnubiff
-X-AppInstall-Popcon=159
-X-AppInstall-Section=main
-
-Type=Application
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Gnubiff
 GenericName=Mail notification program
 GenericName[cs]=Program oznamující poštu
@@ -37,3 +33,7 @@ Icon=gnubiff
 Exec=gnubiff
 Terminal=false
 Categories=Network;Email;
+StartupNotify=false
+X-AppInstall-Package=gnubiff
+X-AppInstall-Popcon=159
+X-AppInstall-Section=main

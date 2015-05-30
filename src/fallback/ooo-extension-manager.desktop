@@ -1,13 +1,14 @@
 [Desktop Entry]
 Version=1.0
-Terminal=false
-TryExec=unopkg3.2
-Exec=unopkg3.2 gui %U
-NoDisplay=true
+Encoding=UTF-8
 Type=Application
-StartupNotify=false
-Categories=X-SuSE-Core-Office;Office;
-MimeType=application/vnd.openofficeorg.extension;
 Name=OpenOffice.org Extension Manager
 GenericName=Extension Manager
 Comment=Add and organize the OpenOffice.org extensions.
+TryExec=unopkg3.2
+Exec=unopkg3.2 gui %U
+Terminal=false
+NoDisplay=true
+Categories=X-SuSE-Core-Office;Office;
+MimeType=application/vnd.openofficeorg.extension;
+StartupNotify=false

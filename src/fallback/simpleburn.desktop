@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=SimpleBurn
 GenericName=Disc Burner and extractor
 Comment=CD/DVD burning and extraction utility
-Keywords=disc;cdrom;dvd;burn;audio;video;
-Exec=simpleburn
 Icon=simpleburn
-Type=Application
-StartupNotify=true
+Exec=simpleburn
+Terminal=false
 Categories=DiscBurning;AudioVideo;
-X-Arch-Package=simpleburn 1.7.3-1
+Keywords=disc;cdrom;dvd;burn;audio;video;
+StartupNotify=true
 X-Arch-Package=simpleburn 1.7.3-1

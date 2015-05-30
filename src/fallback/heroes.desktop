@@ -1,14 +1,14 @@
 [Desktop Entry]
-X-AppInstall-Package=heroes-common
-X-AppInstall-Popcon=37
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=Heroes
 Comment=Collect powerups and avoid your opponents' trails
-Exec=heroes
 Icon=heroes
+Exec=heroes
 Terminal=false
 Categories=Application;Game;
 StartupNotify=false
+X-AppInstall-Package=heroes-common
+X-AppInstall-Popcon=37
+X-AppInstall-Section=main

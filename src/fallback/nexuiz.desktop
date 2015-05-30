@@ -1,16 +1,18 @@
 [Desktop Entry]
-X-AppInstall-Package=nexuiz
-X-AppInstall-Popcon=127
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Nexuiz
 Comment=A networked 3D first person shooter game with high-quality graphic effects
 Comment[de]=Ein netzwerkfähiges 3D Ego-Shooter Spiel mit aufwändigen Grafikeffekten
 Comment[fr_FR]=Un Ego-Shooter en 3D pouvant être joué en réseau
 Comment[pl_PL]=Gra sieciowa 3D, strzelanka, w pierwszej osobie z efektami graficznymi wysokiej jakosci
 Comment[ro_RO]=Un joc 3D cu împuşcături, perspectivă personală şi efecte grafice de înaltă calitate
-Exec=/usr/games/nexuiz
 Icon=nexuiz48x48
+Exec=/usr/games/nexuiz
 Terminal=false
-Type=Application
 Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=nexuiz
+X-AppInstall-Popcon=127
+X-AppInstall-Section=main

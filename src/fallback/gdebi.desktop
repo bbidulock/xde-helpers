@@ -1,4 +1,7 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=GDebi Package Installer
 Name[cs]=Instalátor balíků GDebi
 Name[da]=GDebi pakkeinstalleringsprogram
@@ -54,14 +57,13 @@ Comment[ru]=Установить и просмотреть пакеты прог
 Comment[sk]=Zobraziť a nainštalovať softvérové balíky
 Comment[sv]=Installera och visa programvarupaket
 Comment[tr]=Yazılım paketlerini kur ve izle
+Icon=gnome-mime-application-x-deb
 TryExec=/usr/bin/gdebi-gtk
 Exec=gdebi-gtk
-Icon=gnome-mime-application-x-deb
 Terminal=false
-Type=Application
-Categories=Application;System;
-MimeType=application/x-deb;application/x-debian-package;
 NoDisplay=true
 NotShowIn=KDE;
-X-Ubuntu-Gettext-Domain=gdebi
+Categories=Application;System;
+MimeType=application/x-deb;application/x-debian-package;
 StartupNotify=true
+X-Ubuntu-Gettext-Domain=gdebi

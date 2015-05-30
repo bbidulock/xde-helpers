@@ -1,11 +1,12 @@
 [Desktop Entry]
-Comment=Archlinux AUR
-Exec=xdg-open https://aur.archlinux.org
-Icon=arch-logo
-Name=AUR
-StartupNotify=true
-Terminal=false
+Version=1.0
+Encoding=UTF-8
 Type=Application
+Name=AUR
+Comment=Archlinux AUR
+Icon=arch-logo
+Exec=xdg-open https://aur.archlinux.org
+Terminal=false
 Categories=Archlinux;
-X-Arch-Package=archlinux-menus 2.5-2
+StartupNotify=true
 X-Arch-Package=archlinux-menus 2.5-2

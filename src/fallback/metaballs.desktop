@@ -1,11 +1,12 @@
-
 [Desktop Entry]
-Name=MetaBalls
-Exec=/usr/lib/xscreensaver/metaballs -root
-TryExec=/usr/lib/xscreensaver/metaballs
-Comment=Draws two dimensional metaballs: overlapping and merging balls with fuzzy edges. http://en.wikipedia.org/wiki/Metaballs Written by W.P. van Paassen.
-StartupNotify=false
-Terminal=false
+Version=1.0
+Encoding=UTF-8
 Type=Application
-Categories=Screensaver;
+Name=MetaBalls
+Comment=Draws two dimensional metaballs: overlapping and merging balls with fuzzy edges. http://en.wikipedia.org/wiki/Metaballs Written by W.P. van Paassen.
+TryExec=/usr/lib/xscreensaver/metaballs
+Exec=/usr/lib/xscreensaver/metaballs -root
+Terminal=false
 OnlyShowIn=GNOME;
+Categories=Screensaver;
+StartupNotify=false

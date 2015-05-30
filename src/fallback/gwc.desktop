@@ -1,14 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Gnome Wave Cleaner
+Comment=Sound File Noise Reduction
+Icon=gwc.xpm
+Exec=gnome_wave_cleaner %F
+Terminal=false
+Categories=GNOME;Application;AudioVideo;
+StartupNotify=false
 X-AppInstall-Package=gwc
 X-AppInstall-Popcon=33
 X-AppInstall-Section=main
-
-Version=1.0
-Type=Application
-Terminal=false
-Name=Gnome Wave Cleaner
-Comment=Sound File Noise Reduction
-Exec=gnome_wave_cleaner %F
-Icon=gwc.xpm
-Categories=GNOME;Application;AudioVideo;
-

@@ -1,13 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=PDF Editor
+Comment=PDF Editor
+Icon=_usr_share_pdfedit_icon_pdfedit_logo
+Exec=pdfedit
+Terminal=false
+Categories=TextTools;Viewer;Graphics;Qt;
+StartupNotify=false
 X-AppInstall-Package=pdfedit
 X-AppInstall-Popcon=474
 X-AppInstall-Section=main
-
-Name=PDF Editor
-Comment=PDF Editor
-Exec=pdfedit
-Icon=_usr_share_pdfedit_icon_pdfedit_logo
-Type=Application
-StartupNotify=false
-Terminal=false
-Categories=TextTools;Viewer;Graphics;Qt;

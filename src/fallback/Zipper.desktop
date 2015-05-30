@@ -1,13 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=zipper.app
-X-AppInstall-Popcon=56
-X-AppInstall-Section=main
-
-Type=Application
 Version=0.94
-Categories=Compression;Archiving;Utility;
+Encoding=UTF-8
+Type=Application
 Name=Zipper
 Comment=GUI for various compressed file formats
 Icon=zipper.tiff
 Exec=Zipper
+Terminal=false
+Categories=Compression;Archiving;Utility;
 MimeType=
+StartupNotify=false
+X-AppInstall-Package=zipper.app
+X-AppInstall-Popcon=56
+X-AppInstall-Section=main

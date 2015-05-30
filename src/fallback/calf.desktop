@@ -1,15 +1,16 @@
 [Desktop Entry]
-X-AppInstall-Package=calf-plugins
-X-AppInstall-Popcon=21
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Calf Plugin Pack for JACK
 Name[pl]=Zestaw wtyczek Calf
 Comment=Process and produce sounds using a set of plugins with JACK interface
 Comment[pl]=Przetwarzaj i generuj dźwięk używając zestawu wtyczek zgodnych z JACK
+Icon=calf
 Exec=calfjackhost
 Terminal=false
-Type=Application
 Categories=Application;AudioVideo;Audio
-Icon=calf
+StartupNotify=false
+X-AppInstall-Package=calf-plugins
+X-AppInstall-Popcon=21
+X-AppInstall-Section=main

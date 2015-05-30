@@ -1,19 +1,19 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Mutter (wayland compositor)
 Exec=mutter --wayland --display-server
+Terminal=false
 NoDisplay=true
-# name of loadable control center module
-X-GNOME-WMSettingsModule=metacity
-# name we put on the WM spec check window
+StartupNotify=false
+X-GNOME-Autostart-Notify=true
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
 X-GNOME-WMName=Mutter
-# back compat only 
 X-GnomeWMSettingsLibrary=metacity
+X-GNOME-WMSettingsModule=metacity
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=mutter
 X-GNOME-Bugzilla-Component=general
-X-GNOME-Autostart-Phase=WindowManager
-X-GNOME-Provides=windowmanager
-X-GNOME-Autostart-Notify=true
-X-Arch-Package=mutter 3.16.2-1
 X-Arch-Package=mutter 3.16.2-1

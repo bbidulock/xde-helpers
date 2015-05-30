@@ -1,14 +1,14 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Cairo Composite Manager
 Comment=Cairo Composite Manager
-Exec=cairo-compmgr
 Icon=/usr/share/pixmaps/cairo-compmgr/cairo-compmgr.png
+Exec=cairo-compmgr
 Terminal=false
-Type=Application
-StartupNotify=false
 Categories=GNOME;GTK;System;
-X-GNOME-Autostart-Phase=Desktop
+StartupNotify=false
 X-GNOME-Autostart-Notify=true
-X-Arch-Package=cairo-compmgr 2:0.3.1-10
+X-GNOME-Autostart-Phase=Desktop
 X-Arch-Package=cairo-compmgr 2:0.3.1-10

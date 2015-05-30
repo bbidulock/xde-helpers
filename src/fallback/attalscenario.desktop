@@ -1,12 +1,13 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Attal scenario editor
+Icon=
+Exec=attal-scenario-editor
+Terminal=false
+Categories=Game;StrategyGame;
+StartupNotify=true
 X-AppInstall-Package=attal
 X-AppInstall-Popcon=18
 X-AppInstall-Section=main
-
-Name=Attal scenario editor
-Exec=attal-scenario-editor
-Icon=
-StartupNotify=true
-Terminal=false
-Type=Application
-Categories=Game;StrategyGame;

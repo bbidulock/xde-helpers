@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=pixfrogger
-X-AppInstall-Popcon=75
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=PIX Frogger
 GenericName=pixfrogger
@@ -11,3 +9,7 @@ Icon=pixfrogger
 Exec=pixfrogger
 Terminal=false
 Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=pixfrogger
+X-AppInstall-Popcon=75
+X-AppInstall-Section=main

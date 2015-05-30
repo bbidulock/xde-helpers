@@ -1,14 +1,16 @@
 [Desktop Entry]
-X-AppInstall-Package=gmerlin
-X-AppInstall-Popcon=52
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Camelot
 Name[de]=Camelot
 Comment=Gmerlin webcam application
 Comment[de]=Gmerlin Webcam Programm
-Exec=camelot
 Icon=gmerlin-camelot.png
-Type=Application
+Exec=camelot
+Terminal=false
 Categories=Application;AudioVideo;
-
+StartupNotify=false
+X-AppInstall-Package=gmerlin
+X-AppInstall-Popcon=52
+X-AppInstall-Section=main

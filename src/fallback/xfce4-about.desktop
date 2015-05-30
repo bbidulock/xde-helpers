@@ -1,12 +1,7 @@
 [Desktop Entry]
 Version=1.0
+Encoding=UTF-8
 Type=Application
-Exec=xfce4-about
-Icon=help-about
-StartupNotify=false
-Terminal=false
-Categories=Utility;X-XFCE;X-Xfce-Toplevel;
-OnlyShowIn=XFCE;
 Name=About Xfce
 Name[ar]=حول إكسفس
 Name[ast]=Tocante Xfce
@@ -105,5 +100,10 @@ Comment[vi]=Thông tin về môi trường màn hình Xfce
 Comment[zh_CN]=有关 Xfce 桌面环境的信息
 Comment[zh_HK]=有關 Xfce 桌面環境的資訊
 Comment[zh_TW]=有關 Xfce 桌面環境的資訊
-X-Arch-Package=libxfce4ui 4.12.1-1
+Icon=help-about
+Exec=xfce4-about
+Terminal=false
+OnlyShowIn=XFCE;
+Categories=Utility;X-XFCE;X-Xfce-Toplevel;
+StartupNotify=false
 X-Arch-Package=libxfce4ui 4.12.1-1

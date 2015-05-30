@@ -1,6 +1,7 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Demo Screen Hacks
 Name[ar]=Demo Screen Hacks
 Name[ast]=Demo Screen Hacks
@@ -66,3 +67,4 @@ TryExec=xscreensaver-command
 Exec=xscreensaver-command -demo
 Terminal=false
 Categories=X-Debian-Screen-Saving;
+StartupNotify=false

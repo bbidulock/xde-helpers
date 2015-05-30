@@ -1,13 +1,7 @@
 [Desktop Entry]
 Version=1.0
+Encoding=UTF-8
 Type=Application
-Exec=exo-open --launch FileManager %u
-Icon=system-file-manager
-StartupNotify=true
-Terminal=false
-Categories=Utility;X-XFCE;X-Xfce-Toplevel;
-OnlyShowIn=XFCE;
-X-XFCE-MimeType=inode/directory;x-scheme-handler/trash;
 Name=File Manager
 Name[ar]=مدير الملفات
 Name[ast]=Xestor de Ficheros
@@ -113,5 +107,11 @@ Comment[vi]=Duyệt hệ thống tệp tin
 Comment[zh_CN]=浏览文件系统
 Comment[zh_HK]=瀏覽檔案系統
 Comment[zh_TW]=瀏覽檔案系統
+Icon=system-file-manager
+Exec=exo-open --launch FileManager %u
+Terminal=false
+OnlyShowIn=XFCE;
+Categories=Utility;X-XFCE;X-Xfce-Toplevel;
+StartupNotify=true
 X-Arch-Package=exo 0.10.6-1
-X-Arch-Package=exo 0.10.6-1
+X-XFCE-MimeType=inode/directory;x-scheme-handler/trash;

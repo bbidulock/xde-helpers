@@ -1,15 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=lynis
-X-AppInstall-Popcon=30
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Lynis auditing tool
 Name[es]=Herramienta de auditoría Lynis
 Comment=Security auditing tool (root)
 Comment[es]=Herramienta de auditoría de seguridad (root)
 Exec=su-to-root -c '/usr/sbin/lynis --no-colors'
 Terminal=true
-Type=Application
 Categories=System;
 StartupNotify=true
-
+X-AppInstall-Package=lynis
+X-AppInstall-Popcon=30
+X-AppInstall-Section=main

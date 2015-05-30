@@ -1,14 +1,15 @@
 [Desktop Entry]
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=CMake
 Comment=Cross-platform buildsystem
+Icon=CMakeSetup
 TryExec=/usr/bin/cmake-gui
 Exec=cmake-gui %f
-Icon=CMakeSetup
-Terminal=false
 X-MultipleArgs=false
-Type=Application
+Terminal=false
 Categories=Development;
-StartupNotify=true
 MimeType=application/x-cmakecache;
+StartupNotify=true
 X-Arch-Package=cmake 3.2.2-1

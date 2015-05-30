@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=gobby
-X-AppInstall-Popcon=94
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Gobby Collaborative Editor (0.4)
 Comment=Edit text files collaboratively
 Comment[cs]=Upravujte textové soubory společně
@@ -13,11 +12,13 @@ Comment[it]=Modifica file di testo in modo collaborativo
 Comment[ja]=共同でテキストファイルを編集する
 Comment[ru]=Редактируйте текстовые файлы совместно
 Comment[uk]=Редагуйте текстові файли разом з іншими користувачами
+Icon=gobby.png
 Exec=gobby
 Terminal=false
-Type=Application
-Icon=gobby.png
 Categories=TextEditor;Network;
-StartupNotify=true
 MimeType=text/plain;
+StartupNotify=true
+X-AppInstall-Package=gobby
+X-AppInstall-Popcon=94
+X-AppInstall-Section=main
 X-Ubuntu-Gettext-Domain=gobby

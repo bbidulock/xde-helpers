@@ -1,11 +1,13 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=X Video Tuner
 GenericName=X Tool
 Comment=Video mode tuner for Xorg
-Exec=xvidtune
 Icon=xlogo
+TryExec=xvidtune
+Exec=xvidtune
 Terminal=false
 Categories=X-X11;Application;X-XTool;
-TryExec=xvidtune
+StartupNotify=false

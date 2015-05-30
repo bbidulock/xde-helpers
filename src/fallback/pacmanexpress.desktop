@@ -1,14 +1,14 @@
 [Desktop Entry]
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Pacman Express
 Name[ru]=Pacman Express
 GenericName=Package Management with Pacman Express
 GenericName[ru]=Управление пакетами Pacman Express
-Exec=ssx /opt/pacmanexpress/pacmanexpress
 Icon=/usr/share/pixmaps/pacmanexpress.png
-StartupNotify=false
+Exec=ssx /opt/pacmanexpress/pacmanexpress
 Terminal=false
-Type=Application
 Categories=Application;Utility;
-X-Arch-Package=pacmanexpress 3.6-1
+StartupNotify=false
 X-Arch-Package=pacmanexpress 3.6-1

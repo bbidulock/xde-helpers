@@ -1,14 +1,16 @@
 [Desktop Entry]
-X-AppInstall-Package=gnome-photo-printer
-X-AppInstall-Popcon=113
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=GNOME Photo Printer
 Name[fr]=GNOME Photo Printer
 Comment=Print several photos on one page
 Comment[fr]=Imprime plusieurs photos sur une page
-Exec=gnome-photo-printer
 Icon=gnome-photo-printer.png
-Terminal=0
-Type=Application
+Exec=gnome-photo-printer
+Terminal=false
 Categories=Graphics
+StartupNotify=false
+X-AppInstall-Package=gnome-photo-printer
+X-AppInstall-Popcon=113
+X-AppInstall-Section=main

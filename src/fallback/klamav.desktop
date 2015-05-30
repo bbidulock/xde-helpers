@@ -1,14 +1,10 @@
 [Desktop Entry]
-X-AppInstall-Package=klamav
-X-AppInstall-Popcon=166
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
-Name=KlamAV
-Exec=klamav %i %m -caption "%c"
-Icon=klamav
 Type=Application
-DocPath=klamav/klamav.html
+Name=KlamAV
+GenericName=Anti-Virus Manager
+GenericName[fr]=Anti-Virus Manager
 Comment=An Anti-Virus Manager
 Comment[cs]=An Anti-Virus Manager
 Comment[da]=An Anti-Virus Manager
@@ -39,7 +35,12 @@ Comment[sv]=An Anti-Virus Manager
 Comment[tr]=An Anti-Virus Manager
 Comment[uk]=An Anti-Virus Manager
 Comment[zh_CN.GB2312]=An Anti-Virus Manager
-Terminal=0
-GenericName=Anti-Virus Manager
-GenericName[fr]=Anti-Virus Manager
+Icon=klamav
+Exec=klamav %i %m -caption "%c"
+Terminal=false
 Categories=Qt;KDE;Application;System;
+StartupNotify=false
+DocPath=klamav/klamav.html
+X-AppInstall-Package=klamav
+X-AppInstall-Popcon=166
+X-AppInstall-Section=main

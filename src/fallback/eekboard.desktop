@@ -1,10 +1,13 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Eekboard
 GenericName=Eekboard Virtual Keyboard
 Comment=Virtual Keyboard
+Icon=eekboard
 TryExec=eekboard
 Exec=eekboard
-Icon=eekboard
 Terminal=false
-Type=Application
 Categories=GTK;Utility;
+StartupNotify=false

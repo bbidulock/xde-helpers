@@ -1,11 +1,13 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Xpdf
 Comment=Views Adobe PDF (acrobat) files
+Icon=xpdf
 Exec=xpdf %f
 Terminal=false
-Type=Application
-Icon=xpdf
 Categories=Office;
 MimeType=application/pdf;
-X-Arch-Package=xpdf 3.04-2
+StartupNotify=false
 X-Arch-Package=xpdf 3.04-2

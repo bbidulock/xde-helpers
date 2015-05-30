@@ -1,6 +1,7 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Four-in-a-row
 Name[ar]=Four-in-a-row
 Name[ast]=Four-in-a-row
@@ -67,3 +68,4 @@ TryExec=gnect
 Exec=gnect
 Terminal=false
 Categories=X-Debian-Games-Board;
+StartupNotify=false

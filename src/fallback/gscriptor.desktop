@@ -1,11 +1,13 @@
 [Desktop Entry]
-X-AppInstall-Package=pcsc-tools
-X-AppInstall-Popcon=89
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Gscriptor
 Comment=Send commands to smart cards
 Exec=gscriptor
 Terminal=false
-Type=Application
 Categories=Utility;GTK;
+StartupNotify=false
+X-AppInstall-Package=pcsc-tools
+X-AppInstall-Popcon=89
+X-AppInstall-Section=main

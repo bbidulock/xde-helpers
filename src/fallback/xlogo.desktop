@@ -1,6 +1,7 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Xlogo
 Name[ar]=Xlogo
 Name[ast]=Xlogo
@@ -127,3 +128,4 @@ TryExec=xlogo
 Exec=xlogo
 Terminal=false
 Categories=X-Debian-Games-Toys;
+StartupNotify=false

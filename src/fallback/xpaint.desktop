@@ -1,4 +1,7 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=XPaint
 Name[af]=X Verf
 Name[ar]=رسام X
@@ -65,13 +68,10 @@ Comment[xh]=Udweliso lwenkqubo lwepeyinti
 Comment[zh_CN]=Xpaint 绘图应用程序
 Comment[zh_TW]=Xpaint 繪圖程式
 Comment[zu]=Elila Iprogremu Kapende
-Exec=xpaint
 Icon=/usr/share/pixmaps/XPaintIcon.xpm
-Type=Application
+Exec=xpaint
 Terminal=false
 Categories=Graphics;2DGraphics;
-Encoding=UTF-8
 StartupNotify=false
 StartupWMClass=xpaint
-X-Arch-Package=xpaint 2.9.10.2-4
 X-Arch-Package=xpaint 2.9.10.2-4

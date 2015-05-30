@@ -1,9 +1,11 @@
-
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Compiz
 TryExec=compiz-gtk
 Exec=compiz-gtk
+Terminal=false
 NoDisplay=true
+StartupNotify=false
 X-Desktop-File-Install-Version=0.15

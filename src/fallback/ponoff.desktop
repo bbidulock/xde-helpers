@@ -1,22 +1,22 @@
-#!/usr/bin/env xdg-open
-
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
-GenericName=VPN PPTP/L2TP/OpenL2TP Control
-GenericName[ru]=Управление соединением VPN PPTP/L2TP/OpenL2TP
-GenericName[uk]=Керування з'єднанням VPN PPTP/L2TP/OpenL2TP
+Type=Application
 Name=ponoff
 Name[ru]=ponoff
 Name[uk]=ponoff
-Exec=gksu -u root -l /usr/bin/ponoff
-TryExec=ponoff
+GenericName=VPN PPTP/L2TP/OpenL2TP Control
+GenericName[ru]=Управление соединением VPN PPTP/L2TP/OpenL2TP
+GenericName[uk]=Керування з'єднанням VPN PPTP/L2TP/OpenL2TP
 Comment=Control VPN via PPTP/L2TP/OpenL2TP
 Comment[ru]=Управление соединением VPN через PPTP/L2TP/OpenL2TP
 Comment[uk]=Керування з'єднанням VPN через PPTP/L2TP/OpenL2TP
 Icon=/usr/share/pixmaps/ponoff.png
-Type=Application
+TryExec=ponoff
+Exec=gksu -u root -l /usr/bin/ponoff
+Terminal=false
 Categories=GTK;System;Network;Monitor;X-MandrivaLinux-CrossDesktop;
+StartupNotify=false
+X-KDE-autostart-after=kdesktop
 X-KDE-SubstituteUID=true
 X-KDE-Username=root
-X-KDE-autostart-after=kdesktop
-StartupNotify=false

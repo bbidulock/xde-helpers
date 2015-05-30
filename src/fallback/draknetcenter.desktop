@@ -1,4 +1,7 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Network Center
 Name[bg]=Мрежов Център
 Name[br]=Kreizenn ren rouedad
@@ -33,14 +36,14 @@ Name[sl]=Omrežno središče
 Name[sv]=Nätverkscenter
 Name[tr]=Ağ Merkezi
 Name[uk]=Мережевий центр
-Name[uz]=Tarmoq markazi
 Name[uz@cyrillic]=Тармоқ маркази
+Name[uz]=Tarmoq markazi
 Name[wa]=Cinte rantoele
 Name[zh_CN]=网络中心
 Name[zh_TW]=網路中心
+Icon=/usr/share/mcc/themes/default/netcenter.png
 TryExec=draknetcenter
 Exec=draknetcenter
-Icon=/usr/share/mcc/themes/default/netcenter.png
-Type=Application
+Terminal=false
 Categories=System;Network;
 StartupNotify=true

@@ -1,15 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=ksshaskpass
-X-AppInstall-Popcon=62
-X-AppInstall-Section=main
-
 Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=SSH AskPass
 GenericName=ssh-add
 Comment=Enter passphrase to authenticate to the ssh agent
+Icon=ssh-askpass-gnome
 Exec=/usr/bin/ssh-add
 Terminal=false
-Type=Application
-Icon=ssh-askpass-gnome
 Categories=Network;Security;
+StartupNotify=false
+X-AppInstall-Package=ksshaskpass
+X-AppInstall-Popcon=62
+X-AppInstall-Section=main

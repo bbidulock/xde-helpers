@@ -1,12 +1,13 @@
-# Forwarded to http://sf.net/support/tracker.php?aid=2672143
 [Desktop Entry]
-X-AppInstall-Package=passage
-X-AppInstall-Popcon=11
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Passage
 Icon=passage
 Exec=passage
 Terminal=false
 Categories=Game;AdventureGame;
+StartupNotify=false
+X-AppInstall-Package=passage
+X-AppInstall-Popcon=11
+X-AppInstall-Section=main

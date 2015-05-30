@@ -1,14 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=specto
-X-AppInstall-Popcon=16
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Specto
 Comment=Be notified of everything
 Comment[fr]=Soyez alerte
-Categories=GNOME;Utility;
-Exec=specto
 Icon=specto
-StartupNotify=true
+Exec=specto
 Terminal=false
-Type=Application
+Categories=GNOME;Utility;
+StartupNotify=true
+X-AppInstall-Package=specto
+X-AppInstall-Popcon=16
+X-AppInstall-Section=main

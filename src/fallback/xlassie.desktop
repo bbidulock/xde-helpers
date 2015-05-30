@@ -1,8 +1,10 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=xlassie
 TryExec=xlassie
 Exec=xlassie
 Terminal=false
 Categories=Network;Communication;
+StartupNotify=false

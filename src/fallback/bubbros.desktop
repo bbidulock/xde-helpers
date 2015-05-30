@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=bubbros
-X-AppInstall-Popcon=24
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=The Bub's Brothers
 GenericName=Bubble Bobble
@@ -11,4 +9,9 @@ Comment[ca]=Mateu els enemics atrapant-los dins de bombolles i petant aquestes
 Comment[es]=Atrapa los enemigos en burbujas y petalas en este fantastico juego multijugador
 Icon=bubbros
 Exec=bubbros
+Terminal=false
 Categories=Game;ActionGame;
+StartupNotify=false
+X-AppInstall-Package=bubbros
+X-AppInstall-Popcon=24
+X-AppInstall-Section=main

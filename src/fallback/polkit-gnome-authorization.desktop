@@ -1,6 +1,7 @@
-
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Authorizations
 Name[ar]=التخويلات
 Name[ca]=Autoritzacions
@@ -45,8 +46,7 @@ Icon=gtk-dialog-authentication
 TryExec=polkit-gnome-authorization
 Exec=polkit-gnome-authorization
 Terminal=false
-Type=Application
-Categories=Settings;X-GNOME-SystemSettings;System;GTK;GNOME;
 OnlyShowIn=GNOME;
+Categories=Settings;X-GNOME-SystemSettings;System;GTK;GNOME;
 StartupNotify=true
 X-Desktop-File-Install-Version=0.16

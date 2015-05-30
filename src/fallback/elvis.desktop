@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Elvis
 GenericName=Elvis
 Comment=Elvis Text Editor
-Exec=elvis
 Icon=text-editor
-Terminal=false
-Type=Application
-Encoding=UTF-8
-Categories=Utilitiy;TextEditor;
-X-AfterStep-IndexName=elvis
 TryExec=elvis
+Exec=elvis
+Terminal=false
+Categories=Utilitiy;TextEditor;
+StartupNotify=false
+X-AfterStep-IndexName=elvis

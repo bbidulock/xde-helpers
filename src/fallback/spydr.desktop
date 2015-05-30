@@ -1,14 +1,16 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Spydr
+GenericName=FITS Image Viewer
+Comment=FITS image display and simple analysis
+Icon=spydr48
+Exec=yorick -i spydr.i -c --batch  %F
+Terminal=false
+Categories=Education;Science;Astronomy;
+MimeType=image/x-fits;
+StartupNotify=false
 X-AppInstall-Package=yorick-spydr
 X-AppInstall-Popcon=5
 X-AppInstall-Section=main
-
-Categories=Education;Science;Astronomy;
-Type=Application
-Comment=FITS image display and simple analysis
-Exec=yorick -i spydr.i -c --batch  %F
-Icon=spydr48
-Name=Spydr
-GenericName=FITS Image Viewer
-MimeType=image/x-fits;
-Terminal=false

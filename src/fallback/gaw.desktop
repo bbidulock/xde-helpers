@@ -1,10 +1,12 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Gaw Gtk Analog Wave viewer
 Comment=Gtk Analog Wave viewer
-Exec=gaw
 Icon=gaw.png
+Exec=gaw
 Terminal=false
-Type=Application
 Categories=GTK;Graphics;
-X-Arch-Package=gaw 20111016-1
+StartupNotify=false
 X-Arch-Package=gaw 20111016-1

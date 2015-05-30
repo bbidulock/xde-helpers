@@ -1,10 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=pioneers
-X-AppInstall-Popcon=46
-X-AppInstall-Section=main
-
 Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Pioneers Server
 Name[af]=Pioniersbediener
 Name[cs]=Server Pioneers
@@ -26,8 +23,11 @@ Comment[it]=Ospita una partita di Pioneers
 Comment[nl]=Creeer een spel Pioniers
 Comment[pt]=Organizar um jogo de Pioneers
 Comment[sv]=Stå värd för en omgång av Pioneers
-Exec=pioneers-server-gtk
 Icon=pioneers-server.png
+Exec=pioneers-server-gtk
 Terminal=false
-Type=Application
 Categories=Game;BoardGame;GNOME;GTK;
+StartupNotify=false
+X-AppInstall-Package=pioneers
+X-AppInstall-Popcon=46
+X-AppInstall-Section=main

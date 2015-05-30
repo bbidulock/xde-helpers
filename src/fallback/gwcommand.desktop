@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Window Commands
 GenericName=AfterStep GUI Command Launcher
 Comment=Performs commands on windows
-Exec=GWCommand
 Icon=/usr/share/afterstep/desktop/icons/normal/RemoteControl
-Terminal=false
-Type=Application
-Encoding=UTF-8
-Categories=AfterStepDesktop
 TryExec=GWCommand
+Exec=GWCommand
+Terminal=false
 OnlyShowIn=AFTERSTEP;
+Categories=AfterStepDesktop
+StartupNotify=false

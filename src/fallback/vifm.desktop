@@ -1,14 +1,16 @@
 [Desktop Entry]
-Categories=System;FileTools;FileManager;Utility;ConsoleOnly;
-Comment=Vim like ncurses based file manager
-Exec=vifm %F
-GenericName=File Manager
-Icon=vifm
-Name=Vifm
-Terminal=true
-TryExec=vifm
+Version=1.0
+Encoding=UTF-8
 Type=Application
+Name=Vifm
+GenericName=File Manager
+Comment=Vim like ncurses based file manager
+Icon=vifm
+TryExec=vifm
+Exec=vifm %F
+Terminal=true
+Categories=System;FileTools;FileManager;Utility;ConsoleOnly;
 Keywords=File;Directory;Browse;
 MimeType=inode/directory;
-X-Arch-Package=vifm 0.7.8-1
+StartupNotify=false
 X-Arch-Package=vifm 0.7.8-1

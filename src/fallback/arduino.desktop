@@ -1,12 +1,14 @@
 [Desktop Entry]
-X-AppInstall-Package=arduino
-X-AppInstall-Popcon=35
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Arduino IDE
 GenericName=Create physical computing projects
-Exec=arduino
 Icon=arduino
+Exec=arduino
 Terminal=false
 Categories=Development;Engineering;Electronics;
+StartupNotify=false
+X-AppInstall-Package=arduino
+X-AppInstall-Popcon=35
+X-AppInstall-Section=main

@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=xfwm4
-X-AppInstall-Popcon=2248
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Window Manager
 Name[am]=ማስኮት አስተዳዳሪ
 Name[ar]=مدير النوافذ
@@ -97,12 +95,14 @@ Comment[uk]=Налаштувати заголовок вікна і ярлик �
 Comment[ur]=ونڈو کا سلوک اور شارٹ کٹ وضع کریں
 Comment[ur_PK]=ونڈو کا سلوک اور شارٹ کٹ وضع کریں
 Comment[zh_CN]=配置窗口行为及快捷方式
-Exec=xfwm4-settings
 Icon=xfwm4
+Exec=xfwm4-settings
 Terminal=false
-Type=Application
+OnlyShowIn=XFCE;
 Categories=X-XFCE;Settings;DesktopSettings;X-XfceSettingsDialog;
 StartupNotify=true
-OnlyShowIn=XFCE;
-X-XfcePluggable=true
+X-AppInstall-Package=xfwm4
+X-AppInstall-Popcon=2248
+X-AppInstall-Section=main
 X-XfceHelpFile=xfwm4.html
+X-XfcePluggable=true

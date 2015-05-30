@@ -1,13 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=scorched3d
-X-AppInstall-Popcon=45
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
 Type=Application
-Exec=scorched3d
-Icon=scorched3d
-Terminal=false
 Name=Scorched 3D
 Name[lt_LT]=Scorched 3D
 Comment=3D artillery game similar to Scorched Earth
@@ -16,5 +10,11 @@ Comment[fr_FR]=un jeu d'artillerie en 3 proche de Scorched Earth
 Comment[lt_LT]=Nuotaikingas 3D taktinis-artilerinis žaidimas, panašus į Scorched Earth
 Comment[pl_PL]=Artyleryjska gra 3D podobna do Scorched Earth
 Comment[ro_RO]=Un joc 3D cu artilerie similar cu Scorched Earth
+Icon=scorched3d
+Exec=scorched3d
+Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=true
+X-AppInstall-Package=scorched3d
+X-AppInstall-Popcon=45
+X-AppInstall-Section=main

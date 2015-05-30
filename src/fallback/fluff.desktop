@@ -1,12 +1,12 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=Fluff
 Comment=Fast, light file manager
-Exec=fluff
 Icon=fluff
+Exec=fluff
 Terminal=false
-StartupNotify=false
 Categories=System;FileManager;
-X-Arch-Package=fluff 1.0.3-1
+StartupNotify=false
 X-Arch-Package=fluff 1.0.3-1

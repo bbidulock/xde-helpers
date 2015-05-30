@@ -1,8 +1,10 @@
 [Desktop Entry]
 Version=1.0
-Icon=jumanji
+Encoding=UTF-8
 Type=X-XFCE-Helper
 Name=Jumanji
+Icon=jumanji
+Terminal=false
 StartupNotify=true
 X-XFCE-Binaries=jumanji;
 X-XFCE-Category=WebBrowser

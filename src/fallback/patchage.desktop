@@ -1,14 +1,15 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Patchage
+Comment=Connect audio and MIDI applications together and manage audio sessions
+Icon=patchage
+Exec=/usr/bin/patchage
+Terminal=false
+Categories=Application;AudioVideo;Audio
+StartupNotify=false
 X-AppInstall-Package=patchage
 X-AppInstall-Popcon=36
 X-AppInstall-Section=main
-
-Encoding=UTF-8
-Name=Patchage
-Comment=Connect audio and MIDI applications together and manage audio sessions
-Exec=/usr/bin/patchage
-Terminal=false
-Icon=patchage
-Type=Application
-Categories=Application;AudioVideo;Audio
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=performous
-X-AppInstall-Popcon=55
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Performous
 Comment=A karaoke game
 Comment[de]=Ein Karaoke Spiel
@@ -13,9 +11,12 @@ Comment[fr]=Un jeu de Karaoké
 Comment[it]=Un gioco di karaoke
 Comment[ro]=Un joc de tip karaoke
 Comment[se]=Ett karaoke-spel
-Exec=performous
 Icon=performous.png
+Exec=performous
 Terminal=false
-Type=Application
 Categories=Application;Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=performous
+X-AppInstall-Popcon=55
+X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

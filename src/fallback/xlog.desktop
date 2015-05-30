@@ -1,15 +1,17 @@
 [Desktop Entry]
-X-AppInstall-Package=xlog
-X-AppInstall-Popcon=13
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Xlog
 Comment=Amateur Radio logging program
 Comment[nl]=Log programma voor zendamateurs
 Comment[pl]=Dziennik łączności dla radioamatorów
-Exec=xlog %F
 Icon=xlog-icon.png
+Exec=xlog %F
 Terminal=false
-Type=Application
 Categories=Utility;Database;HamRadio;GTK
 MimeType=text/x-xlog
+StartupNotify=false
+X-AppInstall-Package=xlog
+X-AppInstall-Popcon=13
+X-AppInstall-Section=main

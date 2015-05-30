@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=gvrng
-X-AppInstall-Popcon=15
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=GvRng
 GenericName=Guido van Robot NG
@@ -11,3 +9,7 @@ Icon=_usr_share_GvRng_bitmaps_gvrIcon-big
 Exec=/usr/games/gvrng
 Terminal=false
 Categories=Development;Education;
+StartupNotify=false
+X-AppInstall-Package=gvrng
+X-AppInstall-Popcon=15
+X-AppInstall-Section=main

@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=xqf
-X-AppInstall-Popcon=51
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=XQF Game Server Browser
 Name[ca]=Navegador de jocs XQF
 Name[da]=XQF spilserver browser
@@ -21,9 +20,11 @@ Comment[es]=Localiza y connecta a servidores de juegos
 Comment[fi]=Etsi ja yhdistä pelipalvelimiin
 Comment[pl]=Znajdź serwery i połącz się
 Comment[ru]=Поиск и подключение к игровым серверам
-Exec=xqf
 Icon=xqf_32x32.png
-StartupNotify=true
+Exec=xqf
 Terminal=false
-Type=Application
 Categories=GTK;Game;ActionGame;X-SuSE-Core-Game;
+StartupNotify=true
+X-AppInstall-Package=xqf
+X-AppInstall-Popcon=51
+X-AppInstall-Section=main

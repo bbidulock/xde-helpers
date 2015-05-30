@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=compizconfig-settings-manager
-X-AppInstall-Popcon=1138
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=CompizConfig Settings Manager
 Name[ar]=مدير إعدادات CompizConfig
 Name[bn]=কমপিজ কনফিগ ব্যবস্থাপক
@@ -67,6 +65,8 @@ Comment[zh_CN]=使用CompizConfig对Compiz进行配置
 Icon=ccsm
 Exec=ccsm
 Terminal=false
-Type=Application
 Categories=Settings;DesktopSettings;
 StartupNotify=true
+X-AppInstall-Package=compizconfig-settings-manager
+X-AppInstall-Popcon=1138
+X-AppInstall-Section=main

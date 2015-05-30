@@ -1,15 +1,16 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Light Up
+Comment=Light up all the empty squares by placing light bulbs in some of them
+Comment[de]=Erleuchte alle leeren Quadrate durch Positionieren von Lampen in einige davon
+Comment[fr]=Illuminer tous les carrés vides en plaçant des sources lumineuses
+Icon=lightup
+Exec=lightup
+Terminal=false
+Categories=Game;LogicGame;
+StartupNotify=false
 X-AppInstall-Package=sgt-puzzles
 X-AppInstall-Popcon=137
 X-AppInstall-Section=main
-
-Version=1.0
-Terminal=false
-Exec=lightup
-Icon=lightup
-Type=Application
-Categories=Game;LogicGame;
-Name=Light Up
-Comment=Light up all the empty squares by placing light bulbs in some of them
-Comment[fr]=Illuminer tous les carrés vides en plaçant des sources lumineuses
-Comment[de]=Erleuchte alle leeren Quadrate durch Positionieren von Lampen in einige davon

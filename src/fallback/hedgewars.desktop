@@ -1,18 +1,17 @@
 [Desktop Entry]
-X-AppInstall-Package=hedgewars
-X-AppInstall-Popcon=143
-X-AppInstall-Section=main
-
-Type=Application
 Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Hedgewars
 GenericName=Fighting Hedgehogs
-GenericName[tr]=Worms Benzeri Strateji Oyunu
 GenericName[ru]=Битвы ежей
+GenericName[tr]=Worms Benzeri Strateji Oyunu
 Icon=hedgewars.png
 Exec=hedgewars
 Terminal=false
-StartupNotify=false
 Categories=Application;Game;StrategyGame;
+StartupNotify=false
+X-AppInstall-Package=hedgewars
+X-AppInstall-Popcon=143
+X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,i386,powerpc,sparc

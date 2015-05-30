@@ -1,14 +1,16 @@
 [Desktop Entry]
-X-AppInstall-Package=lostirc
-X-AppInstall-Popcon=17
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=LostIRC
 Comment=Chat on IRC-networks
 Comment[da]=Chat på IRC-netværk
 Comment[fr]=Chat sur les réseaux IRC
-Exec=lostirc
 Icon=lostirc.png
+Exec=lostirc
 Terminal=false
-Type=Application
 Categories=Application;Network;
+StartupNotify=false
+X-AppInstall-Package=lostirc
+X-AppInstall-Popcon=17
+X-AppInstall-Section=main

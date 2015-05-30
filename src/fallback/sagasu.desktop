@@ -1,16 +1,18 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Sagasu
+Name[cs]=Sagasu
+Name[fr]=Sagasu
+Comment=GNOME tool to find strings in a set of files
+Comment[cs]=Nástroj GNOME pro hledání řetězců v souborech
+Comment[fr]=Outil GNOME cherchant des chaines dans des fichiers
+Icon=sagasu.png
+Exec=sagasu
+Terminal=false
+Categories=X-Red-Hat-Base;Accessories;Application;Utility;
+StartupNotify=false
 X-AppInstall-Package=sagasu
 X-AppInstall-Popcon=6
 X-AppInstall-Section=main
-
-Name=Sagasu
-Name[fr]=Sagasu
-Name[cs]=Sagasu
-Categories=X-Red-Hat-Base;Accessories;Application;Utility;
-Comment=GNOME tool to find strings in a set of files
-Comment[fr]=Outil GNOME cherchant des chaines dans des fichiers
-Comment[cs]=Nástroj GNOME pro hledání řetězců v souborech
-Exec=sagasu
-Icon=sagasu.png
-Terminal=0
-Type=Application

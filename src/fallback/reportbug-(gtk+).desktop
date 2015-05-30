@@ -1,8 +1,10 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Reportbug (GTK+)
 TryExec=reportbug
 Exec=reportbug --exit-prompt --ui gtk2
 Terminal=false
 Categories=System;Administration;
+StartupNotify=false

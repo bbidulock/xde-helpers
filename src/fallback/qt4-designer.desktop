@@ -1,14 +1,15 @@
-
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Qt4 Designer
 GenericName=Interface Designer
 Comment=Design GUIs for Qt4 applications
+Icon=designer
 TryExec=designer-qt4
 Exec=designer-qt4
-Icon=designer
-MimeType=application/x-designer;
 Terminal=false
-Encoding=UTF-8
-Type=Application
 Categories=Qt;Development;
+MimeType=application/x-designer;
+StartupNotify=false
 X-Desktop-File-Install-Version=0.15

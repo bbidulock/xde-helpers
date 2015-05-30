@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=hex-a-hop
-X-AppInstall-Popcon=102
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Hex-a-hop
 GenericName=Logic Game
@@ -29,3 +27,7 @@ Icon=hex-a-hop
 Exec=hex-a-hop
 Terminal=false
 Categories=Game;KidsGame;
+StartupNotify=false
+X-AppInstall-Package=hex-a-hop
+X-AppInstall-Popcon=102
+X-AppInstall-Section=main

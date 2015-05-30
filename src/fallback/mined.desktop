@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=mined 2000 Unicode Editor
 GenericName=Multi-language unicode text editor
 Comment=Multi-language unicode text editor
-Exec=mined
 Icon=text-editor
-Terminal=true
-Type=Application
-Encoding=UTF-8
-Categories=Utility;TextEditor;
-X-AfterStep-IndexName=mined
 TryExec=mined
+Exec=mined
+Terminal=true
+Categories=Utility;TextEditor;
+StartupNotify=false
+X-AfterStep-IndexName=mined

@@ -1,15 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=OpenCASCADE
+Comment=OpenCASCADE DRAWEXE test harness
+Icon=occ-icon-32.xpm
+Exec=DRAWEXE
+Terminal=true
+Categories=ConsoleOnly;Application;Graphics;3DGraphics;DataVisualization;
+StartupNotify=false
 X-AppInstall-Package=opencascade-draw
 X-AppInstall-Popcon=16
 X-AppInstall-Section=main
-
-Encoding=UTF-8
-Name=OpenCASCADE
-Comment=OpenCASCADE DRAWEXE test harness
-Exec=DRAWEXE
-Icon=occ-icon-32.xpm
-Terminal=true
-Type=Application
-Version=1.0
-Categories=ConsoleOnly;Application;Graphics;3DGraphics;DataVisualization;
-StartupNotify=false

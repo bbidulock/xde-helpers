@@ -1,6 +1,6 @@
 [Desktop Entry]
 Version=1.0
-Icon=opera
+Encoding=UTF-8
 Type=X-XFCE-Helper
 Name=Opera Mail
 Name[ar]=بريد اوبيرا
@@ -50,6 +50,8 @@ Name[ur]=اوپرا میل
 Name[ur_PK]=اوپرا میل
 Name[zh_CN]=Opera 邮件
 Name[zh_TW]=Opera 郵件
+Icon=opera
+Terminal=false
 StartupNotify=false
 X-XFCE-Binaries=opera;
 X-XFCE-Category=MailReader

@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=zynjacku
-X-AppInstall-Popcon=11
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Lv2rack
 GenericName=LV2 plugins host
@@ -11,3 +9,7 @@ Icon=lv2rack32x32
 Exec=lv2rack 
 Terminal=false
 Categories=AudioVideo;Audio;
+StartupNotify=false
+X-AppInstall-Package=zynjacku
+X-AppInstall-Popcon=11
+X-AppInstall-Section=main

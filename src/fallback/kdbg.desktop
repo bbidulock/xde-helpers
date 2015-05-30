@@ -1,12 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=kdbg
-X-AppInstall-Popcon=111
-X-AppInstall-Section=main
-
-Exec=kdbg -caption "%c" %i
-Icon=kdbg
+Version=1.0
+Encoding=UTF-8
 Type=Application
-X-DocPath=kdbg/index.html
 Name=KDbg
 GenericName=Debugger
 GenericName[br]=Dizraener
@@ -42,5 +37,12 @@ Comment[ru]=Отлаживает программы
 Comment[sk]=Ladiaci program
 Comment[sl]=Odpravljanje napak v programih
 Comment[sv]=Avlusar program
+Icon=kdbg
+Exec=kdbg -caption "%c" %i
 Terminal=false
 Categories=Qt;KDE;Development;Debugger;
+StartupNotify=false
+X-DocPath=kdbg/index.html
+X-AppInstall-Package=kdbg
+X-AppInstall-Popcon=111
+X-AppInstall-Section=main

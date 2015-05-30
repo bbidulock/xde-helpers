@@ -1,16 +1,17 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Qwit
+Name[it]=Qwit
+GenericName=Twitter Client
+Comment=Qt4 Twitter Client
+Comment[it]=Client di Twitter
+Icon=qwit
+Exec=qwit
+Terminal=false
+Categories=Network;
+StartupNotify=false
 X-AppInstall-Package=qwit
 X-AppInstall-Popcon=31
 X-AppInstall-Section=main
-
-Version=1.0
-Type=Application
-Name=Qwit
-Comment=Qt4 Twitter Client
-GenericName=Twitter Client
-Name[it]=Qwit
-Comment[it]=Client di Twitter
-Exec=qwit
-Icon=qwit
-Terminal=false
-Categories=Network;

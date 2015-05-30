@@ -1,11 +1,12 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=TigerVNC Viewer
 Comment=VNC client
-Exec=/usr/bin/vncviewer
 Icon=tigervnc
+Exec=/usr/bin/vncviewer
 Terminal=false
-StartupNotify=false
 Categories=Network;RemoteAccess;
-X-Arch-Package=tigervnc 1.4.3-4
+StartupNotify=false
 X-Arch-Package=tigervnc 1.4.3-4

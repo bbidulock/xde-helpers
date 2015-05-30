@@ -1,11 +1,13 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=Gtk2 Preferences
 Comment=Another simple GTK2 theme switcher.
+Icon=preferences-desktop-theme
 TryExec=gtk2_prefs
 Exec=gtk2_prefs
-Icon=preferences-desktop-theme
-StartupNotify=true
-Categories=Settings;DesktopSettings;GTK;
+Terminal=false
 NotShowIn=GNOME;XFCE;
+Categories=Settings;DesktopSettings;GTK;
+StartupNotify=true

@@ -1,11 +1,12 @@
 [Desktop Entry]
-Comment=Archlinux Wiki
-Exec=xdg-open https://wiki.archlinux.org
-Icon=arch-logo
-Name=Wiki
-StartupNotify=true
-Terminal=false
+Version=1.0
+Encoding=UTF-8
 Type=Application
+Name=Wiki
+Comment=Archlinux Wiki
+Icon=arch-logo
+Exec=xdg-open https://wiki.archlinux.org
+Terminal=false
 Categories=Archlinux;
-X-Arch-Package=archlinux-menus 2.5-2
+StartupNotify=true
 X-Arch-Package=archlinux-menus 2.5-2

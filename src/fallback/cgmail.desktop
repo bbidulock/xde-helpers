@@ -1,15 +1,15 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=cGmail
+Name[it_IT]=cGmail
+Comment=Gnome mail checker
+Icon=cgmail
+Exec=/usr/share/cgmail/cgmail
+Terminal=false
+Categories=Network;
+StartupNotify=true
 X-AppInstall-Package=cgmail
 X-AppInstall-Popcon=55
 X-AppInstall-Section=main
-
-Version=1.0
-Name=cGmail
-Comment=Gnome mail checker
-Exec=/usr/share/cgmail/cgmail
-Icon=cgmail
-Terminal=false
-Type=Application
-Categories=Network;
-StartupNotify=true
-Name[it_IT]=cGmail

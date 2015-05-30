@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=dates
-X-AppInstall-Popcon=17
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Dates
 Name[ca]=Cites
 Name[da]=Aftaler
@@ -23,14 +22,15 @@ Name[ru]=Dates
 Name[sv]=Datum
 Name[th]=วันที่
 Comment=Your appointments
-Version=1.0
-Type=Application
-Exec=dates
 Icon=dates
-X-HildonDesk-ShowInToolbar=true
-X-Osso-Type=application/x-executable
+Exec=dates
 X-Osso-Service=dates
-Categories=GTK;Office;Calendar;
+X-Osso-Type=application/x-executable
 Terminal=false
-X-MB-SingleInstance=true
+Categories=GTK;Office;Calendar;
 StartupNotify=true
+X-MB-SingleInstance=true
+X-AppInstall-Package=dates
+X-AppInstall-Popcon=17
+X-AppInstall-Section=main
+X-HildonDesk-ShowInToolbar=true

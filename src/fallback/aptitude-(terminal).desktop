@@ -1,9 +1,11 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Aptitude (terminal)
 Comment=Terminal-based software package manager
 TryExec=aptitude-curses
 Exec=aptitude-curses
 Terminal=true
 Categories=System;Administration;
+StartupNotify=false

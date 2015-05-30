@@ -1,15 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=josm
-X-AppInstall-Popcon=99
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Josm
 GenericName=Java OpenStreetMap Editor
 Comment=Editor for OpenStreetMap.org
-Exec=josm
 Icon=josm-32
-StartupNotify=false
+Exec=josm
 Terminal=false
-Type=Application
 Categories=Education;Science;Geoscience;
+StartupNotify=false
+X-AppInstall-Package=josm
+X-AppInstall-Popcon=99
+X-AppInstall-Section=main

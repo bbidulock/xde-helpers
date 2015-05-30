@@ -1,14 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=udav
-X-AppInstall-Popcon=4
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Udav
 GenericName=Universal Data Arrays Visualization
 Comment=data visualization based on MathGL
 Icon=udav
-Type=Application
-Categories=Education;Science;Math;
 Exec=udav
-StartupNotify=false
 Terminal=false
+Categories=Education;Science;Math;
+StartupNotify=false
+X-AppInstall-Package=udav
+X-AppInstall-Popcon=4
+X-AppInstall-Section=main

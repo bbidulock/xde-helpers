@@ -1,9 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=extremetuxracer
-X-AppInstall-Popcon=228
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Extreme Tux Racer
 GenericName=Arcade Game
@@ -13,9 +10,10 @@ Comment=Race a penguin down a mountain
 Comment[de]=Rutsche mit einem Pinguin einen Hügel hinab
 Comment[ro_RO]=Curse cu un pinguin pe munte, la vale
 Icon=etracer
-
 Exec=etracer
 Terminal=false
-StartupNotify=false
-
 Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=extremetuxracer
+X-AppInstall-Popcon=228
+X-AppInstall-Section=main

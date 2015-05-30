@@ -1,9 +1,13 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Fax configuration
 Comment=A client and server fax configuration tool
+Icon=drakfax
 TryExec=drakfax
 Exec=drakfax
-Icon=drakfax
-Type=Application
-Categories=GTK;Settings;
+Terminal=false
 NoDisplay=true
+Categories=GTK;Settings;
+StartupNotify=false

@@ -1,12 +1,13 @@
 [Desktop Entry]
 Version=1.0
-Type=Application
 Encoding=UTF-8
+Type=Application
 Name=Network Hogs
 GenericName=Network Monitor
 Comment=Network top-like monitor
-Terminal=false
+Icon=system-monitor
 TryExec=nethogs
 Exec=gksudo "xterm -name nethogs -T 'Network Hogs' -e nethogs"
-Icon=system-monitor
+Terminal=false
 Categories=ConsoleOnly;System;Network;
+StartupNotify=false

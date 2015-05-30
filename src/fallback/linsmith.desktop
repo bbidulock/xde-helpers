@@ -1,18 +1,15 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Linsmith
+GenericName=Smith Chart Generator
+GenericName[es]=Generador de Cartas de Smith
+Icon=_usr_share_pixmaps_linsmith_linsmith_icon
+Exec=linsmith
+Terminal=false
+Categories=GTK;GNOME;Application;Engineering;
+StartupNotify=false
 X-AppInstall-Package=linsmith
 X-AppInstall-Popcon=33
 X-AppInstall-Section=main
-
-Encoding=UTF-8
-Categories=GTK;GNOME;Application;Engineering;
-Exec=linsmith
-Icon=_usr_share_pixmaps_linsmith_linsmith_icon
-Terminal=false
-Type=Application
-
-Name=Linsmith
-
-GenericName=Smith Chart Generator
-GenericName[es]=Generador de Cartas de Smith
-
-

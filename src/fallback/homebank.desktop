@@ -1,4 +1,7 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=HomeBank
 Name[ar]=مصرف البيت
 Name[ast]=HomeBank
@@ -112,11 +115,10 @@ Comment[vi]=Kế toán Miễn phí,dễ dùng,cá nhân cho mọi người
 Comment[zh_CN]=免费，易用的个人财务软件。
 Comment[zh_HK]=費用全免，容易上手，全能的個人帳目
 Comment[zh_TW]=讓每個人都能自由、簡易的進行個人財務管理。
+Icon=homebank
 TryExec=homebank
 Exec=homebank %F
 Terminal=false
-StartupNotify=true
-Type=Application
-Icon=homebank
 Categories=GTK;Office;Finance;X-MandrivaLinux-CrossDesktop;
 MimeType=application/x-homebank;
+StartupNotify=true

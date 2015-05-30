@@ -1,13 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=usbprog-gui
-X-AppInstall-Popcon=27
-X-AppInstall-Section=main
-
 Version=1.0
-Categories=Development;Building;
+Encoding=UTF-8
 Type=Application
 Name=USBprog
 Comment=USBprog firmware programmer
-Exec=usbprog-gui
 Icon=usbprog_icon
+Exec=usbprog-gui
+Terminal=false
+Categories=Development;Building;
+StartupNotify=false
+X-AppInstall-Package=usbprog-gui
+X-AppInstall-Popcon=27
+X-AppInstall-Section=main
 X-SuSE-translate=false

@@ -1,10 +1,12 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Chess Net
+Icon=xboard
 TryExec=xboard
 Exec=xboard -ics -icshost chess.net
-Icon=xboard
 Terminal=true
-Categories=Game;BoardGame;
 Hidden=true
+Categories=Game;BoardGame;
+StartupNotify=false

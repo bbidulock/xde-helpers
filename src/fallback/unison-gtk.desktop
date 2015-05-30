@@ -1,17 +1,17 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Unison
+GenericName=File synchronization tool
+Comment=GTK interface for the unison file synchronization tool 2.32.52
+Icon=_usr_share_pixmaps_unison-gtk
+Exec=unison-2.32.52-gtk
+X-MultipleArgs=false
+Terminal=false
+Categories=Utility;FileTools;GTK;
+StartupNotify=true
+StartupWMClass=Unison-gtk
 X-AppInstall-Package=unison-gtk
 X-AppInstall-Popcon=476
 X-AppInstall-Section=main
-
-Encoding=UTF-8
-Name=Unison
-Comment=GTK interface for the unison file synchronization tool 2.32.52
-GenericName=File synchronization tool
-Exec=unison-2.32.52-gtk
-Terminal=false
-X-MultipleArgs=false
-Type=Application
-Icon=_usr_share_pixmaps_unison-gtk
-Categories=Utility;FileTools;GTK;
-StartupWMClass=Unison-gtk
-StartupNotify=true

@@ -1,13 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=subcommander
-X-AppInstall-Popcon=28
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Subcommander
 GenericName=Subversion Client
 Comment=A GUI Client for Subversion
-Type=Application
-Exec=subcommander
 Icon=_usr_share_pixmaps_subcommander
+Exec=subcommander
+Terminal=false
 Categories=Development;
+StartupNotify=false
+X-AppInstall-Package=subcommander
+X-AppInstall-Popcon=28
+X-AppInstall-Section=main

@@ -1,8 +1,7 @@
 [Desktop Entry]
-TryExec=xscreensaver-demo
-Exec=xscreensaver-demo
-Icon=xscreensaver
-Terminal=false
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Screensaver
 Name[da]=Pauseskærm
 Name[de]=Bildschirmschoner
@@ -33,6 +32,10 @@ Comment[hu]=Képernyővédő tulajdonságainak megváltoztatása
 Comment[ja]=スクリーンセーバーの設定を変更する
 Comment[nl]=Verander schermbeveiliging voorkeuren
 Comment[pt_BR]=Modificar as propriedades do protetor de tela
-Type=Application
+Icon=xscreensaver
+TryExec=xscreensaver-demo
+Exec=xscreensaver-demo
+Terminal=false
 Categories=Settings;DesktopSettings;Security;X-XFCE;
+StartupNotify=false
 X-Desktop-File-Install-Version=0.17

@@ -1,11 +1,12 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=moc-tray
 Comment=simple tray icon for music on console
-Exec=moc-tray
 Icon=moc-tray.png
+Exec=moc-tray
 Terminal=false
-StartupNotify=false
 Categories=GTK;Audio;Player;AudioVideo;
-Type=Application
-X-Arch-Package=moc-tray 0.4-3
+StartupNotify=false
 X-Arch-Package=moc-tray 0.4-3

@@ -1,17 +1,18 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=KBarcode
+Name[de]=KBarcode
+Comment=Barcode and label printing tool
+Comment[de]=Werkzeug zum Barcode und Etiketten Druck
+Icon=kbarcode.png
+Exec=kbarcode -caption "%c" %i %m %f
+Terminal=false
+Categories=Qt;KDE;Office;
+MimeType=application/kbarcode-label
+StartupNotify=false
+DocPath=kbarcode/index.html
 X-AppInstall-Package=kbarcode
 X-AppInstall-Popcon=56
 X-AppInstall-Section=main
-
-Encoding=UTF-8
-Type=Application
-Exec=kbarcode -caption "%c" %i %m %f
-Icon=kbarcode.png
-MimeType=application/kbarcode-label
-DocPath=kbarcode/index.html
-Comment=Barcode and label printing tool
-Comment[de]=Werkzeug zum Barcode und Etiketten Druck
-Terminal=0
-Name=KBarcode
-Name[de]=KBarcode
-Categories=Qt;KDE;Office;

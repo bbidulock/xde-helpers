@@ -1,15 +1,15 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Avogadro
+Comment=Advanced molecular editor
+Icon=avogadro-icon
+Exec=avogadro %f
+Terminal=false
+Categories=Qt;Science;Chemistry;Physics;Education;
+MimeType=chemical/x-cif;chemical/x-cml;chemical/x-daylight-smiles;chemical/x-gamess-input;chemical/x-gamess-output;chemical/x-gaussian-log;chemical/x-mopac-out;chemical/x-pdb;chemical/x-xyz;chemical/x-gaussian-checkpoint;chemical/x-gaussian-cube;chemical/x-qchem-output;
+StartupNotify=true
 X-AppInstall-Package=avogadro
 X-AppInstall-Popcon=58
 X-AppInstall-Section=main
-
-Version=1.0
-Name=Avogadro
-Comment=Advanced molecular editor
-Exec=avogadro %f
-Icon=avogadro-icon
-Terminal=false
-Type=Application
-Categories=Qt;Science;Chemistry;Physics;Education;
-StartupNotify=true
-MimeType=chemical/x-cif;chemical/x-cml;chemical/x-daylight-smiles;chemical/x-gamess-input;chemical/x-gamess-output;chemical/x-gaussian-log;chemical/x-mopac-out;chemical/x-pdb;chemical/x-xyz;chemical/x-gaussian-checkpoint;chemical/x-gaussian-cube;chemical/x-qchem-output;

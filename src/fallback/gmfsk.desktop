@@ -1,12 +1,13 @@
 [Desktop Entry]
-X-AppInstall-Package=gmfsk
-X-AppInstall-Popcon=15
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=gMFSK
 Comment=HF digital mode terminal
 Exec=gmfsk
 Terminal=false
-Type=Application
 Categories=Application;HamRadio;
+StartupNotify=false
+X-AppInstall-Package=gmfsk
+X-AppInstall-Popcon=15
+X-AppInstall-Section=main

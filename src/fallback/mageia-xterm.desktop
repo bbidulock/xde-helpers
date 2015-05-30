@@ -1,10 +1,12 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=XTerm
 Comment=The standard terminal emulator for the X Window System
+Icon=xterm-terminal
 TryExec=xterm
 Exec=xterm -name Terminal
-Icon=xterm-terminal
 Terminal=false
-Type=Application
-StartupNotify=true
 Categories=TerminalEmulator;System;Utility;
+StartupNotify=true

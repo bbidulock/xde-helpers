@@ -1,5 +1,7 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=New Login in a Window
 Name[ar]=ولوج جديد في نافذة
 Name[bg]=Ново влизане в прозорец
@@ -155,12 +157,12 @@ Comment[tr]=Diğer bir pencerede farklı kullanıcı ile giriş
 Comment[uk]=Вхід як інший користувач у вікні
 Comment[vi]=Đăng nhập vào cửa sổ với tên người dùng khác
 Comment[zh_CN]=在窗口中以其他用户登录
+Icon=gdm-xnest
 TryExec=Xephyr
 Exec=gdmflexiserver --xnest
-Icon=gdm-xnest
 Terminal=false
-Type=Application
 Categories=GNOME;GTK;System;
+StartupNotify=false
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=gdm
 X-GNOME-Bugzilla-Component=general

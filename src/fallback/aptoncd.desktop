@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=aptoncd
-X-AppInstall-Popcon=48
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=APTonCD
 GenericName=Package Backup Tool
 GenericName[ar]=أداة النسخ الاحتياطي للحزم
@@ -70,11 +69,12 @@ Comment[uk]=Створити інсталяційний диск
 Comment[vi]=Tạo ra một đĩa cài đặt
 Comment[zh_CN]=创建安装光盘
 Comment[zh_TW]=建立一個安裝光碟
-Version=1.0
 Icon=aptoncd
 Exec=/usr/bin/aptoncd
 Terminal=false
-Type=Application
-StartupNotify=true
 Categories=System;Settings;
+StartupNotify=true
+X-AppInstall-Package=aptoncd
+X-AppInstall-Popcon=48
+X-AppInstall-Section=main
 X-Ubuntu-Gettext-Domain=aptoncd

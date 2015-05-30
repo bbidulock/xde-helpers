@@ -1,4 +1,6 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Add urpmi media
 Name[ar]=أضف وسائط urpmi
@@ -37,13 +39,14 @@ Name[sl]=Dodaj vir urpmi
 Name[sv]=Lägg till urpmi media
 Name[tr]=Urpmi yazılım kaynağı ekle
 Name[uk]=/Додати джерела urpmi
-Name[uz]=Toʻplam faylidan qoʻshish
 Name[uz@cyrillic]=Тўплам файлидан қўшиш
+Name[uz]=Toʻplam faylidan qoʻshish
 Name[zh_CN]=添加自定义介质
 Name[zh_TW]=新增 urpmi 媒體
 TryExec=gurpmi.addmedia
 Exec=gurpmi.addmedia %f
-MimeType=application/x-urpmi-media;
+Terminal=false
 NoDisplay=true
 Categories=GTK;System;PackageManager;
-
+MimeType=application/x-urpmi-media;
+StartupNotify=false

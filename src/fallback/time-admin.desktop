@@ -1,9 +1,11 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Time Admin
 Icon=/usr/share/gnome-system-tools/pixmaps/time.xpm
 TryExec=time-admin
 Exec=time-admin
 Terminal=false
 Categories=System;Administration;
+StartupNotify=false

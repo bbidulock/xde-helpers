@@ -1,9 +1,11 @@
 [Desktop Entry]
-Name=GSpiceUI
-Comment=A GUI to various freely available Spice electronic circuit simulators
+Version=1.0
 Encoding=UTF-8
 Type=Application
-Categories=Application;Science
+Name=GSpiceUI
+Comment=A GUI to various freely available Spice electronic circuit simulators
 Exec=gspiceui
-X-Arch-Package=gspiceui 1.1.00-1
+Terminal=false
+Categories=Application;Science
+StartupNotify=false
 X-Arch-Package=gspiceui 1.1.00-1

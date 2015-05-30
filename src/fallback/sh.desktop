@@ -1,8 +1,10 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Sh
 TryExec=sh
 Exec=sh --login
 Terminal=true
 Categories=Shells;
+StartupNotify=false

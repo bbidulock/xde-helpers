@@ -1,9 +1,11 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Pstree
 Icon=/usr/share/pixmaps/pstree16.xpm
 TryExec=pstree.x11
 Exec=pstree.x11
 Terminal=true
 Categories=System;Monitoring;
+StartupNotify=false

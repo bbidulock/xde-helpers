@@ -1,14 +1,16 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=VIM
 GenericName=VIM
 Comment=VIM text editor
-MimeType=text/english;text/plain;text/x-makefile;text/x-c++hdr;text/x-c++src;text/x-chdr;text/x-csrc;text/x-java;text/x-moc;text/x-pascal;text/x-tcl;text/x-tex;application/x-shellscript;text/x-c;text/x-c++;
-Exec=vim %F
 Icon=gvim
-Terminal=true
-Type=Application
-Encoding=UTF-8
-Categories=Utility;TextEditor;
-X-AfterStep-IndexName=vim
 TryExec=vim
+Exec=vim %F
+Terminal=true
+Categories=Utility;TextEditor;
+MimeType=text/english;text/plain;text/x-makefile;text/x-c++hdr;text/x-c++src;text/x-chdr;text/x-csrc;text/x-java;text/x-moc;text/x-pascal;text/x-tcl;text/x-tex;application/x-shellscript;text/x-c;text/x-c++;
+StartupNotify=false
+X-AfterStep-IndexName=vim
 X-XClassHintResName=VIM

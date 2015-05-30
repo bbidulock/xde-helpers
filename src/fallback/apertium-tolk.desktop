@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=apertium-tolk
-X-AppInstall-Popcon=17
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Translator
 Name[af]=Vertaler
 Name[az]=Tərcüməçi
@@ -38,9 +36,11 @@ Name[tg]=Тарҷумон
 Name[ur]=مترجم
 Name[vi]=Người dịch
 Comment=Translate as you type
-Exec=apertium-tolk
 Icon=emblem-web.png
+Exec=apertium-tolk
 Terminal=false
-Type=Application
 Categories=GNOME;GTK;Utility;
 StartupNotify=true
+X-AppInstall-Package=apertium-tolk
+X-AppInstall-Popcon=17
+X-AppInstall-Section=main

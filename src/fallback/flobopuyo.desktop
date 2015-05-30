@@ -1,17 +1,18 @@
 [Desktop Entry]
-X-AppInstall-Package=flobopuyo
-X-AppInstall-Popcon=77
-X-AppInstall-Section=main
-
-Type=Application
 Version=1.4
+Encoding=UTF-8
+Type=Application
 Name=FloboPuyo
-Exec=flobopuyo
-Terminal=false
-Categories=Game;BlocksGame;
 Comment=A tetris-like game
 Comment[ca]=Un joc semblant al Tetris
 Comment[de]=Ein Tetris-ähnliches Spiel
 Comment[es]=Un juego parecido al Tetris
 Comment[pt]=Estilo Tetris
 Icon=flobopuyo
+Exec=flobopuyo
+Terminal=false
+Categories=Game;BlocksGame;
+StartupNotify=false
+X-AppInstall-Package=flobopuyo
+X-AppInstall-Popcon=77
+X-AppInstall-Section=main

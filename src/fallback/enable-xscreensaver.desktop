@@ -1,6 +1,7 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Enable XScreenSaver
 Name[ar]=Enable XScreenSaver
 Name[ast]=Enable XScreenSaver
@@ -66,3 +67,4 @@ TryExec=xscreensaver
 Exec=xscreensaver
 Terminal=false
 Categories=X-Debian-Screen-Saving;
+StartupNotify=false

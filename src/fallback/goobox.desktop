@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=goobox
-X-AppInstall-Popcon=127
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=CD Player
 Name[ar]=عازف الأقراص المدمجة
 Name[bg]=Слушане на аудио дискове
@@ -75,15 +74,16 @@ Comment[sv]=Spela och extrahera cd-skivor
 Comment[vi]=Phát và trích đĩã CD
 Comment[zh_CN]=播放并提取 CD
 Comment[zh_TW]=播放及擷取光碟
-Categories=GNOME;GTK;AudioVideo;
-Encoding=UTF-8
-Exec=goobox
 Icon=goobox
+Exec=goobox
+Terminal=false
+Categories=GNOME;GTK;AudioVideo;
 MimeType=x-content/audio-cdda;
 StartupNotify=true
-Terminal=false
-Type=Application
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=goobox
 X-GNOME-Bugzilla-Component=general
 X-GNOME-Bugzilla-Version=2.1.2
+X-AppInstall-Package=goobox
+X-AppInstall-Popcon=127
+X-AppInstall-Section=main

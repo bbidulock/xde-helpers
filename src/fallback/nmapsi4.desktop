@@ -1,15 +1,17 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=NmapSI4 - User mode
+Comment=Is a Qt4 interface for nmap scanner
+Comment[it]=Interfaccia Qt4 per nmap
+Comment[ru]=Qt4 интерфейс для сканера nmap
+Comment[uk]=Qt4 інтерфейс для сканера nmap
+Icon=_usr_share_icons_hicolor_32x32_apps_nmapsi4
+Exec=nmapsi4
+Terminal=false
+Categories=Qt;Application;System;Security;
+StartupNotify=false
 X-AppInstall-Package=nmapsi4
 X-AppInstall-Popcon=35
 X-AppInstall-Section=main
-
-Name=NmapSI4 - User mode
-Comment=Is a Qt4 interface for nmap scanner
-Comment[ru]=Qt4 интерфейс для сканера nmap
-Comment[uk]=Qt4 інтерфейс для сканера nmap
-Comment[it]=Interfaccia Qt4 per nmap
-Exec=nmapsi4
-Icon=_usr_share_icons_hicolor_32x32_apps_nmapsi4
-Terminal=false
-Type=Application
-Categories=Qt;Application;System;Security;

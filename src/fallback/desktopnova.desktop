@@ -1,9 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=desktopnova
-X-AppInstall-Popcon=49
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=DesktopNova
 Name[ar]=DesktopNova
@@ -37,5 +34,9 @@ Comment[tr]=Arka plan görüntüsünü otomatik olarak değiştirir
 Comment[zh_CN]=自动更换你的壁纸
 Icon=desktopnova
 Exec=desktopnova
+Terminal=false
 Categories=GNOME;Application;Utility;
-
+StartupNotify=false
+X-AppInstall-Package=desktopnova
+X-AppInstall-Popcon=49
+X-AppInstall-Section=main

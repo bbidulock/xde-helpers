@@ -1,10 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=xfce4-mixer
-X-AppInstall-Popcon=1671
-X-AppInstall-Section=main
-
 Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Mixer
 Name[ar]=مازج
 Name[ca]=Mesclador
@@ -56,7 +53,9 @@ Comment[uk]=Регулятор гучності для середовища ст
 Comment[zh_CN]=Xfce 桌面环境混音器
 Icon=multimedia-volume-control
 Exec=xfce4-mixer
-Type=Application
-StartupNotify=true
 Terminal=false
 Categories=X-XFCE;Audio;Mixer;AudioVideo;
+StartupNotify=true
+X-AppInstall-Package=xfce4-mixer
+X-AppInstall-Popcon=1671
+X-AppInstall-Section=main

@@ -1,12 +1,12 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=PathFinder
 Comment=File browser
-Exec=PathFinder
 Icon=PathFinder
+Exec=PathFinder
 Terminal=false
-StartupNotify=false
 Categories=System;FileTools;FileManager;
-X-Arch-Package=fox 1:1.6.50-1
+StartupNotify=false
 X-Arch-Package=fox 1:1.6.50-1

@@ -1,5 +1,7 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Default Printer
 Name[cs]=Implicitní tiskárna
 Name[de]=Standarddrucker
@@ -32,14 +34,13 @@ Comment[pa]=ਮੂਲ ਪ੍ਰਿੰਟਰ ਚੁਣੋ
 Comment[pt_BR]=Selecione a impressora padrão
 Comment[ru]=Выбор принтера по умолчанию
 Comment[zh_CN]=选择默认打印机
+Icon=stock_print
 TryExec=gnome-default-printer
 Exec=gnome-default-printer
-Icon=stock_print
 Terminal=false
-Type=Application
-StartupNotify=true
+OnlyShowIn=GNOME;
 Categories=GNOME;Application;Settings;
+StartupNotify=true
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=eggcups
 X-GNOME-Bugzilla-Component=gnome-default-printer
-OnlyShowIn=GNOME;

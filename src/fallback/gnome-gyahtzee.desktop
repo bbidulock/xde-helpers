@@ -1,6 +1,7 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Gnome GYahtzee
 Name[ar]=Gnome GYahtzee
 Name[ast]=Gnome GYahtzee
@@ -67,3 +68,4 @@ TryExec=gtali
 Exec=gtali
 Terminal=false
 Categories=X-Debian-Games-Board;
+StartupNotify=false

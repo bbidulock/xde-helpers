@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=MKV files creator
+Name[fr]=Créateur de fichiers MKV
+Icon=matroskalogo
+Exec=mmg
+Terminal=false
+Categories=GNOME;AudioVideo;
+StartupNotify=false
 X-AppInstall-Package=mkvtoolnix-gui
 X-AppInstall-Popcon=261
 X-AppInstall-Section=main
-
-Name=MKV files creator
-Name[fr]=Créateur de fichiers MKV
-Exec=mmg
-Terminal=false
-Type=Application
-Categories=GNOME;AudioVideo;
-Icon=matroskalogo

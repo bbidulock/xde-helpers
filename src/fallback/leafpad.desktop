@@ -1,4 +1,7 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Leafpad
 Comment=Simple text editor
 Comment[bg]=Опростен текстов редактор
@@ -39,10 +42,10 @@ Comment[uk]=Проситий текстовий редактор
 Comment[vi]=Một trình soạn thảo văn bản đơn giản
 Comment[zh_CN]=简易文字编辑器
 Comment[zh_TW]=簡易文字編輯器
+Icon=leafpad
 TryExec=leafpad
 Exec=leafpad %f
-Icon=leafpad
 Terminal=false
-Type=Application
-MimeType=text/plain;
 Categories=GTK;Utility;TextEditor;
+MimeType=text/plain;
+StartupNotify=false

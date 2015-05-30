@@ -1,6 +1,7 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=GnuChess
 Name[ar]=GnuChess
 Name[ast]=GnuChess
@@ -66,3 +67,4 @@ TryExec=gnuchess
 Exec=gnuchess
 Terminal=true
 Categories=X-Debian-Games-Board;
+StartupNotify=false

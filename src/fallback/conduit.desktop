@@ -1,11 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=conduit
-X-AppInstall-Popcon=94
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
 Type=Application
-Terminal=false
 Name=Conduit Synchronizer
 Name[ar]=مزامن Conduit
 Name[ca]=Sincronitzador Conduit
@@ -90,5 +86,9 @@ Comment[zh_HK]=GNOME 的同步化程式
 Comment[zh_TW]=GNOME 的同步化程式
 Icon=conduit
 Exec=/usr/bin/conduit
+Terminal=false
 Categories=GNOME;GTK;Utility;
-
+StartupNotify=false
+X-AppInstall-Package=conduit
+X-AppInstall-Popcon=94
+X-AppInstall-Section=main

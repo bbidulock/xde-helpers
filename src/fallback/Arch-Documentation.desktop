@@ -1,11 +1,12 @@
 [Desktop Entry]
-Comment=Archlinux Documentation
-Exec=xdg-open https://wiki.archlinux.org/index.php/Official_Arch_Linux_Install_Guide
-Icon=arch-logo
-Name=Documentation
-StartupNotify=true
-Terminal=false
+Version=1.0
+Encoding=UTF-8
 Type=Application
+Name=Documentation
+Comment=Archlinux Documentation
+Icon=arch-logo
+Exec=xdg-open https://wiki.archlinux.org/index.php/Official_Arch_Linux_Install_Guide
+Terminal=false
 Categories=Archlinux;
-X-Arch-Package=archlinux-menus 2.5-2
+StartupNotify=true
 X-Arch-Package=archlinux-menus 2.5-2

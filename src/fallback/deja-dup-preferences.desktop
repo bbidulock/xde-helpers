@@ -1,6 +1,7 @@
 [Desktop Entry]
 Version=1.0
-
+Encoding=UTF-8
+Type=Application
 Name=Déjà Dup Preferences
 Name[ar]=تفضيلات ديجا دوب
 Name[bg]=Настройки на Déjà Dup
@@ -124,12 +125,9 @@ Comment[uk]=Змінити параметри резервного копіюв�
 Comment[vi]=Thay đổi thiết lập sao lưu của bạn
 Comment[zh_CN]=更改您的备份设置
 Comment[zh_TW]=變更您的備份設定值
-
 Icon=deja-dup
 TryExec=deja-dup-preferences
 Exec=deja-dup-preferences
-
-StartupNotify=true
-
-Type=Application
+Terminal=false
 Categories=GNOME;GTK;System;Utility;Archiving;Settings;
+StartupNotify=true

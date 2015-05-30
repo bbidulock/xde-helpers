@@ -1,14 +1,14 @@
 [Desktop Entry]
+Version=0.9.7  # :bump
+Encoding=UTF-8
+Type=Application
+Name=Bauble
+Comment=An application for managing botanical collections
+Icon=bauble
+Exec=/usr/bin/bauble
+Terminal=False
+Categories=Education;
+StartupNotify=false
 X-AppInstall-Package=bauble
 X-AppInstall-Popcon=8
 X-AppInstall-Section=main
-
-Encoding=UTF-8
-Name=Bauble
-Version=0.9.7  # :bump
-Comment=An application for managing botanical collections
-Terminal=False
-Icon=bauble
-Type=Application
-Exec=/usr/bin/bauble
-Categories=Education;

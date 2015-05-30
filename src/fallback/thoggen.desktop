@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=thoggen
-X-AppInstall-Popcon=110
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Thoggen DVD Ripper
 Name[ar]=Thoggen قاطع قرص الفيديو الرقمي
 Name[ca]=Extractor de DVDs Thoggen
@@ -22,10 +21,12 @@ Name[sk]=Thoggen DVD Ripper
 Name[sv]=DVD-ripparen Thoggen
 Comment=Extracts Video from your DVDs
 Comment[fr]=Extrait les vidéos de vos DVD
-Exec=thoggen
 Icon=thoggen.png
+Exec=thoggen
 Terminal=false
-Type=Application
 Categories=GNOME;AudioVideo;X-Ximian-Main;X-Red-Hat-Base;
 StartupNotify=true
+X-AppInstall-Package=thoggen
+X-AppInstall-Popcon=110
+X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

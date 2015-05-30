@@ -1,6 +1,6 @@
 [Desktop Entry]
 Version=1.0
-Icon=mozilla
+Encoding=UTF-8
 Type=X-XFCE-Helper
 Name=Netscape Navigator
 Name[ar]=Netscape متصفح
@@ -50,6 +50,8 @@ Name[ur]=نیٹ سکیپ نیویگیٹر
 Name[ur_PK]=نیٹ سکیپ نیویگیٹر
 Name[zh_CN]=Netscape Navigator
 Name[zh_TW]=Netscape 領航員
+Icon=mozilla
+Terminal=false
 StartupNotify=false
 X-XFCE-Binaries=netscape;
 X-XFCE-Category=WebBrowser

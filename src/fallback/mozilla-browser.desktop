@@ -1,6 +1,6 @@
 [Desktop Entry]
 Version=1.0
-Icon=mozilla
+Encoding=UTF-8
 Type=X-XFCE-Helper
 Name=Mozilla Browser
 Name[ar]=متصفح موزيلا
@@ -50,6 +50,8 @@ Name[ur]=موزیلا براؤزر
 Name[ur_PK]=موزیلا براؤزر
 Name[zh_CN]=Mozilla 浏览器
 Name[zh_TW]=Mozilla 瀏覽器
+Icon=mozilla
+Terminal=false
 StartupNotify=false
 X-XFCE-Binaries=mozilla;mozilla-gtk2;mozilla-gtk;
 X-XFCE-Category=WebBrowser

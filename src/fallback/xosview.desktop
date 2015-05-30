@@ -1,13 +1,15 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Xosview
+Comment=X based system monitor
+Icon=xosview.xpm
+Exec=xosview
+Terminal=false
+Categories=Application;System;
+StartupNotify=false
 X-AppInstall-Package=xosview
 X-AppInstall-Popcon=252
 X-AppInstall-Section=main
-
-Name=Xosview
-Comment=X based system monitor
-Exec=xosview
-Terminal=false
-Type=Application
-Icon=xosview.xpm
-Categories=Application;System;
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=transmageddon
-X-AppInstall-Popcon=105
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Transmageddon Video Transcoder
 Name[ca]=Transcodificador de vídeo Transmageddon
 Name[cs]=Převodník videa Transmageddon
@@ -35,13 +34,15 @@ Comment[pt]=Ferramenta de conversão de formato de vídeo
 Comment[sl]=Orodje za pretvorbo video zapisov
 Comment[sv]=Verktyg för konvertering av videoformat
 Comment[zh_CN]=视频格式转换工具
+Icon=transmageddon
 Exec=transmageddon
 Terminal=false
-Type=Application
-Icon=transmageddon
 Categories=GNOME;GTK;AudioVideo;X-Ximian-Main;X-Red-Hat-Base;
 StartupNotify=true
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=gstreamer
 X-GNOME-Bugzilla-Component=general
 X-GNOME-Bugzilla-Version=0.16
+X-AppInstall-Package=transmageddon
+X-AppInstall-Popcon=105
+X-AppInstall-Section=main

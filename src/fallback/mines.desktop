@@ -1,15 +1,16 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Mines
+Comment=Clear hidden mines from a minefield
+Comment[de]=Beseitige versteckte Minen aus einem Minenfeld
+Comment[fr]=Nettoyer un champ de mines de ses mines cachées
+Icon=mines
+Exec=mines
+Terminal=false
+Categories=Game;LogicGame;
+StartupNotify=false
 X-AppInstall-Package=sgt-puzzles
 X-AppInstall-Popcon=137
 X-AppInstall-Section=main
-
-Version=1.0
-Terminal=false
-Exec=mines
-Icon=mines
-Type=Application
-Categories=Game;LogicGame;
-Name=Mines
-Comment=Clear hidden mines from a minefield
-Comment[fr]=Nettoyer un champ de mines de ses mines cachées
-Comment[de]=Beseitige versteckte Minen aus einem Minenfeld

@@ -1,12 +1,13 @@
 [Desktop Entry]
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Sysprof
 Comment=A sampling CPU profiler
+Icon=sysprof-icon
 TryExec=sysprof
 Exec=sysprof
-Icon=sysprof-icon
-StartupNotify=true
 Terminal=false
-Type=Application
 Categories=Development;Profiling;
+StartupNotify=true
 X-Desktop-File-Install-Version=0.18

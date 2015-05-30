@@ -1,4 +1,7 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Display
 Name[ar]=العرض
 Name[bg]=Екран
@@ -96,12 +99,10 @@ Comment[uk]=Налаштовування роздільної здатності
 Comment[vi]=Cấu hình độ phân giải và mức màu
 Comment[zh_CN]=配置分辨率和颜色
 Comment[zh_TW]=設定解析度與彩度
-Categories=System;Application;SystemSetup;GTK;X-Red-Hat-Base;
 Icon=system-config-display.png
 TryExec=system-config-display
 Exec=system-config-display
-Type=Application
 Terminal=false
+Categories=System;Application;SystemSetup;GTK;X-Red-Hat-Base;
 StartupNotify=true
-Encoding=UTF-8
 X-Desktop-File-Install-Version=0.10

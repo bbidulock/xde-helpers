@@ -1,13 +1,14 @@
-
 [Desktop Entry]
-Name=Qt4 Config 
-Comment=Configure Qt4 behavior, styles, fonts
-TryExec=qtconfig-qt4
-Exec=qtconfig-qt4
-Icon=qt4-logo
-Terminal=false
+Version=1.0
 Encoding=UTF-8
 Type=Application
-Categories=Qt;Settings;
+Name=Qt4 Config 
+Comment=Configure Qt4 behavior, styles, fonts
+Icon=qt4-logo
+TryExec=qtconfig-qt4
+Exec=qtconfig-qt4
+Terminal=false
 NoDisplay=true
+Categories=Qt;Settings;
+StartupNotify=false
 X-Desktop-File-Install-Version=0.15

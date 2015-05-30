@@ -1,9 +1,11 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Services Admin
 Icon=/usr/share/gnome-system-tools/pixmaps/services.xpm
 TryExec=services-admin
 Exec=services-admin
 Terminal=false
 Categories=System;Administration;
+StartupNotify=false

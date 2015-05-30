@@ -1,15 +1,16 @@
 [Desktop Entry]
-X-AppInstall-Package=fastdnaml
-X-AppInstall-Popcon=18
-X-AppInstall-Section=main
-
 Version=1.0
-Terminal=false
-Exec=fastDNAml
+Encoding=UTF-8
+Type=Application
 Name=fastDNAml
 GenericName=Phylogenetic tree construction
 GenericName[en]=Phylogenetic tree construction
 Comment=Tool for construction of phylogenetic trees of DNA sequences
 Comment[en]=Tool for construction of phylogenetic trees of DNA sequences
-Type=Application
+Exec=fastDNAml
+Terminal=false
 Categories=Biology;Science;Education;
+StartupNotify=false
+X-AppInstall-Package=fastdnaml
+X-AppInstall-Popcon=18
+X-AppInstall-Section=main

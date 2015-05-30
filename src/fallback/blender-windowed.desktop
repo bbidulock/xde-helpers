@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=blender
-X-AppInstall-Popcon=565
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Blender (windowed)
 Name[de]=Blender (Fenstermodus)
 Name[fr]=Blender (fenêtré)
@@ -14,10 +13,12 @@ Comment=Create and edit 3D models and animations
 Comment[de]=Erstellen und Editieren von 3D Modellen und Animationen
 Comment[fr]=Création et édition d'objets 3D et animations
 Comment[ru]=Создание и редактирование трёхмерных моделей и анимаций
-Exec=blender -w
 Icon=blender
+Exec=blender -w
 Terminal=false
-Type=Application
 Categories=Graphics;3DGraphics;
-StartupNotify=false
 MimeType=application/x-blender;
+StartupNotify=false
+X-AppInstall-Package=blender
+X-AppInstall-Popcon=565
+X-AppInstall-Section=main

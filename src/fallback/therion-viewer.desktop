@@ -1,14 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=therion-viewer
-X-AppInstall-Popcon=8
-X-AppInstall-Section=main
-
 Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Therion loch viewer
 GenericName=Therion Cave Survey Viewer
 Comment=View therion surveys in 3D
-Type=Application
-Exec=loch
 Icon=therion
+Exec=loch
+Terminal=false
 Categories=Application;Geology;Science;
+StartupNotify=false
+X-AppInstall-Package=therion-viewer
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main

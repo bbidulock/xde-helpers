@@ -1,4 +1,7 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Xboard
 Name[af]=X-bord
 Name[ar]=Xboard
@@ -40,14 +43,13 @@ Name[xh]=Ibhodi ye-X
 Name[zh_CN]=X 国际象棋
 Name[zh_TW]=Xboard 國際象棋
 Name[zu]=I-Xboard
-Comment=Start preconfigured XBoard
 GenericName=X-windows chess board
-Type=Application
-Categories=Game;BoardGame;
-Exec=xboard -opt %f
+Comment=Start preconfigured XBoard
 Icon=xboard
-NoDisplay=true
+Exec=xboard -opt %f
 Terminal=false
+NoDisplay=true
+Categories=Game;BoardGame;
 MimeType=application/x-xboard-opt;
-X-Arch-Package=xboard 4.8.0-1
+StartupNotify=false
 X-Arch-Package=xboard 4.8.0-1

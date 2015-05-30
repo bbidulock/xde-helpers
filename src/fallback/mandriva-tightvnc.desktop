@@ -1,9 +1,12 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Tightvnc
 Comment=Remote graphical access
+Icon=tightvnc
 TryExec=vncviewer
 Exec=vncviewer
-Icon=tightvnc
 Terminal=true
-Type=Application
 Categories=Network;RemoteAccess;Dialup;
+StartupNotify=false

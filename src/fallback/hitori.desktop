@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=hitori
-X-AppInstall-Popcon=7
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Hitori
 Name[cs]=Hitori
 Name[da]=Hitori
@@ -31,9 +30,11 @@ Comment[pa]=ਹੀਟੋਰੀ ਬੁਝਾਰਤ ਖੇਡ ਖੇਡੋ
 Comment[pt_BR]=Jogue o quebra-cabeça Hitori
 Comment[sv]=Spela pusselspelet Hitori
 Comment[zh_CN]=进行 Hitori 益智游戏
-Exec=hitori
 Icon=hitori
+Exec=hitori
 Terminal=false
-Type=Application
 Categories=GTK;Game;LogicGame;
 StartupNotify=true
+X-AppInstall-Package=hitori
+X-AppInstall-Popcon=7
+X-AppInstall-Section=main

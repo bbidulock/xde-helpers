@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=parcellite
-X-AppInstall-Popcon=219
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Parcellite
 Name[cs]=Parcellite
 Name[da]=Parcellite
@@ -41,5 +40,8 @@ Comment[zh_CN]=剪切板管理器
 Icon=gtk-paste
 Exec=parcellite
 Terminal=false
-Type=Application
 Categories=GTK;GNOME;Application;Utility;
+StartupNotify=false
+X-AppInstall-Package=parcellite
+X-AppInstall-Popcon=219
+X-AppInstall-Section=main

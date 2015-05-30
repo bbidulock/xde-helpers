@@ -1,4 +1,7 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Xfp
 Name[cs]=Xfp
 Name[de]=Xfp
@@ -47,12 +50,10 @@ Comment[pt_BR]=Um simples gerenciador de pacotes para o Xfe
 Comment[ru]=Простой менеджер пакетов для Xfe
 Comment[sv]=En enkel pakethanterare för Xfe
 Comment[zh_TW]=Xfe 的簡易套件管理員
+Icon=xfp
 Exec=xfp
 Terminal=false
-Type=Application
-StartupNotify=true
-MimeType=application/x-deb;application/x-debian-package;application/x-rpm;
-Icon=xfp
 Categories=Utility;PackageManager;
-X-Arch-Package=xfe-arch 1.37-1
+MimeType=application/x-deb;application/x-debian-package;application/x-rpm;
+StartupNotify=true
 X-Arch-Package=xfe-arch 1.37-1

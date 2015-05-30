@@ -1,12 +1,13 @@
 [Desktop Entry]
-X-AppInstall-Package=tworld
-X-AppInstall-Popcon=8
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Tile World
 Icon=_usr_share_pixmaps_tworld
 Exec=tworld
+Terminal=false
 Categories=Game;LogicGame;
-
+StartupNotify=false
+X-AppInstall-Package=tworld
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main

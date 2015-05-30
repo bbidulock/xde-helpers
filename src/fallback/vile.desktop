@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=vile
 GenericName=vile
 Comment=vile Text Editor
-Exec=vile
 Icon=text-editor
-Terminal=true
-Type=Application
-Encoding=UTF-8
-Categories=Utility;TextEditor;
-X-AfterStep-IndexName=vile
 TryExec=vile
+Exec=vile
+Terminal=true
+Categories=Utility;TextEditor;
+StartupNotify=false
+X-AfterStep-IndexName=vile

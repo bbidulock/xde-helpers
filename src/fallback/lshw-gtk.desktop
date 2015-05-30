@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=lshw-gtk
-X-AppInstall-Popcon=188
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Hardware Lister
 Comment=Provides information on hardware
@@ -11,4 +9,8 @@ Icon=lshw-gtk
 Exec=lshw-gtk
 Terminal=false
 Categories=Settings;HardwareSettings;
+StartupNotify=false
+X-AppInstall-Package=lshw-gtk
+X-AppInstall-Popcon=188
+X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

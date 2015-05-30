@@ -1,6 +1,7 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Reinitialize XScreenSaver
 Name[ar]=Reinitialize XScreenSaver
 Name[ast]=Reinitialize XScreenSaver
@@ -66,3 +67,4 @@ TryExec=xscreensaver-command
 Exec=xscreensaver-command -restart
 Terminal=false
 Categories=X-Debian-Screen-Saving;
+StartupNotify=false

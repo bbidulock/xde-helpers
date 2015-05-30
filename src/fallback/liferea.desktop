@@ -1,4 +1,7 @@
 [Desktop Entry]
+Version=0.9.4
+Encoding=UTF-8
+Type=Application
 Name=Liferea Feed Reader
 Name[ar]=قارئ التلقيمات لايفريا
 Name[be@latin]=Hartač RSS Liferea
@@ -70,11 +73,9 @@ Comment[sq]=Shkarkoji dhe shfaqi prurjet
 Comment[sv]=Hämta och visa kanaler
 Comment[tr]=Haber kaynaklarını indir ve görüntüle
 Comment[zh_CN]=下载并查看 Feed
+Icon=liferea
 TryExec=liferea
 Exec=liferea
-Icon=liferea
-StartupNotify=true
 Terminal=false
-Type=Application
 Categories=Network;News;
-Version=0.9.4
+StartupNotify=true

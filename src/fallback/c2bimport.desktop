@@ -1,18 +1,19 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=c2bImport
+GenericName=cb2Bib Import Reference
+GenericName[ca]=Importa referència al cb2Bib
+Comment=Donwload reference to cb2Bib
+Comment[ca]=Importa referència al cb2Bib
+Icon=cb2bib
+Exec=cb2bib --import %f
+Terminal=false
+Categories=Office;
+MimeType=text/x-bibtex;application/x-download;application/bibtex;
+Path=/usr/bin
+StartupNotify=false
 X-AppInstall-Package=cb2bib
 X-AppInstall-Popcon=10
 X-AppInstall-Section=main
-
-Comment=Donwload reference to cb2Bib
-Comment[ca]=Importa referència al cb2Bib
-Exec=cb2bib --import %f
-GenericName=cb2Bib Import Reference
-GenericName[ca]=Importa referència al cb2Bib
-Icon=cb2bib
-MimeType=text/x-bibtex;application/x-download;application/bibtex;
-Name=c2bImport
-Path=/usr/bin
-StartupNotify=false
-Terminal=false
-Categories=Office;
-Type=Application

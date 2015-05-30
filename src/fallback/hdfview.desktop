@@ -1,18 +1,20 @@
 [Desktop Entry]
-X-AppInstall-Package=hdfview
-X-AppInstall-Popcon=14
-X-AppInstall-Section=main
-
-Exec=/usr/bin/hdfview %F
-MimeType=application/x-hdf;
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=hdfview
 Name[de]=hdfview
 Name[en]=hdfview
 Comment=HDF4/5 Data Browser
 Comment[DE]=HDF4/5 Daten Browser
 Comment[EN]=HDF4/5 Data Browser
-Terminal=false
-Type=Application
-X-MultipleArgs=true
-Categories=Science;Physics;DataVisualization;Education;
 Icon=hdfview
+Exec=/usr/bin/hdfview %F
+X-MultipleArgs=true
+Terminal=false
+Categories=Science;Physics;DataVisualization;Education;
+MimeType=application/x-hdf;
+StartupNotify=false
+X-AppInstall-Package=hdfview
+X-AppInstall-Popcon=14
+X-AppInstall-Section=main

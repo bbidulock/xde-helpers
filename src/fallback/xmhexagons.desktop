@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=xmhexagons
+GenericName=hexagons game
+Icon=_usr_share_pixmaps_xhexagons.m
+Exec=/usr/games/xmhexagons
+Terminal=false
+Categories=Game;
+StartupNotify=false
 X-AppInstall-Package=xmpuzzles
 X-AppInstall-Popcon=10
 X-AppInstall-Section=main
-
-Name=xmhexagons
-GenericName=hexagons game
-Exec=/usr/games/xmhexagons
-Icon=_usr_share_pixmaps_xhexagons.m
-Terminal=false
-Type=Application
-Categories=Game;

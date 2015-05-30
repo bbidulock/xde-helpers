@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=hotssh
-X-AppInstall-Popcon=31
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Secure Shell
 Name[ar]=صدفة آمنة
 Name[ca]=Intèrpret d'ordres segur
@@ -26,9 +25,11 @@ Comment[pt]=Ligar a um computador remoto utilizando uma Consola Segura
 Comment[pt_BR]=Conecte-se a um computador remoto usando SSH
 Comment[sl]=Poveži se z oddaljenim računalnikom z varno lupino
 Comment[sv]=Anslut till en fjärrdator med Secure Shell
+Icon=hotwire-openssh
 Exec=hotssh
 Terminal=false
-Type=Application
-Icon=hotwire-openssh
 Categories=GTK;Network;
 StartupNotify=true
+X-AppInstall-Package=hotssh
+X-AppInstall-Popcon=31
+X-AppInstall-Section=main

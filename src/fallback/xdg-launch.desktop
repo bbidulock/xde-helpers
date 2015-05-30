@@ -1,4 +1,5 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=XDG Launch
@@ -7,9 +8,8 @@ Icon=system-run
 TryExec=/usr/bin/xdg-launch
 Exec=/usr/bin/xdg-launch
 Terminal=false
+NoDisplay=true
 Categories=XDG;System;
 MimeType=application/x-desktop
-NoDisplay=true
 StartupNotify=true
-X-Arch-Package=xdg-launch 0.4-1
 X-Arch-Package=xdg-launch 0.4-1

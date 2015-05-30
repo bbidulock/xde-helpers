@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=gnome-schedule
-X-AppInstall-Popcon=450
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Scheduled tasks
 Name[cs]=Naplánované úlohy
 Name[de]=Geplante Aufgaben
@@ -49,10 +48,11 @@ Comment[vi]=Quản lý các tác vụ hệ thống của bạn
 Comment[zh_CN]=管理您的系统任务
 Comment[zh_HK]=管理系統工作排程
 Comment[zh_TW]=管理系統工作排程
-Categories=System;
 Icon=_usr_share_pixmaps_gnome-schedule_gnome-schedule
 Exec=/usr/bin/gnome-schedule
-Type=Application
-StartupNotify=true
 Terminal=false
-
+Categories=System;
+StartupNotify=true
+X-AppInstall-Package=gnome-schedule
+X-AppInstall-Popcon=450
+X-AppInstall-Section=main

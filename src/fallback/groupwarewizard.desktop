@@ -1,15 +1,14 @@
 [Desktop Entry]
-X-AppInstall-Package=kdepim-wizards
-X-AppInstall-Popcon=817
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=KDE Groupware Wizard
 Name[af]=KDE groupware assistent
 Name[ar]=مساعد برنامج كدي الجماعي
 Name[bg]=Groupware
 Name[br]=Skoazeller strollant evit KDE
-Name[ca]=Assistent de Groupware KDE
 Name[ca@valencia]=Assistent de Groupware KDE
+Name[ca]=Assistent de Groupware KDE
 Name[cs]=Průvodce KDE groupwarem
 Name[da]=KDE groupware-guide
 Name[de]=KDE Groupware-Assistent
@@ -52,9 +51,12 @@ Name[uk]=Майстер групової роботи для KDE
 Name[x-test]=xxKDE Groupware Wizardxx
 Name[zh_CN]=KDE 群件向导
 Name[zh_TW]=KDE 群組精靈
-Exec=groupwarewizard
-Type=Application
 Icon=kontact
+Exec=groupwarewizard
 Terminal=false
-X-KDE-StartupNotify=true
 Categories=Qt;KDE;Utility;X-KDE-Utilities-PIM;
+StartupNotify=false
+X-KDE-StartupNotify=true
+X-AppInstall-Package=kdepim-wizards
+X-AppInstall-Popcon=817
+X-AppInstall-Section=main

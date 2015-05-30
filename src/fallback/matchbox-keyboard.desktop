@@ -1,12 +1,15 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Keyboard
+Comment=Virtual Keyboard
+Icon=matchbox-keyboard.png
+Exec=matchbox-keyboard
+Terminal=false
+Categories=Panel;Utility;MB
+StartupNotify=false
 X-AppInstall-Package=matchbox-keyboard
 X-AppInstall-Popcon=24
 X-AppInstall-Section=main
-
-Name=Keyboard
-Comment=Virtual Keyboard
-Exec=matchbox-keyboard
-Type=Application
-Icon=matchbox-keyboard.png
-Categories=Panel;Utility;MB
 X-MB-INPUT-MECHANSIM=True

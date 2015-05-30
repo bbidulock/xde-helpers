@@ -1,13 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Keyboard Settings
 Name[es]=Preferencias de Teclado
 Comment=Set your keyboard preferences
 Comment[es]=Establece tu configuración de teclado.
-Exec=lxkb_config
 Icon=preferences-desktop-keyboard
+Exec=lxkb_config
 Terminal=false
-Type=Application
-StartupNotify=true
 Categories=GNOME;GTK;Settings;HardwareSettings;
-X-Arch-Package=lxkb_config-git r153.cec6ebd-1
+StartupNotify=true
 X-Arch-Package=lxkb_config-git r153.cec6ebd-1

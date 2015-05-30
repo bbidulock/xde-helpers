@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Murmur
+Comment=Python/GTK2 Museek client
+Icon=murmur
+Exec=murmur
+Terminal=false
+Categories=GTK;Network
+StartupNotify=false
 X-AppInstall-Package=murmur
 X-AppInstall-Popcon=8
 X-AppInstall-Section=main
-
-Name=Murmur
-Exec=murmur
-Icon=murmur
-Type=Application
-Terminal=false
-Comment=Python/GTK2 Museek client
-Categories=GTK;Network

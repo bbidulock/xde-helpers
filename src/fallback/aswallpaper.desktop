@@ -1,13 +1,15 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Picture Manager
 GenericName=Picture Manager
 Comment=Manages and converts backgrounds for use with AfterStep.
-Exec=ASWallpaper
 Icon=wallpaper
-Terminal=false
-Type=Application
-Encoding=UTF-8
-Categories=AfterStepDesktop
-X-AfterStep-IndexName=ASWallpaper
 TryExec=ASWallpaper
+Exec=ASWallpaper
+Terminal=false
 OnlyShowIn=AFTERSTEP;
+Categories=AfterStepDesktop
+StartupNotify=false
+X-AfterStep-IndexName=ASWallpaper

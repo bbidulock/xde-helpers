@@ -1,6 +1,7 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Applications
 Name[ar]=تطبيقات
 Name[be@latin]=Aplikacyi
@@ -49,5 +50,7 @@ Comment[sl]=Podatkovni kopalniki programov
 Comment[sv]=Datainsamlare för program
 Comment[zh_CN]=应用程序数据挖掘
 Icon=system-installer
+Terminal=false
+StartupNotify=false
 DBusName=org.freedesktop.Tracker1.Miner.Applications
 DBusPath=/org/freedesktop/Tracker1/Miner/Applications

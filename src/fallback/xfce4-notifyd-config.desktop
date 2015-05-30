@@ -1,10 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=xfce4-notifyd
-X-AppInstall-Popcon=396
-X-AppInstall-Section=main
-
-Encoding=UTF-8
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Notifications
 Name[ca]=Notificacions
 Name[da]=Beskeder
@@ -33,10 +30,12 @@ Comment[nl]=Weergave van notificaties instellen
 Comment[pt_PT]=Personalizar como as notificações aparecem no monitor 
 Comment[sq]=Përshtasni mënyrën se si shfaqen njoftimet në ekranin tuaj
 Comment[tr]=Bildirilerin görünümünü özelleştirin
-Exec=xfce4-notifyd-config
 Icon=xfce4-notifyd
+Exec=xfce4-notifyd-config
 Terminal=false
-StartupNotify=true
-Type=Application
 Categories=X-XFCE;Settings;DesktopSettings;
+StartupNotify=true
+X-AppInstall-Package=xfce4-notifyd
+X-AppInstall-Popcon=396
+X-AppInstall-Section=main
 X-XfcePluggable=true

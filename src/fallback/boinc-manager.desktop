@@ -1,14 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=boinc-manager
-X-AppInstall-Popcon=399
-X-AppInstall-Section=main
-
-Type=Application
 Version=1.0
-Exec=/usr/bin/boincmgr
-Path=/var/lib/boinc-client
-Icon=boincmgr-32.xpm
-Categories=System;Monitor;GTK;
+Encoding=UTF-8
+Type=Application
 Name=BOINC Manager
 GenericName=BOINC monitor and control utility
 GenericName[cs]=Monitorovací a ovládací nástroj pro BOINC
@@ -18,3 +11,12 @@ Comment=Configure or monitor a BOINC core client
 Comment[cs]=Monitoruje a nastavuje klienta BOINC
 Comment[de]=BOINC Basis Client konfigurieren oder überwachen
 Comment[pt]=Configurar ou monitorizar o cliente básico do BOINC
+Icon=boincmgr-32.xpm
+Exec=/usr/bin/boincmgr
+Terminal=false
+Categories=System;Monitor;GTK;
+Path=/var/lib/boinc-client
+StartupNotify=false
+X-AppInstall-Package=boinc-manager
+X-AppInstall-Popcon=399
+X-AppInstall-Section=main

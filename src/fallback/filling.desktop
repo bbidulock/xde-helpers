@@ -1,15 +1,16 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Filling
+Comment=Fill in digits so that each connected region of squares containing the same digit has an area equal to that digit
+Comment[de]=Füge Ziffern ein, so dass jede zusammenhängende Region von Quadraten mit der gleichen Ziffer über ein mit der Ziffer übereinstimmendes Gebiet verfügt
+Comment[fr]=Ajouter des chiffres de telles sortes que chaque section carré contienne le même nombre de digit que le chiffre représenté
+Icon=filling
+Exec=filling
+Terminal=false
+Categories=Game;LogicGame;
+StartupNotify=false
 X-AppInstall-Package=sgt-puzzles
 X-AppInstall-Popcon=137
 X-AppInstall-Section=main
-
-Version=1.0
-Terminal=false
-Exec=filling
-Icon=filling
-Type=Application
-Categories=Game;LogicGame;
-Name=Filling
-Comment=Fill in digits so that each connected region of squares containing the same digit has an area equal to that digit
-Comment[fr]=Ajouter des chiffres de telles sortes que chaque section carré contienne le même nombre de digit que le chiffre représenté
-Comment[de]=Füge Ziffern ein, so dass jede zusammenhängende Region von Quadraten mit der gleichen Ziffer über ein mit der Ziffer übereinstimmendes Gebiet verfügt

@@ -1,15 +1,17 @@
 [Desktop Entry]
-X-AppInstall-Package=taxbird
-X-AppInstall-Popcon=19
-X-AppInstall-Section=main
-
-X-SuSE-translate=true
-Categories=Finance;Office
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Taxbird
 GenericName=Taxbird
 Comment=freier Elster-Client für Linux
-Type=Application
-Exec=taxbird
 Icon=taxbird.xpm
+Exec=taxbird
 Terminal=false
+Categories=Finance;Office
 MimeType=application/x-taxbird
+StartupNotify=false
+X-AppInstall-Package=taxbird
+X-AppInstall-Popcon=19
+X-AppInstall-Section=main
+X-SuSE-translate=true

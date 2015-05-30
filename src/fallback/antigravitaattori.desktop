@@ -1,11 +1,13 @@
 [Desktop Entry]
-X-AppInstall-Package=antigravitaattori
-X-AppInstall-Popcon=23
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Antigravitaattori
+Comment=Multiplayer flying saucer racing game
 Exec=antigrav
 Terminal=false
 Categories=Game;ArcadeGame;
-Comment=Multiplayer flying saucer racing game
+StartupNotify=false
+X-AppInstall-Package=antigravitaattori
+X-AppInstall-Popcon=23
+X-AppInstall-Section=main

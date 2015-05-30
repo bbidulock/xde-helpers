@@ -1,10 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=gnome-hearts
-X-AppInstall-Popcon=79
-X-AppInstall-Section=main
-
 Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Hearts
 Name[da]=Hjerterfri
 Name[de]=Hearts
@@ -27,9 +24,11 @@ Name[sv]=Hjärter
 Name[tl]=Hearts
 Name[zh_CN]=红心大战
 Comment=Play the popular Hearts card game
-Exec=gnome-hearts
 Icon=gnome-hearts.png
+Exec=gnome-hearts
 Terminal=false
-Type=Application
 Categories=GNOME;GTK;Game;CardGame;
 StartupNotify=true
+X-AppInstall-Package=gnome-hearts
+X-AppInstall-Popcon=79
+X-AppInstall-Section=main

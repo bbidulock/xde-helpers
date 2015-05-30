@@ -1,12 +1,13 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=GNUplot
 GenericName=Function Plotter
 Comment=Interactive plotting program
-Exec=gnuplot
 Icon=gnuplot
+TryExec=gnuplot
+Exec=gnuplot
 Terminal=true
 Categories=Application;Science;
-TryExec=gnuplot
 StartupNotify=false

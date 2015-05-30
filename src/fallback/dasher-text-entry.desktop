@@ -1,8 +1,10 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Dasher text entry
 TryExec=dasher
 Exec=dasher
 Terminal=false
 Categories=Accessibility;
+StartupNotify=false

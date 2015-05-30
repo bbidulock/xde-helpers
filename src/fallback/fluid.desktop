@@ -1,11 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=FLUID
 Comment=FLTK GUI Designer
+Icon=fluid
 TryExec=fluid
 Exec=fluid %F
-Icon=fluid
 Terminal=false
-Type=Application
-MimeType=application/x-fluid
 Categories=Development;GUIDesigner;
+MimeType=application/x-fluid
+StartupNotify=false
 X-Arch-Package=fltk 1.3.3-4

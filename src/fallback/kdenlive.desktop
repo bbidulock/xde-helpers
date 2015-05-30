@@ -1,9 +1,7 @@
-# KDE Config File
 [Desktop Entry]
-X-AppInstall-Package=kdenlive
-X-AppInstall-Popcon=316
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Kdenlive
 GenericName=Video Editor
 GenericName[de]=Video-Editor
@@ -15,12 +13,15 @@ Comment[de]=Nicht-linearer Video-Editor für KDE
 Comment[it]=Editor video non lineare per KDE
 Comment[ru]=Нелинейный видеоредактор для KDE
 Comment[uk]=Нелінійний редактор відео для KDE
-Type=Application
-Exec=kdenlive %i -caption "%c" %u
 Icon=kdenlive
+Exec=kdenlive %i -caption "%c" %u
+Terminal=false
+Categories=Qt;KDE;AudioVideo;AudioVideoEditing;
+MimeType=application/x-kdenlive;
+StartupNotify=false
 X-DocPath=http://kdenlive.org/user-manual
 X-DocPath[cs]=http://cs.wikibooks.org/wiki/Kdenlive
-Terminal=false
-MimeType=application/x-kdenlive;
-Categories=Qt;KDE;AudioVideo;AudioVideoEditing;
+X-AppInstall-Package=kdenlive
+X-AppInstall-Popcon=316
+X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

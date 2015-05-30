@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=rekonq
-X-AppInstall-Popcon=114
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=rekonq
 Name[bg]=rekonq
 Name[cs]=rekonq
@@ -48,11 +47,14 @@ GenericName[x-test]=xxWebKit KDE Browserxx
 GenericName[zh_CN]=Webkit KDE 浏览器
 GenericName[zh_TW]=WebKit KDE 瀏覽器
 Icon=rekonq
-Type=Application
 Exec=rekonq %u
-X-DocPath=rekonq/index.html
-Categories=Qt;KDE;Network;WebBrowser;
-Terminal=false
-MimeType=text/html;application/xhtml+xml;application/xml;
-X-DBUS-StartupType=Unique
 X-DBUS-ServiceName=net.sourceforge.rekonq
+X-DBUS-StartupType=Unique
+Terminal=false
+Categories=Qt;KDE;Network;WebBrowser;
+MimeType=text/html;application/xhtml+xml;application/xml;
+StartupNotify=false
+X-DocPath=rekonq/index.html
+X-AppInstall-Package=rekonq
+X-AppInstall-Popcon=114
+X-AppInstall-Section=main

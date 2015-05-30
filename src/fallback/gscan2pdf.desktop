@@ -1,15 +1,17 @@
 [Desktop Entry]
-X-AppInstall-Package=gscan2pdf
-X-AppInstall-Popcon=218
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=gscan2pdf
 GenericName=gscan2pdf
 Comment=A GUI to aid the scan-to-PDF process
 Comment[de]=Machen Sie PDF-Dateien direkt von Ihrem Scanner
-Exec=gscan2pdf
 Icon=gscan2pdf
+Exec=gscan2pdf
 Terminal=false
-Type=Application
 Categories=Graphics;Scanning;
+StartupNotify=false
+X-AppInstall-Package=gscan2pdf
+X-AppInstall-Popcon=218
+X-AppInstall-Section=main
 X-SuSE-translate=false

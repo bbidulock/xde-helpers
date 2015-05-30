@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=meterbridge
-X-AppInstall-Popcon=61
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Meterbridge
 GenericName=Audio Level Meter
@@ -11,3 +9,7 @@ Icon=meterbridge32x32.xpm
 Exec=/usr/bin/meterbridge -t vu alsa_pcm:playback_1 alsa_pcm:playback_2
 Terminal=false
 Categories=AudioVideo;Audio;
+StartupNotify=false
+X-AppInstall-Package=meterbridge
+X-AppInstall-Popcon=61
+X-AppInstall-Section=main

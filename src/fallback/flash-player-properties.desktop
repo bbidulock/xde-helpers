@@ -1,4 +1,7 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Adobe Flash Player
 Comment=Preferences for Adobe Flash Player
 Comment[bg]=Настройки за Adobe Flash Player
@@ -15,12 +18,10 @@ Comment[pt_BR]=Preferências para o Adobe Flash Player
 Comment[ru]=Настройки для Adobe Flash Player
 Comment[sk]=Predvoľby pre Adobe Flash Player
 Comment[sv]=Inställningar för Adobe Flash Player
-Exec=flash-player-properties
 Icon=flash-player-properties
+Exec=flash-player-properties
 Terminal=false
-Type=Application
-StartupNotify=true
-Categories=Settings;GNOME;GTK;X-GNOME-PersonalSettings;
 NotShowIn=KDE;
-X-Arch-Package=flashplugin 11.2.202.460-1
+Categories=Settings;GNOME;GTK;X-GNOME-PersonalSettings;
+StartupNotify=true
 X-Arch-Package=flashplugin 11.2.202.460-1

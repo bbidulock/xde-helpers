@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Diakonos
 GenericName=Diakonos
 Comment=Diakonos Text Editor
-Exec=diakonos
 Icon=text-editor
-Terminal=true
-Type=Application
-Encoding=UTF-8
-Categories=Utility;TextEditor;
-X-AfterStep-IndexName=diakonos
 TryExec=diakonos
+Exec=diakonos
+Terminal=true
+Categories=Utility;TextEditor;
+StartupNotify=false
+X-AfterStep-IndexName=diakonos

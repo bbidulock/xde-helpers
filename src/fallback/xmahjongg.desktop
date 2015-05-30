@@ -1,9 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=xmahjongg
-X-AppInstall-Popcon=48
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=xmahjongg
 Name[bg_BG.UTF-8]=Маджонг (xmahjongg)
@@ -14,3 +11,7 @@ Icon=
 Exec=/usr/games/xmahjongg
 Terminal=false
 Categories=Game;CardGame;
+StartupNotify=false
+X-AppInstall-Package=xmahjongg
+X-AppInstall-Popcon=48
+X-AppInstall-Section=main

@@ -1,6 +1,7 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=MacSlow's Cairo-Clock
 Name[da]=MacSlow's Cairo-Ur
 Name[de]=MacSlow's Cairo-Uhr
@@ -35,7 +36,9 @@ Comment[sv]=en super-fin analog klocka
 Comment[tr]=süper hassas bir analog saat
 Comment[zh_CN]=一个绝好的模拟时钟
 Comment[zh_TW]=一個超好用的類比時鐘
-Exec=cairo-clock
 Icon=cairo-clock
+Exec=cairo-clock
+Terminal=false
 Categories=GNOME;Application;Utility;
+StartupNotify=false
 X-Arch-Package=cairo-clock 0.3.4-4

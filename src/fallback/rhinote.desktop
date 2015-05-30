@@ -1,13 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=rhinote
-X-AppInstall-Popcon=8
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Rhinote
 Comment=Virtual sticky-notes
 Comment[it]=Note di testo virtuali
+Icon=rhinote
 Exec=rhinote
 Terminal=false
-Type=Application
-Icon=rhinote
 Categories=Utility;TextEditor;
+StartupNotify=false
+X-AppInstall-Package=rhinote
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main

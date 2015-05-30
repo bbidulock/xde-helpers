@@ -1,17 +1,18 @@
 [Desktop Entry]
-X-AppInstall-Package=gnome-alsamixer
-X-AppInstall-Popcon=465
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=GNOME ALSA Mixer
 Comment=ALSA sound mixer for GNOME
 Comment[es]=Mezclador de sonido ALSA para GNOME
-Comment[fr]=Mélangeur de son ALSA pour GNOME
-Exec=gnome-alsamixer
+Comment[fr]=M\xE9langeur de son ALSA pour GNOME
 Icon=_usr_share_pixmaps_gnome-alsamixer_gnome-alsamixer-icon
+Exec=gnome-alsamixer
 Terminal=false
-Type=Application
 Categories=Application;AudioVideo;
-X-Desktop-File-Install-Version=0.3
 StartupNotify=true
+X-Desktop-File-Install-Version=0.3
+X-AppInstall-Package=gnome-alsamixer
+X-AppInstall-Popcon=465
+X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

@@ -1,15 +1,7 @@
-
 [Desktop Entry]
 Version=1.0
 Encoding=UTF-8
-TryExec=notification-settings
-Exec=notification-settings
-Icon=notification-settings
 Type=Application
-Terminal=false
-StartupNotify=true
-OnlyShowIn=XFCE;
-Categories=X-XFCE;Settings;DesktopSettings;
 Name=Xfce 4 Notification Settings
 Name[be]=Настаўленьні Інфармавальніка Xfce 4
 Name[en_GB]=Xfce 4 Notification Settings
@@ -34,3 +26,10 @@ Comment[hu]=Emlékeztető beállítások testreszabása
 Comment[nl]=Verander de berichtweergave daemon instellingen
 Comment[pl]=Dopasuj ustawienia demona powiadomień
 Comment[uk]=Налаштувати властивості служби Повідомлення
+Icon=notification-settings
+TryExec=notification-settings
+Exec=notification-settings
+Terminal=false
+OnlyShowIn=XFCE;
+Categories=X-XFCE;Settings;DesktopSettings;
+StartupNotify=true

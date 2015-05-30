@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=gmpc
-X-AppInstall-Popcon=213
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Gnome Music Player Client
 Name[ar]=عميل مشغل المسيقى لجِنوم
 Name[bg]=Gnome Музикален Плеър
@@ -58,9 +57,11 @@ Comment[ru]=Фронтенд для MPD среды GNOME
 Comment[sq]=Nisja e proçesit mpd nga Gnome
 Comment[tr]=Mpd süreci için bir gnome arayüzü
 Comment[zh_CN]=一个 mpd 守护进程的 gnome 前端
+Icon=gmpc
 Exec=gmpc
 Terminal=false
-Type=Application
-Icon=gmpc
 Categories=GNOME;AudioVideo;
 StartupNotify=true
+X-AppInstall-Package=gmpc
+X-AppInstall-Popcon=213
+X-AppInstall-Section=main

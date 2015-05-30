@@ -1,11 +1,12 @@
-
 [Desktop Entry]
-Name=Galaxy
-Exec=/usr/lib/xscreensaver/galaxy -root
-TryExec=/usr/lib/xscreensaver/galaxy
-Comment=This draws spinning galaxies, which then collide and scatter their stars to the, uh, four winds or something. Written by Uli Siegmund, Harald Backert, and Hubert Feyrer.
-StartupNotify=false
-Terminal=false
+Version=1.0
+Encoding=UTF-8
 Type=Application
-Categories=Screensaver;
+Name=Galaxy
+Comment=This draws spinning galaxies, which then collide and scatter their stars to the, uh, four winds or something. Written by Uli Siegmund, Harald Backert, and Hubert Feyrer.
+TryExec=/usr/lib/xscreensaver/galaxy
+Exec=/usr/lib/xscreensaver/galaxy -root
+Terminal=false
 OnlyShowIn=GNOME;
+Categories=Screensaver;
+StartupNotify=false

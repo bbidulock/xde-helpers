@@ -1,8 +1,10 @@
 [Desktop Entry]
 Version=1.0
-Icon=icecat
+Encoding=UTF-8
 Type=X-XFCE-Helper
 Name=Icecat
+Icon=icecat
+Terminal=false
 StartupNotify=false
 X-XFCE-Binaries=icecat;icecat-gtk2;icecat-gtk;
 X-XFCE-Category=WebBrowser

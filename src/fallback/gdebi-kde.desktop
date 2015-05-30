@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=gdebi-kde
-X-AppInstall-Popcon=53
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=GDebi Package Installer
 Name[cs]=Instalátor balíků GDebi
 Name[da]=GDebi pakkeinstalleringsprogram
@@ -58,13 +57,16 @@ Comment[ru]=Установить и просмотреть пакеты прог
 Comment[sk]=Zobraziť a nainštalovať softvérové balíky
 Comment[sv]=Installera och visa programvarupaket
 Comment[tr]=Yazılım paketlerini kur ve izle
-Exec=gdebi-kde
 Icon=application-x-deb
+Exec=gdebi-kde
 Terminal=false
-Type=Application
-Categories=Application;System;
-MimeType=application/x-deb;application/x-debian-package;
 OnlyShowIn=KDE;
 NotShowIn=GNOME;
+Categories=Application;System;
+MimeType=application/x-deb;application/x-debian-package;
+StartupNotify=false
 InitialPreference=12
+X-AppInstall-Package=gdebi-kde
+X-AppInstall-Popcon=53
+X-AppInstall-Section=main
 X-Ubuntu-Gettext-Domain=gdebi

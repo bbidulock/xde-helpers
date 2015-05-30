@@ -1,14 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=UPnP Inspector
+Comment=DLNA/UPnP device and service analyzer,control-point and test-tool
+Icon=inspector
+Exec=upnp-inspector
+Terminal=false
+Categories=Development;
+StartupNotify=false
 X-AppInstall-Package=upnp-inspector
 X-AppInstall-Popcon=18
 X-AppInstall-Section=main
-
-Version=1.0
-Categories=Development;
-Icon=inspector
-Exec=upnp-inspector
-StartupNotify=false
-Terminal=false
-Type=Application
-Name=UPnP Inspector
-Comment= DLNA/UPnP device and service analyzer,control-point and test-tool

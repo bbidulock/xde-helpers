@@ -1,14 +1,16 @@
 [Desktop Entry]
-X-AppInstall-Package=gmerlin
-X-AppInstall-Popcon=52
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Gmerlin KBD
 Name[de]=Gmerlin KBD
 Comment=Configure the Gmerlin keyboard daemon
 Comment[de]=Gmerlin keyboard daemon konfigurieren
-Exec=gmerlin_kbd_config
 Icon=gmerlin-kbd.png
-Type=Application
+Exec=gmerlin_kbd_config
+Terminal=false
 Categories=Application;AudioVideo;
-
+StartupNotify=false
+X-AppInstall-Package=gmerlin
+X-AppInstall-Popcon=52
+X-AppInstall-Section=main

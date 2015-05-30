@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=X Volume & Mixer
 GenericName=Mixer
 Comment=X based volume and mixer control program
-Exec=xmixer
 Icon=gnome-mixer
-Terminal=false
-Type=Application
-Encoding=UTF-8
-Categories=AudioVideo
-X-AfterStep-IndexName=xmixer
 TryExec=xmixer
+Exec=xmixer
+Terminal=false
+Categories=AudioVideo
+StartupNotify=false
+X-AfterStep-IndexName=xmixer

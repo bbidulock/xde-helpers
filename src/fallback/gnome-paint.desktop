@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=gnome-paint
-X-AppInstall-Popcon=32
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Gnome Paint Drawing Editor
 Name[es_MX]=Editor de deseño Gnome Paint
 Name[fr]=Éditeur de dessin Gnome Paint
@@ -13,10 +12,12 @@ Comment[es_MX]=Crear o modificar dibujos o imágines
 Comment[fr]=Créer et modifier des images ou des dessins
 Comment[it]=Creare o modificare immagini o disegni
 Comment[pt_BR]=Crie e Edite Desenhos ou Imagens
-Exec=gnome-paint %U
 Icon=gp.png
-StartupNotify=true
+Exec=gnome-paint %U
 Terminal=false
-Type=Application
 Categories=GNOME;GTK;Graphics;RasterGraphics;
 MimeType=image/bmp;image/gif;image/jpeg;image/jpg;image/pjpeg;image/png;image/tiff;image/x-bmp;image/x-gray;image/x-icb;image/x-ico;image/x-png;image/x-portable-anymap;image/x-portable-bitmap;image/x-portable-graymap;image/x-portable-pixmap;image/x-xbitmap;image/x-xpixmap;image/x-pcx;image/svg+xml;image/svg+xml-compressed;image/vnd.wap.wbmp;
+StartupNotify=true
+X-AppInstall-Package=gnome-paint
+X-AppInstall-Popcon=32
+X-AppInstall-Section=main

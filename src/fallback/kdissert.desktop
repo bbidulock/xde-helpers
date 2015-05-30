@@ -1,15 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=kdissert
-X-AppInstall-Popcon=112
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
 Type=Application
-Exec=kdissert -caption "%c" %i %m
-Icon=kdissert
-DocPath=kdissert/index.html
-MimeType=application/x-kdissert
-Categories=Qt;KDE;Utility;X-KDE-More;
 Name=kdissert
 Name[da]=Kdissert
 Name[sv]=Kdissert
@@ -28,8 +20,18 @@ GenericName[nl]=Hulpmiddel voor het maken van zogenaamde mindmaps
 GenericName[pt]=Ferramenta de Mapas da Mente
 GenericName[pt_BR]=Ferramenta de Mapas mentais
 GenericName[sk]=Mindmap nástroj
-GenericName[sr]=Алат за мапе ума
 GenericName[sr@Latn]=Alat za mape uma
+GenericName[sr]=Алат за мапе ума
 GenericName[sv]=Mindmap-verktyg
 GenericName[tr]=Bellek Haritası Aracı
 GenericName[xx]=xxMindmap Toolxx
+Icon=kdissert
+Exec=kdissert -caption "%c" %i %m
+Terminal=false
+Categories=Qt;KDE;Utility;X-KDE-More;
+MimeType=application/x-kdissert
+StartupNotify=false
+DocPath=kdissert/index.html
+X-AppInstall-Package=kdissert
+X-AppInstall-Popcon=112
+X-AppInstall-Section=main

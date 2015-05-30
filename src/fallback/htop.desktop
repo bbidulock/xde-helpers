@@ -1,12 +1,13 @@
 [Desktop Entry]
 Version=1.0
-Name=Htop
+Encoding=UTF-8
 Type=Application
-Comment=Show System Processes
-Terminal=true
-Exec=htop
-Icon=htop
-Categories=ConsoleOnly;System;
+Name=Htop
 GenericName=Process Viewer
-X-Arch-Package=htop 1.0.3-2
+Comment=Show System Processes
+Icon=htop
+Exec=htop
+Terminal=true
+Categories=ConsoleOnly;System;
+StartupNotify=false
 X-Arch-Package=htop 1.0.3-2

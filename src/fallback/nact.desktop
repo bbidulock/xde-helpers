@@ -1,11 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=nautilus-actions
-X-AppInstall-Popcon=1262
-X-AppInstall-Section=main
-
 Version=1.0
-Type=Application
 Encoding=UTF-8
+Type=Application
 Name=Nautilus Actions Configuration
 Name[ar]=إعداد إجرائات ناوتلس
 Name[bg]=Настройки на действията на Nautilus
@@ -98,7 +94,11 @@ Comment[vi]=Thêm mục vào trình đơn bật lên Nautilus
 Comment[zh_CN]=在 Nautilus 弹出菜单中添加项目
 Comment[zh_HK]=加入項目到 Nautilus 彈出式選單
 Comment[zh_TW]=加入項目到 Nautilus 彈出式選單
-Exec=nautilus-actions-config-tool
 Icon=nautilus-actions
+Exec=nautilus-actions-config-tool
+Terminal=false
 Categories=Application;FileManager;DesktopSettings;Settings;
 StartupNotify=true
+X-AppInstall-Package=nautilus-actions
+X-AppInstall-Popcon=1262
+X-AppInstall-Section=main

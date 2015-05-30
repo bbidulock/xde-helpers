@@ -1,6 +1,7 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=wmpuzzle
 Name[ar]=wmpuzzle
 Name[ast]=wmpuzzle
@@ -66,3 +67,4 @@ TryExec=wmpuzzle
 Exec=wmpuzzle
 Terminal=false
 Categories=X-Debian-Games-Puzzles;
+StartupNotify=false

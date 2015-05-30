@@ -1,14 +1,14 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=System Tray Dock App
 GenericName=System Tray
 Comment=Provide a system tray in the dock
 Icon=GNUstep3D
-Exec=wmsystray
 TryExec=/usr/bin/wmsystray
+Exec=wmsystray
 Terminal=false
-Categories=DockApp;WMAKER;
-#only necessary in WMs with dock and panel with no systray
 OnlyShowIn=BLACKBOX;WMAKER;
+Categories=DockApp;WMAKER;
 StartupNotify=false

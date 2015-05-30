@@ -1,5 +1,7 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Catalog Installer
 Name[ar]=مثبّت المجموعات
 Name[as]=ফৰ্দ্দৰ সংস্থাপক
@@ -117,13 +119,11 @@ Comment[uk]=Встановити каталог програм у систему
 Comment[zh_CN]=在系统中安装一个软件目录
 Comment[zh_HK]=安裝系統中軟件的一個分類
 Comment[zh_TW]=安裝系統中軟體的一個分類
-Categories=System;X-Red-Hat-Base;X-Fedora;
+Icon=system-software-install
 TryExec=gpk-install-catalog
 Exec=gpk-install-catalog %F
 Terminal=false
-Type=Application
-Icon=system-software-install
-StartupNotify=true
 NoDisplay=true
+Categories=System;X-Red-Hat-Base;X-Fedora;
 MimeType=application/x-catalog;
-
+StartupNotify=true

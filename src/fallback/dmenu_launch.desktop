@@ -1,4 +1,5 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=Dmenu Launch
@@ -9,5 +10,4 @@ Exec=/usr/bin/dmenu_launch
 Terminal=false
 Categories=XDE;Utilities;
 StartupNotify=false
-X-Arch-Package=xdg-launch 0.4-1
 X-Arch-Package=xdg-launch 0.4-1

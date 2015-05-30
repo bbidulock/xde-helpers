@@ -1,4 +1,5 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=BlackBox Hot Keys
@@ -8,8 +9,8 @@ Icon=keyboard
 TryExec=/usr/bin/bbkeys
 Exec=bbkeys
 Terminal=false
-Categories=BLACKBOX;System;Utility;
-OnlyShowIn=BLACKBOX;ICEWM;
-StartupNotify=false
 NoDisplay=true
+OnlyShowIn=BLACKBOX;ICEWM;
+Categories=BLACKBOX;System;Utility;
+StartupNotify=false
 X-Arch-Package=bbkeys 0.9.1-8

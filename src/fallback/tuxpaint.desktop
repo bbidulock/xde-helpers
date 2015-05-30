@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=tuxpaint
-X-AppInstall-Popcon=475
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Tux Paint
 Name[af]=Tux Verf
 Name[ar]=رسم توكس
@@ -74,11 +73,6 @@ Name[xh]=Ipeyinti yeTux
 Name[zam]=Tux Paint
 Name[zh_CN]=Tux Paint
 Name[zh_TW]=企鵝小畫家
-Type=Application
-Exec=tuxpaint
-Icon=tuxpaint
-Terminal=false
-Categories=Education;Art;
 GenericName=Drawing program
 GenericName[af]=Tekenprogram
 GenericName[ar]=برنامج رسم
@@ -224,3 +218,11 @@ Comment[xh]=Inkqubo yokuzoba yabantwana.
 Comment[zam]=Diif program paar keé men Dibuj paar biét biss
 Comment[zh_CN]=孩子的绘图程序。
 Comment[zh_TW]=適合兒童的畫圖程式
+Icon=tuxpaint
+Exec=tuxpaint
+Terminal=false
+Categories=Education;Art;
+StartupNotify=false
+X-AppInstall-Package=tuxpaint
+X-AppInstall-Popcon=475
+X-AppInstall-Section=main

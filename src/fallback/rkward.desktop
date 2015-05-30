@@ -1,17 +1,17 @@
-# KDE Config File  
 [Desktop Entry]
-X-AppInstall-Package=rkward
-X-AppInstall-Popcon=79
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=RKWard
 Comment=GUI for the R-project
-Comment[pl]=Graficzny interfejs dla projektu R
 Comment[fr]=Interface graphique pour R
+Comment[pl]=Graficzny interfejs dla projektu R
 Icon=rkward
 Exec=rkward -caption "%c" %i
 Terminal=false
-Type=Application
-DocPath=rkward/index.html
 Categories=Education;Science;Math;
-# vi: encoding=utf-8
+StartupNotify=false
+DocPath=rkward/index.html
+X-AppInstall-Package=rkward
+X-AppInstall-Popcon=79
+X-AppInstall-Section=main

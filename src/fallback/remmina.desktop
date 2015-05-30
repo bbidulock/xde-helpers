@@ -1,5 +1,7 @@
 [Desktop Entry]
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Remmina Remote Desktop Client
 Name[bg]=Клиент за отдалечен достъп Remmina
 Name[cs]=Klient vzdálené plochy Remmina
@@ -43,12 +45,10 @@ Comment[sv]=Anslut till fjärrskrivbord
 Comment[tr]=Uzak masaüstlerine bağlan
 Comment[uk]=З'єднання з відаленим комп'ютером
 Comment[zh_CN]=连接到远程桌面
+Icon=remmina
 TryExec=remmina
 Exec=remmina
-Icon=remmina
 Terminal=false
-Type=Application
-Actions=
 Categories=GTK;GNOME;X-GNOME-NetworkSettings;Network;
-X-Arch-Package=remmina-gtk2 1.0.0-3
+StartupNotify=false
 X-Arch-Package=remmina-gtk2 1.0.0-3

@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=ntfs-config
-X-AppInstall-Popcon=116
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=NTFS Configuration Tool
 Name[bn]=এন.টি.এফ.এস. কনফিগারেশন উপকরন
 Name[ca]=Eina de Configuració de NTFS
@@ -67,5 +65,8 @@ Comment[zh_HK]=按一下即能開關 NTFS 檔案系統的讀寫支援。
 Icon=ntfs-config
 Exec=/usr/sbin/ntfs-config-root
 Terminal=false
-Type=Application
 Categories=Application;System;Settings
+StartupNotify=false
+X-AppInstall-Package=ntfs-config
+X-AppInstall-Popcon=116
+X-AppInstall-Section=main

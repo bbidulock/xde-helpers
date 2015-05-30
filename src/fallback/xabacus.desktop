@@ -1,16 +1,16 @@
 [Desktop Entry]
+Version=7.5.5
+Encoding=UTF-8
+Type=Application
+Name=Xabacus
+GenericName=Abacus ancient calculator
+Comment=simulation of the ancient calculator (plain X version)
+Icon=_usr_share_pixmaps_xabacus.m
+Exec=xabacus
+X-MultipleArgs=false
+Terminal=false
+Categories=Utility;Education;Math;Calculator
+StartupNotify=true
 X-AppInstall-Package=xabacus
 X-AppInstall-Popcon=38
 X-AppInstall-Section=main
-
-Name=Xabacus
-Version=7.5.5
-GenericName=Abacus ancient calculator
-Comment=simulation of the ancient calculator (plain X version)
-Exec=xabacus
-Icon=_usr_share_pixmaps_xabacus.m
-Terminal=false
-Type=Application
-X-MultipleArgs=false
-Categories=Utility;Education;Math;Calculator
-StartupNotify=true

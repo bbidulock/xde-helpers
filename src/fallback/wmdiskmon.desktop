@@ -1,6 +1,7 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Disk Monitor Dock App
 GenericName=Disk Monitor
 Comment=A dock app for monitoring disks
@@ -8,8 +9,8 @@ Icon=GNUstep3D
 TryExec=/usr/bin/wmdiskmon
 Exec=wmdiskmon
 Terminal=false
-Categories=DockApp;WMAKER;
 OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+Categories=DockApp;WMAKER;
 StartupNotify=false
 StartupWMClass=wmdiskmon
 X-Arch-Package=wmdiskmon

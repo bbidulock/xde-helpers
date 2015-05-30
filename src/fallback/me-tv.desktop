@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=me-tv
-X-AppInstall-Popcon=125
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Me TV
 Name[cs]=Me TV
 Name[de]=Me TV
@@ -27,14 +25,13 @@ Comment[nl]=Een digitale televisie (DVB) viewer voor GNOME
 Comment[pl]=Odtwarzacz telewizji cyfrowej (DVB) dla GNOME
 Comment[sl]=Program za gledanje digitalne TV (DVB) za GNOME
 Comment[sv]=En digital-TV-visare (DVB) för GNOME.
+Icon=me-tv
 Exec=me-tv
 X-MultipleArgs=false
-Icon=me-tv
 Terminal=false
-Type=Application
-StartupNotify=true
 Categories=AudioVideo;GTK;TV;
 MimeType=video/mpeg;audio/x-mpeg;video/x-mpeg;
+StartupNotify=true
 X-AppInstall-Package=me-tv
 X-AppInstall-Popcon=125
 X-AppInstall-Section=universe

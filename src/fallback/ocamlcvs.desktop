@@ -1,9 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=cameleon
-X-AppInstall-Popcon=25
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=OCamlCVS
 GenericName=Handle CVS
@@ -11,4 +8,9 @@ GenericName[fr]=Gestion de CVS
 Comment=Visual utility to manage CVS files
 Comment[fr]=Utilitaire visuel pour gérer les fichiers sous CVS
 Exec=ocamlcvs2.byte
+Terminal=false
 Categories=Development;RevisionControl;GTK;
+StartupNotify=false
+X-AppInstall-Package=cameleon
+X-AppInstall-Popcon=25
+X-AppInstall-Section=main

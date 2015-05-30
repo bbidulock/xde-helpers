@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=glabels
-X-AppInstall-Popcon=153
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=gLabels Label Designer
 Name[ca]=Dissenyador d'etiquetes gLabels
 Name[cs]=Návrhář etiket gLabels
@@ -36,10 +34,12 @@ Comment[ru]=Создание этикеток, визитных карточек
 Comment[sl]=Ustvarjanje nalepk, poslovnih vizitk in medijskih platnic
 Comment[sv]=Skapa etiketter, visitkort och skivomslag
 Comment[zh_CN]=制作标签，名片和光盘盒封面
-Exec=glabels %F
 Icon=glabels.png
+Exec=glabels %F
 Terminal=false
-Type=Application
 Categories=GNOME;Application;Office;
-StartupNotify=true
 MimeType=application/x-glabels;
+StartupNotify=true
+X-AppInstall-Package=glabels
+X-AppInstall-Popcon=153
+X-AppInstall-Section=main

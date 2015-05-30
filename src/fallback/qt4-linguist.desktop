@@ -1,13 +1,14 @@
-
 [Desktop Entry]
-Name=Qt4 Linguist 
-Comment=Add translations to Qt4 applications
-TryExec=linguist-qt4
-Exec=linguist-qt4
-Icon=linguist
-MimeType=application/x-linguist;
-Terminal=false
+Version=1.0
 Encoding=UTF-8
 Type=Application
+Name=Qt4 Linguist 
+Comment=Add translations to Qt4 applications
+Icon=linguist
+TryExec=linguist-qt4
+Exec=linguist-qt4
+Terminal=false
 Categories=Qt;Development;
+MimeType=application/x-linguist;
+StartupNotify=false
 X-Desktop-File-Install-Version=0.15

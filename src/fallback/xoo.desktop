@@ -1,14 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Xoo
+Comment=Handheld Device Simulator
+Icon=xoo.png
+Exec=xoo
+Terminal=false
+Categories=GTK;Development;
+StartupNotify=true
 X-AppInstall-Package=xoo
 X-AppInstall-Popcon=11
 X-AppInstall-Section=main
-
-Encoding=UTF-8
-Name=Xoo
-Comment=Handheld Device Simulator
-Exec=xoo
-Terminal=false
-Icon=xoo.png
-Type=Application
-Categories=GTK;Development;
-StartupNotify=true

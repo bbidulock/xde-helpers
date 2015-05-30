@@ -1,13 +1,14 @@
-
 [Desktop Entry]
-Name=Qt3 Linguist 
-Comment=Add translations to Qt3 applications
-TryExec=linguist
-Exec=linguist
-Icon=linguist3
-MimeType=application/x-linguist;
-Terminal=false
+Version=1.0
 Encoding=UTF-8
 Type=Application
+Name=Qt3 Linguist 
+Comment=Add translations to Qt3 applications
+Icon=linguist3
+TryExec=linguist
+Exec=linguist
+Terminal=false
 Categories=Qt;Development;
+MimeType=application/x-linguist;
+StartupNotify=false
 X-Desktop-File-Install-Version=0.15

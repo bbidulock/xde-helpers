@@ -1,21 +1,21 @@
 [Desktop Entry]
-X-AppInstall-Package=gnome-subtitles
-X-AppInstall-Popcon=123
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Gnome Subtitles
 GenericName=Subtitle Editor
 Comment=Video subtitling for the GNOME desktop
-Exec=gnome-subtitles %f
 Icon=gnome-subtitles.png
-StartupNotify=true
+Exec=gnome-subtitles %f
 Terminal=false
-Type=Application
 Categories=GNOME;GTK;Video;AudioVideo;AudioVideoEditing;
 MimeType=application/x-subrip;text/x-mpsub;text/x-ssa;text/x-microdvd;
+StartupNotify=true
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=gnome-subtitles
 X-GNOME-Bugzilla-Component=general
 X-GNOME-Bugzilla-Version=1.0
+X-AppInstall-Package=gnome-subtitles
+X-AppInstall-Popcon=123
+X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,i386,ia64,kfreebsd-amd64,kfreebsd-i386,powerpc,s390,sparc

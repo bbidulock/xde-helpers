@@ -1,8 +1,12 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
 Type=Application
-Categories=X-MandrivaLinux-System-Terminals;TerminalEmulator;
 Name=RXvt
 Comment=A version of the rxvt terminal with support for Traditional Chinese, Simplified Chinese, Japanese and Korean.
+Icon=rxvt-CLE
 TryExec=rxvt
 Exec=rxvt
-Icon=rxvt-CLE
+Terminal=false
+Categories=X-MandrivaLinux-System-Terminals;TerminalEmulator;
+StartupNotify=false

@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=openyahtzee
-X-AppInstall-Popcon=8
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Open Yahtzee
 GenericName=openyahtzee
@@ -10,4 +8,7 @@ Comment=Roll the dice
 Exec=openyahtzee
 Terminal=false
 Categories=Game;BoardGame;
-
+StartupNotify=false
+X-AppInstall-Package=openyahtzee
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main

@@ -1,6 +1,7 @@
-
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Input Method Selector
 Name[bn_IN]=ইনপুট পদ্ধতি নির্বাচন ব্যবস্থা
 Name[da]=Inputmetodevælger
@@ -59,8 +60,8 @@ Comment[pt_BR]=Escolha ou desabilite o método de entrada a ser usado no ambient
 Comment[ru]=Выберите метод ввода или отключите использование метода ввода
 Comment[si]=වැඩතලය මත භාවිත කල යුතු අක්‍ෂර ඇතුලත් කිරීමේ ක්‍රමය තෝරාගැනීම හෝ අක්‍රීය කිරීම
 Comment[sk]=Vyberte, ktorá vstupná metóda sa má používať alebo zakážte používanie vstupnej metódy na desktope
-Comment[sr]=Изаберите метод уноса који ће се користити или искључите коришћење метода уноса на радној површини
 Comment[sr@latin]=Izaberite metod unosa koji će se koristiti ili isključite korišćenje metoda unosa na radnoj površini
+Comment[sr]=Изаберите метод уноса који ће се користити или искључите коришћење метода уноса на радној површини
 Comment[sv]=Välj inmatningsmetod att använda eller avaktivera användning av inmatningsmetod på skrivbordet
 Comment[ta]=பயன்படுத்த அல்லது உள்ளீடு முறை பயன்பாட்டை பணிமேடையில் செயல்நீக்க உள்ளீடு முறையை தேர்ந்தெடுக்கவும்
 Comment[te]=ఉపయోగించుటకు ఇన్‌పుట్ పద్దతిని ఎంచుకొనుము లేదా ఇన్‌పుట్ పద్దతి ఉపయోగాన్ని డెస్క్‍‌టాప్ పైన అచేతనం చేయుము
@@ -69,12 +70,11 @@ Comment[tr]=Masaüstünde giriş yöntemini kullanmak veya iptal etmek için kul
 Comment[uk]=Виберіть спосіб введення або вимкніть використання способів введення
 Comment[zh_CN]=选择要使用的输入法或者在台式机中禁用输入法用法
 Comment[zh_TW]=請選擇欲使用的輸入法或是停用桌面環境所使用的輸入法
+Icon=im-chooser
 TryExec=im-chooser
 Exec=im-chooser
-Icon=im-chooser
 Terminal=false
-Type=Application
-StartupNotify=true
-Categories=Applications;Settings;X-GNOME-PersonalSettings;
 NotShowIn=XFCE;
+Categories=Applications;Settings;X-GNOME-PersonalSettings;
+StartupNotify=true
 X-Desktop-File-Install-Version=0.18

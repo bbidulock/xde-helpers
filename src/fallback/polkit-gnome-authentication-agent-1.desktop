@@ -1,4 +1,7 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=PolicyKit Authentication Agent
 Name[ar]=مدير الاستيثاق PolicyKit
 Name[be]=PolicyKit - аґент аўтэнтыфікацыі
@@ -81,9 +84,8 @@ Comment[zh_HK]=PolicyKit 驗證代理程式
 Comment[zh_TW]=PolicyKit 驗證代理程式
 Exec=/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 Terminal=false
-Type=Application
-Categories=
 NoDisplay=true
 OnlyShowIn=GNOME;
-X-Arch-Package=polkit-gnome 0.105-2
+Categories=
+StartupNotify=false
 X-Arch-Package=polkit-gnome 0.105-2

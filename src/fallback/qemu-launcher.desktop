@@ -1,14 +1,14 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Qemu Launcher
 Name[lt]=Qemu Paleidėjas
 Comment=Manage virtual machine configurations
 Comment[lt]=Tvarkykite virtualaus kompiuterio konfigūracijas
+Icon=qemu-launcher.svg
 Exec=qemu-launcher
 Terminal=false
-Type=Application
-Icon=qemu-launcher.svg
-StartupNotify=true
 Categories=Application;Emulator;Utility
-X-Arch-Package=qemu-launcher 1.7.4-4
+StartupNotify=true
 X-Arch-Package=qemu-launcher 1.7.4-4

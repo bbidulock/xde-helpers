@@ -1,19 +1,18 @@
 [Desktop Entry]
-X-AppInstall-Package=klavaro
-X-AppInstall-Popcon=77
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Klavaro
-
 Comment=Learn to type correctly
+Comment[eo]=Lernu tajpi korekte
 Comment[fr]=Apprenez à taper correctement
 Comment[pt]=Aprenda a digitar corretamente
 Comment[ru]=Научитесь безошибочно печатать
-Comment[eo]=Lernu tajpi korekte
-
-Exec=klavaro
 Icon=_usr_share_icons_hicolor_24x24_apps_klavaro
+Exec=klavaro
 Terminal=false
-Type=Application
 Categories=Education;GTK;
 StartupNotify=true
+X-AppInstall-Package=klavaro
+X-AppInstall-Popcon=77
+X-AppInstall-Section=main

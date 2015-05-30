@@ -1,5 +1,7 @@
-
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Kernel crash dumps
 Name[bn_IN]=কার্নেল ক্র্যাশ ডাম্প
 Name[de]=Kernel-Crash-Dumps
@@ -42,12 +44,10 @@ Comment[ta]=கர்னல் க்ராஷ் டம்ப்களை க�
 Comment[te]=కెర్నల్ క్రాష్ డంప్సును ఆకృతీకరించుము
 Comment[zh_CN]=配置内核崩溃转储
 Comment[zh_TW]=配置 kernel 當機傾印
-Categories=System;Settings;
 Icon=system-config-kdump
 TryExec=system-config-kdump
 Exec=system-config-kdump
-Type=Application
 Terminal=false
+Categories=System;Settings;
 StartupNotify=true
-Encoding=UTF-8
 X-Desktop-File-Install-Version=0.15

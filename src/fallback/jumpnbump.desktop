@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Jump'n'Bump
+Comment=Jump on your opponents to make them explode
+Icon=_usr_share_pixmaps_jumpnbump
+Exec=jumpnbump-menu
+Terminal=false
+Categories=Game;ActionGame;
+StartupNotify=false
 X-AppInstall-Package=jumpnbump
 X-AppInstall-Popcon=33
 X-AppInstall-Section=main
-
-Name=Jump'n'Bump
-Comment=Jump on your opponents to make them explode
-Exec=jumpnbump-menu
-Icon=_usr_share_pixmaps_jumpnbump
-Terminal=false
-Type=Application
-Categories=Game;ActionGame;

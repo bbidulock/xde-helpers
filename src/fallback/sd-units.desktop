@@ -1,4 +1,5 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=Systemd Unit Browser
@@ -6,8 +7,7 @@ GenericName=Systemd Units
 Icon=applications-system
 Exec=sd-units
 Terminal=false
+NotShowIn=GNOME;KDE;XFCE;LXDE;
 Categories=System;
 StartupNotify=true
-NotShowIn=GNOME;KDE;XFCE;LXDE;
-X-Arch-Package=sd-applet 0.01.6-1
 X-Arch-Package=sd-applet 0.01.6-1

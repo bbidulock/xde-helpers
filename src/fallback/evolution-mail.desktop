@@ -1,5 +1,7 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Evolution Mail
 Name[da]=Evolution - e-post-program
 Name[de]=Evolution eMail
@@ -21,9 +23,9 @@ Comment=Read and write emails
 Comment[da]=Læs og skriv e-breve
 Comment[de]=Emails lesen und schreiben
 Comment[es]=Cliente de correo Evolution
+Comment[fi]=Evolution-sähköposti
 Comment[fr]=Lire et écrire des courriers électroniques
 Comment[he]=קרא דואר באמצעות אבולושיין
-Comment[fi]=Evolution-sähköposti
 Comment[is]=Evolution Póstur
 Comment[it]=Leggi e scrivi email
 Comment[nb]=Les og send e-post
@@ -34,11 +36,10 @@ Comment[ro]=Evolution Mail
 Comment[sv]=Visa en notifieringsikon när dokument skrivs ut
 Comment[xh]=I-Imeyili ye-Evolution
 Comment[zh_CN]=Evolution 电子邮件
+Icon=evolution
 TryExec=evolution
 Exec=evolution --component=mail
-Icon=evolution
 Terminal=false
-Type=Application
 Categories=GNOME;Network;
 StartupNotify=true
 X-GNOME-Bugzilla-Bugzilla=GNOME

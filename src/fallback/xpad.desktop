@@ -1,10 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=xpad
-X-AppInstall-Popcon=103
-X-AppInstall-Section=main
-
 Version=1.0
-
+Encoding=UTF-8
+Type=Application
 Name=Xpad
 Name[af]=Xpad
 Name[bg]=Xpad
@@ -72,14 +69,12 @@ Comment[sv]=Plita ner anteckningar för senare användning
 Comment[vi]=Ghi nhanh chú thích đến sau
 Comment[zh_CN]=简要记录备注以备日后使用
 Comment[zh_TW]=大略記下備註以供之後使用
-
+Icon=xpad
 Exec=xpad
 Terminal=false
-Icon=xpad
-
+Categories=GTK;Utility;
 StartupNotify=true
 StartupWMClass=xpad
-
-Type=Application
-Categories=GTK;Utility;
-
+X-AppInstall-Package=xpad
+X-AppInstall-Popcon=103
+X-AppInstall-Section=main

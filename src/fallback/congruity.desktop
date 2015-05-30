@@ -1,10 +1,12 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Congruity
+Exec=congruity %f
+Terminal=false
+MimeType=application/x-easyzapper-hex;application/x-easyzapper-upgrade;application/x-easyzapper-tutor;
+StartupNotify=false
 X-AppInstall-Package=congruity
 X-AppInstall-Popcon=6
 X-AppInstall-Section=main
-
-Name=Congruity
-Exec=congruity %f
-Type=Application
-MimeType=application/x-easyzapper-hex;application/x-easyzapper-upgrade;application/x-easyzapper-tutor;
-

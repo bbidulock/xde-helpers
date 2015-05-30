@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=lottanzb
-X-AppInstall-Popcon=29
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=LottaNZB Automated Usenet Client
 Name[da]=LottaNZB Automatiseret Usenet Klient
 Name[de]=LottaNZB Automatisierter Usenet-Client
@@ -57,9 +55,12 @@ Comment[pt]=Transfira da Usenet com a ajuda de ficheiros NZB
 Comment[ru]=Скачать из Usenet с помощью NZB файлов
 Comment[tr]=NZB dosyalarının yardımıyla Usenetten dosya indirmenizi sağlar
 Comment[zh_CN]=在 NZB 的帮助下从 Usenet 下载文件
-Exec=lottanzb %F
 Icon=lottanzb
+Exec=lottanzb %F
 Terminal=false
-Type=Application
-MimeType=application/x-nzb;application/force-download;
 Categories=Network;FileTransfer;GNOME;GTK;
+MimeType=application/x-nzb;application/force-download;
+StartupNotify=false
+X-AppInstall-Package=lottanzb
+X-AppInstall-Popcon=29
+X-AppInstall-Section=main

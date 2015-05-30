@@ -1,6 +1,6 @@
 [Desktop Entry]
 Version=1.0
-Icon=mozilla
+Encoding=UTF-8
 Type=X-XFCE-Helper
 Name=Mozilla Mail
 Name[ar]=بريد الإلكتوني لموزيلا
@@ -50,6 +50,8 @@ Name[ur]=موزیلا میل
 Name[ur_PK]=موزیلا میل
 Name[zh_CN]=Mozilla 邮件
 Name[zh_TW]=Mozilla 郵件
+Icon=mozilla
+Terminal=false
 StartupNotify=false
 X-XFCE-Binaries=mozilla;mozilla-gtk2;mozilla-gtk;
 X-XFCE-Category=MailReader

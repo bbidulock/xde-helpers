@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Aqualung
+Comment=Gapless audio player
+Icon=aqualung.xpm
+Exec=aqualung
+Terminal=false
+Categories=GTK;AudioVideo;Audio;Player;
+StartupNotify=false
 X-AppInstall-Package=aqualung
 X-AppInstall-Popcon=68
 X-AppInstall-Section=main
-
-Name=Aqualung
-Comment=Gapless audio player
-Exec=aqualung
-Icon=aqualung.xpm
-Categories=GTK;AudioVideo;Audio;Player;
-Terminal=false
-Type=Application

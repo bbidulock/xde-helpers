@@ -1,17 +1,17 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Getting Things GNOME!
+Name[en_US]=Getting Things GNOME!
+Name[pl]=Getting Things GNOME!
+Comment=Personal organizer for the GNOME desktop environment
+Comment[pl]=Osobisty organizer dla środowiska GNOME
+Icon=gtg
+Exec=/usr/bin/gtg %F
+Terminal=false
+Categories=GNOME;GTK;Office;
+StartupNotify=true
 X-AppInstall-Package=gtg
 X-AppInstall-Popcon=88
 X-AppInstall-Section=main
-
-Version=1.0
-Name=Getting Things GNOME!
-Icon=gtg
-Comment=Personal organizer for the GNOME desktop environment
-Comment[pl]=Osobisty organizer dla środowiska GNOME
-Exec=/usr/bin/gtg %F
-Terminal=false
-Type=Application
-Categories=GNOME;GTK;Office;
-StartupNotify=true
-Name[en_US]=Getting Things GNOME!
-Name[pl]=Getting Things GNOME!

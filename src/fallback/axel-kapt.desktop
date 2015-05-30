@@ -1,16 +1,17 @@
 [Desktop Entry]
-X-AppInstall-Package=axel-kapt
-X-AppInstall-Popcon=11
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Axel
 GenericName=Axel Front-end
 Comment=Front-end for Axel - a light download accelerator
-Type=Application
-Exec=axel-kapt %f
-MimeType=text/html;
 Icon=connect_creating
+Exec=axel-kapt %f
 Terminal=false
-X-KDE-SubstituteUID=false
 Categories=Network;FileTransfer;KDE;
+MimeType=text/html;
+StartupNotify=false
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=axel-kapt
+X-AppInstall-Popcon=11
+X-AppInstall-Section=main

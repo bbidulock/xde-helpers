@@ -1,5 +1,7 @@
-
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Bootloader
 Name[ar]=ÙØ­ÙÙÙ Ø§ÙØ¥ÙÙØ§Ø¹
 Name[as]=বুটলোডাৰ
@@ -52,8 +54,8 @@ Name[si]=ඇරඹුම් කාරකය
 Name[sk]=Systémový zavádzač
 Name[sl]=Zagonski nalagalnik
 Name[sq]=Nisjengarkues
-Name[sr]=Покретачки програм
 Name[sr@latin]=Pokretački program
+Name[sr]=Покретачки програм
 Name[sv]=Startprogram
 Name[ta]=துவக்க ஏற்றி
 Name[te]=Bootloader
@@ -115,8 +117,8 @@ GenericName[si]=ඇරඹුම් කාරක මානකරණය
 GenericName[sk]=Konfigurácia systémového zavádzača
 GenericName[sl]=Prikrojitev zagonskega nalagalnika
 GenericName[sq]=Formësim Nisjengarkuesi
-GenericName[sr]=Подешавање покретачког програма
 GenericName[sr@latin]=Podešavanje pokretačkog programa
+GenericName[sr]=Подешавање покретачког програма
 GenericName[sv]=Konfiguration av startprogram
 GenericName[ta]=துவக்க ஏற்றி கட்டமைப்பு
 GenericName[te]=Bootloader ఆకృతీకరణ
@@ -164,8 +166,8 @@ Comment[pt]=Escolha o seu item de arranque predefinido
 Comment[pt_BR]=Escolha a sua entrada de inicialização padrão
 Comment[ru]=Выберите основную загрузочную запись
 Comment[sk]=Vyberte predvolený zavádzaný systém
-Comment[sr]=Изаберите подразумевану ставку за покретање
 Comment[sr@latin]=Izaberite podrazumevanu stavku za pokretanje
+Comment[sr]=Изаберите подразумевану ставку за покретање
 Comment[sv]=Välj det startalternativ du vill använda som standard
 Comment[ta]=உங்கள் முன்னிருப்பு துவக்க உள்ளீட்டை தேர்வு செய்யவும்
 Comment[te]=మీ సిద్ద బూట్ ప్రవేశాన్ని ఎంచుకోండి
@@ -173,11 +175,10 @@ Comment[tr]=Varsayılan önyükleme girdisini seçiniz
 Comment[uk]=Виберіть основний завантажувальний запис
 Comment[zh_CN]=选择您的默认引导条目
 Comment[zh_TW]=請選擇您的預設開機項目
-Categories=System;Settings;
+Icon=system-config-boot
 TryExec=system-config-boot
 Exec=system-config-boot
 Terminal=false
-Type=Application
-Icon=system-config-boot
-Encoding=UTF-8
+Categories=System;Settings;
+StartupNotify=false
 X-Desktop-File-Install-Version=0.18

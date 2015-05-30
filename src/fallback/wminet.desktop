@@ -1,16 +1,17 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=wmInet
 GenericName=Network Monitor
 Comment=A dock app for monitoring internet connections
+Icon=GNUstep3D
 TryExec=wminet
 Exec=wminet
-Icon=GNUstep3D
 Terminal=false
-StartupNotify=false
-Categories=DockApp;WMAKER;
 OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+Categories=DockApp;WMAKER;
+StartupNotify=false
 StartupWMClass=wminet
 X-Arch-Package=wminet
 Actions=Neon;LCD;

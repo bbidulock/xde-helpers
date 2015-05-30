@@ -1,5 +1,7 @@
 [Desktop Entry]
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=File Manager
 Name[ar]=مدير الملفات
 Name[ast]=Xestor de ficheros
@@ -112,11 +114,9 @@ Comment[vi]=Cấu hình trình quản lí tập tin Thunar
 Comment[zh_CN]=配置 Thunar 文件管理器
 Comment[zh_HK]=設定 Thunar 檔案管理員
 Comment[zh_TW]=設定 Thunar 檔案管理員
-Exec=thunar-settings
 Icon=system-file-manager
+Exec=thunar-settings
 Terminal=false
-Type=Application
 Categories=XFCE;GTK;Settings;DesktopSettings;X-XFCE-SettingsDialog;X-XFCE-PersonalSettings;
 StartupNotify=true
-X-Arch-Package=thunar 1.6.10-1
 X-Arch-Package=thunar 1.6.10-1

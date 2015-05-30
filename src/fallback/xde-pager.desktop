@@ -1,4 +1,5 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=Workspace Pager
@@ -8,10 +9,9 @@ Icon=pager
 TryExec=xde-pager
 Exec=xde-pager
 Terminal=false
-Categories=XDE;System;Utilities;
 NotShowIn=GNOME;KDE;XFCE;LXDE;
+Categories=XDE;System;Utilities;
 StartupNotify=true
 StartupWMClass=xde-pager
 X-GNOME-Autostart-enabled=true
-X-Arch-Package=xde-ctools-git 0.1.89.gaaf6c9a-1
 X-Arch-Package=xde-ctools-git 0.1.89.gaaf6c9a-1

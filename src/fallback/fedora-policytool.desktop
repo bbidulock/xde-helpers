@@ -1,13 +1,14 @@
-
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=OpenJDK Policy Tool
 Comment=Manage OpenJDK policy files
+Icon=java
 TryExec=policytool
 Exec=policytool
-Icon=java
 Terminal=false
-Type=Application
-StartupWMClass=sun-security-tools-PolicyTool
 Categories=Development;Java;
-Version=1.0
+StartupNotify=false
+StartupWMClass=sun-security-tools-PolicyTool
 X-Desktop-File-Install-Version=0.18

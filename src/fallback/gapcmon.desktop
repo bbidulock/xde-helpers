@@ -1,15 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=gapcmon
-X-AppInstall-Popcon=37
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
 Type=Application
-Version=1.0
-Exec=gapcmon
-Icon=gapcmon.png
 Name=APCUPSD Monitor
 GenericName=gapcmon
 Comment=Gtk/GUI Monitor program for (U)ninterruptible (P)ower (S)upply under the management of the APCUPSD.sourceforge.net package, also available at gapcmon.sourceforge.net
+Icon=gapcmon.png
+Exec=gapcmon
 Terminal=false
 Categories=GTK;Application;System;
+StartupNotify=false
+X-AppInstall-Package=gapcmon
+X-AppInstall-Popcon=37
+X-AppInstall-Section=main

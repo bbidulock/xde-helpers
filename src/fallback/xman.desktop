@@ -1,12 +1,13 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=X Manual Page
 GenericName=Man Page Viewer
 Comment=Manual page display program for the X Window System
+Icon=xlogo
 TryExec=xman
 Exec=xman
-Icon=xlogo
 Terminal=false
 Categories=X-X11;Application;X-XTool;
 StartupNotify=true

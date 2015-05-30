@@ -1,13 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Kover
+Comment=CD Cover Printer
+Icon=kover
+Exec=kover  
+Terminal=false
+MimeType=application/x-kover
+StartupNotify=false
 X-AppInstall-Package=kover
 X-AppInstall-Popcon=48
 X-AppInstall-Section=main
-
-Type=Application
-MimeType=application/x-kover
-Exec=kover  
-Icon=kover
-Comment=CD Cover Printer
-Terminal=false
-Name=Kover
-Encoding=UTF-8

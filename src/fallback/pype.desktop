@@ -1,15 +1,15 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=PyPE
+Comment=Python Programmers Editor
+Icon=pype
+Exec=pype
+Terminal=false
+Categories=GTK;GNOME;Development;
+MimeType=application/x-python;
+StartupNotify=true
 X-AppInstall-Package=pype
 X-AppInstall-Popcon=20
 X-AppInstall-Section=main
-
-Version=1.0
-Type=Application
-Terminal=false
-Name=PyPE
-Comment=Python Programmers Editor
-Exec=pype
-Icon=pype
-Categories=GTK;GNOME;Development;
-StartupNotify=true
-MimeType=application/x-python;

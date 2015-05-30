@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=SETEDIT
 GenericName=SETEDIT
 Comment=SETEDIT Text Editor
-Exec=setedit
 Icon=text-editor
-Terminal=true
-Type=Application
-Encoding=UTF-8
-Categories=TextEditor;
-X-AfterStep-IndexName=setedit
 TryExec=setedit
+Exec=setedit
+Terminal=true
+Categories=TextEditor;
+StartupNotify=false
+X-AfterStep-IndexName=setedit

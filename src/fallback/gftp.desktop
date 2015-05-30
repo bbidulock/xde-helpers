@@ -1,16 +1,18 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=gFTP
+GenericName=gFTP
 Comment=Download and upload files using multiple file transfer protocols
 Comment[fr]=Télécharge des fichiers en utilisant le protocole FTP
-GenericName=gFTP
+Icon=gftp.png
 TryExec=/usr/bin/gftp
 Exec=gftp %u
-Terminal=false
 X-MultipleArgs=false
-Type=Application
-Icon=gftp.png
+Terminal=false
 Categories=Application;Network;
+StartupNotify=false
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=gftp
 X-GNOME-Bugzilla-Component=general

@@ -1,15 +1,15 @@
-# forwarded to dfo@antex.ru
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=GtkBalls
+GenericName=GtkBalls
+Comment=Puzzle game
+Icon=gtkballs_16x16
+Exec=/usr/games/gtkballs
+Terminal=false
+Categories=Game;LogicGame;
+StartupNotify=false
 X-AppInstall-Package=gtkballs
 X-AppInstall-Popcon=11
 X-AppInstall-Section=main
-
-Name=GtkBalls
-GenericName=GtkBalls
-Icon=gtkballs_16x16
-Comment=Puzzle game
-Exec=/usr/games/gtkballs
-Terminal=false
-StartupNotify=false
-Type=Application
-Categories=Game;LogicGame;

@@ -1,14 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=lwat
-X-AppInstall-Popcon=55
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
+Type=Link
 Name=Change Password
 GenericName=LDAP Password changer
 Comment=Webpage for changing password on ldap-users installation
-Version=1.0
-URL=https://tjener/lwat/chguserpw.php?username=$(id -un)
 Icon=password
-Type=Link
+Terminal=false
 Categories=Network;System;Security
+URL=https://tjener/lwat/chguserpw.php?username=$(id -un)
+StartupNotify=false
+X-AppInstall-Package=lwat
+X-AppInstall-Popcon=55
+X-AppInstall-Section=main

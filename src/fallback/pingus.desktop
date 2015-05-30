@@ -1,11 +1,12 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Pingus
 Comment=A free Lemmings[tm] clone
+Icon=/usr/share/pingus/images/core/editor/actions.png
 Exec=pingus
 Terminal=false
-Type=Application
 Categories=Application;Game;LogicGame
-Icon=/usr/share/pingus/images/core/editor/actions.png
-X-Arch-Package=pingus 0.7.6-14
+StartupNotify=false
 X-Arch-Package=pingus 0.7.6-14

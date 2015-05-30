@@ -1,8 +1,10 @@
 [Desktop Entry]
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Claws Mail
-Name[ja]=Claws Mail
 Name[es]=Claws Mail
+Name[ja]=Claws Mail
 GenericName=E-mail client
 GenericName[ca]=Client de correu electrònic
 GenericName[cs]=E-mailový klient
@@ -18,10 +20,6 @@ GenericName[pl]=Program poczty elektronicznej
 GenericName[pt-br]=Cliente de e-mail
 GenericName[sk]=Poštový klient
 GenericName[sv]=E-postklient
-Exec=claws-mail %u
-Icon=claws-mail
-Categories=Network;Email;GTK;
-Keywords=lightweight;fast;gui;extensible;plugin;pop;pop3;imap;imap4;nntp;news;
 Comment=Lightweight and Fast GTK+ based Mail Client
 Comment[ca]=Client de correu electrònic ràpid i lleuger basat en GTK+
 Comment[cs]=Lehký a rychlý mailový klient založený na GTK+
@@ -37,12 +35,15 @@ Comment[pl]=Program pocztowy używający GTK+
 Comment[pt-br]=Cliente de e-mail leve e rápido, baseado em GTK+
 Comment[sk]=Odľahčený a rýchly poštový klient, založený na GTK+
 Comment[sv]=Lättviktig och snabb GTK+-baserad E-postklient
+Icon=claws-mail
+Exec=claws-mail %u
 Terminal=false
-Type=Application
-StartupNotify=true
+Categories=Network;Email;GTK;
+Keywords=lightweight;fast;gui;extensible;plugin;pop;pop3;imap;imap4;nntp;news;
 MimeType=x-scheme-handler/mailto;
-X-Info=Claws Mail
+StartupNotify=true
 X-Arch-Package=claws-mail 3.11.1-2
+X-Info=Claws Mail
 Actions=GetMail;ComposeMail;SendFile;
 
 [Desktop Action GetMail]

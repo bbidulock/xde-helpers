@@ -1,13 +1,15 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=earth3d
+Comment=eart3d - 3D Model of the earth
+Icon=earth
+Exec=earth3d
+Terminal=false
+Categories=Qt;Education;Science
+StartupNotify=false
+DocPath=
 X-AppInstall-Package=earth3d
 X-AppInstall-Popcon=72
 X-AppInstall-Section=main
-
-Type=Application
-Encoding=UTF-8
-Icon=earth
-Exec=earth3d
-DocPath=
-Comment=eart3d - 3D Model of the earth
-Name=earth3d
-Categories=Qt;Education;Science

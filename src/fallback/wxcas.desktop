@@ -1,15 +1,17 @@
 [Desktop Entry]
-X-AppInstall-Package=amule-utils-gui
-X-AppInstall-Popcon=194
-X-AppInstall-Section=main
-
-Name=wxCas
-Exec=wxcas
-Icon=wxcas
-Terminal=false
+Version=1.0
+Encoding=UTF-8
 Type=Application
-Categories=Network;P2P;
+Name=wxCas
 Comment=aMule online statistics
 Comment[de]=aMule-Onlinestatistik
 Comment[fr]=Statistiques d'aMule en ligne
 Comment[hu]=aMule online statisztikák
+Icon=wxcas
+Exec=wxcas
+Terminal=false
+Categories=Network;P2P;
+StartupNotify=false
+X-AppInstall-Package=amule-utils-gui
+X-AppInstall-Popcon=194
+X-AppInstall-Section=main

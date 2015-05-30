@@ -1,14 +1,16 @@
 [Desktop Entry]
-X-AppInstall-Package=pcb
-X-AppInstall-Popcon=51
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=PCB Designer
 GenericName=PCB Design
 Comment=Create and edit printed circuit board designs
-Type=Application
-Exec=pcb %f
 Icon=pcb
-MimeType=application/x-pcb-layout;application/x-pcb-footprint;
+Exec=pcb %f
+Terminal=false
 Categories=Engineering;Electronics;
+MimeType=application/x-pcb-layout;application/x-pcb-footprint;
+StartupNotify=false
+X-AppInstall-Package=pcb
+X-AppInstall-Popcon=51
+X-AppInstall-Section=main

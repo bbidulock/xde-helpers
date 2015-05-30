@@ -1,8 +1,4 @@
 [Desktop Entry]
-X-AppInstall-Package=gui-apt-key
-X-AppInstall-Popcon=43
-X-AppInstall-Section=main
-
 Version=1.0
 Encoding=UTF-8
 Type=Application
@@ -42,5 +38,8 @@ Comment[de]=Graphisches Administrationwerkzeug für digitale Schlüssel von APT
 Icon=gui-apt-key
 Exec=/usr/bin/su-to-root -X -c /usr/sbin/gak
 Terminal=false
-StartupNotify=false
 Categories=Security;GTK;System;
+StartupNotify=false
+X-AppInstall-Package=gui-apt-key
+X-AppInstall-Popcon=43
+X-AppInstall-Section=main

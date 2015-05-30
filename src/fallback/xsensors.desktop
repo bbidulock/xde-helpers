@@ -1,13 +1,13 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=Xsensors
 GenericName=Hardware Monitor
 Comment=View hardware health
-Exec=xsensors
 Icon=xsensors
+Exec=xsensors
 Terminal=false
-StartupNotify=false
 Categories=System;Monitor;GTK;
-X-Arch-Package=xsensors 0.70-5
+StartupNotify=false
 X-Arch-Package=xsensors 0.70-5

@@ -1,14 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=openstv
-X-AppInstall-Popcon=3
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=OpenSTV Voting Software
 GenericName=Voting Software
 Comment=Conduct a Single Transferable Vote election
-Categories=Office;
-Exec=openstv
 Icon=openstv
+Exec=openstv
 Terminal=false
-Type=Application
+Categories=Office;
+StartupNotify=false
+X-AppInstall-Package=openstv
+X-AppInstall-Popcon=3
+X-AppInstall-Section=main

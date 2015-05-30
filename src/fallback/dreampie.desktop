@@ -1,14 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=DreamPie
+Comment=An interactive Python shell
+Icon=dreampie
+Exec=dreampie
+Terminal=false
+Categories=GTK;Development;
+StartupNotify=true
 X-AppInstall-Package=dreampie
 X-AppInstall-Popcon=11
 X-AppInstall-Section=main
-
-Name=DreamPie
-Comment=An interactive Python shell
-Exec=dreampie
-Icon=dreampie
-Terminal=false
-Type=Application
-Categories=GTK;Development;
-StartupNotify=true
-

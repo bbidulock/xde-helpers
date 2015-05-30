@@ -1,13 +1,16 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
-Name=DVI Viewer
 Type=Application
+Name=DVI Viewer
 Comment=DVI viewer for TeX DVI files
 Icon=gnome-word.png
-MiniIcon=mini-doc1.xpm
 TryExec=xdvi
 Exec=xdvi
-MimeType=application/x-dvi
+Terminal=false
 NoDisplay=true
-X-Desktop-File-Install-Version=0.10
 Categories=Application;Graphics;X-Red-Hat-Extra;
+MimeType=application/x-dvi
+StartupNotify=false
+X-Desktop-File-Install-Version=0.10
+MiniIcon=mini-doc1.xpm

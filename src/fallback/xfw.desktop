@@ -1,4 +1,7 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Xfw
 Name[cs]=Xfw
 Name[de]=Xfw
@@ -47,12 +50,10 @@ Comment[pt_BR]=Um simples editor de texto para o Xfe
 Comment[ru]=Простой текстовый редактор для Xfe
 Comment[sv]=En enkel texteditor för Xfe
 Comment[zh_TW]=Xfe 的簡單的文字編輯器
+Icon=xfw
 Exec=xfw
 Terminal=false
-Type=Application
-StartupNotify=true
-MimeType=text/plain;
-Icon=xfw
 Categories=Utility;TextEditor;
-X-Arch-Package=xfe-arch 1.37-1
+MimeType=text/plain;
+StartupNotify=true
 X-Arch-Package=xfe-arch 1.37-1

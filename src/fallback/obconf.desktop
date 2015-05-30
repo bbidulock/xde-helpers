@@ -1,4 +1,5 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=Openbox Configuration Manager
@@ -21,10 +22,9 @@ Comment[ru]=Настройка Openbox
 Comment[zh_TW]=管理 Openbox 組態設定
 Icon=obconf
 Exec=obconf %f
+Terminal=false
 Categories=Settings;DesktopSettings;GTK;
 MimeType=application/x-openbox-theme;
 StartupNotify=true
-Terminal=false
 X-Desktop-File-Install-Version=0.17
-X-Arch-Package=obconf 2.0.4-1
 X-Arch-Package=obconf 2.0.4-1

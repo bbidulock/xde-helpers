@@ -1,12 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=graphthing
-X-AppInstall-Popcon=49
-X-AppInstall-Section=main
-
 Version=1.0
-Terminal=false
-Icon=graphthing
-Exec=graphthing
+Encoding=UTF-8
+Type=Application
 Name=GraphThing
 GenericName=Graph analysis
 GenericName[en]=Graph analysis
@@ -14,6 +9,11 @@ GenericName[fr]=Analyse de graphes
 Comment=Create, manipulate and study graphs.
 Comment[en]=Create, manipulate and study graphs.
 Comment[fr]=Création, manipulation et étude de graphes.
-Type=Application
+Icon=graphthing
+Exec=graphthing
+Terminal=false
 Categories=Math;Science;Education;
-
+StartupNotify=false
+X-AppInstall-Package=graphthing
+X-AppInstall-Popcon=49
+X-AppInstall-Section=main

@@ -1,15 +1,16 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Bridges
+Comment=Connect the islands together with bridges
+Comment[de]=Verbinde die Inseln durch Brücken
+Comment[fr]=Relier des îles ensembles suivant certaines règles
+Icon=bridges
+Exec=bridges
+Terminal=false
+Categories=Game;LogicGame;
+StartupNotify=false
 X-AppInstall-Package=sgt-puzzles
 X-AppInstall-Popcon=137
 X-AppInstall-Section=main
-
-Version=1.0
-Terminal=false
-Exec=bridges
-Icon=bridges
-Type=Application
-Categories=Game;LogicGame;
-Name=Bridges
-Comment=Connect the islands together with bridges
-Comment[fr]=Relier des îles ensembles suivant certaines règles
-Comment[de]=Verbinde die Inseln durch Brücken

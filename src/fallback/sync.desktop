@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=sync-ui
-X-AppInstall-Popcon=30
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Sync
 Name[ar]=تزامن
 Name[ca]=Sincronització
@@ -45,10 +44,11 @@ Comment[ro]=La zi
 Comment[sv]=Uppdaterad
 Comment[zh_CN]=同步数据
 Comment[zh_TW]=已是最新
-Version=1.0
-Type=Application
-Exec=sync-ui
 Icon=sync
-Categories=Network;GTK;
+Exec=sync-ui
 Terminal=false
+Categories=Network;GTK;
 StartupNotify=true
+X-AppInstall-Package=sync-ui
+X-AppInstall-Popcon=30
+X-AppInstall-Section=main

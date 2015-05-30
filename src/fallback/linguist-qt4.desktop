@@ -1,12 +1,13 @@
 [Desktop Entry]
-Name=Qt4 Linguist 
-Comment=Add translations to Qt4 applications
-Exec=linguist-qt4
-Icon=linguist-qt4
-MimeType=text/vnd.trolltech.linguist;application/x-linguist;
-Terminal=false
+Version=1.0
 Encoding=UTF-8
 Type=Application
+Name=Qt4 Linguist 
+Comment=Add translations to Qt4 applications
+Icon=linguist-qt4
+Exec=linguist-qt4
+Terminal=false
 Categories=Qt;Development;
-X-Arch-Package=qt4 4.8.6-6
+MimeType=text/vnd.trolltech.linguist;application/x-linguist;
+StartupNotify=false
 X-Arch-Package=qt4 4.8.6-6

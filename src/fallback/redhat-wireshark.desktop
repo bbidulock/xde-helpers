@@ -1,15 +1,17 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Wireshark Network Analyzer
 Name[fi]=Wireshark
 Name[sv]=Wireshark
 Comment=Wireshark traffic and network analyzer
 Comment[fi]=Verkkoanalysaattori
 Comment[sv]=Nätverkstrafikanalysator
+Icon=wireshark.png
 TryExec=wireshark
 Exec=wireshark
-Icon=wireshark.png
 Terminal=false
-Type=Application
 Categories=X-Red-Hat-Extra;Application;Network;GTK;
+StartupNotify=false
 X-Desktop-File-Install-Version=0.10

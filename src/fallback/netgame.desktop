@@ -1,15 +1,16 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Net
+Comment=Rotate every tile to fix the network
+Comment[de]=Rotiere jeden Spielstein, um das Netz zu reparieren
+Comment[fr]=Remetter en place les câbles pour réparer le réseau
+Icon=netgame
+Exec=netgame
+Terminal=false
+Categories=Game;LogicGame;
+StartupNotify=false
 X-AppInstall-Package=sgt-puzzles
 X-AppInstall-Popcon=137
 X-AppInstall-Section=main
-
-Version=1.0
-Terminal=false
-Exec=netgame
-Icon=netgame
-Type=Application
-Categories=Game;LogicGame;
-Name=Net
-Comment=Rotate every tile to fix the network
-Comment[fr]=Remetter en place les câbles pour réparer le réseau
-Comment[de]=Rotiere jeden Spielstein, um das Netz zu reparieren

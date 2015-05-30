@@ -1,10 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=xfce4-appfinder
-X-AppInstall-Popcon=409
-X-AppInstall-Section=main
-
 Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Application Finder
 Name[ast]=Guetador d'aplicaciones
 Name[be]=Шукач дастасаваньняў
@@ -83,9 +80,11 @@ Comment[uk]=Шукати та запускати програми встанов
 Comment[ur]=نظام میں نصب اطلاقیے تلاش کریں اور چلائیں
 Comment[ur_PK]=نظام میں نصب اطلاقیے تلاش کریں اور چلائیں
 Comment[zh_CN]=查找并启动您系统上安装的程序
-Exec=xfce4-appfinder
 Icon=xfce4-appfinder
-StartupNotify=true
+Exec=xfce4-appfinder
 Terminal=false
-Type=Application
 Categories=X-XFCE;Utility;
+StartupNotify=true
+X-AppInstall-Package=xfce4-appfinder
+X-AppInstall-Popcon=409
+X-AppInstall-Section=main

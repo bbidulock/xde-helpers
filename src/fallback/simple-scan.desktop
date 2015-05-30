@@ -1,4 +1,7 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Simple Scan
 Name[ar]=مسح بسيط
 Name[ast]=Simple Scan
@@ -77,11 +80,10 @@ Comment[ug]=ھۆججەتلەرنى سكەنلەش
 Comment[uk]=Сканувати документи
 Comment[zh_CN]=扫描文档
 Comment[zh_TW]=掃描文件
+Icon=scanner
 TryExec=simple-scan
 Exec=simple-scan
-Icon=scanner
 Terminal=false
-Type=Application
-StartupNotify=true
 Categories=GNOME;GTK;Graphics;Scanning;
+StartupNotify=true
 X-GNOME-Gettext-Domain=simple-scan

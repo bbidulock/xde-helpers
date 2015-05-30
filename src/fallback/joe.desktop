@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=JOE Text Editor
 GenericName=JOE Text Editor
 Comment=enhanced-WordStar style interface
-Exec=joe
 Icon=text-editor
-Terminal=true
-Type=Application
-Encoding=UTF-8
-Categories=Utility;TextEditor;
-X-AfterStep-IndexName=joe
 TryExec=joe
+Exec=joe
+Terminal=true
+Categories=Utility;TextEditor;
+StartupNotify=false
+X-AfterStep-IndexName=joe
