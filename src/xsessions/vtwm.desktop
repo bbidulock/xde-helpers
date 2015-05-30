@@ -19,7 +19,10 @@ X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=vtwm
 X-Arch-Package=vtwm-git 5.5.0.rc8.15-5
-
+X-Arch-Package-Name=vtwm-git
+X-Arch-Package-Version=5.5.0.rc8.15-5
+X-Arch-Package-Description=A lightweight, customizable window manager with a virtual desktop
+X-Arch-Package-URL=http://www.vtwm.org
 Actions=XDE;
 
 [Desktop Action XDE]

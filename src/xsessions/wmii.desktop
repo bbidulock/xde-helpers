@@ -19,7 +19,10 @@ X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=wmii
 X-Arch-Package=wmii 3.9.2-4
-
+X-Arch-Package-Name=wmii
+X-Arch-Package-Version=3.9.2-4
+X-Arch-Package-Description=A small, dynamic window manager for X11
+X-Arch-Package-URL=http://wmii.suckless.org/
 Actions=XDE;
 
 [Desktop Action XDE]

@@ -23,7 +23,10 @@ X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=Openbox
 X-Arch-Package=lxde-common 0.99.0-2
-
+X-Arch-Package-Name=lxde-common
+X-Arch-Package-Version=0.99.0-2
+X-Arch-Package-Description=Common files of the LXDE Desktop
+X-Arch-Package-URL=http://lxde.org/
 
 [Window Manager]
 SessionManaged=false

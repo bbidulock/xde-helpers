@@ -19,7 +19,10 @@ X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=fvwm
 X-Arch-Package=fvwm-crystal 3.3.2-2
-
+X-Arch-Package-Name=fvwm-crystal
+X-Arch-Package-Version=3.3.2-2
+X-Arch-Package-Description=Transparent Themes for fvwm
+X-Arch-Package-URL=http://fvwm-crystal.sourceforge.net/
 
 [Window Manager]
 SessionManaged=true

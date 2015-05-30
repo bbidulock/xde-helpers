@@ -18,7 +18,10 @@ X-GNOME-Autostart-Phase=Applications
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=evilwm
 X-Arch-Package=evilwm 1.1.0-1
-
+X-Arch-Package-Name=evilwm
+X-Arch-Package-Version=1.1.0-1
+X-Arch-Package-Description=Minimalist but usable window manager for the X Window System
+X-Arch-Package-URL=http://evilwm.sourceforge.net
 Actions=XDE;
 
 [Desktop Action XDE]

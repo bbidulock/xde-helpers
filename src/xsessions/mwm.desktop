@@ -19,7 +19,10 @@ X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=MWM
 X-Arch-Package=lesstif 0.95.2-6
-
+X-Arch-Package-Name=lesstif
+X-Arch-Package-Version=0.95.2-6
+X-Arch-Package-Description=LGPL'd re-implementation of Motif
+X-Arch-Package-URL=http://sourceforge.net/projects/lesstif/
 Actions=XDE;
 
 [Desktop Action XDE]

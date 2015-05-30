@@ -19,7 +19,10 @@ X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=bspwm
 X-Arch-Package=bspwm-git 997-1
-
+X-Arch-Package-Name=bspwm-git
+X-Arch-Package-Version=997-1
+X-Arch-Package-Description=A tiling window manager based on binary space partitioning
+X-Arch-Package-URL=https://github.com/baskerville/bspwm
 Actions=XDE;
 
 [Desktop Action XDE]

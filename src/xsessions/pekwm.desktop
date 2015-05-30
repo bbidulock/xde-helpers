@@ -19,7 +19,10 @@ X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=pekwm
 X-Arch-Package=pekwm-git 1:0.1.17.r115.gf055b87-2
-
+X-Arch-Package-Name=pekwm-git
+X-Arch-Package-Version=1:0.1.17.r115.gf055b87-2
+X-Arch-Package-Description=Small, fast, functional, and flexible window manager
+X-Arch-Package-URL=http://www.pekwm.org/
 Actions=XDE;
 
 [Desktop Action XDE]

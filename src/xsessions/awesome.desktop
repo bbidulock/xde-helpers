@@ -19,7 +19,10 @@ X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=awesome
 X-Arch-Package=awesome-git 3.5.2.423.g1542722-1
-
+X-Arch-Package-Name=awesome-git
+X-Arch-Package-Version=3.5.2.423.g1542722-1
+X-Arch-Package-Description=Highly configurable framework window manager
+X-Arch-Package-URL=http://awesome.naquadah.org/
 Actions=XDE;
 
 [Desktop Action XDE]
