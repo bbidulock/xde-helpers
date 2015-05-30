@@ -42,8 +42,10 @@ dist_appl_DATA = \
 	src/applications/allin1.desktop \
 	src/applications/AlsaMixer.app.desktop \
 	src/applications/asclock.desktop \
+	src/applications/aterm.desktop \
 	src/applications/atop.desktop \
 	src/applications/aumix.desktop \
+	src/applications/balsa.desktop \
 	src/applications/bbpager.desktop \
 	src/applications/bbrun.desktop \
 	src/applications/blackbox.desktop \
@@ -52,26 +54,37 @@ dist_appl_DATA = \
 	src/applications/bvi.desktop \
 	src/applications/bviplus.desktop \
 	src/applications/cacafire.desktop \
+	src/applications/caja.desktop \
 	src/applications/calculator.desktop \
 	src/applications/cbatticon.desktop \
 	src/applications/chbg.desktop \
+	src/applications/chromium.desktop \
 	src/applications/compton.desktop \
 	src/applications/compton-fluxbox.desktop \
 	src/applications/conky.desktop \
 	src/applications/ControlPanel.desktop \
-	src/applications/defaults.list \
+	src/applications/debian-sensible-browser.desktop \
+	src/applications/debian-x-terminal-emulator.desktop \
 	src/applications/dhcpcd-gtk.desktop \
+	src/applications/dillo.desktop \
 	src/applications/docker.desktop \
 	src/applications/editres.desktop \
 	src/applications/eeschema.desktop \
+	src/applications/encompass.desktop \
+	src/applications/epiphany.desktop \
+	src/applications/eterm.desktop \
+	src/applications/evolution.desktop \
 	src/applications/fbpanel.desktop \
 	src/applications/fbrun.desktop \
 	src/applications/fbxkb.desktop \
+	src/applications/firefox.desktop \
 	src/applications/flipse.desktop \
 	src/applications/fluxbox.desktop \
 	src/applications/ftmenu.desktop \
+	src/applications/galeon.desktop \
 	src/applications/gatotray.desktop \
 	src/applications/gmrun.desktop \
+	src/applications/gnome-terminal.desktop \
 	src/applications/gtk2_prefs.desktop \
 	src/applications/gtk-chtheme.desktop \
 	src/applications/gtk-theme-switch2.desktop \
@@ -79,24 +92,43 @@ dist_appl_DATA = \
 	src/applications/gxditview.desktop \
 	src/applications/gxmessage.desktop \
 	src/applications/i3.desktop \
+	src/applications/icecat.desktop \
+	src/applications/icedove.desktop \
+	src/applications/iceweasel.desktop \
 	src/applications/icewm.desktop \
 	src/applications/icewmtray.desktop \
 	src/applications/idesk.desktop \
+	src/applications/iptraf-ng.desktop \
+	src/applications/jumanji.desktop \
 	src/applications/kicad.desktop \
+	src/applications/kmail.desktop \
+	src/applications/konqueror.desktop \
 	src/applications/lal.desktop \
+	src/applications/links.desktop \
 	src/applications/lxde-logout.desktop \
 	src/applications/lxinput.desktop \
 	src/applications/lxpanelctl.desktop \
 	src/applications/lxpanel.desktop \
+	src/applications/lynx.desktop \
 	src/applications/menutray.desktop \
 	src/applications/metacity.desktop \
-	src/applications/mimeinfo.cache \
+	src/applications/midori.desktop \
+	src/applications/mozilla-browser.desktop \
+	src/applications/mozilla-mailer.desktop \
+	src/applications/mutt.desktop \
+	src/applications/nautilus.desktop \
+	src/applications/nethogs.desktop \
+	src/applications/netscape-navigator.desktop \
 	src/applications/nm-applet.desktop \
 	src/applications/notification-properties.desktop \
+	src/applications/nxterm.desktop \
 	src/applications/obxprop.desktop \
 	src/applications/openbox.desktop \
+	src/applications/opera-browser.desktop \
+	src/applications/opera-mailer.desktop \
 	src/applications/pango-view.desktop \
 	src/applications/PathFinder.desktop \
+	src/applications/pcmanfm.desktop \
 	src/applications/peksystray.desktop \
 	src/applications/piedock.desktop \
 	src/applications/pnmixer.desktop \
@@ -109,11 +141,20 @@ dist_appl_DATA = \
 	src/applications/raktpdf.desktop \
 	src/applications/remmina-applet.desktop \
 	src/applications/retrovol.desktop \
+	src/applications/rodent.desktop \
+	src/applications/rox-filer.desktop \
+	src/applications/sakura.desktop \
 	src/applications/sbxkb.desktop \
 	src/applications/slock.desktop \
 	src/applications/smproxy.desktop \
+	src/applications/sylpheed-claws.desktop \
+	src/applications/sylpheed.desktop \
+	src/applications/Thunar.desktop \
+	src/applications/thunderbird.desktop \
 	src/applications/unclutter.desktop \
+	src/applications/urxvt.desktop \
 	src/applications/volume-app.desktop \
+	src/applications/w3m.desktop \
 	src/applications/wmacpi.desktop \
 	src/applications/wmagnify.desktop \
 	src/applications/wmaker.desktop \
@@ -203,6 +244,8 @@ dist_appl_DATA = \
 	src/applications/xdvi.desktop \
 	src/applications/xev.desktop \
 	src/applications/xeyes.desktop \
+	src/applications/xfce4-terminal.desktop \
+	src/applications/xfe.desktop \
 	src/applications/xfig.desktop \
 	src/applications/xfontsel.desktop \
 	src/applications/xinput.desktop \
@@ -220,6 +263,7 @@ dist_appl_DATA = \
 	src/applications/xrefresh.desktop \
 	src/applications/xrestop.desktop \
 	src/applications/xset.desktop \
+	src/applications/xterm.desktop \
 	src/applications/xvidtune.desktop \
 	src/applications/xvinfo.desktop \
 	src/applications/xwd.desktop \
@@ -435,108 +479,564 @@ dist_dock_DATA = \
 	src/dockapps/wmwork.desktop
 
 dist_back_DATA = \
+	src/fallback/2bwm.desktop \
+	src/fallback/2dslamdemo.desktop \
+	src/fallback/3dchess.desktop \
+	src/fallback/a7xpg.desktop \
+	src/fallback/aafire.desktop \
+	src/fallback/abe.desktop \
 	src/fallback/abiword.desktop \
 	src/fallback/about-mageia.desktop \
 	src/fallback/about-mandriva.desktop \
 	src/fallback/about-this-computer.desktop \
+	src/fallback/abraca.desktop \
 	src/fallback/abstractile.desktop \
+	src/fallback/abuse.desktop \
+	src/fallback/accerciser.desktop \
+	src/fallback/AcetoneISO.desktop \
+	src/fallback/achilles.desktop \
+	src/fallback/AClock.desktop \
+	src/fallback/aconnectgui.desktop \
 	src/fallback/activate-screensaver-(next).desktop \
 	src/fallback/activate-screensaver-(previous).desktop \
 	src/fallback/activate-screensaver-(random).desktop \
+	src/fallback/adanaxisgpl.desktop \
+	src/fallback/adept-installer.desktop \
+	src/fallback/adept-manager.desktop \
+	src/fallback/adie.desktop \
+	src/fallback/AdobeReader.desktop \
+	src/fallback/adwm.desktop \
+	src/fallback/aeolus.desktop \
+	src/fallback/aeskulap.desktop \
+	src/fallback/aewm.desktop \
+	src/fallback/aewm++.desktop \
+	src/fallback/AfterStep.desktop \
+	src/fallback/agave.desktop \
+	src/fallback/airstrike.desktop \
+	src/fallback/akonadiconsole.desktop \
+	src/fallback/akonaditray.desktop \
+	src/fallback/akregator.desktop \
 	src/fallback/alacarte.desktop \
+	src/fallback/alarm-clock-applet.desktop \
+	src/fallback/alarm-clock.desktop \
+	src/fallback/albumshaper.desktop \
+	src/fallback/alc.desktop \
+	src/fallback/alex4.desktop \
+	src/fallback/alexandria.desktop \
+	src/fallback/alienblaster.desktop \
+	src/fallback/alleyoop.desktop \
+	src/fallback/allin1.desktop \
 	src/fallback/alltray.desktop \
+	src/fallback/almanah.desktop \
+	src/fallback/AlsaMixer.app.desktop \
 	src/fallback/alsamixer.desktop \
+	src/fallback/alsamixergui.desktop \
+	src/fallback/alsaplayer.desktop \
+	src/fallback/alsoft-conf.desktop \
+	src/fallback/amarok.desktop \
+	src/fallback/amide.desktop \
+	src/fallback/amorad-gui.desktop \
+	src/fallback/amor.desktop \
+	src/fallback/amphetamine.desktop \
+	src/fallback/ams.desktop \
+	src/fallback/amsn.desktop \
+	src/fallback/amsynth.desktop \
+	src/fallback/amule.desktop \
+	src/fallback/amulegui.desktop \
+	src/fallback/angrydd.desktop \
+	src/fallback/anjuta.desktop \
+	src/fallback/anki.desktop \
+	src/fallback/antigravitaattori.desktop \
+	src/fallback/apertium-tolk.desktop \
+	src/fallback/aptitude-gtk.desktop \
 	src/fallback/aptitude-(terminal).desktop \
+	src/fallback/aptoncd.desktop \
+	src/fallback/apvlv.desktop \
+	src/fallback/aqemu.desktop \
+	src/fallback/aqsis.desktop \
+	src/fallback/aqsl.desktop \
+	src/fallback/aqsltell.desktop \
+	src/fallback/aqualung.desktop \
+	src/fallback/arandr.desktop \
+	src/fallback/aranym.desktop \
+	src/fallback/Arch-AUR.desktop \
+	src/fallback/Arch-Bugs.desktop \
+	src/fallback/Arch-Developers.desktop \
+	src/fallback/Arch-Documentation.desktop \
+	src/fallback/Arch-Donate.desktop \
+	src/fallback/Arch-Forum.desktop \
+	src/fallback/Arch-Homepage.desktop \
+	src/fallback/Arch-Schwag.desktop \
+	src/fallback/Arch-SVN.desktop \
+	src/fallback/Arch-Wiki.desktop \
+	src/fallback/arcjobtool.desktop \
+	src/fallback/ardour.desktop \
+	src/fallback/arduino.desktop \
+	src/fallback/ario.desktop \
+	src/fallback/arista.desktop \
+	src/fallback/ark.desktop \
+	src/fallback/armagetronad.desktop \
+	src/fallback/arora.desktop \
+	src/fallback/artha.desktop \
+	src/fallback/asc.desktop \
 	src/fallback/asclock.desktop \
 	src/fallback/asmon.desktop \
+	src/fallback/assistant.desktop \
+	src/fallback/assistant-qt3.desktop \
+	src/fallback/assistant-qt4.desktop \
+	src/fallback/assogiate.desktop \
+	src/fallback/asunder.desktop \
 	src/fallback/aswallpaper.desktop \
+	src/fallback/asylum.desktop \
+	src/fallback/atanks.desktop \
 	src/fallback/aterm.desktop \
+	src/fallback/atomix.desktop \
+	src/fallback/atop.desktop \
 	src/fallback/at-properties.desktop \
+	src/fallback/atris.desktop \
+	src/fallback/attal.desktop \
+	src/fallback/attalscenario.desktop \
 	src/fallback/audacious2.desktop \
 	src/fallback/audacious2-gtkui.desktop \
 	src/fallback/audacious.desktop \
+	src/fallback/audacity.desktop \
+	src/fallback/audex.desktop \
+	src/fallback/aumix.desktop \
+	src/fallback/aumix-gtk.desktop \
 	src/fallback/authconfig.desktop \
+	src/fallback/autokey-gtk.desktop \
+	src/fallback/autokey-qt.desktop \
+	src/fallback/avahi-discover.desktop \
+	src/fallback/avant-window-navigator.desktop \
+	src/fallback/avogadro.desktop \
+	src/fallback/awesome.desktop \
+	src/fallback/awn-manager.desktop \
+	src/fallback/awn-settings.desktop \
+	src/fallback/axel-kapt.desktop \
+	src/fallback/ayttm.desktop \
+	src/fallback/azureus.desktop \
+	src/fallback/backintime-gnome.desktop \
+	src/fallback/backintime-kde4.desktop \
+	src/fallback/balazarbrothers.desktop \
+	src/fallback/balazar.desktop \
+	src/fallback/Balder2D.desktop \
+	src/fallback/ballview.desktop \
+	src/fallback/ballz.desktop \
+	src/fallback/balsa.desktop \
+	src/fallback/balsa-mailto-handler.desktop \
+	src/fallback/bangarang.desktop \
+	src/fallback/banshee-1.desktop \
 	src/fallback/baobab.desktop \
+	src/fallback/bareftp.desktop \
+	src/fallback/barrage.desktop \
 	src/fallback/base.desktop \
 	src/fallback/bash.desktop \
+	src/fallback/basic256.desktop \
+	src/fallback/basket.desktop \
+	src/fallback/bastet.desktop \
+	src/fallback/batmon.desktop \
+	src/fallback/battery-stats.desktop \
+	src/fallback/bauble.desktop \
+	src/fallback/bazaar-properties.desktop \
 	src/fallback/bbkeys.desktop \
 	src/fallback/bbpager.desktop \
 	src/fallback/bbrun.desktop \
 	src/fallback/bc.desktop \
 	src/fallback/beanshell-(text).desktop \
 	src/fallback/beanshell-(windowed).desktop \
+	src/fallback/beidgui35.desktop \
+	src/fallback/beneath-a-steel-sky.desktop \
+	src/fallback/berusky.desktop \
+	src/fallback/bf-animation-editor.desktop \
+	src/fallback/bf-level-editor.desktop \
+	src/fallback/bf-model-editor.desktop \
+	src/fallback/bibledit.desktop \
+	src/fallback/biblememorizer.desktop \
+	src/fallback/bibletime.desktop \
+	src/fallback/bibus.desktop \
+	src/fallback/billard-gl.desktop \
+	src/fallback/biloba.desktop \
+	src/fallback/biniax2.desktop \
+	src/fallback/BioCocoa.desktop \
+	src/fallback/bisho.desktop \
+	src/fallback/bist.desktop \
+	src/fallback/bitmeter.desktop \
+	src/fallback/bitpim.desktop \
+	src/fallback/bitstormlite.desktop \
+	src/fallback/bittornado.desktop \
+	src/fallback/bkchem.desktop \
+	src/fallback/black-box.desktop \
+	src/fallback/blackbox.desktop \
+	src/fallback/blackboxgame.desktop \
+	src/fallback/blam.desktop \
+	src/fallback/bleachbit.desktop \
+	src/fallback/blender.desktop \
+	src/fallback/blender-windowed.desktop \
+	src/fallback/bless.desktop \
+	src/fallback/blinken.desktop \
+	src/fallback/blobAndConquer.desktop \
+	src/fallback/blobby.desktop \
+	src/fallback/bloboats.desktop \
+	src/fallback/blobwars.desktop \
+	src/fallback/blockattack.desktop \
+	src/fallback/blocks.desktop \
+	src/fallback/blocks-of-the-undead.desktop \
+	src/fallback/blogilo.desktop \
+	src/fallback/bluedevil-audio.desktop \
+	src/fallback/bluedevil-input.desktop \
+	src/fallback/bluedevil-monolithic.desktop \
+	src/fallback/bluedevil-sendfile.desktop \
+	src/fallback/bluedevil-wizard.desktop \
+	src/fallback/bluefish.desktop \
 	src/fallback/blueman-manager.desktop \
+	src/fallback/Bluemindo.desktop \
+	src/fallback/blueproximity.desktop \
+	src/fallback/bluetile.desktop \
+	src/fallback/bluetoothctl.desktop \
 	src/fallback/bluetooth-properties.desktop \
 	src/fallback/bluetooth-sendto.desktop \
 	src/fallback/bluetooth-wizard.desktop \
+	src/fallback/bluewho.desktop \
 	src/fallback/bme.desktop \
+	src/fallback/bmon.desktop \
+	src/fallback/boa-constructor.desktop \
+	src/fallback/boats.desktop \
+	src/fallback/boinc-manager.desktop \
+	src/fallback/bomberclone.desktop \
+	src/fallback/bomber.desktop \
 	src/fallback/bonobo-browser.desktop \
+	src/fallback/boswars.desktop \
+	src/fallback/bouml.desktop \
+	src/fallback/bouncy.desktop \
+	src/fallback/bovo.desktop \
+	src/fallback/bpython.desktop \
 	src/fallback/brasero-copy-medium.desktop \
 	src/fallback/brasero.desktop \
 	src/fallback/brasero-nautilus.desktop \
+	src/fallback/bridges.desktop \
+	src/fallback/briquolo.desktop \
+	src/fallback/brutalchess.desktop \
+	src/fallback/bsc.desktop \
+	src/fallback/bsod.desktop \
+	src/fallback/bspwm.desktop \
+	src/fallback/bssh.desktop \
+	src/fallback/btanks.desktop \
+	src/fallback/btnx-config.desktop \
+	src/fallback/bubblemon.desktop \
+	src/fallback/bubbros.desktop \
 	src/fallback/bug-buddy.desktop \
+	src/fallback/bugsquish.desktop \
+	src/fallback/bum.desktop \
+	src/fallback/burgerspace.desktop \
+	src/fallback/buxon.desktop \
+	src/fallback/buzztard-edit.desktop \
+	src/fallback/buzztard-songio-buzz.desktop \
+	src/fallback/bvi.desktop \
+	src/fallback/bviplus.desktop \
+	src/fallback/bvnc.desktop \
+	src/fallback/bygfoot.desktop \
+	src/fallback/byobu.desktop \
+	src/fallback/bzflag.desktop \
+	src/fallback/bzr-explorer.desktop \
+	src/fallback/bzr-handle-patch.desktop \
+	src/fallback/bzr-notify.desktop \
+	src/fallback/c2bciter.desktop \
+	src/fallback/c2bimport.desktop \
+	src/fallback/cacafire.desktop \
+	src/fallback/cadabra.desktop \
+	src/fallback/cairo-clock.desktop \
+	src/fallback/cairo-compmgr.desktop \
+	src/fallback/cairo-dock-cairo.desktop \
+	src/fallback/caja.desktop \
 	src/fallback/calc.desktop \
 	src/fallback/calcoo.desktop \
+	src/fallback/Calculator.desktop \
+	src/fallback/calculator.desktop \
+	src/fallback/calf.desktop \
+	src/fallback/calibre.desktop \
+	src/fallback/cameleon.desktop \
+	src/fallback/cameracalibgui.desktop \
+	src/fallback/Camera.desktop \
+	src/fallback/cameramonitor.desktop \
+	src/fallback/camorama.desktop \
+	src/fallback/canorus.desktop \
+	src/fallback/cantor.desktop \
+	src/fallback/caret.desktop \
 	src/fallback/caribou.desktop \
+	src/fallback/carmetal.desktop \
+	src/fallback/catfish.desktop \
+	src/fallback/cb2bib.desktop \
+	src/fallback/cbatticon.desktop \
+	src/fallback/cbrpager.desktop \
+	src/fallback/ccsm.desktop \
 	src/fallback/cddb-slave.desktop \
+	src/fallback/ceferino.desktop \
+	src/fallback/celestia.desktop \
+	src/fallback/celestia-glut.desktop \
+	src/fallback/cellwriter.desktop \
+	src/fallback/Cenon.desktop \
+	src/fallback/cervisia.desktop \
+	src/fallback/cgmail.desktop \
+	src/fallback/cgoban.desktop \
+	src/fallback/chamo.desktop \
 	src/fallback/character-map.desktop \
+	src/fallback/Charmap.desktop \
+	src/fallback/chatzilla.desktop \
+	src/fallback/chbg.desktop \
+	src/fallback/checkers.desktop \
+	src/fallback/checkgmail.desktop \
 	src/fallback/cheese.desktop \
+	src/fallback/chemtool.desktop \
 	src/fallback/chess-net.desktop \
+	src/fallback/chguserpw.desktop \
+	src/fallback/childsplay.desktop \
+	src/fallback/chmsee.desktop \
+	src/fallback/choqok.desktop \
 	src/fallback/chromium-browser.desktop \
+	src/fallback/chromium-bsu.desktop \
+	src/fallback/chromium.desktop \
+	src/fallback/chui.desktop \
+	src/fallback/circuslinux.desktop \
+	src/fallback/clamtk.desktop \
+	src/fallback/clamz.desktop \
+	src/fallback/claws-mail.desktop \
 	src/fallback/clementine.desktop \
+	src/fallback/clips.desktop \
+	src/fallback/clusterssh.desktop \
 	src/fallback/CMake.desktop \
+	src/fallback/Cn3D-3.0.desktop \
 	src/fallback/codeina.desktop \
+	src/fallback/codelite.desktop \
+	src/fallback/cola.desktop \
+	src/fallback/colorcode.desktop \
+	src/fallback/colorname.desktop \
+	src/fallback/comix.desktop \
+	src/fallback/compiz.desktop \
 	src/fallback/compiz-gtk.desktop \
+	src/fallback/composite.desktop \
+	src/fallback/compton.desktop \
+	src/fallback/compton-fluxbox.desktop \
+	src/fallback/conduit.desktop \
+	src/fallback/conglomerate.desktop \
+	src/fallback/congruity.desktop \
+	src/fallback/conkeror.desktop \
+	src/fallback/conky.desktop \
+	src/fallback/connectagram.desktop \
+	src/fallback/consonance.desktop \
+	src/fallback/contacts.desktop \
+	src/fallback/controlaula.desktop \
+	src/fallback/ControlPanel.desktop \
+	src/fallback/convertall.desktop \
+	src/fallback/coqide.desktop \
 	src/fallback/cosmos-slideshow.desktop \
+	src/fallback/cowbell.desktop \
+	src/fallback/crack-attack.desktop \
+	src/fallback/crawl-tiles.desktop \
+	src/fallback/creox.desktop \
+	src/fallback/critterding.desktop \
+	src/fallback/cryptkeeper.desktop \
+	src/fallback/ctsim.desktop \
+	src/fallback/ctwm.desktop \
+	src/fallback/cube.desktop \
+	src/fallback/cubeview.desktop \
+	src/fallback/cubic.org-opencubicplayer.desktop \
+	src/fallback/cultivation.desktop \
 	src/fallback/cups.desktop \
+	src/fallback/cutecom.desktop \
 	src/fallback/cwaves.desktop \
+	src/fallback/cwm.desktop \
+	src/fallback/Cynthiune.desktop \
 	src/fallback/dash.desktop \
 	src/fallback/dasher.desktop \
 	src/fallback/dasher-text-entry.desktop \
+	src/fallback/dates.desktop \
+	src/fallback/dbforge.desktop \
+	src/fallback/DBModeler.desktop \
 	src/fallback/dc.desktop \
+	src/fallback/dc++.desktop \
+	src/fallback/dc-qt.desktop \
+	src/fallback/ddd.desktop \
+	src/fallback/ddv.desktop \
+	src/fallback/deb-gview.desktop \
 	src/fallback/debian-floaters.desktop \
+	src/fallback/debian-installer-launcher.desktop \
+	src/fallback/debian-reference-common.desktop \
 	src/fallback/debian-sensible-browser.desktop \
 	src/fallback/debian-task-selector.desktop \
 	src/fallback/debian-x-terminal-emulator.desktop \
+	src/fallback/decibel-audio-player.desktop \
 	src/fallback/deco.desktop \
 	src/fallback/default-applications.desktop \
 	src/fallback/default.desktop \
+	src/fallback/defendguin.desktop \
 	src/fallback/deja-dup.desktop \
 	src/fallback/deja-dup-preferences.desktop \
+	src/fallback/deluge.desktop \
 	src/fallback/demo-screen-hacks.desktop \
+	src/fallback/denemo.desktop \
+	src/fallback/designer.desktop \
+	src/fallback/designer-qt3.desktop \
+	src/fallback/designer-qt4.desktop \
+	src/fallback/desktopcouch-pair.desktop \
 	src/fallback/desktop-effects.desktop \
+	src/fallback/desktopnova.desktop \
+	src/fallback/desktopnova-tray.desktop \
+	src/fallback/desmume.desktop \
+	src/fallback/devhelp.desktop \
+	src/fallback/dfeet.desktop \
+	src/fallback/dfo.desktop \
+	src/fallback/dhcpcd-gtk.desktop \
+	src/fallback/dia-common.desktop \
 	src/fallback/dia.desktop \
 	src/fallback/diakonos.desktop \
+	src/fallback/DictionaryReader.desktop \
+	src/fallback/diff-ext.desktop \
+	src/fallback/diffpdf.desktop \
+	src/fallback/diffuse.desktop \
+	src/fallback/digikam.desktop \
 	src/fallback/dillo.desktop \
 	src/fallback/disable-xscreensaver.desktop \
+	src/fallback/disk-manager.desktop \
+	src/fallback/disksearch.desktop \
 	src/fallback/display.desktop \
 	src/fallback/display-properties.desktop \
 	src/fallback/distort.desktop \
+	src/fallback/djplay.desktop \
+	src/fallback/djvulibre-djview3.desktop \
+	src/fallback/djvulibre-djview4.desktop \
+	src/fallback/djvusmooth.desktop \
+	src/fallback/dlume.desktop \
+	src/fallback/dmenu_launch.desktop \
+	src/fallback/dngconverter.desktop \
+	src/fallback/docbook2odf.desktop \
 	src/fallback/docker.desktop \
+	src/fallback/docker-tray.desktop \
+	src/fallback/docky.desktop \
+	src/fallback/dodgindiamond2.desktop \
 	src/fallback/dogtail-recorder.desktop \
+	src/fallback/dolphin.desktop \
+	src/fallback/dominosa.desktop \
+	src/fallback/dopewars.desktop \
+	src/fallback/dosbox.desktop \
+	src/fallback/dragonplayer.desktop \
 	src/fallback/drakbackup.desktop \
 	src/fallback/draknetcenter.desktop \
+	src/fallback/drapes.desktop \
 	src/fallback/draw.desktop \
+	src/fallback/drawxtl.desktop \
+	src/fallback/dreamchess.desktop \
+	src/fallback/dreampie.desktop \
+	src/fallback/drgeo.desktop \
+	src/fallback/driconf.desktop \
+	src/fallback/driftnet.desktop \
+	src/fallback/drpython.desktop \
+	src/fallback/dvdisaster.desktop \
+	src/fallback/dwm.desktop \
+	src/fallback/dwww.desktop \
+	src/fallback/dx.desktop \
+	src/fallback/e16.desktop \
+	src/fallback/e16-gnome2-session.desktop \
+	src/fallback/e16-gnome3-session.desktop \
+	src/fallback/e16-kde-session.desktop \
+	src/fallback/e16-session.desktop \
+	src/fallback/earcandy.desktop \
+	src/fallback/earth3d.desktop \
+	src/fallback/easychem.desktop \
+	src/fallback/EasyDiff.desktop \
+	src/fallback/easymp3gain.desktop \
+	src/fallback/easytag.desktop \
 	src/fallback/eboard.desktop \
+	src/fallback/ebview.desktop \
+	src/fallback/ebwxshell.desktop \
+	src/fallback/echinus.desktop \
+	src/fallback/echomixer.desktop \
 	src/fallback/eclipse.desktop \
+	src/fallback/ede.desktop \
+	src/fallback/EdenMath.desktop \
+	src/fallback/editres.desktop \
+	src/fallback/edit-vcard.desktop \
 	src/fallback/eekboard.desktop \
+	src/fallback/eeschema.desktop \
+	src/fallback/efax-gtk.desktop \
+	src/fallback/efte.desktop \
+	src/fallback/eiciel.desktop \
+	src/fallback/einstein.desktop \
+	src/fallback/eiskaltdcpp.desktop \
 	src/fallback/ekiga.desktop \
+	src/fallback/electric.desktop \
+	src/fallback/electricsheep.desktop \
+	src/fallback/elinks.desktop \
+	src/fallback/ElmerGUI.desktop \
 	src/fallback/elvis.desktop \
+	src/fallback/emacs23.desktop \
+	src/fallback/emacs23-lucid.desktop \
 	src/fallback/emacs.desktop \
+	src/fallback/email-reminder.desktop \
+	src/fallback/ember.desktop \
+	src/fallback/emboss-explorer.desktop \
+	src/fallback/emelfm2.desktop \
+	src/fallback/emerillon.desktop \
+	src/fallback/emesene.desktop \
+	src/fallback/emma.desktop \
 	src/fallback/empathy-accounts.desktop \
 	src/fallback/empathy.desktop \
+	src/fallback/emu8051.desktop \
 	src/fallback/enable-xscreensaver.desktop \
+	src/fallback/encompass.desktop \
+	src/fallback/enemylines3.desktop \
+	src/fallback/enemylines7.desktop \
+	src/fallback/enigma.desktop \
+	src/fallback/entagged.desktop \
+	src/fallback/entrez2.desktop \
+	src/fallback/envy24_control.desktop \
 	src/fallback/eog.desktop \
+	src/fallback/epdfview.desktop \
+	src/fallback/epigrass.desktop \
 	src/fallback/epiphany.desktop \
+	src/fallback/epiphany-game.desktop \
 	src/fallback/epiphany-web-browser.desktop \
+	src/fallback/eqonomize.desktop \
+	src/fallback/eqsl.desktop \
+	src/fallback/eric.desktop \
+	src/fallback/escape-sdl.desktop \
 	src/fallback/esc.desktop \
+	src/fallback/esperanza.desktop \
+	src/fallback/esteidutil.desktop \
 	src/fallback/eterm.desktop \
+	src/fallback/etherape.desktop \
+	src/fallback/ettercap.desktop \
+	src/fallback/etw.desktop \
+	src/fallback/euler.desktop \
+	src/fallback/evilvte.desktop \
+	src/fallback/evilwm.desktop \
 	src/fallback/evince.desktop \
 	src/fallback/evolution.desktop \
 	src/fallback/evolution-mail.desktop \
 	src/fallback/evolution-settings.desktop \
+	src/fallback/evolvotron.desktop \
+	src/fallback/exaile.desktop \
+	src/fallback/exfalso.desktop \
+	src/fallback/exo-file-manager.desktop \
+	src/fallback/exo-mail-reader.desktop \
 	src/fallback/exo-preferred-applications.desktop \
+	src/fallback/exo-terminal-emulator.desktop \
+	src/fallback/exo-web-browser.desktop \
+	src/fallback/expoblending.desktop \
+	src/fallback/extace.desktop \
+	src/fallback/extcalc.desktop \
+	src/fallback/extrema.desktop \
+	src/fallback/extremetuxracer.desktop \
 	src/fallback/eye-of-gnome.desktop \
+	src/fallback/failsafewm.desktop \
+	src/fallback/fantasdic.desktop \
+	src/fallback/fastdnaml.desktop \
+	src/fallback/fatrat.desktop \
+	src/fallback/faum.desktop \
+	src/fallback/fbpanel.desktop \
+	src/fallback/FBReader.desktop \
+	src/fallback/fbrun.desktop \
+	src/fallback/fbxkb.desktop \
+	src/fallback/fceu.desktop \
 	src/fallback/fedora-abrt.desktop \
 	src/fallback/fedora-empathy-accounts.desktop \
 	src/fallback/fedora-empathy.desktop \
@@ -551,67 +1051,322 @@ dist_back_DATA = \
 	src/fallback/fedora-sniff.desktop \
 	src/fallback/fedora-xdvi.desktop \
 	src/fallback/fedora-xsane.desktop \
+	src/fallback/feh.desktop \
+	src/fallback/ferret.desktop \
+	src/fallback/fet.desktop \
+	src/fallback/ffadomixer.desktop \
+	src/fallback/ffado.org-ffadomixer.desktop \
 	src/fallback/fiberlamp.desktop \
+	src/fallback/fifteen.desktop \
+	src/fallback/filelight.desktop \
 	src/fallback/file-roller.desktop \
 	src/fallback/filezilla.desktop \
+	src/fallback/filler.desktop \
+	src/fallback/fillets-ng.desktop \
+	src/fallback/filling.desktop \
 	src/fallback/firefox.desktop \
+	src/fallback/firestarter.desktop \
+	src/fallback/fityk.desktop \
+	src/fallback/flags-slideshow.desktop \
+	src/fallback/flamerobin.desktop \
+	src/fallback/flarq.desktop \
+	src/fallback/flash-player-properties.desktop \
+	src/fallback/flblocks.desktop \
+	src/fallback/flburn.desktop \
+	src/fallback/flcheckers.desktop \
+	src/fallback/fldigi.desktop \
+	src/fallback/flightgear.desktop \
+	src/fallback/flight-of-the-amazon-queen.desktop \
+	src/fallback/flipgame.desktop \
+	src/fallback/flipse.desktop \
+	src/fallback/flmusic.desktop \
+	src/fallback/flobopuyo.desktop \
 	src/fallback/flphoto.desktop \
+	src/fallback/flpsed.desktop \
+	src/fallback/flsudoku.desktop \
+	src/fallback/fltk-editor.desktop \
+	src/fallback/fluff.desktop \
+	src/fallback/fluid.desktop \
+	src/fallback/flush.desktop \
+	src/fallback/fluxbox.desktop \
+	src/fallback/flwm.desktop \
+	src/fallback/fmit.desktop \
+	src/fallback/foff.desktop \
+	src/fallback/fofix.desktop \
+	src/fallback/fontforge.desktop \
+	src/fallback/fontmatrix.desktop \
+	src/fallback/fontypython.desktop \
+	src/fallback/foobillard.desktop \
+	src/fallback/foomatic-gui.desktop \
 	src/fallback/footlogo-floaters.desktop \
+	src/fallback/fotoprint.desktop \
+	src/fallback/fotowall.desktop \
+	src/fallback/fotoxx.desktop \
+	src/fallback/fox.desktop \
+	src/fallback/foxtrotgps.desktop \
+	src/fallback/fpm2.desktop \
+	src/fallback/fqterm.desktop \
+	src/fallback/frama-c.desktop \
+	src/fallback/fraqtive.desktop \
+	src/fallback/freealchemist.desktop \
+	src/fallback/freecad.desktop \
 	src/fallback/freecell.desktop \
+	src/fallback/freeciv-gtk.desktop \
+	src/fallback/freeciv-sdl.desktop \
+	src/fallback/freeciv-xaw3d.desktop \
+	src/fallback/freecol.desktop \
+	src/fallback/freecycle.desktop \
+	src/fallback/freediams.desktop \
+	src/fallback/freedink.desktop \
+	src/fallback/freedink-dfarc.desktop \
+	src/fallback/freedinkedit.desktop \
+	src/fallback/freedm.desktop \
+	src/fallback/freedoom.desktop \
+	src/fallback/freedroid.desktop \
+	src/fallback/freedroidrpg.desktop \
 	src/fallback/free-i.c.s..desktop \
+	src/fallback/freemat.desktop \
+	src/fallback/freemind.desktop \
+	src/fallback/freeplane.desktop \
+	src/fallback/freepops-updater-gnome.desktop \
+	src/fallback/freespeak.desktop \
+	src/fallback/freetennis.desktop \
+	src/fallback/freevial.desktop \
+	src/fallback/freevo.desktop \
+	src/fallback/freewheeling.desktop \
+	src/fallback/freqtweak.desktop \
+	src/fallback/frescobaldi.desktop \
+	src/fallback/fretsonfire-game.desktop \
+	src/fallback/frozen-bubble.desktop \
+	src/fallback/fslint.desktop \
+	src/fallback/fslview.desktop \
 	src/fallback/f-spot.desktop \
 	src/fallback/f-spot-import.desktop \
 	src/fallback/f-spot-screensaver.desktop \
 	src/fallback/f-spot-view.desktop \
+	src/fallback/ftmenu.desktop \
+	src/fallback/FTP.desktop \
+	src/fallback/funnyboat.desktop \
+	src/fallback/furiusisomount.desktop \
+	src/fallback/fusion-icon.desktop \
+	src/fallback/fuss-launcher.desktop \
 	src/fallback/fuzzyflakes.desktop \
+	src/fallback/Fvwm1.desktop \
+	src/fallback/fvwm-crystal.desktop \
+	src/fallback/Fvwm.desktop \
 	src/fallback/fvwm.desktop \
+	src/fallback/fwbuilder.desktop \
+	src/fallback/fyrdman.desktop \
+	src/fallback/fyre.desktop \
+	src/fallback/g2ipmsg.desktop \
+	src/fallback/g3data.desktop \
+	src/fallback/g3dviewer.desktop \
+	src/fallback/gabedit.desktop \
+	src/fallback/gadmin-bind.desktop \
+	src/fallback/gadmin-dhcpd.desktop \
+	src/fallback/gadmin-openvpn-client.desktop \
+	src/fallback/gadmin-openvpn-server.desktop \
+	src/fallback/gadmin-proftpd.desktop \
+	src/fallback/gadmin-rsync.desktop \
+	src/fallback/gadmin-samba.desktop \
+	src/fallback/gadmin-squid.desktop \
+	src/fallback/gaiksaurus.desktop \
+	src/fallback/gajim.desktop \
+	src/fallback/galaxies.desktop \
 	src/fallback/galaxy.desktop \
+	src/fallback/galculator.desktop \
+	src/fallback/galeon.desktop \
+	src/fallback/gallery-uploader.desktop \
+	src/fallback/galternatives.desktop \
+	src/fallback/gamazons.desktop \
+	src/fallback/gambas2.desktop \
+	src/fallback/gambit.desktop \
+	src/fallback/GameConqueror.desktop \
+	src/fallback/gamera-gui.desktop \
+	src/fallback/gamgi.desktop \
+	src/fallback/gamine.desktop \
+	src/fallback/gamix.desktop \
+	src/fallback/gamt.desktop \
+	src/fallback/ganyremote.desktop \
+	src/fallback/gapcmon.desktop \
+	src/fallback/gaphor.desktop \
+	src/fallback/garlic.desktop \
+	src/fallback/gatotray.desktop \
+	src/fallback/gaupol.desktop \
+	src/fallback/gausssum.desktop \
+	src/fallback/gaw.desktop \
+	src/fallback/gazpacho.desktop \
+	src/fallback/gbemol.desktop \
+	src/fallback/gbgoffice.desktop \
+	src/fallback/gbirthday.desktop \
+	src/fallback/gbnclient.desktop \
+	src/fallback/gbnserver.desktop \
+	src/fallback/gbonds.desktop \
+	src/fallback/gbrainy.desktop \
 	src/fallback/gcalctool.desktop \
+	src/fallback/gcdmaster.desktop \
+	src/fallback/gchem3d-0.12.desktop \
+	src/fallback/gchemcalc-0.12.desktop \
+	src/fallback/gchempaint-0.12.desktop \
+	src/fallback/gchemtable-0.12.desktop \
+	src/fallback/gcin-setup.desktop \
+	src/fallback/gcipher.desktop \
 	src/fallback/gcm-import.desktop \
 	src/fallback/gcm-prefs.desktop \
+	src/fallback/gco.desktop \
+	src/fallback/gcolor2.desktop \
+	src/fallback/gcompris.desktop \
+	src/fallback/gcompris-edit.desktop \
+	src/fallback/gconf-cleaner.desktop \
 	src/fallback/gconf-editor.desktop \
+	src/fallback/gconjugue.desktop \
+	src/fallback/gcr-prompter.desktop \
+	src/fallback/gcr-viewer.desktop \
+	src/fallback/gcrystal-0.12.desktop \
+	src/fallback/gcstar.desktop \
+	src/fallback/gcx.desktop \
+	src/fallback/gddccontrol.desktop \
 	src/fallback/gdebi.desktop \
+	src/fallback/gdebi-kde.desktop \
+	src/fallback/gdesklets.desktop \
+	src/fallback/gdevilspie.desktop \
+	src/fallback/gdis.desktop \
+	src/fallback/gdmap.desktop \
 	src/fallback/gdm-flexiserver.desktop \
 	src/fallback/gdmflexiserver.desktop \
 	src/fallback/gdmflexiserver-xnest.desktop \
 	src/fallback/gdmphotosetup.desktop \
 	src/fallback/gdmsetup.desktop \
+	src/fallback/gdpc.desktop \
+	src/fallback/geany.desktop \
+	src/fallback/geda-gattrib.desktop \
+	src/fallback/geda-gschem.desktop \
+	src/fallback/geda-xgsch2pcb.desktop \
 	src/fallback/gedit.desktop \
+	src/fallback/geeqie.desktop \
+	src/fallback/geeqie-gps.desktop \
+	src/fallback/geeqie-standard.desktop \
+	src/fallback/gelemental.desktop \
+	src/fallback/gemanx.desktop \
+	src/fallback/gemdropx.desktop \
+	src/fallback/geoclue-demo-agent.desktop \
+	src/fallback/geoclue-where-am-i.desktop \
+	src/fallback/geogebra.desktop \
+	src/fallback/geomview.desktop \
+	src/fallback/geotranz.desktop \
+	src/fallback/gerbv.desktop \
+	src/fallback/gerstensaft.desktop \
+	src/fallback/gespeaker.desktop \
+	src/fallback/gextractwinicons.desktop \
+	src/fallback/gfax.desktop \
+	src/fallback/gfontview.desktop \
+	src/fallback/gfpoken.desktop \
 	src/fallback/gftp.desktop \
+	src/fallback/ggcov.desktop \
+	src/fallback/ggl-designer.desktop \
+	src/fallback/ggl-gtk.desktop \
 	src/fallback/ggl-qt.desktop \
+	src/fallback/ggobi.desktop \
+	src/fallback/ggzboard.desktop \
+	src/fallback/ggz-gnome.desktop \
+	src/fallback/ggz-gtk.desktop \
+	src/fallback/ggz-txt.desktop \
+	src/fallback/ghcal.desktop \
+	src/fallback/ghemical.desktop \
+	src/fallback/ghex.desktop \
+	src/fallback/ghextris.desktop \
+	src/fallback/ghkl.desktop \
 	src/fallback/ghostview.desktop \
+	src/fallback/giggle.desktop \
+	src/fallback/gigolo.desktop \
+	src/fallback/gimmix.desktop \
 	src/fallback/gimp.desktop \
+	src/fallback/gip.desktop \
+	src/fallback/gitg.desktop \
+	src/fallback/giver.desktop \
+	src/fallback/gjiten.desktop \
+	src/fallback/gjots2.desktop \
+	src/fallback/gkbd-indicator-plugins-capplet.desktop \
 	src/fallback/gkbd-keyboard-display.desktop \
+	src/fallback/gkdebconf.desktop \
+	src/fallback/gkrellm.desktop \
 	src/fallback/gksu.desktop \
+	src/fallback/gksu-properties.desktop \
+	src/fallback/gl-117.desktop \
+	src/fallback/glabels.desktop \
+	src/fallback/glade-3.desktop \
+	src/fallback/glame.desktop \
 	src/fallback/gl-chess.desktop \
 	src/fallback/glchess.desktop \
+	src/fallback/glfer.desktop \
 	src/fallback/glines.desktop \
+	src/fallback/gliv.desktop \
+	src/fallback/glpeces.desktop \
+	src/fallback/glurp.desktop \
+	src/fallback/gmail-notify.desktop \
+	src/fallback/gmanedit.desktop \
+	src/fallback/gmchess.desktop \
+	src/fallback/gmdb.desktop \
 	src/fallback/gmenu-simple-editor.desktop \
+	src/fallback/gmerlin-alsamixer.desktop \
+	src/fallback/gmerlin-camelot.desktop \
+	src/fallback/gmerlin-kbd.desktop \
+	src/fallback/gmerlin-player.desktop \
+	src/fallback/gmerlin-plugincfg.desktop \
+	src/fallback/gmerlin-recorder.desktop \
+	src/fallback/gmerlin-transcoder.desktop \
+	src/fallback/gmerlin-visualizer.desktop \
+	src/fallback/gmfsk.desktop \
 	src/fallback/gmix-(gnome-2.0-mixer).desktop \
+	src/fallback/gmlive.desktop \
+	src/fallback/gmobilemedia.desktop \
+	src/fallback/gmpc.desktop \
+	src/fallback/gmrun.desktop \
+	src/fallback/gmsh.desktop \
+	src/fallback/gmult.desktop \
+	src/fallback/gmusicbrowser.desktop \
+	src/fallback/gmysqlcc.desktop \
 	src/fallback/gnash.desktop \
 	src/fallback/gnect.desktop \
 	src/fallback/gnibbles.desktop \
 	src/fallback/gnobots2.desktop \
+	src/fallback/gnoemoe.desktop \
 	src/fallback/gnome-about.desktop \
 	src/fallback/gnome-about-me.desktop \
 	src/fallback/gnome-accessibility-keyboard.desktop \
+	src/fallback/gnome-activity-journal.desktop \
+	src/fallback/gnome-alsamixer.desktop \
 	src/fallback/gnome-appearance-properties.desktop \
+	src/fallback/gnome-art.desktop \
 	src/fallback/gnome-at-properties.desktop \
 	src/fallback/gnome-background.desktop \
 	src/fallback/gnome-background-panel.desktop \
 	src/fallback/gnome-baobab.desktop \
 	src/fallback/gnome-blackjack.desktop \
+	src/fallback/gnome-blog.desktop \
+	src/fallback/gnome-breakout.desktop \
+	src/fallback/gnome-btdownload.desktop \
 	src/fallback/gnome-bug-buddy.desktop \
+	src/fallback/gnomecatalog.desktop \
 	src/fallback/gnomecc.desktop \
 	src/fallback/gnome-cd.desktop \
+	src/fallback/gnome-chess.desktop \
+	src/fallback/gnome-color-chooser.desktop \
+	src/fallback/gnome-commander.desktop \
 	src/fallback/gnome-control-center.desktop \
 	src/fallback/gnome-datetime-panel.desktop \
 	src/fallback/gnome-default-applications.desktop \
 	src/fallback/gnome-default-printer.desktop \
+	src/fallback/gnome.desktop \
 	src/fallback/gnome-devhelp.desktop \
+	src/fallback/gnome-device-manager.desktop \
 	src/fallback/gnome-dictionary.desktop \
 	src/fallback/gnome-display-panel.desktop \
 	src/fallback/gnome-display-properties.desktop \
+	src/fallback/gnome-do.desktop \
+	src/fallback/gnome-drivel.desktop \
+	src/fallback/gnome-dvb-control.desktop \
+	src/fallback/gnome-dvb-setup.desktop \
 	src/fallback/gnome-ekiga.desktop \
 	src/fallback/gnome-eog.desktop \
 	src/fallback/gnome-file-roller.desktop \
@@ -623,6 +1378,7 @@ dist_back_DATA = \
 	src/fallback/gnome-gdmphotosetup.desktop \
 	src/fallback/gnome-gdmsetup.desktop \
 	src/fallback/gnome-gedit.desktop \
+	src/fallback/gnome-genius.desktop \
 	src/fallback/gnome-gfloppy.desktop \
 	src/fallback/gnome-glade-2.desktop \
 	src/fallback/gnome-glines.desktop \
@@ -637,6 +1393,7 @@ dist_back_DATA = \
 	src/fallback/gnome-gtk-theme-selector.desktop \
 	src/fallback/gnome-gucharmap.desktop \
 	src/fallback/gnome-gyahtzee.desktop \
+	src/fallback/gnome-hearts.desktop \
 	src/fallback/gnome-iagno.desktop \
 	src/fallback/gnome-info-panel.desktop \
 	src/fallback/gnome-invest-chart.desktop \
@@ -644,12 +1401,16 @@ dist_back_DATA = \
 	src/fallback/gnome-keyboard.desktop \
 	src/fallback/gnome-keyboard-panel.desktop \
 	src/fallback/gnome-keyring-prompt.desktop \
+	src/fallback/gnomekiss.desktop \
 	src/fallback/gnome-klotski.desktop \
 	src/fallback/gnome-lines.desktop \
 	src/fallback/gnome-log-viewer.desktop \
 	src/fallback/gnome-mahjongg.desktop \
+	src/fallback/gnome-mastermind.desktop \
 	src/fallback/gnome-media-panel.desktop \
 	src/fallback/gnome-mouse-panel.desktop \
+	src/fallback/gnome-mplayer.desktop \
+	src/fallback/gnome-mud.desktop \
 	src/fallback/gnome-nautilus-autorun-software.desktop \
 	src/fallback/gnome-nautilus-browser.desktop \
 	src/fallback/gnome-nautilus-computer.desktop \
@@ -663,15 +1424,22 @@ dist_back_DATA = \
 	src/fallback/gnome-network-properties.desktop \
 	src/fallback/gnome-network-scheme.desktop \
 	src/fallback/gnome-network-tool.desktop \
+	src/fallback/gnome-paint.desktop \
 	src/fallback/gnome-panel.desktop \
+	src/fallback/gnome-phone-manager.desktop \
+	src/fallback/gnome-photo-printer.desktop \
 	src/fallback/gnome-power-panel.desktop \
 	src/fallback/gnome-power-preferences.desktop \
 	src/fallback/gnome-power-statistics.desktop \
+	src/fallback/gnome-ppp.desktop \
 	src/fallback/gnome-printers-panel.desktop \
+	src/fallback/gnomeradio.desktop \
+	src/fallback/gnome-rdp.desktop \
 	src/fallback/gnome-region-panel.desktop \
 	src/fallback/gnome-robots.desktop \
 	src/fallback/gnome-sabayon.desktop \
 	src/fallback/gnome-same-gnome.desktop \
+	src/fallback/gnome-schedule.desktop \
 	src/fallback/gnome-screen-panel.desktop \
 	src/fallback/gnome-screensaver-preferences.desktop \
 	src/fallback/gnome-screenshot.desktop \
@@ -685,6 +1453,9 @@ dist_back_DATA = \
 	src/fallback/gnome-solitaire-games.desktop \
 	src/fallback/gnome-sound-panel.desktop \
 	src/fallback/gnome-sound-recorder.desktop \
+	src/fallback/gnome-specimen.desktop \
+	src/fallback/gnome-splashscreen-manager.desktop \
+	src/fallback/gnome-subtitles.desktop \
 	src/fallback/gnome-sudoku.desktop \
 	src/fallback/gnome-swell-foop.desktop \
 	src/fallback/gnome-system-log.desktop \
@@ -704,14 +1475,50 @@ dist_back_DATA = \
 	src/fallback/gnome-wm.desktop \
 	src/fallback/gnome-yelp.desktop \
 	src/fallback/gnomine.desktop \
+	src/fallback/gnomint.desktop \
 	src/fallback/gnote.desktop \
+	src/fallback/gnotime.desktop \
 	src/fallback/gnotravex.desktop \
 	src/fallback/gnotski.desktop \
+	src/fallback/gnubg.desktop \
+	src/fallback/gnubiff.desktop \
+	src/fallback/gnubik.desktop \
+	src/fallback/gnucash.desktop \
 	src/fallback/gnuchess.desktop \
+	src/fallback/gnudoq.desktop \
+	src/fallback/gnujump.desktop \
+	src/fallback/gnumed-client.desktop \
 	src/fallback/gnumeric.desktop \
+	src/fallback/gnunet-gtk.desktop \
+	src/fallback/gnunet-qt.desktop \
 	src/fallback/gnuplot.desktop \
+	src/fallback/GNUSim8085.desktop \
+	src/fallback/gnusound.desktop \
+	src/fallback/goattracker.desktop \
+	src/fallback/gobby-0.5.desktop \
+	src/fallback/gobby.desktop \
+	src/fallback/gogglesmm.desktop \
 	src/fallback/gok.desktop \
+	src/fallback/goldendict.desktop \
+	src/fallback/golly.desktop \
+	src/fallback/Gomoku.desktop \
+	src/fallback/goobox.desktop \
+	src/fallback/googlizer.desktop \
+	src/fallback/gopchop.desktop \
+	src/fallback/goplay.desktop \
+	src/fallback/Gorm.desktop \
+	src/fallback/gosa-desktop.desktop \
+	src/fallback/gosmore.desktop \
+	src/fallback/gourmet.desktop \
+	src/fallback/gpaco.desktop \
 	src/fallback/gpa.desktop \
+	src/fallback/gpaint.desktop \
+	src/fallback/gpar2.desktop \
+	src/fallback/gparted.desktop \
+	src/fallback/gpass.desktop \
+	src/fallback/gpdftext.desktop \
+	src/fallback/gperiodic.desktop \
+	src/fallback/gphpedit.desktop \
 	src/fallback/gpicview.desktop \
 	src/fallback/gpilotd-control-applet.desktop \
 	src/fallback/gpk-application.desktop \
@@ -724,25 +1531,167 @@ dist_back_DATA = \
 	src/fallback/gpk-prefs.desktop \
 	src/fallback/gpk-service-pack.desktop \
 	src/fallback/gpk-update-viewer.desktop \
+	src/fallback/gplanarity.desktop \
+	src/fallback/gpodder.desktop \
+	src/fallback/gpointing-device-settings.desktop \
+	src/fallback/gpomme.desktop \
+	src/fallback/gpredict.desktop \
+	src/fallback/gprename.desktop \
+	src/fallback/gpscorrelate.desktop \
+	src/fallback/gpsdrive.desktop \
+	src/fallback/gpsk31.desktop \
+	src/fallback/gpsprune.desktop \
+	src/fallback/gpxviewer.desktop \
+	src/fallback/gquilt.desktop \
+	src/fallback/gqview.desktop \
+	src/fallback/grace.desktop \
+	src/fallback/grafx2.desktop \
+	src/fallback/gramps.desktop \
+	src/fallback/granatier.desktop \
+	src/fallback/grandr.desktop \
+	src/fallback/granule.desktop \
+	src/fallback/graphmonkey.desktop \
+	src/fallback/graphthing.desktop \
+	src/fallback/gravitation.desktop \
+	src/fallback/gravitywars.desktop \
+	src/fallback/grcm.desktop \
+	src/fallback/grdesktop.desktop \
 	src/fallback/grecord-(gnome-2.0-recorder).desktop \
+	src/fallback/greenwich.desktop \
+	src/fallback/gresolver.desktop \
+	src/fallback/gretl.desktop \
+	src/fallback/grhino.desktop \
+	src/fallback/Gridlock.desktop \
+	src/fallback/gridmapnavsimul.desktop \
+	src/fallback/griffith.desktop \
+	src/fallback/gringotts.desktop \
+	src/fallback/grisbi.desktop \
+	src/fallback/groundcontrol.desktop \
+	src/fallback/groupwarewizard.desktop \
+	src/fallback/grpn.desktop \
+	src/fallback/Grr.desktop \
+	src/fallback/grsync.desktop \
+	src/fallback/grub-choose-default.desktop \
+	src/fallback/gscan2pdf.desktop \
+	src/fallback/gscriptor.desktop \
 	src/fallback/gsetroot.desktop \
+	src/fallback/gshare-manager.desktop \
+	src/fallback/gsharp.desktop \
+	src/fallback/gsmartcontrol.desktop \
+	src/fallback/gsmc.desktop \
+	src/fallback/gsoko.desktop \
+	src/fallback/gspectrum-0.12.desktop \
+	src/fallback/gspiceui.desktop \
+	src/fallback/gstm.desktop \
 	src/fallback/gstreamer-properties.desktop \
 	src/fallback/gtali.desktop \
+	src/fallback/GTAMSAnalyzer.desktop \
+	src/fallback/gtans.desktop \
+	src/fallback/gtetrinet.desktop \
+	src/fallback/gtg.desktop \
 	src/fallback/gthumb.desktop \
 	src/fallback/gthumb-import.desktop \
 	src/fallback/gthumb-importer.desktop \
+	src/fallback/gtick.desktop \
+	src/fallback/gtimelog.desktop \
+	src/fallback/gtk2_prefs.desktop \
+	src/fallback/gtk3-demo.desktop \
+	src/fallback/gtk3-icon-browser.desktop \
+	src/fallback/gtk3-widget-factory.desktop \
+	src/fallback/gtkam.desktop \
+	src/fallback/gtkatlantic.desktop \
+	src/fallback/gtkballs.desktop \
+	src/fallback/gtkboard.desktop \
+	src/fallback/gtk-chtheme.desktop \
+	src/fallback/gtk-gnutella.desktop \
+	src/fallback/gtkhash.desktop \
+	src/fallback/gtklick.desktop \
+	src/fallback/gtk-lshw.desktop \
+	src/fallback/gtkorphan.desktop \
+	src/fallback/gtkperf.desktop \
+	src/fallback/gtkpod.desktop \
+	src/fallback/gtk-recordmydesktop.desktop \
 	src/fallback/gtksubtitler.desktop \
+	src/fallback/gtkterm.desktop \
+	src/fallback/gtk-theme-switch2.desktop \
+	src/fallback/gtkvncviewer.desktop \
+	src/fallback/gtkwhiteboard.desktop \
+	src/fallback/gtodo.desktop \
+	src/fallback/gtranslator.desktop \
+	src/fallback/gtweakui-galeon.desktop \
+	src/fallback/gtweakui-menus.desktop \
+	src/fallback/gtweakui-nautilus.desktop \
+	src/fallback/gtweakui-session.desktop \
+	src/fallback/guake.desktop \
+	src/fallback/guarddog.desktop \
+	src/fallback/guayadeque.desktop \
 	src/fallback/gucharmap.desktop \
+	src/fallback/guess.desktop \
+	src/fallback/gufw.desktop \
+	src/fallback/gui-apt-key.desktop \
+	src/fallback/guidedog.desktop \
+	src/fallback/guitarix.desktop \
+	src/fallback/gunroar.desktop \
+	src/fallback/gupnp-av-cp.desktop \
+	src/fallback/gurlchecker.desktop \
 	src/fallback/gurpmi.addmedia.desktop \
+	src/fallback/guvcview.desktop \
+	src/fallback/gvb.desktop \
 	src/fallback/gv.desktop \
 	src/fallback/gvim.desktop \
+	src/fallback/gvncviewer.desktop \
+	src/fallback/gvrng.desktop \
+	src/fallback/gwaei.desktop \
+	src/fallback/gwakeonlan.desktop \
+	src/fallback/gwave.desktop \
+	src/fallback/gwc.desktop \
 	src/fallback/gwcommand.desktop \
+	src/fallback/gweled.desktop \
+	src/fallback/gwenview.desktop \
+	src/fallback/gwhere.desktop \
+	src/fallback/gwibber.desktop \
+	src/fallback/GWorkspace.desktop \
+	src/fallback/gworldclock.desktop \
+	src/fallback/gwrite.desktop \
+	src/fallback/gwyddion.desktop \
+	src/fallback/gxditview.desktop \
+	src/fallback/gxmessage.desktop \
+	src/fallback/gxmms2.desktop \
+	src/fallback/gxneur.desktop \
+	src/fallback/gyrus.desktop \
 	src/fallback/hamster-standalone.desktop \
+	src/fallback/hannah.desktop \
 	src/fallback/harddrake.desktop \
+	src/fallback/hardinfo.desktop \
+	src/fallback/hatariui.desktop \
+	src/fallback/hdfview.desktop \
+	src/fallback/hdspconf.desktop \
+	src/fallback/hdspmixer.desktop \
+	src/fallback/hedgewars.desktop \
+	src/fallback/HelpViewer.desktop \
+	src/fallback/herbstluftwm.desktop \
+	src/fallback/heroes.desktop \
+	src/fallback/hex-a-hop.desktop \
+	src/fallback/hexalate.desktop \
+	src/fallback/hexchat.desktop \
+	src/fallback/hexter.desktop \
+	src/fallback/hitori.desktop \
+	src/fallback/hocr.desktop \
+	src/fallback/holdingnuts.desktop \
+	src/fallback/holotz-castle.desktop \
 	src/fallback/homebank.desktop \
+	src/fallback/horgand.desktop \
+	src/fallback/hornsey.desktop \
+	src/fallback/hotssh.desktop \
+	src/fallback/hotwire.desktop \
 	src/fallback/HP-hplip.desktop \
 	src/fallback/hplip.desktop \
 	src/fallback/hplj1020.desktop \
+	src/fallback/htop.desktop \
+	src/fallback/hugin.desktop \
+	src/fallback/hydrogen.desktop \
+	src/fallback/i3.desktop \
+	src/fallback/i3-with-shmlog.desktop \
 	src/fallback/iagno.desktop \
 	src/fallback/ia-ora-blue-slideshow.desktop \
 	src/fallback/ia-ora-free-slideshow.desktop \
@@ -752,42 +1701,428 @@ dist_back_DATA = \
 	src/fallback/ia-ora-slideshow.desktop \
 	src/fallback/ibus.desktop \
 	src/fallback/ibus-setup.desktop \
+	src/fallback/iceape.desktop \
+	src/fallback/iceape-mailnews.desktop \
+	src/fallback/icebreaker.desktop \
+	src/fallback/icecat.desktop \
+	src/fallback/icedove.desktop \
+	src/fallback/icemon.desktop \
+	src/fallback/iceowl.desktop \
 	src/fallback/iceweasel.desktop \
+	src/fallback/icewm.desktop \
+	src/fallback/icewm-session.desktop \
+	src/fallback/icewmtray.desktop \
+	src/fallback/idesk.desktop \
+	src/fallback/idjc.desktop \
+	src/fallback/idle3.desktop \
+	src/fallback/idle.desktop \
+	src/fallback/idle-python2.5.desktop \
+	src/fallback/idle-python2.6.desktop \
+	src/fallback/idle-python3.1.desktop \
+	src/fallback/ifpgui.desktop \
+	src/fallback/ifrit.desktop \
+	src/fallback/ii-esu.desktop \
+	src/fallback/ike.desktop \
+	src/fallback/ilcontrast.desktop \
+	src/fallback/ilink.desktop \
+	src/fallback/imagej.desktop \
 	src/fallback/imagemagick.desktop \
+	src/fallback/imageshackuploader.desktop \
+	src/fallback/imagination.desktop \
 	src/fallback/im-chooser.desktop \
+	src/fallback/im-config.desktop \
 	src/fallback/impress.desktop \
+	src/fallback/im-switch.desktop \
+	src/fallback/imview.desktop \
+	src/fallback/inertia.desktop \
 	src/fallback/info.desktop \
+	src/fallback/inkblot.desktop \
+	src/fallback/Ink.desktop \
 	src/fallback/inkscape.desktop \
+	src/fallback/innovidata-opennx-admin.desktop \
+	src/fallback/innovidata-opennx.desktop \
+	src/fallback/innovidata-opennx-wizard.desktop \
 	src/fallback/internet-chess-club.desktop \
+	src/fallback/iptraf-ng.desktop \
+	src/fallback/iptux.desktop \
+	src/fallback/ircp-tray.desktop \
+	src/fallback/irkick.desktop \
+	src/fallback/isag.desktop \
+	src/fallback/isomaster.desktop \
+	src/fallback/istanbul.desktop \
+	src/fallback/itksnap.desktop \
 	src/fallback/itweb-settings.desktop \
+	src/fallback/jaaa.desktop \
+	src/fallback/jabref.desktop \
+	src/fallback/jackeq.desktop \
+	src/fallback/jack-rack.desktop \
+	src/fallback/jajuk.desktop \
+	src/fallback/jamin.desktop \
+	src/fallback/javamorph.desktop \
+	src/fallback/Jc_Gui.desktop \
+	src/fallback/jclicauthor.desktop \
+	src/fallback/jclic.desktop \
+	src/fallback/jclicreports.desktop \
 	src/fallback/jconsole.desktop \
+	src/fallback/jd.desktop \
 	src/fallback/jed.desktop \
+	src/fallback/jedit.desktop \
+	src/fallback/jeex.desktop \
+	src/fallback/jemboss.desktop \
+	src/fallback/JFractionLab.desktop \
+	src/fallback/jftp.desktop \
+	src/fallback/jhbuild.desktop \
+	src/fallback/jigzo.desktop \
+	src/fallback/jkmeter.desktop \
+	src/fallback/jlgui.desktop \
+	src/fallback/jmeter.desktop \
 	src/fallback/joe.desktop \
+	src/fallback/jokosher.desktop \
+	src/fallback/josm.desktop \
 	src/fallback/jpackage-chainsaw.desktop \
 	src/fallback/jpackage-logfactor5.desktop \
+	src/fallback/jpilot.desktop \
+	src/fallback/jsymphonic.desktop \
+	src/fallback/juffed.desktop \
+	src/fallback/juk.desktop \
+	src/fallback/jumanji.desktop \
+	src/fallback/jumpnbump.desktop \
+	src/fallback/Jwm.desktop \
+	src/fallback/jxplorer.desktop \
+	src/fallback/k3b.desktop \
+	src/fallback/k3dsurf.desktop \
+	src/fallback/kabikaboo.desktop \
+	src/fallback/kaddressbook.desktop \
+	src/fallback/kadu.desktop \
+	src/fallback/kaffeine.desktop \
+	src/fallback/kalarm.desktop \
+	src/fallback/kalgebra.desktop \
+	src/fallback/kallery.desktop \
+	src/fallback/kalzium.desktop \
+	src/fallback/kamefu.desktop \
+	src/fallback/kanadic-fullkatahira.desktop \
+	src/fallback/kanadic-hira.desktop \
+	src/fallback/kanadic-hiraplus.desktop \
+	src/fallback/kanadic-kata.desktop \
+	src/fallback/kanadic-kataplus.desktop \
+	src/fallback/kanagram.desktop \
+	src/fallback/kanatest.desktop \
+	src/fallback/kanyremote.desktop \
+	src/fallback/kapman.desktop \
+	src/fallback/kappfinder.desktop \
+	src/fallback/kapptemplate.desktop \
+	src/fallback/karbon.desktop \
+	src/fallback/kasablanca.desktop \
+	src/fallback/kasumi.desktop \
+	src/fallback/kate.desktop \
+	src/fallback/katesnippetstng_editor.desktop \
+	src/fallback/katomic.desktop \
+	src/fallback/katoob.desktop \
+	src/fallback/kazehakase.desktop \
+	src/fallback/kbackup.desktop \
+	src/fallback/kball.desktop \
+	src/fallback/kbarcode-batch.desktop \
+	src/fallback/kbarcode.desktop \
+	src/fallback/kbarcode-editor.desktop \
+	src/fallback/kbarcode-single.desktop \
+	src/fallback/kbattleship.desktop \
+	src/fallback/kbibtex.desktop \
+	src/fallback/kblackbox.desktop \
+	src/fallback/kblocks.desktop \
+	src/fallback/kbounce.desktop \
+	src/fallback/kbreakout.desktop \
+	src/fallback/kbruch.desktop \
+	src/fallback/kbugbuster.desktop \
+	src/fallback/kcachegrind.desktop \
+	src/fallback/kcalc.desktop \
+	src/fallback/kcc.desktop \
+	src/fallback/KCharSelect.desktop \
+	src/fallback/kcheckgmail.desktop \
+	src/fallback/kchmviewer.desktop \
+	src/fallback/kcollectd.desktop \
+	src/fallback/kcolorchooser.desktop \
+	src/fallback/kdbg.desktop \
+	src/fallback/kdenlive.desktop \
+	src/fallback/kdepasswd.desktop \
+	src/fallback/kdesnake.desktop \
+	src/fallback/kdesvn-build.desktop \
+	src/fallback/kdesvn.desktop \
+	src/fallback/kdevelop.desktop \
+	src/fallback/kdf.desktop \
+	src/fallback/kdiamond.desktop \
+	src/fallback/kdiff3.desktop \
+	src/fallback/kdissert.desktop \
+	src/fallback/kdrill.desktop \
+	src/fallback/keen.desktop \
+	src/fallback/keepalive.desktop \
+	src/fallback/keepassx.desktop \
+	src/fallback/keep.desktop \
+	src/fallback/ketm.desktop \
+	src/fallback/keurocalc.desktop \
+	src/fallback/kexi.desktop \
 	src/fallback/keybinding.desktop \
 	src/fallback/keyboard.desktop \
+	src/fallback/keysafe.desktop \
+	src/fallback/keytouch.desktop \
+	src/fallback/keytouch-editor.desktop \
+	src/fallback/kfilereplace.desktop \
+	src/fallback/kfind.desktop \
+	src/fallback/kflickr.desktop \
+	src/fallback/KFloppy.desktop \
+	src/fallback/kfontview.desktop \
+	src/fallback/kfourinline.desktop \
+	src/fallback/kftpgrabber.desktop \
+	src/fallback/kgeography.desktop \
+	src/fallback/kget.desktop \
+	src/fallback/KGoldrunner.desktop \
+	src/fallback/kgpg.desktop \
+	src/fallback/khangman.desktop \
+	src/fallback/khmerconverter.desktop \
+	src/fallback/kicad.desktop \
+	src/fallback/kid3.desktop \
+	src/fallback/kid3-qt.desktop \
+	src/fallback/kig.desktop \
+	src/fallback/kigo.desktop \
+	src/fallback/kiki.desktop \
+	src/fallback/kiki-the-nano-bot.desktop \
+	src/fallback/kildclient.desktop \
+	src/fallback/kile.desktop \
+	src/fallback/killbots.desktop \
+	src/fallback/kimagemapeditor.desktop \
+	src/fallback/kinfocenter.desktop \
 	src/fallback/Kino.desktop \
+	src/fallback/kipiplugins.desktop \
+	src/fallback/kiriki.desktop \
+	src/fallback/kiten.desktop \
+	src/fallback/Kjots.desktop \
+	src/fallback/kjumpingcube.desktop \
+	src/fallback/kkbswitch.desktop \
+	src/fallback/klamav.desktop \
+	src/fallback/klash.desktop \
+	src/fallback/klavaro.desktop \
+	src/fallback/kleopatra.desktop \
+	src/fallback/kleopatra_import.desktop \
+	src/fallback/klettres.desktop \
+	src/fallback/klibido.desktop \
+	src/fallback/klines.desktop \
+	src/fallback/klinkstatus.desktop \
+	src/fallback/klipper.desktop \
+	src/fallback/klog.desktop \
+	src/fallback/klogic.desktop \
+	src/fallback/kluppe.desktop \
+	src/fallback/kmag.desktop \
+	src/fallback/kmahjongg.desktop \
+	src/fallback/KMail.desktop \
+	src/fallback/kmail.desktop \
+	src/fallback/kmailservice.desktop \
+	src/fallback/kmenuedit.desktop \
+	src/fallback/kmess.desktop \
+	src/fallback/kmidimon.desktop \
+	src/fallback/kmines.desktop \
+	src/fallback/kmix.desktop \
+	src/fallback/kmldonkey.desktop \
+	src/fallback/kmousetool.desktop \
+	src/fallback/kmouth.desktop \
+	src/fallback/kmplayer.desktop \
+	src/fallback/kmplot.desktop \
+	src/fallback/kmyfirewall.desktop \
+	src/fallback/kmymoney.desktop \
+	src/fallback/knemo.desktop \
+	src/fallback/knetattach.desktop \
+	src/fallback/knetdockapp.desktop \
+	src/fallback/knetwalk.desktop \
+	src/fallback/knetworkmanager.desktop \
+	src/fallback/knmap.desktop \
+	src/fallback/KNode.desktop \
+	src/fallback/knotes.desktop \
+	src/fallback/kobby.desktop \
+	src/fallback/kobodeluxe.desktop \
+	src/fallback/koffice.desktop \
+	src/fallback/kolf.desktop \
+	src/fallback/kollision.desktop \
+	src/fallback/kolourpaint.desktop \
+	src/fallback/komparator4.desktop \
+	src/fallback/kompare.desktop \
+	src/fallback/kompozer.desktop \
+	src/fallback/konqueror.desktop \
+	src/fallback/konquest.desktop \
+	src/fallback/konsole.desktop \
+	src/fallback/konsolekalendar.desktop \
+	src/fallback/konstruktor.desktop \
+	src/fallback/Kontact.desktop \
+	src/fallback/konversation.desktop \
+	src/fallback/kopete.desktop \
+	src/fallback/korganizer.desktop \
+	src/fallback/koules.desktop \
+	src/fallback/kover.desktop \
+	src/fallback/kpat.desktop \
+	src/fallback/kphotoalbum.desktop \
+	src/fallback/kplato.desktop \
+	src/fallback/kplayer.desktop \
+	src/fallback/Kppp.desktop \
+	src/fallback/kppplogview.desktop \
+	src/fallback/kpresenter.desktop \
+	src/fallback/kradio.desktop \
+	src/fallback/kraft.desktop \
+	src/fallback/krandrtray.desktop \
+	src/fallback/krank.desktop \
+	src/fallback/krb5-auth-dialog-preferences.desktop \
+	src/fallback/krdc.desktop \
+	src/fallback/krecipes.desktop \
+	src/fallback/krename.desktop \
+	src/fallback/kresources.desktop \
+	src/fallback/kreversi.desktop \
+	src/fallback/krfb.desktop \
+	src/fallback/krita.desktop \
+	src/fallback/kruler.desktop \
+	src/fallback/krusader.desktop \
+	src/fallback/ksame.desktop \
+	src/fallback/kscd.desktop \
+	src/fallback/kscope.desktop \
+	src/fallback/ksed.desktop \
+	src/fallback/kseg.desktop \
+	src/fallback/kshisen.desktop \
+	src/fallback/kshutdown.desktop \
+	src/fallback/ksirk.desktop \
+	src/fallback/ksirkskineditor.desktop \
+	src/fallback/ksnapshot.desktop \
+	src/fallback/ksniffer.desktop \
+	src/fallback/kspaceduel.desktop \
+	src/fallback/kspread.desktop \
+	src/fallback/ksquares.desktop \
+	src/fallback/ksshaskpass.desktop \
+	src/fallback/kstars.desktop \
+	src/fallback/kst.desktop \
+	src/fallback/kstreamripper.desktop \
+	src/fallback/ksudoku.desktop \
+	src/fallback/ksysguard.desktop \
+	src/fallback/ksystemlog.desktop \
+	src/fallback/kteatime.desktop \
+	src/fallback/ktelnetservice.desktop \
+	src/fallback/KThesaurus.desktop \
+	src/fallback/ktictactux.desktop \
+	src/fallback/ktimer.desktop \
+	src/fallback/ktimetracker.desktop \
+	src/fallback/ktoon.desktop \
+	src/fallback/ktorrent.desktop \
+	src/fallback/ktouch.desktop \
+	src/fallback/ktron.desktop \
+	src/fallback/kttsmgr.desktop \
+	src/fallback/ktuberling.desktop \
+	src/fallback/kturtle.desktop \
+	src/fallback/kubrick.desktop \
+	src/fallback/kuiviewer.desktop \
+	src/fallback/kupfer.desktop \
+	src/fallback/kuser.desktop \
+	src/fallback/kvirc.desktop \
+	src/fallback/kvkbd.desktop \
+	src/fallback/kvpnc.desktop \
+	src/fallback/kwalletmanager.desktop \
+	src/fallback/kwave.desktop \
+	src/fallback/kwikdisk.desktop \
+	src/fallback/kword.desktop \
+	src/fallback/kwordquiz.desktop \
+	src/fallback/kwrite.desktop \
+	src/fallback/kzenexplorer.desktop \
+	src/fallback/LabPlot.desktop \
+	src/fallback/laby.desktop \
+	src/fallback/lalcal.desktop \
+	src/fallback/lal.desktop \
+	src/fallback/larswm.desktop \
+	src/fallback/last-exit.desktop \
+	src/fallback/lastfm.desktop \
+	src/fallback/lat.desktop \
+	src/fallback/latexdraw.desktop \
+	src/fallback/latexila.desktop \
+	src/fallback/lazarus.desktop \
+	src/fallback/lbreakout2.desktop \
 	src/fallback/leafpad.desktop \
 	src/fallback/le.desktop \
+	src/fallback/lekhonee-gnome.desktop \
 	src/fallback/libfm-pref-apps.desktop \
+	src/fallback/libreoffice-base.desktop \
 	src/fallback/libreoffice-calc.desktop \
 	src/fallback/libreoffice-draw.desktop \
 	src/fallback/libreoffice-impress.desktop \
 	src/fallback/libreoffice-math.desktop \
 	src/fallback/libreoffice-startcenter.desktop \
 	src/fallback/libreoffice-writer.desktop \
+	src/fallback/libreoffice-xsltfilter.desktop \
+	src/fallback/libsmfm-pref-apps.desktop \
+	src/fallback/licq.desktop \
+	src/fallback/licq-qt3.desktop \
+	src/fallback/licq-qt4.desktop \
+	src/fallback/lifeograph.desktop \
 	src/fallback/liferea.desktop \
 	src/fallback/lightsoff.desktop \
+	src/fallback/lightup.desktop \
+	src/fallback/lightyears.desktop \
+	src/fallback/liguidsoap.desktop \
+	src/fallback/lincity.desktop \
+	src/fallback/lincity-ng.desktop \
+	src/fallback/lingot.desktop \
+	src/fallback/linguist.desktop \
+	src/fallback/linguist-qt3.desktop \
+	src/fallback/linguist-qt4.desktop \
+	src/fallback/linkmap.desktop \
+	src/fallback/links2.desktop \
 	src/fallback/links.desktop \
+	src/fallback/linphone.desktop \
+	src/fallback/linsmith.desktop \
+	src/fallback/linthesia.desktop \
+	src/fallback/liquidwar.desktop \
+	src/fallback/listen.desktop \
+	src/fallback/literki.desktop \
+	src/fallback/littlewizard.desktop \
+	src/fallback/live-magic.desktop \
+	src/fallback/LiVES.desktop \
+	src/fallback/lletters.desktop \
+	src/fallback/ll-scope.desktop \
+	src/fallback/lmarbles.desktop \
+	src/fallback/lmemory.desktop \
 	src/fallback/lock-screen-(xscreensaver).desktop \
+	src/fallback/lodscore.desktop \
+	src/fallback/logjam.desktop \
+	src/fallback/lokalize.desktop \
+	src/fallback/londonlaw.desktop \
+	src/fallback/longomatch.desktop \
+	src/fallback/loopy.desktop \
+	src/fallback/lordsawar.desktop \
+	src/fallback/lostirc.desktop \
+	src/fallback/lottanzb.desktop \
+	src/fallback/love.desktop \
+	src/fallback/lp-review-list.desktop \
+	src/fallback/lprof.desktop \
+	src/fallback/lshw-gtk.desktop \
+	src/fallback/lskat.desktop \
+	src/fallback/ltris.desktop \
+	src/fallback/luckybackup.desktop \
+	src/fallback/lunch.desktop \
+	src/fallback/luola.desktop \
+	src/fallback/LuserNET.desktop \
+	src/fallback/lv2rack.desktop \
 	src/fallback/lxappearance.desktop \
+	src/fallback/LXDE.desktop \
 	src/fallback/lxde-logout.desktop \
+	src/fallback/lxde-screenlock.desktop \
+	src/fallback/lxinput.desktop \
+	src/fallback/lxkb-config.desktop \
+	src/fallback/lxmusic.desktop \
+	src/fallback/lxpanelctl.desktop \
+	src/fallback/lxpanel.desktop \
 	src/fallback/lxrandr.desktop \
+	src/fallback/lxsession-default-apps.desktop \
+	src/fallback/lxsession-edit.desktop \
+	src/fallback/lxshortcut.desktop \
 	src/fallback/lxtask.desktop \
 	src/fallback/lxterminal.desktop \
+	src/fallback/lybniz.desktop \
+	src/fallback/lynis.desktop \
+	src/fallback/Lynkeos.desktop \
 	src/fallback/lynx.desktop \
+	src/fallback/lyx.desktop \
 	src/fallback/m6502.desktop \
+	src/fallback/madbomber.desktop \
 	src/fallback/mageia-drakconf.desktop \
 	src/fallback/mageia-grip.desktop \
 	src/fallback/mageia-gurpmi.desktop \
@@ -796,7 +2131,11 @@ dist_back_DATA = \
 	src/fallback/mageiaupdate.desktop \
 	src/fallback/mageia-userdrake.desktop \
 	src/fallback/mageia-xterm.desktop \
+	src/fallback/magnets.desktop \
+	src/fallback/mah-jong.desktop \
 	src/fallback/mahjongg.desktop \
+	src/fallback/mail-notification.desktop \
+	src/fallback/mailtc.desktop \
 	src/fallback/manage-print-jobs.desktop \
 	src/fallback/mandriva-avidemux-gtk.desktop \
 	src/fallback/mandriva-doc-Drakxtools-Guide-en.desktop \
@@ -824,25 +2163,115 @@ dist_back_DATA = \
 	src/fallback/mandriva-xkill.desktop \
 	src/fallback/mandriva-xterm.desktop \
 	src/fallback/mandriva-z42tool.desktop \
+	src/fallback/mango-lassi.desktop \
+	src/fallback/mantis-wm.desktop \
+	src/fallback/map.desktop \
+	src/fallback/marble.desktop \
+	src/fallback/massxpert.desktop \
+	src/fallback/matchbox-keyboard.desktop \
 	src/fallback/math.desktop \
+	src/fallback/mathomatic.desktop \
+	src/fallback/MathWar.desktop \
+	src/fallback/matwm2.desktop \
+	src/fallback/mb-panel-manager.desktop \
 	src/fallback/mc.desktop \
 	src/fallback/mcedit.desktop \
+	src/fallback/mcu8051ide.desktop \
+	src/fallback/mdbtools-gmdb.desktop \
+	src/fallback/mediatomb.desktop \
+	src/fallback/medit.desktop \
+	src/fallback/meld.desktop \
+	src/fallback/melting-gui.desktop \
+	src/fallback/menutray.desktop \
+	src/fallback/meritous.desktop \
+	src/fallback/merkaartor.desktop \
+	src/fallback/meshlab.desktop \
 	src/fallback/metaballs.desktop \
 	src/fallback/metacity.desktop \
+	src/fallback/meterbridge.desktop \
+	src/fallback/me-tv.desktop \
+	src/fallback/mgm.desktop \
+	src/fallback/mhwaveedit.desktop \
+	src/fallback/micropolis.desktop \
 	src/fallback/midori.desktop \
-	src/fallback/mimeinfo.cache \
+	src/fallback/midori-private.desktop \
+	src/fallback/milkytracker.desktop \
+	src/fallback/minbar.desktop \
 	src/fallback/mined.desktop \
+	src/fallback/Mines.desktop \
+	src/fallback/mines.desktop \
+	src/fallback/minirok.desktop \
+	src/fallback/minitube.desktop \
+	src/fallback/mirage.desktop \
+	src/fallback/miro.desktop \
+	src/fallback/mirrormagic.desktop \
+	src/fallback/mistelix.desktop \
+	src/fallback/mit-scheme.desktop \
 	src/fallback/mixer.app.desktop \
+	src/fallback/mkvtoolnix-gui.desktop \
+	src/fallback/mldonkey-gui.desktop \
+	src/fallback/mlink.desktop \
 	src/fallback/mlterm.desktop \
+	src/fallback/mm3d.desktop \
+	src/fallback/mmass.desktop \
+	src/fallback/mmpong-gl.desktop \
+	src/fallback/mnemosyne.desktop \
+	src/fallback/moc-tray.desktop \
+	src/fallback/model-builder.desktop \
+	src/fallback/modest.desktop \
+	src/fallback/mokomaze.desktop \
+	src/fallback/monajat.desktop \
+	src/fallback/monkeystudio.desktop \
+	src/fallback/monodevelop.desktop \
+	src/fallback/monodoc.desktop \
+	src/fallback/monodoc-http.desktop \
+	src/fallback/monster-masher.desktop \
+	src/fallback/monsterz.desktop \
+	src/fallback/moovida.desktop \
+	src/fallback/motd-editor.desktop \
 	src/fallback/mount-archive.desktop \
+	src/fallback/mount-gtk.desktop \
 	src/fallback/mousepad.desktop \
+	src/fallback/mousetrap.desktop \
+	src/fallback/mozilla-browser.desktop \
 	src/fallback/mozilla-firefox.desktop \
+	src/fallback/mozilla-mailer.desktop \
 	src/fallback/mozilla-thunderbird.desktop \
+	src/fallback/mp3diags.desktop \
+	src/fallback/mp3splt-gtk.desktop \
+	src/fallback/MPDCon.desktop \
 	src/fallback/mplayer.desktop \
+	src/fallback/mpv.desktop \
+	src/fallback/mrtrix.desktop \
+	src/fallback/mscore.desktop \
+	src/fallback/mtink.desktop \
+	src/fallback/mtpaint.desktop \
+	src/fallback/mu-cade.desktop \
+	src/fallback/muehle.desktop \
+	src/fallback/muine.desktop \
+	src/fallback/multiget.desktop \
+	src/fallback/multisync.desktop \
+	src/fallback/mumble.desktop \
+	src/fallback/mupdf.desktop \
+	src/fallback/mupen64plus.desktop \
+	src/fallback/murmur.desktop \
+	src/fallback/muse.desktop \
+	src/fallback/museeq.desktop \
+	src/fallback/musetup-gtk.desktop \
 	src/fallback/mutt.desktop \
 	src/fallback/mutter.desktop \
+	src/fallback/mutter-wayland.desktop \
+	src/fallback/mwm.desktop \
 	src/fallback/my-default-printer.desktop \
+	src/fallback/mypaint.desktop \
+	src/fallback/MySQLAdministrator.desktop \
+	src/fallback/mysql-navigator.desktop \
+	src/fallback/MySQLQueryBrowser.desktop \
+	src/fallback/nact.desktop \
+	src/fallback/nagstamon.desktop \
 	src/fallback/nano.desktop \
+	src/fallback/nateon.desktop \
+	src/fallback/nateon_messagebox.desktop \
 	src/fallback/nautilus-autorun-software.desktop \
 	src/fallback/nautilus-browser.desktop \
 	src/fallback/nautilus-cd-burner.desktop \
@@ -852,24 +2281,92 @@ dist_back_DATA = \
 	src/fallback/nautilus-file-management-properties.desktop \
 	src/fallback/nautilus-folder-handler.desktop \
 	src/fallback/nautilus-home.desktop \
+	src/fallback/nautilus-pastebin-configurator.desktop \
+	src/fallback/nautilus-scripts-manager.desktop \
 	src/fallback/nautilus-search.desktop \
+	src/fallback/navit.desktop \
+	src/fallback/navlog-viewer.desktop \
+	src/fallback/ncmpcpp.desktop \
+	src/fallback/ndisgtk.desktop \
 	src/fallback/nedit.desktop \
+	src/fallback/nekobee.desktop \
+	src/fallback/nemiver.desktop \
+	src/fallback/neso.desktop \
 	src/fallback/net_applet.desktop \
+	src/fallback/netapplet.desktop \
+	src/fallback/netemul.desktop \
+	src/fallback/netgame.desktop \
+	src/fallback/netgen.desktop \
+	src/fallback/nethack-qt.desktop \
+	src/fallback/nethack-x11.desktop \
+	src/fallback/nethogs.desktop \
+	src/fallback/netpanzer.desktop \
+	src/fallback/netrek-client-cow.desktop \
+	src/fallback/netscape-navigator.desktop \
+	src/fallback/netslide.desktop \
+	src/fallback/net-tvtime.desktop \
 	src/fallback/network-admin.desktop \
 	src/fallback/network.desktop \
 	src/fallback/network-scheme.desktop \
+	src/fallback/neverball.desktop \
+	src/fallback/neverputt.desktop \
+	src/fallback/nexuiz.desktop \
+	src/fallback/nfoview.desktop \
+	src/fallback/nicotine.desktop \
+	src/fallback/nighthawk.desktop \
+	src/fallback/nikwi.desktop \
+	src/fallback/nip2.desktop \
+	src/fallback/njam.desktop \
+	src/fallback/njplot.desktop \
 	src/fallback/nm-applet.desktop \
+	src/fallback/nmapsi4-admin.desktop \
+	src/fallback/nmapsi4.desktop \
 	src/fallback/nm-connection-editor.desktop \
 	src/fallback/nm-vpnc-auth-dialog.desktop \
+	src/fallback/noteedit.desktop \
 	src/fallback/notification-daemon.desktop \
 	src/fallback/notification-properties.desktop \
 	src/fallback/notification-settings.desktop \
+	src/fallback/nted.desktop \
+	src/fallback/ntfs-config.desktop \
+	src/fallback/nuapplet2.desktop \
+	src/fallback/numptyphysics.desktop \
 	src/fallback/nvi.desktop \
+	src/fallback/nvtv.desktop \
+	src/fallback/nxterm.desktop \
+	src/fallback/nzb.desktop \
 	src/fallback/obconf.desktop \
+	src/fallback/obxprop.desktop \
+	src/fallback/ocamlcvs.desktop \
+	src/fallback/ocaml-docbrowser.desktop \
 	src/fallback/oclock.desktop \
+	src/fallback/ocrfeeder.desktop \
+	src/fallback/octave3.2.desktop \
+	src/fallback/oggconvert.desktop \
+	src/fallback/okteta.desktop \
+	src/fallback/okularApplication_chm.desktop \
+	src/fallback/okularApplication_djvu.desktop \
+	src/fallback/okularApplication_epub.desktop \
+	src/fallback/okularApplication_tiff.desktop \
+	src/fallback/okular.desktop \
+	src/fallback/omaque.desktop \
+	src/fallback/omegat.desktop \
+	src/fallback/oneisenough.desktop \
+	src/fallback/oolite.desktop \
 	src/fallback/ooo-extension-manager.desktop \
+	src/fallback/openarena.desktop \
+	src/fallback/openBmap.desktop \
 	src/fallback/openbox.desktop \
+	src/fallback/openbox-gnome.desktop \
+	src/fallback/openbox-kde.desktop \
+	src/fallback/opencascade-draw.desktop \
+	src/fallback/opencity.desktop \
+	src/fallback/opendict.desktop \
+	src/fallback/openerp-client.desktop \
+	src/fallback/open-invaders.desktop \
+	src/fallback/openjdk-6-java.desktop \
 	src/fallback/openjdk-6-policytool.desktop \
+	src/fallback/openmovieeditor.desktop \
 	src/fallback/openoffice.org-1.9-calc.desktop \
 	src/fallback/openoffice.org-1.9-draw.desktop \
 	src/fallback/openoffice.org-1.9-impress.desktop \
@@ -882,37 +2379,277 @@ dist_back_DATA = \
 	src/fallback/openoffice.org-math.desktop \
 	src/fallback/openoffice.org-startcenter.desktop \
 	src/fallback/openoffice.org-writer.desktop \
+	src/fallback/openrocket.desktop \
 	src/fallback/openshot.desktop \
+	src/fallback/openstv.desktop \
+	src/fallback/openttd.desktop \
+	src/fallback/openuniverse.desktop \
+	src/fallback/OpenVAS-Client.desktop \
+	src/fallback/openyahtzee.desktop \
 	src/fallback/opera-browser.desktop \
+	src/fallback/opera-mailer.desktop \
+	src/fallback/orbital-eunuchs-sniper.desktop \
 	src/fallback/orca.desktop \
+	src/fallback/oregano.desktop \
+	src/fallback/org.gnome.Boxes.desktop \
+	src/fallback/org.gnome.font-viewer.desktop \
+	src/fallback/org.gnome.Totem.desktop \
+	src/fallback/osmo.desktop \
+	src/fallback/packagesearch.desktop \
+	src/fallback/packeth.desktop \
+	src/fallback/pacmanexpress.desktop \
+	src/fallback/padevchooser.desktop \
+	src/fallback/padre.desktop \
+	src/fallback/paje.desktop \
+	src/fallback/palapeli.desktop \
 	src/fallback/palimpsest.desktop \
+	src/fallback/paman.desktop \
 	src/fallback/pan.desktop \
+	src/fallback/pango-view.desktop \
+	src/fallback/pangzero.desktop \
 	src/fallback/paprefs.desktop \
+	src/fallback/paraview.desktop \
+	src/fallback/parcellite.desktop \
+	src/fallback/parley.desktop \
+	src/fallback/parole.desktop \
+	src/fallback/parsec47.desktop \
+	src/fallback/partitionmanager.desktop \
+	src/fallback/passage.desktop \
+	src/fallback/password-gorilla.desktop \
+	src/fallback/patchage.desktop \
+	src/fallback/PathFinder.desktop \
+	src/fallback/pathogen.desktop \
+	src/fallback/pathological.desktop \
+	src/fallback/pattern.desktop \
+	src/fallback/pauker.desktop \
 	src/fallback/pavucontrol.desktop \
+	src/fallback/pavumeter.desktop \
+	src/fallback/pavumeter-record.desktop \
+	src/fallback/pawm.desktop \
+	src/fallback/pcb.desktop \
 	src/fallback/pcmanfm.desktop \
+	src/fallback/pcmanfm-desktop-pref.desktop \
+	src/fallback/pcmanx.desktop \
+	src/fallback/pdfchain.desktop \
+	src/fallback/pdfedit.desktop \
+	src/fallback/pdfmod.desktop \
+	src/fallback/pdfsam.desktop \
+	src/fallback/pdfshuffler.desktop \
+	src/fallback/peg-e.desktop \
+	src/fallback/pegs.desktop \
+	src/fallback/pegsolitaire.desktop \
+	src/fallback/peksystray.desktop \
+	src/fallback/pekwm.desktop \
+	src/fallback/penguin-canfield.desktop \
+	src/fallback/penguin-freecell.desktop \
+	src/fallback/penguin-golf.desktop \
+	src/fallback/penguin-mastermind.desktop \
+	src/fallback/penguin-merlin.desktop \
+	src/fallback/penguin-minesweeper.desktop \
+	src/fallback/penguin-pegged.desktop \
+	src/fallback/penguin-solitaire.desktop \
+	src/fallback/penguin-taipei.desktop \
+	src/fallback/penguin-taipei-editor.desktop \
+	src/fallback/penguin-thornq.desktop \
 	src/fallback/penrose.desktop \
+	src/fallback/pente.desktop \
+	src/fallback/performous.desktop \
+	src/fallback/perlprimer.desktop \
 	src/fallback/personal-slideshow.desktop \
+	src/fallback/pessulus.desktop \
+	src/fallback/pgadmin3.desktop \
+	src/fallback/phasex.desktop \
+	src/fallback/phatch.desktop \
+	src/fallback/phatch-inspector.desktop \
+	src/fallback/picard.desktop \
 	src/fallback/pico.desktop \
+	src/fallback/pida.desktop \
 	src/fallback/pidgin.desktop \
+	src/fallback/piedock.desktop \
+	src/fallback/piklab.desktop \
+	src/fallback/pinball.desktop \
+	src/fallback/pingus.desktop \
+	src/fallback/pinot.desktop \
+	src/fallback/pinta.desktop \
+	src/fallback/pioneers.desktop \
+	src/fallback/pioneers-editor.desktop \
+	src/fallback/pioneers-server.desktop \
+	src/fallback/pipewalker.desktop \
+	src/fallback/piqsl.desktop \
 	src/fallback/pirut.desktop \
 	src/fallback/pitivi.desktop \
+	src/fallback/pixbros.desktop \
+	src/fallback/pixelize.desktop \
+	src/fallback/pixfrogger.desktop \
+	src/fallback/planets.desktop \
 	src/fallback/planner.desktop \
+	src/fallback/plee-the-bear.desktop \
+	src/fallback/ploader.desktop \
+	src/fallback/PlopFolio.desktop \
+	src/fallback/plotdrop.desktop \
+	src/fallback/pmchart.desktop \
+	src/fallback/pnmixer.desktop \
+	src/fallback/podbrowser.desktop \
+	src/fallback/Poe.desktop \
+	src/fallback/poedit.desktop \
+	src/fallback/pokerth.desktop \
 	src/fallback/policytool.desktop \
+	src/fallback/polkit-gnome-authentication-agent-1.desktop \
 	src/fallback/polkit-gnome-authorization.desktop \
+	src/fallback/pondus.desktop \
 	src/fallback/ponoff.desktop \
 	src/fallback/popsquares.desktop \
+	src/fallback/pornview.desktop \
+	src/fallback/posterazor.desktop \
+	src/fallback/postr.desktop \
+	src/fallback/powermanga.desktop \
+	src/fallback/pppoeconf.desktop \
+	src/fallback/praat.desktop \
+	src/fallback/pragha.desktop \
+	src/fallback/preferred-execute.desktop \
+	src/fallback/preferred-file-manager.desktop \
+	src/fallback/preferred-mail-reader.desktop \
+	src/fallback/preferred-terminal.desktop \
+	src/fallback/preferred-text-editor.desktop \
+	src/fallback/preferred-web-browser.desktop \
+	src/fallback/prelude-notify.desktop \
+	src/fallback/Preview.desktop \
+	src/fallback/PRICE.desktop \
+	src/fallback/primrose.desktop \
+	src/fallback/prismstumbler.desktop \
 	src/fallback/procinfo.desktop \
+	src/fallback/ProjectCenter.desktop \
+	src/fallback/projectl.desktop \
+	src/fallback/ProjectManager.desktop \
+	src/fallback/projectM-jack.desktop \
+	src/fallback/projectM-pulseaudio.desktop \
+	src/fallback/promoe.desktop \
+	src/fallback/prrtnavigatordemo.desktop \
+	src/fallback/Psequin.desktop \
+	src/fallback/psi.desktop \
+	src/fallback/pspp.desktop \
 	src/fallback/pstree.desktop \
+	src/fallback/psychopy.desktop \
+	src/fallback/PTBatcherGUI.desktop \
+	src/fallback/pterm.desktop \
 	src/fallback/pup.desktop \
+	src/fallback/puredata.desktop \
+	src/fallback/putty.desktop \
+	src/fallback/pybackpack.desktop \
+	src/fallback/pybliographic.desktop \
+	src/fallback/pybridge.desktop \
+	src/fallback/pychess.desktop \
+	src/fallback/pycrust.desktop \
+	src/fallback/pydance.desktop \
+	src/fallback/pygmy.desktop \
+	src/fallback/pykaraoke.desktop \
+	src/fallback/pykaraoke_mini.desktop \
+	src/fallback/pymol.desktop \
+	src/fallback/pympd.desktop \
+	src/fallback/pynagram.desktop \
+	src/fallback/pyNeighborhood.desktop \
+	src/fallback/pyntor.desktop \
+	src/fallback/pypar2.desktop \
+	src/fallback/pype.desktop \
+	src/fallback/pypibrowser.desktop \
+	src/fallback/pyracerz.desktop \
+	src/fallback/pyragua.desktop \
+	src/fallback/pyrenamer.desktop \
+	src/fallback/pyroom.desktop \
+	src/fallback/pyscrabble.desktop \
+	src/fallback/pyshell.desktop \
+	src/fallback/pysycache-admin.desktop \
+	src/fallback/pysycache.desktop \
+	src/fallback/python2.5.desktop \
 	src/fallback/python2.6.desktop \
+	src/fallback/python3.1.desktop \
+	src/fallback/pythoncad.desktop \
 	src/fallback/python-coherence-applet.desktop \
+	src/fallback/python-poker2d.desktop \
 	src/fallback/python-(v2.6).desktop \
+	src/fallback/pytrainer.desktop \
+	src/fallback/q4wine.desktop \
+	src/fallback/qa-assistant.desktop \
+	src/fallback/qalculate-gtk.desktop \
+	src/fallback/qalculate_kde.desktop \
+	src/fallback/qBittorrent.desktop \
+	src/fallback/qcad.desktop \
+	src/fallback/qcomicbook.desktop \
+	src/fallback/qdbusviewer.desktop \
+	src/fallback/qdbusviewer-qt4.desktop \
+	src/fallback/qelectrotech.desktop \
+	src/fallback/qemulator.desktop \
+	src/fallback/qemu-launcher.desktop \
+	src/fallback/qfreefax.desktop \
+	src/fallback/qgis.desktop \
+	src/fallback/qgit.desktop \
+	src/fallback/qgo.desktop \
+	src/fallback/qink.desktop \
+	src/fallback/qiv.desktop \
+	src/fallback/qjackctl.desktop \
+	src/fallback/qlandkartegt.desktop \
+	src/fallback/qliss3d.desktop \
+	src/fallback/qmmp_cue.desktop \
+	src/fallback/qmmp.desktop \
+	src/fallback/qmmp_enqueue.desktop \
+	src/fallback/qnapi.desktop \
+	src/fallback/qpxtool.desktop \
+	src/fallback/qrfcview.desktop \
+	src/fallback/qsampler.desktop \
+	src/fallback/qstardict.desktop \
+	src/fallback/qsynth.desktop \
+	src/fallback/qt3config.desktop \
+	src/fallback/qt4config.desktop \
 	src/fallback/qt4-designer.desktop \
 	src/fallback/qt4-linguist.desktop \
 	src/fallback/qt4-qtconfig.desktop \
 	src/fallback/qt-assistant3.desktop \
+	src/fallback/qtconfig-qt4.desktop \
+	src/fallback/qtcreator.desktop \
+	src/fallback/QtDMM.desktop \
+	src/fallback/qtemu.desktop \
+	src/fallback/qterm.desktop \
+	src/fallback/qtiplot.desktop \
 	src/fallback/qt-linguist3.desktop \
+	src/fallback/qtm.desktop \
+	src/fallback/qtnx.desktop \
+	src/fallback/qtoctave.desktop \
+	src/fallback/qtodo.desktop \
+	src/fallback/qtpfsgui.desktop \
+	src/fallback/qtractor.desktop \
+	src/fallback/qtsmbstatus.desktop \
+	src/fallback/qtsmbstatusl.desktop \
+	src/fallback/qtstalker.desktop \
 	src/fallback/quadrapassel.desktop \
+	src/fallback/quark.desktop \
+	src/fallback/quarry.desktop \
+	src/fallback/quasselclient.desktop \
+	src/fallback/quassel.desktop \
+	src/fallback/qucs.desktop \
+	src/fallback/quicksynergy.desktop \
+	src/fallback/quitcount.desktop \
+	src/fallback/quodlibet.desktop \
+	src/fallback/qutecom.desktop \
+	src/fallback/qv4l2.desktop \
+	src/fallback/qviaggiatreno.desktop \
+	src/fallback/QWBFSManager.desktop \
+	src/fallback/qwit.desktop \
+	src/fallback/qwo.desktop \
+	src/fallback/radiotray.desktop \
+	src/fallback/raincat.desktop \
+	src/fallback/rakarrack.desktop \
+	src/fallback/raktpdf.desktop \
+	src/fallback/rapidsvn.desktop \
+	src/fallback/rasmol-classic.desktop \
+	src/fallback/rasmol-gtk.desktop \
+	src/fallback/rawlogviewer.desktop \
+	src/fallback/rawstudio.desktop \
+	src/fallback/rawtherapee.desktop \
+	src/fallback/rbbr.desktop \
+	src/fallback/Rcmdr.desktop \
+	src/fallback/reactivenavdemo.desktop \
+	src/fallback/recoll-searchgui.desktop \
+	src/fallback/rect.desktop \
 	src/fallback/redhat-abrt.desktop \
 	src/fallback/redhat-authconfig.desktop \
 	src/fallback/redhat-hal-device-manager.desktop \
@@ -926,26 +2663,87 @@ dist_back_DATA = \
 	src/fallback/redhat-usermount.desktop \
 	src/fallback/redhat-userpasswd.desktop \
 	src/fallback/redhat-wireshark.desktop \
+	src/fallback/rednotebook.desktop \
+	src/fallback/referencer.desktop \
+	src/fallback/regexxer.desktop \
+	src/fallback/regina.desktop \
 	src/fallback/reinitialize-xscreensaver.desktop \
+	src/fallback/reinteract.desktop \
+	src/fallback/rekonq.desktop \
+	src/fallback/relational.desktop \
+	src/fallback/remmina-applet.desktop \
 	src/fallback/remmina.desktop \
+	src/fallback/renpy-demo.desktop \
+	src/fallback/renpy.desktop \
+	src/fallback/renpy-thequestion.desktop \
 	src/fallback/reportbug.desktop \
 	src/fallback/reportbug-(gtk+).desktop \
+	src/fallback/reportbug-ng.desktop \
+	src/fallback/report.desktop \
+	src/fallback/retrovol.desktop \
+	src/fallback/revelation.desktop \
+	src/fallback/rezound.desktop \
+	src/fallback/rfdump.desktop \
+	src/fallback/rhinote.desktop \
 	src/fallback/rhn_register.desktop \
 	src/fallback/rhythmbox.desktop \
 	src/fallback/rhythmbox-device.desktop \
+	src/fallback/ri-li.desktop \
+	src/fallback/ripperx.desktop \
 	src/fallback/ripples.desktop \
+	src/fallback/ristretto.desktop \
+	src/fallback/rkward.desktop \
+	src/fallback/rlplot.desktop \
+	src/fallback/rmedigicontrol.desktop \
+	src/fallback/robocode.desktop \
+	src/fallback/rocs.desktop \
+	src/fallback/rodent.desktop \
 	src/fallback/roller.desktop \
+	src/fallback/rosegarden.desktop \
 	src/fallback/row.desktop \
+	src/fallback/rox.desktop \
 	src/fallback/rox-filer.desktop \
+	src/fallback/roxterm.desktop \
 	src/fallback/rpmdrake-browse-only.desktop \
 	src/fallback/rpmdrake.desktop \
 	src/fallback/rpmdrake-sources.desktop \
+	src/fallback/rrootage.desktop \
+	src/fallback/rsibreak.desktop \
+	src/fallback/rubrica2.desktop \
+	src/fallback/rutilt.desktop \
 	src/fallback/rxvt.desktop \
+	src/fallback/rygel.desktop \
+	src/fallback/sabayon.desktop \
+	src/fallback/saga_gui.desktop \
+	src/fallback/sagasu.desktop \
+	src/fallback/sakura.desktop \
+	src/fallback/salasaga.desktop \
+	src/fallback/samegame.desktop \
+	src/fallback/sbxkb.desktop \
+	src/fallback/scangui.desktop \
 	src/fallback/scavenger.desktop \
+	src/fallback/sceneviewer.desktop \
+	src/fallback/scidavis.desktop \
+	src/fallback/scilab.desktop \
 	src/fallback/scim.desktop \
 	src/fallback/scim-setup.desktop \
+	src/fallback/scite.desktop \
+	src/fallback/scorched3d.desktop \
+	src/fallback/ScoreReadingTrainer.desktop \
+	src/fallback/scratch.desktop \
+	src/fallback/screenie-qt.desktop \
+	src/fallback/screenlets-manager.desktop \
+	src/fallback/screenruler.desktop \
 	src/fallback/screensaver-preferences.desktop \
+	src/fallback/scribes.desktop \
 	src/fallback/scribus.desktop \
+	src/fallback/scribus-ng.desktop \
+	src/fallback/scummvm.desktop \
+	src/fallback/sd-applet.desktop \
+	src/fallback/sd-files.desktop \
+	src/fallback/sdl-ball.desktop \
+	src/fallback/sdlbasic.desktop \
+	src/fallback/sd-units.desktop \
 	src/fallback/seahorse.desktop \
 	src/fallback/seahorse-pgp-encrypted.desktop \
 	src/fallback/seahorse-pgp-keys.desktop \
@@ -953,32 +2751,142 @@ dist_back_DATA = \
 	src/fallback/seahorse-pgp-signature.desktop \
 	src/fallback/seamonkey.desktop \
 	src/fallback/seamonkey-mail.desktop \
+	src/fallback/SearchAndRescue.desktop \
+	src/fallback/searchmonkey.desktop \
+	src/fallback/secpanel.desktop \
+	src/fallback/sentinella.desktop \
+	src/fallback/seq24.desktop \
 	src/fallback/services-admin.desktop \
 	src/fallback/services.desktop \
 	src/fallback/session-properties.desktop \
 	src/fallback/setedit.desktop \
 	src/fallback/setroubleshoot.desktop \
+	src/fallback/sflphone.desktop \
 	src/fallback/shadebobs.desktop \
 	src/fallback/shares-admin.desktop \
 	src/fallback/shares.desktop \
 	src/fallback/sh.desktop \
+	src/fallback/Shisen.desktop \
+	src/fallback/shoes.desktop \
 	src/fallback/shotwell.desktop \
 	src/fallback/shotwell-viewer.desktop \
+	src/fallback/showfoto.desktop \
+	src/fallback/shutter.desktop \
+	src/fallback/sim.desktop \
+	src/fallback/SimpleAgenda.desktop \
+	src/fallback/simpleburn.desktop \
 	src/fallback/simple-scan.desktop \
+	src/fallback/simutrans.desktop \
+	src/fallback/singles.desktop \
+	src/fallback/singularity.desktop \
+	src/fallback/sixteen.desktop \
+	src/fallback/skanlite.desktop \
+	src/fallback/skrooge.desktop \
+	src/fallback/slant.desktop \
+	src/fallback/slashem-gtk.desktop \
+	src/fallback/slashem-sdl.desktop \
+	src/fallback/slashem-x11.desktop \
+	src/fallback/slicer.desktop \
 	src/fallback/slidescreen.desktop \
+	src/fallback/slimevolley.desktop \
+	src/fallback/slimrat.desktop \
+	src/fallback/slingshot.desktop \
+	src/fallback/slock.desktop \
+	src/fallback/smart.desktop \
+	src/fallback/smb4k.desktop \
+	src/fallback/smc.desktop \
+	src/fallback/smd-applet-configure.desktop \
+	src/fallback/sm.desktop \
 	src/fallback/smplayer.desktop \
 	src/fallback/smplayer_enqueue.desktop \
+	src/fallback/smproxy.desktop \
+	src/fallback/smuxi-frontend-gnome.desktop \
+	src/fallback/snake4.desktop \
+	src/fallback/sniff.desktop \
+	src/fallback/snowball.desktop \
+	src/fallback/socnetv.desktop \
+	src/fallback/sofa.desktop \
 	src/fallback/software-properties.desktop \
+	src/fallback/solarwolf.desktop \
 	src/fallback/sol.desktop \
+	src/fallback/solfege.desktop \
+	src/fallback/solo.desktop \
+	src/fallback/sonata.desktop \
+	src/fallback/songwrite.desktop \
+	src/fallback/sooperlooper.desktop \
+	src/fallback/sopwith.desktop \
+	src/fallback/soundconverter.desktop \
 	src/fallback/sound-juicer.desktop \
+	src/fallback/soundkonverter.desktop \
+	src/fallback/spacefm.desktop \
+	src/fallback/spacefm-find.desktop \
+	src/fallback/spacefm-folder-handler.desktop \
+	src/fallback/space-orbit.desktop \
+	src/fallback/specimen.desktop \
+	src/fallback/specto.desktop \
+	src/fallback/spectool_gtk.desktop \
+	src/fallback/spectrwm.desktop \
+	src/fallback/spe.desktop \
+	src/fallback/speedcrunch.desktop \
+	src/fallback/spout.desktop \
+	src/fallback/spring.desktop \
+	src/fallback/springlobby.desktop \
+	src/fallback/spydr.desktop \
+	src/fallback/sqlitebrowser.desktop \
+	src/fallback/squeak.desktop \
+	src/fallback/squeeze.desktop \
+	src/fallback/ssh.desktop \
+	src/fallback/ssvnc.desktop \
 	src/fallback/stalonetray.desktop \
+	src/fallback/stardict.desktop \
+	src/fallback/starplot.desktop \
 	src/fallback/startcenter.desktop \
+	src/fallback/startupmanager.desktop \
+	src/fallback/stella.desktop \
+	src/fallback/stellarium.desktop \
+	src/fallback/StepBill.desktop \
+	src/fallback/step.desktop \
+	src/fallback/stopmotion.desktop \
+	src/fallback/stopwatch.desktop \
+	src/fallback/stormbaancoureur.desktop \
+	src/fallback/streamtuner.desktop \
+	src/fallback/stroq.desktop \
+	src/fallback/structure-synth.desktop \
+	src/fallback/stuurman.desktop \
+	src/fallback/stuurman-desktop-pref.desktop \
+	src/fallback/subcommander.desktop \
+	src/fallback/subdownloader.desktop \
+	src/fallback/subtitlecomposer.desktop \
+	src/fallback/subtitleeditor.desktop \
+	src/fallback/sudoku.desktop \
+	src/fallback/sugar-emulator.desktop \
+	src/fallback/sunflow.desktop \
+	src/fallback/superkaramba.desktop \
+	src/fallback/supertux.desktop \
+	src/fallback/supertuxkart.desktop \
+	src/fallback/survex-aven.desktop \
+	src/fallback/survex-svxedit.desktop \
+	src/fallback/svn-workbench.desktop \
+	src/fallback/swac-explore.desktop \
+	src/fallback/sweep.desktop \
+	src/fallback/sweeper.desktop \
+	src/fallback/sweethome3d.desktop \
 	src/fallback/swell-foop.desktop \
 	src/fallback/swirl.desktop \
+	src/fallback/sylpheed-claws.desktop \
+	src/fallback/sylpheed.desktop \
+	src/fallback/sylph-searcher.desktop \
 	src/fallback/synaptic.desktop \
 	src/fallback/synaptic-package-manager.desktop \
+	src/fallback/sync.desktop \
+	src/fallback/synce-trayicon.desktop \
+	src/fallback/synfigstudio.desktop \
+	src/fallback/sysinfo.desktop \
 	src/fallback/sysprof.desktop \
+	src/fallback/systemadm.desktop \
+	src/fallback/system-config-audit.desktop \
 	src/fallback/system-config-boot.desktop \
+	src/fallback/system-config-cluster.desktop \
 	src/fallback/system-config-date.desktop \
 	src/fallback/system-config-display.desktop \
 	src/fallback/system-config-firewall.desktop \
@@ -996,69 +2904,274 @@ dist_back_DATA = \
 	src/fallback/system-config-soundcard.desktop \
 	src/fallback/system-config-users.desktop \
 	src/fallback/system-install-packages.desktop \
+	src/fallback/SystemPreferences.desktop \
+	src/fallback/systemsettings.desktop \
 	src/fallback/system-wacomcpl.desktop \
+	src/fallback/tagtool.desktop \
+	src/fallback/tagua.desktop \
+	src/fallback/TalkSoup.desktop \
+	src/fallback/tangerine.desktop \
+	src/fallback/tanglet.desktop \
+	src/fallback/taskjuggler.desktop \
+	src/fallback/tasks.desktop \
+	src/fallback/tasque.desktop \
+	src/fallback/tatan.desktop \
+	src/fallback/taxbird.desktop \
 	src/fallback/tclsh8.4.desktop \
+	src/fallback/tea.desktop \
+	src/fallback/tecnoballz.desktop \
+	src/fallback/teeworlds.desktop \
+	src/fallback/tegaki-recognize.desktop \
+	src/fallback/teg.desktop \
+	src/fallback/telegnome.desktop \
+	src/fallback/teleport.desktop \
+	src/fallback/tellico.desktop \
 	src/fallback/telnet.desktop \
 	src/fallback/template.desktop \
+	src/fallback/tennix.desktop \
+	src/fallback/tents.desktop \
 	src/fallback/terminal-as-root-(gksu).desktop \
 	src/fallback/Terminal.desktop \
+	src/fallback/terminator.desktop \
 	src/fallback/tetex-xdvi.desktop \
+	src/fallback/tetzle.desktop \
 	src/fallback/texconfig.desktop \
 	src/fallback/texdoctk.desktop \
+	src/fallback/texmacs.desktop \
+	src/fallback/texmaker.desktop \
+	src/fallback/TextEdit.desktop \
+	src/fallback/texworks.desktop \
 	src/fallback/the-gimp.desktop \
 	src/fallback/the-gnome-onscreen-keyboard.desktop \
+	src/fallback/themonospot.desktop \
+	src/fallback/therion.desktop \
+	src/fallback/therion-viewer.desktop \
+	src/fallback/thoggen.desktop \
+	src/fallback/threadscope.desktop \
 	src/fallback/Thunar-bulk-rename.desktop \
 	src/fallback/Thunar.desktop \
 	src/fallback/Thunar-folder-handler.desktop \
 	src/fallback/thunar-settings.desktop \
 	src/fallback/thunar-volman-settings.desktop \
+	src/fallback/thunderbird.desktop \
+	src/fallback/tictactoe-ng.desktop \
+	src/fallback/tiger.desktop \
+	src/fallback/tilda.desktop \
 	src/fallback/time-admin.desktop \
 	src/fallback/time.desktop \
+	src/fallback/TimeMon.desktop \
+	src/fallback/timidity-interfaces-extra.desktop \
+	src/fallback/tint2conf.desktop \
+	src/fallback/tipptrainer.desktop \
+	src/fallback/titanion.desktop \
+	src/fallback/tkabber.desktop \
+	src/fallback/tkcvs.desktop \
+	src/fallback/tkdiff.desktop \
+	src/fallback/tkgate.desktop \
 	src/fallback/tkwish8.4.desktop \
+	src/fallback/tmp.desktop \
+	src/fallback/tmw.desktop \
+	src/fallback/tomatoes.desktop \
 	src/fallback/tomboy.desktop \
 	src/fallback/top.desktop \
+	src/fallback/toppler.desktop \
+	src/fallback/tora.desktop \
+	src/fallback/torcs.desktop \
+	src/fallback/tork.desktop \
+	src/fallback/torus-trooper.desktop \
+	src/fallback/torus-trooper-pure.desktop \
 	src/fallback/totem.desktop \
+	src/fallback/towers.desktop \
+	src/fallback/tqslcert.desktop \
+	src/fallback/tqsl.desktop \
+	src/fallback/trackballs.desktop \
 	src/fallback/tracker-miner-applications.desktop \
 	src/fallback/tracker-preferences.desktop \
 	src/fallback/tracker-search-tool.desktop \
+	src/fallback/transfermii-gui.desktop \
+	src/fallback/transmageddon.desktop \
 	src/fallback/transmission-bittorrent-client-(gtk).desktop \
 	src/fallback/transmission.desktop \
 	src/fallback/transmission-gtk.desktop \
+	src/fallback/transmission-qt.desktop \
+	src/fallback/traverso.desktop \
+	src/fallback/trayer.desktop \
+	src/fallback/trayion.desktop \
+	src/fallback/treeline.desktop \
+	src/fallback/tree-ppuzzle.desktop \
+	src/fallback/tree-puzzle.desktop \
+	src/fallback/treeviewx.desktop \
+	src/fallback/trigger-rally.desktop \
+	src/fallback/tritium.desktop \
+	src/fallback/tryton.desktop \
+	src/fallback/tsclient.desktop \
+	src/fallback/tsview.desktop \
+	src/fallback/ttb.desktop \
+	src/fallback/tucan.desktop \
+	src/fallback/tucnak2.desktop \
+	src/fallback/tumiki-fighters.desktop \
+	src/fallback/tunapie.desktop \
+	src/fallback/tuxcmd.desktop \
+	src/fallback/tuxguitar.desktop \
+	src/fallback/tuxmath.desktop \
+	src/fallback/tuxpaint.desktop \
+	src/fallback/tuxtype.desktop \
+	src/fallback/twiddle.desktop \
+	src/fallback/twinkle.desktop \
 	src/fallback/twisted-ssh-client.desktop \
+	src/fallback/twlog.desktop \
+	src/fallback/twm.desktop \
+	src/fallback/tworld.desktop \
+	src/fallback/twpsk.desktop \
+	src/fallback/txtreader.desktop \
+	src/fallback/udav.desktop \
+	src/fallback/udv.desktop \
+	src/fallback/ufraw.desktop \
+	src/fallback/uget-gtk.desktop \
+	src/fallback/uima-annotationviewer.desktop \
+	src/fallback/uima-cpegui.desktop \
+	src/fallback/uima-documentanalyzer.desktop \
+	src/fallback/uim.desktop \
+	src/fallback/UL.desktop \
+	src/fallback/umbrello.desktop \
 	src/fallback/unbranded-software-center.desktop \
+	src/fallback/unclutter.desktop \
+	src/fallback/unequal.desktop \
+	src/fallback/unetbootin.desktop \
+	src/fallback/unicode.desktop \
+	src/fallback/uninstaller.desktop \
+	src/fallback/unison2.27.57-gtk.desktop \
+	src/fallback/unison-gtk.desktop \
+	src/fallback/unknown.desktop \
+	src/fallback/unrooted.desktop \
+	src/fallback/untangle.desktop \
 	src/fallback/update-manager.desktop \
+	src/fallback/upnp-inspector.desktop \
+	src/fallback/upnp-router-control.desktop \
+	src/fallback/urxvtc.desktop \
 	src/fallback/urxvt.desktop \
+	src/fallback/urxvt-tabbed.desktop \
+	src/fallback/usbprog.desktop \
+	src/fallback/usbview.desktop \
 	src/fallback/user-accounts-admin.desktop \
 	src/fallback/users.desktop \
+	src/fallback/utf8migrationtool.desktop \
+	src/fallback/uwm.desktop \
+	src/fallback/uxterm.desktop \
+	src/fallback/uxvile.desktop \
+	src/fallback/v4l2ucp.desktop \
+	src/fallback/vagalume.desktop \
+	src/fallback/val-and-rick.desktop \
+	src/fallback/vala-terminal.desktop \
+	src/fallback/valknut.desktop \
+	src/fallback/vbview2.desktop \
+	src/fallback/vdr-fbfe.desktop \
+	src/fallback/vdr-sxfe.desktop \
+	src/fallback/vectoroids.desktop \
+	src/fallback/velox.desktop \
+	src/fallback/verbiste.desktop \
+	src/fallback/vibora.desktop \
+	src/fallback/vidalia.desktop \
+	src/fallback/videocut.desktop \
 	src/fallback/vi.desktop \
+	src/fallback/viewmol.desktop \
+	src/fallback/ViewPDF.desktop \
+	src/fallback/vifm.desktop \
+	src/fallback/viking.desktop \
 	src/fallback/vile.desktop \
 	src/fallback/vim.desktop \
 	src/fallback/vinagre.desktop \
 	src/fallback/vinagre-file.desktop \
 	src/fallback/vino-preferences.desktop \
+	src/fallback/virtaal.desktop \
 	src/fallback/virt-manager.desktop \
+	src/fallback/virtualbox.desktop \
+	src/fallback/virtualbox-ose.desktop \
+	src/fallback/viruskiller.desktop \
+	src/fallback/VisualBoyAdvance.desktop \
+	src/fallback/vite.desktop \
+	src/fallback/vkeybd.desktop \
+	src/fallback/vlc.desktop \
+	src/fallback/vmpk.desktop \
+	src/fallback/vnc-client.desktop \
+	src/fallback/vncviewer.desktop \
+	src/fallback/vodovod.desktop \
+	src/fallback/volume-app.desktop \
+	src/fallback/VolumeControl.desktop \
 	src/fallback/vpnpptp.desktop \
+	src/fallback/vtwm.desktop \
+	src/fallback/vym.desktop \
+	src/fallback/w3af.desktop \
 	src/fallback/w3m.desktop \
+	src/fallback/waimea.desktop \
+	src/fallback/wammu.desktop \
+	src/fallback/warzone2100.desktop \
+	src/fallback/wavbreaker.desktop \
+	src/fallback/webboard.desktop \
+	src/fallback/webcollage.desktop \
 	src/fallback/web.desktop \
+	src/fallback/WebHTTrack.desktop \
+	src/fallback/WebHTTrack-Websites.desktop \
+	src/fallback/webissues.desktop \
+	src/fallback/weka.desktop \
+	src/fallback/wesnoth-1.8.desktop \
+	src/fallback/wesnoth-1.8_editor.desktop \
+	src/fallback/whichwayisup.desktop \
+	src/fallback/wicd.desktop \
+	src/fallback/widelands.desktop \
+	src/fallback/wifi-radar.desktop \
+	src/fallback/wind.desktop \
 	src/fallback/window-properties.desktop \
+	src/fallback/windwm.desktop \
+	src/fallback/winecfg.desktop \
+	src/fallback/wine.desktop \
+	src/fallback/winff.desktop \
+	src/fallback/wings3d.desktop \
+	src/fallback/winpdb.desktop \
 	src/fallback/wireshark.desktop \
+	src/fallback/wm2.desktop \
+	src/fallback/wmacpi.desktop \
+	src/fallback/wmagnify.desktop \
+	src/fallback/wmaker.desktop \
 	src/fallback/wmappl.desktop \
 	src/fallback/wmauda.desktop \
+	src/fallback/wmbatteries.desktop \
 	src/fallback/wmbattery.desktop \
+	src/fallback/wmbiff.desktop \
+	src/fallback/wmBinClock.desktop \
 	src/fallback/wmblob.desktop \
+	src/fallback/wmblueclock.desktop \
+	src/fallback/wmbluecpu.desktop \
+	src/fallback/wmbluegpu.desktop \
+	src/fallback/wmbluemem.desktop \
+	src/fallback/wmbubble.desktop \
 	src/fallback/wmbutton.desktop \
+	src/fallback/wmcalc.desktop \
 	src/fallback/wmCalClock.desktop \
+	src/fallback/wmCalClockKbd.desktop \
 	src/fallback/wmcdplay.desktop \
+	src/fallback/wmcliphist.desktop \
+	src/fallback/wmclock.desktop \
 	src/fallback/wmclockmon.desktop \
 	src/fallback/wmcore.desktop \
 	src/fallback/wmcpu.desktop \
 	src/fallback/wmcpuload.desktop \
+	src/fallback/wmcpumon.desktop \
 	src/fallback/wmdate.desktop \
 	src/fallback/wmdiskmon.desktop \
 	src/fallback/wmfire.desktop \
+	src/fallback/wmforkplop.desktop \
+	src/fallback/wmfrog.desktop \
 	src/fallback/wmgtemp.desktop \
+	src/fallback/wmgui.desktop \
+	src/fallback/wmifinfo.desktop \
 	src/fallback/wmifs.desktop \
+	src/fallback/wmii.desktop \
+	src/fallback/wminet.desktop \
 	src/fallback/wmitime.desktop \
+	src/fallback/wmmail.desktop \
+	src/fallback/wmmaiload.desktop \
+	src/fallback/wmMand.desktop \
 	src/fallback/wmmatrix.desktop \
 	src/fallback/wmmemload.desktop \
 	src/fallback/wmmixer.desktop \
@@ -1074,65 +3187,265 @@ dist_back_DATA = \
 	src/fallback/wmrack.desktop \
 	src/fallback/wmsensors.desktop \
 	src/fallback/wmshutdown.desktop \
+	src/fallback/wmsmixer.desktop \
+	src/fallback/wmsmpmon.desktop \
+	src/fallback/wmstickynotes.desktop \
 	src/fallback/wmsun.desktop \
 	src/fallback/wmsysmon.desktop \
 	src/fallback/wmsystemtray.desktop \
+	src/fallback/wmsystray.desktop \
 	src/fallback/wmtemp.desktop \
 	src/fallback/wmtictactoe.desktop \
 	src/fallback/wmtime.desktop \
 	src/fallback/wmtimer.desktop \
+	src/fallback/wmtop.desktop \
+	src/fallback/wmtrash.desktop \
+	src/fallback/wmudmount.desktop \
+	src/fallback/wmwave.desktop \
 	src/fallback/wmWeather.desktop \
 	src/fallback/wmweather+.desktop \
+	src/fallback/wmwifi.desktop \
 	src/fallback/wmwork.desktop \
+	src/fallback/wmx.desktop \
+	src/fallback/worker.desktop \
+	src/fallback/workrave.desktop \
+	src/fallback/wormux.desktop \
 	src/fallback/wpa_gui.desktop \
+	src/fallback/WrapperFactory.desktop \
 	src/fallback/writer.desktop \
+	src/fallback/wsjt.desktop \
+	src/fallback/wxcas.desktop \
+	src/fallback/wxglade.desktop \
+	src/fallback/wxmaxima.desktop \
+	src/fallback/x11vnc.desktop \
+	src/fallback/xabacus.desktop \
+	src/fallback/xacobeo.desktop \
+	src/fallback/xadrez-chines.desktop \
+	src/fallback/xae.desktop \
 	src/fallback/xaos.desktop \
 	src/fallback/xarchiver.desktop \
+	src/fallback/xawtv.desktop \
+	src/fallback/xbarrel.desktop \
 	src/fallback/xbiff.desktop \
 	src/fallback/xbill.desktop \
+	src/fallback/xboard-config.desktop \
+	src/fallback/xboard.desktop \
+	src/fallback/xboard-fen-viewer.desktop \
+	src/fallback/xboard-ics.desktop \
 	src/fallback/xboard-(passive-chessboard).desktop \
+	src/fallback/xboard-pgn-viewer.desktop \
+	src/fallback/xboard-tourney.desktop \
+	src/fallback/xboing.desktop \
+	src/fallback/xca.desktop \
 	src/fallback/xcalc.desktop \
 	src/fallback/xchat.desktop \
 	src/fallback/xchat-gnome.desktop \
+	src/fallback/xchm.desktop \
+	src/fallback/xcircuit.desktop \
+	src/fallback/xclipboard.desktop \
+	src/fallback/xclock.desktop \
+	src/fallback/xcolorsel.desktop \
+	src/fallback/xconsole.desktop \
+	src/fallback/xcubes.desktop \
+	src/fallback/xde-app.desktop \
+	src/fallback/xde-input.desktop \
+	src/fallback/xde-logout.desktop \
+	src/fallback/xdemineur.desktop \
+	src/fallback/xde-pager.desktop \
+	src/fallback/xde-panel.desktop \
+	src/fallback/xde-run.desktop \
+	src/fallback/xde-setbg.desktop \
+	src/fallback/xde-watch.desktop \
+	src/fallback/xde-xlock.desktop \
+	src/fallback/xdg-launch.desktop \
+	src/fallback/xdg-traymenu.desktop \
+	src/fallback/xdg-wininfo.desktop \
+	src/fallback/xdino.desktop \
+	src/fallback/xditview.desktop \
+	src/fallback/xdpyinfo.desktop \
+	src/fallback/xdrawchem.desktop \
+	src/fallback/xdvi.desktop \
+	src/fallback/xdwm.desktop \
+	src/fallback/Xdx.desktop \
 	src/fallback/xedit.desktop \
 	src/fallback/xemacs.desktop \
+	src/fallback/xenlog.desktop \
+	src/fallback/xenwatch.desktop \
 	src/fallback/xev.desktop \
+	src/fallback/xeyes.desktop \
 	src/fallback/xfburn.desktop \
 	src/fallback/xfcalendar.desktop \
+	src/fallback/xfce4-about.desktop \
+	src/fallback/xfce4-accessibility-settings.desktop \
+	src/fallback/xfce4-appfinder.desktop \
+	src/fallback/xfce4-clipman-plugin.desktop \
+	src/fallback/xfce4-dict.desktop \
+	src/fallback/xfce4-mixer.desktop \
+	src/fallback/xfce4-notes.desktop \
+	src/fallback/xfce4-notifyd-config.desktop \
+	src/fallback/xfce4-panel-manager.desktop \
+	src/fallback/xfce4-power-manager-settings.desktop \
+	src/fallback/xfce4-screenshooter.desktop \
+	src/fallback/xfce4-sensors.desktop \
+	src/fallback/xfce4-settings-editor.desktop \
+	src/fallback/xfce4-taskmanager.desktop \
+	src/fallback/xfce4-terminal.desktop \
+	src/fallback/xfce.desktop \
+	src/fallback/xfce-display-settings.desktop \
+	src/fallback/xfce-keyboard-settings.desktop \
+	src/fallback/xfce-mouse-settings.desktop \
+	src/fallback/xfce-session-settings.desktop \
+	src/fallback/xfce-settings-manager.desktop \
+	src/fallback/xfce-ui-settings.desktop \
+	src/fallback/xfce-wm-settings.desktop \
+	src/fallback/xfce-wmtweaks-settings.desktop \
+	src/fallback/xfce-workspaces-settings.desktop \
 	src/fallback/xfe.desktop \
+	src/fallback/xfi.desktop \
+	src/fallback/xfig.desktop \
 	src/fallback/xfishtank.desktop \
+	src/fallback/xfld-xnetcardconfig.desktop \
+	src/fallback/xfmpc.desktop \
+	src/fallback/xfontsel.desktop \
+	src/fallback/xfp.desktop \
 	src/fallback/xfprint.desktop \
 	src/fallback/xfprint-manager.desktop \
 	src/fallback/xfprint-settings.desktop \
 	src/fallback/xfreecd.desktop \
+	src/fallback/xfv.desktop \
+	src/fallback/xfw.desktop \
+	src/fallback/xgalaga.desktop \
+	src/fallback/xgalaga-hyperspace.desktop \
+	src/fallback/xgnokii.desktop \
+	src/fallback/xhexagons.desktop \
 	src/fallback/xine.desktop \
 	src/fallback/xine-ui.desktop \
+	src/fallback/xinput.desktop \
+	src/fallback/xiphos.desktop \
 	src/fallback/xiterm.desktop \
+	src/fallback/xiterm+thai.desktop \
+	src/fallback/xjadeo.desktop \
 	src/fallback/xjed.desktop \
+	src/fallback/xjump.desktop \
+	src/fallback/xkbvleds.desktop \
+	src/fallback/xkbwatch.desktop \
+	src/fallback/xkill.desktop \
 	src/fallback/xlassie.desktop \
 	src/fallback/xload.desktop \
 	src/fallback/xlockmore.desktop \
+	src/fallback/xlog.desktop \
 	src/fallback/xlogo.desktop \
+	src/fallback/xlsatoms.desktop \
+	src/fallback/xlsclients.desktop \
 	src/fallback/xlyap.desktop \
+	src/fallback/xmabacus.desktop \
+	src/fallback/xmag.desktop \
+	src/fallback/xmahjongg.desktop \
+	src/fallback/xmakemol.desktop \
+	src/fallback/xman.desktop \
+	src/fallback/xmaxima.desktop \
+	src/fallback/xmball.desktop \
+	src/fallback/xmbarrel.desktop \
 	src/fallback/xmcd.desktop \
+	src/fallback/xmcubes.desktop \
+	src/fallback/xmdino.desktop \
+	src/fallback/xmhexagons.desktop \
+	src/fallback/xmille.desktop \
 	src/fallback/xmix.desktop \
 	src/fallback/xmixer.desktop \
+	src/fallback/xmlcopyeditor.desktop \
+	src/fallback/xmlink.desktop \
+	src/fallback/xmmball.desktop \
+	src/fallback/xmmlink.desktop \
+	src/fallback/xmms2tray.desktop \
 	src/fallback/xmms.desktop \
+	src/fallback/xmoct.desktop \
+	src/fallback/xmodmap.desktop \
+	src/fallback/xmonad.desktop \
+	src/fallback/xmotd.desktop \
+	src/fallback/xmoto.desktop \
+	src/fallback/xmpanex.desktop \
+	src/fallback/xmpyraminx.desktop \
+	src/fallback/xmrubik.desktop \
+	src/fallback/xmskewb.desktop \
+	src/fallback/xmtriangles.desktop \
+	src/fallback/xoct.desktop \
+	src/fallback/xoids.desktop \
+	src/fallback/xoo.desktop \
+	src/fallback/xoscope.desktop \
+	src/fallback/xosview.desktop \
+	src/fallback/xournal.desktop \
+	src/fallback/xpad.desktop \
 	src/fallback/xpaint.desktop \
+	src/fallback/xpanex.desktop \
 	src/fallback/xpat2.desktop \
+	src/fallback/xpdf.desktop \
+	src/fallback/xplanetFX.desktop \
+	src/fallback/xpn.desktop \
+	src/fallback/xprop.desktop \
+	src/fallback/xpyraminx.desktop \
+	src/fallback/xqf.desktop \
+	src/fallback/xrandr.desktop \
+	src/fallback/xrced.desktop \
+	src/fallback/xrefresh.desktop \
+	src/fallback/xrestop.desktop \
+	src/fallback/xrubik.desktop \
 	src/fallback/xsane.desktop \
+	src/fallback/xscorch.desktop \
 	src/fallback/xscreensaver-properties.desktop \
+	src/fallback/xsddiagram.desktop \
+	src/fallback/xsensors.desktop \
+	src/fallback/xset.desktop \
+	src/fallback/xshogi.desktop \
+	src/fallback/xskewb.desktop \
 	src/fallback/xsnow.desktop \
+	src/fallback/xspim.desktop \
 	src/fallback/xstdcmap.desktop \
 	src/fallback/xsysinfo.desktop \
 	src/fallback/xterm.desktop \
 	src/fallback/xterm-(unicode).desktop \
+	src/fallback/xtetris.desktop \
+	src/fallback/xtide.desktop \
+	src/fallback/xtriangles.desktop \
 	src/fallback/xv.desktop \
+	src/fallback/xvidtune.desktop \
+	src/fallback/xvile.desktop \
+	src/fallback/xvinfo.desktop \
+	src/fallback/xwd.desktop \
+	src/fallback/xwelltris.desktop \
 	src/fallback/x-window-snapshot.desktop \
+	src/fallback/xwininfo.desktop \
+	src/fallback/xword.desktop \
+	src/fallback/xwud.desktop \
+	src/fallback/xzgv.desktop \
+	src/fallback/yabause-gtk.desktop \
+	src/fallback/yabause-qt.desktop \
+	src/fallback/YahtzeeSharp.desktop \
+	src/fallback/yakuake.desktop \
+	src/fallback/yapet.desktop \
+	src/fallback/yarssr.desktop \
+	src/fallback/yate-qt4.desktop \
+	src/fallback/yeahwm.desktop \
 	src/fallback/yelp.desktop \
+	src/fallback/ygraph.desktop \
+	src/fallback/yoshimi.desktop \
 	src/fallback/yudit.desktop \
+	src/fallback/z88.desktop \
+	src/fallback/zalc.desktop \
+	src/fallback/zapping.desktop \
+	src/fallback/zatacka.desktop \
+	src/fallback/zat.desktop \
+	src/fallback/zathura.desktop \
+	src/fallback/zathura-pdf-poppler.desktop \
+	src/fallback/zathura-ps.desktop \
+	src/fallback/zaz.desktop \
 	src/fallback/zenmap.desktop \
 	src/fallback/zenmap-root.desktop \
 	src/fallback/zeroinstall-add.desktop \
-	src/fallback/zeroinstall-manage.desktop
-
+	src/fallback/zeroinstall-manage.desktop \
+	src/fallback/zim.desktop \
+	src/fallback/Zipper.desktop \
+	src/fallback/zsnes.desktop \
+	src/fallback/zygrib.desktop \
+	src/fallback/zynaddsubfx.desktop \
+	src/fallback/zynjacku.desktop
