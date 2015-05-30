@@ -1,6 +1,6 @@
 [Desktop Entry]
 Version=1.0
-Icon=aterm
+Encoding=UTF-8
 Type=Application
 Name=Lynx Text Browser
 Name[ar]=Lynx متصفح النصوص
@@ -50,11 +50,12 @@ Name[ur]=Lynx متن براؤزر
 Name[ur_PK]=Lynx متن براؤزر
 Name[zh_CN]=Lynx 文本浏览器
 Name[zh_TW]=Lynx 文字瀏覽器
-StartupNotify=false
-Terminal=true
+Icon=aterm
 TryExec=lynx
 Exec=lynx
+Terminal=true
 Categories=Network;WebBrowser;ConsoleOnly;
+StartupNotify=false
 X-XFCE-Binaries=lynx;lynx-current;
 X-XFCE-Category=WebBrowser
 X-XFCE-Commands=exo-open --launch TerminalEmulator %B;

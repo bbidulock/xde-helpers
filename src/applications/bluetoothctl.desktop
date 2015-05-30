@@ -1,11 +1,13 @@
 [Desktop Entry]
 Version=1.0
-Name=Bluetooth Control
+Encoding=UTF-8
 Type=Application
+Name=Bluetooth Control
+GenericName=Bluetooth Preferences
 Comment=Control bluetooth devices
-Terminal=true
+Icon=bluetooth
 TryExec=bluetoothctl
 Exec=bluetoothctl
-Icon=bluetooth
+Terminal=true
 Categories=ConsoleOnly;System;
-GenericName=Bluetooth Preferences
+StartupNotify=false

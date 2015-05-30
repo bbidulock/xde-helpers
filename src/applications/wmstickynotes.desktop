@@ -1,15 +1,15 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=wmStickyNotes
 GenericName=Notepad
 Comment=A dock app for keeping small notes around the desktop
+Icon=GNUstep3D
 TryExec=wmstickynotes
 Exec=wmstickynotes
-Icon=GNUstep3D
 Terminal=false
-StartupNotify=true
-Categories=DockApp;WMAKER;
 NotShowIn=GNOME;KDE;
+Categories=DockApp;WMAKER;
+StartupNotify=true
 X-Arch-Package=wmitime
-

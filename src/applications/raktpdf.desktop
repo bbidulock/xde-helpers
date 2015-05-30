@@ -1,4 +1,5 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=RAKT PDF Viewer
@@ -10,4 +11,3 @@ Exec=raktpdf
 Terminal=false
 Categories=Office;Viewer;
 StartupNotify=false
-

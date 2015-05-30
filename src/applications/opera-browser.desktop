@@ -1,6 +1,6 @@
 [Desktop Entry]
 Version=1.0
-Icon=opera
+Encoding=UTF-8
 Type=Application
 Name=Opera Browser
 Name[ar]=متصفح أوبيرا
@@ -50,10 +50,12 @@ Name[ur]=اوپرا براؤزر
 Name[ur_PK]=اوپرا براؤزر
 Name[zh_CN]=Opera 浏览器
 Name[zh_TW]=Opera 瀏覽器
-StartupNotify=false
+Icon=opera
 TryExec=opera
 Exec=opera %u
+Terminal=false
 Categories=Network;WebBrowser;
+StartupNotify=false
 X-XFCE-Binaries=opera;
 X-XFCE-Category=WebBrowser
 X-XFCE-Commands=%B;

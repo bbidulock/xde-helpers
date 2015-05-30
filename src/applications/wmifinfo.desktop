@@ -1,6 +1,7 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Network Monitor Dock App (wmifinfo)
 GenericName=Network Monitor
 Comment=A simple applet showing basic network configuration for all available interfaces
@@ -8,8 +9,8 @@ Icon=GNUstep3D
 TryExec=/usr/bin/wmifinfo
 Exec=wmifinfo
 Terminal=false
-Categories=DockApp;WMAKER;
 NotShowIn=GNOME;KDE;
+Categories=DockApp;WMAKER;
 StartupNotify=false
 StartupWMClass=wmifinfo
 X-Arch-Package=wmifinfo

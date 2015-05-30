@@ -1,5 +1,6 @@
 [Desktop Entry]
 Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Links Text Browser
 Name[ar]=Links متصفح النصوص
@@ -49,12 +50,12 @@ Name[ur]=روابط متن براؤزر
 Name[ur_PK]=روابط متن براؤزر
 Name[zh_CN]=Links 文本浏览器
 Name[zh_TW]=Links 文字瀏覽器
-StartupNotify=false
-Terminal=true
 Icon=links_32x32.xpm
 TryExec=links
 Exec=links
+Terminal=true
 Categories=Network;WebBrowser;ConsoleOnly;
+StartupNotify=false
 X-XFCE-Binaries=links;links-current;
 X-XFCE-Category=WebBrowser
 X-XFCE-Commands=exo-open --launch TerminalEmulator %B;

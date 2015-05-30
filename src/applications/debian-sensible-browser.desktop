@@ -1,6 +1,6 @@
 [Desktop Entry]
 Version=1.0
-Icon=debian
+Encoding=UTF-8
 Type=Application
 Name=Debian Sensible Browser
 Name[ar]=متصفح ديبيان
@@ -50,9 +50,11 @@ Name[ur]=ڈیبین سینسبل براؤزر
 Name[ur_PK]=ڈیبین سینسبل براؤزر
 Name[zh_CN]=Debian 实用浏览器
 Name[zh_TW]=Debian Sensible 瀏覽器
-StartupNotify=false
+Icon=debian
 TryExec=sensible-browser
 Exec=sensible-browser %u
+Terminal=false
+StartupNotify=false
 X-XFCE-Binaries=sensible-browser;
 X-XFCE-Category=WebBrowser
 X-XFCE-Commands=%B;

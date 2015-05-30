@@ -1,9 +1,9 @@
 [Desktop Entry]
 Version=1.0
-Type=Application
 Encoding=UTF-8
-Icon=/usr/libexec/ROX-Filer/.DirIcon
+Type=Application
 Name=ROX Filer
+Icon=/usr/libexec/ROX-Filer/.DirIcon
 TryExec=rox
 Exec=rox
 Terminal=false

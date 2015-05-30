@@ -1,4 +1,5 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=Logout
@@ -14,5 +15,7 @@ Comment[zh_TW]=登出、關機、或重新開機
 Icon=gnome-logout
 TryExec=xde-logout
 Exec=xde-logout
-NotShowIn=GNOME;KDE;XFCE;LXDE;
+Terminal=false
 NoDisplay=true
+NotShowIn=GNOME;KDE;XFCE;LXDE;
+StartupNotify=false

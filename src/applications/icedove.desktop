@@ -1,6 +1,6 @@
 [Desktop Entry]
 Version=1.0
-Icon=icedove
+Encoding=UTF-8
 Type=X-XFCE-Helper
 Name=Icedove
 Name[ar]=Icedove
@@ -42,6 +42,8 @@ Name[ug]=Icedove
 Name[uk]=Icedove
 Name[zh_CN]=Icedove
 Name[zh_TW]=Icedove
+Icon=icedove
+Terminal=false
 StartupNotify=false
 X-XFCE-Binaries=icedove;
 X-XFCE-Category=MailReader

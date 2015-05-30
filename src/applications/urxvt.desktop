@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
-Type=Application
 Encoding=UTF-8
+Type=Application
 Name=RXVT Unicode Terminal
 Name[ar]=RXVT يونيكود
 Name[ast]=RXVT Unicode
@@ -51,15 +51,15 @@ Name[zh_CN]=RXVT Unicode
 Name[zh_TW]=RXVT Unicode
 GenericName=Terminal Program
 Comment=An unicode capable rxvt clone
-Exec=urxvt
 Icon=utilities-terminal
+TryExec=urxvt
+Exec=urxvt
 Terminal=false
 Categories=System;TerminalEmulator;
-X-AfterStep-IndexName=rxvt-unicode
-TryExec=urxvt
 StartupNotify=false
 StartupWMClass=urxvt
 X-XFCE-Binaries=urxvt;
 X-XFCE-Category=TerminalEmulator
 X-XFCE-Commands=%B;
 X-XFCE-CommandsWithParameter=%B -e %s;
+X-AfterStep-IndexName=rxvt-unicode

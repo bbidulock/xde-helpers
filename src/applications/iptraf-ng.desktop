@@ -1,12 +1,13 @@
 [Desktop Entry]
 Version=1.0
-Type=Application
 Encoding=UTF-8
+Type=Application
 Name=IP Traffic Next Generation
 GenericName=Network Monitor
 Comment=Network traffic monitor
-Terminal=false
+Icon=system-monitor
 TryExec=iptraf-ng
 Exec=gksudo "xterm -name iptraf -T 'IP Traffic' -e iptraf-ng"
-Icon=system-monitor
+Terminal=false
 Categories=ConsoleOnly;System;Network;
+StartupNotify=false

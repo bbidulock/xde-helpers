@@ -1,16 +1,17 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=wmTop
 GenericName=System Monitor
 Comment=A dock app for monitoring cpu usage
+Icon=GNUstep3D
 TryExec=wmtop
 Exec=wmtop
-Icon=GNUstep3D
 Terminal=false
-StartupNotify=false
-Categories=DockApp;WMAKER;
 NotShowIn=GNOME;KDE;
+Categories=DockApp;WMAKER;
+StartupNotify=false
 StartupWMClass=wmtop
 X-Arch-Package=wmtop
 Action=Neon;LCD;

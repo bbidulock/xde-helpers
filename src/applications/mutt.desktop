@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
-Type=Application
 Encoding=UTF-8
+Type=Application
 Name=Mutt
 Name[ar]=Mutt
 Name[ast]=Mutt
@@ -50,12 +50,12 @@ Name[ur]=مُٹ
 Name[ur_PK]=مُٹ
 Name[zh_CN]=Mutt
 Name[zh_TW]=Mutt
-StartupNotify=false
 Icon=mutt
 TryExec=mutt
 Exec=mutt
 Terminal=true
 Categories=Network;Email;ConsoleOnly;
+StartupNotify=false
 X-XFCE-Binaries=mutt;
 X-XFCE-Category=MailReader
 X-XFCE-Commands=exo-open --launch TerminalEmulator %B;

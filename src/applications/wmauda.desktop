@@ -1,6 +1,7 @@
 [Desktop Entry]
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Audacious Dock App
 GenericName=Audio Player
 Comment=Dock app for controlling audacious
@@ -8,8 +9,8 @@ Icon=GNUstep3D
 TryExec=/usr/bin/wmauda
 Exec=wmauda
 Terminal=false
-Categories=DockApp;WMAKER;
 OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+Categories=DockApp;WMAKER;
 StartupNotify=false
 StartupWMClass=wmauda
 X-Arch-Package=wmauda

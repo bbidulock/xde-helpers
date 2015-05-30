@@ -1,8 +1,10 @@
 [Desktop Entry]
 Version=1.0
-Icon=folder
+Encoding=UTF-8
 Type=X-XFCE-Helper
 Name=Rodent File Manager
+Icon=folder
+Terminal=false
 StartupNotify=true
 X-XFCE-Binaries=rodent-forked;
 X-XFCE-Category=FileManager

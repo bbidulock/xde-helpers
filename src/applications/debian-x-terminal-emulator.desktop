@@ -1,6 +1,6 @@
 [Desktop Entry]
 Version=1.0
-Icon=debian
+Encoding=UTF-8
 Type=Application
 Name=Debian X Terminal Emulator
 Name[ar]=محاكي طرفية ديبيان
@@ -50,9 +50,11 @@ Name[ur]=ڈبین X ٹرمنل ایمولیٹر
 Name[ur_PK]=ڈبین X ٹرمنل ایمولیٹر
 Name[zh_CN]=Debian X 终端模拟器
 Name[zh_TW]=Debian X 終端機模擬器
-StartupNotify=false
+Icon=debian
 TryExec=x-terminal-emulator
 Exec=x-terminal-emulator
+Terminal=false
+StartupNotify=false
 X-XFCE-Binaries=x-terminal-emulator;
 X-XFCE-Category=TerminalEmulator
 X-XFCE-Commands=%B;

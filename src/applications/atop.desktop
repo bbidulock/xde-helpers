@@ -1,11 +1,13 @@
 [Desktop Entry]
 Version=1.0
-Name=Atop
+Encoding=UTF-8
 Type=Application
+Name=Atop
+GenericName=Process Viewer
 Comment=Show System Processes
-Terminal=true
+Icon=atop
 TryExec=atop
 Exec=atop
-Icon=atop
+Terminal=true
 Categories=ConsoleOnly;System;
-GenericName=Process Viewer
+StartupNotify=false

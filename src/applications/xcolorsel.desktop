@@ -1,14 +1,15 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=X Color Selector
 GenericName=Color Selector
 Comment=Display contents of rgb.txt files together with color probes.
-Exec=xcolorsel
 Icon=xlogo
-Terminal=false
-Type=Application
-Encoding=UTF-8
-Categories=X-X11;Application;X-XTool;
-X-AfterStep-IndexName=xcolorsel
 TryExec=xcolorsel
+Exec=xcolorsel
+Terminal=false
+Categories=X-X11;Application;X-XTool;
 StartupNotify=false
 StartupWMClass=xcolorsel
+X-AfterStep-IndexName=xcolorsel

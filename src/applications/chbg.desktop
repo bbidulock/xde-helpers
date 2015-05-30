@@ -1,12 +1,13 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=ChBg
 Comment=Desktop wallpaper changer
 Comment[sk_SK]=Program na zmenu obrázkov na pozadí pracovnej plochy
+Icon=chbg_64x64.xpm
 TryExec=chbg
 Exec=chbg
-Icon=chbg_64x64.xpm
 Terminal=false
 Categories=Settings;
 StartupNotify=true

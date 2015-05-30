@@ -1,6 +1,6 @@
 [Desktop Entry]
 Version=1.0
-Icon=nxterm
+Encoding=UTF-8
 Type=X-XFCE-Helper
 Name=NXterm
 Name[ar]=NXterm
@@ -50,6 +50,8 @@ Name[ur]=نیکسٹرم
 Name[ur_PK]=نیکسٹرم
 Name[zh_CN]=NXterm
 Name[zh_TW]=NXterm
+Icon=nxterm
+Terminal=false
 StartupNotify=false
 X-XFCE-Binaries=nxterm;
 X-XFCE-Category=TerminalEmulator

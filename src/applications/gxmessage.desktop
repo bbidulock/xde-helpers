@@ -1,4 +1,6 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Gxmessage
 GenericName=gxmessage
@@ -8,5 +10,6 @@ Icon=gxmessage
 TryExec=gxmessage
 Exec=gxmessage --help | gxmessage -name gxmessage -geometry 400x400 -font 'Liberation Mono 8' -title 'GXMessage Help' -file -
 Terminal=false
-Categories=Utility;
 Hidden=true
+Categories=Utility;
+StartupNotify=false

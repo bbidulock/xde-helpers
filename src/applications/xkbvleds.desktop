@@ -1,14 +1,15 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=X Keyboard LEDs
 GenericName=Keyboard
 Comment=Display X Keyboard LEDs
-Exec=xkbvleds
 Icon=xlogo
+TryExec=xkbvleds
+Exec=xkbvleds
 Terminal=false
 Categories=X-X11;Application;X-XTool;
-X-AfterStep-IndexName=xkbvleds
-TryExec=xkbvleds
 StartupNotify=false
 StartupWMClass=xkbvleds
+X-AfterStep-IndexName=xkbvleds

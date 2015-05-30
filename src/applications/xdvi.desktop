@@ -1,10 +1,11 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=XDvi
+Icon=xdvi
 TryExec=xdvi
 Exec=xdvi %f
-Icon=xdvi
 Terminal=false
 Categories=Office;Viewer;
 MimeType=application/x-dvi;application/x-gzdvi;application/x-bzdvi;

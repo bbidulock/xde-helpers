@@ -1,14 +1,15 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=X Font Select
 GenericName=Font Selector
 Comment=Select an X font
 Icon=xlogo
+TryExec=xfontsel
 Exec=xfontsel
 Terminal=false
 Categories=X-X11;Application;X-XTool;
-X-AfterStep-IndexName=xfontsel
-TryExec=xfontsel
 StartupNotify=false
 StartupWMClass=xfontsel
+X-AfterStep-IndexName=xfontsel

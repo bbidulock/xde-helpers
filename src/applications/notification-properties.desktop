@@ -1,4 +1,5 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=Pop-Up Notifications
@@ -50,7 +51,7 @@ Icon=notification-properties
 TryExec=notification-properties
 Exec=notification-properties
 Terminal=false
-StartupNotify=true
-Categories=GNOME;GTK;Settings;
-NotShowIn=KDE;
 NoDisplay=true
+NotShowIn=KDE;
+Categories=GNOME;GTK;Settings;
+StartupNotify=true

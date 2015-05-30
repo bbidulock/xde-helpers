@@ -1,6 +1,6 @@
 [Desktop Entry]
 Version=1.0
-Icon=sylpheed
+Encoding=UTF-8
 Type=X-XFCE-Helper
 Name=Sylpheed
 Name[ar]=Sylpheed
@@ -50,6 +50,8 @@ Name[ur]=سیلفیڈ
 Name[ur_PK]=سیلفیڈ
 Name[zh_CN]=Sylpheed
 Name[zh_TW]=Sylpheed
+Icon=sylpheed
+Terminal=false
 StartupNotify=true
 X-XFCE-Binaries=sylpheed;
 X-XFCE-Category=MailReader

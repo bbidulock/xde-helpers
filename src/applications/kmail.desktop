@@ -1,6 +1,6 @@
 [Desktop Entry]
 Version=1.0
-Icon=kmail
+Encoding=UTF-8
 Type=X-XFCE-Helper
 Name=KMail
 Name[ar]=KMail
@@ -50,6 +50,8 @@ Name[ur]=کے میل
 Name[ur_PK]=کے میل
 Name[zh_CN]=KMail
 Name[zh_TW]=KMail
+Icon=kmail
+Terminal=false
 StartupNotify=true
 X-XFCE-Binaries=kmail;
 X-XFCE-Category=MailReader

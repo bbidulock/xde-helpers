@@ -1,6 +1,6 @@
 [Desktop Entry]
 Version=1.0
-Icon=claws-mail
+Encoding=UTF-8
 Type=X-XFCE-Helper
 Name=Claws Mail
 Name[ar]=Claws Mail
@@ -50,6 +50,8 @@ Name[ur]=کلاؤز میل
 Name[ur_PK]=کلاؤز میل
 Name[zh_CN]=Claws 邮件
 Name[zh_TW]=Claws 郵件
+Icon=claws-mail
+Terminal=false
 StartupNotify=true
 X-XFCE-Binaries=claws-mail;sylpheed-claws-gtk2;sylpheed-claws
 X-XFCE-Category=MailReader

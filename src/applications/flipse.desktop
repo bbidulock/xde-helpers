@@ -1,4 +1,5 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=Flipse Dock
@@ -8,9 +9,8 @@ Icon=GNUstep3D
 TryExec=/usr/bin/flipse
 Exec=flipse
 Terminal=false
-Categories=DockApp;WMAKER;
-# only window managers that do not have a dock
 NotShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+Categories=DockApp;WMAKER;
 StartupNotify=false
 StartupWMClass=flipse
 X-Arch-Package=flipse r23.945f4df-1

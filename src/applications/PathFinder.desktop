@@ -1,12 +1,13 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=PathFinder
 GenericName=File Manager
 Comment=File browser
+Icon=PathFinder
 TryExec=PathFinder
 Exec=PathFinder
-Icon=PathFinder
 Terminal=false
 Categories=System;FileTools;FileManager;
 StartupNotify=false

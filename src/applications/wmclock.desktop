@@ -1,15 +1,16 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=Alarm Clock Dock App
 GenericName=Clock
 Comment=WMClock - An alarm clock dock app
 Icon=GNUstep3D
-Exec=wmclock
 TryExec=wmclock
+Exec=wmclock
 Terminal=false
-Categories=DockApp;WMAKER;
 NotShowIn=GNOME;KDE;
+Categories=DockApp;WMAKER;
 StartupNotify=false
 StartupWMClass=wmclock
 X-Arch-Package=wmclock
