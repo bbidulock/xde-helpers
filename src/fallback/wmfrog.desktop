@@ -2,12 +2,15 @@
 Version=1.0
 Encoding=UTF-8
 Type=Application
-Name=wmfrog
+Name=Weather Report Dock App (wmfrog)
+GenericName=Weather Report
 Comment=A dock app for weather reports.
-TryExec=wmfrog
+Icon=GNUstep3D
+TryExec=/usr/bin/wmfrog
 Exec=wmfrog
 Terminal=false
 OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
 Categories=DockApp;WMAKER;
 StartupNotify=false
+StartupWMClass=wmfrog
 X-Arch-Package=wmfrog

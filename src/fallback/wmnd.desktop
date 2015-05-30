@@ -13,4 +13,4 @@ OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
 Categories=DockApp;WMAKER;
 StartupNotify=false
 StartupWMClass=wmnd
-X-Arch-Package=wmnd
+X-Arch-Package=wmnd 0.4.17-1

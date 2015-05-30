@@ -2,9 +2,9 @@
 Version=1.0
 Encoding=UTF-8
 Type=Application
-Name=WMbiff
+Name=Mail Monitor Dock App
 GenericName=Mail Monitor
-Comment=Mail Monitor Dockapp
+Comment=WMBiff mail monitor dock app
 Icon=GNUstep3D
 TryExec=wmbiff
 Exec=wmbiff

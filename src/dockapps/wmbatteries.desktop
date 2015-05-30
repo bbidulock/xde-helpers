@@ -2,8 +2,8 @@
 Version=1.0
 Encoding=UTF-8
 Type=Application
-Name=wmbatteries
-GenericName=Battery Monitor Dock App
+Name=Battery Monitor Dock App
+GenericName=Battery Monitor
 Comment=Dock app based on wmacpiload
 Icon=GNUstep3D
 TryExec=/usr/bin/wmbatteries

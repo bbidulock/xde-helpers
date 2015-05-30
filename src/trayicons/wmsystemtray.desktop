@@ -2,9 +2,13 @@
 Version=1.0
 Encoding=UTF-8
 Type=Application
-Name=wmsystemtray System Tray Dock App
-GenericName=System Tray Icon
-Comment=System tray designed as a WindowMaker dock app
+Name=WindowMaker System Tray
+GenericName=System Tray
+Comment=Provide a system tray in the WM dock
+Icon=GNUstep3D
+TryExec=/usr/bin/wmsystemtray
+Exec=wmsystemtray -s
 Terminal=false
+OnlyShowIn=BLACKBOX;WMAKER;
 Categories=TrayIcon;System;Utility;DockApp;SystemTray;
 StartupNotify=false
