@@ -8,6 +8,7 @@ GenericName[fr]=Gestionnaire de Fenêtres
 GenericName[pt]=Gestor de Janelas
 Comment=The ideal window manager for today's ascetic programmer
 Icon=wmx
+TryExec=wmx
 Exec=wmx
 Terminal=false
 NoDisplay=true
@@ -18,6 +19,7 @@ X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=wmx
 X-Arch-Package=wmx-svn r114-2
+
 Actions=XDE;
 
 [Desktop Action XDE]

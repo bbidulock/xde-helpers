@@ -8,6 +8,7 @@ GenericName[fr]=Gestionnaire de Fenêtres
 GenericName[pt]=Gestor de Janelas
 Comment=Motif Window Manager
 Icon=mwm
+TryExec=mwm
 Exec=mwm
 Terminal=false
 NoDisplay=true
@@ -17,6 +18,8 @@ X-GNOME-Autostart-Notify=false
 X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=MWM
+X-Arch-Package=lesstif 0.95.2-6
+
 Actions=XDE;
 
 [Desktop Action XDE]

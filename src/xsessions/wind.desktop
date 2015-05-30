@@ -8,6 +8,7 @@ GenericName[fr]=Gestionnaire de Fenêtres
 GenericName[pt]=Gestor de Janelas
 Comment=Wind window manager
 Icon=windwm
+TryExec=wind
 Exec=wind
 Terminal=false
 NoDisplay=true
@@ -18,6 +19,8 @@ X-GNOME-Autostart-Notify=false
 X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=wind
+X-Arch-Package=windwm-git 1.5-1
+
 Actions=XDE;
 
 [Desktop Action XDE]

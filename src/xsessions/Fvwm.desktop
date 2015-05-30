@@ -8,6 +8,7 @@ GenericName[fr]=Gestionnaire de Fenêtres
 GenericName[pt]=Gestor de Janelas
 Comment=Fvwm
 Icon=fvwm
+TryExec=fvwm2
 Exec=fvwm2
 Terminal=false
 NoDisplay=true
@@ -17,6 +18,8 @@ X-GNOME-Autostart-Notify=false
 X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=fvwm
+X-Arch-Package=fvwm 2.6.5-4
+
 Actions=XDE;
 
 [Desktop Action XDE]

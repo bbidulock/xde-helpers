@@ -8,6 +8,7 @@ GenericName[fr]=Gestionnaire de Fenêtres
 GenericName[pt]=Gestor de Janelas
 Comment=The spectrwm window manager for X11
 Icon=spectrwm
+TryExec=spectrwm
 Exec=spectrwm
 Terminal=false
 NoDisplay=true
@@ -18,6 +19,7 @@ X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=spectrwm
 X-Arch-Package=spectrwm-git 20150422-1
+
 Actions=XDE;
 
 [Desktop Action XDE]

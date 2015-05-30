@@ -8,6 +8,7 @@ GenericName[fr]=Gestionnaire de Fenêtres
 GenericName[pt]=Gestor de Janelas
 Comment=Puto Amo window manager
 Icon=pawm
+TryExec=pawm
 Exec=pawm
 Terminal=false
 NoDisplay=true
@@ -17,6 +18,8 @@ X-GNOME-Autostart-Notify=false
 X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=pawm
+X-Arch-Package=pawm 2.3.0-3
+
 Actions=XDE;
 
 [Desktop Action XDE]

@@ -24,6 +24,7 @@ X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=Fvwm
 X-GNOME-Bugzilla-Component=general
 X-Arch-Package=fvwm 2.6.5-4
+
 Actions=XDE;
 
 [Desktop Action XDE]

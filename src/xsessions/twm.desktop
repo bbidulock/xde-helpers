@@ -70,6 +70,7 @@ Comment[vi]=Trình Quản lý Cửa sổ Thẻ
 Comment[zh_CN]=标签式窗口管理器
 Comment[zh_TW]=Tab 視窗管理程式
 Icon=twm
+TryExec=twm
 Exec=twm
 Terminal=false
 NoDisplay=true
@@ -79,6 +80,8 @@ X-GNOME-Autostart-Notify=false
 X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=twm
+X-Arch-Package=xorg-twm-git 1.0.8.r6.g8f68d82-1
+
 Actions=XDE;
 
 [Desktop Action XDE]

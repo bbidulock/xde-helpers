@@ -8,6 +8,7 @@ GenericName[fr]=Gestionnaire de Fenêtres
 GenericName[pt]=Gestor de Janelas
 Comment=A small window manager for X11 based originally off aewm
 Icon=aewm++
+TryExec=aewm++
 Exec=aewm++
 Terminal=false
 NoDisplay=true
@@ -18,6 +19,7 @@ X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=AEWM++
 X-Arch-Package=aewm++ 1.0.1-3
+
 Actions=XDE;
 
 [Desktop Action XDE]

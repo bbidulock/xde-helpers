@@ -8,6 +8,7 @@ GenericName[fr]=Gestionnaire de Fenêtres
 GenericName[pt]=Gestor de Janelas
 Comment=Minimalistic pure X11 window manager with menu/tray support
 Icon=jwm
+TryExec=jwm
 Exec=jwm
 Terminal=false
 NoDisplay=true
@@ -17,6 +18,8 @@ X-GNOME-Autostart-Notify=false
 X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=jwm
+X-Arch-Package=jwm-git s1102-1
+
 Actions=XDE;
 
 [Desktop Action XDE]

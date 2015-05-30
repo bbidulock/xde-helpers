@@ -8,6 +8,7 @@ GenericName[fr]=Gestionnaire de Fenêtres
 GenericName[pt]=Gestor de Janelas
 Comment=improved dynamic tiling window manager
 Icon=i3
+TryExec=i3-with-shmlog
 Exec=i3-with-shmlog
 Terminal=false
 NoDisplay=true
@@ -19,3 +20,4 @@ X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=i3
 X-Arch-Package=i3-wm 4.10.2-1
+
