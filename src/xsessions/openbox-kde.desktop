@@ -15,3 +15,4 @@ X-GNOME-WMName=Openbox
 X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-Autostart-Notify=true
+X-Arch-Package=openbox 3.5.2-7

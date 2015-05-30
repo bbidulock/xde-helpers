@@ -15,6 +15,7 @@ X-GNOME-WMName=herbstluftwm
 X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-Autostart-Notify=false
+X-Arch-Package=herbstluftwm-git v0.6.2.48.gceeae62-1
 Actions=XDE;
 
 [Desktop Action XDE]

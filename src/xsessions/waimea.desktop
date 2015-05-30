@@ -15,6 +15,7 @@ X-GNOME-WMName=waimea
 X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-Autostart-Notify=false
+X-Arch-Package=waimea-git 0.5.0.19-1
 Actions=XDE;
 
 [Desktop Action XDE]

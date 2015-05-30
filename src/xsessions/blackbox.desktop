@@ -3,6 +3,7 @@ Encoding=UTF-8
 Type=XSession
 Name=Blackbox
 Icon=blackbox
+TryExec=blackbox
 Exec=blackbox
 GenericName=Window Manager
 GenericName[fr]=Gestionnaire de Fenêtres
@@ -15,6 +16,7 @@ X-GNOME-WMName=blackbox
 X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-Autostart-Notify=false
+X-Arch-Package=blackboxwm 0.71.1-1
 Actions=XDE;
 
 [Desktop Action XDE]

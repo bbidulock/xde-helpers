@@ -15,6 +15,7 @@ X-GNOME-WMName=wmx
 X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-Autostart-Notify=true
+X-Arch-Package=wmx-svn r114-2
 Actions=XDE;
 
 [Desktop Action XDE]

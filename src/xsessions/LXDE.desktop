@@ -20,6 +20,7 @@ X-GNOME-WMName=Openbox
 X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-Autostart-Notify=true
+X-Arch-Package=lxde-common 0.99.0-2
 
 [Window Manager]
 SessionManaged=false

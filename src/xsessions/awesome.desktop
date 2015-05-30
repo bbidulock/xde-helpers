@@ -15,6 +15,7 @@ X-GNOME-WMName=awesome
 X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-Autostart-Notify=false
+X-Arch-Package=awesome-git 3.5.2.423.g1542722-1
 Actions=XDE;
 
 [Desktop Action XDE]

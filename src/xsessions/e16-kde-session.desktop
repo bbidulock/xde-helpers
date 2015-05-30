@@ -16,3 +16,4 @@ X-GNOME-WMName=enlightenment
 X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-Autostart-Notify=true
+X-Arch-Package=enlightenment16 1.0.16-1

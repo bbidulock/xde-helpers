@@ -3,6 +3,7 @@ Encoding=UTF-8
 Type=XSession
 Name=FVWM
 Icon=fvwm
+TryExec=fvwm
 Exec=fvwm
 GenericName=Window Manager
 GenericName[fr]=Gestionnaire de Fenêtres
@@ -23,6 +24,7 @@ X-GNOME-Bugzilla-Component=general
 X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-Autostart-Notify=true
+X-Arch-Package=fvwm 2.6.5-4
 Actions=XDE;
 
 [Desktop Action XDE]

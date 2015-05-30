@@ -15,6 +15,7 @@ X-GNOME-WMName=wmaker
 X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-Autostart-Notify=false
+X-Arch-Package=windowmaker-crm-git 0.95.6.r296.gbae28b2-1
 Actions=XDE;
 
 [Desktop Action XDE]

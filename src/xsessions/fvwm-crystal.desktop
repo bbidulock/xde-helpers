@@ -16,6 +16,7 @@ X-GNOME-WMName=fvwm
 X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-Autostart-Notify=false
+X-Arch-Package=fvwm-crystal 3.3.2-2
 
 [Window Manager]
 SessionManaged=true
