@@ -1,0 +1,21 @@
+#!/bin/bash
+
+for n in $(find . -name '*.desktop'|sort|xargs -n1 basename|sort -u)
+do
+	l=($(find . -name "$n"))
+	if [ ${#l[@]} -gt 1 ]
+	then
+		if [ ${#l[@]} -lt 4 -a -f /usr/share/applications/$n ]
+		then
+			l=( /usr/share/applications/$n ${l[@]} )
+		fi
+		if [ ${#l[@]} -lt 4 -a -f /usr/share/xsessions/$n ]
+		then
+			l=( /usr/share/xsessions/$n ${l[@]} )
+		fi
+		echo "--> $n"
+		echo "==> " ${#l[*]} "${l[*]}"
+		vimdiff ${l[*]}
+	fi
+done
+
