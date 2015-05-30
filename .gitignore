@@ -13,3 +13,4 @@ scripts/
 *.swp
 *.swo
 INSTALL
+ncurses.lst
