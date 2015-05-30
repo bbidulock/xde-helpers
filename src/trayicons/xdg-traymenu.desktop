@@ -2,7 +2,9 @@
 Version=1.0
 Encoding=UTF-8
 Type=Application
-Categories=TrayIcon;System;Utility;
 Name=XDG Menu Tray Icon
-Comment=XDG compliant system tray and root menu generator
 GenericName=System Tray Icon
+Comment=XDG compliant system tray and root menu generator
+Terminal=false
+Categories=TrayIcon;System;Utility;
+StartupNotify=false

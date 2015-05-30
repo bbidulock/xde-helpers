@@ -2,7 +2,9 @@
 Version=1.0
 Encoding=UTF-8
 Type=Application
-Categories=TrayIcon;System;Utility;
 Name=Keyboard Switcher Tray Icon
-Comment=Simple tray XKB indicator
 GenericName=System Tray Icon
+Comment=Simple tray XKB indicator
+Terminal=false
+Categories=TrayIcon;System;Utility;
+StartupNotify=false

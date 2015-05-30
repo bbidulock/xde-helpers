@@ -2,7 +2,9 @@
 Version=1.0
 Encoding=UTF-8
 Type=Application
-Categories=TrayIcon;System;Utility;
 Name=Menu Tray Icon
-Comment=A simple GTK+ application menu tray
 GenericName=System Tray Icon
+Comment=A simple GTK+ application menu tray
+Terminal=false
+Categories=TrayIcon;System;Utility;
+StartupNotify=false

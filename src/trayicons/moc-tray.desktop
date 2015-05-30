@@ -2,7 +2,9 @@
 Version=1.0
 Encoding=UTF-8
 Type=Application
-Categories=TrayIcon;System;Utility;
 Name=Music on Console Tray Icon
-Comment=Simply tray icon for music on console
 GenericName=System Tray Icon
+Comment=Simply tray icon for music on console
+Terminal=false
+Categories=TrayIcon;System;Utility;
+StartupNotify=false
