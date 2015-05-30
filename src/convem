@@ -1,0 +1,10 @@
+#!/bin/bash
+
+files=$(find . -name '*.desktop'|sort)
+
+for f in $files
+do
+	echo "--> converting $f"
+	/u2/code/xde-helpers/working/src/pretty.pl $f >tmp.log
+	/u2/code/xde-helpers/working/src/pretty.pl tmp.log >$f
+done
