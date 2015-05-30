@@ -117,7 +117,12 @@ my @order = (
 	'X-AppInstall-Popcon',
 	'X-AppInstall-Section',
 	'X-AppInstall-Architectures',
+
 	'X-Arch-Package',
+	'X-Arch-Package-Name',
+	'X-Arch-Package-Version',
+	'X-Arch-Package-Description',
+	'X-Arch-Package-URL',
 
 );
 
@@ -145,6 +150,7 @@ foreach my $a (@args) {
 			print "[$g]\n";
 			if ($g ne 'Desktop Entry') {
 				foreach my $k ($kf->get_keys($g)) {
+					next if $k eq 'X-Arch-Package';
 					print "$k=";
 					my $v = $kf->get_value($g, $k);
 					print "$v\n";
@@ -157,6 +163,28 @@ foreach my $a (@args) {
 				foreach my $k (keys %defaults) {
 					unless ($keys{$k}) {
 						$keys{$k}=$defaults{$k};
+					}
+				}
+				if (exists $keys{Exec} and not exists $keys{TryExec}) {
+					$keys{TryExec} = (split(/[[:space:]]+/, $keys{Exec}))[0];
+				}
+				if (exists $keys{TryExec}) {
+					print STDERR "# --> CHECKING: binary '$keys{TryExec}'\n" if $debug;
+					my $p = `pacman -Qo $keys{TryExec}|grep 'is owned by'`;
+					chomp $p;
+					$p =~ s/.*is owned by //;
+					if ($p) {
+						$keys{'X-Arch-Package'} = $p;
+						my $n = (split(/[[:space:]]+/,$p))[0];
+						my @lines = (`pacman -Qi $n`);
+						for my $l (@lines) {
+							chomp $l;
+							my @fields = (split(/[[:space:]]+/,$l,3));
+							my $k = $fields[0];
+							if ($k =~ /^(Name|Version|Description|URL)$/) {
+								$keys{"X-Arch-Package-$k"} = $fields[2];
+							}
+						}
 					}
 				}
 				foreach my $k (@order) {
