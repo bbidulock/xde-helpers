@@ -13,4 +13,8 @@ OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
 Categories=DockApp;WMAKER;
 StartupNotify=false
 StartupWMClass=alsamixer_app
-X-Arch-Package=alsamixer.app 0.1-4
+X-Arch-Package=alsamixer.app 0.1+20141204-1
+X-Arch-Package-Name=alsamixer.app
+X-Arch-Package-Version=0.1+20141204-1
+X-Arch-Package-Description=Simple dockable mixer application for Linux with ALSA drivers.
+X-Arch-Package-URL=http://windowmaker.org/docapps/?name=AlsaMixer.app
