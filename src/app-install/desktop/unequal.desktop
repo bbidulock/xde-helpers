@@ -1,15 +1,16 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Unequal
+Comment=Fully populate the grid with numbers under some conditions
+Comment[de]=Bevölkere das Gitter mit Zahlen gemäß bestimmter Bedingungen
+Comment[fr]=Remplir complètement la grille de nombre sous certaines conditions
+Icon=unequal
+Exec=unequal
+Terminal=false
+Categories=Game;LogicGame;
+StartupNotify=false
 X-AppInstall-Package=sgt-puzzles
 X-AppInstall-Popcon=137
 X-AppInstall-Section=main
-
-Version=1.0
-Terminal=false
-Exec=unequal
-Icon=unequal
-Type=Application
-Categories=Game;LogicGame;
-Name=Unequal
-Comment=Fully populate the grid with numbers under some conditions
-Comment[fr]=Remplir complètement la grille de nombre sous certaines conditions
-Comment[de]=Bevölkere das Gitter mit Zahlen gemäß bestimmter Bedingungen

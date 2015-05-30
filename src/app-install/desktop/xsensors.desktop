@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=xsensors
-X-AppInstall-Popcon=149
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=XSensors
 GenericName=Hardware Monitor
@@ -11,3 +9,7 @@ Icon=_usr_share_pixmaps_xsensors_default
 Exec=/usr/bin/xsensors
 Terminal=false
 Categories=System;
+StartupNotify=false
+X-AppInstall-Package=xsensors
+X-AppInstall-Popcon=149
+X-AppInstall-Section=main

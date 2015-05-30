@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=kvirc
-X-AppInstall-Popcon=208
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=KVIrc 4
 GenericName=IRC Client
 GenericName[pl]=Klient IRC
@@ -12,8 +11,12 @@ Comment=Connect to Internet Relay Chat
 Comment[pl]=Połącz się z Internet Relay Chat (IRC)
 Comment[pt]=Conectar ao IRC
 Comment[tr]=IRC'e bağlanın
-Exec=kvirc -m %u
 Icon=kvirc
-Type=Application
-MimeType=application/x-kva;application/x-kvt;
+Exec=kvirc -m %u
+Terminal=false
 Categories=Qt;KDE;Network;IRCClient;
+MimeType=application/x-kva;application/x-kvt;
+StartupNotify=false
+X-AppInstall-Package=kvirc
+X-AppInstall-Popcon=208
+X-AppInstall-Section=main

@@ -1,18 +1,17 @@
 [Desktop Entry]
-X-AppInstall-Package=ggz-kde-games
-X-AppInstall-Popcon=14
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
-
+Type=Application
 Name=KCC
 GenericName=Chinese Checkers game for KDE
 GenericName[de]=Halmaspiel für KDE
 Comment=GGZ Chinese Checkers game
 Comment[de]=GGZ Halmaspiel
-
-Type=Application
-Exec=/usr/lib/ggz/kcc
 Icon=kcc
+Exec=/usr/lib/ggz/kcc
 Terminal=false
 Categories=X-GGZ-Games;BoardGame;Game;KDE;Qt;
+StartupNotify=false
+X-AppInstall-Package=ggz-kde-games
+X-AppInstall-Popcon=14
+X-AppInstall-Section=main

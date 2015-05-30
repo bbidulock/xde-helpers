@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=2.6
+Encoding=UTF-8
+Type=Application
+Name=LBreakout2
+Comment=A ball-and-paddle game with nice graphics.
+Icon=lbreakout2.xpm
+Exec=/usr/games/lbreakout2
+Terminal=false
+Categories=Application;Game;
+StartupNotify=false
 X-AppInstall-Package=lbreakout2
 X-AppInstall-Popcon=90
 X-AppInstall-Section=main
-
-Name=LBreakout2
-Version=2.6
-Comment=A ball-and-paddle game with nice graphics.
-Exec=/usr/games/lbreakout2
-Icon=lbreakout2.xpm
-Type=Application
-Categories=Application;Game;

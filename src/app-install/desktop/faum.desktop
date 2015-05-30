@@ -1,20 +1,17 @@
-# Copyright (c) 2009 FAUmachine Team <info@faumachine.org>.
-# This program is free software. You can redistribute it and/or modify it
-# under the terms of the GNU General Public License, either version 2 of
-# the License, or (at your option) any later version. See COPYING.
-
 [Desktop Entry]
-X-AppInstall-Package=faumachine
-X-AppInstall-Popcon=9
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=FAUmachine
 GenericName=Virtual Machine
 Comment=run the virtual machine FAUmachine
 Comment[de_DE]=die virtuelle Maschine FAUmachine starten
-Exec=faum
 Icon=faumachine
+Exec=faum
+Terminal=false
 Categories=System;Emulator;
+StartupNotify=false
+X-AppInstall-Package=faumachine
+X-AppInstall-Popcon=9
+X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,i386

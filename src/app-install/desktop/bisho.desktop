@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=bisho
-X-AppInstall-Popcon=1
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=My Web Accounts
 Name[da]=Mine webkonti
 Name[de]=Meine Webkonten
@@ -26,7 +25,6 @@ Name[uk]=Мої веб-облікові записи
 Name[wa]=Mes contes waibe
 Name[zh_CN]=我的网络账户
 Name[zh_TW]=我的網路帳號
-# Please don't translate "myzone"
 Comment=myzone & status
 Comment[ca]=la meva zona i el meu estat
 Comment[da]=myzone & status
@@ -57,9 +55,11 @@ Comment[uk]=myzone і стан
 Comment[wa]=myzone eyet estat
 Comment[zh_CN]=myzone 和当前状态
 Comment[zh_TW]=myzone 以及狀態
-Exec=bisho
 Icon=bisho
-StartupNotify=true
+Exec=bisho
 Terminal=false
-Type=Application
 Categories=GTK;Settings;DesktopSettings;
+StartupNotify=true
+X-AppInstall-Package=bisho
+X-AppInstall-Popcon=1
+X-AppInstall-Section=main

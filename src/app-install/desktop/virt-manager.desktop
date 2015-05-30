@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=virt-manager
-X-AppInstall-Popcon=476
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Virtual Machine Manager
 Name[as]=ভাৰ্চুৱেল যন্ত্ৰ পৰিচালক
 Name[bg]=Мениджър на виртуални машини
@@ -34,8 +33,8 @@ Name[pt]=Gestor de Máquinas Virtuais
 Name[pt_BR]=Gerenciador de Máquinas Virtuais
 Name[ro]=Manager maşină virtuală
 Name[ru]=Менеджер виртуальных машин
-Name[sr]=Управник виртуелне машине
 Name[sr@latin]=Upravnik virtuelne mašine
+Name[sr]=Управник виртуелне машине
 Name[sv]=Administration för virtuell maskin
 Name[ta]=மெய்நிகர் கணினி மேலாளர்
 Name[te]=వర్చ్యువల్ కంప్యూటరు నిర్వహణాధికారి
@@ -71,7 +70,9 @@ Comment[zh_CN]=管理虚拟机
 Comment[zh_TW]=管理虛擬機器
 Icon=_usr_share_virt-manager_pixmaps_virt-manager-icon
 Exec=virt-manager
-Type=Application
 Terminal=false
-Encoding=UTF-8
 Categories=System;
+StartupNotify=false
+X-AppInstall-Package=virt-manager
+X-AppInstall-Popcon=476
+X-AppInstall-Section=main

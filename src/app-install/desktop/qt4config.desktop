@@ -1,17 +1,8 @@
 [Desktop Entry]
-X-AppInstall-Package=qt4-qtconfig
-X-AppInstall-Popcon=3105
-X-AppInstall-Section=main
-
-Categories=Qt;Settings;
-Exec=/usr/bin/qtconfig-qt4
-Name=Qt 4 Settings
-X-KDE-StartupNotify=true
-Icon=qtconfig
-Terminal=false
+Version=1.0
+Encoding=UTF-8
 Type=Application
-
-
+Name=Qt 4 Settings
 Name[bg]=Настройки на Qt 4
 Name[cs]=Qt 4 nastavení
 Name[de]=Qt 4-Einstellungen
@@ -33,3 +24,12 @@ Name[sv]=Qt 4-inställningar
 Name[uk]=Параметри Qt 4
 Name[zh_CN]=Qt 4 设置
 Name[zh_TW]=Qt 4 設定
+Icon=qtconfig
+Exec=/usr/bin/qtconfig-qt4
+Terminal=false
+Categories=Qt;Settings;
+StartupNotify=false
+X-KDE-StartupNotify=true
+X-AppInstall-Package=qt4-qtconfig
+X-AppInstall-Popcon=3105
+X-AppInstall-Section=main

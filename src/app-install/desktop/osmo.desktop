@@ -1,17 +1,18 @@
 [Desktop Entry]
-X-AppInstall-Package=osmo
-X-AppInstall-Popcon=67
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Osmo
 Name[tr]=Osmo
+GenericName=Osmo
 Comment=Personal Organizer
 Comment[pl]=Organizer osobisty
 Comment[tr]=Kişisel Düzenleyici
-GenericName=Osmo
-Exec=osmo
 Icon=osmo
-Categories=GTK;Office;Calendar;ContactManagement;
+Exec=osmo
 Terminal=false
+Categories=GTK;Office;Calendar;ContactManagement;
+StartupNotify=false
+X-AppInstall-Package=osmo
+X-AppInstall-Popcon=67
+X-AppInstall-Section=main

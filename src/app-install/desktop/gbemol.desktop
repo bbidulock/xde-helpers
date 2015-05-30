@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=gbemol
+Comment=MPD client
+Icon=gbemol
+Exec=gbemol
+Terminal=false
+Categories=AudioVideo;Player;
+StartupNotify=false
 X-AppInstall-Package=gbemol
 X-AppInstall-Popcon=11
 X-AppInstall-Section=main
-
-Name=gbemol
-Comment=MPD client
-Exec=gbemol
-Icon=gbemol
-Terminal=false
-Type=Application
-Categories=AudioVideo;Player;

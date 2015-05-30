@@ -1,15 +1,17 @@
 [Desktop Entry]
-X-AppInstall-Package=imview
-X-AppInstall-Popcon=44
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Imview Image Viewer
 GenericName=Image Viewer
 Comment=View and analyze scientific images
 Comment[en_GB]=View and analyse scientific images
-Type=Application
-Exec=imview
 Icon=imview
+Exec=imview
+Terminal=false
 Categories=Education;Science;Graphics;
+StartupNotify=false
+X-AppInstall-Package=imview
+X-AppInstall-Popcon=44
+X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

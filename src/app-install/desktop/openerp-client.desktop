@@ -1,13 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=OpenERP Client
+Comment=Enterprise Resource Management (client)
+Icon=openerp-client
+Exec=openerp-client
+Terminal=false
+Categories=Application;Network;
+StartupNotify=false
 X-AppInstall-Package=openerp-client
 X-AppInstall-Popcon=33
 X-AppInstall-Section=main
-
-Encoding=UTF-8
-Name=OpenERP Client
-Comment=Enterprise Resource Management (client)
-Exec=openerp-client
-Icon=openerp-client
-Terminal=false
-Type=Application
-Categories=Application;Network;

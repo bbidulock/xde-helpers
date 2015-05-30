@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=awn-manager
-X-AppInstall-Popcon=102
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Awn Manager
 Name[af]=AWN bestuurder
@@ -52,7 +50,11 @@ Comment[uk]=Управління параметрами Awn, завантажу�
 Comment[vi]=Quản lý tùy chỉnh, bộ khởi chạy, tiểu dụng và diện mạo
 Comment[zh_CN]=管理 Awn 首选项、启动器、小程序和主题
 Comment[zh_TW]=管理 Awn 的偏好設定、啟動器、面板和主題
-Exec=awn-manager
 Icon=awn-manager
+Exec=awn-manager
+Terminal=false
 Categories=Settings;DesktopSettings;GTK;
-
+StartupNotify=false
+X-AppInstall-Package=awn-manager
+X-AppInstall-Popcon=102
+X-AppInstall-Section=main

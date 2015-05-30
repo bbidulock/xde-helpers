@@ -1,11 +1,13 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Radio Tray
+Icon=radiotray
+Exec=radiotray
+Terminal=false
+Categories=AudioVideo;Audio;Player;GTK;
+StartupNotify=false
 X-AppInstall-Package=radiotray
 X-AppInstall-Popcon=54
 X-AppInstall-Section=main
-
-Name=Radio Tray
-Terminal=false
-Exec=radiotray
-Icon=radiotray
-Type=Application
-Categories=AudioVideo;Audio;Player;GTK;

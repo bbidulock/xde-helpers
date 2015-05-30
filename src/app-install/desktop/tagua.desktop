@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=tagua
-X-AppInstall-Popcon=7
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Tagua
 Name[cs]=Tagua
 Name[it]=Tagua
@@ -11,12 +9,15 @@ Name[xx]=xxTaguaxx
 GenericName=Generic Board Game
 GenericName[cs]=Deskové hry
 GenericName[fr]=Jeux de pions
-Exec=tagua %i -caption "%c"
-Icon=tagua
-Type=Application
-Categories=Qt;KDE;Game;BoardGame;
-DocPath=tagua/tagua.html
 Comment=A generic board game application.
 Comment[cs]=Aplikace pro různé deskové hry.
 Comment[fr]=Divers jeux de pions (échecs, shogi, ...)
+Icon=tagua
+Exec=tagua %i -caption "%c"
 Terminal=false
+Categories=Qt;KDE;Game;BoardGame;
+StartupNotify=false
+DocPath=tagua/tagua.html
+X-AppInstall-Package=tagua
+X-AppInstall-Popcon=7
+X-AppInstall-Section=main

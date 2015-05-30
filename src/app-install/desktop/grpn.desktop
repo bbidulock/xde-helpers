@@ -1,13 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=grpn
-X-AppInstall-Popcon=27
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Grpn Calculator
 GenericName=Calculator
 Comment=A reverse polish notation calculator
-Exec=grpn
 Icon=grpn
-Type=Application
+Exec=grpn
+Terminal=false
 Categories=Calculator;Utility;
+StartupNotify=false
+X-AppInstall-Package=grpn
+X-AppInstall-Popcon=27
+X-AppInstall-Section=main

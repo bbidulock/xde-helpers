@@ -1,10 +1,13 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=KDrill
+Icon=_usr_share_pixmaps_kdrill
+Exec=/usr/bin/kdrill
+Terminal=false
+Categories=Education;Languages
+StartupNotify=false
 X-AppInstall-Package=kdrill
 X-AppInstall-Popcon=11
 X-AppInstall-Section=main
-
-Name=KDrill
-Exec=/usr/bin/kdrill
-Type=Application
-Icon=_usr_share_pixmaps_kdrill
-Categories=Education;Languages

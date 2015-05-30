@@ -1,14 +1,16 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=wpa_gui
+GenericName=wpa_supplicant user interface
+Comment=Wpa_supplicant management
+Comment[en]=Wpa_supplicant management
+Icon=wpa_gui
+Exec=kdesu wpa_gui
+Terminal=false
+Categories=Qt;Network;
+StartupNotify=false
 X-AppInstall-Package=wpagui
 X-AppInstall-Popcon=138
 X-AppInstall-Section=main
-
-Version=1.0
-Name=wpa_gui
-Comment[en]=Wpa_supplicant management
-Exec=kdesu wpa_gui
-Icon=wpa_gui
-GenericName=wpa_supplicant user interface
-Terminal=false
-Type=Application
-Categories=Qt;Network;

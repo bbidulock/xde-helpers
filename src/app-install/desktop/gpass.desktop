@@ -1,18 +1,17 @@
 [Desktop Entry]
-X-AppInstall-Package=gpass
-X-AppInstall-Popcon=59
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Password Manager
 Name[da]=Kodeordsorganisator
 Name[ja]=パスワード・マネージャ
 Comment=Manages your password collection
 Comment[ja]=あなたのパスワード・コレクションを管理します
+Icon=gpass-icon.png
 Exec=/usr/bin/gpass
 Terminal=false
-Type=Application
-StartupNotify=false
-#MimeType=text/plain;
-Icon=gpass-icon.png
 Categories=Application;Utility;
+StartupNotify=false
+X-AppInstall-Package=gpass
+X-AppInstall-Popcon=59
+X-AppInstall-Section=main

@@ -1,11 +1,10 @@
 [Desktop Entry]
-X-AppInstall-Package=blogilo
-X-AppInstall-Popcon=280
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Blogilo
-Name[ca]=Blogilo
 Name[ca@valencia]=Blogilo
+Name[ca]=Blogilo
 Name[cs]=Blogilo
 Name[da]=Blogilo
 Name[de]=Blogilo
@@ -38,13 +37,9 @@ Name[uk]=Blogilo
 Name[x-test]=xxBlogiloxx
 Name[zh_CN]=Blogilo
 Name[zh_TW]=Blogilo
-Exec=blogilo %i -caption "%c"
-Icon=blogilo
-Type=Application
-Categories=Qt;KDE;Network;
 GenericName=A KDE Blogging Client
-GenericName[ca]=Un client de blocs per al KDE
 GenericName[ca@valencia]=Un client de blocs per al KDE
+GenericName[ca]=Un client de blocs per al KDE
 GenericName[da]=En blogklient til KDE
 GenericName[de]=Ein Blogging-Programm für KDE
 GenericName[el]=Μία εφαρμογή του KDE για blogging
@@ -74,5 +69,11 @@ GenericName[uk]=Клієнт ведення блогів для KDE
 GenericName[x-test]=xxA KDE Blogging Clientxx
 GenericName[zh_CN]=KDE 的博客客户端
 GenericName[zh_TW]=KDE 部落格客戶端程式
+Icon=blogilo
+Exec=blogilo %i -caption "%c"
 Terminal=false
-
+Categories=Qt;KDE;Network;
+StartupNotify=false
+X-AppInstall-Package=blogilo
+X-AppInstall-Popcon=280
+X-AppInstall-Section=main

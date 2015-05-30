@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=xfce4-session
-X-AppInstall-Popcon=2211
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Session and Startup
 Name[ast]=Sesión y entamu
 Name[be]=Сэансы й запуск
@@ -70,12 +68,14 @@ Comment[uk]=Налаштувати запуск стільниці і екран
 Comment[ur]=ڈیسک ٹاپ سٹارٹ اپ اور سپلیش سکرین وضع کریں
 Comment[ur_PK]=ڈیسک ٹاپ سٹارٹ اپ اور سپلیش سکرین وضع کریں
 Comment[zh_CN]=自定义桌面启动和闪屏
-Exec=xfce4-session-settings
 Icon=xfce4-session
+Exec=xfce4-session-settings
 Terminal=false
-StartupNotify=true
-Type=Application
-Categories=X-XFCE;Settings;DesktopSettings;X-XfceSettingsDialog;
 OnlyShowIn=XFCE;
-X-XfcePluggable=true
+Categories=X-XFCE;Settings;DesktopSettings;X-XfceSettingsDialog;
+StartupNotify=true
+X-AppInstall-Package=xfce4-session
+X-AppInstall-Popcon=2211
+X-AppInstall-Section=main
 X-XfceHelpFile=xfce4-session.html
+X-XfcePluggable=true

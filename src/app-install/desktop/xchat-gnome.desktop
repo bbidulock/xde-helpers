@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=xchat-gnome
-X-AppInstall-Popcon=122
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=XChat-GNOME IRC Chat
 Name[bg]=XChat-GNOME: разговори в IRC
 Name[bn]=এক্সচ্যাট-গনোম আই-আর-সি চ্যাট
@@ -128,13 +127,15 @@ Comment[tr]=İnsanlarla IRC kullanarak sohbet edin
 Comment[zh_CN]=使用IRC聊天
 Comment[zh_HK]=使用 IRC 和人交談
 Comment[zh_TW]=使用 IRC 與人聊天
-Exec=xchat-gnome
 Icon=xchat-gnome
+Exec=xchat-gnome
 Terminal=false
-StartupNotify=true
-Type=Application
 Categories=GNOME;GTK;Network;IRCClient;
+StartupNotify=true
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=xchat-gnome
 X-GNOME-Bugzilla-Component=general
 X-GNOME-Bugzilla-Version=0.26.1
+X-AppInstall-Package=xchat-gnome
+X-AppInstall-Popcon=122
+X-AppInstall-Section=main

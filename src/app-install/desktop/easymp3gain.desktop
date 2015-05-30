@@ -1,17 +1,20 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=easyMP3Gain
+GenericName=MP3Gain Frontend
+Comment=A GUI for mp3gain, vorbisgain and aacgain
+Comment[de]=Eine GUI für mp3gain, vorbisgain und aacgain
+Comment[fr]=Une GUI pour mp3gain, vorbisgain et aacgain
+Comment[it]=Una GUI per mp3gain, vorbisgain e aacgain
+Icon=easymp3gain
+Exec=easymp3gain %U
+Terminal=false
+Categories=Audio;AudioVideo
+MimeType=application/x-easymp3gain
+StartupNotify=false
 X-AppInstall-Package=easymp3gain-gtk
 X-AppInstall-Popcon=29
 X-AppInstall-Section=main
-
-Name=easyMP3Gain
-GenericName=MP3Gain Frontend
-Exec=easymp3gain %U
-Type=Application
-Comment=A GUI for mp3gain, vorbisgain and aacgain
-Comment[de]=Eine GUI für mp3gain, vorbisgain und aacgain
-Comment[it]=Una GUI per mp3gain, vorbisgain e aacgain
-Comment[fr]=Une GUI pour mp3gain, vorbisgain et aacgain
-MimeType=application/x-easymp3gain
-Icon=easymp3gain
-Categories=Audio;AudioVideo
 X-AppInstall-Architectures=amd64,i386,powerpc,sparc

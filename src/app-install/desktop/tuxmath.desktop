@@ -1,22 +1,23 @@
 [Desktop Entry]
-X-AppInstall-Package=tuxmath
-X-AppInstall-Popcon=117
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Tux Math 
 GenericName=Educational math game
 GenericName[de]=Mathe Spiel
-GenericName[ru]=Образовательная игра
 GenericName[fr]=Jeu mathématique
+GenericName[ru]=Образовательная игра
 Comment=Tux Math - Learn math with Tux!
-Comment[pl]=Tux Math - Ucz siê matematyki z Tuxem!
 Comment[de]=Tux Math - Lerne Mathe mit Tux!
-Comment[ru]=Обучение арифметике с пингвином в главной роли
 Comment[fr]=Tux Math - Apprenez les mathématiques avec Tux!
-Exec=tuxmath
+Comment[pl]=Tux Math - Ucz siê matematyki z Tuxem!
+Comment[ru]=Обучение арифметике с пингвином в главной роли
 Icon=tuxmath
-Type=Application
+Exec=tuxmath
 Terminal=false
 Categories=Education;Math;
-## X-SuSE-translate=false
+StartupNotify=false
+X-AppInstall-Package=tuxmath
+X-AppInstall-Popcon=117
+X-AppInstall-Section=main
 X-Ubuntu-Gettext-Domain=tuxmath

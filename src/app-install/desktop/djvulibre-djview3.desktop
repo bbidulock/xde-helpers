@@ -1,18 +1,8 @@
-#!/usr/bin/env xdg-open
 [Desktop Entry]
-X-AppInstall-Package=djview3
-X-AppInstall-Popcon=156
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
 Type=Application
-Categories=Qt;Graphics;Viewer;
-MimeType=image/x-djvu;image/x.djvu;image/vnd.djvu;
 Name=DjView3
-Exec=djview3 %f
-Terminal=false
-Icon=djvulibre-djview3
-StartupWMClass=Djview
 GenericName=DjVu Viewer
 GenericName[ar]=عارض ملفات DjVu
 GenericName[az]=DjVu Nümayişçisi
@@ -59,8 +49,8 @@ GenericName[rw]=Mugaragaza DjVu
 GenericName[se]=DjVu-čájeheaddji
 GenericName[sk]=Prehliadač DjVu
 GenericName[sl]=Pregledovalnik datotek DjVu
-GenericName[sr]=DjVu приказивач
 GenericName[sr@Latn]=DjVu prikazivač
+GenericName[sr]=DjVu приказивач
 GenericName[sv]=DjVu-visare
 GenericName[ta]=DjVu காட்சி
 GenericName[tg]=Хондани санадоти DjVu
@@ -73,3 +63,13 @@ GenericName[xh]=Umboniseli we DjVu
 GenericName[zh_CN]=DjVu 查看器
 GenericName[zh_HK]=DjVu 檢視器
 GenericName[zu]=Umboniseli we DjVu
+Icon=djvulibre-djview3
+Exec=djview3 %f
+Terminal=false
+Categories=Qt;Graphics;Viewer;
+MimeType=image/x-djvu;image/x.djvu;image/vnd.djvu;
+StartupNotify=false
+StartupWMClass=Djview
+X-AppInstall-Package=djview3
+X-AppInstall-Popcon=156
+X-AppInstall-Section=main

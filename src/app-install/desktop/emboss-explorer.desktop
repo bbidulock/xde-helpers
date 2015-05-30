@@ -1,15 +1,7 @@
-# This file was orignially written for Debian, and can be copied, used,
-# modified and redistributed under the same licence as EMBOSS Explorer itself.
-
 [Desktop Entry]
-X-AppInstall-Package=emboss-explorer
-X-AppInstall-Popcon=12
-X-AppInstall-Section=main
-
 Version=1.0
-Terminal=false
-Icon=emboss-explorer
-Exec=sensible-browser http://localhost/emboss-explorer
+Encoding=UTF-8
+Type=Application
 Name=EMBOSS Explorer
 GenericName=EMBOSS frontend
 GenericName[en]=EMBOSS frontend
@@ -17,5 +9,11 @@ GenericName[fr]=Interface graphique pour EMBOSS
 Comment=Starts the default web browser on the local EMBOSS Explorer website.
 Comment[en]=Starts the default web browser on the local EMBOSS Explorer website.
 Comment[fr]=Lance le navigateur par défaut sur le site local EMBOSS Explorer.
-Type=Application
+Icon=emboss-explorer
+Exec=sensible-browser http://localhost/emboss-explorer
+Terminal=false
 Categories=Biology;Science;Education;
+StartupNotify=false
+X-AppInstall-Package=emboss-explorer
+X-AppInstall-Popcon=12
+X-AppInstall-Section=main

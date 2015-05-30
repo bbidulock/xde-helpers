@@ -1,31 +1,28 @@
 [Desktop Entry]
-X-AppInstall-Package=denemo
-X-AppInstall-Popcon=85
-X-AppInstall-Section=main
-
-Exec=denemo
-Icon=denemo
-StartupNotify=true
-Terminal=false
+Version=1.0
+Encoding=UTF-8
 Type=Application
-Categories=GNOME;Audio;AudioVideo;Music;Education
-
 Name=GNU Denemo
 Name[de]=GNU Denemo
 Name[en]=GNU Denemo
 Name[fr]=GNU Denemo
 Name[it]=GNU Denemo
-
 GenericName=Score Editor
 GenericName[de]=Notensatzprogramm
 GenericName[en]=Score Editor
 GenericName[fr]=Édieur de partition
 GenericName[it]=Compositore per spartiti
-
 Comment=Edit musical scores
 Comment[de]=Partituren editieren
 Comment[en]=Edit musical scores
 Comment[fr]=Ėdite des partitions musicales
 Comment[it]=Compone gli spartiti musicali
-
+Icon=denemo
+Exec=denemo
+Terminal=false
+Categories=GNOME;Audio;AudioVideo;Music;Education
+StartupNotify=true
+X-AppInstall-Package=denemo
+X-AppInstall-Popcon=85
+X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

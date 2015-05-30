@@ -1,10 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=lincity-ng
-X-AppInstall-Popcon=78
-X-AppInstall-Section=main
-
-Type=Application
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Lincity-NG
 GenericName=City Simulation Game
 GenericName[de]=Stadtsimulationsspiel
@@ -12,5 +9,8 @@ Comment=Plan and Build a city and take care of transport, economics, electricity
 Icon=lincity-ng.png
 Exec=lincity-ng
 Terminal=false
-StartupNotify=false
 Categories=Game;Simulation;
+StartupNotify=false
+X-AppInstall-Package=lincity-ng
+X-AppInstall-Popcon=78
+X-AppInstall-Section=main

@@ -1,13 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=gtkatlantic
-X-AppInstall-Popcon=10
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=GtkAtlantic
 GenericName=Monopd network client
 Comment=Connect to a Monopd server
-Exec=gtkatlantic
 Icon=gtkatlantic
+Exec=gtkatlantic
+Terminal=false
 Categories=Game;BoardGame;
-
+StartupNotify=false
+X-AppInstall-Package=gtkatlantic
+X-AppInstall-Popcon=10
+X-AppInstall-Section=main

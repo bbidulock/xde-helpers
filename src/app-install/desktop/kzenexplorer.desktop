@@ -1,11 +1,13 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=kZenExplorer
+Icon=kzenexplorer
+Exec=kzenexplorer
+Terminal=false
+Categories=Application;AudioVideo
+StartupNotify=false
 X-AppInstall-Package=kzenexplorer
 X-AppInstall-Popcon=11
 X-AppInstall-Section=main
-
-Name=kZenExplorer
-Exec=kzenexplorer
-Icon=kzenexplorer
-Type=Application
-Categories=Application;AudioVideo
-Terminal=false

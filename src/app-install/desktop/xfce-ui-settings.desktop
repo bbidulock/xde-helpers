@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=xfce4-settings
-X-AppInstall-Popcon=1263
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Appearance
 Name[ast]=Aspeutu
 Name[ca]=Aparença
@@ -67,12 +65,14 @@ Comment[uk]=Налаштуйте зовнішній вигляд вашої ст
 Comment[ur]=اپنے ڈیسک ٹاپ کا حلیہ مرتب کریں
 Comment[ur_PK]=اپنے ڈیسک ٹاپ کا حلیہ مرتب کریں
 Comment[zh_CN]=设置桌面外观
-Exec=xfce4-appearance-settings
 Icon=preferences-desktop-theme
+Exec=xfce4-appearance-settings
 Terminal=false
-Type=Application
+OnlyShowIn=XFCE;
 Categories=X-XFCE;Settings;DesktopSettings;X-XfceSettingsDialog;
 StartupNotify=true
-OnlyShowIn=XFCE;
-X-XfcePluggable=true
+X-AppInstall-Package=xfce4-settings
+X-AppInstall-Popcon=1263
+X-AppInstall-Section=main
 X-XfceHelpFile=xfce4-settings.html
+X-XfcePluggable=true

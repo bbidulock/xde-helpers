@@ -1,15 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=xmaxima
-X-AppInstall-Popcon=139
-X-AppInstall-Section=main
-
 Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Maxima Algebra System
 GenericName=Computer Algebra System
 Comment=An interface to the Maxima Computer Algebra System
-Exec=xmaxima
 Icon=maxima-icon
-Type=Application
+Exec=xmaxima
 Terminal=false
 Categories=Education;Math;
+StartupNotify=false
+X-AppInstall-Package=xmaxima
+X-AppInstall-Popcon=139
+X-AppInstall-Section=main

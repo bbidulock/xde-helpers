@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=cultivation
-X-AppInstall-Popcon=24
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=cultivation
 GenericName=
@@ -11,3 +9,7 @@ Icon=cultivation.xpm
 Exec=/usr/games/cultivation
 Terminal=false
 Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=cultivation
+X-AppInstall-Popcon=24
+X-AppInstall-Section=main

@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=raincat
-X-AppInstall-Popcon=15
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Raincat
 GenericName=Logic Game
@@ -13,4 +11,8 @@ Icon=raincat
 Exec=raincat
 Terminal=false
 Categories=Game;KidsGame;
+StartupNotify=false
+X-AppInstall-Package=raincat
+X-AppInstall-Popcon=15
+X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,hppa,i386,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390,sparc

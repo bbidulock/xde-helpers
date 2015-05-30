@@ -1,15 +1,15 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=GBonds
+Comment=Savings Bond Inventory
+Icon=gbonds.png
+Exec=gbonds %F
+Terminal=false
+Categories=GNOME;Application;Office;
+MimeType=application/x-gbonds;
+StartupNotify=true
 X-AppInstall-Package=gbonds
 X-AppInstall-Popcon=1
 X-AppInstall-Section=main
-
-Encoding=UTF-8
-Name=GBonds
-Comment=Savings Bond Inventory
-Exec=gbonds %F
-Icon=gbonds.png
-Terminal=false
-Type=Application
-Categories=GNOME;Application;Office;
-StartupNotify=true
-MimeType=application/x-gbonds;

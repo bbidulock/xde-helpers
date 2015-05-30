@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=gparted
-X-AppInstall-Popcon=2727
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=GParted
 Name[ar]=مُقسِّم‌ج
 Name[bg]=GParted
@@ -89,7 +88,6 @@ GenericName[uk]=Редактор Розділів
 GenericName[zh_CN]=分区编辑器
 GenericName[zh_HK]=分割區編輯器
 GenericName[zh_TW]=分割區編輯器
-_X-GNOME-FullName=GParted Partition Editor
 Comment=Create, reorganize, and delete partitions
 Comment[ar]=أنشئ ونظم واحذف الأقراص
 Comment[bg]=Създаване, подреждане и изтриване на дялове
@@ -131,10 +129,13 @@ Comment[uk]=Створити, перемістити чи видалити ро�
 Comment[zh_CN]=创建、重新组织或删除分区
 Comment[zh_HK]=建立、編輯或刪除分割區
 Comment[zh_TW]=建立、編輯或刪除分割區
-Exec=gksu /usr/sbin/gparted
 Icon=gparted
+Exec=gksu /usr/sbin/gparted
 Terminal=false
-Type=Application
 Categories=GNOME;System;Filesystem;Settings;
 StartupNotify=true
+X-AppInstall-Package=gparted
+X-AppInstall-Popcon=2727
+X-AppInstall-Section=main
 X-Ubuntu-Gettext-Domain=gparted
+_X-GNOME-FullName=GParted Partition Editor

@@ -1,12 +1,13 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=Application Tray Icon
 GenericName=System Tray Icon
 Comment=Drops any application in the system tray
+Icon=alltray.png
 TryExec=alltray
 Exec=alltray -a
-Icon=alltray.png
 Terminal=false
 Categories=TrayIcon;System;Utility;
 StartupNotify=false

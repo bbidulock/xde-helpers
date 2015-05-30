@@ -1,14 +1,16 @@
 [Desktop Entry]
-X-AppInstall-Package=xmlcopyeditor
-X-AppInstall-Popcon=34
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=XML Copy Editor
 GenericName=XML Editor
 Comment=Edit XML documents
-Exec=xmlcopyeditor %U
 Icon=xmlcopyeditor.png
+Exec=xmlcopyeditor %U
 Terminal=false
-MimeType=text/xml;
 Categories=Application;Development;TextEditor;
+MimeType=text/xml;
+StartupNotify=false
+X-AppInstall-Package=xmlcopyeditor
+X-AppInstall-Popcon=34
+X-AppInstall-Section=main

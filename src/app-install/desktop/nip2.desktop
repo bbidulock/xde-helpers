@@ -1,17 +1,18 @@
 [Desktop Entry]
-X-AppInstall-Package=nip2
-X-AppInstall-Popcon=22
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=nip2
 Comment=Image manipulation program based on VIPS
 Comment[it]=Programma per la manipolazione di immagini basato su VIPS
-Exec=nip2 %F
 Icon=nip2
+Exec=nip2 %F
 Terminal=false
-Type=Application
 Categories=Graphics;RasterGraphics;
+MimeType=image/x-vips;
+StartupNotify=true
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=NIP2
-StartupNotify=true
-MimeType=image/x-vips;
+X-AppInstall-Package=nip2
+X-AppInstall-Popcon=22
+X-AppInstall-Section=main

@@ -1,15 +1,16 @@
-
 [Desktop Entry]
-X-AppInstall-Package=opencubicplayer
-X-AppInstall-Popcon=63
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Open Cubic Player
 GenericName=Music Player
 Comment=Open Cubic Player 0.1.20 for UNIX
-Exec=/usr/bin/ocp
 Icon=opencubicplayer
+Exec=/usr/bin/ocp
 Terminal=false
-Type=Application
 Categories=Application;AudioVideo;Audio;
+StartupNotify=false
 X-Desktop-File-Install-Version=0.15
+X-AppInstall-Package=opencubicplayer
+X-AppInstall-Popcon=63
+X-AppInstall-Section=main

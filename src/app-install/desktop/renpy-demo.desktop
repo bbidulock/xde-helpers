@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=renpy-demo
-X-AppInstall-Popcon=3
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Ren'Py Demo
 GenericName=renpy-demo
@@ -12,3 +10,7 @@ Icon=renpy-demo
 Exec=renpy-demo
 Terminal=false
 Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=renpy-demo
+X-AppInstall-Popcon=3
+X-AppInstall-Section=main

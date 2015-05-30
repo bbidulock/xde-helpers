@@ -1,14 +1,16 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Mupen64Plus
+GenericName=Nintendo 64 Emulator
+Comment=Mupen64Plus Nintendo 64 Emulator
+Icon=mupen64plus-large.xpm
+Exec=mupen64plus
+Terminal=false
+Categories=Application;Game;
+StartupNotify=false
 X-AppInstall-Package=mupen64plus
 X-AppInstall-Popcon=40
 X-AppInstall-Section=main
-
-Type=Application
-Exec=mupen64plus
-Icon=mupen64plus-large.xpm
-Comment=Mupen64Plus Nintendo 64 Emulator
-Terminal=false
-Name=Mupen64Plus
-GenericName=Nintendo 64 Emulator
-Categories=Application;Game;
 X-AppInstall-Architectures=amd64,i386,kfreebsd-amd64,kfreebsd-i386

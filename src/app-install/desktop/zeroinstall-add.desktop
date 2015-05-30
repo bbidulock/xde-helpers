@@ -1,10 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=zeroinstall-injector
-X-AppInstall-Popcon=145
-X-AppInstall-Section=main
-
-Type=Application
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Add New Program
 Name[es]=Agregar un nuevo programa
 Name[sv]=Lägg till program
@@ -14,7 +11,11 @@ GenericName[sv]=Installerare
 Comment=Adds Zero Install programs to your Applications menu
 Comment[es]=Agrega programas Zero Install a tu menú Aplicaciones
 Comment[sv]=Lägger till Zero Install-program till menyn Program
-Exec=0desktop -- %u
 Icon=zeroinstall-zero2desktop
+Exec=0desktop -- %u
 Terminal=false
 Categories=PackageManager;GTK;
+StartupNotify=false
+X-AppInstall-Package=zeroinstall-injector
+X-AppInstall-Popcon=145
+X-AppInstall-Section=main

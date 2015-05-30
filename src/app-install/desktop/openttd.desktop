@@ -1,17 +1,8 @@
-# $Id: openttd.desktop.in 19928 2010-06-04 21:14:22Z rubidium $
-# http://standards.freedesktop.org/desktop-entry-spec/desktop-entry-spec-1.1.html
 [Desktop Entry]
-X-AppInstall-Package=openttd
-X-AppInstall-Popcon=113
-X-AppInstall-Section=main
-
-Type=Application
 Version=1.1
+Encoding=UTF-8
+Type=Application
 Name=OpenTTD
-Icon=openttd
-Exec=/usr/share/games/openttd/openttd-wrapper
-Terminal=false
-Categories=Game;
 Comment=A clone of Transport Tycoon Deluxe
 Comment[be_BY]=Клён гульні Transport Tycoon Deluxe
 Comment[bg_BG]=Клонинг на Transport Tycoon Deluxe
@@ -54,3 +45,11 @@ Comment[uk_UA]=Клон гри "Transport Tycoon Deluxe"
 Comment[vi_VN]=Một bản sao của Transport Tycoon Deluxe
 Comment[zh_CN]=克隆 TTD 全新版
 Comment[zh_TW]=《運輸大亨豪華版》的全新重寫版本
+Icon=openttd
+Exec=/usr/share/games/openttd/openttd-wrapper
+Terminal=false
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=openttd
+X-AppInstall-Popcon=113
+X-AppInstall-Section=main

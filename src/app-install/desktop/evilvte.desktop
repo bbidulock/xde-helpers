@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=evilvte
-X-AppInstall-Popcon=18
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=evilvte
 Comment=Terminal Emulator
@@ -42,4 +40,9 @@ Comment[vi]=Trình giả lập Terminal
 Comment[zh_TW]=終端機程式
 Icon=evilvte
 Exec=evilvte
+Terminal=false
 Categories=Utility;TerminalEmulator;
+StartupNotify=false
+X-AppInstall-Package=evilvte
+X-AppInstall-Popcon=18
+X-AppInstall-Section=main

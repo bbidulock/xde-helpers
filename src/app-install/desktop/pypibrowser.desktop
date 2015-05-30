@@ -1,9 +1,12 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
 Type=Application
+Name=PyPI Browser
+Exec=pypibrowser
+Terminal=false
+Categories=Development;PackageManager;Qt
+StartupNotify=false
 X-AppInstall-Package=pypibrowser
 X-AppInstall-Popcon=5
 X-AppInstall-Section=main
-
-Name=PyPI Browser
-Exec=pypibrowser
-Categories=Development;PackageManager;Qt

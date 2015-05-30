@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=pgAdmin III
+Comment=PostgreSQL Administration Tool
+Icon=pgadmin3
+Exec=pgadmin3
+Terminal=false
+Categories=Development;Database;
+StartupNotify=false
 X-AppInstall-Package=pgadmin3
 X-AppInstall-Popcon=488
 X-AppInstall-Section=main
-
-Name=pgAdmin III
-Comment=PostgreSQL Administration Tool
-Exec=pgadmin3
-Terminal=false
-Type=Application
-Icon=pgadmin3
-Categories=Development;Database;

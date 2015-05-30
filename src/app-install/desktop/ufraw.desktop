@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=ufraw
-X-AppInstall-Popcon=682
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=UFRaw
 GenericName=Raw image converter
 GenericName[cs]=Konvertor raw snímků
@@ -17,10 +16,9 @@ GenericName[nl]=Camera Raw Conversie
 GenericName[pl]=Konwerter zdjęć RAW
 GenericName[pt]=Conversor de imagens cruas
 GenericName[ru]=Проявитель цифровых негативов
-GenericName[sr]=Преводилац Raw слика
 GenericName[sr@latin]=Prevodilac Raw slika
+GenericName[sr]=Преводилац Raw слика
 GenericName[zh_CN]=Raw 图像转换器
-
 Comment=A utility to read and manipulate raw images from digital cameras
 Comment[cs]=Program ke čtení a manipulaci raw snímků z digitálních fotoaparátů
 Comment[da]=Et program til at læse og behandle raw-billeder fra digitalkameraer
@@ -34,19 +32,15 @@ Comment[nl]=Programma om digitale camera RAW bestanden te bewerken en convertere
 Comment[pl]=Program do odczytu i korekty zdjęć w formacie RAW z aparatów cyfrowych
 Comment[pt]=Programa para ler e manipular imagens de câmeras digitais
 Comment[ru]=Проявка цифровых негативов и сохранение в TIFF/JPEG
-Comment[sr]=Алат за читање и обраду raw слика из дигиталних камера
 Comment[sr@latin]=Alat za čitanje i obradu raw slika iz digitalnih kamera
+Comment[sr]=Алат за читање и обраду raw слика из дигиталних камера
 Comment[zh_CN]=一个从数码相机中读取并处理原始图像的工具
-
-Version=1.0
-
-Type=Application
-Categories=Graphics;Photography;GTK;
-
+Icon=ufraw
 Exec=ufraw %U
 Terminal=false
-StartupNotify=true
-
+Categories=Graphics;Photography;GTK;
 MimeType=application/x-ufraw;image/x-dcraw;
-
-Icon=ufraw
+StartupNotify=true
+X-AppInstall-Package=ufraw
+X-AppInstall-Popcon=682
+X-AppInstall-Section=main

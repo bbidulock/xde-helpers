@@ -1,9 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=giggle
-X-AppInstall-Popcon=87
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Giggle
 Name[ca]=Giggle
@@ -39,7 +36,11 @@ Comment[sl]=Pregledovalnik skladišč git
 Comment[sv]=Visare för Git-repon
 Comment[vi]=Trình xem kho Git
 Comment[zh_CN]=Git 仓库查看器
-Exec=giggle %F
 Icon=giggle
-StartupNotify=true
+Exec=giggle %F
+Terminal=false
 Categories=Development;RevisionControl;
+StartupNotify=true
+X-AppInstall-Package=giggle
+X-AppInstall-Popcon=87
+X-AppInstall-Section=main

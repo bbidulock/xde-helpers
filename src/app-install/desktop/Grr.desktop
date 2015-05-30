@@ -1,14 +1,16 @@
 [Desktop Entry]
-X-AppInstall-Package=grr.app
-X-AppInstall-Popcon=2
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Grr Feed Reader
 Name[bg]=Четец на емисии по RSS (Grr)
 Comment=Günther's RSS Reader
 Comment[bg]=Четец на емисии по RSS за GNUstep
-Type=Application
-Version=1.0
-Categories=Network;News;
 Icon=_usr_share_GNUstep_Grr.app_rssreader
 Exec=Grr
+Terminal=false
+Categories=Network;News;
+StartupNotify=false
+X-AppInstall-Package=grr.app
+X-AppInstall-Popcon=2
+X-AppInstall-Section=main

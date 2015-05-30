@@ -1,15 +1,16 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=TreeLine
+Comment=Tree-like structured custom data manager
+Comment[es]=Gestor configurable de datos estructurados en forma de árbol
+Icon=treeline
+Exec=treeline %f
+Terminal=false
+Categories=Application;
+MimeType=application/x-treeline
+StartupNotify=false
 X-AppInstall-Package=treeline
 X-AppInstall-Popcon=79
 X-AppInstall-Section=main
-
-Name=TreeLine
-Type=Application
-Exec=treeline %f
-Icon=treeline
-Encoding=UTF-8
-Comment=Tree-like structured custom data manager
-Comment[es]=Gestor configurable de datos estructurados en forma de árbol
-Terminal=false
-MimeType=application/x-treeline
-Categories=Application;

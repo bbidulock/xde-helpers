@@ -1,9 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=circuslinux
-X-AppInstall-Popcon=74
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Circus Linux!
 GenericName=Circus Linux
@@ -13,5 +10,8 @@ Comment[de]=Werfe die Clowns bevor sie fallen und treffe die Ballone mit ihnen
 Icon=circuslinux-icon.xpm
 Exec=circuslinux
 Terminal=false
-StartupNotify=false
 Categories=Application;Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=circuslinux
+X-AppInstall-Popcon=74
+X-AppInstall-Section=main

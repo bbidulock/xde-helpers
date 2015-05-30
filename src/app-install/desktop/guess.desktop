@@ -1,15 +1,16 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Guess
+Comment=Game similar to the famous 'Mastermind'
+Comment[de]=Spiel ähnlich zum berühmten »Mastermind«
+Comment[fr]=Jeu similaire au 'Mastermind'
+Icon=guess
+Exec=guess
+Terminal=false
+Categories=Game;LogicGame;
+StartupNotify=false
 X-AppInstall-Package=sgt-puzzles
 X-AppInstall-Popcon=137
 X-AppInstall-Section=main
-
-Version=1.0
-Terminal=false
-Exec=guess
-Icon=guess
-Type=Application
-Categories=Game;LogicGame;
-Name=Guess
-Comment=Game similar to the famous 'Mastermind'
-Comment[fr]=Jeu similaire au 'Mastermind'
-Comment[de]=Spiel ähnlich zum berühmten »Mastermind«

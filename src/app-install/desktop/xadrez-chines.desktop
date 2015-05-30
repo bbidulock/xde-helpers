@@ -1,18 +1,17 @@
 [Desktop Entry]
-X-AppInstall-Package=ggz-python-games
-X-AppInstall-Popcon=9
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
-
+Type=Application
 Name=Xadrez Chinês
 GenericName=Chinese Chess game
 GenericName[de]=Chinesisches Schach
 Comment=GGZ game
 Comment[de]=GGZ-Spiel
-
-Type=Application
-Exec=/usr/games/xadrez-chines
 Icon=
+Exec=/usr/games/xadrez-chines
 Terminal=false
 Categories=X-GGZ-Games;BoardGame;Game;
+StartupNotify=false
+X-AppInstall-Package=ggz-python-games
+X-AppInstall-Popcon=9
+X-AppInstall-Section=main

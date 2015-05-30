@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=upnp-router-control
-X-AppInstall-Popcon=7
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=UPnP Router Control
 Name[de]=UPnP Router Control
@@ -16,7 +14,11 @@ Comment[de]=Ein einfaches Programm, um UPnP IGD-kompatible Router zu konfigurier
 Comment[it]=Un semplice programma per gestire router compatibili con UPnP IGD
 Comment[nl]=Een eenvoudig programma om UPnP IGD-ondersteunde routers te beheren
 Comment[pl]=Program do zarządzanie routerami zgodnymi z UPnP IGD
-Exec=upnp-router-control
 Icon=upnp-router-control
+Exec=upnp-router-control
 Terminal=false
 Categories=Utility;
+StartupNotify=false
+X-AppInstall-Package=upnp-router-control
+X-AppInstall-Popcon=7
+X-AppInstall-Section=main

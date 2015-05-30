@@ -1,14 +1,15 @@
-# $Id: autokey.desktop 22 2008-01-29 11:29:13Z peabody $
 [Desktop Entry]
-X-AppInstall-Package=autokey-gtk
-X-AppInstall-Popcon=29
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=AutoKey (GTK)
 GenericName=Keyboard Automation
 Comment=Program keyboard shortcuts
+Icon=_usr_share_pixmaps_akicon
 Exec=autokey-gtk
 Terminal=false
-Type=Application
-Icon=_usr_share_pixmaps_akicon
 Categories=GNOME;Utility;
+StartupNotify=false
+X-AppInstall-Package=autokey-gtk
+X-AppInstall-Popcon=29
+X-AppInstall-Section=main

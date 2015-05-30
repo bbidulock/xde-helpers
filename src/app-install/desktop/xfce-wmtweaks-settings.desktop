@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=xfwm4
-X-AppInstall-Popcon=2248
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Window Manager Tweaks
 Name[am]=የመስኮት አስተዳዳሪ ማሰማመር
 Name[ar]=تضبيطات لمدير النوافذ
@@ -85,12 +83,14 @@ Comment[uk]=Тонке налаштування заголовку вікна і
 Comment[ur]=ونڈو کا سلوک اور ایفیکٹ مرتب کریں
 Comment[ur_PK]=ونڈو کا سلوک اور ایفیکٹ مرتب کریں
 Comment[zh_CN]=微调窗口行为及效果
-Exec=xfwm4-tweaks-settings
 Icon=wmtweaks
+Exec=xfwm4-tweaks-settings
 Terminal=false
-Type=Application
+OnlyShowIn=XFCE;
 Categories=X-XFCE;Settings;DesktopSettings;X-XfceSettingsDialog;
 StartupNotify=true
-OnlyShowIn=XFCE;
-X-XfcePluggable=true
+X-AppInstall-Package=xfwm4
+X-AppInstall-Popcon=2248
+X-AppInstall-Section=main
 X-XfceHelpFile=xfwm4.html
+X-XfcePluggable=true

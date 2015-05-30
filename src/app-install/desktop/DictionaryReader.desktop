@@ -1,14 +1,16 @@
 [Desktop Entry]
-X-AppInstall-Package=dictionaryreader.app
-X-AppInstall-Popcon=16
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Dictionary Reader
 Name[bg]=Речник (Dictionary Reader)
 Comment=A Dict client for GNUstep
 Comment[bg]=Речник за GNUstep 
-Type=Application
-Version=1.0
-Categories=Office;TextTools;Dictionary;
 Icon=/usr/lib/GNUstep/Applications/DictionaryReader.app/Resources/dict.png
 Exec=DictionaryReader
+Terminal=false
+Categories=Office;TextTools;Dictionary;
+StartupNotify=false
+X-AppInstall-Package=dictionaryreader.app
+X-AppInstall-Popcon=16
+X-AppInstall-Section=main

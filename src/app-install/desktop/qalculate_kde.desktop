@@ -1,17 +1,19 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Qalculate!
+GenericName=Scientific Calculator
+Comment=Powerful and easy to use desktop calculator
+Icon=qalculate_kde
+Exec=qalculate-kde
+X-DCOP-ServiceName=qalculate_kde
+X-DCOP-ServiceType=Unique
+Terminal=false
+Categories=Qt;KDE;Utility;Science;
+StartupNotify=false
+DocPath=qalculate_kde/index.html
+X-KDE-StartupNotify=true
 X-AppInstall-Package=qalculate-kde
 X-AppInstall-Popcon=95
 X-AppInstall-Section=main
-
-Name=Qalculate!
-GenericName=Scientific Calculator
-Exec=qalculate-kde
-Icon=qalculate_kde
-Type=Application
-DocPath=qalculate_kde/index.html
-Categories=Qt;KDE;Utility;Science;
-Terminal=false
-X-DCOP-ServiceType=Unique
-X-DCOP-ServiceName=qalculate_kde
-X-KDE-StartupNotify=true
-Comment=Powerful and easy to use desktop calculator

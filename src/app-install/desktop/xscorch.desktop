@@ -1,11 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Xscorch
+Comment=Clone of Scorched Earth
+Icon=xscorch
+Exec=xscorch
+Terminal=false
+Categories=Application;Game;ArcadeGame;
+StartupNotify=false
 X-AppInstall-Package=xscorch
 X-AppInstall-Popcon=17
 X-AppInstall-Section=main
-
-Name=Xscorch
-Comment=Clone of Scorched Earth
-Exec=xscorch
-Icon=xscorch
-Type=Application
-Categories=Application;Game;ArcadeGame;

@@ -1,9 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=ocrfeeder
-X-AppInstall-Popcon=36
-X-AppInstall-Section=main
-
 Version=0.5
+Encoding=UTF-8
 Type=Application
 Name=OCRFeeder
 Name[cs]=OCRFeeder
@@ -26,7 +23,12 @@ Comment[pt]=A aplicação completa de OCR
 Comment[sl]=Popolni OCR paket.
 Comment[sv]=Den kompletta OCR-sviten.
 Comment[zh_CN]=完整的OCR解决方案
-Exec=ocrfeeder
 Icon=_usr_share_icons_hicolor_scalable_apps_ocrfeeder
-MimeType=image/bmp;image/gif;image/jpeg;image/jpg;image/pjpeg;image/png;image/tiff;
+Exec=ocrfeeder
+Terminal=false
 Categories=Application;Office;
+MimeType=image/bmp;image/gif;image/jpeg;image/jpg;image/pjpeg;image/png;image/tiff;
+StartupNotify=false
+X-AppInstall-Package=ocrfeeder
+X-AppInstall-Popcon=36
+X-AppInstall-Section=main

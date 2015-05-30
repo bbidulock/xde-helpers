@@ -1,16 +1,18 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Sylph-Searcher
+Name[es]=Sylph-Searcher
+Name[ja]=Sylph-Searcher
+Comment=Full-text search program for Sylpheed
+Comment[es]=Programa de búsqueda «full-text» para Sylpheed
+Comment[ja]=Sylpheed の全文検索プログラム
+Icon=sylph-searcher
+Exec=sylph-searcher
+Terminal=false
+Categories=Utility;
+StartupNotify=false
 X-AppInstall-Package=sylph-searcher
 X-AppInstall-Popcon=4
 X-AppInstall-Section=main
-
-Exec=sylph-searcher
-Icon=sylph-searcher
-Terminal=false
-Type=Application
-Name=Sylph-Searcher
-Name[ja]=Sylph-Searcher
-Comment=Full-text search program for Sylpheed
-Comment[ja]=Sylpheed の全文検索プログラム
-Name[es]=Sylph-Searcher
-Comment[es]=Programa de búsqueda «full-text» para Sylpheed
-Categories=Utility;

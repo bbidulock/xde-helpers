@@ -1,15 +1,16 @@
 [Desktop Entry]
-X-AppInstall-Package=gerbv
-X-AppInstall-Popcon=116
-X-AppInstall-Section=main
-
 Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Gerbv Gerber File Viewer
 GenericName=Gerber File Viewer
 Comment=Gerber file viewer for PCB design
-Type=Application
-Exec=gerbv %F
 Icon=gerbv
-MimeType=application/x-gerber;application/x-excellon;
+Exec=gerbv %F
+Terminal=false
 Categories=Electronics;Science;Education;
+MimeType=application/x-gerber;application/x-excellon;
+StartupNotify=false
+X-AppInstall-Package=gerbv
+X-AppInstall-Popcon=116
+X-AppInstall-Section=main

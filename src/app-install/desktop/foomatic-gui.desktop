@@ -1,8 +1,5 @@
 [Desktop Entry]
-X-AppInstall-Package=foomatic-gui
-X-AppInstall-Popcon=711
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=Printers
@@ -13,3 +10,7 @@ Icon=foomatic-gui-logo.png
 Exec=su-to-root -X -c /usr/bin/foomatic-gui
 Terminal=false
 Categories=Application;System;
+StartupNotify=false
+X-AppInstall-Package=foomatic-gui
+X-AppInstall-Popcon=711
+X-AppInstall-Section=main

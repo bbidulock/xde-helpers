@@ -1,10 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=pcmanfm
-X-AppInstall-Popcon=1189
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
-Icon=system-file-manager
 Name=File Manager
 Name[de]=Dateimanager
 Name[el]=Διαχειριστής αρχείων
@@ -47,9 +44,13 @@ Comment[pt_BR]=Navegue pelo sistema de arquivos e gerencie arquivos e pastas
 Comment[ru]=Просмотр файловой системы и управление файлами
 Comment[uk]=Показує файлову систему і керує файлами
 Comment[zh_TW]=瀏覽檔案系統及管理檔案
-Categories=FileManager;Utility;Core;GTK;FileTools;System;
+Icon=system-file-manager
 Exec=pcmanfm %U
-StartupNotify=true
 Terminal=false
+Categories=FileManager;Utility;Core;GTK;FileTools;System;
 MimeType=inode/directory;
+StartupNotify=true
 X-Desktop-File-Install-Version=0.18
+X-AppInstall-Package=pcmanfm
+X-AppInstall-Popcon=1189
+X-AppInstall-Section=main

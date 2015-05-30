@@ -1,12 +1,15 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=CouchDB Pairing Tool
+GenericName=CouchDB Pairing Tool
+Comment=Utility for pairing Desktop CouchDB
+Icon=
+Exec=desktopcouch-pair
+Terminal=false
+Categories=Network;
+StartupNotify=false
 X-AppInstall-Package=desktopcouch-tools
 X-AppInstall-Popcon=7
 X-AppInstall-Section=main
-
-Name=CouchDB Pairing Tool
-Type=Application
-Comment=Utility for pairing Desktop CouchDB
-Exec=desktopcouch-pair
-Icon=
-Categories=Network;
-GenericName=CouchDB Pairing Tool

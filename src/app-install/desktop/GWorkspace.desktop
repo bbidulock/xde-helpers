@@ -1,12 +1,14 @@
 [Desktop Entry]
-X-AppInstall-Package=gworkspace.app
-X-AppInstall-Popcon=63
-X-AppInstall-Section=main
-
-Type=Application
 Version=0.94
-Categories=System;FileTools;FileManager;
+Encoding=UTF-8
+Type=Application
 Name=GWorkspace
 Comment=GNUstep Workspace Manager
 Icon=FileManager.tiff
 Exec=GWorkspace
+Terminal=false
+Categories=System;FileTools;FileManager;
+StartupNotify=false
+X-AppInstall-Package=gworkspace.app
+X-AppInstall-Popcon=63
+X-AppInstall-Section=main

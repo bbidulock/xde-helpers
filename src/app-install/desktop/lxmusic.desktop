@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=lxmusic
-X-AppInstall-Popcon=165
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Music Player
 Name[af]=Musiekspeler
@@ -109,8 +107,11 @@ Comment[tr]=Müzik dosyalarınızı kolayca çalın
 Comment[uk]=Програє музичні файли
 Comment[vi]=Phát tập tin âm nhạc của bạn một cách dễ dàng
 Comment[zh_TW]=簡單地播放你的音樂檔案
-Categories=AudioVideo;Audio;Player;GTK;
 Icon=lxmusic
 Exec=lxmusic
 Terminal=false
+Categories=AudioVideo;Audio;Player;GTK;
 StartupNotify=true
+X-AppInstall-Package=lxmusic
+X-AppInstall-Popcon=165
+X-AppInstall-Section=main

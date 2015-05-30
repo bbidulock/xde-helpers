@@ -1,14 +1,16 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=KRename
+Comment=A batch renamer
+Comment[de]=Ein Batch Umbenenner
+Icon=krename.png
+Exec=krename -caption "%c" %i %m %U
+Terminal=false
+Categories=Qt;KDE;Utility;
+StartupNotify=false
+DocPath=krename/index.html
 X-AppInstall-Package=krename
 X-AppInstall-Popcon=244
 X-AppInstall-Section=main
-
-Type=Application
-Exec=krename -caption "%c" %i %m %U
-Icon=krename.png
-DocPath=krename/index.html
-Comment=A batch renamer
-Comment[de]=Ein Batch Umbenenner
-Terminal=false
-Name=KRename
-Categories=Qt;KDE;Utility;

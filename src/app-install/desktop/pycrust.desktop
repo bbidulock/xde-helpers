@@ -1,13 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=PyCrust
+Comment=GUI Python Shell with Filling
+Icon=/usr/share/pixmaps/pycrust
+Exec=/usr/bin/pycrust
+Terminal=false
+Categories=Development;
+StartupNotify=true
 X-AppInstall-Package=python-wxtools
 X-AppInstall-Popcon=82
 X-AppInstall-Section=main
-
-Name=PyCrust
-Comment=GUI Python Shell with Filling
-Exec=/usr/bin/pycrust
-Icon=/usr/share/pixmaps/pycrust
-Terminal=false
-Type=Application
-Categories=Development;
-StartupNotify=true

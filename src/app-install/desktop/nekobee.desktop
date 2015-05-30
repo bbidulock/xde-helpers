@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Nekobee
+Comment=Simple single-oscillator DSSI plugin
+Icon=
+Exec=nekobee
+Terminal=false
+Categories=GNOME;AudioVideo;Audio;
+StartupNotify=false
 X-AppInstall-Package=nekobee
 X-AppInstall-Popcon=12
 X-AppInstall-Section=main
-
-Name=Nekobee
-Comment=Simple single-oscillator DSSI plugin
-Exec=nekobee
-Icon=
-Terminal=false
-Type=Application
-Categories=GNOME;AudioVideo;Audio;

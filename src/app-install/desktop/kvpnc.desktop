@@ -1,31 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=kvpnc
-X-AppInstall-Popcon=181
-X-AppInstall-Section=main
-
-Comment=GUI for various VPN clients
-Comment[de]=Grafische Oberfläche für verschiedene VPN-Clients
-Comment[el]=Γραφικό περιβάλλον για διάφορους πελάτες VPN
-Comment[en_GB]=GUI for various VPN clients
-Comment[es]=Interfaz gráfica para varios clientes VPN
-Comment[et]=Mitme VPN-kliendi graafiline kasutajaliides
-Comment[fr]=Interface graphique pour clients VPN multiples
-Comment[ga]=Comhéadan grafach le haghaidh cliaint éagsúla VPN
-Comment[gl]=GUI para varios clientes de VPN
-Comment[ja]=さまざまな VPN クライアントのための GUI
-Comment[km]=ចំណុច​ប្រ៿ទាក់​អ្នក​ប្រើ​សម្រាប់​ម៉ាស៊ីន​ភ្ញៀវ VPN
-Comment[nb]=GUI for ymse VPN-klienter
-Comment[nds]=Böversiet för verscheden VPN-Clients
-Comment[nl]=Grafische schil voor diverse VPN-clients
-Comment[pt]=Interface gráfica para vários clientes de VPN
-Comment[pt_BR]=Interface para vários clientes de VPN
-Comment[ro]=Interfață grafică pentru diverși clienți VPN
-Comment[sv]=Grafiskt gränssnitt för diverse VPN-klienter
-Comment[th]=กราฟิกสำหรับโปรแกรมลูกข่าย VPN
-Comment[tr]=Çeşitli VPN istemcileri için Arayüz
-Comment[uk]=Інтерфейс для різноманітних клієнтів VPN
-Comment[x-test]=xxGUI for various VPN clientsxx
-
+Version=0.9.4
+Encoding=UTF-8
+Type=Application
 Name=KVpnc
 Name[cs]=KVpnc
 Name[de]=KVpnc
@@ -53,7 +29,6 @@ Name[th]=KVpnc
 Name[tr]=KVpnc
 Name[uk]=KVpnc
 Name[x-test]=xxKVpncxx
-
 GenericName=VPN Client GUI
 GenericName[de]=VPN Client-GUI
 GenericName[el]=Γραφικό περιβάλλον πελάτη VPN
@@ -78,12 +53,34 @@ GenericName[th]=โปรแกรมลูกข่าย VPN แบบกร�
 GenericName[tr]=VPN İstemcisi Arayüzü
 GenericName[uk]=Інтерфейс для клієнта VPN
 GenericName[x-test]=xxVPN Client GUIxx
-
-Categories=Network;RemoteAccess;KDE;Qt;
-Exec=su-to-root -X -c /usr/bin/kvpnc
-X-KDE-SubstituteUID=true
+Comment=GUI for various VPN clients
+Comment[de]=Grafische Oberfläche für verschiedene VPN-Clients
+Comment[el]=Γραφικό περιβάλλον για διάφορους πελάτες VPN
+Comment[en_GB]=GUI for various VPN clients
+Comment[es]=Interfaz gráfica para varios clientes VPN
+Comment[et]=Mitme VPN-kliendi graafiline kasutajaliides
+Comment[fr]=Interface graphique pour clients VPN multiples
+Comment[ga]=Comhéadan grafach le haghaidh cliaint éagsúla VPN
+Comment[gl]=GUI para varios clientes de VPN
+Comment[ja]=さまざまな VPN クライアントのための GUI
+Comment[km]=ចំណុច​ប្រ៿ទាក់​អ្នក​ប្រើ​សម្រាប់​ម៉ាស៊ីន​ភ្ញៀវ VPN
+Comment[nb]=GUI for ymse VPN-klienter
+Comment[nds]=Böversiet för verscheden VPN-Clients
+Comment[nl]=Grafische schil voor diverse VPN-clients
+Comment[pt]=Interface gráfica para vários clientes de VPN
+Comment[pt_BR]=Interface para vários clientes de VPN
+Comment[ro]=Interfață grafică pentru diverși clienți VPN
+Comment[sv]=Grafiskt gränssnitt för diverse VPN-klienter
+Comment[th]=กราฟิกสำหรับโปรแกรมลูกข่าย VPN
+Comment[tr]=Çeşitli VPN istemcileri için Arayüz
+Comment[uk]=Інтерфейс для різноманітних клієнтів VPN
+Comment[x-test]=xxGUI for various VPN clientsxx
 Icon=kvpnc
-Type=Application
-
-Version=0.9.4
-
+Exec=su-to-root -X -c /usr/bin/kvpnc
+Terminal=false
+Categories=Network;RemoteAccess;KDE;Qt;
+StartupNotify=false
+X-KDE-SubstituteUID=true
+X-AppInstall-Package=kvpnc
+X-AppInstall-Popcon=181
+X-AppInstall-Section=main

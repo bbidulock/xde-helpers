@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=xfce4-screenshooter
-X-AppInstall-Popcon=359
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Screenshot
 Name[ast]=Captura de pantalla
 Name[bg]=Снимка на екрана
@@ -29,7 +27,7 @@ Name[nb]=Skjermbildekopi
 Name[nl]=Schermafdruk
 Name[pl]=Zrzut ekranu
 Name[pt]=Captura de ecrã
-Name[pt_BR]= Captura de tela
+Name[pt_BR]=Captura de tela
 Name[ro]=Captură de ecran
 Name[ru]=Снимок экрана
 Name[sv]=Skärmbild
@@ -76,7 +74,9 @@ Comment[vi]=Chụp toàn bộ màn hình, hay cửa sổ đang kích hoạt hay 
 Comment[zh_CN]=截取全屏幕或当前活动窗口或某一指定区域图像
 Icon=applets-screenshooter
 Exec=xfce4-screenshooter
-Type=Application
-StartupNotify=true
 Terminal=false
 Categories=GTK;Utility;
+StartupNotify=true
+X-AppInstall-Package=xfce4-screenshooter
+X-AppInstall-Popcon=359
+X-AppInstall-Section=main

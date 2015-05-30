@@ -1,14 +1,15 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=medit
+Comment=Text editor
+Icon=medit
+Exec=medit %F
+Terminal=false
+Categories=Utility;TextEditor;
+MimeType=text/plain;
+StartupNotify=true
 X-AppInstall-Package=medit
 X-AppInstall-Popcon=63
 X-AppInstall-Section=main
-
-Name=medit
-Comment=Text editor
-Exec=medit %F
-Terminal=false
-Type=Application
-StartupNotify=true
-MimeType=text/plain;
-Icon=medit
-Categories=Utility;TextEditor;

@@ -1,8 +1,4 @@
 [Desktop Entry]
-X-AppInstall-Package=nuapplet
-X-AppInstall-Popcon=5
-X-AppInstall-Section=main
-
 Version=2.0
 Encoding=UTF-8
 Type=Application
@@ -10,11 +6,11 @@ Name=NuApplet
 GenericName=NuFW Client
 Comment=QT NuFW Client
 Icon=nuapplet2-running.png
-
 Exec=nuapplet2
 Terminal=false
-StartupNotify=false
-
 Categories=Network;
-
+StartupNotify=false
+X-AppInstall-Package=nuapplet
+X-AppInstall-Popcon=5
+X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

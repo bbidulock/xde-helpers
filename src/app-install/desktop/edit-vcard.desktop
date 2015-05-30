@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=gpe-contacts
-X-AppInstall-Popcon=8
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=My VCard
 Name[es]=Mi vCard
 Name[fi]=Oma VCard
@@ -29,10 +28,12 @@ Comment[sr]=Уреди лични vcard
 Comment[sv]=Redigera personligt vcard
 Comment[vi]=Hiệu chỉnh vCard cá nhân
 Comment[zh_CN]=编辑个人名片
+Icon=gpe-contacts
 Exec=gpe-contacts -v
 Terminal=false
-Type=Application
-Icon=gpe-contacts
 Categories=Application;DesktopSettings;
 StartupNotify=true
 X-SingleInstance=true
+X-AppInstall-Package=gpe-contacts
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main

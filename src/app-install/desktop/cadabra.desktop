@@ -1,14 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=cadabra
-X-AppInstall-Popcon=13
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Cadabra
 GenericName=Cadabra computer algebra system
 Comment=Computer algebra system for field theory problems
 Icon=cadabra
-Type=Application
-Categories=Math;Science;Education;
 Exec=xcadabra
 Terminal=false
-
+Categories=Math;Science;Education;
+StartupNotify=false
+X-AppInstall-Package=cadabra
+X-AppInstall-Popcon=13
+X-AppInstall-Section=main

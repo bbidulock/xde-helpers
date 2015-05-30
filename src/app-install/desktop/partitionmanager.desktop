@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=partitionmanager
-X-AppInstall-Popcon=137
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=KDE Partition Manager
 Name[bg]=Управление на дялове за KDE
@@ -98,10 +96,13 @@ Comment[uk]=Керуйте дисками, розділами та файлов�
 Comment[x-test]=xxManage disks, partitions and file systemsxx
 Comment[zh_CN]=管理磁盘、分区和文件系统
 Comment[zh_TW]=管理磁碟、分割區與檔案系統
-Exec=partitionmanager
 Icon=partitionmanager
+Exec=partitionmanager
+Terminal=false
 Categories=System;Filesystem;KDE;Qt;
-
-X-KDE-SubstituteUID=true
+StartupNotify=false
 X-KDE-StartupNotify=true
-
+X-KDE-SubstituteUID=true
+X-AppInstall-Package=partitionmanager
+X-AppInstall-Popcon=137
+X-AppInstall-Section=main

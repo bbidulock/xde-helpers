@@ -1,14 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=ceferino
-X-AppInstall-Popcon=111
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Ceferino
 GenericName=ceferino
 Comment=Save the cows!
-Type=Application
-Exec=ceferino
 Icon=ceferino
+Exec=ceferino
 Terminal=false
 Categories=Game;ActionGame;
-
+StartupNotify=false
+X-AppInstall-Package=ceferino
+X-AppInstall-Popcon=111
+X-AppInstall-Section=main

@@ -1,19 +1,17 @@
 [Desktop Entry]
-X-AppInstall-Package=timidity-interfaces-extra
-X-AppInstall-Popcon=38
-X-AppInstall-Section=main
-
-Comment=Software sound renderer (MIDI sequencer, MOD player)
-Comment[ja]=ソフトウェア・シンセサイザ（MIDI/MODプレイヤー）
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=TiMidity++ MIDI sequencer
 Name[ja]=TiMidity++ MIDIシーケンサ
-Terminal=false
-Type=Application
+Comment=Software sound renderer (MIDI sequencer, MOD player)
+Comment[ja]=ソフトウェア・シンセサイザ（MIDI/MODプレイヤー）
+Icon=_usr_share_pixmaps_timidity
 Exec=/usr/bin/timidity -ia
+Terminal=false
 Categories=AudioVideo;Audio;Sequencer;
+MimeType=audio/midi;audio/x-mod;
+StartupNotify=false
 X-AppInstall-Package=timidity-interfaces-extra
 X-AppInstall-Popcon=38
 X-AppInstall-Section=universe
-Icon=_usr_share_pixmaps_timidity
-MimeType=audio/midi;audio/x-mod;
-

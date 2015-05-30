@@ -1,16 +1,17 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=KBarcode Barcode Generator
+Name[de]=KBarcode Barcode Generator
+Comment=Barcode generation tool
+Comment[de]=Barcode Erstellung
+Icon=kbarcode.png
+Exec=kbarcode --barcode
+Terminal=false
+Categories=Qt;KDE;Office;
+StartupNotify=false
+DocPath=kbarcode/index.html
 X-AppInstall-Package=kbarcode
 X-AppInstall-Popcon=56
 X-AppInstall-Section=main
-
-Encoding=UTF-8
-Type=Application
-Exec=kbarcode --barcode
-Icon=kbarcode.png
-DocPath=kbarcode/index.html
-Comment=Barcode generation tool
-Comment[de]=Barcode Erstellung
-Terminal=0
-Name=KBarcode Barcode Generator
-Name[de]=KBarcode Barcode Generator
-Categories=Qt;KDE;Office;

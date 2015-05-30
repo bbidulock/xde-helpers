@@ -1,14 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=gaiksaurus
-X-AppInstall-Popcon=11
-X-AppInstall-Section=main
-
 Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=GTK Aiksaurus
 GenericName=Thesaurus
 Comment=Find Synonyms and Homonyms
-Type=Application
-Exec=gaiksaurus
 Icon=gaiksaurus
+Exec=gaiksaurus
+Terminal=false
 Categories=GNOME;Office;
+StartupNotify=false
+X-AppInstall-Package=gaiksaurus
+X-AppInstall-Popcon=11
+X-AppInstall-Section=main

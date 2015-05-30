@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Vidalia
+GenericName=Tor GUI
+Icon=vidalia
+Exec=vidalia
+Terminal=false
+Categories=Qt;Network;
+StartupNotify=false
 X-AppInstall-Package=vidalia
 X-AppInstall-Popcon=79
 X-AppInstall-Section=main
-
-Type=Application
-Exec=vidalia
-Name=Vidalia
-Icon=vidalia
-GenericName=Tor GUI
-Terminal=false
-Categories=Qt;Network;

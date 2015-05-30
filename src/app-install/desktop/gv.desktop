@@ -1,14 +1,16 @@
 [Desktop Entry]
-X-AppInstall-Package=gv
-X-AppInstall-Popcon=4055
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=gv
 GenericName=PS and PDF viewer
 Comment=View PS and/or PDF files
-Exec=gv
 Icon=/usr/share/pixmaps/gv_icon.xpm
+Exec=gv
 Terminal=false
-Type=Application
-MimeType=application/ps;application/pdf;
 Categories=Viewer;Graphics;
+MimeType=application/ps;application/pdf;
+StartupNotify=false
+X-AppInstall-Package=gv
+X-AppInstall-Popcon=4055
+X-AppInstall-Section=main

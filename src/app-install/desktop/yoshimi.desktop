@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=yoshimi
-X-AppInstall-Popcon=16
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Yoshimi
 GenericName=Software Synthesizer
@@ -10,6 +8,9 @@ Comment=Software Synthesizer based on ZynAddSubFX
 Icon=yoshimi
 Exec=yoshimi
 Terminal=false
-StartupNotify=true
 Categories=AudioVideo;Audio;
+StartupNotify=true
+X-AppInstall-Package=yoshimi
+X-AppInstall-Popcon=16
+X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=asylum
-X-AppInstall-Popcon=10
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Asylum
 Comment=surreal platform shooting game
@@ -11,3 +9,6 @@ Exec=asylum
 Terminal=false
 Categories=Game;ActionGame;
 StartupNotify=false
+X-AppInstall-Package=asylum
+X-AppInstall-Popcon=10
+X-AppInstall-Section=main

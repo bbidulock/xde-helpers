@@ -1,10 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=gwhere
-X-AppInstall-Popcon=22
-X-AppInstall-Section=main
-
 Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Removable media catalog managment
 Name[ar]=Administración de catálogos de medios removibles
 Name[cs]=Správa katalogu výmìnných médií
@@ -29,8 +26,11 @@ Comment[it]=Gwhere permette di creare e gestire un database dei tuoi CD e di alt
 Comment[nl]=Met GWhere kun je een gegevensbank van je CD's en andere verwijderbare media beheren (harde schijven, diskettes, ZIP diskettes, CD-ROM, enz...). Met GWhere is het makkelijk je CD's te doorlopen of snel iets op te zoeken zonder telkens je CD's in de speler te moeten steken.
 Comment[pl]=GWHere to program zarz±dzaj±cy baz± Twoich p³yt CD oraz innych mediów (takich jak twarde dyski, dyskietki, dyski Zip itp.). Dziêki GWhere w ³atwy sposób mo¿esz przegl±daæ Twoje p³yty CD i szybko znale¼æ potrzebny Ci plik bez konieczno¶ci ci±g³ego wsadzania p³yt do napêdu.
 Comment[pt]=GWhere permite gerir uma base de dados dos seus CDs ou outros tipos de media removível (discos rígidos, disquetes, drives ZIP, CD-ROM, etc...). Com o GWhere é fácil explorar os seus CDs ou fazer rápidas pesquisas sem a necessidade de inserir cada um dos seus CDs na drive.
-Exec=gwhere
 Icon=gwhere.xpm
+Exec=gwhere
 Terminal=false
-Type=Application
 Categories=Application;Utility;
+StartupNotify=false
+X-AppInstall-Package=gwhere
+X-AppInstall-Popcon=22
+X-AppInstall-Section=main

@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=contacts
-X-AppInstall-Popcon=33
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Contacts
 Name[bg]=Контакти
 Name[ca]=Contactes
@@ -37,11 +36,13 @@ Comment[pl]=Książka adresowa
 Comment[pt_BR]=Catálogo de endereços
 Comment[ru]=Адресная книга
 Comment[sv]=Adressbok
-Exec=contacts
 Icon=contacts
+Exec=contacts
 Terminal=false
-Type=Application
 Categories=GTK;Office;ContactManagement;
 MimeType=text/x-vcard;
-X-MB-SingleInstance=true
 StartupNotify=true
+X-MB-SingleInstance=true
+X-AppInstall-Package=contacts
+X-AppInstall-Popcon=33
+X-AppInstall-Section=main

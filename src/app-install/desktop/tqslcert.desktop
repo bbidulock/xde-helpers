@@ -1,13 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=tqslcert
+Comment=Manage certificates for LoTW
+Icon=key48.png
+Exec=tqslcert
+Terminal=false
+Categories=Utility;HamRadio;
+StartupNotify=false
 X-AppInstall-Package=trustedqsl
 X-AppInstall-Popcon=8
 X-AppInstall-Section=main
-
-Encoding=UTF-8
-Name=tqslcert
-Comment=Manage certificates for LoTW
-Exec=tqslcert
-Icon=key48.png
-Terminal=false
-Type=Application
-Categories=Utility;HamRadio;

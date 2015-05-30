@@ -1,10 +1,13 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Smart Package Manager
+Icon=smart
+Exec=gksu -- smart --gui
+Terminal=false
+Categories=System;
+StartupNotify=false
 X-AppInstall-Package=smartpm
 X-AppInstall-Popcon=2
 X-AppInstall-Section=main
-
-Name=Smart Package Manager
-Exec=gksu -- smart --gui
-Icon=smart
-Type=Application
-Categories=System;

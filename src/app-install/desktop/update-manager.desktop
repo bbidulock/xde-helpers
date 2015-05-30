@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=update-manager-gnome
-X-AppInstall-Popcon=6358
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Update Manager
 Name[ar]=مدير التحديثات
 Name[ast]=Xestor d'anovamientos
@@ -182,9 +181,12 @@ Comment[vi]=Hiển thị và cài đặt các bản cập nhật đã sẵn sàn
 Comment[zh_CN]=显示并安装可用更新
 Comment[zh_HK]=顯示及安裝現有的更新套件
 Comment[zh_TW]=顯示及安裝現有的更新套件
-Exec=/usr/bin/update-manager
 Icon=update-manager
+Exec=/usr/bin/update-manager
 Terminal=false
-Type=Application
 Categories=System;Settings;
+StartupNotify=false
+X-AppInstall-Package=update-manager-gnome
+X-AppInstall-Popcon=6358
+X-AppInstall-Section=main
 X-Ubuntu-Gettext-Domain=update-manager

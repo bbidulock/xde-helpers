@@ -1,14 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=ketm
-X-AppInstall-Popcon=18
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=KETM
 GenericName=ketm
 Comment=Kill Everything That Moves
-Exec=ketm
 Icon=ketm
+Exec=ketm
 Terminal=false
-Type=Application
 Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=ketm
+X-AppInstall-Popcon=18
+X-AppInstall-Section=main

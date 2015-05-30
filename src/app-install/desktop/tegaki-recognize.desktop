@@ -1,13 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=tegaki-recognize
-X-AppInstall-Popcon=4
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Tegaki Recognize
 GenericName=Handwriting Recognition
 Comment=Handwriting Recognition
+Icon=tegaki-recognize
 Exec=/usr/bin/tegaki-recognize
 Terminal=false
-Type=Application
 Categories=Utility;
-Icon=tegaki-recognize
+StartupNotify=false
+X-AppInstall-Package=tegaki-recognize
+X-AppInstall-Popcon=4
+X-AppInstall-Section=main

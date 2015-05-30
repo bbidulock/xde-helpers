@@ -1,8 +1,5 @@
 [Desktop Entry]
-X-AppInstall-Package=buzztard-bsl
-X-AppInstall-Popcon=3
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=Buzztard Music Editor
@@ -10,4 +7,8 @@ Name[de]=Buzztard Music Editor
 Exec=bt-edit --command=load --input-file=%f
 Terminal=false
 MimeType=audio/x-bmw;audio/x-bmx
+StartupNotify=false
+X-AppInstall-Package=buzztard-bsl
+X-AppInstall-Popcon=3
+X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

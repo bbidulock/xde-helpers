@@ -1,16 +1,16 @@
 [Desktop Entry]
-X-AppInstall-Package=gnunet-qt
-X-AppInstall-Popcon=4
-X-AppInstall-Section=main
-
 Version=1.0
-Type=Application
 Encoding=UTF-8
+Type=Application
 Name=GNUnet-qt
 GenericName=GNUnet-qt
 Comment=QT frontend to GNUnet
-Exec=gnunet-qt
 Icon=gnunet-qt
+Exec=gnunet-qt
 Terminal=false
 Categories=Network;FileTransfer;P2P;Qt;
+StartupNotify=false
+X-AppInstall-Package=gnunet-qt
+X-AppInstall-Popcon=4
+X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

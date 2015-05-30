@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=valknut
-X-AppInstall-Popcon=27
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Valknut
 GenericName=valknut
@@ -11,4 +9,7 @@ Icon=valknut.xpm
 Exec=valknut
 Terminal=false
 Categories=Application;Network;
-
+StartupNotify=false
+X-AppInstall-Package=valknut
+X-AppInstall-Popcon=27
+X-AppInstall-Section=main

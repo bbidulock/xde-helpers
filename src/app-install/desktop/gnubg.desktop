@@ -1,13 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=gnubg
-X-AppInstall-Popcon=48
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=GNU Backgammon
 GenericName=Backgammon
 Comment=GTK or console backgammon program with analysis
+Icon=gnubg
 Exec=gnubg -w
 Terminal=false
-Icon=gnubg
-Type=Application
 Categories=Game;BoardGame;GTK;
+StartupNotify=false
+X-AppInstall-Package=gnubg
+X-AppInstall-Popcon=48
+X-AppInstall-Section=main

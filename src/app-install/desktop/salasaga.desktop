@@ -1,14 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=salasaga
-X-AppInstall-Popcon=11
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Salasaga
 GenericName=eLearning IDE
 Comment=Create eLearning for desktop applications
 Icon=salasaga-icon
 Exec=salasaga
-Type=Application
 Terminal=false
-StartupNotify=true
 Categories=Graphics;2DGraphics;VectorGraphics;GTK;
+StartupNotify=true
+X-AppInstall-Package=salasaga
+X-AppInstall-Popcon=11
+X-AppInstall-Section=main

@@ -1,15 +1,12 @@
-# KDE Config File
 [Desktop Entry]
-X-AppInstall-Package=kipi-plugins
-X-AppInstall-Popcon=1170
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
+Type=Service
 Name=KIPI Plugins
 Name[ast]=Complementos KIPI
 Name[bg]=Приставки KIPI
-Name[ca]=Connectors Kipi
 Name[ca@valencia]=Connectors Kipi
+Name[ca]=Connectors Kipi
 Name[cs]=Moduly KIPI
 Name[da]=KIPI-plugins
 Name[de]=KIPI-Module
@@ -41,8 +38,8 @@ Name[zh_TW]=KIPI 外掛工具
 Comment=KDE Image Plugins Interface
 Comment[ast]=Interfaz de complementos d'imaxe de KDE
 Comment[bg]=Интерфейс на KDE за приставки за изображения
-Comment[ca]=Interfície de connectors d'imatge del KDE
 Comment[ca@valencia]=Interfície de connectors d'imatge del KDE
+Comment[ca]=Interfície de connectors d'imatge del KDE
 Comment[cs]=Rozhraní modulů pro práci s obrázky v KDE
 Comment[da]=KDE grænseflade til billed-plugins (KIPI)
 Comment[de]=KDE-Bildbearbeitungsschnittstelle
@@ -70,6 +67,9 @@ Comment[uk]=Інтерфейс додатків KDE для роботи з зо�
 Comment[x-test]=xxKDE Image Plugins Interfacexx
 Comment[zh_CN]=KDE 图像插件接口
 Comment[zh_TW]=KDE 影像外掛介面
+Terminal=false
+StartupNotify=false
 X-DocPath=kipi-plugins/index.html
-#Categories=Qt;KDE;Graphics;
-Type=Service
+X-AppInstall-Package=kipi-plugins
+X-AppInstall-Popcon=1170
+X-AppInstall-Section=main

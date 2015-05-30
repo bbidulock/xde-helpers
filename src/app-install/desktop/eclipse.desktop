@@ -1,9 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=eclipse-platform
-X-AppInstall-Popcon=1390
-X-AppInstall-Section=main
-X-AppInstall-Architectures=amd64,armel,i386,ia64,powerpc,sparc
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Eclipse
 Comment=Eclipse Integrated Development Environment
@@ -14,4 +11,8 @@ Terminal=false
 Categories=Development;IDE;Java;
 StartupNotify=true
 StartupWMClass=eclipse
+X-AppInstall-Package=eclipse-platform
+X-AppInstall-Popcon=1390
+X-AppInstall-Section=main
+X-AppInstall-Architectures=amd64,armel,i386,ia64,powerpc,sparc
 X-Arch-Package=eclipse 4.4.2-1

@@ -1,14 +1,16 @@
 [Desktop Entry]
-X-AppInstall-Package=gmerlin
-X-AppInstall-Popcon=52
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Gmerlin mixer
 Name[de]=Gmerlin mixer
 Comment=Alsa mixer
 Comment[de]=Alsa mixer
-Exec=gmerlin_alsamixer
 Icon=gmerlin-alsamixer.png
-Type=Application
+Exec=gmerlin_alsamixer
+Terminal=false
 Categories=Application;AudioVideo;
-
+StartupNotify=false
+X-AppInstall-Package=gmerlin
+X-AppInstall-Popcon=52
+X-AppInstall-Section=main

@@ -1,13 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Balazar Brothers
+GenericName=Action / Adventure Game
+Comment=3D adventure and roleplaying game
+Exec=balazar_brothers
+Terminal=false
+Categories=Application;Game;AdventureGame;ArcadeGame;RolePlaying;
+StartupNotify=false
 X-AppInstall-Package=balazarbrothers
 X-AppInstall-Popcon=18
 X-AppInstall-Section=main
-
-Encoding=UTF-8
-Name=Balazar Brothers
-GenericName=Action / Adventure Game
-Type=Application
-Categories=Application;Game;AdventureGame;ArcadeGame;RolePlaying;
-Terminal=0
-Exec=balazar_brothers
-Comment=3D adventure and roleplaying game

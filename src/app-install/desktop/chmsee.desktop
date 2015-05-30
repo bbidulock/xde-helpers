@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=chmsee
-X-AppInstall-Popcon=217
-X-AppInstall-Section=main
-
 Version=1.1.0
+Encoding=UTF-8
+Type=Application
 Name=ChmSee
 Name[bn]=ChmSee
 Name[ca]=ChmSee
@@ -55,10 +53,12 @@ Comment[uk]=Оглядач довідки HTML (CHM)
 Comment[vi]=Trình duyệt HTML Help(CHM)
 Comment[zh_CN]=HTML Help(CHM) 文件阅读工具
 Comment[zh_TW]=HTML 說明檔(CHM) 檢視器
+Icon=chmsee-icon
 Exec=chmsee %f
 Terminal=false
-Type=Application
-Icon=chmsee-icon
-StartupNotify=true
 Categories=Utility;
 MimeType=application/x-chm;
+StartupNotify=true
+X-AppInstall-Package=chmsee
+X-AppInstall-Popcon=217
+X-AppInstall-Section=main

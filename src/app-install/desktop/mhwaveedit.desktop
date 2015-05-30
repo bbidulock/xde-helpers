@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=mhwaveedit
-X-AppInstall-Popcon=34
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=mhWaveEdit
 GenericName=Sound file editor
@@ -11,3 +9,7 @@ Icon=mhwaveedit.xpm
 Exec=mhwaveedit
 Terminal=false
 Categories=AudioVideo;Audio;AudioVideoEditing;Recorder;
+StartupNotify=false
+X-AppInstall-Package=mhwaveedit
+X-AppInstall-Popcon=34
+X-AppInstall-Section=main

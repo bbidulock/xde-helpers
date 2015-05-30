@@ -1,21 +1,19 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Xournal
+Name[ca]=Xournal
+Name[fr]=Xournal
+Comment=Take handwritten notes
+Comment[ca]=Preneu notes a mà
+Comment[fr]=Prise de notes manuscrites
+Icon=xournal
+Exec=xournal %f
+Terminal=false
+Categories=GNOME;GTK;Utility;TextEditor;
+MimeType=application/x-xoj;application/pdf;
+StartupNotify=true
 X-AppInstall-Package=xournal
 X-AppInstall-Popcon=212
 X-AppInstall-Section=main
-
-Encoding=UTF-8
-Type=Application
-
-Name=Xournal
-Comment=Take handwritten notes
-Name[fr]=Xournal
-Comment[fr]=Prise de notes manuscrites
-Name[ca]=Xournal
-Comment[ca]=Preneu notes a mà
-
-Exec=xournal %f
-Terminal=false
-StartupNotify=true
-MimeType=application/x-xoj;application/pdf;
-Icon=xournal
-Categories=GNOME;GTK;Utility;TextEditor;

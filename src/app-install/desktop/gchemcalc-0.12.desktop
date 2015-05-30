@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=gcu-bin
-X-AppInstall-Popcon=46
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Chemical calculator
 Name[de]=Chemie-Rechner
 Name[fr]=Calculatrice chimique
@@ -20,8 +18,11 @@ Comment[pl]=Prosty kalkulator chemiczny
 Comment[pt_BR]=Uma calculadora simples para químicos
 Comment[ru]=Простой химический калькулятор
 Comment[zh_TW]=化學簡易計算機
-Exec=gchemcalc-0.12
 Icon=gchemcalc
+Exec=gchemcalc-0.12
 Terminal=false
-Type=Application
 Categories=GTK;GNOME;Education;Science;Chemistry;
+StartupNotify=false
+X-AppInstall-Package=gcu-bin
+X-AppInstall-Popcon=46
+X-AppInstall-Section=main

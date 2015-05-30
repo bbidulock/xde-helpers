@@ -1,12 +1,13 @@
 [Desktop Entry]
-X-AppInstall-Package=xenwatch
-X-AppInstall-Popcon=74
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=vnc-client
 Exec=vnc-client
 Terminal=false
-Type=Application
 Categories=GTK;System;Network;Utility;
+StartupNotify=false
+X-AppInstall-Package=xenwatch
+X-AppInstall-Popcon=74
+X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,i386

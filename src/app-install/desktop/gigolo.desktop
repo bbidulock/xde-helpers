@@ -1,10 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=gigolo
-X-AppInstall-Popcon=48
-X-AppInstall-Section=main
-
-Type=Application
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Gigolo
 Name[ast]=Gigolo
 Name[bg]=Gigolo
@@ -100,8 +97,11 @@ Comment[uk]=Простий інтерфейс для легкого підклю
 Comment[ur]=آسانی سے بعید فائل سسٹمز سے متصل ہونے کے لی سادہ فرنٹ اینڈ
 Comment[ur_PK]=آسانی سے بعید فائل سسٹمز سے متصل ہونے کے لی سادہ فرنٹ اینڈ
 Comment[zh_CN]=一个易用的远程文件系统连接工具
-Exec=gigolo
 Icon=gtk-network
+Exec=gigolo
 Terminal=false
 Categories=System;GTK;Filesystem;
 StartupNotify=true
+X-AppInstall-Package=gigolo
+X-AppInstall-Popcon=48
+X-AppInstall-Section=main

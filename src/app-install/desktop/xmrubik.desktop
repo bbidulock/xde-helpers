@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=xmrubik
+GenericName=rubik game
+Icon=_usr_share_pixmaps_xrubik.m
+Exec=/usr/games/xmrubik
+Terminal=false
+Categories=Game;
+StartupNotify=false
 X-AppInstall-Package=xmpuzzles
 X-AppInstall-Popcon=10
 X-AppInstall-Section=main
-
-Name=xmrubik
-GenericName=rubik game
-Exec=/usr/games/xmrubik
-Icon=_usr_share_pixmaps_xrubik.m
-Terminal=false
-Type=Application
-Categories=Game;

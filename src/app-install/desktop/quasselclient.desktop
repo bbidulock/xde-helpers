@@ -1,10 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=quassel-client
-X-AppInstall-Popcon=15
-X-AppInstall-Section=main
-
-Type=Application
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Quassel IRC (Client only)
 Name[ast]=IRC Quassel (namái veceru)
 Name[ca]=Xat IRC Quassel (només el client)
@@ -74,4 +71,9 @@ Comment[uk]=Клієнт IRC з центральним ядром
 Comment[zh_CN]=带有中央核心组件的分布式 IRC 客户端
 Icon=quassel
 Exec=quasselclient
+Terminal=false
 Categories=Qt;Network;Chat;IRCClient;
+StartupNotify=false
+X-AppInstall-Package=quassel-client
+X-AppInstall-Popcon=15
+X-AppInstall-Section=main

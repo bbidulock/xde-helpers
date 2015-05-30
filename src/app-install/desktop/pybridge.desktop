@@ -1,12 +1,15 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=PyBridge
+Comment=An online contract bridge game
+Comment[en]=An online contract bridge game
+Icon=_usr_share_pybridge_pixmaps_pybridge
+Exec=pybridge
+Terminal=false
+Categories=Application;Game;CardGame
+StartupNotify=false
 X-AppInstall-Package=pybridge
 X-AppInstall-Popcon=5
 X-AppInstall-Section=main
-
-Name=PyBridge
-Comment[en]=An online contract bridge game
-Exec=pybridge
-Icon=_usr_share_pybridge_pixmaps_pybridge
-Terminal=false
-Type=Application
-Categories=Application;Game;CardGame

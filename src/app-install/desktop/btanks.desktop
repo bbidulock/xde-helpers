@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Battle Tanks
+Comment=fast 2D tank arcade game with multiplayer and split-screen modes
+Icon=btanks
+Exec=btanks
+Terminal=false
+Categories=Game;ActionGame;ArcadeGame;
+StartupNotify=false
 X-AppInstall-Package=btanks
 X-AppInstall-Popcon=41
 X-AppInstall-Section=main
-
-Name=Battle Tanks
-Comment=fast 2D tank arcade game with multiplayer and split-screen modes
-Exec=btanks
-Icon=btanks
-Terminal=false
-Type=Application
-Categories=Game;ActionGame;ArcadeGame;

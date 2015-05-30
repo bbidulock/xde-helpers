@@ -1,17 +1,18 @@
-# KDE Config File  
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Kallery
+Name[de]=Kallery
+GenericName=Image Gallery Generator
+Comment=
+Comment[de]=
+Icon=kallery.png
+Exec=kallery -caption "%c" %i %m  
+Terminal=false
+Categories=Qt;KDE;Graphics
+StartupNotify=false
+DocPath=kallery/index.html
 X-AppInstall-Package=kallery
 X-AppInstall-Popcon=31
 X-AppInstall-Section=main
-
-Type=Application
-Exec=kallery -caption "%c" %i %m  
-Icon=kallery.png
-DocPath=kallery/index.html
-Comment=
-Comment[de]=
-Terminal=0
-Name=Kallery
-GenericName=Image Gallery Generator
-Name[de]=Kallery
-Categories=Qt;KDE;Graphics

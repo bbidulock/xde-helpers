@@ -1,11 +1,13 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Tilda
+Icon=tilda.png
+Exec=tilda
+Terminal=false
+Categories=GTK;Utility;TerminalEmulator
+StartupNotify=false
 X-AppInstall-Package=tilda
 X-AppInstall-Popcon=231
 X-AppInstall-Section=main
-
-Name=Tilda
-Exec=tilda
-Icon=tilda.png
-Terminal=false
-Type=Application
-Categories=GTK;Utility;TerminalEmulator

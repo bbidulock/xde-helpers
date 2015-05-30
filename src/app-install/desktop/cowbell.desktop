@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=cowbell
-X-AppInstall-Popcon=10
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Cowbell Music Organizer
 Name[de]=Cowbell Musik Organizer
 Name[en_CA]=Cowbell Music Organizer
@@ -34,10 +32,12 @@ Comment[nb]=En elegant musikkrydder
 Comment[no]=En elegant musikkrydder
 Comment[pt_BR]=Elegante organização de música
 Comment[sv]=En elegant musikorganisatör
-Exec=cowbell
 Icon=cowbell
+Exec=cowbell
 Terminal=false
-Type=Application
 Categories=GNOME;Application;AudioVideo;X-Ximian-Main;X-Red-Hat-Base;
 StartupNotify=true
+X-AppInstall-Package=cowbell
+X-AppInstall-Popcon=10
+X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,i386,ia64,kfreebsd-amd64,kfreebsd-i386,powerpc,s390,sparc

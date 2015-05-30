@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=simple-scan
-X-AppInstall-Popcon=687
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Simple Scan
 Name[ar]=مسح بسيط
 Name[ast]=Simple Scan
@@ -81,11 +80,13 @@ Comment[ug]=ھۆججەتلەرنى سكەنلەش
 Comment[uk]=Сканувати документи
 Comment[zh_CN]=扫描文档
 Comment[zh_TW]=掃描文件
-Exec=simple-scan
 Icon=scanner
+Exec=simple-scan
 Terminal=false
-Type=Application
-StartupNotify=true
 Categories=GNOME;GTK;Graphics;Scanning;
+StartupNotify=true
 X-GNOME-Gettext-Domain=simple-scan
+X-AppInstall-Package=simple-scan
+X-AppInstall-Popcon=687
+X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

@@ -1,9 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=freedink-dfarc
-X-AppInstall-Popcon=20
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=DFArc - Dink frontend
 Name[da]=DFArc - Dinks grænseflade
@@ -25,7 +22,12 @@ Comment[it]=Eseguire, modificare, installare, rimuovere e impacchettare file D-M
 Comment[mk]=Вклучувај, уреди, инсталирај, отстрани и спакувај D-Mods-а (Dink Модули)
 Comment[pl]=Uruchom, zedytuj, instaluj, usuń i spakuj D-Mod'y(Dink Modules)
 Comment[vi]=Khởi chạy, chỉnh sửa, cài đặt, gỡ bỏ và đóng gói các D-Mod (mô-đun Dink)
-Exec=dfarc
 Icon=dfarc
+Exec=dfarc
+Terminal=false
 Categories=Game;AdventureGame;
 MimeType=application/x-dmod;
+StartupNotify=false
+X-AppInstall-Package=freedink-dfarc
+X-AppInstall-Popcon=20
+X-AppInstall-Section=main

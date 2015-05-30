@@ -1,14 +1,15 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Splash Screen
+Comment=Select a splash screen image
+Icon=gnome-graphics
+Exec=gnome-splashscreen-manager
+Terminal=false
+OnlyShowIn=GNOME;
+Categories=GNOME;Application;Settings;
+StartupNotify=true
 X-AppInstall-Package=gnome-splashscreen-manager
 X-AppInstall-Popcon=342
 X-AppInstall-Section=main
-
-Name=Splash Screen
-Comment=Select a splash screen image
-Exec=gnome-splashscreen-manager
-Icon=gnome-graphics
-Terminal=false
-Type=Application
-StartupNotify=true
-Categories=GNOME;Application;Settings;
-OnlyShowIn=GNOME;

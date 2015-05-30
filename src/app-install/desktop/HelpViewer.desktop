@@ -1,14 +1,16 @@
 [Desktop Entry]
-X-AppInstall-Package=helpviewer.app
-X-AppInstall-Popcon=16
-X-AppInstall-Section=main
-
-Type=Application
 Version=1.0
-Categories=Documentation;Utility;
+Encoding=UTF-8
+Type=Application
 Name=HelpViewer
 Name[bg]=HelpViewer
 Comment=GNUstep Help Viewer
 Comment[bg]=Браузър на документация за GNUstep
 Icon=_usr_share_pixmaps_HelpViewer
 Exec=HelpViewer
+Terminal=false
+Categories=Documentation;Utility;
+StartupNotify=false
+X-AppInstall-Package=helpviewer.app
+X-AppInstall-Popcon=16
+X-AppInstall-Section=main

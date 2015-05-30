@@ -1,15 +1,16 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Armagetron Advanced
+Comment=3d light cycle game
+Icon=_usr_share_pixmaps_armagetronad_icons_large_armagetronad
+Exec=armagetronad
+Terminal=false
+Categories=Game;ActionGame;
+MimeType=application/x-armagetronad;
+Path=/usr/games
+StartupNotify=false
 X-AppInstall-Package=armagetronad
 X-AppInstall-Popcon=136
 X-AppInstall-Section=main
-
-Type=Application
-Name=Armagetron Advanced
-Exec=armagetronad
-Comment=3d light cycle game
-Icon=_usr_share_pixmaps_armagetronad_icons_large_armagetronad
-Terminal=false
-Path=/usr/games
-Categories=Game;ActionGame;
-StartupNotify=false
-MimeType=application/x-armagetronad;

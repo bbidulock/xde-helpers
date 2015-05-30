@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=gnome-mastermind
-X-AppInstall-Popcon=43
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Mastermind
 Name[ar]=العقل الموجّه
 Name[de]=Mastermind
@@ -28,9 +26,11 @@ Comment[it]=Scopri la combinazione di colori!
 Comment[pl]=Złam ukryty kod!
 Comment[pt_BR]=Quebre o código secreto!
 Comment[sv]=Hitta den rätta koden!
-Exec=gnome-mastermind
 Icon=gnome-mastermind
+Exec=gnome-mastermind
 Terminal=false
-Type=Application
-StartupNotify=True
 Categories=GNOME;GTK;Game;BoardGame;
+StartupNotify=True
+X-AppInstall-Package=gnome-mastermind
+X-AppInstall-Popcon=43
+X-AppInstall-Section=main

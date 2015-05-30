@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=minbar
-X-AppInstall-Popcon=9
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Minbar Prayer Times
 Name[ar]=برنامج مواقيت الصّلاة «منبر»
 Name[bs]=Minbar Vaktovi Namaza
@@ -27,9 +26,11 @@ Comment[ru]=Время намазов
 Comment[tr]=İslami ibadet vakitleri
 Comment[ur]=اسلامی اوقات نماز
 Comment[ur_PK]=اسلامی اوقاتِ نماز
-Exec=minbar
 Icon=minbar
+Exec=minbar
 Terminal=false
-Type=Application
-StartupNotify=true
 Categories=GNOME;GTK;Utility;Utility;
+StartupNotify=true
+X-AppInstall-Package=minbar
+X-AppInstall-Popcon=9
+X-AppInstall-Section=main

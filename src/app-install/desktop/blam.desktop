@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=blam
-X-AppInstall-Popcon=12
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Blam Feed Reader
 Name[bg]=Четец на емисии по RSS (Blam)
 Name[ca]=Lector de canals de notícies Blam
@@ -71,13 +69,15 @@ Comment[uk]=Переглядач Blam
 Comment[vi]=Bộ đọc nguồn tin
 Comment[zh_HK]=餵信閱讀器
 Comment[zh_TW]=餵信閱讀器
-Exec=blam
 Icon=blam.png
-StartupNotify=true
+Exec=blam
 Terminal=false
-Type=Application
 Categories=Application;Network;
+StartupNotify=true
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=blam
 X-GNOME-Bugzilla-Component=General
 X-GNOME-Bugzilla-Version=1.8.7
+X-AppInstall-Package=blam
+X-AppInstall-Popcon=12
+X-AppInstall-Section=main

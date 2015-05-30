@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=holotz-castle
-X-AppInstall-Popcon=28
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Holotz Castle
 GenericName=holotz-castle
@@ -13,3 +11,7 @@ Icon=holotz-castle
 Exec=holotz-castle
 Terminal=false
 Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=holotz-castle
+X-AppInstall-Popcon=28
+X-AppInstall-Section=main

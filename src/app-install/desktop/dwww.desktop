@@ -1,13 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Debian Documentation Browser
+Icon=gnome-touristinfo
+Exec=dwww
+X-MultipleArgs=false
+Terminal=false
+Categories=Application;Utility;
+StartupNotify=true
 X-AppInstall-Package=dwww
 X-AppInstall-Popcon=860
 X-AppInstall-Section=main
-
-Name=Debian Documentation Browser
-Exec=dwww
-Terminal=false
-X-MultipleArgs=false
-Type=Application
-Icon=gnome-touristinfo
-Categories=Application;Utility;
-StartupNotify=true

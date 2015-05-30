@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=libfm-gtk0
-X-AppInstall-Popcon=591
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Preferred Applications
 Name[bg]=Предпочитани програми
@@ -33,8 +31,8 @@ Name[pt_BR]=Aplicativos preferidos
 Name[ru]=Предпочтительные приложения
 Name[sk]=Odporúčané aplikácie
 Name[sl]=Privzeti programi
-Name[sr]=Подразумевани програми
 Name[sr@latin]=Podrazumevani programi
+Name[sr]=Подразумевани програми
 Name[sv]=Program
 Name[tr]=Tercih Edilen Uygulamalar
 Name[uk]=Улюблені програми
@@ -42,6 +40,10 @@ Name[vi]=Các ứng dụng ưa thích
 Name[zh_TW]=偏好的應用程式
 Icon=preferences-desktop
 Exec=libfm-pref-apps
-StartupNotify=true
-Categories=Settings;DesktopSettings;X-LXDE-Settings;GTK;
+Terminal=false
 NotShowIn=GNOME;XFCE;KDE;
+Categories=Settings;DesktopSettings;X-LXDE-Settings;GTK;
+StartupNotify=true
+X-AppInstall-Package=libfm-gtk0
+X-AppInstall-Popcon=591
+X-AppInstall-Section=main

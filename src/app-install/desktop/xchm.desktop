@@ -1,17 +1,19 @@
 [Desktop Entry]
-X-AppInstall-Package=xchm
-X-AppInstall-Popcon=726
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=xCHM
 Comment=Compiled HTML Help (CHM) file viewer
 Comment[fr]=Visionneuse de fichiers Compiled HTML Help (CHM)
+Icon=xchm
 Exec=xchm %f
 Terminal=false
-Type=Application
-Icon=xchm
 Categories=Office;Viewer;GTK;
 MimeType=application/x-chm;
+StartupNotify=false
+X-AppInstall-Package=xchm
+X-AppInstall-Popcon=726
+X-AppInstall-Section=main
 
 [Desktop Action View]
 Exec=xchm %f

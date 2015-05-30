@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=lxappearance
-X-AppInstall-Popcon=400
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Customize Look and Feel
 Name[de]=Erscheinungsbild anpassen
 Name[es]=Personalizar apariencia y comportamiento
@@ -30,10 +29,13 @@ Comment[pt_BR]=Personaliza o visual de sua área de trabalho e aplicativos
 Comment[ru]=Настройте тему рабочего стола и приложений
 Comment[uk]=Налаштовує вигляд Вашого робочого столу і програм
 Comment[zh_TW]=自訂桌面和應用程式的外觀風格
-Exec=lxappearance
 Icon=preferences-desktop-theme
-Type=Application
-StartupNotify=true
-Categories=Settings;DesktopSettings;GTK;X-LXDE-Settings;
+Exec=lxappearance
+Terminal=false
 NotShowIn=GNOME;XFCE;
+Categories=Settings;DesktopSettings;GTK;X-LXDE-Settings;
+StartupNotify=true
 X-Desktop-File-Install-Version=0.18
+X-AppInstall-Package=lxappearance
+X-AppInstall-Popcon=400
+X-AppInstall-Section=main

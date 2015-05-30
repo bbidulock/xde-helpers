@@ -1,11 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=eboard
-X-AppInstall-Popcon=116
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
 Type=Application
-Version=1.0
 Name=eBoard
 GenericName=Chess Game
 Comment=A chess interface to ICS and chess engines
@@ -16,4 +12,7 @@ Terminal=false
 Categories=GTK;Game;BoardGame;
 StartupNotify=true
 StartupWMClass=eboard
+X-AppInstall-Package=eboard
+X-AppInstall-Popcon=116
+X-AppInstall-Section=main
 X-Arch-Package=eboard 1.1.1-5

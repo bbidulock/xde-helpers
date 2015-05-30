@@ -1,15 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=grhino
-X-AppInstall-Popcon=15
-X-AppInstall-Section=main
-
+Version=0.16.0
+Encoding=UTF-8
+Type=Application
 Name=GRhino
 GenericName=GTP-compliant Reversi game
 Comment=Reversi game for GNOME, supporting the Go/Game Text Protocol
-Exec=grhino
 Icon=grhino.png
+Exec=grhino
 Terminal=false
-Type=Application
-Version=0.16.0
 Categories=Application;GNOME;Game;BoardGame;
 StartupNotify=true
+X-AppInstall-Package=grhino
+X-AppInstall-Popcon=15
+X-AppInstall-Section=main

@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=jedit
-X-AppInstall-Popcon=189
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=jEdit
 GenericName=Programmer's Text Editor
 GenericName[ca]=Editor de text per a programadors
@@ -12,10 +11,12 @@ Comment=Edit text files
 Comment[ca]=Editeu fitxers de text
 Comment[de]=Editiere Textdateien
 Comment[es]=Modifique archivos de texto
-Exec=jedit %U
 Icon=jedit
+Exec=jedit %U
 Terminal=false
-Type=Application
 Categories=Development;TextEditor;
-StartupNotify=true
 MimeType=text/plain;
+StartupNotify=true
+X-AppInstall-Package=jedit
+X-AppInstall-Popcon=189
+X-AppInstall-Section=main

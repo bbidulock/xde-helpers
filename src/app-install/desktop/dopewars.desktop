@@ -1,16 +1,18 @@
 [Desktop Entry]
-X-AppInstall-Package=dopewars
-X-AppInstall-Popcon=38
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Dopewars
 Name[de]=Drogenkrieg
 Name[pl]=Wojny narkotykowe
 Comment=dopewars drug dealing game
-Comment[pl]=Gra polegajÄca na handlowaniu narkotykami
 Comment[fr]=Jeu de vente de drogue
-Exec=dopewars
+Comment[pl]=Gra polegaj\xC4ca na handlowaniu narkotykami
 Icon=dopewars-weed.png
+Exec=dopewars
 Terminal=false
-Type=Application
 Categories=Application;Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=dopewars
+X-AppInstall-Popcon=38
+X-AppInstall-Section=main

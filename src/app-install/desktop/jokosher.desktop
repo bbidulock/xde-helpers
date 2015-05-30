@@ -1,16 +1,17 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Jokosher Audio Editor
+GenericName=Jokosher audio editor
+GenericName[en_CA]=Jokosher audio editor
+Comment=Simply and easily create multi-track audio
+Icon=jokosher
+Exec=jokosher
+Terminal=false
+Categories=AudioVideo;
+MimeType=application/x-jokosher;
+StartupNotify=false
 X-AppInstall-Package=jokosher
 X-AppInstall-Popcon=47
 X-AppInstall-Section=main
-
-Version=1.0
-Name=Jokosher Audio Editor
-GenericName=Jokosher audio editor
-Comment=Simply and easily create multi-track audio
-Exec=jokosher
-Icon=jokosher
-Terminal=false
-Type=Application
-MimeType=application/x-jokosher;
-Categories=AudioVideo;
-GenericName[en_CA]=Jokosher audio editor

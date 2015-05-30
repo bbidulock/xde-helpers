@@ -1,15 +1,15 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Device Manager
+Comment=Manage devices
+Icon=gnome-device-manager
+Exec=gnome-device-manager
+Terminal=false
+Categories=GNOME;GTK;System;
+StartupNotify=false
+X-GNOME-DocPath=gnome-device-manager/gnome-device-manager.xml
 X-AppInstall-Package=gnome-device-manager
 X-AppInstall-Popcon=259
 X-AppInstall-Section=main
-
-Encoding=UTF-8
-Name=Device Manager
-Comment=Manage devices
-Exec=gnome-device-manager
-Icon=gnome-device-manager
-Terminal=false
-Type=Application
-X-GNOME-DocPath=gnome-device-manager/gnome-device-manager.xml
-Categories=GNOME;GTK;System;
-

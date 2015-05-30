@@ -1,14 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=mgm
-X-AppInstall-Popcon=16
-X-AppInstall-Section=main
-
 Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=MGM System Monitor
 GenericName=System Monitor
 Comment=A highly configurable, very gaudy system load meter
-Exec=/usr/bin/mgm
 Icon=_usr_share_pixmaps_mgm
-Type=Application
+Exec=/usr/bin/mgm
+Terminal=false
 Categories=Monitor;System;Utility;
+StartupNotify=false
+X-AppInstall-Package=mgm
+X-AppInstall-Popcon=16
+X-AppInstall-Section=main

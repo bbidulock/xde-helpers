@@ -1,15 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=hotwire
-X-AppInstall-Popcon=15
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Hotwire Shell
 GenericName=Command prompt
 Comment=Execute text commands
+Icon=hotwire
 Exec=hotwire
 Terminal=false
-Type=Application
-Icon=hotwire
 Categories=GNOME;GTK;Utility;TerminalEmulator;System;
 StartupNotify=true
+X-AppInstall-Package=hotwire
+X-AppInstall-Popcon=15
+X-AppInstall-Section=main

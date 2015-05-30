@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=ggz-gtk-client
-X-AppInstall-Popcon=8
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=ggz-gtk
 GenericName=Gtk+ internet gaming center
 GenericName[de]=Internet-Spielezentrum (Gtk+)
@@ -12,9 +11,11 @@ Comment=GGZ Core Client
 Comment[de]=GGZ-Core-Client
 Comment[fr]=Core Client GGZ
 Comment[pt]=Cliente núcleo do GGZ
-
-Type=Application
-Exec=ggz-gtk
 Icon=
+Exec=ggz-gtk
 Terminal=false
 Categories=X-GGZ;Network;ConsoleOnly;
+StartupNotify=false
+X-AppInstall-Package=ggz-gtk-client
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main

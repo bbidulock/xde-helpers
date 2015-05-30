@@ -1,14 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=therion
-X-AppInstall-Popcon=29
-X-AppInstall-Section=main
-
 Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Therion Cave Survey Software
 GenericName=Cave Surveying Tool
 Comment=Draw up surveys in Therion format
-Type=Application
-Exec=xtherion
 Icon=therion
+Exec=xtherion
+Terminal=false
 Categories=Application;Geology;Science;
+StartupNotify=false
+X-AppInstall-Package=therion
+X-AppInstall-Popcon=29
+X-AppInstall-Section=main

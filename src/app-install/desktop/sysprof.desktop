@@ -1,16 +1,16 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Sysprof
+Comment=A sampling CPU profiler
+Icon=sysprof-icon
+Exec=sysprof
+Terminal=false
+Categories=Development;Profiling;
+StartupNotify=true
+X-Desktop-File-Install-Version=0.18
 X-AppInstall-Package=sysprof
 X-AppInstall-Popcon=21
 X-AppInstall-Section=main
-
-Version=1.0
-Name=Sysprof
-Comment=A sampling CPU profiler
-Exec=sysprof
-Icon=sysprof-icon
-StartupNotify=true
-Terminal=false
-Type=Application
-Categories=Development;Profiling;
-X-Desktop-File-Install-Version=0.18
 X-AppInstall-Architectures=amd64,i386

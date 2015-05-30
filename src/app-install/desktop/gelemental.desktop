@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=gelemental
-X-AppInstall-Popcon=56
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Periodic Table
 Name[cs]=Periodická tabulka
 Name[da]=Periodiske system
@@ -27,8 +26,11 @@ Comment[en_GB]=View the periodic table of elements
 Comment[en_US]=View the periodic table of elements
 Comment[fr]=Affiche le tableau périodique des éléments
 Comment[it]=Visualizza la tavola periodica dei elementi
-Exec=gelemental
 Icon=gelemental
+Exec=gelemental
 Terminal=false
-Type=Application
 Categories=GTK;Utility;Science;Chemistry;
+StartupNotify=false
+X-AppInstall-Package=gelemental
+X-AppInstall-Popcon=56
+X-AppInstall-Section=main

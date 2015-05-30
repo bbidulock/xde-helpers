@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=groundcontrol
-X-AppInstall-Popcon=12
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Ground Control Configuration
 Name[cs]=Nastavení Ground Control
 Name[de]=Ground Control Konfiguration
@@ -26,13 +25,13 @@ Comment=Setup Ground Control with your Launchpad account.
 Comment[cs]=Nastaví programu Ground Control váš Launchpad účet.
 Comment[it]=Imposta Ground Control col tuo account Launchpad.
 Comment[pl]=Konfiguruje współpracę programu Ground Control z serwisem Launchpad.
-Exec=lp-groundcontrol
 Icon=groundcontrol
-StartupNotify=false
+Exec=lp-groundcontrol
 Terminal=false
-Type=Application
-Categories=GNOME;GTK;Settings;X-GNOME-PersonalSettings;
 OnlyShowIn=GNOME;
-X-Ubuntu-Gettext-Domain=groundcontrol
+Categories=GNOME;GTK;Settings;X-GNOME-PersonalSettings;
+StartupNotify=false
 X-AppInstall-Package=groundcontrol
 X-AppInstall-Popcon=12
+X-AppInstall-Section=main
+X-Ubuntu-Gettext-Domain=groundcontrol

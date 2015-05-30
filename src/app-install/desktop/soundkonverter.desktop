@@ -1,14 +1,15 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=soundKonverter
+GenericName=An audio file converter
+Icon=soundkonverter
+Exec=soundkonverter %i -caption "%c"
+Terminal=false
+Categories=AudioVideo;AudioVideoEditing;CD;
+StartupNotify=false
+DocPath=soundkonverter/soundkonverter.html
 X-AppInstall-Package=soundkonverter
 X-AppInstall-Popcon=187
 X-AppInstall-Section=main
-
-Encoding=UTF-8
-Name=soundKonverter
-Exec=soundkonverter %i -caption "%c"
-Icon=soundkonverter
-Type=Application
-DocPath=soundkonverter/soundkonverter.html
-GenericName=An audio file converter
-Terminal=false
-Categories=AudioVideo;AudioVideoEditing;CD;

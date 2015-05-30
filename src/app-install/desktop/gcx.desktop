@@ -1,13 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=gcx
-X-AppInstall-Popcon=23
-X-AppInstall-Section=main
-
-Type=Application
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=GCX Astro-Image Processor
 GenericName=Image Processor
 Comment=Process astronomical images and control CCDs
 Icon=gcx
 Exec=gcx
+Terminal=false
 Categories=Education;Science;Astronomy;
+StartupNotify=false
+X-AppInstall-Package=gcx
+X-AppInstall-Popcon=23
+X-AppInstall-Section=main

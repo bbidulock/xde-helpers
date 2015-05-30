@@ -1,13 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=pynagram
-X-AppInstall-Popcon=4
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Pynagram
 GenericName=Anagram game
 Comment=Unjumble letters
-Exec=/usr/games/pynagram
 Icon=pynagram
+Exec=/usr/games/pynagram
 Terminal=false
 Categories=Qt;Game;LogicGame;
+StartupNotify=false
+X-AppInstall-Package=pynagram
+X-AppInstall-Popcon=4
+X-AppInstall-Section=main

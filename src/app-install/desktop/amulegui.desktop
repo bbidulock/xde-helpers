@@ -1,14 +1,16 @@
 [Desktop Entry]
-X-AppInstall-Package=amule-utils-gui
-X-AppInstall-Popcon=194
-X-AppInstall-Section=main
-
-Name=aMuleGUI
-Exec=amulegui
-Icon=amulegui
-Terminal=false
+Version=1.0
+Encoding=UTF-8
 Type=Application
-Categories=Network;P2P;
+Name=aMuleGUI
 Comment=aMule remote control
 Comment[de]=aMule-Fernsteuerung
 Comment[fr]=Contrôle à distance d'aMule
+Icon=amulegui
+Exec=amulegui
+Terminal=false
+Categories=Network;P2P;
+StartupNotify=false
+X-AppInstall-Package=amule-utils-gui
+X-AppInstall-Popcon=194
+X-AppInstall-Section=main

@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=oolite
-X-AppInstall-Popcon=45
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Oolite
 GenericName=
@@ -12,3 +10,7 @@ Icon=oolite-logo1
 Exec=oolite
 Terminal=false
 Categories=Game;Simulation;
+StartupNotify=false
+X-AppInstall-Package=oolite
+X-AppInstall-Popcon=45
+X-AppInstall-Section=main

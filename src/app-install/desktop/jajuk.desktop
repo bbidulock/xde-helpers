@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Jajuk
+Comment=Jajuk Advanced Jukebox
+Icon=jajuk.png
+Exec=jajuk
+Terminal=false
+Categories=AudioVideo
+StartupNotify=false
 X-AppInstall-Package=jajuk
 X-AppInstall-Popcon=17
 X-AppInstall-Section=main
-
-Name=Jajuk
-Comment=Jajuk Advanced Jukebox
-Exec=jajuk
-Icon=jajuk.png
-Terminal=false
-Type=Application
-Categories=AudioVideo

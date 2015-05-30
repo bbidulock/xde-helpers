@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=xfwm4
-X-AppInstall-Popcon=2248
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Workspaces
 Name[am]=የስራ ገበታ
 Name[ar]=مساحات العمل
@@ -95,12 +93,14 @@ Comment[uk]=Визначити кількість і назви робочих �
 Comment[ur]=مقام کاروں کی تعداد اور نام متعین کریں
 Comment[ur_PK]=مقام کاروں کی تعداد اور نام متعین کریں
 Comment[zh_CN]=设置工作区数目：
-Exec=xfwm4-workspace-settings
 Icon=xfce4-workspaces
+Exec=xfwm4-workspace-settings
 Terminal=false
-Type=Application
+OnlyShowIn=XFCE;
 Categories=X-XFCE;Settings;DesktopSettings;X-XfceSettingsDialog;
 StartupNotify=true
-OnlyShowIn=XFCE;
-X-XfcePluggable=true
+X-AppInstall-Package=xfwm4
+X-AppInstall-Popcon=2248
+X-AppInstall-Section=main
 X-XfceHelpFile=xfwm4.html
+X-XfcePluggable=true

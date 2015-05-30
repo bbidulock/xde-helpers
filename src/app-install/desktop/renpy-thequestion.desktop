@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=renpy-thequestion
-X-AppInstall-Popcon=6
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=The Question
 GenericName=renpy-thequestion
@@ -12,3 +10,7 @@ Icon=renpy-thequestion
 Exec=the_question
 Terminal=false
 Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=renpy-thequestion
+X-AppInstall-Popcon=6
+X-AppInstall-Section=main

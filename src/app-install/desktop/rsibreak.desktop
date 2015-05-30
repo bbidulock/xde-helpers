@@ -1,17 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=rsibreak
-X-AppInstall-Popcon=50
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
-Categories=Qt;KDE;Utility;
-Exec=rsibreak
-Icon=rsibreak
-X-DocPath=rsibreak/index.html
-X-DCOP-ServiceType=Unique
-X-KDE-autostart-phase=2
-X-KDE-autostart-condition=rsibreakrc:General:AutoStart:false
-X-KDE-autostart-after=panel
 Name=RSIBreak
 Name[hi]=आरएसआईब्रेक
 Name[hne]=आरएसआईब्रेक
@@ -49,3 +39,16 @@ Comment[uk]=Переконується, що ви відпочиваєте ві�
 Comment[x-test]=xxMakes sure you rest now and thenxx
 Comment[zh_CN]=请确保从现在开始您会休息一下
 Comment[zh_TW]=確定您偶而會休息一下
+Icon=rsibreak
+Exec=rsibreak
+X-DCOP-ServiceType=Unique
+Terminal=false
+Categories=Qt;KDE;Utility;
+StartupNotify=false
+X-DocPath=rsibreak/index.html
+X-KDE-autostart-after=panel
+X-KDE-autostart-condition=rsibreakrc:General:AutoStart:false
+X-KDE-autostart-phase=2
+X-AppInstall-Package=rsibreak
+X-AppInstall-Popcon=50
+X-AppInstall-Section=main

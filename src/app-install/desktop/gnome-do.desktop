@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=gnome-do
-X-AppInstall-Popcon=784
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=GNOME Do
 Name[ar]=أداء جنوم
 Name[ast]=GNOME Do
@@ -47,10 +46,6 @@ Name[vi]=GNOME Do
 Name[zh_CN]=GNOME Do
 Name[zh_HK]=GNOME Do
 Name[zh_TW]=GNOME Do
-Type=Application
-Exec=gnome-do
-Terminal=false
-Icon=gnome-do
 Comment=Do things as quickly as possible (but no quicker) with your files, bookmarks, applications, music, contacts, and more!
 Comment[ast]=¡Fae coses lo más aína dable (pero non más rápido) colos tos ficheros, marcadores, aplicaciones, música, contautos, y más!
 Comment[ca]=Feu les coses tan ràpid com podeu (però no més ràpid) amb els vostres fitxers, adreces d'interès, aplicacions, música, contactes i més!
@@ -86,5 +81,12 @@ Comment[uk]=Найоперативніший (але ні трішки не бі
 Comment[vi]=Mở tập tin, đánh dấu, ứng dụng, liên lạc, phát nhạc và mọi điều bạn muốn làm! Luôn và ngay!
 Comment[zh_CN]=方便快捷地处理你的文件、书签、应用程序、音乐、通讯簿...还有更多！
 Comment[zh_TW]=讓您盡可能快速（但不會更快）處理你的檔案、書籤、應用程式、音樂、聯絡人和更多其他的事情！
+Icon=gnome-do
+Exec=gnome-do
+Terminal=false
 Categories=Utility;
+StartupNotify=false
+X-AppInstall-Package=gnome-do
+X-AppInstall-Popcon=784
+X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,i386,ia64,kfreebsd-amd64,kfreebsd-i386,powerpc,s390,sparc

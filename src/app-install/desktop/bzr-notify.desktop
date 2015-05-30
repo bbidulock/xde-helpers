@@ -1,14 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=bzr-gtk
-X-AppInstall-Popcon=187
-X-AppInstall-Section=main
-
-Type=Application
 Version=0.1
+Encoding=UTF-8
+Type=Application
 Name=Bazaar Notification
 GenericName=
 Comment=Notification Area Icon for Bazaar
 Icon=bzr-icon-64
 Exec=bzr-notify
-Categories=Application;Development;RevisionControl;
 Terminal=false
+Categories=Application;Development;RevisionControl;
+StartupNotify=false
+X-AppInstall-Package=bzr-gtk
+X-AppInstall-Popcon=187
+X-AppInstall-Section=main

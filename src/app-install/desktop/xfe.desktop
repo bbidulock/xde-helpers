@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=xfe
-X-AppInstall-Popcon=155
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Xfe
 Name[cs]=Xfe
 Name[de]=Xfe
@@ -29,10 +28,12 @@ Comment[fr]=Un gestionnaire de fichiers léger pour X Window
 Comment[hu]=Pehelysúlyú fájlkezelő X Windowhoz
 Comment[pt_BR]=Um gerenciador de arquivos leve para o X Window
 Comment[sv]=En lättviktig filhanterare för X Window
+Icon=xfe
 Exec=xfe
 Terminal=false
-Type=Application
-StartupNotify=true
-MimeType=text/plain;
-Icon=xfe
 Categories=System;FileManager;
+MimeType=text/plain;
+StartupNotify=true
+X-AppInstall-Package=xfe
+X-AppInstall-Popcon=155
+X-AppInstall-Section=main

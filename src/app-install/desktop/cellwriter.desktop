@@ -1,15 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=cellwriter
-X-AppInstall-Popcon=28
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=CellWriter
 GenericName=Handwriting input panel
 Comment=Grid-entry handwriting recognition input panel
-Exec=cellwriter
 Icon=cellwriter
-StartupNotify=true
+Exec=cellwriter
 Terminal=false
-Type=Application
 Categories=GNOME;GTK;Utility;Accessibility;
+StartupNotify=true
+X-AppInstall-Package=cellwriter
+X-AppInstall-Popcon=28
+X-AppInstall-Section=main

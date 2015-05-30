@@ -1,12 +1,13 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Extcalc
+Icon=_usr_share_icons_icon48
+Exec=extcalc
+Terminal=false
+Categories=Qt;Utility
+StartupNotify=false
 X-AppInstall-Package=extcalc
 X-AppInstall-Popcon=49
 X-AppInstall-Section=main
-
-Encoding=UTF-8
-Name=Extcalc
-Exec=extcalc
-Terminal=false
-Type=Application
-Categories=Qt;Utility
-Icon=_usr_share_icons_icon48

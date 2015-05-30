@@ -1,16 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=gpicview
-X-AppInstall-Popcon=779
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
-Categories=Graphics;GTK;Viewer;2DGraphics;
-Exec=gpicview %f
-Icon=gpicview
-StartupNotify=true
 Type=Application
-Terminal=false
-MimeType=image/bmp;image/gif;image/jpeg;image/jpg;image/png;image/tiff;image/x-bmp;image/x-pcx;image/x-tga;image/x-portable-pixmap;image/x-portable-bitmap;image/x-targa;image/x-portable-greymap;application/pcx;image/svg+xml;image/svg-xml;
 Name=Image Viewer
 Name[et]=pildivaatur
 Name[fi]=kuvankatselija
@@ -35,4 +26,13 @@ Comment[ja]=簡単に画像を見ることができます
 Comment[pl]=Wyświetla obrazy
 Comment[zh_CN]=轻松查看数码相片和图片
 Comment[zh_TW]=輕鬆檢視數位相片和圖片
+Icon=gpicview
+Exec=gpicview %f
+Terminal=false
+Categories=Graphics;GTK;Viewer;2DGraphics;
+MimeType=image/bmp;image/gif;image/jpeg;image/jpg;image/png;image/tiff;image/x-bmp;image/x-pcx;image/x-tga;image/x-portable-pixmap;image/x-portable-bitmap;image/x-targa;image/x-portable-greymap;application/pcx;image/svg+xml;image/svg-xml;
+StartupNotify=true
 X-Desktop-File-Install-Version=0.17
+X-AppInstall-Package=gpicview
+X-AppInstall-Popcon=779
+X-AppInstall-Section=main

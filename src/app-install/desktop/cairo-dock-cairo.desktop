@@ -1,19 +1,17 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Cairo-Dock (no OpenGL)
+Name[fr]=Cairo-Dock (sans OpenGL)
+GenericName=Multi-purpose Dock and Desklets
+GenericName[fr]=Dock et Desklets multi-usage
+Comment=a light and eye-candy dock and desklets for your desktop.
+Icon=cairo-dock.svg
+Exec=cairo-dock -c
+Terminal=false
+Categories=System;
+StartupNotify=false
 X-AppInstall-Package=cairo-dock-core
 X-AppInstall-Popcon=272
 X-AppInstall-Section=main
-
-Encoding=UTF-8
-Type=Application
-Exec=cairo-dock -c
-Icon=cairo-dock.svg
-#DocPath=
-Terminal=false
-Comment=a light and eye-candy dock and desklets for your desktop.
-
-Name=Cairo-Dock (no OpenGL)
-Name[fr]=Cairo-Dock (sans OpenGL)
-
-GenericName=Multi-purpose Dock and Desklets
-GenericName[fr]=Dock et Desklets multi-usage
-Categories=System;

@@ -1,13 +1,15 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=QInk
+Comment=QInk ink level monitor
+Icon=qink
+Exec=qink
+Terminal=false
+Categories=Qt;Utility
+StartupNotify=false
 X-AppInstall-Package=qink
 X-AppInstall-Popcon=12
 X-AppInstall-Section=main
-
-Name=QInk
-Exec=qink
-Icon=qink
-Type=Application
-Terminal=false
-Comment=QInk ink level monitor
-Categories=Qt;Utility
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

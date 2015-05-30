@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=billard-gl
-X-AppInstall-Popcon=90
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Billard-GL
 GenericName=billard-gl
@@ -11,3 +9,7 @@ Icon=billard-gl
 Exec=billard-gl
 Terminal=false
 Categories=Game;Simulation;
+StartupNotify=false
+X-AppInstall-Package=billard-gl
+X-AppInstall-Popcon=90
+X-AppInstall-Section=main

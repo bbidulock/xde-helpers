@@ -1,12 +1,14 @@
 [Desktop Entry]
-X-AppInstall-Package=pytrainer
-X-AppInstall-Popcon=8
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=pyTrainer
 Comment=The Free Sport Training Center
-Exec=pytrainer
 Icon=pytrainer
+Exec=pytrainer
+Terminal=false
 Categories=Office;
+StartupNotify=false
+X-AppInstall-Package=pytrainer
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main

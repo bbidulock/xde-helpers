@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=tracker-gui
-X-AppInstall-Popcon=291
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Tracker Search Tool
 Name[ar]=أداة بحث المُقتفي
 Name[be@latin]=Pryłada pošuku Tracker
@@ -66,14 +65,15 @@ Comment[sl]=Poiščite dokumente in mape na računalniku po imenu ali vsebini z 
 Comment[sv]=Hitta dokument och mappar på den här datorn efter namn eller innehåll med Tracker
 Comment[th]=ค้นหาเอกสารและโฟลเดอร์ในคอมพิวเตอร์นี้จากชื่อหรือเนื้อหาโดยใช้ Tracker
 Comment[zh_CN]=用 Tracker 以名称或内容定位此计算机上的文档和文件夹
-Exec=tracker-search-tool
 Icon=system-search
+Exec=tracker-search-tool
 Terminal=false
-Type=Application
 Categories=GTK;Utility;
 StartupNotify=true
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=tracker
 X-GNOME-Bugzilla-Component=Tracker Search Tool
 X-GNOME-Bugzilla-Version=0.8.17
-
+X-AppInstall-Package=tracker-gui
+X-AppInstall-Popcon=291
+X-AppInstall-Section=main

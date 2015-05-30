@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=jclic
-X-AppInstall-Popcon=140
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=JClic Author
 Comment=Tool to create and modify JClic projects
 Comment[ca]=Eina per crear i modificar projectes JClic
@@ -12,6 +10,8 @@ Comment[valencia]=Creeu i modifiqueu projectes JClic
 Icon=jclicauthor.png
 Exec=jclicauthor
 Terminal=false
-Type=Application
 Categories=Application;Education;
 StartupNotify=true
+X-AppInstall-Package=jclic
+X-AppInstall-Popcon=140
+X-AppInstall-Section=main

@@ -1,13 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Cgoban
+Comment=Play Go against human or computer opponents
+Icon=cgoban_icon
+Exec=/usr/games/cgoban
+Terminal=false
+Categories=GNOME;GTK;Game;BoardGame;
+StartupNotify=false
 X-AppInstall-Package=cgoban
 X-AppInstall-Popcon=381
 X-AppInstall-Section=main
-
-Name=Cgoban
-Comment=Play Go against human or computer opponents
-Categories=GNOME;GTK;Game;BoardGame;
-Exec=/usr/games/cgoban
-Icon=cgoban_icon
-Terminal=false
-Type=Application
-Version=1.0

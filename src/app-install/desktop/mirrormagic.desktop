@@ -1,10 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=mirrormagic
-X-AppInstall-Popcon=14
-X-AppInstall-Section=main
-
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=MirrorMagic
 GenericName=
 Comment=
@@ -12,3 +9,7 @@ Icon=/usr/share/games/mirrormagic/graphics/mirrormagic.xpm
 Exec=/usr/games/mirrormagic
 Terminal=false
 Categories=Application;Game;LogicGame;
+StartupNotify=false
+X-AppInstall-Package=mirrormagic
+X-AppInstall-Popcon=14
+X-AppInstall-Section=main

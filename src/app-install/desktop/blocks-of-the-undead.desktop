@@ -1,11 +1,13 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Blocks Of The Undead
+Comment=Tetris Attack clone with spooky undertones
+Exec=BlocksOfTheUndead
+Terminal=false
+Categories=Game;LogicGame;
+StartupNotify=false
 X-AppInstall-Package=blocks-of-the-undead
 X-AppInstall-Popcon=4
 X-AppInstall-Section=main
-
-Name=Blocks Of The Undead
-Exec=BlocksOfTheUndead
-Comment=Tetris Attack clone with spooky undertones
-Terminal=false
-Type=Application
-Categories=Game;LogicGame;

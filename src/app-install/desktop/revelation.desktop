@@ -1,10 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=revelation
-X-AppInstall-Popcon=286
-X-AppInstall-Section=main
-
 Version=0.4.11
 Encoding=UTF-8
+Type=Application
 Name=Revelation Password Manager
 Name[fr]=Gestionnaire de mots de passe Revelation
 GenericName=Password Manager
@@ -12,11 +9,12 @@ GenericName[en_US]=Password Manager
 GenericName[fr]=Gestionnaire de mots de passe
 Comment=Organize and secure your passwords
 Comment[fr]=Organise et sécurise vos mots de passe
-Exec=revelation
 Icon=revelation
+Exec=revelation
 Terminal=false
-Type=Application
 Categories=GNOME;Application;Utility;
-StartupNotify=true
 MimeType=application/x-revelation;
-
+StartupNotify=true
+X-AppInstall-Package=revelation
+X-AppInstall-Popcon=286
+X-AppInstall-Section=main

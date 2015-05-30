@@ -1,9 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=xfce4-clipman
-X-AppInstall-Popcon=330
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Clipman
 Name[ast]=Clipman
@@ -59,9 +56,12 @@ Comment[ur]=کلپ بورڈ منیجر
 Comment[ur_PK]=کلپ بورڈ منیجر
 Comment[vi]=Trình quản lý bộ nhớ đệm
 Comment[zh_CN]=剪贴板管理器
-Exec=xfce4-clipman
 Icon=xfce4-clipman-plugin
+Exec=xfce4-clipman
 Terminal=false
-Categories=GTK;Utility;TrayIcon;
 OnlyShowIn=XFCE;
+Categories=GTK;Utility;TrayIcon;
 StartupNotify=false
+X-AppInstall-Package=xfce4-clipman
+X-AppInstall-Popcon=330
+X-AppInstall-Section=main

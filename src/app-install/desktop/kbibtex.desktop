@@ -1,16 +1,19 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=KBibTeX
+Comment=A BibTeX editor for KDE
+Comment[de]=Ein BibTeX-Editor für KDE
+Icon=kbibtex
+Exec=kbibtex %U %i -caption "%c"
+X-DCOP-ServiceType=Unique
+Terminal=false
+Categories=Qt;KDE;Office;
+MimeType=text/x-bibtex;
+StartupNotify=false
+X-DocPath=kbibtex/kbibtex.html
+X-KDE-HasTempFileOption=true
 X-AppInstall-Package=kbibtex
 X-AppInstall-Popcon=228
 X-AppInstall-Section=main
-
-Name=KBibTeX
-Exec=kbibtex %U %i -caption "%c"
-Icon=kbibtex
-Type=Application
-X-DocPath=kbibtex/kbibtex.html
-Comment=A BibTeX editor for KDE
-Comment[de]=Ein BibTeX-Editor für KDE
-MimeType=text/x-bibtex;
-Categories=Qt;KDE;Office;
-X-KDE-HasTempFileOption=true
-X-DCOP-ServiceType=Unique

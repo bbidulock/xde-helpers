@@ -1,14 +1,15 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Htop
+GenericName=Process Viewer
+Comment=Show System Processes
+Icon=htop
+Exec=htop
+Terminal=true
+Categories=ConsoleOnly;System;
+StartupNotify=false
 X-AppInstall-Package=htop
 X-AppInstall-Popcon=5564
 X-AppInstall-Section=main
-
-Version=1.0
-Name=Htop
-Type=Application
-Comment=Show System Processes
-Terminal=true
-Exec=htop
-Icon=htop
-Categories=ConsoleOnly;System;
-GenericName=Process Viewer

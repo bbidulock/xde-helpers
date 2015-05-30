@@ -1,14 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=pterm
-X-AppInstall-Popcon=46
-X-AppInstall-Section=main
-
 Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=PuTTY Terminal Emulator
 GenericName=Pterm
 Comment=Start a PuTTY terminal session
-Type=Application
-Exec=pterm
 Icon=pterm
+Exec=pterm
+Terminal=false
 Categories=Application;GTK;Utility;TerminalEmulator;
+StartupNotify=false
+X-AppInstall-Package=pterm
+X-AppInstall-Popcon=46
+X-AppInstall-Section=main

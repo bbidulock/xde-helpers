@@ -1,13 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=kraft
-X-AppInstall-Popcon=3
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
-Exec=kraft -caption "%c" %i %m
-Icon=kraft
-DocPath=kraft/index.html
-Terminal=false
 Name=Kraft
 Name[be]=Kraft
 Name[da]=Kraft
@@ -42,4 +36,12 @@ Name[tr]=Kraft
 Name[uk]=Kraft
 Name[x-test]=xxKraftxx
 Name[zh_TW]=Kraft
+Icon=kraft
+Exec=kraft -caption "%c" %i %m
+Terminal=false
 Categories=Office;Finance;ProjectManagement;Database;
+StartupNotify=false
+DocPath=kraft/index.html
+X-AppInstall-Package=kraft
+X-AppInstall-Popcon=3
+X-AppInstall-Section=main

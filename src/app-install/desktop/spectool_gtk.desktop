@@ -1,10 +1,13 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Spectrum Tool
+Comment=2.4 GHz spectrum analysis using the Wi-Spy hardware device
+Comment[fr]=Analyse du spectre 2.4 GHz en utilisant l'appareil Wi-Spy
+Exec=spectool_gtk
+Terminal=false
+StartupNotify=false
 X-AppInstall-Package=spectools
 X-AppInstall-Popcon=24
 X-AppInstall-Section=main
-
-Type=Application
-Exec=spectool_gtk
-Comment=2.4 GHz spectrum analysis using the Wi-Spy hardware device
-Comment[fr]=Analyse du spectre 2.4 GHz en utilisant l'appareil Wi-Spy
-Name=Spectrum Tool

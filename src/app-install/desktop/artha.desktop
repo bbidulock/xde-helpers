@@ -1,15 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=artha
-X-AppInstall-Popcon=34
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Artha
 GenericName=Thesaurus
 Comment=Handy thesaurus based on WordNet
-Exec=artha
 Icon=artha
+Exec=artha
 Terminal=false
-Type=Application
-StartupNotify=true
 Categories=Utility;Languages;Literature;
+StartupNotify=true
+X-AppInstall-Package=artha
+X-AppInstall-Popcon=34
+X-AppInstall-Section=main

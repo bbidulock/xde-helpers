@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=xbill
-X-AppInstall-Popcon=30
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=XBill
 Comment=Get rid of those Wingdows Viruses!
@@ -11,4 +9,7 @@ Icon=xbill
 Exec=xbill
 Terminal=false
 Categories=Game;ArcadeGame;
-
+StartupNotify=false
+X-AppInstall-Package=xbill
+X-AppInstall-Popcon=30
+X-AppInstall-Section=main

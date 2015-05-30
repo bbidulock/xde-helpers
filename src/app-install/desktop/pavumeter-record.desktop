@@ -1,14 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=pavumeter
-X-AppInstall-Popcon=376
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=PulseAudio Volume Meter (Capture)
 GenericName=Capture Volume Meter
 Comment=Monitor the input volume
-Exec=pavumeter --record
 Icon=audio-input-microphone
-StartupNotify=true
-Type=Application
+Exec=pavumeter --record
+Terminal=false
 Categories=AudioVideo;Audio;
+StartupNotify=true
+X-AppInstall-Package=pavumeter
+X-AppInstall-Popcon=376
+X-AppInstall-Section=main

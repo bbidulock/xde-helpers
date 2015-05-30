@@ -1,14 +1,15 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=pyRacerz
+GenericName=pyRacerz Game
+Comment=2D racing game
+Icon=pyracerz
+Exec=pyracerz
+Terminal=false
+Categories=Game;ArcadeGame;
+StartupNotify=false
 X-AppInstall-Package=pyracerz
 X-AppInstall-Popcon=14
 X-AppInstall-Section=main
-
-Version=1.0
-Type=Application
-Terminal=false
-Name=pyRacerz
-Icon=pyracerz
-GenericName=pyRacerz Game
-Exec=pyracerz
-Categories=Game;ArcadeGame;
-Comment=2D racing game

@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=gnome-specimen
-X-AppInstall-Popcon=80
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Specimen Font Previewer
 Name[ar]=مُعاين الخطوط "عيِّنة"
 Name[ca]=Previsualitzador de tipus de lletra Specimen
@@ -66,9 +65,11 @@ Comment[ru]=Просмотр и сравнение гарнитур
 Comment[sv]=Förhandsgranska och jämför typsnitt
 Comment[vi]=Xem và so sánh phông chữ
 Comment[zh_CN]=预览并比较字体
-Exec=gnome-specimen
-StartupNotify=false
-Terminal=false
-Type=Application
 Icon=gnome-specimen
+Exec=gnome-specimen
+Terminal=false
 Categories=Graphics;Viewer;GNOME;GTK;Publishing;
+StartupNotify=false
+X-AppInstall-Package=gnome-specimen
+X-AppInstall-Popcon=80
+X-AppInstall-Section=main

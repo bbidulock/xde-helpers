@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=quodlibet
-X-AppInstall-Popcon=249
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Quod Libet
 GenericName=Music Player
 GenericName[bg]=Слушане на музика
@@ -60,8 +59,11 @@ Comment[tr]=Müzik arşivinizi gezin, dinleyin, düzenleyin
 Comment[uk]=Програма для прослуховування і керування аудіо-колекцією
 Comment[zh_CN]=听、浏览或者编辑您的音频收藏
 Comment[zh_TW]=收聽、瀏覽，或編輯您的音訊收藏
+Icon=quodlibet.png
 Exec=quodlibet
 Terminal=false
-Type=Application
-Icon=quodlibet.png
 Categories=AudioVideo;Audio;Player;GTK
+StartupNotify=false
+X-AppInstall-Package=quodlibet
+X-AppInstall-Popcon=249
+X-AppInstall-Section=main

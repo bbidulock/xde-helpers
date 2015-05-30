@@ -1,11 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=rawstudio
-X-AppInstall-Popcon=116
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
 Type=Application
-Categories=Graphics;Photography;GTK;
 Name=Rawstudio
 Name[de]=Rawstudio
 Name[es]=Rawstudio
@@ -27,8 +23,12 @@ Comment[it]=Converte e manipola immagini raw
 Comment[pl]=Program Open Source do konwersji plików RAW i manipulacji na nich
 Comment[ru]=Свободная программа для проявки цифровых негативов
 Comment[sv]=Läs, bearbeta och konvertera råbilder från digitalkameror
-Exec=rawstudio %F
-StartupNotify=true
 Icon=rawstudio
+Exec=rawstudio %F
+Terminal=false
+Categories=Graphics;Photography;GTK;
 MimeType=image/x-dcraw;
-
+StartupNotify=true
+X-AppInstall-Package=rawstudio
+X-AppInstall-Popcon=116
+X-AppInstall-Section=main

@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=stardict
-X-AppInstall-Popcon=16
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=StarDict
 Name[ar]=StarDict
 Name[cs]=StarDict
@@ -44,10 +42,12 @@ Comment[uk]=Слова пошуку
 Comment[vi]=Tra từ
 Comment[zh_CN]=查询单词
 Comment[zh_TW]=查詢單字
+Icon=stardict.png
 Exec=stardict
 Terminal=false
-Type=Application
-Icon=stardict.png
-StartupNotify=true
 Categories=Utility;Dictionary;
+StartupNotify=true
 X-GNOME-DocPath=stardict/stardict.xml
+X-AppInstall-Package=stardict
+X-AppInstall-Popcon=16
+X-AppInstall-Section=main

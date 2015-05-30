@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=jamin
-X-AppInstall-Popcon=111
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=JAMin
 Name[fr]=JAMin
 Name[ru]=JAMin
@@ -11,10 +9,12 @@ GenericName=
 Comment=JACK Audio Mastering interface
 Comment[fr]=Interface de masterisation JACK Audio
 Comment[ru]=JAMin -- приложение для мастеринга звука
-Categories=Application;AudioVideo;
-Exec=jamin
 Icon=jamin.svg
+Exec=jamin
+Terminal=false
+Categories=Application;AudioVideo;
 MimeType=application/x-jamin;
 StartupNotify=true
-Terminal=false
-Type=Application
+X-AppInstall-Package=jamin
+X-AppInstall-Popcon=111
+X-AppInstall-Section=main

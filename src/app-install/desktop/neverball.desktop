@@ -1,9 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=neverball
-X-AppInstall-Popcon=130
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Neverball
 Comment=A 3D arcade game with a ball
@@ -17,3 +14,7 @@ Icon=neverball
 Exec=neverball
 Terminal=false
 Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=neverball
+X-AppInstall-Popcon=130
+X-AppInstall-Section=main

@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=lxterminal
-X-AppInstall-Popcon=842
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=LXTerminal
 Name[af]=LXTerminal
 Name[ar]=LXTerminal
@@ -133,7 +131,11 @@ Comment[uk]=Використати командну стрічку
 Comment[vi]=Dùng dòng lệnh
 Comment[zh_CN]=使用命令行
 Comment[zh_TW]=使用命令列
-Exec=lxterminal
 Icon=lxterminal
-Type=Application
+Exec=lxterminal
+Terminal=false
 Categories=GTK;Utility;TerminalEmulator;
+StartupNotify=false
+X-AppInstall-Package=lxterminal
+X-AppInstall-Popcon=842
+X-AppInstall-Section=main

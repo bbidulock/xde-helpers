@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=pykaraoke
-X-AppInstall-Popcon=25
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=PyKaraoke
 Name[lt]=PyKaraoke
@@ -12,5 +10,9 @@ Comment[lt]=Universalus karaoke muzikos bei video grotuvas
 Icon=_usr_share_pykaraoke_icons_pykaraoke
 Exec=pykaraoke
 Terminal=false
-MimeType=audio/x-karaoke;audio/x-midi;audio/midi;
 Categories=AudioVideo;Player;
+MimeType=audio/x-karaoke;audio/x-midi;audio/midi;
+StartupNotify=false
+X-AppInstall-Package=pykaraoke
+X-AppInstall-Popcon=25
+X-AppInstall-Section=main

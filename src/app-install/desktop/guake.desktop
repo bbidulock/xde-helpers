@@ -1,17 +1,19 @@
 [Desktop Entry]
-X-AppInstall-Package=guake
-X-AppInstall-Popcon=269
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Guake Terminal
 Name[pt]=Guake Terminal
 Name[pt_BR]=Guake Terminal
 Comment=Use the command line in a Quake-like terminal
 Comment[pt]=Utilizar a linha de comando em um terminal estilo Quake
 Comment[pt_BR]=Utilizar a linha de comando em um terminal estilo Quake
-Exec=guake
 Icon=_usr_share_pixmaps_guake_guake
-Type=Application
+Exec=guake
+Terminal=false
 Categories=GNOME;GTK;Utility;TerminalEmulator;
 StartupNotify=true
 X-GNOME-Autostart-enabled=false
+X-AppInstall-Package=guake
+X-AppInstall-Popcon=269
+X-AppInstall-Section=main

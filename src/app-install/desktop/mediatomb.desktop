@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=MediaTomb
+Comment=MediaTomb UPnP MediaServer web user interface.
+Icon=mediatomb.png
+Exec=/usr/bin/x-www-browser /var/lib/mediatomb/mediatomb.html
+Terminal=false
+Categories=AudioVideo;
+StartupNotify=false
 X-AppInstall-Package=mediatomb
 X-AppInstall-Popcon=1
 X-AppInstall-Section=main
-
-Name=MediaTomb
-Comment=MediaTomb UPnP MediaServer web user interface.
-Exec=/usr/bin/x-www-browser /var/lib/mediatomb/mediatomb.html
-Icon=mediatomb.png
-Terminal=false
-Type=Application
-Categories=AudioVideo;

@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=mutter
-X-AppInstall-Popcon=266
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Mutter
 Name[ar]=مَتَر
@@ -41,8 +39,8 @@ Name[pt_BR]=Mutter
 Name[ro]=Mutter
 Name[ru]=Mutter
 Name[sl]=Mutter
-Name[sr]=Матер
 Name[sr@latin]=Mater
+Name[sr]=Матер
 Name[sv]=Mutter
 Name[ta]=மட்டர்
 Name[tr]=Mutter
@@ -53,16 +51,18 @@ Name[zh_CN]=Mutter
 Name[zh_HK]=Mutter
 Name[zh_TW]=Mutter
 Exec=mutter
+Terminal=false
 NoDisplay=true
-# name of loadable control center module
-X-GNOME-WMSettingsModule=metacity
-# name we put on the WM spec check window
+StartupNotify=false
+X-GNOME-Autostart-Notify=true
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
 X-GNOME-WMName=Mutter
-# back compat only 
 X-GnomeWMSettingsLibrary=metacity
+X-GNOME-WMSettingsModule=metacity
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=mutter
 X-GNOME-Bugzilla-Component=general
-X-GNOME-Autostart-Phase=WindowManager
-X-GNOME-Provides=windowmanager
-X-GNOME-Autostart-Notify=true
+X-AppInstall-Package=mutter
+X-AppInstall-Popcon=266
+X-AppInstall-Section=main

@@ -1,15 +1,16 @@
 [Desktop Entry]
-X-AppInstall-Package=pauker
-X-AppInstall-Popcon=7
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Pauker
 GenericName=Pauker
 Comment=Generic card based learning program
-Exec=pauker
 Icon=pauker
+Exec=pauker
 Terminal=false
-Type=Application
 Categories=Education;
 StartupNotify=false
+X-AppInstall-Package=pauker
+X-AppInstall-Popcon=7
+X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,i386,ia64,mipsel,powerpc,s390,sparc

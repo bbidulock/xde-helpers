@@ -1,14 +1,13 @@
 [Desktop Entry]
-X-AppInstall-Package=asunder
-X-AppInstall-Popcon=72
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Asunder CD Ripper
 Name[de]=Asunder
 Name[fr]=Asunder
 Name[hu]=Asunder
-Name[sv]=Asunder
 Name[ru]=Asunder
+Name[sv]=Asunder
 GenericName=Audio CD Ripper
 GenericName[de]=Ein graphischer CD-Ripper und Encoder
 GenericName[fr]=Extracteur de CD
@@ -19,10 +18,11 @@ Comment[de]=Oberfläche zur Erstellung von Audio-Dateien
 Comment[hu]=Egy alkalmazás ami az Audió CD-n lévő sávokat lementi, MP3, OGG, FLAC és/vagy Wavpack formátumba.
 Comment[ru]=Программа для сохранения звуковых дорожек CD в файлы форматов WAV, MP3, OGG, FLAC и/или Wavpack.
 Comment[sv]=Ett program för att spara spår från en ljudskiva som WAV, MP3, OGG och/eller FLAC.
+Icon=asunder
 Exec=asunder
 Terminal=false
-StartupNotify=true
-Type=Application
 Categories=AudioVideo;Audio;
-Icon=asunder
-
+StartupNotify=true
+X-AppInstall-Package=asunder
+X-AppInstall-Popcon=72
+X-AppInstall-Section=main

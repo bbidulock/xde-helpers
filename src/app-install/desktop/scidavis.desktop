@@ -1,10 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=scidavis
-X-AppInstall-Popcon=21
-X-AppInstall-Section=main
-
-Type=Application
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=SciDAVis
 Comment=Application for scientific data analysis and visualization
 Comment[de]=Programm zur wissenschaftlichen Datenauswertung und Visualisierung
@@ -13,8 +10,12 @@ Comment[pt_BR]=Programa para visualização e análise da dados científico
 Icon=scidavis
 Exec=scidavis
 Terminal=false
-MimeType=application/x-sciprj;
 Categories=Qt;Science;Physics;Math;Graphics;
+MimeType=application/x-sciprj;
+StartupNotify=false
 X-KDE-SubstituteUID=false
 X-KDE-Username=
+X-AppInstall-Package=scidavis
+X-AppInstall-Popcon=21
+X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,hppa,i386,ia64,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390,sparc

@@ -1,18 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=jeex
-X-AppInstall-Popcon=8
-X-AppInstall-Section=main
-
-X-AppInstall-Package=jeex
-X-AppInstall-Popcon=8
-X-AppInstall-Section=main
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Jeex
-Exec=jeex %F
-Icon=jeex
-Categories=GTK;Development;
 Comment=Hexadecimal Editor for Linux
 Comment[it]=Un editor esadecimale per Linux
+Icon=jeex
+Exec=jeex %F
 Terminal=false
-Type=Application
+Categories=GTK;Development;
 StartupNotify=true
+X-AppInstall-Package=jeex
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main

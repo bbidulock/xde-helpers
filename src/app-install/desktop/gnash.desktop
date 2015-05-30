@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=gnash
-X-AppInstall-Popcon=3468
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Gnash SWF Viewer
 Name[ca]=Visualitzador d'SWF Gnash
@@ -22,6 +20,10 @@ Comment=
 Icon=gnash
 Exec=gtk-gnash %U
 Terminal=false
+NoDisplay=true
 Categories=AudioVideo;Video;Player;GTK;
 MimeType=application/x-shockwave-flash;application/futuresplash;
-NoDisplay=true
+StartupNotify=false
+X-AppInstall-Package=gnash
+X-AppInstall-Popcon=3468
+X-AppInstall-Section=main

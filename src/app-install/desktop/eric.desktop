@@ -1,15 +1,16 @@
 [Desktop Entry]
-X-AppInstall-Package=eric
-X-AppInstall-Popcon=131
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Eric python IDE
 Name[es]=IDE para python Eric
 Comment=Full featured Python IDE
 Comment[es]=Completo entorno de programaci贸n para Python
+Icon=eric
 Exec=eric
 Terminal=false
-Type=Application
-Icon=eric
 Categories=Development;IDE;
 StartupNotify=true
+X-AppInstall-Package=eric
+X-AppInstall-Popcon=131
+X-AppInstall-Section=main

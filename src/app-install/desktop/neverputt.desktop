@@ -1,9 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=neverputt
-X-AppInstall-Popcon=54
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Neverputt
 Comment=A 3D mini golf game
@@ -17,3 +14,7 @@ Icon=neverputt
 Exec=neverputt
 Terminal=false
 Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=neverputt
+X-AppInstall-Popcon=54
+X-AppInstall-Section=main

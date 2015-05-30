@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=nfoview
-X-AppInstall-Popcon=12
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=NFO Viewer
 Name[bg]=NFO Viewer
 Name[de]=NFO-Betrachter
@@ -27,10 +26,12 @@ Comment[it]=Visualizza file NFO
 Comment[pl]=Wyświetlanie plików NFO
 Comment[ru]=Просмотр файлов NFO
 Comment[zh_CN]=浏览 NFO 文件
+Icon=nfoview
 Exec=nfoview %F
 Terminal=false
-StartupNotify=true
-Icon=nfoview
-Type=Application
-MimeType=text/x-nfo;
 Categories=GTK;Utility;Viewer;
+MimeType=text/x-nfo;
+StartupNotify=true
+X-AppInstall-Package=nfoview
+X-AppInstall-Popcon=12
+X-AppInstall-Section=main

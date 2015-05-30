@@ -1,23 +1,21 @@
-# KDE Config File
 [Desktop Entry]
-X-AppInstall-Package=labplot
-X-AppInstall-Popcon=65
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
 Type=Application
-Exec=LabPlot -caption "%c" %i %m
-Icon=LabPlot
+Name=LabPlot
 GenericName=LabPlot
 Comment=An application for plotting of data sets and functions
 Comment[de]=Ein Programm zum Plotten von Daten und Funktionen
 Comment[pl]=Program do wykreślania funkcji oraz manipulacji na danych
-Terminal=false
-Name=LabPlot
-MimeType=application/x-LabPlot-plot;
-#Protocols=file;ftp
-Categories=Qt;KDE;Education;Science;Physics;Math;
-X-DocPath=LabPlot/index.html
+Icon=LabPlot
+Exec=LabPlot -caption "%c" %i %m
 X-ServiceTypes=Browser/View
+Terminal=false
+Categories=Qt;KDE;Education;Science;Physics;Math;
+MimeType=application/x-LabPlot-plot;
+StartupNotify=false
+X-DocPath=LabPlot/index.html
 X-KDE-Library=libLabPlot
-# vi: encoding=utf-8
+X-AppInstall-Package=labplot
+X-AppInstall-Popcon=65
+X-AppInstall-Section=main

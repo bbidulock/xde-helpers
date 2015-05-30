@@ -1,10 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=gdmap
-X-AppInstall-Popcon=75
-X-AppInstall-Section=main
-
 Version=0.8.0
 Encoding=UTF-8
+Type=Application
 Name=Graphical Disk Map
 Name[bg]=Графична карта на диска
 Name[de]=Plattenspeicher anzeigen
@@ -33,8 +30,11 @@ Comment[no]=Vis diskbruk i trestruktur
 Comment[ru]=Показать место на диске пользующеся древовидными схемами
 Comment[sv]=Visa diskutrymme med trädkartor
 Comment[tr]=Disk alanını agac haritalarini kullanarak goster
-Exec=gdmap
 Icon=gdmap_icon.png
+Exec=gdmap
 Terminal=false
-Type=Application
 Categories=Filesystem;Utility;GTK
+StartupNotify=false
+X-AppInstall-Package=gdmap
+X-AppInstall-Popcon=75
+X-AppInstall-Section=main

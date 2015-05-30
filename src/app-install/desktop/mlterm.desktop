@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=mlterm
-X-AppInstall-Popcon=129
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Multilingual Terminal
 GenericName=
@@ -12,3 +10,7 @@ Icon=mlterm-icon-24colors-1.xpm
 Exec=mlterm
 Terminal=false
 Categories=Application;Utility;TerminalEmulator;
+StartupNotify=false
+X-AppInstall-Package=mlterm
+X-AppInstall-Popcon=129
+X-AppInstall-Section=main

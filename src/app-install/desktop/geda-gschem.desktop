@@ -1,10 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=geda-gschem
-X-AppInstall-Popcon=200
-X-AppInstall-Section=main
-
 Version=1.0
-GenericName=gschem
+Encoding=UTF-8
+Type=Application
 Name=gEDA Schematic Editor
 Name[af]=gEDA Stroombaandiagram Bewerker
 Name[ar]=محرّر المخططات gEDA
@@ -18,6 +15,7 @@ Name[pl]=gEDA Edytor Schematów
 Name[pt_BR]=Editor de esquemas gEDA
 Name[ru]=gEDA редактор схем
 Name[tr]=gEDA Şematik Editörü
+GenericName=gschem
 Comment=Create and edit electrical schematics and symbols with gschem
 Comment[af]=Skep en bewerk stroombaandiagramme en simbole met gschem
 Comment[ar]=أنشء و حرّر المخططات الكهربائية والرموز مع gschem
@@ -31,9 +29,13 @@ Comment[pl]=Projektuj i edytuj schematy i symbole elektroniczne za pomocą gsche
 Comment[pt]=Crie e edite esquemas e símbolos eléctricos e electrónicos com gschem
 Comment[pt_BR]=Crie e edite esquemas elétricos e símbolos com o gschem
 Comment[ru]=Создание и редактирование электрических схем и символов в gschem
-Type=Application
-Exec=gschem %F
 Icon=geda-gschem
-MimeType=application/x-geda-schematic;application/x-geda-symbol;
+Exec=gschem %F
+Terminal=false
 Categories=Engineering;Electronics;
+MimeType=application/x-geda-schematic;application/x-geda-symbol;
+StartupNotify=false
+X-AppInstall-Package=geda-gschem
+X-AppInstall-Popcon=200
+X-AppInstall-Section=main
 X-Arch-Package=geda-gaf 1.8.2-1

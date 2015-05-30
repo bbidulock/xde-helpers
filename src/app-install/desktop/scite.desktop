@@ -1,17 +1,18 @@
 [Desktop Entry]
-X-AppInstall-Package=scite
-X-AppInstall-Popcon=265
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=SciTE Text Editor
 Name[en_GB]=Scite Text Editor
 Name[es]=Editor de textos SciTE
 Comment=Programming editor
 Comment[en_GB]=Programming editor
 Comment[es]=Edita especializado para programación
+Icon=_usr_share_pixmaps_Sci48M
 Exec=scite %F
 Terminal=false
-Type=Application
-Icon=_usr_share_pixmaps_Sci48M
 Categories=Application;Development;
+StartupNotify=false
+X-AppInstall-Package=scite
+X-AppInstall-Popcon=265
+X-AppInstall-Section=main

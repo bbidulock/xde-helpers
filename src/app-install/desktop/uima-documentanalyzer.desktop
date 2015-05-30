@@ -1,13 +1,16 @@
 [Desktop Entry]
-X-AppInstall-Package=uima-utils
-X-AppInstall-Popcon=1
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=UIMA Document Analyzer
 Name[fr]=Analyseur de documents pour UIMA
 Comment=Simple UIMA analysis engine runner
 Comment[fr]=Lanceur simplifié de composants UIMA
-Categories=Education;Science;Java;
-Exec=documentAnalyzer
 Icon=UIMA
+Exec=documentAnalyzer
+Terminal=false
+Categories=Education;Science;Java;
+StartupNotify=false
+X-AppInstall-Package=uima-utils
+X-AppInstall-Popcon=1
+X-AppInstall-Section=main

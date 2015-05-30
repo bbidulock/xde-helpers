@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=viking
-X-AppInstall-Popcon=81
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Viking
 Name[cs]=Viking
 Name[de]=Viking
@@ -33,9 +31,11 @@ Comment[fr]=Gestionnaire de données GPS basées sur des cartes (possibilité de
 Comment[id]=Pengelola Data GPS Berbasis Peta (mampu menangani data live).
 Comment[it]=Gestore Dati GPS Basato su Mappa (dati in tempo reale).
 Comment[lt]=Žemėlapiais paremtas GPS duomenų vedlys (duomenys realiu laiku).
-Exec=viking %F
 Icon=viking
+Exec=viking %F
 Terminal=false
-Type=Application
-StartupNotify=true
 Categories=Education;Science;Geography;GTK;
+StartupNotify=true
+X-AppInstall-Package=viking
+X-AppInstall-Popcon=81
+X-AppInstall-Section=main

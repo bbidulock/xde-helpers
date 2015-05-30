@@ -1,16 +1,15 @@
-
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Bitmeter
+Comment=JACK diagnostic tool
+Icon=bitmeter.xpm
+Exec=bitmeter
+Terminal=false
+Categories=Application;Audio;AudioVideo;X-Jack
+StartupNotify=false
+StartupWMClass=Bitmeter
 X-AppInstall-Package=bitmeter
 X-AppInstall-Popcon=2
 X-AppInstall-Section=main
-
-Name=Bitmeter
-Comment=JACK diagnostic tool
-Exec=bitmeter
-Icon=bitmeter.xpm
-Terminal=0
-Type=Application
-StartupWMClass=Bitmeter
-Categories=Application;Audio;AudioVideo;X-Jack
-
-

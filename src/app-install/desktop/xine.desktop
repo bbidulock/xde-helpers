@@ -1,17 +1,18 @@
 [Desktop Entry]
-X-AppInstall-Package=xine-ui
-X-AppInstall-Popcon=3940
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Xine
 Name[pl]=Odtwarzacz xine
 GenericName=Media Player
 Comment=Xine Media Player
 Comment[pl]=Odtwarzacz filmów
-Exec=xine %U
 Icon=xine
+Exec=xine %U
 Terminal=false
-Type=Application
 Categories=Application;AudioVideo;Player;
 MimeType=video/mpeg;video/quicktime;video/x-msvideo;video/x-anim;audio/x-mp3;audio/x-mp2;
+StartupNotify=false
+X-AppInstall-Package=xine-ui
+X-AppInstall-Popcon=3940
+X-AppInstall-Section=main

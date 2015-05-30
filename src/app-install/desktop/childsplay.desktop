@@ -1,8 +1,4 @@
 [Desktop Entry]
-X-AppInstall-Package=childsplay
-X-AppInstall-Popcon=239
-X-AppInstall-Section=main
-
 Version=1.0
 Encoding=UTF-8
 Type=Application
@@ -14,5 +10,8 @@ Comment[es]=Conjunto de juegos educativos para niños
 Icon=logo_cp_32x32.xpm
 Exec=childsplay
 Terminal=false
-StartupNotify=false
 Categories=Application;Game;Education;KidsGame;2DGraphics;
+StartupNotify=false
+X-AppInstall-Package=childsplay
+X-AppInstall-Popcon=239
+X-AppInstall-Section=main

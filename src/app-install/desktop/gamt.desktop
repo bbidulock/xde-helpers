@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=gamt
+Comment=Intel AMT serial-over-lan client.
+Icon=gnome-terminal
+Exec=gamt
+Terminal=false
+Categories=GTK;System;Network;Utility;
+StartupNotify=false
 X-AppInstall-Package=gamt
 X-AppInstall-Popcon=1
 X-AppInstall-Section=main
-
-Name=gamt
-Comment=Intel AMT serial-over-lan client.
-Exec=gamt
-Terminal=false
-Type=Application
-Categories=GTK;System;Network;Utility;
-Icon=gnome-terminal

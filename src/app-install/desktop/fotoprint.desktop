@@ -1,20 +1,19 @@
 [Desktop Entry]
-X-AppInstall-Package=photoprint
-X-AppInstall-Popcon=83
-X-AppInstall-Section=main
-
 Version=1.0
-#Encoding=UTF-8
+Encoding=UTF-8
+Type=Application
 Name=PhotoPrint
 Name[ru]=Пакетная печать фотографий в PhotoPrint
 GenericName=Photo Printing
 GenericName[ru]=Печать фотографий
 Comment=Color managed printing of multiple photos on single page
 Comment[ru]=Цветоуправляемая пакетная печать фотографий
-Exec=photoprint %F
 Icon=fotoprint
-StartupNotify=true
+Exec=photoprint %F
 Terminal=false
-Type=Application
 Categories=Graphics;Photography;GNOME;GTK;
 MimeType=image/tiff;image/jpeg;image/png;
+StartupNotify=true
+X-AppInstall-Package=photoprint
+X-AppInstall-Popcon=83
+X-AppInstall-Section=main

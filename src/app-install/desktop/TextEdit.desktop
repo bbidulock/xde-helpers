@@ -1,12 +1,14 @@
 [Desktop Entry]
-X-AppInstall-Package=textedit.app
-X-AppInstall-Popcon=152
-X-AppInstall-Section=main
-
-Type=Application
 Version=0.94
-Categories=Utility;TextEditor;
+Encoding=UTF-8
+Type=Application
 Name=TextEdit
 Comment=an OpenStep text editor
 Icon=_usr_lib_GNUstep_Applications_TextEdit.app_Resources_Edit
 Exec=TextEdit
+Terminal=false
+Categories=Utility;TextEditor;
+StartupNotify=false
+X-AppInstall-Package=textedit.app
+X-AppInstall-Popcon=152
+X-AppInstall-Section=main

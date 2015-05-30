@@ -1,15 +1,16 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Xmonad
+Exec=xmonad
+Terminal=false
+StartupNotify=false
+X-GNOME-Autostart-Notify=true
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-WMName=Xmonad
 X-AppInstall-Package=xmonad
 X-AppInstall-Popcon=223
 X-AppInstall-Section=main
-
-Type=Application
-Encoding=UTF-8
-Name=Xmonad
-Exec=xmonad
-X-GNOME-WMName=Xmonad
-X-GNOME-Autostart-Phase=WindowManager
-X-GNOME-Provides=windowmanager
-X-GNOME-Autostart-Notify=true
-
 X-AppInstall-Architectures=amd64,armel,hppa,i386,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390,sparc

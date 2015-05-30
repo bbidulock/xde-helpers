@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=ace-of-penguins
-X-AppInstall-Popcon=90
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Penguin Thornq
 GenericName=
@@ -11,3 +9,7 @@ Icon=
 Exec=/usr/games/ace-thornq
 Terminal=false
 Categories=Game;CardGame;
+StartupNotify=false
+X-AppInstall-Package=ace-of-penguins
+X-AppInstall-Popcon=90
+X-AppInstall-Section=main

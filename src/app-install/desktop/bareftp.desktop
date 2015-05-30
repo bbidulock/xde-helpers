@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=bareftp
-X-AppInstall-Popcon=18
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=bareFTP
 GenericName=File Transfer Client
 GenericName[ca]=Client de transferència de fitxers
@@ -25,10 +23,12 @@ Comment[nb]=Overfør filer med hjelp av FTP, FTPS eller FPTS
 Comment[pl]=Przesyłanie plików używając protokołu FTP, FTPS lub SFTP
 Comment[pt_BR]=Transferência de arquivos usando os protocolos FTP, FTPS e SFTP
 Comment[sv]=Överför filer via FTP, FTPS eller SFTP.
-Exec=bareftp
 Icon=bareftp
-StartupNotify=false
+Exec=bareftp
 Terminal=false
-Type=Application
 Categories=Network;FileTransfer;
+StartupNotify=false
+X-AppInstall-Package=bareftp
+X-AppInstall-Popcon=18
+X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,i386,ia64,kfreebsd-amd64,kfreebsd-i386,powerpc,s390,sparc

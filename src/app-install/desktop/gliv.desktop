@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=gliv
-X-AppInstall-Popcon=70
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Gliv
 Comment=View images using gdk-pixbuf and OpenGL
@@ -10,3 +8,7 @@ Icon=gliv
 Exec=gliv
 Terminal=false
 Categories=Graphics;
+StartupNotify=false
+X-AppInstall-Package=gliv
+X-AppInstall-Popcon=70
+X-AppInstall-Section=main

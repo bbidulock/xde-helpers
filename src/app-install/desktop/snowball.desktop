@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=snowballz
-X-AppInstall-Popcon=15
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=SnowballZ
 GenericName=snowballz
@@ -11,3 +9,7 @@ Icon=snowballz
 Exec=snowballz
 Terminal=false
 Categories=Game;StrategyGame;
+StartupNotify=false
+X-AppInstall-Package=snowballz
+X-AppInstall-Popcon=15
+X-AppInstall-Section=main

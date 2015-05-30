@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=xfce4-settings
-X-AppInstall-Popcon=1263
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Keyboard
 Name[ast]=Tecláu
 Name[ca]=Teclat
@@ -67,12 +65,14 @@ Comment[uk]=Редагувати властивості клавіатури т�
 Comment[ur]=کیبورڈ کی ترتیبات اور اطلاقیوں کے شارٹ کٹس مدون کریں
 Comment[ur_PK]=کیبورڈ کی ترتیبات اور اطلاقیوں کے شارٹ کٹس مدون کریں
 Comment[zh_CN]=编辑键盘设置和应用程序快捷键
-Exec=xfce4-keyboard-settings
 Icon=preferences-desktop-keyboard
+Exec=xfce4-keyboard-settings
 Terminal=false
-Type=Application
+OnlyShowIn=XFCE;
 Categories=X-XFCE;Settings;DesktopSettings;X-XfceSettingsDialog;
 StartupNotify=true
-OnlyShowIn=XFCE;
-X-XfcePluggable=true
+X-AppInstall-Package=xfce4-settings
+X-AppInstall-Popcon=1263
+X-AppInstall-Section=main
 X-XfceHelpFile=xfce4-settings.html
+X-XfcePluggable=true

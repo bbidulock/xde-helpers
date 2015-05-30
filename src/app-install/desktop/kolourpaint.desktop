@@ -1,17 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=kolourpaint4
-X-AppInstall-Popcon=616
-X-AppInstall-Section=main
-
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=KolourPaint
 Name[ar]=كُولُرْبينْت
 Name[ast]=KolourPaint
 Name[be]=KolourPaint
 Name[bg]=KolourPaint
 Name[br]=KolourPaint
-Name[ca]=KolourPaint
 Name[ca@valencia]=KolourPaint
+Name[ca]=KolourPaint
 Name[cs]=KolourPaint
 Name[cy]=KolourPaint
 Name[da]=KolourPaint
@@ -55,18 +53,18 @@ Name[ru]=KolourPaint
 Name[se]=KolourPaint
 Name[sk]=KolourPaint
 Name[sl]=KolourPaint
-Name[sr]=Колор-сликање
 Name[sr@ijekavian]=Колор-сликање
 Name[sr@ijekavianlatin]=Kolor-slikanje
 Name[sr@latin]=Kolor-slikanje
+Name[sr]=Колор-сликање
 Name[sv]=Kolourpaint
 Name[ta]=நிற பெயின்ட் 
 Name[tg]=KolourPaint
 Name[th]=วาดภาพระบายสี-K
 Name[tr]=KolourPaint
 Name[uk]=KolourPaint
-Name[uz]=KolourPaint
 Name[uz@cyrillic]=KolourPaint
+Name[uz]=KolourPaint
 Name[vi]=KolourPaint
 Name[x-test]=xxKolourPaintxx
 Name[zh_CN]=KolourPaint
@@ -78,8 +76,8 @@ GenericName[ar]=برنامج التلوين
 GenericName[ast]=Programa de pintura
 GenericName[bg]=Графичен редактор
 GenericName[br]=Goulev tresañ
-GenericName[ca]=Programa de pintura
 GenericName[ca@valencia]=Programa de pintura
+GenericName[ca]=Programa de pintura
 GenericName[cs]=Kreslící program
 GenericName[cy]=Rhaglen Peintio
 GenericName[da]=Maleprogram
@@ -124,35 +122,32 @@ GenericName[ru]=Простой редактор изображений
 GenericName[se]=Málenprográmma
 GenericName[sk]=Kresliaci program
 GenericName[sl]=Slikarski program
-GenericName[sr]=Програм за сликање
 GenericName[sr@ijekavian]=Програм за сликање
 GenericName[sr@ijekavianlatin]=Program za slikanje
 GenericName[sr@latin]=Program za slikanje
+GenericName[sr]=Програм за сликање
 GenericName[sv]=Ritprogram
 GenericName[ta]=பெயிண்ட் நிரலி
 GenericName[tg]=Муҳаррири графикӣ
 GenericName[th]=โปรแกรมวาดภาพ
 GenericName[tr]=Boyama Uygulaması
 GenericName[uk]=Програма для малювання
-GenericName[uz]=Chizish dasturi
 GenericName[uz@cyrillic]=Чизиш дастури
+GenericName[uz]=Chizish dasturi
 GenericName[vi]=Chương trình vẽ
 GenericName[wa]=Program di dessinaedje
-GenericName[xh]=Udweliso lwenkqubo lwepeyinti
 GenericName[x-test]=xxPaint Programxx
+GenericName[xh]=Udweliso lwenkqubo lwepeyinti
 GenericName[zh_CN]=绘图程序
 GenericName[zh_HK]=繪圖程式
 GenericName[zh_TW]=繪圖程式
 Icon=kolourpaint
-
-Type=Application
 Exec=kolourpaint %u
-X-DocPath=kolourpaint/index.html
-
-# SYNC: Run branches/kolourpaint/control/scripts/kde4port/gen_mimetype_line.sh in
-#       the version of kdelibs/kimgio/ (e.g. KDE 4.0) KolourPaint is
-#       shipped with.
-MimeType=image/bmp;image/gif;image/jpeg;image/jpeg2000;image/png;image/tiff;image/x-dds;image/x-eps;image/x-exr;image/x-hdr;image/x-ico;image/x-pcx;image/x-portable-bitmap;image/x-portable-graymap;image/x-portable-pixmap;image/x-psd;image/x-rgb;image/x-tga;image/x-xbitmap;image/x-xcf;image/x-xpixmap;video/x-mng;
-
-Categories=Qt;KDE;Graphics;2DGraphics;RasterGraphics;
 Terminal=false
+Categories=Qt;KDE;Graphics;2DGraphics;RasterGraphics;
+MimeType=image/bmp;image/gif;image/jpeg;image/jpeg2000;image/png;image/tiff;image/x-dds;image/x-eps;image/x-exr;image/x-hdr;image/x-ico;image/x-pcx;image/x-portable-bitmap;image/x-portable-graymap;image/x-portable-pixmap;image/x-psd;image/x-rgb;image/x-tga;image/x-xbitmap;image/x-xcf;image/x-xpixmap;video/x-mng;
+StartupNotify=false
+X-DocPath=kolourpaint/index.html
+X-AppInstall-Package=kolourpaint4
+X-AppInstall-Popcon=616
+X-AppInstall-Section=main

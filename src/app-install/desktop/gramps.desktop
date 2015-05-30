@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=gramps
-X-AppInstall-Popcon=136
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Gramps Genealogy System
 Name[bg]=Генеалогична система Gramps
 Name[ca]=Sistema Genealògic Gramps
@@ -44,10 +43,12 @@ Comment[sq]=Menaxho informacione gjenalogjike,bëj analiza dhe hulumtim gjenealo
 Comment[sv]=Hantera genealogiska data, utför genealogisk forskning och analys
 Comment[zh_CN]=管理家谱信息，实施家谱搜索和分析
 Icon=gramps
-Terminal=false
-Type=Application
-StartupNotify=true
-Categories=GTK;Office;
-X-GNOME-DocPath=gramps/gramps-manual.xml
-MimeType=application/x-gramps;application/x-gedcom;application/x-gramps-package;application/x-gramps-xml;
 Exec=gramps %F
+Terminal=false
+Categories=GTK;Office;
+MimeType=application/x-gramps;application/x-gedcom;application/x-gramps-package;application/x-gramps-xml;
+StartupNotify=true
+X-GNOME-DocPath=gramps/gramps-manual.xml
+X-AppInstall-Package=gramps
+X-AppInstall-Popcon=136
+X-AppInstall-Section=main

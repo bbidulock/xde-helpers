@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=whichwayisup
-X-AppInstall-Popcon=14
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Which Way is Up
 GenericName=whichwayisup
@@ -11,3 +9,7 @@ Icon=whichwayisup
 Exec=whichwayisup
 Terminal=false
 Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=whichwayisup
+X-AppInstall-Popcon=14
+X-AppInstall-Section=main

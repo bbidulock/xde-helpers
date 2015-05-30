@@ -1,18 +1,19 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=cb2Bib
+GenericName=Reference Extracting Tool
+GenericName[ca]=Eina per extreure referències
+Comment=Bibliographic Reference Extracting Tool
+Comment[ca]=Eina per extreure referències bibliogràfiques
+Icon=cb2bib
+Exec=cb2bib --bibedit %F
+Terminal=false
+Categories=Office;
+MimeType=text/x-bibtex;
+Path=/usr/bin
+StartupNotify=true
 X-AppInstall-Package=cb2bib
 X-AppInstall-Popcon=10
 X-AppInstall-Section=main
-
-Comment=Bibliographic Reference Extracting Tool
-Comment[ca]=Eina per extreure referències bibliogràfiques
-Exec=cb2bib --bibedit %F
-GenericName=Reference Extracting Tool
-GenericName[ca]=Eina per extreure referències
-Icon=cb2bib
-MimeType=text/x-bibtex;
-Name=cb2Bib
-Path=/usr/bin
-StartupNotify=true
-Terminal=false
-Categories=Office;
-Type=Application

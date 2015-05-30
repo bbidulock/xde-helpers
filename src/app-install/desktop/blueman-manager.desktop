@@ -1,10 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=blueman
-X-AppInstall-Popcon=605
-X-AppInstall-Section=main
-X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
-
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Bluetooth Manager
 Name[ar]=مدير بلوتوث
 Name[be]=Кіраўнік прылад Bluetooth
@@ -83,7 +80,10 @@ Icon=blueman
 TryExec=blueman-manager
 Exec=blueman-manager
 Terminal=false
-Type=Application
-StartupNotify=true
 Categories=GTK;GNOME;Settings;HardwareSettings;
+StartupNotify=true
+X-AppInstall-Package=blueman
+X-AppInstall-Popcon=605
+X-AppInstall-Section=main
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
 X-Arch-Package=blueman 1.99.alpha2-1

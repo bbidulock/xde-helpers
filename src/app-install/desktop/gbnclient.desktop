@@ -1,15 +1,17 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Gnome Batalla Naval client
+Name[es]=Cliente Gnome del Batalla Naval
+Name[ja]=GNOME \xB3\xA4\xC0铳瞈xA1\xBC\xA5\xE0 (\xA5\xAF\xA5楗xA5\xA2\xA5\xF3\xA5\xC8)
+Comment=Gnome Batalla Naval client
+Comment[es]=Cliente Gnome del Batalla Naval
+Comment[ja]=GNOME \xB3\xA4\xC0铳瞈xA1\xBC\xA5\xE0 (\xA5\xAF\xA5楗xA5\xA2\xA5\xF3\xA5\xC8)
+Icon=gnome-gbatnav.png
+Exec=gbnclient 
+Terminal=false
+StartupNotify=false
 X-AppInstall-Package=gbatnav
 X-AppInstall-Popcon=11
 X-AppInstall-Section=main
-
-Name=Gnome Batalla Naval client
-Name[es]=Cliente Gnome del Batalla Naval
-Name[ja]=GNOME 长里ゲ〖ム (クライアント)
-Comment=Gnome Batalla Naval client
-Comment[es]=Cliente Gnome del Batalla Naval
-Comment[ja]=GNOME 长里ゲ〖ム (クライアント)
-Exec=gbnclient 
-Icon=gnome-gbatnav.png
-Terminal=0
-Type=Application

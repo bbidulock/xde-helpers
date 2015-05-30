@@ -1,25 +1,24 @@
 [Desktop Entry]
-X-AppInstall-Package=supertux
-X-AppInstall-Popcon=362
-X-AppInstall-Section=main
-
-Type=Application
 Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=SuperTux
-Name[en]=SuperTux
-Name[de]=SuperTux
 Name[cs]=SuperTux
+Name[de]=SuperTux
+Name[en]=SuperTux
 GenericName=A Platform Game
-GenericName[en]=A Platform Game
-GenericName[de]=Ein Jump&Run Spiel
 GenericName[cs]=Plošinová hra
+GenericName[de]=Ein Jump&Run Spiel
+GenericName[en]=A Platform Game
 Comment=A Super Mario inspired penguin platform game
-Comment[en]=A Super Mario inspired penguin platform game
-Comment[de]=Ein von Super Mario inspiriertes Pinguin Jump&Run Spiel
 Comment[cs]=Plošinovka inspirovaná SuperMariem s tučňákem Tuxem v hlavní roli
+Comment[de]=Ein von Super Mario inspiriertes Pinguin Jump&Run Spiel
+Comment[en]=A Super Mario inspired penguin platform game
 Icon=supertux.png
 Exec=supertux
 Terminal=false
-StartupNotify=false
 Categories=Application;Game;ArcadeGame
+StartupNotify=false
+X-AppInstall-Package=supertux
+X-AppInstall-Popcon=362
+X-AppInstall-Section=main

@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=scim
-X-AppInstall-Popcon=935
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=SCIM Input Method Setup
 Name[as]=SCIM নিবেশ পদ্ধতিৰ প্ৰতিষ্ঠা
 Name[bn_IN]=SCIM ইনপুট পদ্ধতি প্রস্তুতি
@@ -60,9 +58,11 @@ Comment[te]=స్మార్ట్‍ ఉమ్మడి ఇన్‌పుట
 Comment[vi]=Tiện ích thiết lập cho bộ gõ SCIM
 Comment[zh_CN]=智能通用输入法平台的设置工具
 Comment[zh_TW]=泛用智慧型輸入法平台的設定工具
-Exec=scim-setup
 Icon=scim-setup
+Exec=scim-setup
 Terminal=false
-Type=Application
-StartupNotify=true
 Categories=Applications;Settings;
+StartupNotify=true
+X-AppInstall-Package=scim
+X-AppInstall-Popcon=935
+X-AppInstall-Section=main

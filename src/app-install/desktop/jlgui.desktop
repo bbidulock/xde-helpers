@@ -1,13 +1,15 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=jlGui
+Name[de]=jlGui
+Comment=graphical music player
+Icon=multimedia
+Exec=jlgui
+Terminal=false
+Categories=AudioVideo
+StartupNotify=false
 X-AppInstall-Package=jlgui
 X-AppInstall-Popcon=10
 X-AppInstall-Section=main
-
-Exec=jlgui
-Name=jlGui
-Comment=graphical music player
-Icon=multimedia
-Name[de]=jlGui
-StartupNotify=false
-Type=Application
-Categories=AudioVideo

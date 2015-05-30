@@ -1,13 +1,13 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Caret
+GenericName=Cortical Surface Reconstruction and Visualization
+Exec=caret5
+Terminal=false
+Categories=Utility;Science;MedicalSoftware;
+StartupNotify=false
 X-AppInstall-Package=caret
 X-AppInstall-Popcon=7
 X-AppInstall-Section=main
-
-Encoding=UTF-8
-GenericName=Cortical Surface Reconstruction and Visualization
-Name=Caret
-Exec=caret5
-Type=Application
-Terminal=false
-Categories=Utility;Science;MedicalSoftware;
-

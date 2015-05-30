@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Pixelize
+Comment=Create an image consisting of many small images
+Icon=pixelize
+Exec=pixelize
+Terminal=false
+Categories=Graphics;
+StartupNotify=false
 X-AppInstall-Package=pixelize
 X-AppInstall-Popcon=19
 X-AppInstall-Section=main
-
-Version=1.0
-Name=Pixelize
-Comment=Create an image consisting of many small images
-Exec=pixelize
-Icon=pixelize
-Type=Application
-Categories=Graphics;

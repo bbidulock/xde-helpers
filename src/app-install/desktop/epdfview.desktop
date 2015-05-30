@@ -1,20 +1,22 @@
 [Desktop Entry]
-X-AppInstall-Package=epdfview
-X-AppInstall-Popcon=1176
-X-AppInstall-Section=main
-
-Categories=Viewer;Office;GTK;
-Comment=Lightweight PDF document viewer
-Comment[ca]=Visor de documents PDF lleuger
-Comment[es]=Visor de documentos PDF ligero
-Exec=epdfview %f
-GenericName=PDF Viewer
-GenericName[ca]=Visor PDF
-GenericName[es]=Visor PDF
-Icon=icon_epdfview-48
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=ePDFViewer
 Name[ca]=ePDFViewer
 Name[es]=ePDFViewer
-MimeType=application/pdf;
+GenericName=PDF Viewer
+GenericName[ca]=Visor PDF
+GenericName[es]=Visor PDF
+Comment=Lightweight PDF document viewer
+Comment[ca]=Visor de documents PDF lleuger
+Comment[es]=Visor de documentos PDF ligero
+Icon=icon_epdfview-48
+Exec=epdfview %f
 Terminal=false
-Type=Application
+Categories=Viewer;Office;GTK;
+MimeType=application/pdf;
+StartupNotify=false
+X-AppInstall-Package=epdfview
+X-AppInstall-Popcon=1176
+X-AppInstall-Section=main

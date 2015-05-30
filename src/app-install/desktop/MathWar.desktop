@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=MathWar
+Comment=A simple math game for kids
+Icon=mathwar
+Exec=mathwar
+Terminal=false
+Categories=Education;Math;
+StartupNotify=false
 X-AppInstall-Package=mathwar
 X-AppInstall-Popcon=32
 X-AppInstall-Section=main
-
-Name=MathWar
-Comment=A simple math game for kids
-Exec=mathwar
-Icon=mathwar
-Terminal=false
-Type=Application
-Categories=Education;Math;

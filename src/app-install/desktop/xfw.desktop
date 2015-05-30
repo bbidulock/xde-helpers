@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=xfe
-X-AppInstall-Popcon=155
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Xfwrite
 GenericName=Text Editor
 GenericName[cs]=Textový editor
@@ -22,10 +21,12 @@ Comment[fr]=Un éditeur de texte simple pour Xfe
 Comment[hu]=Egyszerű fájlszerkesztő Xfe-hez
 Comment[pt_BR]=Um simples editor de texto para o Xfe
 Comment[sv]=En enkel texteditor för Xfe
+Icon=xfw
 Exec=xfwrite
 Terminal=false
-Type=Application
-StartupNotify=true
-MimeType=text/plain;
-Icon=xfw
 Categories=Utility;TextEditor;
+MimeType=text/plain;
+StartupNotify=true
+X-AppInstall-Package=xfe
+X-AppInstall-Popcon=155
+X-AppInstall-Section=main

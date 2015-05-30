@@ -1,13 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=openarena
-X-AppInstall-Popcon=190
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=OpenArena
 Comment=A fast-paced 3D first-person shooter, similar to id Software Inc.'s Quake III Arena
 Comment[de]=Ein hektischer und netzwerkfähiger 3D Ego-Shooter, ähnlich zu Quake III Arena von id Software Inc.
+Icon=openarena128
 Exec=openarena
 Terminal=false
-Icon=openarena128
-Type=Application
 Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=openarena
+X-AppInstall-Popcon=190
+X-AppInstall-Section=main

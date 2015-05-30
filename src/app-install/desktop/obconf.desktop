@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=obconf
-X-AppInstall-Popcon=505
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Openbox Configuration Manager
 Name[ca]=Gestor de configuració de l'Openbox
@@ -16,8 +14,11 @@ Comment[es]=Configura i personaliza el gestor de ventanas Openbox
 Comment[zh_TW]=管理 Openbox 組態設定
 Icon=obconf
 Exec=obconf %f
+Terminal=false
 Categories=Settings;DesktopSettings;GTK;
 MimeType=application/x-openbox-theme;
 StartupNotify=true
-Terminal=false
 X-Desktop-File-Install-Version=0.17
+X-AppInstall-Package=obconf
+X-AppInstall-Popcon=505
+X-AppInstall-Section=main

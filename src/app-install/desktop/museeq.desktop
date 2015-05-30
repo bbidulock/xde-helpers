@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Museeq
+Comment=C++/QT3 Museek client
+Icon=museeq
+Exec=museeq
+Terminal=false
+Categories=Qt;Network
+StartupNotify=false
 X-AppInstall-Package=museeq
 X-AppInstall-Popcon=9
 X-AppInstall-Section=main
-
-Name=Museeq
-Exec=museeq
-Icon=museeq
-Type=Application
-Terminal=false
-Comment=C++/QT3 Museek client
-Categories=Qt;Network

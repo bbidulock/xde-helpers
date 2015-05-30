@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=gtkpod
-X-AppInstall-Popcon=197
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=gtkpod iPod Manager
 Name[es]=Administrador de iPod gtkpod
 Name[he]=תוכנת gtkpod מנהל ה־iPod
@@ -28,8 +27,11 @@ Comment[ro]=Gestionează muzica şi fişierele video pe un iPod Apple
 Comment[ru]=Менеджер музыки и видео для Apple iPod
 Comment[sv]=Hantera musik och video på en Apple iPod
 Comment[zh_CN]=管理Apple iPod的音乐和视频
-Exec=gtkpod
 Icon=gtkpod
+Exec=gtkpod
 Terminal=false
-Type=Application
 Categories=GTK;AudioVideo;
+StartupNotify=false
+X-AppInstall-Package=gtkpod
+X-AppInstall-Popcon=197
+X-AppInstall-Section=main

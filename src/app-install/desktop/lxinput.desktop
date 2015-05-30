@@ -1,19 +1,19 @@
 [Desktop Entry]
-X-AppInstall-Package=lxinput
-X-AppInstall-Popcon=141
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Keyboard and Mouse
 Name[ja]=キーボードとマウス
 Name[zh_TW]=鍵盤及滑鼠
-Icon=input-keyboard
-Exec=lxinput
 Comment=Configure keyboard, mouse, and other input devices
 Comment[ja]=キーボードやマウス、その他の入力機器の設定
 Comment[zh_TW]=設定鍵盤、滑鼠、及其他輸入裝置
-StartupNotify=true
+Icon=input-keyboard
+Exec=lxinput
 Terminal=false
-Categories=GTK;Settings;HardwareSettings;
 OnlyShowIn=LXDE;
-
+Categories=GTK;Settings;HardwareSettings;
+StartupNotify=true
+X-AppInstall-Package=lxinput
+X-AppInstall-Popcon=141
+X-AppInstall-Section=main

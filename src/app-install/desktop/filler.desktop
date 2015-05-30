@@ -1,12 +1,14 @@
 [Desktop Entry]
-X-AppInstall-Package=filler
-X-AppInstall-Popcon=7
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Filler
 Comment=Filler in Java Game
 Comment[pl]=Filler w Javie
 Icon=filler.png
 Exec=filler
-Terminal=0
-Type=Application
+Terminal=false
+StartupNotify=false
+X-AppInstall-Package=filler
+X-AppInstall-Popcon=7
+X-AppInstall-Section=main

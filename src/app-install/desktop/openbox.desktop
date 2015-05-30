@@ -1,16 +1,17 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Openbox
+Icon=openbox
+Exec=openbox
+Terminal=false
+NoDisplay=true
+StartupNotify=false
+X-GNOME-Autostart-Notify=true
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-WMName=Openbox
 X-AppInstall-Package=openbox
 X-AppInstall-Popcon=1673
 X-AppInstall-Section=main
-
-Encoding=UTF-8
-Name=Openbox
-Exec=openbox
-Icon=openbox
-NoDisplay=true
-Type=Application
-# name we put on the WM spec check window
-X-GNOME-WMName=Openbox
-X-GNOME-Autostart-Phase=WindowManager
-X-GNOME-Provides=windowmanager
-X-GNOME-Autostart-Notify=true

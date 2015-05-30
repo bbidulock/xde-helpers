@@ -1,13 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Uget
+Comment=Download multiple URLs and apply it to one of setting/queue.
+Icon=uget-icon
+Exec=uget-gtk %u
+Terminal=false
+Categories=Network;FileTransfer
+StartupNotify=false
 X-AppInstall-Package=uget
 X-AppInstall-Popcon=28
 X-AppInstall-Section=main
-
-Name=Uget
-Comment=Download multiple URLs and apply it to one of setting/queue.
-Exec=uget-gtk %u
-Icon=uget-icon
-Terminal=false
-Type=Application
-Categories=Network;FileTransfer
-

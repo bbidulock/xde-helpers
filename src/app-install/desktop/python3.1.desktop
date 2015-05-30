@@ -1,13 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Python (v3.1)
+Comment=Python Interpreter (v3.1)
+Icon=_usr_share_pixmaps_python3.1
+Exec=/usr/bin/python3.1
+Terminal=true
+Categories=Development;
+StartupNotify=true
 X-AppInstall-Package=python3.1
 X-AppInstall-Popcon=275
 X-AppInstall-Section=main
-
-Name=Python (v3.1)
-Comment=Python Interpreter (v3.1)
-Exec=/usr/bin/python3.1
-Icon=_usr_share_pixmaps_python3.1
-Terminal=true
-Type=Application
-Categories=Development;
-StartupNotify=true

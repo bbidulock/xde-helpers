@@ -1,15 +1,17 @@
 [Desktop Entry]
-X-AppInstall-Package=mtpaint
-X-AppInstall-Popcon=47
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=mtPaint graphic editor
 GenericName=Painting program
 Comment=painting program to create pixel art and manipulate digital photos
 Comment[es_ES]=programa de pintura para crear pixel art y manipular fotos digitales
 Comment[pt_BR]=programa de pintura para criar pixel art e manipular fotos digitais
-Type=Application
-Exec=mtpaint
 Icon=mtpaint
+Exec=mtpaint
+Terminal=false
 Categories=Graphics;RasterGraphics;
+StartupNotify=false
+X-AppInstall-Package=mtpaint
+X-AppInstall-Popcon=47
+X-AppInstall-Section=main

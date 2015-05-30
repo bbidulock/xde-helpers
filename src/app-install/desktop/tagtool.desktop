@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=tagtool
-X-AppInstall-Popcon=73
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Audio Tag Tool
 Name[bg]=Audio Tag Tool
 Name[cs]=Audio Tag Tool
@@ -21,8 +20,11 @@ Name[sv]=Audio Tag Tool
 Name[ua]=Audio Tag Tool
 Name[uk]=Audio Tag Tool
 Comment=MP3 and Ogg Vorbis tag editor
-Exec=tagtool
 Icon=TagTool
+Exec=tagtool
 Terminal=False
-Type=Application
 Categories=Audio;AudioVideo;AudioVideoEditing;
+StartupNotify=false
+X-AppInstall-Package=tagtool
+X-AppInstall-Popcon=73
+X-AppInstall-Section=main

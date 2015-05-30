@@ -1,14 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=KStreamRipper
+Comment=Streamripper Frontend
+Icon=kstreamripper
+Exec=kstreamripper
+Terminal=false
+Categories=AudioVideo;Audio;Tuner;Recorder;
+StartupNotify=false
 X-AppInstall-Package=kstreamripper
 X-AppInstall-Popcon=70
 X-AppInstall-Section=main
-
-Version=1.0
-Encoding=UTF-8
-Name=KStreamRipper
-Comment=Streamripper Frontend
-Exec=kstreamripper
-Icon=kstreamripper
-Type=Application
-Terminal=false
-Categories=AudioVideo;Audio;Tuner;Recorder;

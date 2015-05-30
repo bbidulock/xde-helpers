@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=xwelltris
-X-AppInstall-Popcon=9
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=XWelltris
 Comment=Play a 3D Tetris like game
@@ -10,3 +8,7 @@ Icon=xwelltris
 Exec=xwelltris
 Terminal=false
 Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=xwelltris
+X-AppInstall-Popcon=9
+X-AppInstall-Section=main

@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=ggz-gnome-client
-X-AppInstall-Popcon=11
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=GGZ-Gnome
 GenericName=Internet gaming center for GNOME
 GenericName[de]=Internet-Spielezentrum für GNOME
@@ -12,9 +11,11 @@ Comment=GGZ Core Client
 Comment[de]=GGZ-Core-Client
 Comment[fr]=Core Client GGZ
 Comment[pt]=Cliente núcleo do GGZ
-
-Type=Application
-Exec=ggz-gnome
 Icon=
+Exec=ggz-gnome
 Terminal=false
 Categories=X-GGZ;Network;GNOME;GTK
+StartupNotify=false
+X-AppInstall-Package=ggz-gnome-client
+X-AppInstall-Popcon=11
+X-AppInstall-Section=main

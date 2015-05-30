@@ -1,10 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=geany
-X-AppInstall-Popcon=928
-X-AppInstall-Section=main
-
-Type=Application
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Geany
 Name[ar]=Geany
 Name[ast]=Geany
@@ -134,11 +131,14 @@ Comment[uk]=Швидке та легке графічне середовище, 
 Comment[vi]=Một IDE nhanh và nhẹ nhàng dùng GTK2
 Comment[zh_CN]=GTK2 编写的轻快的 IDE
 Comment[zh_TW]=一個快速且輕巧的 GTK2 整合開發環境
+Icon=geany
 TryExec=/usr/bin/geany
 Exec=geany %F
-Icon=geany
 Terminal=false
 Categories=GTK;Development;IDE;
 MimeType=text/plain;text/x-chdr;text/x-csrc;text/x-c++hdr;text/x-c++src;text/x-java;text/x-dsrc;text/x-pascal;text/x-perl;text/x-python;application/x-php;application/x-httpd-php3;application/x-httpd-php4;application/x-httpd-php5;application/xml;text/html;text/css;text/x-sql;text/x-diff;
 StartupNotify=true
+X-AppInstall-Package=geany
+X-AppInstall-Popcon=928
+X-AppInstall-Section=main
 X-Arch-Package=geany 1.24.1-1

@@ -1,14 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=qtdmm
-X-AppInstall-Popcon=17
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=QtDMM
 GenericName=Digital Multimeter GUI
 Comment=Use a digital multimeter
-Exec=qtdmm
 Icon=qtdmm
+Exec=qtdmm
 Terminal=false
-Type=Application
 Categories=Utility;
+StartupNotify=false
+X-AppInstall-Package=qtdmm
+X-AppInstall-Popcon=17
+X-AppInstall-Section=main

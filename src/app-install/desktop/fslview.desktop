@@ -1,16 +1,17 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=FSLView
+GenericName=MRI Image Viewer
+GenericName[de]=Betrachter für MRT-Daten
+Comment=This program is part of FSL
+Comment[de]=Dieses Programm gehört zu FSL
+Icon=fslview.xpm
+Exec=fslview %F
+Terminal=false
+Categories=Education;Graphics;Science;DataVisualization;MedicalSoftware;Qt;Viewer;
+StartupNotify=false
 X-AppInstall-Package=fslview
 X-AppInstall-Popcon=31
 X-AppInstall-Section=main
-
-Encoding=UTF-8
-GenericName=MRI Image Viewer
-GenericName[de]=Betrachter für MRT-Daten
-Name=FSLView
-Exec=fslview %F
-Type=Application
-Terminal=false
-Comment=This program is part of FSL
-Comment[de]=Dieses Programm gehört zu FSL
-Categories=Education;Graphics;Science;DataVisualization;MedicalSoftware;Qt;Viewer;
-Icon=fslview.xpm

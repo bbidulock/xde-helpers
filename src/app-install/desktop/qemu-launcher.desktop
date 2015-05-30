@@ -1,16 +1,16 @@
 [Desktop Entry]
-X-AppInstall-Package=qemu-launcher
-X-AppInstall-Popcon=161
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Qemu Launcher
 Name[lt]=Qemu Paleidėjas
 Comment=Manage virtual machine configurations
 Comment[lt]=Tvarkykite virtualaus kompiuterio konfigūracijas
+Icon=qemu-launcher.svg
 Exec=qemu-launcher
 Terminal=false
-Type=Application
-Icon=qemu-launcher.svg
-StartupNotify=true
 Categories=Application;Emulator;Utility
+StartupNotify=true
+X-AppInstall-Package=qemu-launcher
+X-AppInstall-Popcon=161
+X-AppInstall-Section=main

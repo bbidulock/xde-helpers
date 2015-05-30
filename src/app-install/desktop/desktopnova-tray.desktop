@@ -1,13 +1,14 @@
 [Desktop Entry]
-X-AppInstall-Package=desktopnova-tray
-X-AppInstall-Popcon=38
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=DesktopNova-Tray
 Comment=A Tray-Icon for DesktopNova
 Icon=desktopnova
 Exec=desktopnova-tray
+Terminal=false
 Categories=GNOME;Application;Utility;
-
+StartupNotify=false
+X-AppInstall-Package=desktopnova-tray
+X-AppInstall-Popcon=38
+X-AppInstall-Section=main

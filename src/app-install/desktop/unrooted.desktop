@@ -1,12 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=njplot
-X-AppInstall-Popcon=81
-X-AppInstall-Section=main
-
 Version=1.0
-Terminal=false
-Icon=unrooted
-Exec=unrooted %f
+Encoding=UTF-8
+Type=Application
 Name=NJplot (unrooted)
 Name[en]=NJplot (unrooted)
 Name[fr]=NJplot (non enraciné)
@@ -19,6 +14,12 @@ Comment=Displays and exports in PostScript format unrooted phylogenetic trees
 Comment[en]=Displays and exports in PostScript format unrooted phylogenetic trees
 Comment[fr]=Affiche et exporte au format PostScript des arbres phyolgénétiques non enracinés
 Comment[pt_BR]=Exibe e exporta em formato PostScript árvores filogenéticas não enraizadas
-Type=Application
+Icon=unrooted
+Exec=unrooted %f
+Terminal=false
 Categories=Biology;Science;Education;
 MimeType=text/x-clustalw-tree;chemical/njplot;
+StartupNotify=false
+X-AppInstall-Package=njplot
+X-AppInstall-Popcon=81
+X-AppInstall-Section=main

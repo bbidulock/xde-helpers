@@ -1,14 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=xboard
-X-AppInstall-Popcon=117
-X-AppInstall-Section=main
-
-Type=Application
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=XBoard
 GenericName=X Window Chess Board
 Comment=Use an X Windows Chess Board
-Exec=xboard
 Icon=xboard
+Exec=xboard
 Terminal=false
 Categories=Game;BoardGame;
+StartupNotify=false
+X-AppInstall-Package=xboard
+X-AppInstall-Popcon=117
+X-AppInstall-Section=main

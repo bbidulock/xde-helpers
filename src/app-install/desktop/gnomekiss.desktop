@@ -1,14 +1,16 @@
 [Desktop Entry]
-X-AppInstall-Package=gnomekiss
-X-AppInstall-Popcon=22
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=GnomeKiSS
 Name[es]=GnomeKiSS
 Comment=Gnome's KiSSeake dolls viewer
 Comment[es]=EL visor de muñecas KiSSeake de Gnome
-Exec=gnomekiss
 Icon=_usr_share_pixmaps_gnomekiss_gnome-kiss
+Exec=gnomekiss
 Terminal=false
-Type=Application
 Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=gnomekiss
+X-AppInstall-Popcon=22
+X-AppInstall-Section=main

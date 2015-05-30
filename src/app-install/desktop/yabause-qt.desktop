@@ -1,11 +1,14 @@
 [Desktop Entry]
-X-AppInstall-Package=yabause-qt
-X-AppInstall-Popcon=11
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Yabause (Qt port)
 Comment=Sega Saturn emulator
-Exec=yabause-qt
 Icon=yabause
+Exec=yabause-qt
+Terminal=false
 Categories=KDE;Qt;Game;
+StartupNotify=false
+X-AppInstall-Package=yabause-qt
+X-AppInstall-Popcon=11
+X-AppInstall-Section=main

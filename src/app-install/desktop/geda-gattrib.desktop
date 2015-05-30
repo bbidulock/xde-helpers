@@ -1,10 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=geda-gattrib
-X-AppInstall-Popcon=138
-X-AppInstall-Section=main
-
 Version=1.0
-GenericName=gattrib
+Encoding=UTF-8
+Type=Application
 Name=gEDA Attribute Editor
 Name[ar]=محرّر السّمة ل‍ gEDA
 Name[bg]=gEDA Едитор на атрибути
@@ -22,6 +19,7 @@ Name[ru]=gEDA редактор атрибутов
 Name[tr]=gEDA Özellik Düzenleyicisi
 Name[zh_CN]=gEDA 属性编辑器
 Name[zh_TW]=gEDA 屬性編輯器
+GenericName=gattrib
 Comment=Manipulate component attributes with gattrib
 Comment[ar]=عالج سمات المكوّن ب‍ gattrib
 Comment[bg]=Манипулирай атрибутите на компонента с gattrib
@@ -39,9 +37,12 @@ Comment[ru]=Редактировать атрибуты компонента с 
 Comment[tr]=Bileşen özelliklerini gattrib ile düzenle
 Comment[zh_CN]=使用 gattrib 操作组件的属性
 Comment[zh_TW]=使用gattrib修改元件屬性
-Type=Application
-Exec=gattrib %F
 Icon=geda-gattrib
-#MimeType=application/x-geda-schematic;application/x-geda-symbol;
+Exec=gattrib %F
+Terminal=false
 Categories=Engineering;Electronics;
+StartupNotify=false
+X-AppInstall-Package=geda-gattrib
+X-AppInstall-Popcon=138
+X-AppInstall-Section=main
 X-Arch-Package=geda-gaf 1.8.2-1

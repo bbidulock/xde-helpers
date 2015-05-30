@@ -1,14 +1,16 @@
 [Desktop Entry]
-X-AppInstall-Package=qcad
-X-AppInstall-Popcon=1111
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=QCad
 Comment=A professional CAD System
 Comment[es]=Un sistema CAD profesional
-Exec=qcad %F
 Icon=qcad
+Exec=qcad %F
+Terminal=false
 Categories=Graphics;Engineering
 MimeType=image/vnd.dxf
+StartupNotify=false
+X-AppInstall-Package=qcad
+X-AppInstall-Popcon=1111
+X-AppInstall-Section=main

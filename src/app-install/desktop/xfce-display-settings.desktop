@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=xfce4-settings
-X-AppInstall-Popcon=1263
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Display
 Name[ast]=Pantalla
 Name[ca]=Pantalla
@@ -66,11 +64,13 @@ Comment[uk]=Налаштувати параметри екрану та клав
 Comment[ur]=سکرین کی ترتیبات اور خاکہ مرتب کریں
 Comment[ur_PK]=سکرین کی ترتیبات اور خاکہ مرتب کریں
 Comment[zh_CN]=设置屏幕参数及布局
-Exec=xfce4-display-settings
 Icon=video-display
+Exec=xfce4-display-settings
 Terminal=false
-Type=Application
+OnlyShowIn=XFCE;
 Categories=X-XFCE;Settings;DesktopSettings;X-XfceSettingsDialog;
 StartupNotify=true
-OnlyShowIn=XFCE;
+X-AppInstall-Package=xfce4-settings
+X-AppInstall-Popcon=1263
+X-AppInstall-Section=main
 X-XfceHelpFile=xfce4-settings.html

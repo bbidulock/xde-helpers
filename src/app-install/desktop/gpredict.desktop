@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=GNOME Predict
+Comment=Satellite tracker
+Icon=gpredict
+Exec=gpredict
+Terminal=false
+Categories=Network;HamRadio;Education;Astronomy;Science;
+StartupNotify=false
 X-AppInstall-Package=gpredict
 X-AppInstall-Popcon=83
 X-AppInstall-Section=main
-
-Name=GNOME Predict
-Comment=Satellite tracker
-Exec=gpredict
-Icon=gpredict
-Terminal=false
-Type=Application
-Categories=Network;HamRadio;Education;Astronomy;Science;

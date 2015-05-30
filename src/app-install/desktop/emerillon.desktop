@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=emerillon
-X-AppInstall-Popcon=22
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Emerillon
 Name[ar]=إميرِلّون
 Name[da]=Emerillon
@@ -53,9 +52,11 @@ Comment[lv]=Pārlūkot kartes
 Comment[pt_BR]=Navegue por mapas
 Comment[sl]=Brskanje med zemljevidi
 Comment[sv]=Bläddra i kartor
-Exec=emerillon %U
 Icon=emerillon
-StartupNotify=true
+Exec=emerillon %U
 Terminal=false
-Type=Application
 Categories=GNOME;GTK;Utility;Viewer;DataVisualization;
+StartupNotify=true
+X-AppInstall-Package=emerillon
+X-AppInstall-Popcon=22
+X-AppInstall-Section=main

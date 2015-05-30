@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=glade-gnome
-X-AppInstall-Popcon=104
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=Glade Interface Designer
 Name[ar]=مخطط الواجهة غلايد
 Name[bg]=Проектиране на графични интерфейси (Glade)
@@ -133,15 +131,17 @@ Comment[vi]=Tạo hay mở bản đồ án thiết kế giao diện người dù
 Comment[zh_CN]=新建或打开GTK+程序用户界面设计
 Comment[zh_HK]=建立或開啟 GTK+ 應用程式的使用者介面設計
 Comment[zh_TW]=建立或開啟 GTK+ 應用程式的使用者介面設計
+Icon=glade-3
 Exec=glade-3 %F
 Terminal=false
-StartupNotify=true
-Type=Application
-Icon=glade-3
 Categories=GNOME;GTK;Development;GUIDesigner;
 MimeType=application/x-glade;
+StartupNotify=true
 X-GNOME-DocPath=glade/glade.xml
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=glade3
-X-GNOME-Bugzilla-Version=3.6.7
 X-GNOME-Bugzilla-Component=general
+X-GNOME-Bugzilla-Version=3.6.7
+X-AppInstall-Package=glade-gnome
+X-AppInstall-Popcon=104
+X-AppInstall-Section=main

@@ -1,14 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Freedroid RPG
+Comment=Isometric role playing game
+Icon=_usr_share_pixmaps_freedroidrpg
+Exec=/usr/games/freedroidRPG
+Terminal=false
+Categories=Game;RolePlaying;
+StartupNotify=false
 X-AppInstall-Package=freedroidrpg
 X-AppInstall-Popcon=24
 X-AppInstall-Section=main
-
-Version=1.0
-Type=Application
-Encoding=UTF-8
-Name=Freedroid RPG
-Comment=Isometric role playing game
-Exec=/usr/games/freedroidRPG
-Categories=Game;RolePlaying;
-Icon=_usr_share_pixmaps_freedroidrpg
-

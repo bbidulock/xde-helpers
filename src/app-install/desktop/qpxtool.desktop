@@ -1,16 +1,17 @@
 [Desktop Entry]
-X-AppInstall-Package=qpxtool
-X-AppInstall-Popcon=40
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=QPxTool
 GenericName=CD/DVD media quality checker
 GenericName[ru]=Проверка качества носителей CD/DVD
-Type=Application
-Exec=qpxtool
-Icon=qpxtool
 Comment=CD/DVD media quality checker
 Comment[ru]=Проверка качества носителей CD/DVD
+Icon=qpxtool
+Exec=qpxtool
+Terminal=false
 Categories=System;
 StartupNotify=true
-Terminal=false
+X-AppInstall-Package=qpxtool
+X-AppInstall-Popcon=40
+X-AppInstall-Section=main

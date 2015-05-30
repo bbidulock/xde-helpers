@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=audacity
-X-AppInstall-Popcon=4237
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Audacity
 Name[de]=Audacity
 Name[ru]=Audacity
@@ -12,13 +11,12 @@ GenericName[ru]=Редактор звуковых файлов
 Comment=Record and edit audio files
 Comment[de]=Audio-Dateien aufnehmen und bearbeiten
 Comment[ru]=Запись и редактирование звуковых файлов
-
 Icon=audacity
-
-Type=Application
-Categories=AudioVideo;Audio;AudioVideoEditing;
-
 Exec=audacity
-StartupNotify=false
 Terminal=false
+Categories=AudioVideo;Audio;AudioVideoEditing;
 MimeType=application/ogg;audio/basic;audio/mpeg;audio/x-aiff;audio/x-mp3;audio/x-wav;application/x-audacity-project;
+StartupNotify=false
+X-AppInstall-Package=audacity
+X-AppInstall-Popcon=4237
+X-AppInstall-Section=main

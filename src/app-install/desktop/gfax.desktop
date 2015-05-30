@@ -1,16 +1,16 @@
 [Desktop Entry]
-X-AppInstall-Package=gfax
-X-AppInstall-Popcon=31
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Gfax Facsimile Program
 Name[de]=Gfax-Faxprogramm
 Comment=Send and Receive Facsimiles
 Comment[de]=Faxe versenden und empfangen
-Exec=gfax
 Icon=gfax
-StartupNotify=true
+Exec=gfax
 Terminal=false
-Type=Application
 Categories=GNOME;GTK;Office;
+StartupNotify=true
+X-AppInstall-Package=gfax
+X-AppInstall-Popcon=31
+X-AppInstall-Section=main

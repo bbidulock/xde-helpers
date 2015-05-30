@@ -1,14 +1,15 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=eXtrema
+Comment=eXtrema
+Icon=extrema
+Exec=/usr/bin/extrema
+Terminal=false
+Categories=Education;Science;Math;DataVisualization;NumericalAnalysis;
+StartupNotify=false
+X-Desktop-File-Install-Version=0.10
 X-AppInstall-Package=extrema
 X-AppInstall-Popcon=13
 X-AppInstall-Section=main
-
-Name=eXtrema
-Comment=eXtrema
-Exec=/usr/bin/extrema
-Icon=extrema
-Terminal=0
-Type=Application
-Encoding=UTF-8
-X-Desktop-File-Install-Version=0.10
-Categories=Education;Science;Math;DataVisualization;NumericalAnalysis;

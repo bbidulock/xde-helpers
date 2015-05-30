@@ -1,9 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=virtaal
-X-AppInstall-Popcon=14
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Virtaal
 Name[af]=Virtaal
@@ -13,8 +10,8 @@ Name[ast]=Virtaal
 Name[be]=Virtaal
 Name[bg]=Virtaal
 Name[bn_IN]=Virtaal
-Name[ca]=Virtaal
 Name[ca@valencia]=Virtaal
+Name[ca]=Virtaal
 Name[de]=Virtaal
 Name[es]=Virtaal
 Name[eu]=Virtaal
@@ -52,8 +49,8 @@ GenericName[ast]=Ferramienta de traducción
 GenericName[be]=Прылада для перакладу
 GenericName[bg]=Инструмент за преводи
 GenericName[bn_IN]=অনুবাদ ব্যবস্থা
-GenericName[ca]=Eina de traducció
 GenericName[ca@valencia]=Eina de traducció
+GenericName[ca]=Eina de traducció
 GenericName[de]=Übersetzungstool
 GenericName[es]=Herramienta de traducción
 GenericName[eu]=Itzulpen-tresna
@@ -91,8 +88,8 @@ Comment[ast]=Una ferramienta de traducción p'ayudar a un traductor humanu a tor
 Comment[be]=Праграма, якая дапамагае чалавеку перакладаць розныя файлы на іншыя мовы
 Comment[bg]=Инструмент за преводи при ръчен превод на файлове на други езици
 Comment[bn_IN]=এক ভাষা থেকে অন্য ভাষায় অনুবাদের উদ্দেশ্যে অনুবাদকদের জন্য উপলব্ধ একটি অনুবাদ ব্যবস্থা।
-Comment[ca]=Una eina de traducció per a ajudar un traductor humà a traduir fitxers en altres llengües
 Comment[ca@valencia]=Una eina de traducció per a ajudar un traductor humà a traduir fitxers en altres llengües
+Comment[ca]=Una eina de traducció per a ajudar un traductor humà a traduir fitxers en altres llengües
 Comment[de]=Ein Übersetzungstool, das Übersetzern dabei hilft, ihre tägliche Arbeit zu erledigen
 Comment[es]=Una herramienta de traducción para ayudar a un traductor humano a traducir archivos a otros idiomas
 Comment[eu]=Gizakiei fitxategiak itzultzen laguntzeko itzulpen-tresna
@@ -122,12 +119,12 @@ Comment[uk]=Інструмент перекладу, який допоможе �
 Comment[vi]=Một công cụ thông dịch để giúp con người dịch sang các ngôn ngữ khác
 Comment[zh_TW]=一個幫助人類翻譯人員翻譯檔案的工具
 Comment[zu]=Iprogramu yokuhumusha ukusiza umhumushi ukuhumusha amafayela ngezilimi ezinye
-Exec=virtaal %f
 Icon=virtaal
-MimeType=text/x-gettext-translation;text/x-gettext-translation-template;application/x-gettext;application/x-gettext-translation;application/x-xliff+xml;application/x-xliff;text/x-wordfast;application/x-tmx;application/x-tbx;application/x-linguist;application/x-qph;application/x-qm;
-# Not yet supported
-# application/x-sdf;
-# Monolingual
-# application/x-ini;
-# application/x-properties;
+Exec=virtaal %f
+Terminal=false
 Categories=Development;Translation;GTK;
+MimeType=text/x-gettext-translation;text/x-gettext-translation-template;application/x-gettext;application/x-gettext-translation;application/x-xliff+xml;application/x-xliff;text/x-wordfast;application/x-tmx;application/x-tbx;application/x-linguist;application/x-qph;application/x-qm;
+StartupNotify=false
+X-AppInstall-Package=virtaal
+X-AppInstall-Popcon=14
+X-AppInstall-Section=main

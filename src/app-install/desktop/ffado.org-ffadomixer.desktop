@@ -1,13 +1,16 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=ffado-mixer
+GenericName=
+Comment=
+Icon=ffado
+Exec=ffado-mixer
+Terminal=false
+Categories=Mixer;Audio;AudioVideo;HardwareSettings;Qt
+Path=
+StartupNotify=false
 X-AppInstall-Package=ffado-mixer-qt4
 X-AppInstall-Popcon=9
 X-AppInstall-Section=main
-
-Comment=
-Exec=ffado-mixer
-GenericName=
-Icon=ffado
-Name=ffado-mixer
-Path=
-Type=Application
-Categories=Mixer;Audio;AudioVideo;HardwareSettings;Qt

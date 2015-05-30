@@ -1,13 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=projectm-pulseaudio
-X-AppInstall-Popcon=17
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=projectM PulseAudio Visualization
 GenericName=PulseAudio Stream Visualization
 Comment=Visualization of PulseAudio streams with projectM
-Exec=projectM-pulseaudio
 Icon=prjm16-transparent
+Exec=projectM-pulseaudio
 Terminal=false
-Type=Application
 Categories=AudioVideo;Audio;
+StartupNotify=false
+X-AppInstall-Package=projectm-pulseaudio
+X-AppInstall-Popcon=17
+X-AppInstall-Section=main

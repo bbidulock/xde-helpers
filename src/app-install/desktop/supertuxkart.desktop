@@ -1,18 +1,19 @@
 [Desktop Entry]
-X-AppInstall-Package=supertuxkart
-X-AppInstall-Popcon=236
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Supertuxkart
 GenericName=Supertuxkart
 GenericName[ro_RO]=Supertuxcart
-Icon=supertuxkart
 Comment=a kart racing game
+Comment[de_DE]=ein Kart-Rennspiel
 Comment[fr_FR]=un jeu de karting
 Comment[ro_RO]=un joc de curse cu carturi
-Comment[de_DE]=ein Kart-Rennspiel
+Icon=supertuxkart
 Exec=supertuxkart
 Terminal=false
-StartupNotify=false
-Type=Application
 Categories=Game;ActionGame;Simulation;SportsGame;3DGraphics;
+StartupNotify=false
+X-AppInstall-Package=supertuxkart
+X-AppInstall-Popcon=236
+X-AppInstall-Section=main

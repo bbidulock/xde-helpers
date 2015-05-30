@@ -1,13 +1,13 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=UPnP AV Control Point
+Icon=_usr_share_gupnp-tools_pixmaps_av-cp
+Exec=gupnp-av-cp
+Terminal=false
+Categories=GTK;Development;
+StartupNotify=true
 X-AppInstall-Package=gupnp-tools
 X-AppInstall-Popcon=42
 X-AppInstall-Section=main
-
-Encoding=UTF-8
-Name=UPnP AV Control Point
-Categories=GTK;Development;
-Exec=gupnp-av-cp
-Icon=_usr_share_gupnp-tools_pixmaps_av-cp
-Terminal=false
-Type=Application
-StartupNotify=true

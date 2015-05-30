@@ -1,18 +1,18 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=CMake
+Comment=Cross-platform buildsystem
+Icon=CMakeSetup
+TryExec=/usr/bin/cmake-gui
+Exec=cmake-gui %f
+X-MultipleArgs=false
+Terminal=false
+Categories=Development;
+MimeType=application/x-cmakecache;
+StartupNotify=true
 X-AppInstall-Package=cmake-qt-gui
 X-AppInstall-Popcon=83
 X-AppInstall-Section=main
-
-Version=1.0
-Name=CMake
-Comment=Cross-platform buildsystem
-TryExec=/usr/bin/cmake-gui
-Exec=cmake-gui %f
-Icon=CMakeSetup
-Terminal=false
-X-MultipleArgs=false
-Type=Application
-Categories=Development;
-StartupNotify=true
-MimeType=application/x-cmakecache;
 X-Arch-Package=cmake 3.2.2-1

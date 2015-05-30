@@ -1,10 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=imagination
-X-AppInstall-Popcon=41
-X-AppInstall-Section=main
-
-Type=Application
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Imagination
 Name[cs]=Imagination
 Name[de]=Imagination
@@ -44,8 +41,11 @@ Comment[ru]=Небольшая программа для создания DVD с
 Comment[sl_SI]=Lahki GTK+2 program za izdelavo DVD diaprojekcij
 Comment[sv]=En resurssnål DVD-bildspelsskapare som använder GTK+2
 Comment[zh_TW]=一個GTK+2介面下的簡易DVD影片秀製作工具
-Exec=imagination %F
 Icon=imagination
+Exec=imagination %F
 Terminal=false
 Categories=AudioVideo;
 StartupNotify=true
+X-AppInstall-Package=imagination
+X-AppInstall-Popcon=41
+X-AppInstall-Section=main

@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=parsec47
-X-AppInstall-Popcon=10
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=PARSEC47
 GenericName=
@@ -11,4 +9,8 @@ Icon=parsec47
 Exec=parsec47
 Terminal=false
 Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=parsec47
+X-AppInstall-Popcon=10
+X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390

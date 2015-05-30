@@ -1,10 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=deja-dup
-X-AppInstall-Popcon=98
-X-AppInstall-Section=main
-
 Version=1.0
-
+Encoding=UTF-8
+Type=Application
 Name=Déjà Dup
 Name[ar]=ديجا دوب
 Name[bg]=Déjà Dup
@@ -140,13 +137,13 @@ Comment[tr]=Dosyalarınızı yedekleyin
 Comment[uk]=Резервне копіювання Ваших файлів
 Comment[zh_CN]=备份您的文件
 Comment[zh_TW]=備份您的檔案
-
 Icon=deja-dup
 TryExec=deja-dup
 Exec=deja-dup
-
-StartupNotify=true
-
-Type=Application
+Terminal=false
 Categories=GNOME;GTK;System;Utility;Archiving;
+StartupNotify=true
+X-AppInstall-Package=deja-dup
+X-AppInstall-Popcon=98
+X-AppInstall-Section=main
 X-Arch-Package=deja-dup 34.0-1

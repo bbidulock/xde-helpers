@@ -1,13 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=GNU Privacy Assistant
+Name[en_US.ISO8859-1]=GNU Privacy Assistant
+Icon=gpa.png
+Exec=gpa
+Terminal=false
+Categories=GTK;Application;Security;Utility;
+StartupNotify=false
 X-AppInstall-Package=gpa
 X-AppInstall-Popcon=81
 X-AppInstall-Section=main
-
-Name=GNU Privacy Assistant
-Name[en_US.ISO8859-1]=GNU Privacy Assistant
-Exec=gpa
-Icon=gpa.png
-Terminal=false
-Encoding=UTF-8
-Type=Application
-Categories=GTK;Application;Security;Utility;

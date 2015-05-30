@@ -1,11 +1,14 @@
 [Desktop Entry]
-X-AppInstall-Package=fmit
-X-AppInstall-Popcon=41
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=fmit
 Comment=Music instrument tuner
-Exec=fmit
 Icon=mix_mic
+Exec=fmit
+Terminal=false
 Categories=Qt;AudioVideo
+StartupNotify=false
+X-AppInstall-Package=fmit
+X-AppInstall-Popcon=41
+X-AppInstall-Section=main

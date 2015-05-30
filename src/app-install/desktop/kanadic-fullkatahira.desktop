@@ -1,10 +1,13 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Hira Drill
+Icon=_usr_share_pixmaps_kdrill
+Exec=/usr/bin/kdrill -edictfile /usr/share/edict/hira.edic.gz -kdictfile none
+Terminal=false
+Categories=Game;LogicGame
+StartupNotify=false
 X-AppInstall-Package=kanadic
 X-AppInstall-Popcon=0
 X-AppInstall-Section=main
-
-Name=Hira Drill
-Type=Application
-Icon=_usr_share_pixmaps_kdrill
-Exec=/usr/bin/kdrill -edictfile /usr/share/edict/hira.edic.gz -kdictfile none
-Categories=Game;LogicGame

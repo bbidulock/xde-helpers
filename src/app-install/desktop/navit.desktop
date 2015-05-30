@@ -1,21 +1,21 @@
 [Desktop Entry]
-X-AppInstall-Package=navit
-X-AppInstall-Popcon=39
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Navit
 Name[de]=Navit
 Name[fr]=Navit
+GenericName=Navit
+GenericName[de]=Navit
 Comment=The open source vector based navigation program with routing engine
 Comment[de]=Ein vektorbasiertes Navigationsprogramm
 Comment[fr]=Le logiciel opensource de navigation vectorielle
-Exec=navit
 Icon=navit
-StartupNotify=true
+Exec=navit
 Terminal=false
-Type=Application
 Categories=GTK;Utility;Geography;
-GenericName=Navit
-GenericName[de]=Navit
+StartupNotify=true
+X-AppInstall-Package=navit
+X-AppInstall-Popcon=39
+X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,i386,ia64,mipsel

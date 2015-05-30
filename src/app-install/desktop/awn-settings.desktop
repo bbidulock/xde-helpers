@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=awn-settings
-X-AppInstall-Popcon=203
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Awn Settings
 Name[ar]=إعدادت ملاح النوافذ أفنت
@@ -73,7 +71,11 @@ Comment[uk]=Керування параметрами Awn, кнопками за
 Comment[vi]=Quản lý tùy chỉnh, bộ khởi chạy, tiểu dụng và diện mạo
 Comment[zh_CN]=管理 Awn 首选项、启动器、小程序和主题
 Comment[zh_TW]=管理 Awn 的偏好設定、啟動器、小程式和主題
-Exec=awn-settings
 Icon=awn-settings
+Exec=awn-settings
+Terminal=false
 Categories=Settings;DesktopSettings;GTK;
-
+StartupNotify=false
+X-AppInstall-Package=awn-settings
+X-AppInstall-Popcon=203
+X-AppInstall-Section=main

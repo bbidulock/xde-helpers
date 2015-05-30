@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=gadmin-dhcpd
-X-AppInstall-Popcon=38
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=GADMIN-DHCPD
 Name[de]=GADMIN-DHCPD
 Name[es]=GADMIN-DHCPD
@@ -12,15 +10,18 @@ Name[fr]=GADMIN-DHCPD
 Name[ko]=GADMIN-DHCPD
 Name[no]=GADMIN-DHCPD
 Name[pt_BR]=GADMIN-DHCPD
+Name[ro]=GADMIN-DHCPD
 Name[sl]=GADMIN-DHCPD
 Name[sv]=GADMIN-DHCPD
 Name[uk]=GADMIN-DHCPD
-Name[ro]=GADMIN-DHCPD
 Name[zh_TW]=GADMIN-DHCPD
 GenericName=GADMIN-DHCPD
 Comment=DHCPD DHCP server administration
-Exec=su-to-root -X -c /usr/sbin/gadmin-dhcpd
 Icon=gadmin-dhcpd
+Exec=su-to-root -X -c /usr/sbin/gadmin-dhcpd
 Terminal=false
-Type=Application
 Categories=GTK;System;
+StartupNotify=false
+X-AppInstall-Package=gadmin-dhcpd
+X-AppInstall-Popcon=38
+X-AppInstall-Section=main

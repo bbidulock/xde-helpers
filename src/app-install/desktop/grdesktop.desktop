@@ -1,18 +1,18 @@
 [Desktop Entry]
-X-AppInstall-Package=grdesktop
-X-AppInstall-Popcon=350
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Remotedesktop Client
 Comment=Connect to a remote Windows Terminal-Server
 Comment[de]=Verbindet zu einem entfernten Windows Terminal-Server
-Exec=grdesktop
 Icon=grdesktop.png
+Exec=grdesktop
 Terminal=false
-Type=Application
-Version=1.0
 Categories=Network;X-Red-Hat-Base;
-Encoding=UTF-8
+StartupNotify=false
+X-AppInstall-Package=grdesktop
+X-AppInstall-Popcon=350
+X-AppInstall-Section=main
 
 [Desktop Action Full]
 Exec=grdesktop

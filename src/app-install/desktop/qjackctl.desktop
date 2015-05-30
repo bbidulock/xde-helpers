@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=JACK Control
+Comment=QT Jack Control Interface
+Icon=qjackctl.xpm
+Exec=/usr/bin/qjackctl
+Terminal=false
+Categories=Application;AudioVideo;Audio;
+StartupNotify=false
 X-AppInstall-Package=qjackctl
 X-AppInstall-Popcon=615
 X-AppInstall-Section=main
-
-Name=JACK Control
-Comment=QT Jack Control Interface
-Exec=/usr/bin/qjackctl
-Terminal=false
-Type=Application
-Icon=qjackctl.xpm
-Categories=Application;AudioVideo;Audio;

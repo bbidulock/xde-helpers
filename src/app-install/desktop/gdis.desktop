@@ -1,13 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=gdis
-X-AppInstall-Popcon=48
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=GDIS Molecule Modeller
 GenericName=Molecule Modeller
 Comment=Model and manipulate molecules, and create high-quality renderings of them
-Type=Application
-Exec=gdis
 Icon=gdis
+Exec=gdis
+Terminal=false
 Categories=GTK;Science;Chemistry;Education;
+StartupNotify=false
+X-AppInstall-Package=gdis
+X-AppInstall-Popcon=48
+X-AppInstall-Section=main

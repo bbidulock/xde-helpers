@@ -1,12 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Berusky
+Comment=Logic game based on Sokoban(TM)
+Icon=berusky
+Exec=berusky
+Terminal=false
+Categories=Game;LogicGame;
+StartupNotify=false
 X-AppInstall-Package=berusky
 X-AppInstall-Popcon=23
 X-AppInstall-Section=main
-
-Name=Berusky
-Comment=Logic game based on Sokoban(TM)
-Exec=berusky
-Icon=berusky
-Terminal=false
-Type=Application
-Categories=Game;LogicGame;

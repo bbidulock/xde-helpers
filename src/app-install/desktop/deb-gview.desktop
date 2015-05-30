@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=deb-gview
-X-AppInstall-Popcon=133
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Debian Package Viewer
 Name[cs]=Prohlížeč debianích balíků
 Name[de]=Debian-Paketbetrachter
@@ -29,10 +28,12 @@ Comment[ru]=Программа просмотра пакетов Debian
 Comment[sk]=Prehliadač súborov balíkov Debianu
 Comment[sv]=Visare för Debian-paketfiler
 Comment[vi]=Bộ xem tập tin gói Debian
-Exec=deb-gview
 Icon=deb-gview.xpm
+Exec=deb-gview
 Terminal=false
 Categories=Development;Building;GNOME;
-Type=Application
 StartupNotify=false
 X-SingleInstance=false
+X-AppInstall-Package=deb-gview
+X-AppInstall-Popcon=133
+X-AppInstall-Section=main

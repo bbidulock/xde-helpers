@@ -1,16 +1,17 @@
 [Desktop Entry]
-X-AppInstall-Package=gwrite
-X-AppInstall-Popcon=19
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=GWrite
 Name[zh_CN]=写字板
 Comment=Simple text editor
 Comment[zh_CN]=HTML 写字板
-Exec=gwrite %f
 Icon=gwrite
+Exec=gwrite %f
 Terminal=false
-Type=Application
-MimeType=text/html
 Categories=GTK;Utility;TextEditor;
+MimeType=text/html
+StartupNotify=false
+X-AppInstall-Package=gwrite
+X-AppInstall-Popcon=19
+X-AppInstall-Section=main

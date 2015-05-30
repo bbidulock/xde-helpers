@@ -1,18 +1,17 @@
 [Desktop Entry]
-X-AppInstall-Package=ggz-kde-games
-X-AppInstall-Popcon=14
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
-
+Type=Application
 Name=Keepalive
 GenericName=Online roleplaying game
 GenericName[de]=Online-Rollenspiel
 Comment=GGZ Roleplay game
 Comment[de]=GGZ Rollenspiel
-
-Type=Application
-Exec=/usr/lib/ggz/keepalive
 Icon=keepalive
+Exec=/usr/lib/ggz/keepalive
 Terminal=false
 Categories=X-GGZ-Games;RolePlaying;Game;KDE;Qt;
+StartupNotify=false
+X-AppInstall-Package=ggz-kde-games
+X-AppInstall-Popcon=14
+X-AppInstall-Section=main

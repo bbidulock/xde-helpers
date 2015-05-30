@@ -1,11 +1,13 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Iceape Mail & Newsgroups
+Icon=iceape-mailnews
+Exec=iceape -mail
+Terminal=false
+Categories=GTK;Email;Network;
+StartupNotify=false
 X-AppInstall-Package=iceape-mailnews
 X-AppInstall-Popcon=279
 X-AppInstall-Section=main
-
-Name=Iceape Mail & Newsgroups
-Exec=iceape -mail
-Terminal=false
-Type=Application
-Categories=GTK;Email;Network;
-Icon=iceape-mailnews

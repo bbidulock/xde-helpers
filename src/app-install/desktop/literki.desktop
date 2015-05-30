@@ -1,15 +1,16 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Literki
+Comment=Hacker's keyboard
+Icon=literki
+Exec=literki
+Terminal=false
+Categories=Application;Utility
+MimeType=text/x-vcard;
+StartupNotify=true
+X-SingleInstance=true
 X-AppInstall-Package=literki
 X-AppInstall-Popcon=1
 X-AppInstall-Section=main
-
-Name=Literki
-Comment=Hacker's keyboard
-Exec=literki
-Icon=literki
-Terminal=false
-Type=Application
-Categories=Application;Utility
-MimeType=text/x-vcard;
-X-SingleInstance=true
-StartupNotify=true

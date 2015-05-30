@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=xgnokii
-X-AppInstall-Popcon=147
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Xgnokii
 Name[de]=Xgnokii
 Name[it]=Xgnokii
@@ -20,5 +19,8 @@ Comment[pl]=Zarządzaj swoim telefonem komórkowym
 Icon=phone
 Exec=xgnokii
 Terminal=false
-Type=Application
 Categories=Utility;TelephonyTools;Calendar;ContactManagement;Office;GTK;
+StartupNotify=false
+X-AppInstall-Package=xgnokii
+X-AppInstall-Popcon=147
+X-AppInstall-Section=main

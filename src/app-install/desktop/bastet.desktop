@@ -1,14 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=bastet
-X-AppInstall-Popcon=19
-X-AppInstall-Section=main
-
-Type=Application
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Bastard Tetris
 GenericName=bastet
 Comment=Go mad with this Tetris clone
-Exec=bastet
 Icon=bastet
+Exec=bastet
 Terminal=true
 Categories=Game;BlocksGame;
+StartupNotify=false
+X-AppInstall-Package=bastet
+X-AppInstall-Popcon=19
+X-AppInstall-Section=main

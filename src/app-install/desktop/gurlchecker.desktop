@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=gurlchecker
-X-AppInstall-Popcon=3
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
+Type=Application
 Name=gurlchecker
 Name[da]=gurlchecker
 Name[de]=gURLChecker
@@ -16,9 +14,11 @@ Comment[de]=Ein grafischer Linkprüfer
 Comment[fr]=Vérificateur de liens graphique
 Comment[it]=Controllore grafico di link web
 Comment[sk]=Grafický Web Kontrolór Web Odkazov
+Icon=gurlchecker
 Exec=gurlchecker %u
 Terminal=false
-Type=Application
 Categories=GTK;GNOME;Application;Network;
-Icon=gurlchecker
 StartupNotify=true
+X-AppInstall-Package=gurlchecker
+X-AppInstall-Popcon=3
+X-AppInstall-Section=main

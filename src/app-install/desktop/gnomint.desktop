@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=gnomint
-X-AppInstall-Popcon=12
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=gnoMint X.509 CA Manager
 Name[ca]=Gestor de CAs X.509 gnoMint.
 Name[es]=gnoMint. Gestor de ACs X.509
@@ -16,11 +15,12 @@ Comment[es]=Gestiona autoridades de certificación y certificados X.509
 Comment[fr]=Gérer des certificats et des CA X.509, facilement et graphiquement
 Comment[ru]=Управлять сертификатами X.509 и CA легко и визуально
 Comment[sv]=Hantera X.509-certifikat och certifikatutfärdare, enkelt och grafiskt
+Icon=gnomint
 Exec=gnomint
 Terminal=false
-Type=Application
-Icon=gnomint
 Categories=GNOME;Application;System;Security
 MimeType=application/x-gnomint;
 StartupNotify=true
-Encoding=UTF-8
+X-AppInstall-Package=gnomint
+X-AppInstall-Popcon=12
+X-AppInstall-Section=main

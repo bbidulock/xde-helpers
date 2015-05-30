@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=krb5-auth-dialog
-X-AppInstall-Popcon=42
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Network Authentication
 Name[cs]=Síťová autentizace
 Name[de]=Netzwerkanmeldung
@@ -25,14 +24,16 @@ Comment[sl]=Nastavitev možnosti Kerberos overitve omrežja
 Comment[uk]=Налаштувати мережеву аутентифікацію Kerberos
 Comment[zh_HK]=設定你的 Kerberos 網絡驗證偏好設定
 Comment[zh_TW]=設定您的 Kerberos 網路驗證偏好設定
-Exec=krb5-auth-dialog-preferences
 Icon=krb-valid-ticket
+Exec=krb5-auth-dialog-preferences
 Terminal=false
-Type=Application
-StartupNotify=true
-Categories=GNOME;GTK;Settings;X-GNOME-NetworkSettings;
 OnlyShowIn=GNOME;
+Categories=GNOME;GTK;Settings;X-GNOME-NetworkSettings;
+StartupNotify=true
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=krb5-auth-dialog
 X-GNOME-Bugzilla-Component=general
+X-AppInstall-Package=krb5-auth-dialog
+X-AppInstall-Popcon=42
+X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

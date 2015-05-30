@@ -1,20 +1,15 @@
 [Desktop Entry]
+Version=0.9.5
+Encoding=UTF-8
+Type=Application
+Name=Grace
+Comment=An XY plotting tool
+Icon=grace
+Exec=xmgrace %f
+Terminal=false
+Categories=Education;Math;Science;Motif;
+MimeType=application/x-grace
+StartupNotify=false
 X-AppInstall-Package=grace
 X-AppInstall-Popcon=319
 X-AppInstall-Section=main
-
-Version=0.9.5
-Type=Application
-
-Exec=xmgrace %f
-Icon=grace
-
-Name=Grace
-
-Comment=An XY plotting tool
-
-Categories=Education;Math;Science;Motif;
-MimeType=application/x-grace
-
-Terminal=false
-StartupNotify=false

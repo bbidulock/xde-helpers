@@ -1,14 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=wireshark
-X-AppInstall-Popcon=1735
-X-AppInstall-Section=main
-
-# $Id: wireshark.desktop 23928 2007-12-20 14:16:13Z stig $
-# The format of this file is specified at
-# http://freedesktop.org/Standards/desktop-entry-spec
-# The entries are in the order they are listed in version 1.0
-Type=Application
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Wireshark
 Name[vi]=Wireshark
 GenericName=Network Analyzer
@@ -75,7 +68,8 @@ Comment[sv]=Nätverkstrafikanalysator
 Icon=hi48-app-wireshark.png
 Exec=wireshark
 Terminal=false
-# Categorie entry according to version 1.0 of
-# http://www.freedesktop.org/wiki/Specifications/menu-spec
 Categories=GNOME;Network;
-Encoding=UTF-8
+StartupNotify=false
+X-AppInstall-Package=wireshark
+X-AppInstall-Popcon=1735
+X-AppInstall-Section=main

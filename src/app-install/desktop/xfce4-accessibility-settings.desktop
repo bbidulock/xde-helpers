@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=xfce4-settings
-X-AppInstall-Popcon=1263
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Accessibility
 Name[ast]=Accesibilidá
 Name[ca]=Accessibilitat
@@ -66,12 +64,14 @@ Comment[uk]=Покращення доступності миші і клавіа
 Comment[ur]=کیبورڈ اور ماؤس کی قابلیت رسائی بہتر کریں
 Comment[ur_PK]=کیبورڈ اور ماؤس کی قابلیت رسائی بہتر کریں
 Comment[zh_CN]=使您的键盘和鼠标更好用
-Exec=xfce4-accessibility-settings
 Icon=preferences-desktop-accessibility
+Exec=xfce4-accessibility-settings
 Terminal=false
-Type=Application
+OnlyShowIn=XFCE;
 Categories=X-XFCE;Settings;DesktopSettings;X-XfceSettingsDialog;
 StartupNotify=true
-OnlyShowIn=XFCE;
-X-XfcePluggable=true
+X-AppInstall-Package=xfce4-settings
+X-AppInstall-Popcon=1263
+X-AppInstall-Section=main
 X-XfceHelpFile=xfce4-settings.html
+X-XfcePluggable=true

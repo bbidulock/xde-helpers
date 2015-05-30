@@ -1,14 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=xword
-X-AppInstall-Popcon=13
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Xword
 GenericName=Crossword Puzzles
 Comment=Do crossword puzzles
 Exec=xword
 Terminal=false
-Type=Application
-MimeType=application/x-crossword;
 Categories=Game;LogicGame;
+MimeType=application/x-crossword;
+StartupNotify=false
+X-AppInstall-Package=xword
+X-AppInstall-Popcon=13
+X-AppInstall-Section=main

@@ -1,14 +1,15 @@
 [Desktop Entry]
-X-AppInstall-Package=attal
-X-AppInstall-Popcon=18
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Attal
 Comment=Turn based strategy game
 Comment[it]=Gioco strategico a turni
-Exec=attal-client
 Icon=
-StartupNotify=true
+Exec=attal-client
 Terminal=false
-Type=Application
 Categories=Game;StrategyGame;
+StartupNotify=true
+X-AppInstall-Package=attal
+X-AppInstall-Popcon=18
+X-AppInstall-Section=main

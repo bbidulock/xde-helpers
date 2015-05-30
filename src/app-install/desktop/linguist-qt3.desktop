@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=qt3-linguist
-X-AppInstall-Popcon=39
-X-AppInstall-Section=main
-
-Exec=linguist-qt3
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Qt3 Linguist
 Name[de]=Qt3-Linguist
 Name[eo]=Qt3-Lingvisto
@@ -22,8 +20,12 @@ Comment[lv]=Rīks ziņojumu katalogu tulkošanai uz Qt3 bāzētās programmās
 Comment[pt]=Ferramenta para traduzir os catálogos de mensagens de programas do Qt3
 Comment[pt_BR]=Ferramenta para traduzir os catálogos de mensagens de programas do Qt3
 Comment[sv]=Verktyg för att översätta meddelandekataloger från Qt3-baserade program
-MimeType=application/x-linguist;
-Terminal=false
 Icon=linguist
-Type=Application
+Exec=linguist-qt3
+Terminal=false
 Categories=Qt;Development
+MimeType=application/x-linguist;
+StartupNotify=false
+X-AppInstall-Package=qt3-linguist
+X-AppInstall-Popcon=39
+X-AppInstall-Section=main

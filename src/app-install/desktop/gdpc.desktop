@@ -1,14 +1,16 @@
 [Desktop Entry]
-X-AppInstall-Package=gdpc
-X-AppInstall-Popcon=35
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=GDPC Molecular Dynamic Simulator
 GenericName=Molecular Dynamic Simulator
 Comment=Visualize molecular dynamic simulations
 Comment[en_GB]=Visualise molecular dynamic simulations
 Comment[pt_BR]=Visualizador de simulações moleculares dinâmicas
-Type=Application
 Exec=gdpc
+Terminal=false
 Categories=Science;Chemistry;Education;
+StartupNotify=false
+X-AppInstall-Package=gdpc
+X-AppInstall-Popcon=35
+X-AppInstall-Section=main

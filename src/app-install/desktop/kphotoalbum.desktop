@@ -1,8 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=kphotoalbum
-X-AppInstall-Popcon=86
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=KPhotoAlbum
 Name[be]=KPhotoAlbum
 Name[bg]=KPhotoAlbum
@@ -43,7 +42,6 @@ Name[vi]=KPhotoAlbum
 Name[x-test]=xxKPhotoAlbumxx
 Name[zh_CN]=KPhotoAlbum
 Name[zh_TW]=KPhotoAlbum
-Exec=kphotoalbum
 GenericName=Photo Album
 GenericName[be]=Фотаальбом
 GenericName[bg]=KPhotoAlbum
@@ -84,8 +82,12 @@ GenericName[vi]=Tập ảnh chụp
 GenericName[x-test]=xxPhoto Albumxx
 GenericName[zh_CN]=相册
 GenericName[zh_TW]=相簿
-Terminal=false
-Type=Application
-X-KDE-StartupNotify=true
 Icon=kphotoalbum
+Exec=kphotoalbum
+Terminal=false
 Categories=Qt;KDE;Graphics;Photography;
+StartupNotify=false
+X-KDE-StartupNotify=true
+X-AppInstall-Package=kphotoalbum
+X-AppInstall-Popcon=86
+X-AppInstall-Section=main

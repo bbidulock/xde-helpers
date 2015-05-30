@@ -1,16 +1,18 @@
 [Desktop Entry]
-X-AppInstall-Package=kompozer
-X-AppInstall-Popcon=282
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=KompoZer
 GenericName=Web Authoring System
 Comment=Create Web Pages
 Comment[es]=Crea pÃ¡ginas web
 Comment[it]=Creare pagine Web
-Categories=Development;WebDevelopment;Network;
-Exec=kompozer
 Icon=kompozer
+Exec=kompozer
 Terminal=false
+Categories=Development;WebDevelopment;Network;
 MimeType=text/html;text/xml;text/css;text/x-javascript;text/javascript;application/xhtml+xml;
-Type=Application
+StartupNotify=false
+X-AppInstall-Package=kompozer
+X-AppInstall-Popcon=282
+X-AppInstall-Section=main

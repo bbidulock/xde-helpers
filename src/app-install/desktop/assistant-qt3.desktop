@@ -1,16 +1,17 @@
 [Desktop Entry]
-X-AppInstall-Package=qt3-assistant
-X-AppInstall-Popcon=403
-X-AppInstall-Section=main
-
+Version=1.0
 Encoding=UTF-8
-Exec=assistant-qt3
+Type=Application
 Name=Qt3 Assistant
 Name[de]=Qt3 Assistent
 Comment=Qt3 Helpcenter
-Comment[de]= Qt3 Hilfezentrum
-MimeType=application/x-assistant;
+Comment[de]=Qt3 Hilfezentrum
 Icon=assistant
+Exec=assistant-qt3
 Terminal=false
-Type=Application
 Categories=Qt;Development;
+MimeType=application/x-assistant;
+StartupNotify=false
+X-AppInstall-Package=qt3-assistant
+X-AppInstall-Popcon=403
+X-AppInstall-Section=main

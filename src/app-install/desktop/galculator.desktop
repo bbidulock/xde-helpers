@@ -1,9 +1,7 @@
 [Desktop Entry]
-X-AppInstall-Package=galculator
-X-AppInstall-Popcon=295
-X-AppInstall-Section=main
-
 Version=1.0
+Encoding=UTF-8
+Type=Application
 Name=Galculator
 Comment=Perform simple and scientific calculations
 Comment[de]=Ausführen von einfachen und wissenschaftlichen Berechnungen
@@ -12,9 +10,11 @@ Comment[pl]=Wykonaj proste lub naukowe obliczenia
 Comment[pt]=Executa cálculos simples e científicos
 Comment[pt_BR]=Executa cálculos simples e científicos
 Comment[sk]=Kalkulačka na jednoduché i vedecké výpočty
-Exec=galculator
 Icon=galculator
+Exec=galculator
 Terminal=false
-Type=Application
 Categories=Utility;
 StartupNotify=true
+X-AppInstall-Package=galculator
+X-AppInstall-Popcon=295
+X-AppInstall-Section=main

@@ -1,8 +1,6 @@
 [Desktop Entry]
-X-AppInstall-Package=gnome-activity-journal
-X-AppInstall-Popcon=55
-X-AppInstall-Section=main
-
+Version=1.0
+Encoding=UTF-8
 Type=Application
 Name=Activity Journal
 Name[ca]=Diari d'activitats
@@ -37,6 +35,11 @@ Comment[ro]=Navighează jurnalul cronologic al activităților tale și găseșt
 Comment[sv]=Bläddra i en kronologisk logg över dina aktiviteter och hitta enkelt filer, kontakter etc.
 Comment[vi]=Duyệt nhật kí hoạt động của bạn theo thứ tự thời gian giúp dễ dàng tim kiếm tập tin và liên hệ...
 Comment[zh_CN]=浏览按时间顺序排列的活动志，轻松找到文件。
-Exec=gnome-activity-journal
 Icon=gnome-activity-journal
+Exec=gnome-activity-journal
+Terminal=false
 Categories=GTK;Utility;
+StartupNotify=false
+X-AppInstall-Package=gnome-activity-journal
+X-AppInstall-Popcon=55
+X-AppInstall-Section=main

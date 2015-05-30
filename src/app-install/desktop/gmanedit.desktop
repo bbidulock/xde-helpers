@@ -1,15 +1,16 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=gmanedit
+Comment=GNOME Manpages Editor
+Comment[es]=Editor de p\xE1ginas man de GNOME
+Comment[gl]=Editor de p\xE1xinas man de GNOME
+Icon=gmanedit_icon.png
+Exec=gmanedit
+Terminal=false
+Categories=Development;
+StartupNotify=false
 X-AppInstall-Package=gmanedit
 X-AppInstall-Popcon=9
 X-AppInstall-Section=main
-
-Version=1.0
-Name=gmanedit
-Comment=GNOME Manpages Editor
-Comment[es]=Editor de páginas man de GNOME
-Comment[gl]=Editor de páxinas man de GNOME
-Exec=gmanedit
-Terminal=false
-Type=Application
-Categories=Development;
-Icon=gmanedit_icon.png

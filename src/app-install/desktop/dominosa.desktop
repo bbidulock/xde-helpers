@@ -1,15 +1,16 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Dominosa
+Comment=Reconstruct the pattern by arranging the set of dominoes to match the provided array of numbers
+Comment[de]=Stelle das Musters durch Anordnung von Dominos zur Übereinstimmung mit einem vorgegebenen Zahlengitter wieder her
+Comment[fr]=Essayer de réobtenir le modèle de base en arrangeant les dominos présents
+Icon=dominosa
+Exec=dominosa
+Terminal=false
+Categories=Game;LogicGame;
+StartupNotify=false
 X-AppInstall-Package=sgt-puzzles
 X-AppInstall-Popcon=137
 X-AppInstall-Section=main
-
-Version=1.0
-Terminal=false
-Exec=dominosa
-Icon=dominosa
-Type=Application
-Categories=Game;LogicGame;
-Name=Dominosa
-Comment=Reconstruct the pattern by arranging the set of dominoes to match the provided array of numbers
-Comment[fr]=Essayer de réobtenir le modèle de base en arrangeant les dominos présents
-Comment[de]=Stelle das Musters durch Anordnung von Dominos zur Übereinstimmung mit einem vorgegebenen Zahlengitter wieder her

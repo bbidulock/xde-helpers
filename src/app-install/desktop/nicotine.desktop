@@ -1,14 +1,14 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Nicotine-Plus
+Comment=SoulSeek filesharing client
+Icon=nicotine-plus-32px.png
+Exec=nicotine
+Terminal=false
+Categories=Application;Network;
+StartupNotify=true
 X-AppInstall-Package=nicotine
 X-AppInstall-Popcon=148
 X-AppInstall-Section=main
-
-Encoding=UTF-8
-Name=Nicotine-Plus
-Comment=SoulSeek filesharing client
-Exec=nicotine
-Icon=nicotine-plus-32px.png
-Terminal=false
-Type=Application
-Categories=Application;Network;
-StartupNotify=true

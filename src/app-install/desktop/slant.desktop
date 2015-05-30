@@ -1,15 +1,16 @@
 [Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Slant
+Comment=Draw a diagonal line and choose which way each line slants
+Comment[de]=Zeichne eine diagonale Linie und wähle die Richtung der Schrägen aus
+Comment[fr]=Dessiner des lignes en diagonales et choisir dans quel côté celle-ci penche
+Icon=slant
+Exec=slant
+Terminal=false
+Categories=Game;LogicGame;
+StartupNotify=false
 X-AppInstall-Package=sgt-puzzles
 X-AppInstall-Popcon=137
 X-AppInstall-Section=main
-
-Version=1.0
-Terminal=false
-Exec=slant
-Icon=slant
-Type=Application
-Categories=Game;LogicGame;
-Name=Slant
-Comment=Draw a diagonal line and choose which way each line slants
-Comment[fr]=Dessiner des lignes en diagonales et choisir dans quel côté celle-ci penche
-Comment[de]=Zeichne eine diagonale Linie und wähle die Richtung der Schrägen aus
