@@ -10,3 +10,4 @@ Icon=chbg_64x64.xpm
 Terminal=false
 Categories=Settings;
 StartupNotify=true
+X-Arch-Package=chbg 1.5-6

@@ -12,4 +12,4 @@ StartupNotify=false
 Categories=DockApp;WMAKER;
 StartupWMClass=wmMoonClock
 X-Arch-Package=wmmoonclock
-NotShowIn=GNOME;KDE;
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;

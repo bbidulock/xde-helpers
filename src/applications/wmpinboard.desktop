@@ -6,5 +6,5 @@ TryExec=wmpinboard
 Exec=wmpinboard
 Terminal=false
 Categories=DockApp;WMAKER;
-NotShowIn=GNOME;KDE;
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
 X-Arch-Package=wmpinboard

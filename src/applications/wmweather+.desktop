@@ -9,7 +9,7 @@ Exec=wmweather+ -s CYEG
 TryExec=/usr/bin/wmweather+
 Terminal=false
 Categories=DockApp;WMAKER;
-NotShowIn=GNOME;KDE;
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
 StartupNotify=false
 Actions=CYEG;
 

@@ -6,4 +6,4 @@ TryExec=wmmon
 Exec=wmmon
 Terminal=false
 Categories=DockApp;WMAKER;
-NotShowIn=GNOME;KDE;
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;

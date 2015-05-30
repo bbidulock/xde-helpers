@@ -10,3 +10,4 @@ Terminal=false
 Categories=Settings;DesktopSettings;
 StartupNotify=false
 StartupWMClass=FOX-DESKTOP
+X-Arch-Package=fox 1:1.6.50-1

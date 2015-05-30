@@ -13,4 +13,4 @@ Categories=DockApp;WMAKER;
 NotShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
 StartupNotify=false
 StartupWMClass=flipse
-X-Arch-Package=flipse
+X-Arch-Package=flipse r23.945f4df-1

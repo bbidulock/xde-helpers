@@ -10,3 +10,4 @@ Icon=eeschema
 MimeType=application/x-kicad-schematic;
 Name=Eeschema
 Type=Application
+X-Arch-Package=kicad 20130518-3

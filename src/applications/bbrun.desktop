@@ -8,11 +8,11 @@ Icon=system-run
 TryExec=/usr/bin/bbrun
 Exec=bbrun -a -w
 Terminal=false
-Categories=System;Utility;DockApp;WMAKER;
+Categories=DockApp;WMAKER;
 OnlyShowIn=BLACKBOX;
 StartupNotify=false
 StartupWMClass=bbrun
 X-GNOME-Autostart-enabled=true
 Hidden=true
 # Always crashes if you press ENTER instead of OK
-X-Arch-Package=bbrun
+X-Arch-Package=bbrun 1.6-5

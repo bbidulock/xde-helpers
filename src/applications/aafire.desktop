@@ -1,9 +1,11 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Type=Application
-Version=1.0
 Name=aafire
 Comment=ASCII art library demonstration program
-TryExec=aafire
+TryExec=/usr/bin/aafire
 Exec=aafire
+Terminal=false
 Categories=Game;
+StartupNotify=false

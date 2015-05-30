@@ -353,3 +353,4 @@ X-XFCE-Binaries=epiphany;
 X-XFCE-Category=WebBrowser
 X-XFCE-Commands=%B;
 X-XFCE-CommandsWithParameter=%B "%s";
+X-Arch-Package=epiphany 3.16.1-1

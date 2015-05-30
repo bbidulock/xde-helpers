@@ -1,15 +1,15 @@
 [Desktop Entry]
 Type=Application
 Encoding=UTF-8
-Name=wmwork
+Name=Time Keeper Dock App
 GenericName=Time Keeper
 Comment=A dock app that helps you keep track of time worked on projects
 TryExec=wmwork
 Exec=wmwork
-Icon=wmwork
+Icon=GNUstep3D
 Terminal=false
-StartupNotify=false
 Categories=DockApp;WMAKER;
-NotShowIn=GNOME;KDE;
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+StartupNotify=false
 StartupWMClass=wmwork
 X-Arch-Package=wmwork 0.2.5-1
