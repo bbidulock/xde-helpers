@@ -2,14 +2,14 @@
 Version=1.0
 Encoding=UTF-8
 Type=XSession
-Name=Blackbox
+Name=Fvwm
 GenericName=Window Manager
 GenericName[fr]=Gestionnaire de Fenêtres
 GenericName[pt]=Gestor de Janelas
-Comment=Highly configurable and low resource X11 Window manager
-Icon=blackbox
-TryExec=/usr/bin/blackbox
-Exec=blackbox
+Comment=Fvwm
+Icon=fvwm
+TryExec=fvwm2
+Exec=fvwm2
 Terminal=false
 NoDisplay=true
 Categories=WindowManager;Application;System;
@@ -17,19 +17,19 @@ StartupNotify=false
 X-GNOME-Autostart-Notify=false
 X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
-X-GNOME-WMName=blackbox
-X-Arch-Package=blackboxwm 0.71.1-1
-X-Arch-Package-Name=blackboxwm
-X-Arch-Package-Version=0.71.1-1
-X-Arch-Package-Description=A window manager for X11 (maintained fork of blackbox)
-X-Arch-Package-URL=http://github.com/bbidulock/blackboxwm
+X-GNOME-WMName=fvwm
+X-Arch-Package=fvwm 2.6.5-4
+X-Arch-Package-Name=fvwm
+X-Arch-Package-Version=2.6.5-4
+X-Arch-Package-Description=A multiple large virtual desktop window manager originally derived from twm
+X-Arch-Package-URL=http://www.fvwm.org
 Actions=XDE;
 
 [Desktop Action XDE]
 Name=XDE
 Icon=xde
-Exec=xde-session -desktop BLACKBOX -startwm start-blackbox
-Comment=Blackbox in an XDE session
+Exec=xde-session -desktop FVWM -startwm start-fvwm
+Comment=Fvwm in an XDE session
 
 [Window Manager]
 SessionManaged=true

@@ -1,14 +1,14 @@
 [Desktop Entry]
 Version=1.0
 Encoding=UTF-8
-Type=Application
+Type=XSession
 Name=WindowMaker
 GenericName=Window Manager
 GenericName[fr]=Gestionnaire de Fenêtres
 GenericName[pt]=Gestor de Janelas
 Comment=This session logs you into Window Maker
 Icon=wmaker
-TryExec=wmaker
+TryExec=/usr/bin/wmaker
 Exec=wmaker
 Terminal=false
 NoDisplay=true
@@ -23,3 +23,15 @@ X-Arch-Package-Name=windowmaker-crm-git
 X-Arch-Package-Version=0.95.6.r296.gbae28b2-1
 X-Arch-Package-Description=An X11 window manager with a NEXTSTEP look and feel
 X-Arch-Package-URL=http://www.windowmaker.org/
+Actions=XDE;
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Exec=xde-session -desktop WMAKER -startwm wmaker
+Comment=WindowMaker under an XDE session
+
+[Window Manager]
+SessionManaged=false
+StartupNotification=false
+X-XDE-Managed=true

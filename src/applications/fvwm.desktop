@@ -1,0 +1,45 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=XSession
+Name=FVWM
+GenericName=Window Manager
+GenericName[fr]=Gestionnaire de Fenêtres
+GenericName[pt]=Gestor de Janelas
+Comment=The FVWM window manager
+Icon=fvwm
+TryExec=/usr/bin/fvwm
+Exec=fvwm
+Terminal=false
+NoDisplay=true
+Categories=WindowManager;Application;System;
+StartupNotify=true
+X-GNOME-Autostart-Notify=true
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-WMName=Fvwm
+X-GnomeWMSettingsLibrary=Fvwm
+X-GNOME-WMSettingsModule=Fvwm
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=Fvwm
+X-GNOME-Bugzilla-Component=general
+X-AppInstall-Package=fvwm
+X-AppInstall-Popcon=572
+X-AppInstall-Section=main
+X-Arch-Package=fvwm 2.6.5-4
+X-Arch-Package-Name=fvwm
+X-Arch-Package-Version=2.6.5-4
+X-Arch-Package-Description=A multiple large virtual desktop window manager originally derived from twm
+X-Arch-Package-URL=http://www.fvwm.org
+Actions=XDE;
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Exec=xde-session -desktop FVWM -startwm fvwm
+Comment=FVWM in an XDE session
+
+[Window Manager]
+SessionManaged=true
+StartupNotification=false
+X-XDE-Managed=true

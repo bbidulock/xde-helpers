@@ -2,14 +2,14 @@
 Version=1.0
 Encoding=UTF-8
 Type=XSession
-Name=Blackbox
+Name=velox
 GenericName=Window Manager
 GenericName[fr]=Gestionnaire de Fenêtres
 GenericName[pt]=Gestor de Janelas
-Comment=Highly configurable and low resource X11 Window manager
-Icon=blackbox
-TryExec=/usr/bin/blackbox
-Exec=blackbox
+Comment=Simple tiling window manager
+Icon=velox
+TryExec=/usr/bin/velox
+Exec=velox
 Terminal=false
 NoDisplay=true
 Categories=WindowManager;Application;System;
@@ -17,19 +17,19 @@ StartupNotify=false
 X-GNOME-Autostart-Notify=false
 X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
-X-GNOME-WMName=blackbox
-X-Arch-Package=blackboxwm 0.71.1-1
-X-Arch-Package-Name=blackboxwm
-X-Arch-Package-Version=0.71.1-1
-X-Arch-Package-Description=A window manager for X11 (maintained fork of blackbox)
-X-Arch-Package-URL=http://github.com/bbidulock/blackboxwm
+X-GNOME-WMName=velox
+X-Arch-Package=velox 0.0.3-2
+X-Arch-Package-Name=velox
+X-Arch-Package-Version=0.0.3-2
+X-Arch-Package-Description=A simple xcb window manager inspired by awesome, xmonad, and dwm.
+X-Arch-Package-URL=http://www.ohloh.net/p/velox-wm
 Actions=XDE;
 
 [Desktop Action XDE]
 Name=XDE
 Icon=xde
-Exec=xde-session -desktop BLACKBOX -startwm start-blackbox
-Comment=Blackbox in an XDE session
+Exec=xde-session -exec uxterm -desktop VELOX -startwm velox
+Comment=velox under an XDE session
 
 [Window Manager]
 SessionManaged=true
