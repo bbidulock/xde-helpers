@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=OpenNX Session Administrator
+Name[de]=OpenNX Sitzungs-Administrator
+Name[ru]=Администратор сессии OpenNX
+Comment=Manage OpenNX sessions
+Comment[de]=Verwalte OpenNX Sitzungen
+Comment[ru]=Управление сессиями OpenNX
+Icon=opennx-admin
+TryExec=/usr/bin/opennx
+Exec=/usr/bin/opennx --admin
+Terminal=false
+Categories=Network;RemoteAccess;
+StartupNotify=false
+X-Arch-Package=opennx 0.16.0.729-2
+X-Arch-Package-Name=opennx
+X-Arch-Package-Version=0.16.0.729-2
+X-Arch-Package-Description=A GPL replacement for the NoMachine client
+X-Arch-Package-URL=http://opennx.sf.net/

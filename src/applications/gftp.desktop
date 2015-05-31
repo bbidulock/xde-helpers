@@ -1,0 +1,27 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=gFTP
+GenericName=gFTP
+Comment=Download and upload files using multiple file transfer protocols
+Comment[fr]=Télécharge des fichiers en utilisant le protocole FTP
+Icon=gftp.png
+TryExec=/usr/bin/gftp
+Exec=gftp %u
+X-MultipleArgs=false
+Terminal=false
+Categories=Application;Network;
+StartupNotify=false
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=gftp
+X-GNOME-Bugzilla-Component=general
+X-GNOME-Bugzilla-Version=2.0.19
+X-AppInstall-Package=gftp-gtk
+X-AppInstall-Popcon=1195
+X-AppInstall-Section=main
+X-Arch-Package=gftp 2.0.19-5
+X-Arch-Package-Name=gftp
+X-Arch-Package-Version=2.0.19-5
+X-Arch-Package-Description=A multithreaded ftp client for X Windows
+X-Arch-Package-URL=http://www.gftp.org/

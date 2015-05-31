@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=XDE Watch
+GenericName=
+Comment=Watches light-weight window managers for changes.
+Icon=system-monitor
+TryExec=/usr/bin/xde-watch
+Exec=xde-watch -a
+Terminal=false
+NotShowIn=GNOME;KDE;XFCE;LXDE;
+Categories=XDE;System;Settings;
+StartupNotify=true
+StartupWMClass=xde-watch
+X-GNOME-Autostart-enabled=true
+X-Arch-Package=xde-theme 1.1.142-1
+X-Arch-Package-Name=xde-theme
+X-Arch-Package-Version=1.1.142-1
+X-Arch-Package-Description=Theme and style setting utilities for the X Desktop Environment (XDE)
+X-Arch-Package-URL=http://github.com/bbidulock/xde-theme

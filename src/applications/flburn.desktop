@@ -1,0 +1,17 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=FlBurn
+GenericName=Disc Burning
+Icon=/usr/share/pixmaps/flburn.png
+TryExec=flburn
+Exec=flburn
+Terminal=false
+Categories=AudioVideo
+StartupNotify=false
+X-Arch-Package=flburn 0.0.3-4
+X-Arch-Package-Name=flburn
+X-Arch-Package-Version=0.0.3-4
+X-Arch-Package-Description=Optical disk burning software for linux based on the libraries FLTK and libburnia.
+X-Arch-Package-URL=http://flburn.sourceforge.net/

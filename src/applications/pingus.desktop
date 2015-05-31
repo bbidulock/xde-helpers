@@ -1,0 +1,22 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Pingus
+GenericName=Game
+Comment=Guide a horde of penguins through various obstacles
+Icon=/usr/share/pingus/images/core/editor/actions.png
+TryExec=pingus
+Exec=pingus
+Terminal=false
+Categories=Application;Game;StrategyGame;LogicGame;
+StartupNotify=false
+X-AppInstall-Package=pingus
+X-AppInstall-Popcon=232
+X-AppInstall-Section=main
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package=pingus 0.7.6-14
+X-Arch-Package-Name=pingus
+X-Arch-Package-Version=0.7.6-14
+X-Arch-Package-Description=A Lemmings clone, i.e. a level-based puzzle game.
+X-Arch-Package-URL=http://pingus.seul.org

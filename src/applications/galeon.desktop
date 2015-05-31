@@ -169,3 +169,6 @@ X-XFCE-CommandsWithParameter=%B "%s";
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=galeon
 X-GNOME-Bugzilla-Component=general
+X-AppInstall-Package=galeon
+X-AppInstall-Popcon=923
+X-AppInstall-Section=main

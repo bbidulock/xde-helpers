@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Where am I?
+GenericName=Demo geolocation application
+Comment=Find your current location
+Icon=mark-location-symbolic
+TryExec=/usr/lib/geoclue2/geoclue-2.0/demos/where-am-i
+Exec=/usr/lib/geoclue2/geoclue-2.0/demos/where-am-i
+Terminal=true
+NoDisplay=true
+Keywords=geolocation;
+StartupNotify=false
+X-Arch-Package=geoclue2 2.2.0-2
+X-Arch-Package-Name=geoclue2
+X-Arch-Package-Version=2.2.0-2
+X-Arch-Package-Description=Modular geoinformation service built on the D-Bus messaging system
+X-Arch-Package-URL=http://geoclue.freedesktop.org/

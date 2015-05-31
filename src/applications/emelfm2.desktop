@@ -1,0 +1,25 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=emelFM2
+GenericName=file manager
+Comment=2-pane file manager
+Comment[de]=2-Fenster Dateimanager
+Comment[fr]=2-gestionnaire de fichiers à panneaux
+Comment[ja]=2-ペイン ファイル manager
+Comment[pl]=2-okno menedżer plików
+Comment[ru]=2-панельный файловый менеджер
+Comment[zh_CN]=2-面板 文件管理器
+Icon=emelfm2
+TryExec=emelfm2
+Exec=/usr/bin/emelfm2
+Terminal=false
+Categories=System;Utility;Core;FileTools;FileManager;GTK;Application;Utility;
+MimeType=inode/directory;inode/mount-point;
+StartupNotify=false
+X-Arch-Package=emelfm2 0.9.1-1
+X-Arch-Package-Name=emelfm2
+X-Arch-Package-Version=0.9.1-1
+X-Arch-Package-Description=A file manager that implements the popular two-pane design
+X-Arch-Package-URL=http://emelfm2.net/

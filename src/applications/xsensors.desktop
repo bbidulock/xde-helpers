@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Xsensors
+GenericName=Hardware Monitor
+Comment=View hardware health
+Icon=xsensors
+TryExec=/usr/bin/xsensors
+Exec=xsensors
+Terminal=false
+Categories=System;Monitor;GTK;
+StartupNotify=false
+X-AppInstall-Package=xsensors
+X-AppInstall-Popcon=149
+X-AppInstall-Section=main
+X-Arch-Package=xsensors 0.70-5
+X-Arch-Package-Name=xsensors
+X-Arch-Package-Version=0.70-5
+X-Arch-Package-Description=X11 interface to lm_sensors
+X-Arch-Package-URL=http://www.linuxhardware.org/xsensors/

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=eBoard
+GenericName=Chess Game
+Comment=A chess interface to ICS and chess engines
+Icon=eboard
+TryExec=eboard
+Exec=eboard
+Terminal=false
+Categories=GTK;Game;BoardGame;
+StartupNotify=true
+StartupWMClass=eboard
+X-AppInstall-Package=eboard
+X-AppInstall-Popcon=116
+X-AppInstall-Section=main
+X-Arch-Package=eboard 1.1.1-5
+X-Arch-Package-Name=eboard
+X-Arch-Package-Version=1.1.1-5
+X-Arch-Package-Description=A chess interface to ICS and chess engines
+X-Arch-Package-URL=http://www.bergo.eng.br/eboard/

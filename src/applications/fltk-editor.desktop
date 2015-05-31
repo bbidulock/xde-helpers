@@ -1,0 +1,17 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=FLTK Editor
+Comment=Simple text editor
+Icon=fltk-editor
+TryExec=fltk-editor
+Exec=fltk-editor
+Terminal=false
+Categories=Utility;TextEditor;
+StartupNotify=false
+X-Arch-Package=fltk-editor 1.3.2-1
+X-Arch-Package-Name=fltk-editor
+X-Arch-Package-Version=1.3.2-1
+X-Arch-Package-Description=Simple text editor application for FLTK
+X-Arch-Package-URL=http://www.fltk.org/

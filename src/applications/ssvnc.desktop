@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=SSL/SSH VNC Viewer
+Comment=SSVNC - access remote VNC desktops
+Icon=computer
+TryExec=ssvnc
+Exec=ssvnc -noenc
+Terminal=false
+Categories=Network;RemoteAccess;
+StartupNotify=false
+StartupWMClass=Ssvnc.tcl
+X-AppInstall-Package=ssvnc
+X-AppInstall-Popcon=59
+X-AppInstall-Section=main
+X-Arch-Package=ssvnc-nojava 1.0.29-6
+X-Arch-Package-Name=ssvnc-nojava
+X-Arch-Package-Version=1.0.29-6
+X-Arch-Package-Description=SSL/SSH VNC viewer no java
+X-Arch-Package-URL=http://www.karlrunge.com/x11vnc/ssvnc.html

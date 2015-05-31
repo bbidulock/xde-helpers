@@ -1,0 +1,18 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=xplanetFX
+GenericName=xplanetFX
+Comment=xplanetFX - renderings of planet earth as desktop wallpaper
+Icon=/usr/share/pixmaps/xplanetFX.svg
+TryExec=xplanetFX
+Exec=xplanetFX --gui
+Terminal=false
+Categories=Application;Utility;
+StartupNotify=false
+X-Arch-Package=xplanetfx 2.6.5-1
+X-Arch-Package-Name=xplanetfx
+X-Arch-Package-Version=2.6.5-1
+X-Arch-Package-Description=xplanet earth with realistic clouding and lightning effects as your wallpaper.
+X-Arch-Package-URL=http://mein-neues-blog.de/xplanetfx/

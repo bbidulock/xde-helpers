@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=FFADO Mixer
+Name[ru]=Микшер FFADO
+GenericName=Firewire audio mixer
+GenericName[ru]=Звуковой микшер Firewire
+Comment=Audio mixer for Firewire devices
+Comment[ru]=Микшер для звуковых устройств с интерфейсом Firewire
+Icon=ffado
+TryExec=ffado-mixer
+Exec=ffado-mixer
+Terminal=false
+Categories=Mixer;Audio;AudioVideo;HardwareSettings;Qt;
+StartupNotify=false
+X-Arch-Package=libffado 2.2.1-2
+X-Arch-Package-Name=libffado
+X-Arch-Package-Version=2.2.1-2
+X-Arch-Package-Description=Driver for FireWire audio devices
+X-Arch-Package-URL=http://www.ffado.org/

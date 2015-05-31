@@ -1,0 +1,17 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Stuurman Desktop Preferences
+Comment=Change desktop wallpapers and behavior of Stuurman desktop manager
+Icon=user-desktop
+TryExec=stuurman-desktop
+Exec=stuurman-desktop --desktop-pref
+Terminal=false
+Categories=Settings;GTK;DesktopSettings;
+StartupNotify=true
+X-Arch-Package=stuurman-desktop-git 1:r1061.e188c48-1
+X-Arch-Package-Name=stuurman-desktop-git
+X-Arch-Package-Version=1:r1061.e188c48-1
+X-Arch-Package-Description=A desktop manager.
+X-Arch-Package-URL=https://github.com/geekless/stuurman-desktop

@@ -1,0 +1,17 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Mount-gtk
+Name[en_GB]=Mount-gtk
+Icon=drive-removable-media
+TryExec=mount-gtk
+Exec=mount-gtk
+Terminal=false
+Categories=GTK;Utility;
+StartupNotify=false
+X-Arch-Package=mount-gtk2 1.4.3-2
+X-Arch-Package-Name=mount-gtk2
+X-Arch-Package-Version=1.4.3-2
+X-Arch-Package-Description=A graphical front end for udisks and mount (compiled for Gtk2)
+X-Arch-Package-URL=http://mount-gtk.sourceforge.net/

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=GTK+ Demo
+Comment=GTK+ code examples and demonstrations
+Icon=gtk3-demo
+TryExec=gtk3-demo
+Exec=gtk3-demo
+Terminal=false
+NoDisplay=true
+Categories=GTK;
+StartupNotify=true
+X-Arch-Package=gtk3 3.16.3-2
+X-Arch-Package-Name=gtk3
+X-Arch-Package-Version=3.16.3-2
+X-Arch-Package-Description=GObject-based multi-platform GUI toolkit
+X-Arch-Package-URL=http://www.gtk.org/

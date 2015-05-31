@@ -1,0 +1,25 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Qucs
+Comment=A Universal Circuit Simulator
+Comment[de]=Ein universeller Schaltkreissimulator
+Comment[es]=Un simulador universal de circuitos
+Comment[fr]=Simulateur universel de circuits
+Comment[it]=Simulatore universale di circuiti
+Comment[pt]=Simulador universal de circuitos
+Icon=/usr/share/qucs/bitmaps/big.qucs.xpm
+TryExec=qucs
+Exec=qucs %U
+Terminal=false
+Categories=Education;Electronics
+StartupNotify=false
+X-AppInstall-Package=qucs
+X-AppInstall-Popcon=105
+X-AppInstall-Section=main
+X-Arch-Package=qucs 0.0.18-1
+X-Arch-Package-Name=qucs
+X-Arch-Package-Version=0.0.18-1
+X-Arch-Package-Description=An integrated circuit simulator with a graphical user interface
+X-Arch-Package-URL=http://qucs.sourceforge.net

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Application Tray Icon
+GenericName=System Tray Icon
+Comment=Drops any application in the system tray
+Icon=alltray.png
+TryExec=alltray
+Exec=alltray -a
+Terminal=false
+Categories=TrayIcon;System;Utility;
+StartupNotify=false
+X-AppInstall-Package=alltray
+X-AppInstall-Popcon=174
+X-AppInstall-Section=main
+X-Arch-Package=alltray 0.7.5.1dev-3
+X-Arch-Package-Name=alltray
+X-Arch-Package-Version=0.7.5.1dev-3
+X-Arch-Package-Description=Drops any app in the tray.
+X-Arch-Package-URL=http://alltray.trausch.us/

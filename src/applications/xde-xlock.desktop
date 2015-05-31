@@ -1,0 +1,18 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Lock Screen
+GenericName=xde-xlock 1.0.135
+Comment=XDE screen locker
+Icon=gnome-lockscreen
+TryExec=/usr/bin/xde-xlock
+Exec=xde-xlock -l
+Terminal=false
+Categories=Application;System;
+StartupNotify=true
+X-Arch-Package=xde-session-git 1.1.0.g13a084c-1
+X-Arch-Package-Name=xde-session-git
+X-Arch-Package-Version=1.1.0.g13a084c-1
+X-Arch-Package-Description=X Desktop Environment Display and Session Management
+X-Arch-Package-URL=https://github.com/bbidulock/xde-session

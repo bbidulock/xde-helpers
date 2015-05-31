@@ -310,4 +310,7 @@ X-GNOME-Bugzilla-Product=Evolution
 X-GNOME-Bugzilla-Component=BugBuddyBugs
 X-GNOME-Bugzilla-Version=3.16.2
 X-GNOME-Bugzilla-OtherBinaries=e-addressbook-factory;e-calendar-factory
+X-AppInstall-Package=evolution
+X-AppInstall-Popcon=15859
+X-AppInstall-Section=main
 X-Arch-Package=evolution 3.16.2.1-1

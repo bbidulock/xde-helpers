@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Keyboard Settings
+Name[es]=Preferencias de Teclado
+Comment=Set your keyboard preferences
+Comment[es]=Establece tu configuración de teclado.
+Icon=preferences-desktop-keyboard
+TryExec=lxkb_config
+Exec=lxkb_config
+Terminal=false
+Categories=GNOME;GTK;Settings;HardwareSettings;
+StartupNotify=true
+X-Arch-Package=lxkb_config-git r153.cec6ebd-1
+X-Arch-Package-Name=lxkb_config-git
+X-Arch-Package-Version=r153.cec6ebd-1
+X-Arch-Package-Description=A keyboard configuration application for LXDE
+X-Arch-Package-URL=http://lxde.org/

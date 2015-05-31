@@ -1,0 +1,26 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=GQview
+GenericName=Image Viewer
+GenericName[es]=Visor de imágenes
+GenericName[et]=Piltide vaatur
+GenericName[fr]=Explorateur d'images
+GenericName[hu]=Képnéző
+GenericName[tr]=Resim göstericisi
+Comment=View and manage images
+Comment[es]=Visualiza y administra imágenes
+Comment[hu]=Képek megjelenítése és rendszerezése
+Icon=gqview.png
+TryExec=gqview
+Exec=gqview -r %F
+Terminal=false
+Categories=Application;Graphics;Viewer;
+MimeType=application/x-navi-animation;image/bmp;image/x-bmp;image/x-MS-bmp;image/gif;image/x-icon;image/jpeg;image/png;image/x-portable-anymap;image/x-portable-bitmap;image/x-portable-graymap;image/x-portable-pixmap;image/x-cmu-raster;image/x-sun-raster;image/x-tga;image/tiff;image/vnd.wap.wbmp;image/x-xbitmap;image/x-xpixmap;image/svg;image/svg+xml;image/x-png;image/xpm;image/x-ico;image/x-pcx;
+StartupNotify=false
+X-Arch-Package=gqview 2.0.4-5
+X-Arch-Package-Name=gqview
+X-Arch-Package-Version=2.0.4-5
+X-Arch-Package-Description=An image browser and viewer
+X-Arch-Package-URL=http://gqview.sourceforge.net/

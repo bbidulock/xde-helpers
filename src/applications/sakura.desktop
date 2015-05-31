@@ -1,12 +1,20 @@
 [Desktop Entry]
 Version=1.0
 Encoding=UTF-8
-Type=X-XFCE-Helper
+Type=Application
 Name=Sakura
+Comment=Use the command line
 Icon=terminal-tango
+TryExec=sakura
+Exec=sakura
 Terminal=false
-StartupNotify=false
+Categories=GTK;Utility;TerminalEmulator;
+StartupNotify=true
 X-XFCE-Binaries=sakura;
 X-XFCE-Category=TerminalEmulator
 X-XFCE-Commands=%B;
 X-XFCE-CommandsWithParameter=%B -x %s;
+X-AppInstall-Package=sakura
+X-AppInstall-Popcon=29
+X-AppInstall-Section=main
+X-Ubuntu-Gettext-Domain=sakura

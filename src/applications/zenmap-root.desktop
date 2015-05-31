@@ -1,0 +1,18 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Zenmap (as root)
+GenericName=GUI Port Scanner
+Comment=A cross-platform GUI for the Nmap Security Scanner.
+Icon=/usr/share/zenmap/pixmaps/zenmap.png
+TryExec=/usr/share/zenmap/su-to-zenmap.sh
+Exec=/usr/share/zenmap/su-to-zenmap.sh %F
+Terminal=false
+Categories=Application;Network;Security;
+StartupNotify=false
+X-Arch-Package=nmap 6.47-3
+X-Arch-Package-Name=nmap
+X-Arch-Package-Version=6.47-3
+X-Arch-Package-Description=Utility for network discovery and security auditing
+X-Arch-Package-URL=http://nmap.org/

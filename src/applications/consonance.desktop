@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Consonance
+GenericName=Music Manager
+Comment=A lightweight music manager
+Icon=consonance.png
+TryExec=consonance
+Exec=consonance %F
+Terminal=false
+Categories=GTK:Application;AudioVideo;Player
+MimeType=audio/x-mp3;audio/mpeg;audio/x-mpeg;audio/mpeg3;audio/mp3;application/ogg;application/x-ogg;audio/vorbis;audio/x-vorbis;audio/ogg;audio/x-ogg;audio/x-flac;application/x-flac;audio/flac;audio/x-wav
+StartupNotify=false
+X-Arch-Package=consonance 0.5.1-11
+X-Arch-Package-Name=consonance
+X-Arch-Package-Version=0.5.1-11
+X-Arch-Package-Description=Lightweight GTK+ music manager that aims to be fast, bloat-free and light on memory consumption
+X-Arch-Package-URL=http://sites.google.com/site/consonancemanager

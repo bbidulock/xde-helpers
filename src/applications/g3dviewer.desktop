@@ -1,0 +1,23 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=G3DViewer
+GenericName=Gtk 3D Viewer
+Comment=3D model viewer
+Comment[de_DE]=3D-Modell-Betrachter
+Icon=g3dviewer
+TryExec=g3dviewer
+Exec=g3dviewer
+Terminal=false
+Categories=Application;Graphics;3DGraphics;
+StartupNotify=false
+StartupWMClass=g3dviewer
+X-AppInstall-Package=g3dviewer
+X-AppInstall-Popcon=7
+X-AppInstall-Section=main
+X-Arch-Package=g3dviewer 0.2.99.4-1
+X-Arch-Package-Name=g3dviewer
+X-Arch-Package-Version=0.2.99.4-1
+X-Arch-Package-Description=A 3D file viewer for GTK+ supporting a variety of file types
+X-Arch-Package-URL=http://automagically.de/g3dviewer/

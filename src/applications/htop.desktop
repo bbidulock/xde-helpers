@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Htop
+GenericName=Process Viewer
+Comment=Show System Processes
+Icon=htop
+TryExec=htop
+Exec=htop
+Terminal=true
+Categories=ConsoleOnly;System;
+StartupNotify=false
+X-AppInstall-Package=htop
+X-AppInstall-Popcon=5564
+X-AppInstall-Section=main
+X-Arch-Package=htop 1.0.3-2
+X-Arch-Package-Name=htop
+X-Arch-Package-Version=1.0.3-2
+X-Arch-Package-Description=Interactive process viewer
+X-Arch-Package-URL=http://htop.sourceforge.net/

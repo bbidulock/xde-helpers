@@ -1,0 +1,47 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Guayadeque Music Player
+Name[en_US]=Guayadeque Music Player
+Name[es]=Reproductor de Música Guayadeque
+Comment=Play music songs
+Comment[es]=Reproduce canciones
+Icon=guayadeque
+TryExec=guayadeque
+Exec=guayadeque %U
+Terminal=false
+Categories=GNOME;GTK;AudioVideo;Audio;Player;
+MimeType=application/ogg;application/x-flac;audio/mp4;audio/mpeg;audio/mpegurl;audio/ogg;audio/x-ape;audio/x-flac;audio/x-m4a;audio/x-mod;audio/x-mp3;audio/x-mpeg;audio/x-mpegurl;audio/x-ms-asf;audio/x-ms-asx;audio/x-ms-wax;audio/x-ms-wma;
+StartupNotify=false
+X-GNOME-Autostart-Notify=true
+X-GNOME-Autostart-Phase=Desktop
+X-AppInstall-Package=guayadeque
+X-AppInstall-Popcon=32
+X-AppInstall-Section=main
+X-Arch-Package=guayadeque 0.3.7-1
+X-Arch-Package-Name=guayadeque
+X-Arch-Package-Version=0.3.7-1
+X-Arch-Package-Description=Lightweight music player
+X-Arch-Package-URL=http://guayadeque.org/
+X-Ayatana-Desktop-Shortcuts=PlayPause;Stop;Previous;Next;
+
+[PlayPause Shortcut Group]
+Name=Play - Pause
+Exec=dbus-send --type=method_call --dest=org.mpris.guayadeque /Player org.freedesktop.MediaPlayer.Play
+TargetEnvironment=Unity
+
+[Stop Shortcut Group]
+Name=Stop (+shift Stop at End)
+Exec=dbus-send --type=method_call --dest=org.mpris.guayadeque /Player org.freedesktop.MediaPlayer.Stop
+TargetEnvironment=Unity
+
+[Previous Shortcut Group]
+Name=Prev. (+shift Prev. Album)
+Exec=dbus-send --type=method_call --dest=org.mpris.guayadeque /Player org.freedesktop.MediaPlayer.Prev
+TargetEnvironment=Unity
+
+[Next Shortcut Group]
+Name=Next (+shift Next Album)
+Exec=dbus-send --type=method_call --dest=org.mpris.guayadeque /Player org.freedesktop.MediaPlayer.Next
+TargetEnvironment=Unity

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Scratch
+Comment=Programming system and content development tool
+Icon=scratch
+TryExec=scratch
+Exec=scratch
+Terminal=false
+Categories=Development;
+MimeType=application/x-scratch-project
+StartupNotify=false
+X-Arch-Package=scratch 1.4.0.7-5
+X-Arch-Package-Name=scratch
+X-Arch-Package-Version=1.4.0.7-5
+X-Arch-Package-Description=Create and share your own interactive stories, games, music and art
+X-Arch-Package-URL=http://scratch.mit.edu
