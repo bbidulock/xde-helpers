@@ -1,14 +1,14 @@
 [Desktop Entry]
 Version=1.0
 Encoding=UTF-8
-Type=Application
+Type=XSession
 Name=Openbox
 GenericName=Window Manager
 GenericName[fr]=Gestionnaire de Fenêtres
 GenericName[pt]=Gestor de Janelas
 Comment=Log in using the Openbox window manager
 Icon=openbox
-TryExec=openbox
+TryExec=/usr/bin/openbox
 Exec=openbox
 Terminal=false
 NoDisplay=true
@@ -27,3 +27,35 @@ X-Arch-Package-Version=3.5.2-7
 X-Arch-Package-Description=Highly configurable and lightweight X11 window manager
 X-Arch-Package-URL=http://openbox.org
 X-Ubuntu-Gettext-Domain=openbox
+Actions=XDE;Gnome;KDE;Session;
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Exec=xde-session -desktop OPENBOX -startwm start-openbox
+Comment=Openbox under an XDE session
+
+[Desktop Action Gnome]
+Name=Gnome
+Icon=gnome
+Exec=openbox-gnome-session
+Comment=Use the Openbox window manager inside of the GNOME desktop environment
+
+[Desktop Action KDE]
+Name=KDE
+Icon=kde
+Exec=openbox-kde-session
+TryExec=startkde
+Comment=Use the Openbox window manager inside of the K Desktop Environment
+
+[Desktop Action Session]
+Name=Session
+Icon=openbox
+Exec=openbox-session
+TryExec=openbox-session
+Comment=Log in using the Openbox window manager (without a session manager)
+
+[Window Manager]
+SessionManaged=false
+StartupNotification=false
+X-XDE-Managed=true

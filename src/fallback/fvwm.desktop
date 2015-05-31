@@ -1,14 +1,14 @@
 [Desktop Entry]
 Version=1.0
 Encoding=UTF-8
-Type=Application
+Type=XSession
 Name=FVWM
 GenericName=Window Manager
 GenericName[fr]=Gestionnaire de Fenêtres
 GenericName[pt]=Gestor de Janelas
 Comment=The FVWM window manager
 Icon=fvwm
-TryExec=fvwm
+TryExec=/usr/bin/fvwm
 Exec=fvwm
 Terminal=false
 NoDisplay=true
@@ -23,6 +23,9 @@ X-GNOME-WMSettingsModule=Fvwm
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=Fvwm
 X-GNOME-Bugzilla-Component=general
+X-AppInstall-Package=fvwm
+X-AppInstall-Popcon=572
+X-AppInstall-Section=main
 X-Arch-Package=fvwm 2.6.5-4
 X-Arch-Package-Name=fvwm
 X-Arch-Package-Version=2.6.5-4

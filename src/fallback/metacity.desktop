@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
 Encoding=UTF-8
-Type=Application
+Type=XSession
 Name=Metacity
 Name[ar]=مِتسِتي
 Name[as]=Metacity
@@ -99,7 +99,7 @@ GenericName[fr]=Gestionnaire de Fenêtres
 GenericName[pt]=Gestor de Janelas
 Comment=Minimal GTK2 Window Manager
 Icon=metacity
-TryExec=metacity
+TryExec=/usr/bin/metacity
 Exec=metacity
 Terminal=false
 NoDisplay=true
@@ -122,3 +122,15 @@ X-Arch-Package-Name=metacity2
 X-Arch-Package-Version=2.34.13-1
 X-Arch-Package-Description=Legacy GNOME window manager
 X-Arch-Package-URL=https://wiki.gnome.org/Projects/Metacity
+Actions=XDE;
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Exec=xde-session -desktop METACITY -startwm start-metacity
+Comment=metacity under and XDE session
+
+[Window Manager]
+SessionManaged=false
+StartupNotification=false
+X-XDE-Managed=true
