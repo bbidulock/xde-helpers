@@ -37,60 +37,152 @@ dist_noinst_SCRIPTS = autogen.sh configure.sh rebuild.sh
 
 dist_appl_DATA = \
 	src/applications/aafire.desktop \
+	src/applications/abiword.desktop \
 	src/applications/adie.desktop \
 	src/applications/AdobeReader.desktop \
 	src/applications/allin1.desktop \
+	src/applications/alltray.desktop \
 	src/applications/AlsaMixer.app.desktop \
+	src/applications/alsaplayer.desktop \
+	src/applications/apvlv.desktop \
+	src/applications/Arch-AUR.desktop \
+	src/applications/Arch-Bugs.desktop \
+	src/applications/Arch-Developers.desktop \
+	src/applications/Arch-Documentation.desktop \
+	src/applications/Arch-Donate.desktop \
+	src/applications/Arch-Forum.desktop \
+	src/applications/Arch-Homepage.desktop \
+	src/applications/Arch-Schwag.desktop \
+	src/applications/Arch-SVN.desktop \
+	src/applications/Arch-Wiki.desktop \
 	src/applications/asclock.desktop \
+	src/applications/assistant.desktop \
+	src/applications/assistant-qt4.desktop \
 	src/applications/aterm.desktop \
 	src/applications/atop.desktop \
+	src/applications/audacious2.desktop \
 	src/applications/aumix.desktop \
 	src/applications/balsa.desktop \
+	src/applications/balsa-mailto-handler.desktop \
+	src/applications/bbkeys.desktop \
 	src/applications/bbpager.desktop \
 	src/applications/bbrun.desktop \
 	src/applications/blackbox.desktop \
+	src/applications/blender.desktop \
+	src/applications/blocks.desktop \
 	src/applications/bluetoothctl.desktop \
+	src/applications/bluetooth-sendto.desktop \
+	src/applications/bssh.desktop \
 	src/applications/bubblemon.desktop \
 	src/applications/bvi.desktop \
 	src/applications/bviplus.desktop \
+	src/applications/bvnc.desktop \
 	src/applications/cacafire.desktop \
+	src/applications/cairo-clock.desktop \
+	src/applications/cairo-compmgr.desktop \
 	src/applications/caja.desktop \
+	src/applications/calcoo.desktop \
 	src/applications/calculator.desktop \
 	src/applications/cbatticon.desktop \
 	src/applications/chbg.desktop \
+	src/applications/checkers.desktop \
 	src/applications/chromium.desktop \
+	src/applications/claws-mail.desktop \
+	src/applications/CMake.desktop \
 	src/applications/compton.desktop \
 	src/applications/compton-fluxbox.desktop \
 	src/applications/conky.desktop \
+	src/applications/consonance.desktop \
 	src/applications/ControlPanel.desktop \
+	src/applications/cups.desktop \
 	src/applications/debian-sensible-browser.desktop \
 	src/applications/debian-x-terminal-emulator.desktop \
+	src/applications/designer.desktop \
+	src/applications/designer-qt4.desktop \
 	src/applications/dhcpcd-gtk.desktop \
 	src/applications/dillo.desktop \
+	src/applications/dmenu_launch.desktop \
 	src/applications/docker.desktop \
+	src/applications/e16.desktop \
+	src/applications/eboard.desktop \
 	src/applications/editres.desktop \
 	src/applications/eeschema.desktop \
+	src/applications/ekiga.desktop \
+	src/applications/elinks.desktop \
+	src/applications/emelfm2.desktop \
 	src/applications/encompass.desktop \
 	src/applications/epiphany.desktop \
 	src/applications/eterm.desktop \
+	src/applications/ettercap.desktop \
 	src/applications/evolution.desktop \
+	src/applications/exo-file-manager.desktop \
+	src/applications/exo-mail-reader.desktop \
+	src/applications/exo-preferred-applications.desktop \
+	src/applications/exo-terminal-emulator.desktop \
+	src/applications/exo-web-browser.desktop \
 	src/applications/fbpanel.desktop \
 	src/applications/fbrun.desktop \
 	src/applications/fbxkb.desktop \
+	src/applications/feh.desktop \
+	src/applications/ffadomixer.desktop \
 	src/applications/firefox.desktop \
+	src/applications/flash-player-properties.desktop \
+	src/applications/flburn.desktop \
 	src/applications/flipse.desktop \
+	src/applications/flmusic.desktop \
+	src/applications/flphoto.desktop \
+	src/applications/fltk-editor.desktop \
+	src/applications/fluff.desktop \
+	src/applications/fluid.desktop \
 	src/applications/fluxbox.desktop \
 	src/applications/ftmenu.desktop \
+	src/applications/fwbuilder.desktop \
+	src/applications/g3dviewer.desktop \
 	src/applications/galeon.desktop \
 	src/applications/gatotray.desktop \
+	src/applications/gaw.desktop \
+	src/applications/gcalctool.desktop \
+	src/applications/gcr-prompter.desktop \
+	src/applications/gcr-viewer.desktop \
+	src/applications/geany.desktop \
+	src/applications/geda-gattrib.desktop \
+	src/applications/geda-gschem.desktop \
+	src/applications/geeqie.desktop \
+	src/applications/geoclue-demo-agent.desktop \
+	src/applications/geoclue-where-am-i.desktop \
+	src/applications/gfontview.desktop \
+	src/applications/gftp.desktop \
+	src/applications/gimp.desktop \
+	src/applications/gksu.desktop \
+	src/applications/gksu-properties.desktop \
+	src/applications/gmdb.desktop \
 	src/applications/gmrun.desktop \
+	src/applications/gnome-chess.desktop \
 	src/applications/gnome-terminal.desktop \
+	src/applications/gogglesmm.desktop \
+	src/applications/gpaint.desktop \
+	src/applications/gpicview.desktop \
+	src/applications/gqview.desktop \
+	src/applications/gsmartcontrol.desktop \
+	src/applications/gspiceui.desktop \
+	src/applications/gthumb.desktop \
+	src/applications/gthumb-import.desktop \
 	src/applications/gtk2_prefs.desktop \
+	src/applications/gtk3-demo.desktop \
+	src/applications/gtk3-icon-browser.desktop \
+	src/applications/gtk3-widget-factory.desktop \
 	src/applications/gtk-chtheme.desktop \
+	src/applications/gtk-lshw.desktop \
 	src/applications/gtk-theme-switch2.desktop \
+	src/applications/guayadeque.desktop \
+	src/applications/gv.desktop \
+	src/applications/gvim.desktop \
 	src/applications/gvncviewer.desktop \
 	src/applications/gxditview.desktop \
 	src/applications/gxmessage.desktop \
+	src/applications/hardinfo.desktop \
+	src/applications/hexchat.desktop \
+	src/applications/htop.desktop \
 	src/applications/i3.desktop \
 	src/applications/icecat.desktop \
 	src/applications/icedove.desktop \
@@ -98,63 +190,146 @@ dist_appl_DATA = \
 	src/applications/icewm.desktop \
 	src/applications/icewmtray.desktop \
 	src/applications/idesk.desktop \
+	src/applications/inkscape.desktop \
+	src/applications/innovidata-opennx-admin.desktop \
+	src/applications/innovidata-opennx.desktop \
+	src/applications/innovidata-opennx-wizard.desktop \
 	src/applications/iptraf-ng.desktop \
 	src/applications/jumanji.desktop \
 	src/applications/kicad.desktop \
 	src/applications/kmail.desktop \
+	src/applications/knetattach.desktop \
 	src/applications/konqueror.desktop \
 	src/applications/lal.desktop \
+	src/applications/libfm-pref-apps.desktop \
+	src/applications/libreoffice-base.desktop \
+	src/applications/libreoffice-calc.desktop \
+	src/applications/libreoffice-draw.desktop \
+	src/applications/libreoffice-impress.desktop \
+	src/applications/libreoffice-math.desktop \
+	src/applications/libreoffice-startcenter.desktop \
+	src/applications/libreoffice-writer.desktop \
+	src/applications/libreoffice-xsltfilter.desktop \
+	src/applications/libsmfm-pref-apps.desktop \
+	src/applications/linguist.desktop \
+	src/applications/linguist-qt4.desktop \
 	src/applications/links.desktop \
+	src/applications/lxappearance.desktop \
 	src/applications/lxde-logout.desktop \
+	src/applications/lxde-screenlock.desktop \
 	src/applications/lxinput.desktop \
+	src/applications/lxkb-config.desktop \
+	src/applications/lxmusic.desktop \
 	src/applications/lxpanelctl.desktop \
 	src/applications/lxpanel.desktop \
+	src/applications/lxrandr.desktop \
+	src/applications/lxsession-default-apps.desktop \
+	src/applications/lxsession-edit.desktop \
+	src/applications/lxshortcut.desktop \
+	src/applications/lxtask.desktop \
+	src/applications/lxterminal.desktop \
 	src/applications/lynx.desktop \
 	src/applications/menutray.desktop \
 	src/applications/metacity.desktop \
 	src/applications/midori.desktop \
+	src/applications/midori-private.desktop \
+	src/applications/moc-tray.desktop \
+	src/applications/mount-gtk.desktop \
 	src/applications/mozilla-browser.desktop \
 	src/applications/mozilla-mailer.desktop \
+	src/applications/mpv.desktop \
+	src/applications/mupdf.desktop \
 	src/applications/mutt.desktop \
+	src/applications/mutter.desktop \
+	src/applications/mutter-wayland.desktop \
 	src/applications/nautilus.desktop \
 	src/applications/nethogs.desktop \
 	src/applications/netscape-navigator.desktop \
 	src/applications/nm-applet.desktop \
 	src/applications/notification-properties.desktop \
 	src/applications/nxterm.desktop \
+	src/applications/obconf.desktop \
 	src/applications/obxprop.desktop \
 	src/applications/openbox.desktop \
 	src/applications/opera-browser.desktop \
 	src/applications/opera-mailer.desktop \
+	src/applications/org.gnome.Boxes.desktop \
+	src/applications/org.gnome.font-viewer.desktop \
+	src/applications/org.gnome.Totem.desktop \
+	src/applications/pacmanexpress.desktop \
 	src/applications/pango-view.desktop \
 	src/applications/PathFinder.desktop \
 	src/applications/pcmanfm.desktop \
+	src/applications/pcmanfm-desktop-pref.desktop \
 	src/applications/peksystray.desktop \
 	src/applications/piedock.desktop \
+	src/applications/pingus.desktop \
 	src/applications/pnmixer.desktop \
+	src/applications/polkit-gnome-authentication-agent-1.desktop \
+	src/applications/pragha.desktop \
 	src/applications/preferred-execute.desktop \
 	src/applications/preferred-file-manager.desktop \
 	src/applications/preferred-mail-reader.desktop \
 	src/applications/preferred-terminal.desktop \
 	src/applications/preferred-text-editor.desktop \
 	src/applications/preferred-web-browser.desktop \
+	src/applications/qdbusviewer.desktop \
+	src/applications/qdbusviewer-qt4.desktop \
+	src/applications/qemu-launcher.desktop \
+	src/applications/qiv.desktop \
+	src/applications/qtconfig-qt4.desktop \
+	src/applications/qucs.desktop \
+	src/applications/qv4l2.desktop \
 	src/applications/raktpdf.desktop \
 	src/applications/remmina-applet.desktop \
+	src/applications/remmina.desktop \
 	src/applications/retrovol.desktop \
 	src/applications/rodent.desktop \
+	src/applications/rox.desktop \
 	src/applications/rox-filer.desktop \
+	src/applications/roxterm.desktop \
 	src/applications/sakura.desktop \
 	src/applications/sbxkb.desktop \
+	src/applications/scratch.desktop \
+	src/applications/sd-applet.desktop \
+	src/applications/sd-files.desktop \
+	src/applications/sd-units.desktop \
+	src/applications/simpleburn.desktop \
 	src/applications/slock.desktop \
 	src/applications/smproxy.desktop \
+	src/applications/spacefm.desktop \
+	src/applications/spacefm-find.desktop \
+	src/applications/spacefm-folder-handler.desktop \
+	src/applications/ssvnc.desktop \
+	src/applications/starplot.desktop \
+	src/applications/stopmotion.desktop \
+	src/applications/stuurman.desktop \
+	src/applications/stuurman-desktop-pref.desktop \
+	src/applications/sudoku.desktop \
 	src/applications/sylpheed-claws.desktop \
 	src/applications/sylpheed.desktop \
+	src/applications/systemadm.desktop \
+	src/applications/system-config-printer.desktop \
+	src/applications/Thunar-bulk-rename.desktop \
 	src/applications/Thunar.desktop \
+	src/applications/Thunar-folder-handler.desktop \
+	src/applications/thunar-settings.desktop \
+	src/applications/thunar-volman-settings.desktop \
 	src/applications/thunderbird.desktop \
+	src/applications/tint2conf.desktop \
 	src/applications/unclutter.desktop \
+	src/applications/urxvtc.desktop \
 	src/applications/urxvt.desktop \
+	src/applications/urxvt-tabbed.desktop \
+	src/applications/uxterm.desktop \
+	src/applications/vifm.desktop \
+	src/applications/virt-manager.desktop \
+	src/applications/virtualbox.desktop \
+	src/applications/vncviewer.desktop \
 	src/applications/volume-app.desktop \
 	src/applications/w3m.desktop \
+	src/applications/wings3d.desktop \
+	src/applications/wireshark.desktop \
 	src/applications/wmacpi.desktop \
 	src/applications/wmagnify.desktop \
 	src/applications/wmaker.desktop \
@@ -227,27 +402,48 @@ dist_appl_DATA = \
 	src/applications/wmweather+.desktop \
 	src/applications/wmwifi.desktop \
 	src/applications/wmwork.desktop \
+	src/applications/x11vnc.desktop \
+	src/applications/xarchiver.desktop \
+	src/applications/xboard-config.desktop \
 	src/applications/xboard.desktop \
+	src/applications/xboard-fen-viewer.desktop \
 	src/applications/xboard-ics.desktop \
+	src/applications/xboard-pgn-viewer.desktop \
+	src/applications/xboard-tourney.desktop \
 	src/applications/xcalc.desktop \
+	src/applications/xchat.desktop \
+	src/applications/xcircuit.desktop \
 	src/applications/xclipboard.desktop \
 	src/applications/xclock.desktop \
 	src/applications/xcolorsel.desktop \
 	src/applications/xconsole.desktop \
+	src/applications/xde-app.desktop \
 	src/applications/xde-input.desktop \
 	src/applications/xde-logout.desktop \
+	src/applications/xde-pager.desktop \
 	src/applications/xde-panel.desktop \
 	src/applications/xde-run.desktop \
 	src/applications/xde-setbg.desktop \
+	src/applications/xde-watch.desktop \
+	src/applications/xde-xlock.desktop \
+	src/applications/xdg-launch.desktop \
+	src/applications/xdg-traymenu.desktop \
 	src/applications/xditview.desktop \
 	src/applications/xdpyinfo.desktop \
 	src/applications/xdvi.desktop \
 	src/applications/xev.desktop \
 	src/applications/xeyes.desktop \
+	src/applications/xfburn.desktop \
+	src/applications/xfce4-about.desktop \
 	src/applications/xfce4-terminal.desktop \
 	src/applications/xfe.desktop \
+	src/applications/xfi.desktop \
 	src/applications/xfig.desktop \
 	src/applications/xfontsel.desktop \
+	src/applications/xfp.desktop \
+	src/applications/xfv.desktop \
+	src/applications/xfw.desktop \
+	src/applications/xgalaga.desktop \
 	src/applications/xinput.desktop \
 	src/applications/xkbvleds.desktop \
 	src/applications/xkbwatch.desktop \
@@ -257,19 +453,31 @@ dist_appl_DATA = \
 	src/applications/xmag.desktop \
 	src/applications/xman.desktop \
 	src/applications/xmodmap.desktop \
+	src/applications/xpaint.desktop \
 	src/applications/xpdf.desktop \
+	src/applications/xplanetFX.desktop \
 	src/applications/xprop.desktop \
 	src/applications/xrandr.desktop \
 	src/applications/xrefresh.desktop \
 	src/applications/xrestop.desktop \
+	src/applications/xsensors.desktop \
 	src/applications/xset.desktop \
 	src/applications/xterm.desktop \
+	src/applications/xtetris.desktop \
 	src/applications/xvidtune.desktop \
 	src/applications/xvinfo.desktop \
 	src/applications/xwd.desktop \
 	src/applications/xwininfo.desktop \
 	src/applications/xwud.desktop \
-	src/applications/zat.desktop
+	src/applications/xzgv.desktop \
+	src/applications/yelp.desktop \
+	src/applications/zalc.desktop \
+	src/applications/zat.desktop \
+	src/applications/zathura.desktop \
+	src/applications/zathura-pdf-poppler.desktop \
+	src/applications/zathura-ps.desktop \
+	src/applications/zenmap.desktop \
+	src/applications/zenmap-root.desktop
 
 #dist_sess_DATA = \
 #	src/xsessions/2bwm.desktop \
