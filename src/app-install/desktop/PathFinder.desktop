@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=PathFinder
+GenericName=File Manager
+Comment=File browser
+Icon=PathFinder
+TryExec=PathFinder
+Exec=PathFinder
+Terminal=false
+Categories=System;FileTools;FileManager;
+StartupNotify=false
+StartupWMClass=PathFinder
+X-Arch-Package=fox 1:1.6.50-1
+X-Arch-Package-Name=fox
+X-Arch-Package-Version=1:1.6.50-1
+X-Arch-Package-Description=Free Objects for X: GUI Toolkit for C++
+X-Arch-Package-URL=http://www.fox-toolkit.org/

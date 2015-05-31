@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=X Font Select
+GenericName=Font Selector
+Comment=Select an X font
+Icon=xlogo
+TryExec=xfontsel
+Exec=xfontsel
+Terminal=false
+Categories=X-X11;Application;X-XTool;
+StartupNotify=false
+StartupWMClass=xfontsel
+X-Arch-Package=xorg-xfontsel 1.0.5-1
+X-Arch-Package-Name=xorg-xfontsel
+X-Arch-Package-Version=1.0.5-1
+X-Arch-Package-Description=Point and click selection of X11 font names
+X-Arch-Package-URL=http://xorg.freedesktop.org/
+X-AfterStep-IndexName=xfontsel

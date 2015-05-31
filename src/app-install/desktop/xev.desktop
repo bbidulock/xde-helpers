@@ -1,0 +1,18 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=X Events
+GenericName=xev
+Comment=List X events
+Icon=xlogo
+TryExec=xev
+Exec=xev
+Terminal=true
+Categories=X-X11;Application;X-XTool;
+StartupNotify=false
+X-Arch-Package=xorg-xev 1.2.2-1
+X-Arch-Package-Name=xorg-xev
+X-Arch-Package-Version=1.2.2-1
+X-Arch-Package-Description=Print contents of X events
+X-Arch-Package-URL=http://xorg.freedesktop.org/

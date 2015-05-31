@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Geoclue Demo agent
+GenericName=Demo geoclue agent
+Icon=mark-location-symbolic
+TryExec=/usr/lib/geoclue2/geoclue-2.0/demos/agent
+Exec=/usr/lib/geoclue2/geoclue-2.0/demos/agent
+Terminal=false
+NoDisplay=true
+Keywords=geolocation;
+StartupNotify=false
+X-Arch-Package=geoclue2 2.2.0-2

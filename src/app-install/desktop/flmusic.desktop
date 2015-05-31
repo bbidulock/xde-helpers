@@ -1,0 +1,17 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Flmusic
+Comment=Very simple CD/audio player
+Icon=flmusic
+TryExec=flmusic
+Exec=flmusic
+Terminal=false
+Categories=AudioVideo;Audio;Player;
+StartupNotify=false
+X-Arch-Package=flmusic 1.2.1-1
+X-Arch-Package-Name=flmusic
+X-Arch-Package-Version=1.2.1-1
+X-Arch-Package-Description=Very simple CD/audio player application for FLTK
+X-Arch-Package-URL=http://home.arcor.de/szukw000/english_index.html

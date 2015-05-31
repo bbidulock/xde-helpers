@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Binary Clock Dock App
+GenericName=Clock
+Comment=Binary clock dock app
+Icon=GNUstep3D
+TryExec=/usr/bin/wmBinClock
+Exec=wmBinClock
+Terminal=false
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+Categories=DockApp;WMAKER;
+StartupNotify=false
+StartupWMClass=wmBinClock
+X-Arch-Package=wmbinclock 0.5-3
+X-Arch-Package-Name=wmbinclock
+X-Arch-Package-Version=0.5-3
+X-Arch-Package-Description=A dockable WindowMaker app (docklet) binary clock.
+X-Arch-Package-URL=http://wmbinclock.sourceforge.net/

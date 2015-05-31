@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=XDG Launch
+Comment=Launch a Desktop Entry
+Icon=system-run
+TryExec=/usr/bin/xdg-launch
+Exec=/usr/bin/xdg-launch
+Terminal=false
+NoDisplay=true
+Categories=XDG;System;
+MimeType=application/x-desktop
+StartupNotify=true
+X-Arch-Package=xdg-launch 0.4-1
+X-Arch-Package-Name=xdg-launch
+X-Arch-Package-Version=0.4-1
+X-Arch-Package-Description=A command line XDG compliant launcher
+X-Arch-Package-URL=http://github.com/bbidulock/xdg-launch

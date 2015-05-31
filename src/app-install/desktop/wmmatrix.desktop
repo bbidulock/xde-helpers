@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=wmMatrix
+GenericName=Dock App
+Comment=View "The Matrix" in a dock app
+Icon=/usr/share/icons/mini/wmMatrix.xpm
+TryExec=/usr/bin/wmmatrix
+Exec=wmmatrix
+Terminal=false
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+Categories=DockApp;WMAKER;
+StartupNotify=false
+StartupWMClass=wmmatrix
+X-Arch-Package=wmmatrix

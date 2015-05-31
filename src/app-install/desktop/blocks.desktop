@@ -1,0 +1,17 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Block Attack!
+Comment=Block Attack! Game
+Icon=blocks
+TryExec=blocks
+Exec=blocks
+Terminal=false
+Categories=Game;BlocksGame;
+StartupNotify=false
+X-Arch-Package=fltk-games 1.3.3-4
+X-Arch-Package-Name=fltk-games
+X-Arch-Package-Version=1.3.3-4
+X-Arch-Package-Description=Example games that accompany FLTK: blocks, checkers and sudoku
+X-Arch-Package-URL=http://www.fltk.org/

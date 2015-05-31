@@ -1,0 +1,25 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=i3
+GenericName=Window Manager
+GenericName[fr]=Gestionnaire de Fenêtres
+GenericName[pt]=Gestor de Janelas
+Comment=improved dynamic tiling window manager
+Icon=i3
+TryExec=i3
+Exec=i3
+Terminal=false
+NoDisplay=true
+Categories=WindowManager;Application;System;
+StartupNotify=false
+X-GNOME-Autostart-Notify=false
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-WMName=i3
+X-Arch-Package=i3-wm 4.10.2-1
+X-Arch-Package-Name=i3-wm
+X-Arch-Package-Version=4.10.2-1
+X-Arch-Package-Description=An improved dynamic tiling window manager
+X-Arch-Package-URL=http://i3wm.org/

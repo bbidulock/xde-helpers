@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Fluxbox Panel
+GenericName=fbpanel 6.1
+Comment=Fluxbox Panel
+Icon=/usr/share/fbpanel/images/logo.png
+TryExec=/usr/bin/fbpanel
+Exec=fbpanel
+Terminal=false
+OnlyShowIn=FLUXBOX;BLACKBOX;
+Categories=GTK;Fluxbox;System;Utility;
+StartupNotify=false
+StartupWMClass=fbpanel
+X-GNOME-Autostart-enabled=true
+X-Arch-Package=fbpanel-svn 521-2
+X-Arch-Package-Name=fbpanel-svn
+X-Arch-Package-Version=521-2
+X-Arch-Package-Description=NetWM compliant desktop panel
+X-Arch-Package-URL=http://fbpanel.sourceforge.net/

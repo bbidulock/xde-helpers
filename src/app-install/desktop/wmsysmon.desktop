@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=System Monitor
+GenericName=Monitor
+Comment=Monitor system in a dock app
+Icon=GNUstep3D
+TryExec=/usr/bin/wmsysmon
+Exec=wmsysmon
+Terminal=false
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+Categories=DockApp;WMAKER;
+StartupNotify=false
+X-Arch-Package=wmsysmon 0.7.7-2
+X-Arch-Package-Name=wmsysmon
+X-Arch-Package-Version=0.7.7-2
+X-Arch-Package-Description=A WindowMaker dock applet for system monitoring.
+X-Arch-Package-URL=http://www.gnugeneration.com/software/

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Analog and Digital Clock
+GenericName=Clock
+Comment=Analog and digital clock dock app
+Icon=GNUstep3D
+TryExec=/usr/bin/wmtime
+Exec=wmtime
+Terminal=false
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+Categories=DockApp;WMAKER;
+StartupNotify=false
+StartupWMClass=wmtime
+X-Arch-Package=wmtime 1.0b2-3
+X-Arch-Package-Name=wmtime
+X-Arch-Package-Version=1.0b2-3
+X-Arch-Package-Description=Analog/digital clock dockapp for Window Maker
+X-Arch-Package-URL=http://web.cs.mun.ca/~gstarkes/wmaker/dockapps/time.html#wmtime

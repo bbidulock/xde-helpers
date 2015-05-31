@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Remmina Applet
+GenericName=VNC Viewer
+Comment=Connect to remote desktops through the applet menu
+Icon=remmina
+TryExec=/usr/bin/remmina
+Exec=remmina -i
+Terminal=false
+Hidden=true
+Categories=Network;
+StartupNotify=true
+X-Arch-Package=remmina-gtk2 1.0.0-3
+X-Arch-Package-Name=remmina-gtk2
+X-Arch-Package-Version=1.0.0-3
+X-Arch-Package-Description=Remmina is a remote desktop client written in GTK+. 
+X-Arch-Package-URL=http://remmina.sourceforge.net/

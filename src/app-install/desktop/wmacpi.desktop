@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Battery Dock App (ACPI)
+GenericName=Battery Monitor
+Comment=A battery status monitor dock app for ACPI
+Icon=GNUstep3D
+TryExec=/usr/bin/wmacpi
+Exec=wmacpi
+Terminal=false
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+Categories=DockApp;WMAKER;
+StartupNotify=false
+StartupWMClass=wmacpi
+X-Arch-Package=wmacpi 2.2rc5-1
+X-Arch-Package-Name=wmacpi
+X-Arch-Package-Version=2.2rc5-1
+X-Arch-Package-Description=Battery monitor dockapp for Window Maker that doesn't depend on HAL
+X-Arch-Package-URL=http://himi.org/wmacpi/

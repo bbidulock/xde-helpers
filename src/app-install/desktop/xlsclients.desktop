@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=X Display Clients
+GenericName=Xlsclients
+Comment=List the clients of the current display.
+Icon=xlogo
+TryExec=xlsclients
+Exec=xlsclients -a -l | gxmessage -name xlsclients -geometry 400x400 -font 'Liberation Mono 8' -title 'X Display Clients' -file -
+Terminal=false
+Categories=X-X11;Application;X-XTool;
+StartupNotify=false
+StartupWMClass=xlsclients
+X-Arch-Package=xorg-xlsclients 1.1.3-1
+X-Arch-Package-Name=xorg-xlsclients
+X-Arch-Package-Version=1.1.3-1
+X-Arch-Package-Description=List client applications running on a display
+X-Arch-Package-URL=http://xorg.freedesktop.org/

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=CPU Load Dock App (bars)
+GenericName=Load Monitor
+Comment=Show the CPU load
+Icon=GNUstep3D
+TryExec=/usr/bin/wmcpu
+Exec=wmcpu
+Terminal=false
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+Categories=DockApp;WMAKER;
+StartupNotify=false
+StartupWMClass=wmcpu
+X-Arch-Package=wmcpu 1.4-3
+X-Arch-Package-Name=wmcpu
+X-Arch-Package-Version=1.4-3
+X-Arch-Package-Description=Dockapp CPU monitor resembling Xosview.
+X-Arch-Package-URL=http://www.ne.jp/asahi/linux/timecop/#wmcpu

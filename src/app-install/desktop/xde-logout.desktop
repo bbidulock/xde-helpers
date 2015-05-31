@@ -1,0 +1,26 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Logout
+Name[de]=Abmelden
+Name[fi]=Kirjaudu ulos
+Name[pt]=Terminar sessão
+Name[zh_TW]=登出
+Comment=Logout, shutdown or reboot
+Comment[de]=Abmelden, herunterfahren oder neu starten
+Comment[fi]=Kirjaudu ulos, sammuta tai käynnistä tietokone uudelleen
+Comment[pt]=Terminar sessão, desligar ou reiniciar
+Comment[zh_TW]=登出、關機、或重新開機
+Icon=gnome-logout
+TryExec=xde-logout
+Exec=xde-logout
+Terminal=false
+NoDisplay=true
+NotShowIn=GNOME;KDE;XFCE;LXDE;
+StartupNotify=false
+X-Arch-Package=xde-session-git 1.1.0.g13a084c-1
+X-Arch-Package-Name=xde-session-git
+X-Arch-Package-Version=1.1.0.g13a084c-1
+X-Arch-Package-Description=X Desktop Environment Display and Session Management
+X-Arch-Package-URL=https://github.com/bbidulock/xde-session

@@ -1,0 +1,29 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=wmTop
+GenericName=System Monitor
+Comment=A dock app for monitoring cpu usage
+Icon=GNUstep3D
+TryExec=/usr/bin/wmtop
+Exec=wmtop
+Terminal=false
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+Categories=DockApp;WMAKER;
+StartupNotify=false
+StartupWMClass=wmtop
+X-Arch-Package=wmtop 0.84-3
+X-Arch-Package-Name=wmtop
+X-Arch-Package-Version=0.84-3
+X-Arch-Package-Description=wmapplet for monitoring cpu usage
+X-Arch-Package-URL=http://wmtop.sourceforge.net/
+Action=Neon;LCD;
+
+[Desktop Action Neon]
+Name=Neon pixmap
+Exec=wmtop -a 1
+
+[Desktop Action LCD]
+Name=Liquid Crystal Display pixmap
+Exec=wmtop -a 2

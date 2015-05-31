@@ -1,0 +1,17 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=systemadm
+Comment=Manage Systemd Units
+Icon=applications-system
+TryExec=systemadm
+Exec=systemadm
+Terminal=false
+Categories=System;Settings;
+StartupNotify=false
+X-Arch-Package=systemd-ui-git 3.2.g4e6ab2e-1
+X-Arch-Package-Name=systemd-ui-git
+X-Arch-Package-Version=3.2.g4e6ab2e-1
+X-Arch-Package-Description=Systemd Session and Startup Manager GUI (Git version)
+X-Arch-Package-URL=https://github.com/systemd/systemd-ui

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Eeschema
+GenericName=Electronic schematic design
+GenericName[fr]=Saisie de schéma électronique
+Comment=Design an electronic schematic
+Comment[fr]=Dessiner des schémas électroniques
+Icon=eeschema
+TryExec=eeschema
+Exec=eeschema
+Terminal=false
+Categories=Development;Electronics
+MimeType=application/x-kicad-schematic;
+StartupNotify=false
+X-Arch-Package=kicad 20130518-3
+X-Arch-Package-Name=kicad
+X-Arch-Package-Version=20130518-3
+X-Arch-Package-Description=Electronic schematic and printed circuit board (PCB) design tools
+X-Arch-Package-URL=http://iut-tice.ujf-grenoble.fr/kicad/

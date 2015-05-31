@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=ROX Filer
+Icon=rox
+TryExec=rox
+Exec=rox
+Terminal=false
+Categories=System;Utility;Core;FileManager;
+StartupNotify=false
+X-Arch-Package=rox 2.11-2
+X-Arch-Package-Name=rox
+X-Arch-Package-Version=2.11-2
+X-Arch-Package-Description=A small and fast file manager which can optionally manage the desktop background and panels
+X-Arch-Package-URL=http://roscidus.com/desktop/

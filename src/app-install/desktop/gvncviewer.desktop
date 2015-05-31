@@ -1,0 +1,18 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Gtk VNC Viewer
+GenericName=gtk-vnc 0.5.2
+Comment=VNC client application
+Icon=gnome-remote-desktop
+TryExec=/usr/bin/gvncviewer
+Exec=/usr/bin/gvncviewer
+Terminal=false
+Categories=Application;Utility;
+StartupNotify=false
+X-Arch-Package=gtk-vnc-gtk2 0.5.4-1
+X-Arch-Package-Name=gtk-vnc-gtk2
+X-Arch-Package-Version=0.5.4-1
+X-Arch-Package-Description=A VNC viewer widget for GTK built for GTK2 only
+X-Arch-Package-URL=https://wiki.gnome.org/Projects/gtk-vnc

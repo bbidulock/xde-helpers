@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Trash Can Dock App
+GenericName=Trash Can
+Comment=Trash can dock app
+Icon=GNUstep3D
+TryExec=/usr/bin/wmtrash
+Exec=wmtrash
+Terminal=false
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+Categories=DockApp;WMAKER;
+StartupNotify=false
+X-Arch-Package=wmtrash 0.2-4
+X-Arch-Package-Name=wmtrash
+X-Arch-Package-Version=0.2-4
+X-Arch-Package-Description=Simple yet useful trash dockapp
+X-Arch-Package-URL=http://web.archive.org/web/20121201053438/http://dockapps.windowmaker.org/file.php/id/266

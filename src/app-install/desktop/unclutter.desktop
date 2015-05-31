@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Unclutter
+GenericName=unclutter 8
+Comment=Remove cursor after a timeout
+Icon=wmaker-keyboard.xpm
+TryExec=/usr/bin/unclutter
+Exec=/usr/bin/unclutter
+Terminal=false
+Categories=Utility;System;
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
+X-Arch-Package=unclutter 8-10
+X-Arch-Package-Name=unclutter
+X-Arch-Package-Version=8-10
+X-Arch-Package-Description=A small program for hiding the mouse cursor
+X-Arch-Package-URL=http://ftp.x.org/contrib/utilities/unclutter-8.README

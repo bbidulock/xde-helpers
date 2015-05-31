@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Bubble Monitor Dock App
+GenericName=System Monitor
+Comment=Bubble monitor system monitor dock app
+Icon=GNUstep3D
+TryExec=/usr/bin/wmbubble
+Exec=wmbubble
+Terminal=false
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+Categories=DockApp;WMAKER;
+StartupNotify=false
+StartupWMClass=wmbubble
+X-Arch-Package=wmbubble 1.49rc2.r13.gcd98c65-1
+X-Arch-Package-Name=wmbubble
+X-Arch-Package-Version=1.49rc2.r13.gcd98c65-1
+X-Arch-Package-Description=Official maintained fork of timecop's bubblemon-dockapp
+X-Arch-Package-URL=http://github.com/rnjacobs/wmbubble

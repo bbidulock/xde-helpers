@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Bubble Monitor
+GenericName=Amusement
+Comment=Bubble monitor dock app (swimming duck)
+Icon=GNUstep3D
+TryExec=/usr/bin/bubblemon
+Exec=bubblemon
+Terminal=false
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+Categories=DockApp;WMAKER;
+StartupNotify=false
+StartupWMClass=bubblemon
+X-Arch-Package=bubblemon-dockapp 1.46-4
+X-Arch-Package-Name=bubblemon-dockapp
+X-Arch-Package-Version=1.46-4
+X-Arch-Package-Description=This is a system monitoring dockapp, visually based on the GNOME 'BubbleMon' applet
+X-Arch-Package-URL=http://www.ne.jp/asahi/linux/timecop/

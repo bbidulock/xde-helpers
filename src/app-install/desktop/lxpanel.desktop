@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=LXDE Panel
+GenericName=lxpanel 0.5.12
+Comment=Panel for XDG compliant desktop.
+Icon=lxpanel
+TryExec=lxpanel
+Exec=sh -c "lxpanel -p ${XDG_CURRENT_DESKTOP:-default}"
+Terminal=false
+Hidden=true
+OnlyShowIn=FLUXBOX;BLACKBOX;OPENBOX;PEKWM;WMAKER;ADWM;
+Categories=LXDE;System;Utility;
+StartupNotify=false
+StartupWMClass=lxpanel
+X-Arch-Package=lxpanel 0.8.1-1
+X-Arch-Package-Name=lxpanel
+X-Arch-Package-Version=0.8.1-1
+X-Arch-Package-Description=Lightweight X11 desktop panel for LXDE
+X-Arch-Package-URL=http://lxde.org/

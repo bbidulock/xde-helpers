@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=X-XFCE-Helper
+Name=Icecat
+Icon=icecat
+Terminal=false
+StartupNotify=false
+X-XFCE-Binaries=icecat;icecat-gtk2;icecat-gtk;
+X-XFCE-Category=WebBrowser
+X-XFCE-Commands=%B -remote "openURL(about:blank,new-window)";%B;
+X-XFCE-CommandsWithParameter=%B -remote "openURL(%s)";%B %s;

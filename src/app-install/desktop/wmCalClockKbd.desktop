@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Calendar Clock Keyboard Dock App
+GenericName=Clock
+Comment=Calendar clock dock app with keyboard indicator
+Icon=GNUstep3D
+TryExec=/usr/bin/wmCalClockKbd
+Exec=wmCalClockKbd
+Terminal=false
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+Categories=DockApp;WMAKER;
+StartupNotify=false
+StartupWMClass=wmCalClockKbd
+X-Arch-Package=wmcalclockkbd 0.1a-1
+X-Arch-Package-Name=wmcalclockkbd
+X-Arch-Package-Version=0.1a-1
+X-Arch-Package-Description=Simple calendar WM dockapp with integrated keyboard group indicator, based on wmCalClock-1.25
+X-Arch-Package-URL=http://dockapps.windowmaker.org/file.php/id/214

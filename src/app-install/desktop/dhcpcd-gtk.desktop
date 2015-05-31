@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Network Configurator
+GenericName=DHCP Client Daemon Applet
+Comment=Configure and monitor your network connections
+Icon=dhcpcd
+TryExec=dhcpcd-gtk
+Exec=dhcpcd-gtk
+Terminal=false
+NotShowIn=GNOME;KDE;XFCE;
+Categories=GTK;System;TrayIcon;
+StartupNotify=true
+X-GNOME-Autostart-enabled=true
+X-Arch-Package=dhcpcd-ui 0.7.3-1
+X-Arch-Package-Name=dhcpcd-ui
+X-Arch-Package-Version=0.7.3-1
+X-Arch-Package-Description=dhcpcd Monitor in GTK+
+X-Arch-Package-URL=http://roy.marples.name/projects/dhcpcd-ui

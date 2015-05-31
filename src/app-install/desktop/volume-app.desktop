@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Volume Dock App
+GenericName=Volume Control
+Comment=Provide a volume control for the dock
+Icon=GNUstep3D
+TryExec=/usr/bin/volume.app
+Exec=volume.app
+Terminal=false
+OnlyShowIn=BLACKBOX;WMAKER;
+Categories=DockApp;WMAKER;
+StartupNotify=false
+X-Arch-Package=volume-app 1.1a-2
+X-Arch-Package-Name=volume-app
+X-Arch-Package-Version=1.1a-2
+X-Arch-Package-Description=Volume.app is a WM dockapp enabling control of a computer's audio volume level.
+X-Arch-Package-URL=http://volume-app.sourceforge.net/

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=System Tray Docker
+GenericName=System Tray
+Comment=Provide a system tray in the dock
+Icon=GNUstep3D
+TryExec=/usr/bin/peksystray
+Exec=peksystray
+Terminal=false
+OnlyShowIn=OPENBOX;BLACKBOX;WMAKER;
+Categories=DockApp;WMAKER;TrayIcon;System;Utility;
+StartupNotify=false
+X-Arch-Package=peksystray 0.4.0-6
+X-Arch-Package-Name=peksystray
+X-Arch-Package-Version=0.4.0-6
+X-Arch-Package-Description=Peksystray is a small system tray designed for all the light window managers supporting docking.
+X-Arch-Package-URL=http://sourceforge.net/projects/peksystray/

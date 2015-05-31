@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Audio Mixer
+GenericName=Mixer
+Comment=Audio mixer dock app
+Icon=GNUstep3D
+TryExec=/usr/bin/wmsmixer
+Exec=wmsmixer -w
+Terminal=false
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+Categories=DockApp;WMAKER;
+StartupNotify=false
+StartupWMClass=wmsmixer
+X-Arch-Package=wmsmixer 0.5.1-4
+X-Arch-Package-Name=wmsmixer
+X-Arch-Package-Version=0.5.1-4
+X-Arch-Package-Description=a hack to wmmixer which makes some changes to the display
+X-Arch-Package-URL=http://web.archive.org/web/20121021072220/http://dockapps.windowmaker.org/file.php/id/63

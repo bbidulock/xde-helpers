@@ -1,0 +1,25 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Blender
+GenericName=3D modeller
+GenericName[de]=3D-Modellierer
+GenericName[es]=modelador 3D
+GenericName[fr]=modeleur 3D
+GenericName[ru]=Редактор 3D-моделей
+Comment=3D modeling, animation, rendering and post-production
+Comment[de]=3D-Modellierung, Animation, Rendering und Nachbearbeitung
+Comment[es]=modelado 3D, animación, renderizado y post-producción
+Icon=blender
+TryExec=blender
+Exec=blender
+Terminal=false
+Categories=Graphics;3DGraphics;
+MimeType=application/x-blender;
+StartupNotify=false
+X-Arch-Package=blender 16:2.74-3
+X-Arch-Package-Name=blender
+X-Arch-Package-Version=16:2.74-3
+X-Arch-Package-Description=A fully integrated 3D graphics creation suite
+X-Arch-Package-URL=http://www.blender.org

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Calcoo Calculator
+GenericName=Scientific Calculator
+Comment=GTK+ scientific calculator
+Icon=calcoo
+TryExec=/usr/bin/calcoo
+Exec=calcoo
+Terminal=false
+Categories=Application;Education;Science;
+StartupNotify=false
+StartupWMClass=calcoo
+X-Arch-Package=calcoo 1.3.18-4
+X-Arch-Package-Name=calcoo
+X-Arch-Package-Version=1.3.18-4
+X-Arch-Package-Description=RPN and algebraic scientific calculator
+X-Arch-Package-URL=http://calcoo.sourceforge.net

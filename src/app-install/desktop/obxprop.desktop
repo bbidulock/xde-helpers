@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Openbox Window Properties
+GenericName=openbox 3.5.0
+Comment=List the properties of a clicked window.
+Icon=xlogo
+TryExec=obxprop
+Exec=obxprop|gxmessage -name obxprop -geometry 400x400 -font 'Liberation Mono 8' -title 'X Window Properties' -file -
+Terminal=false
+Categories=X-X11;Application;X-XTool;
+StartupNotify=false
+StartupWMClass=obxprop
+X-Arch-Package=openbox 3.5.2-7
+X-Arch-Package-Name=openbox
+X-Arch-Package-Version=3.5.2-7
+X-Arch-Package-Description=Highly configurable and lightweight X11 window manager
+X-Arch-Package-URL=http://openbox.org

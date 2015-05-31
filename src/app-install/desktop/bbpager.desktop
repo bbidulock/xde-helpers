@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=BlackBox Pager
+GenericName=Desktop Pager
+Comment=Place a pager on the blackbox root.
+Icon=blackbox
+TryExec=bbpager
+Exec=bbpager
+Terminal=false
+OnlyShowIn=BLACKBOX;FLUXBOX;
+Categories=Utility;Pager;
+StartupNotify=false
+StartupWMClass=bbpager
+X-GNOME-Autostart-enabled=false
+X-Arch-Package=bbpager 0.4.7-5
+X-Arch-Package-Name=bbpager
+X-Arch-Package-Version=0.4.7-5
+X-Arch-Package-Description=A dockable pager for Blackbox and other window managers
+X-Arch-Package-URL=http://bbtools.sourceforge.net/download.php?file=6

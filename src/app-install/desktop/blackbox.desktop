@@ -1,0 +1,37 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Blackbox
+GenericName=Window Manager
+GenericName[fr]=Gestionnaire de Fenêtres
+GenericName[pt]=Gestor de Janelas
+Comment=Highly configurable and low resource X11 Window manager
+Icon=blackbox
+TryExec=blackbox
+Exec=blackbox
+Terminal=false
+NoDisplay=true
+Categories=WindowManager;Application;System;
+StartupNotify=false
+X-GNOME-Autostart-Notify=false
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-WMName=blackbox
+X-Arch-Package=blackboxwm 0.71.1-1
+X-Arch-Package-Name=blackboxwm
+X-Arch-Package-Version=0.71.1-1
+X-Arch-Package-Description=A window manager for X11 (maintained fork of blackbox)
+X-Arch-Package-URL=http://github.com/bbidulock/blackboxwm
+Actions=XDE;
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Exec=xde-session -desktop BLACKBOX -startwm start-blackbox
+Comment=Blackbox in an XDE session
+
+[Window Manager]
+SessionManaged=true
+StartupNotification=false
+X-XDE-Managed=true

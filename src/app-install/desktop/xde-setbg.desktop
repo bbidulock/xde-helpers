@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=XDE Background
+GenericName=Input
+Comment=Provide themed multiple backgrounds
+Icon=keyboard
+TryExec=xde-setbg
+Exec=xde-setbg
+Terminal=false
+NotShowIn=GNOME;KDE;XFCE;LXDE;WMAKER;
+Categories=Settings
+StartupNotify=false
+X-GNOME-Autostart-enabled=false
+X-Arch-Package=xde-ctools-git 0.1.89.gaaf6c9a-1
+X-Arch-Package-Name=xde-ctools-git
+X-Arch-Package-Version=0.1.89.gaaf6c9a-1
+X-Arch-Package-Description=X Desktop Environment C-language tools
+X-Arch-Package-URL=https://github.com/bbidulock/xde-ctools

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Blob Dock App
+GenericName=Game
+Comment=Show blobs moving around
+Icon=GNUstep3D
+TryExec=/usr/bin/wmblob
+Exec=wmblob
+Terminal=false
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+Categories=DockApp;WMAKER;
+StartupNotify=false
+StartupWMClass=wmblob
+X-Arch-Package=wmblob 1.0.4-1
+X-Arch-Package-Name=wmblob
+X-Arch-Package-Version=1.0.4-1
+X-Arch-Package-Description=wmblob shows some blobs moving around
+X-Arch-Package-URL=https://github.com/bbidulock/wmblob

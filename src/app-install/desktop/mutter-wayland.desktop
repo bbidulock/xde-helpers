@@ -1,0 +1,24 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Mutter (wayland compositor)
+TryExec=mutter
+Exec=mutter --wayland --display-server
+Terminal=false
+NoDisplay=true
+StartupNotify=false
+X-GNOME-Autostart-Notify=true
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-WMName=Mutter
+X-GnomeWMSettingsLibrary=metacity
+X-GNOME-WMSettingsModule=metacity
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=mutter
+X-GNOME-Bugzilla-Component=general
+X-Arch-Package=mutter 3.16.2-1
+X-Arch-Package-Name=mutter
+X-Arch-Package-Version=3.16.2-1
+X-Arch-Package-Description=A window manager for GNOME
+X-Arch-Package-URL=http://www.gnome.org

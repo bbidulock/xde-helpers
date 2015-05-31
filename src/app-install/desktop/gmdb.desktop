@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=MDB Viewer
+Comment=View and export Microsoft Access databases
+Icon=gmdb2
+TryExec=gmdb2
+Exec=gmdb2 %f
+Terminal=false
+Categories=Office;
+Keywords=Microsoft;Access;database;SQL;Jet;schema;query;mdb;accdb;
+MimeType=application/vnd.ms-access;application/x-msaccess;application/msaccess;application/vnd.msaccess;application/mdb;application/x-mdb;
+StartupNotify=true
+X-Arch-Package=mdbtools-git 0.7.r184.g22b5b62-1
+X-Arch-Package-Name=mdbtools-git
+X-Arch-Package-Version=0.7.r184.g22b5b62-1
+X-Arch-Package-Description=A set of libraries and utilities for reading Microsoft Access database (MDB) files.
+X-Arch-Package-URL=https://github.com/brianb/mdbtools

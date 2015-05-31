@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Bvi
+GenericName=Binary Editor
+Comment=Binary file editor with vi-like interface
+Icon=bvi
+TryExec=bvi
+Exec=bvi %f
+Terminal=true
+Categories=ConsoleOnly;Utility;TextEditor;
+MimeType=application/octet-stream;
+StartupNotify=false
+X-Arch-Package=bvi 1.4.0-2
+X-Arch-Package-Name=bvi
+X-Arch-Package-Version=1.4.0-2
+X-Arch-Package-Description=A display-oriented editor for binary files operate like 'vi' editor
+X-Arch-Package-URL=http://bvi.sourceforge.net

@@ -1,0 +1,17 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Gaw Gtk Analog Wave viewer
+Comment=Gtk Analog Wave viewer
+Icon=gaw.png
+TryExec=gaw
+Exec=gaw
+Terminal=false
+Categories=GTK;Graphics;
+StartupNotify=false
+X-Arch-Package=gaw 20111016-1
+X-Arch-Package-Name=gaw
+X-Arch-Package-Version=20111016-1
+X-Arch-Package-Description=Gtk analog waveform viewer - tool for viewing analog data, such as the output of Spice simulations
+X-Arch-Package-URL=http://www.rvq.fr/linux/gaw.php

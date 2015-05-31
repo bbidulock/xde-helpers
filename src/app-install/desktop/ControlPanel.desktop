@@ -1,0 +1,18 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=FOX Desktop Setup
+Comment=Setup desktop appearance for FOX applications
+Icon=preferences-desktop-theme
+TryExec=ControlPanel
+Exec=ControlPanel
+Terminal=false
+Categories=Settings;DesktopSettings;
+StartupNotify=false
+StartupWMClass=FOX-DESKTOP
+X-Arch-Package=fox 1:1.6.50-1
+X-Arch-Package-Name=fox
+X-Arch-Package-Version=1:1.6.50-1
+X-Arch-Package-Description=Free Objects for X: GUI Toolkit for C++
+X-Arch-Package-URL=http://www.fox-toolkit.org/

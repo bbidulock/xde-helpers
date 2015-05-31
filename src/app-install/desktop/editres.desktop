@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=X Resource Editor
+GenericName=X Tool
+Comment=Resource editor for X Toolkit applications
+Icon=xlogo
+TryExec=editres
+Exec=editres
+Terminal=false
+Categories=X-X11;Application;X-XTool;
+StartupNotify=false
+StartupWMClass=editres
+X-Arch-Package=xorg-editres 1.0.6-1
+X-Arch-Package-Name=xorg-editres
+X-Arch-Package-Version=1.0.6-1
+X-Arch-Package-Description=a dynamic resource editor for X Toolkit applications
+X-Arch-Package-URL=http://xorg.freedesktop.org/
+X-AfterStep-IndexName=editres

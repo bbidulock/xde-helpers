@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Compton
+GenericName=X compositor
+Comment=An X compositor
+Icon=xcompmgr
+TryExec=compton
+Exec=compton --config ~/.config/compton/compton.conf
+Terminal=false
+Hidden=true
+OnlyShowIn=FLUXBOX;BLACKBOX;OPENBOX;ICEWM;WMAKER;FVWM;JWM;PEKWM;ADWM;WAIMEA;
+Categories=Utility;
+StartupNotify=false
+X-Arch-Package=compton-git 0.1_beta2.59.g23d1dd1-1
+X-Arch-Package-Name=compton-git
+X-Arch-Package-Version=0.1_beta2.59.g23d1dd1-1
+X-Arch-Package-Description=X Compositor (a fork of xcompmgr-dana) (git-version)
+X-Arch-Package-URL=https://github.com/chjj/compton

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Run Command
+GenericName=Launcher
+Comment=Run a command from the window manager in the background.
+Icon=system-run
+TryExec=gmrun
+Exec=gmrun
+Terminal=false
+Categories=System;Utility;
+StartupNotify=false
+StartupWMClass=gmrun
+X-Arch-Package=gmrun-xdg 0.9.2-4
+X-Arch-Package-Name=gmrun-xdg
+X-Arch-Package-Version=0.9.2-4
+X-Arch-Package-Description=A simple program which provides a run program window (XDG aware)
+X-Arch-Package-URL=http://sf.net/projects/gmrun

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Flipse Dock
+GenericName=Dock
+Comment=Swallow unmanaged dock apps in a window
+Icon=GNUstep3D
+TryExec=/usr/bin/flipse
+Exec=flipse
+Terminal=false
+NotShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+Categories=DockApp;WMAKER;
+StartupNotify=false
+StartupWMClass=flipse
+X-Arch-Package=flipse r23.9d4f4df-1
+X-Arch-Package-Name=flipse
+X-Arch-Package-Version=r23.9d4f4df-1
+X-Arch-Package-Description=Windowmaker Dockapps in one window
+X-Arch-Package-URL=http://github.com/niklas/flipse

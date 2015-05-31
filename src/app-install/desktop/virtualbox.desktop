@@ -1,0 +1,25 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Oracle VM VirtualBox
+GenericName=Virtual Machine
+Comment=Run several virtual systems on a single host computer
+Comment[de]=Mehrere virtuelle Maschinen auf einem einzigen Rechner ausführen
+Comment[it]=Esegui più macchine virtuali su un singolo computer
+Comment[ko]=가상 머신
+Comment[pl]=Uruchamianie wielu systemów wirtualnych na jednym komputerze gospodarza
+Comment[sv]=Kör flera virtuella system på en enda värddator
+Icon=virtualbox
+TryExec=VirtualBox
+Exec=VirtualBox %U
+Terminal=false
+Categories=Emulator;System;X-MandrivaLinux-System;Application;
+MimeType=application/x-virtualbox-vbox;application/x-virtualbox-vbox-extpack;application/x-virtualbox-ovf;application/x-virtualbox-ova;
+StartupNotify=false
+DocPath=file:///usr/share/doc/virtualbox/UserManual.pdf
+X-Arch-Package=virtualbox 4.3.28-1
+X-Arch-Package-Name=virtualbox
+X-Arch-Package-Version=4.3.28-1
+X-Arch-Package-Description=Powerful x86 virtualization for enterprise as well as home use
+X-Arch-Package-URL=http://virtualbox.org

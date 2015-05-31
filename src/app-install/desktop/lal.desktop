@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Clock Dock App
+GenericName=Clock
+Comment=Clock dock app
+Icon=GNUstep3D
+TryExec=/usr/bin/lal
+Exec=lal
+Terminal=false
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+Categories=DockApp;WMAKER;
+StartupNotify=false
+X-Arch-Package=lal 1.1-3
+X-Arch-Package-Name=lal
+X-Arch-Package-Version=1.1-3
+X-Arch-Package-Description=A simple dockapp to display the date and/or time
+X-Arch-Package-URL=http://projects.l3ib.org/lal/

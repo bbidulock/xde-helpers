@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Audio Mixer
+GenericName=Mixer
+Comment=Audio mixer dock app
+Icon=GNUstep3D
+TryExec=/usr/bin/wmmixer
+Exec=wmmixer -w
+Terminal=false
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+Categories=DockApp;WMAKER;
+StartupNotify=false
+StartupWMClass=wmmixer
+X-Arch-Package=wmmixer 1.7+20141005-1
+X-Arch-Package-Name=wmmixer
+X-Arch-Package-Version=1.7+20141005-1
+X-Arch-Package-Description=A mixer application written for the WindowMaker dock.
+X-Arch-Package-URL=http://windowmaker.org/dockapps/?name=wmmixer

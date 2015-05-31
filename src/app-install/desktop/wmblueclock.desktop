@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Blue Clock Dock App
+GenericName=Clock
+Comment=A blue clock dock app
+Icon=GNUstep3D
+TryExec=/usr/bin/wmblueclock
+Exec=wmblueclock
+Terminal=false
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+Categories=DockApp;WMAKER;
+StartupNotify=false
+StartupWMClass=wmblueclock
+X-Arch-Package=wmblueclock 3-1
+X-Arch-Package-Name=wmblueclock
+X-Arch-Package-Version=3-1
+X-Arch-Package-Description=A clock dockapp (for WindowMaker, OpenBOx, AfterStep, etc.)
+X-Arch-Package-URL=http://github.com/vampirefrog/wmblueclock

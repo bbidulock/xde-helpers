@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Menu Tray
+GenericName=Menu
+Comment=A simple GTK+ application menu tray
+Icon=start-here
+TryExec=/usr/bin/menutray
+Exec=menutray -i
+Terminal=false
+Hidden=true
+NotShowIn=GNOME;KDE;XFCE;LXDE;
+Categories=TrayIcon;System;Utility;
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
+X-Arch-Package=menutray 0.43-1
+X-Arch-Package-Name=menutray
+X-Arch-Package-Version=0.43-1
+X-Arch-Package-Description=A simple GTK+ application menu tray, written in Perl.
+X-Arch-Package-URL=https://github.com/trizen/menutray

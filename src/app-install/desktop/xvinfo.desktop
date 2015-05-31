@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=X Video Information
+GenericName=XVInfo
+Comment=List X video information
+Icon=xlogo
+TryExec=xvinfo
+Exec=xvinfo|gxmessage -name xvinfo -font 'Liberation Mono 8' -title 'X Video Information' -file -
+Terminal=false
+Categories=X-X11;Application;X-XTool;
+StartupNotify=false
+StartupWMClass=xvinfo
+X-Arch-Package=xorg-xvinfo 1.1.3-1
+X-Arch-Package-Name=xorg-xvinfo
+X-Arch-Package-Version=1.1.3-1
+X-Arch-Package-Description=Prints out the capabilities of any video adaptors associated with the display that are accessible through the X-Video extension
+X-Arch-Package-URL=http://xorg.freedesktop.org/

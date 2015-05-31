@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Alarm Clock Dock App
+GenericName=Clock
+Comment=Alarm clock dock app
+Icon=GNUstep3D
+TryExec=/usr/bin/wmclockmon
+Exec=wmclockmon
+Terminal=false
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+Categories=DockApp;WMAKER;
+StartupNotify=false
+StartupWMClass=wmclockmon
+X-Arch-Package=wmclockmon 0.8.1-6
+X-Arch-Package-Name=wmclockmon
+X-Arch-Package-Version=0.8.1-6
+X-Arch-Package-Description=A dockapp which displays a clock in 12/24h mode with alarm mode and 3 different LCD styles
+X-Arch-Package-URL=http://tnemeth.free.fr/projets/dockapps.html

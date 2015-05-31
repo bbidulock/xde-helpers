@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=LXDE Panel Settings
+GenericName=lxpanel 0.5.12
+Comment=Configure the LXDE panel
+Icon=preferences-desktop
+TryExec=/usr/bin/lxpanelctl
+Exec=lxpanelctl config
+Terminal=false
+Categories=LXDE;System;Settings;
+StartupNotify=false
+StartupWMClass=lxpanel
+X-Arch-Package=lxpanel 0.8.1-1
+X-Arch-Package-Name=lxpanel
+X-Arch-Package-Version=0.8.1-1
+X-Arch-Package-Description=Lightweight X11 desktop panel for LXDE
+X-Arch-Package-URL=http://lxde.org/

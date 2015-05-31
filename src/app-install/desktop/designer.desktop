@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Qt Designer
+GenericName=Interface Designer
+Comment=Design GUIs for Qt applications
+Icon=QtProject-designer
+TryExec=/usr/lib/qt/bin/designer
+Exec=/usr/lib/qt/bin/designer
+Terminal=false
+Categories=Qt;Development;
+MimeType=application/x-designer;
+StartupNotify=false
+X-Arch-Package=qt5-tools 5.4.1-9
+X-Arch-Package-Name=qt5-tools
+X-Arch-Package-Version=5.4.1-9
+X-Arch-Package-Description=A cross-platform application and UI framework (Development Tools, QtHelp)
+X-Arch-Package-URL=http://qt-project.org/

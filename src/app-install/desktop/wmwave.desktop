@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Wifi Monitor
+GenericName=Monitor
+Comment=Statistics about current WiFi connection
+Icon=GNUstep3D
+TryExec=/usr/bin/wmwave
+Exec=wmwave
+Terminal=false
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+Categories=DockApp;WMAKER;
+StartupNotify=false
+X-Arch-Package=wmwave 0.4-2
+X-Arch-Package-Name=wmwave
+X-Arch-Package-Version=0.4-2
+X-Arch-Package-Description=dockapp to display statistical information about a current wifi connection
+X-Arch-Package-URL=http://wmwave.sourceforge.net

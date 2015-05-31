@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Temperature Sensor Dock App (wmgtemp)
+GenericName=System Monitor
+Comment=A temperature sensor dock app
+Icon=GNUstep3D
+TryExec=/usr/bin/wmgtemp
+Exec=wmgtemp
+Terminal=false
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+Categories=DockApp;WMAKER;
+StartupNotify=false
+StartupWMClass=wmgtemp
+X-Arch-Package=wmgtemp 1.1-3
+X-Arch-Package-Name=wmgtemp
+X-Arch-Package-Version=1.1-3
+X-Arch-Package-Description=Dockapp to graphically display CPU and SYS temperatures.
+X-Arch-Package-URL=http://fluxcode.net/projects/wmgtemp

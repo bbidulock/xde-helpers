@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=X Input
+GenericName=XInput
+Comment=List X input information
+Icon=xlogo
+TryExec=xinput
+Exec=xinput|gxmessage -name xinput -font 'Liberation Mono 8' -title 'X Input Information' -file -
+Terminal=false
+Categories=X-X11;Application;X-XTool;
+StartupNotify=false
+StartupWMClass=xinput
+X-Arch-Package=xorg-xinput 1.6.1-1
+X-Arch-Package-Name=xorg-xinput
+X-Arch-Package-Version=1.6.1-1
+X-Arch-Package-Description=Small commandline tool to configure devices
+X-Arch-Package-URL=http://xorg.freedesktop.org/

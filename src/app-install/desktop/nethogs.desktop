@@ -1,0 +1,18 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Network Hogs
+GenericName=Network Monitor
+Comment=Network top-like monitor
+Icon=system-monitor
+TryExec=nethogs
+Exec=gksudo "xterm -name nethogs -T 'Network Hogs' -e nethogs"
+Terminal=false
+Categories=ConsoleOnly;System;Network;
+StartupNotify=false
+X-Arch-Package=nethogs 0.8.0-3
+X-Arch-Package-Name=nethogs
+X-Arch-Package-Version=0.8.0-3
+X-Arch-Package-Description=A net top tool which displays traffic used per process instead of per IP or interface
+X-Arch-Package-URL=http://nethogs.sourceforge.net

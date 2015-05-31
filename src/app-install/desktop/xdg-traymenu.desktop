@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=XDG Tray Menu
+GenericName=Menu
+Comment=XDG Gtk2 tray menu
+Icon=start-here
+TryExec=xdg-traymenu
+Exec=xdg-traymenu
+Terminal=false
+NotShowIn=GNOME;KDE;XFCE;LXDE;
+Categories=TrayIcon;
+StartupNotify=false
+StartupWMClass=xdg-traymenu
+X-GNOME-Autostart-enabled=true
+X-Arch-Package=xdg-traymenu 0.01.37-1
+X-Arch-Package-Name=xdg-traymenu
+X-Arch-Package-Version=0.01.37-1
+X-Arch-Package-Description=XDG compliant system tray and root menu generator
+X-Arch-Package-URL=https://github.com/bbidulock/xdg-traymenu

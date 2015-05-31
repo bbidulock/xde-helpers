@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Mandelbrot Set Browser Dock App
+GenericName=Amusement
+Comment=Mandelbrot set browser dockapp for WindowMaker
+Icon=GNUstep3D
+TryExec=/usr/bin/wmMand
+Exec=wmMand
+Terminal=false
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+Categories=DockApp;WMAKER;
+StartupNotify=false
+StartupWMClass=wmMand
+X-Arch-Package=wmmand 1.3.2-1
+X-Arch-Package-Name=wmmand
+X-Arch-Package-Version=1.3.2-1
+X-Arch-Package-Description=Mandelbrot set browser docapp for Window Maker
+X-Arch-Package-URL=http://github.com/ciotog/wmMand

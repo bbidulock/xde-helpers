@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=X Window Properties
+GenericName=XProp
+Comment=List the properties of a clicked window.
+Icon=xlogo
+TryExec=xprop
+Exec=xprop|gxmessage -name xprop -geometry 400x400 -font 'Liberation Mono 8' -title 'X Window Properties' -file -
+Terminal=false
+Categories=X-X11;Application;X-XTool;
+StartupNotify=false
+StartupWMClass=xprop
+X-Arch-Package=xorg-xprop 1.2.2-1
+X-Arch-Package-Name=xorg-xprop
+X-Arch-Package-Version=1.2.2-1
+X-Arch-Package-Description=Property displayer for X
+X-Arch-Package-URL=http://xorg.freedesktop.org/

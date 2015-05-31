@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Fluxbox Tray Menu
+GenericName=System Tray Icon
+Comment=Fluxbox root menu in system tray.
+Icon=start-here
+TryExec=/usr/bin/ftmenu
+Exec=ftmenu
+Terminal=false
+Categories=TrayIcon;System;Utility;
+StartupNotify=false
+StartupWMClass=ftmenu
+X-Arch-Package=ftmenu 0.4.0-1
+X-Arch-Package-Name=ftmenu
+X-Arch-Package-Version=0.4.0-1
+X-Arch-Package-Description=Fluxbox menu icon tray
+X-Arch-Package-URL=http://ftmenu.sourceforge.net/

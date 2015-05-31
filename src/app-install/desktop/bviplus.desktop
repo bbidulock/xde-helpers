@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Bvi Plus
+GenericName=Binary Editor
+Comment=Binary file editor with vi-like interface
+Icon=bviplus
+TryExec=bviplus
+Exec=bviplus %f
+Terminal=true
+Categories=ConsoleOnly;Utility;TextEditor;
+MimeType=application/octet-stream;
+StartupNotify=false
+X-Arch-Package=bviplus 0.9.4-1
+X-Arch-Package-Name=bviplus
+X-Arch-Package-Version=0.9.4-1
+X-Arch-Package-Description=Bviplus is an ncurses based hex editor with a vim-like interface.
+X-Arch-Package-URL=http://bviplus.sourceforge.net/

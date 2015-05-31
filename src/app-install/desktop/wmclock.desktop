@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Alarm Clock Dock App
+GenericName=Clock
+Comment=WMClock - An alarm clock dock app
+Icon=GNUstep3D
+TryExec=wmclock
+Exec=wmclock
+Terminal=false
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+Categories=DockApp;WMAKER;
+StartupNotify=false
+StartupWMClass=wmclock
+X-Arch-Package=wmclock 1.0.14-1
+X-Arch-Package-Name=wmclock
+X-Arch-Package-Version=1.0.14-1
+X-Arch-Package-Description=Dockable clock applet for Window Maker
+X-Arch-Package-URL=http://www.bluestop.org/wmclock/

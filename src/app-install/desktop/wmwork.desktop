@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Time Keeper Dock App
+GenericName=Time Keeper
+Comment=A dock app that helps you keep track of time worked on projects
+Icon=GNUstep3D
+TryExec=/usr/bin/wmwork
+Exec=wmwork
+Terminal=false
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+Categories=DockApp;WMAKER;
+StartupNotify=false
+StartupWMClass=wmwork
+X-Arch-Package=wmwork 0.2.5-1
+X-Arch-Package-Name=wmwork
+X-Arch-Package-Version=0.2.5-1
+X-Arch-Package-Description=A dock app that helps you keep track of time worked on projects
+X-Arch-Package-URL=http://web.archive.org/web/20121028075048/http://dockapps.windowmaker.org/file.php/id/25

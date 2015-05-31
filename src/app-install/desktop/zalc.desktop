@@ -1,0 +1,18 @@
+[Desktop Entry]
+Version=1.2.4
+Encoding=UTF-8
+Type=Application
+Name=Zalc
+Comment=A small, FLTK-based calculator
+Comment[ru_RU]=Простой, базирующийся на FLTK калькулятор
+Icon=zalc
+TryExec=zalc
+Exec=zalc
+Terminal=false
+Categories=Utility;
+StartupNotify=false
+X-Arch-Package=zalc 1.2.4-2
+X-Arch-Package-Name=zalc
+X-Arch-Package-Version=1.2.4-2
+X-Arch-Package-Description=A small, FLTK-based calculator
+X-Arch-Package-URL=http://ziggi.org/category/developments/zalc/

@@ -1,0 +1,17 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=UXTerm
+Comment=standard terminal emulator for the X window system
+Icon=xterm-color_48x48
+TryExec=uxterm
+Exec=uxterm
+Terminal=false
+Categories=System;TerminalEmulator;
+StartupNotify=false
+X-Arch-Package=xterm 318-1
+X-Arch-Package-Name=xterm
+X-Arch-Package-Version=318-1
+X-Arch-Package-Description=X Terminal Emulator
+X-Arch-Package-URL=http://invisible-island.net/xterm/

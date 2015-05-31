@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=System Tray Dock App
+GenericName=System Tray
+Comment=Provide a system tray in the dock
+Icon=GNUstep3D
+TryExec=/usr/bin/wmsystray
+Exec=wmsystray
+Terminal=false
+OnlyShowIn=BLACKBOX;WMAKER;
+Categories=DockApp;WMAKER;
+StartupNotify=false
+X-Arch-Package=wmsystray 0.1.1-7
+X-Arch-Package-Name=wmsystray
+X-Arch-Package-Version=0.1.1-7
+X-Arch-Package-Description=dockapplet to provide systemtray
+X-Arch-Package-URL=https://github.com/bbidulock/wmsystray

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=WMMail
+GenericName=Mailbox Monitor
+Comment=Mailbox Monitor Dockapp
+Icon=GNUstep3D
+TryExec=/usr/bin/wmmail
+Exec=wmmail
+Terminal=false
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+Categories=DockApp;WMAKER;
+StartupNotify=false
+X-Arch-Package=wmmail 0.64-7
+X-Arch-Package-Name=wmmail
+X-Arch-Package-Version=0.64-7
+X-Arch-Package-Description=A WindowMaker dock applet for email reporting.
+X-Arch-Package-URL=http://web.archive.org/web/20121102092600/http://dockapps.windowmaker.org/file.php/id/70

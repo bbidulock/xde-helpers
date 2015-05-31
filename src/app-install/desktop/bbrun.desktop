@@ -1,0 +1,22 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=BlackBox Run Command
+GenericName=Launcher
+Comment=Run Command DockApp
+Icon=system-run
+TryExec=/usr/bin/bbrun
+Exec=bbrun -a -w
+Terminal=false
+Hidden=true
+OnlyShowIn=BLACKBOX;
+Categories=DockApp;WMAKER;
+StartupNotify=false
+StartupWMClass=bbrun
+X-GNOME-Autostart-enabled=true
+X-Arch-Package=bbrun 1.6-5
+X-Arch-Package-Name=bbrun
+X-Arch-Package-Version=1.6-5
+X-Arch-Package-Description=A run - component for blackbox window manager
+X-Arch-Package-URL=https://packages.debian.org/unstable/x11/bbrun

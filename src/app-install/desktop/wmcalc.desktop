@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Calculator Dock App
+GenericName=Calculator
+Comment=4-function calculator dock app
+Icon=GNUstep3D
+TryExec=/usr/bin/wmcalc
+Exec=wmcalc
+Terminal=false
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+Categories=DockApp;WMAKER;
+StartupNotify=false
+StartupWMClass=wmcalc
+X-Arch-Package=wmcalc 0.3-4
+X-Arch-Package-Name=wmcalc
+X-Arch-Package-Version=0.3-4
+X-Arch-Package-Description=Dockapp that performs all the functions (and eventually more) of a simple four function calculator
+X-Arch-Package-URL=http://web.archive.org/web/20121025065535/http://dockapps.windowmaker.org/file.php/id/130

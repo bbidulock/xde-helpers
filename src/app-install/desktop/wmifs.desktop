@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=WMifs
+TryExec=wmifs
+Exec=wmifs
+Terminal=false
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+Categories=DockApp;WMAKER;
+StartupNotify=false
+X-Arch-Package=wmifs 1.3b1-1
+X-Arch-Package-Name=wmifs
+X-Arch-Package-Version=1.3b1-1
+X-Arch-Package-Description=A network monitor for all network devices that shows the transmission ratio
+X-Arch-Package-URL=http://web.cs.mun.ca/~gstarkes/wmaker/dockapps/net.html

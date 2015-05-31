@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Application Button Dock App
+GenericName=Application Launcher
+Comment=WMButton application launcher dock app
+TryExec=wmbutton
+Exec=wmbutton
+Terminal=false
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+Categories=DockApp;WMAKER;
+StartupNotify=false
+StartupWMClass=wmbutton
+X-Arch-Package=wmbutton 0.7.0-1
+X-Arch-Package-Name=wmbutton
+X-Arch-Package-Version=0.7.0-1
+X-Arch-Package-Description=A dockapp displaying configurable buttons
+X-Arch-Package-URL=http://www.windowmaker.org

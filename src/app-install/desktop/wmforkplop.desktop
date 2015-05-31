@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=System Monitor Dock App (wmforkplop)
+GenericName=System Monitor
+Comment=A mixture between wmhdplop and the great wmtop
+Icon=GNUstep3D
+TryExec=/usr/bin/wmforkplop
+Exec=wmforkplop
+Terminal=false
+OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+Categories=DockApp;WMAKER;
+StartupNotify=false
+StartupWMClass=wmforkplop
+X-Arch-Package=wmforkplop 0.9.3-7
+X-Arch-Package-Name=wmforkplop
+X-Arch-Package-Version=0.9.3-7
+X-Arch-Package-Description=A mixture between wmhdplop and the great wmtop.
+X-Arch-Package-URL=http://hules.free.fr/wmforkplop/
