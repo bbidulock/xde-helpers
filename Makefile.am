@@ -427,7 +427,6 @@ dist_appl_DATA = \
 	src/applications/xde-watch.desktop \
 	src/applications/xde-xlock.desktop \
 	src/applications/xdg-launch.desktop \
-	src/applications/xdg-traymenu.desktop \
 	src/applications/xditview.desktop \
 	src/applications/xdpyinfo.desktop \
 	src/applications/xdvi.desktop \
