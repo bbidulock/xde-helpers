@@ -10,8 +10,26 @@ Exec=xgalaga
 Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
+X-AppInstall-Package=xgalaga
+X-AppInstall-Popcon=64
+X-AppInstall-Section=main
 X-Arch-Package=xgalaga 2.1.1.0-4
 X-Arch-Package-Name=xgalaga
 X-Arch-Package-Version=2.1.1.0-4
 X-Arch-Package-Description=An open source remake of the classic arcade game Galaga
 X-Arch-Package-URL=http://rumsey.org/xgal.html
+Actions=Original;Hyperspace;
+
+[Desktop Action Original]
+Name=Original
+Icon=xgalaga
+TryExec=/usr/bin/xgalaga
+Exec=xgalaga
+Comment=The original arcade version
+
+[Dekstop Action Hyperspace]
+Name=Hyperspace
+Icon=xgalaga
+TryExec=/usr/bin/xgalaga-hyperspace
+Exec=xgalaga-hyperspace
+Comment=The hyperspace version

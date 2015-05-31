@@ -157,8 +157,21 @@ Exec=xboard
 Terminal=false
 Categories=Game;BoardGame;
 StartupNotify=false
+StartupWMClass=xboard
+X-AppInstall-Package=xboard
+X-AppInstall-Popcon=117
+X-AppInstall-Section=main
 X-Arch-Package=xboard 4.8.0-1
 X-Arch-Package-Name=xboard
 X-Arch-Package-Version=4.8.0-1
 X-Arch-Package-Description=Graphical user interfaces for chess
 X-Arch-Package-URL=http://www.gnu.org/software/xboard/
+Actions=Active;Passive;
+
+[Desktop Action Active]
+Name=Active Chessboard
+Exec=xboard
+
+[Desktop Action Passive]
+Name=Passive Chessboard
+Exec=xboard -ncp

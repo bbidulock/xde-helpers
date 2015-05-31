@@ -188,7 +188,7 @@ Comment[zh_CN]=使用 Calc 进行计算、分析信息以及管理电子表格�
 Comment[zh_TW]=使用 Calc 可在試算表中執行計算、分析資訊與管理清單。
 Comment[zu]=Yenza izibalo, hlaziya ukwaziswa futhi ulawule izinhlu kumaspredshithi ngokusebenzisa i-Calc.
 Icon=libreoffice-calc
-TryExec=oocalc
+TryExec=libreoffice
 Exec=libreoffice --calc %U
 Terminal=false
 Categories=Office;Spreadsheet;X-Red-Hat-Base;X-MandrivaLinux-Office-Spreadsheets;
@@ -199,7 +199,11 @@ StartupWMClass=libreoffice-calc
 InitialPreference=5
 X-GIO-NoFuse=true
 X-KDE-Protocols=file,http,smb,ftp,webdav
-X-Arch-Package=libreoffice-still 4.3.7-1
+X-Arch-Package=libreoffice-still 4.3.7-2
+X-Arch-Package-Name=libreoffice-still
+X-Arch-Package-Version=4.3.7-2
+X-Arch-Package-Description=LibreOffice maintenance branch
+X-Arch-Package-URL=http://www.libreoffice.org/
 Actions=NewDocument;
 
 [Desktop Action NewDocument]

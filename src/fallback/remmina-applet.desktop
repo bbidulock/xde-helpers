@@ -9,6 +9,7 @@ Icon=remmina
 TryExec=/usr/bin/remmina
 Exec=remmina -i
 Terminal=false
+Hidden=true
 Categories=Network;
 StartupNotify=true
 X-Arch-Package=remmina-gtk2 1.0.0-3

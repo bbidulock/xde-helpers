@@ -51,10 +51,10 @@ Name[ur_PK]=روابط متن براؤزر
 Name[zh_CN]=Links 文本浏览器
 Name[zh_TW]=Links 文字瀏覽器
 Icon=links_32x32.xpm
-TryExec=xlinks
-Exec=xlinks -g
-Terminal=false
-Categories=Network;WebBrowser;
+TryExec=links
+Exec=links
+Terminal=true
+Categories=Network;WebBrowser;ConsoleOnly;
 StartupNotify=false
 X-XFCE-Binaries=links;links-current;
 X-XFCE-Category=WebBrowser
@@ -65,3 +65,16 @@ X-Arch-Package-Name=links
 X-Arch-Package-Version=2.9-1
 X-Arch-Package-Description=A text WWW browser, similar to Lynx
 X-Arch-Package-URL=http://links.twibright.com/
+Actions=Console;Graphical;
+
+[Desktop Action Console]
+Name=Console
+TryExec=links
+Exec=links
+Terminal=true
+
+[Desktop Action Grapnical]
+Name=Graphical
+TryExec=xlinks
+Exec=xlinks -g
+Terminal=false
