@@ -6,6 +6,7 @@ Name=Ruby Browser
 GenericName=
 Comment=Browse Ruby Classes and Modules
 Icon=_usr_share_rbbr_icon
+TryExec=rbbr
 Exec=rbbr
 Terminal=false
 Categories=Application;Development;

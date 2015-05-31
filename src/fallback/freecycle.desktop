@@ -5,6 +5,7 @@ Type=Application
 Name=Freecycle
 GenericName=Plastic surgery for your audio loops
 Icon=freecycle
+TryExec=freecycle
 Exec=freecycle
 Terminal=false
 Categories=Qt;AudioVideo;Audio;Recorder;

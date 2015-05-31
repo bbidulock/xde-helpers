@@ -6,6 +6,7 @@ Name=Arista Transcoder
 GenericName=Multimedia Converter
 Comment=Convert multimedia for all your devices
 Icon=_usr_share_arista_ui_icon
+TryExec=arista-gtk
 Exec=arista-gtk
 Terminal=false
 Categories=AudioVideo;GNOME;GTK;

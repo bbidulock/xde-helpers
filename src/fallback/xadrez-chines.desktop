@@ -8,6 +8,7 @@ GenericName[de]=Chinesisches Schach
 Comment=GGZ game
 Comment[de]=GGZ-Spiel
 Icon=
+TryExec=/usr/games/xadrez-chines
 Exec=/usr/games/xadrez-chines
 Terminal=false
 Categories=X-GGZ-Games;BoardGame;Game;

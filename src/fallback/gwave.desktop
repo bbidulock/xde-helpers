@@ -6,6 +6,7 @@ Name=gwave
 GenericName=Gwave Waveform Viewer
 Comment=A waveform viewer eg for spice simulators 
 Icon=gwave
+TryExec=gwave
 Exec=gwave
 Terminal=false
 Categories=Engineering;Electronics

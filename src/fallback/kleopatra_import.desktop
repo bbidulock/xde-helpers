@@ -103,6 +103,7 @@ Comment[x-test]=xxCertificate Manager and Unified Crypto GUIxx
 Comment[zh_CN]=证书管理器和统一的密钥操作界面
 Comment[zh_TW]=憑證管理與統一加密介面
 Icon=kleopatra
+TryExec=kleopatra
 Exec=kleopatra --import-certificate %F
 Terminal=false
 Categories=Qt;KDE;Utility;Security;X-KDE-Utilities-PIM;

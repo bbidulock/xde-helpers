@@ -6,6 +6,7 @@ Name=Wine Uninstaller
 Comment=Uninstall Windows programs
 Comment[ca]=Desinstaŀla programes de Windows
 Icon=_usr_share_pixmaps_wine
+TryExec=uninstaller
 Exec=uninstaller
 Terminal=false
 Categories=Application;System;

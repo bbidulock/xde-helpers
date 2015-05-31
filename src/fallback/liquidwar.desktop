@@ -5,6 +5,7 @@ Type=Application
 Name=Liquid War
 Comment=A unique multiplayer wargame
 Icon=liquidwar
+TryExec=liquidwar
 Exec=liquidwar
 Terminal=false
 Categories=Game;ArcadeGame;

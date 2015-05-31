@@ -5,6 +5,7 @@ Type=Application
 Name=Gambit Game Analysis
 Comment=Construction and analysis of finite extensive and normal form games
 Icon=gambit
+TryExec=gambit
 Exec=gambit
 Terminal=false
 Categories=Education;Math;Science;

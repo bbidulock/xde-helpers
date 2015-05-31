@@ -5,6 +5,7 @@ Type=Application
 Name=Screen-Message
 Comment=Displays a short text fullscreen
 Icon=sm
+TryExec=/usr/games/sm
 Exec=/usr/games/sm
 Terminal=false
 Categories=GTK;Application;Utility;

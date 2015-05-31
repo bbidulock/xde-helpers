@@ -8,6 +8,7 @@ Comment[de]=Graphische Umgebung fuer das R Programm fuer Statistische Berechnung
 Comment[fr]=Environnement graphique pour le logiciel de calcul statistique R 
 Comment[it]=Interfaccia grafica per l'ambiente di calcolo statistico R 
 Icon=_usr_lib_R_site-library_Rcmdr_etc_linux_Rcmdr
+TryExec=sh
 Exec=sh -c 'R_DEFAULT_PACKAGES="$R_DEFAULT_PACKAGES Rcmdr" R "$@"'
 Terminal=true
 Categories=Education;Science;Math;
@@ -16,3 +17,8 @@ X-KDE-SubstituteUID=false
 X-AppInstall-Package=r-cran-rcmdr
 X-AppInstall-Popcon=132
 X-AppInstall-Section=main
+X-Arch-Package=bash 4.3.039-1
+X-Arch-Package-Name=bash
+X-Arch-Package-Version=4.3.039-1
+X-Arch-Package-Description=The GNU Bourne Again shell
+X-Arch-Package-URL=http://www.gnu.org/software/bash/bash.html

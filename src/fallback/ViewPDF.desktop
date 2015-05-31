@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=ViewPDF
 Comment=A spicy PDF Reader.
+TryExec=ViewPDF
 Exec=ViewPDF
 Terminal=false
 Categories=Office;Viewer;

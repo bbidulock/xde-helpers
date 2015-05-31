@@ -8,6 +8,7 @@ Name[es]=Rosegarden
 Comment=MIDI and Audio Sequencer and Notation Editor
 Comment[es]=Secuenciador de MIDI y de audio y editor de partitura
 Icon=rosegarden
+TryExec=rosegarden
 Exec=rosegarden %f
 Terminal=false
 Categories=AudioVideo;Audio;Midi;Sequencer;X-SuSE-Sequencer;X-Red-Hat-Base;

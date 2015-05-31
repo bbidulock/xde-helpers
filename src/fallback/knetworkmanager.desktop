@@ -80,6 +80,7 @@ Comment[uk]=Графічна оболонка NetworkManager для KDE
 Comment[x-test]=xxA KDE frontend for NetworkManagerxx
 Comment[zh_TW]=網路管理員的 KDE 前端介面
 Icon=knetworkmanager
+TryExec=knetworkmanager
 Exec=knetworkmanager
 X-DCOP-ServiceType=Unique
 Terminal=false

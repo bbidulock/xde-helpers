@@ -35,6 +35,7 @@ Comment[sv]=Ett virtuellt tangentbord för KDE
 Comment[uk]=Віртуальна клавіатура для KDE
 Comment[x-test]=xxA virtual keyboard for KDExx
 Icon=preferences-desktop-keyboard
+TryExec=kvkbd
 Exec=kvkbd
 Terminal=false
 Categories=Qt;KDE;Utility;Accessibility;

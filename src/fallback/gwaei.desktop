@@ -11,6 +11,7 @@ Comment[fr]=Entrer un mot en japonais ou en anglais pour facilement obtenir une 
 Comment[it]=Inserisci un termine Giapponese o Inglese per avere facilmente una traduzione.
 Comment[ja]=英語か日本語の単語を入れて簡単に翻訳を調べます
 Icon=gwaei
+TryExec=gwaei
 Exec=gwaei
 Terminal=false
 Categories=GNOME;GTK;Utility;

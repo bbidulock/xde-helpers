@@ -5,6 +5,7 @@ Type=Application
 Name=Sakura
 Comment=Use the command line
 Icon=terminal-tango
+TryExec=sakura
 Exec=sakura
 Terminal=false
 Categories=GTK;Utility;TerminalEmulator;

@@ -6,6 +6,7 @@ Name=Xoscope
 Name[en_GB]=Xoscope
 GenericName=digital oscilloscope
 GenericName[en_GB]=digital oscilloscope
+TryExec=/usr/bin/xoscope
 Exec=/usr/bin/xoscope
 Terminal=false
 Categories=Science;Education;Electronics;

@@ -5,6 +5,7 @@ Type=Application
 Name=MySQL Administrator
 Comment=MySQL Administration Tool
 Icon=_usr_share_mysql-gui_MySQLIcon_Admin_48x48
+TryExec=/usr/bin/mysql-admin
 Exec=/usr/bin/mysql-admin
 Terminal=false
 Categories=GTK;Database;Development;Application

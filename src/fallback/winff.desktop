@@ -8,6 +8,7 @@ GenericName[en]=Video converter
 GenericName[nl]=Video converteerder
 Comment=GUI for FFMPEG
 Icon=winff
+TryExec=winff
 Exec=winff
 Terminal=false
 Categories=AudioVideo;AudioVideoEditing;GTK;

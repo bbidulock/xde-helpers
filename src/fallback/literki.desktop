@@ -5,6 +5,7 @@ Type=Application
 Name=Literki
 Comment=Hacker's keyboard
 Icon=literki
+TryExec=literki
 Exec=literki
 Terminal=false
 Categories=Application;Utility

@@ -5,6 +5,7 @@ Type=Application
 Name=GTK Smith Chart Calculator
 Comment=RF Impedance calculator
 Icon=mini-gsmc.xpm
+TryExec=gsmc
 Exec=gsmc
 Terminal=false
 Categories=HamRadio;

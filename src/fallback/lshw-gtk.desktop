@@ -6,6 +6,7 @@ Name=Hardware Lister
 Comment=Provides information on hardware
 Comment[ca]=Proveeix informació sobre el maquinari
 Icon=lshw-gtk
+TryExec=lshw-gtk
 Exec=lshw-gtk
 Terminal=false
 Categories=Settings;HardwareSettings;

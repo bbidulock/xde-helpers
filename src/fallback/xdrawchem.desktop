@@ -6,6 +6,7 @@ Name=xdrawchem Chemistry Editor
 GenericName=Chemistry Editor
 Comment=Edit chemical structures and reactions
 Icon=xdc
+TryExec=xdrawchem
 Exec=xdrawchem
 Terminal=false
 Categories=Education;Science;Chemistry;

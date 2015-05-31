@@ -6,6 +6,7 @@ Name=KMidimon
 Comment=ALSA Sequencer MIDI monitor
 Comment[es]=Monitor MIDI utilizando el secuenciador ALSA
 Icon=kmidimon
+TryExec=kmidimon
 Exec=kmidimon %u
 Terminal=false
 Categories=AudioVideo;Audio;Music;Midi;Player;Recorder;

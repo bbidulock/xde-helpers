@@ -5,6 +5,7 @@ Type=Application
 Name=VDR X-Frontend
 Comment=VDR Xineliboutput Client - X-Frontend
 Icon=_usr_share_icons_xineliboutput-sxfe
+TryExec=vdr-sxfe
 Exec=vdr-sxfe --lirc
 Terminal=false
 Categories=AudioVideo;Video;Player;TV;

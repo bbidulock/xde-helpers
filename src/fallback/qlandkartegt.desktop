@@ -5,6 +5,7 @@ Type=Application
 Name=QLandkarteGT
 GenericName=GPS device mapping utility
 Icon=qlandkartegt
+TryExec=qlandkartegt
 Exec=qlandkartegt
 X-MultipleArgs=false
 Terminal=false

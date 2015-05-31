@@ -8,6 +8,7 @@ GenericName[ru]=BitTorrent клиент
 Comment=Downloading files by BitTorrent protocol
 Comment[ru]=Скачивание файлов по BitTorrent протоколу
 Icon=flush
+TryExec=flush
 Exec=flush %F
 Terminal=false
 Categories=GTK;Network;FileTransfer;P2P;

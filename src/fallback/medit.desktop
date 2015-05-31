@@ -5,6 +5,7 @@ Type=Application
 Name=medit
 Comment=Text editor
 Icon=medit
+TryExec=medit
 Exec=medit %F
 Terminal=false
 Categories=Utility;TextEditor;

@@ -135,6 +135,7 @@ Comment[zh_CN]=播放及管理您的媒体收藏
 Comment[zh_HK]=播放並管理你的媒體收藏
 Comment[zh_TW]=播放並管理您的媒體收藏
 Icon=media-player-banshee
+TryExec=banshee-1
 Exec=banshee-1 --redirect-log --play-enqueued %U
 Terminal=false
 Categories=GNOME;Audio;Music;Player;AudioVideo;X-Ximian-Main;X-Novell-Main;X-Red-Hat-Base;

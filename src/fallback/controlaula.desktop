@@ -9,6 +9,7 @@ Comment=Teacher tool to control classroom computers
 Comment[es_ES]=Herramienta para que el profesor pueda controlar los ordenadores del aula
 Comment[fr]=Outil pour controller les ordinateurs de la classe
 Icon=_usr_share_pixmaps_CA2pp
+TryExec=/usr/bin/controlaula.gambas
 Exec=/usr/bin/controlaula.gambas -teacher
 Terminal=false
 Categories=Application;Education;

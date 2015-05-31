@@ -8,6 +8,7 @@ GenericName[de]=Client für die Tryton Applikationsplattform
 Comment=Access Tryton server
 Comment[de]=Verbindet zu einem Tryton Server
 Icon=tryton-icon
+TryExec=tryton
 Exec=tryton
 Terminal=false
 Categories=Office;Finance;

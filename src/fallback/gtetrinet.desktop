@@ -101,6 +101,7 @@ Comment[vi]=Ứng dụng khách Tetrinet cho GNOME
 Comment[zh_HK]=Tetrinet 的 GNOME 客戶端程式
 Comment[zh_TW]=Tetrinet 的 GNOME 客戶端程式
 Icon=gtetrinet.png
+TryExec=gtetrinet
 Exec=gtetrinet
 Terminal=false
 Categories=GNOME;Application;Game;BlocksGame;

@@ -8,6 +8,7 @@ GenericName=Multi-purpose Dock and Desklets
 GenericName[fr]=Dock et Desklets multi-usage
 Comment=a light and eye-candy dock and desklets for your desktop.
 Icon=cairo-dock.svg
+TryExec=cairo-dock
 Exec=cairo-dock -c
 Terminal=false
 Categories=System;

@@ -6,6 +6,7 @@ Name=HDSPMixer
 GenericName=
 Comment=Control the advanced routing features of the RME Hammerfall DSP
 Icon=alsa-tools
+TryExec=hdspmixer
 Exec=hdspmixer
 Terminal=false
 Categories=AudioVideo;Audio;

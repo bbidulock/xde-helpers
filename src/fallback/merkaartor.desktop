@@ -7,6 +7,7 @@ GenericName=OpenStreetMap Editor
 GenericName[fr]=Un éditeur pour OpenStreetMap
 GenericName[tr]=Açık Sokak Haritası Düzenleyicisi
 Icon=merkaartor
+TryExec=merkaartor
 Exec=merkaartor
 Terminal=false
 Categories=Geography;Network;Qt;

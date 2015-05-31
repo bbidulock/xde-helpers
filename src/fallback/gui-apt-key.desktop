@@ -36,6 +36,7 @@ Comment=Graphical administration tool for digital keys used with APT
 Comment[ca]=Eina gràfica d'administració per a claus digitals emprades amb APT
 Comment[de]=Graphisches Administrationwerkzeug für digitale Schlüssel von APT
 Icon=gui-apt-key
+TryExec=/usr/bin/su-to-root
 Exec=/usr/bin/su-to-root -X -c /usr/sbin/gak
 Terminal=false
 Categories=Security;GTK;System;

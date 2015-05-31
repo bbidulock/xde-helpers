@@ -5,6 +5,7 @@ Type=Application
 Name=JSymphonic
 Comment=File manager for Sony MP3 players
 Icon=jsymphonic
+TryExec=jsymphonic
 Exec=jsymphonic
 Terminal=false
 Categories=Java;Audio;Utility

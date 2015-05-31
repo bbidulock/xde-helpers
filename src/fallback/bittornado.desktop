@@ -5,6 +5,7 @@ Type=Application
 Name=Bittornado Client
 GenericName=Bittorrent Client
 Icon=bittornado
+TryExec=/usr/bin/btdownloadgui.bittornado
 Exec=/usr/bin/btdownloadgui.bittornado
 X-MultipleArgs=false
 Terminal=false

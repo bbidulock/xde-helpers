@@ -13,3 +13,7 @@ Categories=GTK;Game;BoardGame;
 StartupNotify=true
 StartupWMClass=eboard
 X-Arch-Package=eboard 1.1.1-5
+X-Arch-Package-Name=eboard
+X-Arch-Package-Version=1.1.1-5
+X-Arch-Package-Description=A chess interface to ICS and chess engines
+X-Arch-Package-URL=http://www.bergo.eng.br/eboard/

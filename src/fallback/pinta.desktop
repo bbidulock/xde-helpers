@@ -7,6 +7,7 @@ GenericName=Image Editor
 X-GNOME-FullName=Pinta Image Editor
 Comment=Create and edit images and photographs
 Icon=pinta
+TryExec=pinta
 Exec=pinta
 Terminal=false
 Categories=Graphics;2DGraphics;RasterGraphics;GTK;

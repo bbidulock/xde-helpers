@@ -6,6 +6,7 @@ Name=Freedoom
 GenericName=Clone of the legendary first person shooter Doom
 Comment=First Person Shooter Game
 Icon=freedoom
+TryExec=/usr/games/freedoom
 Exec=/usr/games/freedoom
 Terminal=false
 Categories=Game;ActionGame;

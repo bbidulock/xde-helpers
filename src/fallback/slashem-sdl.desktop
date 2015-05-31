@@ -6,6 +6,7 @@ Name=SDL Slash'EM
 GenericName=SDL Slash'EM
 Comment=Super Lotsa Added Stuff Hack - Extended Magic (SDL)
 Icon=slashem
+TryExec=/usr/games/slashem-sdl
 Exec=/usr/games/slashem-sdl
 Terminal=false
 Categories=Game;AdventureGame;

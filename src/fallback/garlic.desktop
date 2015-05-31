@@ -9,6 +9,7 @@ GenericName[en_GB]=Protein Visualisation
 Comment=Visualize and investigate proteins and some geometric objects
 Comment[en_GB]=Visualise and investigate proteins and some geometric objects
 Icon=garlic
+TryExec=garlic
 Exec=garlic
 Terminal=false
 Categories=Science;Biology;Chemistry;Education;

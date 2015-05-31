@@ -6,6 +6,7 @@ Name=Kabikaboo
 GenericName=Writing Assistant
 Comment=Manage large collections of notes
 Icon=_usr_share_kabikaboo_kabikaboo
+TryExec=kabikaboo
 Exec=kabikaboo
 Terminal=false
 Categories=GNOME;GTK;Office;

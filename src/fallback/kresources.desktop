@@ -142,6 +142,7 @@ Comment[zh_CN]=配置 KDE 资源
 Comment[zh_HK]=設定 KDE 使用的資源
 Comment[zh_TW]=在此設定 KDE 的資源
 Icon=date
+TryExec=kcmshell
 Exec=kcmshell kresources
 Terminal=false
 OnlyShowIn=KDE;

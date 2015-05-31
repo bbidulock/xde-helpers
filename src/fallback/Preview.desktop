@@ -5,6 +5,7 @@ Type=Application
 Name=Preview
 Comment=Image viewer
 Icon=/usr/lib/GNUstep/Applications/Preview.app/Resources/Preview.tiff
+TryExec=Preview
 Exec=Preview
 Terminal=false
 Categories=Graphics;Viewer;

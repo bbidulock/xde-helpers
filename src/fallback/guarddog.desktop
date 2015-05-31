@@ -10,6 +10,7 @@ Comment=Configure the firewall
 Comment[ca]=Configureu el tallafocs
 Comment[es]=Configurar el cortafuegos
 Icon=guarddog
+TryExec=guarddog
 Exec=guarddog
 Terminal=false
 Categories=Network;

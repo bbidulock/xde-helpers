@@ -13,6 +13,7 @@ Comment[ja]=共同でテキストファイルを編集する
 Comment[ru]=Редактируйте текстовые файлы совместно
 Comment[uk]=Редагуйте текстові файли разом з іншими користувачами
 Icon=gobby.png
+TryExec=gobby
 Exec=gobby
 Terminal=false
 Categories=TextEditor;Network;

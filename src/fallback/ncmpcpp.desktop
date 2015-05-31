@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=Ncmpcpp
 GenericName=NCurses Music Player Client
+TryExec=ncmpcpp
 Exec=ncmpcpp
 Terminal=true
 Categories=AudioVideo;Audio;Player;ConsoleOnly;

@@ -64,6 +64,7 @@ GenericName[x-test]=xxJigsaw puzzle gamexx
 GenericName[zh_CN]=拼图游戏
 GenericName[zh_TW]=拼圖式遊戲
 Icon=preferences-plugin
+TryExec=palapeli
 Exec=palapeli
 Terminal=false
 Categories=Qt;KDE;Game;LogicGame;

@@ -5,6 +5,7 @@ Type=Application
 Name=ALSA Mixer
 Comment=Graphical interface to the ALSA mixer device using gtk+
 Icon=
+TryExec=gamix
 Exec=gamix
 Terminal=false
 OnlyShowIn=GNOME;

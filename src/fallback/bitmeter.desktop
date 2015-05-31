@@ -5,6 +5,7 @@ Type=Application
 Name=Bitmeter
 Comment=JACK diagnostic tool
 Icon=bitmeter.xpm
+TryExec=bitmeter
 Exec=bitmeter
 Terminal=false
 Categories=Application;Audio;AudioVideo;X-Jack

@@ -15,3 +15,7 @@ StartupNotify=false
 StartupWMClass=xdg-traymenu
 X-GNOME-Autostart-enabled=true
 X-Arch-Package=xdg-traymenu 0.01.37-1
+X-Arch-Package-Name=xdg-traymenu
+X-Arch-Package-Version=0.01.37-1
+X-Arch-Package-Description=XDG compliant system tray and root menu generator
+X-Arch-Package-URL=https://github.com/bbidulock/xdg-traymenu

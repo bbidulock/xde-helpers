@@ -109,6 +109,7 @@ Comment[x-test]=xxAn MLDonkey frontend for KDExx
 Comment[zh_CN]=一个 KDE 的 MLDonkey 前端
 Comment[zh_TW]=KDE 的 MLDonkey 前端介面
 Icon=kmldonkey
+TryExec=kmldonkey
 Exec=kmldonkey %i -caption "%c"
 Terminal=false
 Categories=Qt;KDE;Network;FileTransfer;

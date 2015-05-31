@@ -5,6 +5,7 @@ Type=Application
 Name=xmrubik
 GenericName=rubik game
 Icon=_usr_share_pixmaps_xrubik.m
+TryExec=/usr/games/xmrubik
 Exec=/usr/games/xmrubik
 Terminal=false
 Categories=Game;

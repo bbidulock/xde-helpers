@@ -50,6 +50,7 @@ Comment[tr]=Güvenlik Duvarı Aracı
 Comment[vi]=Công Cụ Tường Lửa Cho Máy Bàn
 Comment[zh_CN]=桌面防火墙工具
 Icon=firestarter.png
+TryExec=su-to-root
 Exec=su-to-root -X -c /usr/sbin/firestarter
 Terminal=false
 Categories=System;GNOME;Network;Settings;

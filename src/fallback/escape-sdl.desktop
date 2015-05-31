@@ -8,6 +8,7 @@ GenericName[de]=Brettspiel
 Comment=GGZ game
 Comment[de]=GGZ-Spiel
 Icon=
+TryExec=/usr/games/escape-sdl
 Exec=/usr/games/escape-sdl
 Terminal=false
 Categories=X-GGZ-Games;BoardGame;Game;

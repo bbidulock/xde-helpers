@@ -30,6 +30,7 @@ Comment[nl]=Snelle, uitbreidbare tekst editor voor programmeurs
 Comment[pl]=Szybki, zaawansowany i elastyczny edytor tekstu dla programistów
 Comment[sv]=Snabb, utbyggbar textredigerare för programmerare
 Icon=efte
+TryExec=efte
 Exec=efte %f
 Terminal=false
 Categories=Development;TextEditor;

@@ -6,6 +6,7 @@ Name=Echomixer
 GenericName=
 Comment=Control Echoaudio soundcards
 Icon=alsa-tools
+TryExec=echomixer
 Exec=echomixer
 Terminal=false
 Categories=AudioVideo;Audio;

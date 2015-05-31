@@ -33,6 +33,7 @@ GenericName[zh]=Bittorrent之用户
 GenericName[zh_TW]=Bittorrent客戶端
 Comment=V2.2.11
 Icon=qbittorrent
+TryExec=qbittorrent
 Exec=qbittorrent %f
 Terminal=false
 Categories=Qt;Network;P2P;

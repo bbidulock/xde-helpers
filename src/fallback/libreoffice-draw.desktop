@@ -182,6 +182,7 @@ Comment[zh_CN]=使用 Draw 创建并编辑图形、流程图和徽标。
 Comment[zh_TW]=使用 Draw 可建立與編輯繪圖、流程圖以及標誌。
 Comment[zu]=Yenza futhi ulungise imidwebo, amaflowchadi, namalogo ngokusebenzisa into yokuDweba.
 Icon=libreoffice-draw
+TryExec=libreoffice
 Exec=libreoffice --draw %U
 Terminal=false
 Categories=Office;FlowChart;Graphics;2DGraphics;VectorGraphics;X-Red-Hat-Base;X-MandrivaLinux-Office-Drawing;
@@ -192,10 +193,13 @@ StartupWMClass=libreoffice-draw
 InitialPreference=5
 X-GIO-NoFuse=true
 X-KDE-Protocols=file,http,smb,ftp,webdav
-X-Arch-Package=libreoffice-still 4.3.7-1
+X-Arch-Package=libreoffice-still 4.3.7-2
+X-Arch-Package-Name=libreoffice-still
+X-Arch-Package-Version=4.3.7-2
+X-Arch-Package-Description=LibreOffice maintenance branch
+X-Arch-Package-URL=http://www.libreoffice.org/
 Actions=NewDocument;
 
 [Desktop Action NewDocument]
 Name=New Drawing
 Exec=libreoffice --draw
-X-Arch-Package=libreoffice-still 4.3.7-1

@@ -5,6 +5,7 @@ Type=Application
 Name=xskewb
 GenericName=skewb game
 Icon=_usr_share_pixmaps_xskewb.m
+TryExec=/usr/games/xskewb
 Exec=/usr/games/xskewb
 Terminal=false
 Categories=Game;

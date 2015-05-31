@@ -27,6 +27,7 @@ Comment[nl]=Met GWhere kun je een gegevensbank van je CD's en andere verwijderba
 Comment[pl]=GWHere to program zarz±dzaj±cy baz± Twoich p³yt CD oraz innych mediów (takich jak twarde dyski, dyskietki, dyski Zip itp.). Dziêki GWhere w ³atwy sposób mo¿esz przegl±daæ Twoje p³yty CD i szybko znale¼æ potrzebny Ci plik bez konieczno¶ci ci±g³ego wsadzania p³yt do napêdu.
 Comment[pt]=GWhere permite gerir uma base de dados dos seus CDs ou outros tipos de media removível (discos rígidos, disquetes, drives ZIP, CD-ROM, etc...). Com o GWhere é fácil explorar os seus CDs ou fazer rápidas pesquisas sem a necessidade de inserir cada um dos seus CDs na drive.
 Icon=gwhere.xpm
+TryExec=gwhere
 Exec=gwhere
 Terminal=false
 Categories=Application;Utility;

@@ -6,6 +6,7 @@ Name=Yoshimi
 GenericName=Software Synthesizer
 Comment=Software Synthesizer based on ZynAddSubFX
 Icon=yoshimi
+TryExec=yoshimi
 Exec=yoshimi
 Terminal=false
 Categories=AudioVideo;Audio;

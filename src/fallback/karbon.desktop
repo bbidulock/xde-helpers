@@ -152,6 +152,7 @@ Comment[x-test]=xxCreate scalable vector drawingsxx
 Comment[zh_CN]=创建可缩放矢量绘图
 Comment[zh_TW]=建立可調整向量圖
 Icon=karbon
+TryExec=karbon
 Exec=karbon %u
 Terminal=false
 Categories=Qt;KDE;Graphics;Office;

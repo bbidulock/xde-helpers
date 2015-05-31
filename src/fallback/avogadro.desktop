@@ -5,6 +5,7 @@ Type=Application
 Name=Avogadro
 Comment=Advanced molecular editor
 Icon=avogadro-icon
+TryExec=avogadro
 Exec=avogadro %f
 Terminal=false
 Categories=Qt;Science;Chemistry;Physics;Education;

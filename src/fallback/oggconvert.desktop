@@ -5,6 +5,7 @@ Type=Application
 Name=OggConvert
 Comment=Convert media files to Free formats
 Icon=oggconvert
+TryExec=oggconvert
 Exec=oggconvert
 Terminal=false
 Categories=AudioVideo;

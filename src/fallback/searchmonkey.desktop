@@ -5,6 +5,7 @@ Type=Application
 Name=Searchmonkey
 Comment=Regular expression power search utilty
 Icon=_usr_share_pixmaps_searchmonkey_searchmonkey-32x32
+TryExec=searchmonkey
 Exec=searchmonkey
 Terminal=false
 Categories=TextTools;Utility

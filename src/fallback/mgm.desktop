@@ -6,6 +6,7 @@ Name=MGM System Monitor
 GenericName=System Monitor
 Comment=A highly configurable, very gaudy system load meter
 Icon=_usr_share_pixmaps_mgm
+TryExec=/usr/bin/mgm
 Exec=/usr/bin/mgm
 Terminal=false
 Categories=Monitor;System;Utility;

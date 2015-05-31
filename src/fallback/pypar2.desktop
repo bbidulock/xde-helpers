@@ -8,6 +8,7 @@ Comment[de]=Eine grafische Oberfläche für par2
 Comment[fr]=Une interface graphique pour le programme par2
 Comment[pl]=Graficzna nakładka na narzędzie par2
 Icon=pypar2.png
+TryExec=pypar2
 Exec=pypar2
 Terminal=false
 Categories=GNOME;GTK;Application

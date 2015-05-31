@@ -6,6 +6,7 @@ Name=Flarq
 GenericName=Fldigi ARQ Utility
 Comment=Amateur Radio Data Transfer with ARQ
 Icon=flarq
+TryExec=flarq
 Exec=flarq
 Terminal=false
 Categories=Network;HamRadio;

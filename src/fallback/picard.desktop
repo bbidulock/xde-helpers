@@ -5,6 +5,7 @@ Type=Application
 Name=MusicBrainz Picard
 Comment=Tag your music with the next generation MusicBrainz tagger
 Icon=picard-32
+TryExec=picard
 Exec=picard
 Terminal=false
 Categories=AudioVideo;AudioVideoEditing;

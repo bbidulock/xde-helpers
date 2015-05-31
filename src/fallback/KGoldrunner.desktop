@@ -157,6 +157,7 @@ Comment[x-test]=xxA game of action and puzzle-solvingxx
 Comment[zh_CN]=一个结合动作与解谜的游戏
 Comment[zh_TW]=一個動作和解謎的遊戲
 Icon=kgoldrunner
+TryExec=kgoldrunner
 Exec=kgoldrunner
 X-DBUS-StartupType=Multi
 Terminal=false

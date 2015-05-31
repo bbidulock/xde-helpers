@@ -11,6 +11,7 @@ Comment[he]=פרשן למספר משחקי הרפתקאות
 Comment[pl]=Interpreter graficznych gier przygodowych
 Comment[sv]=Tolk för flera äventyrsspel
 Icon=scummvm
+TryExec=scummvm
 Exec=scummvm
 Terminal=false
 Categories=Game;AdventureGame;

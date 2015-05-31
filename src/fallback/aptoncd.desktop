@@ -70,6 +70,7 @@ Comment[vi]=Tạo ra một đĩa cài đặt
 Comment[zh_CN]=创建安装光盘
 Comment[zh_TW]=建立一個安裝光碟
 Icon=aptoncd
+TryExec=/usr/bin/aptoncd
 Exec=/usr/bin/aptoncd
 Terminal=false
 Categories=System;Settings;

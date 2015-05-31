@@ -7,6 +7,7 @@ Name[de]=KBarcode Barcode Generator
 Comment=Barcode generation tool
 Comment[de]=Barcode Erstellung
 Icon=kbarcode.png
+TryExec=kbarcode
 Exec=kbarcode --barcode
 Terminal=false
 Categories=Qt;KDE;Office;

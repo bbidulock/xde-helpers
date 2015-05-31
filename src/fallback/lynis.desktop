@@ -6,6 +6,7 @@ Name=Lynis auditing tool
 Name[es]=Herramienta de auditoría Lynis
 Comment=Security auditing tool (root)
 Comment[es]=Herramienta de auditoría de seguridad (root)
+TryExec=su-to-root
 Exec=su-to-root -c '/usr/sbin/lynis --no-colors'
 Terminal=true
 Categories=System;

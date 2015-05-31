@@ -6,6 +6,7 @@ Name=Penguin Golf
 GenericName=
 Comment=
 Icon=
+TryExec=/usr/games/ace-golf
 Exec=/usr/games/ace-golf
 Terminal=false
 Categories=Game;CardGame;

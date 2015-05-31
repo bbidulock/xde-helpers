@@ -5,6 +5,7 @@ Type=Application
 Name=JACK Rack
 Comment=Stereo LADSPA effects rack
 Icon=jack-rack-icon
+TryExec=jack-rack
 Exec=jack-rack
 Terminal=false
 Categories=GNOME;Application;AudioVideo;

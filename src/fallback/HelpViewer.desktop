@@ -7,6 +7,7 @@ Name[bg]=HelpViewer
 Comment=GNUstep Help Viewer
 Comment[bg]=Браузър на документация за GNUstep
 Icon=_usr_share_pixmaps_HelpViewer
+TryExec=HelpViewer
 Exec=HelpViewer
 Terminal=false
 Categories=Documentation;Utility;

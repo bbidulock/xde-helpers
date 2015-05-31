@@ -29,6 +29,7 @@ Comment[sk]=Prehliadač súborov balíkov Debianu
 Comment[sv]=Visare för Debian-paketfiler
 Comment[vi]=Bộ xem tập tin gói Debian
 Icon=deb-gview.xpm
+TryExec=deb-gview
 Exec=deb-gview
 Terminal=false
 Categories=Development;Building;GNOME;

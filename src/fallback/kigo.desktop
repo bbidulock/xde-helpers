@@ -66,6 +66,7 @@ GenericName[x-test]=xxGo Board Gamexx
 GenericName[zh_CN]=围棋游戏
 GenericName[zh_TW]=Go 棋盤遊戲
 Icon=kigo
+TryExec=kigo
 Exec=kigo %i -caption "%c"
 Terminal=false
 Categories=Qt;KDE;Game;BoardGame;

@@ -6,6 +6,7 @@ Name=GNUnet-qt
 GenericName=GNUnet-qt
 Comment=QT frontend to GNUnet
 Icon=gnunet-qt
+TryExec=gnunet-qt
 Exec=gnunet-qt
 Terminal=false
 Categories=Network;FileTransfer;P2P;Qt;

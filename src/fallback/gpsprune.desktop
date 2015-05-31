@@ -5,6 +5,7 @@ Type=Application
 Name=GpsPrune
 Comment=Visualize, edit and prune GPS tracks
 Icon=_usr_share_pixmaps_gpsprune
+TryExec=/usr/bin/gpsprune
 Exec=/usr/bin/gpsprune
 Terminal=false
 Categories=Education;Science;Geoscience;

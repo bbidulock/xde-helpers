@@ -6,6 +6,7 @@ Name=XawTV
 GenericName=XawTV
 Comment=TV viewer for X11
 Icon=xawtv48x48
+TryExec=xawtv
 Exec=xawtv
 Terminal=false
 Categories=AudioVideo;

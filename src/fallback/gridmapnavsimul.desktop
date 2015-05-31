@@ -5,6 +5,7 @@ Type=Application
 Name=Gridmap Navigation Simulator
 Comment=Robotics Simulator
 Icon=gridmapsimul
+TryExec=GridmapNavSimul
 Exec=GridmapNavSimul
 X-MultipleArgs=false
 Terminal=false

@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=Radio Tray
 Icon=radiotray
+TryExec=radiotray
 Exec=radiotray
 Terminal=false
 Categories=AudioVideo;Audio;Player;GTK;

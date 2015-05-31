@@ -15,6 +15,7 @@ Comment[cs]=Plošinovka inspirovaná SuperMariem s tučňákem Tuxem v hlavní r
 Comment[de]=Ein von Super Mario inspiriertes Pinguin Jump&Run Spiel
 Comment[en]=A Super Mario inspired penguin platform game
 Icon=supertux.png
+TryExec=supertux
 Exec=supertux
 Terminal=false
 Categories=Application;Game;ArcadeGame

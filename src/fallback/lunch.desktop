@@ -6,6 +6,7 @@ Name=Lunch
 Comment=Distributed Process Launcher
 Comment[fr]=Launceur de processus distribué
 Icon=lunch.png
+TryExec=lunch
 Exec=lunch -g -q
 Terminal=false
 Categories=System;RemoteAccess;Network;

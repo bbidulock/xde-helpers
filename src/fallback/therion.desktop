@@ -6,6 +6,7 @@ Name=Therion Cave Survey Software
 GenericName=Cave Surveying Tool
 Comment=Draw up surveys in Therion format
 Icon=therion
+TryExec=xtherion
 Exec=xtherion
 Terminal=false
 Categories=Application;Geology;Science;

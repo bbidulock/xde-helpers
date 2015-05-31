@@ -5,6 +5,7 @@ Type=Application
 Name=OpenERP Client
 Comment=Enterprise Resource Management (client)
 Icon=openerp-client
+TryExec=openerp-client
 Exec=openerp-client
 Terminal=false
 Categories=Application;Network;

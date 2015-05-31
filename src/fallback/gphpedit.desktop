@@ -7,6 +7,7 @@ GenericName=PHP/HTML/CSS editor
 GenericName[en_IN]=PHP/HTML/CSS editor
 Comment=Edit PHP source files
 Icon=gphpedit.png
+TryExec=gphpedit
 Exec=gphpedit
 Terminal=false
 Categories=Development;IDE;

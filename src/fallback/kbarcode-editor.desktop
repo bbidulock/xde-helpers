@@ -7,6 +7,7 @@ Name[de]=KBarcode Label Editor
 Comment=Barcode and label printing tool (editor)
 Comment[de]=Werkzeug zum Barcode und Etiketten Druck (Editor)
 Icon=kbarcode.png
+TryExec=kbarcode
 Exec=kbarcode --label
 Terminal=false
 Categories=Qt;KDE;Office;

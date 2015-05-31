@@ -5,6 +5,7 @@ Type=Application
 Name=Geomview
 Comment=Interactive geometry viewing program
 Icon=geomview
+TryExec=geomview
 Exec=geomview
 Terminal=false
 Categories=Application;Math;Science;Education

@@ -6,6 +6,7 @@ Name=xae
 Comment=Small text editor
 Comment[de]=Einfacher Text-Editor
 Comment[fr]=Simple editeur de texte
+TryExec=/usr/bin/xae
 Exec=/usr/bin/xae
 Terminal=false
 Categories=TextEditor

@@ -6,6 +6,7 @@ Name=GvRng
 GenericName=Guido van Robot NG
 Comment=Guido van Robot NG
 Icon=_usr_share_GvRng_bitmaps_gvrIcon-big
+TryExec=/usr/games/gvrng
 Exec=/usr/games/gvrng
 Terminal=false
 Categories=Development;Education;

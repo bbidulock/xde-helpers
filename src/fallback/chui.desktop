@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=CHUI
 Comment=Cahn-Hilliard User Interface (Illuminator)
+TryExec=chui
 Exec=chui
 Terminal=false
 Categories=GNOME;Application;Graphics;

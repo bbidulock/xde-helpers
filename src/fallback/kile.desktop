@@ -160,6 +160,7 @@ Comment[x-test]=xx(La)TeX development environmentxx
 Comment[zh_CN]=(La)TeX 开发环境
 Comment[zh_TW]=(La)TeX 開發環境
 Icon=kile
+TryExec=kile
 Exec=kile
 Terminal=false
 Categories=Qt;KDE;Office;Publishing;

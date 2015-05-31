@@ -8,6 +8,7 @@ GenericName[de]=Dateiverwaltung mit zwei Ansichten
 Comment=File manager with two panels
 Comment[de]=Dateiverwaltung mit zwei Ansichten
 Icon=_usr_share_pixmaps_bsc
+TryExec=/usr/bin/bsc
 Exec=/usr/bin/bsc
 Terminal=false
 Categories=Utility;FileManager;Qt

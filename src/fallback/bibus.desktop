@@ -18,6 +18,7 @@ Comment[en]=manage references and citations in your publications
 Comment[fr]=Logiciel de gestion bibliographique
 Comment[hu]=közlemények citációját és referenciáit kezeli
 Icon=bibus.png
+TryExec=bibus
 Exec=bibus
 Terminal=false
 Categories=GNOME;Application;WordProcessor;Office;

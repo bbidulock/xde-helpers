@@ -5,6 +5,7 @@ Type=Application
 Name=Monitor Settings
 Comment=Set your monitor preferences (contrast, brightness,...) and manage your profiles
 Icon=gddccontrol
+TryExec=gddccontrol
 Exec=gddccontrol
 Terminal=false
 Categories=GNOME;Application;Settings;

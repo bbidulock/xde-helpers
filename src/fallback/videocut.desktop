@@ -9,6 +9,7 @@ Name[ru_RU]=VideoCut
 GenericName=A simple video application
 GenericName[ru_RU]=Простое видео приложение
 Icon=videocut
+TryExec=videocut
 Exec=videocut %f
 Terminal=false
 Categories=AudioVideo;Player;Video;Qt;KDE

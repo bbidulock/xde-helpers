@@ -66,6 +66,7 @@ Comment[sv]=Förhandsgranska och jämför typsnitt
 Comment[vi]=Xem và so sánh phông chữ
 Comment[zh_CN]=预览并比较字体
 Icon=gnome-specimen
+TryExec=gnome-specimen
 Exec=gnome-specimen
 Terminal=false
 Categories=Graphics;Viewer;GNOME;GTK;Publishing;

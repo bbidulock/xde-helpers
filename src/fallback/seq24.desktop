@@ -6,6 +6,7 @@ Name=Seq24
 GenericName=
 Comment=MIDI Sequencer
 Icon=_usr_share_pixmaps_seq24
+TryExec=seq24
 Exec=seq24
 Terminal=false
 Categories=AudioVideo;Audio;

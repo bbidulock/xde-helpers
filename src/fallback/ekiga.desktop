@@ -209,3 +209,7 @@ X-GNOME-Bugzilla-Component=general
 X-GNOME-Bugzilla-Version=4.0.1
 X-Desktop-File-Install-Version=0.17
 X-Arch-Package=ekiga 4.0.1-12
+X-Arch-Package-Name=ekiga
+X-Arch-Package-Version=4.0.1-12
+X-Arch-Package-Description=VOIP/Videoconferencing app with full SIP and H.323 support (GnomeMeeting expanded and renamed)
+X-Arch-Package-URL=http://www.ekiga.org

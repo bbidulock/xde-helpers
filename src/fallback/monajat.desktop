@@ -7,6 +7,7 @@ Name[ar]=بريمج مناجاة للأذكار
 Comment=Monajat in system tray icon
 Comment[ar]=بريمج مناجاة للأذكار
 Icon=monajat
+TryExec=/usr/bin/monajat-applet
 Exec=/usr/bin/monajat-applet --auto
 Terminal=false
 Categories=X-Islamic-Software;Utility;

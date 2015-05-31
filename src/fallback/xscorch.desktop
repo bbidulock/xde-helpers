@@ -5,6 +5,7 @@ Type=Application
 Name=Xscorch
 Comment=Clone of Scorched Earth
 Icon=xscorch
+TryExec=xscorch
 Exec=xscorch
 Terminal=false
 Categories=Application;Game;ArcadeGame;

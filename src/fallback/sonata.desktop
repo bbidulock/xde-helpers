@@ -5,6 +5,7 @@ Type=Application
 Name=Sonata
 Comment=An elegant GTK+ MPD client
 Icon=sonata
+TryExec=sonata
 Exec=sonata
 Terminal=false
 Categories=GTK;AudioVideo;Player;

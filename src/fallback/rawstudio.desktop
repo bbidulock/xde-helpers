@@ -24,6 +24,7 @@ Comment[pl]=Program Open Source do konwersji plików RAW i manipulacji na nich
 Comment[ru]=Свободная программа для проявки цифровых негативов
 Comment[sv]=Läs, bearbeta och konvertera råbilder från digitalkameror
 Icon=rawstudio
+TryExec=rawstudio
 Exec=rawstudio %F
 Terminal=false
 Categories=Graphics;Photography;GTK;

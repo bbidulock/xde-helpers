@@ -150,3 +150,7 @@ MimeType=image/bmp;image/gif;image/jpeg;image/jpg;image/png;image/tiff;image/x-b
 StartupNotify=true
 X-Desktop-File-Install-Version=0.17
 X-Arch-Package=gpicview 0.2.4-1
+X-Arch-Package-Name=gpicview
+X-Arch-Package-Version=0.2.4-1
+X-Arch-Package-Description=Lightweight image viewer
+X-Arch-Package-URL=http://lxde.org/

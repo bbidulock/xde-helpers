@@ -83,6 +83,7 @@ GenericName[x-test]=xxPhoto Albumxx
 GenericName[zh_CN]=相册
 GenericName[zh_TW]=相簿
 Icon=kphotoalbum
+TryExec=kphotoalbum
 Exec=kphotoalbum
 Terminal=false
 Categories=Qt;KDE;Graphics;Photography;

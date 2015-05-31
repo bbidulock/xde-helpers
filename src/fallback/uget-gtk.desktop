@@ -5,6 +5,7 @@ Type=Application
 Name=Uget
 Comment=Download multiple URLs and apply it to one of setting/queue.
 Icon=uget-icon
+TryExec=uget-gtk
 Exec=uget-gtk %u
 Terminal=false
 Categories=Network;FileTransfer

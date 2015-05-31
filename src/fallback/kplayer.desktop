@@ -114,6 +114,7 @@ Comment[zh_CN]=媒体播放器
 Comment[zh_TW]=多媒體播放器
 Comment[zu]=Umdlali Wezezindaba
 Icon=kplayer.png
+TryExec=kplayer
 Exec=kplayer -- %U
 Terminal=false
 Categories=AudioVideo;Player;Qt;KDE;

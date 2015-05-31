@@ -145,6 +145,7 @@ GenericName[zh_CN]=颜色选择器
 GenericName[zh_HK]=顏色選擇器
 GenericName[zh_TW]=顏色選擇程式
 Icon=kcolorchooser
+TryExec=kcolorchooser
 Exec=kcolorchooser
 X-DBUS-StartupType=Multi
 Terminal=false

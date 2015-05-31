@@ -6,6 +6,7 @@ Name=KBall
 GenericName=kball
 Comment=Find the exit
 Icon=kball
+TryExec=kball
 Exec=kball
 Terminal=false
 Categories=Game;ActionGame;

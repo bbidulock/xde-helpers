@@ -83,6 +83,7 @@ GenericName[x-test]=xxComputer-Aided Translation Systemxx
 GenericName[zh_CN]=计算机辅助翻译系统
 GenericName[zh_TW]=電腦協助翻譯系統
 Icon=lokalize
+TryExec=lokalize
 Exec=lokalize %i -caption "%c"
 Terminal=false
 Categories=Qt;KDE;Development;Office;Translation;

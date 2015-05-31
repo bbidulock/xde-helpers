@@ -6,6 +6,7 @@ Name=Aqsis Shader Inspector
 GenericName=RenderMan Shader Inspector
 Comment=Inspect compiled RenderMan Shading Language (RSL) files
 Icon=aqsis
+TryExec=/usr/share/aqsis/scripts/aqsltell.sh
 Exec=/usr/share/aqsis/scripts/aqsltell.sh %F
 Terminal=true
 Categories=Graphics;3DGraphics;ConsoleOnly;

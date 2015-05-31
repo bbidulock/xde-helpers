@@ -8,6 +8,7 @@ GenericName[nl]=Koersgrafieken
 Comment=Stock and commodity market charting and technical analysis
 Comment[nl]=Koersgrafieken en technische analyse
 Icon=_usr_share_pixmaps_qtstalker
+TryExec=/usr/bin/qtstalker
 Exec=/usr/bin/qtstalker
 Terminal=false
 Categories=Application;Finance;Office;Qt;

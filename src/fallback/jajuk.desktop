@@ -5,6 +5,7 @@ Type=Application
 Name=Jajuk
 Comment=Jajuk Advanced Jukebox
 Icon=jajuk.png
+TryExec=jajuk
 Exec=jajuk
 Terminal=false
 Categories=AudioVideo

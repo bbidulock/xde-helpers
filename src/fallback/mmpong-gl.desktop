@@ -5,6 +5,7 @@ Type=Application
 Name=mmpong-gl
 Comment=massively multiplayer pong game
 Icon=mmpong-gl
+TryExec=mmpong-gl
 Exec=mmpong-gl
 Terminal=false
 Categories=Game;ArcadeGame

@@ -7,6 +7,7 @@ Name[de]=Gmerlin player
 Comment=Multiformat mediaplayer
 Comment[de]=Multiformat mediaplayer
 Icon=gmerlin-player.png
+TryExec=gmerlin
 Exec=gmerlin
 Terminal=false
 Categories=Application;AudioVideo;

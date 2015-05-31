@@ -5,6 +5,7 @@ Type=Application
 Name=Mines
 Comment=GNUstep minesweeper game
 Icon=_usr_lib_GNUstep_Applications_Mines.app_Resources_Mines
+TryExec=Mines
 Exec=Mines
 Terminal=false
 Categories=Game;LogicGame;

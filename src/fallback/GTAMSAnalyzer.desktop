@@ -7,6 +7,7 @@ Name[bg]=GTAMSAnalyzer
 Comment=Qualitative Research Software for GNUstep
 Comment[bg]=Софтуер за изследване на текст за GNUstep
 Icon=/usr/lib/GNUstep/Applications/GTAMSAnalyzer.app/Resources/largeApp.tif
+TryExec=GTAMSAnalyzer
 Exec=GTAMSAnalyzer
 Terminal=false
 Categories=Utility;TextTools;

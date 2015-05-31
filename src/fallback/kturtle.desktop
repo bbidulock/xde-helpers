@@ -114,6 +114,7 @@ GenericName[x-test]=xxEducational Programming Environmentxx
 GenericName[zh_CN]=教育编程环境
 GenericName[zh_TW]=教育程式環境
 Icon=kturtle
+TryExec=kturtle
 Exec=kturtle %i -caption "%c"
 Terminal=false
 Categories=Qt;KDE;Education;ComputerScience;X-KDE-Edu-Misc;

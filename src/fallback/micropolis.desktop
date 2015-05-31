@@ -6,6 +6,7 @@ Name=Micropolis
 Comment=A real-time city management simulator
 Comment[de_DE]=Eine Stadt-Simulation in Echtzeit
 Icon=_usr_share_icons_Micropolis
+TryExec=/usr/games/micropolis
 Exec=/usr/games/micropolis
 Terminal=false
 Categories=Game;Simulation;

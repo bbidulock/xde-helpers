@@ -6,6 +6,7 @@ Name=A7Xpg
 GenericName=
 Comment=Kenta Cho's A7Xpg
 Icon=a7xpg
+TryExec=a7xpg
 Exec=a7xpg
 Terminal=false
 Categories=Game;ArcadeGame;

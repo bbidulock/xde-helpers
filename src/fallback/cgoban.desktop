@@ -5,6 +5,7 @@ Type=Application
 Name=Cgoban
 Comment=Play Go against human or computer opponents
 Icon=cgoban_icon
+TryExec=/usr/games/cgoban
 Exec=/usr/games/cgoban
 Terminal=false
 Categories=GNOME;GTK;Game;BoardGame;

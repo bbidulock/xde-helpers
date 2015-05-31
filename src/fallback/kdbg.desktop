@@ -38,6 +38,7 @@ Comment[sk]=Ladiaci program
 Comment[sl]=Odpravljanje napak v programih
 Comment[sv]=Avlusar program
 Icon=kdbg
+TryExec=kdbg
 Exec=kdbg -caption "%c" %i
 Terminal=false
 Categories=Qt;KDE;Development;Debugger;

@@ -9,6 +9,7 @@ GenericName[en_US]=Poker client
 Comment=An open source poker client and server
 Comment[en_US]=An open source poker client and server
 Icon=holdingnuts
+TryExec=holdingnuts
 Exec=holdingnuts
 X-DCOP-ServiceType=Multi
 Terminal=false

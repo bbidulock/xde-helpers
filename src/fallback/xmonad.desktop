@@ -3,6 +3,7 @@ Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=Xmonad
+TryExec=xmonad
 Exec=xmonad
 Terminal=false
 StartupNotify=false

@@ -5,6 +5,7 @@ Type=Application
 Name=Pondus
 Comment=Keep track of your weight
 Icon=pondus
+TryExec=pondus
 Exec=pondus
 Terminal=false
 Categories=GTK;Utility;

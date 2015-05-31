@@ -5,6 +5,7 @@ Type=Application
 Name=OBM
 Comment=Logs GSM and GPS and uploads to openBmap.
 Icon=openBmap-desktop
+TryExec=openBmapGTK
 Exec=openBmapGTK
 Terminal=true
 Categories=GTK;Application;Geography;

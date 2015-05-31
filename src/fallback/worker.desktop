@@ -8,6 +8,7 @@ GenericName[de]=Dateimanager
 Comment=File manager for X, much like the Amiga's DirOpus.
 Comment[de]=Dateimanager für X, ähnlich wie Amigas DirOpus.
 Icon=WorkerIcon48
+TryExec=worker
 Exec=worker
 Terminal=false
 Categories=Utility;FileTools;FileManager;

@@ -7,6 +7,7 @@ Comment=Fill in digits so that each connected region of squares containing the s
 Comment[de]=Füge Ziffern ein, so dass jede zusammenhängende Region von Quadraten mit der gleichen Ziffer über ein mit der Ziffer übereinstimmendes Gebiet verfügt
 Comment[fr]=Ajouter des chiffres de telles sortes que chaque section carré contienne le même nombre de digit que le chiffre représenté
 Icon=filling
+TryExec=filling
 Exec=filling
 Terminal=false
 Categories=Game;LogicGame;

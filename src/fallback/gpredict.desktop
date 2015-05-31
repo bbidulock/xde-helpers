@@ -5,6 +5,7 @@ Type=Application
 Name=GNOME Predict
 Comment=Satellite tracker
 Icon=gpredict
+TryExec=gpredict
 Exec=gpredict
 Terminal=false
 Categories=Network;HamRadio;Education;Astronomy;Science;

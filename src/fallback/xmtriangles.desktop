@@ -5,6 +5,7 @@ Type=Application
 Name=xmtriangles
 GenericName=triangles game
 Icon=_usr_share_pixmaps_xtriangles.m
+TryExec=/usr/games/xmtriangles
 Exec=/usr/games/xmtriangles
 Terminal=false
 Categories=Game;

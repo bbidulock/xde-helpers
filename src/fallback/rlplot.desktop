@@ -5,6 +5,7 @@ Type=Application
 Name=Rlplot Graph Generator
 Comment=Generate publication quality graphs
 Icon=RLPlot.xpm
+TryExec=rlplot
 Exec=rlplot
 Terminal=false
 Categories=Education;Math

@@ -7,6 +7,7 @@ GenericName=Documentation browser for OCaml
 GenericName[fr]=Visualiseur de documentation pour OCaml
 Comment=Handle ocamldoc generated documentation
 Comment[fr]=Prend en charge la documentation produite par ocamldoc
+TryExec=docbrowser2.byte
 Exec=docbrowser2.byte
 Terminal=false
 Categories=Development;Viewer;GTK;

@@ -7,6 +7,7 @@ Comment=Play with waves and vibrations
 Comment[fr]=Joue avec les ondes e les vibrations
 Comment[it]=Gioca con onde e vibrazioni
 Icon=gvb.svg
+TryExec=gvb
 Exec=gvb
 Terminal=false
 Categories=Education;Science;Physics;

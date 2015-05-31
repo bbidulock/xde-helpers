@@ -12,6 +12,7 @@ Comment[de]=Internet Streamverzeichnisse durchsuchen
 Comment[fr]=Parcours les répertoires de stations sur Internet
 Comment[ja]=インターネットストリーム ディレクトリを調べる
 Icon=streamtuner.png
+TryExec=streamtuner
 Exec=streamtuner
 Terminal=false
 Categories=AudioVideo;GTK;Tuner;

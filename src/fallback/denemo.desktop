@@ -18,6 +18,7 @@ Comment[en]=Edit musical scores
 Comment[fr]=Ėdite des partitions musicales
 Comment[it]=Compone gli spartiti musicali
 Icon=denemo
+TryExec=denemo
 Exec=denemo
 Terminal=false
 Categories=GNOME;Audio;AudioVideo;Music;Education

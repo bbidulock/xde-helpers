@@ -5,6 +5,7 @@ Type=Application
 Name=WSJT
 Comment=Amateur radio weak signal communications
 Icon=wsjt.png
+TryExec=wsjt
 Exec=wsjt
 Terminal=true
 Categories=Application;HamRadio;

@@ -5,6 +5,7 @@ Type=Application
 Name=LiVES 
 Comment=Video Editor/VJ tool
 Icon=lives
+TryExec=lives
 Exec=lives
 Terminal=false
 Categories=AudioVideo;AudioVideoEditing;

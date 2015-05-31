@@ -6,6 +6,7 @@ Name=Xmille
 GenericName=
 Comment=
 Icon=
+TryExec=/usr/games/xmille
 Exec=/usr/games/xmille
 Terminal=false
 Categories=Application;Game;CardGame;

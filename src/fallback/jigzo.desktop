@@ -5,6 +5,7 @@ Type=Application
 Name=jigzo
 Comment=Photo puzzle game for children
 Icon=jigzo.xpm
+TryExec=/usr/games/jigzo
 Exec=/usr/games/jigzo
 Terminal=false
 Categories=Application;Game;LogicGame;

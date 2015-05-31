@@ -6,6 +6,7 @@ Name=QStarDict
 GenericName=Dictionary
 Comment=QStarDict is Qt version of StarDict
 Icon=qstardict
+TryExec=qstardict
 Exec=qstardict
 Terminal=false
 Categories=Qt;Dictionary;Utility

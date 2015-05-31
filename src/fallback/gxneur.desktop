@@ -7,6 +7,7 @@ Name[ru]=gXNeur
 Comment=Automatic keyboard layout switcher
 Comment[ru]=Автоматический переключатель раскладки клавиатуры
 Icon=gxneur
+TryExec=gxneur
 Exec=gxneur
 Terminal=false
 Categories=Utility;GTK;GNOME;Accessibility

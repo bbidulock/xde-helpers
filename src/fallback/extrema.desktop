@@ -5,6 +5,7 @@ Type=Application
 Name=eXtrema
 Comment=eXtrema
 Icon=extrema
+TryExec=/usr/bin/extrema
 Exec=/usr/bin/extrema
 Terminal=false
 Categories=Education;Science;Math;DataVisualization;NumericalAnalysis;

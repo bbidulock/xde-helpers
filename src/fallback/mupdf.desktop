@@ -12,10 +12,13 @@ NoDisplay=true
 Categories=Viewer;Graphics;
 MimeType=application/pdf;application/x-pdf;application/x-cbz;application/oxps;application/vnd.ms-xpsdocument;image/jpeg;image/pjpeg;image/png;image/tiff;image/x-tiff
 StartupNotify=false
-X-Arch-Package=mpv 0.9.2-1
+X-Arch-Package=mupdf 1.7_a-2
+X-Arch-Package-Name=mupdf
+X-Arch-Package-Version=1.7_a-2
+X-Arch-Package-Description=Lightweight PDF and XPS viewer
+X-Arch-Package-URL=http://mupdf.com
 Actions=View
 
 [Desktop Action View]
 Name=View with mupdf
 Exec=mupdf %f
-X-Arch-Package=mupdf 1.7_a-2

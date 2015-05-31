@@ -37,6 +37,7 @@ Comment[pt_BR]=Catálogo de endereços
 Comment[ru]=Адресная книга
 Comment[sv]=Adressbok
 Icon=contacts
+TryExec=contacts
 Exec=contacts
 Terminal=false
 Categories=GTK;Office;ContactManagement;

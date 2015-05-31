@@ -63,6 +63,7 @@ Comment[vi]=Bật/Tắt hỗ trợ khả năng ghi NTFS chỉ với một thao t
 Comment[zh_CN]=点击将启用/禁用 NTFS 写入支持。
 Comment[zh_HK]=按一下即能開關 NTFS 檔案系統的讀寫支援。
 Icon=ntfs-config
+TryExec=/usr/sbin/ntfs-config-root
 Exec=/usr/sbin/ntfs-config-root
 Terminal=false
 Categories=Application;System;Settings

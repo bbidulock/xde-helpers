@@ -66,6 +66,7 @@ Comment[tr]=Önyükleyici ve sıçrayan ekran için ayarları değiştir
 Comment[zh_CN]=修改启动加载器和闪屏的设置
 Comment[zh_TW]=變更開機程式的開機畫面設定
 Icon=startupmanager
+TryExec=su-to-root
 Exec=su-to-root -X -c /usr/sbin/startupmanager
 Terminal=false
 Categories=GNOME;System;Settings;

@@ -13,6 +13,7 @@ Comment[es]=Un utillaje para juntar y comparar archivos de texto
 Comment[ja]=テキストファイルをマージして比較するためのグラフィックツール
 Comment[zh_CN]=图形化的比较和合并文本文件的工具
 Icon=diffuse
+TryExec=diffuse
 Exec=diffuse -s %F
 Terminal=false
 Categories=Development;GTK;TextEditor;TextTools;

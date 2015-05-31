@@ -9,6 +9,7 @@ GenericName[pl]=Modeler cząsteczek
 Comment=Model molecular structures and produce high-quality images of them
 Comment[pl]=Program do tworzenia i wizualizowania modeli cząsteczek
 Icon=pymol
+TryExec=pymol
 Exec=pymol
 Terminal=false
 Categories=Education;Science;Chemistry;

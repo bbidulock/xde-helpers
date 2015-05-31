@@ -9,6 +9,7 @@ GenericName[zh_CN]=文本阅读器
 Comment=Read text novels and more
 Comment[zh_CN]=阅读小说和其他文本文件
 Icon=txtreader
+TryExec=txtreader
 Exec=txtreader
 Terminal=false
 Categories=Office;Viewer;

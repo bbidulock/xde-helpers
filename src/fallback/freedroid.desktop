@@ -5,6 +5,7 @@ Type=Application
 Name=Freedroid
 Comment=Clear a spaceship from all droids
 Icon=freedroid
+TryExec=freedroid
 Exec=freedroid
 Terminal=false
 Categories=Game;

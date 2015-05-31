@@ -5,6 +5,7 @@ Type=Application
 Name=atanks
 Comment=Destroy your opponents' tanks.
 Icon=atanks.png
+TryExec=atanks
 Exec=atanks
 Terminal=false
 Categories=Game;

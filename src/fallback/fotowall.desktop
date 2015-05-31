@@ -6,6 +6,7 @@ Name=Fotowall
 GenericName=Fotowall
 Comment=Photo collection creativity tool
 Icon=fotowall
+TryExec=fotowall
 Exec=fotowall
 Terminal=false
 Categories=Graphics;Publishing;

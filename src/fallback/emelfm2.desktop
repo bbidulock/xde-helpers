@@ -19,3 +19,7 @@ Categories=System;Utility;Core;FileTools;FileManager;GTK;Application;Utility;
 MimeType=inode/directory;inode/mount-point;
 StartupNotify=false
 X-Arch-Package=emelfm2 0.9.1-1
+X-Arch-Package-Name=emelfm2
+X-Arch-Package-Version=0.9.1-1
+X-Arch-Package-Description=A file manager that implements the popular two-pane design
+X-Arch-Package-URL=http://emelfm2.net/

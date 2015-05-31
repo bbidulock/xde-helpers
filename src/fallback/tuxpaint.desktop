@@ -219,6 +219,7 @@ Comment[zam]=Diif program paar keé men Dibuj paar biét biss
 Comment[zh_CN]=孩子的绘图程序。
 Comment[zh_TW]=適合兒童的畫圖程式
 Icon=tuxpaint
+TryExec=tuxpaint
 Exec=tuxpaint
 Terminal=false
 Categories=Education;Art;

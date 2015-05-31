@@ -15,3 +15,7 @@ Categories=Development;Electronics
 MimeType=application/x-kicad-schematic;
 StartupNotify=false
 X-Arch-Package=kicad 20130518-3
+X-Arch-Package-Name=kicad
+X-Arch-Package-Version=20130518-3
+X-Arch-Package-Description=Electronic schematic and printed circuit board (PCB) design tools
+X-Arch-Package-URL=http://iut-tice.ujf-grenoble.fr/kicad/

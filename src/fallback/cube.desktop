@@ -7,6 +7,7 @@ Comment=Get all six blue squares on to the six faces of the cube at the same tim
 Comment[de]=Bekomme alle sechs blauen Quadrate gleichzeitig auf die sechs Seiten des Würfels
 Comment[fr]=Essayer d'obtenir simultanément six carrés bleus sur les six faces du cube
 Icon=cube
+TryExec=cube
 Exec=cube
 Terminal=false
 Categories=Game;LogicGame;

@@ -5,6 +5,7 @@ Type=Application
 Name=VisualBoy Advance
 Comment=Game Boy Advance emulator
 Icon=VisualBoyAdvance-gtk-32x32
+TryExec=gvba
 Exec=gvba
 Terminal=false
 Categories=GTK;Game;ArcadeGame;

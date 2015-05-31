@@ -6,6 +6,7 @@ Name=Lincity
 GenericName=Lincity
 Comment=City simulation game
 Icon=_usr_share_pixmaps_lincity
+TryExec=xlincity
 Exec=xlincity
 Terminal=false
 Categories=Application;Game;StrategyGame

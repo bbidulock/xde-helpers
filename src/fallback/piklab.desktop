@@ -8,6 +8,7 @@ Comment=Integrated development environment for applications based on PIC microco
 Comment[es]=Entorno integrado de desarrollo de aplicaciones basadas en microcontroladores PIC.
 Comment[fr]=Environnement de développement intégré pour applications utilisant des microcontroleurs PIC.
 Icon=piklab
+TryExec=piklab
 Exec=piklab %U
 Terminal=false
 Categories=Qt;KDE;Development;IDE;Electronics;

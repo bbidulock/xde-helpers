@@ -6,6 +6,7 @@ Name=X NetHack
 GenericName=NetHack (X interface)
 Comment=
 Icon=nethack
+TryExec=/usr/games/xnethack
 Exec=/usr/games/xnethack
 Terminal=false
 Categories=Application;Game;AdventureGame;

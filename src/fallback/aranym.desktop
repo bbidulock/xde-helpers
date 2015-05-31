@@ -5,6 +5,7 @@ Type=Application
 Name=ARAnyM
 Comment=Virtual Machine for running Atari 32-bit operating systems and applications
 Icon=aranym
+TryExec=aranym
 Exec=aranym
 Terminal=false
 Categories=System;Emulator;

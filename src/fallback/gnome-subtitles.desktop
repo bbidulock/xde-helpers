@@ -6,6 +6,7 @@ Name=Gnome Subtitles
 GenericName=Subtitle Editor
 Comment=Video subtitling for the GNOME desktop
 Icon=gnome-subtitles.png
+TryExec=gnome-subtitles
 Exec=gnome-subtitles %f
 Terminal=false
 Categories=GNOME;GTK;Video;AudioVideo;AudioVideoEditing;

@@ -6,6 +6,7 @@ Name=PIDA
 Comment=Python Integrated Development Application
 Comment[de]=Integrierte Entwicklungsumgebung für Python
 Icon=pida-icon
+TryExec=pida
 Exec=pida %F
 Terminal=false
 Categories=Development;IDE;GTK;

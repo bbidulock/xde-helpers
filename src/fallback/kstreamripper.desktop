@@ -5,6 +5,7 @@ Type=Application
 Name=KStreamRipper
 Comment=Streamripper Frontend
 Icon=kstreamripper
+TryExec=kstreamripper
 Exec=kstreamripper
 Terminal=false
 Categories=AudioVideo;Audio;Tuner;Recorder;

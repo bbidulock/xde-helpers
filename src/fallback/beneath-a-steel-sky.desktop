@@ -6,6 +6,7 @@ Name=Beneath A Steel Sky
 GenericName=Game
 Comment=A science-fiction adventure game set in a bleak post-apocalyptic vision of the future
 Icon=beneath-a-steel-sky
+TryExec=/usr/games/scummvm
 Exec=/usr/games/scummvm -p /usr/share/scummvm/beneath-a-steel-sky sky
 Terminal=false
 Categories=AdventureGame;Game;RolePlaying;

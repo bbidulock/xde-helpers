@@ -6,6 +6,7 @@ Name=GtkHash
 Comment=Compute message digests and checksums
 Comment[de]=Berechnen von Prüfsummen
 Icon=gtkhash
+TryExec=gtkhash
 Exec=gtkhash
 Terminal=false
 Categories=GNOME;Utility;

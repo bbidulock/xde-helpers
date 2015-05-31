@@ -9,6 +9,7 @@ Comment=Application to manage remote site configurations
 Comment[de]=Anwendung zum Verwalten der VPN-konfigurationen
 Comment[en_CA]=Application to manage remote site configurations
 Icon=ikea
+TryExec=/usr/bin/ikea
 Exec=/usr/bin/ikea
 Terminal=false
 Categories=Network

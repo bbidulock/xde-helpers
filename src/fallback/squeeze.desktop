@@ -38,6 +38,7 @@ Comment[sq]=Përgjegjësi Xfce arkivash
 Comment[tr]=Xfce arşiv yöneticisi
 Comment[uk]=Менеджер архівів Xfce
 Icon=squeeze
+TryExec=squeeze
 Exec=squeeze
 X-MultipleArgs=false
 Terminal=false

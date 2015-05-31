@@ -6,6 +6,7 @@ Name=Xabacus
 GenericName=Abacus ancient calculator
 Comment=simulation of the ancient calculator (Motif version)
 Icon=_usr_share_pixmaps_xabacus.m
+TryExec=xabacus
 Exec=xabacus
 X-MultipleArgs=false
 Terminal=false

@@ -51,6 +51,7 @@ Comment[sv]=Allmän uppspelare av film och musik
 Comment[wa]=Lét, egaloye, evoye vos floûs multimedia
 Comment[zh_CN]=为您读取、捕获或发送多媒体流
 Icon=vlc
+TryExec=vlc
 Exec=vlc %U
 Terminal=false
 Categories=AudioVideo;Player;

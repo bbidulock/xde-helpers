@@ -103,6 +103,7 @@ GenericName[xh]=Umfumani Wexesha Lobuqu
 GenericName[zh_CN]=个人时间记录
 GenericName[zh_TW]=個人時程記錄
 Icon=ktimetracker
+TryExec=ktimetracker
 Exec=ktimetracker
 X-DBUS-StartupType=Multi
 Terminal=false

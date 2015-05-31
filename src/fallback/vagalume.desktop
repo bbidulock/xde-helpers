@@ -15,6 +15,7 @@ Name[pt]=Cliente do Last.fm Vagalume
 Name[pt_BR]=Cliente do Last.fm Vagalume
 Name[ru]=Vagalume Last.fm клиент
 Icon=vagalume
+TryExec=/usr/bin/vagalume
 Exec=/usr/bin/vagalume
 Terminal=false
 Categories=Audio;AudioVideo;GNOME;GTK;Application;Player;

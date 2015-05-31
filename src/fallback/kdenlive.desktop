@@ -14,6 +14,7 @@ Comment[it]=Editor video non lineare per KDE
 Comment[ru]=Нелинейный видеоредактор для KDE
 Comment[uk]=Нелінійний редактор відео для KDE
 Icon=kdenlive
+TryExec=kdenlive
 Exec=kdenlive %i -caption "%c" %u
 Terminal=false
 Categories=Qt;KDE;AudioVideo;AudioVideoEditing;

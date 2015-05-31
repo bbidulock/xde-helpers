@@ -6,6 +6,7 @@ Name=Penguin Merlin
 GenericName=
 Comment=
 Icon=
+TryExec=/usr/games/ace-merlin
 Exec=/usr/games/ace-merlin
 Terminal=false
 Categories=Game;LogicGame;

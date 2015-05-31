@@ -6,6 +6,7 @@ Name=Aven Cave Surveying Tool
 GenericName=Cave Surveying Tool
 Comment=Visualise cave surveys
 Icon=aven
+TryExec=aven
 Exec=aven
 Terminal=false
 Categories=Education;Geology;Science;

@@ -7,6 +7,7 @@ Comment=E-book library management
 Comment[de]=E-Book Bibliotheksverwaltung
 Comment[es]=aplicación para la gestión de libros electrónicos
 Icon=calibre
+TryExec=calibre
 Exec=calibre
 Terminal=false
 Categories=Office;Database;FileTools;Viewer;Qt;

@@ -6,6 +6,7 @@ Name=Klibido
 GenericName=Usenet Binaries Downloader
 Comment=KDE nntp (usenet) binaries grabber
 Icon=klibido
+TryExec=klibidoload
 Exec=klibidoload %U
 Terminal=false
 Categories=Qt;KDE;Network

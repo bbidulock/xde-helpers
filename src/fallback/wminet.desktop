@@ -13,7 +13,11 @@ OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
 Categories=DockApp;WMAKER;
 StartupNotify=false
 StartupWMClass=wminet
-X-Arch-Package=wminet
+X-Arch-Package=wminet 3.0.0-1
+X-Arch-Package-Name=wminet
+X-Arch-Package-Version=3.0.0-1
+X-Arch-Package-Description=A dock app for monitoring internet connections
+X-Arch-Package-URL=http://www.swanson.ukfsn.org/#wminet
 Actions=Neon;LCD;
 
 [Desktop Action Neon]

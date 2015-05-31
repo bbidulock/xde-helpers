@@ -5,6 +5,7 @@ Type=Application
 Name=Abe's Amazing Adventure
 Comment=Side-scrolling game
 Icon=_usr_share_pixmaps_abe
+TryExec=abe
 Exec=abe
 Terminal=false
 Categories=Game;AdventureGame;

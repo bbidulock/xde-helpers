@@ -32,6 +32,7 @@ Name[zh_CN]=Gourmet食谱管理软件
 Name[zh_HK]=Gourmet食譜管理員
 Comment=Organize recipes, create shopping lists, calculate nutritional information, and more.
 Icon=recbox.png
+TryExec=gourmet
 Exec=gourmet
 Terminal=false
 Categories=GNOME;Application;Utility;

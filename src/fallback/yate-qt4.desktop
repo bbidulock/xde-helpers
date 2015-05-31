@@ -8,6 +8,7 @@ GenericName=VoIP Phone
 GenericName[ro]=Telefon VoIP
 Comment=Place phone calls over the Internet
 Comment[ro]=Apeluri telefonice peste Internet
+TryExec=yate-qt4
 Exec=yate-qt4
 Terminal=false
 Categories=Application;Network;Qt

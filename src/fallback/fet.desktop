@@ -6,6 +6,7 @@ Name=Timetable Generator
 GenericName=
 Comment=Generate timetables for educational institutions
 Icon=fet
+TryExec=fet
 Exec=fet
 Terminal=false
 Categories=Utility;

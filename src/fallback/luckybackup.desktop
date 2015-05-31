@@ -57,6 +57,7 @@ Comment[sl]=Ustvarjanje varnostnih kopij in usklajevanje z uporabo rsync
 Comment[sv]=Backup & sync your data with the power of rsync
 Comment[tr]=rsync gücüyle verinizi yedekleyin & şipşaklayın
 Icon=_usr_share_pixmaps_luckybackup
+TryExec=/usr/bin/luckybackup
 Exec=/usr/bin/luckybackup
 Terminal=false
 Categories=KDE;Qt;Utility;

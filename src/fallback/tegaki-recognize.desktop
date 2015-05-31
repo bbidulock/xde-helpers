@@ -6,6 +6,7 @@ Name=Tegaki Recognize
 GenericName=Handwriting Recognition
 Comment=Handwriting Recognition
 Icon=tegaki-recognize
+TryExec=/usr/bin/tegaki-recognize
 Exec=/usr/bin/tegaki-recognize
 Terminal=false
 Categories=Utility;

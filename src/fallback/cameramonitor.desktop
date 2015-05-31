@@ -5,6 +5,7 @@ Type=Application
 Name=Camera Monitor
 Comment=Camera Monitor
 Icon=_usr_share_cameramonitor_cameramonitor
+TryExec=cameramonitor
 Exec=cameramonitor
 Terminal=false
 Categories=GNOME;Application;AudioVideo;

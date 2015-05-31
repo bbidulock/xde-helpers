@@ -14,3 +14,7 @@ Categories=DockApp;WMAKER;
 StartupNotify=false
 StartupWMClass=wmMoonClock
 X-Arch-Package=wmmoonclock 1.27-2
+X-Arch-Package-Name=wmmoonclock
+X-Arch-Package-Version=1.27-2
+X-Arch-Package-Description=WindowMaker dockapp that shows lunar ephemeris to fairly high accuracy
+X-Arch-Package-URL=http://www.cs.mun.ca/~gstarkes/wmaker/dockapps/time.html#wmmoonclock

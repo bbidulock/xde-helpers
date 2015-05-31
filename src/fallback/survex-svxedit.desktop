@@ -6,6 +6,7 @@ Name=SvxEdit Cave Survey Data Editor
 GenericName=Cave Survey Data Editor
 Comment=Enter cave survey data for Survex
 Icon=svxedit
+TryExec=svxedit
 Exec=svxedit
 Terminal=false
 Categories=Education;Geology;Science;

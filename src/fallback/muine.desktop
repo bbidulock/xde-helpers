@@ -88,6 +88,7 @@ Comment[uk]=Прослуховування музики
 Comment[vi]=Nghe nhạc bạn
 Comment[zh_CN]=听您的音乐
 Icon=muine
+TryExec=muine
 Exec=muine
 Terminal=false
 Categories=GNOME;AudioVideo;X-Ximian-Main;X-Red-Hat-Base;

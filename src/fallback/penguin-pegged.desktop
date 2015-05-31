@@ -6,6 +6,7 @@ Name=Penguin Pegged
 GenericName=
 Comment=
 Icon=
+TryExec=/usr/games/ace-pegged
 Exec=/usr/games/ace-pegged
 Terminal=false
 Categories=Game;LogicGame;

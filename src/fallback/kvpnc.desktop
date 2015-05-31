@@ -76,6 +76,7 @@ Comment[tr]=Çeşitli VPN istemcileri için Arayüz
 Comment[uk]=Інтерфейс для різноманітних клієнтів VPN
 Comment[x-test]=xxGUI for various VPN clientsxx
 Icon=kvpnc
+TryExec=su-to-root
 Exec=su-to-root -X -c /usr/bin/kvpnc
 Terminal=false
 Categories=Network;RemoteAccess;KDE;Qt;

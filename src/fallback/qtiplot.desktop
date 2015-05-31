@@ -5,6 +5,7 @@ Type=Application
 Name=QtiPlot
 Comment=data analysis and scientific plotting
 Icon=qtiplot
+TryExec=qtiplot
 Exec=qtiplot
 Terminal=false
 Categories=Education;Science;Math;Qt;

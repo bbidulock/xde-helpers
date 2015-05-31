@@ -5,6 +5,7 @@ Type=Application
 Name=Aeskulap Viewer
 Comment=Medical image viewer and DICOM network client
 Icon=aeskulap
+TryExec=aeskulap
 Exec=aeskulap
 Terminal=false
 Categories=Viewer;MedicalSoftware;Graphics;

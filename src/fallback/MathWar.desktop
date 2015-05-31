@@ -5,6 +5,7 @@ Type=Application
 Name=MathWar
 Comment=A simple math game for kids
 Icon=mathwar
+TryExec=mathwar
 Exec=mathwar
 Terminal=false
 Categories=Education;Math;

@@ -6,6 +6,7 @@ Name=FlightGear
 Comment=A flight simulator
 Comment[pt]=Simulação de Vôo
 Icon=
+TryExec=fgfs
 Exec=fgfs
 Terminal=false
 Categories=Game;Simulation;

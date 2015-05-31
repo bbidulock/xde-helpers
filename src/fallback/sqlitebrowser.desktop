@@ -5,6 +5,7 @@ Type=Application
 Name=SQLite database browser
 Comment=GUI editor for SQLite databases
 Icon=sqlitebrowser.png
+TryExec=sqlitebrowser
 Exec=sqlitebrowser
 Terminal=false
 Categories=Development;Database;Qt;

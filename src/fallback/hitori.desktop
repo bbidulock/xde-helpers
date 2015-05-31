@@ -31,6 +31,7 @@ Comment[pt_BR]=Jogue o quebra-cabeça Hitori
 Comment[sv]=Spela pusselspelet Hitori
 Comment[zh_CN]=进行 Hitori 益智游戏
 Icon=hitori
+TryExec=hitori
 Exec=hitori
 Terminal=false
 Categories=GTK;Game;LogicGame;

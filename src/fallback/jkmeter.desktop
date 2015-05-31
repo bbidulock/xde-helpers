@@ -6,6 +6,7 @@ Name=Jkmeter
 GenericName=Audio Level Meter
 Comment=Audio level meter for JACK
 Icon=jkmeter32x32
+TryExec=jkmeter
 Exec=jkmeter -C -V 
 Terminal=false
 Categories=AudioVideo;Audio;

@@ -6,6 +6,7 @@ Name=HDSPConf
 GenericName=
 Comment=Control the Hammerfall HDSP ALSA settings
 Icon=alsa-tools
+TryExec=hdspconf
 Exec=hdspconf
 Terminal=false
 Categories=AudioVideo;Audio;

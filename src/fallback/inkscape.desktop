@@ -187,7 +187,11 @@ Categories=Graphics;VectorGraphics;GTK;
 MimeType=image/svg+xml;image/svg+xml-compressed;application/vnd.corel-draw;application/pdf;application/postscript;image/x-eps;application/illustrator;
 StartupNotify=true
 X-Desktop-File-Install-Version=0.15
-X-Arch-Package=inkscape 0.91-8
+X-Arch-Package=inkscape 0.91-9
+X-Arch-Package-Name=inkscape
+X-Arch-Package-Version=0.91-9
+X-Arch-Package-Description=Vector graphics editor using the SVG file format
+X-Arch-Package-URL=http://inkscape.sourceforge.net/
 X-Ayatana-Desktop-Shortcuts=Drawing
 
 [Drawing Shortcut Group]
@@ -214,4 +218,3 @@ Name[uk]=Новий малюнок
 Name[zh_TW]=新增圖畫
 Exec=inkscape
 TargetEnvironment=Unity
-X-Arch-Package=inkscape 0.91-8

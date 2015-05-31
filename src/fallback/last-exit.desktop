@@ -30,6 +30,7 @@ Comment[pt]=Reprodutor para o Last.fm
 Comment[sv]=Last.fm-spelare
 Comment[tr]=Last.fm oynatıcı
 Icon=last-exit
+TryExec=last-exit
 Exec=last-exit
 Terminal=false
 Categories=GTK;Application;AudioVideo;

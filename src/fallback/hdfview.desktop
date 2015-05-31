@@ -9,6 +9,7 @@ Comment=HDF4/5 Data Browser
 Comment[DE]=HDF4/5 Daten Browser
 Comment[EN]=HDF4/5 Data Browser
 Icon=hdfview
+TryExec=/usr/bin/hdfview
 Exec=/usr/bin/hdfview %F
 X-MultipleArgs=true
 Terminal=false

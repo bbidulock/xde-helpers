@@ -7,6 +7,7 @@ Comment=A graphical toolkit for database administration and development
 Comment[de]=Grafisches Toolkit zur Administration und Entwicklung von Datenbanken
 Comment[fr]=Une boite à outil graphique pour l'administration et le développement de base de données
 Icon=tora
+TryExec=tora
 Exec=tora
 Terminal=false
 Categories=Database;Office;Development;KDE;Qt

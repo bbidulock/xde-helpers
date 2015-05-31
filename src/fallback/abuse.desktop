@@ -6,6 +6,7 @@ Name=Abuse
 GenericName=abuse
 Comment=Play a clone of the classic Abuse shooter
 Icon=abuse
+TryExec=abuse
 Exec=abuse
 Terminal=false
 Hidden=false

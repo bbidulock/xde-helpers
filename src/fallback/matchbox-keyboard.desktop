@@ -5,6 +5,7 @@ Type=Application
 Name=Keyboard
 Comment=Virtual Keyboard
 Icon=matchbox-keyboard.png
+TryExec=matchbox-keyboard
 Exec=matchbox-keyboard
 Terminal=false
 Categories=Panel;Utility;MB

@@ -7,6 +7,7 @@ Comment=GNOME Manpages Editor
 Comment[es]=Editor de p\xE1ginas man de GNOME
 Comment[gl]=Editor de p\xE1xinas man de GNOME
 Icon=gmanedit_icon.png
+TryExec=gmanedit
 Exec=gmanedit
 Terminal=false
 Categories=Development;

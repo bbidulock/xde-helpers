@@ -101,6 +101,7 @@ GenericName[x-test]=xxFive-in-a-row Board Gamexx
 GenericName[zh_CN]=五子棋游戏
 GenericName[zh_TW]=五子棋棋盤遊戲
 Icon=bovo
+TryExec=bovo
 Exec=bovo -caption "%c"
 X-DBUS-StartupType=Multi
 Terminal=false

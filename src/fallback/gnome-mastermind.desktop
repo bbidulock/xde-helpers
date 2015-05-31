@@ -27,6 +27,7 @@ Comment[pl]=Złam ukryty kod!
 Comment[pt_BR]=Quebre o código secreto!
 Comment[sv]=Hitta den rätta koden!
 Icon=gnome-mastermind
+TryExec=gnome-mastermind
 Exec=gnome-mastermind
 Terminal=false
 Categories=GNOME;GTK;Game;BoardGame;

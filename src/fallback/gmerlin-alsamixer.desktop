@@ -7,6 +7,7 @@ Name[de]=Gmerlin mixer
 Comment=Alsa mixer
 Comment[de]=Alsa mixer
 Icon=gmerlin-alsamixer.png
+TryExec=gmerlin_alsamixer
 Exec=gmerlin_alsamixer
 Terminal=false
 Categories=Application;AudioVideo;

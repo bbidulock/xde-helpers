@@ -30,6 +30,7 @@ Comment[pt_BR]=Gnubiff é um programa de aviso de novas mensagens.
 Comment[sv]=Gnubiff är ett meddelandenotiferingsprogram.
 Comment[vi]=Gnubiff là một chương trình thông báo thư.
 Icon=gnubiff
+TryExec=gnubiff
 Exec=gnubiff
 Terminal=false
 Categories=Network;Email;

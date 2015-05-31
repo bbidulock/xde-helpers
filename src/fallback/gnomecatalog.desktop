@@ -19,6 +19,7 @@ Comment[hu]=Meghajtó és CD katalógusokat készít
 Comment[nl]=Maakt catalogen van uw schijven
 Comment[pl]=Aplikacja katalogująca dyski CD (i nie tylko)
 Icon=_usr_share_gnomecatalog_pixmaps_gcatalog
+TryExec=gnomecatalog
 Exec=gnomecatalog %F
 Terminal=false
 Categories=GNOME;Application;Utility;

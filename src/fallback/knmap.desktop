@@ -39,6 +39,7 @@ Comment[uk]=Проста програма KDE
 Comment[xx]=xxA simple KDE Applicationxx
 Comment[zh_CN]=一个简单的 KDE 应用程序
 Icon=knmap
+TryExec=knmap
 Exec=knmap
 Terminal=false
 Categories=Qt;KDE;Utility

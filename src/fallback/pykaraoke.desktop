@@ -8,6 +8,7 @@ GenericName=Karaoke player
 Comment=Universal karaoke songs and movies player
 Comment[lt]=Universalus karaoke muzikos bei video grotuvas
 Icon=_usr_share_pykaraoke_icons_pykaraoke
+TryExec=pykaraoke
 Exec=pykaraoke
 Terminal=false
 Categories=AudioVideo;Player;

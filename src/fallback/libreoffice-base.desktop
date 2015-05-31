@@ -8,6 +8,7 @@ GenericName[en]=Database Development
 Comment=Manage databases, create queries and reports to track and manage your information by using Base.
 Comment[en]=Manage databases, create queries and reports to track and manage your information by using Base.
 Icon=libreoffice-base
+TryExec=libreoffice
 Exec=libreoffice --base %U
 Terminal=false
 Categories=Office;Database;X-Red-Hat-Base;X-MandrivaLinux-MoreApplications-Databases;
@@ -18,10 +19,13 @@ StartupWMClass=libreoffice-base
 InitialPreference=5
 X-GIO-NoFuse=true
 X-KDE-Protocols=file,http,smb,ftp,webdav
-X-Arch-Package=libreoffice-still 4.3.7-1
+X-Arch-Package=libreoffice-still 4.3.7-2
+X-Arch-Package-Name=libreoffice-still
+X-Arch-Package-Version=4.3.7-2
+X-Arch-Package-Description=LibreOffice maintenance branch
+X-Arch-Package-URL=http://www.libreoffice.org/
 Actions=NewDocument;
 
 [Desktop Action NewDocument]
 Name=New Database
 Exec=libreoffice --base
-X-Arch-Package=libreoffice-still 4.3.7-1

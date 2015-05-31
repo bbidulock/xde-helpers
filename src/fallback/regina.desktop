@@ -6,6 +6,7 @@ Name=Regina
 GenericName=3-Manifold Topology
 Comment=A Normal Surface Theory Calculator
 Icon=regina
+TryExec=regina-kde
 Exec=regina-kde %U
 Terminal=false
 Categories=Qt;KDE;Math;Education

@@ -7,6 +7,7 @@ Name[es]=IDE para python Eric
 Comment=Full featured Python IDE
 Comment[es]=Completo entorno de programaci贸n para Python
 Icon=eric
+TryExec=eric
 Exec=eric
 Terminal=false
 Categories=Development;IDE;

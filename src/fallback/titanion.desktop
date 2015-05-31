@@ -6,6 +6,7 @@ Name=Titanion
 GenericName=
 Comment=Kenta Cho's Titanion
 Icon=titanion
+TryExec=titanion
 Exec=titanion
 Terminal=false
 Categories=Game;ArcadeGame;

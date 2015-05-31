@@ -5,6 +5,7 @@ Type=Application
 Name=Murmur
 Comment=Python/GTK2 Museek client
 Icon=murmur
+TryExec=murmur
 Exec=murmur
 Terminal=false
 Categories=GTK;Network

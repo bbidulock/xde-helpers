@@ -88,6 +88,7 @@ Comment[tr]=Yapılacaklar Listesi
 Comment[vi]=Danh sách công việc
 Comment[zh_CN]=任务列表
 Icon=tasks
+TryExec=tasks
 Exec=tasks
 Terminal=false
 Categories=GTK;Office;ProjectManagement;

@@ -5,6 +5,7 @@ Type=Application
 Name=Yarssr
 Comment=RSS reader for the notification area
 Icon=paper_green
+TryExec=yarssr
 Exec=yarssr
 Terminal=false
 Categories=Network;News;

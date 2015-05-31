@@ -8,6 +8,7 @@ GenericName=3d client for Worldforge MMORPGs
 GenericName[sv]=3d klient för Worldforge MMORPGs
 GenericName[tr]=Worldforge MMORPG için 3B İstemci
 Icon=ember
+TryExec=ember
 Exec=ember
 Terminal=false
 Categories=Application;Game;

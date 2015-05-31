@@ -13,6 +13,7 @@ Comment[it]=Promemoria compleanno per i contatti di Evolution
 Comment[pt]=Lembrete dos aniversários para os contatos do Evolution
 Comment[sk]=Upozornenie na narodeniny pre kontakty programu Evolution
 Icon=_usr_share_gbirthday_pics_birthday
+TryExec=gbirthday
 Exec=gbirthday
 Terminal=false
 Categories=Office;

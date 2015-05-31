@@ -6,6 +6,7 @@ Name=tkcvs
 GenericName=CVS/Subversion Frontend
 Comment=A graphical frontend to CVS and Subversion.
 Icon=tkcvs
+TryExec=tkcvs
 Exec=tkcvs
 Terminal=false
 Categories=RevisionControl;Development;ProjectManagement;

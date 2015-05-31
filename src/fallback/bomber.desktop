@@ -85,6 +85,7 @@ GenericName[x-test]=xxArcade Bombing Gamexx
 GenericName[zh_CN]=街机上的投弹游戏
 GenericName[zh_TW]=大型遊戲機的戰鬥機遊戲
 Icon=bomber
+TryExec=bomber
 Exec=bomber -caption "%c"
 X-DBUS-StartupType=Multi
 Terminal=false

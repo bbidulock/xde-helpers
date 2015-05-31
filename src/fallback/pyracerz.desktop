@@ -6,6 +6,7 @@ Name=pyRacerz
 GenericName=pyRacerz Game
 Comment=2D racing game
 Icon=pyracerz
+TryExec=pyracerz
 Exec=pyracerz
 Terminal=false
 Categories=Game;ArcadeGame;

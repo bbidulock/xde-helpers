@@ -23,6 +23,7 @@ Name[sv]=Datum
 Name[th]=วันที่
 Comment=Your appointments
 Icon=dates
+TryExec=dates
 Exec=dates
 X-Osso-Service=dates
 X-Osso-Type=application/x-executable

@@ -6,6 +6,7 @@ Name=WebIssues
 GenericName=Issue Tracker
 Comment=Client for the WebIssues system
 Icon=webissues
+TryExec=webissues
 Exec=webissues
 Terminal=false
 Categories=Qt;Office;ProjectManagement;

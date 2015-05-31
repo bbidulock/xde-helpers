@@ -5,6 +5,7 @@ Type=Application
 Name=Vectoroids
 Comment=A clone of the classic arcade game "Asteroids"
 Icon=_usr_share_pixmaps_vectoroids-icon
+TryExec=vectoroids
 Exec=vectoroids --fullscreen
 Terminal=false
 Categories=Application;Game;ArcadeGame;

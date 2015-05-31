@@ -6,6 +6,7 @@ Name=guvcview
 GenericName=GTK UVC video viewer
 Comment=A video viewer and capturer for the linux uvc driver
 Icon=_usr_share_pixmaps_guvcview_guvcview
+TryExec=guvcview
 Exec=guvcview
 Terminal=false
 Categories=Video;AudioVideo;

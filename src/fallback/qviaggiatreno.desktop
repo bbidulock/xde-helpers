@@ -5,6 +5,7 @@ Type=Application
 Name=QViaggiaTreno
 GenericName=Informazioni in tempo reale sulla circolazione ferroviaria
 Comment=Interfaccia grafica per ViaggiaTreno
+TryExec=qviaggiatreno
 Exec=qviaggiatreno
 Terminal=false
 Categories=Qt;Network;

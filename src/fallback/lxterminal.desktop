@@ -174,3 +174,7 @@ Categories=GTK;System;TerminalEmulator;
 Keywords=console;command line;execute;
 StartupNotify=false
 X-Arch-Package=lxterminal 0.2.0-1
+X-Arch-Package-Name=lxterminal
+X-Arch-Package-Version=0.2.0-1
+X-Arch-Package-Description=VTE-based terminal emulator (part of LXDE)
+X-Arch-Package-URL=http://lxde.org/

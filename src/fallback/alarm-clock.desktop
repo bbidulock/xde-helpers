@@ -13,6 +13,7 @@ Comment[pt]=Agende as suas tarefas
 Comment[sr@latin]=Organizujte Vaše vreme
 Comment[sr]=Организујте Ваше време
 Icon=alarm-clock
+TryExec=alarmclock
 Exec=alarmclock
 Terminal=false
 OnlyShowIn=GNOME;

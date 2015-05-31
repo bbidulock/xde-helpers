@@ -5,6 +5,7 @@ Type=Application
 Name=GtkPerf
 Comment=Test GTK+ performance
 Icon=duck
+TryExec=gtkperf
 Exec=gtkperf
 Terminal=false
 Categories=System;

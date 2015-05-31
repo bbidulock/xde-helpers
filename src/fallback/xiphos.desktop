@@ -48,6 +48,7 @@ Comment[sl]=Proučevanje Biblije
 Comment[sv]=Studera bibeln
 Comment[zh_TW]=研讀聖經
 Icon=xiphos
+TryExec=xiphos
 Exec=xiphos
 Terminal=false
 Categories=Education

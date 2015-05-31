@@ -59,6 +59,7 @@ Comment[sv]=För en personlig dagbok
 Comment[th]=เก็บรักษาบันทึกส่วนตัว
 Comment[zh_CN]=记录个人的日记
 Icon=almanah
+TryExec=almanah
 Exec=almanah
 Terminal=false
 Categories=GTK;Utility;

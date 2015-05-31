@@ -7,6 +7,7 @@ Name[fi]=OpenJDK Java 6 - ajonaikainen ympäristö
 Comment=OpenJDK Java 6 Runtime
 Comment[fi]=OpenJDK Java 6 - ajonaikainen ympäristö
 Icon=openjdk-6
+TryExec=/usr/lib/jvm/java-6-openjdk/bin/java
 Exec=/usr/lib/jvm/java-6-openjdk/bin/java -jar
 Terminal=false
 Categories=Application;Network

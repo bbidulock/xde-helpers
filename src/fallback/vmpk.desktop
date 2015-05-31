@@ -8,6 +8,7 @@ Comment[es]=Teclado de piano MIDI virtual
 Comment[ru]=Виртуальная MIDI Пианино Клавиатура
 Comment[tr]=Sanal MIDI Piyano Klavyesi
 Icon=vmpk
+TryExec=vmpk
 Exec=vmpk
 Terminal=false
 Categories=AudioVideo;Audio;Midi;Education;Music;

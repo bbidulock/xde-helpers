@@ -6,6 +6,7 @@ Name=GpsDrive
 Comment=GPS Navigation
 Comment[de]=GPS Navigationsprogramm
 Icon=gpsicon.png
+TryExec=gpsdrive
 Exec=gpsdrive
 Terminal=false
 Categories=Graphics;Network;Geography

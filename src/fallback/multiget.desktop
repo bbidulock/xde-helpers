@@ -6,6 +6,7 @@ Name=MultiGet
 Comment=MultiGet Downloader
 Comment[zh_CN]=MultiGet 下载器
 Icon=_usr_share_pixmaps_multiget_48
+TryExec=multiget
 Exec=multiget
 Terminal=false
 Categories=Network;

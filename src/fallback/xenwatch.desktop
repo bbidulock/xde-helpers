@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=xenwatch
 Comment=watch xen domains
+TryExec=xenstore
 Exec=xenstore
 Terminal=false
 Categories=GTK;System;Utility;

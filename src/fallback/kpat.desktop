@@ -109,6 +109,7 @@ GenericName[xh]=Ikhadi lomdlalo wokunyamezela
 GenericName[zh_CN]=考验耐心的牌类游戏
 GenericName[zh_TW]=單人玩的紙牌遊戲
 Icon=kpat
+TryExec=kpat
 Exec=kpat -caption "%c"
 X-DBUS-StartupType=Multi
 Terminal=false

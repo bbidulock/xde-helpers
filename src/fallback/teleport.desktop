@@ -5,6 +5,7 @@ Type=PanelApp
 Name=Teleport
 Comment=Move applications between displays
 Icon=teleport.png
+TryExec=mb-applet-launcher
 Exec=mb-applet-launcher -k /usr/share/pixmaps/teleport.png teleport
 Terminal=false
 Categories=Panel;Utility;GPE

@@ -6,6 +6,7 @@ Name=Rmedigicontrol
 GenericName=
 Comment=Control RME Digi32 and RME Digi96 soundcards
 Icon=alsa-tools
+TryExec=rmedigicontrol
 Exec=rmedigicontrol
 Terminal=false
 Categories=AudioVideo;Audio;

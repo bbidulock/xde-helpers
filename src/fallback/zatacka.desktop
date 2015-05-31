@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=Zatacka
 Comment=Arcade multiplayer game for 2-6 players
+TryExec=zatacka
 Exec=zatacka
 Terminal=false
 Categories=Game;ArcadeGame;

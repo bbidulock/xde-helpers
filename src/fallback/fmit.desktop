@@ -5,6 +5,7 @@ Type=Application
 Name=fmit
 Comment=Music instrument tuner
 Icon=mix_mic
+TryExec=fmit
 Exec=fmit
 Terminal=false
 Categories=Qt;AudioVideo

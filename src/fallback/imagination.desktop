@@ -42,6 +42,7 @@ Comment[sl_SI]=Lahki GTK+2 program za izdelavo DVD diaprojekcij
 Comment[sv]=En resurssnål DVD-bildspelsskapare som använder GTK+2
 Comment[zh_TW]=一個GTK+2介面下的簡易DVD影片秀製作工具
 Icon=imagination
+TryExec=imagination
 Exec=imagination %F
 Terminal=false
 Categories=AudioVideo;

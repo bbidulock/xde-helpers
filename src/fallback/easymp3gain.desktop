@@ -9,6 +9,7 @@ Comment[de]=Eine GUI für mp3gain, vorbisgain und aacgain
 Comment[fr]=Une GUI pour mp3gain, vorbisgain et aacgain
 Comment[it]=Una GUI per mp3gain, vorbisgain e aacgain
 Icon=easymp3gain
+TryExec=easymp3gain
 Exec=easymp3gain %U
 Terminal=false
 Categories=Audio;AudioVideo

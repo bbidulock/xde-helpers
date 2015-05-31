@@ -130,6 +130,7 @@ GenericName[xh]=Jonga Ukusebenziseka KweDiskic
 GenericName[zh_CN]=查看磁盘使用状况
 GenericName[zh_TW]=檢視磁碟使用情形
 Icon=kdf
+TryExec=kdf
 Exec=kdf -caption "%c"
 X-DBUS-StartupType=Multi
 Terminal=false

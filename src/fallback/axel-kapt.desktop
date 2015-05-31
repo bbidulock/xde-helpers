@@ -6,6 +6,7 @@ Name=Axel
 GenericName=Axel Front-end
 Comment=Front-end for Axel - a light download accelerator
 Icon=connect_creating
+TryExec=axel-kapt
 Exec=axel-kapt %f
 Terminal=false
 Categories=Network;FileTransfer;KDE;

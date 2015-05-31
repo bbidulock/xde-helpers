@@ -5,6 +5,7 @@ Type=Application
 Name=3D Slicer
 Comment=Start 3D Slicer
 Icon=3DSlicerLogo-DesktopIcon-48x48x256.png
+TryExec=/usr/bin/slicer3
 Exec=/usr/bin/slicer3
 Terminal=false
 Categories=Graphics;MedicalSoftware;

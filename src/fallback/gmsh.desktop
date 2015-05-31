@@ -6,6 +6,7 @@ Name=Gmsh Mesh Generator
 GenericName=Gmsh
 Comment=3-D finite element mesh generator
 Icon=gmsh16x16-smooth
+TryExec=gmsh
 Exec=gmsh
 Terminal=false
 Categories=Education;Math;Science;

@@ -5,6 +5,7 @@ Type=Application
 Name=Stopwatch
 Comment=A virtual stopwatch
 Icon=_usr_share_pixmaps_stopwatch
+TryExec=/usr/bin/stopwatch
 Exec=/usr/bin/stopwatch
 Terminal=false
 Categories=Application;Utility

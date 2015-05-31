@@ -12,6 +12,7 @@ Comment[es]=Preparación de esquemáticos y simulación de circuitos eléctricos
 Comment[it]=Disegno e simulazione di circuiti elettrici
 Comment[sv]=Kretsschemariting och simulering av elektriska kretsar
 Icon=gnome-oregano.svg
+TryExec=oregano
 Exec=oregano
 Terminal=false
 Categories=GNOME;GTK;Science;Education;Electronics;

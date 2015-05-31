@@ -184,6 +184,7 @@ Comment[x-test]=xxKDE Periodic Table of Elementsxx
 Comment[zh_CN]=KDE 元素周期表
 Comment[zh_TW]=KDE 元素週期表
 Icon=kalzium
+TryExec=kalzium
 Exec=kalzium -caption "%c" %i
 Terminal=false
 Categories=Qt;KDE;Education;Science;Chemistry;

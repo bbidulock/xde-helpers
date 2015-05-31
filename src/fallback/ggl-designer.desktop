@@ -11,6 +11,7 @@ Comment[en]=Google Gadget Designer
 Comment[fr]=Créateur de Google Gadget
 Comment[zh_CN]=Google 小工具设计器
 Icon=google-gadgets
+TryExec=/usr/bin/ggl-gtk
 Exec=/usr/bin/ggl-gtk -sa -nd -gp /usr/share/google-gadgets/designer.gg
 Terminal=false
 Categories=GNOME;GTK;Development;GUIDesigner;

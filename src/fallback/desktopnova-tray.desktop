@@ -5,6 +5,7 @@ Type=Application
 Name=DesktopNova-Tray
 Comment=A Tray-Icon for DesktopNova
 Icon=desktopnova
+TryExec=desktopnova-tray
 Exec=desktopnova-tray
 Terminal=false
 Categories=GNOME;Application;Utility;

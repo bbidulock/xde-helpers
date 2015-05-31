@@ -6,6 +6,7 @@ Name=tkgate Circuit Simulator
 GenericName=Circuit Simulator
 Comment=Event driven digital circuit simulator with Tcl/Tk
 Icon=tkgate
+TryExec=tkgate
 Exec=tkgate
 Terminal=false
 Categories=Education;Electronics;Engineering;

@@ -5,6 +5,7 @@ Type=Application
 Name=Space-orbit
 Comment=A 3D space combat simulator
 Icon=
+TryExec=orbit
 Exec=orbit
 Terminal=false
 Categories=Application;Game;ArcadeGame

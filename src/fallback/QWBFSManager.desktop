@@ -6,6 +6,7 @@ Name=QWBFS Manager
 GenericName=QWBFS Manager
 Comment=QWBFS Manager is a graphical user interface (GUI) for working with WBFS filesystem formatted hard disk drive.
 Icon=qwbfsmanager
+TryExec=qwbfsmanager
 Exec=qwbfsmanager
 Terminal=false
 Categories=Game;Qt;

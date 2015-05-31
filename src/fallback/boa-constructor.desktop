@@ -5,6 +5,7 @@ Type=Application
 Name=Boa Constructor
 Comment=RAD Tool for Python and WxWindows
 Icon=boa-constructor
+TryExec=boa-constructor
 Exec=boa-constructor
 X-MultipleArgs=false
 Terminal=false

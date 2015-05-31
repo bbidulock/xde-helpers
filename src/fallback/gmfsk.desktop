@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=gMFSK
 Comment=HF digital mode terminal
+TryExec=gmfsk
 Exec=gmfsk
 Terminal=false
 Categories=Application;HamRadio;

@@ -160,3 +160,7 @@ X-GNOME-Bugzilla-Product=gnome-bluetooth
 X-GNOME-Bugzilla-Component=sendto
 X-GNOME-Bugzilla-Version=3.16.1
 X-Arch-Package=gnome-bluetooth 3.16.1-1
+X-Arch-Package-Name=gnome-bluetooth
+X-Arch-Package-Version=3.16.1-1
+X-Arch-Package-Description=The GNOME Bluetooth Subsystem
+X-Arch-Package-URL=http://live.gnome.org/GnomeBluetooth

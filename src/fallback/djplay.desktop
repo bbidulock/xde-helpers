@@ -5,6 +5,7 @@ Type=Application
 Name=DJPlay
 Comment=High class live DJing application
 Icon=_usr_share_djplay_djplay-icon
+TryExec=djplay-launcher
 Exec=djplay-launcher
 Terminal=false
 Categories=AudioVideo;Audio;

@@ -7,6 +7,7 @@ Name[ja]=TiMidity++ MIDIシーケンサ
 Comment=Software sound renderer (MIDI sequencer, MOD player)
 Comment[ja]=ソフトウェア・シンセサイザ（MIDI/MODプレイヤー）
 Icon=_usr_share_pixmaps_timidity
+TryExec=/usr/bin/timidity
 Exec=/usr/bin/timidity -ia
 Terminal=false
 Categories=AudioVideo;Audio;Sequencer;

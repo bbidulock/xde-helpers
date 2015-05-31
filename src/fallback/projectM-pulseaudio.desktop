@@ -6,6 +6,7 @@ Name=projectM PulseAudio Visualization
 GenericName=PulseAudio Stream Visualization
 Comment=Visualization of PulseAudio streams with projectM
 Icon=prjm16-transparent
+TryExec=projectM-pulseaudio
 Exec=projectM-pulseaudio
 Terminal=false
 Categories=AudioVideo;Audio;

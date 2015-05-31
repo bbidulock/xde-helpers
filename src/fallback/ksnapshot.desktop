@@ -143,6 +143,7 @@ GenericName[zh_CN]=屏幕截图程序
 GenericName[zh_HK]=螢幕擷取程式
 GenericName[zh_TW]=畫面擷取程式
 Icon=ksnapshot
+TryExec=ksnapshot
 Exec=ksnapshot -caption "%c"
 X-DBUS-StartupType=Multi
 Terminal=false

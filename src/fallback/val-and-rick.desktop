@@ -6,6 +6,7 @@ Name=Val & Rick
 GenericName=
 Comment=Kenta Cho's Val & Rick
 Icon=val-and-rick.xpm
+TryExec=/usr/games/val-and-rick
 Exec=/usr/games/val-and-rick
 Terminal=false
 Categories=Game;ArcadeGame;

@@ -19,6 +19,7 @@ Comment[nl]=Een simulator om oude DOS-spellen te spelen
 Comment[ru]=Запуск старых DOS-приложений
 Comment[ua]=Запуск старих DOS-застосувань
 Icon=dosbox
+TryExec=dosbox
 Exec=dosbox
 Terminal=false
 Categories=Game;Emulator;

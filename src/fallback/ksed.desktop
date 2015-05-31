@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=KeySafe Config
 Comment=KeySafe configuration tool
+TryExec=/usr/bin/ksed
 Exec=/usr/bin/ksed
 Terminal=false
 Categories=Settings;Security

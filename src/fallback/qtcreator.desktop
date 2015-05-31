@@ -5,6 +5,7 @@ Type=Application
 Name=Qt Creator
 GenericName=Integrated Development Environment
 Icon=qtcreator_logo_32
+TryExec=qtcreator
 Exec=qtcreator %F
 Terminal=false
 Categories=Qt;Development;IDE;

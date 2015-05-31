@@ -10,6 +10,7 @@ Comment[nb]=Et GTK-grensesnitt for rsync
 Comment[ru]=GTK интерфейс для rsync
 Comment[tr]=Rsync için bir GTK grafik arayüzü
 Icon=grsync.png
+TryExec=/usr/bin/grsync
 Exec=/usr/bin/grsync -i %f
 Terminal=false
 Categories=Application;System;

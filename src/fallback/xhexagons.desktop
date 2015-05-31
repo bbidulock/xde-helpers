@@ -5,6 +5,7 @@ Type=Application
 Name=xhexagons
 GenericName=hexagons game
 Icon=_usr_share_pixmaps_xhexagons.m
+TryExec=/usr/games/xhexagons
 Exec=/usr/games/xhexagons
 Terminal=false
 Categories=Game;

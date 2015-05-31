@@ -149,6 +149,7 @@ Comment[xh]=
 Comment[zh_CN]=
 Comment[zh_TW]=
 Icon=nted.png
+TryExec=nted
 Exec=nted
 Terminal=false
 Categories=GNOME;Application;AudioVideo;

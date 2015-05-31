@@ -11,3 +11,8 @@ Terminal=false
 NotShowIn=GNOME;XFCE;
 Categories=Settings;DesktopSettings;GTK;
 StartupNotify=true
+X-Arch-Package=gtk-theme-switch2 2.1.0-3
+X-Arch-Package-Name=gtk-theme-switch2
+X-Arch-Package-Version=2.1.0-3
+X-Arch-Package-Description=Gtk2 theme switcher
+X-Arch-Package-URL=http://muhri.net/nav.php3?node=gts

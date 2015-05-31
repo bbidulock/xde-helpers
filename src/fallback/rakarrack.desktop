@@ -5,6 +5,7 @@ Type=Application
 Name=Rakarrack
 Comment=Guitar Effects Processor
 Icon=icono_rakarrack_128x128
+TryExec=rakarrack
 Exec=rakarrack
 Terminal=false
 Categories=AudioVideo;Audio;

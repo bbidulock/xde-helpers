@@ -7,6 +7,7 @@ Name[bg]=Текстов редактор (Ink)
 Comment=Example text editor for GNUstep
 Comment[bg]=Примерен текстов редактор за GNUstep
 Icon=/usr/lib/GNUstep/Applications/Ink.app/Resources/Ink_app.tiff
+TryExec=Ink
 Exec=Ink
 Terminal=false
 Categories=Utility;TextEditor;

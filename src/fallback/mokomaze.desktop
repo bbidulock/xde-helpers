@@ -5,6 +5,7 @@ Type=Application
 Name=Mokomaze
 Comment=Ball-in-the-labyrinth game
 Icon=mokomaze
+TryExec=/usr/games/mokomaze
 Exec=/usr/games/mokomaze
 Terminal=false
 Categories=Game;

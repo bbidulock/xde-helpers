@@ -129,6 +129,7 @@ GenericName[zh_CN]=桌面共享
 GenericName[zh_HK]=桌面分享
 GenericName[zh_TW]=桌面分享
 Icon=krfb
+TryExec=krfb
 Exec=krfb -caption "%c" %i
 Terminal=false
 Categories=Qt;KDE;System;Network;RemoteAccess;

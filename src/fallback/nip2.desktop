@@ -6,6 +6,7 @@ Name=nip2
 Comment=Image manipulation program based on VIPS
 Comment[it]=Programma per la manipolazione di immagini basato su VIPS
 Icon=nip2
+TryExec=nip2
 Exec=nip2 %F
 Terminal=false
 Categories=Graphics;RasterGraphics;

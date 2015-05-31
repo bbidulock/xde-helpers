@@ -5,6 +5,7 @@ Type=Application
 Name=Xosview
 Comment=X based system monitor
 Icon=xosview.xpm
+TryExec=xosview
 Exec=xosview
 Terminal=false
 Categories=Application;System;

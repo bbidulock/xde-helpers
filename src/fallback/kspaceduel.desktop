@@ -119,6 +119,7 @@ GenericName[x-test]=xxSpace Arcade Gamexx
 GenericName[zh_CN]=空间型街机游戏
 GenericName[zh_TW]=大型遊戲機遊戲
 Icon=kspaceduel
+TryExec=kspaceduel
 Exec=kspaceduel -caption "%c"
 X-DBUS-StartupType=Multi
 Terminal=false

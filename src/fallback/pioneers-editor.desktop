@@ -24,6 +24,7 @@ Comment[nl]=Ontwerp je eigen spel voor Pioniers
 Comment[pt]=Crie o seu jogo de Pioneers
 Comment[sv]=Skapa ett egna spel för Pioneers
 Icon=pioneers-editor.png
+TryExec=pioneers-editor
 Exec=pioneers-editor
 Terminal=false
 Categories=Game;BoardGame;GNOME;GTK;

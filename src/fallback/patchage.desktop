@@ -5,6 +5,7 @@ Type=Application
 Name=Patchage
 Comment=Connect audio and MIDI applications together and manage audio sessions
 Icon=patchage
+TryExec=/usr/bin/patchage
 Exec=/usr/bin/patchage
 Terminal=false
 Categories=Application;AudioVideo;Audio

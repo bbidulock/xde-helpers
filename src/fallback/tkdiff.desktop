@@ -6,6 +6,7 @@ Name=TkDiff File Comparison
 GenericName=diff frontend
 Comment=TkDiff is a graphical front-end for the standard Unix 'diff' utility.
 Icon=tkdiff
+TryExec=tkdiff
 Exec=tkdiff
 Terminal=false
 Categories=Development;ProjectManagement;

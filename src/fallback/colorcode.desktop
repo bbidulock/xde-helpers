@@ -7,6 +7,7 @@ GenericName=Clone of the MasterMind code-breaking game
 GenericName[fr]=Clone avancé du jeu MasterMind
 Comment=Advanced clone of the MasterMind code-breaking game
 Icon=_usr_share_pixmaps_colorcode32
+TryExec=/usr/games/colorcode
 Exec=/usr/games/colorcode
 Terminal=false
 Categories=Qt;Game;LogicGame;

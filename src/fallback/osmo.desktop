@@ -9,6 +9,7 @@ Comment=Personal Organizer
 Comment[pl]=Organizer osobisty
 Comment[tr]=Kişisel Düzenleyici
 Icon=osmo
+TryExec=osmo
 Exec=osmo
 Terminal=false
 Categories=GTK;Office;Calendar;ContactManagement;

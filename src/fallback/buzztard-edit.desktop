@@ -11,6 +11,7 @@ Comment[de]=Buzzztard Musikstücke bearbeiten
 Comment[id]=Edit berkas lagu buzztard
 Comment[nn]=Redigerer buzztard-songfiler
 Icon=/usr/share/buzztard/pixmaps/buzztard
+TryExec=buzztard-edit
 Exec=buzztard-edit --command=load --input-file=%f
 Terminal=false
 Categories=GNOME;GTK;AudioVideo;Audio;Sequencer

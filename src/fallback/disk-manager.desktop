@@ -24,6 +24,7 @@ Comment[pt_BR]=Gerenciar configurações do sistema de arquivos
 Comment[sv]=Hantera filsystemskonfiguration
 Comment[zh_CN]=管理文件系统的配置
 Icon=disk-manager
+TryExec=/usr/sbin/disk-manager-root
 Exec=/usr/sbin/disk-manager-root
 Terminal=false
 Categories=Application;System;Settings

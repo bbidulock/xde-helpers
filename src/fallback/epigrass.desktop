@@ -6,6 +6,7 @@ Name=Epigrass
 GenericName=Epidemics Simulator
 Comment=Epidemics Simulator
 Icon=/usr/share/pixmaps/egicon.png
+TryExec=epigrass
 Exec=epigrass
 Terminal=false
 Categories=Education;Science;

@@ -5,6 +5,7 @@ Type=Application
 Name=Kluppe
 Comment=audio loop-player and recorder
 Icon=kluppe.png
+TryExec=kluppe
 Exec=kluppe
 Terminal=false
 Categories=AudioVideo;Audio;Recorder;

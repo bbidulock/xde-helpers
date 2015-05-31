@@ -97,6 +97,7 @@ GenericName[x-test]=xxYahtzee-like Dice Gamexx
 GenericName[zh_CN]=快艇骰子游戏
 GenericName[zh_TW]=類似 Yahtzee 的骰子遊戲
 Icon=kiriki
+TryExec=kiriki
 Exec=kiriki -caption "%c"
 X-DBUS-StartupType=Multi
 Terminal=false

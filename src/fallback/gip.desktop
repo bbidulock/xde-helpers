@@ -9,6 +9,7 @@ GenericName[de]=IP-Adress-Rechner
 Comment=Calculate IP addresses and networks
 Comment[de]=IP-Adressen und Netzbereiche berechnen
 Icon=_usr_share_gip_calculator
+TryExec=/usr/bin/gip
 Exec=/usr/bin/gip %U
 Terminal=false
 Categories=GNOME;GTK;Utility;

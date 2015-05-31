@@ -7,6 +7,7 @@ Comment=A Client for the MPD daemon
 Comment[es]=Un Cliente del server MPD
 Comment[fr]=Un Client pour le démon MPD
 Icon=glurp.svg
+TryExec=glurp
 Exec=glurp
 Terminal=false
 Categories=GNOME;Application;AudioVideo;

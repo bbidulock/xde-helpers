@@ -5,6 +5,7 @@ Type=Application
 Name=DiskSearch
 Comment=Search your removable media
 Icon=disksearch
+TryExec=disksearch
 Exec=disksearch
 Terminal=false
 Categories=GTK;Utility;

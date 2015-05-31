@@ -6,6 +6,7 @@ Name=Fraqtive
 GenericName=Fractal Generator
 Comment=Mandelbrot family fractal generator
 Icon=fraqtive
+TryExec=fraqtive
 Exec=fraqtive
 Terminal=false
 Categories=Qt;Education;Science;Math;

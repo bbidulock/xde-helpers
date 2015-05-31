@@ -58,6 +58,7 @@ Comment[vi]=Gởi bài vào nhật ký Mạng
 Comment[zh_CN]=记录一个条目到 web blog
 Comment[zh_TW]=在網誌張貼文章
 Icon=gnome-blog.png
+TryExec=gnome-blog-poster
 Exec=gnome-blog-poster
 Terminal=false
 Categories=GNOME;Application;Utility;

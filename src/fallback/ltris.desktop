@@ -6,6 +6,7 @@ Name=LTris
 GenericName=Puzzle game
 Comment=Tetris clone
 Icon=ltris
+TryExec=ltris
 Exec=ltris
 Terminal=false
 Categories=Game;

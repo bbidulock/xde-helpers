@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=PackETH
 GenericName=Packet Generator
+TryExec=packeth
 Exec=packeth
 Terminal=false
 Categories=Network;

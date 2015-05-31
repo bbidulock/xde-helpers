@@ -6,6 +6,7 @@ Name=Fyre
 Comment=Render Peter de Jong maps
 Comment[de]=Peter de Jong-Grafiken berechnen
 Icon=_usr_share_pixmaps_fyre
+TryExec=/usr/bin/fyre
 Exec=/usr/bin/fyre
 Terminal=false
 Categories=Application;Graphics;2DGraphics;

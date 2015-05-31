@@ -58,6 +58,7 @@ Comment[sq]=Nisja e proçesit mpd nga Gnome
 Comment[tr]=Mpd süreci için bir gnome arayüzü
 Comment[zh_CN]=一个 mpd 守护进程的 gnome 前端
 Icon=gmpc
+TryExec=gmpc
 Exec=gmpc
 Terminal=false
 Categories=GNOME;AudioVideo;

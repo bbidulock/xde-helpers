@@ -7,6 +7,7 @@ Name[ru]=Загрузчик ImageShack
 Comment=Upload your images and videos to ImageShack
 Comment[ru]=Загрузите свои изображения и видео на ImageShack
 Icon=imageshack
+TryExec=imageshack-uploader
 Exec=imageshack-uploader
 Terminal=false
 Categories=Network;Qt;FileTransfer;

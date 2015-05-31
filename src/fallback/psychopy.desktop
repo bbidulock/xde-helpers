@@ -6,6 +6,7 @@ Name=PsychoPy
 GenericName=Psychology Stimuli IDE
 GenericName[ru]=IDE для психологических стимулов
 Icon=psychopy.xpm
+TryExec=psychopy
 Exec=psychopy %F
 Terminal=false
 Categories=Graphics;Science;MedicalSoftware;Development;IDE;

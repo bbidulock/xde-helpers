@@ -6,6 +6,7 @@ Name=Ceferino
 GenericName=ceferino
 Comment=Save the cows!
 Icon=ceferino
+TryExec=ceferino
 Exec=ceferino
 Terminal=false
 Categories=Game;ActionGame;

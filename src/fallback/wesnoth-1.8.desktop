@@ -57,6 +57,7 @@ Comment[sr@latin]=Fantazijska strateška igra na poteze
 Comment[sr]=Фантазијска стратешка игра на потезе
 Comment[tr]=Fantastik, sırayla oynanan bir strateji oyunu
 Icon=wesnoth-1.8-icon
+TryExec=wesnoth-1.8-nolog
 Exec=wesnoth-1.8-nolog
 Terminal=false
 Categories=Game;StrategyGame;

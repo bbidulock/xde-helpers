@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=Gridlock
 Icon=_usr_lib_GNUstep_Applications_Gridlock.app_Resources_Gridlock
+TryExec=Gridlock
 Exec=Gridlock
 Terminal=false
 Categories=Game;LogicGame;

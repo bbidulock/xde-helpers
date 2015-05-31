@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=LMemory
 GenericName=Memory Game
+TryExec=lmemory
 Exec=lmemory
 Terminal=false
 Categories=Game;KidsGame;

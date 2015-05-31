@@ -5,6 +5,7 @@ Type=Application
 Name=GNU Octave
 Comment=Scientific Computing using GNU Octave
 Icon=/usr/share/octave/3.2.4/imagelib/octave-sombrero.png
+TryExec=/usr/bin/octave-3.2.4
 Exec=/usr/bin/octave-3.2.4
 Terminal=true
 Categories=Development;Math;Science;

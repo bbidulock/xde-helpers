@@ -15,6 +15,7 @@ Comment[zh_CN]=设定键盘输入模式
 Comment[zh_HK]=設定鍵盤輸入模式
 Comment[zh_TW]=設定鍵盤輸入模式
 Icon=input-keyboard
+TryExec=im-switch
 Exec=im-switch
 Terminal=false
 Categories=Settings

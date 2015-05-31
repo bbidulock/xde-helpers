@@ -5,6 +5,7 @@ Type=Application
 Name=GKrellM System Monitor
 Comment=Monitor for CPU, memory, disks, network, mail
 Icon=gkrellm
+TryExec=gkrellm
 Exec=gkrellm
 Terminal=false
 Categories=System;

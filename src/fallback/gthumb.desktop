@@ -258,3 +258,7 @@ X-GNOME-Bugzilla-Product=gthumb
 X-GNOME-Bugzilla-Component=general
 X-GNOME-Bugzilla-Version=3.4.0
 X-Arch-Package=gthumb 3.4.0-1
+X-Arch-Package-Name=gthumb
+X-Arch-Package-Version=3.4.0-1
+X-Arch-Package-Description=Image browser and viewer for the GNOME Desktop
+X-Arch-Package-URL=http://live.gnome.org/gthumb

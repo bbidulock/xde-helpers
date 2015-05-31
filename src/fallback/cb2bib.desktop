@@ -8,6 +8,7 @@ GenericName[ca]=Eina per extreure referències
 Comment=Bibliographic Reference Extracting Tool
 Comment[ca]=Eina per extreure referències bibliogràfiques
 Icon=cb2bib
+TryExec=cb2bib
 Exec=cb2bib --bibedit %F
 Terminal=false
 Categories=Office;

@@ -7,6 +7,7 @@ GenericName=Fastlink lod scores
 GenericName[en]=Fastlink lod scores
 Comment=Calculate lod scores and risk with two of more loci
 Comment[en]=Calculate lod scores and risk with two of more loci
+TryExec=mlink
 Exec=mlink
 Terminal=false
 Categories=Biology;Science;Education;

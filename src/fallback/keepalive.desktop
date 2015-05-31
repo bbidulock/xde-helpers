@@ -8,6 +8,7 @@ GenericName[de]=Online-Rollenspiel
 Comment=GGZ Roleplay game
 Comment[de]=GGZ Rollenspiel
 Icon=keepalive
+TryExec=/usr/lib/ggz/keepalive
 Exec=/usr/lib/ggz/keepalive
 Terminal=false
 Categories=X-GGZ-Games;RolePlaying;Game;KDE;Qt;

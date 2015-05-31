@@ -3,6 +3,7 @@ Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=Bluetile
+TryExec=bluetile
 Exec=bluetile
 Terminal=false
 StartupNotify=false

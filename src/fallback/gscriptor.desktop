@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=Gscriptor
 Comment=Send commands to smart cards
+TryExec=gscriptor
 Exec=gscriptor
 Terminal=false
 Categories=Utility;GTK;

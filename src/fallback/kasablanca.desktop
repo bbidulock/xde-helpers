@@ -50,6 +50,7 @@ Comment[sv]=FTP-klient
 Comment[xh]=Umxhasi we FTP
 Comment[zu]=Umthengi we FTP
 Icon=kasablanca
+TryExec=kasablanca
 Exec=kasablanca
 Terminal=false
 Categories=Qt;KDE;Network

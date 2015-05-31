@@ -13,3 +13,7 @@ Categories=Utility;Calculator;
 StartupNotify=false
 StartupWMClass=Calculator
 X-Arch-Package=fox 1:1.6.50-1
+X-Arch-Package-Name=fox
+X-Arch-Package-Version=1:1.6.50-1
+X-Arch-Package-Description=Free Objects for X: GUI Toolkit for C++
+X-Arch-Package-URL=http://www.fox-toolkit.org/

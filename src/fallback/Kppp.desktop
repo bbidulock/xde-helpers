@@ -137,6 +137,7 @@ GenericName[zh_CN]=Internet 拨号工具
 GenericName[zh_HK]=互聯網撥號工具
 GenericName[zh_TW]=Internet 撥號工具
 Icon=kppp
+TryExec=kppp
 Exec=kppp
 X-DBUS-StartupType=Multi
 Terminal=false

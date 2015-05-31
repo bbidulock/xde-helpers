@@ -6,6 +6,7 @@ Name=Gmail Notify
 GenericName=Gmail Notify
 Comment=New Gmail notification tool
 Icon=gmail-notify-icon.png
+TryExec=gmail-notify
 Exec=gmail-notify
 Terminal=false
 Categories=Application;Network;

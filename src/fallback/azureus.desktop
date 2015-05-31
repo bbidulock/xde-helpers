@@ -6,6 +6,7 @@ Name=Vuze
 GenericName=BitTorrent client
 Comment=Download and share files using the BitTorrent P2P network
 Icon=Azureus
+TryExec=azureus
 Exec=azureus %f
 Terminal=false
 Categories=Java;Network;FileTransfer;P2P

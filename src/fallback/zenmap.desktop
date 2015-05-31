@@ -12,3 +12,7 @@ Terminal=false
 Categories=Application;Network;Security;
 StartupNotify=false
 X-Arch-Package=nmap 6.47-3
+X-Arch-Package-Name=nmap
+X-Arch-Package-Version=6.47-3
+X-Arch-Package-Description=Utility for network discovery and security auditing
+X-Arch-Package-URL=http://nmap.org/

@@ -7,6 +7,7 @@ GenericName=OCaml Integrated Development Environment
 GenericName[fr]=Environnement de développement logiciel OCaml 
 Comment=Visual environment to develop OCaml application
 Comment[fr]=Environnement visuel pour le développement d'application OCaml
+TryExec=cameleon2.byte
 Exec=cameleon2.byte
 Terminal=false
 Categories=Development;IDE;GTK;

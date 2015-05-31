@@ -9,6 +9,7 @@ GenericName[de]=Audio-Datei Splitter
 Comment=Split wave files into multiple chunks
 Comment[de]=Teilen Sie Wave-Dateien in mehrere Teile
 Icon=wavbreaker
+TryExec=wavbreaker
 Exec=wavbreaker
 Terminal=false
 Categories=Application;AudioVideo;Audio;

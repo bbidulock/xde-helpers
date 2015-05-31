@@ -6,6 +6,7 @@ Name=SooperLooper
 GenericName=
 Comment=
 Icon=sooperlooper
+TryExec=/usr/bin/slgui
 Exec=/usr/bin/slgui
 Terminal=false
 Categories=AudioVideo;Audio;

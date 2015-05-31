@@ -6,6 +6,7 @@ Name=Josm
 GenericName=Java OpenStreetMap Editor
 Comment=Editor for OpenStreetMap.org
 Icon=josm-32
+TryExec=josm
 Exec=josm
 Terminal=false
 Categories=Education;Science;Geoscience;

@@ -5,6 +5,7 @@ Type=Application
 Name=bist
 Comment=Bist stands for bidimensional structures
 Icon=bist.png
+TryExec=bist
 Exec=bist
 Terminal=false
 Categories=Education;Science;Chemistry

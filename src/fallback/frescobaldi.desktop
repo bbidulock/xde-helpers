@@ -14,6 +14,7 @@ GenericName[pl]=Edytor nutowy LilyPond
 GenericName[ru]=Музыкальный нотатор LilyPond
 GenericName[tr]=LilyPond Müzik Düzenleyicisi
 Icon=frescobaldi
+TryExec=frescobaldi
 Exec=frescobaldi %U
 Terminal=false
 Categories=Qt;KDE;AudioVideo;Music;Utility;TextEditor;

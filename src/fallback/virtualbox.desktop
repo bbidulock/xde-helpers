@@ -19,3 +19,7 @@ MimeType=application/x-virtualbox-vbox;application/x-virtualbox-vbox-extpack;app
 StartupNotify=false
 DocPath=file:///usr/share/doc/virtualbox/UserManual.pdf
 X-Arch-Package=virtualbox 4.3.28-1
+X-Arch-Package-Name=virtualbox
+X-Arch-Package-Version=4.3.28-1
+X-Arch-Package-Description=Powerful x86 virtualization for enterprise as well as home use
+X-Arch-Package-URL=http://virtualbox.org

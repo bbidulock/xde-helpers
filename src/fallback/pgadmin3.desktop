@@ -5,6 +5,7 @@ Type=Application
 Name=pgAdmin III
 Comment=PostgreSQL Administration Tool
 Icon=pgadmin3
+TryExec=pgadmin3
 Exec=pgadmin3
 Terminal=false
 Categories=Development;Database;

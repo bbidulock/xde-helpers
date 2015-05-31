@@ -15,3 +15,7 @@ StartupNotify=true
 StartupWMClass=xde-watch
 X-GNOME-Autostart-enabled=true
 X-Arch-Package=xde-theme 1.1.142-1
+X-Arch-Package-Name=xde-theme
+X-Arch-Package-Version=1.1.142-1
+X-Arch-Package-Description=Theme and style setting utilities for the X Desktop Environment (XDE)
+X-Arch-Package-URL=http://github.com/bbidulock/xde-theme

@@ -21,6 +21,7 @@ Name[ua]=Audio Tag Tool
 Name[uk]=Audio Tag Tool
 Comment=MP3 and Ogg Vorbis tag editor
 Icon=TagTool
+TryExec=tagtool
 Exec=tagtool
 Terminal=False
 Categories=Audio;AudioVideo;AudioVideoEditing;

@@ -6,6 +6,7 @@ Name=PulseAudio Volume Meter (Playback)
 GenericName=Playback Volume Meter
 Comment=Monitor the output volume
 Icon=audio-input-microphone
+TryExec=pavumeter
 Exec=pavumeter
 Terminal=false
 Categories=AudioVideo;Audio;

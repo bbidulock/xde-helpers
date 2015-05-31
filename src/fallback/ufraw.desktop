@@ -36,6 +36,7 @@ Comment[sr@latin]=Alat za čitanje i obradu raw slika iz digitalnih kamera
 Comment[sr]=Алат за читање и обраду raw слика из дигиталних камера
 Comment[zh_CN]=一个从数码相机中读取并处理原始图像的工具
 Icon=ufraw
+TryExec=ufraw
 Exec=ufraw %U
 Terminal=false
 Categories=Graphics;Photography;GTK;

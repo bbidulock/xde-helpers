@@ -6,6 +6,7 @@ Name=Mu-cade
 GenericName=
 Comment=Kenta Cho's Mu-cade
 Icon=mu-cade
+TryExec=mu-cade
 Exec=mu-cade
 Terminal=false
 Categories=Game;ArcadeGame;

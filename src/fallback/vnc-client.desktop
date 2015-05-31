@@ -3,6 +3,7 @@ Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=vnc-client
+TryExec=vnc-client
 Exec=vnc-client
 Terminal=false
 Categories=GTK;System;Network;Utility;

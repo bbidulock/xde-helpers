@@ -5,6 +5,7 @@ Type=Application
 Name=FreeDink
 Comment=Humorous zelda-like isometric adventure/RPG
 Icon=freedink
+TryExec=freedink
 Exec=freedink
 Terminal=false
 Categories=Game;AdventureGame;

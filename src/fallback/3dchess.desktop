@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=3D Chess
 Comment=3D chess for X11
+TryExec=/usr/games/3Dc
 Exec=/usr/games/3Dc
 Terminal=false
 Categories=Game;BoardGame;

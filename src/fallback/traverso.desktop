@@ -6,6 +6,7 @@ Name=Traverso
 GenericName=Multitrack Recorder
 GenericName[de]=Multitrack Recorder
 Icon=traverso
+TryExec=traverso
 Exec=traverso
 Terminal=false
 Categories=Qt;AudioVideo;Audio;Recorder;

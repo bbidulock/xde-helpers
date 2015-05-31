@@ -211,3 +211,7 @@ X-GNOME-Bugzilla-Component=general
 X-GNOME-Bugzilla-Version=2.30.2
 X-Desktop-File-Install-Version=0.18
 X-Arch-Package=yelp 3.16.1-1
+X-Arch-Package-Name=yelp
+X-Arch-Package-Version=3.16.1-1
+X-Arch-Package-Description=A help browser for GNOME
+X-Arch-Package-URL=http://www.gnome.org

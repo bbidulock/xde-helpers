@@ -6,6 +6,7 @@ Name=serial port terminal
 Name[fr]=Terminal pour port série
 Comment=Communicate with the serial port
 Comment[fr]=Communique avec le port série
+TryExec=gtkterm
 Exec=gtkterm
 Terminal=false
 Categories=GNOME;Application;Utility;

@@ -6,6 +6,7 @@ Name=Reportbug-NG
 Comment=Report bugs to Debian's BTS
 Comment[cs]=Hlásí chyby vývojářům Debianu
 Icon=_usr_share_pixmaps_debian-logo
+TryExec=reportbug-ng
 Exec=reportbug-ng
 Terminal=false
 Categories=Application;System

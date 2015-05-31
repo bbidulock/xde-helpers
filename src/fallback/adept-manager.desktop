@@ -69,6 +69,7 @@ Comment[sr]=Управља инсталираним и доступним про
 Comment[sv]=Hantera installerad och tillgänglig programvara
 Comment[xx]=xxManage installed and available softwarexx
 Icon=applications-other
+TryExec=adept
 Exec=adept manager
 Terminal=false
 OnlyShowIn=KDE;

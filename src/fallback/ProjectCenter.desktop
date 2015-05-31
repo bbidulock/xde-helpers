@@ -7,6 +7,7 @@ Name[bg]=Среда за разработка (ProjectCenter)
 Comment=The Official GNUstep IDE
 Comment[bg]=Официалната интегрирана среда за разработка за GNUstep
 Icon=_usr_share_pixmaps_ProjectCenter
+TryExec=ProjectCenter
 Exec=ProjectCenter
 Terminal=false
 Categories=Development;IDE;

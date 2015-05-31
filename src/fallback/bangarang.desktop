@@ -8,6 +8,7 @@ GenericName[de]=Medienwiedergabe
 GenericName[nl]=Mediaspeler
 GenericName[zh_CN]=媒体播放器
 Icon=bangarang
+TryExec=bangarang
 Exec=bangarang %u
 Terminal=false
 Categories=Qt;KDE;AudioVideo;Player;

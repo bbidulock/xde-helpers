@@ -15,6 +15,7 @@ Comment[ko]=\xBF\xC0\xB5\xF0\xBF\xC0 \xBF\xFE\xC0̺\xEA \xBA\xB8\xB1\xE2
 Comment[no]=Lydb\xF8lgemonitor
 Comment[pt]=Visualiza\xE7\xE3o gr\xE1fica das ondas sonoras
 Icon=extace.png
+TryExec=extace
 Exec=extace
 Terminal=false
 StartupNotify=false

@@ -5,6 +5,7 @@ Type=Application
 Name=Tux Commander
 Comment=A two panel file manager
 Icon=tuxcmd
+TryExec=tuxcmd
 Exec=tuxcmd
 Terminal=false
 Categories=GTK;Utility;

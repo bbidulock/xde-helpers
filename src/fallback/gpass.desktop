@@ -8,6 +8,7 @@ Name[ja]=パスワード・マネージャ
 Comment=Manages your password collection
 Comment[ja]=あなたのパスワード・コレクションを管理します
 Icon=gpass-icon.png
+TryExec=/usr/bin/gpass
 Exec=/usr/bin/gpass
 Terminal=false
 Categories=Application;Utility;

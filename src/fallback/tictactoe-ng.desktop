@@ -5,6 +5,7 @@ Type=Application
 Name=Tic Tac Toe
 Comment=Simple, fun tic tac toe game for GNOME
 Icon=tictactoe
+TryExec=tictactoe-ng
 Exec=tictactoe-ng
 Terminal=False
 Categories=GNOME;GTK;Game;

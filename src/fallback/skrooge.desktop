@@ -37,6 +37,7 @@ GenericName[sv]=Hantera dina pengar
 GenericName[uk]=Керуйте вашими грошима
 GenericName[x-test]=xxManage your moneyxx
 Icon=skrooge
+TryExec=skrooge
 Exec=skrooge %U
 X-DBUS-StartupType=Unique
 Terminal=false

@@ -40,6 +40,7 @@ Name[tr]=Compiz
 Name[uk]=Compiz
 Name[zh_CN]=Compiz
 Name[zh_TW]=Compiz
+TryExec=compiz
 Exec=compiz
 Terminal=false
 StartupNotify=false

@@ -6,6 +6,7 @@ Name=Data Display Debugger
 Comment=Graphical debugger frontend
 Comment[fr]=Interface graphique pour débogueur
 Icon=ddd
+TryExec=ddd
 Exec=ddd
 Terminal=false
 Categories=Development;

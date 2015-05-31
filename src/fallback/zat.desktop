@@ -108,3 +108,7 @@ Keywords=PDF;document;presentation;
 MimeType=application/pdf;
 StartupNotify=true
 X-Arch-Package=zathura-ypb 0.0.8.2.r30.gbef9bc4-2
+X-Arch-Package-Name=zathura-ypb
+X-Arch-Package-Version=0.0.8.2.r30.gbef9bc4-2
+X-Arch-Package-Description=A lightweight GTK2 PDF viewer
+X-Arch-Package-URL=https://github.com/ypb/zat

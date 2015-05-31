@@ -3,6 +3,7 @@ Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=docbook2odf
+TryExec=docbook2odf
 Exec=docbook2odf --force --input-file  %f
 ServiceTypes=text/docbook
 Terminal=false

@@ -14,3 +14,7 @@ OnlyShowIn=BLACKBOX;ICEWM;
 Categories=BLACKBOX;System;Utility;
 StartupNotify=false
 X-Arch-Package=bbkeys 0.9.1-8
+X-Arch-Package-Name=bbkeys
+X-Arch-Package-Version=0.9.1-8
+X-Arch-Package-Description=Blackbox tool for setting keyboard shortcuts for manipulating windows and virtual desktop
+X-Arch-Package-URL=http://bbkeys.sourceforge.net/

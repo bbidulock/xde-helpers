@@ -10,6 +10,7 @@ Comment=View or change ACL and User Extended Attributes on files and directories
 Comment[ca]=Visualitza o canvia la llista de control d'accés i els atributs d'usuari en fitxers i directoris
 Comment[es]=Visualiza o cambia la lista de control de acceso y los atributos de usuario en ficheros y directorios
 Icon=_usr_share_eiciel_img_icon_eiciel_24
+TryExec=/usr/bin/eiciel
 Exec=/usr/bin/eiciel
 Terminal=false
 Categories=GNOME;System;FileTools;

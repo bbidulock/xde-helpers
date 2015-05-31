@@ -6,6 +6,7 @@ Name=JavaMorph
 GenericName=JavaMorph
 Comment=Merge two human-face-JPEGs!
 Icon=_usr_share_pixmaps_JavaMorph
+TryExec=/usr/bin/javamorph
 Exec=/usr/bin/javamorph
 Terminal=false
 Categories=Graphics;

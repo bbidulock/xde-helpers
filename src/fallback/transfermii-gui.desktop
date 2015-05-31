@@ -6,6 +6,7 @@ Name=Transfermii
 GenericName=Transfer miis from a wiimote
 GenericName[fr]=Copier les miis d'une wiimote.
 Icon=transfermii_gui.xpm
+TryExec=transfermii_gui
 Exec=transfermii_gui
 Terminal=false
 Categories=Utility;HardwareSettings

@@ -11,6 +11,7 @@ Comment[ast]=Xuegu d'estratexia por turnos pa hasta cuatro xugaores en rede
 Comment[es]=Juego de estrategia por turnos de hasta cuatro jugadores en red
 Comment[fr]=Jeu de stratégie tour par tour, jusqu'à quatre joueurs en réseau
 Icon=biloba
+TryExec=biloba
 Exec=biloba
 Terminal=false
 Categories=BoardGame;Game;

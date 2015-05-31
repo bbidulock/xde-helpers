@@ -10,6 +10,7 @@ Comment=JACK Audio Mastering interface
 Comment[fr]=Interface de masterisation JACK Audio
 Comment[ru]=JAMin -- приложение для мастеринга звука
 Icon=jamin.svg
+TryExec=jamin
 Exec=jamin
 Terminal=false
 Categories=Application;AudioVideo;

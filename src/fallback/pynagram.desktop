@@ -6,6 +6,7 @@ Name=Pynagram
 GenericName=Anagram game
 Comment=Unjumble letters
 Icon=pynagram
+TryExec=/usr/games/pynagram
 Exec=/usr/games/pynagram
 Terminal=false
 Categories=Qt;Game;LogicGame;

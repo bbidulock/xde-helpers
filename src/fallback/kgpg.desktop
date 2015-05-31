@@ -188,6 +188,7 @@ Comment[x-test]=xxA GnuPG frontendxx
 Comment[zh_CN]=GnuPG 前端
 Comment[zh_TW]=GnuPG 前端軟體
 Icon=kgpg
+TryExec=kgpg
 Exec=kgpg %U
 Terminal=false
 Categories=Qt;KDE;Utility;X-KDE-Utilities-PIM;

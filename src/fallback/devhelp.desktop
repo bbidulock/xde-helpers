@@ -195,6 +195,7 @@ Comment[zh_CN]=开发者帮助程序
 Comment[zh_HK]=程式開發者的說明書瀏覽程式
 Comment[zh_TW]=程式開發者的說明書瀏覽程式
 Icon=devhelp
+TryExec=devhelp
 Exec=devhelp
 Terminal=false
 Categories=GNOME;GTK;Development;

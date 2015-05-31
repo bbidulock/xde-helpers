@@ -5,6 +5,7 @@ Type=Application
 Name=TextEdit
 Comment=an OpenStep text editor
 Icon=_usr_lib_GNUstep_Applications_TextEdit.app_Resources_Edit
+TryExec=TextEdit
 Exec=TextEdit
 Terminal=false
 Categories=Utility;TextEditor;

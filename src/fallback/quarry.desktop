@@ -6,6 +6,7 @@ Name=Quarry
 GenericName=Board Game GUI
 Comment=A multi-purpose board game GUI for Go, Amazons and Reversi
 Icon=quarry.png
+TryExec=quarry
 Exec=quarry
 Terminal=false
 Categories=Application;GTK;GNOME;Game;BoardGame;

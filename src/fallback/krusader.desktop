@@ -83,6 +83,7 @@ Comment[x-test]=xxTwin-Panel File Managerxx
 Comment[zh_CN]=双面板文件管理器
 Comment[zh_TW]=雙面板檔案管理員
 Icon=krusader_user
+TryExec=krusader
 Exec=krusader -caption "%c" %i
 Terminal=false
 Categories=FileManager;Utility;Qt;KDE;

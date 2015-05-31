@@ -56,6 +56,7 @@ Comment[ru]=Скачать из Usenet с помощью NZB файлов
 Comment[tr]=NZB dosyalarının yardımıyla Usenetten dosya indirmenizi sağlar
 Comment[zh_CN]=在 NZB 的帮助下从 Usenet 下载文件
 Icon=lottanzb
+TryExec=lottanzb
 Exec=lottanzb %F
 Terminal=false
 Categories=Network;FileTransfer;GNOME;GTK;

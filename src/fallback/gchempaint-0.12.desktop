@@ -17,6 +17,7 @@ Comment[ru]=Редактирование химических структур
 Comment[zh_CN]=编辑 2D 化学结构
 Comment[zh_TW]=編輯 2D 化學結構
 Icon=gchempaint
+TryExec=gchempaint-0.12
 Exec=gchempaint-0.12 %U
 Terminal=false
 Categories=GTK;GNOME;Education;Science;Chemistry;

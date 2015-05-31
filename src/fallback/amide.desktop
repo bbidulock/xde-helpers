@@ -9,6 +9,7 @@ GenericName[zh_CN]=医学图像察看器
 Comment=A Medical Image Data Examiner
 Comment[zh_CN]=高级医学图像察看器
 Icon=amide_logo.png
+TryExec=amide
 Exec=amide
 Terminal=false
 Categories=Graphics;MedicalSoftware;

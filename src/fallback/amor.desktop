@@ -126,6 +126,7 @@ GenericName[x-test]=xxOn-Screen Creaturexx
 GenericName[zh_CN]=屏幕生物
 GenericName[zh_TW]=畫面擷取程式
 Icon=amor
+TryExec=amor
 Exec=amor
 X-DBUS-StartupType=Unique
 Terminal=false

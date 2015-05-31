@@ -45,6 +45,7 @@ Name[x-test]=xxKillbotsxx
 Name[zh_CN]=Killbots
 Name[zh_TW]=Killbots
 Icon=killbots
+TryExec=killbots
 Exec=killbots -caption "%c"
 Terminal=false
 Categories=Qt;KDE;Game;StrategyGame;

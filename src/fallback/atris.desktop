@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=Atris
 Comment=Tetris-like game
+TryExec=atris
 Exec=atris
 Terminal=false
 Categories=Game;BlocksGame;

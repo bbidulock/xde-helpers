@@ -6,6 +6,7 @@ Name=modest
 GenericName=Email
 Comment=E-mail client
 Icon=modest
+TryExec=modest
 Exec=modest -s %U
 Terminal=false
 Categories=GNOME;GTK;Network;Email;

@@ -9,6 +9,7 @@ Comment[fr]=QtSmbstatus - une interface graphique à smbstatus
 Comment[ru]=QtSmbstatus - графический интейфейс для smbstatus
 Comment[uk]=QtSmbstatus - графічний інтерфейс для smbstatus
 Icon=qtsmbstatus
+TryExec=qtsmbstatus
 Exec=qtsmbstatus
 Terminal=false
 Categories=Qt;Network;Utility;

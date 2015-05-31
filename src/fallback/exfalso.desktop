@@ -60,6 +60,7 @@ Comment[uk]=Програма для редагування тегів аудіо
 Comment[zh_CN]=编辑您的音频文件里的标签
 Comment[zh_TW]=編輯您的音訊標籤
 Icon=exfalso.png
+TryExec=exfalso
 Exec=exfalso
 Terminal=false
 Categories=AudioVideo;Audio;GTK

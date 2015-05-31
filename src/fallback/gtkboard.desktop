@@ -6,6 +6,7 @@ Name=Gtkboard Board Games
 GenericName=Board Games
 Comment=Play various and sundry board games
 Icon=gtkboard
+TryExec=gtkboard
 Exec=gtkboard
 Terminal=false
 Categories=GNOME;GTK;Application;Game;LogicGame;BoardGame;

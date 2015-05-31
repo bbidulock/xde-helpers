@@ -6,6 +6,7 @@ Name=Poe
 Comment=Vorbis comment editor
 Comment[bg]=Редактор на коментари на файлове във формат Ogg Vorbis
 Icon=/usr/lib/GNUstep/Applications/Poe.app/Resources/Poe.tiff
+TryExec=Poe
 Exec=Poe
 Terminal=false
 Categories=AudioVideo;Audio;AudioVideoEditing;

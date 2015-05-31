@@ -35,6 +35,7 @@ Comment[sl]=Ustvarjanje nalepk, poslovnih vizitk in medijskih platnic
 Comment[sv]=Skapa etiketter, visitkort och skivomslag
 Comment[zh_CN]=制作标签，名片和光盘盒封面
 Icon=glabels.png
+TryExec=glabels
 Exec=glabels %F
 Terminal=false
 Categories=GNOME;Application;Office;

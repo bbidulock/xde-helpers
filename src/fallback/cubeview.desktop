@@ -6,6 +6,7 @@ Name=Cubeview
 GenericName=3D FITS Spectro-Imaging Data Viewer
 Comment=3D FITS data viewer for spectro-imaging
 Icon=cubeview48
+TryExec=yorick
 Exec=yorick -i cubeview.i --stand-alone %F
 Terminal=false
 Categories=Science;Astronomy;DataVisualization;Graphics;3DGraphics;Viewer;GTK;

@@ -133,6 +133,7 @@ GenericName[xh]=Umdlalo Webhodi
 GenericName[zh_CN]=色块消去游戏
 GenericName[zh_TW]=棋盤遊戲
 Icon=ksame
+TryExec=ksame
 Exec=ksame -caption "%c"
 X-DBUS-StartupType=Multi
 Terminal=false

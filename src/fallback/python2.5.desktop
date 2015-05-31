@@ -5,6 +5,7 @@ Type=Application
 Name=Python (v2.5)
 Comment=Python Interpreter (v2.5)
 Icon=_usr_share_pixmaps_python2.5
+TryExec=/usr/bin/python2.5
 Exec=/usr/bin/python2.5
 Terminal=true
 Categories=Development;

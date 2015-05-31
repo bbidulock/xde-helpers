@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=Cryptkeeper
 Icon=cryptkeeper
+TryExec=cryptkeeper
 Exec=cryptkeeper
 Terminal=false
 Categories=System;GTK;Security

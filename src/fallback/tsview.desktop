@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=TSView
 Comment=Timestep Data Viewer (Illuminator)
+TryExec=tsview-ng
 Exec=tsview-ng
 Terminal=false
 Categories=GNOME;Application;Graphics;

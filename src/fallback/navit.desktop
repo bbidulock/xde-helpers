@@ -11,6 +11,7 @@ Comment=The open source vector based navigation program with routing engine
 Comment[de]=Ein vektorbasiertes Navigationsprogramm
 Comment[fr]=Le logiciel opensource de navigation vectorielle
 Icon=navit
+TryExec=navit
 Exec=navit
 Terminal=false
 Categories=GTK;Utility;Geography;

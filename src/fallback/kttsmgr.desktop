@@ -182,6 +182,7 @@ Comment[x-test]=xxKDE Text-to-speech Managerxx
 Comment[zh_CN]=KDE 语音合成管理器
 Comment[zh_TW]=KDE 文字轉語音管理員
 Icon=preferences-desktop-text-to-speech
+TryExec=kttsmgr
 Exec=kttsmgr -caption "%c" %i %u
 Terminal=false
 Categories=Qt;KDE;Utility;Accessibility;

@@ -182,6 +182,7 @@ Comment[zh_CN]=使用 Math 创建并编辑科学公式和方程式。
 Comment[zh_TW]=使用 Math 可建立與編輯科學公式與方程式。
 Comment[zu]=Yenza futhi ulungise amafomula ezesayensi nama-ikhuweyjini ngokusebenzisa into yeziBalo.
 Icon=libreoffice-math
+TryExec=libreoffice
 Exec=libreoffice --math %U
 Terminal=false
 NoDisplay=false
@@ -193,10 +194,13 @@ StartupWMClass=libreoffice-math
 InitialPreference=5
 X-GIO-NoFuse=true
 X-KDE-Protocols=file,http,smb,ftp,webdav
-X-Arch-Package=libreoffice-still 4.3.7-1
+X-Arch-Package=libreoffice-still 4.3.7-2
+X-Arch-Package-Name=libreoffice-still
+X-Arch-Package-Version=4.3.7-2
+X-Arch-Package-Description=LibreOffice maintenance branch
+X-Arch-Package-URL=http://www.libreoffice.org/
 Actions=NewDocument;
 
 [Desktop Action NewDocument]
 Name=New Formula
 Exec=libreoffice --math
-X-Arch-Package=libreoffice-still 4.3.7-1

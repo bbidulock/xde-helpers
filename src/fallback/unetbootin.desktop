@@ -8,6 +8,7 @@ GenericName=UNetbootin
 GenericName[en_US]=UNetbootin
 Comment=Tool for creating Live USB drives
 Comment[en_US]=Tool for creating Live USB drives
+TryExec=/usr/bin/unetbootin
 Exec=/usr/bin/unetbootin
 Terminal=false
 Categories=Application;System;

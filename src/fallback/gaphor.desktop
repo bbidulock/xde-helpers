@@ -5,6 +5,7 @@ Type=Application
 Name=Gaphor
 Comment=Gaphor Modeling Tool
 Icon=gaphor
+TryExec=/usr/bin/gaphor
 Exec=/usr/bin/gaphor
 Terminal=false
 Categories=Application;Development;

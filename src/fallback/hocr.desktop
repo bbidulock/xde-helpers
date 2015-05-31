@@ -5,6 +5,7 @@ Type=Application
 Name=hocr
 Name[he]=hocr
 Icon=hocr1-48
+TryExec=hocr-gtk
 Exec=hocr-gtk
 Terminal=false
 Categories=GTK;Application;Office;OCR;

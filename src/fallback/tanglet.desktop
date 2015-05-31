@@ -6,6 +6,7 @@ Name=Tanglet
 GenericName=Word Finding Game
 Comment=Single player variant of Boggle
 Icon=tanglet
+TryExec=tanglet
 Exec=tanglet
 Terminal=false
 Categories=Qt;Game;

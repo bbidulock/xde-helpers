@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=xenlog
 Comment=xenstore activity logger
+TryExec=xenlog
 Exec=xenlog
 Terminal=true
 Categories=GTK;System;Utility;

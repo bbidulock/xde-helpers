@@ -5,6 +5,7 @@ Type=Application
 Name=Mirage
 Comment=A fast GTK+ Image Viewer
 Icon=mirage
+TryExec=mirage
 Exec=mirage %f
 Terminal=false
 Categories=GTK;Graphics;2DGraphics;Viewer;

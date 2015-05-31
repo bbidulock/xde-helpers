@@ -5,6 +5,7 @@ Type=Application
 Name=Defendguin
 Comment=Save the Penguins
 Icon=defendguin-icon
+TryExec=defendguin
 Exec=defendguin
 Terminal=false
 Categories=Application;ArcadeGame;Game;

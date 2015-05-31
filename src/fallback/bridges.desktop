@@ -7,6 +7,7 @@ Comment=Connect the islands together with bridges
 Comment[de]=Verbinde die Inseln durch Brücken
 Comment[fr]=Relier des îles ensembles suivant certaines règles
 Icon=bridges
+TryExec=bridges
 Exec=bridges
 Terminal=false
 Categories=Game;LogicGame;

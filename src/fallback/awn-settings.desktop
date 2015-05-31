@@ -72,6 +72,7 @@ Comment[vi]=Quản lý tùy chỉnh, bộ khởi chạy, tiểu dụng và diệ
 Comment[zh_CN]=管理 Awn 首选项、启动器、小程序和主题
 Comment[zh_TW]=管理 Awn 的偏好設定、啟動器、小程式和主題
 Icon=awn-settings
+TryExec=awn-settings
 Exec=awn-settings
 Terminal=false
 Categories=Settings;DesktopSettings;GTK;

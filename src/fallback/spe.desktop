@@ -6,6 +6,7 @@ Name=SPE (Stani's Python Editor)
 GenericName=
 Comment=Integrated Python Development Environment
 Icon=spe
+TryExec=/usr/bin/spe
 Exec=/usr/bin/spe
 Terminal=false
 Categories=Development;IDE;Debugger;GUIDesigner;

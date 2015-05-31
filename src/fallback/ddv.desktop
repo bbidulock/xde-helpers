@@ -6,6 +6,7 @@ Name=DDV Sequence Alignment Viewer
 GenericName=Sequence Alignment Viewer
 Comment=View multiple sequence alignment for GenBank
 Icon=ncbilogo
+TryExec=ddv
 Exec=ddv
 Terminal=false
 Categories=Education;Science;Biology;

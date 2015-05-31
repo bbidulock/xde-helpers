@@ -5,6 +5,7 @@ Type=Application
 Name=Gtkam Digital Camera Browser
 Comment=Browse and download images from an attached digital camera
 Icon=gtkam-camera.png
+TryExec=gtkam
 Exec=gtkam
 Terminal=false
 Categories=GNOME;GTK;Photography;Graphics;RasterGraphics;Viewer;

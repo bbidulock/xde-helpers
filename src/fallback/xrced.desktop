@@ -5,6 +5,7 @@ Type=Application
 Name=XRCed
 Comment=wxPython XRC resource editor and UI designer
 Icon=/usr/share/pixmaps/xrced
+TryExec=/usr/bin/xrced
 Exec=/usr/bin/xrced
 Terminal=false
 Categories=Development;

@@ -5,6 +5,7 @@ Type=Application
 Name=GBonds
 Comment=Savings Bond Inventory
 Icon=gbonds.png
+TryExec=gbonds
 Exec=gbonds %F
 Terminal=false
 Categories=GNOME;Application;Office;

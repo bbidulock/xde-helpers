@@ -5,6 +5,7 @@ Type=Application
 Name=Berusky
 Comment=Logic game based on Sokoban(TM)
 Icon=berusky
+TryExec=berusky
 Exec=berusky
 Terminal=false
 Categories=Game;LogicGame;

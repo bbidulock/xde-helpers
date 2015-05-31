@@ -5,6 +5,7 @@ Type=Application
 Name=KSeg Geometry Sketchpad
 Comment=Sketchpad for planar Euclidean geometry
 Icon=kseg
+TryExec=kseg
 Exec=kseg
 Terminal=false
 Categories=Application;Math;Science;Education

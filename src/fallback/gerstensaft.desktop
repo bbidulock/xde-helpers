@@ -13,6 +13,7 @@ Comment[ro]=Interfață grafică pentru SAFT
 Comment[sv]=Grafiskt gränssnitt för SAFT
 Comment[vi]=Giao diện đồ họa của SAFT
 Icon=beer-mini.xpm
+TryExec=/usr/bin/beer
 Exec=/usr/bin/beer
 Terminal=false
 Categories=Application;Network;

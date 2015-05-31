@@ -6,6 +6,7 @@ Name=QTM
 GenericName=Blog editor
 Comment=Weblog management application
 Icon=_usr_share_icons_qtm-logo1
+TryExec=/usr/bin/qtm
 Exec=/usr/bin/qtm
 Terminal=false
 Categories=Application;Network;X-MandrivaLinux-Internet-Other;

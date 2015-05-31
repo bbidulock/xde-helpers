@@ -5,6 +5,7 @@ Type=Application
 Name=VolumeControl
 Comment=Control your volume settings
 Icon=_usr_lib_GNUstep_Applications_VolumeControl.app_Resources_headphones
+TryExec=VolumeControl
 Exec=VolumeControl
 Terminal=false
 Categories=Audio;Mixer;

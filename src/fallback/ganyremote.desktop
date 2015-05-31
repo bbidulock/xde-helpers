@@ -27,6 +27,7 @@ Comment[ru]=Пульт управления по Bluetooth
 Comment[sk]=Bluetooth Diaľkové ovládanie
 Comment[xx]=xxBluetooth remote controlxx
 Icon=ganyremote
+TryExec=ganyremote
 Exec=ganyremote
 Terminal=false
 Categories=Utility;

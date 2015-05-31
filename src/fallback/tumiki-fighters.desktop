@@ -6,6 +6,7 @@ Name=Tumiki Fighters
 GenericName=
 Comment=Kenta Cho's Tumiki Fighters
 Icon=tumiki-fighters
+TryExec=tumiki-fighters
 Exec=tumiki-fighters
 Terminal=false
 Categories=Game;ArcadeGame;

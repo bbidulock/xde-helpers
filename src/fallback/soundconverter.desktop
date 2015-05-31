@@ -91,6 +91,7 @@ Comment[tr]=Ses dosyalarını diğer formatlara dönüştürün
 Comment[vi]=Chuyển đổi file audio sang các định dạng khác
 Comment[zh_CN]=把音频文件转换为其它格式
 Icon=soundconverter
+TryExec=soundconverter
 Exec=soundconverter %U
 Terminal=false
 Categories=GNOME;GTK;AudioVideo;

@@ -110,6 +110,7 @@ Comment[uk]=Книга рецептів для KDE
 Comment[x-test]=xxThe KDE Cooking Bookxx
 Comment[zh_TW]=KDE 食譜
 Icon=krecipes
+TryExec=krecipes
 Exec=krecipes %i -caption "%c"
 X-DCOP-ServiceType=Unique
 Terminal=false

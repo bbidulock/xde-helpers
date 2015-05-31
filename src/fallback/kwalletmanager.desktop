@@ -98,6 +98,7 @@ GenericName[x-test]=xxWallet Management Toolxx
 GenericName[zh_CN]=钱包管理工具
 GenericName[zh_TW]=錢包管理工具
 Icon=kwalletmanager
+TryExec=kwalletmanager
 Exec=kwalletmanager %u
 Terminal=false
 Categories=Qt;KDE;System;Security;

@@ -51,6 +51,7 @@ Comment[sv]=Matematikverktyget och miniräknaren Genius
 Comment[zh_CN]=Genius 数学工具和计算器
 Comment[zh_TW]=Genius 數學工具及計算機
 Icon=gnome-genius
+TryExec=gnome-genius
 Exec=gnome-genius
 Terminal=false
 Categories=GNOME;Science;Math;Education;Calculator;Utility;

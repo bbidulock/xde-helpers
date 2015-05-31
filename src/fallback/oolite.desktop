@@ -7,6 +7,7 @@ GenericName=
 Comment=A space simulation game
 Comment[ro_RO]=Un joc de simulare în spaţiu
 Icon=oolite-logo1
+TryExec=oolite
 Exec=oolite
 Terminal=false
 Categories=Game;Simulation;

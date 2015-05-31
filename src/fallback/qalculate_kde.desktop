@@ -6,6 +6,7 @@ Name=Qalculate!
 GenericName=Scientific Calculator
 Comment=Powerful and easy to use desktop calculator
 Icon=qalculate_kde
+TryExec=qalculate-kde
 Exec=qalculate-kde
 X-DCOP-ServiceName=qalculate_kde
 X-DCOP-ServiceType=Unique

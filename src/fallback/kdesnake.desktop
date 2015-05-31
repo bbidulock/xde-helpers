@@ -80,6 +80,7 @@ GenericName[x-test]=xxSnake-like Gamexx
 GenericName[zh_CN]=类似贪吃蛇的游戏
 GenericName[zh_TW]=類似吞食蛇遊戲
 Icon=kdesnake
+TryExec=ktron
 Exec=ktron -snake -caption "%c" %i
 X-DCOP-ServiceType=Multi
 Terminal=false

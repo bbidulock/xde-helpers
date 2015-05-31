@@ -5,6 +5,7 @@ Type=Application
 Name=jaaa
 Comment=Analyse or generate an Audio signal
 Icon=jaaa
+TryExec=jaaa
 Exec=jaaa -A
 Terminal=false
 Categories=AudioVideo;Audio;

@@ -5,6 +5,7 @@ Type=Application
 Name=Sunflow
 Comment=Photorealistic Rendering Engine
 Icon=sunflow.png
+TryExec=sunflow
 Exec=sunflow
 Terminal=false
 Categories=Graphics;3DGraphics

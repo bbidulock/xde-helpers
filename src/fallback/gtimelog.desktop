@@ -5,6 +5,7 @@ Type=Application
 Name=Time Tracker
 Comment=Track and time daily activities
 Icon=gnome-week.png
+TryExec=gtimelog
 Exec=gtimelog
 Terminal=false
 Categories=Application;Utility

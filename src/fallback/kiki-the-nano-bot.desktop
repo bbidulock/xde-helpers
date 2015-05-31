@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=Kiki the nano bot
 Icon=kiki-the-nano-bot
+TryExec=kiki-the-nano-bot
 Exec=kiki-the-nano-bot
 Terminal=false
 Categories=Game;LogicGame;

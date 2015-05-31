@@ -5,6 +5,7 @@ Type=Application
 Name=LDAP Administration Tool
 Comment=Manage LDAP-based directories
 Icon=lat.png
+TryExec=lat
 Exec=lat
 Terminal=false
 Categories=GNOME;GTK;Network;

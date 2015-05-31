@@ -6,6 +6,7 @@ Name=gExtractWinIcons
 Comment=Extract cursors and icons from MS Windows compatible resource files
 Comment[it_IT]=Estrae cursori e icone dai files di risorsa compatibili con MS Windows
 Icon=_usr_share_gextractwinicons_data_gextractwinicons
+TryExec=/usr/bin/gextractwinicons
 Exec=/usr/bin/gextractwinicons
 Terminal=false
 Categories=Graphics;GTK;

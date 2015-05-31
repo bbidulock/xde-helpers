@@ -89,6 +89,7 @@ Comment[zh_CN]=管理 GCompris
 Comment[zh_HK]=gcompris 系統管理
 Comment[zh_TW]=gcompris 系統管理
 Icon=gcompris-edit
+TryExec=gcompris
 Exec=gcompris -a --nolockcheck
 Terminal=false
 Categories=Education;

@@ -5,6 +5,7 @@ Type=Application
 Name=Adept Installer
 GenericName=Add/Remove Software
 Icon=applications-other
+TryExec=adept
 Exec=adept installer
 Terminal=false
 OnlyShowIn=KDE;

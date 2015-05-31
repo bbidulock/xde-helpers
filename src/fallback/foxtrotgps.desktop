@@ -12,6 +12,7 @@ Comment[de]=Zeigt Karten und GPS-Position
 Comment[es]=Mostrar mapa y posición GPS
 Comment[fi]=Näytä kartta ja GPS-sijainti
 Icon=foxtrotgps
+TryExec=foxtrotgps
 Exec=foxtrotgps
 Terminal=false
 Categories=GTK;Utility;Geography;

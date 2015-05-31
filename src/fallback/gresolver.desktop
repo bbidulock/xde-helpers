@@ -7,6 +7,7 @@ Name[en_GB]=DNS Query Tool
 Comment=Perform advanced DNS queries
 Comment[en_GB]=Perform advanced DNS queries
 Icon=gresolver
+TryExec=gresolver
 Exec=gresolver
 Terminal=false
 Categories=Network;

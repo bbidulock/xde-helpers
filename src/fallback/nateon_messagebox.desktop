@@ -7,6 +7,7 @@ Name[ko]=통합메시지함(네이트온)
 Comment=MessageBox for KNateon
 Comment[ko]=네이트온 용 통합메시지함
 Icon=nateon_messagebox
+TryExec=nateon_messagebox
 Exec=nateon_messagebox
 Terminal=false
 StartupNotify=false

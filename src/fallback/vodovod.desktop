@@ -6,6 +6,7 @@ Name=vodovod
 GenericName=
 Comment=
 Icon=vodovod.xpm
+TryExec=vodovod
 Exec=vodovod
 Terminal=false
 Categories=Game;ArcadeGame;

@@ -176,3 +176,7 @@ Keywords[zh_HK]=shell;prompt;command;commandline;提示;指令;命令列;
 Keywords[zh_TW]=shell;prompt;command;commandline;提示;指令;命令列;
 StartupNotify=false
 X-Arch-Package=roxterm-gtk2 2.9.7-1
+X-Arch-Package-Name=roxterm-gtk2
+X-Arch-Package-Version=2.9.7-1
+X-Arch-Package-Description=Tabbed, VTE-based terminal emulator (GTK2 version)
+X-Arch-Package-URL=http://roxterm.sourceforge.net/

@@ -152,6 +152,7 @@ Comment[x-test]=xxMath Expression Solver and Plotterxx
 Comment[zh_CN]=解数学式与绘图的工具
 Comment[zh_TW]=數學解題與繪圖
 Icon=kalgebra
+TryExec=kalgebra
 Exec=kalgebra
 Terminal=false
 Categories=Qt;KDE;Education;Math;

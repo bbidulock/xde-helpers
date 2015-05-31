@@ -5,6 +5,7 @@ Type=Application
 Name=aMule
 Comment=A client for the eD2k network
 Icon=amule
+TryExec=amule
 Exec=amule
 Terminal=false
 Categories=Network;P2P;

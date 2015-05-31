@@ -140,6 +140,7 @@ GenericName[zh_CN]=下载管理器
 GenericName[zh_HK]=下載管理員
 GenericName[zh_TW]=下載管理員
 Icon=kget
+TryExec=kget
 Exec=kget -caption "%c" %i %U
 X-DBUS-ServiceType=Unique
 Terminal=false

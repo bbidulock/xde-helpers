@@ -5,6 +5,7 @@ Type=Application
 Name=Mad Bomber
 Comment=Catch the Bombs
 Icon=madbomber-icon
+TryExec=madbomber
 Exec=madbomber
 Terminal=false
 Categories=Application;ArcadeGame;Game;

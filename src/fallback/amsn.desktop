@@ -12,6 +12,7 @@ GenericName[no]=MSN Messenger for Linux
 GenericName[sv]=MSN Messenger för Linux
 GenericName[tr]=MSN Messenger Programı
 Icon=amsn
+TryExec=amsn
 Exec=amsn
 Terminal=false
 Categories=Network;InstantMessaging;

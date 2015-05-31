@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=CodeLite
 Icon=_usr_share_codelite_images_cubes
+TryExec=codelite
 Exec=codelite %f
 Terminal=false
 Categories=Development;

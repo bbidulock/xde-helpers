@@ -113,6 +113,7 @@ GenericName[x-test]=xxPicture Game for Childrenxx
 GenericName[zh_CN]=孩子们的游戏
 GenericName[zh_TW]=小孩的圖畫遊戲
 Icon=ktuberling
+TryExec=ktuberling
 Exec=ktuberling -caption "%c" %u
 X-DBUS-StartupType=Multi
 Terminal=false

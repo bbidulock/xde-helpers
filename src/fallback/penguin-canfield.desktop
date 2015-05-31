@@ -6,6 +6,7 @@ Name=Penguin Canfield
 GenericName=
 Comment=
 Icon=
+TryExec=/usr/games/ace-canfield
 Exec=/usr/games/ace-canfield
 Terminal=false
 Categories=Game;BoardGame;

@@ -46,3 +46,7 @@ NoDisplay=true
 MimeType=inode/directory;
 StartupNotify=true
 X-Arch-Package=spacefm-gtk2 1.0.1-1
+X-Arch-Package-Name=spacefm-gtk2
+X-Arch-Package-Version=1.0.1-1
+X-Arch-Package-Description=Multi-panel tabbed file manager
+X-Arch-Package-URL=http://ignorantguru.github.com/spacefm/

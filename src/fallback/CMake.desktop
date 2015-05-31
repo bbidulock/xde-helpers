@@ -13,3 +13,7 @@ Categories=Development;
 MimeType=application/x-cmakecache;
 StartupNotify=true
 X-Arch-Package=cmake 3.2.2-1
+X-Arch-Package-Name=cmake
+X-Arch-Package-Version=3.2.2-1
+X-Arch-Package-Description=A cross-platform open-source make system
+X-Arch-Package-URL=http://www.cmake.org/

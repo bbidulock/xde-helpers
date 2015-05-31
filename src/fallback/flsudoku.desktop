@@ -5,6 +5,7 @@ Type=Application
 Name=FLTK Sudoku
 Comment=Suduku Number Game
 Icon=flsudoku
+TryExec=/usr/games/flsudoku
 Exec=/usr/games/flsudoku
 Terminal=false
 Categories=Game;LogicGame;

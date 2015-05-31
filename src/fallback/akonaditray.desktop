@@ -80,6 +80,7 @@ GenericName[x-test]=xxAkonadi Tray Utilityxx
 GenericName[zh_CN]=Akonadi 托盘工具
 GenericName[zh_TW]=Akonadi 系統匣工具
 Icon=akonadi
+TryExec=akonaditray
 Exec=akonaditray
 Terminal=false
 Categories=Qt;KDE;Utility;

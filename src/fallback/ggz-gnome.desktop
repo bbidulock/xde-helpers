@@ -12,6 +12,7 @@ Comment[de]=GGZ-Core-Client
 Comment[fr]=Core Client GGZ
 Comment[pt]=Cliente núcleo do GGZ
 Icon=
+TryExec=ggz-gnome
 Exec=ggz-gnome
 Terminal=false
 Categories=X-GGZ;Network;GNOME;GTK

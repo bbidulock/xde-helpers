@@ -7,6 +7,7 @@ GenericName=File Downloader
 X-GNOME-FullName=Slimrat File Downloader
 Comment=Download files from various hosters
 Icon=slimrat
+TryExec=slimrat-gui
 Exec=slimrat-gui %U
 Terminal=false
 Categories=GNOME;GTK;Network;

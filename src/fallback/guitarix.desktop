@@ -6,6 +6,7 @@ Name=guitarix
 GenericName=Mono Amplifier
 Comment=Simple mono amplifier simulation
 Icon=guitarix
+TryExec=guitarix
 Exec=guitarix
 Terminal=false
 Categories=AudioVideo;X-Jack;Midi;X-MIDI;

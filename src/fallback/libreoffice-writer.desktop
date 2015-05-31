@@ -187,6 +187,7 @@ Comment[zh_CN]=使用 Writer 创建并编辑信函、报表、文档和网页中
 Comment[zh_TW]=使用 Writer 可以在信件、報告、文件和網頁中建立與編輯文字和圖形。
 Comment[zu]=Yenza futhi ulungise umbhalo nemidwebo esezinhlamvini zamagama, emibikweni, emafayelini nasemakhasini eWebhu ngokusebenzisa i-Writer.
 Icon=libreoffice-writer
+TryExec=libreoffice
 Exec=libreoffice --writer %U
 Terminal=false
 Categories=Office;WordProcessor;X-Red-Hat-Base;X-MandrivaLinux-Office-Wordprocessors;
@@ -197,10 +198,13 @@ StartupWMClass=libreoffice-writer
 InitialPreference=5
 X-GIO-NoFuse=true
 X-KDE-Protocols=file,http,smb,ftp,webdav
-X-Arch-Package=libreoffice-still 4.3.7-1
+X-Arch-Package=libreoffice-still 4.3.7-2
+X-Arch-Package-Name=libreoffice-still
+X-Arch-Package-Version=4.3.7-2
+X-Arch-Package-Description=LibreOffice maintenance branch
+X-Arch-Package-URL=http://www.libreoffice.org/
 Actions=NewDocument;
 
 [Desktop Action NewDocument]
 Name=New Document
 Exec=libreoffice --writer
-X-Arch-Package=libreoffice-still 4.3.7-1

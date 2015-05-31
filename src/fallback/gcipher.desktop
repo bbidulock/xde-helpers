@@ -7,6 +7,7 @@ Name[en_US.ISO8859-15]=GCipher
 Comment=A simple encryption tool
 Comment[en_US.ISO8859-15]=A simple encryption tool
 Icon=/usr/share/pixmaps/gnome-lockscreen.png
+TryExec=gcipher
 Exec=gcipher
 Terminal=false
 Categories=GNOME;Application;Utility;X-Red-Hat-Base;

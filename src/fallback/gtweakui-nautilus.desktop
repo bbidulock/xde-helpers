@@ -5,6 +5,7 @@ Type=Application
 Name=gTweakUI - Nautilus
 Comment=Extra nautilus preferences
 Icon=
+TryExec=gtweakui-nautilus
 Exec=gtweakui-nautilus
 Terminal=false
 OnlyShowIn=GNOME;

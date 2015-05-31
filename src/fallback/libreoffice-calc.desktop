@@ -205,4 +205,3 @@ Actions=NewDocument;
 [Desktop Action NewDocument]
 Name=New Spreadsheet
 Exec=libreoffice --calc
-X-Arch-Package=libreoffice-still 4.3.7-1

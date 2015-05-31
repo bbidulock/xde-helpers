@@ -5,6 +5,7 @@ Type=Application
 Name=Gabedit QC-GUI
 Comment=graphical user interface to computational chemistry packages
 Icon=gabedit
+TryExec=gabedit
 Exec=gabedit
 Terminal=false
 Categories=GTK;Education;Science;Chemistry;

@@ -12,6 +12,7 @@ Comment[it]=Un gioco di karaoke
 Comment[ro]=Un joc de tip karaoke
 Comment[se]=Ett karaoke-spel
 Icon=performous.png
+TryExec=performous
 Exec=performous
 Terminal=false
 Categories=Application;Game;ArcadeGame;

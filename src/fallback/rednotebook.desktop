@@ -6,6 +6,7 @@ Name=RedNotebook
 GenericName=Journal
 Comment=Daily journal with calendar, templates and keyword searching 
 Icon=rednotebook
+TryExec=rednotebook
 Exec=rednotebook
 Terminal=false
 Categories=Office;

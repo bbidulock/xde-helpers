@@ -6,6 +6,7 @@ Name=Pyntor
 Comment=Viewer for presentation slides
 Comment[de]=Präsentationsprogramm
 Icon=pyntor
+TryExec=pyntor
 Exec=pyntor %f
 Terminal=false
 Categories=Office;

@@ -42,6 +42,7 @@ Comment[sl]=Prikladno orodje za izvajanje ukazov in dostopa do programov in doku
 Comment[sv]=Flexibelt kommandoprogram för program och dokument
 Comment[zh_CN]=方便的命令和操作程序或文档的工具
 Icon=kupfer
+TryExec=kupfer
 Exec=kupfer %F
 Terminal=false
 Categories=Utility;

@@ -6,6 +6,7 @@ Name=Planets
 Comment=A simple interactive program for playing with simulations of planetary systems
 Comment[da]=Et simpelt interaktivt program til at lege med simulering af planetsystemer
 Icon=planets
+TryExec=planets
 Exec=planets
 Terminal=false
 Categories=Application;Education;Science;Astronomy;Physics;

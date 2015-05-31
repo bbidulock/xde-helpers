@@ -53,6 +53,7 @@ Comment[uk]=Клієнт GNOME MUD
 Comment[vi]=Ứng dụng khách MUD của Gnome
 Comment[zh_CN]=GNOME MUD 客户端
 Icon=gnome-mud
+TryExec=gnome-mud
 Exec=gnome-mud
 Terminal=false
 Categories=GNOME;Game;

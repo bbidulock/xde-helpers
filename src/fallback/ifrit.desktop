@@ -9,6 +9,7 @@ GenericName[en_GB]=Data Visualisation
 Comment=Visualize numerical simulations in 3D
 Comment[en_GB]=Visualise numerical simulations in 3D
 Icon=ifrit
+TryExec=/usr/bin/ifrit
 Exec=/usr/bin/ifrit
 Terminal=false
 Categories=Application;Science;Education;Physics;

@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=Connectagram
 Icon=connectagram
+TryExec=connectagram
 Exec=connectagram
 Terminal=false
 Categories=Qt;Game;

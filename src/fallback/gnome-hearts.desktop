@@ -25,6 +25,7 @@ Name[tl]=Hearts
 Name[zh_CN]=红心大战
 Comment=Play the popular Hearts card game
 Icon=gnome-hearts.png
+TryExec=gnome-hearts
 Exec=gnome-hearts
 Terminal=false
 Categories=GNOME;GTK;Game;CardGame;

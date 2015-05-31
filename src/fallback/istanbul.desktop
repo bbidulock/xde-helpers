@@ -63,6 +63,7 @@ Comment[sv]=Spela in en video av din skrivbordssession
 Comment[vi]=Thu ảnh động của phiên chạy màn hình nền
 Comment[zh_CN]=录制您桌面会话的视频
 Icon=istanbul.png
+TryExec=istanbul
 Exec=istanbul
 Terminal=false
 Categories=GNOME;AudioVideo;

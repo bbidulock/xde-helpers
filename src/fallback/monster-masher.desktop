@@ -74,6 +74,7 @@ Comment[vi]=Hãy nghiền quái vật và cứu những thần lùn
 Comment[zh_HK]=碾碎怪物，拯救精靈
 Comment[zh_TW]=碾碎怪物，拯救精靈
 Icon=monster-masher.png
+TryExec=monster-masher
 Exec=monster-masher
 Terminal=false
 Categories=GNOME;Application;Game;ArcadeGame;

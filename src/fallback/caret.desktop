@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=Caret
 GenericName=Cortical Surface Reconstruction and Visualization
+TryExec=caret5
 Exec=caret5
 Terminal=false
 Categories=Utility;Science;MedicalSoftware;

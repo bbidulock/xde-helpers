@@ -5,6 +5,7 @@ Type=Application
 Name=pLoader
 Comment=application to upload your pictures to your Piwigo gallery
 Icon=_usr_share_pixmaps_ploader
+TryExec=/usr/bin/ploader
 Exec=/usr/bin/ploader
 Terminal=false
 Categories=Graphics;

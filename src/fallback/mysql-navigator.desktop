@@ -5,6 +5,7 @@ Type=Application
 Name=MySQL Navigator
 Comment=GUI client for MySQL
 Icon=mysql-navigator.xpm
+TryExec=mysql-navigator
 Exec=mysql-navigator
 Terminal=false
 Categories=Database;Utility;

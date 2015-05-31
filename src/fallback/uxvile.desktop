@@ -5,6 +5,7 @@ Type=Application
 Name=UXVile
 Comment=VI Like Emacs
 Icon=vile
+TryExec=uxvile
 Exec=uxvile
 Terminal=false
 Categories=Application;Utility;TextEditor;

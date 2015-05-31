@@ -6,6 +6,7 @@ Name=Maxima Algebra System
 GenericName=Computer Algebra System
 Comment=An interface to the Maxima Computer Algebra System
 Icon=maxima-icon
+TryExec=xmaxima
 Exec=xmaxima
 Terminal=false
 Categories=Education;Math;

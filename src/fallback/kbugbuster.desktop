@@ -121,6 +121,7 @@ GenericName[xh]=Umxholo Wokuxoxwa We KDE
 GenericName[zh_CN]=KDE 除错管理
 GenericName[zh_TW]=KDE 臭蟲管理
 Icon=kbugbuster
+TryExec=kbugbuster
 Exec=kbugbuster -caption "%c"
 Terminal=false
 Categories=Qt;KDE;Development;

@@ -5,6 +5,7 @@ Type=Application
 Name=PosteRazor
 Comment=Cuts a raster image into multipage PDF documents
 Icon=PosteRazor
+TryExec=PosteRazor
 Exec=PosteRazor %f
 Terminal=false
 Categories=Graphics;

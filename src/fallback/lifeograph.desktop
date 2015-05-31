@@ -6,6 +6,7 @@ Name=Lifeograph
 GenericName=Diary
 Comment=Keep a private journal of your life
 Icon=lifeograph
+TryExec=lifeograph
 Exec=lifeograph
 Terminal=false
 Categories=Utility

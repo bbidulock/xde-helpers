@@ -6,6 +6,7 @@ Name=Which Way is Up
 GenericName=whichwayisup
 Comment=2D platform game with a slight rotational twist
 Icon=whichwayisup
+TryExec=whichwayisup
 Exec=whichwayisup
 Terminal=false
 Categories=Game;ArcadeGame;

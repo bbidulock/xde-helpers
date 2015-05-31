@@ -187,6 +187,7 @@ Comment[x-test]=xxKDE Hangman Gamexx
 Comment[zh_CN]=KDE 吊颈人游戏
 Comment[zh_TW]=KDE 劊子手（hangman）遊戲
 Icon=khangman
+TryExec=khangman
 Exec=khangman -caption "%c" %i
 Terminal=false
 Categories=Qt;KDE;Education;Languages;Game;KidsGame;

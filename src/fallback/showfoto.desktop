@@ -117,6 +117,7 @@ Comment[x-test]=xxManage your photographs like a professional with the power of 
 Comment[zh_CN]=以开源的力量专业化地管理您的照片
 Comment[zh_TW]=運用開放原始碼的力量像專業人士般管理您的照片
 Icon=showfoto
+TryExec=showfoto
 Exec=showfoto %i -caption "%c" %U
 Terminal=false
 Categories=Qt;KDE;Graphics;

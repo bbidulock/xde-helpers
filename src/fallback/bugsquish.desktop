@@ -6,6 +6,7 @@ Name=Bug Squish
 GenericName=Game
 Comment=Squash the bugs before they suck up your blood
 Icon=bugsquish-icon
+TryExec=bugsquish
 Exec=bugsquish
 Terminal=false
 Hidden=false

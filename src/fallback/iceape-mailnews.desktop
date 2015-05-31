@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=Iceape Mail & Newsgroups
 Icon=iceape-mailnews
+TryExec=iceape
 Exec=iceape -mail
 Terminal=false
 Categories=GTK;Email;Network;

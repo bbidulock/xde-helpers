@@ -8,6 +8,7 @@ GenericName[ca]=Eina per citacions bibliogràfiques
 Comment=Bibliographic Reference Citation Tool
 Comment[ca]=Eina bibliogràfica per escriure citacions
 Icon=cb2bib
+TryExec=cb2bib
 Exec=cb2bib --citer %F
 Terminal=false
 Categories=Office;

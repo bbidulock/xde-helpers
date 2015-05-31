@@ -13,6 +13,7 @@ Comment[es]=Un cliente de Subversion para KDE
 Comment[lt]=Subversion klientas skirtas KDE
 Comment[nl]=Een Subversion-client voor KDE
 Icon=kdesvn
+TryExec=kdesvn
 Exec=kdesvn -caption "%c"
 Terminal=false
 Categories=Qt;KDE;Development;RevisionControl;

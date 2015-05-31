@@ -111,6 +111,10 @@ Categories=X-XFCE;GTK;DiscBurning;Archiving;AudioVideo;Utility;
 MimeType=application/x-cd-image;
 StartupNotify=true
 X-Arch-Package=xfburn 0.5.4-1
+X-Arch-Package-Name=xfburn
+X-Arch-Package-Version=0.5.4-1
+X-Arch-Package-Description=A simple CD/DVD burning tool based on libburnia libraries
+X-Arch-Package-URL=http://goodies.xfce.org/projects/applications/xfburn
 Actions=BurnImage;
 
 [Desktop Action BurnImage]
@@ -161,4 +165,3 @@ Name[uk]=Записати образ (xfburn)
 Name[vi]=Ghi tập tin ảnh (xfburn)
 Name[zh_CN]=刻录镜像(xfburn)
 Name[zh_TW]=燒錄映像檔 (xfburn)
-X-Arch-Package=xfburn 0.5.4-1

@@ -5,6 +5,7 @@ Type=Application
 Name=gamt
 Comment=Intel AMT serial-over-lan client.
 Icon=gnome-terminal
+TryExec=gamt
 Exec=gamt
 Terminal=false
 Categories=GTK;System;Network;Utility;

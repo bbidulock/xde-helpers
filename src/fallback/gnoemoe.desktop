@@ -6,6 +6,7 @@ Name=GnoeMoe
 GenericName=MOO Client
 Comment=GnoeMoe Gnome MOO Client
 Icon=gnoemoe-logo.svg
+TryExec=gnoemoe
 Exec=gnoemoe
 Terminal=false
 Categories=GNOME;GTK;Network

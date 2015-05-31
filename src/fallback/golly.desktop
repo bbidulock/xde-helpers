@@ -8,6 +8,7 @@ Comment=A Conway's Game of Life simulator
 Comment[it]=Un simulatore del "gioco della vita" di Conway
 Comment[ja]=コンウェイのライフゲーム
 Icon=golly.xpm
+TryExec=golly
 Exec=golly
 Terminal=false
 Categories=Game;LogicGame;

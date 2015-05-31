@@ -86,6 +86,7 @@ Comment[tr]=Xfce Resim Gösterici
 Comment[uk]=Переглядач зображень Xfce
 Comment[zh_CN]=Xfce 图像查看器
 Icon=ristretto
+TryExec=ristretto
 Exec=ristretto %F
 X-MultipleArgs=false
 Terminal=false

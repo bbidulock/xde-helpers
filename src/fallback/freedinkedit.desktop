@@ -5,6 +5,7 @@ Type=Application
 Name=FreeDinkedit
 Comment=Portable Dink Smallwood game editor
 Icon=freedink
+TryExec=freedinkedit
 Exec=freedinkedit
 Terminal=false
 Categories=Game;AdventureGame;

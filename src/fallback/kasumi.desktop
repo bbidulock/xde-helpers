@@ -9,6 +9,7 @@ GenericName[ja]=Anthy 個人辞書管理ツール
 Comment=Edit Anthy dictionary.
 Comment[ja]=Anthy の個人辞書に単語を登録、削除、編集するツールです。
 Icon=kasumi
+TryExec=kasumi
 Exec=kasumi
 Terminal=false
 Categories=Settings;

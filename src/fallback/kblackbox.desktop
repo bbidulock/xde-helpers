@@ -123,6 +123,7 @@ GenericName[x-test]=xxBlackbox Logic Gamexx
 GenericName[zh_CN]=黑箱逻辑游戏
 GenericName[zh_TW]=黑盒子智力遊戲
 Icon=kblackbox
+TryExec=kblackbox
 Exec=kblackbox -caption "%c"
 X-DBUS-StartupType=Multi
 Terminal=false

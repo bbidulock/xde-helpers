@@ -6,6 +6,7 @@ Name=Qt NetHack
 GenericName=NetHack (Qt interface)
 Comment=
 Icon=nethack
+TryExec=/usr/games/nethack-qt
 Exec=/usr/games/nethack-qt
 Terminal=false
 Categories=Application;Game;AdventureGame;

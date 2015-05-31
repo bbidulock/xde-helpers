@@ -37,6 +37,7 @@ Name[ur]=مترجم
 Name[vi]=Người dịch
 Comment=Translate as you type
 Icon=emblem-web.png
+TryExec=apertium-tolk
 Exec=apertium-tolk
 Terminal=false
 Categories=GNOME;GTK;Utility;

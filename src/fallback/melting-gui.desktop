@@ -12,6 +12,7 @@ Comment[en]="Computes the melting temperature for a nucleic acid duplex."
 Comment[fr]="Calcule la temp\xE9rature de fusion d'une paire d'oligonucl\xE9otides."
 Comment[pt_BR]="Calcula a temperatura de fus\xE3o de um par de \xE1cido nucl\xE9ico"
 Icon=tkmelting
+TryExec=tkmelting
 Exec=tkmelting
 Terminal=false
 Categories=Biology;Science;Education;

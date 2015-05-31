@@ -5,6 +5,7 @@ Type=Application
 Name=Bauble
 Comment=An application for managing botanical collections
 Icon=bauble
+TryExec=/usr/bin/bauble
 Exec=/usr/bin/bauble
 Terminal=False
 Categories=Education;

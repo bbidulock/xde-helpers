@@ -6,6 +6,7 @@ Name=Subcommander
 GenericName=Subversion Client
 Comment=A GUI Client for Subversion
 Icon=_usr_share_pixmaps_subcommander
+TryExec=subcommander
 Exec=subcommander
 Terminal=false
 Categories=Development;

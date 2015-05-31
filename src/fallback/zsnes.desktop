@@ -5,6 +5,7 @@ Type=Application
 Name=zsnes
 Comment=A Super Nintendo Entertainment System (TM) emulator
 Icon=zsnes.xpm
+TryExec=zsnes
 Exec=zsnes
 Terminal=false
 Categories=Application;Game;2DGraphics;Emulator

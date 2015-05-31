@@ -6,6 +6,7 @@ Name=gamgi
 GenericName=Atom Structure Visualization
 Comment=Construct, view and analyse atomic structures
 Icon=gamgi
+TryExec=/usr/bin/gamgi
 Exec=/usr/bin/gamgi %f
 Terminal=false
 Categories=Education;Science;Chemistry;

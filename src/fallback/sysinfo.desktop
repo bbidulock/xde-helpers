@@ -5,6 +5,7 @@ Type=Application
 Name=Sysinfo
 Comment=Display detailed computer/system information
 Icon=computer
+TryExec=sysinfo
 Exec=sysinfo
 Terminal=false
 Categories=GNOME;Utility;System;

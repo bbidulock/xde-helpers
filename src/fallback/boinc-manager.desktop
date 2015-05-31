@@ -12,6 +12,7 @@ Comment[cs]=Monitoruje a nastavuje klienta BOINC
 Comment[de]=BOINC Basis Client konfigurieren oder überwachen
 Comment[pt]=Configurar ou monitorizar o cliente básico do BOINC
 Icon=boincmgr-32.xpm
+TryExec=/usr/bin/boincmgr
 Exec=/usr/bin/boincmgr
 Terminal=false
 Categories=System;Monitor;GTK;

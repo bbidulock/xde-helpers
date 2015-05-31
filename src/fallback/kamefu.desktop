@@ -17,6 +17,7 @@ Comment[sr]=Kamefu - KDE-ово лице емулатора свих машин�
 Comment[sv]=Kamefu - KDE:s gränssnitt för emulering av alla maskiner i UNIX
 Comment[xx]=xxKamefu - KDE All-Machine Emulator Frontend for UNIXxx
 Icon=package_games
+TryExec=kamefu
 Exec=kamefu
 Terminal=false
 Categories=Qt;KDE;Game;ArcadeGame

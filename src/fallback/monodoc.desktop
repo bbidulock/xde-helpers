@@ -6,6 +6,7 @@ Name=Mono Documentation
 GenericName=Documentation Browser
 Comment=View, search and edit documentation related to Mono
 Icon=monodoc
+TryExec=/usr/bin/monodoc
 Exec=/usr/bin/monodoc
 Terminal=false
 Categories=Documentation;Development;

@@ -6,6 +6,7 @@ Name=Anki
 GenericName=Language Learning Flashcards
 Comment=An intelligent spaced-repetition memory training program
 Icon=anki
+TryExec=anki
 Exec=anki %f
 Terminal=false
 Categories=Education;Languages;KDE;

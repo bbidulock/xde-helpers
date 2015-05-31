@@ -6,6 +6,7 @@ Name=Celestia (GLUT)
 GenericName=Space Simulator
 Comment=Explore the Universe in this detailed space simulation
 Icon=celestia
+TryExec=celestia-glut
 Exec=celestia-glut %f
 Terminal=false
 Categories=Astronomy;Education;Science;

@@ -5,6 +5,7 @@ Type=Application
 Name=earth3d
 Comment=eart3d - 3D Model of the earth
 Icon=earth
+TryExec=earth3d
 Exec=earth3d
 Terminal=false
 Categories=Qt;Education;Science

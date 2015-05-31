@@ -6,6 +6,7 @@ Name=KNetDockApp
 GenericName=Network Monitor
 Comment=A KDE network interface monitor
 Icon=knetdockapp
+TryExec=knetdockapp
 Exec=knetdockapp 
 Terminal=false
 Categories=Qt;KDE;Network;

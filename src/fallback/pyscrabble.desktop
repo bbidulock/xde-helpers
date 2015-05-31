@@ -7,6 +7,7 @@ Comment=A classical game of words
 Comment[de]=Ein klassisches Wörterspiel
 Comment[sv]=Ett klassiskt ordspel
 Icon=pyscrabble
+TryExec=pyscrabble
 Exec=pyscrabble
 Terminal=false
 Categories=Game;BoardGame;GTK;

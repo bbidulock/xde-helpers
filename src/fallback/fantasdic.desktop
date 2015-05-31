@@ -6,6 +6,7 @@ Name=Fantasdic dictionary
 GenericName=Dictionary application
 Comment=Look up words in various dictionary sources
 Icon=fantasdic
+TryExec=/usr/bin/fantasdic
 Exec=/usr/bin/fantasdic
 Terminal=false
 Categories=Utility;

@@ -7,6 +7,7 @@ Comment=Clear the grid of coloured squares by highlighting contiguous regions of
 Comment[de]=Bereinige das Gitter von gefärbten Qudraten durch Hervorheben zusammenhängender Gebiete von mehr als einem gefärbten Quadrat
 Comment[fr]=Supprimer la grille de couleur en éclairant les régions adjacentes composées de plus d'un carré coloré
 Icon=samegame
+TryExec=samegame
 Exec=samegame
 Terminal=false
 Categories=Game;LogicGame;

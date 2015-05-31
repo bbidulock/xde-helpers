@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=weka
 GenericName=Machine learning algorithms for data mining tasks
+TryExec=/usr/bin/weka
 Exec=/usr/bin/weka
 Terminal=false
 Categories=Education;Science;Java

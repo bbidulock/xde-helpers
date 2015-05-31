@@ -15,6 +15,7 @@ Comment[es]=Construya módulos de GNOME
 Comment[fr]=Compilation des modules GNOME
 Comment[sv]=Bygg GNOME-moduler
 Icon=applications-development
+TryExec=jhbuild
 Exec=jhbuild gui
 Terminal=false
 Categories=GNOME;Development;Building;

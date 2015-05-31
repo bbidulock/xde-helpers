@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=Tile World
 Icon=_usr_share_pixmaps_tworld
+TryExec=tworld
 Exec=tworld
 Terminal=false
 Categories=Game;LogicGame;

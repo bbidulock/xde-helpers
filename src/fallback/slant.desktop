@@ -7,6 +7,7 @@ Comment=Draw a diagonal line and choose which way each line slants
 Comment[de]=Zeichne eine diagonale Linie und wähle die Richtung der Schrägen aus
 Comment[fr]=Dessiner des lignes en diagonales et choisir dans quel côté celle-ci penche
 Icon=slant
+TryExec=slant
 Exec=slant
 Terminal=false
 Categories=Game;LogicGame;

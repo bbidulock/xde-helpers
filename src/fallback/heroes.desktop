@@ -5,6 +5,7 @@ Type=Application
 Name=Heroes
 Comment=Collect powerups and avoid your opponents' trails
 Icon=heroes
+TryExec=heroes
 Exec=heroes
 Terminal=false
 Categories=Application;Game;

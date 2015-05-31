@@ -5,8 +5,13 @@ Type=Application
 Name=X11VNC Server
 Comment=Share this desktop by VNC
 Icon=computer
+TryExec=x11vnc
 Exec=x11vnc -gui tray=setpass -rfbport PROMPT -bg -o %%HOME/.x11vnc.log.%%VNCDISPLAY
 Terminal=false
 Categories=Network;RemoteAccess;
 StartupNotify=false
 X-Arch-Package=x11vnc-git 0.9.14.r358.gaf86975-1
+X-Arch-Package-Name=x11vnc-git
+X-Arch-Package-Version=0.9.14.r358.gaf86975-1
+X-Arch-Package-Description=VNC server for real X displays
+X-Arch-Package-URL=https://LibVNC.github.io

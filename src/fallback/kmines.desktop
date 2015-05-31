@@ -124,6 +124,7 @@ GenericName[x-test]=xxMinesweeper-like Gamexx
 GenericName[zh_CN]=扫雷游戏
 GenericName[zh_TW]=類似踩地雷的遊戲
 Icon=kmines
+TryExec=kmines
 Exec=kmines -caption "%c"
 X-DBUS-StartupType=Multi
 Terminal=false

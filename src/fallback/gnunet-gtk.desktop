@@ -12,6 +12,7 @@ Comment[de]=Sicherer Datentausch mit GNUnet P2P
 Comment[es]=Compartir datos con la red anónima y resistente a la censura de GNU
 Comment[fr]=Partager des fichiers sur le réseau anonyme et résistant à la censure de GNU
 Icon=gnunet-gtk
+TryExec=gnunet-gtk
 Exec=gnunet-gtk
 Terminal=false
 Categories=GTK;Network;P2P;FileTransfer;

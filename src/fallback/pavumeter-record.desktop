@@ -6,6 +6,7 @@ Name=PulseAudio Volume Meter (Capture)
 GenericName=Capture Volume Meter
 Comment=Monitor the input volume
 Icon=audio-input-microphone
+TryExec=pavumeter
 Exec=pavumeter --record
 Terminal=false
 Categories=AudioVideo;Audio;

@@ -6,6 +6,7 @@ Name=PIX Frogger
 GenericName=pixfrogger
 Comment=Help the frog cross the street
 Icon=pixfrogger
+TryExec=pixfrogger
 Exec=pixfrogger
 Terminal=false
 Categories=Game;ArcadeGame;

@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=Evolvotron
 Comment=Interactive image generator
+TryExec=evolvotron
 Exec=evolvotron
 Terminal=false
 Categories=Graphics;2DGraphics;

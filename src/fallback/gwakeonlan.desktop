@@ -9,6 +9,7 @@ Comment=A GTK+ utility to awake turned off machine using the Wake On LAN feature
 Comment[fr_FR]=Un outil GTK+ pour réveiller les ordinateurs éteints grâce à le Wake On LAN.
 Comment[it_IT]=Un'utilità GTK+ per risvegliare macchine spente usando il Wake On LAN.
 Icon=_usr_share_gwakeonlan_gwakeonlan
+TryExec=/usr/bin/gwakeonlan
 Exec=/usr/bin/gwakeonlan
 Terminal=false
 Categories=Network;GTK;

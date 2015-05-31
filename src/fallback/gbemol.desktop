@@ -5,6 +5,7 @@ Type=Application
 Name=gbemol
 Comment=MPD client
 Icon=gbemol
+TryExec=gbemol
 Exec=gbemol
 Terminal=false
 Categories=AudioVideo;Player;

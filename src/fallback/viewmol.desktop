@@ -6,6 +6,7 @@ Name=Viewmol
 Name[ru]=Viewmol
 Comment=Viewmol
 Icon=viewmol.png
+TryExec=/usr/bin/viewmol
 Exec=/usr/bin/viewmol %f
 Terminal=false
 Categories=Education;Science;Chemistry;

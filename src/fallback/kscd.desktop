@@ -148,6 +148,7 @@ GenericName[zh_CN]=CD 播放器
 GenericName[zh_HK]=CD 播放器
 GenericName[zh_TW]=CD 播放器
 Icon=kscd
+TryExec=kscd
 Exec=kscd -caption "%c" %i
 X-DBUS-StartupType=Unique
 Terminal=false

@@ -5,6 +5,7 @@ Type=Application
 Name=Xoo
 Comment=Handheld Device Simulator
 Icon=xoo.png
+TryExec=xoo
 Exec=xoo
 Terminal=false
 Categories=GTK;Development;

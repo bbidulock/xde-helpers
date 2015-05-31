@@ -5,6 +5,7 @@ Type=Application
 Name=pyTrainer
 Comment=The Free Sport Training Center
 Icon=pytrainer
+TryExec=pytrainer
 Exec=pytrainer
 Terminal=false
 Categories=Office;

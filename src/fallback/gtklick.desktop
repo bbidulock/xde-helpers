@@ -5,6 +5,7 @@ Type=Application
 Name=gtklick
 Comment=A Simple Metronome
 Icon=gtklick
+TryExec=gtklick
 Exec=gtklick
 Terminal=false
 Categories=AudioVideo;Audio;Music;GTK;

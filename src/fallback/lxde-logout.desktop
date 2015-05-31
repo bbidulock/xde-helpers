@@ -30,3 +30,7 @@ NoDisplay=true
 OnlyShowIn=LXDE;
 StartupNotify=false
 X-Arch-Package=lxde-common 0.99.0-2
+X-Arch-Package-Name=lxde-common
+X-Arch-Package-Version=0.99.0-2
+X-Arch-Package-Description=Common files of the LXDE Desktop
+X-Arch-Package-URL=http://lxde.org/

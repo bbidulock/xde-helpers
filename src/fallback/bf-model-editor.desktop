@@ -7,6 +7,7 @@ Comment=Model editor for the Bear Engine
 Comment[en]=Model editor for the Bear Engine
 Comment[fr]=Éditeur de personnage pour Le moteur « Bear »
 Icon=bear-factory
+TryExec=bf-model-editor
 Exec=bf-model-editor
 Terminal=false
 Categories=Utility;

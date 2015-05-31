@@ -36,6 +36,7 @@ Comment[pt]=Descarrega conteúdos de podcasts.
 Comment[ru]=Загрузка и воспроизведение аудио и видео подкастов, синхронизация с iPod
 Comment[uk]=Завантаження та прослуховування аудіо та відео подкастів, синхронізація з iPod
 Icon=gpodder
+TryExec=gpodder
 Exec=gpodder
 Terminal=false
 Categories=AudioVideo;Audio;Network;FileTransfer;News;GTK;

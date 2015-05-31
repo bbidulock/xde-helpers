@@ -5,6 +5,7 @@ Type=Application
 Name=Navigation log viewer
 Comment=A visualization tool for navigation logs
 Icon=navlog-viewer
+TryExec=navlog-viewer
 Exec=navlog-viewer
 X-MultipleArgs=false
 Terminal=false

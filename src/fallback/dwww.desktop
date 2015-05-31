@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=Debian Documentation Browser
 Icon=gnome-touristinfo
+TryExec=dwww
 Exec=dwww
 X-MultipleArgs=false
 Terminal=false

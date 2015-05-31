@@ -5,6 +5,7 @@ Type=Application
 Name=Blobby Volley 2
 GenericName=Volley-Ball Game
 Icon=blobby
+TryExec=blobby
 Exec=blobby
 Terminal=false
 Categories=Game;ArcadeGame;

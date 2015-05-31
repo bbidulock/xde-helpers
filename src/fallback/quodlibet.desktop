@@ -60,6 +60,7 @@ Comment[uk]=Програма для прослуховування і керув
 Comment[zh_CN]=听、浏览或者编辑您的音频收藏
 Comment[zh_TW]=收聽、瀏覽，或編輯您的音訊收藏
 Icon=quodlibet.png
+TryExec=quodlibet
 Exec=quodlibet
 Terminal=false
 Categories=AudioVideo;Audio;Player;GTK

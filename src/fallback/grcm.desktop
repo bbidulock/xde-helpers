@@ -6,6 +6,7 @@ Name=Grcm
 GenericName=Grcm
 Comment=Manage machine connections
 Icon=gcrm.png
+TryExec=grcm
 Exec=grcm
 Terminal=false
 Categories=Application;GTK;GNOME;Network;

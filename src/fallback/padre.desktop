@@ -5,6 +5,7 @@ Type=Application
 Name=Padre
 Comment=Perl Application Development and Refactoring Environment
 Icon=_usr_share_pixmaps_padre
+TryExec=/usr/bin/padre
 Exec=/usr/bin/padre
 Terminal=false
 Categories=Development;IDE;TextTools;

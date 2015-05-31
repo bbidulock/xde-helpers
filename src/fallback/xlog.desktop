@@ -7,6 +7,7 @@ Comment=Amateur Radio logging program
 Comment[nl]=Log programma voor zendamateurs
 Comment[pl]=Dziennik łączności dla radioamatorów
 Icon=xlog-icon.png
+TryExec=xlog
 Exec=xlog %F
 Terminal=false
 Categories=Utility;Database;HamRadio;GTK

@@ -6,6 +6,7 @@ Name=Peg Solitaire
 GenericName=pegsolitaire
 Comment=Play an educational puzzle game similar to Hi-Q
 Icon=pegsolitaire-icon
+TryExec=pegsolitaire
 Exec=pegsolitaire
 Terminal=false
 Categories=Game;LogicGame;

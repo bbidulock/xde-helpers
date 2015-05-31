@@ -9,6 +9,7 @@ Comment=Programming editor
 Comment[en_GB]=Programming editor
 Comment[es]=Edita especializado para programación
 Icon=_usr_share_pixmaps_Sci48M
+TryExec=scite
 Exec=scite %F
 Terminal=false
 Categories=Application;Development;

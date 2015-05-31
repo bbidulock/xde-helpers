@@ -5,6 +5,7 @@ Type=Application
 Name=Gliv
 Comment=View images using gdk-pixbuf and OpenGL
 Icon=gliv
+TryExec=gliv
 Exec=gliv
 Terminal=false
 Categories=Graphics;

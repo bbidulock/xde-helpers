@@ -6,6 +6,7 @@ Name=Penguin Taipei
 GenericName=
 Comment=
 Icon=
+TryExec=/usr/games/ace-taipei
 Exec=/usr/games/ace-taipei
 Terminal=false
 Categories=Game;BoardGame;

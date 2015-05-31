@@ -7,6 +7,7 @@ Name[de]=Gemeinsame Eingabegeräte
 Comment=Share mouse and pointer with other Computers
 Comment[de]=Maus und Tastatur mit anderen Computern teilen
 Icon=mango-lassi
+TryExec=/usr/bin/mango-lassi
 Exec=/usr/bin/mango-lassi
 Terminal=false
 Categories=Network;

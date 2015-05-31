@@ -9,6 +9,7 @@ GenericName[de]=Collectd Datenbankbetrachter
 Comment=Viewer for collectd-databases
 Comment[de]=Betrachter für collectd-Datenbanken
 Icon=kcollectd
+TryExec=kcollectd
 Exec=kcollectd
 Terminal=false
 Categories=Qt;KDE;Utility;

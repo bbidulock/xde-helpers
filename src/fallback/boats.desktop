@@ -5,6 +5,7 @@ Type=Application
 Name=Boat Scenario
 Comment=Race scenario drawing tool
 Icon=boats.png
+TryExec=boats
 Exec=boats %F
 Terminal=false
 Categories=Education;Qt;

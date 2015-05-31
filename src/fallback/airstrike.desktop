@@ -6,6 +6,7 @@ Name=Airstrike
 Comment=Dogfight an enemy plane
 Comment[de_DE]=Kämpfe gegen ein feindliches Flugzeug
 Icon=airstrike.xpm
+TryExec=/usr/games/airstrike
 Exec=/usr/games/airstrike
 Terminal=false
 Categories=Game;ArcadeGame;

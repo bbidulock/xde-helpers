@@ -3,6 +3,7 @@ Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=Search and rescue
+TryExec=SearchAndRescue
 Exec=SearchAndRescue
 Terminal=False
 Categories=Game

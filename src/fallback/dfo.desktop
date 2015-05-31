@@ -5,6 +5,7 @@ Type=Application
 Name=Desktop Flickr Organizer
 Comment=Desktop Flickr Organizer for Gnome
 Icon=_usr_share_dfo_icons_FontBookSquareThumbnail
+TryExec=dfo
 Exec=dfo
 Terminal=false
 Categories=GNOME;GTK;Graphics;

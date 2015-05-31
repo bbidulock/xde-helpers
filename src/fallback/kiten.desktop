@@ -178,6 +178,7 @@ Comment[x-test]=xxJapanese Reference and Study Toolxx
 Comment[zh_CN]=日语参考/学习工具
 Comment[zh_TW]=日語參考/學習工具
 Icon=kiten
+TryExec=kiten
 Exec=kiten -caption "%c" %i
 X-DBUS-StartupType=Unique
 Terminal=false

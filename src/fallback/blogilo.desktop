@@ -70,6 +70,7 @@ GenericName[x-test]=xxA KDE Blogging Clientxx
 GenericName[zh_CN]=KDE 的博客客户端
 GenericName[zh_TW]=KDE 部落格客戶端程式
 Icon=blogilo
+TryExec=blogilo
 Exec=blogilo %i -caption "%c"
 Terminal=false
 Categories=Qt;KDE;Network;

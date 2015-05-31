@@ -5,6 +5,7 @@ Type=Application
 Name=pydance
 GenericName=Dancing Game
 Icon=pydance.png
+TryExec=pydance
 Exec=pydance
 Terminal=false
 Categories=Application;Game;ArcadeGame;Music

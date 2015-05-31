@@ -177,6 +177,7 @@ Comment[x-test]=xxKDE Letter Order Gamexx
 Comment[zh_CN]=字母顺序游戏
 Comment[zh_TW]=KDE 字母排序遊戲
 Icon=kanagram
+TryExec=kanagram
 Exec=kanagram
 Terminal=false
 Categories=Qt;KDE;Education;Languages;Game;KidsGame;

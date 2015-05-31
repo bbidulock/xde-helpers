@@ -14,6 +14,7 @@ Comment[be]=Паздяляйцеся файламі праз сетку DC++
 Comment[en]=Share files over the DC++ network
 Comment[ru]=Делитесь файлами с помощью сетей DC++
 Icon=eiskaltdcpp
+TryExec=eiskaltdcpp
 Exec=eiskaltdcpp
 Terminal=false
 Categories=Network;FileTransfer;P2P;Qt;

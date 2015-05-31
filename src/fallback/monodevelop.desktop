@@ -6,6 +6,7 @@ Name=MonoDevelop
 GenericName=Integrated Development Environment
 Comment=Develop .NET applications in an Integrated Development Environment
 Icon=monodevelop
+TryExec=monodevelop
 Exec=monodevelop %F
 Terminal=false
 Categories=GNOME;GTK;Development;IDE;

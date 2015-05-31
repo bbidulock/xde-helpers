@@ -5,6 +5,7 @@ Type=Application
 Name=AClock
 Comment=Analog Clock Dockapp
 Icon=_usr_lib_GNUstep_Applications_AClock.app_Resources_AClock
+TryExec=AClock
 Exec=AClock
 Terminal=false
 Categories=Utility;Clock;

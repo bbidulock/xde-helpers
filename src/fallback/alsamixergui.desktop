@@ -5,6 +5,7 @@ Type=Application
 Name=Alsamixergui
 Comment=Graphical audio mixer
 Icon=_usr_share_pixmaps_alsamixergui
+TryExec=/usr/bin/alsamixergui
 Exec=/usr/bin/alsamixergui
 Terminal=false
 Categories=Application;AudioVideo;

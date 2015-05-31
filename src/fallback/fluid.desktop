@@ -12,3 +12,7 @@ Categories=Development;GUIDesigner;
 MimeType=application/x-fluid
 StartupNotify=false
 X-Arch-Package=fltk 1.3.3-4
+X-Arch-Package-Name=fltk
+X-Arch-Package-Version=1.3.3-4
+X-Arch-Package-Description=Graphical user interface toolkit for X
+X-Arch-Package-URL=http://www.fltk.org/

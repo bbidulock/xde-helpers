@@ -5,6 +5,7 @@ Type=Application
 Name=Zipper
 Comment=GUI for various compressed file formats
 Icon=zipper.tiff
+TryExec=Zipper
 Exec=Zipper
 Terminal=false
 Categories=Compression;Archiving;Utility;

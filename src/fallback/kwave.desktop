@@ -12,6 +12,7 @@ Comment=A sound editor for KDE
 Comment[de]=Ein Sound-Editor für KDE
 Comment[fr]=Un éditeur de sons pour KDE
 Icon=kwave
+TryExec=kwave
 Exec=kwave %F
 Terminal=false
 Categories=Qt;KDE;AudioVideo;Audio;Player;Recorder;AudioVideoEditing;

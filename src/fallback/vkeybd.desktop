@@ -5,6 +5,7 @@ Type=Application
 Name=Virtual MIDI Keyboard
 Comment=MIDI Virtual Keyboard
 Icon=vkeybd
+TryExec=vkeybd
 Exec=vkeybd
 Terminal=false
 Categories=AudioVideo;Audio;

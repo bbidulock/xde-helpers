@@ -107,6 +107,7 @@ GenericName[x-test]=xxVideo Playerxx
 GenericName[zh_CN]=视频播放器
 GenericName[zh_TW]=影像播放器
 Icon=dragonplayer
+TryExec=dragon
 Exec=dragon %u
 Terminal=false
 Categories=Qt;KDE;AudioVideo;Player;

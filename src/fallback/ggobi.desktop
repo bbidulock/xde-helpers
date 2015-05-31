@@ -6,6 +6,7 @@ Name=GGobi
 GenericName=Data Analysis Tool
 Comment=Multivariate interactive graphics for exploratory data analysis
 Icon=ggobi.png
+TryExec=ggobi
 Exec=ggobi
 Terminal=false
 Categories=Graphics;2DGraphics

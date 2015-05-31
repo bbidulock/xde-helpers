@@ -123,6 +123,7 @@ GenericName[x-test]=xxPersonal Information Managerxx
 GenericName[zh_CN]=个人信息管理器
 GenericName[zh_TW]=個人資訊管理者
 Icon=kontact
+TryExec=kontact
 Exec=kontact
 X-DBUS-ServiceName=org.kde.kontact
 X-DBUS-StartupType=Unique

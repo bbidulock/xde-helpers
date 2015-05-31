@@ -6,6 +6,7 @@ Name=QA Assistant
 GenericName=Quality Assurance CheckList
 Comment=Quality Assurance Checklist
 Icon=qa-icon
+TryExec=qa-assistant
 Exec=qa-assistant
 Terminal=false
 Categories=GNOME;Utility;Development;

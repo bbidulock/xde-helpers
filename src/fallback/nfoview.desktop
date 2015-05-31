@@ -27,6 +27,7 @@ Comment[pl]=Wyświetlanie plików NFO
 Comment[ru]=Просмотр файлов NFO
 Comment[zh_CN]=浏览 NFO 文件
 Icon=nfoview
+TryExec=nfoview
 Exec=nfoview %F
 Terminal=false
 Categories=GTK;Utility;Viewer;

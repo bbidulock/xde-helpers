@@ -26,6 +26,7 @@ Comment[pt_BR]=Conecte-se a um computador remoto usando SSH
 Comment[sl]=Poveži se z oddaljenim računalnikom z varno lupino
 Comment[sv]=Anslut till en fjärrdator med Secure Shell
 Icon=hotwire-openssh
+TryExec=hotssh
 Exec=hotssh
 Terminal=false
 Categories=GTK;Network;

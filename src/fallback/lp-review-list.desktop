@@ -5,6 +5,7 @@ Type=Application
 Name=Launchpad Reviews
 GenericName=Code Review Listing Dialog
 Comment=Show when new code reviews appear
+TryExec=review-list
 Exec=review-list
 Terminal=false
 Categories=Network;

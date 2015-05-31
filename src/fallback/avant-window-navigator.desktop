@@ -93,6 +93,7 @@ Comment[uk]=Панельіконний навігатор на основі па
 Comment[zh_CN]=Dock样式的窗口导航
 Comment[zh_TW]=一個 dock 類型的視窗導覽工具
 Icon=avant-window-navigator
+TryExec=avant-window-navigator
 Exec=avant-window-navigator
 Terminal=false
 Categories=GNOME;Utility;

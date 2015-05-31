@@ -12,6 +12,7 @@ Comment[en]=Displays, modifies and exports in PostScript format phylogenetic tre
 Comment[fr]=Affiche, modifie et exporte au format PostScript des arbres phyolgénétiques
 Comment[pt_BR]=Exibe, modifica e exporta em formato PostScript árvores filogenéticas
 Icon=njplot
+TryExec=njplot
 Exec=njplot %f
 Terminal=false
 Categories=Biology;Science;Education;

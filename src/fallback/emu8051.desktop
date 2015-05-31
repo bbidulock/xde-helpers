@@ -6,6 +6,7 @@ Name=emu8051
 Name[en_GB]=Emu8051
 GenericName=intel 8051 emulator
 GenericName[en_GB]=intel 8051 emulator
+TryExec=/usr/bin/emu8051
 Exec=/usr/bin/emu8051
 Terminal=false
 Categories=Science;Education;Electronics;

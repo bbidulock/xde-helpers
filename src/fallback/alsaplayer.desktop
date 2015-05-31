@@ -17,3 +17,7 @@ X-AppInstall-Popcon=499
 X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
 X-Arch-Package=alsaplayer 0.99.81-6
+X-Arch-Package-Name=alsaplayer
+X-Arch-Package-Version=0.99.81-6
+X-Arch-Package-Description=A heavily multi-threaded PCM player that tries to excercise the ALSA library and driver quite a bit
+X-Arch-Package-URL=http://alsaplayer.sourceforge.net/

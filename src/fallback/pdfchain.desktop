@@ -6,6 +6,7 @@ Name=PDF Chain
 GenericName=pdfchain
 Comment=GUI for PDFTK - A graphical tool for manipulating PDF
 Icon=pdfchain
+TryExec=pdfchain
 Exec=pdfchain
 Terminal=false
 Categories=Office;

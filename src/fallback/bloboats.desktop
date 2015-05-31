@@ -5,6 +5,7 @@ Type=Application
 Name=Bloboats
 Comment=An arcade-like boat racing game
 Icon=bloboats
+TryExec=bloboats
 Exec=bloboats
 Terminal=false
 Categories=Game;ArcadeGame;

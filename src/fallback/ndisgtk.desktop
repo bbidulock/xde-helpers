@@ -65,6 +65,7 @@ Comment[uk]=Інструмент встановлення драйверів Ndi
 Comment[zh_CN]=Ndiswrapper驱动程序安装工具
 Comment[zh_TW]=Ndiswrapper驅動程式安裝工具
 Icon=ndisgtk.png
+TryExec=su-to-root
 Exec=su-to-root -X -c "/usr/sbin/ndisgtk"
 Terminal=false
 NotShowIn=KDE;

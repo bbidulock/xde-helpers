@@ -5,6 +5,7 @@ Type=Application
 Name=DiffPDF
 Comment=Compare two PDF files
 Icon=diffpdf
+TryExec=diffpdf
 Exec=diffpdf
 Terminal=false
 Categories=Utility;Qt;

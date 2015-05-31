@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=Shisen
 Icon=/usr/lib/GNUstep/Applications/Shisen.app/Resources/GShisen.tiff
+TryExec=Shisen
 Exec=Shisen
 Terminal=false
 Categories=Game;LogicGame;

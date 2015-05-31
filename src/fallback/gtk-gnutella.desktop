@@ -27,6 +27,7 @@ Comment[nb]=En grafisk Gnutella-tjenent
 Comment[nl]=Een grafische Gnutella servent
 Comment[nn]=Ein grafisk Gnutella-tenent
 Icon=gtk-gnutella.png
+TryExec=gtk-gnutella
 Exec=gtk-gnutella
 Terminal=false
 Categories=GTK;Application;Network;FileTransfer;P2P;

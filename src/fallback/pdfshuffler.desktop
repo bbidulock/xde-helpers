@@ -5,6 +5,7 @@ Type=Application
 Name=PDF-Shuffler
 Comment=PDF Merging, Rearranging, Splitting, Rotating and Cropping
 Icon=pdfshuffler
+TryExec=pdfshuffler
 Exec=pdfshuffler
 Terminal=false
 Categories=Office;

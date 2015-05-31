@@ -7,6 +7,7 @@ Name[bg]=Календар (SimpleAgenda)
 Comment=Simple agenda and calendar application for GNUstep
 Comment[bg]=Програма за срещи и календари за GNUstep
 Icon=/usr/lib/GNUstep/Applications/SimpleAgenda.app/Resources/Calendar.tiff
+TryExec=SimpleAgenda
 Exec=SimpleAgenda
 Terminal=false
 Categories=Office;Calendar;

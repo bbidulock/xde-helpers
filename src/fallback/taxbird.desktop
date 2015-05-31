@@ -6,6 +6,7 @@ Name=Taxbird
 GenericName=Taxbird
 Comment=freier Elster-Client für Linux
 Icon=taxbird.xpm
+TryExec=taxbird
 Exec=taxbird
 Terminal=false
 Categories=Finance;Office

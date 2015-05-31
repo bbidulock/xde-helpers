@@ -5,6 +5,7 @@ Type=Application
 Name=Lybniz Graph Plotter
 Comment=Plot graphs and functions
 Icon=lybniz
+TryExec=lybniz
 Exec=lybniz
 Terminal=false
 Categories=Education;

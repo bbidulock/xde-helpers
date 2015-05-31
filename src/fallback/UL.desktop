@@ -5,6 +5,7 @@ Type=Application
 Name=Adun
 Comment=Biomoleculal Simulator
 Icon=/usr/lib/GNUstep/Applications/UL.app/Resources/icon.tiff
+TryExec=UL
 Exec=UL
 Terminal=false
 Categories=Education;Science;Biology;

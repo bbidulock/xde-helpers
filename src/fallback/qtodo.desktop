@@ -5,6 +5,7 @@ Type=Application
 Name=QToDo
 Comment=ToDo-List manager
 Icon=_usr_share_pixmaps_qtodo
+TryExec=qtodo
 Exec=qtodo
 Terminal=false
 Categories=Qt;KDE;Utility;

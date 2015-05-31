@@ -6,6 +6,7 @@ Name=NuApplet
 GenericName=NuFW Client
 Comment=QT NuFW Client
 Icon=nuapplet2-running.png
+TryExec=nuapplet2
 Exec=nuapplet2
 Terminal=false
 Categories=Network;

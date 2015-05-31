@@ -5,6 +5,7 @@ Type=Application
 Name=Foobillard
 Comment=A 3D billiards game using OpenGL
 Icon=foobillard.png
+TryExec=foobillard
 Exec=foobillard
 Terminal=false
 Categories=Game;SportsGame;

@@ -5,6 +5,7 @@ Type=Application
 Name=PornView
 Comment=Photo/Movie collection manager
 Icon=pornview
+TryExec=pornview
 Exec=pornview
 Terminal=false
 StartupNotify=false

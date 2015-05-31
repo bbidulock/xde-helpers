@@ -77,6 +77,7 @@ Comment[x-test]=xxA currency converter and calculatorxx
 Comment[zh_CN]=一个汇率转换器和计算器
 Comment[zh_TW]=貨幣轉換與計算器
 Icon=keurocalc
+TryExec=keurocalc
 Exec=keurocalc -caption "%c" %i
 Terminal=false
 Categories=Qt;KDE;Office;

@@ -11,6 +11,7 @@ Comment=Scientific software package for numerical computations
 Comment[de]=eine Wissenschaftssoftware für numerische Berechnungen
 Comment[fr]=Logiciel scientifique de calcul numérique
 Icon=_usr_share_scilab_icons_scilab
+TryExec=scilab
 Exec=scilab
 Terminal=false
 Categories=Education;Science;Math;Development;Physics;

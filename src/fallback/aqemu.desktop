@@ -14,6 +14,7 @@ Comment[fr]=Interface graphique pour QEMU et KVM
 Comment[it]=Interfaccia Grafica per QEMU e KVM
 Comment[ru]=Управление виртуальными машинами
 Icon=aqemu-32x32.xpm
+TryExec=aqemu
 Exec=aqemu
 Terminal=false
 Categories=Qt;System;Emulator;

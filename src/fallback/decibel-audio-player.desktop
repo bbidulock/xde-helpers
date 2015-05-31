@@ -14,6 +14,7 @@ Comment[fr]=Un lecteur audio simple d'utilisation
 Comment[nn]=Ein enkel ljudavspelar
 Comment[no]=En enkel lydavspiller
 Icon=decibel-audio-player
+TryExec=decibel-audio-player
 Exec=decibel-audio-player
 Terminal=false
 Categories=AudioVideo;Audio;Player;GTK;

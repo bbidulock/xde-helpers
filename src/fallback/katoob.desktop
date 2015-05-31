@@ -12,6 +12,7 @@ Comment[fr]=Éditeur de texte multilingue Unicode
 Comment[he]=עורך טקסט יוניקוד רב-לשוני
 Comment[ja]=多国語対応Unicodeテキストエディタ
 Icon=katoob-icon.pmg
+TryExec=/usr/bin/katoob
 Exec=/usr/bin/katoob %F
 Terminal=false
 Categories=Utility;TextEditor

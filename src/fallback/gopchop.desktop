@@ -5,6 +5,7 @@ Type=Application
 Name=GOPchop
 Comment=MPEG2 GOP-accurate editor
 Icon=gopchop.png
+TryExec=gopchop
 Exec=gopchop %F
 Terminal=false
 Categories=Graphics;AudioVideo;GTK;

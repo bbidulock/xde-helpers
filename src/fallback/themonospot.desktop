@@ -10,6 +10,7 @@ Comment=themonospot - extract information from avi or mkv files
 Comment[it]=themonospot - estrae informazioni da un file avi o mkv
 Comment[it_IT]=themonospot - estrae informazioni da un file avi o mkv
 Icon=themonospot
+TryExec=themonospot
 Exec=themonospot
 X-DBUS-ServiceName=
 X-DBUS-StartupType=

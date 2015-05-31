@@ -142,6 +142,7 @@ Comment[x-test]=xxKSudoku, Sudoku game & more for KDExx
 Comment[zh_CN]=KSudoku，KDE 下的增强型数独游戏
 Comment[zh_TW]=KDE Sudoku 遊戲，以及其變化
 Icon=ksudoku
+TryExec=ksudoku
 Exec=ksudoku %i -caption "%c"
 Terminal=false
 Categories=Qt;KDE;Game;LogicGame;

@@ -6,6 +6,7 @@ Name=QtEmu
 GenericName=Virtual machine manager
 Comment=Front end to QEMU virtual machine monitor
 Icon=qtemu
+TryExec=qtemu
 Exec=qtemu
 Terminal=false
 Categories=Qt;System;Emulator;

@@ -34,6 +34,7 @@ Comment[ro]=Administrează-ţi finanţele, conturile şi investiţiile
 Comment[uk]=Керування вашими фінансами, рахунками та інвестиціями
 Comment[vi]=Quản lý tài chính, các tài khoản và vốn cố định
 Icon=gnucash-icon
+TryExec=gnucash
 Exec=gnucash %f
 Terminal=false
 Categories=Office;Finance;

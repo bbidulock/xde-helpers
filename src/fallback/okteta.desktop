@@ -101,6 +101,7 @@ GenericName[x-test]=xxHex Editorxx
 GenericName[zh_CN]=十六进制编辑器
 GenericName[zh_TW]=十六進位資料編輯器
 Icon=okteta
+TryExec=okteta
 Exec=okteta -caption "%c" %U
 X-DBUS-ServiceName=org.kde.okteta
 X-DBUS-StartupType=Multi

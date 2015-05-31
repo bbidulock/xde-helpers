@@ -19,6 +19,7 @@ Comment[fr]=Plannifier les enregistrements et voir le programme TV
 Comment[pl]=Zaprogramuj nagrania i przeglądaj przewodnik programowy
 Comment[pt_BR]=Agendar gravações e procurar por guia de programação
 Icon=gnome-dvb-daemon
+TryExec=gnome-dvb-control
 Exec=gnome-dvb-control
 Terminal=false
 Categories=GNOME;GTK;AudioVideo;TV;Recorder;

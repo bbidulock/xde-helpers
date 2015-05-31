@@ -89,6 +89,7 @@ Name[x-test]=xxFind Files/Foldersxx
 Name[zh_CN]=查找文件/文件夹
 Name[zh_TW]=尋找檔案/資料夾
 Icon=kfind
+TryExec=kfind
 Exec=kfind %u
 Terminal=false
 OnlyShowIn=KDE;

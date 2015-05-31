@@ -6,6 +6,7 @@ Name=Black-Box
 GenericName=Laser puzzle
 Comment=Find the crystals
 Icon=black-box
+TryExec=black-box
 Exec=black-box
 Terminal=false
 Categories=Game;LogicGame

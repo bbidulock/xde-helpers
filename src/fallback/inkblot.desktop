@@ -24,6 +24,7 @@ Comment[fr_FR]=Vérifiez le niveau d'encre des cartouches de votre imprimante
 Comment[ru]=Проверка уровня чернил в картриджах принтера
 Comment[sv]=Kontrollera bläcknivån för din skrivare
 Icon=inkblot
+TryExec=inkblot
 Exec=inkblot
 Terminal=false
 Categories=GNOME;GTK;System;Utility;

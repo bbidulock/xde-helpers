@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=BSOD
 Comment=BSOD stands for "Blue Screen of Death". The finest in personal computer emulation, BSOD simulates popular screen savers from a number of less robust operating systems. Written by Jamie Zawinski.
+TryExec=/usr/lib/xscreensaver/bsod
 Exec=/usr/lib/xscreensaver/bsod -root
 Terminal=false
 OnlyShowIn=GNOME;

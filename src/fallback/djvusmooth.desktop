@@ -5,6 +5,7 @@ Type=Application
 Name=djvusmooth
 GenericName=Graphical editor for DjVu
 GenericName[pl]=Graficzny edytor plików DjVu
+TryExec=/usr/bin/djvusmooth
 Exec=/usr/bin/djvusmooth %f
 Terminal=false
 Categories=Graphics;

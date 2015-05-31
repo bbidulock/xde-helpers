@@ -7,6 +7,7 @@ Comment=Collect all the gems without running into any mines
 Comment[de]=Sammle alle Edelsteine ohne in Minen zu geraten
 Comment[fr]=Collecter tous les gèmes sans toucher une seule mine
 Icon=inertia
+TryExec=inertia
 Exec=inertia
 Terminal=false
 Categories=Game;LogicGame;

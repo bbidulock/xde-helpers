@@ -8,6 +8,7 @@ Comment=a GTK-based metronome
 Comment[pt-br]=Um metrônomo baseado em GTK
 Comment[pt]=Um metrônomo baseado em GTK
 Icon=_usr_share_pixmaps_gtick_32x32
+TryExec=/usr/bin/gtick
 Exec=/usr/bin/gtick
 Terminal=false
 Categories=GTK;AudioVideo;Audio;

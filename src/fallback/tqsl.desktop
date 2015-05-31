@@ -5,6 +5,7 @@ Type=Application
 Name=TrustedQSL
 Comment=Sign QSO data for upload to LoTW
 Icon=tqsl.png
+TryExec=tqsl
 Exec=tqsl
 Terminal=false
 Categories=Utility;HamRadio;

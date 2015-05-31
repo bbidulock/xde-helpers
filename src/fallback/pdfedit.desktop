@@ -5,6 +5,7 @@ Type=Application
 Name=PDF Editor
 Comment=PDF Editor
 Icon=_usr_share_pdfedit_icon_pdfedit_logo
+TryExec=pdfedit
 Exec=pdfedit
 Terminal=false
 Categories=TextTools;Viewer;Graphics;Qt;

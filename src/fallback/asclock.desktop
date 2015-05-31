@@ -13,7 +13,11 @@ OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
 Categories=DockApp;WMAKER;
 StartupNotify=false
 StartupWMClass=asclock
-X-Arch-Package=asclock-xlib
+X-Arch-Package=asclock-xlib 2.0.12-5
+X-Arch-Package-Name=asclock-xlib
+X-Arch-Package-Version=2.0.12-5
+X-Arch-Package-Description=The AfterStep clock dock app - Xlib version
+X-Arch-Package-URL=http://www.cs.mun.ca/~gstarkes/wmaker/dockapps/time.html#asclock
 Actions=Newstone;Orb;Stone;Analog;Beats;Classic;Shaped;
 
 [Desktop Action Newstone]
@@ -43,4 +47,3 @@ Exec=asclock -d -t classic
 [Desktop Action Shaped]
 Name=Shaped theme
 Exec=asclock -d -t shaped
-X-Arch-Package=asclock-xlib 2.0.12-5

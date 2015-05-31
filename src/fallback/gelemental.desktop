@@ -27,6 +27,7 @@ Comment[en_US]=View the periodic table of elements
 Comment[fr]=Affiche le tableau périodique des éléments
 Comment[it]=Visualizza la tavola periodica dei elementi
 Icon=gelemental
+TryExec=gelemental
 Exec=gelemental
 Terminal=false
 Categories=GTK;Utility;Science;Chemistry;
