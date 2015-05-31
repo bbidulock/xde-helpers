@@ -2,16 +2,17 @@
 Version=1.0
 Encoding=UTF-8
 Type=XSession
-Name=i3
+Name=i3 (with debug log)
 GenericName=Window Manager
 GenericName[fr]=Gestionnaire de Fenêtres
 GenericName[pt]=Gestor de Janelas
 Comment=improved dynamic tiling window manager
 Icon=i3
-TryExec=/usr/bin/i3
-Exec=i3
+TryExec=/usr/bin/i3-with-shmlog
+Exec=i3-with-shmlog
 Terminal=false
 NoDisplay=true
+Hidden=true
 Categories=WindowManager;Application;System;
 StartupNotify=false
 X-GNOME-Autostart-Notify=false
@@ -23,21 +24,3 @@ X-Arch-Package-Name=i3-wm
 X-Arch-Package-Version=4.10.2-1
 X-Arch-Package-Description=An improved dynamic tiling window manager
 X-Arch-Package-URL=http://i3wm.org/
-Actions=XDE;Debug;
-
-[Desktop Action XDE]
-Name=XDE
-Icon=xde
-Exec=xde-session -desktop I3 -startwm i3
-Comment=i3 in an XDE session
-
-[Desktop Action Debug]
-Name=i3 (with debug log)
-Icon=i3
-Exec=i3-with-shmlog
-Comment=improved dynamic tiling window manager
-
-[Window Manager]
-SessionManaged=true
-StartupNotification=false
-X-XDE-Managed=true

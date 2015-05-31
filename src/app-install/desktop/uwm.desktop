@@ -2,14 +2,14 @@
 Version=1.0
 Encoding=UTF-8
 Type=XSession
-Name=Blackbox
+Name=μwm
 GenericName=Window Manager
 GenericName[fr]=Gestionnaire de Fenêtres
 GenericName[pt]=Gestor de Janelas
-Comment=Highly configurable and low resource X11 Window manager
-Icon=blackbox
-TryExec=/usr/bin/blackbox
-Exec=blackbox
+Comment=Micro (μ) Window Manger
+Icon=uwm16x16
+TryExec=/usr/bin/uwm
+Exec=uwm
 Terminal=false
 NoDisplay=true
 Categories=WindowManager;Application;System;
@@ -17,19 +17,19 @@ StartupNotify=false
 X-GNOME-Autostart-Notify=false
 X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
-X-GNOME-WMName=blackbox
-X-Arch-Package=blackboxwm 0.71.1-1
-X-Arch-Package-Name=blackboxwm
-X-Arch-Package-Version=0.71.1-1
-X-Arch-Package-Description=A window manager for X11 (maintained fork of blackbox)
-X-Arch-Package-URL=http://github.com/bbidulock/blackboxwm
+X-GNOME-WMName=uwm
+X-Arch-Package=uwm-git 0.30.10-6
+X-Arch-Package-Name=uwm-git
+X-Arch-Package-Version=0.30.10-6
+X-Arch-Package-Description=Micro (u) Window Manager
+X-Arch-Package-URL=http://uwm.sourceforge.net/
 Actions=XDE;
 
 [Desktop Action XDE]
 Name=XDE
 Icon=xde
-Exec=xde-session -desktop BLACKBOX -startwm start-blackbox
-Comment=Blackbox in an XDE session
+Exec=xde-session -desktop UWM -startwm uwm
+Comment=Micro (μ) Window Manger under an XDE session
 
 [Window Manager]
 SessionManaged=true

@@ -2,14 +2,14 @@
 Version=1.0
 Encoding=UTF-8
 Type=XSession
-Name=Blackbox
+Name=Waimea
 GenericName=Window Manager
 GenericName[fr]=Gestionnaire de Fenêtres
 GenericName[pt]=Gestor de Janelas
-Comment=Highly configurable and low resource X11 Window manager
-Icon=blackbox
-TryExec=/usr/bin/blackbox
-Exec=blackbox
+Comment=An X11 window manager design for maximum efficiency
+Icon=waimea
+TryExec=/usr/bin/waimea
+Exec=waimea
 Terminal=false
 NoDisplay=true
 Categories=WindowManager;Application;System;
@@ -17,19 +17,19 @@ StartupNotify=false
 X-GNOME-Autostart-Notify=false
 X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
-X-GNOME-WMName=blackbox
-X-Arch-Package=blackboxwm 0.71.1-1
-X-Arch-Package-Name=blackboxwm
-X-Arch-Package-Version=0.71.1-1
-X-Arch-Package-Description=A window manager for X11 (maintained fork of blackbox)
-X-Arch-Package-URL=http://github.com/bbidulock/blackboxwm
+X-GNOME-WMName=waimea
+X-Arch-Package=waimea-git 0.5.0.19-1
+X-Arch-Package-Name=waimea-git
+X-Arch-Package-Version=0.5.0.19-1
+X-Arch-Package-Description=An X11 window manager designed for maximum efficiency
+X-Arch-Package-URL=https://github.com/bbidulock/waimea
 Actions=XDE;
 
 [Desktop Action XDE]
 Name=XDE
 Icon=xde
-Exec=xde-session -desktop BLACKBOX -startwm start-blackbox
-Comment=Blackbox in an XDE session
+Exec=xde-session -desktop WAIMEA -startwm start-waimea
+Comment=Waimea under an XDE session
 
 [Window Manager]
 SessionManaged=true

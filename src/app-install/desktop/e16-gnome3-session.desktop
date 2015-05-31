@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=XSession
+Name=E16 GNOME3
+GenericName=Window Manager
+GenericName[fr]=Gestionnaire de Fenêtres
+GenericName[pt]=Gestor de Janelas
+Comment[it]=Questo avvia GNOME 3 usando Enlightenment (e16) come window manager
+Icon=/usr/share/e16/icons/e16.png
+TryExec=/usr/bin/gnome-session
+Exec=gnome-session --session=e16-gnome
+Terminal=false
+Hidden=true
+StartupNotify=false
+X-GNOME-Autostart-Notify=true
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-WMName=enlightenment
+X-Arch-Package=enlightenment16 1.0.16-1

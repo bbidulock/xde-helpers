@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
 Encoding=UTF-8
-Type=Application
+Type=XSession
 Name=Mutter
 Name[ar]=مَتَر
 Name[as]=Mutter
@@ -70,7 +70,7 @@ GenericName=Window Manager
 GenericName[fr]=Gestionnaire de Fenêtres
 GenericName[pt]=Gestor de Janelas
 Icon=mutter
-TryExec=mutter
+TryExec=/usr/bin/mutter
 Exec=mutter
 Terminal=false
 NoDisplay=true
