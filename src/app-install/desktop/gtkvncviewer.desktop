@@ -5,6 +5,7 @@ Type=Application
 Name=Gtk VNC Viewer
 Comment=Connect to your VNC servers
 Icon=_usr_share_gtkvncviewer_data_gtkvncviewer_64
+TryExec=gtkvncviewer
 Exec=gtkvncviewer
 Terminal=false
 Categories=Network;

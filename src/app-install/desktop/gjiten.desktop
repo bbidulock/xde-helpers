@@ -11,6 +11,7 @@ Comment[de]=Japanisches Wörterbuch
 Comment[de_CH]=Japanisches Wörterbuch
 Comment[ja]=日本語辞典です
 Icon=jiten.png
+TryExec=gjiten
 Exec=gjiten
 Terminal=false
 Categories=GNOME;Application;Utility;

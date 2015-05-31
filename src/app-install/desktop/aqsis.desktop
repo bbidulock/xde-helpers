@@ -6,6 +6,7 @@ Name=Aqsis Renderer
 GenericName=RenderMan Renderer
 Comment=Render RenderMan Interface Bytestream (RIB) files
 Icon=aqsis
+TryExec=/usr/share/aqsis/scripts/aqsis.sh
 Exec=/usr/share/aqsis/scripts/aqsis.sh %f
 Terminal=true
 Categories=Graphics;3DGraphics;ConsoleOnly;

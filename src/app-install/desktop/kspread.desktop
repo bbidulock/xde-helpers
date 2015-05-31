@@ -121,6 +121,7 @@ Comment[x-test]=xxWrite spreadsheet documentsxx
 Comment[zh_CN]=编写电子表格文档
 Comment[zh_TW]=撰寫工作表文件
 Icon=kspread
+TryExec=kspread
 Exec=kspread %u
 X-DBUS-ServiceName=org.koffice.kspread
 X-DBUS-StartupType=multi

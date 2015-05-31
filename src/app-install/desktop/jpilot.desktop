@@ -5,6 +5,7 @@ Type=Application
 Name=J-Pilot
 Comment=Desktop organizer application for the Palm Pilot
 Icon=jpilot.xpm
+TryExec=jpilot
 Exec=jpilot
 Terminal=false
 Categories=Office;PDA;

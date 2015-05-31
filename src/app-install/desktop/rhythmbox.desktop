@@ -272,6 +272,7 @@ Comment[zh_CN]=播放并组织您的音乐收藏
 Comment[zh_HK]=播放及管理音樂庫
 Comment[zh_TW]=播放及管理音樂庫
 Icon=rhythmbox
+TryExec=rhythmbox
 Exec=rhythmbox %U
 Terminal=false
 Categories=GNOME;GTK;AudioVideo;

@@ -39,6 +39,7 @@ Comment[pt]=Faça a gestão da sua colecção de livros
 Comment[pt_BR]=Gerencie a sua coleção de livros
 Comment[sv]=Hantera din boksamling
 Icon=alexandria
+TryExec=/usr/bin/alexandria
 Exec=/usr/bin/alexandria
 Terminal=false
 Categories=Application;Office;

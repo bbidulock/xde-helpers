@@ -5,6 +5,7 @@ Type=Application
 Name=QInk
 Comment=QInk ink level monitor
 Icon=qink
+TryExec=qink
 Exec=qink
 Terminal=false
 Categories=Qt;Utility

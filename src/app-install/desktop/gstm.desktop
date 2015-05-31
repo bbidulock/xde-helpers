@@ -6,6 +6,7 @@ Name=gSTM
 GenericName=gSTM
 Comment=Manage SSH tunnel connections
 Icon=gSTM.png
+TryExec=gstm
 Exec=gstm
 Terminal=false
 Categories=Application;GTK;GNOME;Network;

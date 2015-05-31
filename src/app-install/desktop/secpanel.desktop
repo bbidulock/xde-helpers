@@ -5,6 +5,7 @@ Type=Application
 Name=SecPanel
 Comment=A graphical user interface for SSH and SCP
 Icon=secpanel
+TryExec=secpanel
 Exec=secpanel
 Terminal=false
 Categories=Network;

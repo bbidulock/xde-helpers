@@ -70,6 +70,7 @@ Comment[vi]=Ghi nhanh chú thích đến sau
 Comment[zh_CN]=简要记录备注以备日后使用
 Comment[zh_TW]=大略記下備註以供之後使用
 Icon=xpad
+TryExec=xpad
 Exec=xpad
 Terminal=false
 Categories=GTK;Utility;

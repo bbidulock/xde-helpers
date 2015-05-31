@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=GoatTracker
 Icon=goattrk2.xpm
+TryExec=goattracker
 Exec=goattracker
 X-MultipleArgs=false
 Terminal=false

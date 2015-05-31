@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=Antigravitaattori
 Comment=Multiplayer flying saucer racing game
+TryExec=antigrav
 Exec=antigrav
 Terminal=false
 Categories=Game;ArcadeGame;

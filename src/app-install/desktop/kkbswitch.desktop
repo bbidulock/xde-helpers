@@ -7,6 +7,7 @@ Comment=Keyboard Layout Indicator
 Comment[ru]=Индикатор раскладки клавиатуры
 Comment[uk]=Індикатор розкладки клавіатури
 Icon=kkbswitch.xpm
+TryExec=kkbswitch
 Exec=kkbswitch -caption "%c" %i %m 
 Terminal=false
 Categories=Qt;KDE;Utility;

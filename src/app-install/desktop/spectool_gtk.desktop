@@ -5,6 +5,7 @@ Type=Application
 Name=Spectrum Tool
 Comment=2.4 GHz spectrum analysis using the Wi-Spy hardware device
 Comment[fr]=Analyse du spectre 2.4 GHz en utilisant l'appareil Wi-Spy
+TryExec=spectool_gtk
 Exec=spectool_gtk
 Terminal=false
 StartupNotify=false

@@ -5,6 +5,7 @@ Type=Application
 Name=tqslcert
 Comment=Manage certificates for LoTW
 Icon=key48.png
+TryExec=tqslcert
 Exec=tqslcert
 Terminal=false
 Categories=Utility;HamRadio;

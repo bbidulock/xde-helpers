@@ -5,6 +5,7 @@ Type=Application
 Name=Googlizer
 Comment=Search Google for whatever's in the X selection
 Icon=googlizer.png
+TryExec=googlizer
 Exec=googlizer 
 Terminal=false
 Categories=Application;Network;

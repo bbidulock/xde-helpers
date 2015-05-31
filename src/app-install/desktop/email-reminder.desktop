@@ -5,6 +5,7 @@ Type=Application
 Name=Email-Reminder
 Comment=Set/modify your personal email reminders
 Comment[fr]=Ajouter et modifier vos rappels par courriel
+TryExec=/usr/bin/email-reminder-editor
 Exec=/usr/bin/email-reminder-editor
 Terminal=false
 Categories=Utility;Calendar

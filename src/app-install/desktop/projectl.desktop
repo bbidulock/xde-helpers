@@ -6,6 +6,7 @@ Name=ProjectL
 GenericName=
 Comment=HIZ's ProjectL
 Icon=projectl
+TryExec=projectl
 Exec=projectl
 Terminal=false
 Categories=Game;ArcadeGame;

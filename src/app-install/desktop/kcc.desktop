@@ -8,6 +8,7 @@ GenericName[de]=Halmaspiel für KDE
 Comment=GGZ Chinese Checkers game
 Comment[de]=GGZ Halmaspiel
 Icon=kcc
+TryExec=/usr/lib/ggz/kcc
 Exec=/usr/lib/ggz/kcc
 Terminal=false
 Categories=X-GGZ-Games;BoardGame;Game;KDE;Qt;

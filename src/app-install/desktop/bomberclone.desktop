@@ -5,6 +5,7 @@ Type=Application
 Name=Bomberclone
 Comment=Play a Bomberman like game
 Icon=bomberclone
+TryExec=bomberclone
 Exec=bomberclone
 Terminal=false
 Categories=Game;

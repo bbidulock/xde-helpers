@@ -7,6 +7,7 @@ Comment=View and temporarily install all kinds of fonts.
 Comment[fr]=Fonty Python est aussi approprié pour visionner vos fichiers TTF où qu'ils soient sur votre ordinateur.
 Comment[it]=
 Icon=fontypython
+TryExec=fontypython
 Exec=fontypython
 Terminal=false
 Categories=Graphics;

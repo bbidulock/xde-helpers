@@ -6,6 +6,7 @@ Name=Gerbv Gerber File Viewer
 GenericName=Gerber File Viewer
 Comment=Gerber file viewer for PCB design
 Icon=gerbv
+TryExec=gerbv
 Exec=gerbv %F
 Terminal=false
 Categories=Electronics;Science;Education;

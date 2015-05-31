@@ -15,6 +15,7 @@ Comment[de]=Gridjobbearbeitungswerkzeug
 Comment[ru]=Инструмент обращания гридових задачи
 Comment[sv]=Gridjobbhanteringsverktyg
 Icon=arcjobtool
+TryExec=arcjobtool
 Exec=arcjobtool
 Terminal=false
 Categories=Network;

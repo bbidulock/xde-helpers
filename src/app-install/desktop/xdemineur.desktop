@@ -5,6 +5,7 @@ Type=Application
 Name=Xdemineur
 Comment=Yet another minesweeper for X
 Icon=_usr_share_pixmaps_xdemineur-icon
+TryExec=/usr/games/xdemineur
 Exec=/usr/games/xdemineur
 Terminal=false
 MimeType=

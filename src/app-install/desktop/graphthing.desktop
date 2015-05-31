@@ -10,6 +10,7 @@ Comment=Create, manipulate and study graphs.
 Comment[en]=Create, manipulate and study graphs.
 Comment[fr]=Création, manipulation et étude de graphes.
 Icon=graphthing
+TryExec=graphthing
 Exec=graphthing
 Terminal=false
 Categories=Math;Science;Education;

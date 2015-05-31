@@ -132,6 +132,7 @@ Comment[vi]=Lịch màn hình
 Comment[zh_CN]=桌面日历
 Comment[zh_TW]=桌面月曆
 Icon=xfcalendar
+TryExec=orage
 Exec=orage
 Terminal=false
 OnlyShowIn=XFCE;

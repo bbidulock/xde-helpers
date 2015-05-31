@@ -6,6 +6,7 @@ Name=Keen
 Comment=Game based on KenKen
 Comment[de]=Auf KenKen basierendes Puzzlespiel
 Icon=keen
+TryExec=keen
 Exec=keen
 Terminal=false
 Categories=Game;LogicGame;

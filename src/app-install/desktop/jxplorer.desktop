@@ -6,6 +6,7 @@ Name=JXplorer
 GenericName=LDAP Browser
 Comment=Java LDAP Browser
 Icon=jxplorer
+TryExec=jxplorer
 Exec=jxplorer
 Terminal=false
 Categories=Network;Development;

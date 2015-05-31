@@ -58,6 +58,7 @@ Comment[sk]=Zobraziť a nainštalovať softvérové balíky
 Comment[sv]=Installera och visa programvarupaket
 Comment[tr]=Yazılım paketlerini kur ve izle
 Icon=application-x-deb
+TryExec=gdebi-kde
 Exec=gdebi-kde
 Terminal=false
 OnlyShowIn=KDE;

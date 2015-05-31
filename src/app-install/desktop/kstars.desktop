@@ -193,6 +193,7 @@ Comment[xh]=Indlu ye Desktop
 Comment[zh_CN]=桌面天文馆
 Comment[zh_TW]=桌面星象儀
 Icon=kstars
+TryExec=kstars
 Exec=kstars -caption "%c" %i
 X-DBUS-StartupType=Multi
 Terminal=false

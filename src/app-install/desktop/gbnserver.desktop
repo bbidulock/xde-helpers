@@ -9,6 +9,7 @@ Comment=Gnome Batalla Naval server
 Comment[es]=Servidor Gnome del Batalla Naval
 Comment[ja]=GNOME \xB3\xA4\xC0沈\xA1\xBC\xA5\xE0 (\xA5\xB5\xA1\xBC\xA5\xD0)
 Icon=gnome-gbatnavd.png
+TryExec=gbnserver
 Exec=gbnserver
 Terminal=false
 StartupNotify=false

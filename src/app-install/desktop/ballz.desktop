@@ -5,6 +5,7 @@ Type=Application
 Name=B.A.L.L.Z.
 Comment=Platform game with some puzzle elements
 Icon=ballz.png
+TryExec=ballz
 Exec=ballz
 Terminal=false
 Categories=Game;ActionGame;

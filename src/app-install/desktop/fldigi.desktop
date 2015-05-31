@@ -6,6 +6,7 @@ Name=Fldigi
 GenericName=Amateur Radio Digital Modem
 Comment=Amateur Radio Sound Card Communications
 Icon=fldigi
+TryExec=fldigi
 Exec=fldigi
 Terminal=false
 Categories=Network;HamRadio;

@@ -5,6 +5,7 @@ Type=Application
 Name=gDevilspie
 Comment=GUI for devilspie matching daemon
 Icon=gdevilspie
+TryExec=gdevilspie
 Exec=gdevilspie
 Terminal=false
 Categories=GNOME;Utility;

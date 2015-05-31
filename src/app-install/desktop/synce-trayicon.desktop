@@ -8,6 +8,7 @@ GenericName=SynCE Tray Icon
 GenericName[sv]=SynCE Notifierings Ikon
 Comment=SynCE PDA control for GNOME
 Icon=synce-color
+TryExec=/usr/bin/synce-trayicon
 Exec=/usr/bin/synce-trayicon
 Terminal=false
 Categories=GNOME;GTK;Utility;

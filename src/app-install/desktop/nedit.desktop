@@ -7,6 +7,7 @@ GenericName=Text editor
 GenericName[en]=Text editor
 GenericName[nl]=Tekst verwerker
 Icon=Nedit
+TryExec=nedit
 Exec=nedit
 Terminal=false
 Categories=Motif;Utility;TextTools;

@@ -8,6 +8,7 @@ GenericName[de]=GGZ Gaming Zone-Client im Vollbildmodus
 Comment=GGZ Core Client
 Comment[de]=GGZ-Core-Client
 Icon=
+TryExec=/usr/games/vibora
 Exec=/usr/games/vibora
 Terminal=false
 Categories=X-GGZ;Network;

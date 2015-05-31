@@ -15,6 +15,7 @@ Comment[de]=Ein elektronischer "Tresor"
 Comment[fr]=Un coffre-fort électronique
 Comment[it_IT]=Una cassaforte elettronica
 Icon=_usr_share_pixmaps_gringotts
+TryExec=gringotts
 Exec=gringotts
 Terminal=false
 StartupNotify=false

@@ -145,6 +145,7 @@ Comment[uk]=Впорядкуйте ваші фотографії
 Comment[zh_CN]=组织您的照片
 Comment[zh_TW]=整理您的相片
 Icon=shotwell
+TryExec=shotwell
 Exec=shotwell %U
 Terminal=false
 Categories=Graphics;Photography;GNOME;GTK;

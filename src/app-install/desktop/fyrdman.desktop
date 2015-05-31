@@ -10,6 +10,7 @@ Comment=Join the battle of 1066
 Comment[de]=Nimm an der Schlacht von 1066 teil
 Comment[fr]=Participe dans la bataille de 1066
 Icon=fyrdman
+TryExec=/usr/lib/ggz/fyrdman
 Exec=/usr/lib/ggz/fyrdman
 Terminal=false
 Categories=X-GGZ-Games;StrategyGame;Game;KDE;Qt;

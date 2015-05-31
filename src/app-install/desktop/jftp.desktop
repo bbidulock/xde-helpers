@@ -6,6 +6,7 @@ Name=JFTP
 GenericName=JFTP
 Comment=Java GUI client for FTP, SMB, SFTP and NFS
 Icon=jftp.xpm
+TryExec=jftp
 Exec=jftp %u
 Terminal=false
 Categories=Java;Network;FileTransfer;

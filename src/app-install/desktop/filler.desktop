@@ -6,6 +6,7 @@ Name=Filler
 Comment=Filler in Java Game
 Comment[pl]=Filler w Javie
 Icon=filler.png
+TryExec=filler
 Exec=filler
 Terminal=false
 StartupNotify=false

@@ -8,6 +8,7 @@ Comment=Create Web Pages
 Comment[es]=Crea pÃ¡ginas web
 Comment[it]=Creare pagine Web
 Icon=kompozer
+TryExec=kompozer
 Exec=kompozer
 Terminal=false
 Categories=Development;WebDevelopment;Network;

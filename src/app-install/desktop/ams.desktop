@@ -5,6 +5,7 @@ Type=Application
 Name=Alsa Modular Synth
 Comment=Modular Software Synth
 Icon=ams_32
+TryExec=ams
 Exec=ams
 Terminal=false
 Categories=GNOME;AudioVideo;Audio;

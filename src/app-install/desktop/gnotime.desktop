@@ -5,6 +5,7 @@ Type=Application
 Name=GnoTime Tracking Tool
 Comment=To-Do List Organizer, Diary and Billing System
 Icon=gnome-cromagnon.png
+TryExec=gnotime
 Exec=gnotime
 Terminal=false
 Categories=Application;Office;ProjectManagement;GNOME;

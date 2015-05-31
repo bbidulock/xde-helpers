@@ -7,6 +7,7 @@ GenericName=Furius ISO Mount
 Comment=Manage ISO, IMG, BIN, MDF and NRG images
 Comment[it]=Gestire immagini ISO, IMG, BIN, MDF e NRG
 Icon=furiusisomount
+TryExec=furiusisomount
 Exec=furiusisomount
 Terminal=false
 Categories=Utility;DiscBurning;

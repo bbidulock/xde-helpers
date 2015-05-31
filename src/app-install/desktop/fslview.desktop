@@ -8,6 +8,7 @@ GenericName[de]=Betrachter für MRT-Daten
 Comment=This program is part of FSL
 Comment[de]=Dieses Programm gehört zu FSL
 Icon=fslview.xpm
+TryExec=fslview
 Exec=fslview %F
 Terminal=false
 Categories=Education;Graphics;Science;DataVisualization;MedicalSoftware;Qt;Viewer;

@@ -5,6 +5,7 @@ Type=Application
 Name=Grace
 Comment=An XY plotting tool
 Icon=grace
+TryExec=xmgrace
 Exec=xmgrace %f
 Terminal=false
 Categories=Education;Math;Science;Motif;

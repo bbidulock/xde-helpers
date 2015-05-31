@@ -148,6 +148,7 @@ Comment[zh_CN]=使用 Math 创建并编辑科学公式和方程式。
 Comment[zh_TW]=使用 Math 可建立與編輯科學公式與方程式。
 Comment[zu]=Yenza futhi ulungise amafomula ezesayensi nama-ikhuweyjini ngokusebenzisa into yeziBalo.
 Icon=openofficeorg3-math
+TryExec=ooffice
 Exec=ooffice -math %U
 Terminal=false
 Categories=Office;

@@ -5,6 +5,7 @@ Type=Application
 Name=Greenwich Whois Client
 Comment=Get information about domain names and IP addresses
 Icon=greenwich.png
+TryExec=greenwich
 Exec=greenwich 
 Terminal=false
 Categories=Application;Network;

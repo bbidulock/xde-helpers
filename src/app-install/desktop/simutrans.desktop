@@ -5,6 +5,7 @@ Type=Application
 Name=Simutrans
 Comment=Transportation simulator
 Icon=simutrans.xpm
+TryExec=simutrans
 Exec=simutrans
 Terminal=false
 Categories=Game;Simulation;

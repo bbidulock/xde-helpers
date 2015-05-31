@@ -5,6 +5,7 @@ Type=Application
 Name=Esperanza
 Comment=XMMS2 client which aims to be as feature-full and easy-to-use as possible
 Icon=xmms2
+TryExec=esperanza
 Exec=esperanza
 Terminal=false
 Categories=Qt;AudioVideo;Audio;Player;

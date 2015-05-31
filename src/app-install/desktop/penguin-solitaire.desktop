@@ -6,6 +6,7 @@ Name=Penguin Solitaire
 GenericName=
 Comment=
 Icon=
+TryExec=/usr/games/ace-solitaire
 Exec=/usr/games/ace-solitaire
 Terminal=false
 Categories=Game;CardGame;

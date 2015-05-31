@@ -5,6 +5,7 @@ Type=Application
 Name=PyPE
 Comment=Python Programmers Editor
 Icon=pype
+TryExec=pype
 Exec=pype
 Terminal=false
 Categories=GTK;GNOME;Development;

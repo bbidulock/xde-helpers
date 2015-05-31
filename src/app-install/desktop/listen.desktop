@@ -55,6 +55,7 @@ Comment[ru]=Слушай, просматривай или редактируй �
 Comment[sv]=Lyssna på, bläddra i eller redigera din ljudsamling
 Comment[tr]=Şarkılarınız dinleyin, göz atın ve düzenleyin
 Icon=listen
+TryExec=listen
 Exec=listen
 Terminal=false
 Categories=AudioVideo;Audio;Music;Player;GTK;GNOME;

@@ -111,6 +111,7 @@ GenericName[x-test]=xxBall Bouncing Gamexx
 GenericName[zh_CN]=弹球游戏
 GenericName[zh_TW]=彈力球遊戲
 Icon=kbounce
+TryExec=kbounce
 Exec=kbounce -caption "%c"
 X-DBUS-StartupType=Multi
 Terminal=false

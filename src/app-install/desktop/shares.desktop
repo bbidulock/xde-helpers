@@ -152,6 +152,7 @@ Comment[zh_CN]=配置哪些文件夹可共享给网络邻居
 Comment[zh_HK]=設定那一個資料夾共享給你的網絡芳鄰
 Comment[zh_TW]=設定那一個資料夾共享給您的網路芳鄰
 Icon=folder-remote
+TryExec=shares-admin
 Exec=shares-admin
 Terminal=false
 NoDisplay=true

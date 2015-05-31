@@ -5,6 +5,7 @@ Type=Application
 Name=Tangerine Media Sharing
 Comment=Share your music with close friends
 Icon=tangerine
+TryExec=tangerine-properties
 Exec=tangerine-properties
 Terminal=false
 Categories=Application;Settings;Music;X-SuSE-ControlCenter-System;

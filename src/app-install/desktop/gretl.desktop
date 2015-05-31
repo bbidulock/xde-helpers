@@ -5,6 +5,7 @@ Type=Application
 Name=gretl
 Comment=Econometrics program
 Icon=gretl.xpm
+TryExec=gretl
 Exec=gretl %f
 Terminal=false
 Categories=Application;Science;Econometrics

@@ -5,6 +5,7 @@ Type=Application
 Name=FreeTennis
 Comment=Free Tennis - a free tennis simulation
 Icon=freetennis
+TryExec=freetennis
 Exec=freetennis -newbie
 Terminal=false
 Categories=Game;SportsGame;

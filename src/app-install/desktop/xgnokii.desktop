@@ -17,6 +17,7 @@ Comment[de]=Verwalten Sie Ihr Mobiltelefon
 Comment[it]=Gestisce il proprio cellulare
 Comment[pl]=Zarządzaj swoim telefonem komórkowym
 Icon=phone
+TryExec=xgnokii
 Exec=xgnokii
 Terminal=false
 Categories=Utility;TelephonyTools;Calendar;ContactManagement;Office;GTK;

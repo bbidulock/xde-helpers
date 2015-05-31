@@ -9,6 +9,7 @@ GenericName[en_US]=MCU 8051 IDE
 Comment=Graphical IDE for MCS-51 based microcontrollers
 Comment[en_US]=Graphical IDE for MCS-51 based microcontrollers
 Icon=mcu8051ide
+TryExec=mcu8051ide
 Exec=mcu8051ide
 X-DCOP-ServiceType=
 Terminal=false

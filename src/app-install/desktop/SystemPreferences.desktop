@@ -7,6 +7,7 @@ Name[bg]=Настройки на системата
 Comment=GNUstep preferences application
 Comment[bg]=Настройки на GNUstep
 Icon=/usr/lib/GNUstep/Applications/SystemPreferences.app/Resources/SystemPreferences.tiff
+TryExec=SystemPreferences
 Exec=SystemPreferences
 Terminal=false
 Categories=Settings;DesktopSettings;

@@ -5,6 +5,7 @@ Type=Application
 Name=BitPim
 Comment=CDMA Mobile Phone Tool
 Icon=_usr_share_bitpim_resources_bitpim
+TryExec=/usr/bin/bitpim
 Exec=/usr/bin/bitpim
 Terminal=false
 Categories=Utility;Calendar;ContactManagement;

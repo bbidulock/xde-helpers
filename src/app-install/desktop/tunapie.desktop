@@ -5,6 +5,7 @@ Type=Application
 Name=Tunapie
 Comment=Lists audio and video streams from shoutcast and icecast
 Icon=tplogo.xpm
+TryExec=tunapie
 Exec=tunapie
 Terminal=false
 Categories=AudioVideo

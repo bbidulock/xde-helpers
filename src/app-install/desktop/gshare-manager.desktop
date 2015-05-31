@@ -23,6 +23,7 @@ Comment[pt]=Configurar o serviço de partilha de ficheiros
 Comment[pt_BR]=Configurar o serviço de compartilhamento de arquivos
 Comment[sv]=Konfigurera fildelningstjänsten
 Icon=folder-remote
+TryExec=gshare-manager
 Exec=gshare-manager
 Terminal=false
 OnlyShowIn=GNOME;

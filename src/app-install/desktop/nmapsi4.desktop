@@ -8,6 +8,7 @@ Comment[it]=Interfaccia Qt4 per nmap
 Comment[ru]=Qt4 интерфейс для сканера nmap
 Comment[uk]=Qt4 інтерфейс для сканера nmap
 Icon=_usr_share_icons_hicolor_32x32_apps_nmapsi4
+TryExec=nmapsi4
 Exec=nmapsi4
 Terminal=false
 Categories=Qt;Application;System;Security;

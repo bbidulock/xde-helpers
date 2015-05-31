@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=Gravitation
 Icon=gravitation
+TryExec=gravitation
 Exec=gravitation
 Terminal=false
 Categories=Game;AdventureGame;

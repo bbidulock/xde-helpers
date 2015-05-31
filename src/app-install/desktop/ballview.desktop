@@ -5,6 +5,7 @@ Type=Application
 Name=BALLView
 GenericName=Molecular modeling and visualization tool
 Icon=ballview
+TryExec=BALLView
 Exec=BALLView
 Terminal=false
 Categories=Education;Science;Chemistry;

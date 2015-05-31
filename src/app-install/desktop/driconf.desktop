@@ -5,6 +5,7 @@ Type=Application
 Name=3D Acceleration
 Comment=Change 3D Acceleration options
 Icon=_usr_share_driconf_driconf-icon
+TryExec=driconf
 Exec=driconf
 Terminal=false
 Categories=GNOME;Application;Settings;AdvancedSettings;

@@ -15,6 +15,7 @@ Comment[it]=Un semplice programma per gestire router compatibili con UPnP IGD
 Comment[nl]=Een eenvoudig programma om UPnP IGD-ondersteunde routers te beheren
 Comment[pl]=Program do zarządzanie routerami zgodnymi z UPnP IGD
 Icon=upnp-router-control
+TryExec=upnp-router-control
 Exec=upnp-router-control
 Terminal=false
 Categories=Utility;

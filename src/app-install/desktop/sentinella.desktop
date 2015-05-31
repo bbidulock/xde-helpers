@@ -18,6 +18,7 @@ GenericName[ru]=Исполнитель действий согласно сис�
 GenericName[sv]=Åtgärdsaktiverare baserad på systemets aktiviteter
 GenericName[zh_CN]=基于系统状态的命令启动器
 Icon=sentinella
+TryExec=sentinella
 Exec=sentinella -caption "%c" %i
 Terminal=false
 Categories=System;Monitor;Qt;

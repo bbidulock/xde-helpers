@@ -6,6 +6,7 @@ Name=xjadeo
 GenericName=X jack video monitor
 Comment=A simple video player that gets sync from jack transport.
 Icon=qjadeo
+TryExec=/usr/bin/qjadeo
 Exec=/usr/bin/qjadeo
 Terminal=false
 Categories=AudioVideo;Video;Player;

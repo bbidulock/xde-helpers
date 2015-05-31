@@ -7,6 +7,7 @@ Comment=Place tents in some of the remaining squares, under some conditions
 Comment[de]=Positioniere Zelte gemäß bestimmter Bedingungen in einige der verbliebenen Quadrate
 Comment[fr]=Placer des tentes aux places restantes, sous certaines conditions
 Icon=tents
+TryExec=tents
 Exec=tents
 Terminal=false
 Categories=Game;LogicGame;

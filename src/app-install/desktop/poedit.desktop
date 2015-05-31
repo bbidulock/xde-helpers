@@ -6,6 +6,7 @@ Name=Poedit
 Comment=Gettext catalogs editor
 Comment[fr]=Outil de traduction
 Icon=poedit.png
+TryExec=poeditor
 Exec=poeditor
 Terminal=false
 Categories=Application;Development;Translation;

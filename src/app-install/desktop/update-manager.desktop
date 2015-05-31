@@ -182,6 +182,7 @@ Comment[zh_CN]=显示并安装可用更新
 Comment[zh_HK]=顯示及安裝現有的更新套件
 Comment[zh_TW]=顯示及安裝現有的更新套件
 Icon=update-manager
+TryExec=/usr/bin/update-manager
 Exec=/usr/bin/update-manager
 Terminal=false
 Categories=System;Settings;

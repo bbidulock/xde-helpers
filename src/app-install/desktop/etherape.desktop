@@ -5,6 +5,7 @@ Type=Application
 Name=EtherApe
 Comment=Graphical Network Monitor
 Icon=etherape.png
+TryExec=etherape
 Exec=etherape
 Terminal=false
 Categories=GNOME;System;Network;

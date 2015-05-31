@@ -5,6 +5,7 @@ Type=Application
 Name=DBModeler
 Comment=Database Access Modeler
 Icon=_usr_share_GNUstep_DBModeler.app_DBModeler
+TryExec=DBModeler
 Exec=DBModeler
 Terminal=false
 Categories=Database;Development;

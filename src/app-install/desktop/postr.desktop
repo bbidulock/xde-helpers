@@ -5,6 +5,7 @@ Type=Application
 Name=Flickr Uploader
 Comment=Upload photos to Flickr
 Icon=postr
+TryExec=postr
 Exec=postr %F
 Terminal=false
 Categories=GNOME;GTK;Graphics;

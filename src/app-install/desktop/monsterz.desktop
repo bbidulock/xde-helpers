@@ -5,6 +5,7 @@ Type=Application
 Name=Monsterz
 Comment=Little arcade puzzle game, similar to the famous Bejeweled
 Icon=_usr_share_games_monsterz_graphics_icon
+TryExec=monsterz
 Exec=monsterz
 Terminal=false
 Categories=Game;ArcadeGame;

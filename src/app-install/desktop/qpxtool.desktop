@@ -8,6 +8,7 @@ GenericName[ru]=Проверка качества носителей CD/DVD
 Comment=CD/DVD media quality checker
 Comment[ru]=Проверка качества носителей CD/DVD
 Icon=qpxtool
+TryExec=qpxtool
 Exec=qpxtool
 Terminal=false
 Categories=System;

@@ -5,6 +5,7 @@ Type=Application
 Name=Referencer
 Comment=Document organiser
 Icon=referencer
+TryExec=referencer
 Exec=referencer %F
 Terminal=false
 Categories=GNOME;Application;Office;

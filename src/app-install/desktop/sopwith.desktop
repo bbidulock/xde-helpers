@@ -5,6 +5,7 @@ Type=Application
 Name=Sopwith
 Comment=WW1 Dogfighting Game
 Icon=sopwith.png
+TryExec=sopwith
 Exec=sopwith
 Terminal=false
 Categories=Game;ArcadeGame;

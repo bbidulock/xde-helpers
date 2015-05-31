@@ -5,6 +5,7 @@ Type=Application
 Name=Hexter
 Comment=Yamaha DX7 modeling DSSI plugin
 Icon=/usr/share/pixmaps/hexter.xpm
+TryExec=jack-dssi-host
 Exec=jack-dssi-host hexter.so
 Terminal=false
 Categories=GNOME;Application;AudioVideo;Audio;Synthesis;

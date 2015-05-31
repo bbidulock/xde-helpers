@@ -15,6 +15,7 @@ Comment[hu]=ADSL/PPPOE kapcsolat beállítása
 Comment[lt]=Konfigūruoti ADSL/PPPOE interneto ryšį
 Comment[ro]=Configurare conexiune ADSL/PPPOE
 Icon=_usr_share_pixmaps_pppoeconf
+TryExec=/usr/sbin/pppoeconf
 Exec=/usr/sbin/pppoeconf
 Terminal=true
 Categories=System;Settings;HardwareSettings

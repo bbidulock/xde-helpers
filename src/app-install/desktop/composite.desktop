@@ -6,6 +6,7 @@ Name=Composite
 GenericName=Sequencer
 Comment=Live performance sequencer, sampler, looper
 Icon=composite-icon
+TryExec=composite-gui
 Exec=composite-gui %F
 Terminal=false
 Categories=AudioVideo;X-Sound;Audio;Qt;

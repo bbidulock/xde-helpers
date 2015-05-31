@@ -7,6 +7,7 @@ Name[lt]=Žodynas „OpenDict“
 Comment=Lookup words in a local or Internet dictionary 
 Comment[lt]=Ieškoti žodžių kompiuterio arba Interneto žodyne
 Icon=opendict
+TryExec=opendict
 Exec=opendict
 Terminal=false
 Categories=GTK;Utility;Dictionary;

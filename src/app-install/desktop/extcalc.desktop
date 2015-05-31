@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=Extcalc
 Icon=_usr_share_icons_icon48
+TryExec=extcalc
 Exec=extcalc
 Terminal=false
 Categories=Qt;Utility

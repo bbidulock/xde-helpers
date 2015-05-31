@@ -6,6 +6,7 @@ Name=zyGrib GRIB file viewer
 GenericName=GRIB file viewer
 Comment=Multi-protocol Messaging Client
 Icon=zygrib.png
+TryExec=zyGrib
 Exec=zyGrib
 Terminal=false
 Categories=Application;Meteorology;

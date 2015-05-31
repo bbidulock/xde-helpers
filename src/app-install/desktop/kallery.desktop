@@ -8,6 +8,7 @@ GenericName=Image Gallery Generator
 Comment=
 Comment[de]=
 Icon=kallery.png
+TryExec=kallery
 Exec=kallery -caption "%c" %i %m  
 Terminal=false
 Categories=Qt;KDE;Graphics

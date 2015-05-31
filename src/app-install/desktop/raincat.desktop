@@ -8,6 +8,7 @@ GenericName[es]=Juego de lógica
 Comment=2D puzzle game featuring a fuzzy little cat
 Comment[es]=Rompecabezas en 2D protagonizado por un lindo gatito
 Icon=raincat
+TryExec=raincat
 Exec=raincat
 Terminal=false
 Categories=Game;KidsGame;

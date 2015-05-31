@@ -7,6 +7,7 @@ Comment=GUI designer written in Python with wxPython
 Comment[es_ES.UTF-8]=Desarrollador de GUI escrito en Python con wxPython
 Comment[fr_FR.UTF-8]=Outil de développement rapide écrit en Python avec wxPython
 Icon=wxglade
+TryExec=wxglade
 Exec=wxglade
 Terminal=false
 Categories=Development;

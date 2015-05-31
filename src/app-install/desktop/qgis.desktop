@@ -6,6 +6,7 @@ Name=Quantum GIS
 GenericName=Geographical Information System
 GenericName[de]=Geographisches Informationssystem
 Icon=qgis-icon
+TryExec=/usr/bin/qgis
 Exec=/usr/bin/qgis %F
 Terminal=false
 Categories=Qt;Education;Science;Geography;

@@ -7,6 +7,7 @@ GenericName=Freevo
 Comment=Playing various multimedia formats, like pictures, audio or video. 
 Comment[de]=Wiedergabe verschiedenster Multimediaformate, wie z.B. Fotos, Musik oder Videos. 
 Icon=_usr_share_pixmaps_freevo
+TryExec=freevo
 Exec=freevo
 Terminal=false
 Categories=Application;AudioVideo;X-Ximian-Main;X-Red-Hat-Base;

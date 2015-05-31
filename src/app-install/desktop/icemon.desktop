@@ -42,6 +42,7 @@ Comment[tr]=Icecream derleme ağı için bir izleyici
 Comment[uk]=Монітор мережі компіляції Icecream
 Comment[x-test]=xxA monitor for an Icecream compilation networkxx
 Icon=icemon
+TryExec=icemon
 Exec=icemon
 Terminal=false
 Categories=Qt;KDE;Development;

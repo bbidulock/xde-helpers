@@ -112,6 +112,7 @@ GenericName[x-test]=xxUML Modellerxx
 GenericName[zh_CN]=UML 建模工具
 GenericName[zh_TW]=UML Modeller
 Icon=umbrello
+TryExec=umbrello
 Exec=umbrello -caption "%c"
 Terminal=false
 Categories=Qt;KDE;Development;

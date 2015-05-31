@@ -6,6 +6,7 @@ Name=Bos Wars
 GenericName=boswars
 Comment=Battle for survival
 Icon=boswars
+TryExec=boswars
 Exec=boswars
 Terminal=false
 Categories=Game;StrategyGame;

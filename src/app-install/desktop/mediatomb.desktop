@@ -5,6 +5,7 @@ Type=Application
 Name=MediaTomb
 Comment=MediaTomb UPnP MediaServer web user interface.
 Icon=mediatomb.png
+TryExec=/usr/bin/x-www-browser
 Exec=/usr/bin/x-www-browser /var/lib/mediatomb/mediatomb.html
 Terminal=false
 Categories=AudioVideo;

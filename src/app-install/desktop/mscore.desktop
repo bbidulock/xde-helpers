@@ -8,6 +8,7 @@ GenericName[ru]=MuseScore
 Comment=WYSIWYG Music score typesetter
 Comment[ru]=Визуальный редактор нотных партитур
 Icon=mscore
+TryExec=mscore
 Exec=mscore
 Terminal=false
 Categories=Qt;Audio;Sequencer;Midi;AudioVideoEditing;Music;AudioVideo;

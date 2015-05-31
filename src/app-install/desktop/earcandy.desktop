@@ -5,6 +5,7 @@ Type=Application
 Name=Ear Candy
 Comment=Gracefully fade applications volume in and out
 Icon=earsLabel
+TryExec=earcandy
 Exec=earcandy
 Terminal=false
 Categories=Utility;

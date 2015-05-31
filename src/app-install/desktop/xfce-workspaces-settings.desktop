@@ -94,6 +94,7 @@ Comment[ur]=مقام کاروں کی تعداد اور نام متعین کری�
 Comment[ur_PK]=مقام کاروں کی تعداد اور نام متعین کریں
 Comment[zh_CN]=设置工作区数目：
 Icon=xfce4-workspaces
+TryExec=xfwm4-workspace-settings
 Exec=xfwm4-workspace-settings
 Terminal=false
 OnlyShowIn=XFCE;

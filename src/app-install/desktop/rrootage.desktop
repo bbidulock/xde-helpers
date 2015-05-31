@@ -6,6 +6,7 @@ Name=rRootage
 GenericName=rrootage
 Comment=Destroy autocreated battleships
 Icon=rrootage.xpm
+TryExec=rrootage
 Exec=rrootage
 Terminal=false
 Categories=Game;ArcadeGame;

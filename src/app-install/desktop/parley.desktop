@@ -114,6 +114,7 @@ GenericName[xh]=Uqeqeshi Wonobumba ababekwe ngokulandelelana
 GenericName[zh_CN]=单词练习
 GenericName[zh_TW]=字彙訓練師
 Icon=parley
+TryExec=parley
 Exec=parley %u
 Terminal=false
 Categories=Qt;KDE;Education;Languages;

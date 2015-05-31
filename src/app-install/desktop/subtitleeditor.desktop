@@ -6,6 +6,7 @@ Name=Subtitle Editor
 GenericName=Subtitle Editor
 Comment=A subtitle editor based on GStreamer and Gtk+
 Icon=subtitleeditor
+TryExec=subtitleeditor
 Exec=subtitleeditor %F
 Terminal=false
 Categories=Audio;AudioVideo;AudioVideoEditing;

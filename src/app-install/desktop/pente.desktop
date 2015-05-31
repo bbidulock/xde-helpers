@@ -5,6 +5,7 @@ Type=Application
 Name=Pente
 Comment=Five in a row game for X
 Icon=pente
+TryExec=pente
 Exec=pente
 Terminal=false
 Categories=Game;BoardGame;

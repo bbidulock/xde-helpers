@@ -146,6 +146,7 @@ Comment[zh_CN]=避免碰到机器人并让它们撞在一起
 Comment[zh_HK]=避開機械人，並引導它們互相碰撞
 Comment[zh_TW]=避開機器人，並引導它們互相碰撞
 Icon=gnome-robots
+TryExec=gnobots2
 Exec=gnobots2
 Terminal=false
 Categories=GNOME;GTK;Game;ArcadeGame;

@@ -95,3 +95,7 @@ X-AppInstall-Package=qt4-designer
 X-AppInstall-Popcon=521
 X-AppInstall-Section=main
 X-Arch-Package=qt4 4.8.6-6
+X-Arch-Package-Name=qt4
+X-Arch-Package-Version=4.8.6-6
+X-Arch-Package-Description=A cross-platform application and UI framework
+X-Arch-Package-URL=http://qt-project.org/

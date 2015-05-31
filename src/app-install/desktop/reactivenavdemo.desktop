@@ -5,6 +5,7 @@ Type=Application
 Name=Reactive Navigation Demo
 Comment=Robotics Simulation
 Icon=reactivenav
+TryExec=ReactiveNavigationDemo
 Exec=ReactiveNavigationDemo
 X-MultipleArgs=false
 Terminal=false

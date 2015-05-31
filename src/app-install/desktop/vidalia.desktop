@@ -5,6 +5,7 @@ Type=Application
 Name=Vidalia
 GenericName=Tor GUI
 Icon=vidalia
+TryExec=vidalia
 Exec=vidalia
 Terminal=false
 Categories=Qt;Network;

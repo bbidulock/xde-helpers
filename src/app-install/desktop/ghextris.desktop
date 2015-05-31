@@ -7,6 +7,7 @@ Name[fi]=Ghextris
 Comment=Fit falling blocks together on a hexagonal grid
 Comment[fi]=Sovita putoavat palikat yhteen heksaruudukolla
 Icon=_usr_share_games_ghextris_ghextris
+TryExec=ghextris
 Exec=ghextris
 Terminal=false
 Categories=GNOME;Application;Game;BlocksGame;

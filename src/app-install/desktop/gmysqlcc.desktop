@@ -5,6 +5,7 @@ Type=Application
 Name=GMySQLcc
 Comment=Gtk+ MySQL Control Center
 Icon=gmysqlcc-32.png
+TryExec=gmysqlcc
 Exec=gmysqlcc
 Terminal=false
 Categories=GTK;Development;Database

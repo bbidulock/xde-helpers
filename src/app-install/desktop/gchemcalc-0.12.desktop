@@ -19,6 +19,7 @@ Comment[pt_BR]=Uma calculadora simples para químicos
 Comment[ru]=Простой химический калькулятор
 Comment[zh_TW]=化學簡易計算機
 Icon=gchemcalc
+TryExec=gchemcalc-0.12
 Exec=gchemcalc-0.12
 Terminal=false
 Categories=GTK;GNOME;Education;Science;Chemistry;

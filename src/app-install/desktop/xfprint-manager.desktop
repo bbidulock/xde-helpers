@@ -137,6 +137,7 @@ Comment[vi]=Hiển thị danh sách máy in và cho phép quản lý công việ
 Comment[zh_CN]=显示打印列表，允许你管理其任务
 Comment[zh_TW]=顯示印表機清單，讓您管理其作業
 Icon=printer
+TryExec=xfprint4-manager
 Exec=xfprint4-manager
 Terminal=false
 OnlyShowIn=XFCE;

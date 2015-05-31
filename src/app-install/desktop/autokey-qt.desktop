@@ -6,6 +6,7 @@ Name=AutoKey (QT)
 GenericName=Keyboard Automation
 Comment=Program keyboard shortcuts
 Icon=_usr_share_pixmaps_akicon
+TryExec=autokey-qt
 Exec=autokey-qt
 Terminal=false
 Categories=KDE;Utility;

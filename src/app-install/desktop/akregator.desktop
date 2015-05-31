@@ -142,6 +142,7 @@ Comment[x-test]=xxA Feed Reader for KDExx
 Comment[zh_CN]=KDE 的RSS 种子阅读器
 Comment[zh_TW]=KDE 的 RSS Feed 閱讀器
 Icon=akregator
+TryExec=akregator
 Exec=akregator %i -caption "%c"
 X-DBUS-StartupType=Unique
 Terminal=false

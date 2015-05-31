@@ -5,6 +5,7 @@ Type=Application
 Name=Pointing devices
 Comment=Set your mouse and touchpad preferences
 Icon=input-mouse
+TryExec=gpointing-device-settings
 Exec=gpointing-device-settings
 Terminal=false
 OnlyShowIn=GNOME;

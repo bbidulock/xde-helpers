@@ -6,6 +6,7 @@ Name=Meritous
 GenericName=
 Comment=action-adventure dungeon crawl game
 Icon=meritous
+TryExec=meritous
 Exec=meritous
 Terminal=false
 Categories=Application;Game;AdventureGame;

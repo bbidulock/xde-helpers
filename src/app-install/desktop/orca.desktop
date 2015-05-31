@@ -210,6 +210,7 @@ Comment[zh_CN]=将画面信息以语音或点字展示，或放大画面
 Comment[zh_HK]=將畫面資訊以語音或點字展示，或放大畫面
 Comment[zh_TW]=將畫面資訊以語音或點字展示，或放大畫面
 Icon=orca
+TryExec=orca
 Exec=orca --replace
 Terminal=false
 Categories=GTK;GNOME;Utility;Accessibility;

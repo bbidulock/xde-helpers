@@ -5,6 +5,7 @@ Type=Application
 Name=Sim-IM
 GenericName=SIM Instant Messenger
 Icon=sim.png
+TryExec=sim
 Exec=sim
 Terminal=false
 Categories=Qt;KDE;Network;InstantMessaging;

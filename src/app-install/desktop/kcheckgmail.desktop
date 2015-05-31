@@ -40,6 +40,7 @@ Comment[ru]=Аплет Kicker, показывающая количество п�
 Comment[tr]=Gmail hesabınızda kaç tane yeni e-posta olduğunu gösteren bir panel programcığıdır.
 Comment[zh_CN]=Kicker面板显示你已经收到了多少邮件
 Icon=kcheckgmail
+TryExec=kcheckgmail
 Exec=kcheckgmail
 Terminal=false
 Categories=Qt;KDE;Network;

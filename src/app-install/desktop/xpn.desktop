@@ -68,6 +68,7 @@ Comment[uk]=Читання новин Usenet
 Comment[vi]=Đọc tin tức từ Usenet
 Comment[zh_TW]=從 Usenet 讀取新聞
 Icon=xpn
+TryExec=xpn
 Exec=xpn
 Terminal=false
 Categories=GTK;Application;Network;News

@@ -49,6 +49,7 @@ Comment[zh_CN]=管理您的系统任务
 Comment[zh_HK]=管理系統工作排程
 Comment[zh_TW]=管理系統工作排程
 Icon=_usr_share_pixmaps_gnome-schedule_gnome-schedule
+TryExec=/usr/bin/gnome-schedule
 Exec=/usr/bin/gnome-schedule
 Terminal=false
 Categories=System;

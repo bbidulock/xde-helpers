@@ -6,6 +6,7 @@ Name=Recoll
 GenericName=Local Text Search
 Comment=Find documents by specifying search terms
 Icon=recoll
+TryExec=recoll
 Exec=recoll
 Terminal=false
 Categories=Utility;Filesystem;Database;

@@ -5,6 +5,7 @@ Type=Application
 Name=Crack Attack
 Comment=Puzzle game similar to Tetris Attack
 Icon=crack-attack.xpm
+TryExec=crack-attack
 Exec=crack-attack
 Terminal=false
 Categories=Application;Game;BlocksGame;

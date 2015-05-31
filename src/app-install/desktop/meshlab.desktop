@@ -8,6 +8,7 @@ GenericName=Mesh processing
 GenericName[en_GB]=Mesh processing
 Comment=View and process meshes
 Icon=_usr_share_pixmaps_meshlab_32x32
+TryExec=meshlab
 Exec=meshlab
 Terminal=false
 Categories=Graphics;3DGraphics;Viewer;Qt;

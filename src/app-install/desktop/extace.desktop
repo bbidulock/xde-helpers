@@ -15,6 +15,7 @@ Comment[ko]=¿Àµð¿À ¿þÀÌºê º¸±â
 Comment[no]=Lydbølgemonitor
 Comment[pt]=Visualização gráfica das ondas sonoras
 Icon=extace.png
+TryExec=extace
 Exec=extace
 Terminal=false
 StartupNotify=false

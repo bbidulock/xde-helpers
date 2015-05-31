@@ -5,6 +5,7 @@ Type=Application
 Name=Camera Calibration
 Comment=Camera Calibration GUI
 Icon=cameracalibgui
+TryExec=camera-calib
 Exec=camera-calib
 X-MultipleArgs=false
 Terminal=false

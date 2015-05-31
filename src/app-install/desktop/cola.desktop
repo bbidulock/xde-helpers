@@ -5,6 +5,7 @@ Type=Application
 Name=Cola Git GUI
 Comment=A highly caffeinated git GUI
 Icon=_usr_share_git-cola_icons_git
+TryExec=git-cola
 Exec=git-cola
 Terminal=false
 Categories=Development;RevisionControl;

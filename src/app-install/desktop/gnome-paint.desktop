@@ -13,6 +13,7 @@ Comment[fr]=Créer et modifier des images ou des dessins
 Comment[it]=Creare o modificare immagini o disegni
 Comment[pt_BR]=Crie e Edite Desenhos ou Imagens
 Icon=gp.png
+TryExec=gnome-paint
 Exec=gnome-paint %U
 Terminal=false
 Categories=GNOME;GTK;Graphics;RasterGraphics;

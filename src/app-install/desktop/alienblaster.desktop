@@ -6,6 +6,7 @@ Name=AlienBlaster
 GenericName=2D Action Shooter
 Comment=Blast the invading aliens
 Icon=alienblaster
+TryExec=alienblaster
 Exec=alienblaster
 Terminal=false
 Categories=Game;ActionGame;

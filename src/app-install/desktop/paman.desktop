@@ -5,6 +5,7 @@ Type=Application
 Name=PulseAudio Manager
 Comment=Manager your PulseAudio sound server.
 Icon=audio-card
+TryExec=paman
 Exec=paman
 Terminal=false
 Categories=AudioVideo;Audio;

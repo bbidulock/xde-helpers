@@ -13,6 +13,7 @@ Comment[de]=Wichtige Dateien sichern
 Comment[ja]=重要なファイルをバックアップ
 Comment[ru]=Создание резервных копий важных файлов
 Icon=file-roller.png
+TryExec=pybackpack
 Exec=pybackpack %F
 Terminal=false
 Categories=Application;System;Settings

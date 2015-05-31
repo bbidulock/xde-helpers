@@ -11,6 +11,7 @@ Comment=Push your enemies away, but stay away from obstacles
 Comment[de]=Dränge deine Gegner weg, aber halte dich von Hindernissen Fern
 Comment[fr]=Eliminez-vos enemies en restant à l'écart des obstacles
 Icon=koules.png
+TryExec=koules
 Exec=koules
 Terminal=false
 Categories=Game;ArcadeGame;

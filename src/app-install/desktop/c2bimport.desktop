@@ -8,6 +8,7 @@ GenericName[ca]=Importa referència al cb2Bib
 Comment=Donwload reference to cb2Bib
 Comment[ca]=Importa referència al cb2Bib
 Icon=cb2bib
+TryExec=cb2bib
 Exec=cb2bib --import %f
 Terminal=false
 Categories=Office;

@@ -5,6 +5,7 @@ Type=Application
 Name=JMeter
 Comment=Load testing application
 Icon=_usr_share_pixmaps_jmeter
+TryExec=jmeter
 Exec=jmeter
 Terminal=false
 Categories=Development;

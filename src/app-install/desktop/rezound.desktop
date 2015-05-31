@@ -6,6 +6,7 @@ Name=ReZound
 GenericName=
 Comment=
 Icon=rezound32.xpm
+TryExec=/usr/bin/rezound
 Exec=/usr/bin/rezound --audio-method=jack
 Terminal=false
 Categories=Application;AudioVideo;Audio;

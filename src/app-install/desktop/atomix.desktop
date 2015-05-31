@@ -86,6 +86,7 @@ Comment[vi]=Trò chơi trí tuệ về phân tử
 Comment[zh_HK]=分子組合智力遊戲
 Comment[zh_TW]=分子組合智力遊戲
 Icon=atomix-icon.png
+TryExec=atomix
 Exec=atomix
 Terminal=false
 Categories=GNOME;GTK;Game;PuzzleGame;

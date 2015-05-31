@@ -6,6 +6,7 @@ Name=sdlBasic
 GenericName=sdlBasic
 Comment=Multiplatform basic interpreter for the development of videogames
 Icon=sdlbasic
+TryExec=sdlBasic
 Exec=sdlBasic
 Terminal=false
 Categories=Development;

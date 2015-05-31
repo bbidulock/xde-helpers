@@ -6,6 +6,7 @@ Name=London Law
 Comment=London Law board game with network support
 Comment[de]=Scotland Yard Brettspiel mit Netzwerkunterstützung
 Icon=_usr_share_icons_londonlaw
+TryExec=/usr/games/london-client
 Exec=/usr/games/london-client
 Terminal=false
 Categories=BoardGame;Game;

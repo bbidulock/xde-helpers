@@ -5,6 +5,7 @@ Type=Application
 Name=PyCrust
 Comment=GUI Python Shell with Filling
 Icon=/usr/share/pixmaps/pycrust
+TryExec=/usr/bin/pycrust
 Exec=/usr/bin/pycrust
 Terminal=false
 Categories=Development;

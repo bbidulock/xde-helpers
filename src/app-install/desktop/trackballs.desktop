@@ -5,6 +5,7 @@ Type=Application
 Name=Trackballs
 GenericName=Marble Madness type game
 Icon=trackballs
+TryExec=/usr/games/trackballs
 Exec=/usr/games/trackballs
 Terminal=false
 Categories=Game;ArcadeGame;

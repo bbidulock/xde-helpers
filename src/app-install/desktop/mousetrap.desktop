@@ -5,6 +5,7 @@ Type=Application
 Name=MouseTrap
 Comment=Controls the mouse via Webcam.
 Icon=mousetrap
+TryExec=mousetrap
 Exec=mousetrap
 Terminal=false
 Categories=Utility;GNOME;GTK;Accessibility;

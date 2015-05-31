@@ -8,6 +8,7 @@ GenericName[fr]=Editeur de code source
 Comment=Source editing environment
 Comment[fr]=Editeur de code source
 Icon=kscope
+TryExec=kscopeapp
 Exec=kscopeapp
 Terminal=false
 Categories=Qt;Development;

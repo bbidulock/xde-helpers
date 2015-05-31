@@ -12,6 +12,7 @@ Comment=PCMan X BBS Client
 Comment[zh_CN]=PCMan X BBS 用 GTK+ 2.x 开发的自由 BBS 连接软件
 Comment[zh_TW]=PCMan X BBS 用 GTK+ 2.x 開發的自由 BBS 連線軟體
 Icon=_usr_share_pixmaps_pcmanx
+TryExec=pcmanx
 Exec=pcmanx
 Terminal=false
 Categories=Application;Network;

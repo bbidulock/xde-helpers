@@ -8,6 +8,7 @@ Name[sv]=Filtypsredigerare
 Comment=Modify the detection and display of file types
 Comment[da]=Redigér filtyper
 Icon=assogiate
+TryExec=assogiate
 Exec=assogiate
 Terminal=false
 OnlyShowIn=GNOME;

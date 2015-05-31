@@ -135,6 +135,7 @@ GenericName[xh]=Umatshini Wokubala Ezenzululwazi
 GenericName[zh_CN]=科学计算器
 GenericName[zh_TW]=科學計算機
 Icon=accessories-calculator
+TryExec=kcalc
 Exec=kcalc -caption "%c"
 Terminal=false
 Categories=Qt;KDE;Utility;X-KDE-Utilities-Desktop;

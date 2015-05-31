@@ -152,6 +152,7 @@ Comment[zh_CN]=玩各种纸牌游戏
 Comment[zh_HK]=玩不同類型的接龍遊戲
 Comment[zh_TW]=玩不同類型的接龍遊戲
 Icon=gnome-aisleriot
+TryExec=/usr/games/sol
 Exec=/usr/games/sol
 X-Osso-Service=org.gnome.Games.AisleRiot
 X-Osso-Type=application/x-executable

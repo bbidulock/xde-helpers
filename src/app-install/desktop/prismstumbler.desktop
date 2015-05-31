@@ -5,6 +5,7 @@ Type=Application
 Name=Prismstumbler
 Comment=Prismstumbler wireless lan scanner
 Icon=prism-icon4.png
+TryExec=/usr/bin/pst
 Exec=/usr/bin/pst
 Terminal=false
 Categories=Application;Other;GPE

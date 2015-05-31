@@ -5,6 +5,7 @@ Type=Application
 Name=gPlanarity
 Comment=Puzzle game involving untangling planar graphs
 Icon=gPicon.png
+TryExec=gplanarity
 Exec=gplanarity
 Terminal=false
 Categories=Game;

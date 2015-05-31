@@ -6,6 +6,7 @@ Name=PCB Designer
 GenericName=PCB Design
 Comment=Create and edit printed circuit board designs
 Icon=pcb
+TryExec=pcb
 Exec=pcb %f
 Terminal=false
 Categories=Engineering;Electronics;

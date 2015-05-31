@@ -6,6 +6,7 @@ Name=Pathogen
 GenericName=pathogen
 Comment=Destroy the pathogens
 Icon=pathogen
+TryExec=pathogen
 Exec=pathogen
 Terminal=false
 Categories=Game;LogicGame;

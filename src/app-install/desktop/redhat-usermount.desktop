@@ -128,6 +128,7 @@ Comment[vi]=Gắn và tháo gắn kết hệ tập tin
 Comment[zh_CN]=挂载和卸载文件系统
 Comment[zh_TW]=掛載與卸載檔案系統
 Icon=disks
+TryExec=usermount
 Exec=usermount
 Terminal=false
 NotShowIn=GNOME;KDE;

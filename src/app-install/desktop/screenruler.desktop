@@ -9,6 +9,7 @@ Comment=Measure objects on your screen
 Comment[ca]=Mesureu la mida d'objectes a la vostra pantalla
 Comment[es]=Mide objetos en la pantalla
 Icon=screenruler
+TryExec=screenruler
 Exec=screenruler
 Terminal=false
 Categories=GTK;Utility;

@@ -17,6 +17,7 @@ Comment[de]=Stapelverarbeitung für die Panoramaerstellung
 Comment[fr]=Gérer la file d'attente des projets Hugin d'assemblage
 Comment[hu]=Hugin projekt összefűző sor kezelő
 Icon=hugin
+TryExec=PTBatcherGUI
 Exec=PTBatcherGUI %F
 Terminal=false
 Categories=Graphics;

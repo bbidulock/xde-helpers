@@ -5,6 +5,7 @@ Type=Application
 Name=Musetup-gtk
 Comment=Museek daemon configuration tool
 Icon=musetup-gtk
+TryExec=musetup-gtk
 Exec=musetup-gtk
 Terminal=false
 Categories=GTK;Network

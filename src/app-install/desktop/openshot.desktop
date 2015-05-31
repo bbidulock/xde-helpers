@@ -6,6 +6,7 @@ Name=OpenShot Video Editor
 X-GNOME-FullName=OpenShot Video Editor
 Comment=Create and edit videos and movies
 Icon=openshot
+TryExec=openshot
 Exec=openshot %F
 Terminal=false
 Categories=GNOME;GTK;AudioVideo;Video;AudioVideoEditing;

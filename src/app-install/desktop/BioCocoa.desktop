@@ -5,6 +5,7 @@ Type=Application
 Name=BioCocoa
 Comment=GNUstep BioCocoa
 Icon=_usr_lib_GNUstep_Applications_BioCocoa.app_Resources_biococoa
+TryExec=BioCocoa
 Exec=BioCocoa
 Terminal=false
 Categories=Education;Science;Biology;

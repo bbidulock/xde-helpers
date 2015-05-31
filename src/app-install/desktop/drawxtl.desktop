@@ -6,6 +6,7 @@ Name=DRAWxtl
 GenericName=Crystal Structure Viewer
 Comment=Display crystal structures
 Icon=drawxtl
+TryExec=drawxtl
 Exec=drawxtl
 Terminal=false
 Categories=Science;Chemistry;Education;

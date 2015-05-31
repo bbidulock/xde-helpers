@@ -9,6 +9,7 @@ Comment=GNOME tool to find strings in a set of files
 Comment[cs]=Nástroj GNOME pro hledání řetězců v souborech
 Comment[fr]=Outil GNOME cherchant des chaines dans des fichiers
 Icon=sagasu.png
+TryExec=sagasu
 Exec=sagasu
 Terminal=false
 Categories=X-Red-Hat-Base;Accessories;Application;Utility;

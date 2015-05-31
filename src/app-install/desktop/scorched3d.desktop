@@ -11,6 +11,7 @@ Comment[lt_LT]=Nuotaikingas 3D taktinis-artilerinis žaidimas, panašus į Scorc
 Comment[pl_PL]=Artyleryjska gra 3D podobna do Scorched Earth
 Comment[ro_RO]=Un joc 3D cu artilerie similar cu Scorched Earth
 Icon=scorched3d
+TryExec=scorched3d
 Exec=scorched3d
 Terminal=false
 Categories=Game;ArcadeGame;

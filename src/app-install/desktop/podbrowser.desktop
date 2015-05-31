@@ -9,6 +9,7 @@ GenericName[en_GB]=
 Comment=Browse Perl Documentation
 Comment[en_GB]=Browse Perl Documentation
 Icon=podbrowser.png
+TryExec=podbrowser
 Exec=podbrowser
 Terminal=false
 Categories=GNOME;Application;Development;X-Red-Hat-Base;

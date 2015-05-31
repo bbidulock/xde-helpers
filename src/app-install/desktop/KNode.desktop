@@ -125,6 +125,7 @@ GenericName[xh]=Umfundi weendaba
 GenericName[zh_CN]=新闻组阅读器
 GenericName[zh_TW]=新聞閱讀器
 Icon=knode
+TryExec=knode
 Exec=knode -caption "%c"
 X-DBUS-StartupType=Unique
 Terminal=false

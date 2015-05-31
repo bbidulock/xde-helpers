@@ -6,6 +6,7 @@ Name=Deluge BitTorrent Client
 GenericName=Bittorrent Client
 Comment=Transfer files using the Bittorrent protocol
 Icon=deluge
+TryExec=deluge-gtk
 Exec=deluge-gtk
 Terminal=false
 Categories=Network;

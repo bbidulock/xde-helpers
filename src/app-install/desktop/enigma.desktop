@@ -5,6 +5,7 @@ Type=Application
 Name=Enigma
 Comment=Uncover pairs of stones while navigating obstacles using a marble
 Icon=enigma
+TryExec=enigma
 Exec=enigma
 Terminal=false
 Categories=Application;Game;LogicGame;

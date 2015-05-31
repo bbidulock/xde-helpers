@@ -6,6 +6,7 @@ Name=KBibTeX
 Comment=A BibTeX editor for KDE
 Comment[de]=Ein BibTeX-Editor für KDE
 Icon=kbibtex
+TryExec=kbibtex
 Exec=kbibtex %U %i -caption "%c"
 X-DCOP-ServiceType=Unique
 Terminal=false

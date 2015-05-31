@@ -45,6 +45,7 @@ Comment[sk]=Robte vlastné DVD a prezentácie
 Comment[sl]=Avtorski DVD-ji in diaprojekcije
 Comment[sv]=Skapa DVD-skivor och bildspel
 Icon=mistelix
+TryExec=mistelix
 Exec=mistelix
 Terminal=false
 Categories=GNOME;GTK;AudioVideo;Video;AudioVideoEditing;

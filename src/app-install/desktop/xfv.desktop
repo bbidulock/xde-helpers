@@ -22,6 +22,7 @@ Comment[hu]=Egyszerő fájlmegjelenítő Xfe-hez
 Comment[pt_BR]=Um simples visualizador de texto para o Xfe
 Comment[sv]=En enkel textvisare för Xfe
 Icon=xfv
+TryExec=xfview
 Exec=xfview
 Terminal=false
 Categories=Utility;Viewer;

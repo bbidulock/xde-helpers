@@ -15,6 +15,7 @@ Comment[de]=Schlagzeugsequenzen erstellen
 Comment[ru]=Создание партий ударных инструментов
 Comment[tr]=Davul partisyonu yaz
 Icon=h2-icon
+TryExec=hydrogen
 Exec=hydrogen %F
 Terminal=false
 Categories=AudioVideo;X-Sound;Audio;Qt;

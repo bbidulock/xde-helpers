@@ -131,6 +131,7 @@ Comment[xh]=Faka, susa uze uphucule imiqulu yesoftware
 Comment[zh_CN]=安装，删除和升级软件包
 Comment[zh_TW]=安裝、移除及升級套件
 Icon=synaptic
+TryExec=su-to-root
 Exec=su-to-root -X -c /usr/sbin/synaptic
 Terminal=false
 NotShowIn=KDE;

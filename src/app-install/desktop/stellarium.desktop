@@ -7,6 +7,7 @@ GenericName=Desktop planetarium
 Comment=Planetarium
 Comment[fr]=Planétarium
 Icon=stellarium
+TryExec=stellarium
 Exec=stellarium
 Terminal=false
 Categories=Astronomy;Education;Science;

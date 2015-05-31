@@ -5,6 +5,7 @@ Type=Application
 Name=FLTK Checkers
 Comment=Checkers Game
 Icon=flcheckers
+TryExec=/usr/games/flcheckers
 Exec=/usr/games/flcheckers
 Terminal=false
 Categories=Game;BoardGame;

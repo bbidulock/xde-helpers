@@ -6,6 +6,7 @@ Name=TVtime Television Viewer
 GenericName=Television Viewer
 Comment=High quality video deinterlacer
 Icon=tvtime.png
+TryExec=tvtime
 Exec=tvtime
 Terminal=false
 Categories=Application;AudioVideo;

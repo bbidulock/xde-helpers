@@ -9,6 +9,7 @@ Comment=Lan communication software
 Comment[zh_CN]=局域网通讯工具
 Comment[zh_TW]=局域網通訊工具
 Icon=ip-tux
+TryExec=iptux
 Exec=iptux
 Terminal=false
 Categories=GTK;Network;

@@ -6,6 +6,7 @@ Name=Laby
 Comment=Learn how to program with ants and spider webs
 Comment[fr]=Apprendre à programmer avec des fourmis
 Icon=laby
+TryExec=/usr/games/laby
 Exec=/usr/games/laby
 Terminal=false
 Categories=GNOME;GTK;Game;LogicGame;

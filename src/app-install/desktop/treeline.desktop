@@ -6,6 +6,7 @@ Name=TreeLine
 Comment=Tree-like structured custom data manager
 Comment[es]=Gestor configurable de datos estructurados en forma de árbol
 Icon=treeline
+TryExec=treeline
 Exec=treeline %f
 Terminal=false
 Categories=Application;

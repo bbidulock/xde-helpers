@@ -22,6 +22,7 @@ Comment[hu]=Egyszerű fájlszerkesztő Xfe-hez
 Comment[pt_BR]=Um simples editor de texto para o Xfe
 Comment[sv]=En enkel texteditor för Xfe
 Icon=xfw
+TryExec=xfwrite
 Exec=xfwrite
 Terminal=false
 Categories=Utility;TextEditor;

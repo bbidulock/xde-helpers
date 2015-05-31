@@ -6,6 +6,7 @@ Name=LyX Document Processor
 GenericName=Document Processor
 Comment=High level LaTeX frontend
 Icon=lyx
+TryExec=lyx
 Exec=lyx %F
 Terminal=false
 Categories=Office;WordProcessor;Qt;

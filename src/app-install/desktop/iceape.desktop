@@ -5,6 +5,7 @@ Type=Application
 Name=Iceape Suite
 GenericName=Internet Suite
 Icon=iceape
+TryExec=iceape
 Exec=iceape %u
 Terminal=false
 Categories=GTK;Network;

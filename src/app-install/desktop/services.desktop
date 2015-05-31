@@ -165,6 +165,7 @@ Comment[zh_CN]=配置要在系统启动时使用哪些服务
 Comment[zh_HK]=設定當系統啟動時要執行哪項服務
 Comment[zh_TW]=設定當系統啟動時要執行哪項服務
 Icon=network-server
+TryExec=services-admin
 Exec=services-admin
 Terminal=false
 Categories=GNOME;GTK;System;Settings;

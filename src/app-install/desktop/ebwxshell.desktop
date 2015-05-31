@@ -9,6 +9,7 @@ GenericName[nl]=Boekhouden
 Comment=Bookkeeping program for small to medium sized companies
 Comment[nl]=Eigenzinnig boekhouden voor kleine en middelgrote bedrijven
 Icon=ebicon
+TryExec=ebwxshell
 Exec=ebwxshell
 Terminal=false
 Categories=Office;Finance;

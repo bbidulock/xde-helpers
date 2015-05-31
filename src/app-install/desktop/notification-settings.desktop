@@ -27,6 +27,7 @@ Comment[nl]=Verander de berichtweergave daemon instellingen
 Comment[pl]=Dopasuj ustawienia demona powiadomień
 Comment[uk]=Налаштувати властивості служби Повідомлення
 Icon=notification-settings
+TryExec=notification-settings
 Exec=notification-settings
 Terminal=false
 OnlyShowIn=XFCE;

@@ -168,6 +168,7 @@ Comment[zh_CN]=录制声音剪辑
 Comment[zh_HK]=錄音
 Comment[zh_TW]=錄音
 Icon=gnome-sound-recorder
+TryExec=gnome-sound-recorder
 Exec=gnome-sound-recorder
 Terminal=false
 Categories=GNOME;GTK;AudioVideo;Audio;Recorder;X-MandrivaLinux-CrossDesktop;

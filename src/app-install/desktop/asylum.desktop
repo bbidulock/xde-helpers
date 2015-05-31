@@ -5,6 +5,7 @@ Type=Application
 Name=Asylum
 Comment=surreal platform shooting game
 Icon=asylum
+TryExec=asylum
 Exec=asylum
 Terminal=false
 Categories=Game;ActionGame;

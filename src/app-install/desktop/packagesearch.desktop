@@ -5,6 +5,7 @@ Type=Application
 Name=Debian Package Search
 Comment=Search for packages and view package information
 Icon=packagesearch
+TryExec=packagesearch
 Exec=packagesearch
 Terminal=false
 Categories=PackageManager;System;Settings;Qt;

@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=GNU Solfege
 Icon=solfege.png
+TryExec=solfege
 Exec=solfege
 Terminal=false
 Categories=GNOME;Application;AudioVideo;Audio;Education;

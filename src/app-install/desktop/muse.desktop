@@ -6,6 +6,7 @@ Name=MusE
 GenericName=MIDI/Audio Sequencer
 Comment=Multitrack virtual studio
 Icon=muse.xpm
+TryExec=muse
 Exec=muse
 Terminal=false
 Categories=Application;AudioVideo;Audio;

@@ -11,6 +11,7 @@ Comment=Feature based Parametric Modeler
 Comment[de]=Feature-basierter parametrischer Modellierer
 Comment[de_DE]=Feature-basierter parametrischer Modellierer
 Icon=_usr_share_freecad_freecad
+TryExec=/usr/bin/freecad
 Exec=/usr/bin/freecad %F
 Terminal=false
 Categories=Graphics;Science;Engineering

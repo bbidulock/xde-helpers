@@ -7,6 +7,7 @@ Name[zh_CN]=写字板
 Comment=Simple text editor
 Comment[zh_CN]=HTML 写字板
 Icon=gwrite
+TryExec=gwrite
 Exec=gwrite %f
 Terminal=false
 Categories=GTK;Utility;TextEditor;

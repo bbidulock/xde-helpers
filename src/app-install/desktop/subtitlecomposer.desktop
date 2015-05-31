@@ -12,6 +12,7 @@ Comment=KDE subtitle editor
 Comment[es]=Editor de subtítulos para KDE
 Comment[fr]=Éditeur de sous-titres pour KDE
 Icon=subtitlecomposer
+TryExec=subtitlecomposer
 Exec=subtitlecomposer %f -caption "%c"
 Terminal=false
 Categories=Qt;KDE;AudioVideo;

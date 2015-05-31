@@ -128,6 +128,7 @@ Comment[zh_CN]=查看或监视系统日志文件
 Comment[zh_HK]=顯示或監察系統日誌檔案
 Comment[zh_TW]=顯示或監察系統日誌檔案
 Icon=logviewer
+TryExec=gnome-system-log
 Exec=gnome-system-log
 Terminal=false
 NotShowIn=KDE;

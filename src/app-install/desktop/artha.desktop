@@ -6,6 +6,7 @@ Name=Artha
 GenericName=Thesaurus
 Comment=Handy thesaurus based on WordNet
 Icon=artha
+TryExec=artha
 Exec=artha
 Terminal=false
 Categories=Utility;Languages;Literature;

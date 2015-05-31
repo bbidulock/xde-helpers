@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=Tetzle
 Icon=tetzle
+TryExec=tetzle
 Exec=tetzle
 Terminal=false
 Categories=Qt;Game;LogicGame;

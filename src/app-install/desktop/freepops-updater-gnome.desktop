@@ -6,6 +6,7 @@ Name=FreePOPs updater
 GenericName=
 Comment=Download updated version of FreePOPs plugins
 Icon=_usr_share_pixmaps_freepops-updater-zenity
+TryExec=su-to-root
 Exec=su-to-root -X -c freepops-updater-zenity
 Terminal=false
 Categories=GNOME;Application;System;

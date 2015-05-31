@@ -18,6 +18,7 @@ Name[zh_TW]=GADMIN-OPENVPN-Client
 GenericName=GADMIN-OPENVPN-Client
 Comment=OpenVPN Client administration
 Icon=gadmin-openvpn-client
+TryExec=su-to-root
 Exec=su-to-root -X -c /usr/sbin/gadmin-openvpn-client
 Terminal=false
 Categories=GTK;System;

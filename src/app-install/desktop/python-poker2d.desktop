@@ -7,6 +7,7 @@ Name[fr]=poker2D
 GenericName=Multiplayer online poker
 GenericName[fr]=Poker multijoueur en ligne
 Icon=poker2D
+TryExec=/usr/games/poker2d
 Exec=/usr/games/poker2d
 Terminal=false
 Categories=KDE;Game;CardGame;

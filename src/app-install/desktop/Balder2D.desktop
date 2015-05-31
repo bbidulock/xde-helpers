@@ -5,6 +5,7 @@ Type=Application
 Name=Balder2D
 Comment=2D overhead shooter in Zero G
 Icon=balder2d.xpm
+TryExec=balder2d
 Exec=balder2d
 Terminal=false
 Categories=Game;ArcadeGame;

@@ -5,6 +5,7 @@ Type=Application
 Name=GNOME Comics Organizer
 Comment=A GNOME interface for for managing your comic book collection
 Icon=gco-gco.png
+TryExec=gco
 Exec=gco
 Terminal=false
 Categories=GNOME;Application;Utility;X-Red-Hat-Base;

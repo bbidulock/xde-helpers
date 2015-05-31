@@ -64,6 +64,7 @@ Name[uk]=Розшифрувати файл
 Name[zh_CN]=解密文件
 Name[zh_HK]=解密檔案
 Name[zh_TW]=解密檔案
+TryExec=seahorse-tool
 Exec=seahorse-tool --decrypt
 Terminal=false
 NoDisplay=true

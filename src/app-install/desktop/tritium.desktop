@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=Tritium
 Comment=Tritium window manager
+TryExec=/usr/bin/tritium
 Exec=/usr/bin/tritium
 Terminal=false
 StartupNotify=false

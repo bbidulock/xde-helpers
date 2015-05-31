@@ -5,6 +5,7 @@ Type=Application
 Name=Graphmonkey
 Comment=Draw mathematical graphs/curves
 Icon=graphmonkey
+TryExec=graphmonkey
 Exec=graphmonkey
 Terminal=false
 Categories=Education;

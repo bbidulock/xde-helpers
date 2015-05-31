@@ -6,6 +6,7 @@ Name=Sweep
 GenericName=Sound Editor
 Comment=Sweep Sound Editor
 Icon=sweep.svg
+TryExec=sweep
 Exec=sweep
 Terminal=false
 Categories=Application;AudioVideo;

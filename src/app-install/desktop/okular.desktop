@@ -114,6 +114,7 @@ GenericName[x-test]=xxDocument Viewerxx
 GenericName[zh_CN]=文档查看器
 GenericName[zh_TW]=文件檢視器
 Icon=okular
+TryExec=okular
 Exec=okular %U %i -caption "%c"
 Terminal=false
 Categories=Qt;KDE;Graphics;Office;Viewer;

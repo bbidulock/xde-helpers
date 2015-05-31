@@ -5,6 +5,7 @@ Type=Application
 Name=Sugar
 GenericName=Sugar Emulator
 Comment=The emulator for the Sugar Desktop Environment
+TryExec=/usr/bin/sugar-emulator
 Exec=/usr/bin/sugar-emulator
 Terminal=false
 Categories=Application;Emulator;Education

@@ -6,6 +6,7 @@ Name=PyRoom
 Name[en_US]=PyRoom
 Comment=Distraction free full-screen text editor
 Icon=_usr_share_pyroom_pyroom
+TryExec=/usr/bin/pyroom
 Exec=/usr/bin/pyroom %F
 Terminal=false
 Categories=GNOME;GTK;Office;

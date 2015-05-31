@@ -6,6 +6,7 @@ Name=Pathological
 GenericName=pathological
 Comment=Solve puzzles involving paths and marbles
 Icon=pathological
+TryExec=pathological
 Exec=pathological
 Terminal=false
 Categories=Game;LogicGame;

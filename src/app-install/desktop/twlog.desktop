@@ -7,6 +7,7 @@ Name[en_US]=twlog
 Comment=A logging program for Ham Operators
 Comment[en_US]=A logging program for Ham Operators
 Icon=twlog.png
+TryExec=twlog
 Exec=twlog
 Terminal=false
 Categories=Utility;HamRadio

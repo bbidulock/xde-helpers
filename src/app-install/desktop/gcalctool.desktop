@@ -163,3 +163,7 @@ X-AppInstall-Package=gcalctool
 X-AppInstall-Popcon=7967
 X-AppInstall-Section=main
 X-Arch-Package=gcalctool-oldgui 5.28.2-3
+X-Arch-Package-Name=gcalctool-oldgui
+X-Arch-Package-Version=5.28.2-3
+X-Arch-Package-Description=GCalctool is an application that solves mathematical equations and is suitable as a default application in a Desktop environment.
+X-Arch-Package-URL=https://webstats.gnome.org/Gcalctool

@@ -8,6 +8,7 @@ GenericName[de]=CD/DVD-Abbildmanager
 GenericName[it]=Strumenti per immagini CD/DVD
 GenericName[ru]=Манипулятор CD/DVD образов
 Icon=Acetino2
+TryExec=acetoneiso
 Exec=acetoneiso %f
 Terminal=false
 Categories=Qt;KDE;AudioVideo;DiscBurning;

@@ -7,6 +7,7 @@ GenericName=Typing Tutor
 Comment=A program to learn touch typing
 Comment[de]=Programm zur Erlernung des Blindschreibens
 Icon=/usr/share/tipptrainer/tipptrainer
+TryExec=tipptrainer
 Exec=tipptrainer
 Terminal=false
 Categories=Education;

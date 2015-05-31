@@ -6,6 +6,7 @@ Name=cGmail
 Name[it_IT]=cGmail
 Comment=Gnome mail checker
 Icon=cgmail
+TryExec=/usr/share/cgmail/cgmail
 Exec=/usr/share/cgmail/cgmail
 Terminal=false
 Categories=Network;

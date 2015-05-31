@@ -146,6 +146,7 @@ Comment[zh_CN]=为你的应用提供辅助功能测试
 Comment[zh_HK]=為你的應用提供無障礙功能測試
 Comment[zh_TW]=為您的應用提供無障礙功能測試
 Icon=accerciser
+TryExec=/usr/bin/accerciser
 Exec=/usr/bin/accerciser
 Terminal=false
 Categories=Development;

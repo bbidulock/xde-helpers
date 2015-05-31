@@ -140,6 +140,7 @@ GenericName[zh_HK]=音樂播放器
 GenericName[zh_TW]=音樂播放器
 Comment=
 Icon=juk
+TryExec=juk
 Exec=juk -caption "%c" %i
 X-DBUS-StartupType=Unique
 Terminal=false

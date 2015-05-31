@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=Attal scenario editor
 Icon=
+TryExec=attal-scenario-editor
 Exec=attal-scenario-editor
 Terminal=false
 Categories=Game;StrategyGame;

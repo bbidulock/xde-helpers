@@ -11,6 +11,7 @@ Comment[hu]=Grafikus email kliens
 Comment[ja]=電子メールクライアント
 Comment[pl]=Klient poczty elektronicznej
 Icon=sylpheed
+TryExec=sylpheed
 Exec=sylpheed
 Terminal=false
 Categories=GTK;Network;Email;News;

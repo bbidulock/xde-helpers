@@ -169,6 +169,7 @@ Comment[zh_CN]=添加或删除用户和组
 Comment[zh_HK]=加入或移除使用者及羣組
 Comment[zh_TW]=加入或移除使用者及群組
 Icon=config-users
+TryExec=users-admin
 Exec=users-admin
 Terminal=false
 Categories=GNOME;GTK;System;Settings;

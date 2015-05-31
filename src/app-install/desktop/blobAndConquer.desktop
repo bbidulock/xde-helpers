@@ -6,6 +6,7 @@ Name=Blob Wars : Blob And Conquer
 GenericName=Game
 Comment=Mission and Objective based 3D Action Game
 Icon=blobAndConquer
+TryExec=blobAndConquer
 Exec=blobAndConquer
 Terminal=false
 Categories=Game;ArcadeGame;

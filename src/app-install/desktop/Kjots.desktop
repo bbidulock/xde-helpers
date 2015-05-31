@@ -82,6 +82,7 @@ GenericName[x-test]=xxNote Takerxx
 GenericName[zh_CN]=个人笔记
 GenericName[zh_TW]=便條取用器
 Icon=kjots
+TryExec=kjots
 Exec=kjots -caption "%c"
 X-DBUS-StartupType=Multi
 Terminal=false

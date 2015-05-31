@@ -21,6 +21,7 @@ Comment[fr]=Assembler des photographies
 Comment[hu]=Fényképek összefűzése egymással
 Comment[ru]=Сшивка панорам из отдельных фотографий
 Icon=hugin
+TryExec=hugin
 Exec=hugin
 Terminal=false
 Categories=Graphics;

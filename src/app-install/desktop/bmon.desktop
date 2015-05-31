@@ -5,6 +5,7 @@ Type=Application
 Name=bmon
 Comment=Bandwidth monitor
 Comment[en]=Bandbreiten-Monitor
+TryExec=bmon
 Exec=bmon
 Terminal=true
 Categories=Application;Network;

@@ -7,6 +7,7 @@ Name[it]=Sincronizzazione Maildir
 Comment=Configure Sync Mail Dir
 Comment[it]=Configura Sync Mail Dir
 Icon=mail-send-receive
+TryExec=smd-applet
 Exec=smd-applet --configure
 Terminal=false
 Categories=Settings;GTK;GNOME;Email

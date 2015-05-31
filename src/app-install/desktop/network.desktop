@@ -157,6 +157,7 @@ Comment[zh_CN]=配置网络设备和连接
 Comment[zh_HK]=設定網絡裝置與連線
 Comment[zh_TW]=設定網路裝置與連線
 Icon=preferences-system-network
+TryExec=network-admin
 Exec=network-admin
 Terminal=false
 Categories=GNOME;GTK;System;Settings;X-GNOME-NetworkSettings;

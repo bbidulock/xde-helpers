@@ -9,6 +9,7 @@ Comment=dopewars drug dealing game
 Comment[fr]=Jeu de vente de drogue
 Comment[pl]=Gra polegaj\xC4ca na handlowaniu narkotykami
 Icon=dopewars-weed.png
+TryExec=dopewars
 Exec=dopewars
 Terminal=false
 Categories=Application;Game;ArcadeGame;

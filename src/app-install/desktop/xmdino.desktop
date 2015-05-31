@@ -5,6 +5,7 @@ Type=Application
 Name=xmdino
 GenericName=dino game
 Icon=_usr_share_pixmaps_xdino.m
+TryExec=/usr/games/xmdino
 Exec=/usr/games/xmdino
 Terminal=false
 Categories=Game;

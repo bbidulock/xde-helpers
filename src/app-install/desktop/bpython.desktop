@@ -5,6 +5,7 @@ Type=Application
 Name=bpython
 Comment=A fancy interface to the python interpreter!
 Icon=/usr/share/pixmaps/python.xpm
+TryExec=/usr/bin/bpython
 Exec=/usr/bin/bpython
 Terminal=true
 Categories=Development;Utility;ConsoleOnly;

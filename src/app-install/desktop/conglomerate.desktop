@@ -55,6 +55,7 @@ Comment[sv]=Redigera XML-filer
 Comment[uk]=Редактор файлів у форматі XML
 Comment[zh_CN]=编辑 XML 文件
 Icon=conglomerate-icon-16.png
+TryExec=conglomerate
 Exec=conglomerate %U
 Terminal=false
 Categories=GNOME;Application;Office;TextEditor;

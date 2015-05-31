@@ -27,6 +27,7 @@ Comment[ru]=Продвинутый текстовый редактор
 Comment[tr]=Ileri metin editörü
 Comment[zh_CN]=先进的文本编辑器
 Icon=juffed
+TryExec=juffed
 Exec=juffed
 Terminal=false
 Categories=Qt;Utility;TextEditor;

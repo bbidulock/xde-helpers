@@ -6,6 +6,7 @@ Name=Hotwire Shell
 GenericName=Command prompt
 Comment=Execute text commands
 Icon=hotwire
+TryExec=hotwire
 Exec=hotwire
 Terminal=false
 Categories=GNOME;GTK;Utility;TerminalEmulator;System;

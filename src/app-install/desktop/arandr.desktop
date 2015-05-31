@@ -6,6 +6,7 @@ Name=ARandR
 GenericName=Screen Settings
 GenericName[de]=Bildschirmeinstellungen
 Icon=display
+TryExec=arandr
 Exec=arandr
 Terminal=false
 Categories=Settings;HardwareSettings;

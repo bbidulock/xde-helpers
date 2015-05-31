@@ -6,6 +6,7 @@ Name=Löve Game
 Comment=Run Löve game
 Comment[es]=Ejecutar juego de Löve
 Icon=love-app-64
+TryExec=love
 Exec=love %f
 Terminal=false
 Categories=Game;

@@ -82,6 +82,7 @@ Comment[vi]=Mở tập tin, đánh dấu, ứng dụng, liên lạc, phát nhạ
 Comment[zh_CN]=方便快捷地处理你的文件、书签、应用程序、音乐、通讯簿...还有更多！
 Comment[zh_TW]=讓您盡可能快速（但不會更快）處理你的檔案、書籤、應用程式、音樂、聯絡人和更多其他的事情！
 Icon=gnome-do
+TryExec=gnome-do
 Exec=gnome-do
 Terminal=false
 Categories=Utility;

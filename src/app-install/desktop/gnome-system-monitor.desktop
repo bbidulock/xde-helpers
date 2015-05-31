@@ -167,6 +167,7 @@ Comment[zh_CN]=查看当前进程及监视系统状态
 Comment[zh_HK]=顯示目前的程序並監控系統的狀態
 Comment[zh_TW]=顯示目前的程序並監控系統的狀態
 Icon=utilities-system-monitor
+TryExec=gnome-system-monitor
 Exec=gnome-system-monitor
 Terminal=false
 Categories=GNOME;GTK;System;Monitor;

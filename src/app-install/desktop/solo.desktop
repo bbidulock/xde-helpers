@@ -7,6 +7,7 @@ Comment=Sudoku game
 Comment[de]=Sudoku-Spiel
 Comment[fr]=Un sudoku
 Icon=solo
+TryExec=solo
 Exec=solo
 Terminal=false
 Categories=Game;LogicGame;

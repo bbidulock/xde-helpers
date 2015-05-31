@@ -18,6 +18,7 @@ Name[zh_TW]=GAdmin-Rsync
 GenericName=GAdmin-Rsync
 Comment=GAdmin-Rsync
 Icon=gadmin-rsync
+TryExec=su-to-root
 Exec=su-to-root -X -c /usr/sbin/gadmin-rsync
 Terminal=false
 Categories=GTK;System;

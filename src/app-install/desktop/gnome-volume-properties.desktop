@@ -139,6 +139,7 @@ Comment[zh_CN]=可移动驱动器和介质管理
 Comment[zh_HK]=設定抽取式裝置與媒體的管理方式
 Comment[zh_TW]=設定抽取式裝置與媒體的管理方式
 Icon=drive-optical
+TryExec=gnome-volume-properties
 Exec=gnome-volume-properties
 Terminal=false
 OnlyShowIn=GNOME;

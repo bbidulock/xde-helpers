@@ -57,6 +57,7 @@ Comment[ur_PK]=کلپ بورڈ منیجر
 Comment[vi]=Trình quản lý bộ nhớ đệm
 Comment[zh_CN]=剪贴板管理器
 Icon=xfce4-clipman-plugin
+TryExec=xfce4-clipman
 Exec=xfce4-clipman
 Terminal=false
 OnlyShowIn=XFCE;

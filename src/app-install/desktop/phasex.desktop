@@ -5,6 +5,7 @@ Type=Application
 Name=PHASEX
 Comment=Phase Harmonic Advanced Synthesis EXperiment
 Icon=phasex-icon
+TryExec=phasex
 Exec=phasex
 Terminal=false
 Categories=AudioVideo;Audio;X-MIDI;X-Synthesis;X-JACK;X-Digital_Processing;

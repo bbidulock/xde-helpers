@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=FCE Ultra
 Comment=Play NES ROMs
+TryExec=fceu
 Exec=fceu
 Terminal=false
 Categories=Game

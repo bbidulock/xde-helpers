@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=KeySafe
 Comment=A password safe
+TryExec=/usr/bin/keysafe
 Exec=/usr/bin/keysafe
 Terminal=false
 Categories=GNOME;Utility;Security

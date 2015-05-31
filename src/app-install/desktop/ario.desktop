@@ -77,6 +77,7 @@ Comment[vi]=Ứng dụng khách của mpd
 Comment[zh_CN]=mpd的客户端应用程序
 Comment[zh_TW]=mpd 用戶端
 Icon=ario
+TryExec=ario
 Exec=ario
 Terminal=false
 Categories=GNOME;GTK;AudioVideo;Audio;

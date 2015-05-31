@@ -8,6 +8,7 @@ GenericName[ru]=Эмулятор Win32 API
 Comment=Launch your Windows programs
 Comment[ru]=Программа для запуска приложений для ОС Windows
 Icon=wine
+TryExec=wine
 Exec=wine %f
 Terminal=false
 Categories=Emulator;

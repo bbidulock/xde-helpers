@@ -5,6 +5,7 @@ Type=Application
 Name=Album Shaper
 Comment=Photo album organiser
 Icon=_usr_share_albumshaper_images_miscImages_as32
+TryExec=albumshaper
 Exec=albumshaper
 Terminal=false
 Categories=Utility;Graphics;

@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=Minirok
 Icon=minirok
+TryExec=minirok
 Exec=minirok %U
 Terminal=false
 Categories=Qt;KDE;AudioVideo;Audio;Player;

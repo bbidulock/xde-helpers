@@ -5,6 +5,7 @@ Type=Application
 Name=Sysprof
 Comment=A sampling CPU profiler
 Icon=sysprof-icon
+TryExec=sysprof
 Exec=sysprof
 Terminal=false
 Categories=Development;Profiling;

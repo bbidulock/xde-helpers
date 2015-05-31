@@ -187,6 +187,7 @@ Comment[xh]=Umzobi Womsebenzi
 Comment[zh_CN]=函数绘图程序
 Comment[zh_TW]=函數繪圖程式
 Icon=kmplot
+TryExec=kmplot
 Exec=kmplot
 Terminal=false
 Categories=Qt;KDE;Education;Math;

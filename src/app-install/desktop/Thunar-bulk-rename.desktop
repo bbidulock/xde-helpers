@@ -145,6 +145,7 @@ Comment[ur_PK]=متعدد فائلوں کا نام بدلیں
 Comment[zh_CN]=重命名多个文件
 Comment[zh_TW]=重新命名多個檔案
 Icon=Thunar
+TryExec=/usr/lib/thunar/ThunarBulkRename
 Exec=/usr/lib/thunar/ThunarBulkRename %F
 Terminal=false
 Categories=Application;System;Utility;Core;GTK;Filesystem;

@@ -7,6 +7,7 @@ GenericName=renpy-demo
 Comment=visual-novel game demo with Ren'Py
 Comment[es]=demo de juego de novela grafica con Ren'Py
 Icon=renpy-demo
+TryExec=renpy-demo
 Exec=renpy-demo
 Terminal=false
 Categories=Game;

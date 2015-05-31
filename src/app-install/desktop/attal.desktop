@@ -6,6 +6,7 @@ Name=Attal
 Comment=Turn based strategy game
 Comment[it]=Gioco strategico a turni
 Icon=
+TryExec=attal-client
 Exec=attal-client
 Terminal=false
 Categories=Game;StrategyGame;

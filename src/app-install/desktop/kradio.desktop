@@ -7,6 +7,7 @@ Name[de]=KRadio
 Comment=
 Comment[de]=
 Icon=kradio.png
+TryExec=kradio
 Exec=kradio -caption "%c" %i %m  
 Terminal=false
 Categories=Qt;KDE;AudioVideo;

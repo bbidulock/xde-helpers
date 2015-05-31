@@ -6,6 +6,7 @@ Name=Back In Time
 Comment=Simple backup system
 Comment[sl]=Enostaven sistem ustvarjanja varnostnih kopij
 Icon=gtk-save
+TryExec=backintime-gnome
 Exec=backintime-gnome
 X-MultipleArgs=false
 Terminal=false

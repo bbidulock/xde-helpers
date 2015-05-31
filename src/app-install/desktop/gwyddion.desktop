@@ -6,6 +6,7 @@ Name=Gwyddion
 Comment=SPM data visualization and analysis
 Comment[cs]=Vizualizace a analýza SPM dat
 Icon=gwyddion.png
+TryExec=gwyddion
 Exec=gwyddion --remote-new %F
 Terminal=false
 Categories=GTK;Physics;Science;Engineering;RasterGraphics;2DGraphics;Graphics

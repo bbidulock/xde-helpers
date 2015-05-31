@@ -6,6 +6,7 @@ Name=GtkBalls
 GenericName=GtkBalls
 Comment=Puzzle game
 Icon=gtkballs_16x16
+TryExec=/usr/games/gtkballs
 Exec=/usr/games/gtkballs
 Terminal=false
 Categories=Game;LogicGame;

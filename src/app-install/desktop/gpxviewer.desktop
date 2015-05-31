@@ -21,6 +21,7 @@ Name[th]=GPX Viewer
 Name[zh_CN]=GPX 查看器
 Comment=GPS Trace Viewer
 Icon=gpxviewer
+TryExec=gpxviewer
 Exec=gpxviewer
 Terminal=false
 Categories=Network

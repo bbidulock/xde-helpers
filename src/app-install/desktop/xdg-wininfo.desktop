@@ -5,6 +5,7 @@ Type=Application
 Name=X Window Information
 GenericName=X Debugging Tool
 Comment=A window information utility for X
+TryExec=wininfo
 Exec=wininfo
 Terminal=false
 Categories=Application;Development;

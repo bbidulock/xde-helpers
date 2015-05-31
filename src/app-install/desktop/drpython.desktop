@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=DrPython
 Icon=drpython
+TryExec=drpython
 Exec=drpython
 Terminal=false
 Categories=Development;

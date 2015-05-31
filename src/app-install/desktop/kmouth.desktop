@@ -130,6 +130,7 @@ GenericName[zh_CN]=语音合成器前端
 GenericName[zh_TW]=語音合成器前端
 Comment=
 Icon=kmouth
+TryExec=kmouth
 Exec=kmouth -caption "%c" %i
 Terminal=false
 Categories=Qt;KDE;Utility;Accessibility;

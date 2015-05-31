@@ -81,6 +81,7 @@ Comment[ur]=نظام میں نصب اطلاقیے تلاش کریں اور چل�
 Comment[ur_PK]=نظام میں نصب اطلاقیے تلاش کریں اور چلائیں
 Comment[zh_CN]=查找并启动您系统上安装的程序
 Icon=xfce4-appfinder
+TryExec=xfce4-appfinder
 Exec=xfce4-appfinder
 Terminal=false
 Categories=X-XFCE;Utility;

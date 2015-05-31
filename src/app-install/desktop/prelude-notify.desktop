@@ -5,6 +5,7 @@ Type=Application
 Name=prelude-notify
 Comment=Graphical notification applet for prelude
 Icon=utilities-system-monitor
+TryExec=prelude-notify
 Exec=prelude-notify         
 Terminal=false
 Categories=System;Security;

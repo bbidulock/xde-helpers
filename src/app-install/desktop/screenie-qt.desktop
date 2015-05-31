@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=Screenie
 GenericName=Screenshot Composer
+TryExec=screenie-qt
 Exec=screenie-qt
 Terminal=false
 Categories=Qt;Graphics;

@@ -7,6 +7,7 @@ GenericName=D-Bus Debugger
 GenericName[en_CA]=D-Feet D-Bus Debugger
 Comment=Debug D-Bus applications
 Icon=dfeet-icon
+TryExec=d-feet
 Exec=d-feet
 Terminal=false
 Categories=GNOME;GTK;Development;

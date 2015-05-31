@@ -6,6 +6,7 @@ Name=Grpn Calculator
 GenericName=Calculator
 Comment=A reverse polish notation calculator
 Icon=grpn
+TryExec=grpn
 Exec=grpn
 Terminal=false
 Categories=Calculator;Utility;

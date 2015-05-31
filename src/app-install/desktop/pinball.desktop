@@ -5,6 +5,7 @@ Type=Application
 Name=Emilia Pinball
 Comment=OpenGL pinball game
 Icon=pinball.xpm
+TryExec=pinball
 Exec=pinball
 Terminal=false
 Categories=Game;ArcadeGame;X-Red-Hat-Extra;

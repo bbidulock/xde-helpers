@@ -9,6 +9,7 @@ Comment[es]=Buscador de archivos
 Comment[fi]=Etsi tiedostoja
 Comment[fr]=Recherche de fichiers
 Icon=catfish
+TryExec=catfish
 Exec=catfish
 Terminal=false
 Categories=GTK;Utility;Filesystem;

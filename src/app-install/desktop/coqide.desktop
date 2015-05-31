@@ -5,6 +5,7 @@ Type=Application
 Name=CoqIDE Proof Assistant
 Comment=Graphical interface for the Coq proof assistant
 Icon=coq
+TryExec=coqide
 Exec=coqide
 Terminal=false
 Categories=Development;Science;Math;IDE;GTK;

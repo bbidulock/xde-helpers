@@ -6,6 +6,7 @@ Name=Advanced Strategic Command
 GenericName=asc
 Comment=Defend your Command
 Icon=asc
+TryExec=asc
 Exec=asc
 Terminal=false
 Categories=Game;StrategyGame;

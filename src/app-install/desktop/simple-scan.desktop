@@ -81,6 +81,7 @@ Comment[uk]=Сканувати документи
 Comment[zh_CN]=扫描文档
 Comment[zh_TW]=掃描文件
 Icon=scanner
+TryExec=simple-scan
 Exec=simple-scan
 Terminal=false
 Categories=GNOME;GTK;Graphics;Scanning;

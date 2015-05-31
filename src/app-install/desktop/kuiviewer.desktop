@@ -107,6 +107,7 @@ GenericName[x-test]=xxQt Designer UI File Viewerxx
 GenericName[zh_CN]=Qt 设计师 UI 文件查看器
 GenericName[zh_TW]=Qt Designer UI 檔案檢視器
 Icon=kuiviewer
+TryExec=kuiviewer
 Exec=kuiviewer -caption "%c"
 X-DBUS-StartupType=Multi
 Terminal=false

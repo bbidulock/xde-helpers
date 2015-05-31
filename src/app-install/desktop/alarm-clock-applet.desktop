@@ -43,6 +43,7 @@ Comment[pt]=Despertar de manhã
 Comment[pt_BR]=Acordar de manhã
 Comment[ru]=Вставайте по утрам
 Icon=alarm-clock
+TryExec=alarm-clock-applet
 Exec=alarm-clock-applet
 Terminal=false
 Categories=GNOME;GTK;Utility;

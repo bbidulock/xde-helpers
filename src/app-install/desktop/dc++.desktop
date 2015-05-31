@@ -8,6 +8,7 @@ GenericName[fr]=Client Direct Connect
 Comment=Linux port of the famous client DC++ for the P2P network Direct Connect
 Comment[fr]=Portage linux du fameux client DC++ pour le reseau P2P Direct Connect
 Icon=DC++.xpm
+TryExec=linuxdcpp
 Exec=linuxdcpp
 Terminal=false
 Categories=Network;P2P

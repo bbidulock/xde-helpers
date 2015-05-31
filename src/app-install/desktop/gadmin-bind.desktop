@@ -18,6 +18,7 @@ Name[zh_TW]=GADMIN-BIND
 GenericName=GADMIN-BIND
 Comment=BIND DNS server administration
 Icon=gadmin-bind
+TryExec=su-to-root
 Exec=su-to-root -X -c /usr/sbin/gadmin-bind
 Terminal=false
 Categories=GTK;System;

@@ -6,6 +6,7 @@ Name=PARSEC47
 GenericName=
 Comment=Kenta Cho's PARSEC47
 Icon=parsec47
+TryExec=parsec47
 Exec=parsec47
 Terminal=false
 Categories=Game;ArcadeGame;

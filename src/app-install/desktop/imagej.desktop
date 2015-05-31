@@ -39,6 +39,7 @@ Comment[en_GB]=Image processing and analysis
 Comment[fr]=Traitement et analyse de l'image
 Comment[it]=Trattamento ed analisi delle immagini
 Icon=microscope
+TryExec=imagej
 Exec=imagej %f
 Terminal=false
 Categories=Graphics;Science;Biology;

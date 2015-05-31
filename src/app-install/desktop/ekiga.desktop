@@ -213,3 +213,7 @@ X-AppInstall-Popcon=13274
 X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
 X-Arch-Package=ekiga 4.0.1-12
+X-Arch-Package-Name=ekiga
+X-Arch-Package-Version=4.0.1-12
+X-Arch-Package-Description=VOIP/Videoconferencing app with full SIP and H.323 support (GnomeMeeting expanded and renamed)
+X-Arch-Package-URL=http://www.ekiga.org

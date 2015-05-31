@@ -6,6 +6,7 @@ Name=Pauker
 GenericName=Pauker
 Comment=Generic card based learning program
 Icon=pauker
+TryExec=pauker
 Exec=pauker
 Terminal=false
 Categories=Education;

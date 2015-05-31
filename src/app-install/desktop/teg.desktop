@@ -9,6 +9,7 @@ Comment=Tenes Empanadas Graciela client
 Comment[de]=Client f\xFCr Tenes Empanadas Graciela
 Comment[es]=Cliente del Tenes Empanadas Graciela
 Icon=teg
+TryExec=tegclient
 Exec=tegclient
 Terminal=false
 Categories=GTK;GNOME;Game;StrategyGame;

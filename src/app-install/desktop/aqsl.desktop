@@ -6,6 +6,7 @@ Name=Aqsis Shader Compiler
 GenericName=RenderMan Shader Compiler
 Comment=Compile RenderMan Shading Language (RSL) files
 Icon=aqsis
+TryExec=/usr/share/aqsis/scripts/aqsl.sh
 Exec=/usr/share/aqsis/scripts/aqsl.sh %F
 Terminal=true
 Categories=Graphics;3DGraphics;ConsoleOnly;

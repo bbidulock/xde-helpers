@@ -128,6 +128,7 @@ Comment[zh_CN]=使用IRC聊天
 Comment[zh_HK]=使用 IRC 和人交談
 Comment[zh_TW]=使用 IRC 與人聊天
 Icon=xchat-gnome
+TryExec=xchat-gnome
 Exec=xchat-gnome
 Terminal=false
 Categories=GNOME;GTK;Network;IRCClient;

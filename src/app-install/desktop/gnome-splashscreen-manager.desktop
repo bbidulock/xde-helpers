@@ -5,6 +5,7 @@ Type=Application
 Name=Splash Screen
 Comment=Select a splash screen image
 Icon=gnome-graphics
+TryExec=gnome-splashscreen-manager
 Exec=gnome-splashscreen-manager
 Terminal=false
 OnlyShowIn=GNOME;

@@ -66,6 +66,7 @@ Comment[sv]=Hitta dokument och mappar på den här datorn efter namn eller inneh
 Comment[th]=ค้นหาเอกสารและโฟลเดอร์ในคอมพิวเตอร์นี้จากชื่อหรือเนื้อหาโดยใช้ Tracker
 Comment[zh_CN]=用 Tracker 以名称或内容定位此计算机上的文档和文件夹
 Icon=system-search
+TryExec=tracker-search-tool
 Exec=tracker-search-tool
 Terminal=false
 Categories=GTK;Utility;

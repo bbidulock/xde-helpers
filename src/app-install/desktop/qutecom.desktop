@@ -10,6 +10,7 @@ Comment=Talk to people over the Internet and send instant messages over multiple
 Comment[fr]=Discuter avec des personnes sur Internet e envoie des messages instantanés en utilisant divers protocoles
 Comment[it]=Comunicare con le persone via Internet e inviare messaggi istantanei multiprotocollo
 Icon=qutecom
+TryExec=qutecom
 Exec=qutecom
 Terminal=false
 Categories=Qt;Network;Telephony;VideoConference;

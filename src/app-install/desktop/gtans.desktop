@@ -7,6 +7,7 @@ Name[es]=Tangramas
 Comment=gtans
 Comment[es]=gtans
 Icon=gtans
+TryExec=gtans
 Exec=gtans
 Terminal=false
 Categories=GTK;Game;LogicGame;

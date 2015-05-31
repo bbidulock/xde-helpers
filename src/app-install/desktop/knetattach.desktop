@@ -173,6 +173,7 @@ GenericName[x-test]=xxNetwork Folder Wizardxx
 GenericName[zh_CN]=网络文件夹向导
 GenericName[zh_TW]=網路資料夾精靈
 Icon=knetattach
+TryExec=knetattach
 Exec=knetattach
 Terminal=false
 OnlyShowIn=KDE;

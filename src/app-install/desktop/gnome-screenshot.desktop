@@ -139,6 +139,7 @@ Comment[zh_CN]=保存您桌面还是单个窗口的图像
 Comment[zh_HK]=將整個桌面或獨立的視窗儲存為圖片
 Comment[zh_TW]=將整個桌面或獨立的視窗儲存為圖片
 Icon=applets-screenshooter
+TryExec=gnome-screenshot
 Exec=gnome-screenshot --interactive
 Terminal=false
 NotShowIn=KDE;

@@ -6,6 +6,7 @@ Name=Gosmore Map Viewer
 GenericName=Map Viewer
 Comment=View, search and route with OpenStreetMap
 Icon=gosmore
+TryExec=gosmore
 Exec=gosmore nopak
 Terminal=false
 Categories=Geography

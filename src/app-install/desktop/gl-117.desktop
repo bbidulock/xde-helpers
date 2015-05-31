@@ -6,6 +6,7 @@ Name=gl-117
 GenericName=Game
 Comment=Play a flight simulator
 Icon=gl-117
+TryExec=gl-117
 Exec=gl-117
 Terminal=false
 Hidden=false

@@ -8,6 +8,7 @@ GenericName[pl]=Klient Gadu-Gadu
 Comment=Gadu-Gadu protocol client
 Comment[pl]=Klient protokołu Gadu-Gadu
 Icon=kadu
+TryExec=kadu
 Exec=kadu
 Terminal=false
 Categories=Network;InstantMessaging;Qt;

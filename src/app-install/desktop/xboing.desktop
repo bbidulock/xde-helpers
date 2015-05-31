@@ -6,6 +6,7 @@ Name=XBoing II
 GenericName=XBoing II
 Comment=Destroy some blocks
 Icon=xboing
+TryExec=xboing
 Exec=xboing
 Terminal=false
 Categories=Game;ArcadeGame;

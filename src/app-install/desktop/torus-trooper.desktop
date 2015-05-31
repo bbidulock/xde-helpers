@@ -6,6 +6,7 @@ Name=Torus Trooper
 GenericName=
 Comment=Kenta Cho's Torus Trooper
 Icon=torus-trooper
+TryExec=torus-trooper
 Exec=torus-trooper
 Terminal=false
 Categories=Game;ArcadeGame;

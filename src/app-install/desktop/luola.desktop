@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=Luola
 Icon=luola-icon
+TryExec=luola
 Exec=luola
 Terminal=false
 Categories=Application;ArcadeGame;Game;

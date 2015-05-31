@@ -7,6 +7,7 @@ GenericName=TORCS
 Comment=3D racing cars simulator game
 Comment[es]=Juego de simulación 3D de carrera de autos
 Icon=torcs.xpm
+TryExec=torcs
 Exec=torcs
 Terminal=false
 Categories=Game;Simulation

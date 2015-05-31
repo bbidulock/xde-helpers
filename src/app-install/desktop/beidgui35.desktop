@@ -10,6 +10,7 @@ Comment=Display and administer your eID card
 Comment[fr]=Affichage et gestion de votre carte eID
 Comment[nl]=Weergeven en beheren van uw eID kaart
 Icon=_usr_share_icons_eid35
+TryExec=/usr/bin/beidgui
 Exec=/usr/bin/beidgui
 X-MultipleArgs=false
 Terminal=false

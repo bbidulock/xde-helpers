@@ -6,6 +6,7 @@ Name=GSmartControl
 GenericName=Hard Disk Health Inspection
 Comment=Monitor and control SMART data on hard disks
 Icon=gsmartcontrol
+TryExec=su-to-root
 Exec=su-to-root -X -c gsmartcontrol
 Terminal=false
 Categories=System;Monitor;

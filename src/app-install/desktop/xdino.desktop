@@ -5,6 +5,7 @@ Type=Application
 Name=xdino
 GenericName=dino game
 Icon=_usr_share_pixmaps_xdino.m
+TryExec=/usr/games/xdino
 Exec=/usr/games/xdino
 Terminal=false
 Categories=Game;

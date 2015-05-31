@@ -6,6 +6,7 @@ Name=Gcolor2
 GenericName=Gcolor2
 Comment=Simple GTK2 color selector and picker
 Icon=_usr_share_pixmaps_gcolor2_gcolor2
+TryExec=gcolor2
 Exec=gcolor2
 Terminal=false
 Categories=Application;Graphics;

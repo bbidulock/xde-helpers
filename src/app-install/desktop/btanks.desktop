@@ -5,6 +5,7 @@ Type=Application
 Name=Battle Tanks
 Comment=fast 2D tank arcade game with multiplayer and split-screen modes
 Icon=btanks
+TryExec=btanks
 Exec=btanks
 Terminal=false
 Categories=Game;ActionGame;ArcadeGame;

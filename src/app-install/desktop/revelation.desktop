@@ -10,6 +10,7 @@ GenericName[fr]=Gestionnaire de mots de passe
 Comment=Organize and secure your passwords
 Comment[fr]=Organise et sécurise vos mots de passe
 Icon=revelation
+TryExec=revelation
 Exec=revelation
 Terminal=false
 Categories=GNOME;Application;Utility;

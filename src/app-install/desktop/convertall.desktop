@@ -6,6 +6,7 @@ Name=ConvertAll
 GenericName=Unit Converter
 Comment=Convert between many different units
 Icon=convertall
+TryExec=convertall
 Exec=convertall
 Terminal=false
 Categories=Qt;Utility;

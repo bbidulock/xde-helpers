@@ -6,6 +6,7 @@ Name=emma
 GenericName=emma - MySQL managing assistant
 Comment=MySQL managing assistant
 Icon=_usr_share_emma_icons_emma
+TryExec=Emma
 Exec=Emma
 Terminal=false
 Categories=GNOME;GTK;Development;Database;

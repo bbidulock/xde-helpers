@@ -132,6 +132,7 @@ Comment[zh_CN]=将四粒棋子排成一线以取胜
 Comment[zh_HK]=將 4 粒棋子排成一直線
 Comment[zh_TW]=將 4 粒棋子排成一直線
 Icon=gnome-gnect
+TryExec=gnect
 Exec=gnect
 Terminal=false
 Categories=GNOME;GTK;Game;LogicGame;

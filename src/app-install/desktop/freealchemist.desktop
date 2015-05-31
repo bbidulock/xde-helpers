@@ -5,6 +5,7 @@ Type=Application
 Name=FreeAlchemist
 Comment=A simpler figure block game
 Icon=freealchemist
+TryExec=/usr/games/freealchemist
 Exec=/usr/games/freealchemist
 Terminal=false
 Categories=Game;BlocksGame;

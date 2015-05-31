@@ -5,6 +5,7 @@ Type=Application
 Name=Thai X terminal
 Comment=Thai X terminal
 Icon=xiterm+thai.png
+TryExec=txiterm
 Exec=txiterm -ls -cursorColor yellow -cursorColorThai red -bg black -fg white
 Terminal=false
 Categories=Application;Utility

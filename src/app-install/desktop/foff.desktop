@@ -5,6 +5,7 @@ Type=Application
 Name=FOFF
 Comment=Lightweight graphical FTP client
 Icon=foff
+TryExec=foff
 Exec=foff
 Terminal=false
 Categories=Network;FileTransfer;

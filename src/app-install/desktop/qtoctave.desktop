@@ -5,6 +5,7 @@ Type=Application
 Name=QtOctave
 Comment=Graphical Qt frontend for GNU Octave
 Icon=qtoctave
+TryExec=qtoctave
 Exec=qtoctave
 Terminal=false
 Categories=Development;Math;Science;Education;

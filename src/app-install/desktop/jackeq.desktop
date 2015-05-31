@@ -5,6 +5,7 @@ Type=Application
 Name=JackEQ
 Comment=routes and manipulates audio from/to multiple sources
 Icon=_usr_share_jackeq_thai-gold
+TryExec=jackeq
 Exec=jackeq
 Terminal=false
 Categories=AudioVideo;

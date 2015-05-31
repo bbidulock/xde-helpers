@@ -63,6 +63,7 @@ Comment[sv]=Konfigurera Compiz med CompizConfig
 Comment[tr]=Compiz'i, CompizConfig ile yapılandır
 Comment[zh_CN]=使用CompizConfig对Compiz进行配置
 Icon=ccsm
+TryExec=ccsm
 Exec=ccsm
 Terminal=false
 Categories=Settings;DesktopSettings;

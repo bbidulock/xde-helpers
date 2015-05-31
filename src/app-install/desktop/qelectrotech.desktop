@@ -24,6 +24,7 @@ Comment[pt_PT]=Um editor de esquemas eléctricos
 Comment[ru]=Редактор электрических схем
 Comment[ru_RU]=Редактор электрических схем
 Icon=qelectrotech
+TryExec=qelectrotech
 Exec=qelectrotech
 Terminal=false
 Categories=Graphics;Qt;VectorGraphics;Science;Electricity;Engineering;

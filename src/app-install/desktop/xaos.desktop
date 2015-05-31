@@ -6,6 +6,7 @@ Name=XaoS
 GenericName=XaoS Fractal Explorer
 Comment=Fractal Generator
 Icon=xaos
+TryExec=xaos
 Exec=xaos
 X-MultipleArgs=false
 Terminal=false

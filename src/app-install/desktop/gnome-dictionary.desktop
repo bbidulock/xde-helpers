@@ -163,6 +163,7 @@ Comment[zh_CN]=在在线字典中查阅单词定义和拼写
 Comment[zh_HK]=在網上字典中查詢字詞的解譯及拼法
 Comment[zh_TW]=在線上字典中查詢字詞的解譯及拼法
 Icon=accessories-dictionary
+TryExec=gnome-dictionary
 Exec=gnome-dictionary
 Terminal=false
 NotShowIn=KDE;

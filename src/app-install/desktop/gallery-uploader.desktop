@@ -9,6 +9,7 @@ Comment=Upload pictures and videos to Gallery
 Comment[fr]=Charge photos e videos sur Gallery
 Comment[it]=Carica foto e video su Gallery
 Icon=gallery.svg
+TryExec=gallery-uploader
 Exec=gallery-uploader
 Terminal=false
 Categories=Network;FileTransfer;GNOME;GTK;

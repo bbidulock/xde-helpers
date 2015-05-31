@@ -10,6 +10,7 @@ Comment=A free next-generation cross-platform music score editor!
 Comment[de]=Ein freies, plattformübergreifendes Notensatzprogramm der nächsten Generation!
 Comment[sl]=Prost program za pisanje not naslednje generacije!
 Icon=_usr_share_canorus_images_clogosm
+TryExec=canorus
 Exec=canorus
 Terminal=false
 Categories=Music;Audio;AudioVideoEditing;Midi;Sequencer;AudioVideo;Qt

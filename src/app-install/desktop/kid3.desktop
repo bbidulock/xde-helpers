@@ -13,6 +13,7 @@ GenericName[nl]=Audio tag editor
 GenericName[pl]=Edytor znaczników audio
 GenericName[ru]=Программа-редактор аудио-тегов
 Icon=kid3
+TryExec=kid3
 Exec=kid3 %f
 Terminal=false
 Categories=Qt;KDE;AudioVideo;Audio;AudioVideoEditing;

@@ -171,6 +171,7 @@ Comment[zh_CN]=在集成开发环境中开发软件
 Comment[zh_HK]=在整合式開發環境中開發軟件
 Comment[zh_TW]=在整合式開發環境中開發軟體
 Icon=anjuta
+TryExec=anjuta
 Exec=anjuta %F
 X-MultipleArgs=false
 Terminal=false

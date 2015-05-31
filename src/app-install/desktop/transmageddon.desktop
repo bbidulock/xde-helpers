@@ -35,6 +35,7 @@ Comment[sl]=Orodje za pretvorbo video zapisov
 Comment[sv]=Verktyg för konvertering av videoformat
 Comment[zh_CN]=视频格式转换工具
 Icon=transmageddon
+TryExec=transmageddon
 Exec=transmageddon
 Terminal=false
 Categories=GNOME;GTK;AudioVideo;X-Ximian-Main;X-Red-Hat-Base;

@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=Tilda
 Icon=tilda.png
+TryExec=tilda
 Exec=tilda
 Terminal=false
 Categories=GTK;Utility;TerminalEmulator

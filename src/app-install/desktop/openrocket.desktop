@@ -6,6 +6,7 @@ Name=OpenRocket
 GenericName=Rocket Design and Simulation
 Comment=Design and simulate model rockets
 Icon=/usr/share/pixmaps/openrocket.xpm
+TryExec=/usr/bin/openrocket
 Exec=/usr/bin/openrocket %f
 Terminal=false
 Categories=Development;Science;

@@ -5,6 +5,7 @@ Type=Application
 Name=xbarrel
 GenericName=barrel game
 Icon=_usr_share_pixmaps_xbarrel.m
+TryExec=/usr/games/xbarrel
 Exec=/usr/games/xbarrel
 Terminal=false
 Categories=Game;

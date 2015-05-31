@@ -6,6 +6,7 @@ Name=TeXworks
 GenericName=TeXworks
 Comment=TeX Editor
 Icon=_usr_share_pixmaps_texworks
+TryExec=texworks
 Exec=texworks
 Terminal=false
 OnlyShowIn=GNOME;XFCE;KDE

@@ -5,6 +5,7 @@ Type=Application
 Name=xmpyraminx
 GenericName=pyraminx game
 Icon=_usr_share_pixmaps_xpyraminx.m
+TryExec=/usr/games/xmpyraminx
 Exec=/usr/games/xmpyraminx
 Terminal=false
 Categories=Game;

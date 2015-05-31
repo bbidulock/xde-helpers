@@ -6,6 +6,7 @@ Name=Qsynth
 GenericName=FluidSynth GUI
 Comment=Qsynth is a FluidSynth Qt GUI Interface
 Icon=_usr_share_pixmaps_qsynth
+TryExec=/usr/bin/qsynth
 Exec=/usr/bin/qsynth
 Terminal=false
 Categories=Audio;AudioVideo;Midi;Music;Qt

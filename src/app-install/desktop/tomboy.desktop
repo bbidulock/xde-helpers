@@ -199,6 +199,7 @@ Comment[zh_CN]=记录便笺，链接想法，良好的组织
 Comment[zh_HK]=記下筆記、連結創意，並且保持組織
 Comment[zh_TW]=記下筆記、連結創意，並且保持組織
 Icon=tomboy
+TryExec=tomboy
 Exec=tomboy --search
 Terminal=false
 Categories=GNOME;GTK;Utility;

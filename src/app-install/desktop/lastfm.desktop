@@ -5,6 +5,7 @@ Type=Application
 Name=Last.fm
 Comment=Listen to Last.fm radio
 Icon=lastfm
+TryExec=/usr/bin/lastfm
 Exec=/usr/bin/lastfm
 Terminal=false
 Categories=Qt;Audio;AudioVideo;

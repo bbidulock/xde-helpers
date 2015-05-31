@@ -96,6 +96,7 @@ Comment[ru]=Обозреватель Всемирной Паутины
 Comment[sk]=Prehliadanie internetu
 Comment[sv]=Surfa på webben
 Icon=iceweasel
+TryExec=iceweasel
 Exec=iceweasel %u
 X-MultipleArgs=false
 Terminal=false

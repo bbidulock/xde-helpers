@@ -22,6 +22,7 @@ Comment[hu]=Egyszerű képnézegető Xfe-hez
 Comment[pt_BR]=Um simples visualizador de imagens para o Xfe
 Comment[sv]=En enkel bildvisare för Xfe
 Icon=xfi
+TryExec=xfimage
 Exec=xfimage
 Terminal=false
 Categories=Utility;Viewer;

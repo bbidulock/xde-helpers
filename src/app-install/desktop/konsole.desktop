@@ -170,6 +170,7 @@ GenericName[x-test]=xxTerminalxx
 GenericName[zh_CN]=终端
 GenericName[zh_TW]=終端機
 Icon=utilities-terminal
+TryExec=konsole
 Exec=konsole
 X-DBUS-StartupType=Unique
 Terminal=false

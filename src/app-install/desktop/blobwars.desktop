@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=Metal Blob Solid
 Icon=blobwars
+TryExec=blobwars
 Exec=blobwars
 Terminal=false
 Categories=ArcadeGame;Game;

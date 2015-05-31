@@ -6,6 +6,7 @@ Name=ygraph Scientific Data Plotter
 GenericName=Scientific Data Plotter
 Comment=Produce simple xy-plots of scientific data
 Icon=ygraph
+TryExec=ygraph
 Exec=ygraph
 Terminal=false
 Categories=Education;Science;

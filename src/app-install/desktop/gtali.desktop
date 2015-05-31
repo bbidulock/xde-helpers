@@ -138,6 +138,7 @@ Comment[zh_CN]=一种类似扑克的的骰子游戏
 Comment[zh_HK]=玩類似撲克的骰子遊戲
 Comment[zh_TW]=玩類似撲克的骰子遊戲
 Icon=gnome-tali
+TryExec=gtali
 Exec=gtali
 Terminal=false
 Categories=GNOME;GTK;Game;CardGame;

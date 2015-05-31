@@ -7,6 +7,7 @@ Name[de]=Gmerlin recorder
 Comment=Audio/video recorder
 Comment[de]=Audio/video recorder
 Icon=gmerlin-recorder.png
+TryExec=gmerlin_recorder
 Exec=gmerlin_recorder
 Terminal=false
 Categories=Application;AudioVideo;

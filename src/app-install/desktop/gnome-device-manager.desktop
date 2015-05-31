@@ -5,6 +5,7 @@ Type=Application
 Name=Device Manager
 Comment=Manage devices
 Icon=gnome-device-manager
+TryExec=gnome-device-manager
 Exec=gnome-device-manager
 Terminal=false
 Categories=GNOME;GTK;System;

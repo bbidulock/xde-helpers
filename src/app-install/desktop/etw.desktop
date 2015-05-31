@@ -9,6 +9,7 @@ GenericName[ro]=Joc de fotbal
 Comment=Arcade Soccer Game
 Comment[ro]=Fotbal, joc de arcadă
 Icon=etw
+TryExec=etw
 Exec=etw
 Terminal=false
 Categories=Game;SportsGame;

@@ -6,6 +6,7 @@ Name=Rubrica Addressbook
 Comment=Manage contacts and addresses
 Comment[it]=Gestore di contatti e indirizzi
 Icon=stock_addressbook.png
+TryExec=rubrica2
 Exec=rubrica2
 Terminal=false
 Categories=GNOME;Application;Office;

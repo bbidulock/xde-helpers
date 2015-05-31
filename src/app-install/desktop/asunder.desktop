@@ -19,6 +19,7 @@ Comment[hu]=Egy alkalmazás ami az Audió CD-n lévő sávokat lementi, MP3, OGG
 Comment[ru]=Программа для сохранения звуковых дорожек CD в файлы форматов WAV, MP3, OGG, FLAC и/или Wavpack.
 Comment[sv]=Ett program för att spara spår från en ljudskiva som WAV, MP3, OGG och/eller FLAC.
 Icon=asunder
+TryExec=asunder
 Exec=asunder
 Terminal=false
 Categories=AudioVideo;Audio;

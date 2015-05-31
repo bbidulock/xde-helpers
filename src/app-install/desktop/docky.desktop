@@ -5,6 +5,7 @@ Type=Application
 Name=Docky
 Comment=The finest dock no money can buy.
 Icon=docky
+TryExec=docky
 Exec=docky
 Terminal=false
 Categories=Utility;

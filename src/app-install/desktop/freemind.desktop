@@ -6,6 +6,7 @@ Name=FreeMind
 GenericName=FreeMind
 Comment=A free mind mapping tool
 Icon=FreeMindWindowIcon
+TryExec=/usr/bin/freemind
 Exec=/usr/bin/freemind
 Terminal=false
 Categories=Office;

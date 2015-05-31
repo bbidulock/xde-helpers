@@ -84,6 +84,7 @@ Comment[zh_CN]=更新及管理您的在线日记
 Comment[zh_HK]=更新和管理網誌
 Comment[zh_TW]=更新和管理網誌
 Icon=drivel-48.png
+TryExec=drivel
 Exec=drivel %U
 Terminal=false
 Categories=GTK;GNOME;Application;Network;

@@ -17,3 +17,7 @@ X-AppInstall-Package=wmitime
 X-AppInstall-Popcon=18
 X-AppInstall-Section=main
 X-Arch-Package=wmitime 0.3-3
+X-Arch-Package-Name=wmitime
+X-Arch-Package-Version=0.3-3
+X-Arch-Package-Description=A dock app showing standard time, date and Internet time
+X-Arch-Package-URL=http://www.cs.mun.ca/~gstarkes/wmaker/dockapps/time.html#wmitime

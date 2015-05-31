@@ -25,6 +25,7 @@ Comment[pt_BR]=Visualizador para pág. Teletekst
 Comment[sl]=Pregledovalnik teletekst strani
 Comment[sv]=Visare för text-tv-sidor
 Icon=telegnome.png
+TryExec=telegnome
 Exec=telegnome
 Terminal=false
 Categories=GNOME;GTK;Network;News;

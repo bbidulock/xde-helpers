@@ -7,6 +7,7 @@ Comment=Light all the squares up at the same time
 Comment[de]=Erleuchte alle Quadrate gleichzeitig
 Comment[fr]=Illuminer simultanément tous les carrés du jeu
 Icon=flipgame
+TryExec=flipgame
 Exec=flipgame
 Terminal=false
 Categories=Game;LogicGame;

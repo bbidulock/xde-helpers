@@ -5,6 +5,7 @@ Type=Application
 Name=Pygmy
 Comment=GTK+ MPD client
 Icon=pygmy
+TryExec=pygmy
 Exec=pygmy
 Terminal=false
 Categories=GTK;Application;AudioVideo;Player;

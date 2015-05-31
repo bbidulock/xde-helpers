@@ -46,6 +46,7 @@ Comment[vi_VN]=Một bản sao của Transport Tycoon Deluxe
 Comment[zh_CN]=克隆 TTD 全新版
 Comment[zh_TW]=《運輸大亨豪華版》的全新重寫版本
 Icon=openttd
+TryExec=/usr/share/games/openttd/openttd-wrapper
 Exec=/usr/share/games/openttd/openttd-wrapper
 Terminal=false
 Categories=Game;

@@ -5,6 +5,7 @@ Type=Application
 Name=GWorkspace
 Comment=GNUstep Workspace Manager
 Icon=FileManager.tiff
+TryExec=GWorkspace
 Exec=GWorkspace
 Terminal=false
 Categories=System;FileTools;FileManager;

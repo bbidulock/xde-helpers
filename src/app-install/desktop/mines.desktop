@@ -7,6 +7,7 @@ Comment=Clear hidden mines from a minefield
 Comment[de]=Beseitige versteckte Minen aus einem Minenfeld
 Comment[fr]=Nettoyer un champ de mines de ses mines cachées
 Icon=mines
+TryExec=mines
 Exec=mines
 Terminal=false
 Categories=Game;LogicGame;

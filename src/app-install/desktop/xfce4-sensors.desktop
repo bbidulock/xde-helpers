@@ -82,6 +82,7 @@ Comment[ur]=سینسر ویلیو دکھائیں:
 Comment[ur_PK]=سینسر ویلیو دکھائیں:
 Comment[zh_CN]=显示传感器值。
 Icon=xfce-sensors
+TryExec=xfce4-sensors
 Exec=xfce4-sensors
 Terminal=false
 Categories=X-XFCE;Utility;Monitor;

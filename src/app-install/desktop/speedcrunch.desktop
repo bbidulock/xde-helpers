@@ -6,6 +6,7 @@ Name=SpeedCrunch
 GenericName=Calculator
 Comment=High precision calculator
 Icon=speedcrunch
+TryExec=speedcrunch
 Exec=speedcrunch
 Terminal=false
 Categories=Qt;Utility;Calculator;

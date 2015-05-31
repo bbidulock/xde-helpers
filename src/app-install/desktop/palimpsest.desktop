@@ -111,6 +111,7 @@ Comment[zh_CN]=管理驱动器及媒体
 Comment[zh_HK]=管理磁碟機與媒體
 Comment[zh_TW]=管理磁碟機與媒體
 Icon=palimpsest
+TryExec=palimpsest
 Exec=palimpsest
 Terminal=false
 Categories=GNOME;GTK;System;

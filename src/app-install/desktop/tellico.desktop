@@ -93,6 +93,7 @@ Comment[x-test]=xxA collection managerxx
 Comment[zh_CN]=收藏管理器
 Comment[zh_TW]=收藏管理員
 Icon=tellico
+TryExec=tellico
 Exec=tellico -caption "%c" %i %u
 Terminal=false
 Categories=KDE;Office;Database;

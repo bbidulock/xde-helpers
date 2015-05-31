@@ -8,6 +8,7 @@ GenericName=Graph Analyzer
 GenericName[en_GB]=Graph Analyser
 Comment=Retrieve data from scanned images of graphs
 Icon=g3data
+TryExec=g3data
 Exec=g3data
 Terminal=false
 Categories=Science;Education;Graphics;

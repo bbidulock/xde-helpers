@@ -8,6 +8,7 @@ GenericName[de]=Mühlespiel für KDE
 Comment=GGZ Muehle game
 Comment[de]=GGZ Mühlespiel
 Icon=muehle
+TryExec=/usr/lib/ggz/muehle
 Exec=/usr/lib/ggz/muehle
 Terminal=false
 Categories=X-GGZ-Games;BoardGame;Game;KDE;Qt;

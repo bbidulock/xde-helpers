@@ -7,6 +7,7 @@ GenericName=Image Viewer
 Comment=View and analyze scientific images
 Comment[en_GB]=View and analyse scientific images
 Icon=imview
+TryExec=imview
 Exec=imview
 Terminal=false
 Categories=Education;Science;Graphics;

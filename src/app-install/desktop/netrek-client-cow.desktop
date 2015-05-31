@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=Netrek
 Icon=_usr_share_pixmaps_netrek-client-cow_icon
+TryExec=/usr/games/netrek-client-cow
 Exec=/usr/games/netrek-client-cow
 Terminal=false
 Categories=Game;StrategyGame;

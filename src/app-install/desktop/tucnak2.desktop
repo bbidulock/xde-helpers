@@ -11,6 +11,7 @@ Comment[fi]=Verkkoliikenne analysaattori
 Comment[fr]=Analyseur de trafic réseau
 Comment[sv]=Nätverkstrafikanalysator
 Icon=tucnak.png
+TryExec=tucnak2
 Exec=tucnak2
 Terminal=false
 Categories=Utility;Database;HamRadio

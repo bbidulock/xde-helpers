@@ -6,6 +6,7 @@ Name=OneD Biological Sequence Viewer
 GenericName=Sequence Viewer
 Comment=View single biological sequences
 Icon=ncbilogo
+TryExec=udv
 Exec=udv
 Terminal=false
 Categories=Education;Science;Biology;

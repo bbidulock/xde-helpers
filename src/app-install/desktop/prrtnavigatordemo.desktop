@@ -5,6 +5,7 @@ Type=Application
 Name=PRRT Navigator Demo
 Comment=Robotics Simulation
 Icon=reactivenav
+TryExec=prrt-navigator-demo
 Exec=prrt-navigator-demo
 X-MultipleArgs=false
 Terminal=false

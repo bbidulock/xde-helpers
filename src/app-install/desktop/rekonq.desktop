@@ -47,6 +47,7 @@ GenericName[x-test]=xxWebKit KDE Browserxx
 GenericName[zh_CN]=Webkit KDE 浏览器
 GenericName[zh_TW]=WebKit KDE 瀏覽器
 Icon=rekonq
+TryExec=rekonq
 Exec=rekonq %u
 X-DBUS-ServiceName=net.sourceforge.rekonq
 X-DBUS-StartupType=Unique

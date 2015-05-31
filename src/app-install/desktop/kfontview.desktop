@@ -175,6 +175,7 @@ GenericName[x-test]=xxFont Viewerxx
 GenericName[zh_CN]=字体查看器
 GenericName[zh_TW]=字型檢視器
 Icon=kfontview
+TryExec=kfontview
 Exec=kfontview %U
 X-DBUS-StartupType=Unique
 Terminal=false

@@ -16,6 +16,7 @@ Comment[es]=Crear mapas mentales
 Comment[fr]=Créez des cartes d'associations d'idées
 Comment[it]=Crea mappe mentali
 Icon=vym
+TryExec=vym
 Exec=vym
 Terminal=false
 Categories=Qt;KDE;Office;

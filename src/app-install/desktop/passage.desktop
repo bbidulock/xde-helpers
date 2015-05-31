@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=Passage
 Icon=passage
+TryExec=passage
 Exec=passage
 Terminal=false
 Categories=Game;AdventureGame;

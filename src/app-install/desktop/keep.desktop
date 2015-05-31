@@ -34,6 +34,7 @@ GenericName[sr]=Систем за архивирање
 GenericName[sv]=Säkerhetskopieringssystem
 GenericName[xx]=xxBackup Systemxx
 Icon=keep
+TryExec=keep
 Exec=keep
 X-DCOP-ServiceType=Unique
 Terminal=false

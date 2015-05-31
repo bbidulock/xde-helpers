@@ -5,6 +5,7 @@ Type=Application
 Name=OpenCASCADE
 Comment=OpenCASCADE DRAWEXE test harness
 Icon=occ-icon-32.xpm
+TryExec=DRAWEXE
 Exec=DRAWEXE
 Terminal=true
 Categories=ConsoleOnly;Application;Graphics;3DGraphics;DataVisualization;

@@ -104,6 +104,7 @@ GenericName[x-test]=xxRemote Desktop Clientxx
 GenericName[zh_CN]=远程桌面客户端
 GenericName[zh_TW]=遠端桌面客戶端
 Icon=krdc
+TryExec=krdc
 Exec=krdc -caption "%c" %u
 Terminal=false
 Categories=Qt;KDE;Network;RemoteAccess;

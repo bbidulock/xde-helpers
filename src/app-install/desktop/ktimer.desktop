@@ -124,6 +124,7 @@ GenericName[x-test]=xxCountdown Launcherxx
 GenericName[zh_CN]=倒计时执行器
 GenericName[zh_TW]=倒數發射計時
 Icon=ktimer
+TryExec=ktimer
 Exec=ktimer
 X-DBUS-StartupType=Multi
 Terminal=false

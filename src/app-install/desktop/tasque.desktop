@@ -76,6 +76,7 @@ Comment[tr]=Kolay hızlı görev yönetimi
 Comment[zh_CN]=简单快速任务管理器
 Comment[zh_TW]=簡易快速的工作管理
 Icon=tasque
+TryExec=tasque
 Exec=tasque
 Terminal=false
 Categories=GNOME;GTK;Office;X-SuSE-Core-Office;

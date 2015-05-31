@@ -9,6 +9,7 @@ GenericName[pl]=Wyświetla wiadomość dnia
 Comment=A message of the day browser for X
 Comment[pl]=Przeglądarka wiadomości dnia dla X
 Icon=xmotd
+TryExec=xmotd
 Exec=xmotd /etc/motd
 Terminal=false
 Categories=Utility;

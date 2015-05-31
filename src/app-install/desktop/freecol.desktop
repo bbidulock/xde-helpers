@@ -5,6 +5,7 @@ Type=Application
 Name=FreeCol
 Comment=Turn-based strategy game
 Icon=freecol
+TryExec=freecol
 Exec=freecol
 Terminal=false
 Categories=Java;Game;StrategyGame;

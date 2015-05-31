@@ -6,6 +6,7 @@ Name=BitStormLite
 GenericName[zh_CN]=BitStormLite
 Comment=A small and fast BitTorrent client
 Comment[zh_CN]=一个轻巧快速的BitTorrent客户端
+TryExec=bitstormlite
 Exec=bitstormlite %f
 Terminal=false
 Categories=Network

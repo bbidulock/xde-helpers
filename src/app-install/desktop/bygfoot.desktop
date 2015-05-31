@@ -5,6 +5,7 @@ Type=Application
 Name=bygfoot
 Comment=A soccer manager game
 Icon=bygfoot.xpm
+TryExec=/usr/games/bygfoot
 Exec=/usr/games/bygfoot
 Terminal=false
 Categories=Application;Game;

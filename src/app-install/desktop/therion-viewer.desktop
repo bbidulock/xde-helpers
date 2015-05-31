@@ -6,6 +6,7 @@ Name=Therion loch viewer
 GenericName=Therion Cave Survey Viewer
 Comment=View therion surveys in 3D
 Icon=therion
+TryExec=loch
 Exec=loch
 Terminal=false
 Categories=Application;Geology;Science;

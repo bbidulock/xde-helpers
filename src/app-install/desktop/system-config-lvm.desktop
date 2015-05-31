@@ -123,6 +123,7 @@ Comment[uk]=Налаштувати LVM у графічному оточенні
 Comment[zh_CN]=在图形设置中配置 LVM
 Comment[zh_TW]=在圖形化設定中設定 LVM
 Icon=_usr_share_system-config-lvm_pixmaps_lv_icon
+TryExec=/usr/bin/system-config-lvm
 Exec=/usr/bin/system-config-lvm
 Terminal=false
 Categories=Application;SystemSetup;X-Red-Hat-Base;

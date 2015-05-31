@@ -5,6 +5,7 @@ Type=Application
 Name=Kiki
 Comment=Regular expression testing
 Icon=kiki
+TryExec=kiki
 Exec=kiki
 Terminal=false
 Categories=Development;

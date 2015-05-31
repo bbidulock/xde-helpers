@@ -5,6 +5,7 @@ Type=Application
 Name=Shoes
 Comment=Interpreter for Shoes programs
 Icon=shoes
+TryExec=shoes
 Exec=shoes
 Terminal=false
 Categories=GTK;Development;Building;

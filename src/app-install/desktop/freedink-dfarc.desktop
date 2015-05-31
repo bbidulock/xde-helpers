@@ -23,6 +23,7 @@ Comment[mk]=Вклучувај, уреди, инсталирај, отстран
 Comment[pl]=Uruchom, zedytuj, instaluj, usuń i spakuj D-Mod'y(Dink Modules)
 Comment[vi]=Khởi chạy, chỉnh sửa, cài đặt, gỡ bỏ và đóng gói các D-Mod (mô-đun Dink)
 Icon=dfarc
+TryExec=dfarc
 Exec=dfarc
 Terminal=false
 Categories=Game;AdventureGame;

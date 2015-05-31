@@ -9,6 +9,7 @@ GenericName[en_US]=
 Comment=Hebrew desktop calendar
 Comment[he]=לוח שנה המציג את התאריך העברי
 Icon=accessories-calendar
+TryExec=ghcal
 Exec=ghcal
 Terminal=false
 Categories=GNOME;GTK;Utility;Calendar;

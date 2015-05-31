@@ -26,6 +26,7 @@ GenericName[sv]=Mindmap-verktyg
 GenericName[tr]=Bellek Haritası Aracı
 GenericName[xx]=xxMindmap Toolxx
 Icon=kdissert
+TryExec=kdissert
 Exec=kdissert -caption "%c" %i %m
 Terminal=false
 Categories=Qt;KDE;Utility;X-KDE-More;

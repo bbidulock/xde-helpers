@@ -27,6 +27,7 @@ Comment[tr]=İslami ibadet vakitleri
 Comment[ur]=اسلامی اوقات نماز
 Comment[ur_PK]=اسلامی اوقاتِ نماز
 Icon=minbar
+TryExec=minbar
 Exec=minbar
 Terminal=false
 Categories=GNOME;GTK;Utility;Utility;

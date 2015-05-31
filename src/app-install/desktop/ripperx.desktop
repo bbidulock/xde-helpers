@@ -6,6 +6,7 @@ Name=Ripper X
 GenericName=Ripper X
 Comment=Rip Cds
 Icon=ripperx
+TryExec=ripperx
 Exec=ripperx
 Terminal=false
 Categories=AudioVideo;Audio;

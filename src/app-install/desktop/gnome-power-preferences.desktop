@@ -148,6 +148,7 @@ Comment[zh_CN]=配置电源管理
 Comment[zh_HK]=設定電源管理程式
 Comment[zh_TW]=設定電源管理程式
 Icon=gnome-power-manager
+TryExec=gnome-power-preferences
 Exec=gnome-power-preferences
 Terminal=false
 OnlyShowIn=GNOME;XFCE;

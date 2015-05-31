@@ -5,6 +5,7 @@ Type=Application
 Name=Armagetron Advanced
 Comment=3d light cycle game
 Icon=_usr_share_pixmaps_armagetronad_icons_large_armagetronad
+TryExec=armagetronad
 Exec=armagetronad
 Terminal=false
 Categories=Game;ActionGame;

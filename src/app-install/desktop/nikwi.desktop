@@ -6,6 +6,7 @@ Name=Nikwi Deluxe
 GenericName=nikwi
 Comment=Platform game where your goal is to collect candies
 Icon=nikwi
+TryExec=nikwi
 Exec=nikwi
 Terminal=false
 Categories=Game;ArcadeGame;

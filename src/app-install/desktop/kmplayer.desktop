@@ -132,6 +132,7 @@ Comment[uk]=KDE-інтерфейс для MPlayer
 Comment[x-test]=xxKDE interface for MPlayerxx
 Comment[zh_CN]=MPlayer 的 KDE 界面
 Icon=kmplayer
+TryExec=kmplayer
 Exec=kmplayer -caption "%c" %i %U
 Terminal=false
 Categories=Qt;KDE;AudioVideo;

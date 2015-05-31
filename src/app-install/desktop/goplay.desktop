@@ -6,6 +6,7 @@ Name=GoPlay!
 GenericName=goplay
 Comment=Gaming packages browser
 Icon=goplay
+TryExec=goplay
 Exec=goplay
 Terminal=false
 Categories=Utility;

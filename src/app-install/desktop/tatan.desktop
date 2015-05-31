@@ -6,6 +6,7 @@ Name=Tatan
 GenericName=
 Comment=HIZ's Tatan
 Icon=tatan
+TryExec=tatan
 Exec=tatan
 Terminal=false
 Categories=Game;ArcadeGame;

@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=Isag System Activity Grapher
 Comment=Interactive System Activity Grapher for sysstat
+TryExec=isag
 Exec=isag
 Terminal=false
 Categories=System;Monitor;

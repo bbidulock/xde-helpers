@@ -6,6 +6,7 @@ Name=Torus Trooper Pure
 GenericName=
 Comment=HIZ's version of Torus Trooper
 Icon=torus-trooper-pure
+TryExec=torus-trooper-pure
 Exec=torus-trooper-pure
 Terminal=false
 Categories=Game;ArcadeGame;

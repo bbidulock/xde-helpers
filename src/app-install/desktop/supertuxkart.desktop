@@ -10,6 +10,7 @@ Comment[de_DE]=ein Kart-Rennspiel
 Comment[fr_FR]=un jeu de karting
 Comment[ro_RO]=un joc de curse cu carturi
 Icon=supertuxkart
+TryExec=supertuxkart
 Exec=supertuxkart
 Terminal=false
 Categories=Game;ActionGame;Simulation;SportsGame;3DGraphics;

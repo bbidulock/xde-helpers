@@ -7,6 +7,7 @@ Name[de]=Qemulator
 Comment=Qemu Virtual Engines manager
 Comment[de]=Qemu engines manager
 Icon=qemulator.svg
+TryExec=qemulator
 Exec=qemulator
 Terminal=false
 Categories=Application;Emulator;Utility

@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=SolarWolf
 Icon=solarwolf.png
+TryExec=/usr/games/solarwolf
 Exec=/usr/games/solarwolf
 Terminal=false
 Categories=Application;Game;ArcadeGame

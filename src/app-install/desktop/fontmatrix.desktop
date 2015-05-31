@@ -11,6 +11,7 @@ Comment=A font manager
 Comment[fi]=Työkalu fonttien hallintaan
 Comment[ru]=Программа для управления шрифтами
 Icon=fontmatrix
+TryExec=fontmatrix
 Exec=fontmatrix
 Terminal=false
 Categories=Graphics;VectorGraphics;

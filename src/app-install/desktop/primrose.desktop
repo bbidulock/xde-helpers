@@ -5,6 +5,7 @@ Type=Application
 Name=Primrose
 Comment=Captivating tile-clearing puzzle game
 Icon=primrose
+TryExec=primrose
 Exec=primrose
 Terminal=false
 Categories=Game;LogicGame;

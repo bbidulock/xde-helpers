@@ -7,6 +7,7 @@ Name[fr]=GNOME Photo Printer
 Comment=Print several photos on one page
 Comment[fr]=Imprime plusieurs photos sur une page
 Icon=gnome-photo-printer.png
+TryExec=gnome-photo-printer
 Exec=gnome-photo-printer
 Terminal=false
 Categories=Graphics

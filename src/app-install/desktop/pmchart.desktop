@@ -5,6 +5,7 @@ Type=Application
 Name=PCP Charts
 Comment=Strip Chart tool for plotting Performance Co-Pilot metrics.
 Icon=pmchart.png
+TryExec=pmchart
 Exec=pmchart
 Terminal=false
 Categories=System;Utility;

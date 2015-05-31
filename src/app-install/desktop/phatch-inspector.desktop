@@ -6,6 +6,7 @@ Name=Phatch Image Inspector
 GenericName=Image Inspector
 Comment=Easily inspect EXIF and IPTC metadata
 Icon=phatch-inspector
+TryExec=phatch
 Exec=phatch -n %U
 Terminal=false
 Categories=Graphics;Photography;GTK;

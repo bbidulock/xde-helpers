@@ -6,6 +6,7 @@ Name=Cadabra
 GenericName=Cadabra computer algebra system
 Comment=Computer algebra system for field theory problems
 Icon=cadabra
+TryExec=xcadabra
 Exec=xcadabra
 Terminal=false
 Categories=Math;Science;Education;

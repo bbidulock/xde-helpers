@@ -8,6 +8,7 @@ GenericName[it]=Algebra Relazionale
 Comment=Learn and experiment relational algebra
 Comment[it]=Impara l'algebra relazionale
 Icon=kexi
+TryExec=relational
 Exec=relational
 Terminal=false
 Categories=Education;

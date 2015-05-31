@@ -5,6 +5,7 @@ Type=Application
 Name=Yabause (Gtk port)
 Comment=Sega Saturn emulator
 Icon=yabause
+TryExec=yabause-gtk
 Exec=yabause-gtk
 Terminal=false
 Categories=GNOME;GTK;Game;

@@ -5,6 +5,7 @@ Type=Application
 Name=Museeq
 Comment=C++/QT3 Museek client
 Icon=museeq
+TryExec=museeq
 Exec=museeq
 Terminal=false
 Categories=Qt;Network

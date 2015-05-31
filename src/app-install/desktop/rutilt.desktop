@@ -12,6 +12,7 @@ Comment=Manage your wireless network interfaces
 Comment[fr]=Configurer vos cartes Wifi
 Comment[it]=Configura le tue schede WiFi
 Icon=rutilt
+TryExec=rutilt
 Exec=rutilt
 Terminal=false
 Categories=GTK;System;Settings;Network;

@@ -5,6 +5,7 @@ Type=Application
 Name=gTweakUI - Menus
 Comment=Extra preferences for application menus
 Icon=
+TryExec=gtweakui-menus
 Exec=gtweakui-menus
 Terminal=false
 OnlyShowIn=GNOME;

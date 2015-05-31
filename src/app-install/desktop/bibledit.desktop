@@ -5,6 +5,7 @@ Type=Application
 Name=Bibledit
 Comment=Bible Editor
 Icon=bibledit
+TryExec=bibledit
 Exec=bibledit
 Terminal=false
 Categories=Office;

@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=Omaque
 Icon=omaque.png
+TryExec=krubyapplication
 Exec=krubyapplication omaque/main.rb %u
 Terminal=false
 Categories=Application;Graphics;Viewer;

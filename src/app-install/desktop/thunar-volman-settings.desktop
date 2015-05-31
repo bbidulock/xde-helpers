@@ -51,6 +51,7 @@ Comment[uk]=Налаштувати керування змінними диск�
 Comment[ur]=قابلِ فصل ڈرائیوز اور میڈیا کی ادارت وضع کریں
 Comment[zh_TW]=可移除裝置與媒體的設定管理員
 Icon=gnome-dev-removable
+TryExec=/usr/lib/thunar-volman/thunar-volman-settings
 Exec=/usr/lib/thunar-volman/thunar-volman-settings
 Terminal=false
 Categories=X-XFCE;Settings;DesktopSettings;

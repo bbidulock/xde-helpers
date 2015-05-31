@@ -108,6 +108,7 @@ Comment[tr]=Yerel ses sunucusunun yapılandırmasına bak ve değiştir
 Comment[uk]=Перегляньте і змініть налаштування локального звукового сервера
 Comment[zh_CN]=查看及修改本地声音服务器配置
 Icon=paprefs
+TryExec=paprefs
 Exec=paprefs
 Terminal=false
 Categories=Settings;X-MandrivaLinux-CrossDesktop;System;GTK;

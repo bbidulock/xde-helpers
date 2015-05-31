@@ -5,6 +5,7 @@ Type=Application
 Name=pommed GTK client
 Comment=A graphical client for pommed
 Icon=gpomme
+TryExec=gpomme
 Exec=gpomme
 Terminal=false
 Categories=Utility

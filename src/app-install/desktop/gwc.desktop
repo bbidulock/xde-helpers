@@ -5,6 +5,7 @@ Type=Application
 Name=Gnome Wave Cleaner
 Comment=Sound File Noise Reduction
 Icon=gwc.xpm
+TryExec=gnome_wave_cleaner
 Exec=gnome_wave_cleaner %F
 Terminal=false
 Categories=GNOME;Application;AudioVideo;

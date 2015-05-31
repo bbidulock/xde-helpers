@@ -6,6 +6,7 @@ Name=GTK Slash'EM
 GenericName=GTK Slash'EM
 Comment=Super Lotsa Added Stuff Hack - Extended Magic (GTK)
 Icon=slashem
+TryExec=/usr/games/slashem-gtk
 Exec=/usr/games/slashem-gtk
 Terminal=false
 Categories=Game;AdventureGame;

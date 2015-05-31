@@ -6,6 +6,7 @@ Name=Spydr
 GenericName=FITS Image Viewer
 Comment=FITS image display and simple analysis
 Icon=spydr48
+TryExec=yorick
 Exec=yorick -i spydr.i -c --batch  %F
 Terminal=false
 Categories=Education;Science;Astronomy;

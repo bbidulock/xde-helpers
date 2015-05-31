@@ -6,6 +6,7 @@ Name=Robocode
 GenericName=
 Comment=Java programming game based on battle tanks
 Icon=robocode
+TryExec=robocode
 Exec=robocode
 Terminal=false
 Categories=Game;Development;Java;

@@ -6,6 +6,7 @@ Name=Mupen64Plus
 GenericName=Nintendo 64 Emulator
 Comment=Mupen64Plus Nintendo 64 Emulator
 Icon=mupen64plus-large.xpm
+TryExec=mupen64plus
 Exec=mupen64plus
 Terminal=false
 Categories=Application;Game;

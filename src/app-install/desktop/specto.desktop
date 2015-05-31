@@ -6,6 +6,7 @@ Name=Specto
 Comment=Be notified of everything
 Comment[fr]=Soyez alerte
 Icon=specto
+TryExec=specto
 Exec=specto
 Terminal=false
 Categories=GNOME;Utility;

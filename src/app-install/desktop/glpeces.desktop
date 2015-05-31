@@ -11,6 +11,7 @@ Comment=Play with 33 tangram and more 4600 figures
 Comment[ca]=Jugau amb 33 tangrams i més de 4600 figures
 Comment[es]=Juega con 33 tangram y más de de 4600 figuras
 Icon=_usr_share_pixmaps_glpeces
+TryExec=/usr/games/glpeces
 Exec=/usr/games/glpeces
 X-DCOP-ServiceType=
 Terminal=false

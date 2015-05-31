@@ -52,6 +52,7 @@ Comment[tr]=Xfce Masaüstü Yöneticisi için ses düzenleyicisi
 Comment[uk]=Регулятор гучності для середовища стільниці Xfce
 Comment[zh_CN]=Xfce 桌面环境混音器
 Icon=multimedia-volume-control
+TryExec=xfce4-mixer
 Exec=xfce4-mixer
 Terminal=false
 Categories=X-XFCE;Audio;Mixer;AudioVideo;

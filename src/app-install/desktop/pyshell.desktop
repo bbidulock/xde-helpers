@@ -5,6 +5,7 @@ Type=Application
 Name=PyShell
 Comment=GUI Python Shell
 Icon=/usr/share/pixmaps/pyshell
+TryExec=/usr/bin/pyshell
 Exec=/usr/bin/pyshell
 Terminal=false
 Categories=Development;

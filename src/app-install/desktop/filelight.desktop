@@ -58,6 +58,7 @@ Comment[tr]=Disk kullanım bilgisini görüntüler
 Comment[uk]=Перегляд інформації про використання дисків
 Comment[x-test]=xxView disk usage informationxx
 Icon=filelight
+TryExec=filelight
 Exec=filelight %f
 Terminal=false
 Categories=Qt;KDE;Utility;

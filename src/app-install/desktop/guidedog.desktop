@@ -7,6 +7,7 @@ Name[de]=Guidedog
 Comment=
 Comment[de]=
 Icon=guidedog.png
+TryExec=guidedog
 Exec=guidedog -caption "%c" %i %m  
 Terminal=false
 StartupNotify=false

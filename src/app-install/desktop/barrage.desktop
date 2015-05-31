@@ -5,6 +5,7 @@ Type=Application
 Name=Barrage
 Comment=Kill and destroy as many targets as possible within 3 minutes
 Icon=barrage
+TryExec=barrage
 Exec=barrage
 Terminal=false
 Categories=X-Red-Hat-Base;Application;Game;ArcadeGame;

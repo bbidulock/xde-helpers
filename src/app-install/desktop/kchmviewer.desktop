@@ -6,6 +6,7 @@ Name=KchmViewer
 GenericName=CHM file viewer
 Comment=A viewer of CHM (MS-Help) files
 Icon=kchmviewer
+TryExec=kchmviewer
 Exec=kchmviewer %f
 Terminal=false
 Categories=Qt;KDE;Office;Viewer;

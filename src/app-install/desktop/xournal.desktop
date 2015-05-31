@@ -9,6 +9,7 @@ Comment=Take handwritten notes
 Comment[ca]=Preneu notes a mà
 Comment[fr]=Prise de notes manuscrites
 Icon=xournal
+TryExec=xournal
 Exec=xournal %f
 Terminal=false
 Categories=GNOME;GTK;Utility;TextEditor;

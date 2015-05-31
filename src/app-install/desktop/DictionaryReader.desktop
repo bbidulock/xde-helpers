@@ -7,6 +7,7 @@ Name[bg]=Речник (Dictionary Reader)
 Comment=A Dict client for GNUstep
 Comment[bg]=Речник за GNUstep 
 Icon=/usr/lib/GNUstep/Applications/DictionaryReader.app/Resources/dict.png
+TryExec=DictionaryReader
 Exec=DictionaryReader
 Terminal=false
 Categories=Office;TextTools;Dictionary;

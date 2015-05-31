@@ -5,6 +5,7 @@ Type=Application
 Name=MRview
 GenericName=MRI Tractography View
 Icon=mrtrix.xpm
+TryExec=mrview
 Exec=mrview %F
 Terminal=false
 Categories=Education;Graphics;Science;DataVisualization;MedicalSoftware;GTK;Viewer;

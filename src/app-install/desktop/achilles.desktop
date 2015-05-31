@@ -6,6 +6,7 @@ Name=Achilles Life Simulator
 GenericName=Life Simulator
 Comment=Watch a simulation of artificial life and evolution
 Icon=achilles
+TryExec=achilles
 Exec=achilles
 Terminal=false
 Categories=Application;Education;Science;Biology;Simulation;

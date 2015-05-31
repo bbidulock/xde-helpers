@@ -6,6 +6,7 @@ Name=Penguin Mastermind
 GenericName=
 Comment=
 Icon=
+TryExec=/usr/games/ace-mastermind
 Exec=/usr/games/ace-mastermind
 Terminal=false
 Categories=Game;LogicGame;

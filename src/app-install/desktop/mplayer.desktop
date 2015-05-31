@@ -13,6 +13,7 @@ Comment[fr]=Lecteur multimédia
 Comment[it]=Lettore multimediale
 Comment[zh]=多媒体播放器
 Icon=mplayer
+TryExec=gmplayer
 Exec=gmplayer %F
 Terminal=false
 Categories=GTK;AudioVideo;Audio;Video;Player;TV;

@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=Gomoku.app
 Comment=GNUstep Gomoku Game
+TryExec=Gomoku
 Exec=Gomoku
 Terminal=false
 Categories=Game;BoardGame;

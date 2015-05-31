@@ -18,6 +18,7 @@ Name[zh_TW]=GADMIN-SAMBA
 GenericName=GADMIN-SAMBA
 Comment=SAMBA file, print and domain server administration
 Icon=gadmin-samba
+TryExec=su-to-root
 Exec=su-to-root -X -c /usr/sbin/gadmin-samba
 Terminal=false
 Categories=GTK;System;

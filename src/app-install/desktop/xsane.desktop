@@ -13,6 +13,7 @@ Comment[es]=Un programa para trabajar con escáners. Se puede utilizar como una 
 Comment[fr]=Un programme d'acquisition d'images pour votre scanner. Peut également photocopier, faxer ou faire de la reconnaissance de caractères.
 Comment[ru]=Программа для работы со сканером. Может быть использована в качестве копировального аппарата, факса, и др.
 Icon=xsane
+TryExec=xsane
 Exec=xsane
 Terminal=false
 Categories=GTK;Graphics;RasterGraphics;Scanning;OCR;

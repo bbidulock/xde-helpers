@@ -6,6 +6,7 @@ Name=GNUmed
 GenericName=Electronic Medical Record
 Comment=Paperless Medical Record and Practice Management
 Icon=gnumed
+TryExec=/usr/bin/gnumed
 Exec=/usr/bin/gnumed
 Terminal=false
 Categories=Office;MedicalSoftware;

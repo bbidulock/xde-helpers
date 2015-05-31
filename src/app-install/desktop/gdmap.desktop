@@ -31,6 +31,7 @@ Comment[ru]=Показать место на диске пользующеся �
 Comment[sv]=Visa diskutrymme med trädkartor
 Comment[tr]=Disk alanını agac haritalarini kullanarak goster
 Icon=gdmap_icon.png
+TryExec=gdmap
 Exec=gdmap
 Terminal=false
 Categories=Filesystem;Utility;GTK

@@ -6,6 +6,7 @@ Name=GDIS Molecule Modeller
 GenericName=Molecule Modeller
 Comment=Model and manipulate molecules, and create high-quality renderings of them
 Icon=gdis
+TryExec=gdis
 Exec=gdis
 Terminal=false
 Categories=GTK;Science;Chemistry;Education;

@@ -6,6 +6,7 @@ Name=Emesene
 GenericName=Emesene
 Comment=MSN Messenger client
 Icon=emesene
+TryExec=emesene
 Exec=emesene
 Terminal=false
 Categories=Network;InstantMessaging;

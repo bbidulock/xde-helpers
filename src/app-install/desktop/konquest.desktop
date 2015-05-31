@@ -122,6 +122,7 @@ GenericName[x-test]=xxGalactic Strategy Gamexx
 GenericName[zh_CN]=星际策略游戏
 GenericName[zh_TW]=銀河戰略遊戲
 Icon=konquest
+TryExec=konquest
 Exec=konquest -caption %c
 X-DBUS-StartupType=Multi
 Terminal=false

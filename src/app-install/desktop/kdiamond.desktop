@@ -90,6 +90,7 @@ GenericName[x-test]=xxThree-in-a-row gamexx
 GenericName[zh_CN]=三子连线棋游戏
 GenericName[zh_TW]=把三個相同的寶石連成一線
 Icon=kdiamond
+TryExec=kdiamond
 Exec=kdiamond -caption "%c"
 Terminal=false
 Categories=Qt;KDE;Game;LogicGame;

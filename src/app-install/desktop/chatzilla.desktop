@@ -5,6 +5,7 @@ Type=Application
 Name=Chatzilla
 GenericName=IRC Chat
 Icon=chatzilla
+TryExec=iceape
 Exec=iceape -chat
 Terminal=false
 Categories=GTK;Network;IRCClient;

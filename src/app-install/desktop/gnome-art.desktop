@@ -5,6 +5,7 @@ Type=Application
 Name=Art Manager
 Comment=Install themes from art.gnome.org website
 Icon=gnome-graphics
+TryExec=gnome-art
 Exec=gnome-art
 Terminal=false
 OnlyShowIn=GNOME;

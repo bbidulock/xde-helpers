@@ -5,6 +5,7 @@ Type=Application
 Name=Lazarus
 Comment=Lazarus IDE
 Icon=lazarus.png
+TryExec=startlazarus
 Exec=startlazarus %f
 Terminal=false
 Categories=Application;IDE;Development;GTK;GUIDesigner;

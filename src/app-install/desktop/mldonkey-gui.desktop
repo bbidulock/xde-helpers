@@ -6,6 +6,7 @@ Name=MLDonkey
 Comment=Graphical frontend for MLDonkey
 Comment[fr]=Interface graphique pour MLDonkey
 Icon=mlgui.xpm
+TryExec=mlgui
 Exec=mlgui
 Terminal=false
 Categories=Network;FileTransfer;GTK;

@@ -156,6 +156,7 @@ Comment[zh_CN]=使用 Calc 进行计算、分析信息以及管理电子表格�
 Comment[zh_TW]=使用 Calc 可在試算表中執行計算、分析資訊與管理清單。
 Comment[zu]=Yenza izibalo, hlaziya ukwaziswa futhi ulawule izinhlu kumaspredshithi ngokusebenzisa i-Calc.
 Icon=openofficeorg3-calc
+TryExec=ooffice
 Exec=ooffice -calc %U
 Terminal=false
 Categories=Office;

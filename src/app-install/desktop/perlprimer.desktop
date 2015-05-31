@@ -12,6 +12,7 @@ Comment[en]=Graphical design of primers for PCR and sequencing
 Comment[fr]=Conception d'amorces de PCR et de séquençage
 Comment[pt_BR]=Projeto gráfico de primers para PCR e sequenciamento
 Icon=perlprimer
+TryExec=perlprimer
 Exec=perlprimer
 Terminal=false
 Categories=Biology;Science;Education;

@@ -64,6 +64,7 @@ GenericName[zh_CN]=DjVu 查看器
 GenericName[zh_HK]=DjVu 檢視器
 GenericName[zu]=Umboniseli we DjVu
 Icon=djvulibre-djview4
+TryExec=djview4
 Exec=djview4 %f
 Terminal=false
 Categories=Qt;Graphics;Viewer;

@@ -12,6 +12,7 @@ Comment[de]=Erstelle deine eigene Radiosendung oder Podcasts
 Comment[en_GB]=Create your live radio show or podcast
 Comment[fr]=Créez votre spectacle radio en direct ou votre podcast
 Icon=_usr_share_pixmaps_idjc
+TryExec=/usr/bin/idjc
 Exec=/usr/bin/idjc
 X-DCOP-ServiceType=
 Terminal=false

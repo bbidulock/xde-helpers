@@ -7,6 +7,7 @@ Comment=Configure network card
 Comment[de]=Netzwerkkarte konfigurieren
 Comment[fr]=Configuration de carte resau
 Icon=xnetcardconfig
+TryExec=xnetcardconfig
 Exec=xnetcardconfig
 Terminal=false
 Categories=System;HardwareSettings;

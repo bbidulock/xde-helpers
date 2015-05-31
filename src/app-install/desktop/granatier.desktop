@@ -66,6 +66,7 @@ GenericName[x-test]=xxBomberman clonexx
 GenericName[zh_CN]=炸弹人游戏复刻
 GenericName[zh_TW]=炸彈超人遊戲
 Icon=granatier
+TryExec=granatier
 Exec=granatier
 Terminal=false
 Categories=Qt;KDE;Game;ArcadeGame;

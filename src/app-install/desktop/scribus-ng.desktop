@@ -89,6 +89,7 @@ Comment[zh_CN]=桌面出版
 Comment[zh_TW]=桌面出版
 Comment[zu]=Ukushicilelwa kwe-Desktop
 Icon=scribus-ng
+TryExec=scribus-ng
 Exec=scribus-ng %f
 Terminal=false
 Categories=Qt;Publishing;Graphics;

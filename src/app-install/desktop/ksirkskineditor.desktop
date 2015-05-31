@@ -82,6 +82,7 @@ GenericName[x-test]=xxSkin Editor for the World Domination Strategy Gamexx
 GenericName[zh_CN]=世界支配战略游戏的皮肤编辑器
 GenericName[zh_TW]=征服世界戰略遊戲的外觀編輯器
 Icon=preferences-desktop-locale
+TryExec=ksirkskineditor
 Exec=ksirkskineditor -caption "%c" %i
 X-DBUS-StartupType=Multi
 Terminal=false

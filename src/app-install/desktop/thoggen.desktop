@@ -22,6 +22,7 @@ Name[sv]=DVD-ripparen Thoggen
 Comment=Extracts Video from your DVDs
 Comment[fr]=Extrait les vidéos de vos DVD
 Icon=thoggen.png
+TryExec=thoggen
 Exec=thoggen
 Terminal=false
 Categories=GNOME;AudioVideo;X-Ximian-Main;X-Red-Hat-Base;

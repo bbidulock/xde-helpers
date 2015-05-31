@@ -5,6 +5,7 @@ Type=Application
 Name=Promoe
 GenericName=XMMS2 Client
 Icon=xmms2
+TryExec=promoe
 Exec=promoe
 Terminal=false
 Categories=Qt;Application;AudioVideo;Audio;

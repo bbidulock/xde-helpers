@@ -5,6 +5,7 @@ Type=Application
 Name=GNUjump
 Comment=Jump up the tower to survive
 Icon=gnujump.png
+TryExec=gnujump
 Exec=gnujump
 Terminal=false
 Categories=Game;ArcadeGame

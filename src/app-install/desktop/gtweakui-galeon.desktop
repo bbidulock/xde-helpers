@@ -5,6 +5,7 @@ Type=Application
 Name=gTweakUI - Galeon
 Comment=Extra galeon preferences
 Icon=/usr/share/gTweakUI/g.png
+TryExec=gtweakui-galeon
 Exec=gtweakui-galeon
 Terminal=false
 OnlyShowIn=GNOME;

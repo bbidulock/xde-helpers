@@ -9,6 +9,7 @@ Comment[fr]=Apprenez à taper correctement
 Comment[pt]=Aprenda a digitar corretamente
 Comment[ru]=Научитесь безошибочно печатать
 Icon=_usr_share_icons_hicolor_24x24_apps_klavaro
+TryExec=klavaro
 Exec=klavaro
 Terminal=false
 Categories=Education;GTK;

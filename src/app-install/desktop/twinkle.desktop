@@ -6,6 +6,7 @@ Name=Twinkle
 GenericName=A SIP softphone
 Comment=A SIP softphone
 Icon=_usr_share_twinkle_twinkle48
+TryExec=twinkle
 Exec=twinkle
 Terminal=false
 Categories=Qt;KDE;Network;Telephony;

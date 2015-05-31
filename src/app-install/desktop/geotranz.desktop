@@ -5,6 +5,7 @@ Type=Application
 Name=Geotranz
 Comment=Geographic coordinates translator
 Icon=geotrans
+TryExec=geotranz
 Exec=geotranz
 Terminal=false
 Categories=Education;Science;Geography;

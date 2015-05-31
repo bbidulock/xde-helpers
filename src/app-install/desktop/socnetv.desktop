@@ -6,6 +6,7 @@ Name=SocNetV
 GenericName=Social Networks Analysis and Visualisation
 Comment=Social Networks Visualisation and Analysis.
 Icon=socnetv
+TryExec=socnetv
 Exec=socnetv
 Terminal=false
 Categories=Education;Science;Math;Qt;

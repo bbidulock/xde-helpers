@@ -8,6 +8,7 @@ GenericName[de]=PDF teilen und zusammenführen
 Comment=A tool to split and merge pdf documents
 Comment[de]=Ein Werkzeug zur Trennung oder Zusammenführung von PDF-Dokumenten
 Icon=_usr_share_pdfsam_pdf
+TryExec=pdfsam
 Exec=pdfsam
 Terminal=false
 Categories=Office;

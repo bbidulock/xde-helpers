@@ -182,6 +182,7 @@ Comment[x-test]=xxExplore Geometric Constructionsxx
 Comment[zh_CN]=探索几何构造
 Comment[zh_TW]=作出幾何圖形
 Icon=kig
+TryExec=kig
 Exec=kig %i -caption "%c"
 Terminal=false
 Categories=Qt;KDE;Education;Math;

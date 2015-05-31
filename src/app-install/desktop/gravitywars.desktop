@@ -6,6 +6,7 @@ Name=Gravity Wars
 GenericName=gravitywars
 Comment=Test your skills against gravity
 Icon=gravitywars
+TryExec=gravitywars
 Exec=gravitywars
 Terminal=false
 Categories=Game;ArcadeGame;

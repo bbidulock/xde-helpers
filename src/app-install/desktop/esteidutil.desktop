@@ -8,6 +8,7 @@ GenericName=Smartcard tool
 Comment=EstEID smartcard management tool
 Comment[et]=ID-kaardi utiliit
 Icon=esteidutil
+TryExec=esteidutil
 Exec=esteidutil
 Terminal=false
 Categories=Utility;GTK;

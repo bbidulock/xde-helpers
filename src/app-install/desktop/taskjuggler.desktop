@@ -6,6 +6,7 @@ Name=TaskJuggler
 GenericName=Project Management Software
 Comment=Project Management Software
 Icon=taskjuggler
+TryExec=TaskJugglerUI
 Exec=TaskJugglerUI
 Terminal=false
 Categories=Qt;KDE;ProjectManagement;Office

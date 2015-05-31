@@ -52,6 +52,7 @@ Name[x-test]=xxKDE Groupware Wizardxx
 Name[zh_CN]=KDE 群件向导
 Name[zh_TW]=KDE 群組精靈
 Icon=kontact
+TryExec=groupwarewizard
 Exec=groupwarewizard
 Terminal=false
 Categories=Qt;KDE;Utility;X-KDE-Utilities-PIM;

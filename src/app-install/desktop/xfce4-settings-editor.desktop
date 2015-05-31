@@ -96,6 +96,7 @@ Comment[ur]=تصویری ترتیبات مدون کار برائے Xfconf
 Comment[ur_PK]=تصویری ترتیبات مدون کار برائے Xfconf
 Comment[zh_CN]=Xfconf 的图形界面设置编辑器
 Icon=preferences-system
+TryExec=xfce4-settings-editor
 Exec=xfce4-settings-editor
 Terminal=false
 OnlyShowIn=XFCE;

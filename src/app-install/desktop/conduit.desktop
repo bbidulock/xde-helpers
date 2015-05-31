@@ -85,6 +85,7 @@ Comment[zh_CN]=GNOME 的同步
 Comment[zh_HK]=GNOME 的同步化程式
 Comment[zh_TW]=GNOME 的同步化程式
 Icon=conduit
+TryExec=/usr/bin/conduit
 Exec=/usr/bin/conduit
 Terminal=false
 Categories=GNOME;GTK;Utility;

@@ -148,6 +148,7 @@ Comment[zh_CN]=Planner 项目管理
 Comment[zh_HK]=Planner 專案管理
 Comment[zh_TW]=Planner 專案管理
 Icon=gnome-planner
+TryExec=planner
 Exec=planner %F
 Terminal=false
 Categories=GNOME;GTK;Application;Office;ProjectManagement;

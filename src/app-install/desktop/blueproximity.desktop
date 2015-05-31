@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=BlueProximity
 Icon=blueproximity
+TryExec=/usr/bin/blueproximity
 Exec=/usr/bin/blueproximity
 Terminal=false
 Categories=Application;Utility;

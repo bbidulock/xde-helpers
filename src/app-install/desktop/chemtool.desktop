@@ -6,6 +6,7 @@ Name=Chemtool
 GenericName=Chemistry Structure Editor
 Comment=Draw and make calculations on chemical structures
 Icon=chemtool
+TryExec=chemtool
 Exec=chemtool
 Terminal=false
 Categories=Science;Chemistry;Education;

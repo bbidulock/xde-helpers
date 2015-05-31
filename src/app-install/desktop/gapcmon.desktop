@@ -6,6 +6,7 @@ Name=APCUPSD Monitor
 GenericName=gapcmon
 Comment=Gtk/GUI Monitor program for (U)ninterruptible (P)ower (S)upply under the management of the APCUPSD.sourceforge.net package, also available at gapcmon.sourceforge.net
 Icon=gapcmon.png
+TryExec=gapcmon
 Exec=gapcmon
 Terminal=false
 Categories=GTK;Application;System;

@@ -111,6 +111,7 @@ Comment[tr]=Ses şiddetini ayarla
 Comment[uk]=Скоригуйте рівень гучності
 Comment[zh_CN]=调节音量水平
 Icon=pavucontrol
+TryExec=pavucontrol
 Exec=pavucontrol
 Terminal=false
 Categories=AudioVideo;Audio;Mixer;GTK;X-MandrivaLinux-CrossDesktop;X-MandrivaLinux-Multimedia-Sound;

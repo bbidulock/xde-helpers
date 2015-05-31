@@ -6,6 +6,7 @@ Name=Smuxi
 GenericName=IRC Chat
 Comment=Chat with other people on IRC
 Icon=smuxi-frontend-gnome.svg
+TryExec=smuxi-frontend-gnome
 Exec=smuxi-frontend-gnome
 Terminal=false
 Categories=Network;GNOME;GTK;Chat;InstantMessaging;IRCClient;

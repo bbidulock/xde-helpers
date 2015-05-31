@@ -3,6 +3,7 @@ Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=PyPI Browser
+TryExec=pypibrowser
 Exec=pypibrowser
 Terminal=false
 Categories=Development;PackageManager;Qt

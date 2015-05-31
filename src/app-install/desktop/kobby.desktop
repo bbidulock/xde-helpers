@@ -5,6 +5,7 @@ Type=Application
 Name=Kobby
 GenericName=Collaborative Text Editor
 Icon=meeting-attending
+TryExec=kobby
 Exec=kobby
 Terminal=false
 Categories=Qt;KDE;Utility;TextEditor;Network;

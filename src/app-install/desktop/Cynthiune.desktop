@@ -6,6 +6,7 @@ Name=Cynthiune
 Comment=A free and romantic music player
 Comment[bg]=Свободна романтична програма за слушане на музика
 Icon=/usr/lib/GNUstep/Applications/Cynthiune.app/Resources/Cynthiune.tiff
+TryExec=Cynthiune
 Exec=Cynthiune
 Terminal=false
 Categories=AudioVideo;Audio;Player;

@@ -6,6 +6,7 @@ Name=Aqsis Advanced Framebuffer
 GenericName=RenderMan Advanced Framebuffer
 Comment=Display driver for Aqsis and other RenderMan-compliant renderers
 Icon=aqsis
+TryExec=piqsl
 Exec=piqsl %F
 Terminal=false
 Categories=Graphics;3DGraphics;Viewer;

@@ -120,6 +120,7 @@ Comment[zh_CN]=更改音量以及将声音与事件关联
 Comment[zh_HK]=改變音效的音量和音效事件
 Comment[zh_TW]=改變音效的音量和音效事件
 Icon=gnome-volume-control
+TryExec=gnome-volume-control
 Exec=gnome-volume-control
 Terminal=false
 OnlyShowIn=GNOME;

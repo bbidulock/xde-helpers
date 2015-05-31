@@ -6,6 +6,7 @@ Name=Powermanga
 GenericName=PowerManga
 Comment=Play a vertical shoot 'em up game
 Icon=powermanga
+TryExec=powermanga
 Exec=powermanga
 Terminal=false
 Categories=Game;ArcadeGame;

@@ -6,6 +6,7 @@ Name=mhWaveEdit
 GenericName=Sound file editor
 Comment=Record, play, edit and convert sound files
 Icon=mhwaveedit.xpm
+TryExec=mhwaveedit
 Exec=mhwaveedit
 Terminal=false
 Categories=AudioVideo;Audio;AudioVideoEditing;Recorder;

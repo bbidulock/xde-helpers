@@ -6,6 +6,7 @@ Name=GPSCorrelate
 GenericName=Geotagging tool
 Comment=Add coordinates to jpeg images using gpx files
 Icon=gpscorrelate-gui
+TryExec=gpscorrelate-gui
 Exec=gpscorrelate-gui
 Terminal=false
 Categories=Graphics;ImageProcessing;Geography;GTK;

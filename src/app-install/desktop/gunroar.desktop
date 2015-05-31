@@ -6,6 +6,7 @@ Name=Gunroar
 GenericName=
 Comment=Kenta Cho's Gunroar
 Icon=gunroar
+TryExec=gunroar
 Exec=gunroar
 Terminal=false
 Categories=Game;ArcadeGame;

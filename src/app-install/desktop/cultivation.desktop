@@ -6,6 +6,7 @@ Name=cultivation
 GenericName=
 Comment=
 Icon=cultivation.xpm
+TryExec=/usr/games/cultivation
 Exec=/usr/games/cultivation
 Terminal=false
 Categories=Game;ArcadeGame;

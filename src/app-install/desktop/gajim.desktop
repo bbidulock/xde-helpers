@@ -97,6 +97,7 @@ Comment[sv]=En GTK+-baserad Jabber-klient
 Comment[uk]=Jabber клієнт, що базується на GTK+
 Comment[zh_CN]=一个 GTK+ 的 Jabber 客户端
 Icon=gajim
+TryExec=gajim
 Exec=gajim
 Terminal=false
 Categories=Network;InstantMessaging;GTK;GNOME;

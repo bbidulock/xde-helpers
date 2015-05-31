@@ -98,6 +98,7 @@ X-GNOME-FullName[uk]=Переглядач фотографій Shotwell
 X-GNOME-FullName[zh_CN]=Shotwell 照片查看器
 X-GNOME-FullName[zh_TW]=Shotwell 相片檢視器
 Icon=shotwell
+TryExec=shotwell
 Exec=shotwell %f
 Terminal=false
 NoDisplay=true

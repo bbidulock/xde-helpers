@@ -6,6 +6,7 @@ Name=gpsk31
 Comment=psk31 program for hamradio operators
 Comment[nl]=psk31 programma voor zendamateurs
 Icon=gpsk31.png
+TryExec=gpsk31
 Exec=gpsk31
 Terminal=false
 Categories=Network;HamRadio

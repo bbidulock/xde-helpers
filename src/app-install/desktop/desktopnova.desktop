@@ -33,6 +33,7 @@ Comment[ru]=Изменяет обои рабочего стола автомат
 Comment[tr]=Arka plan görüntüsünü otomatik olarak değiştirir
 Comment[zh_CN]=自动更换你的壁纸
 Icon=desktopnova
+TryExec=desktopnova
 Exec=desktopnova
 Terminal=false
 Categories=GNOME;Application;Utility;

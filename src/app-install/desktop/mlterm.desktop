@@ -7,6 +7,7 @@ GenericName=
 Comment=Use Multi-Lingual Command Line
 Comment[ja]=国際化対応端末
 Icon=mlterm-icon-24colors-1.xpm
+TryExec=mlterm
 Exec=mlterm
 Terminal=false
 Categories=Application;Utility;TerminalEmulator;

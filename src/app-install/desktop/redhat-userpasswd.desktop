@@ -129,6 +129,7 @@ Comment[vi]=Đổi mật khẩu đăng nhập
 Comment[zh_CN]=改变你的登录密码
 Comment[zh_TW]=變更您的登入密碼
 Icon=password
+TryExec=userpasswd
 Exec=userpasswd
 Terminal=false
 NotShowIn=GNOME;KDE;

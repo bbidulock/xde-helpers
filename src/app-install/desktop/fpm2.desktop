@@ -16,6 +16,7 @@ Comment[fr]=Gérer les mots de passe
 Comment[it]=Gestire le parole d'ordine
 Comment[se]=Hantera lösenord
 Icon=_usr_share_pixmaps_fpm2_logo
+TryExec=fpm2
 Exec=fpm2 %f
 Terminal=false
 Categories=GTK;Utility;

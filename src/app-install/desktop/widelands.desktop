@@ -17,6 +17,7 @@ GenericName[sk]=Strategická hra
 Comment=A a real-time build-up strategy game
 Comment[de]=Echtzeitbasiertes Aufbau-Strategiespiel
 Icon=/usr/share/games/widelands/pics/wl-ico-64.png
+TryExec=widelands
 Exec=widelands
 Terminal=false
 Categories=Application;Game;StrategyGame;

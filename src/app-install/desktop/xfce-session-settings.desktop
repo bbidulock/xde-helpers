@@ -69,6 +69,7 @@ Comment[ur]=ڈیسک ٹاپ سٹارٹ اپ اور سپلیش سکرین وضع 
 Comment[ur_PK]=ڈیسک ٹاپ سٹارٹ اپ اور سپلیش سکرین وضع کریں
 Comment[zh_CN]=自定义桌面启动和闪屏
 Icon=xfce4-session
+TryExec=xfce4-session-settings
 Exec=xfce4-session-settings
 Terminal=false
 OnlyShowIn=XFCE;

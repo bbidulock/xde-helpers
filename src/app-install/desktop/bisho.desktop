@@ -56,6 +56,7 @@ Comment[wa]=myzone eyet estat
 Comment[zh_CN]=myzone 和当前状态
 Comment[zh_TW]=myzone 以及狀態
 Icon=bisho
+TryExec=bisho
 Exec=bisho
 Terminal=false
 Categories=GTK;Settings;DesktopSettings;

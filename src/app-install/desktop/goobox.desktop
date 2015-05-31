@@ -75,6 +75,7 @@ Comment[vi]=Phát và trích đĩã CD
 Comment[zh_CN]=播放并提取 CD
 Comment[zh_TW]=播放及擷取光碟
 Icon=goobox
+TryExec=goobox
 Exec=goobox
 Terminal=false
 Categories=GNOME;GTK;AudioVideo;

@@ -5,6 +5,7 @@ Type=Application
 Name=xSPIM
 Comment=Graphical MIPS32 Assembly language emulator
 Icon=xspim
+TryExec=xspim
 Exec=xspim
 Terminal=false
 Categories=ComputerScience;Science;Education

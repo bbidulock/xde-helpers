@@ -18,6 +18,7 @@ Name[zh_TW]=GADMIN-DHCPD
 GenericName=GADMIN-DHCPD
 Comment=DHCPD DHCP server administration
 Icon=gadmin-dhcpd
+TryExec=su-to-root
 Exec=su-to-root -X -c /usr/sbin/gadmin-dhcpd
 Terminal=false
 Categories=GTK;System;

@@ -86,6 +86,7 @@ Comment[tr]=Metin dosyalarını "wiki tarzı"nda düzenleyin
 Comment[zh_CN]=编辑文本文件“维基风格”
 Comment[zh_TW]=以維基樣式編輯文字檔案
 Icon=zim
+TryExec=zim
 Exec=zim
 Terminal=false
 Categories=Utility;TextEditor;GTK;

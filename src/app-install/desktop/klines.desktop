@@ -129,6 +129,7 @@ GenericName[xh]=Umdlalo onamaqhinga
 GenericName[zh_CN]=战术游戏
 GenericName[zh_TW]=戰術遊戲
 Icon=klines
+TryExec=klines
 Exec=klines -caption "%c"
 X-DBUS-StartupType=Multi
 Terminal=false

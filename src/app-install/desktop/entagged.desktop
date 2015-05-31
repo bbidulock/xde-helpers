@@ -6,6 +6,7 @@ Name=Entagged
 Comment=Tag Editor
 Comment[fr]=Editeur de Tags
 Icon=entagged.png
+TryExec=entagged
 Exec=entagged
 Terminal=false
 Categories=AudioVideo;

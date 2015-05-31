@@ -8,6 +8,7 @@ Comment[de]=aMule-Onlinestatistik
 Comment[fr]=Statistiques d'aMule en ligne
 Comment[hu]=aMule online statisztikák
 Icon=wxcas
+TryExec=wxcas
 Exec=wxcas
 Terminal=false
 Categories=Network;P2P;

@@ -5,6 +5,7 @@ Type=Application
 Name=pympd
 Comment=pyGTK+ Frontend for MPD
 Icon=pympd.svg
+TryExec=pympd
 Exec=pympd
 Terminal=false
 Categories=Application;AudioVideo;Audio;Player;

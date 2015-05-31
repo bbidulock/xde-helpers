@@ -5,6 +5,7 @@ Type=Application
 Name=TalkSoup
 Comment=An IRC Client for GNUstep and Mac OS X
 Icon=TalkSoup.tiff
+TryExec=TalkSoup
 Exec=TalkSoup
 Terminal=false
 Categories=Network;IRCClient;

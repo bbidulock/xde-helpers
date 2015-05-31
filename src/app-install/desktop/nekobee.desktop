@@ -5,6 +5,7 @@ Type=Application
 Name=Nekobee
 Comment=Simple single-oscillator DSSI plugin
 Icon=
+TryExec=nekobee
 Exec=nekobee
 Terminal=false
 Categories=GNOME;AudioVideo;Audio;

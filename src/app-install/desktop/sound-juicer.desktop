@@ -125,6 +125,7 @@ Comment[zh_CN]=从您的 CD 中复制音乐
 Comment[zh_HK]=從光碟中擷取音樂
 Comment[zh_TW]=從光碟中擷取音樂
 Icon=sound-juicer
+TryExec=sound-juicer
 Exec=sound-juicer %u
 Terminal=false
 Categories=GNOME;GTK;AudioVideo;Audio;X-AudioVideoImport;

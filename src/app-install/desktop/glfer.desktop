@@ -5,6 +5,7 @@ Type=Application
 Name=glfer
 Comment=slow CW (QRSS) / dual-frequency CW (DFCW)
 Icon=
+TryExec=glfer
 Exec=glfer
 Terminal=false
 Categories=Utility;HamRadio

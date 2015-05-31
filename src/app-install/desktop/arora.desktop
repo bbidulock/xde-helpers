@@ -33,6 +33,7 @@ Comment[nl_NL]=Surfen op het wereldwijde web
 Comment[sr@latin]=Krstarite Internetom
 Comment[sr]=Крстарите интернетом
 Icon=arora
+TryExec=arora
 Exec=arora %u
 Terminal=false
 Categories=Application;Qt;Network;WebBrowser;

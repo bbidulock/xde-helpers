@@ -5,6 +5,7 @@ Type=Application
 Name=BKchem
 Comment=Edit chemical structures and reactions
 Icon=bkchem
+TryExec=bkchem
 Exec=bkchem %U
 Terminal=false
 Categories=Education;Science;Chemistry;

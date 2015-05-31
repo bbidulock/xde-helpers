@@ -7,6 +7,7 @@ Name[fr]=UIMA CPE Gui
 Comment=Graphical interface to build UIMA CPE
 Comment[fr]=Interface graphique pour construire des chaînes UIMA
 Icon=UIMA
+TryExec=cpeGui
 Exec=cpeGui
 Terminal=false
 Categories=Education;Science;Java;

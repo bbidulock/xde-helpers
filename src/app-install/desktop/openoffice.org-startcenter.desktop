@@ -108,6 +108,7 @@ Comment[uz]=Ofis paketi ochiq va andoza ODF formati bilan uygʻundir. Sun Micros
 Comment[zh_CN]=该办公套件产品与开放的、标准化的 ODF 文档格式兼容。由 Oracle 提供支持。
 Comment[zh_TW]=與開放式標準 ODF 文件格式相容的辦公室套裝軟體。Oracle 贊助。
 Icon=openofficeorg3-startcenter
+TryExec=ooffice
 Exec=ooffice %U
 Terminal=false
 Categories=Office;

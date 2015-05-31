@@ -170,6 +170,7 @@ Comment[zh_CN]=互联网通讯程序。 支持 AIM、Google Talk、Jabber/XMPP�
 Comment[zh_HK]=讓你可以透過即時通訊與好友聊天，支援 AIM、Google Talk、Jabber/XMPP、MSN、Yahoo 等等
 Comment[zh_TW]=讓您可以透過即時通訊與好友聊天，支援 AIM、Google Talk、Jabber/XMPP、MSN、Yahoo 等等
 Icon=pidgin
+TryExec=pidgin
 Exec=pidgin
 Terminal=false
 Categories=Network;InstantMessaging;

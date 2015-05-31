@@ -6,6 +6,7 @@ Name=BurgerSpace
 Comment=A hamburger-smashing video game
 Comment[fr]=Un jeu de hamburgers qu'on écrase
 Icon=burgerspace.png
+TryExec=burgerspace
 Exec=burgerspace
 Terminal=false
 Categories=Game;ArcadeGame;

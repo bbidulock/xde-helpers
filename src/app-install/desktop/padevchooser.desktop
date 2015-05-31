@@ -6,6 +6,7 @@ Name=PulseAudio Device Chooser
 GenericName=Device Chooser
 Comment=An Applet for Quick Device Changing
 Icon=stock_line_in
+TryExec=padevchooser
 Exec=padevchooser
 Terminal=false
 Categories=Application;AudioVideo;Audio;

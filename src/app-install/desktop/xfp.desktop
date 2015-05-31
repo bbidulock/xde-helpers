@@ -22,6 +22,7 @@ Comment[hu]=Egyszerű csomagkezelő Xfe-hez
 Comment[pt_BR]=Um simples gerenciador de pacotes para o Xfe
 Comment[sv]=En enkel pakethanterare för Xfe
 Icon=xfp
+TryExec=xfpack
 Exec=xfpack
 Terminal=false
 Categories=Utility;PackageManager;

@@ -6,6 +6,7 @@ Name=Nvtv TV Out
 Comment=Control the TV output of NVidia video cards
 Comment[es]=Controle la salida de TV de tarjetas de video NVidia
 Icon=nvtv
+TryExec=nvtv
 Exec=nvtv
 Terminal=false
 Categories=AudioVideo;TV

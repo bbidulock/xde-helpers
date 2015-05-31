@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=Flags of the world
 Comment=Display a slideshow of the different flags with short information.
+TryExec=/usr/lib/gnome-screensaver/gnome-screensaver/slideshow
 Exec=/usr/lib/gnome-screensaver/gnome-screensaver/slideshow --location=/usr/share/backgrounds/flags
 Terminal=false
 OnlyShowIn=GNOME;

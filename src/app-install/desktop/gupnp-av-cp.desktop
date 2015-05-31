@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=UPnP AV Control Point
 Icon=_usr_share_gupnp-tools_pixmaps_av-cp
+TryExec=gupnp-av-cp
 Exec=gupnp-av-cp
 Terminal=false
 Categories=GTK;Development;

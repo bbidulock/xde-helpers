@@ -6,6 +6,7 @@ Name=GNU TeXmacs Editor
 GenericName=TeXmacs Editor
 Comment=A structured wysiwyg scientific text editor
 Icon=TeXmacs
+TryExec=texmacs
 Exec=texmacs %f
 Terminal=false
 Categories=Application;Science;Utility;

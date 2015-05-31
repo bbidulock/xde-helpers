@@ -187,6 +187,7 @@ Comment[x-test]=xxPractice exercises with fractionsxx
 Comment[zh_CN]=练习分数
 Comment[zh_TW]=練習計算分數題
 Icon=kbruch
+TryExec=kbruch
 Exec=kbruch -caption "%c" %i
 Terminal=false
 Categories=Qt;KDE;Education;Math;

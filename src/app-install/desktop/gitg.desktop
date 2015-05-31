@@ -28,6 +28,7 @@ Comment[nl]=Git repository bekijker
 Comment[pa]=Git ਰਿਪੋਜ਼ਟਰੀ ਬਰਾਊਜ਼ਰ
 Comment[sl]=Brskalnik git skladišč
 Icon=gitg
+TryExec=gitg
 Exec=gitg %U
 Terminal=false
 Categories=GNOME;GTK;Development;RevisionControl;

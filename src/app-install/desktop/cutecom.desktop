@@ -5,6 +5,7 @@ Type=Application
 Name=CuteCom
 GenericName=Serial Terminal
 Icon=openterm
+TryExec=cutecom
 Exec=cutecom
 Terminal=false
 MimeType=

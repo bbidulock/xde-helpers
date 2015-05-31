@@ -6,6 +6,7 @@ Name=BlueDevil Audio connect
 GenericName=BlueDevil Audio connect
 Comment=BlueDevil Audio connect
 Icon=preferences-system-bluetooth
+TryExec=bluedevil-audio
 Exec=bluedevil-audio %U
 Terminal=false
 Categories=Qt;KDE;Bluetooth;Network;Audio;

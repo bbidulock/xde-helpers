@@ -5,6 +5,7 @@ Type=Application
 Name=Pixelize
 Comment=Create an image consisting of many small images
 Icon=pixelize
+TryExec=pixelize
 Exec=pixelize
 Terminal=false
 Categories=Graphics;

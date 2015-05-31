@@ -5,6 +5,7 @@ Type=Application
 Name=Freqtweak
 Comment=Realtime audio processor based on frequency spectral manipulation
 Icon=freqtweak_logo32x18.xpm
+TryExec=freqtweak
 Exec=freqtweak
 Terminal=false
 Categories=AudioVideo;Audio;Midi;

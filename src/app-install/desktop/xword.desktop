@@ -5,6 +5,7 @@ Type=Application
 Name=Xword
 GenericName=Crossword Puzzles
 Comment=Do crossword puzzles
+TryExec=xword
 Exec=xword
 Terminal=false
 Categories=Game;LogicGame;

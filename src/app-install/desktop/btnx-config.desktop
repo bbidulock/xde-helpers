@@ -6,6 +6,7 @@ Name=btnx
 GenericName=
 GenericName[en_US]=
 Icon=btnx.png
+TryExec=su-to-root
 Exec=su-to-root -X -c /usr/sbin/btnx-config
 Terminal=false
 Categories=System;

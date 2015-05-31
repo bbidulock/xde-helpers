@@ -6,6 +6,7 @@ Name=Khmer Converter
 Name[km]=កម្មវិធី​បម្លែង​ពុម្ព​អក្សរ​ខ្មែរ
 Comment=Convert Khmer between Unicode and legacy Khmer encodings.
 Icon=khmerconverter.png
+TryExec=khmerconverter
 Exec=khmerconverter
 Terminal=false
 Categories=Translation;Utility;

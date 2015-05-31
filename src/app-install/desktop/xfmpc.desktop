@@ -81,6 +81,7 @@ Comment[ur]=ایم پی ڈی MPD کلائنٹ جو ایکسفس کے لیے GTK+
 Comment[ur_PK]=ایم پی ڈی MPD کلائنٹ جو ایکسفس کے لیے GTK+ میں لکھا گیا ہے
 Comment[zh_CN]=使用GTK+编写的用于Xfce的MPD客户端
 Icon=stock_volume
+TryExec=xfmpc
 Exec=xfmpc
 Terminal=false
 Categories=GTK;AudioVideo;Audio;Player;

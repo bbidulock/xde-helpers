@@ -8,6 +8,7 @@ GenericName[de]=Erstellung von Tagesmeldungen
 Comment=GGZ Utility
 Comment[de]=GGZ-Hilfsprogramm
 Icon=
+TryExec=motd_editor
 Exec=motd_editor
 Terminal=false
 Categories=X-GGZ;Utility;GNOME;GTK

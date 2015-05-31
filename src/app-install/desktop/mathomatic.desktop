@@ -6,6 +6,7 @@ Name=Mathomatic
 GenericName=Computer Algebra System
 Comment=A computer algebra system for the console
 Icon=mathomatic
+TryExec=mathomatic
 Exec=mathomatic
 Terminal=true
 Categories=Utility;Calculator;Science;Math;ConsoleOnly;

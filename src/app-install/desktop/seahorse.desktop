@@ -131,6 +131,7 @@ Comment[zh_CN]=管理您的密码和加密密钥
 Comment[zh_HK]=管理密碼及密碼匙
 Comment[zh_TW]=管理密碼及金鑰
 Icon=seahorse
+TryExec=seahorse
 Exec=seahorse
 Terminal=false
 Categories=GNOME;GTK;Security;Utility;X-MandrivaLinux-System-FileTools;

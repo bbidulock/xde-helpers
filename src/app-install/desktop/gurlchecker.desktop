@@ -15,6 +15,7 @@ Comment[fr]=Vérificateur de liens graphique
 Comment[it]=Controllore grafico di link web
 Comment[sk]=Grafický Web Kontrolór Web Odkazov
 Icon=gurlchecker
+TryExec=gurlchecker
 Exec=gurlchecker %u
 Terminal=false
 Categories=GTK;GNOME;Application;Network;

@@ -5,6 +5,7 @@ Type=Application
 Name=xmoct
 GenericName=oct game
 Icon=_usr_share_pixmaps_xoct.m
+TryExec=/usr/games/xmoct
 Exec=/usr/games/xmoct
 Terminal=false
 Categories=Game;

@@ -82,6 +82,7 @@ Comment[x-test]=xxAkonadi Management and Debugging Consolexx
 Comment[zh_CN]=用于管理和调试 Akonadi 的控制台
 Comment[zh_TW]=Akonadi 管理與除錯主控台
 Icon=utilities-terminal
+TryExec=akonadiconsole
 Exec=akonadiconsole
 Terminal=false
 Categories=Qt;KDE;Development;

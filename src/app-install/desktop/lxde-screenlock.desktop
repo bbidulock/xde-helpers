@@ -6,6 +6,7 @@ Name=ScreenLock
 Name[zh_TW]=鎖住螢幕
 Comment=Lock your screen
 Icon=system-lock-screen
+TryExec=xscreensaver-command
 Exec=xscreensaver-command -lock
 Terminal=false
 StartupNotify=false

@@ -6,6 +6,7 @@ Name=Tennix!
 GenericName=Tennis game
 Comment=Play tennis against the computer or a friend
 Icon=tennix
+TryExec=tennix
 Exec=tennix
 Terminal=false
 Categories=Game;SportsGame;

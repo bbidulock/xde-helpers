@@ -5,6 +5,7 @@ Type=Application
 Name=Aconnectgui
 Comment=Midi connections manager 
 Icon=_usr_share_pixmaps_aconnectgui
+TryExec=/usr/bin/aconnectgui
 Exec=/usr/bin/aconnectgui
 Terminal=false
 Categories=Application;AudioVideo;

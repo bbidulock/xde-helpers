@@ -46,6 +46,7 @@ Comment[uk]=Переглянути служби Zeroconf, доступ до як
 Comment[zh_CN]=浏览网络内的Zeroconf服务
 Comment[zh_TW]=在您的網路上瀏覽可用的 Zeroconf 服務
 Icon=network-wired
+TryExec=/usr/bin/avahi-discover
 Exec=/usr/bin/avahi-discover
 Terminal=false
 Categories=GNOME;System;

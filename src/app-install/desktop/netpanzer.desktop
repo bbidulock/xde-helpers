@@ -6,6 +6,7 @@ Name=NetPanzer
 GenericName=Realtime Strategy Game
 Comment=Online multiplayer tactical warfare game
 Icon=netpanzer
+TryExec=netpanzer
 Exec=netpanzer
 Terminal=false
 Categories=Game;StrategyGame;

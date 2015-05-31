@@ -45,6 +45,7 @@ Comment[sv]=Ta bort, extrahera och rotera sidor i PDF-dokument
 Comment[ta]=பிடிஎஃப் ஆவணங்கள் இல் பக்கங்கள் ஐ  நீக்கு, பிரி  மற்றும் சுழற்று
 Comment[zh_CN]=在 PDF 文档中移除、释放或转动页面
 Icon=pdfmod
+TryExec=pdfmod
 Exec=pdfmod %U
 Terminal=false
 Categories=GNOME;GTK;Utility;

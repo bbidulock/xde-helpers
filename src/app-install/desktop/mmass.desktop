@@ -5,6 +5,7 @@ Type=Application
 Name=mMass
 Comment=Mass spectrum viewer and data analysis proteomics tool
 Icon=mmass
+TryExec=/usr/bin/mmass
 Exec=/usr/bin/mmass
 Terminal=false
 Categories=Education;Science;Chemistry;

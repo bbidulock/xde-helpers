@@ -5,6 +5,7 @@ Type=Application
 Name=Zaz
 Comment=Zaz ain't Z***
 Icon=zaz.xpm
+TryExec=zaz
 Exec=zaz
 Terminal=false
 Categories=Game;LogicGame;

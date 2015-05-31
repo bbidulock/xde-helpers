@@ -5,6 +5,7 @@ Type=Application
 Name=Linthesia
 GenericName=Piano game
 Icon=linthesia.xpm
+TryExec=linthesia
 Exec=linthesia
 Terminal=false
 Categories=Game;Music;Education

@@ -4,6 +4,7 @@ Encoding=UTF-8
 Type=Application
 Name=Tiger UNIX security tool
 Comment=Tiger UNIX security tool (root)
+TryExec=su-to-root
 Exec=su-to-root -c '/usr/sbin/tiger'
 Terminal=true
 Categories=System;

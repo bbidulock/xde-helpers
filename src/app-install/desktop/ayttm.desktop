@@ -5,6 +5,7 @@ Type=Application
 Name=ayttm
 Comment="The GTK Unified Messaging Client"
 Icon=_usr_share_pixmaps_ayttm
+TryExec=/usr/bin/ayttm
 Exec=/usr/bin/ayttm
 Terminal=false
 Categories=Network;InstantMessaging

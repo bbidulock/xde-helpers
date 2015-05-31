@@ -6,6 +6,7 @@ Name=BlueDevil Wizard
 GenericName=BlueDevil Wizard
 Comment=BlueDevil Wizard
 Icon=preferences-system-bluetooth
+TryExec=bluedevil-wizard
 Exec=bluedevil-wizard %U
 Terminal=false
 Categories=Qt;KDE;Bluetooth;Network;

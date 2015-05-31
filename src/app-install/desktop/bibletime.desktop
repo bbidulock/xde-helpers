@@ -21,6 +21,7 @@ Comment[fi]=Helppokäyttöinen raamatunlukuohjelmisto
 Comment[fr]=Un outil d'éde biblique facile àtiliser
 Comment[it]=Un semplice strumento per studiare la Bibbia
 Icon=bibletime
+TryExec=bibletime
 Exec=bibletime
 Terminal=false
 Categories=X-Bible;X-Religion;Literature;Education;Dictionary;Qt

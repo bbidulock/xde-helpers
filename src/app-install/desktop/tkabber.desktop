@@ -14,6 +14,7 @@ Comment[es]=Comunicación usando el protocolo XMPP (Jabber)
 Comment[pl]=Komunikuj się za pomocą protokołu XMPP (Jabber)
 Comment[ru]=Общаться с помощью протокола XMPP (Jabber)
 Icon=/usr/share/icons/tkabber.xpm
+TryExec=/usr/bin/tkabber
 Exec=/usr/bin/tkabber
 Terminal=false
 Categories=Network;InstantMessaging;

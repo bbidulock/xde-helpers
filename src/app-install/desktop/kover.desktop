@@ -5,6 +5,7 @@ Type=Application
 Name=Kover
 Comment=CD Cover Printer
 Icon=kover
+TryExec=kover
 Exec=kover  
 Terminal=false
 MimeType=application/x-kover

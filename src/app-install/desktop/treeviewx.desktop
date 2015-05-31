@@ -14,6 +14,7 @@ Comment[fr]=Affiche, modifie, imprime et exporte au format SVG des arbres phyolg
 Comment[it]=Mostra, modifica, stampa ed esporta in formato SVG alberi filogenetici
 Comment[pt_BR]=Exibe, modifica e exporta em formato SVG árvores filogenéticas
 Icon=treeviewx
+TryExec=tv
 Exec=tv %f
 Terminal=false
 Categories=Biology;Science;Education;

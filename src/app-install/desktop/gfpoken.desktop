@@ -5,6 +5,7 @@ Type=Application
 Name=GFingerPoken
 Comment=GFingerPoken logic game
 Icon=gfpoken.png
+TryExec=gfpoken
 Exec=gfpoken
 Terminal=false
 Categories=Game;LogicGame;

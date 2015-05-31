@@ -6,6 +6,7 @@ Name=Rhinote
 Comment=Virtual sticky-notes
 Comment[it]=Note di testo virtuali
 Icon=rhinote
+TryExec=rhinote
 Exec=rhinote
 Terminal=false
 Categories=Utility;TextEditor;

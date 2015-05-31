@@ -65,6 +65,7 @@ Name[vi]=Nhập khoá
 Name[zh_CN]=导入密钥
 Name[zh_HK]=匯入密碼匙
 Name[zh_TW]=匯入金鑰
+TryExec=seahorse-tool
 Exec=seahorse-tool --import
 Terminal=false
 NoDisplay=true

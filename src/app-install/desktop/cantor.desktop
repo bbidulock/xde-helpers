@@ -59,6 +59,7 @@ GenericName[x-test]=xxKDE Frontend to Mathematical Software.xx
 GenericName[zh_CN]=数学软件的 KDE 前端
 GenericName[zh_TW]=KDE 數學軟體的前端介面
 Icon=cantor
+TryExec=cantor
 Exec=cantor %i -caption "%c"
 Terminal=false
 Categories=Qt;KDE;Education;Math;

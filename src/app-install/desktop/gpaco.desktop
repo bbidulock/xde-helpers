@@ -6,6 +6,7 @@ Name=Package Organizer
 GenericName=Package Organizer
 Comment=Manages software installed from source code
 Icon=gpaco.png
+TryExec=gpaco
 Exec=gpaco
 Terminal=false
 Categories=Application;System;PackageManager;GTK

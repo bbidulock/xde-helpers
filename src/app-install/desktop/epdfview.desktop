@@ -12,6 +12,7 @@ Comment=Lightweight PDF document viewer
 Comment[ca]=Visor de documents PDF lleuger
 Comment[es]=Visor de documentos PDF ligero
 Icon=icon_epdfview-48
+TryExec=epdfview
 Exec=epdfview %f
 Terminal=false
 Categories=Viewer;Office;GTK;

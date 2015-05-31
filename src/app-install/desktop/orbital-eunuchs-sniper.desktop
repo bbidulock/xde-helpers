@@ -5,6 +5,7 @@ Type=Application
 Name=Orbital Eunuchs Sniper
 Comment=Anti-terrorist Satellite Sniping Game
 Icon=orbital-eunuchs-sniper.png
+TryExec=/usr/games/snipe2d
 Exec=/usr/games/snipe2d
 Terminal=false
 Categories=Application;Game;ArcadeGame;

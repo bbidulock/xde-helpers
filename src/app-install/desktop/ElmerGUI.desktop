@@ -5,6 +5,7 @@ Type=Application
 Name=Elmer
 Comment=Elmer FEA software
 Icon=_usr_share_ElmerGUI_icons_Mesh3D
+TryExec=ElmerGUI
 Exec=ElmerGUI
 Terminal=false
 Categories=Education;Math;Science

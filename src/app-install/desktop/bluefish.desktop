@@ -33,6 +33,7 @@ Comment[pl]=Edytor stron www
 Comment[pt_BR]=Editor de Desenvolvimento Web
 Comment[uk]=Редактор для веб-розробки
 Icon=bluefish
+TryExec=bluefish
 Exec=bluefish %F
 Terminal=false
 Categories=GTK;GNOME;Development;WebDevelopment;

@@ -39,3 +39,7 @@ X-AppInstall-Package=audacious
 X-AppInstall-Popcon=1775
 X-AppInstall-Section=main
 X-Arch-Package=audacious2 3.2.4-1
+X-Arch-Package-Name=audacious2
+X-Arch-Package-Version=3.2.4-1
+X-Arch-Package-Description=Lightweight, GTK-based advanced audio player focused on audio quality. Gtk2 version.
+X-Arch-Package-URL=http://audacious-media-player.org/

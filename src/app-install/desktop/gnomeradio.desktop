@@ -49,6 +49,7 @@ Comment[uk]=Прослуховування FM-радіо
 Comment[vi]=Nghe rađiô FM
 Comment[zh_TW]=收聽 FM-radio
 Icon=gnomeradio
+TryExec=gnomeradio
 Exec=gnomeradio
 Terminal=false
 Categories=AudioVideo;Audio;Tuner

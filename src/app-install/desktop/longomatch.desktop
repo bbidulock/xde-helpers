@@ -22,6 +22,7 @@ Comment[de]=Analyse von Sportvideos für Trainer
 Comment[es]=Herramienta de vídeo análisis para entrenadores
 Comment[sl]=Orodje za analizo posnetkov tekem za trenerje
 Icon=longomatch
+TryExec=longomatch
 Exec=longomatch
 Terminal=false
 Categories=Video;AudioVideo;Player;AudioVideoEditing;

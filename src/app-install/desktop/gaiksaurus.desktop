@@ -6,6 +6,7 @@ Name=GTK Aiksaurus
 GenericName=Thesaurus
 Comment=Find Synonyms and Homonyms
 Icon=gaiksaurus
+TryExec=gaiksaurus
 Exec=gaiksaurus
 Terminal=false
 Categories=GNOME;Office;

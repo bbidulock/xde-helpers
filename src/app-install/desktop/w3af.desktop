@@ -5,6 +5,7 @@ Type=Application
 Name=w3af
 Comment=Web Application Attack and Audit Framework
 Icon=w3af
+TryExec=/usr/share/w3af/w3af_gui
 Exec=/usr/share/w3af/w3af_gui
 Terminal=false
 Categories=Network;Security;

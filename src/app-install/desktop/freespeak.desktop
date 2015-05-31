@@ -12,6 +12,7 @@ Comment=A free frontend to online translator engines
 Comment[fr]=Une interface pour les moteurs de traduction en ligne
 Comment[it]=Un frontend libero ai motori di traduzione online
 Icon=freespeak
+TryExec=freespeak
 Exec=freespeak
 Terminal=false
 Categories=Education;Translation

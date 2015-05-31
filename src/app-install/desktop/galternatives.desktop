@@ -15,6 +15,7 @@ Comment[fr]=Configuration des alternatives par défaut du système
 Comment[pt_BR]=Configure as alternativas padrão do sistema
 Comment[sv]=Konfigurera systemets standardalternativ
 Icon=_usr_share_pixmaps_galternatives
+TryExec=/usr/sbin/galternatives
 Exec=/usr/sbin/galternatives
 Terminal=false
 Categories=GTK;Application;System;

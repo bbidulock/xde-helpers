@@ -72,6 +72,7 @@ Comment[tr]=Yer temizle ve gizliliğini koru
 Comment[uk]=Вільний простір та керування приватністю
 Comment[zh_CN]=释放空间和保护隐私
 Icon=bleachbit
+TryExec=bleachbit
 Exec=bleachbit
 Terminal=false
 Categories=GTK;System;

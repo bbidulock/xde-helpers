@@ -90,6 +90,7 @@ Comment[wa]=Waitî eyet schoûter
 Comment[zh_CN]=播放
 Comment[zh_TW]=觀賞與聆聽
 Icon=hornsey
+TryExec=hornsey
 Exec=hornsey %U
 Terminal=false
 Categories=Audio;Video;AudioVideo;

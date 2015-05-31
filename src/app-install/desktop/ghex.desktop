@@ -95,6 +95,7 @@ Comment[wa]=Aspougneu hecsadecimå di Gnome
 Comment[zh_CN]=GNOME十六进制编辑器
 Comment[zh_TW]=GNOME 二位元檔編輯器
 Icon=ghex
+TryExec=ghex2
 Exec=ghex2 %F
 Terminal=false
 Categories=GNOME;Development;

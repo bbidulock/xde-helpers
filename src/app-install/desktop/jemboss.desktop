@@ -6,6 +6,7 @@ Name=Jemboss
 GenericName=GUI for EMBOSS
 Comment=Graphical user interface for the European Molecular Biology Open Software Suite.
 Icon=jemboss
+TryExec=runJemboss.csh
 Exec=runJemboss.csh
 Terminal=false
 Categories=Biology;Science;Education;

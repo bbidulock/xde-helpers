@@ -10,6 +10,7 @@ Comment=GGZ TicTacToe game
 Comment[de]=GGZ TicTacToe-Spiel
 Comment[fr]=Jeu GGZ TicTacToe
 Icon=ktictactux
+TryExec=/usr/lib/ggz/ktictactux_client
 Exec=/usr/lib/ggz/ktictactux_client
 Terminal=false
 Categories=X-GGZ-Games;BoardGame;Game;KDE;Qt;

@@ -165,6 +165,7 @@ Comment[x-test]=xxa KDE program to learn the alphabetxx
 Comment[zh_CN]=帮助学习字母表的 KDE 程序
 Comment[zh_TW]=學習字母的 KDE 程式
 Icon=klettres
+TryExec=klettres
 Exec=klettres -caption "%c" %i
 Terminal=false
 Categories=Qt;KDE;Education;Languages;

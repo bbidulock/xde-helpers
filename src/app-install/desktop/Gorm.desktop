@@ -5,6 +5,7 @@ Type=Application
 Name=Gorm
 Comment=[GNUstep | Graphical] Object Relationship Modeller
 Icon=_usr_lib_GNUstep_Applications_Gorm.app_Resources_Gorm
+TryExec=Gorm
 Exec=Gorm
 Terminal=false
 Categories=Development;GUIDesigner;Building;

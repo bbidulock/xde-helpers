@@ -7,6 +7,7 @@ Comment=An open source RTS with similar gameplay to TA
 Comment[de]=Open-Source Multiplayerstrategie
 Comment[it]=Un gioco di strategia in tempo reale multi giocatore simile a TA
 Icon=spring
+TryExec=spring
 Exec=spring %f
 Terminal=false
 Categories=Game;StrategyGame;

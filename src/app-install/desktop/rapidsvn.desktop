@@ -6,6 +6,7 @@ Name=RapidSVN
 GenericName=Subversion Client
 Comment=A GUI Client for Subversion
 Icon=rapidsvn
+TryExec=rapidsvn
 Exec=rapidsvn
 Terminal=false
 Categories=Development;

@@ -6,6 +6,7 @@ Name=CouchDB Pairing Tool
 GenericName=CouchDB Pairing Tool
 Comment=Utility for pairing Desktop CouchDB
 Icon=
+TryExec=desktopcouch-pair
 Exec=desktopcouch-pair
 Terminal=false
 Categories=Network;

@@ -6,6 +6,7 @@ Name=BZFlag
 GenericName=Tank Battle Game
 Comment=Battle enemy tanks
 Icon=bzflag-48x48
+TryExec=/usr/games/bzflag
 Exec=/usr/games/bzflag
 Terminal=false
 Categories=Game;ActionGame;3DGraphics;

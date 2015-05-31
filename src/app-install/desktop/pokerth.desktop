@@ -42,6 +42,7 @@ Comment[ru]=Игра в техасский холдем
 Comment[tr]=Texas hold'em oyunu
 Comment[uk]=Гра в техаський холдем
 Icon=pokerth
+TryExec=pokerth
 Exec=pokerth
 X-DCOP-ServiceType=Multi
 Terminal=false

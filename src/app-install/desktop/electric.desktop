@@ -6,6 +6,7 @@ Name=electric
 GenericName=Electrical CAD
 Comment=Electrical CAD System
 Icon=electric
+TryExec=electric
 Exec=electric
 Terminal=false
 Categories=Education;Electronics;Engineering;
