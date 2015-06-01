@@ -501,10 +501,12 @@ dist_appl_DATA = \
 #	src/xsessions/fluxbox.desktop \
 #	src/xsessions/flwm.desktop \
 #	src/xsessions/Fvwm1.desktop \
+#	src/xsessions/fvwm2.desktop \
 #	src/xsessions/fvwm-crystal.desktop \
 #	src/xsessions/Fvwm.desktop \
 #	src/xsessions/fvwm.desktop \
 #	src/xsessions/gnome.desktop \
+#	src/xsessions/goomwwm.desktop \
 #	src/xsessions/herbstluftwm.desktop \
 #	src/xsessions/i3.desktop \
 #	src/xsessions/i3-with-shmlog.desktop \
@@ -517,6 +519,7 @@ dist_appl_DATA = \
 #	src/xsessions/matwm2.desktop \
 #	src/xsessions/metacity.desktop \
 #	src/xsessions/mutter.desktop \
+#	src/xsessions/mvwm.desktop \
 #	src/xsessions/mwm.desktop \
 #	src/xsessions/openbox.desktop \
 #	src/xsessions/openbox-gnome.desktop \
