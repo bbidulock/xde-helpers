@@ -125,3 +125,6 @@ X-XFCE-Binaries=iceweasel;iceweasel-gtk2;iceweasel-gtk;
 X-XFCE-Category=WebBrowser
 X-XFCE-Commands=%B -remote "openURL(about:blank,new-window)";%B;
 X-XFCE-CommandsWithParameter=%B -remote "openURL(%s)";%B %s;
+X-AppInstall-Package=iceweasel
+X-AppInstall-Popcon=26537
+X-AppInstall-Section=main

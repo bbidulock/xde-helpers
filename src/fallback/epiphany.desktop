@@ -353,4 +353,7 @@ X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=epiphany
 X-GNOME-Bugzilla-Component=BugBuddyBugs
 X-GNOME-Bugzilla-Version=2.30.6
+X-AppInstall-Package=epiphany-browser
+X-AppInstall-Popcon=13298
+X-AppInstall-Section=main
 X-Arch-Package=epiphany 3.16.1-1

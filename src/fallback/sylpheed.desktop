@@ -3,6 +3,7 @@ Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=Sylpheed
+Name[ja]=Sylpheed
 Name[sr]=Силфид
 Name[uk]=Переглядач пошти Sylpheed
 Name[ur]=سیلفیڈ
