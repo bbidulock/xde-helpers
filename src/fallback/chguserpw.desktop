@@ -7,7 +7,7 @@ GenericName=LDAP Password changer
 Comment=Webpage for changing password on ldap-users installation
 Icon=password
 Terminal=false
-Categories=Network;System;Security
+Categories=Network;System;Security;
 URL=https://tjener/lwat/chguserpw.php?username=$(id -un)
 StartupNotify=false
 X-AppInstall-Package=lwat

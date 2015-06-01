@@ -80,6 +80,6 @@ Icon=blueman
 TryExec=blueman-manager
 Exec=blueman-manager
 Terminal=false
-Categories=GTK;GNOME;Settings;HardwareSettings;
+Categories=GNOME;GTK;Settings;HardwareSettings;
 StartupNotify=true
 X-Arch-Package=blueman 1.99.alpha2-1

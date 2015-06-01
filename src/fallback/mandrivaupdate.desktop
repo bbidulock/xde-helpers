@@ -73,5 +73,5 @@ TryExec=MandrivaUpdate
 Exec=MandrivaUpdate
 Terminal=false
 NoDisplay=true
-Categories=X-MandrivaLinux-CrossDesktop;GTK;System;PackageManager;
+Categories=GTK;X-MandrivaLinux-CrossDesktop;System;PackageManager;
 StartupNotify=false

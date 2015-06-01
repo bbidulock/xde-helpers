@@ -71,6 +71,6 @@ Icon=utilities-system-monitor
 TryExec=xsysinfo
 Exec=xsysinfo
 Terminal=false
-Categories=System
+Categories=System;
 StartupNotify=false
 X-AfterStep-IndexName=xsysinfo

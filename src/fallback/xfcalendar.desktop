@@ -136,6 +136,6 @@ TryExec=orage
 Exec=orage
 Terminal=false
 OnlyShowIn=XFCE;
-Categories=X-XFCE;Office;Calendar;GTK;
+Categories=GTK;X-XFCE;Office;Calendar;
 MimeType=text/calendar;
 StartupNotify=true

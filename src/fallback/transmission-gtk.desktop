@@ -230,6 +230,6 @@ Icon=transmission
 TryExec=transmission-gtk
 Exec=transmission-gtk %F
 Terminal=false
-Categories=Network;FileTransfer;P2P;GTK;
+Categories=GTK;Network;FileTransfer;P2P;
 MimeType=application/x-bittorrent;
 StartupNotify=false

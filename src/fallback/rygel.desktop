@@ -10,7 +10,7 @@ Comment=UPnP/DLNA Services
 TryExec=dbus-send
 Exec=dbus-send --type=method_call --dest=org.freedesktop.DBus /org/freedesktop/DBus org.freedesktop.DBus.StartServiceByName string:org.gnome.Rygel1 uint32:0
 Terminal=false
-Categories=
+Categories=;
 StartupNotify=true
 X-GNOME-Autostart-enabled=true
 X-GNOME-Bugzilla-Bugzilla=GNOME

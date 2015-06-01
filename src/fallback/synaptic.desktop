@@ -135,5 +135,5 @@ TryExec=su-to-root
 Exec=su-to-root -X -c /usr/sbin/synaptic
 Terminal=false
 NotShowIn=KDE;
-Categories=PackageManager;GTK;System;Settings;
+Categories=GTK;PackageManager;System;Settings;
 StartupNotify=false

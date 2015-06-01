@@ -47,6 +47,6 @@ TryExec=polkit-gnome-authorization
 Exec=polkit-gnome-authorization
 Terminal=false
 OnlyShowIn=GNOME;
-Categories=Settings;X-GNOME-SystemSettings;System;GTK;GNOME;
+Categories=GNOME;GTK;Settings;X-GNOME-SystemSettings;System;
 StartupNotify=true
 X-Desktop-File-Install-Version=0.16

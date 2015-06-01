@@ -103,5 +103,5 @@ Icon=text-editor
 TryExec=nedit
 Exec=nedit
 Terminal=false
-Categories=TextEditor
+Categories=TextEditor;
 StartupNotify=false

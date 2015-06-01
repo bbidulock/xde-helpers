@@ -9,6 +9,6 @@ Icon=xsane
 TryExec=xsane
 Exec=xsane
 Terminal=false
-Categories=Graphics;2DGraphics;RasterGraphics;Scanning;GTK;
+Categories=GTK;Graphics;2DGraphics;RasterGraphics;Scanning;
 StartupNotify=true
 X-Desktop-File-Install-Version=0.15

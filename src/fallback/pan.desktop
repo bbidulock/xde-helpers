@@ -85,6 +85,6 @@ Icon=pan
 TryExec=pan
 Exec=pan 
 Terminal=false
-Categories=GTK;Application;Network;News
+Categories=GTK;Application;Network;News;
 StartupNotify=false
 X-Desktop-File-Install-Version=0.16

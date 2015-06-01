@@ -10,5 +10,5 @@ Icon=/usr/share/codeina/icons/codeina.png
 TryExec=codeina
 Exec=codeina
 Terminal=false
-Categories=Audio;Video;AudioVideo
+Categories=Audio;Video;AudioVideo;
 StartupNotify=false

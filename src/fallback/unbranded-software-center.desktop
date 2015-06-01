@@ -167,6 +167,6 @@ Icon=softwarecenter
 TryExec=software-center
 Exec=software-center
 Terminal=false
-Categories=PackageManager;GTK;System;Settings;
+Categories=GTK;PackageManager;System;Settings;
 StartupNotify=true
 X-Ubuntu-Gettext-Domain=software-center

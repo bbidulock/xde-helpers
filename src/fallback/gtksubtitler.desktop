@@ -9,5 +9,5 @@ Icon=video
 TryExec=GTKsubtitler
 Exec=GTKsubtitler
 Terminal=false
-Categories=AudioVideo
+Categories=AudioVideo;
 StartupNotify=false

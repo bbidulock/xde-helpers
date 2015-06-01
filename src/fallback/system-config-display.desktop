@@ -103,6 +103,6 @@ Icon=system-config-display.png
 TryExec=system-config-display
 Exec=system-config-display
 Terminal=false
-Categories=System;Application;SystemSetup;GTK;X-Red-Hat-Base;
+Categories=GTK;System;Application;SystemSetup;X-Red-Hat-Base;
 StartupNotify=true
 X-Desktop-File-Install-Version=0.10

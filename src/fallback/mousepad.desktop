@@ -144,6 +144,6 @@ Icon=mousepad
 TryExec=mousepad
 Exec=mousepad %f
 Terminal=false
-Categories=Application;Utility;TextEditor;GTK;
+Categories=GTK;Application;Utility;TextEditor;
 MimeType=text/plain
 StartupNotify=true

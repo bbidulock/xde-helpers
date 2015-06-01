@@ -22,6 +22,6 @@ TryExec=gtk-gnash
 Exec=gtk-gnash %U
 Terminal=false
 NoDisplay=true
-Categories=AudioVideo;Video;Player;GTK;
+Categories=GTK;AudioVideo;Video;Player;
 MimeType=application/x-shockwave-flash;application/futuresplash;
 StartupNotify=false

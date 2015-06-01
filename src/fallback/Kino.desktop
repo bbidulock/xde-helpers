@@ -45,6 +45,6 @@ Icon=kino
 TryExec=kino
 Exec=soundwrapper kino %F
 Terminal=false
-Categories=AudioVideo;AudioVideoEditing;GNOME;GTK;Video;Recorder;
+Categories=GNOME;GTK;AudioVideo;AudioVideoEditing;Video;Recorder;
 MimeType=video/dv;application/smil;
 StartupNotify=true
