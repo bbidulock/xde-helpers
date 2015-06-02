@@ -170,3 +170,6 @@ X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=gnome-utils
 X-GNOME-Bugzilla-Component=gsearchtool
 X-Desktop-File-Install-Version=0.18
+X-AppInstall-Package=gnome-search-tool
+X-AppInstall-Popcon=1525
+X-AppInstall-Section=main

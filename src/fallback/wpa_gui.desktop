@@ -12,3 +12,6 @@ Exec=kdesu wpa_gui
 Terminal=false
 Categories=Qt;Network;
 StartupNotify=false
+X-AppInstall-Package=wpagui
+X-AppInstall-Popcon=138
+X-AppInstall-Section=main

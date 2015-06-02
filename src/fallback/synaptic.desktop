@@ -137,3 +137,6 @@ Terminal=false
 NotShowIn=KDE;
 Categories=GTK;PackageManager;System;Settings;
 StartupNotify=false
+X-AppInstall-Package=synaptic
+X-AppInstall-Popcon=13353
+X-AppInstall-Section=main

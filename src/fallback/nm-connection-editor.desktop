@@ -125,3 +125,7 @@ StartupNotify=true
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=NetworkManager
 X-GNOME-Bugzilla-Component=general
+X-AppInstall-Package=network-manager-gnome
+X-AppInstall-Popcon=17354
+X-AppInstall-Section=main
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

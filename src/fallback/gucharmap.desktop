@@ -174,3 +174,6 @@ X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=gucharmap
 X-GNOME-Bugzilla-Component=general
 X-GNOME-Bugzilla-Version=2.33.2
+X-AppInstall-Package=gucharmap
+X-AppInstall-Popcon=2883
+X-AppInstall-Section=main

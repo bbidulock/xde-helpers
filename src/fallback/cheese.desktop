@@ -230,4 +230,7 @@ X-GNOME-Bugzilla-Component=general
 X-GNOME-Bugzilla-Version=3.16.1-1
 X-GNOME-Bugzilla-ExtraInfoScript=/usr/lib/cheese/cheese/cheese-bugreport.sh
 X-Desktop-File-Install-Version=0.18
+X-AppInstall-Package=cheese
+X-AppInstall-Popcon=3182
+X-AppInstall-Section=main
 X-Arch-Package=cheese 3.16.1-1

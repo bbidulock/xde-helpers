@@ -19,3 +19,6 @@ Categories=KDE;Qt;Utility;
 MimeType=application/x-google-gadget;app/gg;
 StartupNotify=true
 X-Desktop-File-Install-Version=0.18
+X-AppInstall-Package=google-gadgets-qt
+X-AppInstall-Popcon=623
+X-AppInstall-Section=main

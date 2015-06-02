@@ -174,3 +174,6 @@ X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=gnome-system-tools
 X-GNOME-Bugzilla-Component=runlevel-admin
 X-GNOME-Bugzilla-Version=2.30.2
+X-AppInstall-Package=gnome-system-tools
+X-AppInstall-Popcon=14598
+X-AppInstall-Section=main

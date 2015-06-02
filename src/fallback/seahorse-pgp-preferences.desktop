@@ -131,3 +131,6 @@ X-GNOME-DocPath=seahorse/seahorse.xml
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=seahorse
 X-GNOME-Bugzilla-Component=general
+X-AppInstall-Package=seahorse-plugins
+X-AppInstall-Popcon=7285
+X-AppInstall-Section=main

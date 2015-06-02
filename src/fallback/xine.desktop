@@ -14,3 +14,6 @@ Terminal=false
 Categories=Application;AudioVideo;Player;
 MimeType=video/mpeg;video/quicktime;video/x-msvideo;video/x-anim;audio/x-mp3;audio/x-mp2;
 StartupNotify=false
+X-AppInstall-Package=xine-ui
+X-AppInstall-Popcon=3940
+X-AppInstall-Section=main

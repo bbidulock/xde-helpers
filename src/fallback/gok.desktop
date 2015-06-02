@@ -137,3 +137,6 @@ StartupNotify=false
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=gok
 X-GNOME-Bugzilla-Component=general
+X-AppInstall-Package=gok
+X-AppInstall-Popcon=7860
+X-AppInstall-Section=main

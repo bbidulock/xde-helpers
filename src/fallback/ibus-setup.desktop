@@ -103,3 +103,6 @@ NoDisplay=true
 Categories=Settings;
 StartupNotify=true
 X-Desktop-File-Install-Version=0.18
+X-AppInstall-Package=ibus
+X-AppInstall-Popcon=179
+X-AppInstall-Section=main

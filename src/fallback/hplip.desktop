@@ -13,3 +13,6 @@ NotShowIn=KDE;
 Categories=Application;Utility;Settings;
 StartupNotify=false
 X-KDE-StartupNotify=false
+X-AppInstall-Package=hplip-gui
+X-AppInstall-Popcon=911
+X-AppInstall-Section=main

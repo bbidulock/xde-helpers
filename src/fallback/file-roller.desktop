@@ -197,4 +197,7 @@ X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=file-roller
 X-GNOME-Bugzilla-Component=general
 X-GNOME-Bugzilla-Version=2.30.2
+X-AppInstall-Package=file-roller
+X-AppInstall-Popcon=22123
+X-AppInstall-Section=main
 X-Arch-Package=file-roller 3.16.2-2

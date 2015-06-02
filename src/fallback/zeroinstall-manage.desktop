@@ -17,3 +17,6 @@ Exec=0desktop --manage
 Terminal=false
 Categories=GTK;PackageManager;
 StartupNotify=false
+X-AppInstall-Package=zeroinstall-injector
+X-AppInstall-Popcon=145
+X-AppInstall-Section=main

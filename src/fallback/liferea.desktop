@@ -79,3 +79,6 @@ Exec=liferea
 Terminal=false
 Categories=Network;News;
 StartupNotify=true
+X-AppInstall-Package=liferea
+X-AppInstall-Popcon=3005
+X-AppInstall-Section=main

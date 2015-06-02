@@ -207,3 +207,7 @@ StartupNotify=true
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=tomboy
 X-GNOME-Bugzilla-Component=General
+X-AppInstall-Package=tomboy
+X-AppInstall-Popcon=6348
+X-AppInstall-Section=main
+X-AppInstall-Architectures=amd64,armel,i386,ia64,kfreebsd-amd64,kfreebsd-i386,powerpc,s390,sparc

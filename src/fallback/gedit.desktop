@@ -347,4 +347,7 @@ X-GNOME-Bugzilla-Component=general
 X-GNOME-Bugzilla-Version=3.0.6
 X-GNOME-Bugzilla-ExtraInfoScript=/usr/libexec/gedit/gedit-bugreport.sh
 X-Desktop-File-Install-Version=0.18
+X-AppInstall-Package=gedit
+X-AppInstall-Popcon=14549
+X-AppInstall-Section=main
 X-Arch-Package=gedit 3.16.2-1

@@ -162,3 +162,6 @@ X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=gnome-nettool
 X-GNOME-Bugzilla-Component=general
 X-GNOME-Bugzilla-Version=2.30.0
+X-AppInstall-Package=gnome-nettool
+X-AppInstall-Popcon=3004
+X-AppInstall-Section=main

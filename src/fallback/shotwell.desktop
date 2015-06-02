@@ -153,3 +153,6 @@ MimeType=x-content/image-dcf;
 StartupNotify=false
 X-GIO-NoFuse=true
 X-GNOME-Gettext-Domain=shotwell
+X-AppInstall-Package=shotwell
+X-AppInstall-Popcon=890
+X-AppInstall-Section=main

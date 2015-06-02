@@ -222,3 +222,6 @@ Terminal=false
 Categories=GTK;Network;FileTransfer;P2P;
 MimeType=application/x-bittorrent;
 StartupNotify=false
+X-AppInstall-Package=transmission-gtk
+X-AppInstall-Popcon=9533
+X-AppInstall-Section=main

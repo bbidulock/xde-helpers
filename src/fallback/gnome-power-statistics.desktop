@@ -153,3 +153,6 @@ X-GNOME-Bugzilla-Product=gnome-power-manager
 X-GNOME-Bugzilla-Component=gnome-power-statistics
 X-GNOME-Bugzilla-Version=3.0.2
 X-Desktop-File-Install-Version=0.10
+X-AppInstall-Package=gnome-power-manager
+X-AppInstall-Popcon=21903
+X-AppInstall-Section=main

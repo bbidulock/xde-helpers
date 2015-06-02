@@ -18,3 +18,6 @@ Exec=xsane
 Terminal=false
 Categories=GTK;Graphics;RasterGraphics;Scanning;OCR;
 StartupNotify=true
+X-AppInstall-Package=xsane
+X-AppInstall-Popcon=5637
+X-AppInstall-Section=main

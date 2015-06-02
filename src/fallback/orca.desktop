@@ -218,3 +218,6 @@ StartupNotify=true
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=orca
 X-GNOME-Bugzilla-Component=general
+X-AppInstall-Package=gnome-orca
+X-AppInstall-Popcon=1061
+X-AppInstall-Section=main

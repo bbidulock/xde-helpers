@@ -88,3 +88,6 @@ Terminal=false
 Categories=GTK;Application;Network;News;
 StartupNotify=false
 X-Desktop-File-Install-Version=0.16
+X-AppInstall-Package=pan
+X-AppInstall-Popcon=282
+X-AppInstall-Section=main

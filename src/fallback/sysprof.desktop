@@ -11,3 +11,7 @@ Terminal=false
 Categories=Development;Profiling;
 StartupNotify=true
 X-Desktop-File-Install-Version=0.18
+X-AppInstall-Package=sysprof
+X-AppInstall-Popcon=21
+X-AppInstall-Section=main
+X-AppInstall-Architectures=amd64,i386

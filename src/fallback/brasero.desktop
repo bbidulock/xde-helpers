@@ -264,4 +264,7 @@ X-GNOME-Bugzilla-Product=brasero
 X-GNOME-Bugzilla-Component=general
 X-GNOME-Bugzilla-Version=3.12.0
 X-Desktop-File-Install-Version=0.18
+X-AppInstall-Package=brasero
+X-AppInstall-Popcon=8823
+X-AppInstall-Section=main
 X-Arch-Package=brasero 3.12.0-1

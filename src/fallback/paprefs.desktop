@@ -114,3 +114,6 @@ Terminal=false
 Categories=GTK;Settings;X-MandrivaLinux-CrossDesktop;System;
 StartupNotify=true
 X-Desktop-File-Install-Version=0.18
+X-AppInstall-Package=paprefs
+X-AppInstall-Popcon=348
+X-AppInstall-Section=main

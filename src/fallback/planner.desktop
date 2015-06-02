@@ -159,3 +159,6 @@ X-GNOME-Bugzilla-Product=planner
 X-GNOME-Bugzilla-Component=General
 X-GNOME-Bugzilla-Version=0.14.4
 X-Desktop-File-Install-Version=0.16
+X-AppInstall-Package=planner
+X-AppInstall-Popcon=471
+X-AppInstall-Section=main

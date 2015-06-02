@@ -130,3 +130,6 @@ X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=gnome-media
 X-GNOME-Bugzilla-Component=gnome-volume-control
 X-GNOME-Bugzilla-Version=2.30.0
+X-AppInstall-Package=gnome-media
+X-AppInstall-Popcon=8195
+X-AppInstall-Section=main

@@ -33,3 +33,6 @@ Terminal=false
 OnlyShowIn=XFCE;
 Categories=X-XFCE;Settings;DesktopSettings;
 StartupNotify=true
+X-AppInstall-Package=notification-daemon-xfce
+X-AppInstall-Popcon=124
+X-AppInstall-Section=main

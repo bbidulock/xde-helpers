@@ -284,3 +284,6 @@ X-GNOME-Bugzilla-Product=rhythmbox
 X-GNOME-Bugzilla-Component=general
 X-GNOME-Bugzilla-Version=2.90.1
 X-GNOME-Bugzilla-OtherBinaries=rhythmbox-client;rhythmbox-metadata;
+X-AppInstall-Package=rhythmbox
+X-AppInstall-Popcon=16066
+X-AppInstall-Section=main

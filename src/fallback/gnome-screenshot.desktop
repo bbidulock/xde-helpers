@@ -150,3 +150,6 @@ X-GNOME-Bugzilla-Product=gnome-utils
 X-GNOME-Bugzilla-Component=screenshot
 X-GNOME-Bugzilla-OtherBinaries=gnome-panel-screenshot
 X-Desktop-File-Install-Version=0.15
+X-AppInstall-Package=gnome-screenshot
+X-AppInstall-Popcon=2937
+X-AppInstall-Section=main

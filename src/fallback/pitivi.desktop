@@ -94,3 +94,6 @@ X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=pitivi
 X-GNOME-Bugzilla-Component=general
 X-GNOME-Bugzilla-Version=0.14.2
+X-AppInstall-Package=pitivi
+X-AppInstall-Popcon=192
+X-AppInstall-Section=main

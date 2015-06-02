@@ -140,3 +140,6 @@ Terminal=false
 OnlyShowIn=XFCE;
 Categories=X-XFCE;Utility;
 StartupNotify=false
+X-AppInstall-Package=xfprint4
+X-AppInstall-Popcon=1162
+X-AppInstall-Section=main

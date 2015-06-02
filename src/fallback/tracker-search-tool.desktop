@@ -75,3 +75,6 @@ X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=tracker
 X-GNOME-Bugzilla-Component=Tracker Search Tool
 X-GNOME-Bugzilla-Version=0.8.17
+X-AppInstall-Package=tracker-gui
+X-AppInstall-Popcon=291
+X-AppInstall-Section=main

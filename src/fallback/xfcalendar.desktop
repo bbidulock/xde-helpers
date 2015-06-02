@@ -139,3 +139,6 @@ OnlyShowIn=XFCE;
 Categories=GTK;X-XFCE;Office;Calendar;
 MimeType=text/calendar;
 StartupNotify=true
+X-AppInstall-Package=orage
+X-AppInstall-Popcon=1026
+X-AppInstall-Section=main

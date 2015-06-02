@@ -117,3 +117,6 @@ Terminal=false
 Categories=GTK;AudioVideo;Audio;Mixer;X-MandrivaLinux-CrossDesktop;X-MandrivaLinux-Multimedia-Sound;
 StartupNotify=true
 X-Desktop-File-Install-Version=0.18
+X-AppInstall-Package=pavucontrol
+X-AppInstall-Popcon=555
+X-AppInstall-Section=main

@@ -142,3 +142,6 @@ X-GNOME-Bugzilla-Product=seahorse
 X-GNOME-Bugzilla-Component=general
 X-GNOME-Bugzilla-Version=2.32.0
 X-Desktop-File-Install-Version=0.17
+X-AppInstall-Package=seahorse
+X-AppInstall-Popcon=20085
+X-AppInstall-Section=main

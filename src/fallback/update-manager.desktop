@@ -187,4 +187,7 @@ Exec=update-manager
 Terminal=false
 Categories=System;Settings;
 StartupNotify=false
+X-AppInstall-Package=update-manager-gnome
+X-AppInstall-Popcon=6358
+X-AppInstall-Section=main
 X-Ubuntu-Gettext-Domain=update-manager

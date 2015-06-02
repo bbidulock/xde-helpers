@@ -185,3 +185,6 @@ X-GNOME-Bugzilla-Product=gnome-panel
 X-GNOME-Bugzilla-Component=general
 X-GNOME-Bugzilla-Version=3.0.0.1
 X-Desktop-File-Install-Version=0.18
+X-AppInstall-Package=gnome-panel
+X-AppInstall-Popcon=21610
+X-AppInstall-Section=main

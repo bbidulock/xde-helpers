@@ -175,3 +175,6 @@ Exec=pidgin
 Terminal=false
 Categories=Network;InstantMessaging;
 StartupNotify=true
+X-AppInstall-Package=pidgin
+X-AppInstall-Popcon=5499
+X-AppInstall-Section=main

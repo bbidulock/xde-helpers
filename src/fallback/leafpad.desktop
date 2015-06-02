@@ -49,3 +49,6 @@ Terminal=false
 Categories=GTK;Utility;TextEditor;
 MimeType=text/plain;
 StartupNotify=false
+X-AppInstall-Package=leafpad
+X-AppInstall-Popcon=817
+X-AppInstall-Section=main

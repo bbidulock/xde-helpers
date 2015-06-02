@@ -152,3 +152,6 @@ Exec=Terminal
 Terminal=false
 Categories=GTK;System;TerminalEmulator;Utility;
 StartupNotify=true
+X-AppInstall-Package=terminal.app
+X-AppInstall-Popcon=149
+X-AppInstall-Section=main

@@ -222,4 +222,7 @@ X-GNOME-Bugzilla-Product=dasher
 X-GNOME-Bugzilla-Component=general
 X-GNOME-Bugzilla-Version=4.11
 X-Desktop-File-Install-Version=0.17
+X-AppInstall-Package=dasher
+X-AppInstall-Popcon=1122
+X-AppInstall-Section=main
 X-Arch-Package=dasher 4.11-2

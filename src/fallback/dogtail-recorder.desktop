@@ -14,4 +14,7 @@ Exec=dogtail-recorder
 Terminal=false
 Categories=Application;Development;
 StartupNotify=true
+X-AppInstall-Package=python-dogtail
+X-AppInstall-Popcon=1
+X-AppInstall-Section=main
 X-Arch-Package=dogtail 0.9.0-1

@@ -114,3 +114,6 @@ X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=gnome-session
 X-GNOME-Bugzilla-Component=general
 X-GNOME-Bugzilla-Version=2.30.2
+X-AppInstall-Package=gnome-session
+X-AppInstall-Popcon=20605
+X-AppInstall-Section=main

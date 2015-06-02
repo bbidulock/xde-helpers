@@ -136,3 +136,6 @@ X-GNOME-Bugzilla-Product=sound-juicer
 X-GNOME-Bugzilla-Component=general
 X-GNOME-Bugzilla-Version=2.32.0
 X-Desktop-File-Install-Version=0.18
+X-AppInstall-Package=sound-juicer
+X-AppInstall-Popcon=3625
+X-AppInstall-Section=main

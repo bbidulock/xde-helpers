@@ -140,3 +140,6 @@ X-GNOME-Bugzilla-Product=gnome-utils
 X-GNOME-Bugzilla-Component=logview
 X-GNOME-Bugzilla-Version=2.30.0
 X-Desktop-File-Install-Version=0.16
+X-AppInstall-Package=gnome-system-log
+X-AppInstall-Popcon=1188
+X-AppInstall-Section=main

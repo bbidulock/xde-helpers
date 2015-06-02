@@ -16,4 +16,7 @@ Terminal=false
 Categories=GTK;Network;FileTransfer;X-MandrivaLinux-CrossDesktop;
 StartupNotify=false
 X-Desktop-File-Install-Version=0.18
+X-AppInstall-Package=filezilla
+X-AppInstall-Popcon=1524
+X-AppInstall-Section=main
 X-Arch-Package=filezilla 3.11.0.1-1

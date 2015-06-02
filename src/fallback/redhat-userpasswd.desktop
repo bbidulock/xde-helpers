@@ -136,3 +136,6 @@ NotShowIn=GNOME;KDE;
 Categories=X-Red-Hat-Base;X-GNOME-PersonalSettings;Settings;
 StartupNotify=false
 X-Desktop-File-Install-Version=0.18
+X-AppInstall-Package=usermode
+X-AppInstall-Popcon=77
+X-AppInstall-Section=main

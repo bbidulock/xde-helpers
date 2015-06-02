@@ -177,3 +177,6 @@ X-GNOME-Bugzilla-Product=gconf-editor
 X-GNOME-Bugzilla-Component=general
 X-GNOME-Bugzilla-Version=2.30.0
 X-Desktop-File-Install-Version=0.16
+X-AppInstall-Package=gconf-editor
+X-AppInstall-Popcon=3634
+X-AppInstall-Section=main

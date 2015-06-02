@@ -195,3 +195,6 @@ X-GNOME-Bugzilla-Product=Gnumeric
 X-GNOME-Bugzilla-Component=General
 X-GNOME-Bugzilla-Version=1.10.14
 X-Desktop-File-Install-Version=0.18
+X-AppInstall-Package=gnumeric
+X-AppInstall-Popcon=6610
+X-AppInstall-Section=main

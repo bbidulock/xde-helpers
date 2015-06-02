@@ -153,3 +153,7 @@ X-GNOME-Bugzilla-Component=properties
 X-GNOME-Bugzilla-Version=3.16.1
 X-GNOME-Bugzilla-OtherBinaries=bluetooth-sendto;bluetooth-wizard;
 X-Desktop-File-Install-Version=0.15
+X-AppInstall-Package=gnome-bluetooth
+X-AppInstall-Popcon=8461
+X-AppInstall-Section=main
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

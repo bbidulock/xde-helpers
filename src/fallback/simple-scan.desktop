@@ -87,3 +87,7 @@ Terminal=false
 Categories=GNOME;GTK;Graphics;Scanning;
 StartupNotify=true
 X-GNOME-Gettext-Domain=simple-scan
+X-AppInstall-Package=simple-scan
+X-AppInstall-Popcon=687
+X-AppInstall-Section=main
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

@@ -137,3 +137,6 @@ X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=xchat-gnome
 X-GNOME-Bugzilla-Component=general
 X-GNOME-Bugzilla-Version=0.26.1
+X-AppInstall-Package=xchat-gnome
+X-AppInstall-Popcon=122
+X-AppInstall-Section=main

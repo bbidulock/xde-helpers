@@ -156,3 +156,6 @@ X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=gnome-games
 X-GNOME-Bugzilla-Component=BugBuddyBugs
 X-GNOME-Bugzilla-Version=2.30.2
+X-AppInstall-Package=gnome-games
+X-AppInstall-Popcon=5182
+X-AppInstall-Section=main

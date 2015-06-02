@@ -177,3 +177,6 @@ X-GNOME-Bugzilla-Product=system-monitor
 X-GNOME-Bugzilla-Component=general
 X-GNOME-Bugzilla-Version=3.0.0
 X-Desktop-File-Install-Version=0.18
+X-AppInstall-Package=gnome-system-monitor
+X-AppInstall-Popcon=6811
+X-AppInstall-Section=main

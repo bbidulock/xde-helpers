@@ -66,4 +66,7 @@ NotShowIn=KDE;
 Categories=Application;System;
 MimeType=application/x-deb;application/x-debian-package;
 StartupNotify=true
+X-AppInstall-Package=gdebi
+X-AppInstall-Popcon=2366
+X-AppInstall-Section=main
 X-Ubuntu-Gettext-Domain=gdebi

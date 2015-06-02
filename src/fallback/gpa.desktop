@@ -10,3 +10,6 @@ Exec=gpa
 Terminal=false
 Categories=GTK;Application;Security;Utility;
 StartupNotify=false
+X-AppInstall-Package=gpa
+X-AppInstall-Popcon=81
+X-AppInstall-Section=main

@@ -246,4 +246,7 @@ X-GNOME-Bugzilla-Product=evince
 X-GNOME-Bugzilla-Component=BugBuddyBugs
 X-GNOME-Bugzilla-Version=3.16.1
 X-Desktop-File-Install-Version=0.18
+X-AppInstall-Package=evince
+X-AppInstall-Popcon=25183
+X-AppInstall-Section=main
 X-Arch-Package=evince 3.16.1

@@ -175,3 +175,6 @@ X-GNOME-Bugzilla-Product=gnome-utils
 X-GNOME-Bugzilla-Component=gdict
 X-GNOME-Bugzilla-Version=3.0.0
 X-Desktop-File-Install-Version=0.18
+X-AppInstall-Package=gnome-dictionary
+X-AppInstall-Popcon=7841
+X-AppInstall-Section=main

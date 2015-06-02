@@ -159,3 +159,6 @@ X-GNOME-Bugzilla-Product=gnome-power-manager
 X-GNOME-Bugzilla-Component=gnome-power-preferences
 X-GNOME-Bugzilla-Version=2.32.0
 X-GNOME-Bugzilla-ExtraInfoScript=/usr/share/gnome-power-manager/gnome-power-bugreport
+X-AppInstall-Package=gnome-power-manager
+X-AppInstall-Popcon=21903
+X-AppInstall-Section=main

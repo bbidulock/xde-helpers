@@ -30,3 +30,6 @@ MimeType=audio/ac3;audio/mp4;audio/mpeg;audio/vnd.rn-realaudio;audio/vorbis;audi
 StartupNotify=false
 X-KDE-StartupNotify=false
 X-Desktop-File-Install-Version=0.18
+X-AppInstall-Package=smplayer
+X-AppInstall-Popcon=1683
+X-AppInstall-Section=main

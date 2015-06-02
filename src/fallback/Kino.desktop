@@ -48,3 +48,7 @@ Terminal=false
 Categories=GNOME;GTK;AudioVideo;AudioVideoEditing;Video;Recorder;
 MimeType=video/dv;application/smil;
 StartupNotify=true
+X-AppInstall-Package=kino
+X-AppInstall-Popcon=1158
+X-AppInstall-Section=main
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

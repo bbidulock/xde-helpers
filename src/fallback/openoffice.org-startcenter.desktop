@@ -114,3 +114,6 @@ Terminal=false
 Categories=Office;
 MimeType=application/vnd.openofficeorg.extension
 StartupNotify=false
+X-AppInstall-Package=openoffice.org
+X-AppInstall-Popcon=659
+X-AppInstall-Section=main

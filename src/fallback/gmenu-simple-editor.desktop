@@ -109,3 +109,6 @@ StartupNotify=true
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=gnome-menus
 X-GNOME-Bugzilla-Component=general
+X-AppInstall-Package=gnome-menus
+X-AppInstall-Popcon=11050
+X-AppInstall-Section=main

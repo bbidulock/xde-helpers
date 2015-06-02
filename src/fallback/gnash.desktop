@@ -25,3 +25,6 @@ NoDisplay=true
 Categories=GTK;AudioVideo;Video;Player;
 MimeType=application/x-shockwave-flash;application/futuresplash;
 StartupNotify=false
+X-AppInstall-Package=gnash
+X-AppInstall-Popcon=3468
+X-AppInstall-Section=main

@@ -10,3 +10,6 @@ Exec=reportbug --exit-prompt --ui gtk2
 Terminal=false
 Categories=Application;System;
 StartupNotify=false
+X-AppInstall-Package=reportbug
+X-AppInstall-Popcon=6221
+X-AppInstall-Section=main

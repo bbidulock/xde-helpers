@@ -184,3 +184,6 @@ X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=bug-buddy
 X-GNOME-Bugzilla-Component=general
 X-GNOME-Bugzilla-Version=2.30.0
+X-AppInstall-Package=bug-buddy
+X-AppInstall-Popcon=1531
+X-AppInstall-Section=main

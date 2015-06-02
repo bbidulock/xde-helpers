@@ -152,4 +152,7 @@ X-GNOME-Bugzilla-Product=gnome-utils
 X-GNOME-Bugzilla-Component=baobab
 X-GNOME-Bugzilla-Version=2.30.0
 X-Desktop-File-Install-Version=0.16
+X-AppInstall-Package=baobab
+X-AppInstall-Popcon=1674
+X-AppInstall-Section=main
 X-Arch-Package=baobab 3.16.1-1

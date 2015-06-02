@@ -116,3 +116,6 @@ X-GNOME-Bugzilla-Product=gnome-pilot
 X-GNOME-Bugzilla-Component=capplet
 X-GNOME-Bugzilla-Version=2.91.92
 X-Desktop-File-Install-Version=0.18
+X-AppInstall-Package=gnome-pilot
+X-AppInstall-Popcon=2450
+X-AppInstall-Section=main

@@ -105,3 +105,6 @@ Exec=nedit
 Terminal=false
 Categories=TextEditor;
 StartupNotify=false
+X-AppInstall-Package=nedit
+X-AppInstall-Popcon=472
+X-AppInstall-Section=main

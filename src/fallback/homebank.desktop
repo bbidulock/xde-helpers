@@ -122,3 +122,6 @@ Terminal=false
 Categories=GTK;Office;Finance;X-MandrivaLinux-CrossDesktop;
 MimeType=application/x-homebank;
 StartupNotify=true
+X-AppInstall-Package=homebank
+X-AppInstall-Popcon=91
+X-AppInstall-Section=main

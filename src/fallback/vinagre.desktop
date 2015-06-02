@@ -143,3 +143,6 @@ X-GNOME-Bugzilla-Product=vinagre
 X-GNOME-Bugzilla-Component=general
 X-GNOME-Bugzilla-Version=3.0.1
 X-Desktop-File-Install-Version=0.18
+X-AppInstall-Package=vinagre
+X-AppInstall-Popcon=4939
+X-AppInstall-Section=main
