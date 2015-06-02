@@ -52,6 +52,7 @@ Name[zh_CN]=Netscape Navigator
 Name[zh_TW]=Netscape 領航員
 Icon=mozilla
 Terminal=false
+Categories=;
 StartupNotify=false
 X-XFCE-Binaries=netscape;
 X-XFCE-Category=WebBrowser

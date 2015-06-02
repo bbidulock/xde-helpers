@@ -12,6 +12,7 @@ TryExec=/usr/bin/gnome-session
 Exec=gnome-session --session=e16-gnome
 Terminal=false
 Hidden=true
+Categories=;
 StartupNotify=false
 X-GNOME-Autostart-Notify=true
 X-GNOME-Autostart-Phase=WindowManager

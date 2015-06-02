@@ -6,6 +6,7 @@ Name=Bluetile
 TryExec=bluetile
 Exec=bluetile
 Terminal=false
+Categories=;
 StartupNotify=false
 X-GNOME-Autostart-Notify=true
 X-GNOME-Autostart-Phase=WindowManager

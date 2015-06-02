@@ -12,6 +12,7 @@ Icon=gnome-gbatnavd.png
 TryExec=gbnserver
 Exec=gbnserver
 Terminal=false
+Categories=;
 StartupNotify=false
 X-AppInstall-Package=gbatnav
 X-AppInstall-Popcon=11

@@ -5,6 +5,7 @@ Type=X-XFCE-Helper
 Name=Rodent File Manager
 Icon=folder
 Terminal=false
+Categories=;
 StartupNotify=true
 X-XFCE-Binaries=rodent-forked;
 X-XFCE-Category=FileManager

@@ -6,6 +6,7 @@ Name=Fuss Application Launcher
 TryExec=fuss-launcher
 Exec=fuss-launcher
 Terminal=false
+Categories=;
 StartupNotify=false
 X-KDE-autostart-after=panel
 X-KDE-autostart-phase=2

@@ -87,6 +87,7 @@ Exec=/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 Terminal=false
 NoDisplay=true
 OnlyShowIn=GNOME;
+Categories=;
 StartupNotify=false
 X-Arch-Package=polkit-gnome 0.105-2
 X-Arch-Package-Name=polkit-gnome

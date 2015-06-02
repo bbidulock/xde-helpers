@@ -10,5 +10,5 @@ Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=kanadic
-X-AppInstall-Popcon=0
 X-AppInstall-Section=main
+X-AppInstall-Popcon=0

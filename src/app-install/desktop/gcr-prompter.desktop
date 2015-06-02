@@ -101,6 +101,7 @@ TryExec=/usr/lib/gcr/gcr-prompter
 Exec=/usr/lib/gcr/gcr-prompter
 Terminal=false
 NoDisplay=true
+Categories=;
 StartupNotify=false
 X-Arch-Package=gcr 3.16.0-1
 X-Arch-Package-Name=gcr

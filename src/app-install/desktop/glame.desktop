@@ -9,6 +9,7 @@ TryExec=glame
 Exec=glame
 MultipleArgs=false
 Terminal=false
+Categories=;
 StartupNotify=false
 X-AppInstall-Package=glame
 X-AppInstall-Popcon=90

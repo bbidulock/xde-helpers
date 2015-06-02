@@ -19,5 +19,5 @@ Terminal=false
 Categories=Application;Network;
 StartupNotify=false
 X-AppInstall-Package=gerstensaft
-X-AppInstall-Popcon=0
 X-AppInstall-Section=main
+X-AppInstall-Popcon=0

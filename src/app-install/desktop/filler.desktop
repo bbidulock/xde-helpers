@@ -9,6 +9,7 @@ Icon=filler.png
 TryExec=filler
 Exec=filler
 Terminal=false
+Categories=;
 StartupNotify=false
 X-AppInstall-Package=filler
 X-AppInstall-Popcon=7

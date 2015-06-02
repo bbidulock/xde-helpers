@@ -2,7 +2,7 @@
 Version=1.0
 Encoding=UTF-8
 Type=Application
-Name=LiVES 
+Name=LiVES
 Comment=Video Editor/VJ tool
 Icon=lives
 TryExec=lives

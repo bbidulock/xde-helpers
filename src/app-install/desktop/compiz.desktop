@@ -43,6 +43,7 @@ Name[zh_TW]=Compiz
 TryExec=compiz
 Exec=compiz
 Terminal=false
+Categories=;
 StartupNotify=false
 X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager

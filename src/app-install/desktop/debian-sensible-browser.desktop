@@ -54,6 +54,7 @@ Icon=debian
 TryExec=sensible-browser
 Exec=sensible-browser %u
 Terminal=false
+Categories=;
 StartupNotify=false
 X-XFCE-Binaries=sensible-browser;
 X-XFCE-Category=WebBrowser

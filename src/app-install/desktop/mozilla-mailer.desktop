@@ -52,6 +52,7 @@ Name[zh_CN]=Mozilla 邮件
 Name[zh_TW]=Mozilla 郵件
 Icon=mozilla
 Terminal=false
+Categories=;
 StartupNotify=false
 X-XFCE-Binaries=mozilla;mozilla-gtk2;mozilla-gtk;
 X-XFCE-Category=MailReader

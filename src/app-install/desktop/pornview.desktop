@@ -8,6 +8,7 @@ Icon=pornview
 TryExec=pornview
 Exec=pornview
 Terminal=false
+Categories=;
 StartupNotify=false
 X-AppInstall-Package=pornview
 X-AppInstall-Popcon=88

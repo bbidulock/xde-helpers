@@ -92,15 +92,15 @@ Icon=scribus-ng
 TryExec=scribus-ng
 Exec=scribus-ng %f
 Terminal=false
-Categories=Qt;Publishing;Graphics;
+Categories=Graphics;Publishing;Qt;
 MimeType=application/vnd.scribus-ng;
 StartupNotify=false
 StartupWMClass=scribus-ng
 X-KDE-SubstituteUID=false
-X-KDE-Username=
 X-AppInstall-Package=scribus-ng
 X-AppInstall-Popcon=220
 X-AppInstall-Section=main
+X-KDE-Username=
 
 [X-Property::X-KDE-NativeExtension]
 Type=QString
