@@ -52,6 +52,7 @@ Name[zh_CN]=Opera 邮件
 Name[zh_TW]=Opera 郵件
 Icon=opera
 Terminal=false
+Categories=;
 StartupNotify=false
 X-XFCE-Binaries=opera;
 X-XFCE-Category=MailReader

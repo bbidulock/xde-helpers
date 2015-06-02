@@ -12,6 +12,7 @@ TryExec=/usr/bin/startkde
 Exec=openbox-kde-session
 Terminal=false
 Hidden=true
+Categories=;
 StartupNotify=false
 X-GNOME-Autostart-Notify=true
 X-GNOME-Autostart-Phase=WindowManager

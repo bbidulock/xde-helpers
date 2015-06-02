@@ -5,6 +5,7 @@ Type=X-XFCE-Helper
 Name=Caja File Manager
 Icon=system-file-manager
 Terminal=false
+Categories=;
 StartupNotify=true
 X-XFCE-Binaries=caja;
 X-XFCE-Category=FileManager

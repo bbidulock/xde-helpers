@@ -9,6 +9,7 @@ TryExec=/usr/lib/geoclue2/geoclue-2.0/demos/agent
 Exec=/usr/lib/geoclue2/geoclue-2.0/demos/agent
 Terminal=false
 NoDisplay=true
+Categories=;
 Keywords=geolocation;
 StartupNotify=false
 X-Arch-Package=geoclue2 2.2.0-2
