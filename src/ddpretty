@@ -1,0 +1,11 @@
+#!/bin/bash
+
+files=$(find . -name '*.desktop'|sort)
+
+for f in $files
+do
+	echo "--> converting $f"
+	dpretty $f >tmp.log
+	dpretty tmp.log >$f
+	rm -f tmp.log
+done
