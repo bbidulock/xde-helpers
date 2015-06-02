@@ -1,0 +1,26 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Edit UFRaw ID file
+Name[ca]=Edita la ID del fitxer UFRAW
+Name[cs]=Upravit UFRaw ID soubor
+Name[de]=Bearbeite UFRaw-ID-Datei
+Name[es]=Editar archivo ID de UFRaw
+Name[fr]=Éditer un fichier UFRaw ID
+Name[nl]=Pas UFRaw ID bestand aan
+Name[pt_BR]=Editar arquivo UFRaw ID
+Name[ro]=Editează fișierul ID al UFRaw
+Name[ru]=Редактировать ID-файл UFRaw
+Name[sr@latin]=Izmeni NLRaw IB datoteku
+Name[sr]=Измени НЛRaw ИБ датотеку
+Name[sv]=Redigera ID-filen till UFRaw
+Icon=ufraw
+TryExec=ufraw
+Exec=ufraw --create-id=only %U
+Terminal=false
+OnlyShowIn=X-Geeqie;
+Categories=X-Geeqie;
+MimeType=application/x-ufraw;image/x-dcraw;
+StartupNotify=false
+X-Geeqie-Menu-Path=EditMenu/EditSection

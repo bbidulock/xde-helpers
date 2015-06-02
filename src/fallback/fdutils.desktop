@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=fdutils
+Comment=special tools for special floppies
+Comment[de]=Werkzeuge für 'spezielle' Disketten
+Comment[fr]=Utilitaires pour disquettes
+Comment[hu]=Segédeszközök különleges hajlékonylemezekhez
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/packages/fdutils/FAQ.html

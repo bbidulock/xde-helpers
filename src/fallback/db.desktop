@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=db
+Comment=Berkeley DB database library
+Comment[de]=Berkeley DB Datenbank Bibliothek
+Comment[es]=Librería de bases de datos DB de Berkeley
+Comment[fr]=Base de données BSD
+Comment[hu]=Berkeley DB adatbázis függvénytár
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/packages/db/index.html

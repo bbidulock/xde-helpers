@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=authldap
+Comment=The Apache auth_ldap Module
+Comment[de]=LDAP-Authentifizierung für den Apache-Webserver
+Comment[es]=El módulo de Apache auth_ldap
+Comment[fr]=Authentification LDAP pour le serveur Web Apache
+Comment[hu]=LDAP azonosítás Apache-hez
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/packages/authldap/auth_ldap.html

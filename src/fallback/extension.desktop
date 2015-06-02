@@ -1,0 +1,18 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=OpenOffice.org Extension Manager
+Comment=Extension Manager
+TryExec=unopkg
+Exec=unopkg gui %U
+Terminal=false
+NoDisplay=true
+Categories=Application;Office;
+MimeType=application/vnd.openofficeorg.extension;
+StartupNotify=false
+X-Arch-Package=libreoffice-still 4.3.7-2
+X-Arch-Package-Name=libreoffice-still
+X-Arch-Package-Version=4.3.7-2
+X-Arch-Package-Description=LibreOffice maintenance branch
+X-Arch-Package-URL=http://www.libreoffice.org/

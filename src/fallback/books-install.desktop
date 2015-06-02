@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Linux Installation and Getting Started
+Name[hu]=Linux telepítés és bevezetés kezdőknek
+Comment=Linux Installation and getting started by Matt Welsh
+Comment[hu]=írta:Matt Welsh
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/Books/install-guide-3.2.pdf

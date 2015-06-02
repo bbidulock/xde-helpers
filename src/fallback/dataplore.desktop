@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=dataplore
+Comment=Tool for data analysis, in particular for signal processing and time series analysis
+Comment[de]=Softwarepaket zur professionellen Zeitreihen- und Signalanalyse
+Comment[hu]=Adatelemző eszköz jelfeldolgozáshoz
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/packages/dataplore/HTML/index.html

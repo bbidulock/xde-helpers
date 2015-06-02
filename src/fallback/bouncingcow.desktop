@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=BouncingCow
+TryExec=bouncingcow
+Exec=bouncingcow -root
+Terminal=false
+OnlyShowIn=GNOME;
+Categories=Screensaver;
+StartupNotify=false
+X-SuSE-translate=true

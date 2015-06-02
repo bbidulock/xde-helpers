@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Basic Networking
+Name[en]=Basic Networking
+Comment=Basic Networking
+Comment[en]=Basic Networking
+Icon=document2
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/manual/opensuse-manual_en/manual/cha.basicnet.html
+X-DOC-Weight=2340

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=aleclone
+Comment=W*rCr*ft II Clone
+Comment[de]=W*rCr*ft-II-Clone
+Comment[es]=Clon de W*rCr*ft II
+Comment[hu]=W*rCr*ft II klón
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/packages/aleclone/doc/readme.html

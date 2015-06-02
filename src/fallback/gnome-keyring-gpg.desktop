@@ -1,0 +1,23 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=GPG Password Agent
+Comment=GNOME Keyring: GPG Agent
+TryExec=/usr/bin/gnome-keyring-daemon
+Exec=/usr/bin/gnome-keyring-daemon --start --components=gpg
+Terminal=false
+OnlyShowIn=GNOME;MATE;Unity;
+StartupNotify=false
+X-GNOME-Autostart-Notify=true
+X-GNOME-Autostart-Phase=Initialization
+X-GNOME-AutoRestart=false
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=gnome-keyring
+X-GNOME-Bugzilla-Component=general
+X-GNOME-Bugzilla-Version=3.16.0
+X-Arch-Package=gnome-keyring 3.16.0-1
+X-Arch-Package-Name=gnome-keyring
+X-Arch-Package-Version=3.16.0-1
+X-Arch-Package-Description=GNOME Password Management daemon
+X-Arch-Package-URL=http://www.gnome.org

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=db2pe
+Comment=DB2 UDB Personal Developer's Edition
+Comment[hu]=DB2 UDB fejlesztői változat
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/packages/db2pe/en.html

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Authentication with PAM
+Name[en]=Authentication with PAM
+Comment=Authentication with PAM
+Comment[en]=Authentication with PAM
+Icon=document2
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/manual/opensuse-manual_en/manual/cha.pam.html
+X-DOC-Weight=2280

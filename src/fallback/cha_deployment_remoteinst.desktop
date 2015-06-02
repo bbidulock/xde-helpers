@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Remote Installation
+Name[en]=Remote Installation
+Comment=Remote Installation
+Comment[en]=Remote Installation
+Icon=document2
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/manual/opensuse-manual_en/manual/cha.deployment.remoteinst.html
+X-DOC-Weight=1550

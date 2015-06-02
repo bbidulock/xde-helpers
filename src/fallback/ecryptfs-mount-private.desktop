@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Access Your Private Data
+GenericName=Access Your Private Data
+Icon=/usr/share/ecryptfs-utils/ecryptfs-utils.png
+TryExec=/usr/bin/ecryptfs-mount-private
+Exec=/usr/bin/ecryptfs-mount-private
+Terminal=true
+Categories=System;Security;
+StartupNotify=false

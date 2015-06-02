@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=The KDE FAQ
+Name[de]=Die KDE FAQ
+Comment[hu]=A KDE GY.I.K.
+Terminal=false
+StartupNotify=false
+DocPath=help:/khelpcenter/faq/index.html
+X-DOC-Weight=20

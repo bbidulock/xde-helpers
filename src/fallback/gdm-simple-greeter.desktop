@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Login Window
+TryExec=/usr/libexec/gdm-simple-greeter
+Exec=/usr/libexec/gdm-simple-greeter
+Terminal=false
+OnlyShowIn=GNOME;
+StartupNotify=false
+X-GNOME-Autostart-Notify=true
+X-GNOME-Autostart-Phase=Application
+X-GNOME-AutoRestart=true

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=asl
+Comment=Macro assembler AS
+Comment[de]=Makro-Crossassembler AS
+Comment[es]=Ensamblador de macros AS
+Comment[fr]=Macro-assembleur AS
+Comment[hu]=AS makróasszembler
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/packages/asl/as-EN.html

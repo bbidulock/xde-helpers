@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=craft
+Comment=A game - the vicious vikings
+Comment[de]=Craft - The vicious Vikings
+Comment[es]=Juego - los vikingos viciosos
+Comment[fr]=Craft - Les méchants Vikings
+Comment[hu]=Játék - a gonosz vikingekkel
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/packages/craft/html/craft.html

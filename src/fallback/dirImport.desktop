@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Network
+Name[de]=Netzwerk
+Icon=/opt/gnome/share/dist/icons/network.png
+TryExec=gnomesu
+Exec=gnomesu /usr/X11R6/bin/dirImport
+Terminal=false
+StartupNotify=false

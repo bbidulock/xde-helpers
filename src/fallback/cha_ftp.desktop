@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Setting up a FTP server with YaST
+Name[en]=Setting up a FTP server with YaST
+Comment=Setting up a FTP server with YaST
+Comment[en]=Setting up a FTP server with YaST
+Icon=document2
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/manual/opensuse-manual_en/manual/cha.ftp.html
+X-DOC-Weight=3000

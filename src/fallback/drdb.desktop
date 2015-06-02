@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Installing and Managing DRBD Services
+Name[en]=Installing and Managing DRBD Services
+Comment=Installing and Managing DRBD Services
+Comment[en]=Installing and Managing DRBD Services
+Icon=document2
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/manual/sles-stor_evms_en/manual/drdb.html
+X-DOC-Weight=650

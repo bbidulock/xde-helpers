@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Using the Fingerprint Reader
+Name[en]=Using the Fingerprint Reader
+Comment=Using the Fingerprint Reader
+Comment[en]=Using the Fingerprint Reader
+Icon=document2
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/manual/opensuse-manual_en/manual/cha.tf.html
+X-DOC-Weight=3240

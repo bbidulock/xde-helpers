@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Using EVMS to Manage Devices
+Name[en]=Using EVMS to Manage Devices
+Comment=Using EVMS to Manage Devices
+Comment[en]=Using EVMS to Manage Devices
+Icon=document2
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/manual/sles-stor_evms_en/manual/evmsconfig.html
+X-DOC-Weight=90

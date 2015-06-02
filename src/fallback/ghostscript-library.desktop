@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=ghostscript-library
+Comment=Necessary files for running gs (Ghostscript)
+Comment[de]=Wichtige Dateien zum Aufruf von gs (Ghostscript)
+Comment[es]=Archivos necesarios para ejecutar gs (Ghostscript)
+Comment[fr]=Fichiers nécessaires au démarrage de gs (GhostScript)
+Comment[hu]=A GhostScript futtatásához szükséges fájlok
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/ghostscript/6.53/doc/index.html

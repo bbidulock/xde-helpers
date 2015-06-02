@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Dolphin
+Name[en_US]=Dolphin
+GenericName=GameCube and Wii Emulator
+Comment=An emulator for the GameCube and Wii consoles
+Icon=dolphin-emu
+TryExec=dolphin-emu
+Exec=dolphin-emu
+Terminal=false
+Categories=Game;Emulator;GTK;
+StartupNotify=false

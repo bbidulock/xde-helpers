@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=SELinux Troubleshooter
+Comment=View & interpret SELinux denials
+Icon=setroubleshoot_icon.png
+TryExec=/usr/bin/sealert
+Exec=/usr/bin/sealert
+Terminal=false
+StartupNotify=false
+X-KDE-autostart-after=panel

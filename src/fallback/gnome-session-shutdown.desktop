@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=System Shutdown Dialog
+Comment=Prompt the user to shutdown their computer
+Icon=gnome-shutdown
+TryExec=libssui-tool
+Exec=libssui-tool --shutdown
+Terminal=false
+Hidden=true
+OnlyShowIn=GNOME;
+Categories=System;SystemSetup;
+StartupNotify=true
+X-SuSE-translate=false

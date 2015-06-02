@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=bochs
+Comment=Cross-platform IA32 emulator
+Comment[de]=Cross-Plattform IA32-Emulator
+Comment[hu]=Kereszplatformos IA32 emulátor
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/packages/bochs/docs-html/index.html

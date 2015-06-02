@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=failsafe-mgr
+Comment=Java Management Tool for Linux FailSafe
+Comment[de]=Java Management-Tool für Linux FailSafe
+Comment[hu]=Java eszköz a Linux FailSafe-hez
+Terminal=false
+StartupNotify=false
+DocPath=/srv/www/htdocs/FailSafeManager/index.shtml

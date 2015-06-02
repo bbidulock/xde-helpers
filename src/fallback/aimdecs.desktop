@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=aimdecs
+Comment=CompuServe Instant Messenger
+Comment[fr]=Compuserve Instant Messenger
+Terminal=false
+StartupNotify=false
+DocPath=/usr/lib/aim/help/index.htm

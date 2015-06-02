@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Installation and Setup
+Name[en]=Installation and Setup
+Comment=Installation and Setup
+Comment[en]=Installation and Setup
+Icon=document2
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/manual/sles-heartbeat_en/manual/cha.hb.installation.html
+X-DOC-Weight=120

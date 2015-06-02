@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Power Management
+Name[en]=Power Management
+Comment=Power Management
+Comment[en]=Power Management
+Icon=document2
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/manual/opensuse-manual_en/manual/cha.pmanage.html
+X-DOC-Weight=3080

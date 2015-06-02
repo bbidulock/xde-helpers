@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=ecasound
+Comment=Multitrack audio processing tool
+Comment[de]=Audio-Mehrspuraufnahme und -bearbeitung
+Comment[es]=Herramienta de procesamiento audio multipista
+Comment[fr]=Outil de traitement audio multipistes
+Comment[hu]=Többsávos hangfeldolgozó program
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/packages/ecasound/Documentation/index.html

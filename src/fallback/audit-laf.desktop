@@ -1,0 +1,26 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Linux Audit Framework (LAF)
+GenericName=audit-laf
+Icon=yast-audit-laf
+TryExec=/sbin/yast2
+Exec=/sbin/yast2 audit-laf
+Terminal=false
+Categories=Settings;System;Qt;X-SuSE-YaST;X-SuSE-YaST-Security;
+StartupNotify=true
+X-KDE-HasReadOnlyMode=true
+X-KDE-Library=yast2
+X-KDE-ModuleType=Library
+X-KDE-RootOnly=true
+X-KDE-SubstituteUID=true
+X-SuSE-DocTeamID=ycc_audit-laf
+X-SuSE-YaST-AutoInst=all
+X-SuSE-YaST-AutoInstClonable=true
+X-SuSE-YaST-AutoInstRequires=audit
+X-SuSE-YaST-AutoInstResource=audit-laf
+X-SuSE-YaST-Call=audit-laf
+X-SuSE-YaST-Group=Security
+X-SuSE-YaST-RootOnly=true
+X-SuSE-translate=true

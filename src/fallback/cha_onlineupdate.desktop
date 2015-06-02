@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Online Update
+Name[en]=Online Update
+Comment=Online Update
+Comment[en]=Online Update
+Icon=document2
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/manual/opensuse-manual_en/manual/cha.onlineupdate.html
+X-DOC-Weight=1660

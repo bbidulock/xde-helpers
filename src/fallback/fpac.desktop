@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=fpac
+Comment=Applications dedicated to FPAC X25 node
+Comment[de]=Utilities für den ROSE-Betrieb
+Comment[es]=Aplicación dedicada al nodo FPAC X25
+Comment[fr]=Utilitaires pour le protocole ROSE
+Comment[hu]=Segédeszközök FPAC X25 csomópontokhoz
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/packages/fpac/html/FPAC-HOWTO.html

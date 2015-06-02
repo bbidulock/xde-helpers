@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=3d_chess
+Comment=3 dimensional chess
+Comment[de]=3-dimensionales Schachspiel
+Comment[es]=Ajedrez tridimensional
+Comment[fr]=Jeu d'échec en 3 dimensions.
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/packages/3d_chess/3Dc-rules.html

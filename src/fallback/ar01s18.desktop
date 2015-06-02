@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Legal Notice
+Name[en]=Legal Notice
+Comment=Legal Notice
+Comment[en]=Legal Notice
+Icon=document2
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/manual/opensuse-gnomequick_en/manual/ar01s18.html
+X-DOC-Weight=190

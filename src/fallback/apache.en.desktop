@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Apache
+Comment=Documentation of the Apache Webserver
+Comment[de]=Anwenderhandbuch zum Apache Webserver (englisch)
+Comment[en]=Documentation of the Apache Webserver
+Comment[hu]=Apache dokumentáció (angolul)
+Terminal=false
+StartupNotify=false
+DocPath=/srv/www/htdocs/manual/index.html.en

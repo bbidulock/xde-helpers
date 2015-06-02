@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=The X Window System
+Name[en]=The X Window System
+Comment=The X Window System
+Comment[en]=The X Window System
+Icon=document2
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/manual/sles-admin_en/manual/cha.x11.html
+X-DOC-Weight=2730

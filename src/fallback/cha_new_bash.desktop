@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Shell Basics
+Name[en]=Shell Basics
+Comment=Shell Basics
+Comment[en]=Shell Basics
+Icon=document2
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/manual/opensuse-manual_en/manual/cha.new.bash.html
+X-DOC-Weight=570

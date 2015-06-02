@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Accessing the Internet
+Name[en]=Accessing the Internet
+Comment=Accessing the Internet
+Comment[en]=Accessing the Internet
+Icon=document2
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/manual/opensuse-manual_en/manual/cha.internet.html
+X-DOC-Weight=410

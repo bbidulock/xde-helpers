@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Getting Started
+Name[en]=Getting Started
+Comment=Getting Started
+Comment[en]=Getting Started
+Icon=document2
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/manual/opensuse-manual_en/manual/sec.kdequick.start.html
+X-DOC-Weight=1060

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=deb
+Comment=Debian packages dpkg, dpkg-dev and debhelper
+Comment[de]=Paketverwaltungstools von Debian
+Comment[es]=Los paquetes de Debian dpkg, dpkg-dev y debhelper
+Comment[fr]=Outil de gestion de paquetages Debian
+Comment[hu]=Debian csomagkezelő, dpkg, dpkg-dev és dpkg-helper
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/packages/deb/dpkg/internals.html

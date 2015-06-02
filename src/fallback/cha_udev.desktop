@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Dynamic Kernel Device Management with udev
+Name[en]=Dynamic Kernel Device Management with udev
+Comment=Dynamic Kernel Device Management with udev
+Comment[en]=Dynamic Kernel Device Management with udev
+Icon=document2
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/manual/opensuse-manual_en/manual/cha.udev.html
+X-DOC-Weight=2110

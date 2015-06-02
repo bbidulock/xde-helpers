@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Bluecurve
+Terminal=false
+StartupNotify=false
+X-KDE-Library=kwin3_bluecurve

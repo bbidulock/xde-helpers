@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=busybox
+Comment=The Swiss Army Knife of Embedded Linux
+Comment[de]=Beinhaltet kleine Versionen vieler UNIX-Programme
+Comment[es]=La navaja suiza del sistema Linux
+Comment[fr]=Petites versions de plusieurs programmes UNIX
+Comment[hu]=A beépített linux "svájczibicskája"
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/packages/busybox/BusyBox.html

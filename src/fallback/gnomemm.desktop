@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=gnomemm
+Comment=C++ libraries for GNOME
+Comment[de]=C++ Bibliotheken für GNOME
+Comment[fr]=Librairies C++ pour Gnome
+Comment[hu]=C++ függvények GNOME-hoz
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/packages/gnomemm/docs/gnome/name_index.html

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=addrbo
+Comment=Address book
+Comment[de]=Adressbuch
+Comment[es]=Libreta de direcciones
+Comment[fr]=Carnet d'adresses
+Comment[hu]=Címjegyzék
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/packages/addrbo/Docu_in_html/index.html

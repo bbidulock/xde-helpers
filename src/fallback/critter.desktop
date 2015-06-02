@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Critical Mass
+Comment=SDL/OpenGL space shoot'em up game
+Icon=critter
+TryExec=critter
+Exec=critter
+Terminal=false
+Categories=Game;
+StartupNotify=true

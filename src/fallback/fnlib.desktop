@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=fnlib
+Comment=The fnlib (font lib)
+Comment[de]=Die Fnlib (Font-Bibliothek)
+Comment[es]=fnlib (librería de fuentes)
+Comment[fr]=La Fnlib (bibliothèque de polices)
+Comment[hu]=Az fnlib (betűkészletekhez)
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/packages/fnlib/index.html

@@ -1,0 +1,23 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Fingerprint Reader
+GenericName=Set up fingerprint authentication
+Icon=yast-fingerprint
+TryExec=/sbin/yast2
+Exec=/sbin/yast2 fingerprint-reader
+Terminal=false
+Categories=Settings;System;Qt;X-SuSE-YaST;X-SuSE-YaST-Hardware;
+StartupNotify=true
+X-KDE-HasReadOnlyMode=true
+X-KDE-Library=yast2
+X-KDE-ModuleType=Library
+X-KDE-RootOnly=true
+X-KDE-SubstituteUID=true
+X-SuSE-DocTeamID=ycc_fingerprint-reader
+X-SuSE-YaST-AutoInstResource=fingerprint-reader
+X-SuSE-YaST-Call=fingerprint-reader
+X-SuSE-YaST-Group=Hardware
+X-SuSE-YaST-RootOnly=true
+X-SuSE-translate=true

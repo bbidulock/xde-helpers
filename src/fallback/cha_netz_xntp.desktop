@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Time Synchronization with NTP
+Name[en]=Time Synchronization with NTP
+Comment=Time Synchronization with NTP
+Comment[en]=Time Synchronization with NTP
+Icon=document2
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/manual/opensuse-manual_en/manual/cha.netz.xntp.html
+X-DOC-Weight=2650

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Applet Manuals
+Name[de]=Applet-Handbücher
+Name[hu]=Kisalkalmazások kézikönyvei
+Terminal=false
+StartupNotify=false
+X-KDE-KHelpcenter-Special=applets

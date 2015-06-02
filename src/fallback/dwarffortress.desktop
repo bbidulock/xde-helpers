@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Dwarf Fortress
+GenericName=Dwarf Fortress
+Comment=A single-player fantasy game.
+Icon=/usr/share/pixmaps/dwarffortress.png
+TryExec=dwarffortress
+Exec=dwarffortress
+Terminal=false
+Categories=Game;
+StartupNotify=false

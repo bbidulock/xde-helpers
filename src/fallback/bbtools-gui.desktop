@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=bbtools-gui
+Comment=Tools for the Blackbox Window Manager with GUI libs
+Comment[de]=Tools für den Blackbox Window Manager mit GUI-Bibliotheken
+Comment[hu]=Eszközök a blackbox ablakkezelőhöz
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/packages/bbtools-gui/README.html

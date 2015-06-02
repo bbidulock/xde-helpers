@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=blt
+Comment=Tk extension
+Comment[de]=Erweiterung zu Tk
+Comment[es]=Extensión de Tk
+Comment[fr]=Extension Tk
+Comment[hu]=Tk bővítés
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/packages/blt/html/BLT.html

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=etherboot
+Comment=Software for booting x86 PCs over a network
+Comment[de]=Tools für Netz-Clients ohne Festplatte (BSD-Bootrom-Code)
+Comment[es]=Software para arrancar PCs x86 en una red
+Comment[fr]=Outils pour clients réseau sans disque dur (code BSD Bootrom)
+Comment[hu]=Segédeszközök PC-k hálózati rendszerindításához
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/packages/etherboot/index.html

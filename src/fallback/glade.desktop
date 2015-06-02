@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=glade
+Comment=A user interface builder for GTK+ and GNOME
+Comment[de]=Ein Interface-Builder für GTK+ und GNOME
+Comment[es]=Un constructor de interfases de usuario para Gtk+ y GNOME
+Comment[fr]=Glade - Un constructeur d'interfaces pour GTK+
+Comment[hu]=Felhasználó felület szerkesztő a GTK+ és GNOME számára
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/gnome/help/glade/C/user-guide/index.html

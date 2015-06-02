@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=crossfire
+Comment=Graphical multi-player arcade game for X11
+Comment[de]=Grafisches Multiplayer Arcade Spiel für X11
+Comment[es]=Juego gráfico "arcade" multijugador para X11
+Comment[fr]=Jeu d'arcade graphique pour plusieurs joueurs sous X11
+Comment[hu]=Grafikus kalandjáték X11-hez
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/packages/crossfire/playbook-html/handbook.shtml

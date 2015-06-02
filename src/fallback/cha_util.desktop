@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=System Monitoring Utilities
+Name[en]=System Monitoring Utilities
+Comment=System Monitoring Utilities
+Comment[en]=System Monitoring Utilities
+Icon=document2
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/manual/opensuse-manual_en/manual/cha.util.html
+X-DOC-Weight=1770

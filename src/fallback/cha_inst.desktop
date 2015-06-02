@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Installation with YaST
+Name[en]=Installation with YaST
+Comment=Installation with YaST
+Comment[en]=Installation with YaST
+Icon=document2
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/manual/opensuse-manual_en/manual/cha.inst.html
+X-DOC-Weight=100

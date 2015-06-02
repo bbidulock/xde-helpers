@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=freeswan
+Comment=IPsec implementation which allows building VPNs
+Comment[de]=IPsec Implementation: Ermöglicht VPNs
+Comment[es]=Implementación IPsec que permite la construcción de VPNs
+Comment[fr]=Implémentation IPsec: permet la création de réseaux virtuels privés
+Comment[hu]=IPsec implementáció amely lehetővé teszi VPN-ek létrehozását
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/packages/freeswan/index.html

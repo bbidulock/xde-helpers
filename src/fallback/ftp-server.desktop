@@ -1,0 +1,26 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=FTP Server
+GenericName=Module for configuration FTP daemon (vsftpd or pure-ftpd)
+Icon=yast-ftp-server
+TryExec=/sbin/yast2
+Exec=/sbin/yast2 ftp-server
+Terminal=false
+Categories=Settings;System;Qt;X-SuSE-YaST;X-SuSE-YaST-Net_advanced;
+StartupNotify=true
+X-KDE-HasReadOnlyMode=true
+X-KDE-Library=yast2
+X-KDE-ModuleType=Library
+X-KDE-RootOnly=true
+X-KDE-SubstituteUID=true
+X-SuSE-DocTeamID=ycc_ftp-server
+X-SuSE-YaST-AutoInst=all
+X-SuSE-YaST-AutoInstClonable=true
+X-SuSE-YaST-AutoInstResource=ftp-server
+X-SuSE-YaST-AutoInstSchema=ftp-server.rnc
+X-SuSE-YaST-Call=ftp-server
+X-SuSE-YaST-Group=Net_advanced
+X-SuSE-YaST-RootOnly=true
+X-SuSE-translate=true

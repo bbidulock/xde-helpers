@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=xterm Terminal
+GenericName=Terminal
+Comment=Terminal emulator for the X Window System
+Icon=gnome-xterm.png
+TryExec=xterm
+Exec=xterm
+Terminal=false
+NoDisplay=true
+Categories=System;TerminalEmulator;
+StartupNotify=false
+X-Desktop-File-Install-Version=0.15
+X-Arch-Package=xterm 318-1
+X-Arch-Package-Name=xterm
+X-Arch-Package-Version=318-1
+X-Arch-Package-Description=X Terminal Emulator
+X-Arch-Package-URL=http://invisible-island.net/xterm/

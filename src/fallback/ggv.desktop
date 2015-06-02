@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=ggv
+Comment=GNOME Ghostview
+Comment[es]=Ghostview de GNOME
+Comment[hu]=Ghostview GNOME-hoz
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/gnome/help/ggv/C/index.html

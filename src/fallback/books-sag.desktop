@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Linux System Administrators Guide
+Name[hu]=Linux rendszeradminisztrátorok kézikönyve
+Comment=Linux System Administrators Guide by Lars Wirzenius
+Comment[hu]=írta: Lars Wirzenius
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/Books/sag-0.6.2.pdf

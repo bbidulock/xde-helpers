@@ -1,0 +1,25 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=UFRaw Batch recursive
+Name[ca]=Lot recursiu UFRaw
+Name[cs]=Hromadné zpracování adresáře v UFRaw
+Name[de]=Rekursive UFRaw-Stapelverarbeitung
+Name[es]=UFRaw Batch recursivo
+Name[fr]=Traitement par lots UFRaw récursif
+Name[nl]=Recursieve UFRaw Batch
+Name[pt_BR]=Lote UFRaw recursivo
+Name[ro]=Batch UFRaw recursiv
+Name[ru]=Рекурсивная пакетная обработка UFRaw
+Name[sr@latin]=Paketno razvij sve sadržano
+Name[sr]=Пакетно развиј све садржано
+Name[sv]=UFRaw batch, rekursivt
+Icon=ufraw
+TryExec=ufraw
+Exec=geeqie-ufraw --recursive .
+Terminal=false
+OnlyShowIn=X-Geeqie;
+Categories=X-Geeqie;
+StartupNotify=false
+X-Geeqie-Menu-Path=EditMenu/EditSection

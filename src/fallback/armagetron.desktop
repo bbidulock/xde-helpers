@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=armagetron
+Comment=An OpenGL game similar to the film 'Tron'
+Comment[de]=OpenGL Tron Clone, läuft auch ohne 3D Hardware
+Comment[fr]=Jeu en OpenGL basé sur le film "Tron"
+Comment[hu]=OpenGL alapú Tron játék
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/packages/armagetron/index.html

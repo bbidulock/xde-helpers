@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=git
+Comment=GNU Interactive Tools
+Comment[es]=Herramientas interactivas de GNU
+Comment[fr]=Outils interactifs de GNU
+Comment[hu]=Intaraktív segédeszközök a GNU projekttől
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/packages/git/git.html

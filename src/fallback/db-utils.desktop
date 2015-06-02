@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=db-utils
+Comment=Command line tools for managing Berkeley DB databases
+Comment[de]=Kommandozeilen-Utilities für Berkeley DB Datenbanken
+Comment[es]=Herramientas de línea de comandos para bases de datos DB de Berkeley
+Comment[fr]=Outils en ligne de commande pour base de données Berkeley DB.
+Comment[hu]=Parancssori eszközök Berkeley DB adatbázisokhoz
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/packages/db/utility/index.html

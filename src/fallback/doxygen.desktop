@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=doxygen
+Comment=Automated C/C++/Java documentation generator
+Comment[de]=Automat. Erstellung von Doku zu C/C++ und Java Programmen
+Comment[es]=Generador de documentación C/C++/Java automatizado
+Comment[fr]=Création automatique de doc pour programmes C/C++ et Java
+Comment[hu]=Automatizált C/C++/Java dokumentáció generátor
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/packages/doxygen/html/index.html

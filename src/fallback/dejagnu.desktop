@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=dejagnu
+Comment=A set of expect scripts
+Comment[de]=DejaGNU
+Comment[es]=Un conjunto de scripts expect
+Comment[fr]=DejaGNU
+Comment[hu]=DejaGNU
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/packages/dejagnu/html/book1.html

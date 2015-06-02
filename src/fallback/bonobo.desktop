@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=bonobo
+Comment=This is a set of CORBA interfaces for reusable components.
+Comment[de]=Das Komponentensystem von GNOME
+Comment[es]=Conjunto de interfases CORBA para la reutilización de componentes
+Comment[fr]=Interfaces CORBA pour composants réutilisables dans GNOME.
+Comment[hu]=CORBA interfészek és újrahasznosítható komponensek készlete
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/bonobo/html/bonobo/book1.html

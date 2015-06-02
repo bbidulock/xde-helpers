@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=32-Bit and 64-Bit Applications in a 64-Bit System Environment
+Name[en]=32-Bit and 64-Bit Applications in a 64-Bit System Environment
+Comment=32-Bit and 64-Bit Applications in a 64-Bit System Environment
+Comment[en]=32-Bit and 64-Bit Applications in a 64-Bit System Environment
+Icon=document2
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/manual/opensuse-manual_en/manual/cha.64bit.html
+X-DOC-Weight=1880

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=dvd::rip
+Comment=DVD Ripper and Encoder - Backup and compression utility for DVDs
+Icon=/usr/share/perl5/vendor_perl/Video/DVDRip/icon.xpm
+TryExec=/usr/bin/vendor_perl/dvdrip
+Exec=/usr/bin/vendor_perl/dvdrip
+Terminal=false
+Categories=Application;AudioVideo;Video;
+StartupNotify=false

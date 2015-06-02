@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Confining Privileges with AppArmor
+Name[en]=Confining Privileges with AppArmor
+Comment=Confining Privileges with AppArmor
+Comment[en]=Confining Privileges with AppArmor
+Icon=document2
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/manual/opensuse-manual_en/manual/cha.aaintro.html
+X-DOC-Weight=3510

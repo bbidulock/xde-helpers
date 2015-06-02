@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=An Example Network
+Name[en]=An Example Network
+Comment=An Example Network
+Comment[en]=An Example Network
+Icon=document2
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/manual/opensuse-manual_en/manual/app.nwscheme.html
+X-DOC-Weight=3590

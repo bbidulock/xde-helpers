@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=asis
+Comment=GNU Ada95 Ada Semantic Interface Specification Implementation
+Comment[de]=Implementation der GNU Ada95 Ada Semantic Interface Specification
+Comment[hu]=GNU Ada95 Ada Semantic Interface Specification Implementation
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/ada/html/asis/index.htm

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Setup Your Encrypted Private Directory
+GenericName=Setup Your Encrypted Private Directory
+Icon=/usr/share/ecryptfs-utils/ecryptfs-utils.png
+TryExec=/usr/bin/ecryptfs-setup-private
+Exec=/usr/bin/ecryptfs-setup-private
+Terminal=true
+Categories=Settings;Security;
+StartupNotify=false

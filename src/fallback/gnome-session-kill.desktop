@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Logout
+Icon=gnome-logout
+TryExec=gnome-session-save
+Exec=gnome-session-save --kill
+Terminal=false
+OnlyShowIn=GNOME;
+Categories=Application;System;GNOME;
+StartupNotify=false

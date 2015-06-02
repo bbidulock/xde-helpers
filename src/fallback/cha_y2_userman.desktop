@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Managing Users with YaST
+Name[en]=Managing Users with YaST
+Comment=Managing Users with YaST
+Comment[en]=Managing Users with YaST
+Icon=document2
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/manual/opensuse-manual_en/manual/cha.y2.userman.html
+X-DOC-Weight=440

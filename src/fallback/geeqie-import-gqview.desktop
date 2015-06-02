@@ -1,0 +1,25 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Import GQView metadata
+Name[ca]=Importa metadades de GQView
+Name[cs]=Importovat metadata z GQView
+Name[de]=Importiere GQView-Metadaten
+Name[es]=Importar metadatos de GQView
+Name[fr]=Importer les méta-données de GQView
+Name[nl]=Importeer GQView metadata
+Name[pt_BR]=Importar os metadados do GQView
+Name[ro]=Importă metadate GQView
+Name[ru]=Импорт метаданных GQView
+Name[sr@latin]=Uvezi metapodatke iz GQView-a
+Name[sr]=Увези метаподатке из GQView-а
+Name[sv]=Importera metadata från Gqview
+TryExec=geeqie-import
+Exec=geeqie-import gqview
+Terminal=false
+OnlyShowIn=X-Geeqie;
+Categories=X-Geeqie;
+StartupNotify=false
+X-Geeqie-Menu-Path=EditMenu/PreferencesMenu
+X-Geeqie-Verbose=true

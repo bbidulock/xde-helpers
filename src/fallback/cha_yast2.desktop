@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=System Configuration with YaST
+Name[en]=System Configuration with YaST
+Comment=System Configuration with YaST
+Comment[en]=System Configuration with YaST
+Icon=document2
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/manual/sles-admin_en/manual/cha.yast2.html
+X-DOC-Weight=1450

@@ -1,0 +1,23 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Xpdf PDF Viewer
+Name[de]=Xpdf PDF-Betrachter
+Name[sv]=Xpdf PDF-visare
+Comment=View Adobe PDF (acrobat) files
+Comment[de]=PDF-Betrachter
+Comment[sv]=Visar Adobe PDF-filer (acrobat-filer)
+Icon=xpdf.png
+TryExec=xpdf
+Exec=xpdf
+Terminal=false
+Categories=Application;Graphics;X-Fedora;
+MimeType=application/pdf;
+StartupNotify=false
+X-Desktop-File-Install-Version=0.15
+X-Arch-Package=xpdf 3.04-2
+X-Arch-Package-Name=xpdf
+X-Arch-Package-Version=3.04-2
+X-Arch-Package-Description=Viewer for Portable Document Format (PDF) files
+X-Arch-Package-URL=http://www.foolabs.com/xpdf/

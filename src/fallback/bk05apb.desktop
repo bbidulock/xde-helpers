@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=GNU Licenses
+Name[en]=GNU Licenses
+Comment=GNU Licenses
+Comment[en]=GNU Licenses
+Icon=document2
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/manual/opensuse-manual_en/manual/bk05apb.html
+X-DOC-Weight=4190

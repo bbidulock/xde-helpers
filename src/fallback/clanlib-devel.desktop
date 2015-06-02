@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=clanlib-devel
+Comment=A portable interface for writing games
+Comment[de]=ClanLib
+Comment[es]=Una interfase portable para escribir juegos
+Comment[fr]=ClanLib
+Comment[hu]=Hordozható programozási felület játékok írásához
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/packages/clanlib-devel/Docs/index.html

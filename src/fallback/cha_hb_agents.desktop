@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Creating Resources
+Name[en]=Creating Resources
+Comment=Creating Resources
+Comment[en]=Creating Resources
+Icon=document2
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/manual/sles-heartbeat_en/manual/cha.hb.agents.html
+X-DOC-Weight=410

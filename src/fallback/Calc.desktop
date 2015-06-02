@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Calculation (StarOffice Calc)
+Name[de]=Tabellenkalkulation (StarOffice Calc)
+Name[en]=Calculation (StarOffice Calc)
+Icon=/opt/gnome2/share/dist/icons/suse-yast.png
+TryExec=/opt/staroffice6.0/program/scalc
+Exec=/opt/staroffice6.0/program/scalc
+Terminal=false
+StartupNotify=false

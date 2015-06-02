@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Network Administrators Guide
+Name[hu]=Hálózati adminisztrátorok kézikönyve
+Comment=Network Administrators Guide Second Edition by Olaf Kirch and Terry Dawson
+Comment[hu]=második kiadás, írta: Olaf Kirch és Terry Dawson
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/Books/nag2.pdf

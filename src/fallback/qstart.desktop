@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=OpenOffice.org Quickstarter
+Comment=Hook for quickstarter startup
+TryExec=openoffice.org
+Exec=openoffice.org -quickstart -nologo -nodefault
+Terminal=false
+Categories=Office;
+StartupNotify=false

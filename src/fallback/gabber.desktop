@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=gabber
+Comment=A Gnome Jabber Client
+Comment[de]=GNOME Jabber Client
+Comment[fr]=Client Jabber pour Gnome
+Comment[hu]=Jabber kliens GNOME-hoz
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/gnome/help/gabber/C/index.html

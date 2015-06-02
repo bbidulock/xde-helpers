@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=fpk
+Comment=Free Pascal Compiler
+Comment[es]=Compilador de Pascal libre
+Comment[hu]=Free Pascal fordító
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/packages/fpk/faq.html

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=applix-demo-grm
+Comment=Applixware Office demo version (German language support)
+Comment[de]=Applixware Office Demoversion (deutsche Sprachunterstützung)
+Comment[fr]=Applixware Office demo version (Support pour la langue allemande)
+Comment[hu]=Applixware Office demoverzió (német nyelvű)
+Terminal=false
+StartupNotify=false
+DocPath=/opt/applix/axdata/grm/help/ax/grm_ax_toc.html

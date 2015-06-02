@@ -1,0 +1,23 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Add-On Creator
+GenericName=Create Add-On product
+Icon=yast-addon
+TryExec=/sbin/yast2
+Exec=/sbin/yast2 add-on-creator
+Terminal=false
+Categories=Settings;System;Qt;X-SuSE-YaST;X-SuSE-YaST-Misc;
+StartupNotify=true
+X-KDE-HasReadOnlyMode=true
+X-KDE-Library=yast2
+X-KDE-ModuleType=Library
+X-KDE-RootOnly=false
+X-KDE-SubstituteUID=true
+X-SuSE-DocTeamID=ycc_add-on-creator
+X-SuSE-YaST-AutoInstResource=add-on-creator
+X-SuSE-YaST-Call=add-on-creator
+X-SuSE-YaST-Group=Misc
+X-SuSE-YaST-RootOnly=true
+X-SuSE-translate=true

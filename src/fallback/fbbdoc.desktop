@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=fbbdoc
+Comment=Documentation of F6FBB packet radio mailbox
+Comment[de]=Dokumentation zur F6FBB Packet-Radio-Mailbox
+Comment[es]=Documentación del buzón de radioaficionado F6FBB
+Comment[fr]=Documentation sur la boîte à lettre F6FBB Packet Radio
+Comment[hu]=Az F6FBB paket rádió program dokumentációja
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/packages/fbbdoc/html/doc.htm

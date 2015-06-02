@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=bombermaze
+Comment=Bomberman clone for GNOME
+Comment[de]=Bomberman-Clone für GNOME
+Comment[fr]=Clone de Bomberman pour Gnome
+Comment[hu]=Bomberman-klón GNOME-hoz
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/gnome/help/bombermaze/C/index.html

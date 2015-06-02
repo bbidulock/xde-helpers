@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Booting and Configuring a Linux System
+Name[en]=Booting and Configuring a Linux System
+Comment=Booting and Configuring a Linux System
+Comment[en]=Booting and Configuring a Linux System
+Icon=document2
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/manual/opensuse-manual_en/manual/cha.boot.html
+X-DOC-Weight=1930

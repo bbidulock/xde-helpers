@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Using NIS
+Name[en]=Using NIS
+Comment=Using NIS
+Comment[en]=Using NIS
+Icon=document2
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/manual/opensuse-manual_en/manual/cha.nis.html
+X-DOC-Weight=2690

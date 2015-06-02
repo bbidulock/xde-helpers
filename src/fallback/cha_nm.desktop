@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Managing Network Connections with NetworkManager
+Name[en]=Managing Network Connections with NetworkManager
+Comment=Managing Network Connections with NetworkManager
+Comment[en]=Managing Network Connections with NetworkManager
+Icon=document2
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/manual/opensuse-manual_en/manual/cha.nm.html
+X-DOC-Weight=760

@@ -1,0 +1,25 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Import Geeqie 1.0alphaX metadata
+Name[ca]=Importa metadades de Geeqie 1.0alphaX
+Name[cs]=Importovat metadata z Geeqie 1.0alphaX
+Name[de]=Importiere Geeqie 1.0alphaX-Metadaten
+Name[es]=Importar metadatos de Geeqie 1.0alphaX
+Name[fr]=Importer les méta-données de Geeqie 1.0alphaX
+Name[nl]=Importeer Geequi 1.0alphaX metadata
+Name[pt_BR]=Importar os metadados do Geeqie 1.0alphaX
+Name[ro]=Importă metadate Geeqie 1.0alphaX
+Name[ru]=Импорт метаданных Geeqie 1.0alphaX
+Name[sr@latin]=Uvezi metapodatke iz Čudaka 1.0alphaX
+Name[sr]=Увези метаподатке из Чудака 1.0alphaX
+Name[sv]=Importera metadata från Geeqie 1.0alphaX
+TryExec=geeqie-import
+Exec=geeqie-import geeqie-1-alpha
+Terminal=false
+OnlyShowIn=X-Geeqie;
+Categories=X-Geeqie;
+StartupNotify=false
+X-Geeqie-Menu-Path=EditMenu/PreferencesMenu
+X-Geeqie-Verbose=true

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=AT-SPI D-Bus Bus
+TryExec=/usr/lib/at-spi2-core/at-spi-bus-launcher
+Exec=/usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately
+Terminal=false
+NoDisplay=true
+OnlyShowIn=GNOME;Unity;
+StartupNotify=false
+X-GNOME-Autostart-Phase=Initialization
+X-GNOME-AutoRestart=true
+X-Arch-Package=at-spi2-core 2.16.0-1
+X-Arch-Package-Name=at-spi2-core
+X-Arch-Package-Version=2.16.0-1
+X-Arch-Package-Description=Protocol definitions and daemon for D-Bus at-spi
+X-Arch-Package-URL=http://www.gnome.org
+AutostartCondition=GSETTINGS org.gnome.desktop.interface toolkit-accessibility

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Controlling the Installation
+Name[en]=Controlling the Installation
+Comment=Controlling the Installation
+Comment[en]=Controlling the Installation
+Icon=document2
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/manual/sles-preparation-x86+x86-64_en/manual/cha.prep.boot.html
+X-DOC-Weight=450

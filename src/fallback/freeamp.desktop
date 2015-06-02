@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=freeamp
+Comment=digital audio player
+Comment[de]=Ein freier MP3-Player
+Comment[es]=El mejor reproductor de audio digital disponible
+Comment[fr]=un lecteur libre de fichiers MP3
+Comment[hu]=Digitális hanglejátszó
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/freeamp/help/help.html

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=fvwm95
+Comment=Virtual window manager, look'n'feel of Win95
+Comment[de]=Windowmanager, im Windows95-Look
+Comment[es]=Gestor de ventanas virtual, aspecto Win95
+Comment[fr]=Gestionnaire de fenêtres de style Windows95
+Comment[hu]=Virtuális ablakkezelő, Win95 kinézettel
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/packages/fvwm95/docs/index.html

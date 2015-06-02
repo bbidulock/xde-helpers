@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=AssaultCube
+GenericName=Realistic Multiplayer FPS
+Icon=assaultcube
+TryExec=assaultcube
+Exec=assaultcube
+MultipleArgs=false
+Terminal=false
+Categories=Game;ActionGame;
+MimeType=text/html;
+StartupNotify=false

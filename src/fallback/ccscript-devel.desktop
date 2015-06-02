@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=ccscript-devel
+Comment=Header files and documentation for ccscript
+Comment[de]=Include-Dateien und Dokumentation für ccscript
+Comment[hu]=Fejlécfájlok és dokumentáció a ccscript-hez
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/packages/ccscript-devel/html/index.html

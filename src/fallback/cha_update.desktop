@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Updating the System and System Changes
+Name[en]=Updating the System and System Changes
+Comment=Updating the System and System Changes
+Comment[en]=Updating the System and System Changes
+Icon=document2
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/manual/opensuse-manual_en/manual/cha.update.html
+X-DOC-Weight=1740

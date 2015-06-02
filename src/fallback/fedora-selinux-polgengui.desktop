@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=SELinux Policy Generation Tool
+GenericName=SELinux
+Comment=Generate SELinux policy modules
+Icon=/usr/share/system-config-selinux/system-config-selinux.png
+TryExec=/usr/bin/selinux-polgengui
+Exec=/usr/bin/selinux-polgengui
+Terminal=false
+Categories=System;Security;
+StartupNotify=true
+X-Desktop-File-Install-Version=0.15

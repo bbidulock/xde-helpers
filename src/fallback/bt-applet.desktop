@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Bluetooth Manager
+Comment=Bluetooth Manager applet
+Icon=stock_bluetooth
+TryExec=bt-applet
+Exec=bt-applet --sm-disable
+Terminal=false
+StartupNotify=false

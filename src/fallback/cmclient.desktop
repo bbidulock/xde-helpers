@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=cmclient
+Comment=Client of Helpdesksystem Callmanager
+Comment[de]=Client des Helpdesksystems Callmanager
+Comment[es]=Cliente del gestor de llamadas Helpdesksystem
+Comment[fr]=Client du système "Help Desk" Callmanager
+Comment[hu]=Helpdesk Callmanager kliens
+Terminal=false
+StartupNotify=false
+DocPath=/usr/lib/cmclient/etc/index.html

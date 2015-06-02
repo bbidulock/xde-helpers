@@ -1,0 +1,22 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Beagle Search Daemon
+Name[cs]=Démon vyhledávače Beagle
+Name[da]=Beagle søgedæmon
+Name[de]=Beagle-Suchdaemo
+Name[fi]=Beagle-hakudemoni
+Name[km]=ដេមិន​ស្វែងរក Beagle
+Name[ko]=비글 검색 데몬
+Name[pl]=Beagle - demon wyszukiwarki
+Name[pt_BR]=Daemon de Pesquisa do Beagle
+Name[ru]=Демон поиска Beagle
+Name[uk]=Фонова служба пошуку Beagle
+Name[zh_CN]=Beagle 搜索守护程序
+TryExec=beagled
+Exec=beagled --replace
+Terminal=false
+StartupNotify=false
+X-KDE-autostart-after=panel
+X-KDE-autostart-phase=2

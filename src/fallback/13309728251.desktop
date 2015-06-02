@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Terminal Emulator
+Comment=Use the command line
+Icon=utilities-terminal
+TryExec=exo-open
+Exec=exo-open --launch TerminalEmulator
+Terminal=false
+OnlyShowIn=XFCE;
+Categories=Utility;X-XFCE;X-Xfce-Toplevel;
+StartupNotify=false
+X-Arch-Package=exo 0.10.6-1
+X-Arch-Package-Name=exo
+X-Arch-Package-Version=0.10.6-1
+X-Arch-Package-Description=Extensions to Xfce by os-cillation
+X-Arch-Package-URL=http://www.xfce.org/
+X-XFCE-Source=file:///usr/share/applications/exo-terminal-emulator.desktop

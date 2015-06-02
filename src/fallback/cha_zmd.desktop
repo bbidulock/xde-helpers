@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Managing Software with ZENworks
+Name[en]=Managing Software with ZENworks
+Comment=Managing Software with ZENworks
+Comment[en]=Managing Software with ZENworks
+Icon=document2
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/manual/sles-admin_en/manual/cha.zmd.html
+X-DOC-Weight=1620

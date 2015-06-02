@@ -1,0 +1,18 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=GNUplot
+GenericName=Function Plotter
+Comment=Interactive plotting program
+Icon=normal/PencilCup
+TryExec=gnuplot
+Exec=gnuplot
+Terminal=true
+Categories=Education;
+StartupNotify=false
+X-Arch-Package=gnuplot 5.0.0-3
+X-Arch-Package-Name=gnuplot
+X-Arch-Package-Version=5.0.0-3
+X-Arch-Package-Description=Plotting package which outputs to X11, PostScript, PNG, GIF, and others
+X-Arch-Package-URL=http://www.gnuplot.info

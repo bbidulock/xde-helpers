@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Changing Language and Country Settings with YaST
+Name[en]=Changing Language and Country Settings with YaST
+Comment=Changing Language and Country Settings with YaST
+Comment[en]=Changing Language and Country Settings with YaST
+Icon=document2
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/manual/opensuse-manual_en/manual/cha.y2.lang.html
+X-DOC-Weight=490

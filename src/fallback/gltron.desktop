@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=gltron
+Comment=3D Game like Tron
+Comment[de]=3D-Spiel wie im Film Tron
+Comment[es]=Juego 3D parecido a Tron
+Comment[fr]=Jeu 3D qui évoque le film Tron.
+Comment[hu]=Tron-szerű 3D játék
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/packages/gltron/README.html

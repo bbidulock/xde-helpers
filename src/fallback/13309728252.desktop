@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=File Manager
+Comment=Browse the file system
+Icon=system-file-manager
+TryExec=exo-open
+Exec=exo-open --launch FileManager %u
+Terminal=false
+OnlyShowIn=XFCE;
+Categories=Utility;X-XFCE;X-Xfce-Toplevel;
+StartupNotify=true
+X-Arch-Package=exo 0.10.6-1
+X-Arch-Package-Name=exo
+X-Arch-Package-Version=0.10.6-1
+X-Arch-Package-Description=Extensions to Xfce by os-cillation
+X-Arch-Package-URL=http://www.xfce.org/
+X-XFCE-MimeType=x-scheme-handler/file;x-scheme-handler/trash;
+X-XFCE-Source=file:///usr/share/applications/exo-file-manager.desktop

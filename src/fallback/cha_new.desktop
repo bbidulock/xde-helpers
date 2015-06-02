@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Basic Concepts
+Name[en]=Basic Concepts
+Comment=Basic Concepts
+Comment[en]=Basic Concepts
+Icon=document2
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/manual/opensuse-manual_en/manual/cha.new.html
+X-DOC-Weight=530

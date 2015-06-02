@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Troubleshooting
+Name[en]=Troubleshooting
+Comment=Troubleshooting
+Comment[en]=Troubleshooting
+Icon=document2
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/manual/sles-heartbeat_en/manual/cha.hb.troubleshooting.html
+X-DOC-Weight=450

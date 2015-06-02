@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=BOINC Manager
+GenericName=BOINC monitor and control utility
+GenericName[cs]=Monitorovací a ovládací nástroj pro BOINC
+GenericName[de]=BOINC Überwachungs- und Kontrollprogramm
+GenericName[pt]=Monitorização BOINC e utilitário de controlo
+Comment=Configure or monitor a BOINC core client
+Comment[cs]=Monitoruje a nastavuje klienta BOINC
+Comment[de]=BOINC Basis Client konfigurieren oder überwachen
+Comment[pt]=Configurar ou monitorizar o cliente básico do BOINC
+Icon=boinc
+TryExec=/usr/bin/boincmgr
+Exec=/usr/bin/boincmgr
+Terminal=false
+Categories=System;Monitor;GTK;
+Path=/var/lib/boinc
+StartupNotify=false

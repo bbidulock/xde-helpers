@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Mass Storage over IP Networks—iSCSI
+Name[en]=Mass Storage over IP Networks—iSCSI
+Comment=Mass Storage over IP Networks—iSCSI
+Comment[en]=Mass Storage over IP Networks—iSCSI
+Icon=document2
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/manual/sles-admin_en/manual/cha.inst.system.iscsi.html
+X-DOC-Weight=1750

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=dsh
+Comment=Distributes commands among the nodes of a cluster
+Comment[de]=Verteilt Kommandos auf den Knoten eines Clusters
+Comment[es]=Distribuye órdenes a través de los nodos de un clúster
+Comment[fr]=Distribue les commandes sur les noeuds d'un cluster
+Comment[hu]=Parancskiosztás egy klaszter csomópontjainak
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/packages/dsh/dsh.html

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=ezwgl
+Comment=GUI Library
+Comment[es]=Librería GUI
+Comment[fr]=Une bibliothèque graphique
+Comment[hu]=Grafikus felület függvénytár
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/packages/ezwgl/welcome.html

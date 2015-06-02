@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=HB OCF Agents
+Name[en]=HB OCF Agents
+Comment=HB OCF Agents
+Comment[en]=HB OCF Agents
+Icon=document2
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/manual/sles-heartbeat_en/manual/app.agents.details.html
+X-DOC-Weight=460

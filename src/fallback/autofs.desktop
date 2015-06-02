@@ -1,0 +1,23 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Autofs
+GenericName=autofs
+Icon=yast-autofs
+TryExec=/sbin/yast2
+Exec=/sbin/yast2 autofs
+Terminal=false
+Categories=Settings;System;Qt;X-SuSE-YaST;X-SuSE-YaST-Misc;
+StartupNotify=true
+X-KDE-HasReadOnlyMode=true
+X-KDE-Library=yast2
+X-KDE-ModuleType=Library
+X-KDE-RootOnly=true
+X-KDE-SubstituteUID=true
+X-SuSE-DocTeamID=ycc_autofs
+X-SuSE-YaST-AutoInstResource=autofs
+X-SuSE-YaST-Call=autofs
+X-SuSE-YaST-Group=Misc
+X-SuSE-YaST-RootOnly=true
+X-SuSE-translate=true
