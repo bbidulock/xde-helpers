@@ -131,4 +131,5 @@ Comment[zh_TW]=本作業階段會使用 ssh 登入至遠端主機
 TryExec=/usr/lib64/gdm-ssh-session
 Exec=/usr/lib64/gdm-ssh-session
 Terminal=false
+Categories=WindowManager;Application;System;
 StartupNotify=false
