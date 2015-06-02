@@ -109,10 +109,15 @@ Comment[zh_CN]=配置键盘、鼠标和其他输入设备
 Comment[zh_TW]=設定鍵盤、滑鼠、及其他輸入裝置
 Icon=input-keyboard
 TryExec=xde-input
-Exec=xde-input -editor
+Exec=xde-input
 Terminal=false
 NotShowIn=GNOME;KDE;XFCE;LXDE;
 Categories=Settings;System;HardwareSettings;XDE;
 StartupNotify=true
 StartupWMClass=xde-input
 X-GNOME-Autostart-enabled=true
+Actions=Edit;
+
+[Desktop Action Edit]
+Name=Edit Settings
+Exec=xde-input -editor

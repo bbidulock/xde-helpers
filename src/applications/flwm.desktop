@@ -8,7 +8,7 @@ GenericName[fr]=Gestionnaire de Fenêtres
 GenericName[pt]=Gestor de Janelas
 Comment=The Fast Light Window Manager
 Icon=flwm
-TryExec=/usr/bin/flwm
+TryExec=flwm
 Exec=flwm
 Terminal=false
 NoDisplay=true
@@ -32,6 +32,6 @@ Exec=xde-session -desktop FLWM -startwm start-flwm
 Comment=FLWM in an XDE session
 
 [Window Manager]
-SessionManaged=true
+SessionManaged=false
 StartupNotification=false
 X-XDE-Managed=true
