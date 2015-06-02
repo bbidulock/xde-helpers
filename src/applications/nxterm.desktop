@@ -52,7 +52,6 @@ Name[zh_CN]=NXterm
 Name[zh_TW]=NXterm
 Icon=nxterm
 Terminal=false
-Categories=;
 StartupNotify=false
 X-XFCE-Binaries=nxterm;
 X-XFCE-Category=TerminalEmulator

@@ -52,7 +52,6 @@ Name[zh_CN]=Encompass
 Name[zh_TW]=Encompass
 Icon=encompass
 Terminal=false
-Categories=;
 StartupNotify=true
 X-XFCE-Binaries=encompass;
 X-XFCE-Category=WebBrowser

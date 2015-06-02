@@ -10,7 +10,6 @@ TryExec=/usr/lib/geoclue2/geoclue-2.0/demos/where-am-i
 Exec=/usr/lib/geoclue2/geoclue-2.0/demos/where-am-i
 Terminal=true
 NoDisplay=true
-Categories=;
 Keywords=geolocation;
 StartupNotify=false
 X-Arch-Package=geoclue2 2.2.0-2

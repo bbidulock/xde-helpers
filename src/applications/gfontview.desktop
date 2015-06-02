@@ -10,7 +10,6 @@ Icon=gfontview.png
 TryExec=gfontview
 Exec=gfontview
 Terminal=false
-Categories=;
 StartupNotify=false
 X-Arch-Package=gfontview 0.5.0-2
 X-Arch-Package-Name=gfontview

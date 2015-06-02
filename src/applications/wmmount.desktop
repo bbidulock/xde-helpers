@@ -6,6 +6,6 @@ Name=wmmount
 TryExec=/usr/bin/wmmount
 Exec=wmmount -- -w -s
 Terminal=false
-OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+OnlyShowIn=FLUXBOX;BLACKBOX;LXDE;OPENBOX;WMAKER;PEKWM;ADWM;WAIMEA;
 Categories=DockApp;WMAKER;
 StartupNotify=false

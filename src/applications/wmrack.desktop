@@ -7,6 +7,6 @@ Comment=WMrack CD Player + Mixer
 TryExec=/usr/bin/wmrack
 Exec=wmrack -w
 Terminal=false
-OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+OnlyShowIn=FLUXBOX;BLACKBOX;LXDE;OPENBOX;WMAKER;PEKWM;ADWM;WAIMEA;
 Categories=DockApp;WMAKER;
 StartupNotify=false

@@ -9,7 +9,6 @@ Icon=dillo
 TryExec=dillo
 Exec=dillo %u
 Terminal=false
-Categories=;
 StartupNotify=true
 X-XFCE-Binaries=dillo;
 X-XFCE-Category=WebBrowser

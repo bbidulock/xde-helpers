@@ -157,5 +157,4 @@ Icon=archlinux-wm-gnome
 TryExec=/usr/bin/gnome-session
 Exec=gnome-session
 Terminal=false
-Categories=;
 StartupNotify=false

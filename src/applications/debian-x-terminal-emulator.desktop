@@ -54,7 +54,6 @@ Icon=debian
 TryExec=x-terminal-emulator
 Exec=x-terminal-emulator
 Terminal=false
-Categories=;
 StartupNotify=false
 X-XFCE-Binaries=x-terminal-emulator;
 X-XFCE-Category=TerminalEmulator

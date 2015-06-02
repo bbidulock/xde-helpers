@@ -139,7 +139,6 @@ Exec=nm-applet
 Terminal=false
 NoDisplay=true
 NotShowIn=KDE;LXDE;
-Categories=;
 StartupNotify=false
 X-GNOME-Autostart-enabled=true
 X-GNOME-Bugzilla-Bugzilla=GNOME

@@ -40,7 +40,6 @@ Name[zh_CN]=Chromium
 Name[zh_TW]=Chromium
 Icon=chromium
 Terminal=false
-Categories=;
 StartupNotify=true
 X-XFCE-Binaries=chromium;google-chrome;chromium-browser;
 X-XFCE-Category=WebBrowser
