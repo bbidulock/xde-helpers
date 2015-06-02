@@ -6,6 +6,6 @@ Name=wmshutdown
 TryExec=/usr/bin/wmshutdown
 Exec=wmshutdown
 Terminal=false
-OnlyShowIn=FLUXBOX;OPENBOX;LXDE;BLACKBOX;PEKWM;WMAKER;ADWM;WAIMEA;
+OnlyShowIn=FLUXBOX;BLACKBOX;LXDE;OPENBOX;WMAKER;PEKWM;ADWM;WAIMEA;
 Categories=DockApp;WMAKER;
 StartupNotify=false

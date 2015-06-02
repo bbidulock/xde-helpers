@@ -52,7 +52,6 @@ Name[zh_CN]=KMail
 Name[zh_TW]=KMail
 Icon=kmail
 Terminal=false
-Categories=;
 StartupNotify=true
 X-XFCE-Binaries=kmail;
 X-XFCE-Category=MailReader

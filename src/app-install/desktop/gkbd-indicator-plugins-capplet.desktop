@@ -136,6 +136,7 @@ Icon=input-keyboard
 TryExec=gkbd-indicator-plugins-capplet
 Exec=gkbd-indicator-plugins-capplet
 Terminal=false
+NoDisplay=true
 OnlyShowIn=GNOME;
 Categories=Settings;DesktopSettings;GNOME;GTK;
 StartupNotify=true

@@ -91,6 +91,7 @@ Exec=atomix
 Terminal=false
 Categories=Game;GNOME;GTK;PuzzleGame;
 StartupNotify=false
+DocPath=/usr/share/gnome/help/atomix/C/atomix.html
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=atomix
 X-GNOME-Bugzilla-Component=atomix

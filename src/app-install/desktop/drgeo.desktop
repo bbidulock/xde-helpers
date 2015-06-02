@@ -70,6 +70,7 @@ Exec=drgeo
 Terminal=false
 Categories=Application;Education;Math;GNOME;
 StartupNotify=true
+DocPath=/usr/share/doc/packages/drgeo/htmldoc/intro.html
 X-AppInstall-Package=drgeo
 X-AppInstall-Popcon=102
 X-AppInstall-Section=main

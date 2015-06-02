@@ -15,5 +15,3 @@ X-AppInstall-Package=kradio
 X-AppInstall-Popcon=29
 X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
-Comment=
-Comment[de]=

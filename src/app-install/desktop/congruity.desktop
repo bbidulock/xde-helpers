@@ -6,7 +6,6 @@ Name=Congruity
 TryExec=congruity
 Exec=congruity %f
 Terminal=false
-Categories=;
 MimeType=application/x-easyzapper-hex;application/x-easyzapper-upgrade;application/x-easyzapper-tutor;
 StartupNotify=false
 X-AppInstall-Package=congruity

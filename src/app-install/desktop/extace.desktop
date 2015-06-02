@@ -18,7 +18,6 @@ Icon=extace.png
 TryExec=extace
 Exec=extace
 Terminal=false
-Categories=;
 StartupNotify=false
 X-AppInstall-Package=extace
 X-AppInstall-Popcon=8

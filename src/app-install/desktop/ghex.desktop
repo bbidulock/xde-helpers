@@ -100,6 +100,7 @@ Exec=ghex2 %F
 Terminal=false
 Categories=Development;GNOME;
 StartupNotify=true
+DocPath=/usr/share/gnome/help/ghex/C/index.html
 X-AppInstall-Package=ghex
 X-AppInstall-Popcon=243
 X-AppInstall-Section=main

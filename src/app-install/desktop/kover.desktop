@@ -8,7 +8,6 @@ Icon=kover
 TryExec=kover
 Exec=kover
 Terminal=false
-Categories=;
 MimeType=application/x-kover;
 StartupNotify=false
 X-AppInstall-Package=kover

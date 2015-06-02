@@ -8,7 +8,6 @@ TryExec=/usr/bin/usbview
 Exec=/usr/bin/usbview
 MultipleArgs=false
 Terminal=false
-Categories=;
 StartupNotify=false
 X-AppInstall-Package=usbview
 X-AppInstall-Popcon=270

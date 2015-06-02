@@ -84,6 +84,7 @@ Icon=archlinux-wm-xfce
 TryExec=/usr/bin/startxfce4
 Exec=startxfce4
 Terminal=false
+Categories=WindowManager;Application;System;
 StartupNotify=false
 X-GNOME-Autostart-Notify=true
 X-GNOME-Autostart-Phase=WindowManager

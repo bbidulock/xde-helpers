@@ -7,7 +7,6 @@ TryExec=mutter
 Exec=mutter --wayland --display-server
 Terminal=false
 NoDisplay=true
-Categories=;
 StartupNotify=false
 X-GNOME-Autostart-Notify=true
 X-GNOME-Autostart-Phase=WindowManager

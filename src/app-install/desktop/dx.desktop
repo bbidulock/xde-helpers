@@ -12,6 +12,7 @@ Exec=dx
 Terminal=false
 Categories=Application;Education;Science;
 StartupNotify=false
+DocPath=/opt/dx/java/htmlpages/toc.htm
 X-AppInstall-Package=dx
 X-AppInstall-Popcon=58
 X-AppInstall-Section=main

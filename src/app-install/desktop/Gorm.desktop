@@ -13,4 +13,3 @@ StartupNotify=false
 X-AppInstall-Package=gorm.app
 X-AppInstall-Popcon=103
 X-AppInstall-Section=main
-MimeType=

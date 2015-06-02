@@ -15,5 +15,5 @@ StartupNotify=false
 DocPath=poker2D/index.html
 X-KDE-StartupNotify=false
 X-AppInstall-Package=python-poker2d
-X-AppInstall-Section=main
 X-AppInstall-Popcon=0
+X-AppInstall-Section=main

@@ -207,5 +207,5 @@ X-KDE-HasReadOnlyMode=false
 X-KDE-Library=kresources
 X-KDE-ModuleType=Library
 X-AppInstall-Package=kdelibs
-X-AppInstall-Section=main
 X-AppInstall-Popcon=0
+X-AppInstall-Section=main

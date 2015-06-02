@@ -15,6 +15,3 @@ StartupNotify=true
 X-AppInstall-Package=podbrowser
 X-AppInstall-Popcon=12
 X-AppInstall-Section=main
-GenericName=
-GenericName[en_GB]=
-X-GNOME-DocPath=

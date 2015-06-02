@@ -52,7 +52,6 @@ Name[zh_CN]=Konqueror 网络浏览器
 Name[zh_TW]=Konqueror 網路瀏覽器
 Icon=konqueror
 Terminal=false
-Categories=;
 StartupNotify=true
 X-XFCE-Binaries=konqueror;
 X-XFCE-Category=WebBrowser

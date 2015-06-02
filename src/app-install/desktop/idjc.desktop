@@ -21,7 +21,4 @@ X-KDE-SubstituteUID=false
 X-AppInstall-Package=idjc
 X-AppInstall-Popcon=19
 X-AppInstall-Section=main
-MimeType=
-X-DCOP-ServiceType=
-X-KDE-Username=
 X-Ubuntu-Gettext-Domain=idjc

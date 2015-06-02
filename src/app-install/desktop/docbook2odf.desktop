@@ -7,7 +7,6 @@ TryExec=docbook2odf
 Exec=docbook2odf --force --input-file  %f
 ServiceTypes=text/docbook;
 Terminal=false
-Categories=;
 MimeType=application/docbook+xml;
 StartupNotify=false
 X-AppInstall-Package=docbook2odf

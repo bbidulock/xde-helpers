@@ -15,4 +15,3 @@ X-AppInstall-Package=mrpt-apps
 X-AppInstall-Popcon=1
 X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,i386,ia64,mips,mipsel,powerpc,s390,sparc
-MimeType=

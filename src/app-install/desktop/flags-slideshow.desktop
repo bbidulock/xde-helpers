@@ -11,6 +11,6 @@ OnlyShowIn=GNOME;
 Categories=GNOME;Screensaver;
 StartupNotify=false
 X-AppInstall-Package=gnome-screensaver-flags
-X-AppInstall-Section=main
 X-AppInstall-Popcon=0
+X-AppInstall-Section=main
 X-Ubuntu-Gettext-Domain=gnome-screensaver

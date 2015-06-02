@@ -14,5 +14,3 @@ X-AppInstall-Package=slicer
 X-AppInstall-Popcon=12
 X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,i386,ia64,kfreebsd-amd64,kfreebsd-i386,powerpc,s390,sparc
-MimeType=
-X-Desktop-File-Install-Version=

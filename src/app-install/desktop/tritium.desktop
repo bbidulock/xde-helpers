@@ -7,7 +7,6 @@ Comment=Tritium window manager
 TryExec=/usr/bin/tritium
 Exec=/usr/bin/tritium
 Terminal=false
-Categories=;
 StartupNotify=false
 X-AppInstall-Package=tritium
 X-AppInstall-Popcon=9

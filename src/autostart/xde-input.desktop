@@ -116,3 +116,8 @@ Categories=Settings;System;HardwareSettings;XDE;
 StartupNotify=true
 StartupWMClass=xde-input
 X-GNOME-Autostart-enabled=true
+Actions=Edit;
+
+[Desktop Action Edit]
+Name=Edit Settings
+Exec=xde-input -editor
