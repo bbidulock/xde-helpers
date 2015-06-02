@@ -10,6 +10,6 @@ TryExec=xde-panel
 Exec=sh -c "xde-panel $HOME/.config/xde-panel/${XDG_CURRENT_DESKTOP:-default}/rc.xml"
 Terminal=false
 OnlyShowIn=FLUXBOX;BLACKBOX;OPENBOX;PEKWM;WMAKER;ECHINUS;SCROTWM;ADWM;WAIMEA;
-Categories=XDE;System;Utility;
+Categories=System;Utility;XDE;
 StartupNotify=true
 StartupWMClass=xde-panel
