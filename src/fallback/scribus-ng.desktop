@@ -100,7 +100,6 @@ X-KDE-SubstituteUID=false
 X-AppInstall-Package=scribus-ng
 X-AppInstall-Popcon=220
 X-AppInstall-Section=main
-X-KDE-Username=
 
 [X-Property::X-KDE-NativeExtension]
 Type=QString

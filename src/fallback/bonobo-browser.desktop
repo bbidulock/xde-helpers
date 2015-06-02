@@ -154,6 +154,7 @@ Comment[xh]=Ibonisa amalungu e-Bonobo akhoyo
 Comment[zh_CN]=显示可用的 Bonobo 组件
 Comment[zh_HK]=顯示現有的 Bonobo 元件
 Comment[zh_TW]=顯示現有的 Bonobo 元件
+Icon=gnome-desktop-ccperiph
 TryExec=bonobo-browser
 Exec=bonobo-browser
 Terminal=false

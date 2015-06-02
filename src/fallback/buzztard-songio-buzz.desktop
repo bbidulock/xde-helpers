@@ -7,7 +7,6 @@ Name[de]=Buzztard Music Editor
 TryExec=bt-edit
 Exec=bt-edit --command=load --input-file=%f
 Terminal=false
-Categories=;
 MimeType=audio/x-bmw;audio/x-bmx;
 StartupNotify=false
 X-AppInstall-Package=buzztard-bsl

@@ -8,5 +8,4 @@ TryExec=/usr/libexec/notification-daemon
 Exec=/usr/libexec/notification-daemon
 Terminal=false
 NoDisplay=true
-Categories=;
 StartupNotify=false

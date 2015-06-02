@@ -16,7 +16,6 @@ TryExec=/usr/share/e16/misc/starte16-gnome
 Exec=/usr/share/e16/misc/starte16-gnome
 Terminal=false
 Hidden=true
-Categories=;
 StartupNotify=false
 X-GNOME-Autostart-Notify=true
 X-GNOME-Autostart-Phase=WindowManager

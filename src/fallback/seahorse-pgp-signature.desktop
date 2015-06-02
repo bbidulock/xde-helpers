@@ -66,7 +66,6 @@ TryExec=seahorse-tool
 Exec=seahorse-tool --verify
 Terminal=false
 NoDisplay=true
-Categories=;
 MimeType=application/pgp-signature;
 StartupNotify=false
 X-GNOME-DocPath=seahorse/seahorse.xml

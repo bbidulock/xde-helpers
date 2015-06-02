@@ -96,5 +96,4 @@ TryExec=gpk-distro-upgrade
 Exec=gpk-distro-upgrade
 Terminal=false
 NoDisplay=true
-Categories=;
 StartupNotify=true

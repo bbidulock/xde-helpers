@@ -245,7 +245,6 @@ Exec=brasero -c %u
 Terminal=false
 NoDisplay=true
 OnlyShowIn=GNOME;
-Categories=;
 MimeType=x-content/audio-cdda;x-content/video-dvd;x-content/video-vcd;x-content/video-svcd;x-content/image-picturecd;
 StartupNotify=true
 X-GNOME-Bugzilla-Bugzilla=GNOME

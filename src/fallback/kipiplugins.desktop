@@ -68,7 +68,6 @@ Comment[x-test]=xxKDE Image Plugins Interfacexx
 Comment[zh_CN]=KDE 图像插件接口
 Comment[zh_TW]=KDE 影像外掛介面
 Terminal=false
-Categories=;
 StartupNotify=false
 X-DocPath=kipi-plugins/index.html
 X-AppInstall-Package=kipi-plugins

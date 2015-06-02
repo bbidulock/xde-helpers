@@ -136,4 +136,3 @@ X-AppInstall-Package=kppp
 X-AppInstall-Popcon=813
 X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
-MimeType=

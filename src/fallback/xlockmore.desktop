@@ -8,7 +8,6 @@ Icon=gnome-lockscreen.png
 TryExec=xlock
 Exec=xlock
 Terminal=false
-Categories=;
 StartupNotify=false
 X-Arch-Package=xlockmore-blank 5.46-1
 X-Arch-Package-Name=xlockmore-blank

@@ -43,7 +43,6 @@ TryExec=spacefm
 Exec=spacefm %U
 Terminal=false
 NoDisplay=true
-Categories=;
 MimeType=inode/directory;
 StartupNotify=true
 X-Arch-Package=spacefm-gtk2 1.0.1-1

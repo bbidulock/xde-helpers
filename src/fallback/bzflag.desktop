@@ -12,5 +12,5 @@ Terminal=false
 Categories=Game;3DGraphics;ActionGame;
 StartupNotify=false
 X-AppInstall-Package=bzflag
-X-AppInstall-Section=main
 X-AppInstall-Popcon=0
+X-AppInstall-Section=main

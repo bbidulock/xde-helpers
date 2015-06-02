@@ -12,5 +12,3 @@ StartupNotify=false
 X-AppInstall-Package=puredata
 X-AppInstall-Popcon=61
 X-AppInstall-Section=main
-Comment=
-GenericName=

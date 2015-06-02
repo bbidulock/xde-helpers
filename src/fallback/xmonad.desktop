@@ -6,7 +6,6 @@ Name=Xmonad
 TryExec=xmonad
 Exec=xmonad
 Terminal=false
-Categories=;
 StartupNotify=false
 X-GNOME-Autostart-Notify=true
 X-GNOME-Autostart-Phase=WindowManager

@@ -101,7 +101,6 @@ X-Desktop-File-Install-Version=0.18
 X-AppInstall-Package=scribus
 X-AppInstall-Popcon=526
 X-AppInstall-Section=main
-X-KDE-Username=
 X-StandardInstall=false
 
 [X-Property::X-KDE-NativeExtension]

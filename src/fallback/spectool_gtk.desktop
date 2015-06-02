@@ -8,7 +8,6 @@ Comment[fr]=Analyse du spectre 2.4 GHz en utilisant l'appareil Wi-Spy
 TryExec=spectool_gtk
 Exec=spectool_gtk
 Terminal=false
-Categories=;
 StartupNotify=false
 X-AppInstall-Package=spectools
 X-AppInstall-Popcon=24

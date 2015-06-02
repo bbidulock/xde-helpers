@@ -11,7 +11,6 @@ Icon=ede
 TryExec=startede
 Exec=startede
 Terminal=false
-Categories=;
 StartupNotify=false
 X-GNOME-Autostart-Notify=false
 X-GNOME-Autostart-Phase=WindowManager

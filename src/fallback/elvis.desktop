@@ -15,5 +15,5 @@ Exec=elvis
 Terminal=false
 Categories=TextEditor;Utilitiy;
 StartupNotify=false
-X-AfterStep-IndexName=elvis
 DocPath=/usr/lib/elvis/elvis.html
+X-AfterStep-IndexName=elvis

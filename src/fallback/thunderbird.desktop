@@ -52,7 +52,6 @@ Name[zh_CN]=Mozilla Thunderbird
 Name[zh_TW]=Mozilla Thunderbird
 Icon=thunderbird
 Terminal=false
-Categories=;
 StartupNotify=false
 X-XFCE-Binaries=thunderbird;thunderbird-gtk2;thunderbird-gtk;mozilla-thunderbird;
 X-XFCE-Category=MailReader

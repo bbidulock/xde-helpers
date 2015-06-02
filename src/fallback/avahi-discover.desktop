@@ -67,4 +67,3 @@ StartupNotify=false
 X-AppInstall-Package=avahi-discover
 X-AppInstall-Popcon=135
 X-AppInstall-Section=main
-GenericName=

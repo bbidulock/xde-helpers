@@ -19,7 +19,6 @@ Icon=/usr/share/e16/icons/e16.png
 TryExec=e16
 Exec=e16
 Terminal=false
-Categories=;
 StartupNotify=false
 X-AppInstall-Package=e16
 X-AppInstall-Popcon=115

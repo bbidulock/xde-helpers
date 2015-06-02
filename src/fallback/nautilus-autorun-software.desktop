@@ -79,7 +79,6 @@ Exec=nautilus-autorun-software %u
 Terminal=false
 NoDisplay=true
 OnlyShowIn=GNOME;
-Categories=;
 MimeType=x-content/software;
 StartupNotify=true
 X-GNOME-Bugzilla-Bugzilla=GNOME

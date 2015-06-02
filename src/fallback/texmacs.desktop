@@ -15,4 +15,3 @@ StartupNotify=false
 X-AppInstall-Package=texmacs
 X-AppInstall-Popcon=385
 X-AppInstall-Section=main
-Path=

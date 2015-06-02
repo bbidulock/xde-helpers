@@ -7,7 +7,6 @@ TryExec=/usr/libexec/gvfsd-archive
 Exec=/usr/libexec/gvfsd-archive file=%u
 Terminal=false
 NoDisplay=true
-Categories=;
 MimeType=application/x-cd-image;application/x-bzip-compressed-tar;application/x-compressed-tar;application/x-tar;application/x-cpio;application/x-zip;application/zip;application/x-lzma-compressed-tar;application/x-xz-compressed-tar;
 StartupNotify=false
 X-GNOME-Bugzilla-Bugzilla=GNOME

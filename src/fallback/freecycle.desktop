@@ -15,4 +15,3 @@ X-AppInstall-Package=freecycle
 X-AppInstall-Popcon=19
 X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
-Path=

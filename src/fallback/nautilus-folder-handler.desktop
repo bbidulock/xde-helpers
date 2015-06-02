@@ -95,7 +95,6 @@ Exec=nautilus --no-desktop %U
 Terminal=false
 NoDisplay=true
 OnlyShowIn=GNOME;
-Categories=;
 MimeType=x-directory/gnome-default-handler;x-directory/normal;inode/directory;application/x-gnome-saved-search;
 StartupNotify=true
 X-GNOME-Bugzilla-Bugzilla=GNOME
