@@ -127,6 +127,7 @@ Terminal=false
 Categories=Utility;TerminalEmulator;
 StartupNotify=false
 StartupWMClass=aterm
+DocPath=/usr/share/doc/packages/aterm/atermRef.html
 X-XFCE-Binaries=aterm;
 X-XFCE-Category=TerminalEmulator
 X-XFCE-Commands=%B;

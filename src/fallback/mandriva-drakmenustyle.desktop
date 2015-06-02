@@ -9,5 +9,5 @@ TryExec=drakmenustyle
 Exec=drakmenustyle
 Terminal=false
 NoDisplay=true
-Categories=GTK;X-MandrivaLinux-CrossDesktop;Settings;
+Categories=Settings;GTK;X-MandrivaLinux-CrossDesktop;
 StartupNotify=true

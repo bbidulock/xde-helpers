@@ -2,13 +2,13 @@
 Version=1.0
 Encoding=UTF-8
 Type=Application
-Name=Qt3 Assistant 
+Name=Qt3 Assistant
 Comment=Add translations to Qt3 applications
 Icon=assistant3
 TryExec=assistant
 Exec=assistant
 Terminal=false
-Categories=Qt;Development;
+Categories=Development;Qt;
 StartupNotify=false
 X-Desktop-File-Install-Version=0.15
 X-Arch-Package=qtchooser 48-1

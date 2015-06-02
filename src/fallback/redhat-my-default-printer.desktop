@@ -90,6 +90,6 @@ Icon=printer
 TryExec=my-default-printer
 Exec=my-default-printer
 Terminal=false
-Categories=GTK;HardwareSettings;Settings;X-Red-Hat-Base;
+Categories=Settings;HardwareSettings;GTK;X-Red-Hat-Base;
 StartupNotify=false
 X-Desktop-File-Install-Version=0.15

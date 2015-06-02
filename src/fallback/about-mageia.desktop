@@ -9,5 +9,5 @@ TryExec=about-mageia
 Exec=about-mageia
 Terminal=false
 NoDisplay=true
-Categories=Documentation;System;
+Categories=System;Documentation;
 StartupNotify=false

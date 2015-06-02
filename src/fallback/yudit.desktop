@@ -9,5 +9,5 @@ Icon=text-editor
 TryExec=yudit
 Exec=yudit
 Terminal=false
-Categories=Utilitiy;TextEditor;
+Categories=TextEditor;Utilitiy;
 StartupNotify=false

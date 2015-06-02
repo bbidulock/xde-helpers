@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
 Encoding=UTF-8
-Type=Application
+Type=XSession
 Name=Compiz
 Name[ar]=Compiz
 Name[bg]=Compiz
@@ -48,7 +48,10 @@ X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=compiz
 X-GnomeWMSettingsLibrary=compiz
-X-GNOME-WMSettingsModule=metacity
+X-GNOME-WMSettingsModule=compiz
 X-AppInstall-Package=compiz-core
 X-AppInstall-Popcon=2477
 X-AppInstall-Section=main
+
+[Window Manager]
+SessionManaged=false

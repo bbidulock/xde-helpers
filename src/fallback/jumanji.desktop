@@ -5,6 +5,7 @@ Type=X-XFCE-Helper
 Name=Jumanji
 Icon=jumanji
 Terminal=false
+Categories=;
 StartupNotify=true
 X-XFCE-Binaries=jumanji;
 X-XFCE-Category=WebBrowser

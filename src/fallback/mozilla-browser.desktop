@@ -52,6 +52,7 @@ Name[zh_CN]=Mozilla 浏览器
 Name[zh_TW]=Mozilla 瀏覽器
 Icon=mozilla
 Terminal=false
+Categories=;
 StartupNotify=false
 X-XFCE-Binaries=mozilla;mozilla-gtk2;mozilla-gtk;
 X-XFCE-Category=WebBrowser

@@ -8,5 +8,5 @@ Icon=logfactor5.png
 TryExec=logfactor5
 Exec=logfactor5
 Terminal=false
-Categories=GNOME;Application;Development;X-JPackage;
+Categories=Application;Development;GNOME;X-JPackage;
 StartupNotify=false

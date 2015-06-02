@@ -69,6 +69,7 @@ TryExec=seahorse-tool
 Exec=seahorse-tool --import
 Terminal=false
 NoDisplay=true
+Categories=;
 MimeType=application/pgp-keys;
 StartupNotify=false
 X-GNOME-DocPath=seahorse/seahorse.xml

@@ -121,6 +121,6 @@ TryExec=gpk-update-viewer
 Exec=gpk-update-viewer
 Terminal=false
 NotShowIn=KDE;
-Categories=GNOME;GTK;System;
+Categories=System;GNOME;GTK;
 StartupNotify=true
 X-Desktop-File-Install-Version=0.18

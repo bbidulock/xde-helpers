@@ -2,13 +2,13 @@
 Version=1.0
 Encoding=UTF-8
 Type=Application
-Name=Qt4 Linguist 
+Name=Qt4 Linguist
 Comment=Add translations to Qt4 applications
 Icon=linguist
 TryExec=linguist-qt4
 Exec=linguist-qt4
 Terminal=false
-Categories=Qt;Development;
+Categories=Development;Qt;
 MimeType=application/x-linguist;
 StartupNotify=false
 X-Desktop-File-Install-Version=0.15

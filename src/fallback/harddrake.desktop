@@ -140,5 +140,5 @@ TryExec=harddrake2
 Exec=harddrake2
 Terminal=false
 NoDisplay=true
-Categories=GTK;X-MandrivaLinux-System-Configuration-Hardware;HardwareSettings;
+Categories=HardwareSettings;GTK;X-MandrivaLinux-System-Configuration-Hardware;
 StartupNotify=false

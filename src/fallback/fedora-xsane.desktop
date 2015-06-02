@@ -9,6 +9,6 @@ Icon=xsane
 TryExec=xsane
 Exec=xsane
 Terminal=false
-Categories=GTK;Graphics;2DGraphics;RasterGraphics;Scanning;
+Categories=Application;Graphics;2DGraphics;RasterGraphics;Scanning;GTK;X-Fedora;X-Red-Hat-Base;
 StartupNotify=true
 X-Desktop-File-Install-Version=0.15

@@ -8,5 +8,5 @@ Icon=drakstats
 TryExec=drakstats
 Exec=drakstats
 Terminal=false
-Categories=GTK;X-MandrivaLinux-CrossDesktop;System;PackageManager;
+Categories=System;PackageManager;GTK;X-MandrivaLinux-CrossDesktop;
 StartupNotify=false

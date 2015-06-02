@@ -51,6 +51,7 @@ Comment[sv]=Datainsamlare för program
 Comment[zh_CN]=应用程序数据挖掘
 Icon=system-installer
 Terminal=false
+Categories=;
 StartupNotify=false
 DBusName=org.freedesktop.Tracker1.Miner.Applications
 DBusPath=/org/freedesktop/Tracker1/Miner/Applications

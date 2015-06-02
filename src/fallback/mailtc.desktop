@@ -6,5 +6,5 @@ Name=MailTC Tray Icon
 GenericName=System Tray Icon
 Comment=Lightweight GTK2 mail checker for the system tray
 Terminal=false
-Categories=GTK;TrayIcon;System;Utility;
+Categories=TrayIcon;System;Utility;GTK;
 StartupNotify=false

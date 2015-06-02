@@ -8,5 +8,5 @@ Icon=chainsaw.png
 TryExec=chainsaw
 Exec=chainsaw
 Terminal=false
-Categories=GNOME;Application;Development;X-JPackage;
+Categories=Application;Development;GNOME;X-JPackage;
 StartupNotify=false

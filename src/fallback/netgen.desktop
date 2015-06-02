@@ -9,7 +9,7 @@ Icon=netgen16x16
 TryExec=sh
 Exec=sh -c 'NETGENDIR=/usr/share/netgen /usr/bin/netgen'
 Terminal=false
-Categories=Education;Math;Science;
+Categories=Education;Science;Math;
 StartupNotify=false
 X-AppInstall-Package=netgen
 X-AppInstall-Popcon=21

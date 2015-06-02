@@ -73,5 +73,5 @@ TryExec=MageiaUpdate
 Exec=MageiaUpdate
 Terminal=false
 NoDisplay=true
-Categories=GTK;X-MandrivaLinux-CrossDesktop;System;PackageManager;
+Categories=System;PackageManager;GTK;X-MandrivaLinux-CrossDesktop;
 StartupNotify=false

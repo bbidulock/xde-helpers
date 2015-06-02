@@ -2,13 +2,13 @@
 Version=1.0
 Encoding=UTF-8
 Type=Application
-Name=Qt3 Linguist 
+Name=Qt3 Linguist
 Comment=Add translations to Qt3 applications
 Icon=linguist3
 TryExec=linguist
 Exec=linguist
 Terminal=false
-Categories=Qt;Development;
+Categories=Development;Qt;
 MimeType=application/x-linguist;
 StartupNotify=false
 X-Desktop-File-Install-Version=0.15

@@ -44,4 +44,5 @@ TryExec=/usr/libexec/nm-vpnc-auth-dialog
 Exec=/usr/libexec/nm-vpnc-auth-dialog
 Terminal=false
 NoDisplay=true
+Categories=;
 StartupNotify=false

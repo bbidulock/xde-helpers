@@ -3,10 +3,10 @@ Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=R Commander
-Comment=Graphical interface to the R environment for statistical computing 
-Comment[de]=Graphische Umgebung fuer das R Programm fuer Statistische Berechnungen 
-Comment[fr]=Environnement graphique pour le logiciel de calcul statistique R 
-Comment[it]=Interfaccia grafica per l'ambiente di calcolo statistico R 
+Comment=Graphical interface to the R environment for statistical computing
+Comment[de]=Graphische Umgebung fuer das R Programm fuer Statistische Berechnungen
+Comment[fr]=Environnement graphique pour le logiciel de calcul statistique R
+Comment[it]=Interfaccia grafica per l'ambiente di calcolo statistico R
 Icon=_usr_lib_R_site-library_Rcmdr_etc_linux_Rcmdr
 TryExec=sh
 Exec=sh -c 'R_DEFAULT_PACKAGES="$R_DEFAULT_PACKAGES Rcmdr" R "$@"'

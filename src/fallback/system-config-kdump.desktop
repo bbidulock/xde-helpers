@@ -48,6 +48,6 @@ Icon=system-config-kdump
 TryExec=system-config-kdump
 Exec=system-config-kdump
 Terminal=false
-Categories=System;Settings;
+Categories=Settings;System;
 StartupNotify=true
 X-Desktop-File-Install-Version=0.15

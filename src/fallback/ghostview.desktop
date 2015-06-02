@@ -124,6 +124,6 @@ Icon=/usr/share/pixmaps/gv_icon.xpm
 TryExec=ghostview
 Exec=ghostview
 Terminal=false
-Categories=Viewer;Graphics;Office;
+Categories=Graphics;Office;Viewer;
 MimeType=application/ps;
 StartupNotify=false

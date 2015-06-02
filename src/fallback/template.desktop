@@ -82,6 +82,6 @@ TryExec=oofromtemplate3.2
 Exec=oofromtemplate3.2
 Terminal=false
 NoDisplay=true
-Categories=X-SuSE-Core-Office;Office;X-MandrivaLinux-CrossDesktop;
+Categories=Office;X-MandrivaLinux-CrossDesktop;X-SuSE-Core-Office;
 StartupNotify=false
 X-Desktop-File-Install-Version=0.16

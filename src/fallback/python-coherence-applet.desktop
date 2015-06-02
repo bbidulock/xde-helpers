@@ -8,5 +8,5 @@ Icon=coherence
 TryExec=applet-coherence
 Exec=applet-coherence
 Terminal=false
-Categories=X-MandrivaLinux-Internet;X-MandrivaLinux-CrossDesktop;
+Categories=X-MandrivaLinux-CrossDesktop;X-MandrivaLinux-Internet;
 StartupNotify=true

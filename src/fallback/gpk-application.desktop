@@ -130,6 +130,6 @@ TryExec=gpk-application
 Exec=gpk-application
 Terminal=false
 NotShowIn=KDE;
-Categories=GNOME;GTK;System;Settings;
+Categories=Settings;System;GNOME;GTK;
 StartupNotify=true
 X-Desktop-File-Install-Version=0.15

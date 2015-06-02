@@ -7,5 +7,5 @@ Comment=Epiphany web browser
 TryExec=epiphany-browser
 Exec=epiphany-browser
 Terminal=false
-Categories=Network;Web;Browsing;
+Categories=Network;Browsing;Web;
 StartupNotify=false

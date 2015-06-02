@@ -8,5 +8,5 @@ Icon=esc.png
 TryExec=esc
 Exec=esc
 Terminal=false
-Categories=System;Application;SystemSetup;X-Red-Hat-Base;
+Categories=Application;System;SystemSetup;X-Red-Hat-Base;
 StartupNotify=false

@@ -122,6 +122,6 @@ TryExec=gpk-log
 Exec=gpk-log
 Terminal=false
 NoDisplay=true
-Categories=GNOME;GTK;System;
+Categories=System;GNOME;GTK;
 StartupNotify=true
 X-Desktop-File-Install-Version=0.18

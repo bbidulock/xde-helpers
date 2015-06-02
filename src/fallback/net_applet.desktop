@@ -8,6 +8,6 @@ Icon=/usr/share/libDrakX/pixmaps/connected.png
 TryExec=net_applet
 Exec=net_applet --force
 Terminal=false
-Categories=GTK;System;Monitor;X-MandrivaLinux-CrossDesktop;
+Categories=System;Monitor;GTK;X-MandrivaLinux-CrossDesktop;
 StartupNotify=false
 X-KDE-autostart-after=kdesktop

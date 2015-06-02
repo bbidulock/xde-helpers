@@ -40,7 +40,7 @@ Icon=evolution
 TryExec=evolution
 Exec=evolution --component=mail
 Terminal=false
-Categories=GNOME;Network;
+Categories=Network;GNOME;
 StartupNotify=true
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=Evolution

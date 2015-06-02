@@ -5,6 +5,7 @@ Type=X-XFCE-Helper
 Name=Icecat
 Icon=icecat
 Terminal=false
+Categories=;
 StartupNotify=false
 X-XFCE-Binaries=icecat;icecat-gtk2;icecat-gtk;
 X-XFCE-Category=WebBrowser

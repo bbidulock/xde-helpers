@@ -179,6 +179,6 @@ Icon=system-config-boot
 TryExec=system-config-boot
 Exec=system-config-boot
 Terminal=false
-Categories=System;Settings;
+Categories=Settings;System;
 StartupNotify=false
 X-Desktop-File-Install-Version=0.18

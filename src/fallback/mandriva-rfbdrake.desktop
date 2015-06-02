@@ -8,5 +8,5 @@ Icon=rfbdrake
 TryExec=rfbdrake
 Exec=rfbdrake
 Terminal=false
-Categories=GNOME;GTK;X-MandrivaLinux-Internet-RemoteAccess;Network;RemoteAccess;Dialup;X-MandrivaLinux-CrossDesktop;
+Categories=Network;Dialup;RemoteAccess;GNOME;GTK;X-MandrivaLinux-CrossDesktop;X-MandrivaLinux-Internet-RemoteAccess;
 StartupNotify=false

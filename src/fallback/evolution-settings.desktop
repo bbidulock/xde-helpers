@@ -88,5 +88,5 @@ TryExec=evolution-settings
 Exec=evolution-settings
 Terminal=false
 OnlyShowIn=GNOME;
-Categories=GNOME;GTK;Settings;X-GNOME-PersonalSettings;
+Categories=Settings;GNOME;GTK;X-GNOME-PersonalSettings;
 StartupNotify=true

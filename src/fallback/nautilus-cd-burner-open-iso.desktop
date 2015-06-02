@@ -118,7 +118,7 @@ Exec=nautilus-cd-burner --source-iso=%f
 Terminal=false
 NoDisplay=true
 OnlyShowIn=GNOME;
-Categories=GNOME;Core;
+Categories=Core;GNOME;
 MimeType=application/x-cd-image;
 StartupNotify=true
 X-GNOME-Bugzilla-Bugzilla=GNOME

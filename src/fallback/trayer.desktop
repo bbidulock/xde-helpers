@@ -6,5 +6,5 @@ Name=Trayer System Tray
 GenericName=System Tray Icon
 Comment=A lightweight GTK2-based system tray
 Terminal=false
-Categories=GTK;TrayIcon;System;Utility;
+Categories=TrayIcon;System;Utility;GTK;
 StartupNotify=false

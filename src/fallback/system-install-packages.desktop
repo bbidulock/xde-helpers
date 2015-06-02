@@ -137,5 +137,5 @@ TryExec=system-install-packages
 Exec=system-install-packages %F
 Terminal=false
 NoDisplay=true
-Categories=Application;System;X-Red-Hat-Base;X-Fedora;
+Categories=Application;System;X-Fedora;X-Red-Hat-Base;
 StartupNotify=true

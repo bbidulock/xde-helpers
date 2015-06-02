@@ -8,5 +8,5 @@ Icon=rxvt-CLE
 TryExec=rxvt
 Exec=rxvt
 Terminal=false
-Categories=X-MandrivaLinux-System-Terminals;TerminalEmulator;
+Categories=TerminalEmulator;X-MandrivaLinux-System-Terminals;
 StartupNotify=false

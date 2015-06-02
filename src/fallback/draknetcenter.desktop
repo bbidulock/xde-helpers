@@ -45,5 +45,5 @@ Icon=/usr/share/mcc/themes/default/netcenter.png
 TryExec=draknetcenter
 Exec=draknetcenter
 Terminal=false
-Categories=System;Network;
+Categories=Network;System;
 StartupNotify=true

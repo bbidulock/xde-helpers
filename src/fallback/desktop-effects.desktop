@@ -103,5 +103,5 @@ TryExec=desktop-effects
 Exec=desktop-effects
 Terminal=false
 OnlyShowIn=GNOME;
-Categories=GNOME;GTK;Settings;DesktopSettings;
+Categories=Settings;DesktopSettings;GNOME;GTK;
 StartupNotify=true

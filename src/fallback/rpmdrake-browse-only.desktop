@@ -103,5 +103,5 @@ TryExec=rpmdrake
 Exec=rpmdrake
 Terminal=false
 NoDisplay=true
-Categories=GTK;X-MandrivaLinux-CrossDesktop;System;PackageManager;
+Categories=System;PackageManager;GTK;X-MandrivaLinux-CrossDesktop;
 StartupNotify=false

@@ -9,5 +9,5 @@ TryExec=drakfax
 Exec=drakfax
 Terminal=false
 NoDisplay=true
-Categories=GTK;Settings;
+Categories=Settings;GTK;
 StartupNotify=false

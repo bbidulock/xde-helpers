@@ -137,6 +137,7 @@ Exec=vinagre -F %U
 Terminal=false
 NoDisplay=true
 OnlyShowIn=GNOME;
+Categories=;
 MimeType=application/x-vnc;
 StartupNotify=true
 X-GNOME-Bugzilla-Bugzilla=GNOME

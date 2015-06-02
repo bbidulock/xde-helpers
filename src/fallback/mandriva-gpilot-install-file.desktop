@@ -9,6 +9,6 @@ TryExec=gpilot-install-file
 Exec=gpilot-install-file %U
 Terminal=false
 Hidden=true
-Categories=GNOME;GTK;TelephonyTools;Utility;
+Categories=Utility;TelephonyTools;GNOME;GTK;
 MimeType=application/x-palm-database;
 StartupNotify=true

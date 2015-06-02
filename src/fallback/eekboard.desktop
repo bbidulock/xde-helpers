@@ -9,5 +9,5 @@ Icon=eekboard
 TryExec=eekboard
 Exec=eekboard
 Terminal=false
-Categories=GTK;Utility;
+Categories=Utility;GTK;
 StartupNotify=false

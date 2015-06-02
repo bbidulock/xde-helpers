@@ -142,6 +142,6 @@ Icon=preferences-desktop-locale
 TryExec=system-config-language
 Exec=system-config-language
 Terminal=false
-Categories=X-Red-Hat-Base;Settings;System;
+Categories=Settings;System;X-Red-Hat-Base;
 StartupNotify=true
 X-Desktop-File-Install-Version=0.18

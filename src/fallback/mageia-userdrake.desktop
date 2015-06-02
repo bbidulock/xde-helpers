@@ -9,5 +9,5 @@ TryExec=userdrake
 Exec=userdrake
 Terminal=false
 NoDisplay=true
-Categories=GTK;System;X-MandrivaLinux-CrossDesktop;
+Categories=System;GTK;X-MandrivaLinux-CrossDesktop;
 StartupNotify=true

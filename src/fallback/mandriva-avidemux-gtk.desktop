@@ -8,5 +8,5 @@ Icon=avidemux
 TryExec=avidemux2_gtk
 Exec=avidemux2_gtk %U
 Terminal=false
-Categories=GTK;AudioVideo;Video;AudioVideoEditing;
+Categories=AudioVideo;Video;AudioVideoEditing;GTK;
 StartupNotify=true

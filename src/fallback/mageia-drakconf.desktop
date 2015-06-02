@@ -32,5 +32,5 @@ Icon=drakconf
 TryExec=drakconf
 Exec=drakconf
 Terminal=false
-Categories=GTK;X-MandrivaLinux-CrossDesktop;System;
+Categories=System;GTK;X-MandrivaLinux-CrossDesktop;
 StartupNotify=false

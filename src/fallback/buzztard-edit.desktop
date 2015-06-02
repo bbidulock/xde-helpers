@@ -14,8 +14,8 @@ Icon=/usr/share/buzztard/pixmaps/buzztard
 TryExec=buzztard-edit
 Exec=buzztard-edit --command=load --input-file=%f
 Terminal=false
-Categories=GNOME;GTK;AudioVideo;Audio;Sequencer;
-MimeType=audio/x-bzt;audio/x-bzt-xml
+Categories=AudioVideo;Audio;Sequencer;GNOME;GTK;
+MimeType=audio/x-bzt;audio/x-bzt-xml;
 StartupNotify=false
 DocPath=buzztard/buzztard.xml
 X-AppInstall-Package=buzztard

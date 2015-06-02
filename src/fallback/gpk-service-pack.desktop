@@ -64,5 +64,5 @@ TryExec=gpk-service-pack
 Exec=gpk-service-pack
 Terminal=false
 NoDisplay=true
-Categories=GNOME;GTK;System;
+Categories=System;GNOME;GTK;
 StartupNotify=true

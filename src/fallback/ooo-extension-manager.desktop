@@ -9,6 +9,6 @@ TryExec=unopkg3.2
 Exec=unopkg3.2 gui %U
 Terminal=false
 NoDisplay=true
-Categories=X-SuSE-Core-Office;Office;
+Categories=Office;X-SuSE-Core-Office;
 MimeType=application/vnd.openofficeorg.extension;
 StartupNotify=false

@@ -137,5 +137,5 @@ Icon=pirut.png
 TryExec=pirut
 Exec=pirut
 Terminal=false
-Categories=GNOME;GTK;Application;System;X-Red-Hat-Base;X-Fedora;PackageManager;
+Categories=Application;System;PackageManager;GNOME;GTK;X-Fedora;X-Red-Hat-Base;
 StartupNotify=true

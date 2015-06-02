@@ -57,7 +57,7 @@ Name[la]=Auxilium: Help Contents=Adiuvantes Res
 Name[li]=Hulp
 Name[lt]=Žinynas
 Name[lv]=Palīdzība
-Name[mai]=मद्दति 
+Name[mai]=मद्दति
 Name[mg]=Toro-làlana
 Name[mk]=Помош
 Name[ml]=സഹായം
@@ -200,7 +200,7 @@ TryExec=yelp
 Exec=yelp %u
 Terminal=false
 OnlyShowIn=GNOME;
-Categories=GNOME;GTK;Core;Documentation;Utility;
+Categories=Utility;Documentation;Core;GNOME;GTK;
 MimeType=x-scheme-handler/ghelp;x-scheme-handler/help;x-scheme-handler/info;x-scheme-handler/man;
 StartupNotify=true
 X-GNOME-Bugzilla-Bugzilla=GNOME

@@ -59,7 +59,7 @@ Name[la]=Auxilium: Help Contents=Adiuvantes Res
 Name[li]=Hulp
 Name[lt]=Žinynas
 Name[lv]=Palīdzība
-Name[mai]=मद्दति 
+Name[mai]=मद्दति
 Name[mg]=Toro-làlana
 Name[mk]=Помош
 Name[ml]=സഹായം
@@ -205,7 +205,7 @@ TryExec=yelp
 Exec=yelp %u
 Terminal=false
 OnlyShowIn=GNOME;Unity;
-Categories=GNOME;GTK;Core;Documentation;Utility;
+Categories=Utility;Documentation;Core;GNOME;GTK;
 Keywords=documentation;information;manual;
 Keywords[ar]=توثيق;معلومات;كتيب;
 Keywords[as]=তথ্যচিত্ৰ;তথ্য;হাতপুথি;

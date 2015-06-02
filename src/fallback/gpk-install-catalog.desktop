@@ -124,6 +124,6 @@ TryExec=gpk-install-catalog
 Exec=gpk-install-catalog %F
 Terminal=false
 NoDisplay=true
-Categories=System;X-Red-Hat-Base;X-Fedora;
+Categories=System;X-Fedora;X-Red-Hat-Base;
 MimeType=application/x-catalog;
 StartupNotify=true

@@ -8,6 +8,6 @@ Icon=xine
 TryExec=xine
 Exec=xine %U
 Terminal=false
-Categories=Video;AudioVideo;Player;X-MandrivaLinux-CrossDesktop;
+Categories=AudioVideo;Video;Player;X-MandrivaLinux-CrossDesktop;
 MimeType=video/mpeg;video/quicktime;video/x-msvideo;video/x-anim;audio/x-mp3;audio/x-mp2;
 StartupNotify=false

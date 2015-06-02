@@ -68,6 +68,7 @@ TryExec=seahorse-tool
 Exec=seahorse-tool --decrypt
 Terminal=false
 NoDisplay=true
+Categories=;
 MimeType=application/pgp-encrypted;
 StartupNotify=false
 X-GNOME-DocPath=seahorse/seahorse.xml
