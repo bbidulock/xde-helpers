@@ -99,3 +99,7 @@ X-GNOME-Bugzilla-Version=@VERSION@
 X-AppInstall-Package=gbrainy
 X-AppInstall-Popcon=102
 X-AppInstall-Section=main
+X-Arch-Package-Name=gbrainy
+X-Arch-Package-Version=1:2.2.5-1
+X-Arch-Package-Description=A brain teaser game and trainer to have fun and to keep your brain trained
+X-Arch-Package-URL=https://wiki.gnome.org/Apps/gbrainy

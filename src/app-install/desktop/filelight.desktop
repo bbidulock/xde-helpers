@@ -67,3 +67,7 @@ StartupNotify=false
 X-AppInstall-Package=filelight
 X-AppInstall-Popcon=209
 X-AppInstall-Section=main
+X-Arch-Package-Name=filelight
+X-Arch-Package-Version=15.04.1-1
+X-Arch-Package-Description=View disk usage information
+X-Arch-Package-URL=http://kde.org/applications/utilities/filelight

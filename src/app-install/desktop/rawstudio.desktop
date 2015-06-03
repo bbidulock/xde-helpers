@@ -33,3 +33,7 @@ StartupNotify=true
 X-AppInstall-Package=rawstudio
 X-AppInstall-Popcon=116
 X-AppInstall-Section=main
+X-Arch-Package-Name=rawstudio
+X-Arch-Package-Version=2.0-12
+X-Arch-Package-Description=An open source raw-image converter written in GTK+
+X-Arch-Package-URL=http://rawstudio.org/

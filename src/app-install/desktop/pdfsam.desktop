@@ -16,3 +16,7 @@ StartupNotify=false
 X-AppInstall-Package=pdfsam
 X-AppInstall-Popcon=76
 X-AppInstall-Section=main
+X-Arch-Package-Name=pdfsam
+X-Arch-Package-Version=2.2.4-1
+X-Arch-Package-Description=A free open source tool to split and merge pdf documents
+X-Arch-Package-URL=http://www.pdfsam.org/

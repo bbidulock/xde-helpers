@@ -56,3 +56,7 @@ StartupNotify=false
 X-AppInstall-Package=psi
 X-AppInstall-Popcon=384
 X-AppInstall-Section=main
+X-Arch-Package-Name=psi
+X-Arch-Package-Version=0.15-2
+X-Arch-Package-Description=Instant messaging application designed for the Jabber IM
+X-Arch-Package-URL=http://psi-im.org/

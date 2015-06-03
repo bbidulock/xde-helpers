@@ -135,3 +135,7 @@ X-KDE-StartupNotify=true
 X-AppInstall-Package=ktimer
 X-AppInstall-Popcon=809
 X-AppInstall-Section=main
+X-Arch-Package-Name=ktimer
+X-Arch-Package-Version=15.04.1-1
+X-Arch-Package-Description=Countdown Launcher
+X-Arch-Package-URL=http://kde.org/applications/utilities/ktimer/

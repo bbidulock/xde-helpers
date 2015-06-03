@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Tightvnc
+Comment=Remote graphical access
+Icon=tightvnc
+TryExec=vncviewer
+Exec=vncviewer
+Terminal=true
+Categories=Network;Dialup;RemoteAccess;
+StartupNotify=false
+X-AppInstall-Package=tigervnc
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package=tigervnc 1.4.3-4
+X-Arch-Package-Name=tigervnc
+X-Arch-Package-Version=1.4.3-4
+X-Arch-Package-Description=Suite of VNC servers and clients. Based on the VNC 4 branch of TightVNC.
+X-Arch-Package-URL=http://www.tigervnc.org

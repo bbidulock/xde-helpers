@@ -74,3 +74,7 @@ DocPath=kmess/index.html
 X-AppInstall-Package=kmess
 X-AppInstall-Popcon=152
 X-AppInstall-Section=main
+X-Arch-Package-Name=kmess
+X-Arch-Package-Version=2.0.6.2-8
+X-Arch-Package-Description=A MSN Messenger client for Linux
+X-Arch-Package-URL=http://kmess.sourceforge.net/

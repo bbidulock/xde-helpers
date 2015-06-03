@@ -15,3 +15,7 @@ StartupNotify=false
 X-AppInstall-Package=gerbv
 X-AppInstall-Popcon=116
 X-AppInstall-Section=main
+X-Arch-Package-Name=gerbv
+X-Arch-Package-Version=2.6.1-3
+X-Arch-Package-Description=An open source Gerber file (RS-274X only) viewer
+X-Arch-Package-URL=http://gerbv.geda-project.org/

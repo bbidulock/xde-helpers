@@ -13,3 +13,7 @@ StartupNotify=false
 X-AppInstall-Package=etherape
 X-AppInstall-Popcon=179
 X-AppInstall-Section=main
+X-Arch-Package-Name=etherape
+X-Arch-Package-Version=0.9.13-1
+X-Arch-Package-Description=A graphical network monitor for various OSI layers and protocols
+X-Arch-Package-URL=http://etherape.sourceforge.net/

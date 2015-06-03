@@ -18,3 +18,7 @@ StartupNotify=false
 X-AppInstall-Package=extremetuxracer
 X-AppInstall-Popcon=228
 X-AppInstall-Section=main
+X-Arch-Package-Name=extremetuxracer
+X-Arch-Package-Version=0.6.0-1
+X-Arch-Package-Description=Downhill racing game starring Tux
+X-Arch-Package-URL=http://sourceforge.net/projects/extremetuxracer/

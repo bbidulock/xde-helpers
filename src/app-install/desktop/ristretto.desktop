@@ -96,3 +96,7 @@ StartupNotify=true
 X-AppInstall-Package=ristretto
 X-AppInstall-Popcon=467
 X-AppInstall-Section=main
+X-Arch-Package-Name=ristretto
+X-Arch-Package-Version=0.8.0-1
+X-Arch-Package-Description=A fast and lightweight picture-viewer for Xfce
+X-Arch-Package-URL=http://goodies.xfce.org/projects/applications/ristretto

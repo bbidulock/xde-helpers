@@ -20,3 +20,7 @@ X-AppInstall-Package=filezilla
 X-AppInstall-Popcon=1524
 X-AppInstall-Section=main
 X-Arch-Package=filezilla 3.11.0.1-1
+X-Arch-Package-Name=filezilla
+X-Arch-Package-Version=3.11.0.1-1
+X-Arch-Package-Description=Fast and reliable FTP, FTPS and SFTP client
+X-Arch-Package-URL=http://filezilla-project.org/

@@ -15,3 +15,7 @@ X-AppInstall-Package=alleyoop
 X-AppInstall-Popcon=56
 X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,i386,powerpc
+X-Arch-Package-Name=alleyoop
+X-Arch-Package-Version=0.9.8-3
+X-Arch-Package-Description=Valgrind front-end for the GNOME environment
+X-Arch-Package-URL=http://alleyoop.sourceforge.net/

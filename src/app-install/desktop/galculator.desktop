@@ -19,3 +19,7 @@ StartupNotify=true
 X-AppInstall-Package=galculator
 X-AppInstall-Popcon=295
 X-AppInstall-Section=main
+X-Arch-Package-Name=galculator
+X-Arch-Package-Version=2.1.3-3
+X-Arch-Package-Description=GTK+ based scientific calculator
+X-Arch-Package-URL=http://galculator.sourceforge.net/

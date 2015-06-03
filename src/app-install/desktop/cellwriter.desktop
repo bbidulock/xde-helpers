@@ -14,3 +14,7 @@ StartupNotify=true
 X-AppInstall-Package=cellwriter
 X-AppInstall-Popcon=28
 X-AppInstall-Section=main
+X-Arch-Package-Name=cellwriter
+X-Arch-Package-Version=1.3.5-1
+X-Arch-Package-Description=A grid-entry natural handwriting input panel.
+X-Arch-Package-URL=http://v1.risujin.org/cellwriter/

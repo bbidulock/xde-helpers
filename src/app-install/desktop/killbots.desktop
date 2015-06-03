@@ -54,3 +54,7 @@ X-DocPath=killbots/index.html
 X-AppInstall-Package=killbots
 X-AppInstall-Popcon=155
 X-AppInstall-Section=main
+X-Arch-Package-Name=killbots
+X-Arch-Package-Version=15.04.1-1
+X-Arch-Package-Description=A simple game of evading killer robots
+X-Arch-Package-URL=http://kde.org/applications/games/killbots/

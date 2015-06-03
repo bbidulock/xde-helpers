@@ -98,3 +98,7 @@ X-GNOME-Bugzilla-Component=general
 X-AppInstall-Package=meld
 X-AppInstall-Popcon=725
 X-AppInstall-Section=main
+X-Arch-Package-Name=meld
+X-Arch-Package-Version=3.12.3-1
+X-Arch-Package-Description=Visual diff and merge tool
+X-Arch-Package-URL=http://meldmerge.org/

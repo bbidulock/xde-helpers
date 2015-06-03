@@ -96,3 +96,7 @@ X-GNOME-Bugzilla-Component=general
 X-AppInstall-Package=drivel
 X-AppInstall-Popcon=38
 X-AppInstall-Section=main
+X-Arch-Package-Name=drivel
+X-Arch-Package-Version=3.0.5-1
+X-Arch-Package-Description=GTK client for working with online journals (blogs)
+X-Arch-Package-URL=http://drivel.sourceforge.net/

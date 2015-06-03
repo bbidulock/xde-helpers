@@ -123,3 +123,7 @@ X-DocPath=kturtle/index.html
 X-AppInstall-Package=kturtle
 X-AppInstall-Popcon=728
 X-AppInstall-Section=main
+X-Arch-Package-Name=kturtle
+X-Arch-Package-Version=15.04.1-1
+X-Arch-Package-Description=Educational Programming Environment
+X-Arch-Package-URL=http://kde.org/applications/education/kturtle/

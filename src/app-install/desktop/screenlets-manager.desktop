@@ -17,3 +17,7 @@ StartupNotify=true
 X-AppInstall-Package=screenlets
 X-AppInstall-Popcon=296
 X-AppInstall-Section=main
+X-Arch-Package-Name=screenlets
+X-Arch-Package-Version=0.1.6-5
+X-Arch-Package-Description=Widget framework that consists of small owner-drawn applications
+X-Arch-Package-URL=https://launchpad.net/screenlets

@@ -12,3 +12,7 @@ StartupNotify=false
 X-AppInstall-Package=pyneighborhood
 X-AppInstall-Popcon=24
 X-AppInstall-Section=main
+X-Arch-Package-Name=pyneighborhood
+X-Arch-Package-Version=0.5.4-3
+X-Arch-Package-Description=A GTK+ 2 rewrite of the well-known LinNeighborhood tool
+X-Arch-Package-URL=https://launchpad.net/pyneighborhood

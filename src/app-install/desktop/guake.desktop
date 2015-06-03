@@ -18,3 +18,7 @@ X-GNOME-Autostart-enabled=false
 X-AppInstall-Package=guake
 X-AppInstall-Popcon=269
 X-AppInstall-Section=main
+X-Arch-Package-Name=guake
+X-Arch-Package-Version=0.7.0-1
+X-Arch-Package-Description=Drop-down terminal for GNOME
+X-Arch-Package-URL=https://github.com/Guake/guake/

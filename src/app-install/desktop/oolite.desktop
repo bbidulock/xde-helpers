@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=oolite
 X-AppInstall-Popcon=45
 X-AppInstall-Section=main
+X-Arch-Package-Name=oolite
+X-Arch-Package-Version=1.82-1
+X-Arch-Package-Description=A space-sim based on the classic Elite
+X-Arch-Package-URL=http://oolite-linux.berlios.de

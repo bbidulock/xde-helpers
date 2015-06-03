@@ -44,3 +44,7 @@ StartupNotify=true
 X-AppInstall-Package=glabels
 X-AppInstall-Popcon=153
 X-AppInstall-Section=main
+X-Arch-Package-Name=glabels
+X-Arch-Package-Version=3.2.1-2
+X-Arch-Package-Description=Creating labels and business cards the very easy way
+X-Arch-Package-URL=http://glabels.org/

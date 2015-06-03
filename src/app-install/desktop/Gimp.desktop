@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Picture Editor (Gimp)
+Name[de]=Bildbearbeitung (Gimp)
+Name[en]=Picture Editor (Gimp)
+Icon=/opt/gnome2/share/dist/icons/suse-yast.png
+TryExec=gimp
+Exec=susewmif ROOT_X11 yast2
+Terminal=false
+StartupNotify=false
+X-AppInstall-Package=gimp
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package=gimp 2.8.14-2
+X-Arch-Package-Name=gimp
+X-Arch-Package-Version=2.8.14-2
+X-Arch-Package-Description=GNU Image Manipulation Program
+X-Arch-Package-URL=http://www.gimp.org/

@@ -69,3 +69,7 @@ StartupNotify=true
 X-AppInstall-Package=regexxer
 X-AppInstall-Popcon=34
 X-AppInstall-Section=main
+X-Arch-Package-Name=regexxer
+X-Arch-Package-Version=0.10-4
+X-Arch-Package-Description=Interactive search and replace tool for GNOME
+X-Arch-Package-URL=http://regexxer.sourceforge.net/

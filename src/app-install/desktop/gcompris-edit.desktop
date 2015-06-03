@@ -99,3 +99,7 @@ X-GNOME-Bugzilla-Product=gcompris
 X-AppInstall-Package=gcompris
 X-AppInstall-Popcon=435
 X-AppInstall-Section=main
+X-Arch-Package-Name=gcompris
+X-Arch-Package-Version=15.02-1
+X-Arch-Package-Description=Educational software suite comprising of numerous activities for children aged 2 to 10
+X-Arch-Package-URL=http://gcompris.net/

@@ -17,3 +17,7 @@ StartupNotify=true
 X-AppInstall-Package=kobodeluxe
 X-AppInstall-Popcon=40
 X-AppInstall-Section=main
+X-Arch-Package-Name=kobodeluxe
+X-Arch-Package-Version=0.5.1-4
+X-Arch-Package-Description=An enhanced version of Akira Higuchi's game XKobo, an addictive space shoot'em up
+X-Arch-Package-URL=http://www.olofson.net/kobodl/

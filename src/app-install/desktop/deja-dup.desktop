@@ -147,3 +147,7 @@ X-AppInstall-Package=deja-dup
 X-AppInstall-Popcon=98
 X-AppInstall-Section=main
 X-Arch-Package=deja-dup 34.0-1
+X-Arch-Package-Name=deja-dup
+X-Arch-Package-Version=34.0-1
+X-Arch-Package-Description=Simple backup tool, that hides the complexity of backing up the Right Way and uses duplicity as the backend
+X-Arch-Package-URL=https://launchpad.net/deja-dup

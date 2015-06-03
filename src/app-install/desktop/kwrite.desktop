@@ -194,3 +194,7 @@ X-KDE-StartupNotify=true
 X-AppInstall-Package=kwrite
 X-AppInstall-Popcon=2145
 X-AppInstall-Section=main
+X-Arch-Package-Name=kwrite
+X-Arch-Package-Version=15.04.1-1
+X-Arch-Package-Description=Text Editor
+X-Arch-Package-URL=http://www.kde.org/applications/utilities/kwrite/

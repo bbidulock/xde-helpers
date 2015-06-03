@@ -107,3 +107,7 @@ X-KDE-SubstituteUID=true
 X-AppInstall-Package=partitionmanager
 X-AppInstall-Popcon=137
 X-AppInstall-Section=main
+X-Arch-Package-Name=partitionmanager
+X-Arch-Package-Version=1.2.1-1
+X-Arch-Package-Description=A KDE utility that allows you to manage disks, partitions, and file systems
+X-Arch-Package-URL=http://kde.org/applications/system/kdepartitionmanager/

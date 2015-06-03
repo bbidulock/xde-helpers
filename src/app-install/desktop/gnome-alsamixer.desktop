@@ -17,3 +17,7 @@ X-AppInstall-Package=gnome-alsamixer
 X-AppInstall-Popcon=465
 X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Name=gnome-alsamixer
+X-Arch-Package-Version=0.9.7-1
+X-Arch-Package-Description=Gnome ALSA mixer
+X-Arch-Package-URL=https://launchpad.net/gnome-alsamixer

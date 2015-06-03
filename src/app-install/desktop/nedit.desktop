@@ -108,3 +108,7 @@ StartupNotify=false
 X-AppInstall-Package=nedit
 X-AppInstall-Popcon=472
 X-AppInstall-Section=main
+X-Arch-Package-Name=nedit
+X-Arch-Package-Version=1:5.6a-1
+X-Arch-Package-Description=A Unix text editor for programmers and general users
+X-Arch-Package-URL=http://sourceforge.net/projects/nedit/

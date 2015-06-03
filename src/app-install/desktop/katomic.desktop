@@ -135,3 +135,7 @@ X-KDE-StartupNotify=true
 X-AppInstall-Package=katomic
 X-AppInstall-Popcon=396
 X-AppInstall-Section=main
+X-Arch-Package-Name=katomic
+X-Arch-Package-Version=15.04.1-1
+X-Arch-Package-Description=A fun and educational game built around molecular geometry
+X-Arch-Package-URL=http://kde.org/applications/games/katomic/

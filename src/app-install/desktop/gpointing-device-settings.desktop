@@ -14,3 +14,7 @@ StartupNotify=true
 X-AppInstall-Package=gpointing-device-settings
 X-AppInstall-Popcon=757
 X-AppInstall-Section=main
+X-Arch-Package-Name=gpointing-device-settings
+X-Arch-Package-Version=1.5.1-5
+X-Arch-Package-Description=GUI tool for setting pointing device such as TrackPoint or Touchpad
+X-Arch-Package-URL=https://wiki.gnome.org/Attic/GPointingDeviceSettings

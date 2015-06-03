@@ -68,3 +68,7 @@ StartupNotify=false
 X-AppInstall-Package=quodlibet
 X-AppInstall-Popcon=249
 X-AppInstall-Section=main
+X-Arch-Package-Name=quodlibet
+X-Arch-Package-Version=3.4.1-1
+X-Arch-Package-Description=An audio library tagger, manager and player
+X-Arch-Package-URL=https://github.com/quodlibet/quodlibet

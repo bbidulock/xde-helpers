@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=recoll
 X-AppInstall-Popcon=72
 X-AppInstall-Section=main
+X-Arch-Package-Name=recoll
+X-Arch-Package-Version=1.20.4-1
+X-Arch-Package-Description=Full text search tool based on Xapian backend
+X-Arch-Package-URL=http://www.lesbonscomptes.com/recoll/

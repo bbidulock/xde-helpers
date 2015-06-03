@@ -45,3 +45,7 @@ StartupNotify=true
 X-AppInstall-Package=giggle
 X-AppInstall-Popcon=87
 X-AppInstall-Section=main
+X-Arch-Package-Name=giggle
+X-Arch-Package-Version=0.7-3
+X-Arch-Package-Description=Git repository viewer
+X-Arch-Package-URL=https://wiki.gnome.org/Apps/giggle

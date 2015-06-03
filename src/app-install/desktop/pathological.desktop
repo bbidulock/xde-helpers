@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=pathological
 X-AppInstall-Popcon=86
 X-AppInstall-Section=main
+X-Arch-Package-Name=pathological
+X-Arch-Package-Version=1.1.3-9
+X-Arch-Package-Description=A puzzle game with the same feel as frozen bubble
+X-Arch-Package-URL=http://pathological.sourceforge.net/

@@ -13,3 +13,7 @@ StartupNotify=true
 X-AppInstall-Package=bpython
 X-AppInstall-Popcon=61
 X-AppInstall-Section=main
+X-Arch-Package-Name=bpython
+X-Arch-Package-Version=0.14.1-1
+X-Arch-Package-Description=Fancy ncurses interface to the Python interpreter
+X-Arch-Package-URL=http://bpython-interpreter.org/

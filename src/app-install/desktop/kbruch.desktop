@@ -196,3 +196,7 @@ X-DocPath=kbruch/index.html
 X-AppInstall-Package=kbruch
 X-AppInstall-Popcon=771
 X-AppInstall-Section=main
+X-Arch-Package-Name=kbruch
+X-Arch-Package-Version=15.04.1-1
+X-Arch-Package-Description=Exercise Fractions
+X-Arch-Package-URL=http://kde.org/applications/education/kbruch/

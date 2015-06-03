@@ -103,3 +103,7 @@ StartupNotify=true
 X-AppInstall-Package=nautilus-actions
 X-AppInstall-Popcon=1262
 X-AppInstall-Section=main
+X-Arch-Package-Name=nautilus-actions
+X-Arch-Package-Version=3.2.4-1
+X-Arch-Package-Description=Configures programs to be launched when files are selected in Nautilus
+X-Arch-Package-URL=http://git.gnome.org/browse/nautilus-actions

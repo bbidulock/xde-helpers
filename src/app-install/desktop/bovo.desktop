@@ -112,3 +112,7 @@ X-KDE-StartupNotify=true
 X-AppInstall-Package=bovo
 X-AppInstall-Popcon=148
 X-AppInstall-Section=main
+X-Arch-Package-Name=bovo
+X-Arch-Package-Version=15.04.1-1
+X-Arch-Package-Description=A Gomoku like game for two players
+X-Arch-Package-URL=http://kde.org/applications/games/bovo/

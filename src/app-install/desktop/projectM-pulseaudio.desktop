@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=projectm-pulseaudio
 X-AppInstall-Popcon=17
 X-AppInstall-Section=main
+X-Arch-Package-Name=projectm-pulseaudio
+X-Arch-Package-Version=2.1.0-10
+X-Arch-Package-Description=ProjectM support for Pulseaudio
+X-Arch-Package-URL=http://projectm.sourceforge.net/

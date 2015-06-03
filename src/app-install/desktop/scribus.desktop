@@ -101,6 +101,10 @@ X-Desktop-File-Install-Version=0.18
 X-AppInstall-Package=scribus
 X-AppInstall-Popcon=526
 X-AppInstall-Section=main
+X-Arch-Package-Name=scribus
+X-Arch-Package-Version=1.4.5-1
+X-Arch-Package-Description=Desktop publishing software
+X-Arch-Package-URL=http://www.scribus.net/
 X-StandardInstall=false
 
 [X-Property::X-KDE-NativeExtension]

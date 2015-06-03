@@ -124,3 +124,7 @@ X-DocPath=parley/index.html
 X-AppInstall-Package=parley
 X-AppInstall-Popcon=299
 X-AppInstall-Section=main
+X-Arch-Package-Name=parley
+X-Arch-Package-Version=15.04.1-1
+X-Arch-Package-Description=Vocabulary Trainer
+X-Arch-Package-URL=http://kde.org/applications/education/parley/

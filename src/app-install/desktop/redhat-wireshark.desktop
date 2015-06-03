@@ -1,0 +1,25 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Wireshark Network Analyzer
+Name[fi]=Wireshark
+Name[sv]=Wireshark
+Comment=Wireshark traffic and network analyzer
+Comment[fi]=Verkkoanalysaattori
+Comment[sv]=Nätverkstrafikanalysator
+Icon=wireshark.png
+TryExec=wireshark
+Exec=wireshark
+Terminal=false
+Categories=Application;Network;GTK;X-Red-Hat-Extra;
+StartupNotify=false
+X-Desktop-File-Install-Version=0.10
+X-AppInstall-Package=wireshark-gtk2
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package=wireshark-gtk2 1.12.4-1
+X-Arch-Package-Name=wireshark-gtk2
+X-Arch-Package-Version=1.12.4-1
+X-Arch-Package-Description=a free network protocol analyzer for Unix/Linux and Windows - GTK2 frontend
+X-Arch-Package-URL=http://www.wireshark.org/

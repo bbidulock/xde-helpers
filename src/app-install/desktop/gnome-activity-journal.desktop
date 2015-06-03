@@ -44,3 +44,7 @@ StartupNotify=false
 X-AppInstall-Package=gnome-activity-journal
 X-AppInstall-Popcon=55
 X-AppInstall-Section=main
+X-Arch-Package-Name=gnome-activity-journal
+X-Arch-Package-Version=0.8.0-7
+X-Arch-Package-Description=Tool for easily browsing and finding files on your computer using the Zeitgeist engine
+X-Arch-Package-URL=https://launchpad.net/gnome-activity-journal

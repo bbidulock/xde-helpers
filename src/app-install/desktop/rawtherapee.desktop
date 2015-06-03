@@ -13,3 +13,7 @@ StartupNotify=false
 X-AppInstall-Package=rawtherapee
 X-AppInstall-Popcon=73
 X-AppInstall-Section=main
+X-Arch-Package-Name=rawtherapee
+X-Arch-Package-Version=1:4.2-1
+X-Arch-Package-Description=Raw photo editor
+X-Arch-Package-URL=http://www.rawtherapee.com/

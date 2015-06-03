@@ -59,3 +59,7 @@ X-DocPath=rekonq/index.html
 X-AppInstall-Package=rekonq
 X-AppInstall-Popcon=114
 X-AppInstall-Section=main
+X-Arch-Package-Name=rekonq
+X-Arch-Package-Version=2.4.2-4
+X-Arch-Package-Description=A WebKit based web browser for KDE
+X-Arch-Package-URL=http://rekonq.kde.org/

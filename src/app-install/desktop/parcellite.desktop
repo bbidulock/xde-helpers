@@ -46,3 +46,7 @@ StartupNotify=false
 X-AppInstall-Package=parcellite
 X-AppInstall-Popcon=219
 X-AppInstall-Section=main
+X-Arch-Package-Name=parcellite
+X-Arch-Package-Version=1.1.9-1
+X-Arch-Package-Description=Lightweight GTK+ clipboard manager
+X-Arch-Package-URL=http://parcellite.sourceforge.net/

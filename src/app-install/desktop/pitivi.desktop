@@ -97,3 +97,7 @@ X-GNOME-Bugzilla-Version=0.14.2
 X-AppInstall-Package=pitivi
 X-AppInstall-Popcon=192
 X-AppInstall-Section=main
+X-Arch-Package-Name=pitivi
+X-Arch-Package-Version=0.94-1
+X-Arch-Package-Description=Editor for audio/video projects using the GStreamer framework
+X-Arch-Package-URL=http://www.pitivi.org/

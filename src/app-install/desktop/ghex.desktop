@@ -104,3 +104,7 @@ DocPath=/usr/share/gnome/help/ghex/C/index.html
 X-AppInstall-Package=ghex
 X-AppInstall-Popcon=243
 X-AppInstall-Section=main
+X-Arch-Package-Name=ghex
+X-Arch-Package-Version=3.10.1-1
+X-Arch-Package-Description=A simple binary editor for the Gnome desktop
+X-Arch-Package-URL=http://live.gnome.org/Ghex

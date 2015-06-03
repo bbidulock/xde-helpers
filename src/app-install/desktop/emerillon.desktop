@@ -61,3 +61,7 @@ StartupNotify=true
 X-AppInstall-Package=emerillon
 X-AppInstall-Popcon=22
 X-AppInstall-Section=main
+X-Arch-Package-Name=emerillon
+X-Arch-Package-Version=0.1.90-6
+X-Arch-Package-Description=Map viewer for OpenStreetMap
+X-Arch-Package-URL=https://wiki.gnome.org/Apps/Emerillon

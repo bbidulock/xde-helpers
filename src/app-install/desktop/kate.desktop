@@ -107,3 +107,7 @@ X-KDE-StartupNotify=true
 X-AppInstall-Package=kate
 X-AppInstall-Popcon=4689
 X-AppInstall-Section=main
+X-Arch-Package-Name=kate
+X-Arch-Package-Version=15.04.1-1
+X-Arch-Package-Description=Advanced Text Editor
+X-Arch-Package-URL=http://www.kde.org/applications/utilities/kate/

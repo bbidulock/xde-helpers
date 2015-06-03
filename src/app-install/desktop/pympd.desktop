@@ -13,3 +13,7 @@ StartupNotify=false
 X-AppInstall-Package=pympd
 X-AppInstall-Popcon=24
 X-AppInstall-Section=main
+X-Arch-Package-Name=pympd
+X-Arch-Package-Version=0.08.1-4
+X-Arch-Package-Description=A Rhythmbox-like PyGTK+ client for Music Player Daemon
+X-Arch-Package-URL=http://pympd.sourceforge.net/

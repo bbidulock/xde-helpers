@@ -22,3 +22,7 @@ StartupNotify=true
 X-AppInstall-Package=diffuse
 X-AppInstall-Popcon=81
 X-AppInstall-Section=main
+X-Arch-Package-Name=diffuse
+X-Arch-Package-Version=0.4.8-1
+X-Arch-Package-Description=A graphical tool for merging and comparing text files
+X-Arch-Package-URL=http://diffuse.sourceforge.net/

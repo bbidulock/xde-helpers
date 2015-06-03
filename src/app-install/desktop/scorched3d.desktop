@@ -19,3 +19,7 @@ StartupNotify=true
 X-AppInstall-Package=scorched3d
 X-AppInstall-Popcon=45
 X-AppInstall-Section=main
+X-Arch-Package-Name=scorched3d
+X-Arch-Package-Version=44-6
+X-Arch-Package-Description=3D artillery combat game
+X-Arch-Package-URL=http://www.scorched3d.co.uk/

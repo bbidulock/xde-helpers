@@ -13,3 +13,7 @@ StartupNotify=false
 X-AppInstall-Package=murmur
 X-AppInstall-Popcon=8
 X-AppInstall-Section=main
+X-Arch-Package-Name=murmur
+X-Arch-Package-Version=1.2.8-3
+X-Arch-Package-Description=The voice chat application server for Mumble
+X-Arch-Package-URL=http://mumble.sourceforge.net

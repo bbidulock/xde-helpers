@@ -13,3 +13,7 @@ StartupNotify=false
 X-AppInstall-Package=barrage
 X-AppInstall-Popcon=28
 X-AppInstall-Section=main
+X-Arch-Package-Name=barrage
+X-Arch-Package-Version=1.0.4-3
+X-Arch-Package-Description=A violent point-and-click shooting game with nice effects
+X-Arch-Package-URL=http://lgames.sourceforge.net/index.php?project=Barrage

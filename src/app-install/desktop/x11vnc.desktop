@@ -10,7 +10,7 @@ Exec=x11vnc -gui tray=setpass -rfbport PROMPT -bg -o %%HOME/.x11vnc.log.%%VNCDIS
 Terminal=false
 Categories=Network;RemoteAccess;
 StartupNotify=false
-X-AppInstall-Package=x11vnc
+X-AppInstall-Package=x11vnc-git
 X-AppInstall-Popcon=775
 X-AppInstall-Section=main
 X-Arch-Package=x11vnc-git 0.9.14.r358.gaf86975-1

@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=gnubg
 X-AppInstall-Popcon=48
 X-AppInstall-Section=main
+X-Arch-Package-Name=gnubg
+X-Arch-Package-Version=1.05.000-1
+X-Arch-Package-Description=World class backgammon application
+X-Arch-Package-URL=http://www.gnubg.org

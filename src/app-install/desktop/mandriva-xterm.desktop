@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=XTerm
+Comment=The standard terminal emulator for the X Window System
+Icon=xterm-terminal
+TryExec=xterm
+Exec=xterm -name Terminal
+Terminal=false
+Categories=System;Utility;TerminalEmulator;
+StartupNotify=true
+X-AppInstall-Package=xterm
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package=xterm 318-1
+X-Arch-Package-Name=xterm
+X-Arch-Package-Version=318-1
+X-Arch-Package-Description=X Terminal Emulator
+X-Arch-Package-URL=http://invisible-island.net/xterm/

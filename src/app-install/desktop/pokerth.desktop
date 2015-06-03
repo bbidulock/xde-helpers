@@ -52,3 +52,7 @@ X-KDE-StartupNotify=true
 X-AppInstall-Package=pokerth
 X-AppInstall-Popcon=127
 X-AppInstall-Section=main
+X-Arch-Package-Name=pokerth
+X-Arch-Package-Version=1.1.1-6
+X-Arch-Package-Description=Open source Texas Hold'em Poker simulator
+X-Arch-Package-URL=http://www.pokerth.net/

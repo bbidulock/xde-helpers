@@ -93,3 +93,7 @@ X-GNOME-Bugzilla-Version=1.2.8.6
 X-AppInstall-Package=gnome-commander
 X-AppInstall-Popcon=440
 X-AppInstall-Section=main
+X-Arch-Package-Name=gnome-commander
+X-Arch-Package-Version=1.4.7-1
+X-Arch-Package-Description=Graphical two-pane filemanager for Gnome
+X-Arch-Package-URL=http://gcmd.github.io/

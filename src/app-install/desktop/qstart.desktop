@@ -1,0 +1,22 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=LibreOffice Quickstarter
+Comment=Hook for quickstarter startup
+TryExec=libreoffice
+Exec=libreoffice --quickstart --nologo --nodefault
+Terminal=false
+NoDisplay=true
+Categories=Office;
+StartupNotify=false
+X-GIO-NoFuse=true
+X-KDE-Protocols=file,http,smb,ftp,webdav;
+X-AppInstall-Package=libreoffice-still
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package=libreoffice-still 4.3.7-2
+X-Arch-Package-Name=libreoffice-still
+X-Arch-Package-Version=4.3.7-2
+X-Arch-Package-Description=LibreOffice maintenance branch
+X-Arch-Package-URL=http://www.libreoffice.org/

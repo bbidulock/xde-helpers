@@ -68,3 +68,7 @@ DocPath=kdiff3/index.html
 X-AppInstall-Package=kdiff3
 X-AppInstall-Popcon=877
 X-AppInstall-Section=main
+X-Arch-Package-Name=kdiff3
+X-Arch-Package-Version=0.9.98-3
+X-Arch-Package-Description=A KDE file comparator/merge tool
+X-Arch-Package-URL=http://kdiff3.sourceforge.net/

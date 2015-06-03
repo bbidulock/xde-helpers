@@ -166,3 +166,7 @@ DocPath=ktorrent/index.html
 X-AppInstall-Package=ktorrent
 X-AppInstall-Popcon=1073
 X-AppInstall-Section=main
+X-Arch-Package-Name=ktorrent
+X-Arch-Package-Version=4.3.1-4
+X-Arch-Package-Description=A powerful BitTorrent client for KDE
+X-Arch-Package-URL=http://ktorrent.pwsp.net/

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Qt4 Config
+Comment=Configure Qt4 behavior, styles, fonts
+Icon=qt4-logo
+TryExec=qtconfig-qt4
+Exec=qtconfig-qt4
+Terminal=false
+NoDisplay=true
+Categories=Settings;Qt;
+StartupNotify=false
+X-Desktop-File-Install-Version=0.15
+X-AppInstall-Package=qt4
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package=qt4 4.8.6-6
+X-Arch-Package-Name=qt4
+X-Arch-Package-Version=4.8.6-6
+X-Arch-Package-Description=A cross-platform application and UI framework
+X-Arch-Package-URL=http://qt-project.org/

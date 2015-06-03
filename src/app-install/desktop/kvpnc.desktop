@@ -85,3 +85,7 @@ X-KDE-SubstituteUID=true
 X-AppInstall-Package=kvpnc
 X-AppInstall-Popcon=181
 X-AppInstall-Section=main
+X-Arch-Package-Name=kvpnc
+X-Arch-Package-Version=0.9.6a-6
+X-Arch-Package-Description=A KDE Desktop Environment frontend for various vpn clients
+X-Arch-Package-URL=http://home.gna.org/kvpnc/

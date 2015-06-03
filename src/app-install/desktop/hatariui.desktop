@@ -11,3 +11,7 @@ StartupNotify=false
 X-AppInstall-Package=hatari
 X-AppInstall-Popcon=54
 X-AppInstall-Section=main
+X-Arch-Package-Name=hatari
+X-Arch-Package-Version=1.8.0-1
+X-Arch-Package-Description=An Atari ST and STE emulator
+X-Arch-Package-URL=http://hatari.sourceforge.net/

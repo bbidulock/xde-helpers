@@ -15,3 +15,7 @@ StartupNotify=false
 X-AppInstall-Package=love
 X-AppInstall-Popcon=29
 X-AppInstall-Section=main
+X-Arch-Package-Name=love
+X-Arch-Package-Version=0.9.2-1
+X-Arch-Package-Description=An open-source 2D game engine which uses the versatile Lua scripting language to create dynamic gaming experiences
+X-Arch-Package-URL=http://love2d.org/

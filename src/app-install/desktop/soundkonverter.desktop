@@ -12,5 +12,9 @@ Categories=AudioVideo;AudioVideoEditing;CD;
 StartupNotify=false
 DocPath=soundkonverter/soundkonverter.html
 X-AppInstall-Package=soundkonverter
-X-AppInstall-Popcon=187
+X-AppInstall-Popcon=0
 X-AppInstall-Section=main
+X-Arch-Package-Name=soundkonverter
+X-Arch-Package-Version=2.1.2-1
+X-Arch-Package-Description=Front-end to various audio converters
+X-Arch-Package-URL=http://www.kde-apps.org/content/show.php?content=29024

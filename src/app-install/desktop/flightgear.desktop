@@ -13,3 +13,7 @@ StartupNotify=false
 X-AppInstall-Package=flightgear
 X-AppInstall-Popcon=95
 X-AppInstall-Section=main
+X-Arch-Package-Name=flightgear
+X-Arch-Package-Version=3.4.0-2
+X-Arch-Package-Description=An open-source, multi-platform flight simulator
+X-Arch-Package-URL=http://www.flightgear.org

@@ -16,3 +16,7 @@ StartupNotify=false
 X-AppInstall-Package=pinta
 X-AppInstall-Popcon=41
 X-AppInstall-Section=main
+X-Arch-Package-Name=pinta
+X-Arch-Package-Version=1.6-1
+X-Arch-Package-Description=Drawing/editing program modeled after Paint.NET. It's goal is to provide a simplified alternative to GIMP for casual users
+X-Arch-Package-URL=http://pinta-project.com/

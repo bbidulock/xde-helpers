@@ -13,3 +13,7 @@ StartupNotify=false
 X-AppInstall-Package=freedroidrpg
 X-AppInstall-Popcon=24
 X-AppInstall-Section=main
+X-Arch-Package-Name=freedroidrpg
+X-Arch-Package-Version=0.15.1-5
+X-Arch-Package-Description=a mature science fiction role playing game set in the future
+X-Arch-Package-URL=http://freedroid.sourceforge.net

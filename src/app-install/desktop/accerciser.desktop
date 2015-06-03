@@ -156,3 +156,7 @@ X-GNOME-Bugzilla-Product=accerciser
 X-AppInstall-Package=accerciser
 X-AppInstall-Popcon=33
 X-AppInstall-Section=main
+X-Arch-Package-Name=accerciser
+X-Arch-Package-Version=3.14.0-2
+X-Arch-Package-Description=Interactive Python accessibility explorer for the GNOME desktop
+X-Arch-Package-URL=http://live.gnome.org/Accerciser

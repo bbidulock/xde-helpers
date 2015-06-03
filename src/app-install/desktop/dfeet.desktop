@@ -15,3 +15,7 @@ StartupNotify=false
 X-AppInstall-Package=d-feet
 X-AppInstall-Popcon=29
 X-AppInstall-Section=main
+X-Arch-Package-Name=d-feet
+X-Arch-Package-Version=0.3.9-1
+X-Arch-Package-Description=D-Bus debugger for GNOME
+X-Arch-Package-URL=https://wiki.gnome.org/Apps/DFeet

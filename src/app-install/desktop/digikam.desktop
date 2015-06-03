@@ -131,3 +131,7 @@ X-DocPath=digikam/index.html
 X-AppInstall-Package=digikam
 X-AppInstall-Popcon=1214
 X-AppInstall-Section=main
+X-Arch-Package-Name=digikam
+X-Arch-Package-Version=4.9.0-2
+X-Arch-Package-Description=Digital photo management application for KDE
+X-Arch-Package-URL=http://www.digikam.org/

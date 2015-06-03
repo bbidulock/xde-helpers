@@ -27,3 +27,7 @@ StartupNotify=true
 X-AppInstall-Package=asunder
 X-AppInstall-Popcon=72
 X-AppInstall-Section=main
+X-Arch-Package-Name=asunder
+X-Arch-Package-Version=2.7-1
+X-Arch-Package-Description=a graphical CD ripper and encoder
+X-Arch-Package-URL=http://littlesvr.ca/asunder/

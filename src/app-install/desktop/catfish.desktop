@@ -17,3 +17,7 @@ StartupNotify=true
 X-AppInstall-Package=catfish
 X-AppInstall-Popcon=76
 X-AppInstall-Section=main
+X-Arch-Package-Name=catfish
+X-Arch-Package-Version=1.2.2-2
+X-Arch-Package-Description=Versatile file searching tool
+X-Arch-Package-URL=https://launchpad.net/catfish-search

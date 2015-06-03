@@ -125,3 +125,7 @@ X-Desktop-File-Install-Version=0.15
 X-AppInstall-Package=gnote
 X-AppInstall-Popcon=584
 X-AppInstall-Section=main
+X-Arch-Package-Name=gnote
+X-Arch-Package-Version=3.16.0-1
+X-Arch-Package-Description=A note taking application.
+X-Arch-Package-URL=http://live.gnome.org/Gnote

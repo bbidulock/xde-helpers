@@ -152,3 +152,7 @@ X-KDE-StartupNotify=true
 X-AppInstall-Package=kruler
 X-AppInstall-Popcon=872
 X-AppInstall-Section=main
+X-Arch-Package-Name=kruler
+X-Arch-Package-Version=15.04.1-1
+X-Arch-Package-Description=Screen Ruler
+X-Arch-Package-URL=http://kde.org/applications/graphics/kruler/

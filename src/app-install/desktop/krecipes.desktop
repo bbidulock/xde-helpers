@@ -120,3 +120,7 @@ X-DocPath=krecipes/index.html
 X-AppInstall-Package=krecipes
 X-AppInstall-Popcon=39
 X-AppInstall-Section=main
+X-Arch-Package-Name=krecipes
+X-Arch-Package-Version=2.1.0-2
+X-Arch-Package-Description=A tool designed to make organizing your personal recipes collection fast and easy
+X-Arch-Package-URL=http://extragear.kde.org/apps/krecipes/

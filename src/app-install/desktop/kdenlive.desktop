@@ -26,3 +26,7 @@ X-AppInstall-Package=kdenlive
 X-AppInstall-Popcon=316
 X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Name=kdenlive
+X-Arch-Package-Version=15.04.1-1
+X-Arch-Package-Description=A non-linear video editor for Linux using the MLT video framework
+X-Arch-Package-URL=http://www.kdenlive.org/

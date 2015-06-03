@@ -123,3 +123,7 @@ X-DocPath=kipi-plugins/index.html#dngconverter
 X-AppInstall-Package=kipi-plugins
 X-AppInstall-Popcon=1170
 X-AppInstall-Section=main
+X-Arch-Package-Name=kipi-plugins
+X-Arch-Package-Version=4.9.0-2
+X-Arch-Package-Description=A collection of plugins extending the KDE graphics and image applications as digiKam
+X-Arch-Package-URL=http://www.digikam.org/

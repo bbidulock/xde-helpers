@@ -21,3 +21,7 @@ StartupNotify=false
 X-AppInstall-Package=epdfview
 X-AppInstall-Popcon=1176
 X-AppInstall-Section=main
+X-Arch-Package-Name=epdfview
+X-Arch-Package-Version=0.1.8-6
+X-Arch-Package-Description=Lightweight PDF document viewer
+X-Arch-Package-URL=http://freecode.com/projects/epdfview

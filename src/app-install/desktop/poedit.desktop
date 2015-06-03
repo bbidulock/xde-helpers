@@ -15,3 +15,7 @@ StartupNotify=true
 X-AppInstall-Package=poedit
 X-AppInstall-Popcon=122
 X-AppInstall-Section=main
+X-Arch-Package-Name=poedit
+X-Arch-Package-Version=1.8.1-1
+X-Arch-Package-Description=Cross-platform gettext catalogs (.po files) editor
+X-Arch-Package-URL=http://www.poedit.net/

@@ -13,3 +13,7 @@ StartupNotify=false
 X-AppInstall-Package=btanks
 X-AppInstall-Popcon=41
 X-AppInstall-Section=main
+X-Arch-Package-Name=btanks
+X-Arch-Package-Version=0.9.8083-6
+X-Arch-Package-Description=Fast 2d tank arcade game with multiplayer and split-screen modes.
+X-Arch-Package-URL=http://btanks.sourceforge.net

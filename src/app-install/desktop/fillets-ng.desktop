@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=fillets-ng
 X-AppInstall-Popcon=43
 X-AppInstall-Section=main
+X-Arch-Package-Name=fillets-ng
+X-Arch-Package-Version=1.0.1-5
+X-Arch-Package-Description=Port of the wonderful puzzle game Fish Fillets
+X-Arch-Package-URL=http://fillets.sf.net/

@@ -95,3 +95,7 @@ X-DocPath=bomber/index.html
 X-AppInstall-Package=bomber
 X-AppInstall-Popcon=190
 X-AppInstall-Section=main
+X-Arch-Package-Name=bomber
+X-Arch-Package-Version=15.04.1-1
+X-Arch-Package-Description=A single player arcade game
+X-Arch-Package-URL=http://kde.org/applications/games/bomber/

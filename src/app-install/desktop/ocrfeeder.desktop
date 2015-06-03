@@ -33,3 +33,7 @@ StartupNotify=false
 X-AppInstall-Package=ocrfeeder
 X-AppInstall-Popcon=36
 X-AppInstall-Section=main
+X-Arch-Package-Name=ocrfeeder
+X-Arch-Package-Version=0.8.1-1
+X-Arch-Package-Description=GTK+ document layout analysis and optical character recognition application
+X-Arch-Package-URL=https://wiki.gnome.org/Apps/OCRFeeder

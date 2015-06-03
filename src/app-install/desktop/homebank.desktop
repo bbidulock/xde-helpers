@@ -125,3 +125,7 @@ StartupNotify=true
 X-AppInstall-Package=homebank
 X-AppInstall-Popcon=91
 X-AppInstall-Section=main
+X-Arch-Package-Name=homebank
+X-Arch-Package-Version=5.0.2-1
+X-Arch-Package-Description=Free, easy, personal accounting for everyone
+X-Arch-Package-URL=http://homebank.free.fr/

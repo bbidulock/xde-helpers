@@ -49,3 +49,7 @@ StartupNotify=false
 X-AppInstall-Package=geeqie
 X-AppInstall-Popcon=1826
 X-AppInstall-Section=main
+X-Arch-Package-Name=geeqie
+X-Arch-Package-Version=1.1-3
+X-Arch-Package-Description=A lightweight image browser and viewer
+X-Arch-Package-URL=http://geeqie.sourceforge.net/

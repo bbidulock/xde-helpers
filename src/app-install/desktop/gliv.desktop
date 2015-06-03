@@ -13,3 +13,7 @@ StartupNotify=false
 X-AppInstall-Package=gliv
 X-AppInstall-Popcon=70
 X-AppInstall-Section=main
+X-Arch-Package-Name=gliv
+X-Arch-Package-Version=1.9.7-3
+X-Arch-Package-Description=OpenGL image viewer
+X-Arch-Package-URL=http://guichaz.free.fr/gliv/

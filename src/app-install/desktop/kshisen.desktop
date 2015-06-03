@@ -133,3 +133,7 @@ X-KDE-StartupNotify=true
 X-AppInstall-Package=kshisen
 X-AppInstall-Popcon=564
 X-AppInstall-Section=main
+X-Arch-Package-Name=kshisen
+X-Arch-Package-Version=15.04.1-1
+X-Arch-Package-Description=A solitaire-like game played using the standard set of Mahjong tiles
+X-Arch-Package-URL=http://kde.org/applications/games/kshisen/

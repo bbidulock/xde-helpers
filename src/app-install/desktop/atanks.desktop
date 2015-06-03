@@ -13,3 +13,7 @@ StartupNotify=false
 X-AppInstall-Package=atanks
 X-AppInstall-Popcon=60
 X-AppInstall-Section=main
+X-Arch-Package-Name=atanks
+X-Arch-Package-Version=6.2-1
+X-Arch-Package-Description=Atomic Tanks
+X-Arch-Package-URL=http://atanks.sourceforge.net

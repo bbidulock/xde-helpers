@@ -14,3 +14,7 @@ StartupNotify=true
 X-AppInstall-Package=gpsdrive
 X-AppInstall-Popcon=70
 X-AppInstall-Section=main
+X-Arch-Package-Name=gpsdrive
+X-Arch-Package-Version=2.11-28
+X-Arch-Package-Description=A car (bike, ship, plane) navigation system
+X-Arch-Package-URL=http://www.gpsdrive.de/

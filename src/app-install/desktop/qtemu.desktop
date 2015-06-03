@@ -15,3 +15,7 @@ X-AppInstall-Package=qtemu
 X-AppInstall-Popcon=38
 X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,i386,kfreebsd-amd64,kfreebsd-i386,powerpc
+X-Arch-Package-Name=qtemu
+X-Arch-Package-Version=1.0.5-10
+X-Arch-Package-Description=Graphical user interface for QEMU written in Qt4
+X-Arch-Package-URL=http://qtemu.org

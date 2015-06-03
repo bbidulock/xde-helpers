@@ -39,3 +39,7 @@ X-KDE-SubstituteUID=false
 X-AppInstall-Package=qgo
 X-AppInstall-Popcon=198
 X-AppInstall-Section=main
+X-Arch-Package-Name=qgo
+X-Arch-Package-Version=2.0.0.dda95c9-1
+X-Arch-Package-Description=Go client and full featured SGF editor
+X-Arch-Package-URL=http://qgo.sourceforge.net/

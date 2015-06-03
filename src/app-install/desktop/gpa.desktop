@@ -13,3 +13,7 @@ StartupNotify=false
 X-AppInstall-Package=gpa
 X-AppInstall-Popcon=81
 X-AppInstall-Section=main
+X-Arch-Package-Name=gpa
+X-Arch-Package-Version=0.9.7-1
+X-Arch-Package-Description=A graphical user interface for the GnuPG
+X-Arch-Package-URL=https://www.gnupg.org/related_software/gpa/

@@ -17,3 +17,7 @@ StartupNotify=true
 X-AppInstall-Package=klavaro
 X-AppInstall-Popcon=77
 X-AppInstall-Section=main
+X-Arch-Package-Name=klavaro
+X-Arch-Package-Version=3.01-1
+X-Arch-Package-Description=Free touch typing tutor program
+X-Arch-Package-URL=http://klavaro.sourceforge.net/

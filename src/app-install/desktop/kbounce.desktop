@@ -121,3 +121,7 @@ X-DocPath=kbounce/index.html
 X-AppInstall-Package=kbounce
 X-AppInstall-Popcon=456
 X-AppInstall-Section=main
+X-Arch-Package-Name=kbounce
+X-Arch-Package-Version=15.04.1-1
+X-Arch-Package-Description=A single player arcade game with the elements of puzzle
+X-Arch-Package-URL=http://kde.org/applications/games/kbounce/

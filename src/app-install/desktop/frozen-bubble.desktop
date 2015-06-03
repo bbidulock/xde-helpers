@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=frozen-bubble
 X-AppInstall-Popcon=456
 X-AppInstall-Section=main
+X-Arch-Package-Name=frozen-bubble
+X-Arch-Package-Version=2.2.1beta1-6
+X-Arch-Package-Description=A game in which you throw colorful bubbles and build groups to destroy the bubbles
+X-Arch-Package-URL=http://www.frozen-bubble.org

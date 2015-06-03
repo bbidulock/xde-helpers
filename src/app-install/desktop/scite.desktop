@@ -17,3 +17,7 @@ StartupNotify=false
 X-AppInstall-Package=scite
 X-AppInstall-Popcon=265
 X-AppInstall-Section=main
+X-Arch-Package-Name=scite
+X-Arch-Package-Version=3.5.5-1
+X-Arch-Package-Description=Editor with facilities for building and running programs
+X-Arch-Package-URL=http://www.scintilla.org/SciTE.html

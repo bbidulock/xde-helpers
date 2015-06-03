@@ -13,3 +13,7 @@ StartupNotify=false
 X-AppInstall-Package=qjackctl
 X-AppInstall-Popcon=615
 X-AppInstall-Section=main
+X-Arch-Package-Name=qjackctl
+X-Arch-Package-Version=0.3.13-1
+X-Arch-Package-Description=A Qt front-end for the JACK low-latency audio server
+X-Arch-Package-URL=http://qjackctl.sourceforge.net/

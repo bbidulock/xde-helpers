@@ -16,3 +16,7 @@ StartupNotify=false
 X-AppInstall-Package=epiphany
 X-AppInstall-Popcon=68
 X-AppInstall-Section=main
+X-Arch-Package-Name=epiphany
+X-Arch-Package-Version=3.16.1-1
+X-Arch-Package-Description=A GNOME web browser based on the WebKit rendering engine.
+X-Arch-Package-URL=https://wiki.gnome.org/Apps/Web

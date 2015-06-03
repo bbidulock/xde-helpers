@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Springdale/PUIAS Linux 6.4 Release Notes
+Comment=Release Notes for Springdale/PUIAS Linux 6.4
+Icon=system-logo-icon
+TryExec=xdg-open
+Exec=xdg-open /usr/share/doc/springdale-release-notes-6.4/index.html
+Terminal=false
+Categories=Documentation;X-Red-Hat-Base;
+StartupNotify=false
+X-AppInstall-Package=xdg-utils
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package=xdg-utils 1.1.0.git20150323-1
+X-Arch-Package-Name=xdg-utils
+X-Arch-Package-Version=1.1.0.git20150323-1
+X-Arch-Package-Description=Command line tools that assist applications with a variety of desktop integration tasks
+X-Arch-Package-URL=http://cgit.freedesktop.org/xdg/xdg-utils/

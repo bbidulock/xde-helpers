@@ -13,3 +13,7 @@ StartupNotify=true
 X-AppInstall-Package=driconf
 X-AppInstall-Popcon=174
 X-AppInstall-Section=main
+X-Arch-Package-Name=driconf
+X-Arch-Package-Version=0.9.1-11
+X-Arch-Package-Description=A graphical configuration tool for the Direct Rendering Infrastructure
+X-Arch-Package-URL=http://dri.freedesktop.org/wiki/DriConf

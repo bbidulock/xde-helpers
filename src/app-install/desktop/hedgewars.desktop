@@ -16,3 +16,7 @@ X-AppInstall-Package=hedgewars
 X-AppInstall-Popcon=143
 X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,i386,powerpc,sparc
+X-Arch-Package-Name=hedgewars
+X-Arch-Package-Version=0.9.21.1-2
+X-Arch-Package-Description=Turn-based strategy artillery game similiar to Worms
+X-Arch-Package-URL=http://hedgewars.org

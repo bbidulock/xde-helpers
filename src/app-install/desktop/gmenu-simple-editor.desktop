@@ -113,3 +113,7 @@ X-GNOME-Bugzilla-Component=general
 X-AppInstall-Package=gnome-menus
 X-AppInstall-Popcon=11050
 X-AppInstall-Section=main
+X-Arch-Package-Name=gnome-menus
+X-Arch-Package-Version=3.13.3-1
+X-Arch-Package-Description=GNOME menu specifications
+X-Arch-Package-URL=http://www.gnome.org

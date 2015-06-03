@@ -15,3 +15,7 @@ StartupNotify=false
 X-AppInstall-Package=pychess
 X-AppInstall-Popcon=30
 X-AppInstall-Section=main
+X-Arch-Package-Name=pychess
+X-Arch-Package-Version=0.10.1-4
+X-Arch-Package-Description=Chess client for the GNOME desktop
+X-Arch-Package-URL=http://pychess.org/

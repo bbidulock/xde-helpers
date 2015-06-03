@@ -77,3 +77,7 @@ X-AppInstall-Package=gnome-color-manager
 X-AppInstall-Popcon=321
 X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Name=gnome-color-manager
+X-Arch-Package-Version=3.16.0-1
+X-Arch-Package-Description=Color profile manager for the GNOME desktop
+X-Arch-Package-URL=http://projects.gnome.org/gnome-color-manager/

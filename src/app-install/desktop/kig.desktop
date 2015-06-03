@@ -192,3 +192,7 @@ X-DocPath=kig/index.html
 X-AppInstall-Package=kig
 X-AppInstall-Popcon=793
 X-AppInstall-Section=main
+X-Arch-Package-Name=kig
+X-Arch-Package-Version=15.04.1-1
+X-Arch-Package-Description=Interactive Geometry
+X-Arch-Package-URL=http://kde.org/applications/education/kig/

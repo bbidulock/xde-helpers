@@ -33,3 +33,7 @@ StartupNotify=true
 X-AppInstall-Package=parole
 X-AppInstall-Popcon=52
 X-AppInstall-Section=main
+X-Arch-Package-Name=parole
+X-Arch-Package-Version=0.8.0-1
+X-Arch-Package-Description=A modern media player based on the GStreamer framework
+X-Arch-Package-URL=http://goodies.xfce.org/projects/applications/parole/

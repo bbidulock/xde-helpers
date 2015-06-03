@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=RXVT Terminal (unicode)
+Comment=Use the command line
+Icon=gnome-term-linux.png
+TryExec=urxvt
+Exec=urxvt
+Terminal=false
+Categories=Application;System;TerminalEmulator;GNOME;
+StartupNotify=false
+X-Desktop-File-Install-Version=0.15
+X-AppInstall-Package=rxvt-unicode
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package=rxvt-unicode 9.21-1
+X-Arch-Package-Name=rxvt-unicode
+X-Arch-Package-Version=9.21-1
+X-Arch-Package-Description=A unicode enabled rxvt-clone terminal emulator (urxvt)
+X-Arch-Package-URL=http://software.schmorp.de/pkg/rxvt-unicode.html

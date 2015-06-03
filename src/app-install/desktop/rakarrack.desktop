@@ -14,3 +14,7 @@ X-AppInstall-Package=rakarrack
 X-AppInstall-Popcon=33
 X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Name=rakarrack
+X-Arch-Package-Version=0.6.1-2
+X-Arch-Package-Description=Versatile guitar multi-effects processor
+X-Arch-Package-URL=http://rakarrack.sourceforge.net

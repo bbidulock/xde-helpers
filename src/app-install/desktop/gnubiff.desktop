@@ -38,3 +38,7 @@ StartupNotify=false
 X-AppInstall-Package=gnubiff
 X-AppInstall-Popcon=159
 X-AppInstall-Section=main
+X-Arch-Package-Name=gnubiff
+X-Arch-Package-Version=2.2.15-3
+X-Arch-Package-Description=Mail notification program that checks for mail and displays headers when new mail has arrived
+X-Arch-Package-URL=http://gnubiff.sourceforge.net/

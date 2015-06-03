@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=freemat
 X-AppInstall-Popcon=65
 X-AppInstall-Section=main
+X-Arch-Package-Name=freemat
+X-Arch-Package-Version=4.2-4
+X-Arch-Package-Description=A free environment for rapid engineering, scientific prototyping and data processing
+X-Arch-Package-URL=http://freemat.sourceforge.net

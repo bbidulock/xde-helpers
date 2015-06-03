@@ -13,3 +13,7 @@ StartupNotify=false
 X-AppInstall-Package=gnujump
 X-AppInstall-Popcon=18
 X-AppInstall-Section=main
+X-Arch-Package-Name=gnujump
+X-Arch-Package-Version=1.0.8-4
+X-Arch-Package-Description=A clone of the simple yet addictive game Xjump
+X-Arch-Package-URL=http://gnujump.es.gnu.org

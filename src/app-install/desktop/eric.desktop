@@ -15,3 +15,7 @@ StartupNotify=true
 X-AppInstall-Package=eric
 X-AppInstall-Popcon=131
 X-AppInstall-Section=main
+X-Arch-Package-Name=eric
+X-Arch-Package-Version=6.0.5-1
+X-Arch-Package-Description=A full-featured Python and Ruby IDE in PyQt4
+X-Arch-Package-URL=http://eric-ide.python-projects.org/

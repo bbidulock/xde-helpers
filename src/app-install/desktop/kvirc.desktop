@@ -21,3 +21,7 @@ StartupNotify=false
 X-AppInstall-Package=kvirc
 X-AppInstall-Popcon=208
 X-AppInstall-Section=main
+X-Arch-Package-Name=kvirc
+X-Arch-Package-Version=4.2.0-4
+X-Arch-Package-Description=Qt-based IRC client
+X-Arch-Package-URL=http://www.kvirc.net

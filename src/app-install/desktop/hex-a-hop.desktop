@@ -32,3 +32,7 @@ StartupNotify=false
 X-AppInstall-Package=hex-a-hop
 X-AppInstall-Popcon=102
 X-AppInstall-Section=main
+X-Arch-Package-Name=hex-a-hop
+X-Arch-Package-Version=1.1.0-4
+X-Arch-Package-Description=Hex-a-hop is a puzzle game based on hexagonal tiles
+X-Arch-Package-URL=http://hexahop.sourceforge.net/

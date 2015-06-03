@@ -17,3 +17,7 @@ StartupNotify=false
 X-AppInstall-Package=gwakeonlan
 X-AppInstall-Popcon=13
 X-AppInstall-Section=main
+X-Arch-Package-Name=gwakeonlan
+X-Arch-Package-Version=0.6.2-4
+X-Arch-Package-Description=GTK+ utility to awake machines using the Wake on LAN.
+X-Arch-Package-URL=http://www.muflone.com/gwakeonlan

@@ -17,3 +17,7 @@ StartupNotify=true
 X-AppInstall-Package=qalculate-gtk
 X-AppInstall-Popcon=223
 X-AppInstall-Section=main
+X-Arch-Package-Name=qalculate-gtk
+X-Arch-Package-Version=0.9.7-4
+X-Arch-Package-Description=GNOME frontend for libqalculate
+X-Arch-Package-URL=http://qalculate.sourceforge.net/

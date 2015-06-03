@@ -18,3 +18,7 @@ X-AppInstall-Package=musescore
 X-AppInstall-Popcon=171
 X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Name=musescore
+X-Arch-Package-Version=2.0.1-1
+X-Arch-Package-Description=Create, play and print beautiful sheet music
+X-Arch-Package-URL=http://musescore.org/
