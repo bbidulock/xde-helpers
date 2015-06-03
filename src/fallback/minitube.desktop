@@ -22,3 +22,7 @@ StartupNotify=true
 X-AppInstall-Package=minitube
 X-AppInstall-Popcon=146
 X-AppInstall-Section=main
+X-Arch-Package-Name=minitube
+X-Arch-Package-Version=2.4-1
+X-Arch-Package-Description=A native YouTube client in Qt. Watch YouTube videos without Flash Player
+X-Arch-Package-URL=http://flavio.tordini.org/minitube

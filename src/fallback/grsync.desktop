@@ -19,3 +19,7 @@ StartupNotify=false
 X-AppInstall-Package=grsync
 X-AppInstall-Popcon=245
 X-AppInstall-Section=main
+X-Arch-Package-Name=grsync
+X-Arch-Package-Version=1.2.5-1
+X-Arch-Package-Description=GTK GUI for rsync
+X-Arch-Package-URL=http://www.opbyte.it/grsync

@@ -39,3 +39,7 @@ StartupNotify=false
 X-AppInstall-Package=gdmap
 X-AppInstall-Popcon=75
 X-AppInstall-Section=main
+X-Arch-Package-Name=gdmap
+X-Arch-Package-Version=0.8.1-4
+X-Arch-Package-Description=Tool to inspect the used space of folders.
+X-Arch-Package-URL=http://gdmap.sourceforge.net

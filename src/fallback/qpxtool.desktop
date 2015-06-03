@@ -16,3 +16,7 @@ StartupNotify=true
 X-AppInstall-Package=qpxtool
 X-AppInstall-Popcon=40
 X-AppInstall-Section=main
+X-Arch-Package-Name=qpxtool
+X-Arch-Package-Version=0.7.2-4
+X-Arch-Package-Description=Allows better controll over optical drives to include QChecks and optimization settings.
+X-Arch-Package-URL=http://qpxtool.sourceforge.net/

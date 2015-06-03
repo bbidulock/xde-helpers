@@ -12,3 +12,7 @@ StartupNotify=false
 X-AppInstall-Package=ncmpcpp
 X-AppInstall-Popcon=119
 X-AppInstall-Section=main
+X-Arch-Package-Name=ncmpcpp
+X-Arch-Package-Version=0.6.4-1
+X-Arch-Package-Description=Almost exact clone of ncmpc with some new features
+X-Arch-Package-URL=http://ncmpcpp.rybczak.net/

@@ -17,3 +17,7 @@ StartupNotify=false
 X-AppInstall-Package=flobopuyo
 X-AppInstall-Popcon=77
 X-AppInstall-Section=main
+X-Arch-Package-Name=flobopuyo
+X-Arch-Package-Version=0.20-8
+X-Arch-Package-Description=Clone of the famous PuyoPuyo
+X-Arch-Package-URL=http://freshmeat.net/projects/flobopuyo/

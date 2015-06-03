@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=fyre
 X-AppInstall-Popcon=9
 X-AppInstall-Section=main
+X-Arch-Package-Name=fyre
+X-Arch-Package-Version=1.0.1-9
+X-Arch-Package-Description=Rendering of the Peter de Jong map
+X-Arch-Package-URL=http://fyre.navi.cx/

@@ -15,3 +15,7 @@ StartupNotify=false
 X-AppInstall-Package=qcad
 X-AppInstall-Popcon=1111
 X-AppInstall-Section=main
+X-Arch-Package-Name=qcad
+X-Arch-Package-Version=3.9.1.0-1
+X-Arch-Package-Description=A 2D CAD package based upon Qt
+X-Arch-Package-URL=http://www.qcad.org

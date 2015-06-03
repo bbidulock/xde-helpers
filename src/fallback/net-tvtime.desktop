@@ -15,3 +15,7 @@ X-AppInstall-Package=tvtime
 X-AppInstall-Popcon=308
 X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,i386
+X-Arch-Package-Name=tvtime
+X-Arch-Package-Version=1.0.2-5
+X-Arch-Package-Description=A high quality television application for use with video capture cards
+X-Arch-Package-URL=http://tvtime.sourceforge.net/

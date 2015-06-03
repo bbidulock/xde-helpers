@@ -39,3 +39,7 @@ StartupNotify=false
 X-AppInstall-Package=basket
 X-AppInstall-Popcon=191
 X-AppInstall-Section=main
+X-Arch-Package-Name=basket
+X-Arch-Package-Version=1.81-5
+X-Arch-Package-Description=All-purpose notes taker for KDE.
+X-Arch-Package-URL=http://basket.kde.org/

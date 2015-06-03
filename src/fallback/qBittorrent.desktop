@@ -42,3 +42,7 @@ StartupNotify=false
 X-AppInstall-Package=qbittorrent
 X-AppInstall-Popcon=286
 X-AppInstall-Section=main
+X-Arch-Package-Name=qbittorrent
+X-Arch-Package-Version=3.2.0-1
+X-Arch-Package-Description=A bittorrent client written in C++ / Qt4 using the good libtorrent library
+X-Arch-Package-URL=http://www.qbittorrent.org

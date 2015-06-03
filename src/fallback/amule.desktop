@@ -13,3 +13,7 @@ StartupNotify=false
 X-AppInstall-Package=amule
 X-AppInstall-Popcon=1315
 X-AppInstall-Section=main
+X-Arch-Package-Name=amule
+X-Arch-Package-Version=10869-1
+X-Arch-Package-Description=An eMule-like client for ed2k p2p network
+X-Arch-Package-URL=http://www.amule.org

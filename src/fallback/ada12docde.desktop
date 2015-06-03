@@ -2,12 +2,5 @@
 Version=1.0
 Encoding=UTF-8
 Type=Application
-Name=ada12docde
-Comment=German documentation of ADABAS D
-Comment[de]=Deutsche Dokumentation zu ADABAS D
-Comment[es]=Documentación en alemán de ADABAS D
-Comment[fr]=Documentation en allemand concernant ADABAS D
-Comment[hu]=ADABAS D dokumentáció (német)
 Terminal=false
 StartupNotify=false
-DocPath=/usr/lib/adabas/aad/v1200/deu/html/0_index.htm

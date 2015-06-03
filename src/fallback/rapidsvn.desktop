@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=rapidsvn
 X-AppInstall-Popcon=217
 X-AppInstall-Section=main
+X-Arch-Package-Name=rapidsvn
+X-Arch-Package-Version=0.12.1-6
+X-Arch-Package-Description=A cross-platform GUI front-end for the Subversion revision system written in C++ using the wxWidgets framework.
+X-Arch-Package-URL=http://rapidsvn.tigris.org/

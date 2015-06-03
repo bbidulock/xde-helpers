@@ -13,3 +13,7 @@ StartupNotify=false
 X-AppInstall-Package=bmon
 X-AppInstall-Popcon=241
 X-AppInstall-Section=main
+X-Arch-Package-Name=bmon
+X-Arch-Package-Version=3.6-2
+X-Arch-Package-Description=Portable bandwidth monitor and rate estimator
+X-Arch-Package-URL=http://github.com/tgraf/bmon/

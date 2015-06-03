@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=mumble
 X-AppInstall-Popcon=93
 X-AppInstall-Section=main
+X-Arch-Package-Name=mumble
+X-Arch-Package-Version=1.2.8-3
+X-Arch-Package-Description=A voice chat application similar to TeamSpeak
+X-Arch-Package-URL=http://mumble.sourceforge.net/

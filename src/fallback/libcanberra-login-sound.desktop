@@ -1,0 +1,23 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=GNOME Login Sound
+Comment=Plays a sound whenever you log in
+TryExec=/usr/bin/canberra-gtk-play
+Exec=/usr/bin/canberra-gtk-play --id="desktop-login" --description="GNOME Login"
+Terminal=false
+OnlyShowIn=GNOME;
+StartupNotify=false
+X-GNOME-Autostart-Phase=Application
+X-GNOME-Provides=login-sound
+X-AppInstall-Package=libcanberra
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package=libcanberra 0.30-5
+X-Arch-Package-Name=libcanberra
+X-Arch-Package-Version=0.30-5
+X-Arch-Package-Description=A small and lightweight implementation of the XDG Sound Theme Specification
+X-Arch-Package-URL=http://0pointer.de/lennart/projects/libcanberra
+AutostartCondition=GSettings org.gnome.desktop.sound event-sounds
+X-SuSE-translate=true

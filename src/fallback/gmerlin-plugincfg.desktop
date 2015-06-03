@@ -15,3 +15,7 @@ StartupNotify=false
 X-AppInstall-Package=gmerlin
 X-AppInstall-Popcon=52
 X-AppInstall-Section=main
+X-Arch-Package-Name=gmerlin
+X-Arch-Package-Version=1.2.0-6
+X-Arch-Package-Description=Multimedia architecture for Linux
+X-Arch-Package-URL=http://openmovieeditor.sourceforge.net/HomePage

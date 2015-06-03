@@ -16,3 +16,7 @@ StartupNotify=false
 X-AppInstall-Package=mtpaint
 X-AppInstall-Popcon=47
 X-AppInstall-Section=main
+X-Arch-Package-Name=mtpaint
+X-Arch-Package-Version=3.40-15
+X-Arch-Package-Description=Simple paint program for creating icons and pixel based artwork
+X-Arch-Package-URL=http://mtpaint.sourceforge.net/

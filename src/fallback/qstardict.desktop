@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=qstardict
 X-AppInstall-Popcon=36
 X-AppInstall-Section=main
+X-Arch-Package-Name=qstardict
+X-Arch-Package-Version=1.0.1-3
+X-Arch-Package-Description=Qt4 clone of StarDict with full support of StarDict dictionaries
+X-Arch-Package-URL=http://qstardict.ylsoftware.com/index.php

@@ -135,3 +135,7 @@ X-KDE-StartupNotify=true
 X-AppInstall-Package=kmines
 X-AppInstall-Popcon=442
 X-AppInstall-Section=main
+X-Arch-Package-Name=kmines
+X-Arch-Package-Version=15.04.1-1
+X-Arch-Package-Description=The classic Minesweeper game
+X-Arch-Package-URL=http://kde.org/applications/games/kmines/

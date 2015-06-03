@@ -18,3 +18,7 @@ StartupNotify=false
 X-AppInstall-Package=pymol
 X-AppInstall-Popcon=296
 X-AppInstall-Section=main
+X-Arch-Package-Name=pymol
+X-Arch-Package-Version=1.7.6.0-1
+X-Arch-Package-Description=Molecular visualization system on an Open Source foundation
+X-Arch-Package-URL=http://pymol.org/

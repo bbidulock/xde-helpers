@@ -198,3 +198,7 @@ X-Desktop-File-Install-Version=0.18
 X-AppInstall-Package=gnumeric
 X-AppInstall-Popcon=6610
 X-AppInstall-Section=main
+X-Arch-Package-Name=gnumeric
+X-Arch-Package-Version=1.12.20-1
+X-Arch-Package-Description=A GNOME Spreadsheet Program
+X-Arch-Package-URL=http://www.gnome.org/projects/gnumeric/

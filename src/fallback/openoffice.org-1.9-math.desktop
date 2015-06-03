@@ -157,3 +157,4 @@ NoDisplay=true
 Categories=Office;X-MandrivaLinux-Office-Other;X-Red-Hat-Base;X-SuSE-Core-Office;
 MimeType=application/vnd.oasis.opendocument.formula;application/vnd.sun.xml.math;application/vnd.stardivision.math;
 StartupNotify=true
+InitialPreference=2

@@ -99,3 +99,7 @@ X-GNOME-Bugzilla-Version=2.13.x
 X-AppInstall-Package=atomix
 X-AppInstall-Popcon=57
 X-AppInstall-Section=main
+X-Arch-Package-Name=atomix
+X-Arch-Package-Version=3.16.0-1
+X-Arch-Package-Description=Build molecules out of single atoms
+X-Arch-Package-URL=https://wiki.gnome.org/Apps/Atomix

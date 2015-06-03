@@ -225,3 +225,7 @@ StartupNotify=false
 X-AppInstall-Package=transmission-gtk
 X-AppInstall-Popcon=9533
 X-AppInstall-Section=main
+X-Arch-Package-Name=transmission-gtk
+X-Arch-Package-Version=2.84-1
+X-Arch-Package-Description=Fast, easy, and free BitTorrent client (GTK+ GUI)
+X-Arch-Package-URL=http://www.transmissionbt.com/

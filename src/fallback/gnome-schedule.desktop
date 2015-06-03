@@ -57,3 +57,7 @@ StartupNotify=true
 X-AppInstall-Package=gnome-schedule
 X-AppInstall-Popcon=450
 X-AppInstall-Section=main
+X-Arch-Package-Name=gnome-schedule
+X-Arch-Package-Version=2.2.2-2
+X-Arch-Package-Description=Graphical interface to crontab and at for GNOME
+X-Arch-Package-URL=http://gnome-schedule.sourceforge.net/

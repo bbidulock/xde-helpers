@@ -70,3 +70,7 @@ X-GNOME-Bugzilla-Component=General
 X-AppInstall-Package=almanah
 X-AppInstall-Popcon=15
 X-AppInstall-Section=main
+X-Arch-Package-Name=almanah
+X-Arch-Package-Version=0.11.1-2
+X-Arch-Package-Description=Small GTK+ application to allow you to keep a diary of your life
+X-Arch-Package-URL=https://wiki.gnome.org/Apps/Almanah_Diary

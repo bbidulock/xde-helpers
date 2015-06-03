@@ -13,3 +13,7 @@ StartupNotify=false
 X-AppInstall-Package=gprename
 X-AppInstall-Popcon=70
 X-AppInstall-Section=main
+X-Arch-Package-Name=gprename
+X-Arch-Package-Version=20140325-1
+X-Arch-Package-Description=A GTK2 batch renamer for files and directories
+X-Arch-Package-URL=http://gprename.sourceforge.net/

@@ -207,3 +207,7 @@ X-GNOME-Bugzilla-Version=2.30.1
 X-AppInstall-Package=devhelp
 X-AppInstall-Popcon=447
 X-AppInstall-Section=main
+X-Arch-Package-Name=devhelp
+X-Arch-Package-Version=3.16.1-1
+X-Arch-Package-Description=API documentation browser for GNOME
+X-Arch-Package-URL=http://live.gnome.org/devhelp/

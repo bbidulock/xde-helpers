@@ -22,3 +22,7 @@ StartupNotify=false
 X-AppInstall-Package=kshutdown
 X-AppInstall-Popcon=82
 X-AppInstall-Section=main
+X-Arch-Package-Name=kshutdown
+X-Arch-Package-Version=3.2-3
+X-Arch-Package-Description=Shutdown Utility for KDE
+X-Arch-Package-URL=http://kshutdown.sourceforge.net/

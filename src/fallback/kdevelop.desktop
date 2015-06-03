@@ -84,3 +84,7 @@ X-DocPath=kdevelop/index.html
 X-AppInstall-Package=kdevelop
 X-AppInstall-Popcon=789
 X-AppInstall-Section=main
+X-Arch-Package-Name=kdevelop
+X-Arch-Package-Version=4.7.1-2
+X-Arch-Package-Description=A C/C++ development environment for KDE
+X-Arch-Package-URL=http://www.kdevelop.org/

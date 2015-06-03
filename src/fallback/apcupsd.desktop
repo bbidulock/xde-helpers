@@ -2,12 +2,5 @@
 Version=1.0
 Encoding=UTF-8
 Type=Application
-Name=apcupsd
-Comment=APC UPS Daemon (powerful daemon for APC UPS'es)
-Comment[de]=APC UPS Daemon (Mächtiger Daemon für APC UPS'en)
-Comment[es]=Demonio SAI APC (potente demonio para SAIs APC)
-Comment[fr]=APC UPS Daemon (Puissant démon pour les onduleurs APC)
-Comment[hu]=APC UPS démon (APC szünetmentes áramforrásokhoz)
 Terminal=false
 StartupNotify=false
-DocPath=/usr/share/doc/packages/apcupsd/doc/manual/index.html

@@ -15,3 +15,7 @@ StartupNotify=false
 X-AppInstall-Package=kchmviewer
 X-AppInstall-Popcon=200
 X-AppInstall-Section=main
+X-Arch-Package-Name=kchmviewer
+X-Arch-Package-Version=7.3-2
+X-Arch-Package-Description=A .chm files (MS HTML help file format) viewer
+X-Arch-Package-URL=http://kchmviewer.sourceforge.net/

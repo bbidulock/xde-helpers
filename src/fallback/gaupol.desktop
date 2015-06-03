@@ -35,3 +35,7 @@ StartupNotify=true
 X-AppInstall-Package=gaupol
 X-AppInstall-Popcon=376
 X-AppInstall-Section=main
+X-Arch-Package-Name=gaupol
+X-Arch-Package-Version=0.28.2-1
+X-Arch-Package-Description=Editor for text-based subtitle files
+X-Arch-Package-URL=http://home.gna.org/gaupol

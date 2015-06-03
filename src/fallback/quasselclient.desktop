@@ -78,3 +78,7 @@ StartupNotify=false
 X-AppInstall-Package=quassel-client
 X-AppInstall-Popcon=15
 X-AppInstall-Section=main
+X-Arch-Package-Name=quassel-client
+X-Arch-Package-Version=0.12.2-3
+X-Arch-Package-Description=Next-generation distributed IRC client - client only
+X-Arch-Package-URL=http://quassel-irc.org/

@@ -2,48 +2,52 @@
 Version=1.0
 Encoding=UTF-8
 Type=Application
-Name=OpenOffice.org
-Name[af]=OpenOffice.org
-Name[ar]=أوبن أفيس.أورج
-Name[be@latin]=OpenOffice.org
-Name[ca]=OpenOffice.org
-Name[cs]=OpenOffice.org
-Name[da]=OpenOffice.org
-Name[de]=OpenOffice.org
-Name[dz]=ཨོ་པཱན་ཨོ་ཕིསི.ཨོ་ཨར་ཇི།
-Name[el]=OpenOffice.org
-Name[en_CA]=OpenOffice.org
-Name[en_GB]=OpenOffice.org
-Name[es]=OpenOffice.org
-Name[et]=OpenOffice.org
-Name[eu]=OpenOffice.org
-Name[fi]=OpenOffice.org
-Name[fr]=OpenOffice.org
-Name[gl]=OpenOffice.org
-Name[he]=OpenOffice.org
-Name[hu]=OpenOffice.org
-Name[it]=OpenOffice.org
-Name[ko]=OpenOffice.org
-Name[lt]=OpenOffice.org
-Name[nb]=OpenOffice.org
-Name[ne]=ओपनअफिस डट अर्ग
-Name[nl]=OpenOffice.org
-Name[oc]=OpenOffice.org
-Name[pl]=OpenOffice.org
-Name[ps]=اوپنافس.ورګ
-Name[pt]=OpenOffice.org
-Name[pt_BR]=BrOffice.org
-Name[sl]=OpenOffice.org
-Name[sr@latin]=OpenOffice.org
-Name[sr]=OpenOffice.org
-Name[sv]=OpenOffice.org
-Name[vi]=OpenOffice.org
-Name[zh_CN]=OpenOffice.org
+Name=LibreOffice
 GenericName=Office
-Icon=ooo-gulls3.2
-TryExec=ooffice3.2
-Exec=ooffice3.2 %U
+GenericName[en]=Office
+Comment=The office productivity suite compatible to the open and standardized ODF document format. Supported by The Document Foundation.
+Comment[en]=The office productivity suite compatible to the open and standardized ODF document format. Supported by The Document Foundation.
+Icon=libreoffice-startcenter
+TryExec=libreoffice
+Exec=libreoffice %U
 Terminal=false
-Categories=Office;X-SuSE-Core-Office;
-StartupNotify=false
-InitialPreference=5
+NoDisplay=false
+Categories=Office;X-MandrivaLinux-Office-Other;X-Red-Hat-Base;X-SuSE-Core-Office;
+MimeType=application/vnd.openofficeorg.extension;
+StartupNotify=true
+StartupWMClass=libreoffice-startcenter
+X-GIO-NoFuse=true
+X-KDE-Protocols=file,http,smb,ftp,webdav;
+X-AppInstall-Package=libreoffice-still
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package=libreoffice-still 4.3.7-2
+X-Arch-Package-Name=libreoffice-still
+X-Arch-Package-Version=4.3.7-2
+X-Arch-Package-Description=LibreOffice maintenance branch
+X-Arch-Package-URL=http://www.libreoffice.org/
+Actions=Writer;Calc;Impress;Draw;Base;Math;
+
+[Desktop Action Writer]
+Name=Text Document
+Exec=libreoffice --writer
+
+[Desktop Action Calc]
+Name=Spreadsheet
+Exec=libreoffice --calc
+
+[Desktop Action Impress]
+Name=Presentation
+Exec=libreoffice --impress
+
+[Desktop Action Draw]
+Name=Drawing
+Exec=libreoffice --draw
+
+[Desktop Action Base]
+Name=Database
+Exec=libreoffice --base
+
+[Desktop Action Math]
+Name=Formula
+Exec=libreoffice --math

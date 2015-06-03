@@ -17,3 +17,7 @@ StartupNotify=false
 X-AppInstall-Package=dvdisaster
 X-AppInstall-Popcon=133
 X-AppInstall-Section=main
+X-Arch-Package-Name=dvdisaster
+X-Arch-Package-Version=0.72.6-1
+X-Arch-Package-Description=Provides a margin of safety against data loss on CD and DVD media caused by aging or scratches
+X-Arch-Package-URL=http://www.dvdisaster.com/

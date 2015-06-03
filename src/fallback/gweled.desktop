@@ -19,3 +19,7 @@ StartupNotify=true
 X-AppInstall-Package=gweled
 X-AppInstall-Popcon=65
 X-AppInstall-Section=main
+X-Arch-Package-Name=gweled
+X-Arch-Package-Version=0.9.1-3
+X-Arch-Package-Description=A puzzle game similar to Bejeweled (aka Diamond Mine)
+X-Arch-Package-URL=https://launchpad.net/gweled/

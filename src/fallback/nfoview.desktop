@@ -36,3 +36,7 @@ StartupNotify=true
 X-AppInstall-Package=nfoview
 X-AppInstall-Popcon=12
 X-AppInstall-Section=main
+X-Arch-Package-Name=nfoview
+X-Arch-Package-Version=1.16-1
+X-Arch-Package-Description=Simple NFO file viewer in GTK+ 3
+X-Arch-Package-URL=http://otsaloma.github.io/nfoview/

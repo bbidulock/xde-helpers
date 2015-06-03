@@ -82,3 +82,7 @@ X-GNOME-Bugzilla-Version=1.8.7
 X-AppInstall-Package=blam
 X-AppInstall-Popcon=12
 X-AppInstall-Section=main
+X-Arch-Package-Name=blam
+X-Arch-Package-Version=1.8.12-2
+X-Arch-Package-Description=Simple newsreader for GNOME written in C Sharp
+X-Arch-Package-URL=https://git.gnome.org/browse/blam

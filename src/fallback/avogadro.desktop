@@ -14,3 +14,7 @@ StartupNotify=true
 X-AppInstall-Package=avogadro
 X-AppInstall-Popcon=58
 X-AppInstall-Section=main
+X-Arch-Package-Name=avogadro
+X-Arch-Package-Version=1.1.1-5
+X-Arch-Package-Description=An advanced molecular editor based on Qt
+X-Arch-Package-URL=http://avogadro.openmolecules.net/wiki/Main_Page

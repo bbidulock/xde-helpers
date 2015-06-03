@@ -92,3 +92,7 @@ X-KDE-StartupNotify=true
 X-AppInstall-Package=kphotoalbum
 X-AppInstall-Popcon=86
 X-AppInstall-Section=main
+X-Arch-Package-Name=kphotoalbum
+X-Arch-Package-Version=4.6.2-1
+X-Arch-Package-Description=KDE Photo Album, picture collection manager
+X-Arch-Package-URL=http://www.kphotoalbum.org/

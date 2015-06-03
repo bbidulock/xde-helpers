@@ -54,3 +54,7 @@ StartupNotify=false
 X-AppInstall-Package=openttd
 X-AppInstall-Popcon=113
 X-AppInstall-Section=main
+X-Arch-Package-Name=openttd
+X-Arch-Package-Version=1.5.0-1
+X-Arch-Package-Description=An engine for running Transport Tycoon Deluxe.
+X-Arch-Package-URL=http://www.openttd.org

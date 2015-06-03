@@ -13,3 +13,4 @@ OnlyShowIn=FLUXBOX;BLACKBOX;OPENBOX;WMAKER;PEKWM;ADWM;WAIMEA;ECHINUS;SCROTWM;
 Categories=System;Utility;XDE;
 StartupNotify=true
 StartupWMClass=xde-panel
+X-AppInstall-Package=xde-panel

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=XDG Monitor
+Comment=Monitor the XDG launching of programs
+Icon=utilities-system-monitor
+TryExec=/usr/bin/xdg-monitor
+Exec=/usr/bin/xdg-monitor --replace
+Terminal=false
+NotShowIn=GNOME;KDE;XFCE;
+Categories=TrayIcon;System;Monitor;XDG;
+StartupNotify=true
+X-GNOME-Autostart-enabled=true
+X-AppInstall-Package=xdg-launch
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package=xdg-launch 0.4-1
+X-Arch-Package-Name=xdg-launch
+X-Arch-Package-Version=0.4-1
+X-Arch-Package-Description=A command line XDG compliant launcher
+X-Arch-Package-URL=http://github.com/bbidulock/xdg-launch

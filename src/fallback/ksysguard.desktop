@@ -184,3 +184,7 @@ X-KDE-StartupNotify=true
 X-AppInstall-Package=ksysguard
 X-AppInstall-Popcon=1771
 X-AppInstall-Section=main
+X-Arch-Package-Name=ksysguard
+X-Arch-Package-Version=5.3.1-1
+X-Arch-Package-Description=Track and control the processes running in your system
+X-Arch-Package-URL=https://userbase.kde.org/KSysGuard

@@ -15,3 +15,7 @@ StartupNotify=false
 X-AppInstall-Package=linphone
 X-AppInstall-Popcon=126
 X-AppInstall-Section=main
+X-Arch-Package-Name=linphone
+X-Arch-Package-Version=3.8.1-2
+X-Arch-Package-Description=A Voice-over-IP phone
+X-Arch-Package-URL=http://www.linphone.org/index.php/eng

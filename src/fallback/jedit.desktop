@@ -21,3 +21,7 @@ StartupNotify=true
 X-AppInstall-Package=jedit
 X-AppInstall-Popcon=189
 X-AppInstall-Section=main
+X-Arch-Package-Name=jedit
+X-Arch-Package-Version=5.2.0-1
+X-Arch-Package-Description=Text editor for programmers
+X-Arch-Package-URL=http://www.jedit.org/

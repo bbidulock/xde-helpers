@@ -20,3 +20,7 @@ StartupNotify=false
 X-AppInstall-Package=fontforge
 X-AppInstall-Popcon=233
 X-AppInstall-Section=main
+X-Arch-Package-Name=fontforge
+X-Arch-Package-Version=20150430-1
+X-Arch-Package-Description=Outline and bitmap font editor
+X-Arch-Package-URL=http://www.fontforge.org/

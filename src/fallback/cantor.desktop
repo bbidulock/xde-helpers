@@ -69,3 +69,7 @@ X-DocPath=cantor/index.html
 X-AppInstall-Package=cantor
 X-AppInstall-Popcon=273
 X-AppInstall-Section=main
+X-Arch-Package-Name=cantor
+X-Arch-Package-Version=15.04.1-1
+X-Arch-Package-Description=KDE Frontend to Mathematical Software
+X-Arch-Package-URL=http://kde.org/applications/education/cantor/

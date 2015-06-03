@@ -79,3 +79,7 @@ X-GNOME-Bugzilla-Version=1.9.11
 X-AppInstall-Package=gtranslator
 X-AppInstall-Popcon=85
 X-AppInstall-Section=main
+X-Arch-Package-Name=gtranslator
+X-Arch-Package-Version=2.91.7-2
+X-Arch-Package-Description=Enhanced gettext po file editor for the GNOME
+X-Arch-Package-URL=http://projects.gnome.org/gtranslator/

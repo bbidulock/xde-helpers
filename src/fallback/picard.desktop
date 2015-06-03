@@ -13,3 +13,7 @@ StartupNotify=true
 X-AppInstall-Package=picard
 X-AppInstall-Popcon=192
 X-AppInstall-Section=main
+X-Arch-Package-Name=picard
+X-Arch-Package-Version=1.3.2-1
+X-Arch-Package-Description=Official MusicBrainz tagger
+X-Arch-Package-URL=http://picard.musicbrainz.org/

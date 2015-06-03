@@ -21,3 +21,7 @@ StartupNotify=true
 X-AppInstall-Package=gcstar
 X-AppInstall-Popcon=83
 X-AppInstall-Section=main
+X-Arch-Package-Name=gcstar
+X-Arch-Package-Version=1.7.0-3
+X-Arch-Package-Description=A collection management application
+X-Arch-Package-URL=http://www.gcstar.org

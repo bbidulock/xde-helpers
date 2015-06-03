@@ -27,3 +27,7 @@ StartupNotify=false
 X-AppInstall-Package=dosbox
 X-AppInstall-Popcon=516
 X-AppInstall-Section=main
+X-Arch-Package-Name=dosbox
+X-Arch-Package-Version=0.74-6
+X-Arch-Package-Description=Emulator with builtin DOS for running DOS Games
+X-Arch-Package-URL=http://dosbox.sourceforge.net/

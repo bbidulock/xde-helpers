@@ -36,3 +36,7 @@ StartupNotify=false
 X-AppInstall-Package=gtkpod
 X-AppInstall-Popcon=197
 X-AppInstall-Section=main
+X-Arch-Package-Name=gtkpod
+X-Arch-Package-Version=2.1.4-4
+X-Arch-Package-Description=A platform independent GUI for Apple's iPod using GTK3
+X-Arch-Package-URL=http://gtkpod.sourceforge.net

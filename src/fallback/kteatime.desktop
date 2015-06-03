@@ -134,3 +134,7 @@ X-KDE-StartupNotify=true
 X-AppInstall-Package=kteatime
 X-AppInstall-Popcon=952
 X-AppInstall-Section=main
+X-Arch-Package-Name=kteatime
+X-Arch-Package-Version=15.04.1-1
+X-Arch-Package-Description=Tea Cooker
+X-Arch-Package-URL=http://kde.org/applications/games/kteatime/

@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=josm
 X-AppInstall-Popcon=99
 X-AppInstall-Section=main
+X-Arch-Package-Name=josm
+X-Arch-Package-Version=8339-1
+X-Arch-Package-Description=An editor for OpenStreetMap written in Java
+X-Arch-Package-URL=http://josm.openstreetmap.de/

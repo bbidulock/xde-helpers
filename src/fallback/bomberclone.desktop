@@ -13,3 +13,7 @@ StartupNotify=false
 X-AppInstall-Package=bomberclone
 X-AppInstall-Popcon=52
 X-AppInstall-Section=main
+X-Arch-Package-Name=bomberclone
+X-Arch-Package-Version=0.11.9-4
+X-Arch-Package-Description=Clone of the game AtomicBomberMan
+X-Arch-Package-URL=http://www.bomberclone.de/

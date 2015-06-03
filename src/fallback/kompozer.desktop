@@ -17,3 +17,7 @@ StartupNotify=false
 X-AppInstall-Package=kompozer
 X-AppInstall-Popcon=282
 X-AppInstall-Section=main
+X-Arch-Package-Name=kompozer
+X-Arch-Package-Version=0.8b3-15
+X-Arch-Package-Description=A Dreamweaver style WYSIWYG web editor; Nvu unofficial bug-fix release
+X-Arch-Package-URL=http://www.kompozer.net

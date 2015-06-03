@@ -14,3 +14,7 @@ StartupNotify=true
 X-AppInstall-Package=lynis
 X-AppInstall-Popcon=30
 X-AppInstall-Section=main
+X-Arch-Package-Name=lynis
+X-Arch-Package-Version=2.1.0-2
+X-Arch-Package-Description=Security and system auditing tool to harden Unix/Linux systems
+X-Arch-Package-URL=https://cisofy.com/lynis/

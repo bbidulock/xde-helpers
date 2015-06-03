@@ -106,3 +106,7 @@ X-Desktop-File-Install-Version=0.18
 X-AppInstall-Package=ibus
 X-AppInstall-Popcon=179
 X-AppInstall-Section=main
+X-Arch-Package-Name=ibus
+X-Arch-Package-Version=1.5.10-1
+X-Arch-Package-Description=Next Generation Input Bus for Linux
+X-Arch-Package-URL=http://ibus.googlecode.com

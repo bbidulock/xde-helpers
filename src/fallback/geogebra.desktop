@@ -28,3 +28,7 @@ StartupNotify=true
 X-AppInstall-Package=geogebra
 X-AppInstall-Popcon=54
 X-AppInstall-Section=main
+X-Arch-Package-Name=geogebra
+X-Arch-Package-Version=5.0.119.0-1
+X-Arch-Package-Description=Dynamic mathematics software with interactive graphics, algebra and spreadsheet
+X-Arch-Package-URL=http://www.geogebra.org/

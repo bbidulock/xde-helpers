@@ -100,3 +100,7 @@ X-KDE-StartupNotify=true
 X-AppInstall-Package=kbreakout
 X-AppInstall-Popcon=185
 X-AppInstall-Section=main
+X-Arch-Package-Name=kbreakout
+X-Arch-Package-Version=15.04.1-1
+X-Arch-Package-Description=A Breakout-like game
+X-Arch-Package-URL=http://kde.org/applications/games/kbreakout/

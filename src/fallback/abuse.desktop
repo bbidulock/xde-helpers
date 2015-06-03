@@ -20,3 +20,7 @@ DocPath=/usr/share/doc/packages/abuse/docs/index.html
 X-AppInstall-Package=abuse
 X-AppInstall-Popcon=45
 X-AppInstall-Section=main
+X-Arch-Package-Name=abuse
+X-Arch-Package-Version=0.8-4
+X-Arch-Package-Description=Side-scroller action game that pits you against ruthless alien killers
+X-Arch-Package-URL=http://abuse.zoy.org/

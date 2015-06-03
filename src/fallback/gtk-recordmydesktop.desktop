@@ -16,3 +16,7 @@ StartupNotify=false
 X-AppInstall-Package=gtk-recordmydesktop
 X-AppInstall-Popcon=235
 X-AppInstall-Section=main
+X-Arch-Package-Name=gtk-recordmydesktop
+X-Arch-Package-Version=0.3.8-7
+X-Arch-Package-Description=A pygtk frontend for recordmydesktop
+X-Arch-Package-URL=http://recordmydesktop.sourceforge.net

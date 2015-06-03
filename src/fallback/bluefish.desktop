@@ -42,3 +42,7 @@ StartupNotify=true
 X-AppInstall-Package=bluefish
 X-AppInstall-Popcon=953
 X-AppInstall-Section=main
+X-Arch-Package-Name=bluefish
+X-Arch-Package-Version=2.2.7-1
+X-Arch-Package-Description=A powerful HTML editor for experienced web designers and programmers
+X-Arch-Package-URL=http://bluefish.openoffice.nl/

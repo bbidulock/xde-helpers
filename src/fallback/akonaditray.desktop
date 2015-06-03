@@ -88,3 +88,7 @@ StartupNotify=false
 X-AppInstall-Package=kdepim-runtime
 X-AppInstall-Popcon=4087
 X-AppInstall-Section=main
+X-Arch-Package-Name=kdepim-runtime
+X-Arch-Package-Version=4.14.8-1
+X-Arch-Package-Description=Extends the functionality of kdepim
+X-Arch-Package-URL=https://projects.kde.org/projects/kde/kdepim-runtime

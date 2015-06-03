@@ -40,3 +40,7 @@ X-GNOME-Bugzilla-Version=0.0.6
 X-AppInstall-Package=gitg
 X-AppInstall-Popcon=182
 X-AppInstall-Section=main
+X-Arch-Package-Name=gitg
+X-Arch-Package-Version=3.16.1-1
+X-Arch-Package-Description=A GIT repository viewer based on GTK+
+X-Arch-Package-URL=https://git.gnome.org/browse/gitg/

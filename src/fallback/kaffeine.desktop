@@ -114,3 +114,7 @@ X-Desktop-File-Install-Version=0.15
 X-AppInstall-Package=kaffeine
 X-AppInstall-Popcon=2251
 X-AppInstall-Section=main
+X-Arch-Package-Name=kaffeine
+X-Arch-Package-Version=1.2.2-4
+X-Arch-Package-Description=KDE media player
+X-Arch-Package-URL=http://kaffeine.kde.org

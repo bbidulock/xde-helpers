@@ -11,7 +11,7 @@ Exec=sh -c 'SLASHEMOPTIONS=/etc/slashemrc.x11 /usr/games/slashem-11'
 Terminal=false
 Categories=Game;AdventureGame;
 StartupNotify=false
-X-AppInstall-Package=slashem-x11
+X-AppInstall-Package=bash
 X-AppInstall-Popcon=2
 X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=qtcreator
 X-AppInstall-Popcon=214
 X-AppInstall-Section=main
+X-Arch-Package-Name=qtcreator
+X-Arch-Package-Version=3.4.0-2
+X-Arch-Package-Description=Lightweight, cross-platform integrated development environment
+X-Arch-Package-URL=http://qt-project.org

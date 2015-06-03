@@ -110,3 +110,7 @@ X-GNOME-Gettext-Domain=shotwell
 X-AppInstall-Package=shotwell
 X-AppInstall-Popcon=890
 X-AppInstall-Section=main
+X-Arch-Package-Name=shotwell
+X-Arch-Package-Version=1:0.22.0-1
+X-Arch-Package-Description=A digital photo organizer designed for the GNOME desktop environment
+X-Arch-Package-URL=http://yorba.org/shotwell/

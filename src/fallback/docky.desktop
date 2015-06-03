@@ -13,3 +13,7 @@ StartupNotify=false
 X-AppInstall-Package=docky
 X-AppInstall-Popcon=171
 X-AppInstall-Section=main
+X-Arch-Package-Name=docky
+X-Arch-Package-Version=2.2.0-4
+X-Arch-Package-Description=Full fledged dock application that makes opening common applications and managing windows easier and quicker
+X-Arch-Package-URL=http://wiki.go-docky.com/

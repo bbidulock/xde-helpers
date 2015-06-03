@@ -28,3 +28,7 @@ X-Desktop-File-Install-Version=0.11
 X-AppInstall-Package=qmmp
 X-AppInstall-Popcon=108
 X-AppInstall-Section=main
+X-Arch-Package-Name=qmmp
+X-Arch-Package-Version=0.8.4-2
+X-Arch-Package-Description=Qt4 based audio-player
+X-Arch-Package-URL=http://qmmp.ylsoftware.com/

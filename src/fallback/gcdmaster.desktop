@@ -14,3 +14,7 @@ X-AppInstall-Package=gcdmaster
 X-AppInstall-Popcon=50
 X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Name=gcdmaster
+X-Arch-Package-Version=1.2.3-7
+X-Arch-Package-Description=GUI frontend for creating audio CDs using cdrdao
+X-Arch-Package-URL=http://cdrdao.sourceforge.net/

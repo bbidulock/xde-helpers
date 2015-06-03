@@ -15,3 +15,7 @@ StartupNotify=false
 X-AppInstall-Package=armagetronad
 X-AppInstall-Popcon=136
 X-AppInstall-Section=main
+X-Arch-Package-Name=armagetronad
+X-Arch-Package-Version=0.2.8.3.3-1
+X-Arch-Package-Description=A Tron Clone in 3D.
+X-Arch-Package-URL=http://armagetronad.net/

@@ -93,3 +93,7 @@ X-DocPath=lokalize/index.html
 X-AppInstall-Package=lokalize
 X-AppInstall-Popcon=259
 X-AppInstall-Section=main
+X-Arch-Package-Name=lokalize
+X-Arch-Package-Version=15.04.1-1
+X-Arch-Package-Description=Computer-Aided Translation System
+X-Arch-Package-URL=http://kde.org/applications/development/lokalize/

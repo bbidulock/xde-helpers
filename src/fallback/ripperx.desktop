@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=ripperx
 X-AppInstall-Popcon=154
 X-AppInstall-Section=main
+X-Arch-Package-Name=ripperx
+X-Arch-Package-Version=2.8.0-1
+X-Arch-Package-Description=GTK program to rip and encode mp3 files
+X-Arch-Package-URL=http://ripperx.sourceforge.net/

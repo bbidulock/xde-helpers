@@ -30,3 +30,7 @@ StartupNotify=false
 X-AppInstall-Package=hugin
 X-AppInstall-Popcon=503
 X-AppInstall-Section=main
+X-Arch-Package-Name=hugin
+X-Arch-Package-Version=2014.0.0-7
+X-Arch-Package-Description=Panorama photo stitcher
+X-Arch-Package-URL=http://hugin.sourceforge.net/

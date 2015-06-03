@@ -186,3 +186,7 @@ X-KDE-Protocols=http;
 X-AppInstall-Package=amarok
 X-AppInstall-Popcon=3622
 X-AppInstall-Section=main
+X-Arch-Package-Name=amarok
+X-Arch-Package-Version=2.8.0-6
+X-Arch-Package-Description=The powerful music player for KDE
+X-Arch-Package-URL=http://amarok.kde.org/

@@ -2,9 +2,5 @@
 Version=1.0
 Encoding=UTF-8
 Type=Application
-Name=atk-devel
-Comment=atk development package
-Comment[hu]=atk fejlesztői csomag
 Terminal=false
 StartupNotify=false
-DocPath=/usr/share/gtk-doc/html/atk/atk.html

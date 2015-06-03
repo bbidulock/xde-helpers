@@ -19,3 +19,7 @@ StartupNotify=false
 X-AppInstall-Package=scummvm
 X-AppInstall-Popcon=146
 X-AppInstall-Section=main
+X-Arch-Package-Name=scummvm
+X-Arch-Package-Version=1.7.0-1
+X-Arch-Package-Description=A 'virtual machine' for several classic graphical point-and-click adventure games.
+X-Arch-Package-URL=http://www.scummvm.org/

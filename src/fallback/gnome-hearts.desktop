@@ -33,3 +33,7 @@ StartupNotify=true
 X-AppInstall-Package=gnome-hearts
 X-AppInstall-Popcon=79
 X-AppInstall-Section=main
+X-Arch-Package-Name=gnome-hearts
+X-Arch-Package-Version=0.3.1-1
+X-Arch-Package-Description=A card game for GNOME
+X-Arch-Package-URL=http://www.jejik.com/gnome-hearts/

@@ -15,3 +15,7 @@ StartupNotify=true
 X-AppInstall-Package=gresolver
 X-AppInstall-Popcon=22
 X-AppInstall-Section=main
+X-Arch-Package-Name=gresolver
+X-Arch-Package-Version=0.0.5-10
+X-Arch-Package-Description=A graphical frontend for dig
+X-Arch-Package-URL=http://jodrell.net/projects/gresolver

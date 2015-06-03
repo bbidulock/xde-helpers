@@ -125,6 +125,9 @@ Exec=ASRun --immidiate --cmd http://sourceforge.net/tracker/?group_id=30&atid=10
 Terminal=false
 Categories=AfterStepInfo;
 StartupNotify=false
+X-AppInstall-Package=afterstep-git
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
 X-Arch-Package=afterstep-git 2.2.12.r18.g4f62e0d-1
 X-Arch-Package-Name=afterstep-git
 X-Arch-Package-Version=2.2.12.r18.g4f62e0d-1

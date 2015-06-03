@@ -199,3 +199,7 @@ X-DocPath=gwenview/index.html
 X-AppInstall-Package=gwenview
 X-AppInstall-Popcon=3065
 X-AppInstall-Section=main
+X-Arch-Package-Name=gwenview
+X-Arch-Package-Version=15.04.1-1
+X-Arch-Package-Description=A fast and easy to use image viewer for KDE
+X-Arch-Package-URL=http://kde.org/applications/graphics/gwenview/

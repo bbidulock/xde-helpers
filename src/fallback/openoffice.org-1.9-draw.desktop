@@ -156,3 +156,4 @@ Terminal=false
 Categories=Office;X-MandrivaLinux-Office-Drawing;X-Red-Hat-Base;X-SuSE-Core-Office;
 MimeType=application/vnd.oasis.opendocument.graphics;application/vnd.oasis.opendocument.graphics-template;application/vnd.sun.xml.draw;application/vnd.sun.xml.draw.template;application/vnd.stardivision.draw;
 StartupNotify=true
+InitialPreference=2

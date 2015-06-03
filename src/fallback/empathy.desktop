@@ -223,3 +223,7 @@ X-AppInstall-Package=empathy
 X-AppInstall-Popcon=1650
 X-AppInstall-Section=main
 X-Arch-Package=epmpathy 3.12.10-1
+X-Arch-Package-Name=empathy
+X-Arch-Package-Version=3.12.10-1
+X-Arch-Package-Description=A GNOME instant messaging client using the Telepathy framework.
+X-Arch-Package-URL=http://live.gnome.org/Empathy

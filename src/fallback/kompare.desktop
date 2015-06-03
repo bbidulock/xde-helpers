@@ -132,3 +132,7 @@ X-DocPath=kompare/index.html
 X-AppInstall-Package=kompare
 X-AppInstall-Popcon=940
 X-AppInstall-Section=main
+X-Arch-Package-Name=kompare
+X-Arch-Package-Version=15.04.1-1
+X-Arch-Package-Description=Diff/Patch Frontend
+X-Arch-Package-URL=http://kde.org/applications/development/kompare/

@@ -13,3 +13,7 @@ StartupNotify=true
 X-AppInstall-Package=qtiplot
 X-AppInstall-Popcon=99
 X-AppInstall-Section=main
+X-Arch-Package-Name=qtiplot
+X-Arch-Package-Version=0.9.8.9-6
+X-Arch-Package-Description=Data analysis and scientific plotting - free clone of Origin
+X-Arch-Package-URL=http://soft.proindependent.com/qtiplot.html

@@ -24,3 +24,7 @@ StartupNotify=true
 X-AppInstall-Package=q4wine
 X-AppInstall-Popcon=116
 X-AppInstall-Section=main
+X-Arch-Package-Name=q4wine
+X-Arch-Package-Version=1.1_r2-1
+X-Arch-Package-Description=A Qt4 GUI for Wine
+X-Arch-Package-URL=http://sourceforge.net/projects/q4wine/

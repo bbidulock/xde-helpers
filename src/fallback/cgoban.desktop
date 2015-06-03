@@ -13,3 +13,7 @@ StartupNotify=false
 X-AppInstall-Package=cgoban
 X-AppInstall-Popcon=381
 X-AppInstall-Section=main
+X-Arch-Package-Name=cgoban
+X-Arch-Package-Version=1.9.14-2
+X-Arch-Package-Description=SGF editor and client for connection to IGS
+X-Arch-Package-URL=http://sourceforge.net/projects/cgoban1/

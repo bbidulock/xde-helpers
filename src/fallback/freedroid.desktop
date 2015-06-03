@@ -13,3 +13,7 @@ StartupNotify=false
 X-AppInstall-Package=freedroid
 X-AppInstall-Popcon=21
 X-AppInstall-Section=main
+X-Arch-Package-Name=freedroid
+X-Arch-Package-Version=1.0.2-9
+X-Arch-Package-Description=a clone of the classic game 'Paradroid' on Commodore 64
+X-Arch-Package-URL=http://freedroid.sourceforge.net/

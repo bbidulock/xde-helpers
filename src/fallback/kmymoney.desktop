@@ -69,3 +69,7 @@ X-DocPath=kmymoney/index.html
 X-AppInstall-Package=kmymoney
 X-AppInstall-Popcon=129
 X-AppInstall-Section=main
+X-Arch-Package-Name=kmymoney
+X-Arch-Package-Version=4.7.2-1
+X-Arch-Package-Description=Personal finance manager for KDE which operates similarly to MS-Money or Quicken
+X-Arch-Package-URL=http://kmymoney2.sourceforge.net/

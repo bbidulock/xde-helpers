@@ -66,3 +66,7 @@ StartupNotify=true
 X-AppInstall-Package=gmpc
 X-AppInstall-Popcon=213
 X-AppInstall-Section=main
+X-Arch-Package-Name=gmpc
+X-Arch-Package-Version=11.8.16-2
+X-Arch-Package-Description=MPD client (Gtk2)
+X-Arch-Package-URL=http://gmpclient.org/home

@@ -122,3 +122,7 @@ X-AppInstall-Package=gnome-disk-utility
 X-AppInstall-Popcon=6665
 X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Name=gnome-disk-utility
+X-Arch-Package-Version=3.16.2-1
+X-Arch-Package-Description=Disk Management Utility for GNOME
+X-Arch-Package-URL=http://www.gnome.org

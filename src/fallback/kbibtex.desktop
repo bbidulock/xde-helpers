@@ -18,3 +18,7 @@ X-KDE-HasTempFileOption=true
 X-AppInstall-Package=kbibtex
 X-AppInstall-Popcon=228
 X-AppInstall-Section=main
+X-Arch-Package-Name=kbibtex
+X-Arch-Package-Version=0.5.1-1
+X-Arch-Package-Description=A BibTeX editor for KDE
+X-Arch-Package-URL=http://home.gna.org/kbibtex/

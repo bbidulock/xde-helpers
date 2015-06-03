@@ -27,3 +27,7 @@ X-AppInstall-Package=denemo
 X-AppInstall-Popcon=85
 X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Name=denemo
+X-Arch-Package-Version=1:1.2.2-1
+X-Arch-Package-Description=A music score editor
+X-Arch-Package-URL=http://www.denemo.org

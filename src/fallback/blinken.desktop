@@ -153,3 +153,7 @@ X-DocPath=blinken/index.html
 X-AppInstall-Package=blinken
 X-AppInstall-Popcon=776
 X-AppInstall-Section=main
+X-Arch-Package-Name=blinken
+X-Arch-Package-Version=15.04.1-1
+X-Arch-Package-Description=Memory Enhancement Game
+X-Arch-Package-URL=http://kde.org/applications/education/blinken/

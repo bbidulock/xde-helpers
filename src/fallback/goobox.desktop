@@ -88,3 +88,7 @@ X-GNOME-Bugzilla-Version=2.1.2
 X-AppInstall-Package=goobox
 X-AppInstall-Popcon=127
 X-AppInstall-Section=main
+X-Arch-Package-Name=goobox
+X-Arch-Package-Version=3.4.0-1
+X-Arch-Package-Description=CD player and ripper for GNOME
+X-Arch-Package-URL=http://people.gnome.org/~paobac/goobox/

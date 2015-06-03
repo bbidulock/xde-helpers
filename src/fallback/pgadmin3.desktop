@@ -13,3 +13,7 @@ StartupNotify=false
 X-AppInstall-Package=pgadmin3
 X-AppInstall-Popcon=488
 X-AppInstall-Section=main
+X-Arch-Package-Name=pgadmin3
+X-Arch-Package-Version=1.20.0-5
+X-Arch-Package-Description=Comprehensive design and management interface for PostgreSQL
+X-Arch-Package-URL=http://www.pgadmin.org

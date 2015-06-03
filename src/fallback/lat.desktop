@@ -13,3 +13,7 @@ StartupNotify=false
 X-AppInstall-Package=lat
 X-AppInstall-Popcon=27
 X-AppInstall-Section=main
+X-Arch-Package-Name=lat
+X-Arch-Package-Version=1.2.4-2
+X-Arch-Package-Description=LDAP Administration Tool
+X-Arch-Package-URL=http://sourceforge.net/projects/ldap-at/

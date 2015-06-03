@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=mirage
 X-AppInstall-Popcon=177
 X-AppInstall-Section=main
+X-Arch-Package-Name=mirage
+X-Arch-Package-Version=0.9.5.2-3
+X-Arch-Package-Description=A simple GTK+ Image Viewer
+X-Arch-Package-URL=https://sourceforge.net/projects/mirageiv.berlios/

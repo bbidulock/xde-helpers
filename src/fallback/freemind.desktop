@@ -15,3 +15,7 @@ StartupNotify=false
 X-AppInstall-Package=freemind
 X-AppInstall-Popcon=864
 X-AppInstall-Section=main
+X-Arch-Package-Name=freemind
+X-Arch-Package-Version=1.0.1-1
+X-Arch-Package-Description=A Java mindmapping tool
+X-Arch-Package-URL=http://sourceforge.net/projects/freemind

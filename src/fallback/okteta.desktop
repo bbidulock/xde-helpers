@@ -113,3 +113,7 @@ X-KDE-StartupNotify=true
 X-AppInstall-Package=okteta
 X-AppInstall-Popcon=383
 X-AppInstall-Section=main
+X-Arch-Package-Name=okteta
+X-Arch-Package-Version=15.04.1-1
+X-Arch-Package-Description=Hex Editor
+X-Arch-Package-URL=http://kde.org/applications/utilities/okteta/

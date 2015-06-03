@@ -80,3 +80,7 @@ StartupNotify=true
 X-AppInstall-Package=bleachbit
 X-AppInstall-Popcon=186
 X-AppInstall-Section=main
+X-Arch-Package-Name=bleachbit
+X-Arch-Package-Version=1.6-1
+X-Arch-Package-Description=Deletes unneeded files to free disk space and maintain privacy
+X-Arch-Package-URL=http://bleachbit.sourceforge.net/

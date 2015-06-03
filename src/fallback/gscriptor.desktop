@@ -12,3 +12,7 @@ StartupNotify=false
 X-AppInstall-Package=pcsc-tools
 X-AppInstall-Popcon=89
 X-AppInstall-Section=main
+X-Arch-Package-Name=pcsc-tools
+X-Arch-Package-Version=1.4.23-1
+X-Arch-Package-Description=PC/SC Architecture smartcard tools
+X-Arch-Package-URL=http://ludovic.rousseau.free.fr/softwares/pcsc-tools/

@@ -106,3 +106,7 @@ StartupWMClass=Gajim
 X-AppInstall-Package=gajim
 X-AppInstall-Popcon=360
 X-AppInstall-Section=main
+X-Arch-Package-Name=gajim
+X-Arch-Package-Version=0.16.1-1
+X-Arch-Package-Description=A full featured and easy to use Jabber client
+X-Arch-Package-URL=http://www.gajim.org/

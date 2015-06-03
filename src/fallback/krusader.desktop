@@ -92,3 +92,7 @@ X-DocPath=krusader/index.html
 X-AppInstall-Package=krusader
 X-AppInstall-Popcon=770
 X-AppInstall-Section=main
+X-Arch-Package-Name=krusader
+X-Arch-Package-Version=2.4.0beta3-6
+X-Arch-Package-Description=An alternative file manager for KDE resembling Midnight Commander
+X-Arch-Package-URL=http://krusader.sourceforge.net/

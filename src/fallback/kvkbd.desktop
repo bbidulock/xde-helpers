@@ -44,3 +44,7 @@ X-DocPath=kvkbd/index.html
 X-AppInstall-Package=kvkbd
 X-AppInstall-Popcon=25
 X-AppInstall-Section=main
+X-Arch-Package-Name=kvkbd
+X-Arch-Package-Version=0.6-5
+X-Arch-Package-Description=A virtual keyboard for KDE
+X-Arch-Package-URL=http://www.kde-apps.org/content/show.php?content=94374

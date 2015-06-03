@@ -15,3 +15,7 @@ StartupNotify=false
 X-AppInstall-Package=lincity-ng
 X-AppInstall-Popcon=78
 X-AppInstall-Section=main
+X-Arch-Package-Name=lincity-ng
+X-Arch-Package-Version=2.0-6
+X-Arch-Package-Description=A city simulation game
+X-Arch-Package-URL=http://sourceforge.net/projects/lincity-ng.berlios/

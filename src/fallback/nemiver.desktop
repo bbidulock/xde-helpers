@@ -51,3 +51,7 @@ StartupNotify=true
 X-AppInstall-Package=nemiver
 X-AppInstall-Popcon=41
 X-AppInstall-Section=main
+X-Arch-Package-Name=nemiver
+X-Arch-Package-Version=0.9.5-3
+X-Arch-Package-Description=C/C++ debugger for GNOME
+X-Arch-Package-URL=http://www.gnome.org/projects/nemiver/

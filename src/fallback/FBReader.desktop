@@ -17,3 +17,7 @@ StartupNotify=true
 X-AppInstall-Package=fbreader
 X-AppInstall-Popcon=269
 X-AppInstall-Section=main
+X-Arch-Package-Name=fbreader
+X-Arch-Package-Version=0.99.4-5
+X-Arch-Package-Description=An e-book reader for Linux
+X-Arch-Package-URL=http://www.fbreader.org/

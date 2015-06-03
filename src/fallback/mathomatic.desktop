@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=mathomatic
 X-AppInstall-Popcon=68
 X-AppInstall-Section=main
+X-Arch-Package-Name=mathomatic
+X-Arch-Package-Version=16.0.5-2
+X-Arch-Package-Description=General purpose Computer Algebra System written in C
+X-Arch-Package-URL=http://mathomatic.orgserve.de/math/

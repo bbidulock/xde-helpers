@@ -88,6 +88,7 @@ X-Arch-Package-Name=mvwm-git
 X-Arch-Package-Version=r5713.f23f011-1
 X-Arch-Package-Description=A clean-up effort of FVWM (with rounded corner patch)
 X-Arch-Package-URL=https://github.com/ThomasAdam/mvwm
+DesktopNames=MVWM
 X-SuSE-translate=true
 Actions=XDE;
 
@@ -96,8 +97,10 @@ Name=XDE
 Icon=xde
 Exec=xde-session -desktop MVWM -startwm mvwm
 Comment=MVWM in an XDE session
+DesktopNames=XDE:MVWM
 
 [Window Manager]
+Name=mvwm
 SessionManaged=true
 StartupNotification=false
 X-XDE-Managed=true

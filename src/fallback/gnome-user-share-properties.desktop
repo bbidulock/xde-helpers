@@ -141,3 +141,7 @@ X-Desktop-File-Install-Version=0.15
 X-AppInstall-Package=gnome-user-share
 X-AppInstall-Popcon=6043
 X-AppInstall-Section=main
+X-Arch-Package-Name=gnome-user-share
+X-Arch-Package-Version=3.14.2-1
+X-Arch-Package-Description=Easy to use user-level file sharing for GNOME.
+X-Arch-Package-URL=http://ftp.gnome.org/pub/GNOME/sources/gnome-user-share/

@@ -158,3 +158,7 @@ X-KDE-StartupNotify=true
 X-AppInstall-Package=kmix
 X-AppInstall-Popcon=6370
 X-AppInstall-Section=main
+X-Arch-Package-Name=kmix
+X-Arch-Package-Version=15.04.1-1
+X-Arch-Package-Description=KDE volume control program (experimental KF5 version)
+X-Arch-Package-URL=http://kde.org/applications/multimedia/kmix/

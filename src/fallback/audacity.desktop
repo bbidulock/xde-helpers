@@ -21,3 +21,7 @@ StartupNotify=false
 X-AppInstall-Package=audacity
 X-AppInstall-Popcon=4237
 X-AppInstall-Section=main
+X-Arch-Package-Name=audacity
+X-Arch-Package-Version=2.1.0-1
+X-Arch-Package-Description=A program that lets you manipulate digital audio waveforms
+X-Arch-Package-URL=http://audacity.sourceforge.net/

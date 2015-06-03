@@ -17,3 +17,7 @@ StartupNotify=false
 X-AppInstall-Package=dopewars
 X-AppInstall-Popcon=38
 X-AppInstall-Section=main
+X-Arch-Package-Name=dopewars
+X-Arch-Package-Version=1.5.12-7
+X-Arch-Package-Description=A drug dealing game set in New York
+X-Arch-Package-URL=http://dopewars.sourceforge.net/

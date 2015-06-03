@@ -103,3 +103,7 @@ X-KDE-StartupNotify=true
 X-AppInstall-Package=knetwalk
 X-AppInstall-Popcon=487
 X-AppInstall-Section=main
+X-Arch-Package-Name=knetwalk
+X-Arch-Package-Version=15.04.1-1
+X-Arch-Package-Description=Connect all the terminals to the server, in as few turns as possible
+X-Arch-Package-URL=http://kde.org/applications/games/knetwalk/

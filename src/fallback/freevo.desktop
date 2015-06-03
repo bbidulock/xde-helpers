@@ -15,3 +15,7 @@ StartupNotify=false
 X-AppInstall-Package=freevo
 X-AppInstall-Popcon=40
 X-AppInstall-Section=main
+X-Arch-Package-Name=freevo
+X-Arch-Package-Version=1.9.0-14
+X-Arch-Package-Description=An open-source home theatre PC platform
+X-Arch-Package-URL=http://freevo.sourceforge.net/

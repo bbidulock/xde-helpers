@@ -104,3 +104,7 @@ X-KDE-ServiceTypes=DBUS/InstantMessenger;
 X-AppInstall-Package=konversation
 X-AppInstall-Popcon=233
 X-AppInstall-Section=main
+X-Arch-Package-Name=konversation
+X-Arch-Package-Version=1.6-1
+X-Arch-Package-Description=A user friendly IRC client for KDE
+X-Arch-Package-URL=http://konversation.kde.org

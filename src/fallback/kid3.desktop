@@ -23,3 +23,7 @@ X-DocPath=kid3/index.html
 X-AppInstall-Package=kid3
 X-AppInstall-Popcon=207
 X-AppInstall-Section=main
+X-Arch-Package-Name=kid3
+X-Arch-Package-Version=3.2.1-1
+X-Arch-Package-Description=An MP3, Ogg/Vorbis and FLAC tag editor, KDE version
+X-Arch-Package-URL=http://kid3.sourceforge.net/

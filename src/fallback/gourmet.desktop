@@ -40,3 +40,7 @@ StartupNotify=true
 X-AppInstall-Package=gourmet
 X-AppInstall-Popcon=31
 X-AppInstall-Section=main
+X-Arch-Package-Name=gourmet
+X-Arch-Package-Version=0.17.4-2
+X-Arch-Package-Description=A simple but powerful recipe-managing application
+X-Arch-Package-URL=http://thinkle.github.io/gourmet/

@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=goldendict
 X-AppInstall-Popcon=61
 X-AppInstall-Section=main
+X-Arch-Package-Name=goldendict
+X-Arch-Package-Version=1.5.0RC-1
+X-Arch-Package-Description=Feature-rich dictionary lookup program
+X-Arch-Package-URL=http://goldendict.org

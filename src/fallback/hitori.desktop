@@ -39,3 +39,7 @@ StartupNotify=true
 X-AppInstall-Package=hitori
 X-AppInstall-Popcon=7
 X-AppInstall-Section=main
+X-Arch-Package-Name=hitori
+X-Arch-Package-Version=3.16.0-1
+X-Arch-Package-Description=GTK+ application to generate and let you play games of Hitori
+X-Arch-Package-URL=https://wiki.gnome.org/Apps/Hitori

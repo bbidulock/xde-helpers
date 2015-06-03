@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=gcolor2
 X-AppInstall-Popcon=161
 X-AppInstall-Section=main
+X-Arch-Package-Name=gcolor2
+X-Arch-Package-Version=0.4-7
+X-Arch-Package-Description=A simple GTK+2 color selector
+X-Arch-Package-URL=http://gcolor2.sf.net/
