@@ -127,3 +127,4 @@ NoDisplay=true
 Categories=System;X-Fedora;X-Red-Hat-Base;
 MimeType=application/x-catalog;
 StartupNotify=true
+X-SuSE-translate=true
