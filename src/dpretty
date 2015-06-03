@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-use 5.020;
+use 5.016;
 use Glib;
 use open IN => ':utf8', OUT => ':locale';
 
@@ -372,6 +372,15 @@ if ($args[0] eq '-d') {
 
 push @args, '/dev/stdin' unless @args;
 
+my @appdirs = (qw(
+	/usr/share/applications
+	/etc/xdg/xsessions
+	/usr/share/xsessions
+	/etc/xdg/autostart
+	/usr/share/autostart
+));
+
+
 
 foreach my $a (@args) {
 	my $kf = Glib::KeyFile->new;
@@ -404,15 +413,44 @@ foreach my $a (@args) {
 				if (exists $keys{Exec} and not exists $keys{TryExec}) {
 					$keys{TryExec} = (split(/\s+/, $keys{Exec}))[0];
 				}
-				if (exists $keys{TryExec}) {
+				if (not exists $keys{"X-Arch-Package-Name"} and $a =~ /\.desktop$/) {
+					print STDERR "# --> CHECKING: file '$a'\n" if $debug;
+					foreach my $d (@appdirs) {
+						print STDERR "# --> CHECKING: '$d/$a'\n" if $debug;
+						next unless -r "$d/$a";
+						my $p = `yaourt -Qo $d/$a 2>/dev/null`;
+						chomp $p;
+						$p =~ s/.*is owned by //;
+						if ($p) {
+							$keys{'X-Arch-Package'} = $p;
+							my $n = (split(/\s+/,$p))[0];
+							my @lines = (`yaourt -Qi $n 2>/dev/null`);
+							for my $l (@lines) {
+								chomp $l;
+								my @fields = (split(/\s+/,$l,3));
+								my $k = $fields[0];
+								if ($k =~ /^(Name|Version|Description|URL)$/) {
+									$keys{"X-Arch-Package-$k"} = $fields[2];
+								}
+								if ($k eq 'Name') {
+									$keys{"X-AppInstall-Package"} = $fields[2];
+									$keys{"X-AppInstall-Section"} = 'main';
+									$keys{"X-AppInstall-Popcon"} = '0';
+								}
+							}
+							last;
+						}
+					}
+				}
+				if (not exists $keys{"X-Arch-Package-Name"} and exists $keys{TryExec} and $a ne 'tmp.log') {
 					print STDERR "# --> CHECKING: binary '$keys{TryExec}'\n" if $debug;
-					my $p = `pacman -Qo $keys{TryExec}|grep 'is owned by'`;
+					my $p = `yaourt -Qo $keys{TryExec} 2>/dev/null`;
 					chomp $p;
 					$p =~ s/.*is owned by //;
 					if ($p) {
 						$keys{'X-Arch-Package'} = $p;
 						my $n = (split(/\s+/,$p))[0];
-						my @lines = (`pacman -Qi $n`);
+						my @lines = (`yaourt -Qi $n 2>/dev/null`);
 						for my $l (@lines) {
 							chomp $l;
 							my @fields = (split(/\s+/,$l,3));
@@ -420,8 +458,56 @@ foreach my $a (@args) {
 							if ($k =~ /^(Name|Version|Description|URL)$/) {
 								$keys{"X-Arch-Package-$k"} = $fields[2];
 							}
+							if ($k eq 'Name') {
+								$keys{"X-AppInstall-Package"} = $fields[2];
+								$keys{"X-AppInstall-Section"} = 'main';
+								$keys{"X-AppInstall-Popcon"} = '0';
+							}
 						}
 					}
+				}
+				if (not exists $keys{"X-Arch-Package-Name"} and exists $keys{"X-Arch-Package"}) {
+					my $p = $keys{'X-Arch-Package'};
+					my $n = (split(/\s+/,$p))[0];
+					my @lines = (`yaourt -Si $n 2>/dev/null`);
+					for my $l (@lines) {
+						chomp $l;
+						my @fields = (split(/\s+/,$l,3));
+						my $k = $fields[0];
+						if ($k =~ /^(Name|Version|Description|URL)$/) {
+							$keys{"X-Arch-Package-$k"} = $fields[2];
+						}
+						if ($k eq 'Name') {
+							$keys{"X-AppInstall-Package"} = $fields[2];
+							$keys{"X-AppInstall-Section"} = 'main';
+							$keys{"X-AppInstall-Popcon"} = '0';
+						}
+					}
+				}
+				if (not exists $keys{"X-Arch-Package-Name"} and exists $keys{"X-AppInstall-Package"}) {
+					my $p = $keys{'X-AppInstall-Package'};
+					my $n = (split(/\s+/,$p))[0];
+					my @lines = (`yaourt -Si $n 2>/dev/null`);
+					for my $l (@lines) {
+						chomp $l;
+						my @fields = (split(/\s+/,$l,3));
+						my $k = $fields[0];
+						if ($k =~ /^(Name|Version|Description|URL)$/) {
+							$keys{"X-Arch-Package-$k"} = $fields[2];
+						}
+						if ($k eq 'Name') {
+							$keys{"X-AppInstall-Package"} = $fields[2];
+							$keys{"X-AppInstall-Section"} = 'main';
+							$keys{"X-AppInstall-Popcon"} = '0';
+						}
+					}
+				}
+				if (exists $keys{"X-Arch-Package-Name"} and $a ne 'tmp.log') {
+					$keys{"X-AppInstall-Package"} = $keys{"X-Arch-Package-Name"};
+					$keys{"X-AppInstall-Section"} = 'main';
+					$keys{"X-AppInstall-Popcon"} = '0' unless exists $keys{"X-AppInstall-Popcon"};
+				} else {
+					print STDERR "==> WARNING: no package found for $a\n" if $debug;
 				}
 				foreach my $k (@multiples) {
 					if (exists $keys{$k} and $keys{$k}) {

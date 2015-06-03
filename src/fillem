@@ -1,0 +1,24 @@
+#!/bin/bash
+
+for f in original/*.desktop
+do
+	n=$(basename $f)
+	if grep -q 'X-Arch-Package=' $f
+	then
+		echo "--> has package: $f"
+		if [ ! -r fallback/$n ]
+		then
+			cp -v original/$n fallback/$n
+		fi
+		if [ ! -r applications/$n ]
+		then
+			cp -v original/$n applications/$n
+		fi
+		if [ ! -r app-install/desktop/$n ]
+		then
+			cp -v original/$n app-install/desktop/$n
+		fi
+	else
+		echo "--> no package: $f"
+	fi
+done
