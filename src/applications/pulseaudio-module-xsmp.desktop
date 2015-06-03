@@ -1,0 +1,18 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=PulseAudio Session Management
+Comment=Load module-x11-xsmp into PulseAudio
+TryExec=pactl
+Exec=pactl load-module module-x11-xsmp
+Terminal=false
+StartupNotify=false
+X-AppInstall-Package=libpulse
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package=libpulse 6.0-2
+X-Arch-Package-Name=libpulse
+X-Arch-Package-Version=6.0-2
+X-Arch-Package-Description=A featureful, general-purpose sound server (client library)
+X-Arch-Package-URL=http://www.freedesktop.org/wiki/Software/PulseAudio

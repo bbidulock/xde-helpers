@@ -1,0 +1,22 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=ALSA Mixer
+GenericName=Mixer
+Comment=Ncurses soundcard mixer for ALSA soundcard driver
+Icon=normal/Player
+TryExec=alsamixer
+Exec=alsamixer
+Terminal=true
+Categories=AudioVideo;
+StartupNotify=false
+X-AppInstall-Package=alsa-utils
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package=alsa-utils 1.0.29-1
+X-Arch-Package-Name=alsa-utils
+X-Arch-Package-Version=1.0.29-1
+X-Arch-Package-Description=An alternative implementation of Linux sound support
+X-Arch-Package-URL=http://www.alsa-project.org
+X-AfterStep-IndexName=alsamixer

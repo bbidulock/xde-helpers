@@ -140,3 +140,7 @@ X-XFCE-CommandsWithParameter=%B -remote "openURL(%s)";%B %s;
 X-AppInstall-Package=iceweasel
 X-AppInstall-Popcon=26537
 X-AppInstall-Section=main
+X-Arch-Package-Name=iceweasel
+X-Arch-Package-Version=.deb-1
+X-Arch-Package-Description=Debian Browser based on Mozilla Firefox
+X-Arch-Package-URL=None

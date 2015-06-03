@@ -1,0 +1,24 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=DVI Viewer
+Comment=DVI viewer for TeX DVI files
+Icon=gnome-word.png
+TryExec=xdvi
+Exec=xdvi
+Terminal=false
+NoDisplay=true
+Categories=Application;Graphics;X-Red-Hat-Extra;
+MimeType=application/x-dvi;
+StartupNotify=false
+X-Desktop-File-Install-Version=0.10
+X-AppInstall-Package=texlive-bin
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package=texlive-bin 2014.34260-8
+X-Arch-Package-Name=texlive-bin
+X-Arch-Package-Version=2014.34260-8
+X-Arch-Package-Description=TeX Live binaries
+X-Arch-Package-URL=http://tug.org/texlive/
+MiniIcon=mini-doc1.xpm

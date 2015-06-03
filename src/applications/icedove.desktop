@@ -80,3 +80,7 @@ X-XFCE-CommandsWithParameter=/usr/lib/xfce4/exo-1/exo-compose-mail-1 mozilla-rem
 X-AppInstall-Package=icedove
 X-AppInstall-Popcon=7616
 X-AppInstall-Section=main
+X-Arch-Package-Name=icedove
+X-Arch-Package-Version=.-1
+X-Arch-Package-Description=A libre version of Debian Icedove, the standalone mail/news reader based on Mozilla Thunderbird. This is ported from Parabola GNU/Linux.
+X-Arch-Package-URL=http://packages.debian.org/sid/

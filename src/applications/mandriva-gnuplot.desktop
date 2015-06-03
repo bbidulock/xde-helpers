@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Gnuplot
+Comment=The famous function plotting program
+Icon=gnuplot
+TryExec=/usr/bin/gnuplot
+Exec=/usr/bin/gnuplot
+Terminal=true
+Categories=Sciences;X-MandrivaLinux-MoreApplications-Sciences-Mathematics;
+StartupNotify=true
+X-AppInstall-Package=gnuplot
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package=gnuplot 5.0.0-3
+X-Arch-Package-Name=gnuplot
+X-Arch-Package-Version=5.0.0-3
+X-Arch-Package-Description=Plotting package which outputs to X11, PostScript, PNG, GIF, and others
+X-Arch-Package-URL=http://www.gnuplot.info

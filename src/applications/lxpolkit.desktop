@@ -1,0 +1,26 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=LXPolKit
+Name[el]=LXPolKit
+Name[pt]=LXPolKit
+Comment=Policykit Authentication Agent
+Comment[el]=Mεσολαβητής Πιστοποίησης Policykit
+Comment[pt]=Agente de autenticação Policykit
+Comment[uk]=Агент авторизації Policykit
+Icon=gtk-dialog-authentication
+TryExec=lxpolkit
+Exec=lxpolkit
+Terminal=false
+Hidden=true
+NotShowIn=GNOME;KDE;
+StartupNotify=false
+X-AppInstall-Package=lxsession
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package=lxsession 1:0.5.2-1
+X-Arch-Package-Name=lxsession
+X-Arch-Package-Version=1:0.5.2-1
+X-Arch-Package-Description=Lightweight X11 session manager
+X-Arch-Package-URL=http://lxde.org/

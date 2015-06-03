@@ -1,0 +1,23 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Mandriva Server Setup
+Name[fr_FR]=Mandriva Serveur Setup
+Comment=Mandriva Server Setup
+Icon=/usr/share/pixmaps/mmc-wizard.png
+TryExec=firefox
+Exec=firefox %u http://127.0.0.1/mmc-wizard
+Terminal=false
+Categories=Settings;
+MimeType=text/html;text/xml;application/xhtml+xml;application/xml;application/rss+xml;application/rdf+xml;
+StartupNotify=false
+StartupWMClass=Firefox-bin
+X-AppInstall-Package=firefox
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package=firefox 38.0.5-1
+X-Arch-Package-Name=firefox
+X-Arch-Package-Version=38.0.5-1
+X-Arch-Package-Description=Standalone web browser from mozilla.org
+X-Arch-Package-URL=https://www.mozilla.org/firefox/

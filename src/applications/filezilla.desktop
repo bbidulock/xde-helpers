@@ -1,0 +1,26 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=FileZilla
+GenericName=FTP client
+GenericName[de]=FTP-Client
+GenericName[fr]=Client FTP
+Comment=Download and upload files via FTP, FTPS and SFTP
+Comment[de]=Dateien über FTP, FTPS und SFTP übertragen
+Comment[fr]=Transférer des fichiers via FTP, FTPS et SFTP
+Icon=filezilla
+TryExec=filezilla
+Exec=filezilla
+Terminal=false
+Categories=Network;FileTransfer;GTK;X-MandrivaLinux-CrossDesktop;
+StartupNotify=false
+X-Desktop-File-Install-Version=0.18
+X-AppInstall-Package=filezilla
+X-AppInstall-Popcon=1524
+X-AppInstall-Section=main
+X-Arch-Package=filezilla 3.11.0.1-1
+X-Arch-Package-Name=filezilla
+X-Arch-Package-Version=3.11.0.1-1
+X-Arch-Package-Description=Fast and reliable FTP, FTPS and SFTP client
+X-Arch-Package-URL=http://filezilla-project.org/

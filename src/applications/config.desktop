@@ -1,0 +1,22 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Feel
+GenericName=Feel
+Icon=normal/Touch
+TryExec=ASRun
+Exec=ASRun --afterstep-config feel
+MultipleArgs=false
+Terminal=false
+Categories=AfterStepConfig;
+StartupNotify=false
+X-AppInstall-Package=afterstep-git
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package=afterstep-git 2.2.12.r18.g4f62e0d-1
+X-Arch-Package-Name=afterstep-git
+X-Arch-Package-Version=2.2.12.r18.g4f62e0d-1
+X-Arch-Package-Description=A Window Manager based on NextStep Interface
+X-Arch-Package-URL=http://www.afterstep.org
+X-AfterStep-ASModule=true

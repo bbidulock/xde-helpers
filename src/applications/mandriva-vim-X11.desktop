@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=VI editor
+Comment=All-purpose text editor
+Icon=gvim
+TryExec=/usr/bin/gvim
+Exec=/usr/bin/gvim -f
+Terminal=false
+Categories=Utility;TextEditor;Gtk;
+MimeType=text/plain;
+StartupNotify=false
+X-AppInstall-Package=vim-gtk2
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package=vim-gtk2 7.4.712-1
+X-Arch-Package-Name=vim-gtk2
+X-Arch-Package-Version=7.4.712-1
+X-Arch-Package-Description=Vi Improved, a highly configurable, improved version of the vi text editor (with advanced features, such as a GUI)
+X-Arch-Package-URL=http://www.vim.org

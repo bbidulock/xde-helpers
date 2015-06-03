@@ -84,6 +84,7 @@ X-GNOME-WMSettingsModule=Fvwm
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=Fvwm
 X-GNOME-Bugzilla-Component=general
+DesktopNames=FVWM
 Actions=XDE;
 
 [Desktop Action XDE]
@@ -91,8 +92,10 @@ Name=XDE
 Icon=xde
 Exec=xde-session -desktop FVWM1 -startwm fvwm1
 Comment=Fvwm1 in an XDE session
+DesktopNames=XDE:FVWM
 
 [Window Manager]
+Name=Fvwm
 SessionManaged=true
 StartupNotification=false
 X-XDE-Managed=true
