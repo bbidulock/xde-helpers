@@ -204,7 +204,6 @@ Icon=accessories-calculator
 TryExec=gcalctool
 Exec=gcalctool
 Terminal=false
-OnlyShowIn=GNOME;XFCE;
 NotShowIn=KDE;
 Categories=Utility;Calculator;GNOME;GTK;
 StartupNotify=true
