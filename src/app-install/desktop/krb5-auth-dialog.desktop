@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Network Authentication
+Name[nb]=Nettverksautentisering
+Comment=Kerberos Network Authentication Dialog
+TryExec=krb5-auth-dialog
+Exec=krb5-auth-dialog --sm-disable
+Terminal=false
+StartupNotify=false
+X-AppInstall-Package=krb5-auth-dialog
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package-Name=krb5-auth-dialog
+X-Arch-Package-Version=3.15.4-1
+X-Arch-Package-Description=Monitors Kerberos tickets and pops up a dialog when they are
+X-Arch-Package-URL=https://honk.sigxcpu.org/piki/projects/krb5-auth-dialog/
+Comments=Kerberos Network Authentication Dialog

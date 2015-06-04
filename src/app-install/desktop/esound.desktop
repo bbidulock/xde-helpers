@@ -1,0 +1,22 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=esound
+Comment=A sounddaemon for Enlightenment and GNOME
+Comment[de]=Esound - der Enlightenment-Sound-Daemon
+Comment[es]=El demonio de sonido para el Gestor de Ventanas Enlightenment
+Comment[fr]=Esound, le sound daemon pour Enlightenment et eMusic
+Comment[hu]=Hangdémon az Enlightenment és GNOME munkakörnyezetekhez
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/packages/esound/html/index.html
+X-AppInstall-Package=esound
+X-AppInstall-Popcon=202
+X-AppInstall-Section=main
+X-Arch-Package-Name=esound
+X-Arch-Package-Version=0.2.41-4
+X-Arch-Package-Description=Enlightened Sound Daemon
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.tux.org/~ricdude/EsounD.html
+X-Arch-Package-Votes=202

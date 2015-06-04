@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Service
+Terminal=false
+StartupNotify=false
+X-KDE-ServiceTypes=QImageIOPlugins;
+X-AppInstall-Package=dds
+X-AppInstall-Popcon=2
+X-AppInstall-Section=main
+X-Arch-Package-Name=dds
+X-Arch-Package-Version=2.7.0-1
+X-Arch-Package-Description=A bridge double dummy solver
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://privat.bahnhof.se/wb758135/
+X-Arch-Package-Votes=2
+X-KDE-ImageFormat=dds
+X-KDE-MimeType=image/x-dds
+X-KDE-Read=true
+X-KDE-Write=false

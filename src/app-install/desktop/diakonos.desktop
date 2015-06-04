@@ -1,0 +1,23 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Diakonos
+GenericName=Diakonos
+Comment=Diakonos Text Editor
+Icon=text-editor
+TryExec=diakonos
+Exec=diakonos
+Terminal=true
+Categories=Utility;TextEditor;
+StartupNotify=false
+X-AppInstall-Package=diakonos
+X-AppInstall-Popcon=21
+X-AppInstall-Section=main
+X-Arch-Package-Name=diakonos
+X-Arch-Package-Version=0.9.4-1
+X-Arch-Package-Description=A Linux editor for the masses.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://diakonos.pist0s.ca/
+X-Arch-Package-Votes=21
+X-AfterStep-IndexName=diakonos

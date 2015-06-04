@@ -1,0 +1,22 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=edict
+Comment=The Japanese dictionary files of Jim Breen's EDICT project
+Comment[de]=Die Japanischen Wörterbuchdateien aus Jim Breens EDICT Projekt.
+Comment[es]=Archivos del diccionario japonés del proyecto EDICT de Jim Breen
+Comment[fr]=dictionnaire électronique anglais/japonais
+Comment[hu]=Angol-japán szótár Jim Breen EDICT projektjéhez
+Terminal=false
+StartupNotify=false
+DocPath=/usr/share/doc/packages/edict/edict_doc.html
+X-AppInstall-Package=edict
+X-AppInstall-Popcon=2
+X-AppInstall-Section=main
+X-Arch-Package-Name=edict
+X-Arch-Package-Version=20140729-1
+X-Arch-Package-Description=A Japanese-English Dictionary file.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.csse.monash.edu.au/~jwb/edict.html
+X-Arch-Package-Votes=2

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Compiz
+Name[en_US]=Compiz
+Icon=/usr/share/pixmaps/xgl-settings-capplet.svg
+Icon[en_US]=/usr/share/pixmaps/xgl-settings-capplet.svg
+TryExec=compiz-manager
+Exec=compiz-manager
+Terminal=false
+StartupNotify=false
+X-AppInstall-Package=compiz
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package-Name=compiz
+X-Arch-Package-Version=0.9.12.1-4
+X-Arch-Package-Description=Composite manager for Aiglx and Xgl, with plugins and CCSM
+X-Arch-Package-URL=https://launchpad.net/compiz

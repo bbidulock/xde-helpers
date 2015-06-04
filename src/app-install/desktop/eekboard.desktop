@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Eekboard
+GenericName=Eekboard Virtual Keyboard
+Comment=Virtual Keyboard
+Icon=eekboard
+TryExec=eekboard
+Exec=eekboard
+Terminal=false
+Categories=Utility;GTK;
+StartupNotify=false
+X-AppInstall-Package=eekboard
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package-Name=eekboard
+X-Arch-Package-Version=1.0.8-2
+X-Arch-Package-Description=Yet Another Virtual Keyboard for Gnome.
+X-Arch-Package-URL=https://github.com/ueno/eekboard
