@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Standalone System Tray
+GenericName=System Tray Icon
+Comment=A stand-alone system tray.
+TryExec=/usr/bin/stalonetray
+Exec=stalonetray
+Terminal=false
+Categories=TrayIcon;System;Administration;
+StartupNotify=false
+X-AppInstall-Package=stalonetray
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package=stalonetray 0.8.3-1
+X-Arch-Package-Name=stalonetray
+X-Arch-Package-Version=0.8.3-1
+X-Arch-Package-Description=STAnd-aLONE sysTRAY. It has minimal build and run-time dependencies: the Xlib only.
+X-Arch-Package-URL=http://stalonetray.sourceforge.net

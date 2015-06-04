@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Pstree
+Icon=/usr/share/pixmaps/pstree16.xpm
+TryExec=pstree.x11
+Exec=pstree.x11
+Terminal=true
+Categories=System;Monitoring;
+StartupNotify=false
+X-AppInstall-Package=psmisc
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package=psmisc 22.21-2
+X-Arch-Package-Name=psmisc
+X-Arch-Package-Version=22.21-2
+X-Arch-Package-Description=Miscellaneous procfs tools
+X-Arch-Package-URL=http://psmisc.sourceforge.net/index.html

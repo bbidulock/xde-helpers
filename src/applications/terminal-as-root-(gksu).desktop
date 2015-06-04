@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=X-Terminal as root (GKsu)
+Comment=Runs an X terminal application. Uses GKsu to ask the password.
+Icon=/usr/share/pixmaps/gksu-debian.xpm
+TryExec=gksu
+Exec=gksu -u root /usr/bin/x-terminal-emulator
+Terminal=false
+Categories=System;TerminalEmulator;
+StartupNotify=false
+X-AppInstall-Package=gksu
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package=gksu 2.0.2-5
+X-Arch-Package-Name=gksu
+X-Arch-Package-Version=2.0.2-5
+X-Arch-Package-Description=A graphical frontend for su
+X-Arch-Package-URL=http://www.nongnu.org/gksu/index.html

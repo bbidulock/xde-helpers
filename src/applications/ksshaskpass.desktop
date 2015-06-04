@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=SSH AskPass
+GenericName=ssh-add
+Comment=Enter passphrase to authenticate to the ssh agent
+Icon=ssh-askpass-gnome
+TryExec=/usr/bin/ssh-add
+Exec=/usr/bin/ssh-add
+Terminal=false
+Categories=Network;Security;
+StartupNotify=false
+X-AppInstall-Package=openssh
+X-AppInstall-Popcon=62
+X-AppInstall-Section=main
+X-Arch-Package=openssh 6.8p1-3
+X-Arch-Package-Name=openssh
+X-Arch-Package-Version=6.8p1-3
+X-Arch-Package-Description=Free version of the SSH connectivity tools
+X-Arch-Package-URL=http://www.openssh.org/portable.html

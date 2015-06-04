@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=ImageMagick Image Viewer
+GenericName=Image Viewer
+Comment=X application for displaying and manipulating images
+Icon=imagic
+TryExec=display
+Exec=display
+Terminal=false
+Categories=Graphics;
+StartupNotify=false
+X-AppInstall-Package=imagemagick
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package=imagemagick 6.9.1.2-1
+X-Arch-Package-Name=imagemagick
+X-Arch-Package-Version=6.9.1.2-1
+X-Arch-Package-Description=An image viewing/manipulation program
+X-Arch-Package-URL=http://www.imagemagick.org/

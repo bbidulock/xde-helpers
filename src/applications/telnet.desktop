@@ -1,0 +1,18 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Telnet
+TryExec=telnet
+Exec=telnet
+Terminal=true
+Categories=Network;RemoteAccess;
+StartupNotify=false
+X-AppInstall-Package=inetutils
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package=inetutils 1.9.3-1
+X-Arch-Package-Name=inetutils
+X-Arch-Package-Version=1.9.3-1
+X-Arch-Package-Description=A collection of common network programs
+X-Arch-Package-URL=http://www.gnu.org/software/inetutils/

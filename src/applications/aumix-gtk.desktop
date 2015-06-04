@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=aumix
+GenericName=Audio Mixer
+Comment=Simple mixer control program
+Icon=aumix
+TryExec=aumix
+Exec=aumix
+Terminal=false
+Categories=AudioVideo;Audio;Player;
+StartupNotify=false
+X-AppInstall-Package=aumix
+X-AppInstall-Popcon=102
+X-AppInstall-Section=main
+X-Arch-Package=aumix 2.9.1-5
+X-Arch-Package-Name=aumix
+X-Arch-Package-Version=2.9.1-5
+X-Arch-Package-Description=A color text mode sound mixer with GPM support
+X-Arch-Package-URL=http://www.jpj.net/~trevor/aumix.html

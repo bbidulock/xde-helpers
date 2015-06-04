@@ -1,0 +1,24 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=VI
+GenericName=VI
+Comment=VI Text Editor
+Icon=gvim
+TryExec=vi
+Exec=vi
+Terminal=true
+Categories=Utility;TextEditor;
+MimeType=text/english;text/plain;text/x-makefile;text/x-c++hdr;text/x-c++src;text/x-chdr;text/x-csrc;text/x-java;text/x-moc;text/x-pascal;text/x-tcl;text/x-tex;application/x-shellscript;text/x-c;text/x-c++;
+StartupNotify=false
+X-AppInstall-Package=vi
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package=vi 1:070224-1
+X-Arch-Package-Name=vi
+X-Arch-Package-Version=1:070224-1
+X-Arch-Package-Description=The original ex/vi text editor
+X-Arch-Package-URL=http://ex-vi.sourceforge.net/
+X-AfterStep-IndexName=vi
+X-XClassHintResName=VIM

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Bazaar Explorer
+GenericName=Version Control GUI
+Comment=GUI application for using Bazaar
+Icon=bzr-explorer
+TryExec=bzr
+Exec=bzr explorer
+Terminal=false
+Categories=Development;RevisionControl;
+StartupNotify=false
+X-AppInstall-Package=bzr
+X-AppInstall-Popcon=7
+X-AppInstall-Section=main
+X-Arch-Package=bzr 2.6.0-1
+X-Arch-Package-Name=bzr
+X-Arch-Package-Version=2.6.0-1
+X-Arch-Package-Description=A decentralized revision control system (bazaar)
+X-Arch-Package-URL=http://bazaar.canonical.com/en/

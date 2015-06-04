@@ -1,0 +1,26 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Rygel
+Name[en_GB]=Rygel
+GenericName=UPnP/DLNA Services
+GenericName[en_GB]=UPnP/DLNA Services
+Comment=UPnP/DLNA Services
+TryExec=dbus-send
+Exec=dbus-send --type=method_call --dest=org.freedesktop.DBus /org/freedesktop/DBus org.freedesktop.DBus.StartServiceByName string:org.gnome.Rygel1 uint32:0
+Terminal=false
+StartupNotify=true
+X-GNOME-Autostart-enabled=true
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=Rygel
+X-GNOME-Bugzilla-Component=general
+X-GNOME-Bugzilla-Version=0.6.0
+X-AppInstall-Package=dbus
+X-AppInstall-Popcon=35
+X-AppInstall-Section=main
+X-Arch-Package=dbus 1.8.16-2
+X-Arch-Package-Name=dbus
+X-Arch-Package-Version=1.8.16-2
+X-Arch-Package-Description=Freedesktop.org message bus system
+X-Arch-Package-URL=http://www.freedesktop.org/Software/dbus

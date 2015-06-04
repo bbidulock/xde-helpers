@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=XKill
+Comment=Kill a client by its X resource
+Icon=xkill
+TryExec=xkill
+Exec=xkill
+Terminal=false
+NoDisplay=true
+Categories=System;Monitor;
+StartupNotify=true
+X-AppInstall-Package=xorg-xkill
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package=xorg-xkill 1.0.4-1
+X-Arch-Package-Name=xorg-xkill
+X-Arch-Package-Version=1.0.4-1
+X-Arch-Package-Description=Kill a client by its X resource
+X-Arch-Package-URL=http://xorg.freedesktop.org/

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Xbiff
+Comment=Xbiff: mailbox flag for X
+TryExec=xbiff
+Exec=xbiff
+Terminal=false
+Categories=Network;Email;
+StartupNotify=false
+X-AppInstall-Package=xorg-xbiff
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package=xorg-xbiff 1.0.3-3
+X-Arch-Package-Name=xorg-xbiff
+X-Arch-Package-Version=1.0.3-3
+X-Arch-Package-Description=Watch mailboxes for new message delivery
+X-Arch-Package-URL=http://xorg.freedesktop.org/

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=X Fishtank
+GenericName=Desktop Background
+Comment=Animated aquarium background on your screen with tropical fish.
+Icon=wallpaper
+TryExec=xfishtank
+Exec=xfisktank
+Terminal=false
+Categories=AfterStepDesktop;
+StartupNotify=false
+X-AppInstall-Package=xfishtank
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package=xfishtank 2.5-1
+X-Arch-Package-Name=xfishtank
+X-Arch-Package-Version=2.5-1
+X-Arch-Package-Description=Fish swimming across your Root Window
+X-Arch-Package-URL=http://jim.rees.org/computers/xfishtank.html
+X-AfterStep-IndexName=xfishtank

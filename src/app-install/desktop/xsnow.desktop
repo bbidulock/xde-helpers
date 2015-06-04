@@ -1,0 +1,22 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=X Snow
+GenericName=Desktop Background
+Comment=Application that snows on the root, in-between, and on windows.
+Icon=wallpaper
+TryExec=xsnow
+Exec=xsnow
+Terminal=false
+Categories=AfterStepDesktop;
+StartupNotify=false
+X-AppInstall-Package=xsnow
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package=xsnow 1.42-6
+X-Arch-Package-Name=xsnow
+X-Arch-Package-Version=1.42-6
+X-Arch-Package-Description=Display snow, Santa and his reindeers on the root window
+X-Arch-Package-URL=http://dropmix.xs4all.nl/rick/Xsnow/
+X-AfterStep-IndexName=xsnow

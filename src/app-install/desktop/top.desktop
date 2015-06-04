@@ -1,0 +1,22 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Top CPU Processes
+GenericName=Top CPU Processes
+Comment=Display top CPU processes
+Icon=utilities-system-monitor
+TryExec=top
+Exec=top
+Terminal=true
+Categories=System;
+StartupNotify=false
+X-AppInstall-Package=procps-ng
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package=procps-ng 3.3.10-2
+X-Arch-Package-Name=procps-ng
+X-Arch-Package-Version=3.3.10-2
+X-Arch-Package-Description=Utilities for monitoring your system and its processes
+X-Arch-Package-URL=http://sourceforge.net/projects/procps-ng/
+X-AfterStep-IndexName=top

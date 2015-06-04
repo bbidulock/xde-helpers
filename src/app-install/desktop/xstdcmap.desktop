@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Reset color map
+GenericName=X Tool
+Comment=X standard colormap utility
+Icon=xlogo
+TryExec=xstdcmap
+Exec=xstdcmap -default
+Terminal=false
+Categories=Application;X-X11;X-XTool;
+StartupNotify=false
+X-AppInstall-Package=xstdcmap
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package=xstdcmap 1.0.3-2
+X-Arch-Package-Name=xstdcmap
+X-Arch-Package-Version=1.0.3-2
+X-Arch-Package-Description=A X standard colormap utility
+X-Arch-Package-URL=http://xorg.freedesktop.org/

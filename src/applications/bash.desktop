@@ -1,0 +1,25 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Bash
+Comment=The GNU Bourne-Again Shell
+Comment[de]=Die GNU Bourne-Again Shell
+Comment[es]=Bourne-Again Shell de GNU
+Comment[fr]=Le Bourne Again shell GNU
+Comment[hu]=GNU Bourne-Again Shell burokprogram
+TryExec=bash
+Exec=bash --login
+Terminal=true
+Categories=Shells;
+StartupNotify=false
+DocPath=/usr/share/doc/packages/bash/bashref.html
+X-AppInstall-Package=bash
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package=bash 4.3.039-1
+X-Arch-Package-Name=bash
+X-Arch-Package-Version=4.3.039-1
+X-Arch-Package-Description=The GNU Bourne Again shell
+X-Arch-Package-URL=http://www.gnu.org/software/bash/bash.html
+TrhExec=bash

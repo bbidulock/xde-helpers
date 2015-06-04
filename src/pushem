@@ -1,0 +1,13 @@
+#!/bin/bash
+
+d1=${1:-applications}
+d2=${2:-original}
+
+for f in $d1/*.desktop
+do
+	n=$(basename "$f")
+	if [ ! -r "$d2/$n" ]
+	then
+		cp -v "$d1/$n" "$d2/$n"
+	fi
+done

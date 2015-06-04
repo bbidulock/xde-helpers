@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=PuTTY Terminal Emulator
+GenericName=Pterm
+Comment=Start a PuTTY terminal session
+Icon=pterm
+TryExec=pterm
+Exec=pterm
+Terminal=false
+Categories=Application;Utility;TerminalEmulator;GTK;
+StartupNotify=false
+X-AppInstall-Package=putty
+X-AppInstall-Popcon=46
+X-AppInstall-Section=main
+X-Arch-Package=putty 0.64-1
+X-Arch-Package-Name=putty
+X-Arch-Package-Version=0.64-1
+X-Arch-Package-Description=A terminal integrated SSH/Telnet client
+X-Arch-Package-URL=http://www.chiark.greenend.org.uk/~sgtatham/putty/

@@ -1,0 +1,23 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Qt3 Configuration
+Name[de]=Qt3 Konfiguration
+Comment=A graphical configuration tool for programs using Qt 3
+Comment[de]=Ein grafisches Konfigurationstool für Qt3-Programme
+Icon=qtconfig
+TryExec=qtconfig-qt3
+Exec=qtconfig-qt3
+Terminal=false
+Categories=Settings;Qt;
+MimeType=application/x-qtconfig;
+StartupNotify=false
+X-AppInstall-Package=qt3
+X-AppInstall-Popcon=121
+X-AppInstall-Section=main
+X-Arch-Package=qt3 1:3.3.8b-9
+X-Arch-Package-Name=qt3
+X-Arch-Package-Version=1:3.3.8b-9
+X-Arch-Package-Description=A cross-platform application and UI framework
+X-Arch-Package-URL=http://qt.io

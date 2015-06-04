@@ -1,0 +1,23 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Qt3 Assistant
+Name[de]=Qt3 Assistent
+Comment=Qt3 Helpcenter
+Comment[de]=Qt3 Hilfezentrum
+Icon=assistant
+TryExec=assistant-qt3
+Exec=assistant-qt3
+Terminal=false
+Categories=Development;Qt;
+MimeType=application/x-assistant;
+StartupNotify=false
+X-AppInstall-Package=qt3
+X-AppInstall-Popcon=403
+X-AppInstall-Section=main
+X-Arch-Package=qt3 1:3.3.8b-9
+X-Arch-Package-Name=qt3
+X-Arch-Package-Version=1:3.3.8b-9
+X-Arch-Package-Description=A cross-platform application and UI framework
+X-Arch-Package-URL=http://qt.io

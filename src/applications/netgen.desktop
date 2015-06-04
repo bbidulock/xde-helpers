@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Netgen Mesh Generator
+GenericName=Netgen
+Comment=3-D finite element mesh generator
+Icon=netgen16x16
+TryExec=sh
+Exec=sh -c 'NETGENDIR=/usr/share/netgen /usr/bin/netgen'
+Terminal=false
+Categories=Education;Science;Math;
+StartupNotify=false
+X-AppInstall-Package=bash
+X-AppInstall-Popcon=21
+X-AppInstall-Section=main
+X-Arch-Package=bash 4.3.039-1
+X-Arch-Package-Name=bash
+X-Arch-Package-Version=4.3.039-1
+X-Arch-Package-Description=The GNU Bourne Again shell
+X-Arch-Package-URL=http://www.gnu.org/software/bash/bash.html

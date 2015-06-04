@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=IDLE
+Comment=Integrated Development Environment for Python
+Icon=/usr/share/pixmaps/idle.xpm
+TryExec=/usr/bin/idle
+Exec=/usr/bin/idle -n
+MultipleArgs=false
+Terminal=false
+Categories=Application;Development;
+StartupNotify=true
+X-AppInstall-Package=python
+X-AppInstall-Popcon=127
+X-AppInstall-Section=main
+X-Arch-Package=python 3.4.3-2
+X-Arch-Package-Name=python
+X-Arch-Package-Version=3.4.3-2
+X-Arch-Package-Description=Next generation of the python high-level scripting language
+X-Arch-Package-URL=http://www.python.org/

@@ -1,0 +1,23 @@
+#!/bin/bash
+
+dirs=(
+	app-install/desktop
+	applications
+	autostart
+	dockapps
+	fallback
+	original
+	trayicons
+	xsessions
+)
+
+for d in ${dirs[@]}
+do
+	n=$(find $d -type f -name '*.desktop'|wc -l)
+	m=$(find $d -type f -name '*.desktop'|xargs grep -L 'X-AppInstall-Package'|wc -l)
+	while [ ${#d} -lt 24 ]; do d="$d "; done
+	while [ ${#n} -lt 6 ]; do n=" $n"; done
+	while [ ${#m} -lt 6 ]; do m=" $m"; done
+	l=${#d}
+	echo -e "count in $d($l)\t\t$n ($m)"
+done

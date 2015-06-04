@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Xedit
+Comment=Xedit: a simple text editor for X
+TryExec=xedit
+Exec=xedit
+Terminal=false
+Categories=Utility;TextEditor;
+StartupNotify=false
+X-AppInstall-Package=xorg-xedit
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package=xorg-xedit 1.2.2-1
+X-Arch-Package-Name=xorg-xedit
+X-Arch-Package-Version=1.2.2-1
+X-Arch-Package-Description=Simple text editor for X
+X-Arch-Package-URL=http://xorg.freedesktop.org/

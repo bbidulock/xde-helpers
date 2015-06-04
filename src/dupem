@@ -1,0 +1,14 @@
+#!/bin/bash
+
+x=${1:-'Categories=.*DockApp;'}
+d1=${2:-dockapps}
+d2=${3:-original}
+
+find $d2 -name '*.desktop'|sort|xargs grep -l "$x"|xargs grep -l 'X-AppInstall-Package'|while read f
+do
+	n=$(basename "$f")
+	if [ ! -r "$d1/$n" ]
+	then
+		cp -v "$d2/$n" "$d1/$n"
+	fi
+done

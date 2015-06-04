@@ -1,0 +1,18 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Sh
+TryExec=sh
+Exec=sh --login
+Terminal=true
+Categories=Shells;
+StartupNotify=false
+X-AppInstall-Package=bash
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package=bash 4.3.039-1
+X-Arch-Package-Name=bash
+X-Arch-Package-Version=4.3.039-1
+X-Arch-Package-Description=The GNU Bourne Again shell
+X-Arch-Package-URL=http://www.gnu.org/software/bash/bash.html

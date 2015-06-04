@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=XTerm (Unicode)
+Comment=XTerm: terminal emulator for X with Unicode support
+Icon=/usr/share/pixmaps/xterm-color_32x32.xpm
+TryExec=uxterm
+Exec=uxterm
+Terminal=false
+Categories=Utility;TerminalEmulator;
+StartupNotify=false
+X-AppInstall-Package=xterm
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package=xterm 318-1
+X-Arch-Package-Name=xterm
+X-Arch-Package-Version=318-1
+X-Arch-Package-Description=X Terminal Emulator
+X-Arch-Package-URL=http://invisible-island.net/xterm/

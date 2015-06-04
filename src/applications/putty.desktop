@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=PuTTY SSH Client
+GenericName=PuTTY
+Comment=Connect to an SSH server with PuTTY
+Icon=putty
+TryExec=putty
+Exec=putty
+Terminal=false
+Categories=Application;Network;GTK;
+StartupNotify=false
+X-AppInstall-Package=putty
+X-AppInstall-Popcon=399
+X-AppInstall-Section=main
+X-Arch-Package=putty 0.64-1
+X-Arch-Package-Name=putty
+X-Arch-Package-Version=0.64-1
+X-Arch-Package-Description=A terminal integrated SSH/Telnet client
+X-Arch-Package-URL=http://www.chiark.greenend.org.uk/~sgtatham/putty/

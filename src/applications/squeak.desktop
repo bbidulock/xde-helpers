@@ -1,0 +1,26 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Squeak
+Name[de_DE]=Squeak
+Name[es_ES]=Squeak
+Comment=Programming system and content development tool
+Comment[de_DE]=Programmier- und Multimediaentwicklungsumgebung
+Comment[es_ES]=Herramienta de desarrollo de contenidos y aplicaciones
+Icon=_usr_share_pixmaps_squeak
+TryExec=squeak
+Exec=squeak
+Terminal=false
+Categories=Application;Development;Education;
+MimeType=application/x-image;application/squeak-image;application/squeak-project;
+StartupNotify=false
+X-AppInstall-Package=squeak-vm
+X-AppInstall-Popcon=236
+X-AppInstall-Section=main
+X-AppInstall-Architectures=amd64,armel,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package=squeak-vm 4.10.2.2614-3
+X-Arch-Package-Name=squeak-vm
+X-Arch-Package-Version=4.10.2.2614-3
+X-Arch-Package-Description=Full-featured implementation of the Smalltalk programming language and environment
+X-Arch-Package-URL=http://squeakvm.org

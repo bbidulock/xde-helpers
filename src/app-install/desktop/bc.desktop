@@ -1,0 +1,18 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Bc
+TryExec=bc
+Exec=bc
+Terminal=true
+Categories=Science;Mathematics;
+StartupNotify=false
+X-AppInstall-Package=bc
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package=bc 1.06.95-1
+X-Arch-Package-Name=bc
+X-Arch-Package-Version=1.06.95-1
+X-Arch-Package-Description=An arbitrary precision calculator language
+X-Arch-Package-URL=http://www.gnu.org/software/bc/

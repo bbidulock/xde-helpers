@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Bazaar Preferences
+Comment=Configure Bazaar settings
+Icon=bzr-icon-64
+TryExec=bzr
+Exec=bzr gpreferences
+Terminal=false
+OnlyShowIn=GNOME;
+Categories=Settings;
+StartupNotify=false
+X-AppInstall-Package=bzr
+X-AppInstall-Popcon=187
+X-AppInstall-Section=main
+X-Arch-Package=bzr 2.6.0-1
+X-Arch-Package-Name=bzr
+X-Arch-Package-Version=2.6.0-1
+X-Arch-Package-Description=A decentralized revision control system (bazaar)
+X-Arch-Package-URL=http://bazaar.canonical.com/en/
