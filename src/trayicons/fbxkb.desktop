@@ -1,0 +1,22 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Fluxbox XKB Switcher
+GenericName=fbxkb 0.6
+Comment=System tray XKB switcher.
+Icon=keyboard
+TryExec=/usr/bin/fbxkb
+Exec=fbxkb
+Terminal=false
+Categories=TrayIcon;System;Utility;GTK;
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
+X-AppInstall-Package=fbxkb
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package=fbxkb 0.6-2
+X-Arch-Package-Name=fbxkb
+X-Arch-Package-Version=0.6-2
+X-Arch-Package-Description=Keyboard indicator and switcher
+X-Arch-Package-URL=http://fbxkb.sourceforge.net/

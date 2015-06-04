@@ -1,0 +1,17 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=XSession
+Name=PekWM
+TryExec=pekwm
+Exec=pekwm
+Terminal=false
+StartupNotify=false
+X-AppInstall-Package=pekwm-git
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+X-Arch-Package=pekwm-git 1:0.1.17.r115.gf055b87-2
+X-Arch-Package-Name=pekwm-git
+X-Arch-Package-Version=1:0.1.17.r115.gf055b87-2
+X-Arch-Package-Description=Small, fast, functional, and flexible window manager
+X-Arch-Package-URL=http://www.pekwm.org/
