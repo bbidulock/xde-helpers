@@ -12,5 +12,11 @@ Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=lmarbles
-X-AppInstall-Popcon=9
+X-AppInstall-Popcon=6
 X-AppInstall-Section=main
+X-Arch-Package-Name=lmarbles
+X-Arch-Package-Version=1.0.8-1
+X-Arch-Package-Description=An Atomix clone with a slight change in concept
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://lgames.sourceforge.net/index.php?project=LMarbles
+X-Arch-Package-Votes=6

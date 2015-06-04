@@ -16,3 +16,7 @@ X-AppInstall-Package=bitstormlite
 X-AppInstall-Popcon=23
 X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Name=bitstormlite
+X-Arch-Package-Version=0.2q-1
+X-Arch-Package-Description=BitStormLite is a BitTorrent Client based on c++/gtk+2.0
+X-Arch-Package-URL=http://sourceforge.net/projects/bbom/

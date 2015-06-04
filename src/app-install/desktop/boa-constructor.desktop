@@ -14,3 +14,7 @@ StartupNotify=true
 X-AppInstall-Package=boa-constructor
 X-AppInstall-Popcon=41
 X-AppInstall-Section=main
+X-Arch-Package-Name=boa-constructor
+X-Arch-Package-Version=0.6.1-4
+X-Arch-Package-Description=Cross platform Python IDE and wxPython GUI Builder
+X-Arch-Package-URL=http://boa-constructor.sourceforge.net/

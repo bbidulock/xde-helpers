@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=boats
 X-AppInstall-Popcon=2
 X-AppInstall-Section=main
+X-Arch-Package-Name=boats
+X-Arch-Package-Version=201004-1
+X-Arch-Package-Description=Boat Scenario is a race drawing tool for sailors. It is your
+X-Arch-Package-URL=http://boats.berlios.de

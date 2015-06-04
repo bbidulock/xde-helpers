@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=byobu
 X-AppInstall-Popcon=140
 X-AppInstall-Section=main
+X-Arch-Package-Name=byobu
+X-Arch-Package-Version=5.90-1
+X-Arch-Package-Description=Enhanced profile and useful notifications for tmux/screen
+X-Arch-Package-URL=https://launchpad.net/byobu

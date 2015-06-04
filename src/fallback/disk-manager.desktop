@@ -31,3 +31,7 @@ StartupNotify=false
 X-AppInstall-Package=disk-manager
 X-AppInstall-Popcon=1107
 X-AppInstall-Section=main
+X-Arch-Package-Name=disk-manager
+X-Arch-Package-Version=1.0.1-3
+X-Arch-Package-Description=A tool to manage filesystems, partitions, and NTFS write mode
+X-Arch-Package-URL=http://flomertens.free.fr/disk-manager/

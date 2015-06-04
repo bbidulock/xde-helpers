@@ -12,3 +12,7 @@ StartupNotify=false
 X-AppInstall-Package=3dchess
 X-AppInstall-Popcon=50
 X-AppInstall-Section=main
+X-Arch-Package-Name=3dchess
+X-Arch-Package-Version=0.8.1-2
+X-Arch-Package-Description=An opensource 3d Chess game for X11. 96 pieces, 26 possible
+X-Arch-Package-URL=http://ibiblio.org/pub/linux/games/strategy

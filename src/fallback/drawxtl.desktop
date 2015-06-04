@@ -15,3 +15,7 @@ StartupNotify=false
 X-AppInstall-Package=drawxtl
 X-AppInstall-Popcon=14
 X-AppInstall-Section=main
+X-Arch-Package-Name=drawxtl
+X-Arch-Package-Version=5.5-2
+X-Arch-Package-Description=Crystal structure visualization tool
+X-Arch-Package-URL=http://www.lwfinger.net/drawxtl/

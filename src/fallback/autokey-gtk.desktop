@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=autokey-gtk
 X-AppInstall-Popcon=29
 X-AppInstall-Section=main
+X-Arch-Package-Name=autokey-gtk
+X-Arch-Package-Version=0.90.4-5
+X-Arch-Package-Description=A text expansion/replacement and hotkey utility for Linux and
+X-Arch-Package-URL=http://code.google.com/p/autokey/

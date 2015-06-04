@@ -47,3 +47,7 @@ StartupNotify=false
 X-AppInstall-Package=evilvte
 X-AppInstall-Popcon=18
 X-AppInstall-Section=main
+X-Arch-Package-Name=evilvte
+X-Arch-Package-Version=0.5.1-2
+X-Arch-Package-Description=VTE based, highly customizable terminal emulator
+X-Arch-Package-URL=http://www.calno.com/evilvte/

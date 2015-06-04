@@ -13,3 +13,7 @@ StartupNotify=true
 X-AppInstall-Package=dreampie
 X-AppInstall-Popcon=11
 X-AppInstall-Section=main
+X-Arch-Package-Name=dreampie
+X-Arch-Package-Version=1.2.1-1
+X-Arch-Package-Description=A Python shell which is designed to be reliable and fun.
+X-Arch-Package-URL=http://dreampie.org

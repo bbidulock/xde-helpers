@@ -16,3 +16,7 @@ StartupNotify=false
 X-AppInstall-Package=childsplay
 X-AppInstall-Popcon=239
 X-AppInstall-Section=main
+X-Arch-Package-Name=childsplay
+X-Arch-Package-Version=2.6.5-2
+X-Arch-Package-Description=A suite of educational games for young children
+X-Arch-Package-URL=http://www.childsplay.mobi

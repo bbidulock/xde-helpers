@@ -12,3 +12,7 @@ StartupNotify=false
 X-AppInstall-Package=connectagram
 X-AppInstall-Popcon=5
 X-AppInstall-Section=main
+X-Arch-Package-Name=connectagram
+X-Arch-Package-Version=1.2.1-1
+X-Arch-Package-Description=A word unscrambling game
+X-Arch-Package-URL=http://gottcode.org/connectagram/

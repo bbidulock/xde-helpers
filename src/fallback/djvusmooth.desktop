@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=djvusmooth
 X-AppInstall-Popcon=16
 X-AppInstall-Section=main
+X-Arch-Package-Name=djvusmooth
+X-Arch-Package-Version=0.2.14-1
+X-Arch-Package-Description=A graphical editor for DjVu documents
+X-Arch-Package-URL=http://jwilk.net/software/djvusmooth

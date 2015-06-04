@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=bluewho
 X-AppInstall-Popcon=30
 X-AppInstall-Section=main
+X-Arch-Package-Name=bluewho
+X-Arch-Package-Version=0.2.1-1
+X-Arch-Package-Description=Information and notification of new discovered bluetooth
+X-Arch-Package-URL=http://www.muflone.com/bluewho

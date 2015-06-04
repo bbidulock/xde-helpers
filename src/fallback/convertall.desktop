@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=convertall
 X-AppInstall-Popcon=40
 X-AppInstall-Section=main
+X-Arch-Package-Name=convertall
+X-Arch-Package-Version=0.6.0-1
+X-Arch-Package-Description=Unit conversion program (Qt)
+X-Arch-Package-URL=http://convertall.bellz.org/

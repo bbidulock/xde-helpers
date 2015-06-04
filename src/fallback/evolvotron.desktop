@@ -12,3 +12,7 @@ StartupNotify=false
 X-AppInstall-Package=evolvotron
 X-AppInstall-Popcon=15
 X-AppInstall-Section=main
+X-Arch-Package-Name=evolvotron
+X-Arch-Package-Version=0.6.3-1
+X-Arch-Package-Description=An interactive generative art application
+X-Arch-Package-URL=http://www.bottlenose.demon.co.uk/share/evolvotron/

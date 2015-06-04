@@ -26,3 +26,7 @@ StartupNotify=true
 X-AppInstall-Package=bibus
 X-AppInstall-Popcon=40
 X-AppInstall-Section=main
+X-Arch-Package-Name=bibus
+X-Arch-Package-Version=1.5.2-5
+X-Arch-Package-Description=A bibliographic database that can directly insert references
+X-Arch-Package-URL=http://sourceforge.net/projects/bibus-biblio/

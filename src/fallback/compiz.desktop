@@ -97,6 +97,10 @@ X-GNOME-WMSettingsModule=compiz
 X-AppInstall-Package=compiz-core
 X-AppInstall-Popcon=2477
 X-AppInstall-Section=main
+X-Arch-Package-Name=compiz-core
+X-Arch-Package-Version=0.8.10-1
+X-Arch-Package-Description=This is the latest stable release of Compiz without DE deps
+X-Arch-Package-URL=http://blog.northfield.ws/compiz-0-8-10-release-announcement/
 X-KDE-WindowManagerConfigure=simple-ccsm
 X-KDE-WindowManagerRestartArgument=--replace
 

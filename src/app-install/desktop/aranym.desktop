@@ -13,3 +13,7 @@ StartupNotify=false
 X-AppInstall-Package=aranym
 X-AppInstall-Popcon=11
 X-AppInstall-Section=main
+X-Arch-Package-Name=aranym
+X-Arch-Package-Version=1.0.2-2
+X-Arch-Package-Description=Atari Running on Any Machine
+X-Arch-Package-URL=http://aranym.sourceforge.net

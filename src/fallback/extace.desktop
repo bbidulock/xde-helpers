@@ -22,3 +22,7 @@ StartupNotify=false
 X-AppInstall-Package=extace
 X-AppInstall-Popcon=8
 X-AppInstall-Section=main
+X-Arch-Package-Name=extace
+X-Arch-Package-Version=1.9.8-1
+X-Arch-Package-Description=a 3D audio visualization tool
+X-Arch-Package-URL=http://extace.sourceforge.net/

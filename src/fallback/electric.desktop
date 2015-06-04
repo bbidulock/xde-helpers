@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=electric
 X-AppInstall-Popcon=35
 X-AppInstall-Section=main
+X-Arch-Package-Name=electric
+X-Arch-Package-Version=9.04-2
+X-Arch-Package-Description=A sophisticated electrical CAD system
+X-Arch-Package-URL=http://www.gnu.org/software/electric/

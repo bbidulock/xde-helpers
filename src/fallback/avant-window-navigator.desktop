@@ -102,3 +102,7 @@ X-AppInstall-Package=avant-window-navigator
 X-AppInstall-Popcon=455
 X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,i386,ia64,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Name=avant-window-navigator
+X-Arch-Package-Version=0.4.2-4
+X-Arch-Package-Description=AWN is a customisable dock-like bar at the edge of the screen.
+X-Arch-Package-URL=https://launchpad.net/awn

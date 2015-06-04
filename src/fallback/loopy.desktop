@@ -12,6 +12,12 @@ Exec=loopy
 Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
-X-AppInstall-Package=sgt-puzzles
-X-AppInstall-Popcon=137
+X-AppInstall-Package=loopy
+X-AppInstall-Popcon=9
 X-AppInstall-Section=main
+X-Arch-Package-Name=loopy
+X-Arch-Package-Version=0.5.3-1
+X-Arch-Package-Description=Simple video player for KDE, based on the phonon libraries.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kde-apps.org/content/show.php/Loopy?content=120880
+X-Arch-Package-Votes=9

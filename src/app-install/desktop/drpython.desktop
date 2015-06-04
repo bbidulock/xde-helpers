@@ -12,3 +12,7 @@ StartupNotify=true
 X-AppInstall-Package=drpython
 X-AppInstall-Popcon=26
 X-AppInstall-Section=main
+X-Arch-Package-Name=drpython
+X-Arch-Package-Version=3.11.3-2
+X-Arch-Package-Description=Python IDE built with wxWidgets
+X-Arch-Package-URL=http://drpython.sourceforge.net/

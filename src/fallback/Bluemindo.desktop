@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=bluemindo
 X-AppInstall-Popcon=12
 X-AppInstall-Section=main
+X-Arch-Package-Name=bluemindo
+X-Arch-Package-Version=0.3-2
+X-Arch-Package-Description=A simple audio player built on PyGTK and GStreamer
+X-Arch-Package-URL=http://bluemindo.codingteam.net/

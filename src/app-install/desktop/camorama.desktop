@@ -99,3 +99,7 @@ X-AppInstall-Package=camorama
 X-AppInstall-Popcon=280
 X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Name=camorama
+X-Arch-Package-Version=0.19-5
+X-Arch-Package-Description=Webcam application featuring various image filters
+X-Arch-Package-URL=http://camorama.fixedgear.org

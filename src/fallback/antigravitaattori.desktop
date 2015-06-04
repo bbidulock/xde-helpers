@@ -12,3 +12,7 @@ StartupNotify=false
 X-AppInstall-Package=antigravitaattori
 X-AppInstall-Popcon=23
 X-AppInstall-Section=main
+X-Arch-Package-Name=antigravitaattori
+X-Arch-Package-Version=0.0.3-3
+X-Arch-Package-Description=a multiplayer flying saucer racing game
+X-Arch-Package-URL=http://luolamies.org/software/antigrav/

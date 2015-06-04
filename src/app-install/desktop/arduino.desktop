@@ -13,3 +13,7 @@ StartupNotify=false
 X-AppInstall-Package=arduino
 X-AppInstall-Popcon=35
 X-AppInstall-Section=main
+X-Arch-Package-Name=arduino
+X-Arch-Package-Version=1.6.4-1
+X-Arch-Package-Description=Arduino prototyping platform SDK
+X-Arch-Package-URL=http://arduino.cc/en/Main/Software

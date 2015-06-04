@@ -63,3 +63,7 @@ StartupNotify=true
 X-AppInstall-Package=chmsee
 X-AppInstall-Popcon=217
 X-AppInstall-Section=main
+X-Arch-Package-Name=chmsee
+X-Arch-Package-Version=2.0.2-10
+X-Arch-Package-Description=A chm (MS HTML help file format) viewer based on xulrunner.
+X-Arch-Package-URL=http://chmsee.googlecode.com/

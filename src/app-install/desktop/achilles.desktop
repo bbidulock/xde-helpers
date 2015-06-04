@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=achilles
 X-AppInstall-Popcon=33
 X-AppInstall-Section=main
+X-Arch-Package-Name=achilles
+X-Arch-Package-Version=2_8-6
+X-Arch-Package-Description=An artificial life and evolution simulator that uses Hebbian
+X-Arch-Package-URL=http://packages.debian.org/achilles

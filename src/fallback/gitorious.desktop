@@ -75,6 +75,15 @@ ServiceTypes=SearchProvider;
 Terminal=false
 Hidden=false
 StartupNotify=false
+X-AppInstall-Package=gitorious
+X-AppInstall-Popcon=7
+X-AppInstall-Section=main
+X-Arch-Package-Name=gitorious
+X-Arch-Package-Version=2.4.6-1
+X-Arch-Package-Description=Gitorious aims to provide a great way of doing distributed
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gitorious.org/gitorious
+X-Arch-Package-Votes=7
 Keys=gitorious,gt
 Query=https://gitorious.org/search?q=\\{@}&commit=Search
 Query[ar]=https://gitorious.org/search?q=\\{@}&commit=Search

@@ -13,3 +13,7 @@ X-KDE-StartupNotify=false
 X-AppInstall-Package=cutecom
 X-AppInstall-Popcon=80
 X-AppInstall-Section=main
+X-Arch-Package-Name=cutecom
+X-Arch-Package-Version=0.22.0-3
+X-Arch-Package-Description=A graphical serial terminal
+X-Arch-Package-URL=http://cutecom.sourceforge.net

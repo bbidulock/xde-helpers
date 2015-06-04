@@ -14,3 +14,7 @@ X-Desktop-File-Install-Version=0.10
 X-AppInstall-Package=extrema
 X-AppInstall-Popcon=13
 X-AppInstall-Section=main
+X-Arch-Package-Name=extrema
+X-Arch-Package-Version=4.4.5-2
+X-Arch-Package-Description=A powerful visualization and data analysis tool
+X-Arch-Package-URL=http://exsitewebware.com/extrema/index.html

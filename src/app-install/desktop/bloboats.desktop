@@ -13,3 +13,7 @@ StartupNotify=false
 X-AppInstall-Package=bloboats
 X-AppInstall-Popcon=25
 X-AppInstall-Section=main
+X-Arch-Package-Name=bloboats
+X-Arch-Package-Version=1.0.2-1
+X-Arch-Package-Description=A boat racing game reminiscent of Elasto Mania and X-Moto
+X-Arch-Package-URL=http://bloboats.dy.fi/

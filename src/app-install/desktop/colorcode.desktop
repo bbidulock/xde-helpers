@@ -15,3 +15,7 @@ StartupNotify=false
 X-AppInstall-Package=colorcode
 X-AppInstall-Popcon=10
 X-AppInstall-Section=main
+X-Arch-Package-Name=colorcode
+X-Arch-Package-Version=0.7.2-1
+X-Arch-Package-Description=Free MasterMind game clone
+X-Arch-Package-URL=http://colorcode.laebisch.com/

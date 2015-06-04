@@ -14,3 +14,7 @@ StartupNotify=true
 X-AppInstall-Package=carmetal
 X-AppInstall-Popcon=83
 X-AppInstall-Section=main
+X-Arch-Package-Name=carmetal
+X-Arch-Package-Version=3.8.5-1
+X-Arch-Package-Description=A dynamic geometry program using the C.a.R. engine
+X-Arch-Package-URL=http://db-maths.nuxit.net/CaRMetal/

@@ -12,3 +12,7 @@ StartupNotify=false
 X-AppInstall-Package=atris
 X-AppInstall-Popcon=24
 X-AppInstall-Section=main
+X-Arch-Package-Name=atris
+X-Arch-Package-Version=1.0.7-8
+X-Arch-Package-Description=A tetris clone with a lot of cool features
+X-Arch-Package-URL=http://www.wkiri.com/projects/atris/

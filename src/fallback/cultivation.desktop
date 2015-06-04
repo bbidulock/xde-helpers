@@ -12,3 +12,7 @@ StartupNotify=false
 X-AppInstall-Package=cultivation
 X-AppInstall-Popcon=24
 X-AppInstall-Section=main
+X-Arch-Package-Name=cultivation
+X-Arch-Package-Version=9-1
+X-Arch-Package-Description=A social simulation game by Jason Rohrer
+X-Arch-Package-URL=http://cultivation.sourceforge.net/

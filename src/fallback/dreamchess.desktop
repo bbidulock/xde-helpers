@@ -15,3 +15,7 @@ StartupNotify=false
 X-AppInstall-Package=dreamchess
 X-AppInstall-Popcon=56
 X-AppInstall-Section=main
+X-Arch-Package-Name=dreamchess
+X-Arch-Package-Version=0.2.0-7
+X-Arch-Package-Description=An open source chess game with OpenGL graphics and various
+X-Arch-Package-URL=http://www.dreamchess.org/

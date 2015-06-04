@@ -47,3 +47,7 @@ StartupNotify=false
 X-AppInstall-Package=alexandria
 X-AppInstall-Popcon=53
 X-AppInstall-Section=main
+X-Arch-Package-Name=alexandria
+X-Arch-Package-Version=0.6.7-1
+X-Arch-Package-Description=A GNOME application to help you manage your book collection
+X-Arch-Package-URL=http://alexandria.rubyforge.org

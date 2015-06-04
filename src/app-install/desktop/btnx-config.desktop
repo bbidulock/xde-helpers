@@ -13,3 +13,7 @@ X-AppInstall-Package=btnx-config
 X-AppInstall-Popcon=39
 X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Name=btnx-config
+X-Arch-Package-Version=0.4.9-1
+X-Arch-Package-Description=Button Extension- a GNU/GPL mouse tool for GNU/Linux
+X-Arch-Package-URL=https://launchpad.net/btnx-config

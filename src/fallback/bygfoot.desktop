@@ -13,3 +13,7 @@ StartupNotify=false
 X-AppInstall-Package=bygfoot
 X-AppInstall-Popcon=17
 X-AppInstall-Section=main
+X-Arch-Package-Name=bygfoot
+X-Arch-Package-Version=2.3.2-3
+X-Arch-Package-Description=Football (a.k.a. soccer) management game
+X-Arch-Package-URL=http://www.bygfoot.com/

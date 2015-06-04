@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=burgerspace
 X-AppInstall-Popcon=36
 X-AppInstall-Section=main
+X-Arch-Package-Name=burgerspace
+X-Arch-Package-Version=1.9.2-1
+X-Arch-Package-Description=A clone of the 1982 BurgerTime video game by Data East
+X-Arch-Package-URL=http://perso.b2b2c.ca/sarrazip/dev/burgerspace.html

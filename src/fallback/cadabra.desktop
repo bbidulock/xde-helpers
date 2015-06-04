@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=cadabra
 X-AppInstall-Popcon=13
 X-AppInstall-Section=main
+X-Arch-Package-Name=cadabra
+X-Arch-Package-Version=1.33-3
+X-Arch-Package-Description=Cadabra is a computer algebra system (CAS)
+X-Arch-Package-URL=http://cadabra.phi-sci.com/

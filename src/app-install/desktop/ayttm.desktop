@@ -13,3 +13,7 @@ StartupNotify=false
 X-AppInstall-Package=ayttm
 X-AppInstall-Popcon=25
 X-AppInstall-Section=main
+X-Arch-Package-Name=ayttm
+X-Arch-Package-Version=0.6.3-1
+X-Arch-Package-Description=Unified instant messenger client
+X-Arch-Package-URL=http://ayttm.sourceforge.net/

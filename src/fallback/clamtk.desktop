@@ -75,3 +75,7 @@ StartupNotify=false
 X-AppInstall-Package=clamtk
 X-AppInstall-Popcon=385
 X-AppInstall-Section=main
+X-Arch-Package-Name=clamtk
+X-Arch-Package-Version=5.18-1
+X-Arch-Package-Description=GUI front-end for ClamAV using Perl and Gtk libraries. It is
+X-Arch-Package-URL=http://code.google.com/p/clamtk/

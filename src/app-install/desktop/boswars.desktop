@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=boswars
 X-AppInstall-Popcon=65
 X-AppInstall-Section=main
+X-Arch-Package-Name=boswars
+X-Arch-Package-Version=2.7-5
+X-Arch-Package-Description=Futuristic real-time strategy game
+X-Arch-Package-URL=http://www.boswars.org

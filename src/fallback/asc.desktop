@@ -18,3 +18,7 @@ DocPath=/usr/share/doc/packages/asc/doc/source.html
 X-AppInstall-Package=asc
 X-AppInstall-Popcon=34
 X-AppInstall-Section=main
+X-Arch-Package-Name=asc
+X-Arch-Package-Version=2.6.0.0-1
+X-Arch-Package-Description=Advanced Strategic Command is a turn based strategy game in
+X-Arch-Package-URL=http://www.asc-hq.org/

@@ -13,3 +13,7 @@ StartupNotify=false
 X-AppInstall-Package=alex4
 X-AppInstall-Popcon=38
 X-AppInstall-Section=main
+X-Arch-Package-Name=alex4
+X-Arch-Package-Version=1.1-5
+X-Arch-Package-Description=Help Alex the Allegator rescue Lola before the humans make a
+X-Arch-Package-URL=http://allegator.sourceforge.net

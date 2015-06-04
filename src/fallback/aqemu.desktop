@@ -23,3 +23,7 @@ X-AppInstall-Package=aqemu
 X-AppInstall-Popcon=53
 X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,i386,powerpc,sparc
+X-Arch-Package-Name=aqemu
+X-Arch-Package-Version=0.8.2-4
+X-Arch-Package-Description=QEMU GUI written in Qt4
+X-Arch-Package-URL=http://sourceforge.net/projects/aqemu/

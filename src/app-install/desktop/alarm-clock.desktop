@@ -23,3 +23,7 @@ StartupNotify=false
 X-AppInstall-Package=alarm-clock
 X-AppInstall-Popcon=142
 X-AppInstall-Section=main
+X-Arch-Package-Name=alarm-clock
+X-Arch-Package-Version=1.4.3-2
+X-Arch-Package-Description=Alarm clock to schedule your tasks
+X-Arch-Package-URL=http://gnome-automate.net/

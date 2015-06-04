@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=emu8051
 X-AppInstall-Popcon=8
 X-AppInstall-Section=main
+X-Arch-Package-Name=emu8051
+X-Arch-Package-Version=2.0.1-1
+X-Arch-Package-Description=Emulator and simulator for 8051 microcontrollers
+X-Arch-Package-URL=http://www.hugovil.com/fr/emu8051/index.html

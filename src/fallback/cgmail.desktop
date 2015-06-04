@@ -14,3 +14,7 @@ StartupNotify=true
 X-AppInstall-Package=cgmail
 X-AppInstall-Popcon=55
 X-AppInstall-Section=main
+X-Arch-Package-Name=cgmail
+X-Arch-Package-Version=0.6.2-4
+X-Arch-Package-Description=An email checker and notifier applet for gmail
+X-Arch-Package-URL=http://cgmail.tuxfamily.org/

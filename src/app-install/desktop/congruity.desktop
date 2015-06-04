@@ -11,3 +11,7 @@ StartupNotify=false
 X-AppInstall-Package=congruity
 X-AppInstall-Popcon=6
 X-AppInstall-Section=main
+X-Arch-Package-Name=congruity
+X-Arch-Package-Version=18-2
+X-Arch-Package-Description=A GUI application for programming Logitech(R) Harmony(TM)
+X-Arch-Package-URL=http://congruity.sourceforge.net/

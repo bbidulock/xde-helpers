@@ -22,3 +22,7 @@ StartupNotify=false
 X-AppInstall-Package=eiskaltdcpp
 X-AppInstall-Popcon=43
 X-AppInstall-Section=main
+X-Arch-Package-Name=eiskaltdcpp
+X-Arch-Package-Version=-3
+X-Arch-Package-Description=None
+X-Arch-Package-URL=http://code.google.com/p/eiskaltdc/

@@ -44,3 +44,7 @@ StartupNotify=false
 X-AppInstall-Package=exaile
 X-AppInstall-Popcon=326
 X-AppInstall-Section=main
+X-Arch-Package-Name=exaile
+X-Arch-Package-Version=3.4.4-1
+X-Arch-Package-Description=A full-featured Amarok-style media player for GTK+
+X-Arch-Package-URL=http://www.exaile.org

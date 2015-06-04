@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=enemylines7
 X-AppInstall-Popcon=13
 X-AppInstall-Section=main
+X-Arch-Package-Name=enemylines7
+X-Arch-Package-Version=0.8-3
+X-Arch-Package-Description=Enemy lines - computer game series
+X-Arch-Package-URL=http://proj.phk.at/el/7/

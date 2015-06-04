@@ -13,3 +13,7 @@ StartupNotify=true
 X-AppInstall-Package=earcandy
 X-AppInstall-Popcon=28
 X-AppInstall-Section=main
+X-Arch-Package-Name=earcandy
+X-Arch-Package-Version=0.9-3
+X-Arch-Package-Description=Automatic pulseaudio volume control. A sound level manager
+X-Arch-Package-URL=https://launchpad.net/earcandy

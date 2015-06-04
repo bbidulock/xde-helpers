@@ -16,3 +16,7 @@ StartupNotify=false
 X-AppInstall-Package=basic256
 X-AppInstall-Popcon=18
 X-AppInstall-Section=main
+X-Arch-Package-Name=basic256
+X-Arch-Package-Version=1.1.4.0-1
+X-Arch-Package-Description=Educational BASIC programming environment
+X-Arch-Package-URL=http://www.basic256.org/

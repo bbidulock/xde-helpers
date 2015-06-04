@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=bkchem
 X-AppInstall-Popcon=35
 X-AppInstall-Section=main
+X-Arch-Package-Name=bkchem
+X-Arch-Package-Version=0.14.0_pre2-3
+X-Arch-Package-Description=Chemical drawing program
+X-Arch-Package-URL=http://bkchem.zirael.org

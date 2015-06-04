@@ -18,3 +18,7 @@ StartupNotify=false
 X-AppInstall-Package=eiciel
 X-AppInstall-Popcon=136
 X-AppInstall-Section=main
+X-Arch-Package-Name=eiciel
+X-Arch-Package-Version=0.9.8.1-1
+X-Arch-Package-Description=GNOME file ACL editor
+X-Arch-Package-URL=http://rofi.roger-ferrer.org/eiciel/

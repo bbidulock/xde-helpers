@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=einstein
 X-AppInstall-Popcon=77
 X-AppInstall-Section=main
+X-Arch-Package-Name=einstein
+X-Arch-Package-Version=2.0-4
+X-Arch-Package-Description=Remake of old DOS game Sherlock which was inspired by Albert
+X-Arch-Package-URL=http://web.archive.org/web/20120521062745/http://games.flowix.com/en/index.html

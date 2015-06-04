@@ -13,3 +13,7 @@ StartupNotify=false
 X-AppInstall-Package=berusky
 X-AppInstall-Popcon=23
 X-AppInstall-Section=main
+X-Arch-Package-Name=berusky
+X-Arch-Package-Version=1.7-1
+X-Arch-Package-Description=A logic game based on the puzzle game Sokoban
+X-Arch-Package-URL=http://anakreon.cz/?q=node/1

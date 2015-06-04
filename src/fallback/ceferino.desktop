@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=ceferino
 X-AppInstall-Popcon=111
 X-AppInstall-Section=main
+X-Arch-Package-Name=ceferino
+X-Arch-Package-Version=0.97.8-3
+X-Arch-Package-Description=Super-Pang clone (destroy bouncing balloons with your grapnel)
+X-Arch-Package-URL=http://www.loosersjuegos.com.ar/juegos/ceferino

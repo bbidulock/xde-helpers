@@ -93,3 +93,7 @@ StartupNotify=false
 X-AppInstall-Package=conduit
 X-AppInstall-Popcon=94
 X-AppInstall-Section=main
+X-Arch-Package-Name=conduit
+X-Arch-Package-Version=0.3.17-9
+X-Arch-Package-Description=Synchronization for GNOME
+X-Arch-Package-URL=http://live.gnome.org/Conduit

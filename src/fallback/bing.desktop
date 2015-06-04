@@ -73,6 +73,15 @@ Name[zh_TW]=Bing
 Terminal=false
 StartupNotify=false
 X-KDE-ServiceTypes=SearchProvider;
+X-AppInstall-Package=bing
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main
+X-Arch-Package-Name=bing
+X-Arch-Package-Version=1.1.3-4
+X-Arch-Package-Description=Measure the bandwidth between two hosts using the ICMP
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://fgouget.free.fr/bing/bing_src-readme-1st.shtml
+X-Arch-Package-Votes=8
 Keys=bing
 Query=http://www.bing.com/search?q=\\{@}
 Query[ar]=http://www.bing.com/search?q=\\{@}

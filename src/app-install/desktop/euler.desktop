@@ -16,3 +16,7 @@ StartupNotify=false
 X-AppInstall-Package=euler
 X-AppInstall-Popcon=41
 X-AppInstall-Section=main
+X-Arch-Package-Name=euler
+X-Arch-Package-Version=1.61.0-7
+X-Arch-Package-Description=A mathematical programming environment similar to Matlab and
+X-Arch-Package-URL=http://euler.sourceforge.net/

@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=abraca
 X-AppInstall-Popcon=59
 X-AppInstall-Section=main
+X-Arch-Package-Name=abraca
+X-Arch-Package-Version=0.7.1-5
+X-Arch-Package-Description=A GTK3 client for the XMMS2 music player, with a focus on
+X-Arch-Package-URL=http://abraca.github.com/Abraca/

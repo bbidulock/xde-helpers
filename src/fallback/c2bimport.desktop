@@ -18,3 +18,7 @@ StartupNotify=false
 X-AppInstall-Package=cb2bib
 X-AppInstall-Popcon=10
 X-AppInstall-Section=main
+X-Arch-Package-Name=cb2bib
+X-Arch-Package-Version=1.4.9-2
+X-Arch-Package-Description=A tool for parsing clipboard data into BibTeX bibliographic
+X-Arch-Package-URL=http://www.molspaces.com/cb2bib/

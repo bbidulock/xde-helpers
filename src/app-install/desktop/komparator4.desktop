@@ -14,6 +14,12 @@ Terminal=false
 Categories=Utility;Archiving;KDE;Qt;
 StartupNotify=false
 X-DocPath=komparator4/index.html
-X-AppInstall-Package=komparator
-X-AppInstall-Popcon=71
+X-AppInstall-Package=komparator4
+X-AppInstall-Popcon=7
 X-AppInstall-Section=main
+X-Arch-Package-Name=komparator4
+X-Arch-Package-Version=1.0-1
+X-Arch-Package-Description=An application for KDE4 that searches and synchronizes two
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kde-apps.org/content/show.php/komparator4?content=116039
+X-Arch-Package-Votes=7

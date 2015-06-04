@@ -14,3 +14,7 @@ StartupNotify=true
 X-AppInstall-Package=artha
 X-AppInstall-Popcon=34
 X-AppInstall-Section=main
+X-Arch-Package-Name=artha
+X-Arch-Package-Version=1.0.3-4
+X-Arch-Package-Description=A free cross-platform English thesaurus based on WordNet
+X-Arch-Package-URL=http://artha.sourceforge.net/wiki/index.php/Home

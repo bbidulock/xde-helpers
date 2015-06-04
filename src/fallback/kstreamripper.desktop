@@ -11,5 +11,11 @@ Terminal=false
 Categories=AudioVideo;Audio;Tuner;Recorder;
 StartupNotify=false
 X-AppInstall-Package=kstreamripper
-X-AppInstall-Popcon=70
+X-AppInstall-Popcon=22
 X-AppInstall-Section=main
+X-Arch-Package-Name=kstreamripper
+X-Arch-Package-Version=0.7.100-1
+X-Arch-Package-Description=A program for recording Internet radios and other streams.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.kde-apps.org/content/show.php?content=78068
+X-Arch-Package-Votes=22

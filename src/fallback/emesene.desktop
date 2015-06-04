@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=emesene
 X-AppInstall-Popcon=550
 X-AppInstall-Section=main
+X-Arch-Package-Name=emesene
+X-Arch-Package-Version=2.12.9-4
+X-Arch-Package-Description=Chat program that allows you to connect to different networks
+X-Arch-Package-URL=http://www.emesene.org/

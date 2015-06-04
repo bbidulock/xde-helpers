@@ -18,3 +18,7 @@ X-DocPath=bangarang/index.html
 X-AppInstall-Package=bangarang
 X-AppInstall-Popcon=48
 X-AppInstall-Section=main
+X-Arch-Package-Name=bangarang
+X-Arch-Package-Version=2.1-4
+X-Arch-Package-Description=Simple KDE media player.
+X-Arch-Package-URL=http://bangarangkde.wordpress.com/

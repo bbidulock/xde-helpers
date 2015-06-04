@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=alienblaster
 X-AppInstall-Popcon=22
 X-AppInstall-Section=main
+X-Arch-Package-Name=alienblaster
+X-Arch-Package-Version=1.1.0-3
+X-Arch-Package-Description=Action-loaded 2D arcade shooter game with Fedora's patches
+X-Arch-Package-URL=http://www.schwardtnet.de/alienblaster/

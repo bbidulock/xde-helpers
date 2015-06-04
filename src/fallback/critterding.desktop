@@ -14,3 +14,7 @@ StartupNotify=true
 X-AppInstall-Package=critterding
 X-AppInstall-Popcon=11
 X-AppInstall-Section=main
+X-Arch-Package-Name=critterding
+X-Arch-Package-Version=beta14-1
+X-Arch-Package-Description=A Petri dish universe in 3D that demonstrates evolving
+X-Arch-Package-URL=http://critterding.sourceforge.net/

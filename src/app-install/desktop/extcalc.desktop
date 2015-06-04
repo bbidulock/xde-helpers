@@ -12,3 +12,7 @@ StartupNotify=false
 X-AppInstall-Package=extcalc
 X-AppInstall-Popcon=49
 X-AppInstall-Section=main
+X-Arch-Package-Name=extcalc
+X-Arch-Package-Version=0.9.3_1-3
+X-Arch-Package-Description=A multifunctional scientific graphic calculator
+X-Arch-Package-URL=http://extcalc-linux.sourceforge.net

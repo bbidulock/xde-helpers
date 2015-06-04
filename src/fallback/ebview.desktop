@@ -16,3 +16,7 @@ StartupNotify=true
 X-AppInstall-Package=ebview
 X-AppInstall-Popcon=13
 X-AppInstall-Section=main
+X-Arch-Package-Name=ebview
+X-Arch-Package-Version=0.3.6-1
+X-Arch-Package-Description=A GTK-based EPWING dictionary viewer
+X-Arch-Package-URL=http://ebview.sourceforge.net/

@@ -19,3 +19,7 @@ StartupNotify=false
 X-AppInstall-Package=biloba
 X-AppInstall-Popcon=16
 X-AppInstall-Section=main
+X-Arch-Package-Name=biloba
+X-Arch-Package-Version=0.6-1
+X-Arch-Package-Description=An abstract strategy game for 1 to 4 players.
+X-Arch-Package-URL=http://biloba.sf.net/

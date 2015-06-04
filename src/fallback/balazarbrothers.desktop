@@ -13,3 +13,7 @@ StartupNotify=false
 X-AppInstall-Package=balazarbrothers
 X-AppInstall-Popcon=18
 X-AppInstall-Section=main
+X-Arch-Package-Name=balazarbrothers
+X-Arch-Package-Version=1.0rc1-8
+X-Arch-Package-Description=A 3D puzzle and platform game
+X-Arch-Package-URL=http://home.gna.org/oomadness/en/balazar_brothers/

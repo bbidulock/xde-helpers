@@ -23,3 +23,7 @@ StartupNotify=true
 X-AppInstall-Package=decibel-audio-player
 X-AppInstall-Popcon=65
 X-AppInstall-Section=main
+X-Arch-Package-Name=decibel-audio-player
+X-Arch-Package-Version=1.08-3
+X-Arch-Package-Description=Decibel audio player for GNOME desktop
+X-Arch-Package-URL=http://decibel.silent-blade.org/

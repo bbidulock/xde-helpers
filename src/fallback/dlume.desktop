@@ -14,3 +14,7 @@ X-SingleInstance=true
 X-AppInstall-Package=dlume
 X-AppInstall-Popcon=9
 X-AppInstall-Section=main
+X-Arch-Package-Name=dlume
+X-Arch-Package-Version=0.2.4-5
+X-Arch-Package-Description=A handy and easy to use addressbook
+X-Arch-Package-URL=https://launchpad.net/ubuntu/+source/dlume

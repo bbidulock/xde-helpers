@@ -12,3 +12,7 @@ StartupNotify=false
 X-AppInstall-Package=blueproximity
 X-AppInstall-Popcon=130
 X-AppInstall-Section=main
+X-Arch-Package-Name=blueproximity
+X-Arch-Package-Version=1.2.5-6
+X-Arch-Package-Description=A proximity detector for your mobile phone via bluetooth.
+X-Arch-Package-URL=http://sourceforge.net/projects/blueproximity/

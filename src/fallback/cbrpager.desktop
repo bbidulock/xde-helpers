@@ -21,3 +21,7 @@ StartupNotify=true
 X-AppInstall-Package=cbrpager
 X-AppInstall-Popcon=96
 X-AppInstall-Section=main
+X-Arch-Package-Name=cbrpager
+X-Arch-Package-Version=0.9.22-2
+X-Arch-Package-Description=A no-nonsense, simple to use, small viewer for cbr and cbz
+X-Arch-Package-URL=http://sourceforge.net/projects/cbrpager/

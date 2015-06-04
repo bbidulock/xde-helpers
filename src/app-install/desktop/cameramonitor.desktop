@@ -13,3 +13,7 @@ StartupNotify=false
 X-AppInstall-Package=cameramonitor
 X-AppInstall-Popcon=107
 X-AppInstall-Section=main
+X-Arch-Package-Name=cameramonitor
+X-Arch-Package-Version=0.3.2-3
+X-Arch-Package-Description=A little monitor to check if your Webcam is On.
+X-Arch-Package-URL=http://www.infinicode.org/code/cameramonitor/

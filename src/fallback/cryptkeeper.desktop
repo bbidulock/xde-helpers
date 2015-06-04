@@ -13,3 +13,7 @@ X-AppInstall-Package=cryptkeeper
 X-AppInstall-Popcon=93
 X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Name=cryptkeeper
+X-Arch-Package-Version=0.9.5-5
+X-Arch-Package-Description=A Linux system tray applet that manages EncFS encrypted
+X-Arch-Package-URL=http://tom.noflag.org.uk/cryptkeeper.html

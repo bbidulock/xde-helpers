@@ -13,3 +13,7 @@ StartupNotify=false
 X-AppInstall-Package=albumshaper
 X-AppInstall-Popcon=62
 X-AppInstall-Section=main
+X-Arch-Package-Name=albumshaper
+X-Arch-Package-Version=2.1-2
+X-Arch-Package-Description=An application for organizing, editing and sharing your
+X-Arch-Package-URL=http://albumshaper.sourceforge.net/

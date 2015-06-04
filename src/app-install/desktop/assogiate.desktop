@@ -17,3 +17,7 @@ StartupNotify=false
 X-AppInstall-Package=assogiate
 X-AppInstall-Popcon=14
 X-AppInstall-Section=main
+X-Arch-Package-Name=assogiate
+X-Arch-Package-Version=0.2.1-5
+X-Arch-Package-Description=An editor of the MIME file types database for GNOME
+X-Arch-Package-URL=http://www.kdau.com/projects/assogiate/

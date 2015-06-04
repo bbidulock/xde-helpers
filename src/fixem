@@ -1,13 +1,15 @@
 #!/bin/bash
 
+d1=${1:-app-install/desktop}
+d2=${2:-fallback}
 
-for f in app-install/desktop/*.desktop
+for f in $d1/*.desktop
 do
 	n=$(basename $f)
 	c=$(grep 'X-AppInstall-Popcon=' $f|sed 's,.*=,,')
-	if [ -n "$c" ]
+	if [ -n "$c" -a "$c" != "0" ]
 	then
-		echo "--> sed -i -e \"/X-AppInstall-Popcon=0/s,0,$c,\" fallback/$n\n"
-		sed -i -e "/X-AppInstall-Popcon=0/s,0,$c," fallback/$n
+		echo "--> sed -i -e \"/X-AppInstall-Popcon=0/s,0,$c,\" $d2/$n\n"
+		sed -i -e "/X-AppInstall-Popcon=0/s,0,$c," $d2/$n
 	fi
 done

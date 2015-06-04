@@ -14,3 +14,7 @@ StartupNotify=true
 X-AppInstall-Package=emma
 X-AppInstall-Popcon=38
 X-AppInstall-Section=main
+X-Arch-Package-Name=emma
+X-Arch-Package-Version=0.6-4
+X-Arch-Package-Description=A platform-independent mysql administrator frontend using
+X-Arch-Package-URL=http://www.fastflo.de/projects/emma

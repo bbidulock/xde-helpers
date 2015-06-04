@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=bastet
 X-AppInstall-Popcon=19
 X-AppInstall-Section=main
+X-Arch-Package-Name=bastet
+X-Arch-Package-Version=0.43.1-1
+X-Arch-Package-Description=Tetris(r) clone with 'bastard' block-choosing AI
+X-Arch-Package-URL=http://fph.altervista.org/prog/bastet.html

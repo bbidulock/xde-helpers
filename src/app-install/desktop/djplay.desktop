@@ -13,3 +13,7 @@ StartupNotify=true
 X-AppInstall-Package=djplay
 X-AppInstall-Popcon=16
 X-AppInstall-Section=main
+X-Arch-Package-Name=djplay
+X-Arch-Package-Version=0.5.0-2
+X-Arch-Package-Description=A live DJing system for the Jack sound server architecture
+X-Arch-Package-URL=http://djplay.sourceforge.net/

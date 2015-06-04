@@ -13,3 +13,7 @@ StartupNotify=false
 X-AppInstall-Package=abe
 X-AppInstall-Popcon=41
 X-AppInstall-Section=main
+X-Arch-Package-Name=abe
+X-Arch-Package-Version=1.1-10
+X-Arch-Package-Description=Scrolling, platform-jumping, key-collecting, ancient pyramid
+X-Arch-Package-URL=http://abe.sourceforge.net

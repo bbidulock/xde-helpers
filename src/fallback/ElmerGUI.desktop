@@ -14,3 +14,7 @@ X-AppInstall-Package=elmer
 X-AppInstall-Popcon=7
 X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,hppa,i386,ia64,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Name=elmer
+X-Arch-Package-Version=1.0.2.r0.gfb6fc12-1
+X-Arch-Package-Description=Robust frontend to wget and/or curl for various pastebin
+X-Arch-Package-URL=http://github.com/sudokode/elmer

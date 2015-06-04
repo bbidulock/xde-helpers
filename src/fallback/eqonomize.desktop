@@ -23,3 +23,7 @@ X-KDE-StartupNotify=true
 X-AppInstall-Package=eqonomize
 X-AppInstall-Popcon=37
 X-AppInstall-Section=main
+X-Arch-Package-Name=eqonomize
+X-Arch-Package-Version=0.6-1
+X-Arch-Package-Description=A personal accounting software, with focus on efficiency and
+X-Arch-Package-URL=http://eqonomize.sourceforge.net/

@@ -68,3 +68,7 @@ StartupNotify=false
 X-AppInstall-Package=exfalso
 X-AppInstall-Popcon=365
 X-AppInstall-Section=main
+X-Arch-Package-Name=exfalso
+X-Arch-Package-Version=3.3.1-1
+X-Arch-Package-Description=GTK+ audio tag editor
+X-Arch-Package-URL=https://code.google.com/p/quodlibet/

@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=entagged
 X-AppInstall-Popcon=36
 X-AppInstall-Section=main
+X-Arch-Package-Name=entagged
+X-Arch-Package-Version=0.35-1
+X-Arch-Package-Description=Open-source audio file tagger
+X-Arch-Package-URL=http://entagged.sourceforge.net

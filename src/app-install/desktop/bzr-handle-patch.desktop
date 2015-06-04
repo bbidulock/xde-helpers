@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=bzr-gtk
 X-AppInstall-Popcon=187
 X-AppInstall-Section=main
+X-Arch-Package-Name=bzr-gtk
+X-Arch-Package-Version=0.100.0-2
+X-Arch-Package-Description=Plugin for Bazaar that aims to provide GTK+ interfaces to most
+X-Arch-Package-URL=http://bazaar-vcs.org/bzr-gtk

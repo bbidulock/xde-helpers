@@ -13,3 +13,7 @@ StartupNotify=false
 X-AppInstall-Package=aqualung
 X-AppInstall-Popcon=68
 X-AppInstall-Section=main
+X-Arch-Package-Name=aqualung
+X-Arch-Package-Version=1.0rc1-2
+X-Arch-Package-Description=Advanced music player featuring gapless playback
+X-Arch-Package-URL=http://aqualung.factorial.hu/

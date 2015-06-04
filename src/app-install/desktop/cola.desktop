@@ -14,3 +14,7 @@ X-KDE-SubstituteUID=false
 X-AppInstall-Package=git-cola
 X-AppInstall-Popcon=51
 X-AppInstall-Section=main
+X-Arch-Package-Name=git-cola
+X-Arch-Package-Version=2.1.2-1
+X-Arch-Package-Description=A powerful GUI for Git
+X-Arch-Package-URL=http://git-cola.github.com/

@@ -17,3 +17,7 @@ StartupNotify=false
 X-AppInstall-Package=briquolo
 X-AppInstall-Popcon=81
 X-AppInstall-Section=main
+X-Arch-Package-Name=briquolo
+X-Arch-Package-Version=0.5.7-5
+X-Arch-Package-Description=An addictive block game
+X-Arch-Package-URL=http://briquolo.free.fr/

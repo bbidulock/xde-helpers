@@ -40,3 +40,7 @@ StartupWMClass=Efte
 X-AppInstall-Package=efte
 X-AppInstall-Popcon=8
 X-AppInstall-Section=main
+X-Arch-Package-Name=efte
+X-Arch-Package-Version=1.1-1
+X-Arch-Package-Description=Fast configurable programmers editor
+X-Arch-Package-URL=http://sourceforge.net/projects/efte/

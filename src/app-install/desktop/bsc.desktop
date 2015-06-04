@@ -16,3 +16,7 @@ StartupNotify=false
 X-AppInstall-Package=bsc
 X-AppInstall-Popcon=32
 X-AppInstall-Section=main
+X-Arch-Package-Name=bsc
+X-Arch-Package-Version=4.1.0-2
+X-Arch-Package-Description=A file manager for Linux based on Qt-GUI
+X-Arch-Package-URL=http://sourceforge.net/projects/besc/

@@ -33,3 +33,7 @@ X-AppInstall-Package=bareftp
 X-AppInstall-Popcon=18
 X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,i386,ia64,kfreebsd-amd64,kfreebsd-i386,powerpc,s390,sparc
+X-Arch-Package-Name=bareftp
+X-Arch-Package-Version=0.3.11-1
+X-Arch-Package-Description=bareFTP a file transfer client supporting the FTP, FTPS and
+X-Arch-Package-URL=http://www.bareftp.org/

@@ -14,3 +14,7 @@ StartupNotify=false
 X-AppInstall-Package=black-box
 X-AppInstall-Popcon=16
 X-AppInstall-Section=main
+X-Arch-Package-Name=black-box
+X-Arch-Package-Version=1.4.8-1
+X-Arch-Package-Description=A game where you can shoot in and watch, where the shot leaves
+X-Arch-Package-URL=http://user.cs.tu-berlin.de/~karlb/news/

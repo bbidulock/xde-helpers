@@ -12,3 +12,7 @@ StartupNotify=true
 X-AppInstall-Package=codelite
 X-AppInstall-Popcon=45
 X-AppInstall-Section=main
+X-Arch-Package-Name=codelite
+X-Arch-Package-Version=8.0_1-1
+X-Arch-Package-Description=Open-source, cross platform IDE for the C/C++ programming
+X-Arch-Package-URL=http://www.codelite.org/

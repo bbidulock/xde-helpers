@@ -15,3 +15,7 @@ StartupNotify=true
 X-AppInstall-Package=composite
 X-AppInstall-Popcon=10
 X-AppInstall-Section=main
+X-Arch-Package-Name=composite
+X-Arch-Package-Version=0.006.2-1
+X-Arch-Package-Description=A software application/system for real-time, in-performance
+X-Arch-Package-URL=http://gabe.is-a-geek.org/composite/

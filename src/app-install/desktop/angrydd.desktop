@@ -13,3 +13,7 @@ StartupNotify=false
 X-AppInstall-Package=angrydd
 X-AppInstall-Popcon=24
 X-AppInstall-Section=main
+X-Arch-Package-Name=angrydd
+X-Arch-Package-Version=1.0.1-6
+X-Arch-Package-Description="Angry, Drunken Dwarves" is a classic "falling blocks" puzzle
+X-Arch-Package-URL=http://www.sacredchao.net/~piman/angrydd/

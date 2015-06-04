@@ -15,3 +15,7 @@ StartupNotify=false
 X-AppInstall-Package=gnustep-examples
 X-AppInstall-Popcon=33
 X-AppInstall-Section=main
+X-Arch-Package-Name=gnustep-examples
+X-Arch-Package-Version=1.4.0-1
+X-Arch-Package-Description=Helps you get started with GNUstep coding
+X-Arch-Package-URL=http://www.gnustep.org/experience/examples.html

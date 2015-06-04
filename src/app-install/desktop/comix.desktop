@@ -23,3 +23,7 @@ StartupNotify=true
 X-AppInstall-Package=comix
 X-AppInstall-Popcon=418
 X-AppInstall-Section=main
+X-Arch-Package-Name=comix
+X-Arch-Package-Version=4.0.4-7
+X-Arch-Package-Description=A comic book viewer
+X-Arch-Package-URL=http://comix.sourceforge.net
