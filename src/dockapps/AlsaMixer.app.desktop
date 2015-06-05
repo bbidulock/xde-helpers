@@ -15,9 +15,11 @@ StartupNotify=false
 StartupWMClass=alsamixer_app
 X-AppInstall-Package=alsamixer.app
 X-AppInstall-Popcon=0
-X-AppInstall-Section=main
+X-AppInstall-Section=custom
 X-Arch-Package=alsamixer.app 0.1+20141204-1
+X-Arch-Package-Repository=custom
 X-Arch-Package-Name=alsamixer.app
 X-Arch-Package-Version=0.1+20141204-1
 X-Arch-Package-Description=Simple dockable mixer application for Linux with ALSA drivers.
+X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://windowmaker.org/docapps/?name=AlsaMixer.app

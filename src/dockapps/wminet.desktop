@@ -15,11 +15,13 @@ StartupNotify=false
 StartupWMClass=wminet
 X-AppInstall-Package=wminet
 X-AppInstall-Popcon=0
-X-AppInstall-Section=main
+X-AppInstall-Section=custom
 X-Arch-Package=wminet 3.0.0-1
+X-Arch-Package-Repository=custom
 X-Arch-Package-Name=wminet
 X-Arch-Package-Version=3.0.0-1
 X-Arch-Package-Description=A dock app for monitoring internet connections
+X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://www.swanson.ukfsn.org/#wminet
 Actions=Neon;LCD;
 

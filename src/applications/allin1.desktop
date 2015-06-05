@@ -15,9 +15,11 @@ StartupNotify=false
 StartupWMClass=allin1
 X-AppInstall-Package=allin1
 X-AppInstall-Popcon=0
-X-AppInstall-Section=main
+X-AppInstall-Section=custom
 X-Arch-Package=allin1 0.5.0-3
+X-Arch-Package-Repository=custom
 X-Arch-Package-Name=allin1
 X-Arch-Package-Version=0.5.0-3
 X-Arch-Package-Description=All in one monitoring dockapplet
+X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://www.ismprofessional.net/pascucci/?p=15

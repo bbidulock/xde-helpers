@@ -119,6 +119,7 @@ my @order = (
 	'X-AppInstall-Architectures',
 
 	'X-Arch-Package',
+	'X-Arch-Package-Repository',
 	'X-Arch-Package-Name',
 	'X-Arch-Package-Version',
 	'X-Arch-Package-Description',
@@ -434,22 +435,18 @@ foreach my $a (@args) {
 								chomp $l;
 								my @fields = (split(/\s+/,$l,3));
 								my $k = $fields[0];
-								if ($k =~ /^(Name|Version|Description|Groups|URL|Votes)$/) {
+								if ($k =~ /^(Repository|Name|Version|Description|Groups|URL|Votes)$/) {
 									$keys{"X-Arch-Package-$k"} = $fields[2];
 								}
 								if ($k eq 'Name') {
 									$keys{"X-AppInstall-Package"} = $fields[2];
 								}
-								if ($k eq 'Groups') {
-									if ($fields[2] eq 'None') {
-										$keys{"X-AppInstall-Section"} = 'main';
-									} else {
-										$keys{"X-AppInstall-Section"} = $fields[2];
-									}
+								if ($k eq 'Repository') {
+									$keys{"X-AppInstall-Section"} = $fields[2];
 								}
 								if ($k eq 'Votes') {
 									$keys{"X-AppInstall-Popcon"} = $fields[2]
-									if $fields[2] and not exists $keys{"X-AppInstallPopcon"};
+									if $fields[2] and not $keys{"X-AppInstall-Popcon"};
 								}
 							}
 							last;
@@ -469,22 +466,18 @@ foreach my $a (@args) {
 							chomp $l;
 							my @fields = (split(/\s+/,$l,3));
 							my $k = $fields[0];
-							if ($k =~ /^(Name|Version|Description|Groups|URL|Votes)$/) {
+							if ($k =~ /^(Repository|Name|Version|Description|Groups|URL|Votes)$/) {
 								$keys{"X-Arch-Package-$k"} = $fields[2];
 							}
 							if ($k eq 'Name') {
 								$keys{"X-AppInstall-Package"} = $fields[2];
 							}
-							if ($k eq 'Groups') {
-								if ($fields[2] eq 'None') {
-									$keys{"X-AppInstall-Section"} = 'main';
-								} else {
-									$keys{"X-AppInstall-Section"} = $fields[2];
-								}
+							if ($k eq 'Repository') {
+								$keys{"X-AppInstall-Section"} = $fields[2];
 							}
 							if ($k eq 'Votes') {
 								$keys{"X-AppInstall-Popcon"} = $fields[2]
-								if $fields[2] and not exists $keys{"X-AppInstallPopcon"};
+								if $fields[2] and not $keys{"X-AppInstall-Popcon"};
 							}
 						}
 					}
@@ -497,22 +490,18 @@ foreach my $a (@args) {
 						chomp $l;
 						my @fields = (split(/\s+/,$l,3));
 						my $k = $fields[0];
-						if ($k =~ /^(Name|Version|Description|Groups|URL|Votes)$/) {
+						if ($k =~ /^(Repository|Name|Version|Description|Groups|URL|Votes)$/) {
 							$keys{"X-Arch-Package-$k"} = $fields[2];
 						}
 						if ($k eq 'Name') {
 							$keys{"X-AppInstall-Package"} = $fields[2];
 						}
-						if ($k eq 'Groups') {
-							if ($fields[2] eq 'None') {
-								$keys{"X-AppInstall-Section"} = 'main';
-							} else {
-								$keys{"X-AppInstall-Section"} = $fields[2];
-							}
+						if ($k eq 'Repository') {
+							$keys{"X-AppInstall-Section"} = $fields[2];
 						}
 						if ($k eq 'Votes') {
 							$keys{"X-AppInstall-Popcon"} = $fields[2]
-							if $fields[2] and not exists $keys{"X-AppInstallPopcon"};
+							if $fields[2] and not $keys{"X-AppInstall-Popcon"};
 						}
 					}
 				}
@@ -524,22 +513,18 @@ foreach my $a (@args) {
 						chomp $l;
 						my @fields = (split(/\s+/,$l,3));
 						my $k = $fields[0];
-						if ($k =~ /^(Name|Version|Description|Groups|URL|Votes)$/) {
+						if ($k =~ /^(Repository|Name|Version|Description|Groups|URL|Votes)$/) {
 							$keys{"X-Arch-Package-$k"} = $fields[2];
 						}
 						if ($k eq 'Name') {
 							$keys{"X-AppInstall-Package"} = $fields[2];
 						}
-						if ($k eq 'Groups') {
-							if ($fields[2] eq 'None') {
-								$keys{"X-AppInstall-Section"} = 'main';
-							} else {
-								$keys{"X-AppInstall-Section"} = $fields[2];
-							}
+						if ($k eq 'Repository') {
+							$keys{"X-AppInstall-Section"} = $fields[2];
 						}
 						if ($k eq 'Votes') {
 							$keys{"X-AppInstall-Popcon"} = $fields[2]
-							if $fields[2] and not exists $keys{"X-AppInstallPopcon"};
+							if $fields[2] and not $keys{"X-AppInstall-Popcon"};
 						}
 					}
 				}
@@ -551,22 +536,18 @@ foreach my $a (@args) {
 						chomp $l;
 						my @fields = (split(/\s+/,$l,3));
 						my $k = $fields[0];
-						if ($k =~ /^(Name|Version|Description|Groups|URL|Votes)$/) {
+						if ($k =~ /^(Repository|Name|Version|Description|Groups|URL|Votes)$/) {
 							$keys{"X-Arch-Package-$k"} = $fields[2];
 						}
 						if ($k eq 'Name') {
 							$keys{"X-AppInstall-Package"} = $fields[2];
 						}
-						if ($k eq 'Groups') {
-							if ($fields[2] eq 'None') {
-								$keys{"X-AppInstall-Section"} = 'main';
-							} else {
-								$keys{"X-AppInstall-Section"} = $fields[2];
-							}
+						if ($k eq 'Repository') {
+							$keys{"X-AppInstall-Section"} = $fields[2];
 						}
 						if ($k eq 'Votes') {
 							$keys{"X-AppInstall-Popcon"} = $fields[2]
-							if $fields[2] and not exists $keys{"X-AppInstallPopcon"};
+							if $fields[2] and not $keys{"X-AppInstall-Popcon"};
 						}
 					}
 				}
@@ -578,20 +559,42 @@ foreach my $a (@args) {
 						chomp $l;
 						my @fields = (split(/\s+/,$l,3));
 						my $k = $fields[0];
-						if ($k =~ /^(Name|Version|Description|URL)$/) {
+						if ($k =~ /^(Repository|Name|Version|Description|Groups|URL|Votes)$/) {
 							$keys{"X-Arch-Package-$k"} = $fields[2];
 						}
 						if ($k eq 'Name') {
 							$keys{"X-AppInstall-Package"} = $fields[2];
-							$keys{"X-AppInstall-Section"} = 'main';
-							$keys{"X-AppInstall-Popcon"} = '0';
+						}
+						if ($k eq 'Repository') {
+							$keys{"X-AppInstall-Section"} = $fields[2];
+						}
+						if ($k eq 'Votes') {
+							$keys{"X-AppInstall-Popcon"} = $fields[2]
+							if $fields[2] and not $keys{"X-AppInstall-Popcon"};
 						}
 					}
 				}
-				if (exists $keys{"X-Arch-Package-Name"} and $a ne 'tmp.log') {
-					$keys{"X-AppInstall-Package"} = $keys{"X-Arch-Package-Name"};
-					$keys{"X-AppInstall-Section"} = 'main';
-					$keys{"X-AppInstall-Popcon"} = '0' unless exists $keys{"X-AppInstall-Popcon"};
+				if ($keys{"X-Arch-Package-Name"} and $a ne 'tmp.log') {
+					my $n = $keys{"X-Arch-Package-Name"};
+					my @lines = (`yaourt -Si $n 2>/dev/null`);
+					for my $l (@lines) {
+						chomp $l;
+						my @fields = (split(/\s+/,$l,3));
+						my $k = $fields[0];
+						if ($k =~ /^(Repository|Name|Version|Description|Groups|URL|Votes)$/) {
+							$keys{"X-Arch-Package-$k"} = $fields[2];
+						}
+						if ($k eq 'Name') {
+							$keys{"X-AppInstall-Package"} = $fields[2];
+						}
+						if ($k eq 'Repository') {
+							$keys{"X-AppInstall-Section"} = $fields[2];
+						}
+						if ($k eq 'Votes') {
+							$keys{"X-AppInstall-Popcon"} = $fields[2]
+							if $fields[2] and not $keys{"X-AppInstall-Popcon"};
+						}
+					}
 				} else {
 					print STDERR "==> WARNING: no package found for $a\n" if $debug;
 				}
