@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
 Encoding=UTF-8
-Type=X-XFCE-Helper
+Type=Application
 Name=NXterm
 Name[ar]=NXterm
 Name[ast]=NXterm
@@ -60,7 +60,10 @@ Name[zh_CN]=NXterm
 Name[zh_HK]=NXterm
 Name[zh_TW]=NXterm
 Icon=nxterm
+TryExec=/usr/bin/nxterm
+Exec=nxterm
 Terminal=false
+Categories=System;TerminalEmulator;
 StartupNotify=false
 X-XFCE-Binaries=nxterm;
 X-XFCE-Category=TerminalEmulator

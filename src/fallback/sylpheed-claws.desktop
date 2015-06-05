@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
 Encoding=UTF-8
-Type=X-XFCE-Helper
+Type=Application
 Name=Claws Mail
 Name[ar]=Claws Mail
 Name[ast]=Claws Mail
@@ -60,7 +60,10 @@ Name[zh_CN]=Claws 邮件
 Name[zh_HK]=Claws 郵件
 Name[zh_TW]=Claws 郵件
 Icon=claws-mail
+TryExec=/usr/bin/sylpheed
+Exec=sylpheed
 Terminal=false
+Categories=Network;Email;MailReader;
 StartupNotify=true
 X-XFCE-Binaries=claws-mail;sylpheed-claws-gtk2;sylpheed-claws;
 X-XFCE-Category=MailReader

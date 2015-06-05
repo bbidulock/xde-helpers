@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
 Encoding=UTF-8
-Type=X-XFCE-Helper
+Type=Application
 Name=Opera Mail
 Name[ar]=بريد اوبيرا
 Name[ast]=Corréu Opera
@@ -60,7 +60,10 @@ Name[zh_CN]=Opera 邮件
 Name[zh_HK]=Opera 郵件
 Name[zh_TW]=Opera 郵件
 Icon=opera
+TryExec=/usr/bin/opera
+Exec=opera "mailto:%U"
 Terminal=false
+Categories=Network;Email;MailReader;
 StartupNotify=false
 X-XFCE-Binaries=opera;
 X-XFCE-Category=MailReader

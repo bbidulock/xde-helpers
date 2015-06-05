@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
 Encoding=UTF-8
-Type=X-XFCE-Helper
+Type=Application
 Name=Encompass
 Name[ar]=يشمل
 Name[ast]=Encompass
@@ -60,7 +60,10 @@ Name[zh_CN]=Encompass
 Name[zh_HK]=Encompass
 Name[zh_TW]=Encompass
 Icon=encompass
+TryExec=/usr/bin/encompass
+Exec=encompass %u
 Terminal=false
+Categories=Network;WebBrowser;
 StartupNotify=true
 X-XFCE-Binaries=encompass;
 X-XFCE-Category=WebBrowser

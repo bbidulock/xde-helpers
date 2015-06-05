@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
 Encoding=UTF-8
-Type=X-XFCE-Helper
+Type=Application
 Name=Jumanji
 Name[ar]=جومتجي
 Name[ast]=Jumanji
@@ -52,7 +52,10 @@ Name[zh_CN]=Jumanji
 Name[zh_HK]=Jumanji
 Name[zh_TW]=Jumanji
 Icon=jumanji
+TryExec=/usr/bin/jumanji
+Exec=jumanji %u
 Terminal=false
+Categories=Network;WebBrowser;
 StartupNotify=true
 X-XFCE-Binaries=jumanji;
 X-XFCE-Category=WebBrowser

@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
 Encoding=UTF-8
-Type=X-XFCE-Helper
+Type=Application
 Name=Chromium
 Name[ar]=Chromium
 Name[ast]=Chromium
@@ -53,7 +53,10 @@ Name[zh_CN]=Chromium
 Name[zh_HK]=Chromium
 Name[zh_TW]=Chromium
 Icon=chromium
+TryExec=/usr/bin/chromium
+Exec=chromium %u
 Terminal=false
+Categories=Network;WebBrowser;
 StartupNotify=true
 X-XFCE-Binaries=chromium;google-chrome;chromium-browser;
 X-XFCE-Category=WebBrowser

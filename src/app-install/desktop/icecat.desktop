@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
 Encoding=UTF-8
-Type=X-XFCE-Helper
+Type=Application
 Name=Icecat
 Name[ar]=أيس كات
 Name[ast]=Icecat
@@ -52,7 +52,10 @@ Name[zh_CN]=Icecat
 Name[zh_HK]=Icecat
 Name[zh_TW]=Icecat
 Icon=icecat
+TryExec=/usr/bin/icecat
+Exec=icecat -remote "openURL(%u)"
 Terminal=false
+Categories=Network;WebBrowser;
 StartupNotify=false
 X-XFCE-Binaries=icecat;icecat-gtk2;icecat-gtk;
 X-XFCE-Category=WebBrowser

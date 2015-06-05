@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
 Encoding=UTF-8
-Type=X-XFCE-Helper
+Type=Application
 Name=KMail
 Name[ar]=KMail
 Name[ast]=KMail
@@ -60,7 +60,10 @@ Name[zh_CN]=KMail
 Name[zh_HK]=KMail
 Name[zh_TW]=KMail
 Icon=kmail
+TryExec=/usr/bin/kmail
+Exec=kmail
 Terminal=false
+Categories=Network;Email;KDE;Qt;MailReader;
 StartupNotify=true
 X-XFCE-Binaries=kmail;
 X-XFCE-Category=MailReader

@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
 Encoding=UTF-8
-Type=X-XFCE-Helper
+Type=Application
 Name=Caja File Manager
 Name[ar]=مدير الملفات Caja
 Name[ast]=Xestor de ficheros Caja
@@ -52,7 +52,10 @@ Name[zh_CN]=Caja 文件管理器
 Name[zh_HK]=Caja 檔案管理員
 Name[zh_TW]=Caja 檔案管理員
 Icon=system-file-manager
+TryExec=/usr/bin/caja
+Exec=caja --no-desktop --browser %u
 Terminal=false
+Categories=FileTools;FileManager;
 StartupNotify=true
 X-XFCE-Binaries=caja;
 X-XFCE-Category=FileManager

@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
 Encoding=UTF-8
-Type=X-XFCE-Helper
+Type=Application
 Name=Rodent File Manager
 Name[ar]=مدير الملفات Rodent
 Name[ast]=Xestor de ficheros Rodent
@@ -52,7 +52,10 @@ Name[zh_CN]=Rodent 文件管理器
 Name[zh_HK]=Rodent 檔案管理員
 Name[zh_TW]=Rodent 檔案管理員
 Icon=folder
+TryExec=/usr/bin/rodent
+Exec=rodent %f
 Terminal=false
+Categories=FileTools;FileManager;
 StartupNotify=true
 X-XFCE-Binaries=rodent-forked;
 X-XFCE-Category=FileManager

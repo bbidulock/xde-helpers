@@ -122,7 +122,9 @@ my @order = (
 	'X-Arch-Package-Name',
 	'X-Arch-Package-Version',
 	'X-Arch-Package-Description',
+	'X-Arch-Package-Groups',
 	'X-Arch-Package-URL',
+	'X-Arch-Package-Votes',
 
 );
 
@@ -412,6 +414,9 @@ foreach my $a (@args) {
 				}
 				if (exists $keys{Exec} and not exists $keys{TryExec}) {
 					$keys{TryExec} = (split(/\s+/, $keys{Exec}))[0];
+					if ($keys{TryExec} =~ /^[^\/]*$/) {
+						$keys{TryExec} = "/usr/bin/".$keys{TryExec};
+					}
 				}
 				if (not exists $keys{"X-Arch-Package-Name"} and $a =~ /\.desktop$/) {
 					print STDERR "# --> CHECKING: file '$a'\n" if $debug;
@@ -429,13 +434,22 @@ foreach my $a (@args) {
 								chomp $l;
 								my @fields = (split(/\s+/,$l,3));
 								my $k = $fields[0];
-								if ($k =~ /^(Name|Version|Description|URL)$/) {
+								if ($k =~ /^(Name|Version|Description|Groups|URL|Votes)$/) {
 									$keys{"X-Arch-Package-$k"} = $fields[2];
 								}
 								if ($k eq 'Name') {
 									$keys{"X-AppInstall-Package"} = $fields[2];
-									$keys{"X-AppInstall-Section"} = 'main';
-									$keys{"X-AppInstall-Popcon"} = '0';
+								}
+								if ($k eq 'Groups') {
+									if ($fields[2] eq 'None') {
+										$keys{"X-AppInstall-Section"} = 'main';
+									} else {
+										$keys{"X-AppInstall-Section"} = $fields[2];
+									}
+								}
+								if ($k eq 'Votes') {
+									$keys{"X-AppInstall-Popcon"} = $fields[2]
+									if $fields[2] and not exists $keys{"X-AppInstallPopcon"};
 								}
 							}
 							last;
@@ -455,13 +469,22 @@ foreach my $a (@args) {
 							chomp $l;
 							my @fields = (split(/\s+/,$l,3));
 							my $k = $fields[0];
-							if ($k =~ /^(Name|Version|Description|URL)$/) {
+							if ($k =~ /^(Name|Version|Description|Groups|URL|Votes)$/) {
 								$keys{"X-Arch-Package-$k"} = $fields[2];
 							}
 							if ($k eq 'Name') {
 								$keys{"X-AppInstall-Package"} = $fields[2];
-								$keys{"X-AppInstall-Section"} = 'main';
-								$keys{"X-AppInstall-Popcon"} = '0';
+							}
+							if ($k eq 'Groups') {
+								if ($fields[2] eq 'None') {
+									$keys{"X-AppInstall-Section"} = 'main';
+								} else {
+									$keys{"X-AppInstall-Section"} = $fields[2];
+								}
+							}
+							if ($k eq 'Votes') {
+								$keys{"X-AppInstall-Popcon"} = $fields[2]
+								if $fields[2] and not exists $keys{"X-AppInstallPopcon"};
 							}
 						}
 					}
@@ -474,19 +497,82 @@ foreach my $a (@args) {
 						chomp $l;
 						my @fields = (split(/\s+/,$l,3));
 						my $k = $fields[0];
-						if ($k =~ /^(Name|Version|Description|URL)$/) {
+						if ($k =~ /^(Name|Version|Description|Groups|URL|Votes)$/) {
 							$keys{"X-Arch-Package-$k"} = $fields[2];
 						}
 						if ($k eq 'Name') {
 							$keys{"X-AppInstall-Package"} = $fields[2];
-							$keys{"X-AppInstall-Section"} = 'main';
-							$keys{"X-AppInstall-Popcon"} = '0';
+						}
+						if ($k eq 'Groups') {
+							if ($fields[2] eq 'None') {
+								$keys{"X-AppInstall-Section"} = 'main';
+							} else {
+								$keys{"X-AppInstall-Section"} = $fields[2];
+							}
+						}
+						if ($k eq 'Votes') {
+							$keys{"X-AppInstall-Popcon"} = $fields[2]
+							if $fields[2] and not exists $keys{"X-AppInstallPopcon"};
 						}
 					}
 				}
 				if (not exists $keys{"X-Arch-Package-Name"} and exists $keys{"X-AppInstall-Package"}) {
 					my $p = $keys{'X-AppInstall-Package'};
 					my $n = (split(/\s+/,$p))[0];
+					my @lines = (`yaourt -Si $n 2>/dev/null`);
+					for my $l (@lines) {
+						chomp $l;
+						my @fields = (split(/\s+/,$l,3));
+						my $k = $fields[0];
+						if ($k =~ /^(Name|Version|Description|Groups|URL|Votes)$/) {
+							$keys{"X-Arch-Package-$k"} = $fields[2];
+						}
+						if ($k eq 'Name') {
+							$keys{"X-AppInstall-Package"} = $fields[2];
+						}
+						if ($k eq 'Groups') {
+							if ($fields[2] eq 'None') {
+								$keys{"X-AppInstall-Section"} = 'main';
+							} else {
+								$keys{"X-AppInstall-Section"} = $fields[2];
+							}
+						}
+						if ($k eq 'Votes') {
+							$keys{"X-AppInstall-Popcon"} = $fields[2]
+							if $fields[2] and not exists $keys{"X-AppInstallPopcon"};
+						}
+					}
+				}
+				if (not exists $keys{"X-Arch-Package-Name"} and $a =~ /\.desktop$/) {
+					my $p = $a; $p =~ s/\.desktop$//;
+					my $n = "\L$p\E";
+					my @lines = (`yaourt -Si $n 2>/dev/null`);
+					for my $l (@lines) {
+						chomp $l;
+						my @fields = (split(/\s+/,$l,3));
+						my $k = $fields[0];
+						if ($k =~ /^(Name|Version|Description|Groups|URL|Votes)$/) {
+							$keys{"X-Arch-Package-$k"} = $fields[2];
+						}
+						if ($k eq 'Name') {
+							$keys{"X-AppInstall-Package"} = $fields[2];
+						}
+						if ($k eq 'Groups') {
+							if ($fields[2] eq 'None') {
+								$keys{"X-AppInstall-Section"} = 'main';
+							} else {
+								$keys{"X-AppInstall-Section"} = $fields[2];
+							}
+						}
+						if ($k eq 'Votes') {
+							$keys{"X-AppInstall-Popcon"} = $fields[2]
+							if $fields[2] and not exists $keys{"X-AppInstallPopcon"};
+						}
+					}
+				}
+				if (not exists $keys{"X-Arch-Package-Name"} and exists $keys{TryExec}) {
+					my $p = $keys{TryExec};
+					my $n = $p; $n =~ s/^.*\///;
 					my @lines = (`yaourt -Si $n 2>/dev/null`);
 					for my $l (@lines) {
 						chomp $l;

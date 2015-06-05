@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
 Encoding=UTF-8
-Type=X-XFCE-Helper
+Type=Application
 Name=Konqueror Web Browser
 Name[ar]=متصفح الوب كونكيرور
 Name[ast]=Restolador web Konqueror
@@ -60,7 +60,10 @@ Name[zh_CN]=Konqueror 网络浏览器
 Name[zh_HK]=Konqueror 網頁瀏覽器
 Name[zh_TW]=Konqueror 網路瀏覽器
 Icon=konqueror
+TryExec=/usr/bin/konqueror
+Exec=konqueror %u
 Terminal=false
+Categories=Network;WebBrowser;KDE;Qt;
 StartupNotify=true
 X-XFCE-Binaries=konqueror;
 X-XFCE-Category=WebBrowser
@@ -72,4 +75,5 @@ X-AppInstall-Section=main
 X-Arch-Package-Name=kdebase-konqueror
 X-Arch-Package-Version=15.04.2-1
 X-Arch-Package-Description=KDE File Manager & Web Browser
+X-Arch-Package-Groups=kde-applications  kdebase
 X-Arch-Package-URL=http://kde.org/applications/internet/konqueror/

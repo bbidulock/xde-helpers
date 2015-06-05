@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
 Encoding=UTF-8
-Type=X-XFCE-Helper
+Type=Application
 Name=Mozilla Thunderbird
 Name[ar]=موزيلا تندربيرد
 Name[ast]=Mozilla Thunderbird
@@ -60,7 +60,10 @@ Name[zh_CN]=Mozilla Thunderbird
 Name[zh_HK]=Mozilla Thunderbird
 Name[zh_TW]=Mozilla Thunderbird
 Icon=thunderbird
+TryExec=/usr/bin/thunderbird
+Exec=thunderbird
 Terminal=false
+Categories=Network;Email;MailReader;
 StartupNotify=false
 X-XFCE-Binaries=thunderbird;thunderbird-gtk2;thunderbird-gtk;mozilla-thunderbird;
 X-XFCE-Category=MailReader
