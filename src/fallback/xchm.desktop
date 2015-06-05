@@ -14,10 +14,12 @@ MimeType=application/x-chm;
 StartupNotify=false
 X-AppInstall-Package=xchm
 X-AppInstall-Popcon=0
-X-AppInstall-Section=main
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
 X-Arch-Package-Name=xchm
 X-Arch-Package-Version=1.23-2
 X-Arch-Package-Description=A cross-platform GUI front-end to chmlib
+X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://xchm.sourceforge.net/
 
 [Desktop Action View]

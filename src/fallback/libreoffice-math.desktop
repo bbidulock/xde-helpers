@@ -196,11 +196,13 @@ X-GIO-NoFuse=true
 X-KDE-Protocols=file,http,smb,ftp,webdav;
 X-AppInstall-Package=libreoffice-still
 X-AppInstall-Popcon=0
-X-AppInstall-Section=main
+X-AppInstall-Section=extra
 X-Arch-Package=libreoffice-still 4.3.7-2
+X-Arch-Package-Repository=extra
 X-Arch-Package-Name=libreoffice-still
 X-Arch-Package-Version=4.3.7-2
 X-Arch-Package-Description=LibreOffice maintenance branch
+X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://www.libreoffice.org/
 Actions=NewDocument;
 

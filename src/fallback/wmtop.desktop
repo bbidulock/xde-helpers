@@ -15,11 +15,13 @@ StartupNotify=false
 StartupWMClass=wmtop
 X-AppInstall-Package=wmtop
 X-AppInstall-Popcon=0
-X-AppInstall-Section=main
+X-AppInstall-Section=custom
 X-Arch-Package=wmtop 0.84-3
+X-Arch-Package-Repository=custom
 X-Arch-Package-Name=wmtop
 X-Arch-Package-Version=0.84-3
 X-Arch-Package-Description=wmapplet for monitoring cpu usage
+X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://wmtop.sourceforge.net/
 Action=Neon;LCD;
 

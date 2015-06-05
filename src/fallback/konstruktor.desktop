@@ -66,9 +66,11 @@ MimeType=application/x-ldraw;application/x-multi-part-ldraw;
 StartupNotify=false
 X-AppInstall-Package=konstruktor
 X-AppInstall-Popcon=0
-X-AppInstall-Section=main
+X-AppInstall-Section=custom
 X-Arch-Package=konstruktor 0.9.beta1-1
+X-Arch-Package-Repository=custom
 X-Arch-Package-Name=konstruktor
 X-Arch-Package-Version=0.9.beta1-1
 X-Arch-Package-Description=A LDraw-based virtual LEGO(r) CAD for KDE 4.
+X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://opendesktop.org/content/show.php?content=138138
