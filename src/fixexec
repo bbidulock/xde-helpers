@@ -1,0 +1,40 @@
+#!/bin/bash
+
+dirs=(
+	app-install/desktop
+	applications
+	autostart
+	dockapps
+	fallback
+	original
+	trayicons
+	xsessions
+)
+
+for d in ${dirs[@]}
+do
+	for f in $(find $d -name '*.desktop'|sort|xargs grep -l 'TryExec=[^[:space:]/]*$')
+	do
+		echo "sed -i -e '/^TryExec=/s,=,=/usr/bin/,' $f"
+		sed -i -e '/^TryExec=/s,=,=/usr/bin/,' $f
+	done
+	if [ "$d" != "xsessions" ]
+	then
+		for f in $(find $d -name '*.desktop'|sort|xargs grep -l '^Type=XSession')
+		do
+			echo "sed -i -e '/^Type=XSession$/s,XSession,Application,' $f"
+			sed -i -e '/^Type=XSession$/s,XSession,Application,' $f
+		done
+	else
+		for f in $(find $d -name '*.desktop'|sort|xargs grep -L '^Type=Application')
+		do
+			echo "sed -i -e '/^Type=Application$/s,Application,XSession,' $f"
+			sed -i -e '/^Type=Application$/s,Application,XSession,' $f
+		done
+	fi
+	for f in $(find $d -name '*.desktop'|sort|xargs grep -l '^Type=PanelApp')
+	do
+		echo "sed -i -e '/^Type=PanelApp$/s,PanelApp,Application,' $f"
+		sed -i -e '/^Type=PanelApp$/s,PanelApp,Application,' $f
+	done
+done

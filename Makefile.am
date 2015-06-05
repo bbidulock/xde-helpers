@@ -36,6 +36,8 @@ TODO: TODO.in
 dist_noinst_SCRIPTS = autogen.sh configure.sh rebuild.sh
 
 dist_appl_DATA = \
+	src/applications/13309728252.desktop \
+	src/applications/13309728253.desktop \
 	src/applications/2bwm.desktop \
 	src/applications/aafire.desktop \
 	src/applications/abiword.desktop \
@@ -123,7 +125,6 @@ dist_appl_DATA = \
 	src/applications/Clonezilla-server.desktop \
 	src/applications/clusterssh.desktop \
 	src/applications/CMake.desktop \
-	src/applications/componentchooser.desktop \
 	src/applications/compton.desktop \
 	src/applications/compton-fluxbox.desktop \
 	src/applications/config.desktop \
@@ -143,7 +144,6 @@ dist_appl_DATA = \
 	src/applications/designer-qt3.desktop \
 	src/applications/designer-qt4.desktop \
 	src/applications/desktop.desktop \
-	src/applications/device_automounter_kcm.desktop \
 	src/applications/dhcpcd-gtk.desktop \
 	src/applications/dillo.desktop \
 	src/applications/Display.desktop \
@@ -168,7 +168,6 @@ dist_appl_DATA = \
 	src/applications/elinks.desktop \
 	src/applications/emboss-explorer.desktop \
 	src/applications/emelfm2.desktop \
-	src/applications/emoticons.desktop \
 	src/applications/empathy.desktop \
 	src/applications/encompass.desktop \
 	src/applications/eog.desktop \
@@ -198,7 +197,6 @@ dist_appl_DATA = \
 	src/applications/ffadomixer.desktop \
 	src/applications/ffado.org-ffadomixer.desktop \
 	src/applications/file-roller.desktop \
-	src/applications/filetypes.desktop \
 	src/applications/filezilla.desktop \
 	src/applications/find.desktop \
 	src/applications/firefox.desktop \
@@ -303,7 +301,6 @@ dist_appl_DATA = \
 	src/applications/icewm.desktop \
 	src/applications/icewm-session.desktop \
 	src/applications/icewmtray.desktop \
-	src/applications/icons.desktop \
 	src/applications/idesk.desktop \
 	src/applications/idle3.desktop \
 	src/applications/idle.desktop \
@@ -317,29 +314,15 @@ dist_appl_DATA = \
 	src/applications/iptraf-ng.desktop \
 	src/applications/jumanji.desktop \
 	src/applications/Jwm.desktop \
-	src/applications/kactivitymanagerd.desktop \
-	src/applications/kcm_adobe_flash_player.desktop \
-	src/applications/kcm_attica.desktop \
-	src/applications/kcmcgi.desktop \
-	src/applications/kcmkded.desktop \
-	src/applications/kcm_kdnssd.desktop \
-	src/applications/kcmnotify.desktop \
-	src/applications/kcm_phonon.desktop \
-	src/applications/kcm_ssl.desktop \
-	src/applications/kglobalaccel.desktop \
 	src/applications/kicad.desktop \
 	src/applications/kmail.desktop \
 	src/applications/kmailservice.desktop \
 	src/applications/knetattach.desktop \
-	src/applications/knotify4.desktop \
 	src/applications/konqueror.desktop \
 	src/applications/konstruktor.desktop \
 	src/applications/ksshaskpass.desktop \
 	src/applications/ktelnetservice.desktop \
-	src/applications/kuiserver.desktop \
-	src/applications/kwalletd.desktop \
 	src/applications/lal.desktop \
-	src/applications/language.desktop \
 	src/applications/larswm.desktop \
 	src/applications/libcanberra-login-sound.desktop \
 	src/applications/libcanberra-ready-sound.desktop \
@@ -515,7 +498,6 @@ dist_appl_DATA = \
 	src/applications/spacefm-find.desktop \
 	src/applications/spacefm-folder-handler.desktop \
 	src/applications/spectrwm.desktop \
-	src/applications/spellchecking.desktop \
 	src/applications/springdale-release-notes.desktop \
 	src/applications/squeak.desktop \
 	src/applications/ssh.desktop \
@@ -989,7 +971,6 @@ dist_back_DATA = \
 	src/fallback/7digital.desktop \
 	src/fallback/7zFM.desktop \
 	src/fallback/a7xpg.desktop \
-	src/fallback/aac.desktop \
 	src/fallback/aafire.desktop \
 	src/fallback/aarchup.desktop \
 	src/fallback/abe.desktop \
@@ -1003,7 +984,6 @@ dist_back_DATA = \
 	src/fallback/abrt-applet.desktop \
 	src/fallback/abstractile.desktop \
 	src/fallback/abuse.desktop \
-	src/fallback/ac3.desktop \
 	src/fallback/accerciser.desktop \
 	src/fallback/accessibility-keyboard.desktop \
 	src/fallback/accessories.desktop \
@@ -1015,12 +995,6 @@ dist_back_DATA = \
 	src/fallback/activate-screensaver-(next).desktop \
 	src/fallback/activate-screensaver-(previous).desktop \
 	src/fallback/activate-screensaver-(random).desktop \
-	src/fallback/activitymanager-plugin-activityranking.desktop \
-	src/fallback/activitymanager-plugin.desktop \
-	src/fallback/activitymanager-plugin-globalshortcuts.desktop \
-	src/fallback/activitymanager-plugin-slc.desktop \
-	src/fallback/activitymanager-plugin-sqlite.desktop \
-	src/fallback/activitymanager-plugin-virtualdesktopswitch.desktop \
 	src/fallback/ada12docde.desktop \
 	src/fallback/ada12docen.desktop \
 	src/fallback/adanaxisgpl.desktop \
@@ -1059,7 +1033,6 @@ dist_back_DATA = \
 	src/fallback/all.desktop \
 	src/fallback/allegro-devel.desktop \
 	src/fallback/alleyoop.desktop \
-	src/fallback/allfiles.desktop \
 	src/fallback/allin1.desktop \
 	src/fallback/alltray.desktop \
 	src/fallback/almanah.desktop \
@@ -1073,8 +1046,6 @@ dist_back_DATA = \
 	src/fallback/amavis-postfix.desktop \
 	src/fallback/amavis-sendmail.desktop \
 	src/fallback/amaya.desktop \
-	src/fallback/amazon.desktop \
-	src/fallback/amazon_mp3.desktop \
 	src/fallback/amg.desktop \
 	src/fallback/amide.desktop \
 	src/fallback/amorad-gui.desktop \
@@ -1105,7 +1076,6 @@ dist_back_DATA = \
 	src/fallback/apple2.desktop \
 	src/fallback/applets.desktop \
 	src/fallback/application-browser.desktop \
-	src/fallback/application.desktop \
 	src/fallback/applix-demo-eng.desktop \
 	src/fallback/applix-demo-frn.desktop \
 	src/fallback/applix-demo-grm.desktop \
@@ -1195,7 +1165,6 @@ dist_back_DATA = \
 	src/fallback/autoyast.desktop \
 	src/fallback/avahi-discover.desktop \
 	src/fallback/avant-window-navigator.desktop \
-	src/fallback/avi.desktop \
 	src/fallback/avogadro.desktop \
 	src/fallback/awesome.desktop \
 	src/fallback/awn-manager.desktop \
@@ -1208,9 +1177,7 @@ dist_back_DATA = \
 	src/fallback/background.desktop \
 	src/fallback/backintime-gnome.desktop \
 	src/fallback/backintime-kde4.desktop \
-	src/fallback/backports.desktop \
 	src/fallback/backup.desktop \
-	src/fallback/baidu.desktop \
 	src/fallback/balazarbrothers.desktop \
 	src/fallback/balazar.desktop \
 	src/fallback/Balder2D.desktop \
@@ -1226,7 +1193,6 @@ dist_back_DATA = \
 	src/fallback/base.desktop \
 	src/fallback/bash.desktop \
 	src/fallback/basic256.desktop \
-	src/fallback/basic.desktop \
 	src/fallback/basket.desktop \
 	src/fallback/bastet.desktop \
 	src/fallback/batmon.desktop \
@@ -1246,7 +1212,6 @@ dist_back_DATA = \
 	src/fallback/beanshell-(windowed).desktop \
 	src/fallback/beidgui35.desktop \
 	src/fallback/beneath-a-steel-sky.desktop \
-	src/fallback/beolingus.desktop \
 	src/fallback/berusky.desktop \
 	src/fallback/bf-animation-editor.desktop \
 	src/fallback/bf-level-editor.desktop \
@@ -1257,7 +1222,6 @@ dist_back_DATA = \
 	src/fallback/bibus.desktop \
 	src/fallback/billard-gl.desktop \
 	src/fallback/biloba.desktop \
-	src/fallback/bing.desktop \
 	src/fallback/biniax2.desktop \
 	src/fallback/BioCocoa.desktop \
 	src/fallback/bisho.desktop \
@@ -1289,7 +1253,6 @@ dist_back_DATA = \
 	src/fallback/bless.desktop \
 	src/fallback/blinkbox.desktop \
 	src/fallback/blinken.desktop \
-	src/fallback/blip.desktop \
 	src/fallback/blitspin.desktop \
 	src/fallback/blobAndConquer.desktop \
 	src/fallback/blobby2.desktop \
@@ -1297,7 +1260,6 @@ dist_back_DATA = \
 	src/fallback/bloboats.desktop \
 	src/fallback/blobwars.desktop \
 	src/fallback/blockattack.desktop \
-	src/fallback/block.desktop \
 	src/fallback/blocks.desktop \
 	src/fallback/blocks-of-the-undead.desktop \
 	src/fallback/blocktube.desktop \
@@ -1323,7 +1285,6 @@ dist_back_DATA = \
 	src/fallback/bluewho.desktop \
 	src/fallback/bme.desktop \
 	src/fallback/bmon.desktop \
-	src/fallback/bmp.desktop \
 	src/fallback/boa-constructor.desktop \
 	src/fallback/boats.desktop \
 	src/fallback/bochs.desktop \
@@ -1364,7 +1325,6 @@ dist_back_DATA = \
 	src/fallback/bridges.desktop \
 	src/fallback/briquolo.desktop \
 	src/fallback/broadcast2000.desktop \
-	src/fallback/browserview.desktop \
 	src/fallback/brutalchess.desktop \
 	src/fallback/bsc.desktop \
 	src/fallback/bsod.desktop \
@@ -1378,8 +1338,6 @@ dist_back_DATA = \
 	src/fallback/bubbles.desktop \
 	src/fallback/bubbros.desktop \
 	src/fallback/bug-buddy.desktop \
-	src/fallback/bugft.desktop \
-	src/fallback/bugno.desktop \
 	src/fallback/bugsquish.desktop \
 	src/fallback/bum.desktop \
 	src/fallback/bumps.desktop \
@@ -1420,10 +1378,8 @@ dist_back_DATA = \
 	src/fallback/calcoo.desktop \
 	src/fallback/Calculator.desktop \
 	src/fallback/calculator.desktop \
-	src/fallback/calendar.desktop \
 	src/fallback/calf.desktop \
 	src/fallback/calibre.desktop \
-	src/fallback/call.desktop \
 	src/fallback/cameleon.desktop \
 	src/fallback/cameracalibgui.desktop \
 	src/fallback/Camera.desktop \
@@ -1459,7 +1415,6 @@ dist_back_DATA = \
 	src/fallback/Cenon.desktop \
 	src/fallback/cervisia.desktop \
 	src/fallback/cgmail.desktop \
-	src/fallback/cgm.desktop \
 	src/fallback/cgmdraw.desktop \
 	src/fallback/cgoban.desktop \
 	src/fallback/cha_64bit.desktop \
@@ -1518,7 +1473,6 @@ dist_back_DATA = \
 	src/fallback/cha_ppc_prep_workflow.desktop \
 	src/fallback/cha_prep_boot.desktop \
 	src/fallback/character-map.desktop \
-	src/fallback/chardevice.desktop \
 	src/fallback/Charmap.desktop \
 	src/fallback/cha_rpm.desktop \
 	src/fallback/cha_samba.desktop \
@@ -1560,18 +1514,15 @@ dist_back_DATA = \
 	src/fallback/chess-net.desktop \
 	src/fallback/chguserpw.desktop \
 	src/fallback/childsplay.desktop \
-	src/fallback/chm.desktop \
 	src/fallback/chmsee.desktop \
 	src/fallback/choqok.desktop \
 	src/fallback/chromium-browser.desktop \
 	src/fallback/chromium-bsu.desktop \
 	src/fallback/chromium.desktop \
 	src/fallback/chui.desktop \
-	src/fallback/cia.desktop \
 	src/fallback/cilk.desktop \
 	src/fallback/circuit.desktop \
 	src/fallback/circuslinux.desktop \
-	src/fallback/citeseer.desktop \
 	src/fallback/clamtk.desktop \
 	src/fallback/clamz.desktop \
 	src/fallback/clanlib-devel.desktop \
@@ -1595,7 +1546,6 @@ dist_back_DATA = \
 	src/fallback/colorcode.desktop \
 	src/fallback/colorname.desktop \
 	src/fallback/comanche.desktop \
-	src/fallback/comicbookthumbnail.desktop \
 	src/fallback/comix.desktop \
 	src/fallback/CommonC++-devel.desktop \
 	src/fallback/common_cert.desktop \
@@ -1605,7 +1555,6 @@ dist_back_DATA = \
 	src/fallback/compiz.desktop \
 	src/fallback/compiz-gtk.desktop \
 	src/fallback/compiz-wm.desktop \
-	src/fallback/componentchooser.desktop \
 	src/fallback/composite.desktop \
 	src/fallback/compton.desktop \
 	src/fallback/compton-fluxbox.desktop \
@@ -1629,7 +1578,6 @@ dist_back_DATA = \
 	src/fallback/cosmos.desktop \
 	src/fallback/cosmos-slideshow.desktop \
 	src/fallback/cowbell.desktop \
-	src/fallback/cpan.desktop \
 	src/fallback/crack-attack.desktop \
 	src/fallback/crackberg.desktop \
 	src/fallback/craft.desktop \
@@ -1641,9 +1589,6 @@ dist_back_DATA = \
 	src/fallback/crossfire.desktop \
 	src/fallback/cryptkeeper.desktop \
 	src/fallback/crystal.desktop \
-	src/fallback/css.desktop \
-	src/fallback/ctan_cat.desktop \
-	src/fallback/ctan.desktop \
 	src/fallback/ctsim.desktop \
 	src/fallback/ctwm.desktop \
 	src/fallback/cube21.desktop \
@@ -1655,7 +1600,6 @@ dist_back_DATA = \
 	src/fallback/cubic.org-opencubicplayer.desktop \
 	src/fallback/cultivation.desktop \
 	src/fallback/cups.desktop \
-	src/fallback/cursorthumbnail.desktop \
 	src/fallback/customer_center.desktop \
 	src/fallback/cutecom.desktop \
 	src/fallback/cwaves.desktop \
@@ -1678,21 +1622,12 @@ dist_back_DATA = \
 	src/fallback/db-devel.desktop \
 	src/fallback/dbforge.desktop \
 	src/fallback/DBModeler.desktop \
-	src/fallback/dbug.desktop \
-	src/fallback/dbusinstantmessenger.desktop \
-	src/fallback/dbus_samba_export.desktop \
-	src/fallback/dbustexttospeech.desktop \
 	src/fallback/db-utils.desktop \
 	src/fallback/dc.desktop \
 	src/fallback/dc++.desktop \
-	src/fallback/dcopinstantmessenger.desktop \
-	src/fallback/dcoptexttospeech.desktop \
 	src/fallback/dc-qt.desktop \
 	src/fallback/ddd.desktop \
-	src/fallback/dds.desktop \
 	src/fallback/ddv.desktop \
-	src/fallback/de2en.desktop \
-	src/fallback/de2fr.desktop \
 	src/fallback/deb.desktop \
 	src/fallback/deb-gview.desktop \
 	src/fallback/debian-floaters.desktop \
@@ -1722,14 +1657,10 @@ dist_back_DATA = \
 	src/fallback/desktopcouch-pair.desktop \
 	src/fallback/desktop.desktop \
 	src/fallback/desktop-effects.desktop \
-	src/fallback/desktopnotifier.desktop \
 	src/fallback/desktopnova.desktop \
 	src/fallback/desktopnova-tray.desktop \
-	src/fallback/desktopthumbnail.desktop \
 	src/fallback/desmume.desktop \
 	src/fallback/devhelp.desktop \
-	src/fallback/device_automounter.desktop \
-	src/fallback/device_automounter_kcm.desktop \
 	src/fallback/devices.desktop \
 	src/fallback/dfeet.desktop \
 	src/fallback/dfo.desktop \
@@ -1739,7 +1670,6 @@ dist_back_DATA = \
 	src/fallback/dia-common.desktop \
 	src/fallback/dia.desktop \
 	src/fallback/diakonos.desktop \
-	src/fallback/dictfr.desktop \
 	src/fallback/DictionaryReader.desktop \
 	src/fallback/dicts.desktop \
 	src/fallback/diff-ext.desktop \
@@ -1747,10 +1677,6 @@ dist_back_DATA = \
 	src/fallback/diffuse.desktop \
 	src/fallback/digikam.desktop \
 	src/fallback/dillo.desktop \
-	src/fallback/dir.desktop \
-	src/fallback/directory.desktop \
-	src/fallback/directory-locked.desktop \
-	src/fallback/directorythumbnail.desktop \
 	src/fallback/dirImport.desktop \
 	src/fallback/dirinstall.desktop \
 	src/fallback/disable-xscreensaver.desktop \
@@ -1766,16 +1692,13 @@ dist_back_DATA = \
 	src/fallback/djvulibre-djview3.desktop \
 	src/fallback/djvulibre-djview4.desktop \
 	src/fallback/djvusmooth.desktop \
-	src/fallback/djvuthumbnail.desktop \
 	src/fallback/dlume.desktop \
 	src/fallback/dmenu_launch.desktop \
-	src/fallback/dmoz.desktop \
 	src/fallback/dngconverter.desktop \
 	src/fallback/dns.desktop \
 	src/fallback/dns-server.desktop \
 	src/fallback/docbook2odf.desktop \
 	src/fallback/docbook_3.desktop \
-	src/fallback/docbook.desktop \
 	src/fallback/docbook-dsssl-stylesheets.desktop \
 	src/fallback/docbook-xsl-stylesheets.desktop \
 	src/fallback/docker.desktop \
@@ -1783,7 +1706,6 @@ dist_back_DATA = \
 	src/fallback/docky.desktop \
 	src/fallback/dodgindiamond2.desktop \
 	src/fallback/dogtail-recorder.desktop \
-	src/fallback/doi.desktop \
 	src/fallback/dolphin.desktop \
 	src/fallback/dolphin-emu.desktop \
 	src/fallback/dominosa.desktop \
@@ -1807,9 +1729,6 @@ dist_back_DATA = \
 	src/fallback/drpython.desktop \
 	src/fallback/dsh.desktop \
 	src/fallback/dsl.desktop \
-	src/fallback/duckduckgo.desktop \
-	src/fallback/duckduckgo_info.desktop \
-	src/fallback/duckduckgo_shopping.desktop \
 	src/fallback/dvdisaster.desktop \
 	src/fallback/dvdrip.desktop \
 	src/fallback/dwarffortress.desktop \
@@ -1836,7 +1755,6 @@ dist_back_DATA = \
 	src/fallback/echinus.desktop \
 	src/fallback/echomixer.desktop \
 	src/fallback/eclipse.desktop \
-	src/fallback/ecosia.desktop \
 	src/fallback/ecryptfs-mount-private.desktop \
 	src/fallback/ecryptfs-setup-private.desktop \
 	src/fallback/ede.desktop \
@@ -1869,19 +1787,10 @@ dist_back_DATA = \
 	src/fallback/emerillon.desktop \
 	src/fallback/emesene.desktop \
 	src/fallback/emma.desktop \
-	src/fallback/emoticons.desktop \
-	src/fallback/emoticonstheme_adium.desktop \
-	src/fallback/emoticonstheme_kde.desktop \
-	src/fallback/emoticonstheme_pidgin.desktop \
-	src/fallback/emoticonstheme_xmpp.desktop \
 	src/fallback/empathy-accounts.desktop \
 	src/fallback/empathy.desktop \
 	src/fallback/emu8051.desktop \
 	src/fallback/emulator.desktop \
-	src/fallback/en2de.desktop \
-	src/fallback/en2es.desktop \
-	src/fallback/en2fr.desktop \
-	src/fallback/en2it.desktop \
 	src/fallback/enable-xscreensaver.desktop \
 	src/fallback/encompass.desktop \
 	src/fallback/endgame.desktop \
@@ -1889,7 +1798,6 @@ dist_back_DATA = \
 	src/fallback/enemylines7.desktop \
 	src/fallback/engine.desktop \
 	src/fallback/enigma.desktop \
-	src/fallback/enriched.desktop \
 	src/fallback/enscript.desktop \
 	src/fallback/entagged.desktop \
 	src/fallback/entrez2.desktop \
@@ -1903,16 +1811,13 @@ dist_back_DATA = \
 	src/fallback/epiphany.desktop \
 	src/fallback/epiphany-game.desktop \
 	src/fallback/epiphany-web-browser.desktop \
-	src/fallback/eps.desktop \
 	src/fallback/eqonomize.desktop \
 	src/fallback/eqsl.desktop \
 	src/fallback/eric4.desktop \
 	src/fallback/eric.desktop \
 	src/fallback/eruption.desktop \
-	src/fallback/es2en.desktop \
 	src/fallback/escape-sdl.desktop \
 	src/fallback/esc.desktop \
-	src/fallback/escputil.desktop \
 	src/fallback/esmska.desktop \
 	src/fallback/esound.desktop \
 	src/fallback/esperanza.desktop \
@@ -1922,7 +1827,6 @@ dist_back_DATA = \
 	src/fallback/etherboot.desktop \
 	src/fallback/etherboot-mknbi.desktop \
 	src/fallback/ethereal.desktop \
-	src/fallback/ethicle.desktop \
 	src/fallback/ettercap.desktop \
 	src/fallback/etw.desktop \
 	src/fallback/euler2d.desktop \
@@ -1949,8 +1853,6 @@ dist_back_DATA = \
 	src/fallback/exo-web-browser.desktop \
 	src/fallback/expat.desktop \
 	src/fallback/expoblending.desktop \
-	src/fallback/exr.desktop \
-	src/fallback/exrthumbnail.desktop \
 	src/fallback/extace.desktop \
 	src/fallback/extcalc.desktop \
 	src/fallback/extension.desktop \
@@ -1959,7 +1861,6 @@ dist_back_DATA = \
 	src/fallback/extrusion.desktop \
 	src/fallback/eye-of-gnome.desktop \
 	src/fallback/ezwgl.desktop \
-	src/fallback/facebook.desktop \
 	src/fallback/fadeplot.desktop \
 	src/fallback/failsafe-mgr.desktop \
 	src/fallback/failsafewm.desktop \
@@ -1970,7 +1871,6 @@ dist_back_DATA = \
 	src/fallback/fastdnaml.desktop \
 	src/fallback/fatrat.desktop \
 	src/fallback/faum.desktop \
-	src/fallback/fax-g3.desktop \
 	src/fallback/fbbdoc.desktop \
 	src/fallback/fbpanel.desktop \
 	src/fallback/FBReader.desktop \
@@ -2001,7 +1901,6 @@ dist_back_DATA = \
 	src/fallback/fedora-xpdf.desktop \
 	src/fallback/fedora-xsane.desktop \
 	src/fallback/fedora-xterm.desktop \
-	src/fallback/feedster.desktop \
 	src/fallback/feh.desktop \
 	src/fallback/ferret.desktop \
 	src/fallback/fet.desktop \
@@ -2009,14 +1908,11 @@ dist_back_DATA = \
 	src/fallback/ffado.org-ffadomixer.desktop \
 	src/fallback/fftw.desktop \
 	src/fallback/fiberlamp.desktop \
-	src/fallback/fifo.desktop \
 	src/fallback/fifteen.desktop \
 	src/fallback/figurine.desktop \
-	src/fallback/file.desktop \
 	src/fallback/filelight.desktop \
 	src/fallback/file-roller.desktop \
 	src/fallback/files.desktop \
-	src/fallback/filetypes.desktop \
 	src/fallback/filezilla.desktop \
 	src/fallback/filler.desktop \
 	src/fallback/fillets-ng.desktop \
@@ -2029,9 +1925,7 @@ dist_back_DATA = \
 	src/fallback/firewall.desktop \
 	src/fallback/fireworkx.desktop \
 	src/fallback/firstboot.desktop \
-	src/fallback/fits.desktop \
 	src/fallback/fityk.desktop \
-	src/fallback/fixhosturifilter.desktop \
 	src/fallback/flag.desktop \
 	src/fallback/flags-slideshow.desktop \
 	src/fallback/flame.desktop \
@@ -2043,8 +1937,6 @@ dist_back_DATA = \
 	src/fallback/flburn.desktop \
 	src/fallback/flcheckers.desktop \
 	src/fallback/fldigi.desktop \
-	src/fallback/flickrcc.desktop \
-	src/fallback/flickr.desktop \
 	src/fallback/flightgear.desktop \
 	src/fallback/flight-of-the-amazon-queen.desktop \
 	src/fallback/flipflop.desktop \
@@ -2074,7 +1966,6 @@ dist_back_DATA = \
 	src/fallback/fnlib.desktop \
 	src/fallback/foff.desktop \
 	src/fallback/fofix.desktop \
-	src/fallback/foldoc.desktop \
 	src/fallback/fontforge.desktop \
 	src/fallback/fontglide.desktop \
 	src/fallback/fontmatrix.desktop \
@@ -2093,8 +1984,6 @@ dist_back_DATA = \
 	src/fallback/fpk.desktop \
 	src/fallback/fpm2.desktop \
 	src/fallback/fqterm.desktop \
-	src/fallback/fr2de.desktop \
-	src/fallback/fr2en.desktop \
 	src/fallback/frama-c.desktop \
 	src/fallback/fraqtive.desktop \
 	src/fallback/freealchemist.desktop \
@@ -2104,10 +1993,8 @@ dist_back_DATA = \
 	src/fallback/freeciv-gtk.desktop \
 	src/fallback/freeciv-sdl.desktop \
 	src/fallback/freeciv-xaw3d.desktop \
-	src/fallback/freecode.desktop \
 	src/fallback/freecol.desktop \
 	src/fallback/freecycle.desktop \
-	src/fallback/freedb.desktop \
 	src/fallback/freediams.desktop \
 	src/fallback/freedink.desktop \
 	src/fallback/freedink-dfarc.desktop \
@@ -2133,7 +2020,6 @@ dist_back_DATA = \
 	src/fallback/frogatto.desktop \
 	src/fallback/frontbase.desktop \
 	src/fallback/frozen-bubble.desktop \
-	src/fallback/fsd.desktop \
 	src/fallback/fslint.desktop \
 	src/fallback/fslview.desktop \
 	src/fallback/f-spot.desktop \
@@ -2301,7 +2187,6 @@ dist_back_DATA = \
 	src/fallback/ghkl.desktop \
 	src/fallback/ghostscript-library.desktop \
 	src/fallback/ghostview.desktop \
-	src/fallback/gif.desktop \
 	src/fallback/giggle.desktop \
 	src/fallback/gigolo.desktop \
 	src/fallback/gimmix.desktop \
@@ -2312,8 +2197,6 @@ dist_back_DATA = \
 	src/fallback/gip.desktop \
 	src/fallback/git.desktop \
 	src/fallback/gitg.desktop \
-	src/fallback/github.desktop \
-	src/fallback/gitorious.desktop \
 	src/fallback/giver.desktop \
 	src/fallback/gjiten.desktop \
 	src/fallback/gjots2.desktop \
@@ -2798,7 +2681,6 @@ dist_back_DATA = \
 	src/fallback/icewm.desktop \
 	src/fallback/icewm-session.desktop \
 	src/fallback/icewmtray.desktop \
-	src/fallback/icons.desktop \
 	src/fallback/idesk.desktop \
 	src/fallback/idjc.desktop \
 	src/fallback/idle3.desktop \
@@ -2833,7 +2715,6 @@ dist_back_DATA = \
 	src/fallback/iptraf-ng.desktop \
 	src/fallback/iptux.desktop \
 	src/fallback/ircp-tray.desktop \
-	src/fallback/irkick.desktop \
 	src/fallback/isag.desktop \
 	src/fallback/isomaster.desktop \
 	src/fallback/istanbul.desktop \
@@ -2879,7 +2760,6 @@ dist_back_DATA = \
 	src/fallback/k3b.desktop \
 	src/fallback/k3dsurf.desktop \
 	src/fallback/kabikaboo.desktop \
-	src/fallback/kactivitymanagerd.desktop \
 	src/fallback/kaddressbook.desktop \
 	src/fallback/kadu.desktop \
 	src/fallback/kaffeine.desktop \
@@ -2927,14 +2807,6 @@ dist_back_DATA = \
 	src/fallback/KCharSelect.desktop \
 	src/fallback/kcheckgmail.desktop \
 	src/fallback/kchmviewer.desktop \
-	src/fallback/kcm_adobe_flash_player.desktop \
-	src/fallback/kcm_attica.desktop \
-	src/fallback/kcmcgi.desktop \
-	src/fallback/kcmkded.desktop \
-	src/fallback/kcm_kdnssd.desktop \
-	src/fallback/kcmnotify.desktop \
-	src/fallback/kcm_phonon.desktop \
-	src/fallback/kcm_ssl.desktop \
 	src/fallback/kcollectd.desktop \
 	src/fallback/kcolorchooser.desktop \
 	src/fallback/kdbg.desktop \
@@ -2970,7 +2842,6 @@ dist_back_DATA = \
 	src/fallback/kftpgrabber.desktop \
 	src/fallback/kgeography.desktop \
 	src/fallback/kget.desktop \
-	src/fallback/kglobalaccel.desktop \
 	src/fallback/KGoldrunner.desktop \
 	src/fallback/kgpg.desktop \
 	src/fallback/khangman.desktop \
@@ -2988,7 +2859,6 @@ dist_back_DATA = \
 	src/fallback/kimagemapeditor.desktop \
 	src/fallback/kinfocenter.desktop \
 	src/fallback/Kino.desktop \
-	src/fallback/kipiplugins.desktop \
 	src/fallback/kiriki.desktop \
 	src/fallback/kiten.desktop \
 	src/fallback/Kjots.desktop \
@@ -3032,7 +2902,6 @@ dist_back_DATA = \
 	src/fallback/knmap.desktop \
 	src/fallback/KNode.desktop \
 	src/fallback/knotes.desktop \
-	src/fallback/knotify4.desktop \
 	src/fallback/kobby.desktop \
 	src/fallback/kobodeluxe.desktop \
 	src/fallback/koffice.desktop \
@@ -3110,14 +2979,12 @@ dist_back_DATA = \
 	src/fallback/ktuberling.desktop \
 	src/fallback/kturtle.desktop \
 	src/fallback/kubrick.desktop \
-	src/fallback/kuiserver.desktop \
 	src/fallback/kuiviewer.desktop \
 	src/fallback/kupfer.desktop \
 	src/fallback/kuser.desktop \
 	src/fallback/kvirc.desktop \
 	src/fallback/kvkbd.desktop \
 	src/fallback/kvpnc.desktop \
-	src/fallback/kwalletd.desktop \
 	src/fallback/kwalletmanager.desktop \
 	src/fallback/kwave.desktop \
 	src/fallback/kwikdisk.desktop \
@@ -3129,7 +2996,6 @@ dist_back_DATA = \
 	src/fallback/laby.desktop \
 	src/fallback/lalcal.desktop \
 	src/fallback/lal.desktop \
-	src/fallback/language.desktop \
 	src/fallback/larswm.desktop \
 	src/fallback/last-exit.desktop \
 	src/fallback/lastfm.desktop \
@@ -3959,7 +3825,6 @@ dist_back_DATA = \
 	src/fallback/spectrwm.desktop \
 	src/fallback/spe.desktop \
 	src/fallback/speedcrunch.desktop \
-	src/fallback/spellchecking.desktop \
 	src/fallback/spout.desktop \
 	src/fallback/springdale-release-notes.desktop \
 	src/fallback/spring.desktop \
@@ -4594,5 +4459,4 @@ dist_back_DATA = \
 	src/fallback/zsnes.desktop \
 	src/fallback/zygrib.desktop \
 	src/fallback/zynaddsubfx.desktop \
-	src/fallback/zynjacku.desktop
 	src/fallback/zynjacku.desktop
