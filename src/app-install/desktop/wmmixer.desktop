@@ -15,9 +15,11 @@ StartupNotify=false
 StartupWMClass=wmmixer
 X-AppInstall-Package=wmmixer
 X-AppInstall-Popcon=0
-X-AppInstall-Section=main
+X-AppInstall-Section=custom
 X-Arch-Package=wmmixer 1.7+20141005-1
+X-Arch-Package-Repository=custom
 X-Arch-Package-Name=wmmixer
 X-Arch-Package-Version=1.7+20141005-1
 X-Arch-Package-Description=A mixer application written for the WindowMaker dock.
+X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://windowmaker.org/dockapps/?name=wmmixer

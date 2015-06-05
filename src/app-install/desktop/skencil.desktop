@@ -101,11 +101,14 @@ Terminal=false
 Categories=Graphics;VectorGraphics;
 StartupNotify=false
 X-AppInstall-Package=skencil
-X-AppInstall-Popcon=0
-X-AppInstall-Section=main
+X-AppInstall-Popcon=12
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
 X-Arch-Package-Name=skencil
 X-Arch-Package-Version=1.0alpha_rev784-1
 X-Arch-Package-Description=An interactive vector drawing program for X (similar to XFigor
+X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://sk1project.org/viewpage.php?page_id=21
+X-Arch-Package-Votes=12
 X-SuSE-added=GenericName,ta;GenericName,ar;GenericName,wa;GenericName,mr;GenericName,ko;GenericName,km;GenericName,gl;Name,pa;Name,ta;Name,fr;Name,et;Name,it;Name,zh_TW;Name,af;Name,sk;Name,nl;Name,es;Name,hu;Name,xh;Name,ar;Name,wa;Name,mr;Name,nb;Name,lt;Name,el;Name,ja;Name,pt;Name,sv;Name,de;Name,fi;Name,ko;Name,uk;Name,cs;Name,zh_CN;Name,bg;Name,pl;Name,km;Name,ru;Name,pt_BR;Name,da;Name,gl;GenericName,pt_BR;
 X-SuSE-translate=true

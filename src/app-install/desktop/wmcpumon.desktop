@@ -15,11 +15,13 @@ StartupNotify=false
 StartupWMClass=wmcpumon
 X-AppInstall-Package=wmcpuload
 X-AppInstall-Popcon=0
-X-AppInstall-Section=main
+X-AppInstall-Section=custom
 X-Arch-Package=wmcpuload 1.0.1-2
+X-Arch-Package-Repository=custom
 X-Arch-Package-Name=wmcpuload
 X-Arch-Package-Version=1.0.1-2
 X-Arch-Package-Description=A WindowMaker dockapp to monitor CPU usage
+X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://linux.softpedia.com/get/System/Monitoring/WMCPULoad-18753.shtml
 Actions=CPU1;CPU2;CPU3;CPU4;
 

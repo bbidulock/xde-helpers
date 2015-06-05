@@ -16,9 +16,11 @@ StartupWMClass=bbpager
 X-GNOME-Autostart-enabled=false
 X-AppInstall-Package=bbpager
 X-AppInstall-Popcon=0
-X-AppInstall-Section=main
+X-AppInstall-Section=community
 X-Arch-Package=bbpager 0.4.7-5
+X-Arch-Package-Repository=community
 X-Arch-Package-Name=bbpager
 X-Arch-Package-Version=0.4.7-5
 X-Arch-Package-Description=A dockable pager for Blackbox and other window managers
+X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://bbtools.sourceforge.net/download.php?file=6

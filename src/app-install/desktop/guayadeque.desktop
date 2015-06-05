@@ -18,11 +18,13 @@ X-GNOME-Autostart-Notify=true
 X-GNOME-Autostart-Phase=Desktop
 X-AppInstall-Package=guayadeque
 X-AppInstall-Popcon=32
-X-AppInstall-Section=main
+X-AppInstall-Section=community
 X-Arch-Package=guayadeque 0.3.7-2
+X-Arch-Package-Repository=community
 X-Arch-Package-Name=guayadeque
 X-Arch-Package-Version=0.3.7-2
 X-Arch-Package-Description=Lightweight music player
+X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://guayadeque.org/
 X-Ayatana-Desktop-Shortcuts=PlayPause;Stop;Previous;Next;
 

@@ -74,9 +74,11 @@ X-KDE-StartupNotify=false
 X-KDE-UniqueApplet=true
 X-AppInstall-Package=knemo
 X-AppInstall-Popcon=325
-X-AppInstall-Section=main
+X-AppInstall-Section=community
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Repository=community
 X-Arch-Package-Name=knemo
 X-Arch-Package-Version=0.7.6-5
 X-Arch-Package-Description=The KDE Network Monitor
+X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://www.kde-apps.org/content/show.php?content=12956

@@ -11,11 +11,14 @@ MimeType=application/docbook+xml;
 StartupNotify=false
 X-AppInstall-Package=docbook2odf
 X-AppInstall-Popcon=22
-X-AppInstall-Section=main
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
 X-Arch-Package-Name=docbook2odf
 X-Arch-Package-Version=0.244-3
 X-Arch-Package-Description=toolkit that automaticaly converts DocBook to OASIS
+X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://open.comsultia.com/docbook2odf/
+X-Arch-Package-Votes=8
 Actions=docbook2odf
 
 [Desktop Action docbook2odf]

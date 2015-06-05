@@ -14,10 +14,12 @@ StartupNotify=false
 X-Desktop-File-Install-Version=0.10
 X-AppInstall-Package=milkytracker
 X-AppInstall-Popcon=35
-X-AppInstall-Section=main
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
 X-Arch-Package-Name=milkytracker
 X-Arch-Package-Version=0.90.86-1
 X-Arch-Package-Description=Fast Tracker II inspired music tracker
+X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://www.milkytracker.org/
 
 [Desktop Action Play]

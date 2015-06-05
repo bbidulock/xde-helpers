@@ -116,11 +116,13 @@ MimeType=application/x-cd-image;
 StartupNotify=true
 X-AppInstall-Package=xfburn
 X-AppInstall-Popcon=351
-X-AppInstall-Section=main
+X-AppInstall-Section=extra
 X-Arch-Package=xfburn 0.5.4-1
+X-Arch-Package-Repository=extra
 X-Arch-Package-Name=xfburn
 X-Arch-Package-Version=0.5.4-1
 X-Arch-Package-Description=A simple CD/DVD burning tool based on libburnia libraries
+X-Arch-Package-Groups=xfce4-goodies
 X-Arch-Package-URL=http://goodies.xfce.org/projects/applications/xfburn
 Actions=BurnImage;
 

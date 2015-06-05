@@ -14,11 +14,13 @@ MimeType=application/pdf;application/x-pdf;application/x-cbz;application/oxps;ap
 StartupNotify=false
 X-AppInstall-Package=mupdf
 X-AppInstall-Popcon=0
-X-AppInstall-Section=main
+X-AppInstall-Section=community
 X-Arch-Package=mupdf 1.7_a-2
+X-Arch-Package-Repository=community
 X-Arch-Package-Name=mupdf
 X-Arch-Package-Version=1.7_a-2
 X-Arch-Package-Description=Lightweight PDF and XPS viewer
+X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://mupdf.com
 Actions=View
 
