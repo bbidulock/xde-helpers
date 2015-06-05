@@ -88,7 +88,10 @@ Name[zh_TW]=Compiz
 TryExec=/usr/bin/compiz
 Exec=compiz
 Terminal=false
+NoDisplay=true
+Categories=WindowManager;Application;System;
 StartupNotify=false
+X-GNOME-Autostart-Notify=false
 X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=compiz
@@ -97,6 +100,7 @@ X-GNOME-WMSettingsModule=compiz
 X-AppInstall-Package=compiz-core
 X-AppInstall-Popcon=2477
 X-AppInstall-Section=aur
+X-Arch-Package=compiz-core 0.8.10-1
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=compiz-core
 X-Arch-Package-Version=0.8.10-1
@@ -106,6 +110,18 @@ X-Arch-Package-URL=http://blog.northfield.ws/compiz-0-8-10-release-announcement/
 X-Arch-Package-Votes=58
 X-KDE-WindowManagerConfigure=simple-ccsm
 X-KDE-WindowManagerRestartArgument=--replace
+DesktopNames=COMPIZ
+Actions=XDE;
+
+[Desktop Action XDE]
+Name=XDE
+Icon=xde
+Exec=xde-session -desktop COMPIZ -startwm start-compiz
+Comment=compiz in an XDE session
+DesktopNames=XDE:COMPIZ
 
 [Window Manager]
+Name=compiz
 SessionManaged=false
+StartupNotification=false
+X-XDE-Managed=true
