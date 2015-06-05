@@ -145,7 +145,7 @@ Comment[zh_CN]=打开 CD/DVD 创建者
 Comment[zh_HK]=開啟 CD/DVD 製作程式
 Comment[zh_TW]=開啟 CD/DVD 製作程式
 Icon=nautilus-cd-burner
-TryExec=nautilus-cd-burner
+TryExec=/usr/bin/nautilus-cd-burner
 Exec=nautilus-cd-burner --source-iso=%f
 Terminal=false
 NoDisplay=true

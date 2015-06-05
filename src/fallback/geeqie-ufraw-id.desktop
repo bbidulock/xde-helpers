@@ -16,7 +16,7 @@ Name[sr@latin]=Izmeni NLRaw IB datoteku
 Name[sr]=Измени НЛRaw ИБ датотеку
 Name[sv]=Redigera ID-filen till UFRaw
 Icon=ufraw
-TryExec=ufraw
+TryExec=/usr/bin/ufraw
 Exec=ufraw --create-id=only %U
 Terminal=false
 OnlyShowIn=X-Geeqie;

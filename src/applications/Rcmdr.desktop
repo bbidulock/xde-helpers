@@ -8,7 +8,7 @@ Comment[de]=Graphische Umgebung fuer das R Programm fuer Statistische Berechnung
 Comment[fr]=Environnement graphique pour le logiciel de calcul statistique R
 Comment[it]=Interfaccia grafica per l'ambiente di calcolo statistico R
 Icon=_usr_lib_R_site-library_Rcmdr_etc_linux_Rcmdr
-TryExec=sh
+TryExec=/usr/bin/sh
 Exec=sh -c 'R_DEFAULT_PACKAGES="$R_DEFAULT_PACKAGES Rcmdr" R "$@"'
 Terminal=true
 Categories=Education;Science;Math;

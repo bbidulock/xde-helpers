@@ -120,7 +120,7 @@ Comment[zh_CN]=说明手册和帮助文档
 Comment[zh_TW]=使用手冊與說明文件
 Comment[zu]=Imiqulu kanye nemibhalo yokushicilela
 Icon=normal/Bug
-TryExec=ASRun
+TryExec=/usr/bin/ASRun
 Exec=ASRun --immidiate --cmd http://sourceforge.net/tracker/?group_id=30&atid=100030
 Terminal=false
 Categories=AfterStepInfo;

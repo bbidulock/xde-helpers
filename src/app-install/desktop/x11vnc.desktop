@@ -5,7 +5,7 @@ Type=Application
 Name=X11VNC Server
 Comment=Share this desktop by VNC
 Icon=computer
-TryExec=x11vnc
+TryExec=/usr/bin/x11vnc
 Exec=x11vnc -gui tray=setpass -rfbport PROMPT -bg -o %%HOME/.x11vnc.log.%%VNCDISPLAY
 Terminal=false
 Categories=Network;RemoteAccess;

@@ -127,7 +127,7 @@ Comment[zh_CN]=以幻灯片形式显示关于宇宙的图片
 Comment[zh_HK]=顯示宇宙圖片的幻燈片放映
 Comment[zh_TW]=顯示宇宙圖片的幻燈片放映
 Comment[zu]=Bonisa umboniso wezithombe zama-slide ze-cosmos
-TryExec=slideshow
+TryExec=/usr/bin/slideshow
 Exec=slideshow --location=/usr/share/pixmaps/backgrounds/cosmos
 Terminal=false
 Categories=GNOME;Screensaver;

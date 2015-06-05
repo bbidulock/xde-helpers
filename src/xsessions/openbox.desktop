@@ -98,7 +98,7 @@ GenericName[fr]=Gestionnaire de Fenêtres
 GenericName[pt]=Gestor de Janelas
 Comment=Log in using the Openbox window manager
 Icon=openbox
-TryExec=/usr/bin/openbox
+TryExec=/usr/bin//usr/bin/openbox
 Exec=openbox
 Terminal=false
 NoDisplay=true
@@ -131,7 +131,7 @@ DesktopNames=XDE:OPENBOX
 [Desktop Action Gnome]
 Name=Gnome
 Icon=gnome
-TryExec=openbox-gnome-session
+TryExec=/usr/bin/openbox-gnome-session
 Exec=openbox-gnome-session
 Comment=Use the Openbox window manager inside of the GNOME desktop environment
 DesktopNames=GNOME
@@ -139,7 +139,7 @@ DesktopNames=GNOME
 [Desktop Action KDE]
 Name=KDE
 Icon=kde
-TryExec=/usr/bin/startkde
+TryExec=/usr/bin//usr/bin/startkde
 Exec=openbox-kde-session
 Comment=Use the Openbox window manager inside of the K Desktop Environment
 DesktopNames=KDE
@@ -147,7 +147,7 @@ DesktopNames=KDE
 [Desktop Action Session]
 Name=Session
 Icon=openbox
-TryExec=openbox-session
+TryExec=/usr/bin/openbox-session
 Exec=openbox-session
 Comment=Log in using the Openbox window manager (without a session manager)
 DesktopNames=OPENBOX

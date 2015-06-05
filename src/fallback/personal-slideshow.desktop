@@ -166,7 +166,7 @@ Comment[zh_CN]=显示您图片文件夹中图片的幻灯片
 Comment[zh_HK]=顯示圖片資料夾的幻燈片放映
 Comment[zh_TW]=顯示圖片資料夾的幻燈片放映
 Comment[zu]=Bonisa umboniso wama-slide kwifolda yakho Yezithombe
-TryExec=slideshow
+TryExec=/usr/bin/slideshow
 Exec=slideshow --location=Pictures
 Terminal=false
 OnlyShowIn=GNOME;

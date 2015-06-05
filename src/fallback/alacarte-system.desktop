@@ -41,7 +41,7 @@ Comment[uk]=Зміна вибору програм, що відображают�
 Comment[zh_CN]=在系统范围内更改显示于主菜单的应用程序
 Comment[zh_TW]=變更那一個應用程式要顯示在全系統的主選單上
 Icon=alacarte
-TryExec=alacarte
+TryExec=/usr/bin/alacarte
 Exec=alacarte --system-view=/etc/alacarte_system
 Terminal=false
 NotShowIn=KDE;

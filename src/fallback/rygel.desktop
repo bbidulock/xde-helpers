@@ -7,7 +7,7 @@ Name[en_GB]=Rygel
 GenericName=UPnP/DLNA Services
 GenericName[en_GB]=UPnP/DLNA Services
 Comment=UPnP/DLNA Services
-TryExec=dbus-send
+TryExec=/usr/bin/dbus-send
 Exec=dbus-send --type=method_call --dest=org.freedesktop.DBus /org/freedesktop/DBus org.freedesktop.DBus.StartServiceByName string:org.gnome.Rygel1 uint32:0
 Terminal=false
 StartupNotify=true

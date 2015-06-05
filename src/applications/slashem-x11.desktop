@@ -6,7 +6,7 @@ Name=X Slash'EM
 GenericName=X Slash'EM
 Comment=Super Lotsa Added Stuff Hack - Extended Magic (X11)
 Icon=slashem
-TryExec=sh
+TryExec=/usr/bin/sh
 Exec=sh -c 'SLASHEMOPTIONS=/etc/slashemrc.x11 /usr/games/slashem-11'
 Terminal=false
 Categories=Game;AdventureGame;

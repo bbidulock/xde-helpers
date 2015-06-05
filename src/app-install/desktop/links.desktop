@@ -60,7 +60,7 @@ Name[zh_CN]=Links 文本浏览器
 Name[zh_HK]=Links 文字瀏覽器
 Name[zh_TW]=Links 文字瀏覽器
 Icon=links_32x32.xpm
-TryExec=links
+TryExec=/usr/bin/links
 Exec=links
 Terminal=true
 Categories=Network;WebBrowser;ConsoleOnly;
@@ -81,12 +81,12 @@ Actions=Console;Graphical;
 
 [Desktop Action Console]
 Name=Console
-TryExec=links
+TryExec=/usr/bin/links
 Exec=links
 Terminal=true
 
 [Desktop Action Grapnical]
 Name=Graphical
-TryExec=xlinks
+TryExec=/usr/bin/xlinks
 Exec=xlinks -g
 Terminal=false

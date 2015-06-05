@@ -37,7 +37,7 @@ Comment[sv]=Visa en notifieringsikon när dokument skrivs ut
 Comment[xh]=I-Imeyili ye-Evolution
 Comment[zh_CN]=Evolution 电子邮件
 Icon=evolution
-TryExec=evolution
+TryExec=/usr/bin/evolution
 Exec=evolution --component=mail
 Terminal=false
 Categories=Network;GNOME;
