@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Firewall configuration
 Name[ast]=Configuración del tornafuéu
 Name[bg]=Конфигуриране на защитната стена
 Name[da]=Konfiguration af brandmur
-Name[en_AU]=Firewall configuration
 Name[es]=Configuración cortafuegos
 Name[it]=Configurazione firewall
 Name[ja]=ファイアウォールの設定
@@ -33,7 +30,6 @@ Comment[zh_CN]=允许您配置 ufw 防火墙
 Icon=_usr_share_icons_hicolor_48x48_apps_gufw_menu
 TryExec=/usr/bin/gksudo
 Exec=gksudo --preserve-env --description /usr/share/applications/gufw.desktop /usr/share/gufw/gufw.py
-Terminal=false
 Categories=Settings;System;
 StartupNotify=false
 X-AppInstall-Package=gksu

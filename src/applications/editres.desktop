@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=X Resource Editor
 GenericName=X Tool
@@ -8,7 +6,6 @@ Comment=Resource editor for X Toolkit applications
 Icon=xlogo
 TryExec=/usr/bin/editres
 Exec=editres
-Terminal=false
 Categories=Application;X-X11;X-XTool;
 StartupNotify=false
 StartupWMClass=editres

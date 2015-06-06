@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=DVI Viewer
 Comment=DVI viewer for TeX DVI files
 Icon=gnome-word.png
 TryExec=/usr/bin/xdvi
 Exec=xdvi
-Terminal=false
 NoDisplay=true
 Categories=Application;Graphics;X-Red-Hat-Extra;
 MimeType=application/x-dvi;

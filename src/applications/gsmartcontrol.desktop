@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GSmartControl
 GenericName=Hard Disk Health Inspection
@@ -8,7 +6,6 @@ Comment=Monitor and control SMART data on hard disks
 Icon=gsmartcontrol
 TryExec=/usr/bin/gsmartcontrol_polkit
 Exec=/usr/bin/gsmartcontrol_polkit
-Terminal=false
 Categories=System;Monitor;GTK;
 StartupNotify=false
 X-AppInstall-Package=gsmartcontrol

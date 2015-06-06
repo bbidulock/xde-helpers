@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Temperature Sensor Dock App (wmgtemp)
 GenericName=System Monitor
@@ -8,7 +6,6 @@ Comment=A temperature sensor dock app
 Icon=GNUstep3D
 TryExec=/usr/bin/wmgtemp
 Exec=wmgtemp
-Terminal=false
 OnlyShowIn=FLUXBOX;BLACKBOX;LXDE;OPENBOX;WMAKER;PEKWM;ADWM;WAIMEA;
 Categories=DockApp;WMAKER;
 StartupNotify=false

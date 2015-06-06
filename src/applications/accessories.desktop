@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=X Magnifier
 Name[af]=X Vergroter
@@ -141,7 +139,6 @@ Comment[zu]=Umenzi mkhulu we Desktop
 Icon=normal/MagnifyingGlass
 TryExec=/usr/bin/xmag
 Exec=xmag
-Terminal=false
 Categories=Utility;
 StartupNotify=false
 X-AppInstall-Package=xorg-xmag

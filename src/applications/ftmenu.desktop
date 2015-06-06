@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Fluxbox Tray Menu
 GenericName=System Tray Icon
@@ -8,7 +6,6 @@ Comment=Fluxbox root menu in system tray.
 Icon=start-here
 TryExec=/usr/bin/ftmenu
 Exec=ftmenu
-Terminal=false
 Categories=TrayIcon;System;Utility;GTK;
 StartupNotify=false
 StartupWMClass=ftmenu

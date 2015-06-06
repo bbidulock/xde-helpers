@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=X Snow
 GenericName=Desktop Background
@@ -8,7 +6,6 @@ Comment=Application that snows on the root, in-between, and on windows.
 Icon=wallpaper
 TryExec=/usr/bin/xsnow
 Exec=xsnow
-Terminal=false
 Categories=AfterStepDesktop;
 StartupNotify=false
 X-AppInstall-Package=xsnow

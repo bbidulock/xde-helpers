@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=X Window Dump
 GenericName=XWD
@@ -8,7 +6,6 @@ Comment=Dump an X window to a file
 Icon=xlogo
 TryExec=/usr/bin/xwd
 Exec=bash -c "set -e; xwd>`zenity --entry --text Filename`"
-Terminal=false
 Categories=Application;X-X11;X-XTool;
 StartupNotify=false
 X-AppInstall-Package=xorg-xwd

@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=FOX Desktop Setup
 Comment=Setup desktop appearance for FOX applications
 Icon=preferences-desktop-theme
 TryExec=/usr/bin/ControlPanel
 Exec=ControlPanel
-Terminal=false
 Categories=Settings;DesktopSettings;
 StartupNotify=false
 StartupWMClass=FOX-DESKTOP

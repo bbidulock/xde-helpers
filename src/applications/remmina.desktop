@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Remmina Remote Desktop Client
 Name[bg]=Клиент за отдалечен достъп Remmina
@@ -12,7 +10,6 @@ Name[es]=Cliente de escritorio remoto Remmina
 Name[eu]=Remmina, urruneko mahaigainen bezeroa
 Name[fr]=Visionneur de bureaux distants Remmina
 Name[hu]=Remmina távoli asztal kliens
-Name[id]=Remmina Remote Desktop Client
 Name[it]=Client di connessione a desktop remoti Remmina
 Name[lt]=Remmina nutolusio darbalaukio klientas
 Name[nl]=Remmina Extern Bureaublad Client
@@ -48,7 +45,6 @@ Comment[zh_CN]=连接到远程桌面
 Icon=remmina
 TryExec=/usr/bin/remmina
 Exec=remmina
-Terminal=false
 Categories=Network;GNOME;GTK;X-GNOME-NetworkSettings;
 StartupNotify=false
 X-AppInstall-Package=remmina-gtk2

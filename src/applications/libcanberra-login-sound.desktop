@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GNOME Login Sound
 Comment=Plays a sound whenever you log in
 TryExec=/usr/bin/canberra-gtk-play
 Exec=/usr/bin/canberra-gtk-play --id="desktop-login" --description="GNOME Login"
-Terminal=false
 OnlyShowIn=GNOME;
 StartupNotify=false
 X-GNOME-Autostart-Phase=Application

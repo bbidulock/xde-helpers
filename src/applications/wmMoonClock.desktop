@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=wmMoonClock
 GenericName=Moon Ephemeris
@@ -8,7 +6,6 @@ Comment=WindowMaker dockapp that shows lunar ephemeris to fairly high accuracy
 Icon=GNUstep3D
 TryExec=/usr/bin/wmMoonClock
 Exec=wmMoonClock
-Terminal=false
 OnlyShowIn=FLUXBOX;BLACKBOX;LXDE;OPENBOX;WMAKER;PEKWM;ADWM;WAIMEA;
 Categories=DockApp;WMAKER;
 StartupNotify=false

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Filesystem Mounting Dock App
 GenericName=Mount Manager
@@ -8,7 +6,6 @@ Comment=A WindowMaker filesystem mounting dockapp using udisks
 Icon=GNUstep3D
 TryExec=/usr/bin/wmudmount
 Exec=wmudmount
-Terminal=false
 OnlyShowIn=FLUXBOX;BLACKBOX;LXDE;OPENBOX;WMAKER;PEKWM;ADWM;WAIMEA;
 Categories=DockApp;WMAKER;GTK;
 StartupNotify=false

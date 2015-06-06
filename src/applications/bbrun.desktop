@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=BlackBox Run Command
 GenericName=Launcher
@@ -8,7 +6,6 @@ Comment=Run Command DockApp
 Icon=system-run
 TryExec=/usr/bin/bbrun
 Exec=bbrun -a -w
-Terminal=false
 Hidden=true
 OnlyShowIn=BLACKBOX;
 Categories=DockApp;WMAKER;GTK;

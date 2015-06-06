@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Open cue album
 Name[cs]=Otevřít album cue
@@ -17,7 +15,6 @@ Comment[zh_TW]=在本目錄打開 CUE 檔案
 Icon=qmmp
 TryExec=/usr/bin/sh
 Exec=sh -c "qmmp '%F'/*.cue"
-Terminal=false
 Categories=AudioVideo;Audio;Player;Qt;
 MimeType=inode/directory;
 StartupNotify=false

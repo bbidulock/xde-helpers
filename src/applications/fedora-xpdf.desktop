@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Xpdf PDF Viewer
 Name[de]=Xpdf PDF-Betrachter
@@ -11,7 +9,6 @@ Comment[sv]=Visar Adobe PDF-filer (acrobat-filer)
 Icon=xpdf.png
 TryExec=/usr/bin/xpdf
 Exec=xpdf
-Terminal=false
 Categories=Application;Graphics;X-Fedora;
 MimeType=application/pdf;
 StartupNotify=false

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Reset color map
 GenericName=X Tool
@@ -8,7 +6,6 @@ Comment=X standard colormap utility
 Icon=xlogo
 TryExec=/usr/bin/xstdcmap
 Exec=xstdcmap -default
-Terminal=false
 Categories=Application;X-X11;X-XTool;
 StartupNotify=false
 X-AppInstall-Package=xstdcmap

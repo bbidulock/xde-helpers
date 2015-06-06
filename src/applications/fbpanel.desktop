@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Fluxbox Panel
 GenericName=fbpanel 6.1
@@ -8,7 +6,6 @@ Comment=Fluxbox Panel
 Icon=/usr/share/fbpanel/images/logo.png
 TryExec=/usr/bin/fbpanel
 Exec=fbpanel
-Terminal=false
 OnlyShowIn=FLUXBOX;BLACKBOX;
 Categories=System;Utility;GTK;Fluxbox;
 StartupNotify=false

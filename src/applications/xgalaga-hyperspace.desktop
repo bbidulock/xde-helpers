@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Galaga:Hyperspace
 Comment=Play enhanced Galaga Game
 Icon=xgalaga-icon
 TryExec=/usr/bin/xgalaga-hyperspace
 Exec=xgalaga-hyperspace
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=xgalaga

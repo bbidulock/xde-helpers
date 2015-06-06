@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=SSH AskPass
 GenericName=ssh-add
@@ -8,7 +6,6 @@ Comment=Enter passphrase to authenticate to the ssh agent
 Icon=ssh-askpass-gnome
 TryExec=/usr/bin/ssh-add
 Exec=/usr/bin/ssh-add
-Terminal=false
 Categories=Network;Security;
 StartupNotify=false
 X-AppInstall-Package=openssh

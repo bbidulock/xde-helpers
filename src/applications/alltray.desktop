@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Application Tray Icon
 GenericName=System Tray Icon
@@ -8,7 +6,6 @@ Comment=Drops any application in the system tray
 Icon=alltray.png
 TryExec=/usr/bin/alltray
 Exec=alltray -a
-Terminal=false
 Categories=TrayIcon;System;Utility;GTK;
 StartupNotify=false
 X-AppInstall-Package=alltray

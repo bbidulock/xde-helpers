@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=X Window Information
 GenericName=XWinInfo
@@ -8,7 +6,6 @@ Comment=List the information of a clicked window.
 Icon=xlogo
 TryExec=/usr/bin/xwininfo
 Exec=xwininfo -frame -all -children|gxmessage -name xwininfo -geometry 750x500 -font 'Liberation Mono 8' -title 'X Windows' -file -
-Terminal=false
 Categories=Application;X-X11;X-XTool;
 StartupNotify=false
 StartupWMClass=xwininfo

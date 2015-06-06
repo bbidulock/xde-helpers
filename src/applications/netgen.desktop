@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Netgen Mesh Generator
 GenericName=Netgen
@@ -8,7 +6,6 @@ Comment=3-D finite element mesh generator
 Icon=netgen16x16
 TryExec=/usr/bin/sh
 Exec=sh -c 'NETGENDIR=/usr/share/netgen /usr/bin/netgen'
-Terminal=false
 Categories=Education;Science;Math;
 StartupNotify=false
 X-AppInstall-Package=bash

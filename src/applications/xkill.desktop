@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=X Kill
 Name[af]=X-maak-dood
@@ -96,7 +94,6 @@ Comment[zu]=Ithuluzi Lewindi Lokungaphakathi
 Icon=xlogo
 TryExec=/usr/bin/xkill
 Exec=xkill
-Terminal=false
 Categories=Application;X-X11;X-XTool;
 StartupNotify=false
 X-AppInstall-Package=xorg-xkill

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Blender (windowed)
 Name[de]=Blender (Fenstermodus)
@@ -16,7 +14,6 @@ Comment[ru]=Создание и редактирование трёхмерны�
 Icon=blender
 TryExec=/usr/bin/blender
 Exec=blender -w
-Terminal=false
 Categories=Graphics;3DGraphics;
 MimeType=application/x-blender;
 StartupNotify=false

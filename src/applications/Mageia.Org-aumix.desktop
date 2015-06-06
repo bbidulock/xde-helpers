@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Aumix
 Comment=Basic volume controller
 Icon=sound_section
 TryExec=/usr/bin/aumix
 Exec=aumix
-Terminal=false
 Categories=Audio;Mixer;GTK;
 StartupNotify=true
 X-AppInstall-Package=aumix

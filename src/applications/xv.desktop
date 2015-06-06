@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=XV Image Viewer
 GenericName=Image Viewer
@@ -94,7 +92,6 @@ Comment[zu]=Umboniseli Womfanekiso
 Icon=xv
 TryExec=/usr/bin/xv
 Exec=xv
-Terminal=false
 Categories=Application;Graphics;
 StartupNotify=false
 X-AppInstall-Package=xv

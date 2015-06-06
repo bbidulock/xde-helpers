@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Links Text Browser
 Name[ar]=Links متصفح النصوص
@@ -10,11 +8,8 @@ Name[bg]=Links текстов Интернет браузър
 Name[bn]=পাঠ্য ব্রাউজার লিঙ্ক করা হয়
 Name[ca]=Navegador web de text Links
 Name[cs]=Textový prohlížeč Links
-Name[da]=Links Text Browser
 Name[de]=Links (textbasiert)
 Name[el]=Περιηγητής διαδικτύου Links
-Name[en_AU]=Links Text Browser
-Name[en_GB]=Links Text Browser
 Name[es]=Navegador web en modo texto Links
 Name[et]=Links tekstisirvija
 Name[eu]=Links testu nabigatzailea
@@ -30,7 +25,6 @@ Name[it]=Browser testuale Links
 Name[ja]=Links テキストブラウザー
 Name[kk]=Links мәтіндік браузері
 Name[ko]=Links 텍스트 브라우저
-Name[lt]=Links Text Browser
 Name[lv]=Links teksta pārlūks
 Name[ms]=Pelayar Teks Links
 Name[nb]=Links tekstnettleser
@@ -50,7 +44,6 @@ Name[sr]=Линкс прегледач текста
 Name[sv]=Textwebbläsaren Links
 Name[te]=లింక్స్ పాఠ్య విహారకం
 Name[th]=เบราว์เซอร์โหมดข้อความ Links
-Name[tr]=Links Text Browser
 Name[ug]=ئۇلانما  تېكىست كۆرگۈ
 Name[uk]=Переглядач Links текстовий
 Name[ur]=روابط متن براؤزر
@@ -85,10 +78,8 @@ Actions=Console;Graphical;
 Name=Console
 TryExec=/usr/bin/links
 Exec=links
-Terminal=true
 
 [Desktop Action Grapnical]
 Name=Graphical
 TryExec=/usr/bin/xlinks
 Exec=xlinks -g
-Terminal=false

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Qt3 Assistant
 Name[de]=Qt3 Assistent
@@ -9,7 +7,6 @@ Comment[de]=Qt3 Hilfezentrum
 Icon=assistant
 TryExec=/usr/bin/assistant-qt3
 Exec=assistant-qt3
-Terminal=false
 Categories=Development;Qt;
 MimeType=application/x-assistant;
 StartupNotify=false

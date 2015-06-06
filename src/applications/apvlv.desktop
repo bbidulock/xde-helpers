@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Alf's PDF Viewer Like Vim
 GenericName=PDF Viewer
@@ -16,7 +14,6 @@ Comment[uk_UA]=Легкий переглядач документів
 Icon=postscript-viewer
 TryExec=/usr/bin/apvlv
 Exec=apvlv %f
-Terminal=false
 Categories=Office;Viewer;
 MimeType=application/pdf;application/postscript;application/eps;application/x-eps;image/eps;image/x-eps;image/vnd.djvu;
 StartupNotify=true

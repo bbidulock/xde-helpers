@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Xedit
 Comment=Xedit: a simple text editor for X
 TryExec=/usr/bin/xedit
 Exec=xedit
-Terminal=false
 Categories=Utility;TextEditor;
 StartupNotify=false
 X-AppInstall-Package=xorg-xedit

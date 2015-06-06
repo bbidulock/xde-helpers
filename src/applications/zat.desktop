@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Zat
 GenericName=PDF Viewer
@@ -102,7 +100,6 @@ Comment[uk_UA]=Легкий переглядач документів
 Icon=zat
 TryExec=/usr/bin/zat
 Exec=zat %f
-Terminal=false
 Categories=Office;Viewer;GTK;
 Keywords=PDF;document;presentation;
 MimeType=application/pdf;

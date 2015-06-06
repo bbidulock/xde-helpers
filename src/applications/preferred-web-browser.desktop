@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=1) Web Browser
 Name[ca]=Navegador web
@@ -66,7 +64,6 @@ Comment[sv]=Surfa på webben
 Icon=web-browser
 TryExec=/usr/bin/firefox
 Exec=firefox %u
-Terminal=false
 Categories=Preferred;
 MimeType=text/html;text/xml;application/xhtml+xml;application/vnd.mozilla.xul+xml;text/mml;
 StartupNotify=true

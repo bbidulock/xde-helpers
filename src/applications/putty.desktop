@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=PuTTY SSH Client
 GenericName=PuTTY
@@ -8,7 +6,6 @@ Comment=Connect to an SSH server with PuTTY
 Icon=putty
 TryExec=/usr/bin/putty
 Exec=putty
-Terminal=false
 Categories=Application;Network;GTK;
 StartupNotify=false
 X-AppInstall-Package=putty

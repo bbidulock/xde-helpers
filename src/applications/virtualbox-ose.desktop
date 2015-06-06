@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=VirtualBox OSE
 GenericName=PC virtualization solution
@@ -8,7 +6,6 @@ Comment=Run several virtual systems on a single host computer
 Icon=virtualbox
 TryExec=/usr/bin/virtualbox
 Exec=virtualbox
-Terminal=false
 Categories=System;Emulator;
 StartupNotify=false
 X-AppInstall-Package=virtualbox

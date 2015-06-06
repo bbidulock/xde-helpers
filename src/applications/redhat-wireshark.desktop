@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Wireshark Network Analyzer
 Name[fi]=Wireshark
@@ -11,7 +9,6 @@ Comment[sv]=Nätverkstrafikanalysator
 Icon=wireshark.png
 TryExec=/usr/bin/wireshark
 Exec=wireshark
-Terminal=false
 Categories=Application;Network;GTK;X-Red-Hat-Extra;
 StartupNotify=false
 X-Desktop-File-Install-Version=0.10

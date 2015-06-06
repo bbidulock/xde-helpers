@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=X Fishtank
 GenericName=Desktop Background
@@ -8,7 +6,6 @@ Comment=Animated aquarium background on your screen with tropical fish.
 Icon=wallpaper
 TryExec=/usr/bin/xfishtank
 Exec=xfisktank
-Terminal=false
 Categories=AfterStepDesktop;
 StartupNotify=false
 X-AppInstall-Package=xfishtank

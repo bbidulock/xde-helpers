@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Xditview
 GenericName=Ditroff Viewer
@@ -8,7 +6,6 @@ Comment=A ditroff file viewer for X
 Icon=postscript-viewer
 TryExec=/usr/bin/xditview
 Exec=xditview %f
-Terminal=false
 Categories=Office;Viewer;
 MimeType=text/troff;
 StartupNotify=false

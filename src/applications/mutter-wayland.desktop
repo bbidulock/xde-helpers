@@ -1,11 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Mutter (wayland compositor)
 TryExec=/usr/bin/mutter
 Exec=mutter --wayland --display-server
-Terminal=false
 NoDisplay=true
 StartupNotify=false
 X-GNOME-Autostart-Notify=true

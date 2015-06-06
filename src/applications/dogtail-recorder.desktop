@@ -1,17 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Dogtail Script Recorder
-Name[en_CA]=Dogtail Script Recorder
-Name[en_GB]=Dogtail Script Recorder
 Comment=Automate your desktop using Dogtail
-Comment[en_CA]=Automate your desktop using Dogtail
-Comment[en_GB]=Automate your desktop using Dogtail
 Icon=dogtail-head.svg
 TryExec=/usr/bin/dogtail-recorder
 Exec=dogtail-recorder
-Terminal=false
 Categories=Application;Development;
 StartupNotify=true
 X-AppInstall-Package=dogtail

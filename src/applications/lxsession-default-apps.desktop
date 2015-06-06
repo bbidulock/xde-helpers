@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Default applications for LXSession
 Name[ar]=تطبيقاات LXSession الافتراضية
@@ -61,7 +59,6 @@ Comment[zh_TW]=變更 LXDE 的預設應用程式
 Icon=xfwm4
 TryExec=/usr/bin/lxsession-default-apps
 Exec=lxsession-default-apps
-Terminal=false
 NotShowIn=GNOME;KDE;XFCE;
 Categories=Settings;DesktopSettings;GTK;X-LXDE-Settings;
 StartupNotify=false

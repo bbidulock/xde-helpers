@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Map
 Comment=Colour each region with one of four colours so that no two regions sharing a boundary have the same colour
@@ -9,7 +7,6 @@ Comment[fr]=Colorer chaque région d'une couleur de telle sorte que deux région
 Icon=map
 TryExec=/usr/bin/map
 Exec=map
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=perl-unicode-map

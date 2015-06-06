@@ -1,11 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=XBoard (passive chessboard)
 TryExec=/usr/bin/xboard
 Exec=xboard -ncp
-Terminal=false
 Hidden=true
 Categories=Game;BoardGame;
 StartupNotify=false

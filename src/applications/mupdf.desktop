@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=MuPDF
 GenericName=PDF file viewer
 Icon=mupdf
 TryExec=/usr/bin/mupdf
 Exec=mupdf %f
-Terminal=false
 NoDisplay=true
 Categories=Graphics;Viewer;
 MimeType=application/pdf;application/x-pdf;application/x-cbz;application/oxps;application/vnd.ms-xpsdocument;image/jpeg;image/pjpeg;image/png;image/tiff;image/x-tiff;
@@ -26,4 +23,5 @@ Actions=View
 
 [Desktop Action View]
 Name=View with mupdf
+TryExec=/usr/bin/mupdf
 Exec=mupdf %f

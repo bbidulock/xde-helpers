@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=OpenNX Session Administrator
 Name[de]=OpenNX Sitzungs-Administrator
@@ -11,7 +9,6 @@ Comment[ru]=Управление сессиями OpenNX
 Icon=opennx-admin
 TryExec=/usr/bin/opennx
 Exec=/usr/bin/opennx --admin
-Terminal=false
 Categories=Network;RemoteAccess;
 StartupNotify=false
 X-AppInstall-Package=opennx

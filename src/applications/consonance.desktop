@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Consonance
 GenericName=Music Manager
@@ -8,7 +6,6 @@ Comment=A lightweight music manager
 Icon=consonance.png
 TryExec=/usr/bin/consonance
 Exec=consonance %F
-Terminal=false
 Categories=Application;AudioVideo;Player;GTK;
 MimeType=audio/x-mp3;audio/mpeg;audio/x-mpeg;audio/mpeg3;audio/mp3;application/ogg;application/x-ogg;audio/vorbis;audio/x-vorbis;audio/ogg;audio/x-ogg;audio/x-flac;application/x-flac;audio/flac;audio/x-wav;
 StartupNotify=false

@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GNOME System Ready Sound
 Comment=Plays a sound whenever your system is ready for login
 TryExec=/usr/bin/canberra-gtk-play
 Exec=/usr/bin/canberra-gtk-play --id="system-ready" --description="GNOME System Ready"
-Terminal=false
 OnlyShowIn=GNOME;
 StartupNotify=false
 X-GNOME-Autostart-Phase=Application

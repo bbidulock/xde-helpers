@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GSpiceUI
 Comment=A GUI to various freely available Spice electronic circuit simulators
 TryExec=/usr/bin/gspiceui
 Exec=gspiceui
-Terminal=false
 Categories=Application;Science;GTK;
 StartupNotify=false
 X-AppInstall-Package=gspiceui

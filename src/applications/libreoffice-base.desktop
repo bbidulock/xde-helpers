@@ -1,16 +1,11 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=LibreOffice Base
 GenericName=Database Development
-GenericName[en]=Database Development
 Comment=Manage databases, create queries and reports to track and manage your information by using Base.
-Comment[en]=Manage databases, create queries and reports to track and manage your information by using Base.
 Icon=libreoffice-base
 TryExec=/usr/bin/libreoffice
 Exec=libreoffice --base %U
-Terminal=false
 Categories=Office;Database;X-MandrivaLinux-MoreApplications-Databases;X-Red-Hat-Base;
 Keywords=Data;SQL;
 MimeType=application/vnd.oasis.opendocument.database;application/vnd.sun.xml.base;
@@ -33,4 +28,5 @@ Actions=NewDocument;
 
 [Desktop Action NewDocument]
 Name=New Database
+TryExec=/usr/bin/libreoffice
 Exec=libreoffice --base

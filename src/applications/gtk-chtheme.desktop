@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gtk-ChTheme
 GenericName=GTK+2.0 Theme Changer
@@ -8,7 +6,6 @@ Comment=GTK+ 2.0 theme changer and previewer utility
 Icon=preferences-desktop-theme
 TryExec=/usr/bin/gtk-chtheme
 Exec=/usr/bin/gtk-chtheme
-Terminal=false
 NotShowIn=GNOME;XFCE;
 Categories=Settings;System;DesktopSettings;GTK;
 StartupNotify=true

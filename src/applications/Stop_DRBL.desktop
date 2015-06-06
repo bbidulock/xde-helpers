@@ -1,9 +1,6 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Stop DRBL
-Name[en]=Stop DRBL
 Name[es]=Parar DRBL
 Name[fr]=Arreter DRBL
 Name[it]=Fermare DRBL
@@ -11,7 +8,6 @@ Name[ja]=DRBL 停止
 Name[zh_CN]=停止 DRBL
 Name[zh_TW]=停止 DRBL
 GenericName=Stop DRBL
-GenericName[en]=Stop DRBL
 GenericName[es]=Parar DRBL
 GenericName[fr]=Arrêter DRBL
 GenericName[it]=Fermare DRBL
@@ -19,7 +15,6 @@ GenericName[ja]=DRBL 停止
 GenericName[zh_CN]=停止 DRBL
 GenericName[zh_TW]=停止 DRBL
 Comment=Stop DRBL
-Comment[en]=Stop DRBL
 Comment[es]=Parar DRBL
 Comment[fr]=Arrêt de DRBL
 Comment[it]=Fermare DRBL

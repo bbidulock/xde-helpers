@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=2bwm
 GenericName=Window Manager
@@ -10,7 +8,6 @@ Comment=2bwm - A fast floating and keyboard driven window manager
 Icon=2bWM
 TryExec=/usr/bin/2bwm
 Exec=2bwm
-Terminal=false
 NoDisplay=true
 Categories=WindowManager;Application;System;
 StartupNotify=false
@@ -33,9 +30,10 @@ Actions=XDE;
 
 [Desktop Action XDE]
 Name=XDE
-Icon=xde
-Exec=xde-session -desktop 2BWM -startwm start-2bwm
 Comment=2bwm in an XDE session
+Icon=xde
+TryExec=/usr/bin/xde-session
+Exec=xde-session -desktop 2BWM -startwm start-2bwm
 DesktopNames=XDE:2BWM
 
 [Window Manager]

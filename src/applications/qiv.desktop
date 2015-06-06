@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=qiv
 Comment=Quick Image Viewer
 Icon=qiv
 TryExec=/usr/bin/qiv
 Exec=qiv -tBl %U
-Terminal=false
 NoDisplay=true
 Categories=Graphics;2DGraphics;RasterGraphics;Viewer;GNOME;GTK;
 Keywords=Picture;Slideshow;Graphics;

@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Stuurman Desktop Preferences
 Comment=Change desktop wallpapers and behavior of Stuurman desktop manager
 Icon=user-desktop
 TryExec=/usr/bin/stuurman-desktop
 Exec=stuurman-desktop --desktop-pref
-Terminal=false
 Categories=Settings;DesktopSettings;GTK;
 StartupNotify=true
 X-AppInstall-Package=stuurman-desktop-git

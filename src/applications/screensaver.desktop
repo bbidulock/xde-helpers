@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Thornbird (unlocked)
 GenericName=screensaver-activate
@@ -8,7 +6,6 @@ Comment=Unlocked xlock screensaver
 Icon=ScreensaverUnlocked
 TryExec=/usr/bin/xlock
 Exec=xlock -nolock -mode thornbird
-Terminal=false
 Categories=ScreensaverXlockUnlocked;
 StartupNotify=false
 X-AppInstall-Package=xlockmore-blank

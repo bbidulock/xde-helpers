@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=emelFM2
 GenericName=file manager
@@ -14,7 +12,6 @@ Comment[zh_CN]=2-面板 文件管理器
 Icon=emelfm2
 TryExec=/usr/bin/emelfm2
 Exec=/usr/bin/emelfm2
-Terminal=false
 Categories=Application;System;Utility;FileTools;FileManager;Core;GTK;
 MimeType=inode/directory;inode/mount-point;
 StartupNotify=false

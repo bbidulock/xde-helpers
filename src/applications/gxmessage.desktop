@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gxmessage
 GenericName=gxmessage
@@ -9,7 +7,6 @@ Comment[cs]=Klon xmessage postavený na knihovně GTK2.
 Icon=gxmessage
 TryExec=/usr/bin/gxmessage
 Exec=gxmessage --help | gxmessage -name gxmessage -geometry 400x400 -font 'Liberation Mono 8' -title 'GXMessage Help' -file -
-Terminal=false
 Hidden=true
 Categories=Utility;GTK;
 StartupNotify=false

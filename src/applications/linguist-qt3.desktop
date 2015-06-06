@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Qt3 Linguist
 Name[de]=Qt3-Linguist
@@ -23,7 +21,6 @@ Comment[sv]=Verktyg för att översätta meddelandekataloger från Qt3-baserade 
 Icon=linguist
 TryExec=/usr/bin/linguist-qt3
 Exec=linguist-qt3
-Terminal=false
 Categories=Development;Qt;
 MimeType=application/x-linguist;
 StartupNotify=false

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Zathura
 Comment=A minimalistic document viewer
@@ -20,7 +18,6 @@ Comment[tr]=Minimalist bir belge görüntüleyicisi
 Comment[uk_UA]=Легкий переглядач документів
 TryExec=/usr/bin/zathura
 Exec=zathura %f
-Terminal=false
 NoDisplay=true
 Categories=Office;Viewer;
 MimeType=application/pdf;

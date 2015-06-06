@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GNOME Keyring Daemon
 Name[ar]=عفريت حلقة مفاتيح جنوم
@@ -16,7 +14,6 @@ Name[da]=GNOME-nøgleringsdæmon
 Name[de]=GNOME-Schlüsselbunddienst
 Name[el]=Δαίμονας κλειδοθήκης GNOME
 Name[en@shaw]=·𐑜𐑯𐑴𐑥 𐑒𐑰𐑮𐑦𐑙 𐑛𐑰𐑥𐑩𐑯
-Name[en_GB]=GNOME Keyring Daemon
 Name[es]=Demonio del Depósito de claves de GNOME
 Name[et]=GNOME võtmerõnga deemon
 Name[eu]=GNOMEren gako-sorten daemona
@@ -58,7 +55,6 @@ Name[zh_HK]=GNOME 密碼匙圈伺服程式
 Name[zh_TW]=GNOME 鑰匙圈伺服程式
 TryExec=/usr/bin/gnome-keyring-daemon
 Exec=gnome-keyring-daemon --start
-Terminal=false
 OnlyShowIn=GNOME;
 StartupNotify=false
 X-GNOME-Autostart-Notify=true

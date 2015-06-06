@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=xterm Terminal
 GenericName=Terminal
@@ -8,7 +6,6 @@ Comment=Terminal emulator for the X Window System
 Icon=gnome-xterm.png
 TryExec=/usr/bin/xterm
 Exec=xterm
-Terminal=false
 NoDisplay=true
 Categories=System;TerminalEmulator;
 StartupNotify=false

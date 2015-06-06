@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=matwm2
 GenericName=Window Manager
@@ -10,7 +8,6 @@ Comment=A nice tiling or floating window manager
 Icon=matwm2
 TryExec=/usr/bin/matwm2
 Exec=matwm2
-Terminal=false
 NoDisplay=true
 Categories=WindowManager;Application;System;
 StartupNotify=false
@@ -33,9 +30,10 @@ Actions=XDE;
 
 [Desktop Action XDE]
 Name=XDE
-Icon=xde
-Exec=xde-session -desktop MATWM2 -startwm start-matwm2
 Comment=matwm2 under an XDE session
+Icon=xde
+TryExec=/usr/bin/xde-session
+Exec=xde-session -desktop MATWM2 -startwm start-matwm2
 DesktopNames=XDE:MATWM2
 
 [Window Manager]

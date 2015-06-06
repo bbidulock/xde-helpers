@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Pop-Up Notifications
 Name[ar]=تنبيهات منبثقة
@@ -50,7 +48,6 @@ Comment[zh_CN]=设置您的弹出通知首选项
 Icon=notification-properties
 TryExec=/usr/bin/notification-properties
 Exec=notification-properties
-Terminal=false
 NoDisplay=true
 OnlyShowIn=GNOME;
 NotShowIn=KDE;

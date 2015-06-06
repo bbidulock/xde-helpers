@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Qt4 Linguist
 Name[hu]=Qt4 Nyelvész
@@ -82,7 +80,6 @@ Comment=Add translations to Qt4 applications
 Icon=linguist-qt4
 TryExec=/usr/bin/linguist-qt4
 Exec=linguist-qt4
-Terminal=false
 Categories=Development;Translation;Qt;
 MimeType=text/vnd.trolltech.linguist;application/x-linguist;
 StartupNotify=false

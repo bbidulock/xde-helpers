@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Systemd File Browser
 GenericName=Systemd Files
 Icon=applications-system
 TryExec=/usr/bin/sd-files
 Exec=sd-files
-Terminal=false
 NotShowIn=GNOME;KDE;XFCE;LXDE;
 Categories=System;
 StartupNotify=true

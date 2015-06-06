@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Firewall Builder
 GenericName=Firewall administration tool
@@ -8,7 +6,6 @@ Comment=Design and Manage Firewall Rules
 Icon=fwbuilder
 TryExec=/usr/bin/fwbuilder
 Exec=fwbuilder
-Terminal=false
 Categories=Settings;System;Security;Qt;
 MimeType=text/x-xml-fwbuilder;
 StartupNotify=true

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=aumix
 GenericName=Audio Mixer
@@ -8,7 +6,6 @@ Comment=Simple mixer control program
 Icon=aumix
 TryExec=/usr/bin/aumix
 Exec=aumix
-Terminal=false
 Categories=AudioVideo;Audio;Player;
 StartupNotify=false
 X-AppInstall-Package=aumix

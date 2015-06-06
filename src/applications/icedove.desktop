@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Icedove Mail/News
 Name[ar]=Icedove
@@ -68,7 +66,6 @@ Icon=icedove
 TryExec=/usr/bin/icedove
 Exec=icedove %u
 X-MultipleArgs=false
-Terminal=false
 Categories=Network;Email;News;GTK;
 MimeType=message/rfc822;
 StartupNotify=true

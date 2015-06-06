@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gtk Theme Switch 2
 Comment=A simple GTK2 theme switcher.
 Icon=preferences-desktop-theme
 TryExec=/usr/bin/gtk-theme-switch2
 Exec=gtk-theme-switch2
-Terminal=false
 NotShowIn=GNOME;XFCE;
 Categories=Settings;DesktopSettings;GTK;
 StartupNotify=true
