@@ -125,4 +125,5 @@ Actions=Edit;
 
 [Desktop Action Edit]
 Name=Edit Settings
+TryExec=/usr/bin/xde-input
 Exec=xde-input -editor

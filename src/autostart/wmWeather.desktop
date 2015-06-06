@@ -24,4 +24,5 @@ Actions=CYEG;
 [Desktop Action CYEG]
 Name=Metar Station CYEG
 Icon=GNUstep3D
+TryExec=/usr/bin/wmWeather
 Exec=wmWeather -s CYEG
