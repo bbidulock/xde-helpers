@@ -1,10 +1,15 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Trayer System Tray
 GenericName=System Tray Icon
 Comment=A lightweight GTK2-based system tray
-Terminal=false
 Categories=TrayIcon;System;Utility;GTK;
 StartupNotify=false
+X-AppInstall-Package=trayer
+X-AppInstall-Section=extra
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=trayer
+X-Arch-Package-Version=1.0-8
+X-Arch-Package-Description=A lightweight GTK2-based systray
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://gna.org/projects/fvwm-crystal/

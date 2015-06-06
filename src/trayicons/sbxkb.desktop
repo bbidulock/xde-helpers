@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Keyboard Switcher Tray Icon
 GenericName=System Tray Icon
@@ -8,7 +6,6 @@ Comment=Simple tray XKB indicator
 Icon=wmaker-keyboard
 TryExec=/usr/bin/sbxkb
 Exec=sbxkb
-Terminal=false
 Categories=TrayIcon;System;Utility;GTK;
 StartupNotify=false
 X-AppInstall-Package=sbxkb

@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Systemd Applet
 GenericName=System Applet
 Icon=applications-system
 TryExec=/usr/bin/sd-applet
 Exec=sd-applet
-Terminal=false
 NotShowIn=GNOME;KDE;XFCE;LXDE;
 Categories=TrayIcon;
 StartupNotify=true
