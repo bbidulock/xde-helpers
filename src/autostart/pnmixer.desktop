@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Audio Mixer Tray Icon
 GenericName=System Tray Mixer
@@ -12,7 +10,6 @@ Comment[fr]=Un Mixeur Audio pour la Zone de Notification
 Icon=multimedia-volume-control
 TryExec=/usr/bin/pnmixer
 Exec=pnmixer
-Terminal=false
 NotShowIn=GNOME;KDE;XFCE;LXDE;OPENBOX;ICEWM;WMAKER;JWM;
 Categories=TrayIcon;AudioVideo;System;GTK;
 StartupNotify=false

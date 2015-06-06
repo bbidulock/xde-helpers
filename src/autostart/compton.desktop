@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Compton
 GenericName=X compositor
@@ -8,7 +6,6 @@ Comment=An X compositor
 Icon=xcompmgr
 TryExec=/usr/bin/compton
 Exec=compton --config ~/.config/compton/compton.conf
-Terminal=false
 Hidden=true
 OnlyShowIn=FLUXBOX;BLACKBOX;OPENBOX;ICEWM;WMAKER;FVWM;JWM;PEKWM;ADWM;WAIMEA;
 Categories=Utility;

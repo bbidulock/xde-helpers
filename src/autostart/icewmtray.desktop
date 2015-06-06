@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=IceWM Tray
 GenericName=System Tray
@@ -8,7 +6,6 @@ Comment=System tray for the IceWM
 Icon=starred
 TryExec=/usr/bin/icewmtray
 Exec=icewmtray
-Terminal=false
 NoDisplay=true
 OnlyShowIn=ICEWM;
 Categories=System;Utility;ICEWM;
