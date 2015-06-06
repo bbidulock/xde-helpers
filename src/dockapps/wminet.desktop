@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=wmInet
 GenericName=Network Monitor
@@ -8,7 +6,6 @@ Comment=A dock app for monitoring internet connections
 Icon=GNUstep3D
 TryExec=/usr/bin/wminet
 Exec=wminet
-Terminal=false
 OnlyShowIn=FLUXBOX;BLACKBOX;LXDE;OPENBOX;WMAKER;PEKWM;ADWM;WAIMEA;
 Categories=DockApp;WMAKER;
 StartupNotify=false

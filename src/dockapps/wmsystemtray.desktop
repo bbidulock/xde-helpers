@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=WindowMaker System Tray
 GenericName=System Tray
@@ -8,7 +6,6 @@ Comment=Provide a system tray in the WM dock
 Icon=GNUstep3D
 TryExec=/usr/bin/wmsystemtray
 Exec=wmsystemtray -s
-Terminal=false
 OnlyShowIn=BLACKBOX;WMAKER;
 Categories=DockApp;TrayIcon;System;Utility;WMAKER;SystemTray;
 StartupNotify=false

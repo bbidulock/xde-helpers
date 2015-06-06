@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=wmSMPmon
 Comment=Graphs usage for multiple CPUs as well as memory and swap usage.
 TryExec=/usr/bin/wmSMPmon
 Exec=wmSMPmon
-Terminal=false
 OnlyShowIn=FLUXBOX;BLACKBOX;LXDE;OPENBOX;WMAKER;PEKWM;ADWM;WAIMEA;
 Categories=DockApp;WMAKER;
 StartupNotify=false

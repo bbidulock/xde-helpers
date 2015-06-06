@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Binary Clock Dock App
 GenericName=Clock
@@ -8,7 +6,6 @@ Comment=Binary clock dock app
 Icon=GNUstep3D
 TryExec=/usr/bin/wmBinClock
 Exec=wmBinClock
-Terminal=false
 OnlyShowIn=FLUXBOX;BLACKBOX;LXDE;OPENBOX;WMAKER;PEKWM;ADWM;WAIMEA;
 Categories=DockApp;WMAKER;
 StartupNotify=false

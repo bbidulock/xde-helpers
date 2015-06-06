@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=System Tray Docker
 GenericName=System Tray
@@ -8,7 +6,6 @@ Comment=Provide a system tray in the dock
 Icon=GNUstep3D
 TryExec=/usr/bin/peksystray
 Exec=peksystray
-Terminal=false
 OnlyShowIn=BLACKBOX;OPENBOX;WMAKER;
 Categories=DockApp;TrayIcon;System;Utility;WMAKER;
 StartupNotify=false
