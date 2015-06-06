@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=XSession
 Name=TWM
 Name[bn]=কে-টিপ
@@ -85,7 +83,6 @@ Comment[zu]=Isilawuli se-Tab Window
 Icon=twm
 TryExec=/usr/bin/twm
 Exec=twm
-Terminal=false
 NoDisplay=true
 Categories=WindowManager;Application;System;
 StartupNotify=false
@@ -109,9 +106,10 @@ Actions=XDE;
 
 [Desktop Action XDE]
 Name=XDE
-Icon=xde
-Exec=xde-session -desktop TWM -startwm start-twm
 Comment=TWM under an XDE session
+Icon=xde
+TryExec=/usr/bin/xde-session
+Exec=xde-session -desktop TWM -startwm start-twm
 DesktopNames=XDE:TWM
 
 [Window Manager]

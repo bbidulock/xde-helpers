@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=XSession
 Name=Blackbox
 GenericName=Window Manager
@@ -10,7 +8,6 @@ Comment=Highly configurable and low resource X11 Window manager
 Icon=blackbox
 TryExec=/usr/bin/blackbox
 Exec=blackbox
-Terminal=false
 NoDisplay=true
 Categories=WindowManager;Application;System;
 StartupNotify=false
@@ -33,9 +30,10 @@ Actions=XDE;
 
 [Desktop Action XDE]
 Name=XDE
-Icon=xde
-Exec=xde-session -desktop BLACKBOX -startwm start-blackbox
 Comment=Blackbox in an XDE session
+Icon=xde
+TryExec=/usr/bin/xde-session
+Exec=xde-session -desktop BLACKBOX -startwm start-blackbox
 DesktopNames=XDE:BLACKBOX
 
 [Window Manager]

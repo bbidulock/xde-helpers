@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=XSession
 Name=LXDE
 GenericName=X11 Desktop Environment
@@ -16,7 +14,6 @@ Comment[zh_TW]=LXDE - 輕量級的 X11 桌面環境
 Icon=lxde-icon
 TryExec=/usr/bin/startlxde
 Exec=startlxde
-Terminal=false
 Categories=WindowManager;Application;System;
 StartupNotify=false
 X-GNOME-Autostart-Notify=true

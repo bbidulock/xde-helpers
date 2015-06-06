@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=XSession
 Name=FVWM
 Name[bn]=জি-ভি
@@ -71,7 +69,6 @@ Comment[zu]=Isendlalelo esisebenza njengomlawuli wesibonisi esinamandla se-ICCCM
 Icon=fvwm
 TryExec=/usr/bin/fvwm
 Exec=fvwm
-Terminal=false
 NoDisplay=true
 Categories=WindowManager;Application;System;
 StartupNotify=true
@@ -100,9 +97,10 @@ Actions=XDE;
 
 [Desktop Action XDE]
 Name=XDE
-Icon=xde
-Exec=xde-session -desktop FVWM -startwm fvwm
 Comment=FVWM in an XDE session
+Icon=xde
+TryExec=/usr/bin/xde-session
+Exec=xde-session -desktop FVWM -startwm fvwm
 DesktopNames=XDE:FVWM
 
 [Window Manager]

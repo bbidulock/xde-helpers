@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=XSession
 Name=VTWM
 GenericName=Window Manager
@@ -10,7 +8,6 @@ Comment=Virtual Tab Window Manager
 Icon=vtwm
 TryExec=/usr/bin/vtwm
 Exec=vtwm
-Terminal=false
 NoDisplay=true
 Categories=WindowManager;Application;System;
 StartupNotify=false
@@ -33,9 +30,10 @@ Actions=XDE;
 
 [Desktop Action XDE]
 Name=XDE
-Icon=xde
-Exec=xde-session -desktop VTWM -startwm start-vtwm
 Comment=VTWM under an XDE session
+Icon=xde
+TryExec=/usr/bin/xde-session
+Exec=xde-session -desktop VTWM -startwm start-vtwm
 DesktopNames=XDE:VTWM
 
 [Window Manager]

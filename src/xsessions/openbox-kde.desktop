@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=XSession
 Name=KDE/Openbox
 GenericName=Window Manager
@@ -10,7 +8,6 @@ Comment=Use the Openbox window manager inside of the K Desktop Environment
 Icon=openbox
 TryExec=/usr/bin/startkde
 Exec=openbox-kde-session
-Terminal=false
 Hidden=true
 Categories=WindowManager;Application;System;
 StartupNotify=false

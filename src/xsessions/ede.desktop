@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=XSession
 Name=EDE
 GenericName=Window Manager
@@ -10,7 +8,6 @@ Comment=This session logs you into EDE Desktop
 Icon=ede
 TryExec=/usr/bin/startede
 Exec=startede
-Terminal=false
 Categories=WindowManager;Application;System;
 StartupNotify=false
 X-GNOME-Autostart-Notify=false

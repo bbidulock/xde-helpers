@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=XSession
 Name=MWM
 GenericName=Window Manager
@@ -10,7 +8,6 @@ Comment=Motif Window Manager
 Icon=mwm
 TryExec=/usr/bin/mwm
 Exec=mwm
-Terminal=false
 NoDisplay=true
 Categories=WindowManager;Application;System;
 StartupNotify=false
@@ -33,9 +30,10 @@ Actions=XDE;
 
 [Desktop Action XDE]
 Name=XDE
-Icon=xde
-Exec=xde-session -desktop MWM -startwm mwm
 Comment=MWM under an XDE session
+Icon=xde
+TryExec=/usr/bin/xde-session
+Exec=xde-session -desktop MWM -startwm mwm
 DesktopNames=XDE:MWM
 
 [Window Manager]

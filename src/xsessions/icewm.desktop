@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=XSession
 Name=IceWM
 GenericName=Window Manager
@@ -10,7 +8,6 @@ Comment=Simple and fast window manger
 Icon=icewm
 TryExec=/usr/bin/icewm
 Exec=icewm
-Terminal=false
 NoDisplay=true
 Categories=WindowManager;Application;System;
 StartupNotify=false
@@ -34,17 +31,18 @@ Actions=XDE;Session;
 
 [Desktop Action XDE]
 Name=XDE
-Icon=xde
-Exec=xde-session -desktop ICEWM -startwm start-icewmn
 Comment=IceWM in an XDE session
+Icon=xde
+TryExec=/usr/bin/xde-session
+Exec=xde-session -desktop ICEWM -startwm start-icewmn
 DesktopNames=XDE:ICEWM
 
 [Desktop Action Session]
 Name=IceWM Session
-Icon=icewm
-Exec=icewm-session
-Name[en_US]=IceWM Session
 Comment=Simple and fast window manger
+Icon=icewm
+TryExec=/usr/bin/icewm-session
+Exec=icewm-session
 
 [Window Manager]
 Name=icewm
