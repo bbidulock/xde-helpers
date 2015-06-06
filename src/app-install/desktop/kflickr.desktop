@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=kFlickr
 Name[xx]=xxkflickrxx
@@ -11,7 +9,6 @@ Comment[xx]=xxA standalone Flickr uploader for KDExx
 Icon=kflickr
 TryExec=/usr/bin/kflickr
 Exec=kflickr
-Terminal=false
 Categories=Graphics;Network;Photography;FileTransfer;KDE;
 StartupNotify=false
 X-AppInstall-Package=kflickr

@@ -1,11 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=cilk
 Comment=Language for multithreaded parallel programming based on ANSI C
 Comment[hu]=Programnyelv a többszálú ANSCI C alapú programozáshoz
-Terminal=false
 StartupNotify=false
 DocPath=/usr/share/doc/packages/cilk/cilk-faq.html/index.html
 X-AppInstall-Package=cilk

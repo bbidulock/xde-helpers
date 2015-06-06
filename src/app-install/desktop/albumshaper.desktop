@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Album Shaper
 Comment=Photo album organiser
 Icon=_usr_share_albumshaper_images_miscImages_as32
 TryExec=/usr/bin/albumshaper
 Exec=albumshaper
-Terminal=false
 Categories=Graphics;Utility;
 StartupNotify=false
 X-AppInstall-Package=albumshaper

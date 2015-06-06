@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=KETM
 GenericName=ketm
@@ -8,7 +6,6 @@ Comment=Kill Everything That Moves
 Icon=ketm
 TryExec=/usr/bin/ketm
 Exec=ketm
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=ketm

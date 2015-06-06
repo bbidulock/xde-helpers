@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Pie Dock
 GenericName=System Tray
@@ -8,7 +6,6 @@ Comment=A circular menu
 Icon=emblem-new
 TryExec=/usr/bin/piedock
 Exec=piedock
-Terminal=false
 Categories=System;Utility;
 StartupNotify=false
 X-AppInstall-Package=piedock

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=File Types Editor
 Name[da]=Filtyperedigering
@@ -10,7 +8,6 @@ Comment[da]=Redigér filtyper
 Icon=assogiate
 TryExec=/usr/bin/assogiate
 Exec=assogiate
-Terminal=false
 OnlyShowIn=GNOME;
 Categories=System;FileTools;GNOME;GTK;X-GNOME-PersonalSettings;
 StartupNotify=false

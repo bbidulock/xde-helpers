@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=JClic Author
 Comment=Tool to create and modify JClic projects
@@ -10,7 +8,6 @@ Comment[valencia]=Creeu i modifiqueu projectes JClic
 Icon=jclicauthor.png
 TryExec=/usr/bin/jclicauthor
 Exec=jclicauthor
-Terminal=false
 Categories=Application;Education;
 StartupNotify=true
 X-AppInstall-Package=jclic

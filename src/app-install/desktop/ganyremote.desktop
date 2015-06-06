@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=ganyremote
 Name[xx]=xxganyremotexx
@@ -29,7 +27,6 @@ Comment[xx]=xxBluetooth remote controlxx
 Icon=ganyremote
 TryExec=/usr/bin/ganyremote
 Exec=ganyremote
-Terminal=false
 Categories=Utility;
 StartupNotify=false
 X-Desktop-File-Install-Version=5.11.5

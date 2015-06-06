@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=TaskJuggler
 GenericName=Project Management Software
@@ -8,7 +6,6 @@ Comment=Project Management Software
 Icon=taskjuggler
 TryExec=/usr/bin/TaskJugglerUI
 Exec=TaskJugglerUI
-Terminal=false
 Categories=Office;ProjectManagement;KDE;Qt;
 MimeType=application/x-tjp;application/x-tjx;
 StartupNotify=false

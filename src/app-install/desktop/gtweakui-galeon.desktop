@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=gTweakUI - Galeon
 Comment=Extra galeon preferences
 Icon=/usr/share/gTweakUI/g.png
 TryExec=/usr/bin/gtweakui-galeon
 Exec=gtweakui-galeon
-Terminal=false
 OnlyShowIn=GNOME;
 Categories=Application;Settings;GNOME;
 StartupNotify=true

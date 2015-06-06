@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=OneD Biological Sequence Viewer
 GenericName=Sequence Viewer
@@ -8,7 +6,6 @@ Comment=View single biological sequences
 Icon=ncbilogo
 TryExec=/usr/bin/udv
 Exec=udv
-Terminal=false
 Categories=Education;Science;Biology;
 StartupNotify=false
 X-AppInstall-Package=ncbi-tools-x11

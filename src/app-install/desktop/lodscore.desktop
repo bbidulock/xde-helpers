@@ -1,15 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=lodscore
 GenericName=Fastlink compare likelihoods
-GenericName[en]=Fastlink compare likelihoods
 Comment=Compares likelihoods at locally optimal theta
-Comment[en]=Compares likelihoods at locally optimal theta
 TryExec=/usr/bin/lodscore
 Exec=lodscore
-Terminal=false
 Categories=Education;Science;Biology;
 StartupNotify=false
 X-AppInstall-Package=fastlink

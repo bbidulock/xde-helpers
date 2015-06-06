@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Freqtweak
 Comment=Realtime audio processor based on frequency spectral manipulation
 Icon=freqtweak_logo32x18.xpm
 TryExec=/usr/bin/freqtweak
 Exec=freqtweak
-Terminal=false
 Categories=AudioVideo;Audio;Midi;
 StartupNotify=false
 X-AppInstall-Package=freqtweak

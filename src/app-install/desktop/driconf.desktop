@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=3D Acceleration
 Comment=Change 3D Acceleration options
 Icon=_usr_share_driconf_driconf-icon
 TryExec=/usr/bin/driconf
 Exec=driconf
-Terminal=false
 Categories=Application;Settings;GNOME;AdvancedSettings;
 StartupNotify=true
 X-AppInstall-Package=driconf

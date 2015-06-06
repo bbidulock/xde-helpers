@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=SDL Slash'EM
 GenericName=SDL Slash'EM
@@ -8,7 +6,6 @@ Comment=Super Lotsa Added Stuff Hack - Extended Magic (SDL)
 Icon=slashem
 TryExec=/usr/games/slashem-sdl
 Exec=/usr/games/slashem-sdl
-Terminal=false
 Categories=Game;AdventureGame;
 StartupNotify=false
 X-AppInstall-Package=slashem-sdl

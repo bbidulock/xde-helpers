@@ -1,11 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=MailTC Tray Icon
 GenericName=System Tray Icon
 Comment=Lightweight GTK2 mail checker for the system tray
-Terminal=false
 Categories=TrayIcon;System;Utility;GTK;
 StartupNotify=false
 X-AppInstall-Package=mailtc

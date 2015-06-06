@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Secret Maryo Chronicles
 GenericName=Platform Game
@@ -8,7 +6,6 @@ Comment=A 2D platform game with style similar to classic sidescroller games
 Icon=smc
 TryExec=/usr/bin/smc
 Exec=smc
-Terminal=false
 Categories=Game;
 StartupNotify=false
 X-AppInstall-Package=smc

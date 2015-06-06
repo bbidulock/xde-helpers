@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=ALSA Mixer
 Comment=Graphical interface to the ALSA mixer device using gtk+
 TryExec=/usr/bin/gamix
 Exec=gamix
-Terminal=false
 OnlyShowIn=GNOME;
 Categories=AudioVideo;GNOME;GTK;
 StartupNotify=true

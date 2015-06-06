@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gfax Facsimile Program
 Name[de]=Gfax-Faxprogramm
@@ -12,7 +10,6 @@ Comment[hu]=Faxprogram GNOME-hoz
 Icon=gfax
 TryExec=/usr/bin/gfax
 Exec=gfax
-Terminal=false
 Categories=Office;GNOME;GTK;
 StartupNotify=true
 DocPath=/usr/share/gnome/help/gfax/C/gfax.html

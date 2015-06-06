@@ -1,17 +1,12 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Shrew Soft VPN Access Manager
 Name[de]=Shrew Soft VPN Zugangsverwaltung
-Name[en_CA]=Shrew Soft VPN Access Manager
 Comment=Application to manage remote site configurations
 Comment[de]=Anwendung zum Verwalten der VPN-konfigurationen
-Comment[en_CA]=Application to manage remote site configurations
 Icon=ikea
 TryExec=/usr/bin/ikea
 Exec=/usr/bin/ikea
-Terminal=false
 Categories=Network;
 StartupNotify=false
 X-AppInstall-Package=ike

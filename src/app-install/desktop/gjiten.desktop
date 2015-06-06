@@ -1,10 +1,6 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gjiten
-Name[de]=Gjiten
-Name[de_CH]=Gjiten
 Name[ja]=Gjiten 日本語辞典
 Comment=Japanese dictionary
 Comment[de]=Japanisches Wörterbuch
@@ -15,7 +11,6 @@ Comment[ja]=日本語辞典です
 Icon=jiten
 TryExec=/usr/bin/gjiten
 Exec=gjiten
-Terminal=false
 Categories=Application;Utility;GNOME;
 StartupNotify=true
 DocPath=/usr/share/gnome/help/gjiten/C/index.html

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=KSniffer
 Name[sv]=Ksniffer
@@ -58,7 +56,6 @@ Comment[xx]=xxA KDE application for sniffing your networkxx
 Icon=ksniffer.png
 TryExec=/usr/bin/ksniffer
 Exec=ksniffer
-Terminal=false
 Categories=Network;KDE;Qt;
 StartupNotify=false
 DocPath=ksniffer/index.html

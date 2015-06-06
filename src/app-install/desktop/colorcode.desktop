@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=ColorCode
 GenericName=Clone of the MasterMind code-breaking game
@@ -9,7 +7,6 @@ Comment=Advanced clone of the MasterMind code-breaking game
 Icon=_usr_share_pixmaps_colorcode32
 TryExec=/usr/games/colorcode
 Exec=/usr/games/colorcode
-Terminal=false
 Categories=Game;LogicGame;Qt;
 StartupNotify=false
 X-AppInstall-Package=colorcode

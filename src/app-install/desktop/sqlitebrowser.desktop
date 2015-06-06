@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=SQLite database browser
 Comment=GUI editor for SQLite databases
 Icon=sqlitebrowser.png
 TryExec=/usr/bin/sqlitebrowser
 Exec=sqlitebrowser
-Terminal=false
 Categories=Development;Database;Qt;
 MimeType=application/x-sqlite;
 StartupNotify=false

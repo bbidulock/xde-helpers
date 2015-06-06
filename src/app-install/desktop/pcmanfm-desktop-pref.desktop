@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Desktop Preferences
 Name[ar]=تفضيلات سطح المكتب
@@ -12,7 +10,6 @@ Name[cs]=Nastavení pracovní plochy
 Name[da]=Skrivebordsindstillinger
 Name[de]=Desktop Einstellungen
 Name[el]=Ρυθμίσεις επιφάνειας εργασίας
-Name[en_GB]=Desktop Preferences
 Name[es]=Preferencias del escritorio
 Name[et]=Töölaua eelistused
 Name[eu]=Mahaigainaren hobespenak
@@ -100,7 +97,6 @@ Comment[zh_TW]=變更桌面管現程式的桌布及行為
 Icon=user-desktop
 TryExec=/usr/bin/pcmanfm
 Exec=pcmanfm --desktop-pref
-Terminal=false
 NotShowIn=GNOME;KDE;XFCE;
 Categories=Settings;DesktopSettings;GTK;X-LXDE-Settings;
 StartupNotify=true

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gvb
 Comment=Play with waves and vibrations
@@ -9,7 +7,6 @@ Comment[it]=Gioca con onde e vibrazioni
 Icon=gvb.svg
 TryExec=/usr/bin/gvb
 Exec=gvb
-Terminal=false
 Categories=Education;Science;Physics;
 StartupNotify=false
 X-KDE-SubstituteUID=false

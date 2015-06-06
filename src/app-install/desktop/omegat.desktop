@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=OmegaT
 Comment=Computer-Assisted Translation tool
 Icon=_usr_share_omegat_images_OmegaT
 TryExec=/usr/bin/omegat
 Exec=omegat
-Terminal=false
 Categories=Development;Office;Translation;Java;
 StartupNotify=false
 X-AppInstall-Package=omegat
@@ -15,7 +12,7 @@ X-AppInstall-Popcon=22
 X-AppInstall-Section=aur
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=omegat
-X-Arch-Package-Version=3.1.9_01-1
+X-Arch-Package-Version=3.1.9_02-1
 X-Arch-Package-Description=Multiplatform CAT tool application, written in Java
 X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://www.omegat.org/en/omegat.html

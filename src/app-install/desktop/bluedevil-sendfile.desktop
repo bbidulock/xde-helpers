@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=BlueDevil Send File
 GenericName=BlueDevil Send File
@@ -8,7 +6,6 @@ Comment=BlueDevil Send File
 Icon=preferences-system-bluetooth
 TryExec=/usr/bin/bluedevil-sendfile
 Exec=bluedevil-sendfile %U
-Terminal=false
 Categories=Network;KDE;Qt;Bluetooth;
 MimeType=virtual/bluedevil-sendfile;
 StartupNotify=false

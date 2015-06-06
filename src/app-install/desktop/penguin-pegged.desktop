@@ -1,11 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Penguin Pegged
 TryExec=/usr/games/ace-pegged
 Exec=/usr/games/ace-pegged
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=ace-of-penguins

@@ -1,10 +1,7 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=DOSBox Emulator
 Name[ca]=Emulador DOSBox
-Name[de]=DOSBox Emulator
 Name[es]=Emulador DOSBox
 Name[it]=DOSBox emulatore
 Name[nl]=DOSBox Simulator
@@ -21,7 +18,6 @@ Comment[ua]=Запуск старих DOS-застосувань
 Icon=dosbox
 TryExec=/usr/bin/dosbox
 Exec=dosbox
-Terminal=false
 Categories=Game;Emulator;
 StartupNotify=false
 X-AppInstall-Package=dosbox

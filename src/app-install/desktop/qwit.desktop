@@ -1,16 +1,12 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Qwit
-Name[it]=Qwit
 GenericName=Twitter Client
 Comment=Qt4 Twitter Client
 Comment[it]=Client di Twitter
 Icon=qwit
 TryExec=/usr/bin/qwit
 Exec=qwit
-Terminal=false
 Categories=Network;
 StartupNotify=false
 X-AppInstall-Package=qwit

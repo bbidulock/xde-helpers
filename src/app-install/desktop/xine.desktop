@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Xine
 Name[pl]=Odtwarzacz xine
@@ -10,7 +8,6 @@ Comment[pl]=Odtwarzacz filmów
 Icon=xine
 TryExec=/usr/bin/xine
 Exec=xine %U
-Terminal=false
 Categories=Application;AudioVideo;Player;
 MimeType=video/mpeg;video/quicktime;video/x-msvideo;video/x-anim;audio/x-mp3;audio/x-mp2;
 StartupNotify=false

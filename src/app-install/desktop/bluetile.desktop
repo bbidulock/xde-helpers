@@ -1,11 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Bluetile
 TryExec=/usr/bin/bluetile
 Exec=bluetile
-Terminal=false
 StartupNotify=false
 X-GNOME-Autostart-Notify=true
 X-GNOME-Autostart-Phase=WindowManager

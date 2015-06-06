@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=ProjectL
 Comment=HIZ's ProjectL
 Icon=projectl
 TryExec=/usr/bin/projectl
 Exec=projectl
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=projectl

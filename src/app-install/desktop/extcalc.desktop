@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Extcalc
 Icon=_usr_share_icons_icon48
 TryExec=/usr/bin/extcalc
 Exec=extcalc
-Terminal=false
 Categories=Utility;Qt;
 StartupNotify=false
 X-AppInstall-Package=extcalc

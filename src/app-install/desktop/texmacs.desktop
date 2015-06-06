@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GNU TeXmacs Editor
 GenericName=TeXmacs Editor
@@ -8,7 +6,6 @@ Comment=A structured wysiwyg scientific text editor
 Icon=TeXmacs
 TryExec=/usr/bin/texmacs
 Exec=texmacs %f
-Terminal=false
 Categories=Application;Science;Utility;
 MimeType=text/x-texmacs;text/plain;text/x-tex;
 StartupNotify=false

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=YahtzeeSharp
 GenericName=YahtzeeSharp
@@ -8,7 +6,6 @@ Comment=An open source Yahtzee like game written in C#
 Icon=yahtzeesharp
 TryExec=/usr/bin/yahtzeesharp
 Exec=yahtzeesharp
-Terminal=false
 Categories=Game;BoardGame;
 StartupNotify=false
 X-AppInstall-Package=yahtzeesharp

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Alarm Clock
 Name[ar]=منبّه
@@ -8,7 +6,6 @@ Name[be]=Будзільнік
 Name[bg]=Будилник
 Name[da]=Vækkeur
 Name[de]=Wecker
-Name[es]=Alarm Clock
 Name[fo]=Vekjari
 Name[fr]=Réveil
 Name[gl]=Reloxo despertador
@@ -45,7 +42,6 @@ Comment[ru]=Вставайте по утрам
 Icon=alarm-clock
 TryExec=/usr/bin/alarm-clock-applet
 Exec=alarm-clock-applet
-Terminal=false
 Categories=Utility;GNOME;GTK;
 StartupNotify=false
 X-AppInstall-Package=alarm-clock-applet

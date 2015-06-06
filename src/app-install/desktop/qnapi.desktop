@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=QNapi
 GenericName=A program to download subtitles for movies
@@ -10,7 +8,6 @@ Comment[pl]=Program do pobierania napisów do filmów
 Icon=_usr_share_icons_qnapi-48
 TryExec=/usr/bin/qnapi
 Exec=qnapi
-Terminal=false
 Categories=AudioVideo;
 StartupNotify=false
 X-AppInstall-Package=qnapi

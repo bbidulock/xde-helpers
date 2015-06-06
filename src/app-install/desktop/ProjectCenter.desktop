@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=ProjectCenter
 Name[bg]=Среда за разработка (ProjectCenter)
@@ -9,7 +7,6 @@ Comment[bg]=Официалната интегрирана среда за раз
 Icon=_usr_share_pixmaps_ProjectCenter
 TryExec=/usr/bin/ProjectCenter
 Exec=ProjectCenter
-Terminal=false
 Categories=Development;IDE;
 StartupNotify=false
 X-AppInstall-Package=projectcenter

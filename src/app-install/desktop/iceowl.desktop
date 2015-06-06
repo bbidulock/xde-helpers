@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Iceowl
 GenericName=Calendar Application
@@ -9,7 +7,6 @@ Icon=iceowl
 TryExec=/usr/bin/iceowl
 Exec=iceowl %u
 X-MultipleArgs=false
-Terminal=false
 Categories=Network;Calendar;GTK;
 MimeType=text/calendar;
 StartupNotify=true

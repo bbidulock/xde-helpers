@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Hatari UI
 Icon=hatari-icon
 TryExec=/usr/bin/hatariui
 Exec=hatariui
-Terminal=false
 StartupNotify=false
 X-AppInstall-Package=hatari
 X-AppInstall-Popcon=54

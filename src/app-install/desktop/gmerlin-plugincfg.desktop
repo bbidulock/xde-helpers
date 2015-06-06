@@ -1,15 +1,11 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gmerlin plugin configurator
-Name[de]=Gmerlin plugin configurator
 Comment=Configure gmerlin plugins
 Comment[de]=Gmerlin Plugins konfigurieren
 Icon=gmerlin-plugincfg.png
 TryExec=/usr/bin/gmerlin_plugincfg
 Exec=gmerlin_plugincfg
-Terminal=false
 Categories=Application;AudioVideo;
 StartupNotify=false
 X-AppInstall-Package=gmerlin

@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Graphmonkey
 Comment=Draw mathematical graphs/curves
 Icon=graphmonkey
 TryExec=/usr/bin/graphmonkey
 Exec=graphmonkey
-Terminal=false
 Categories=Education;
 StartupNotify=true
 X-AppInstall-Package=graphmonkey

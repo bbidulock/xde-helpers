@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Teeworlds
 GenericName=Platform Game
@@ -8,7 +6,6 @@ Comment=An online multi-player platform 2D shooter
 Icon=teeworlds
 TryExec=/usr/bin/teeworlds
 Exec=teeworlds
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=teeworlds

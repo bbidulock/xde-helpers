@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=FCE Ultra
 Comment=Play NES ROMs
 TryExec=/usr/bin/fceu
 Exec=fceu
-Terminal=false
 Categories=Game;
 MimeType=application/x-nes-rom;
 StartupNotify=false

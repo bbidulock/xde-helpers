@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Qtstalker
 GenericName=Stock Charting
@@ -10,7 +8,6 @@ Comment[nl]=Koersgrafieken en technische analyse
 Icon=_usr_share_pixmaps_qtstalker
 TryExec=/usr/bin/qtstalker
 Exec=/usr/bin/qtstalker
-Terminal=false
 Categories=Application;Office;Finance;Qt;
 StartupNotify=false
 X-AppInstall-Package=qtstalker

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Alternatives Configurator
 Name[cs]=Nastavení alternativ
@@ -17,7 +15,6 @@ Comment[sv]=Konfigurera systemets standardalternativ
 Icon=_usr_share_pixmaps_galternatives
 TryExec=/usr/sbin/galternatives
 Exec=/usr/sbin/galternatives
-Terminal=false
 Categories=Application;System;GTK;
 StartupNotify=true
 X-AppInstall-Package=galternatives

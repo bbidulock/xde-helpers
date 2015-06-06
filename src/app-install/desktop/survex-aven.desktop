@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Aven Cave Surveying Tool
 GenericName=Cave Surveying Tool
@@ -8,7 +6,6 @@ Comment=Visualise cave surveys
 Icon=aven
 TryExec=/usr/bin/aven
 Exec=aven
-Terminal=false
 Categories=Education;Science;Geology;
 StartupNotify=false
 X-AppInstall-Package=survex-aven

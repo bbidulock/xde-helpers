@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=gDesklets
 Comment=A desktop applet system for GNOME
@@ -12,8 +10,6 @@ Comment[cs]=Systém apletů na pracovní ploše pro GNOME
 Comment[de]=Ein Desktop-Applet-System für GNOME
 Comment[dz]=ཇི་ནོམ་གྱི་དོན་ལུ་ ཌེཀསི་ཊོབ་ཨེཔ་ལེཊི་རིམ་ལུགས་ཅིག་
 Comment[el]=Ένα σύστημα εφαρμογιδίων επιφάνειας εργασίας για το GNOME
-Comment[en_CA]=A desktop applet system for GNOME
-Comment[en_GB]=A desktop applet system for GNOME
 Comment[es]=Un sistema de miniaplicaciones de escritorio para GNOME
 Comment[eu]=Mahaigaineko applet sistema bat GNOMErako
 Comment[fi]=Työpöytäsovelat Gnomelle
@@ -48,7 +44,6 @@ Comment[zh_TW]=GNOME 桌面面板程式系統
 Icon=gdesklets.png
 TryExec=/usr/bin/gdesklets
 Exec=gdesklets shell
-Terminal=false
 Categories=Application;Utility;
 MimeType=application/x-gdesklets-display;
 StartupNotify=true

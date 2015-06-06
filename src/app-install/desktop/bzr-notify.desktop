@@ -1,13 +1,11 @@
 [Desktop Entry]
 Version=0.1
-Encoding=UTF-8
 Type=Application
 Name=Bazaar Notification
 Comment=Notification Area Icon for Bazaar
 Icon=bzr-icon-64
 TryExec=/usr/bin/bzr-notify
 Exec=bzr-notify
-Terminal=false
 Categories=Application;Development;RevisionControl;
 StartupNotify=false
 X-AppInstall-Package=bzr-gtk

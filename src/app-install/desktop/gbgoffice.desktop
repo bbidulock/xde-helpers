@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GbgOffice
 Name[bg]=БГ Офис помощник
@@ -9,7 +7,6 @@ Comment[bg]=Двупосочен българо-английски речник
 Icon=_usr_share_pixmaps_gbgoffice-icon
 TryExec=/usr/bin/gbgoffice
 Exec=gbgoffice
-Terminal=false
 Categories=Office;Dictionary;
 StartupNotify=false
 X-AppInstall-Package=gbgoffice

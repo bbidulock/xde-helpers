@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=LMemory
 GenericName=Memory Game
 TryExec=/usr/bin/lmemory
 Exec=lmemory
-Terminal=false
 Categories=Game;KidsGame;
 StartupNotify=false
 X-AppInstall-Package=lmemory

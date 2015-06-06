@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Ripper X
 GenericName=Ripper X
@@ -8,7 +6,6 @@ Comment=Rip Cds
 Icon=ripperx
 TryExec=/usr/bin/ripperx
 Exec=ripperx
-Terminal=false
 Categories=AudioVideo;Audio;
 StartupNotify=false
 X-AppInstall-Package=ripperx

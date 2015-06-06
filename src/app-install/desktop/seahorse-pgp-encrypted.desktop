@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Decrypt File
 Name[ar]=استخرج تعمية الملف
@@ -19,8 +17,6 @@ Name[de]=Datei entschlüsseln
 Name[dz]=གསང་བཤོལ་ཡིག་སྣོད་
 Name[el]=Αποκρυπτογράφηση αρχείου
 Name[en@shaw]=𐑛𐑦𐑒𐑮𐑦𐑐𐑑 𐑓𐑲𐑤
-Name[en_CA]=Decrypt File
-Name[en_GB]=Decrypt File
 Name[es]=Descifrar fichero
 Name[et]=Faili lahtikrüptimine
 Name[eu]=Desenkriptatu fitxategia
@@ -68,7 +64,6 @@ Name[zh_HK]=解密檔案
 Name[zh_TW]=解密檔案
 TryExec=/usr/bin/seahorse-tool
 Exec=seahorse-tool --decrypt
-Terminal=false
 NoDisplay=true
 Categories=Security;
 MimeType=application/pgp-encrypted;

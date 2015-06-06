@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Little Wizard
 Name[cs]=Malý kouzelník
@@ -26,7 +24,6 @@ Icon=_usr_share_pixmaps_littlewizard_littlewizard-icon
 TryExec=/usr/bin/littlewizard
 Exec=littlewizard
 MultipleArgs=false
-Terminal=false
 Categories=Education;GNOME;GTK;Teaching;
 StartupNotify=false
 X-AppInstall-Package=littlewizard

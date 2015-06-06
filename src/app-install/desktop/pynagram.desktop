@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Pynagram
 GenericName=Anagram game
@@ -8,7 +6,6 @@ Comment=Unjumble letters
 Icon=pynagram
 TryExec=/usr/games/pynagram
 Exec=/usr/games/pynagram
-Terminal=false
 Categories=Game;LogicGame;Qt;
 StartupNotify=false
 X-AppInstall-Package=pynagram

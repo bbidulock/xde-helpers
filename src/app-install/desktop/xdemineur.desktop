@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Xdemineur
 Comment=Yet another minesweeper for X
 Icon=_usr_share_pixmaps_xdemineur-icon
 TryExec=/usr/games/xdemineur
 Exec=/usr/games/xdemineur
-Terminal=false
 StartupNotify=false
 X-AppInstall-Package=xdemineur
 X-AppInstall-Popcon=25

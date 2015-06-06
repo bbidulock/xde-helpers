@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Install Hypervisor and Tools
 Name[af]=Installeer Hypervisor en nutsgoed
@@ -102,7 +100,6 @@ GenericName[zu]=Faka i-Hypervisor Namathuluzi
 Icon=yast-vm-install
 TryExec=/sbin/yast2
 Exec=/sbin/yast2 xen
-Terminal=false
 Categories=Settings;System;Qt;X-SuSE-YaST;X-SuSE-YaST-Virtualization;
 StartupNotify=true
 X-KDE-HasReadOnlyMode=true

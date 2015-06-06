@@ -1,20 +1,15 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Melting
 GenericName="Oligonucleotide analyser"
-GenericName[en]="Oligonucleotide analyser"
 GenericName[fr]="Analyse d'oligonucl\xE9otides"
 GenericName[pt_BR]="Analisador de oligonucleot\xEDdeos"
 Comment="Computes the melting temperature for a nucleic acid duplex."
-Comment[en]="Computes the melting temperature for a nucleic acid duplex."
 Comment[fr]="Calcule la temp\xE9rature de fusion d'une paire d'oligonucl\xE9otides."
 Comment[pt_BR]="Calcula a temperatura de fus\xE3o de um par de \xE1cido nucl\xE9ico"
 Icon=tkmelting
 TryExec=/usr/bin/tkmelting
 Exec=tkmelting
-Terminal=false
 Categories=Education;Science;Biology;
 StartupNotify=false
 X-AppInstall-Package=melting-gui

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Emesene
 GenericName=Emesene
@@ -8,7 +6,6 @@ Comment=MSN Messenger client
 Icon=emesene
 TryExec=/usr/bin/emesene
 Exec=emesene
-Terminal=false
 Categories=Network;InstantMessaging;
 StartupNotify=false
 X-AppInstall-Package=emesene

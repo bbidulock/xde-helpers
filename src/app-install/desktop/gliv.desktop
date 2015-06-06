@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gliv
 Comment=View images using gdk-pixbuf and OpenGL
 Icon=gliv
 TryExec=/usr/bin/gliv
 Exec=gliv
-Terminal=false
 Categories=Graphics;
 StartupNotify=false
 X-AppInstall-Package=gliv

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GpsDrive
 Comment=GPS Navigation
@@ -8,7 +6,6 @@ Comment[de]=GPS Navigationsprogramm
 Icon=gpsicon.png
 TryExec=/usr/bin/gpsdrive
 Exec=gpsdrive
-Terminal=false
 Categories=Graphics;Network;Geography;
 StartupNotify=true
 X-AppInstall-Package=gpsdrive

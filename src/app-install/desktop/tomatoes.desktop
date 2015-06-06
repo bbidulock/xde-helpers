@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=I Have No Tomatoes
 Comment=How many tomatoes can you smash in ten short minutes?
 Icon=_usr_share_pixmaps_tomatoes_icon
 TryExec=/usr/games/tomatoes
 Exec=/usr/games/tomatoes
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=tomatoes

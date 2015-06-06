@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=MIT/GNU Scheme
 Icon=_usr_share_pixmaps_mit-scheme_lambda2
 TryExec=/usr/bin/mit-scheme-i386
 Exec=/usr/bin/mit-scheme-i386 --edit
-Terminal=false
 Categories=Development;IDE;TextEditor;
 StartupNotify=false
 X-AppInstall-Package=mit-scheme

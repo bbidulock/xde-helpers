@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Notifications
 Name[ca]=Notificacions
@@ -9,7 +7,6 @@ Name[de]=Benachrichtigungen
 Name[el]=Ειδοποιήσεις
 Name[es]=Notificaciones
 Name[fi]=Huomautukset
-Name[fr]=Notifications
 Name[id]=Notifikasi
 Name[nb]=Varsling
 Name[nl]=Notificaties
@@ -33,7 +30,6 @@ Comment[tr]=Bildirilerin görünümünü özelleştirin
 Icon=xfce4-notifyd
 TryExec=/usr/bin/xfce4-notifyd-config
 Exec=xfce4-notifyd-config
-Terminal=false
 Categories=Settings;DesktopSettings;X-XFCE;
 StartupNotify=true
 X-AppInstall-Package=xfce4-notifyd

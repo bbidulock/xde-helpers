@@ -1,10 +1,7 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=CLIPS
 GenericName=Expert system tool
-GenericName[en_GB]=Expert system tool
 GenericName[es]=Herramienta de sistemas expertos
 Comment=Expert system tool
 Comment[es]=Herramienta de sistemas expertos

@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=dc-qt
 Comment=GUI for Direct Connect Protocol
 Icon=_usr_share_pixmaps_dc-qt
 TryExec=/usr/bin/dc-qt
 Exec=dc-qt
-Terminal=false
 Categories=Application;Network;Qt;
 StartupNotify=false
 X-AppInstall-Package=dc-qt

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Neso
 GenericName=Standalone Client/Server for the Tryton Application Platform
@@ -10,7 +8,6 @@ Comment[de]=Tryton starten
 Icon=neso-icon
 TryExec=/usr/bin/neso
 Exec=neso
-Terminal=false
 Categories=Office;Finance;
 StartupNotify=false
 X-AppInstall-Package=tryton-neso

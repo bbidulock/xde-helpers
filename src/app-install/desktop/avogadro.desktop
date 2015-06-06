@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Avogadro
 Comment=Advanced molecular editor
 Icon=avogadro-icon
 TryExec=/usr/bin/avogadro
 Exec=avogadro %f
-Terminal=false
 Categories=Education;Science;Chemistry;Physics;Qt;
 MimeType=chemical/x-cif;chemical/x-cml;chemical/x-daylight-smiles;chemical/x-gamess-input;chemical/x-gamess-output;chemical/x-gaussian-log;chemical/x-mopac-out;chemical/x-pdb;chemical/x-xyz;chemical/x-gaussian-checkpoint;chemical/x-gaussian-cube;chemical/x-qchem-output;
 StartupNotify=true

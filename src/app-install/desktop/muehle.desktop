@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Muehle
 GenericName=Nine Men's Morris game for KDE
@@ -10,7 +8,6 @@ Comment[de]=GGZ Mühlespiel
 Icon=muehle
 TryExec=/usr/lib/ggz/muehle
 Exec=/usr/lib/ggz/muehle
-Terminal=false
 Categories=Game;BoardGame;KDE;Qt;X-GGZ-Games;
 StartupNotify=false
 DocPath=muehle/index.docbook

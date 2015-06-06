@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Freedoom
 GenericName=Clone of the legendary first person shooter Doom
@@ -8,7 +6,6 @@ Comment=First Person Shooter Game
 Icon=freedoom
 TryExec=/usr/games/freedoom
 Exec=/usr/games/freedoom
-Terminal=false
 Categories=Game;ActionGame;
 StartupNotify=false
 X-AppInstall-Package=freedoom

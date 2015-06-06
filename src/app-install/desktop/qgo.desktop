@@ -1,9 +1,6 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=qgo
-Name[fr]=qgo
 GenericName=Go
 GenericName[ar]=??
 GenericName[bg]=??
@@ -30,7 +27,6 @@ Icon=_usr_share_qGo_pics_Bowl
 TryExec=/usr/bin/qgo
 Exec=qgo
 X-DCOP-ServiceType=Multi
-Terminal=false
 Categories=Game;BoardGame;KDE;Qt;
 MimeType=text/sgf;
 StartupNotify=false

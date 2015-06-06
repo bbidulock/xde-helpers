@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Asylum
 Comment=surreal platform shooting game
 Icon=asylum
 TryExec=/usr/bin/asylum
 Exec=asylum
-Terminal=false
 Categories=Game;ActionGame;
 StartupNotify=false
 X-AppInstall-Package=asylum

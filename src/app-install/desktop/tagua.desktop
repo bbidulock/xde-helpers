@@ -1,10 +1,6 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Tagua
-Name[cs]=Tagua
-Name[it]=Tagua
 Name[xx]=xxTaguaxx
 GenericName=Generic Board Game
 GenericName[cs]=Deskové hry
@@ -15,7 +11,6 @@ Comment[fr]=Divers jeux de pions (échecs, shogi, ...)
 Icon=tagua
 TryExec=/usr/bin/tagua
 Exec=tagua %i -caption "%c"
-Terminal=false
 Categories=Game;BoardGame;KDE;Qt;
 StartupNotify=false
 DocPath=tagua/tagua.html

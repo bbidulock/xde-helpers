@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Screen Ruler
 Name[ca]=Regla a la pantalla
@@ -11,7 +9,6 @@ Comment[es]=Mide objetos en la pantalla
 Icon=screenruler
 TryExec=/usr/bin/screenruler
 Exec=screenruler
-Terminal=false
 Categories=Utility;GTK;
 StartupNotify=false
 X-AppInstall-Package=screenruler

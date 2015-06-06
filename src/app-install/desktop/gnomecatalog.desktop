@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gnome Catalog
 Name[cs]=GNOME katalog
@@ -21,7 +19,6 @@ Comment[pl]=Aplikacja katalogująca dyski CD (i nie tylko)
 Icon=_usr_share_gnomecatalog_pixmaps_gcatalog
 TryExec=/usr/bin/gnomecatalog
 Exec=gnomecatalog %F
-Terminal=false
 Categories=Application;Utility;GNOME;
 MimeType=application/x-gcatalog;
 StartupNotify=false

@@ -1,13 +1,11 @@
 [Desktop Entry]
 Version=1.1.2
-Encoding=UTF-8
 Type=Application
 Name=Rlplot Graph Generator
 Comment=Generate publication quality graphs
 Icon=RLPlot.xpm
 TryExec=/usr/bin/rlplot
 Exec=rlplot
-Terminal=false
 Categories=Education;Math;
 StartupNotify=false
 X-AppInstall-Package=rlplot

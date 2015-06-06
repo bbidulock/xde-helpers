@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Debian Documentation Browser
 Icon=gnome-touristinfo
 TryExec=/usr/bin/dwww
 Exec=dwww
 X-MultipleArgs=false
-Terminal=false
 Categories=Application;Utility;
 StartupNotify=true
 X-AppInstall-Package=dwww

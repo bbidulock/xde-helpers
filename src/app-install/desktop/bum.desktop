@@ -1,9 +1,6 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=BootUp-Manager
-Name[fr]=BootUp-Manager
 Name[it]=Boot-Up Manager
 Comment=Graphical runlevel configuration tool
 Comment[de]=Ein graphisches Werkzeug zur Handhabung von Runlevel Konfiguration
@@ -17,7 +14,6 @@ Comment[tr]=Çalışma seviyelerini yapılandırmalarını yönetmek için grafi
 Icon=bum
 TryExec=/usr/bin/su-to-root
 Exec=su-to-root -X -c bum
-Terminal=false
 Categories=Settings;System;
 StartupNotify=true
 X-AppInstall-Package=bum

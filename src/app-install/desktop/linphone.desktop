@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Linphone
 Comment=Linphone is a web-phone
@@ -9,7 +7,6 @@ Comment[fr]=Linphone est un web-phone.
 Icon=_usr_share_pixmaps_linphone_linphone
 TryExec=/usr/bin/linphone-3
 Exec=linphone-3
-Terminal=false
 Categories=Network;Telephony;
 StartupNotify=false
 X-AppInstall-Package=linphone

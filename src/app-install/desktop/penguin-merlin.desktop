@@ -1,11 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Penguin Merlin
 TryExec=/usr/games/ace-merlin
 Exec=/usr/games/ace-merlin
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=ace-of-penguins

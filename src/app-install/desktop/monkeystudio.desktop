@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Monkey Studio IDE
 GenericName=MkS IDE
 Icon=monkeystudio
 TryExec=/usr/bin/monkeystudio
 Exec=monkeystudio
-Terminal=false
 Categories=Development;IDE;Qt;
 StartupNotify=false
 X-AppInstall-Package=monkeystudio

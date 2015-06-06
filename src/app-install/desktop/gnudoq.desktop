@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GNUDoQ
 GenericName=Board Game
@@ -8,7 +6,6 @@ Comment=GNUDoQ, Su Doku generator and solver.
 Icon=_usr_share_pixmaps_gnudoq-icon
 TryExec=/usr/bin/gnudoq
 Exec=gnudoq
-Terminal=false
 Categories=Application;Game;BoardGame;
 StartupNotify=false
 X-AppInstall-Package=gnudoq

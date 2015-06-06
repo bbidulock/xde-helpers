@@ -1,11 +1,6 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=KBackup
-Name[de]=KBackup
-Name[es]=KBackup
-Name[fr]=KBackup
 GenericName=Backup Program
 GenericName[de]=Datensicherungs Programm
 GenericName[es]=Programa de Copias de Seguridad
@@ -17,7 +12,6 @@ Comment[fr]=Sauvegarder vos données avec une interface utilisateur facile à ut
 Icon=kbackup
 TryExec=/usr/bin/kbackup
 Exec=kbackup %f
-Terminal=false
 Categories=System;KDE;X-MandrivaLinux-System-Archiving-Backup;X-SuSE-Backup;
 MimeType=text/x-kbp;
 StartupNotify=false

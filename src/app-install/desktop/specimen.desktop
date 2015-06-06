@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Specimen
 GenericName=Specimen
@@ -8,7 +6,6 @@ Comment=Sound Sampler
 Icon=specimen
 TryExec=/usr/bin/specimen
 Exec=specimen
-Terminal=false
 Categories=Application;AudioVideo;AudioVideoEditing;Music;
 StartupNotify=false
 X-AppInstall-Package=specimen

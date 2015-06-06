@@ -1,17 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Arora
-Name[en_US]=Arora
-Name[es]=Arora
-Name[gl]=Arora
-Name[sr@latin]=Arora
 Name[sr]=Арора
 GenericName=Web Browser
 GenericName[ast]=Restolador web
 GenericName[cs_CZ]=Webový prohlížeč
-GenericName[en_US]=Web Browser
 GenericName[es]=Navegador web
 GenericName[fr_FR]=Navigateur web
 GenericName[gl]=Navegador web
@@ -35,7 +28,6 @@ Comment[sr]=Крстарите интернетом
 Icon=arora
 TryExec=/usr/bin/arora
 Exec=arora %u
-Terminal=false
 Categories=Application;Network;WebBrowser;Qt;
 MimeType=text/html;text/xml;application/xhtml+xml;application/xml;image/gif;image/jpeg;image/png;
 StartupNotify=true

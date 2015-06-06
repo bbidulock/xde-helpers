@@ -1,16 +1,12 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=RasMol (GTK version)
-Name[en_GB]=RasMol (GTK version)
 GenericName=Molecular Graphics Visualization
 GenericName[en_GB]=Molecular Graphics Visualisation
 Comment=View macro-molecules and prepare publication-quality images of them
 Icon=rasmol
 TryExec=/usr/bin/rasmol-gtk
 Exec=rasmol-gtk %F
-Terminal=false
 Categories=Education;Science;Biology;
 MimeType=chemical/x-pdb;chemical/x-xyz;
 StartupNotify=false

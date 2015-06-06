@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=The Question
 GenericName=renpy-thequestion
@@ -9,7 +7,6 @@ Comment[es]=una novela grafica sencilla con Ren'Py
 Icon=renpy-thequestion
 TryExec=/usr/bin/the_question
 Exec=the_question
-Terminal=false
 Categories=Game;
 StartupNotify=false
 X-AppInstall-Package=renpy-thequestion

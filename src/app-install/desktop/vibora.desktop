@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Víbora
 GenericName=GGZ Gaming Zone fullscreen client
@@ -9,7 +7,6 @@ Comment=GGZ Core Client
 Comment[de]=GGZ-Core-Client
 TryExec=/usr/games/vibora
 Exec=/usr/games/vibora
-Terminal=false
 Categories=Network;X-GGZ;
 StartupNotify=false
 X-AppInstall-Package=ggz-python-games

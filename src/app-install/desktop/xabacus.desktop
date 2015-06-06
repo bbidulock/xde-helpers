@@ -1,6 +1,5 @@
 [Desktop Entry]
 Version=7.5.5
-Encoding=UTF-8
 Type=Application
 Name=Xabacus
 GenericName=Abacus ancient calculator
@@ -9,7 +8,6 @@ Icon=_usr_share_pixmaps_xabacus.m
 TryExec=/usr/bin/xabacus
 Exec=xabacus
 X-MultipleArgs=false
-Terminal=false
 Categories=Education;Utility;Math;Calculator;
 StartupNotify=true
 X-AppInstall-Package=xabacus

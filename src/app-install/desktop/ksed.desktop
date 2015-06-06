@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=KeySafe Config
 Comment=KeySafe configuration tool
 TryExec=/usr/bin/ksed
 Exec=/usr/bin/ksed
-Terminal=false
 Categories=Settings;Security;
 StartupNotify=false
 X-AppInstall-Package=keysafe

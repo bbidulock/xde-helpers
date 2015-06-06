@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=HPLJ 10xx Replaced Paper
 Comment=HP LaserJet 1018, 1020
 Icon=/usr/share/pixmaps/hplj1020_icon.png
 TryExec=/usr/bin/wish
 Exec=wish /usr/share/foo2zjs/hplj10xx_gui.tcl
-Terminal=false
 NoDisplay=true
 Categories=System;
 StartupNotify=true

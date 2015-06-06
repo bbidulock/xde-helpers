@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=btnx
 Icon=btnx.png
 TryExec=/usr/bin/su-to-root
 Exec=su-to-root -X -c /usr/sbin/btnx-config
-Terminal=false
 Categories=System;
 StartupNotify=false
 X-AppInstall-Package=btnx-config

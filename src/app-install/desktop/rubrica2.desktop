@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Rubrica Addressbook
 Comment=Manage contacts and addresses
@@ -8,7 +6,6 @@ Comment[it]=Gestore di contatti e indirizzi
 Icon=stock_addressbook.png
 TryExec=/usr/bin/rubrica2
 Exec=rubrica2
-Terminal=false
 Categories=Application;Office;GNOME;
 MimeType=application/x-rubrica;
 Patterns=*.rub;*.RUB;

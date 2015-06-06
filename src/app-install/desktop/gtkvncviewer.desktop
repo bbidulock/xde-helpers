@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gtk VNC Viewer
 Comment=Connect to your VNC servers
 Icon=_usr_share_gtkvncviewer_data_gtkvncviewer_64
 TryExec=/usr/bin/gtkvncviewer
 Exec=gtkvncviewer
-Terminal=false
 Categories=Network;
 StartupNotify=true
 X-AppInstall-Package=gtkvncviewer

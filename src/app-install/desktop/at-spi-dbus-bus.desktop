@@ -1,11 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=AT-SPI D-Bus Bus
 TryExec=/usr/lib/at-spi2-core/at-spi-bus-launcher
 Exec=/usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately
-Terminal=false
 NoDisplay=true
 OnlyShowIn=GNOME;Unity;
 StartupNotify=false

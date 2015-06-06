@@ -1,9 +1,6 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Warzone 2100
-Name[de]=Warzone 2100
 GenericName=Strategy Game
 GenericName[de]=Strategiespiel
 Comment=Postnuclear realtime strategy
@@ -11,7 +8,6 @@ Comment[de]=Postnukleare Echtzeit Strategie
 Icon=warzone2100
 TryExec=/usr/bin/warzone2100
 Exec=warzone2100
-Terminal=false
 Categories=Game;StrategyGame;
 StartupNotify=false
 X-AppInstall-Package=warzone2100

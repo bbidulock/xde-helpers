@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Hdate
 Name[he]=לוח שנה עברי
@@ -9,7 +7,6 @@ Comment[he]=לוח שנה המציג את התאריך העברי
 Icon=accessories-calendar
 TryExec=/usr/bin/ghcal
 Exec=ghcal
-Terminal=false
 Categories=Utility;Calendar;GNOME;GTK;
 StartupNotify=false
 X-AppInstall-Package=hdate-applet

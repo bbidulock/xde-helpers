@@ -1,13 +1,11 @@
 [Desktop Entry]
 Version=2.6
-Encoding=UTF-8
 Type=Application
 Name=GPRename
 Comment=To rename files and directories in batch
 Icon=_usr_share_pixmaps_gprename_gprename
 TryExec=/usr/bin/gprename
 Exec=gprename
-Terminal=false
 Categories=Utility;FileManager;
 StartupNotify=false
 X-AppInstall-Package=gprename

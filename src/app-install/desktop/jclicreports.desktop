@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=JClic Report Server
 Name[ca]=Servidor d'informes JClic
@@ -13,7 +11,6 @@ Comment[valencia]=Gestioneu una base de dades on es recullen els resultats obtin
 Icon=jclicreports.png
 TryExec=/usr/bin/jclicreports
 Exec=jclicreports
-Terminal=false
 Categories=Application;Education;
 StartupNotify=true
 X-AppInstall-Package=jclic

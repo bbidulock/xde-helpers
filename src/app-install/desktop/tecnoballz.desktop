@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=TecnoballZ
 GenericName=tecnoballz
@@ -8,7 +6,6 @@ Comment=Play an Arkanoid-like game
 Icon=tecnoballz.xpm
 TryExec=/usr/bin/tecnoballz
 Exec=tecnoballz
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=tecnoballz

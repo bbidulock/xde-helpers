@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=failsafewm
 GenericName=Window Manager
@@ -10,7 +8,6 @@ Comment=A frameless, low-footprint window manager
 Icon=failsafewm
 TryExec=/usr/bin/failsafewm
 Exec=failsafewm
-Terminal=false
 NoDisplay=true
 Categories=WindowManager;Application;System;
 StartupNotify=false
@@ -33,9 +30,10 @@ Actions=XDE;
 
 [Desktop Action XDE]
 Name=XDE
-Icon=xde
-Exec=xde-session -desktop FAILSAFEWM -startwm failsafewm
 Comment=failsafewm in an XDE session
+Icon=xde
+TryExec=/usr/bin/xde-session
+Exec=xde-session -desktop FAILSAFEWM -startwm failsafewm
 DesktopNames=XDE:FAILSAFEWM
 
 [Window Manager]

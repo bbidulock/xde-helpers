@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Spectrum viewer
 Name[de]=Spektrenbetrachter
@@ -15,7 +13,6 @@ Comment[zh_TW]=Gnome 桌面的光譜瀏覽軟體
 Icon=gspectrum
 TryExec=/usr/bin/gspectrum-0.12
 Exec=gspectrum-0.12
-Terminal=false
 Categories=Education;Science;Chemistry;GNOME;GTK;
 MimeType=chemical/x-jcamp-dx;
 StartupNotify=false

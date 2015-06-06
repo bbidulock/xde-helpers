@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=QA Assistant
 GenericName=Quality Assurance CheckList
@@ -8,7 +6,6 @@ Comment=Quality Assurance Checklist
 Icon=qa-icon
 TryExec=/usr/bin/qa-assistant
 Exec=qa-assistant
-Terminal=false
 Categories=Development;Utility;GNOME;
 StartupNotify=true
 X-AppInstall-Package=qa-assistant

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=gSTM
 GenericName=gSTM
@@ -8,7 +6,6 @@ Comment=Manage SSH tunnel connections
 Icon=gSTM.png
 TryExec=/usr/bin/gstm
 Exec=gstm
-Terminal=false
 Categories=Application;Network;GNOME;GTK;
 StartupNotify=false
 X-AppInstall-Package=gstm

@@ -1,15 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=linkmap
 GenericName=Fastlink location scores
-GenericName[en]=Fastlink location scores
 Comment=Calculates location scores of one locus against a fixed map of other loci
-Comment[en]=Calculates location scores of one locus against a fixed map of other loci
 TryExec=/usr/bin/linkmap
 Exec=linkmap
-Terminal=false
 Categories=Education;Science;Biology;
 StartupNotify=false
 X-AppInstall-Package=fastlink

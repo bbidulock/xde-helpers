@@ -1,26 +1,11 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GADMIN-BIND
-Name[de]=GADMIN-BIND
-Name[es]=GADMIN-BIND
-Name[fi]=GADMIN-BIND
-Name[fr]=GADMIN-BIND
-Name[ko]=GADMIN-BIND
-Name[no]=GADMIN-BIND
-Name[pt_BR]=GADMIN-BIND
-Name[ro]=GADMIN-BIND
-Name[sl]=GADMIN-BIND
-Name[sv]=GADMIN-BIND
-Name[uk]=GADMIN-BIND
-Name[zh_TW]=GADMIN-BIND
 GenericName=GADMIN-BIND
 Comment=BIND DNS server administration
 Icon=gadmin-bind
 TryExec=/usr/bin/su-to-root
 Exec=su-to-root -X -c /usr/sbin/gadmin-bind
-Terminal=false
 Categories=System;GTK;
 StartupNotify=false
 X-AppInstall-Package=gadmin-bind

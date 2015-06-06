@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=jEdit
 GenericName=Programmer's Text Editor
@@ -14,7 +12,6 @@ Comment[es]=Modifique archivos de texto
 Icon=jedit
 TryExec=/usr/bin/jedit
 Exec=jedit %U
-Terminal=false
 Categories=Development;TextEditor;
 MimeType=text/plain;
 StartupNotify=true

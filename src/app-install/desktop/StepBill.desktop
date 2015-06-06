@@ -1,13 +1,11 @@
 [Desktop Entry]
 Version=0.94
-Encoding=UTF-8
 Type=Application
 Name=StepBill
 Comment=StepBill - XBill for GNUstep (based on MacBill)
 Icon=/usr/lib/GNUstep/Applications/Gomoku.app/Resources/icon.tiff
 TryExec=/usr/bin/StepBill
 Exec=StepBill
-Terminal=false
 Categories=Game;ActionGame;
 StartupNotify=false
 X-AppInstall-Package=stepbill.app

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Kdenlive
 GenericName=Video Editor
@@ -16,7 +14,6 @@ Comment[uk]=Нелінійний редактор відео для KDE
 Icon=kdenlive
 TryExec=/usr/bin/kdenlive
 Exec=kdenlive %i -caption "%c" %u
-Terminal=false
 Categories=AudioVideo;AudioVideoEditing;KDE;Qt;
 MimeType=application/x-kdenlive;
 StartupNotify=false

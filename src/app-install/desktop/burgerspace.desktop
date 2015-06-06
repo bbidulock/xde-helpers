@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=BurgerSpace
 Comment=A hamburger-smashing video game
@@ -8,7 +6,6 @@ Comment[fr]=Un jeu de hamburgers qu'on écrase
 Icon=burgerspace.png
 TryExec=/usr/bin/burgerspace
 Exec=burgerspace
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=burgerspace

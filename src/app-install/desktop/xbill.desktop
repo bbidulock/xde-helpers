@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=XBill
 GenericName=Game
@@ -8,7 +6,6 @@ Comment=Stop Bill from loading his OS into all the computers.
 Icon=/usr/share/xbill/pixmaps/wingdows.xpm
 TryExec=/usr/bin/xbill
 Exec=xbill
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=xbill

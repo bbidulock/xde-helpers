@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Dopewars
 Name[de]=Drogenkrieg
@@ -11,7 +9,6 @@ Comment[pl]=Gra polegaj\xC4ca na handlowaniu narkotykami
 Icon=dopewars-weed.png
 TryExec=/usr/bin/dopewars
 Exec=dopewars
-Terminal=false
 Categories=Application;Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=dopewars

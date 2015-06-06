@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=ImageMagick Image Viewer
 GenericName=Image Viewer
@@ -8,7 +6,6 @@ Comment=X application for displaying and manipulating images
 Icon=imagic
 TryExec=/usr/bin/display
 Exec=display
-Terminal=false
 Categories=Graphics;
 StartupNotify=false
 X-AppInstall-Package=imagemagick

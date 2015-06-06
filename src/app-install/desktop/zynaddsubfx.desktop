@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=ZynAddSubFX Software Synthesizer
 Name[pt]=Sintetizador por Software ZynAddSubFX
@@ -8,7 +6,6 @@ Comment=ZynAddSubFX Software Synthesizer
 Icon=_usr_share_pixmaps_zynaddsubfx
 TryExec=/usr/bin/zynaddsubfx
 Exec=/usr/bin/zynaddsubfx
-Terminal=false
 Categories=Application;AudioVideo;Audio;
 StartupNotify=false
 X-AppInstall-Package=zynaddsubfx

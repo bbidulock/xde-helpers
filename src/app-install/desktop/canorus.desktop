@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Canorus
 GenericName=Music score editor
@@ -12,7 +10,6 @@ Comment[sl]=Prost program za pisanje not naslednje generacije!
 Icon=_usr_share_canorus_images_clogosm
 TryExec=/usr/bin/canorus
 Exec=canorus
-Terminal=false
 Categories=AudioVideo;Audio;Midi;Sequencer;AudioVideoEditing;Music;Qt;
 MimeType=application/x-notes;
 StartupNotify=true

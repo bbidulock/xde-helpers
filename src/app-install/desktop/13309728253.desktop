@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Web Browser
 Comment=Browse the web
 Icon=web-browser
 TryExec=/usr/bin/exo-open
 Exec=exo-open --launch WebBrowser %u
-Terminal=false
 OnlyShowIn=XFCE;
 Categories=Network;X-XFCE;X-Xfce-Toplevel;
 StartupNotify=false

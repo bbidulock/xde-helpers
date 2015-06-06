@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Enqueue in Qmmp
 Name[cs]=Zařadit do fronty v Qmmp
@@ -19,7 +17,6 @@ Comment[zh_TW]=添加一個或多個檔案到 Qmmp 播放清單
 Icon=qmmp
 TryExec=/usr/bin/qmmp
 Exec=qmmp -e %F
-Terminal=false
 Categories=AudioVideo;Audio;Player;Qt;
 MimeType=application/x-ogg;audio/mp3;audio/mpeg;audio/x-flac;audio/x-mp3;audio/x-mpeg;audio/x-ms-wma;audio/x-musepack;application/ogg;audio/x-vorbis+ogg;audio/x-scpls;audio/x-mpegurl;audio/x-it;audio/x-mod;audio/x-ape;application/x-cue;audio/x-ffmpeg-shorten;inode/directory;
 StartupNotify=false

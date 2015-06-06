@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=MusicBrainz Picard
 Comment=Tag your music with the next generation MusicBrainz tagger
 Icon=picard-32
 TryExec=/usr/bin/picard
 Exec=picard
-Terminal=false
 Categories=AudioVideo;AudioVideoEditing;
 StartupNotify=true
 X-AppInstall-Package=picard

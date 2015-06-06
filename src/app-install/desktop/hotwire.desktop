@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Hotwire Shell
 GenericName=Command prompt
@@ -8,7 +6,6 @@ Comment=Execute text commands
 Icon=hotwire
 TryExec=/usr/bin/hotwire
 Exec=hotwire
-Terminal=false
 Categories=System;Utility;TerminalEmulator;GNOME;GTK;
 StartupNotify=true
 X-AppInstall-Package=hotwire

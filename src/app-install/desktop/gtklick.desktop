@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=gtklick
 Comment=A Simple Metronome
 Icon=gtklick
 TryExec=/usr/bin/gtklick
 Exec=gtklick
-Terminal=false
 Categories=AudioVideo;Audio;Music;GTK;
 StartupNotify=false
 X-AppInstall-Package=gtklick

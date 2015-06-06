@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=PIX Frogger
 GenericName=pixfrogger
@@ -8,7 +6,6 @@ Comment=Help the frog cross the street
 Icon=pixfrogger
 TryExec=/usr/bin/pixfrogger
 Exec=pixfrogger
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=pixfrogger

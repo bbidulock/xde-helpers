@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Hedgewars
 GenericName=Fighting Hedgehogs
@@ -9,7 +7,6 @@ GenericName[tr]=Worms Benzeri Strateji Oyunu
 Icon=hedgewars.png
 TryExec=/usr/bin/hedgewars
 Exec=hedgewars
-Terminal=false
 Categories=Application;Game;StrategyGame;
 StartupNotify=false
 X-AppInstall-Package=hedgewars

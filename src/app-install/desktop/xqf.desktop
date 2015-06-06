@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=XQF Game Server Browser
 Name[ca]=Navegador de jocs XQF
@@ -23,7 +21,6 @@ Comment[ru]=Поиск и подключение к игровым сервер�
 Icon=xqf_32x32.png
 TryExec=/usr/bin/xqf
 Exec=xqf
-Terminal=false
 Categories=Game;ActionGame;GTK;X-SuSE-Core-Game;
 StartupNotify=true
 X-AppInstall-Package=xqf

@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=FSlint
 Comment=File System Lint
 Icon=fslint_icon
 TryExec=/usr/bin/fslint-gui
 Exec=fslint-gui
-Terminal=false
 Categories=System;Filesystem;GTK;
 StartupNotify=false
 X-AppInstall-Package=fslint

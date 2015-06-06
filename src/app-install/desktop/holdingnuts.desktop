@@ -1,18 +1,12 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=HoldingNuts
-Name[en_US]=HoldingNuts
 GenericName=Poker client
-GenericName[en_US]=Poker client
 Comment=An open source poker client and server
-Comment[en_US]=An open source poker client and server
 Icon=holdingnuts
 TryExec=/usr/bin/holdingnuts
 Exec=holdingnuts
 X-DCOP-ServiceType=Multi
-Terminal=false
 Categories=Game;CardGame;Qt;
 StartupNotify=true
 X-KDE-SubstituteUID=false

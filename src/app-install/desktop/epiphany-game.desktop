@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Epiphany
 GenericName=Game
@@ -10,7 +8,6 @@ Comment[es]=Recolecta valiosos minerales mientras evitas que te alcancen los blo
 Icon=epiphany-game
 TryExec=/usr/bin/epiphany-game
 Exec=epiphany-game
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=epiphany

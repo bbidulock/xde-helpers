@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Orbital Eunuchs Sniper
 Comment=Anti-terrorist Satellite Sniping Game
 Icon=orbital-eunuchs-sniper.png
 TryExec=/usr/games/snipe2d
 Exec=/usr/games/snipe2d
-Terminal=false
 Categories=Application;Game;ArcadeGame;
 StartupNotify=true
 X-AppInstall-Package=orbital-eunuchs-sniper

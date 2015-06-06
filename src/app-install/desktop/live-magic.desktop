@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Live Magic
 Comment=Create Debian Live systems (LiveCDs, etc.)
 Icon=_usr_share_live-magic_debian_openlogo-nd-100
 TryExec=/usr/bin/live-magic
 Exec=/usr/bin/live-magic
-Terminal=false
 Categories=Application;Utility;GTK;
 StartupNotify=false
 X-AppInstall-Package=live-magic

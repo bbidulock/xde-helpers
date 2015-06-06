@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Terminal Server Client
 Name[af]=Terminaalbedienerkliënt
@@ -9,12 +7,9 @@ Name[bg]=Клиент за терминален сървър
 Name[ca]=Client de Terminal Server
 Name[cs]=Terminal Server Klient
 Name[da]=Terminalserver klient
-Name[de]=Terminal Server Client
 Name[el]=Πελάτης Εξυπηρέτη Τερματικού
 Name[es]=Cliente de Terminal Server
 Name[et]=Terminaliserveri klient
-Name[fi]=Terminal Server Client
-Name[fr]=Terminal Server Client
 Name[gl]=Cliente de Terminal Server
 Name[gr]=Πελάτης Εξυπηρέτη X?ερματικού
 Name[he]=מסוף
@@ -28,7 +23,6 @@ Name[mr]=टर्मिनल सर्व्हर क्लाएंट
 Name[ms]=Klien Pelayan Terminal
 Name[nb]=Terminalserver-klient
 Name[nl]=Terminalserver-client
-Name[nl_NL]=Terminal Server Client
 Name[pa]=ਟਰਮੀਨਲ ਸਰਵਰ ਕਲਾਂਇਟ
 Name[pl]=Klient serwera terminali
 Name[pl_PL]=Klient Usług Terminalowych
@@ -92,7 +86,6 @@ Comment[zh_TW]=連線遠端電腦
 Icon=tsclient
 TryExec=/usr/bin/tsclient
 Exec=tsclient
-Terminal=false
 Categories=Network;RemoteAccess;GNOME;GTK;X-GNOME-NetworkSettings;
 StartupNotify=false
 X-AppInstall-Package=tsclient
@@ -110,4 +103,5 @@ X-SuSE-translate=true
 Actions=Full;
 
 [Desktop Action Full]
+TryExec=/usr/bin/tsclient
 Exec=tsclient -f

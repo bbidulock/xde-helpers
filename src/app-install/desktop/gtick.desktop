@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gtick
 Comment=a GTK-based metronome
@@ -9,7 +7,6 @@ Comment[pt]=Um metrônomo baseado em GTK
 Icon=_usr_share_pixmaps_gtick_32x32
 TryExec=/usr/bin/gtick
 Exec=/usr/bin/gtick
-Terminal=false
 Categories=AudioVideo;Audio;GTK;
 StartupNotify=false
 X-AppInstall-Package=gtick

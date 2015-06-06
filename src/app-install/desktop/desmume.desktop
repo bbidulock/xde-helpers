@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=DeSmuME (Gtk)
 Comment=Nintento DS emulator
 Icon=DeSmuME
 TryExec=/usr/bin/desmume
 Exec=desmume
-Terminal=false
 Categories=Game;Emulator;GNOME;GTK;
 MimeType=application/x-nintendo-ds-rom;
 StartupNotify=false

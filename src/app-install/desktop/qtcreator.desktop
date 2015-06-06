@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Qt Creator
 GenericName=Integrated Development Environment
 Icon=qtcreator_logo_32
 TryExec=/usr/bin/qtcreator
 Exec=qtcreator %F
-Terminal=false
 Categories=Development;IDE;Qt;
 MimeType=text/x-c++src;text/x-c++hdr;text/x-xsrc;application/x-designer;application/vnd.nokia.qt.qmakeprofile;application/vnd.nokia.xml.qt.resource;
 StartupNotify=false
@@ -16,7 +13,7 @@ X-AppInstall-Popcon=214
 X-AppInstall-Section=extra
 X-Arch-Package-Repository=extra
 X-Arch-Package-Name=qtcreator
-X-Arch-Package-Version=3.4.0-2
+X-Arch-Package-Version=3.4.1-2
 X-Arch-Package-Description=Lightweight, cross-platform integrated development environment
 X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://qt-project.org

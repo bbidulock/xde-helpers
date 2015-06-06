@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Tower Toppler
 Comment=A clone of the 'Nebulus' game on old 8 and 16 bit machines.
@@ -9,7 +7,6 @@ Comment[de]=Klon des alten Spiels 'Nebulus'
 Icon=_usr_share_pixmaps_toppler
 TryExec=/usr/games/toppler
 Exec=/usr/games/toppler
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-Desktop-File-Install-Version=0.2

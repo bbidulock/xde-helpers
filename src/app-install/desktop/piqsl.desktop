@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Aqsis Advanced Framebuffer
 GenericName=RenderMan Advanced Framebuffer
@@ -8,7 +6,6 @@ Comment=Display driver for Aqsis and other RenderMan-compliant renderers
 Icon=aqsis
 TryExec=/usr/bin/piqsl
 Exec=piqsl %F
-Terminal=false
 Categories=Graphics;3DGraphics;Viewer;
 MimeType=image/tiff;image/x-exr;
 StartupNotify=false

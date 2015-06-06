@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=gTweakUI - Nautilus
 Comment=Extra nautilus preferences
 TryExec=/usr/bin/gtweakui-nautilus
 Exec=gtweakui-nautilus
-Terminal=false
 OnlyShowIn=GNOME;
 Categories=Application;Settings;GNOME;
 StartupNotify=true

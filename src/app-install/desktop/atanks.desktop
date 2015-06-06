@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=atanks
 Comment=Destroy your opponents' tanks.
 Icon=atanks.png
 TryExec=/usr/bin/atanks
 Exec=atanks
-Terminal=false
 Categories=Game;
 StartupNotify=false
 X-AppInstall-Package=atanks

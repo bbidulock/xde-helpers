@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Bazaar Preferences
 Comment=Configure Bazaar settings
 Icon=bzr-icon-64
 TryExec=/usr/bin/bzr
 Exec=bzr gpreferences
-Terminal=false
 OnlyShowIn=GNOME;
 Categories=Settings;
 StartupNotify=false

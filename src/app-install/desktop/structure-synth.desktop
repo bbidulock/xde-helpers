@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Structure Synth
 Comment=Application for creating 3D structures
@@ -8,7 +6,6 @@ Comment[es]=Aplicación para crear estructuras tridimensionales
 Icon=structure-synth.png
 TryExec=/usr/bin/structure-synth
 Exec=structure-synth
-Terminal=false
 Categories=Application;3DGraphics;
 StartupNotify=false
 X-AppInstall-Package=structure-synth

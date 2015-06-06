@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=LibreOffice Quickstarter
 Comment=Hook for quickstarter startup
 TryExec=/usr/bin/libreoffice
 Exec=libreoffice --quickstart --nologo --nodefault
-Terminal=false
 NoDisplay=true
 Categories=Office;
 StartupNotify=false

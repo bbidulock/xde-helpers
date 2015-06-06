@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Video4Linux Control Panel
 Comment=A universal control panel for V4L2 devices
 Icon=v4l2ucp
 TryExec=/usr/bin/v4l2ucp
 Exec=v4l2ucp
-Terminal=false
 Categories=Settings;HardwareSettings;
 StartupNotify=false
 X-AppInstall-Package=v4l2ucp

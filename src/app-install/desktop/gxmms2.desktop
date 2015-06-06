@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=gxmms2
 GenericName=Audio Player
@@ -9,7 +7,6 @@ Comment[de]=Musik abspielen
 Icon=xmms2
 TryExec=/usr/bin/gxmms2
 Exec=gxmms2
-Terminal=false
 Categories=AudioVideo;Audio;Player;GTK;
 StartupNotify=false
 X-AppInstall-Package=gxmms2

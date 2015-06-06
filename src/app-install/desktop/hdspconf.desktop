@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=HDSPConf
 Comment=Control the Hammerfall HDSP ALSA settings
 Icon=alsa-tools
 TryExec=/usr/bin/hdspconf
 Exec=hdspconf
-Terminal=false
 Categories=AudioVideo;Audio;
 StartupNotify=false
 X-AppInstall-Package=alsa-tools-gui

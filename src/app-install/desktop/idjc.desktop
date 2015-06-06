@@ -1,20 +1,15 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Internet DJ Console
 GenericName=Graphical shoutcast/icecast client
 GenericName[de]=Grafischer Shoutcast/Icecast Client
-GenericName[en_GB]=Graphical shoutcast/icecast client
 GenericName[fr]=Client graphique shoutcast/icecast
 Comment=Create your live radio show or podcast
 Comment[de]=Erstelle deine eigene Radiosendung oder Podcasts
-Comment[en_GB]=Create your live radio show or podcast
 Comment[fr]=Créez votre spectacle radio en direct ou votre podcast
 Icon=_usr_share_pixmaps_idjc
 TryExec=/usr/bin/idjc
 Exec=/usr/bin/idjc
-Terminal=false
 Categories=Network;GNOME;
 StartupNotify=true
 X-KDE-SubstituteUID=false

@@ -1,17 +1,7 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Agave
-Name[cs]=Agave
-Name[de]=Agave
-Name[fr]=Agave
-Name[it]=Agave
-Name[ja]=Agave
 Name[nl]=Agave kleurenschema's
-Name[pl]=Agave
-Name[sv]=Agave
-Name[zh_TW]=Agave
 Comment=Generate color schemes
 Comment[bg]=Генериране на цветови палитри
 Comment[ca]=Genera esquemes de color
@@ -31,7 +21,6 @@ Comment[zh_TW]=產生色彩配置檔
 Icon=agave
 TryExec=/usr/bin/agave
 Exec=agave
-Terminal=false
 Categories=Application;Graphics;GNOME;
 StartupNotify=false
 X-AppInstall-Package=agave

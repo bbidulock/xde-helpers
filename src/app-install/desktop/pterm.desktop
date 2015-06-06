@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=PuTTY Terminal Emulator
 GenericName=Pterm
@@ -8,7 +6,6 @@ Comment=Start a PuTTY terminal session
 Icon=pterm
 TryExec=/usr/bin/pterm
 Exec=pterm
-Terminal=false
 Categories=Application;Utility;TerminalEmulator;GTK;
 StartupNotify=false
 X-AppInstall-Package=putty

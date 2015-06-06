@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=ygraph Scientific Data Plotter
 GenericName=Scientific Data Plotter
@@ -8,7 +6,6 @@ Comment=Produce simple xy-plots of scientific data
 Icon=ygraph
 TryExec=/usr/bin/ygraph
 Exec=ygraph
-Terminal=false
 Categories=Education;Science;
 StartupNotify=false
 X-AppInstall-Package=ygraph

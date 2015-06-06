@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=System Preferences
 Name[bg]=Настройки на системата
@@ -9,7 +7,6 @@ Comment[bg]=Настройки на GNUstep
 Icon=/usr/lib/GNUstep/Applications/SystemPreferences.app/Resources/SystemPreferences.tiff
 TryExec=/usr/bin/SystemPreferences
 Exec=SystemPreferences
-Terminal=false
 Categories=Settings;DesktopSettings;
 StartupNotify=false
 X-AppInstall-Package=systempreferences

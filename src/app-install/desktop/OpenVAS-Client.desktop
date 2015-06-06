@@ -1,9 +1,6 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=OpenVAS-Client
-Name[de]=OpenVAS-Client
 Name[es]=OpenVAS-Cliente
 Comment=GTK+-2 Client for OpenVAS Security Scanner
 Comment[de]=GTK+-2 Klient für OpenVAS Sicherheits-Scanner
@@ -11,7 +8,6 @@ Comment[es]=Cliente GTK+-2 para el analizador de seguridad OpenVAS
 Icon=OpenVAS-Client.xpm
 TryExec=/usr/bin/OpenVAS-Client
 Exec=OpenVAS-Client
-Terminal=false
 Categories=Network;Utility;Security;
 StartupNotify=false
 X-AppInstall-Package=openvas-client

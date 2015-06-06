@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Subtitle Editor
 GenericName=Subtitle Editor
@@ -8,7 +6,6 @@ Comment=A subtitle editor based on GStreamer and Gtk+
 Icon=subtitleeditor
 TryExec=/usr/bin/subtitleeditor
 Exec=subtitleeditor %F
-Terminal=false
 Categories=AudioVideo;Audio;AudioVideoEditing;
 MimeType=application/x-microdvd;application/x-subrip;application/x-subviewer;text/x-mpsub;text/x-ssa;text/plain;
 StartupNotify=true

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gmail Notify
 GenericName=Gmail Notify
@@ -8,7 +6,6 @@ Comment=New Gmail notification tool
 Icon=gmail-notify-icon.png
 TryExec=/usr/bin/gmail-notify
 Exec=gmail-notify
-Terminal=false
 Categories=Application;Network;
 StartupNotify=false
 X-AppInstall-Package=gmail-notify

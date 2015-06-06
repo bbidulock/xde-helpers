@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Desktop Drapes
 Name[zh_HK]=桌面布簾
@@ -9,7 +7,6 @@ Comment[zh_HK]=管理桌面桌布
 Icon=drapes
 TryExec=/usr/bin/drapes
 Exec=drapes --tray
-Terminal=false
 Categories=Settings;DesktopSettings;GNOME;
 StartupNotify=false
 X-AppInstall-Package=drapes

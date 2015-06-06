@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Alleyoop Memory Checker
 GenericName=Memory Checker
@@ -8,7 +6,6 @@ Comment=Find memory-management problems in your programs using the valgrind tool
 Icon=alleyoop
 TryExec=/usr/bin/alleyoop
 Exec=alleyoop
-Terminal=false
 Categories=Development;Debugger;Profiling;GNOME;
 StartupNotify=false
 X-AppInstall-Package=alleyoop

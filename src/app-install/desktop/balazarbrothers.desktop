@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Balazar Brothers
 GenericName=Action / Adventure Game
 Comment=3D adventure and roleplaying game
 TryExec=/usr/bin/balazar_brothers
 Exec=balazar_brothers
-Terminal=false
 Categories=Application;Game;AdventureGame;ArcadeGame;RolePlaying;
 StartupNotify=false
 X-AppInstall-Package=balazarbrothers

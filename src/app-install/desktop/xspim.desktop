@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=xSPIM
 Comment=Graphical MIPS32 Assembly language emulator
 Icon=xspim
 TryExec=/usr/bin/xspim
 Exec=xspim
-Terminal=false
 Categories=Education;Science;ComputerScience;
 StartupNotify=True
 X-AppInstall-Package=spim

@@ -1,11 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Xmonad
 TryExec=/usr/bin/xmonad
 Exec=xmonad
-Terminal=false
 StartupNotify=false
 X-GNOME-Autostart-Notify=true
 X-GNOME-Autostart-Phase=WindowManager

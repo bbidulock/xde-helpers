@@ -1,10 +1,6 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=ghemical
-Name[de]=ghemical
-Name[nl]=ghemical
 GenericName=Molecular modelling program
 GenericName[de]=Molecular modelling Programm
 GenericName[nl]=Modelleerprogramma voor moleculen
@@ -13,7 +9,6 @@ Comment[nl]=Teken modellen van moleculen
 Icon=ghemical
 TryExec=/usr/bin/ghemical
 Exec=ghemical
-Terminal=false
 Categories=Education;Science;Chemistry;GTK;
 StartupNotify=false
 X-AppInstall-Package=ghemical

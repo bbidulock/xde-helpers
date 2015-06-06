@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=systemadm
 Comment=Manage Systemd Units
 Icon=applications-system
 TryExec=/usr/bin/systemadm
 Exec=systemadm
-Terminal=false
 Categories=Settings;System;
 StartupNotify=false
 X-AppInstall-Package=systemd-ui-git

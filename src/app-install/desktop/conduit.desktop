@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Conduit Synchronizer
 Name[ar]=مزامن Conduit
@@ -87,7 +85,6 @@ Comment[zh_TW]=GNOME 的同步化程式
 Icon=conduit
 TryExec=/usr/bin/conduit
 Exec=/usr/bin/conduit
-Terminal=false
 Categories=Utility;GNOME;GTK;
 StartupNotify=false
 X-AppInstall-Package=conduit

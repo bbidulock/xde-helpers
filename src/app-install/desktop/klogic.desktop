@@ -1,15 +1,11 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=KLogic
-Name[de]=KLogic
 Comment=Simulate digital circuits
 Comment[de]=Digitalschaltungen simulieren
 Icon=klogic
 TryExec=/usr/bin/klogic
 Exec=klogic -caption "%c" %i %m
-Terminal=false
 Categories=Education;Science;Electronics;KDE;
 StartupNotify=false
 X-DocPath=klogic/index.html

@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=FreeTennis
 Comment=Free Tennis - a free tennis simulation
 Icon=freetennis
 TryExec=/usr/bin/freetennis
 Exec=freetennis -newbie
-Terminal=false
 Categories=Game;SportsGame;
 StartupNotify=false
 X-AppInstall-Package=freetennis

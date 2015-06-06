@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Pathological
 GenericName=pathological
@@ -8,7 +6,6 @@ Comment=Solve puzzles involving paths and marbles
 Icon=pathological
 TryExec=/usr/bin/pathological
 Exec=pathological
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=pathological

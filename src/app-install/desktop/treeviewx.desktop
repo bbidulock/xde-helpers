@@ -1,22 +1,17 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=TreeView X
 GenericName=Tree Plotter
-GenericName[en]=Tree Plotter
 GenericName[fr]=Traceur d'arbres
 GenericName[it]=Plotter di Alberi
 GenericName[pt_BR]=Plotador de árvores
 Comment=Displays, modifies, prints and exports in SVG format phylogenetic trees
-Comment[en]=Displays, modifies, prints and exports in SVG format phylogenetic trees
 Comment[fr]=Affiche, modifie, imprime et exporte au format SVG des arbres phyolgénétiques
 Comment[it]=Mostra, modifica, stampa ed esporta in formato SVG alberi filogenetici
 Comment[pt_BR]=Exibe, modifica e exporta em formato SVG árvores filogenéticas
 Icon=treeviewx
 TryExec=/usr/bin/tv
 Exec=tv %f
-Terminal=false
 Categories=Education;Science;Biology;
 MimeType=text/x-clustalw-tree;
 StartupNotify=false

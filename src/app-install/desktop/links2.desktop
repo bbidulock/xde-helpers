@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Links 2
 Comment=Web browser running in both graphics and text mode
 TryExec=/usr/bin/xlinks2
 Exec=xlinks2
-Terminal=false
 Categories=Network;WebBrowser;
 StartupNotify=false
 X-AppInstall-Package=links2

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Billard-GL
 GenericName=billard-gl
@@ -8,7 +6,6 @@ Comment=Play Billard Game
 Icon=billard-gl
 TryExec=/usr/bin/billard-gl
 Exec=billard-gl
-Terminal=false
 Categories=Game;Simulation;
 StartupNotify=false
 X-AppInstall-Package=billard-gl

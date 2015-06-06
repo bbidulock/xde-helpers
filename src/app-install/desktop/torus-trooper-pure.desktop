@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Torus Trooper Pure
 Comment=HIZ's version of Torus Trooper
 Icon=torus-trooper-pure
 TryExec=/usr/bin/torus-trooper-pure
 Exec=torus-trooper-pure
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=torus-trooper-pure

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=modest
 GenericName=Email
@@ -8,7 +6,6 @@ Comment=E-mail client
 Icon=modest
 TryExec=/usr/bin/modest
 Exec=modest -s %U
-Terminal=false
 Categories=Network;Email;GNOME;GTK;
 MimeType=message/rfc822;
 StartupNotify=true

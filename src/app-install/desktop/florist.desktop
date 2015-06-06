@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=florist
 Comment=GNU Ada95 Posix 1003.5 Implementation
 Comment[de]=Implementation von Posix 1003.5 für GNU Ada (GNAT)
 Comment[hu]=A GNU Ada95 Posix 1003.5 implementációja (GNAT)
-Terminal=false
 StartupNotify=false
 DocPath=/usr/share/ada/html/florist/index.htm
 X-AppInstall-Package=florist

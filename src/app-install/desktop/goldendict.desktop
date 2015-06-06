@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GoldenDict
 GenericName=Multiformat Dictionary
@@ -8,7 +6,6 @@ Comment=GoldenDict
 Icon=_usr_share_pixmaps_goldendict
 TryExec=/usr/bin/goldendict
 Exec=goldendict
-Terminal=false
 Categories=Education;Office;Dictionary;Qt;
 StartupNotify=false
 X-AppInstall-Package=goldendict

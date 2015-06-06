@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=SimpleAgenda
 Name[bg]=Календар (SimpleAgenda)
@@ -9,7 +7,6 @@ Comment[bg]=Програма за срещи и календари за GNUstep
 Icon=/usr/lib/GNUstep/Applications/SimpleAgenda.app/Resources/Calendar.tiff
 TryExec=/usr/bin/SimpleAgenda
 Exec=SimpleAgenda
-Terminal=false
 Categories=Office;Calendar;
 StartupNotify=false
 X-AppInstall-Package=agenda.app

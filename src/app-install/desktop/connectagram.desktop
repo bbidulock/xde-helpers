@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Connectagram
 Icon=connectagram
 TryExec=/usr/bin/connectagram
 Exec=connectagram
-Terminal=false
 Categories=Game;Qt;
 StartupNotify=false
 X-AppInstall-Package=connectagram

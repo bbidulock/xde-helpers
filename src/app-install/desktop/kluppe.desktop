@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Kluppe
 Comment=audio loop-player and recorder
 Icon=kluppe.png
 TryExec=/usr/bin/kluppe
 Exec=kluppe
-Terminal=false
 Categories=AudioVideo;Audio;Recorder;
 StartupNotify=false
 X-AppInstall-Package=kluppe

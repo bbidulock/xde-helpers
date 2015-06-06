@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Ettercap
 Comment=Multipurpose Network sniffer/analyser/interceptor/logger
 Icon=ettercap
 TryExec=/usr/bin/ettercap-pkexec
 Exec=ettercap-pkexec -G
-Terminal=false
 Categories=Network;GTK;
 Keywords=ettercap,ettercap-pkexec;
 StartupNotify=false

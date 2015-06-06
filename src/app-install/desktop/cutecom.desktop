@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=CuteCom
 GenericName=Serial Terminal
 Icon=openterm
 TryExec=/usr/bin/cutecom
 Exec=cutecom
-Terminal=false
 StartupNotify=false
 X-KDE-StartupNotify=false
 X-AppInstall-Package=cutecom
@@ -19,4 +16,4 @@ X-Arch-Package-Version=0.22.0-3
 X-Arch-Package-Description=A graphical serial terminal
 X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://cutecom.sourceforge.net
-X-Arch-Package-Votes=71
+X-Arch-Package-Votes=72

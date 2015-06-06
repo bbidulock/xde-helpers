@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Chatzilla
 GenericName=IRC Chat
 Icon=chatzilla
 TryExec=/usr/bin/iceape
 Exec=iceape -chat
-Terminal=false
 Categories=Network;IRCClient;GTK;
 StartupNotify=false
 X-AppInstall-Package=iceape-chatzilla

@@ -1,17 +1,12 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Xournal
-Name[ca]=Xournal
-Name[fr]=Xournal
 Comment=Take handwritten notes
 Comment[ca]=Preneu notes a mà
 Comment[fr]=Prise de notes manuscrites
 Icon=xournal
 TryExec=/usr/bin/xournal
 Exec=xournal %f
-Terminal=false
 Categories=Utility;TextEditor;GNOME;GTK;
 MimeType=application/x-xoj;application/pdf;
 StartupNotify=true

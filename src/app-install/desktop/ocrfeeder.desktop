@@ -1,19 +1,10 @@
 [Desktop Entry]
 Version=0.5
-Encoding=UTF-8
 Type=Application
 Name=OCRFeeder
-Name[cs]=OCRFeeder
-Name[de]=OCRFeeder
-Name[en_GB]=OCRFeeder
-Name[es]=OCRFeeder
-Name[nb]=OCRFeeder
-Name[sl]=OCRFeeder
-Name[sv]=OCRFeeder
 Comment=The complete OCR suite.
 Comment[cs]=Kompletní aplikace pro OCR.
 Comment[de]=Die gesamte OCR-Suite.
-Comment[en_GB]=The complete OCR suite.
 Comment[es]=La aplicación completa de OCR
 Comment[fr]=La suite OCR complète.
 Comment[gl]=A aplicación completa de OCR
@@ -26,7 +17,6 @@ Comment[zh_CN]=完整的OCR解决方案
 Icon=_usr_share_icons_hicolor_scalable_apps_ocrfeeder
 TryExec=/usr/bin/ocrfeeder
 Exec=ocrfeeder
-Terminal=false
 Categories=Application;Office;
 MimeType=image/bmp;image/gif;image/jpeg;image/jpg;image/pjpeg;image/png;image/tiff;
 StartupNotify=false

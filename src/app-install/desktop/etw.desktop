@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Eat The Whistle
 GenericName=Soccer Game
@@ -11,7 +9,6 @@ Comment[ro]=Fotbal, joc de arcadă
 Icon=etw
 TryExec=/usr/bin/etw
 Exec=etw
-Terminal=false
 Categories=Game;SportsGame;
 StartupNotify=false
 X-AppInstall-Package=etw

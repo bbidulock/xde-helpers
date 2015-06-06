@@ -1,6 +1,5 @@
 [Desktop Entry]
 Version=0.9.4
-Encoding=UTF-8
 Type=Application
 Name=Liferea Feed Reader
 Name[af]=Liferea
@@ -119,7 +118,6 @@ Comment[zh_TW]=下載和檢視 feed
 Icon=liferea
 TryExec=/usr/bin/liferea
 Exec=liferea
-Terminal=false
 Categories=Network;News;
 StartupNotify=true
 X-AppInstall-Package=liferea

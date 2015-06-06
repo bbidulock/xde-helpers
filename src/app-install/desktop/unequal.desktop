@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Unequal
 Comment=Fully populate the grid with numbers under some conditions
@@ -9,7 +7,6 @@ Comment[fr]=Remplir complètement la grille de nombre sous certaines conditions
 Icon=unequal
 TryExec=/usr/bin/unequal
 Exec=unequal
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=sgt-puzzles

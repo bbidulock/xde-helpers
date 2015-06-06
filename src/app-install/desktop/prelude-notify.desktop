@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=prelude-notify
 Comment=Graphical notification applet for prelude
 Icon=utilities-system-monitor
 TryExec=/usr/bin/prelude-notify
 Exec=prelude-notify
-Terminal=false
 Categories=System;Security;
 StartupNotify=true
 X-AppInstall-Package=prelude-notify

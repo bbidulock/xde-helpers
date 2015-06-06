@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Nexuiz
 Comment=A networked 3D first person shooter game with high-quality graphic effects
@@ -11,7 +9,6 @@ Comment[ro_RO]=Un joc 3D cu împuşcături, perspectivă personală şi efecte g
 Icon=nexuiz48x48
 TryExec=/usr/games/nexuiz
 Exec=/usr/games/nexuiz
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=nexuiz

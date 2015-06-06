@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Fluff
 Comment=Fast, light file manager
 Icon=fluff
 TryExec=/usr/bin/fluff
 Exec=fluff
-Terminal=false
 Categories=System;FileManager;
 StartupNotify=false
 X-AppInstall-Package=fluff

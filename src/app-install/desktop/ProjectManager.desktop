@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Project Manager IDE
 Name[bg]=Среда за разработка (ProjectManager)
@@ -9,7 +7,6 @@ Comment[bg]=Интегрирана среда за разработка за GNU
 Icon=_usr_lib_GNUstep_Applications_ProjectManager.app_Resources_ProjectManager
 TryExec=/usr/bin/ProjectManager
 Exec=ProjectManager
-Terminal=false
 Categories=Development;IDE;
 StartupNotify=false
 X-AppInstall-Package=projectmanager.app

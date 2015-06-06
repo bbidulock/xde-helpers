@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=UIMA Annotation Viewer
 Name[fr]=Visionneur d'annotations UIMA
@@ -9,7 +7,6 @@ Comment[fr]=Visionneur d'annotations UIMA
 Icon=UIMA
 TryExec=/usr/bin/annotationViewer
 Exec=annotationViewer
-Terminal=false
 Categories=Education;Science;Java;
 StartupNotify=false
 X-AppInstall-Package=uima-utils

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=LibreOffice Calc
 GenericName=Spreadsheet
@@ -20,9 +18,6 @@ GenericName[cs]=Sešit
 GenericName[da]=Regneark
 GenericName[de]=Tabellenkalkulation
 GenericName[el]=Υπολογιστικό φύλλο
-GenericName[en]=Spreadsheet
-GenericName[en_GB]=Spreadsheet
-GenericName[en_ZA]=Spreadsheet
 GenericName[eo]=Kalkultabelo
 GenericName[es]=Hoja de cálculo
 GenericName[et]=Arvutustabel
@@ -58,7 +53,6 @@ GenericName[nn]=Rekneark
 GenericName[ns]=Letlakala-kalo
 GenericName[oc]=Classador
 GenericName[om]=Wardii
-GenericName[or]=Spreadsheet
 GenericName[pa_IN]=ਸਪਰੈੱਡ ਸ਼ੀਟ
 GenericName[pl]=Arkusz kalkulacyjny
 GenericName[pt]=Folha de cálculo
@@ -105,7 +99,6 @@ Comment[de]=Berechnungen ausführen, Informationen analysieren und Listen in Tab
 Comment[dgo]=कल्क बरतियै स्प्रैडशीटें च गणना,जानकारी दा विश्लेशन ते सूचियें दा प्रबंध करो.
 Comment[dz]=རྩིས་འཕྲུལ་ལག་ལེན་འཐབ་ཐོག་ལས་ཤོག་ཁྲམ་ནང་ལུ་ རྩིས་རྐྱབ་ནི་དང་ བརྡ་དོན་དཔྱད་ཞིབ་འབད་ནི་ ཐོ་ཡིག་འཛིན་སྐྱོང་འབད་ནི།
 Comment[el]=Υπολογισμός, ανάλυση πληροφοριών και διαχείριση λιστών σε υπολογιστικά φύλλα με τη χρήση του Calc.
-Comment[en]=Perform calculations, analyze information and manage lists in spreadsheets by using Calc.
 Comment[en_GB]=Perform calculations, analyse information and manage lists in spreadsheets using Calc.
 Comment[en_ZA]=Perform calculation, analyse information and manage lists in spreadsheets by using Calc.
 Comment[eo]=Kalkuladi, analizi informojn kaj administri listojn en kalkultabeloj per Tabelilo.
@@ -190,7 +183,6 @@ Comment[zu]=Yenza izibalo, hlaziya ukwaziswa futhi ulawule izinhlu kumaspredshit
 Icon=libreoffice-calc
 TryExec=/usr/bin/libreoffice
 Exec=libreoffice --calc %U
-Terminal=false
 Categories=Office;Spreadsheet;X-MandrivaLinux-Office-Spreadsheets;X-Red-Hat-Base;
 Keywords=Accounting;Stats;OpenDocument Spreadsheet;Chart;Microsoft Excel;Microsoft Works;OpenOffice Calc;ods;xls;xlsx;
 MimeType=application/vnd.oasis.opendocument.spreadsheet;application/vnd.oasis.opendocument.spreadsheet-template;application/vnd.sun.xml.calc;application/vnd.sun.xml.calc.template;application/msexcel;application/vnd.ms-excel;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;application/vnd.ms-excel.sheet.macroenabled.12;application/vnd.openxmlformats-officedocument.spreadsheetml.template;application/vnd.ms-excel.template.macroenabled.12;application/vnd.ms-excel.sheet.binary.macroenabled.12;text/csv;application/x-dbf;text/spreadsheet;application/csv;application/excel;application/tab-separated-values;application/vnd.lotus-1-2-3;application/vnd.oasis.opendocument.chart;application/vnd.oasis.opendocument.chart-template;application/x-dbase;application/x-dos_ms_excel;application/x-excel;application/x-msexcel;application/x-ms-excel;application/x-quattropro;application/x-123;text/comma-separated-values;text/tab-separated-values;text/x-comma-separated-values;text/x-csv;application/vnd.oasis.opendocument.spreadsheet-flat-xml;application/vnd.ms-works;application/clarisworks;
@@ -213,4 +205,5 @@ Actions=NewDocument;
 
 [Desktop Action NewDocument]
 Name=New Spreadsheet
+TryExec=/usr/bin/libreoffice
 Exec=libreoffice --calc

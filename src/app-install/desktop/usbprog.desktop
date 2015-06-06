@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=USBprog
 Comment=USBprog firmware programmer
 Icon=usbprog_icon
 TryExec=/usr/bin/usbprog-gui
 Exec=usbprog-gui
-Terminal=false
 Categories=Development;Building;
 StartupNotify=false
 X-AppInstall-Package=usbprog

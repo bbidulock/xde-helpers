@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Slant
 Comment=Draw a diagonal line and choose which way each line slants
@@ -9,7 +7,6 @@ Comment[fr]=Dessiner des lignes en diagonales et choisir dans quel côté celle-
 Icon=slant
 TryExec=/usr/bin/slant
 Exec=slant
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=sgt-puzzles

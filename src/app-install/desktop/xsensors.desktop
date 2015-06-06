@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Xsensors
 GenericName=Hardware Monitor
@@ -8,7 +6,6 @@ Comment=View hardware health
 Icon=xsensors
 TryExec=/usr/bin/xsensors
 Exec=xsensors
-Terminal=false
 Categories=System;Monitor;GTK;
 StartupNotify=false
 X-AppInstall-Package=xsensors

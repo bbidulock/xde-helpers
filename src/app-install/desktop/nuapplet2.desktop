@@ -1,6 +1,5 @@
 [Desktop Entry]
 Version=2.0
-Encoding=UTF-8
 Type=Application
 Name=NuApplet
 GenericName=NuFW Client
@@ -8,7 +7,6 @@ Comment=QT NuFW Client
 Icon=nuapplet2-running.png
 TryExec=/usr/bin/nuapplet2
 Exec=nuapplet2
-Terminal=false
 Categories=Network;
 StartupNotify=false
 X-AppInstall-Package=nuapplet

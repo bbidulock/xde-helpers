@@ -1,19 +1,13 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Navit
-Name[de]=Navit
-Name[fr]=Navit
 GenericName=Navit
-GenericName[de]=Navit
 Comment=The open source vector based navigation program with routing engine
 Comment[de]=Ein vektorbasiertes Navigationsprogramm
 Comment[fr]=Le logiciel opensource de navigation vectorielle
 Icon=navit
 TryExec=/usr/bin/navit
 Exec=navit
-Terminal=false
 Categories=Utility;Geography;GTK;
 StartupNotify=true
 X-AppInstall-Package=navit

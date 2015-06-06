@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Qt Linguist
 Comment=Add translations to Qt applications
 Icon=linguist
 TryExec=/usr/lib/qt/bin/linguist
 Exec=/usr/lib/qt/bin/linguist
-Terminal=false
 Categories=Development;Qt;
 MimeType=text/vnd.trolltech.linguist;application/x-linguist;
 StartupNotify=false

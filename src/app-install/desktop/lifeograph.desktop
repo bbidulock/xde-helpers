@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Lifeograph
 GenericName=Diary
@@ -8,7 +6,6 @@ Comment=Keep a private journal of your life
 Icon=lifeograph
 TryExec=/usr/bin/lifeograph
 Exec=lifeograph
-Terminal=false
 Categories=Utility;
 StartupNotify=false
 X-AppInstall-Package=lifeograph

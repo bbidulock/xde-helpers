@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GPG Password Agent
 Comment=GNOME Keyring: GPG Agent
 TryExec=/usr/bin/gnome-keyring-daemon
 Exec=/usr/bin/gnome-keyring-daemon --start --components=gpg
-Terminal=false
 OnlyShowIn=GNOME;MATE;Unity;
 StartupNotify=false
 X-GNOME-Autostart-Notify=true

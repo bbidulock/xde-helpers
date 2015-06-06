@@ -1,11 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Network Selector
 Name[cs]=Výběr sítě
 Name[de]=Netzwerk-Selektor
-Name[en]=Network Selector
 Name[es]=Selector de red
 Name[fr]=Sélecteur de réseau
 Name[hu]=Hálózatválasztó
@@ -18,7 +15,6 @@ Name[zh_TW]=網路選擇器
 Comment=Network Selector Panel Applet
 Comment[cs]=Applet výběru sítě
 Comment[de]=Netzwerk-Wähler Panel-Applet
-Comment[en]=Network Selector Panel Applet
 Comment[es]=Applet del panel del selector de red
 Comment[fr]=Applet du tableau de bord de sélection du réseau
 Comment[hu]=Hálózatválasztó panel-kisalkalmazás
@@ -31,7 +27,6 @@ Comment[zh_TW]=網路選擇器面板程式
 Icon=netapplet.png
 TryExec=/usr/bin/netapplet
 Exec=netapplet
-Terminal=false
 Categories=Application;Network;GNOME;X-Ximian-Main;
 StartupNotify=false
 X-AppInstall-Package=netapplet

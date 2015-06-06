@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Epigrass
 GenericName=Epidemics Simulator
@@ -8,7 +6,6 @@ Comment=Epidemics Simulator
 Icon=/usr/share/pixmaps/egicon.png
 TryExec=/usr/bin/epigrass
 Exec=epigrass
-Terminal=false
 Categories=Education;Science;
 StartupNotify=false
 X-AppInstall-Package=epigrass

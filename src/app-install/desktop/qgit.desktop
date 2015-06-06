@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=qgit
 GenericName=git GUI viewer
@@ -8,7 +6,6 @@ Comment=git GUI viewer
 TryExec=/usr/bin/qgit
 Exec=qgit
 ServiceTypes=KParts/ReadOnlyPart,Browser/View;
-Terminal=false
 Categories=Development;RevisionControl;Qt;
 MimeType=inode/directory;
 StartupNotify=false

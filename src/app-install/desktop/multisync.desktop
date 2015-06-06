@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Multisync
 Comment=Synchronization program for personal information such as calendars, addressbooks etc.
@@ -8,7 +6,6 @@ Comment[de]=Synchronisation von Organizern, PIMs und Mobiltelefonen
 Icon=_usr_share_multisync_pixmaps_multisync
 TryExec=/usr/bin/multisync
 Exec=/usr/bin/multisync
-Terminal=false
 Categories=Application;Utility;X-Red-Hat-Base;
 StartupNotify=false
 StartupWMClass=multisync

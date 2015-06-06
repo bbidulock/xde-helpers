@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=medit
 Comment=Text editor
 Icon=medit
 TryExec=/usr/bin/medit
 Exec=medit %F
-Terminal=false
 Categories=Utility;TextEditor;
 MimeType=text/plain;
 StartupNotify=true

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Anthy Dictionary editor
 Name[ja]=Anthy 辞書管理
@@ -11,7 +9,6 @@ Comment[ja]=Anthy の個人辞書に単語を登録、削除、編集するツ�
 Icon=kasumi
 TryExec=/usr/bin/kasumi
 Exec=kasumi
-Terminal=false
 Categories=Settings;
 StartupNotify=true
 X-AppInstall-Package=kasumi

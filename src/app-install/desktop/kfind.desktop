@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Find Files/Folders
 Name[af]=Soek Lêers/Gidse
@@ -19,7 +17,6 @@ Name[csb]=Szëkba lopków/katalogów
 Name[da]=Find filer/mapper
 Name[de]=Dateien/Ordner suchen
 Name[el]=Αναζήτηση αρχείων/φακέλων
-Name[en_GB]=Find Files/Folders
 Name[eo]=Trovi dosierojn/dosierujojn
 Name[es]=Buscar archivos/carpetas
 Name[et]=Failide/kataloogide otsimine
@@ -91,7 +88,6 @@ Name[zh_TW]=尋找檔案/資料夾
 Icon=kfind
 TryExec=/usr/bin/kfind
 Exec=kfind %u
-Terminal=false
 OnlyShowIn=KDE;
 Categories=Core;KDE;Qt;
 StartupNotify=false

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Fraqtive
 GenericName=Fractal Generator
@@ -8,7 +6,6 @@ Comment=Mandelbrot family fractal generator
 Icon=fraqtive
 TryExec=/usr/bin/fraqtive
 Exec=fraqtive
-Terminal=false
 Categories=Education;Science;Math;Qt;
 StartupNotify=false
 X-AppInstall-Package=fraqtive

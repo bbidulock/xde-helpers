@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GnoeMoe
 GenericName=MOO Client
@@ -8,7 +6,6 @@ Comment=GnoeMoe Gnome MOO Client
 Icon=gnoemoe-logo.svg
 TryExec=/usr/bin/gnoemoe
 Exec=gnoemoe
-Terminal=false
 Categories=Network;GNOME;GTK;
 StartupNotify=false
 X-AppInstall-Package=gnoemoe

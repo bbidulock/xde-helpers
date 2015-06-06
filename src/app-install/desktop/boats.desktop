@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Boat Scenario
 Comment=Race scenario drawing tool
 Icon=boats.png
 TryExec=/usr/bin/boats
 Exec=boats %F
-Terminal=false
 Categories=Education;Qt;
 MimeType=application/x-boats;
 StartupNotify=false

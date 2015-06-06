@@ -1,14 +1,7 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=gurlchecker
-Name[da]=gurlchecker
 Name[de]=gURLChecker
-Name[es]=gurlchecker
-Name[fr]=gurlchecker
-Name[it]=gurlchecker
-Name[sk]=gurlchecker
 Comment=Graphical Web Links checker
 Comment[de]=Ein grafischer Linkprüfer
 Comment[fr]=Vérificateur de liens graphique
@@ -17,7 +10,6 @@ Comment[sk]=Grafický Web Kontrolór Web Odkazov
 Icon=gurlchecker
 TryExec=/usr/bin/gurlchecker
 Exec=gurlchecker %u
-Terminal=false
 Categories=Application;Network;GNOME;GTK;
 StartupNotify=true
 X-AppInstall-Package=gurlchecker

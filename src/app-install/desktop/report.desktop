@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Reporting & Logging
 Name[af]=Aanmeld & opgawemaak
@@ -79,7 +77,6 @@ Comment[fr]=Edition de schema qui définissent des lecteurs XML en OCaml
 Icon=yast-report
 TryExec=/usr/bin/report2.gui.byte
 Exec=report2.gui.byte
-Terminal=false
 Categories=Development;Settings;System;Viewer;GTK;Qt;X-SuSE-YaST;X-SuSE-YaST-Misc;
 StartupNotify=true
 X-KDE-HasReadOnlyMode=true

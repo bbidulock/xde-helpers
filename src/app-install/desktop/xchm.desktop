@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=xCHM
 Comment=Compiled HTML Help (CHM) file viewer
@@ -8,7 +6,6 @@ Comment[fr]=Visionneuse de fichiers Compiled HTML Help (CHM)
 Icon=xchm
 TryExec=/usr/bin/xchm
 Exec=xchm %f
-Terminal=false
 Categories=Office;Viewer;GTK;
 MimeType=application/x-chm;
 StartupNotify=false
@@ -23,4 +20,5 @@ X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://xchm.sourceforge.net/
 
 [Desktop Action View]
+TryExec=/usr/bin/xchm
 Exec=xchm %f

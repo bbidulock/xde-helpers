@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=JD 2ch browser
 Name[ja]=2ch ブラウザ JD
@@ -9,7 +7,6 @@ Comment[ja]=gtkmm2 を利用した 2ch ブラウザ
 Icon=jd
 TryExec=/usr/bin/jd
 Exec=jd
-Terminal=false
 Categories=Network;
 StartupNotify=false
 X-AppInstall-Package=jd

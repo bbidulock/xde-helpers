@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=kdesvn
 GenericName=SVN client
@@ -15,7 +13,6 @@ Comment[nl]=Een Subversion-client voor KDE
 Icon=kdesvn
 TryExec=/usr/bin/kdesvn
 Exec=kdesvn -caption "%c"
-Terminal=false
 Categories=Development;RevisionControl;KDE;Qt;
 MimeType=inode/directory;
 StartupNotify=false

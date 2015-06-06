@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Bluemindo
 GenericName=Bluemindo Audio Player
@@ -8,7 +6,6 @@ Comment=A really simple but powerful audio player in Python/PyGTK, using Gstream
 Icon=bluemindo.png
 TryExec=/usr/bin/bluemindo
 Exec=bluemindo
-Terminal=false
 Categories=AudioVideo;Audio;Player;Music;GTK;
 StartupNotify=false
 X-AppInstall-Package=bluemindo

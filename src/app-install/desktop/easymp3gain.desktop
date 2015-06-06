@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=easyMP3Gain
 GenericName=MP3Gain Frontend
@@ -11,7 +9,6 @@ Comment[it]=Una GUI per mp3gain, vorbisgain e aacgain
 Icon=easymp3gain
 TryExec=/usr/bin/easymp3gain
 Exec=easymp3gain %U
-Terminal=false
 Categories=AudioVideo;Audio;
 MimeType=application/x-easymp3gain;
 StartupNotify=false

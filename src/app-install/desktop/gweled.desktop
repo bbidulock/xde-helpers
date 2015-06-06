@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gweled
 Comment=Play a puzzle game similar to "Diamond Mine"
@@ -13,7 +11,6 @@ Comment[ru]=Играть в логическую игру похожую на и
 Icon=gweled
 TryExec=/usr/bin/gweled
 Exec=gweled
-Terminal=false
 Categories=Game;LogicGame;GNOME;GTK;
 StartupNotify=true
 X-AppInstall-Package=gweled

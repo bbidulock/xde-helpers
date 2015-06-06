@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Lunch
 Comment=Distributed Process Launcher
@@ -8,7 +6,6 @@ Comment[fr]=Launceur de processus distribué
 Icon=lunch.png
 TryExec=/usr/bin/lunch
 Exec=lunch -g -q
-Terminal=false
 Categories=Network;System;RemoteAccess;
 StartupNotify=false
 X-AppInstall-Package=lunch

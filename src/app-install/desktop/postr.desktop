@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Flickr Uploader
 Comment=Upload photos to Flickr
 Icon=postr
 TryExec=/usr/bin/postr
 Exec=postr %F
-Terminal=false
 Categories=Graphics;GNOME;GTK;
 MimeType=image/bmp;image/gif;image/x-fits;image/pcx;image/x-portable-anymap;image/x-portable-bitmap;image/x-portable-graymap;image/x-portable-pixmap;image/x-sgi;image/x-tga;image/x-xbitmap;image/x-xwindowdump;image/tiff;image/jpeg;image/x-psd;image/png;image/x-icon;image/x-xpixmap;image/svg+xml;
 StartupNotify=true

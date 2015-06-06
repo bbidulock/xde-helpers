@@ -1,11 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Penguin Canfield
 TryExec=/usr/games/ace-canfield
 Exec=/usr/games/ace-canfield
-Terminal=false
 Categories=Game;BoardGame;
 StartupNotify=false
 X-AppInstall-Package=ace-of-penguins

@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Sokoban
 Comment=Clone of the Sokoban game
 Icon=gsoko.png
 TryExec=/usr/bin/gsoko
 Exec=gsoko
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-SingleInstance=true

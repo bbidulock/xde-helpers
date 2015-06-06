@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Axel
 GenericName=Axel Front-end
@@ -8,7 +6,6 @@ Comment=Front-end for Axel - a light download accelerator
 Icon=connect_creating
 TryExec=/usr/bin/axel-kapt
 Exec=axel-kapt %f
-Terminal=false
 Categories=Network;FileTransfer;KDE;
 MimeType=text/html;
 StartupNotify=false

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=gEDA Schematic -> PCB Project
 Name[de]=gEDA Schaltplan --> PCB Projekt
@@ -14,7 +12,6 @@ Comment[nl]=Creer en bewerk electronika projecten met xgsch2pcb
 Icon=geda-xgsch2pcb
 TryExec=/usr/bin/xgsch2pcb
 Exec=xgsch2pcb %f
-Terminal=false
 Categories=Electronics;Engineering;
 MimeType=application/x-geda-gsch2pcb-project;
 StartupNotify=false

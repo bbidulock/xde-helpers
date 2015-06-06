@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Neverball
 Comment=A 3D arcade game with a ball
@@ -13,7 +11,6 @@ Comment[pt_BR]=Um jogo arcade com uma bola 3D
 Icon=neverball
 TryExec=/usr/bin/neverball
 Exec=neverball
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=neverball

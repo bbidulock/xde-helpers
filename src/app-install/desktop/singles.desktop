@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Singles
 Comment=Puzzle game based on Hitori
@@ -8,7 +6,6 @@ Comment[de]=Auf Hitori basierendes Puzzlespiel
 Icon=singles
 TryExec=/usr/bin/singles
 Exec=singles
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=sgt-puzzles

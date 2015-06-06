@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=VYM - View Your Mind
 GenericName=Planning Tool
@@ -18,7 +16,6 @@ Comment[it]=Crea mappe mentali
 Icon=vym
 TryExec=/usr/bin/vym
 Exec=vym
-Terminal=false
 Categories=Office;KDE;Qt;
 MimeType=application/x-vym;
 StartupNotify=false

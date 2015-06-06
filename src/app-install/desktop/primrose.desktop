@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Primrose
 Comment=Captivating tile-clearing puzzle game
 Icon=primrose
 TryExec=/usr/bin/primrose
 Exec=primrose
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=primrose

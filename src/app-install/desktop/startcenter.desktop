@@ -1,17 +1,11 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=LibreOffice
 GenericName=Office
-GenericName[en]=Office
 Comment=The office productivity suite compatible to the open and standardized ODF document format. Supported by The Document Foundation.
-Comment[en]=The office productivity suite compatible to the open and standardized ODF document format. Supported by The Document Foundation.
 Icon=libreoffice-startcenter
 TryExec=/usr/bin/libreoffice
 Exec=libreoffice %U
-Terminal=false
-NoDisplay=false
 Categories=Office;X-MandrivaLinux-Office-Other;X-Red-Hat-Base;X-SuSE-Core-Office;
 MimeType=application/vnd.openofficeorg.extension;
 StartupNotify=true
@@ -32,24 +26,30 @@ Actions=Writer;Calc;Impress;Draw;Base;Math;
 
 [Desktop Action Writer]
 Name=Text Document
+TryExec=/usr/bin/libreoffice
 Exec=libreoffice --writer
 
 [Desktop Action Calc]
 Name=Spreadsheet
+TryExec=/usr/bin/libreoffice
 Exec=libreoffice --calc
 
 [Desktop Action Impress]
 Name=Presentation
+TryExec=/usr/bin/libreoffice
 Exec=libreoffice --impress
 
 [Desktop Action Draw]
 Name=Drawing
+TryExec=/usr/bin/libreoffice
 Exec=libreoffice --draw
 
 [Desktop Action Base]
 Name=Database
+TryExec=/usr/bin/libreoffice
 Exec=libreoffice --base
 
 [Desktop Action Math]
 Name=Formula
+TryExec=/usr/bin/libreoffice
 Exec=libreoffice --math

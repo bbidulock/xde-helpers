@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=IBus Preferences
 Name[ar]=تفضيلات IBus
@@ -98,7 +96,6 @@ Comment[zh_TW]=IBus 偏好設定
 Icon=ibus-setup
 TryExec=/usr/bin/ibus-setup
 Exec=ibus-setup
-Terminal=false
 NoDisplay=true
 Categories=Settings;
 StartupNotify=true

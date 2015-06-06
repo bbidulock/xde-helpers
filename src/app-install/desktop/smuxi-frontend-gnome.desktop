@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Smuxi
 GenericName=IRC Chat
@@ -8,7 +6,6 @@ Comment=Chat with other people on IRC
 Icon=smuxi-frontend-gnome.svg
 TryExec=/usr/bin/smuxi-frontend-gnome
 Exec=smuxi-frontend-gnome
-Terminal=false
 Categories=Network;InstantMessaging;Chat;IRCClient;GNOME;GTK;
 StartupNotify=false
 X-AppInstall-Package=smuxi-frontend-gnome

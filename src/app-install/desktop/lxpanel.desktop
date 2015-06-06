@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=LXDE Panel
 GenericName=lxpanel 0.5.12
@@ -8,7 +6,6 @@ Comment=Panel for XDG compliant desktop.
 Icon=lxpanel
 TryExec=/usr/bin/lxpanel
 Exec=sh -c "lxpanel -p ${XDG_CURRENT_DESKTOP:-default}"
-Terminal=false
 Hidden=true
 OnlyShowIn=FLUXBOX;BLACKBOX;OPENBOX;WMAKER;PEKWM;ADWM;
 Categories=System;Utility;LXDE;GTK;

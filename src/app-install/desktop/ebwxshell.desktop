@@ -1,9 +1,6 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=EekBoek
-Name[nl]=EekBoek
 GenericName=Bookkeeping
 GenericName[nl]=Boekhouden
 Comment=Bookkeeping program for small to medium sized companies
@@ -11,7 +8,6 @@ Comment[nl]=Eigenzinnig boekhouden voor kleine en middelgrote bedrijven
 Icon=ebicon
 TryExec=/usr/bin/ebwxshell
 Exec=ebwxshell
-Terminal=false
 Categories=Office;Finance;
 StartupNotify=true
 X-AppInstall-Package=eekboek-gui

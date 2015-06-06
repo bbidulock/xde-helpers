@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Import with gThumb
 Name[bs]=Unesi preko gThumb
@@ -131,7 +129,6 @@ Comment[zh_TW]=從您的數位相機記憶卡匯入照片
 Icon=gthumb
 TryExec=/usr/bin/gthumb
 Exec=gthumb --import-photos %U
-Terminal=false
 NoDisplay=true
 Categories=Graphics;2DGraphics;RasterGraphics;Photography;Viewer;GNOME;GTK;
 MimeType=x-content/image-dcf;x-content/image-picturecd;

@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Splash Screen
 Comment=Select a splash screen image
 Icon=gnome-graphics
 TryExec=/usr/bin/gnome-splashscreen-manager
 Exec=gnome-splashscreen-manager
-Terminal=false
 OnlyShowIn=GNOME;
 Categories=Application;Settings;GNOME;
 StartupNotify=true

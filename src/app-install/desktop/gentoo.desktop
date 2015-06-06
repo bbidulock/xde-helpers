@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=gentoo
 Comment=A gtk based filemanager
@@ -8,7 +6,6 @@ Comment[de]=gtk-basierter Dateimanager
 Comment[es]=Gentoo - Administrador de archivos basado en gtk
 Comment[fr]=gentoo - Gestionnaire de fichiers gtk
 Comment[hu]=GTK-alapú fájlkezelő
-Terminal=false
 StartupNotify=false
 DocPath=/usr/share/doc/packages/gentoo/index.html
 X-AppInstall-Package=gentoo

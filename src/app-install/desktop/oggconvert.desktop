@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=OggConvert
 Comment=Convert media files to Free formats
 Icon=oggconvert
 TryExec=/usr/bin/oggconvert
 Exec=oggconvert
-Terminal=false
 Categories=AudioVideo;
 StartupNotify=true
 X-AppInstall-Package=oggconvert

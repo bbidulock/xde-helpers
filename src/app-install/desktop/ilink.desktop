@@ -1,15 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=ilink
 GenericName=Fastlink GEMINI optimization
-GenericName[en]=Fastlink GEMINI optimization
 Comment=GEMINI optimization procedure to find a locally optimal value of the theta vector of recombination fractions
-Comment[en]=GEMINI optimization procedure to find a locally optimal value of the theta vector of recombination fractions
 TryExec=/usr/bin/ilink
 Exec=ilink
-Terminal=false
 Categories=Education;Science;Biology;
 StartupNotify=false
 X-AppInstall-Package=fastlink

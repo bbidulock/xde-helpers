@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=MOTD Editor
 GenericName=Message Of The Day creation
@@ -9,7 +7,6 @@ Comment=GGZ Utility
 Comment[de]=GGZ-Hilfsprogramm
 TryExec=/usr/bin/motd_editor
 Exec=motd_editor
-Terminal=false
 Categories=Utility;GNOME;GTK;X-GGZ;
 StartupNotify=false
 X-AppInstall-Package=ggz-gnome-client

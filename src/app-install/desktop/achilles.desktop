@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Achilles Life Simulator
 GenericName=Life Simulator
@@ -8,7 +6,6 @@ Comment=Watch a simulation of artificial life and evolution
 Icon=achilles
 TryExec=/usr/bin/achilles
 Exec=achilles
-Terminal=false
 Categories=Application;Education;Science;Simulation;Biology;
 StartupNotify=false
 X-AppInstall-Package=achilles

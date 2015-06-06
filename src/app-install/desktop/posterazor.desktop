@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=PosteRazor
 Comment=Cuts a raster image into multipage PDF documents
 Icon=PosteRazor
 TryExec=/usr/bin/PosteRazor
 Exec=PosteRazor %f
-Terminal=false
 Categories=Graphics;
 StartupNotify=false
 X-AppInstall-Package=posterazor

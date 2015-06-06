@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Grcm
 GenericName=Grcm
@@ -8,7 +6,6 @@ Comment=Manage machine connections
 Icon=gcrm.png
 TryExec=/usr/bin/grcm
 Exec=grcm
-Terminal=false
 Categories=Application;Network;GNOME;GTK;
 StartupNotify=false
 X-AppInstall-Package=grcm

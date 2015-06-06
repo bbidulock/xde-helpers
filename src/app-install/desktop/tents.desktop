@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Tents
 Comment=Place tents in some of the remaining squares, under some conditions
@@ -9,7 +7,6 @@ Comment[fr]=Placer des tentes aux places restantes, sous certaines conditions
 Icon=tents
 TryExec=/usr/bin/tents
 Exec=tents
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=sgt-puzzles

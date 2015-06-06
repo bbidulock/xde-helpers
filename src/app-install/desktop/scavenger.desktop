@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Scavenger
 Name[af]=Aasdier
@@ -101,7 +99,6 @@ Comment[zu]=Arcade Umdlalo
 Icon=scavenger
 TryExec=/usr/bin/scavenger
 Exec=scavenger
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=scavenger

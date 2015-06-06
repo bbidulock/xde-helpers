@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Bibledit
 Comment=Bible Editor
 Icon=bibledit
 TryExec=/usr/bin/bibledit
 Exec=bibledit
-Terminal=false
 Categories=Office;
 StartupNotify=false
 X-AppInstall-Package=bibledit

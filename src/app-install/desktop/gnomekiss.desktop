@@ -1,15 +1,11 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GnomeKiSS
-Name[es]=GnomeKiSS
 Comment=Gnome's KiSSeake dolls viewer
 Comment[es]=EL visor de muñecas KiSSeake de Gnome
 Icon=_usr_share_pixmaps_gnomekiss_gnome-kiss
 TryExec=/usr/bin/gnomekiss
 Exec=gnomekiss
-Terminal=false
 Categories=Game;
 StartupNotify=false
 X-AppInstall-Package=gnomekiss

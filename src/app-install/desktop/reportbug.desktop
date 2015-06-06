@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Reportbug
 Comment=Report bugs to the Debian BTS
 Icon=debian-logo
 TryExec=/usr/bin/reportbug
 Exec=reportbug --exit-prompt --ui gtk2
-Terminal=false
 Categories=Application;System;
 StartupNotify=false
 X-AppInstall-Package=reportbug

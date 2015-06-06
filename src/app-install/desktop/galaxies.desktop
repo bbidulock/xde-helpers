@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Galaxies
 Comment=Draw edges along the grid lines which divide the rectangle under certain rules
@@ -9,7 +7,6 @@ Comment[fr]=Dessiner des traits sur la grille pour créer des zones rectangulair
 Icon=galaxies
 TryExec=/usr/bin/galaxies
 Exec=galaxies
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=sgt-puzzles

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=KNetDockApp
 GenericName=Network Monitor
@@ -8,7 +6,6 @@ Comment=A KDE network interface monitor
 Icon=knetdockapp
 TryExec=/usr/bin/knetdockapp
 Exec=knetdockapp
-Terminal=false
 Categories=Network;KDE;Qt;
 StartupNotify=false
 X-AppInstall-Package=knetdockapp

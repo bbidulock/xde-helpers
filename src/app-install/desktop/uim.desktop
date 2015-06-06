@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Input Method
 Name[ja]=入力メソッド
@@ -11,9 +9,14 @@ Comment[ko]=uim 환경설정
 Icon=/usr/share/uim/pixmaps/uim-icon.png
 TryExec=/usr/bin/uim-pref-gtk
 Exec=uim-pref-gtk
-Terminal=false
 Categories=Settings;X-GNOME-PersonalSettings;
 StartupNotify=false
-X-AppInstall-Package=uim-gtk2.0
+X-AppInstall-Package=uim
 X-AppInstall-Popcon=944
-X-AppInstall-Section=main
+X-AppInstall-Section=extra
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=uim
+X-Arch-Package-Version=1.8.6-3
+X-Arch-Package-Description=Multilingual input method library
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/uim/

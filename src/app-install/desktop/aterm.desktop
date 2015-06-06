@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=AfterStep Terminal
 Name[af]=Terminaal
@@ -158,7 +156,6 @@ Comment[zu]=Eyangaphakathi Iprogremu
 Icon=aterm
 TryExec=/usr/bin/aterm
 Exec=aterm
-Terminal=false
 Categories=Utility;TerminalEmulator;
 StartupNotify=false
 StartupWMClass=aterm

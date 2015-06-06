@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Patchage
 Comment=Connect audio and MIDI applications together and manage audio sessions
 Icon=patchage
 TryExec=/usr/bin/patchage
 Exec=/usr/bin/patchage
-Terminal=false
 Categories=Application;AudioVideo;Audio;
 StartupNotify=false
 X-AppInstall-Package=patchage

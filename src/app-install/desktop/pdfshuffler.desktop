@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=PDF-Shuffler
 Comment=PDF Merging, Rearranging, Splitting, Rotating and Cropping
 Icon=pdfshuffler
 TryExec=/usr/bin/pdfshuffler
 Exec=pdfshuffler
-Terminal=false
 Categories=Office;
 StartupNotify=false
 X-AppInstall-Package=pdfshuffler

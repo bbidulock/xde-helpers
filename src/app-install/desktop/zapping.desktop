@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Zapping TV Viewer
 Name[cs]=Prohližeč TV - Zapping
@@ -21,7 +19,6 @@ Comment[nl]=Laat je TV kijken in een window
 Icon=_usr_share_pixmaps_zapping_gnome-television
 TryExec=/usr/bin/zapping
 Exec=zapping
-Terminal=false
 Categories=AudioVideo;Video;TV;GNOME;
 StartupNotify=true
 X-GNOME-Bugzilla-Bugzilla=GNOME

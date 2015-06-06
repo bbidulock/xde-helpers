@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Filler
 Comment=Filler in Java Game
@@ -8,7 +6,6 @@ Comment[pl]=Filler w Javie
 Icon=filler.png
 TryExec=/usr/bin/filler
 Exec=filler
-Terminal=false
 StartupNotify=false
 X-AppInstall-Package=filler
 X-AppInstall-Popcon=7

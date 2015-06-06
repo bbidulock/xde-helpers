@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Foobillard
 Comment=A 3D billiards game using OpenGL
 Icon=foobillard.png
 TryExec=/usr/bin/foobillard
 Exec=foobillard
-Terminal=false
 Categories=Game;SportsGame;
 StartupNotify=false
 X-AppInstall-Package=foobillard

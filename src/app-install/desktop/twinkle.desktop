@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Twinkle
 GenericName=A SIP softphone
@@ -8,7 +6,6 @@ Comment=A SIP softphone
 Icon=_usr_share_twinkle_twinkle48
 TryExec=/usr/bin/twinkle
 Exec=twinkle
-Terminal=false
 Categories=Network;Telephony;KDE;Qt;
 StartupNotify=true
 X-AppInstall-Package=twinkle

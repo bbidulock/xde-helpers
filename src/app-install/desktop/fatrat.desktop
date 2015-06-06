@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=FatRat
 GenericName=Download/upload manager
@@ -8,7 +6,6 @@ Comment=Qt-based download/upload manager
 Icon=fatrat.png
 TryExec=/usr/bin/fatrat
 Exec=fatrat
-Terminal=false
 Categories=Application;Network;
 StartupNotify=true
 X-AppInstall-Package=fatrat

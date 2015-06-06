@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Klibido
 GenericName=Usenet Binaries Downloader
@@ -8,7 +6,6 @@ Comment=KDE nntp (usenet) binaries grabber
 Icon=klibido
 TryExec=/usr/bin/klibidoload
 Exec=klibidoload %U
-Terminal=false
 Categories=Network;KDE;Qt;
 MimeType=application/x-nzb;
 StartupNotify=false

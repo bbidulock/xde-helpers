@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Paje Trace Viewer
 GenericName=Trace Viewer
@@ -8,7 +6,6 @@ Comment=View traces produced during the execution of multi-threaded programs
 Icon=Paje
 TryExec=/usr/bin/Paje
 Exec=Paje
-Terminal=false
 Categories=Application;Profiling;
 StartupNotify=false
 X-AppInstall-Package=paje.app

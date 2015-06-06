@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gscriptor
 Comment=Send commands to smart cards
 TryExec=/usr/bin/gscriptor
 Exec=gscriptor
-Terminal=false
 Categories=Utility;GTK;
 StartupNotify=false
 X-AppInstall-Package=pcsc-tools

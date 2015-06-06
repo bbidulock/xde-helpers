@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Grpn Calculator
 GenericName=Calculator
@@ -8,7 +6,6 @@ Comment=A reverse polish notation calculator
 Icon=grpn
 TryExec=/usr/bin/grpn
 Exec=grpn
-Terminal=false
 Categories=Utility;Calculator;
 StartupNotify=false
 X-AppInstall-Package=grpn

@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Minirok
 Icon=minirok
 TryExec=/usr/bin/minirok
 Exec=minirok %U
-Terminal=false
 Categories=AudioVideo;Audio;Player;KDE;Qt;
 MimeType=audio/vorbis;audio/x-flac;audio/x-mp3;audio/x-musepack;audio/x-oggflac;audio/x-vorbis;
 StartupNotify=false

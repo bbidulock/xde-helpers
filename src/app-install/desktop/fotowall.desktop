@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Fotowall
 GenericName=Fotowall
@@ -8,7 +6,6 @@ Comment=Photo collection creativity tool
 Icon=fotowall
 TryExec=/usr/bin/fotowall
 Exec=fotowall
-Terminal=false
 Categories=Graphics;Publishing;
 StartupNotify=false
 X-AppInstall-Package=fotowall

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Cluster Management
 GenericName=system-config-cluster
@@ -8,7 +6,6 @@ Comment=Configure and manage clusters in a graphical setting
 Icon=_usr_share_system-config-cluster_pixmaps_node
 TryExec=/usr/bin/system-config-cluster
 Exec=/usr/bin/system-config-cluster
-Terminal=false
 Categories=System;
 StartupNotify=true
 X-AppInstall-Package=system-config-cluster

@@ -1,13 +1,11 @@
 [Desktop Entry]
 Version=0.94
-Encoding=UTF-8
 Type=Application
 Name=EdenMath
 Comment=A Scientific Calculator
 Icon=_usr_lib_GNUstep_Applications_EdenMath.app_Resources_EdenMath
 TryExec=/usr/bin/EdenMath
 Exec=EdenMath
-Terminal=false
 Categories=Utility;Calculator;
 StartupNotify=false
 X-AppInstall-Package=edenmath.app

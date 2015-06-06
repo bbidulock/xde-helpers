@@ -1,14 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Xoscope
-Name[en_GB]=Xoscope
 GenericName=digital oscilloscope
-GenericName[en_GB]=digital oscilloscope
 TryExec=/usr/bin/xoscope
 Exec=/usr/bin/xoscope
-Terminal=false
 Categories=Education;Science;Electronics;
 StartupNotify=false
 X-AppInstall-Package=xoscope

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GPeriodic
 Comment=A program for looking up data of elements from the periodic table.
@@ -10,7 +8,6 @@ Comment[sv]=En lathund för information om grundämnena i den periodiska tabelle
 Icon=gperiodic
 TryExec=/usr/bin/gperiodic
 Exec=gperiodic
-Terminal=false
 Categories=Education;Science;Chemistry;Physics;
 StartupNotify=false
 X-KDE-SubstituteUID=false

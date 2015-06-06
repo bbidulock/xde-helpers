@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Open Movie Editor
 Comment=Simple non-linear video edito
 Icon=_usr_share_pixmaps_openmovieeditor
 TryExec=/usr/bin/openmovieeditor
 Exec=openmovieeditor
-Terminal=false
 Categories=Application;AudioVideo;
 StartupNotify=false
 X-AppInstall-Package=openmovieeditor

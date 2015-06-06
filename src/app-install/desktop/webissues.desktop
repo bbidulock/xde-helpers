@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=WebIssues
 GenericName=Issue Tracker
@@ -8,7 +6,6 @@ Comment=Client for the WebIssues system
 Icon=webissues
 TryExec=/usr/bin/webissues
 Exec=webissues
-Terminal=false
 Categories=Office;ProjectManagement;Qt;
 StartupNotify=false
 X-AppInstall-Package=webissues

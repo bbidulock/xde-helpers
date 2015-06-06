@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=LiVES
 Comment=Video Editor/VJ tool
 Icon=lives
 TryExec=/usr/bin/lives
 Exec=lives
-Terminal=false
 Categories=AudioVideo;AudioVideoEditing;
 StartupNotify=false
 X-AppInstall-Package=lives

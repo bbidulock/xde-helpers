@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Njam
 Comment=pacman-like game with multiplayer support
 Icon=njamicon.png
 TryExec=/usr/bin/njam
 Exec=njam
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=njam

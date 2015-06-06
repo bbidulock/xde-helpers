@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=World Clock (gworldclock)
 Comment=See the time in other timezones
@@ -8,7 +6,6 @@ Comment[fr]=Voir l'heure dans d'autres fuseaux horaires
 Icon=gworldclock
 TryExec=/usr/bin/gworldclock
 Exec=gworldclock
-Terminal=false
 Categories=Application;Utility;Clock;GNOME;
 StartupNotify=false
 X-AppInstall-Package=gworldclock

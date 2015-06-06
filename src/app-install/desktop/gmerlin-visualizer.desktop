@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gmerlin visualizer
 Name[de]=Gmerlin visualisierer
@@ -9,7 +7,6 @@ Comment[de]=Visualisierungs Plugins laufen lassen
 Icon=gmerlin-visualizer.png
 TryExec=/usr/bin/gmerlin_visualizer
 Exec=gmerlin_visualizer
-Terminal=false
 Categories=Application;AudioVideo;
 StartupNotify=false
 X-AppInstall-Package=gmerlin

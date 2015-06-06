@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Slingshot
 Name[xx]=xxslingshotxx
@@ -9,7 +7,6 @@ GenericName[fr]=Jeu d'espace 2D avec gravité
 Icon=_usr_share_pixmaps_slingshot
 TryExec=/usr/bin/slingshot
 Exec=slingshot
-Terminal=false
 Categories=Game;StrategyGame;
 StartupNotify=false
 X-AppInstall-Package=slingshot

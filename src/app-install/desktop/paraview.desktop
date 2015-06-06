@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=ParaView Viewer
 GenericName=Data Viewer
@@ -8,7 +6,6 @@ Comment=ParaView allows viewing of large data sets
 Icon=paraview
 TryExec=/usr/bin/paraview
 Exec=paraview
-Terminal=false
 Categories=Education;Science;Math;
 MimeType=application/x-paraview;
 StartupNotify=false

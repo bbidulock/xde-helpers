@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Qalculate!
 GenericName=Scientific Calculator
@@ -10,7 +8,6 @@ TryExec=/usr/bin/qalculate-kde
 Exec=qalculate-kde
 X-DCOP-ServiceName=qalculate_kde
 X-DCOP-ServiceType=Unique
-Terminal=false
 Categories=Science;Utility;KDE;Qt;
 StartupNotify=false
 DocPath=qalculate_kde/index.html

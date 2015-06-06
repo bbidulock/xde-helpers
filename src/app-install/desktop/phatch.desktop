@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Phatch PHoto bATCH Processor
 Name[ar]=Phatch معالج مجموعة الصور
@@ -51,7 +49,6 @@ Comment[nl]=Gemakkelijk massaal foto's en metadata bewerken
 Icon=phatch
 TryExec=/usr/bin/phatch
 Exec=phatch %U
-Terminal=false
 Categories=Graphics;Photography;GTK;
 MimeType=application/x-phatch;image/bmp;image/gif;image/jpeg;image/jpg;image/png;image/tiff;image/x-bmp;image/x-pcx;image/x-png;image/x-portable-bitmap;image/x-portable-graymap;image/x-portable-pixmap;image/x-psd;image/x-sun-raster;image/x-tga;image/x-xbitmap;image/x-xpixmap;application/pcx;
 StartupNotify=true

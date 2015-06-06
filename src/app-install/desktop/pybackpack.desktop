@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=File Backup Manager
 Name[cs]=Správce zálohování souborů
@@ -15,7 +13,6 @@ Comment[ru]=Создание резервных копий важных файл
 Icon=file-roller.png
 TryExec=/usr/bin/pybackpack
 Exec=pybackpack %F
-Terminal=false
 Categories=Application;Settings;System;
 StartupNotify=true
 X-AppInstall-Package=pybackpack

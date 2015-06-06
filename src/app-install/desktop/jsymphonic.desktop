@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=JSymphonic
 Comment=File manager for Sony MP3 players
 Icon=jsymphonic
 TryExec=/usr/bin/jsymphonic
 Exec=jsymphonic
-Terminal=false
 Categories=Audio;Utility;Java;
 StartupNotify=false
 X-AppInstall-Package=jsymphonic

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Freeplane
 GenericName=Freeplane
@@ -8,7 +6,6 @@ Comment=A free tool to structure and organise your information with mind mapping
 Icon=_usr_share_pixmaps_freeplane
 TryExec=/usr/bin/freeplane
 Exec=/usr/bin/freeplane
-Terminal=false
 Categories=Office;
 MimeType=application/x-freeplane;
 StartupNotify=false

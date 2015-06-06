@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GCX Astro-Image Processor
 GenericName=Image Processor
@@ -8,7 +6,6 @@ Comment=Process astronomical images and control CCDs
 Icon=gcx
 TryExec=/usr/bin/gcx
 Exec=gcx
-Terminal=false
 Categories=Education;Science;Astronomy;
 StartupNotify=false
 X-AppInstall-Package=gcx

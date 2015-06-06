@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Flip
 Comment=Light all the squares up at the same time
@@ -9,7 +7,6 @@ Comment[fr]=Illuminer simultanément tous les carrés du jeu
 Icon=flipgame
 TryExec=/usr/bin/flipgame
 Exec=flipgame
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=sgt-puzzles

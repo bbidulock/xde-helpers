@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Funny Boat
 Comment=a side scrolling arcade shooter game on a steamboat
@@ -8,7 +6,6 @@ Comment[fr_FR]=un étrange bateau a vapeur dans un jeu de tire amusant
 Icon=funnyboat
 TryExec=/usr/bin/funnyboat
 Exec=funnyboat
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=true
 X-AppInstall-Package=funnyboat

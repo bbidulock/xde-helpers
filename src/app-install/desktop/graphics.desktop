@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=X Paint
 Name[af]=X Verf
@@ -109,7 +107,6 @@ Comment[zu]=Elila Iprogremu Kapende
 Icon=normal/Paint
 TryExec=/usr/bin/xpaint
 Exec=xpaint
-Terminal=false
 Categories=Graphics;
 StartupNotify=false
 X-AppInstall-Package=xpaint

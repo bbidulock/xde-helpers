@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Pathogen
 GenericName=pathogen
@@ -8,7 +6,6 @@ Comment=Destroy the pathogens
 Icon=pathogen
 TryExec=/usr/bin/pathogen
 Exec=pathogen
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=pathogen

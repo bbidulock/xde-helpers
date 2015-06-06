@@ -1,11 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Minbar Prayer Times
 Name[ar]=برنامج مواقيت الصّلاة «منبر»
 Name[bs]=Minbar Vaktovi Namaza
-Name[es]=Minbar Prayer Times
 Name[fa]=منبر، برنامه‌ی اوقات شرعی
 Name[fr]=Horaires de prière avec Minbar
 Name[id]=Waktu Sholat Minbar
@@ -29,7 +26,6 @@ Comment[ur_PK]=اسلامی اوقاتِ نماز
 Icon=minbar
 TryExec=/usr/bin/minbar
 Exec=minbar
-Terminal=false
 Categories=Utility;GNOME;GTK;
 StartupNotify=true
 X-AppInstall-Package=minbar

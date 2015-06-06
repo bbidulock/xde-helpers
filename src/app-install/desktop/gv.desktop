@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GV PostScript & PDF Viewer
 Name[af]=Gv
@@ -142,7 +140,6 @@ Comment[zu]=Umboniseli Wokubhaliweyo Okudluliswayo
 Icon=gv
 TryExec=/usr/bin/gv
 Exec=gv
-Terminal=false
 Categories=Application;Graphics;Office;Viewer;
 MimeType=application/ps;application/pdf;application/postscript;image/x-eps;application/illustrator;
 StartupNotify=true

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Nateon
 Name[ko]=네이트온
@@ -11,7 +9,6 @@ Comment[ko]=KDE3용 네이트온 클라이언트
 Icon=nateon
 TryExec=/usr/bin/nateon
 Exec=nateon
-Terminal=false
 Categories=Network;InstantMessaging;KDE;Qt;
 StartupNotify=false
 X-AppInstall-Package=nateon

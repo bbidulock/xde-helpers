@@ -1,15 +1,11 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=TTB Teletekst Browser
-Name[nl]=TTB Teletekst Browser
 Comment=Teletekst Browser
 Comment[nl]=Bekijk Teletekst op je computer
 Icon=ttb
 TryExec=/usr/bin/ttb
 Exec=ttb
-Terminal=false
 Categories=Network;
 StartupNotify=false
 X-AppInstall-Package=ttb

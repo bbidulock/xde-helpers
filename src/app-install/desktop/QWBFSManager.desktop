@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=QWBFS Manager
 GenericName=QWBFS Manager
@@ -8,7 +6,6 @@ Comment=QWBFS Manager is a graphical user interface (GUI) for working with WBFS 
 Icon=qwbfsmanager
 TryExec=/usr/bin/qwbfsmanager
 Exec=qwbfsmanager
-Terminal=false
 Categories=Game;Qt;
 StartupNotify=false
 X-AppInstall-Package=qwbfsmanager

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Ri-li
 Comment=a toy simulator game
@@ -9,7 +7,6 @@ Comment[ro_RO]=un joc cu un tren de jucărie
 Icon=ri-li
 TryExec=/usr/bin/ri-li
 Exec=ri-li
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=ri-li

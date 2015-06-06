@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=bzip
 Comment=Program for compression of files
@@ -8,7 +6,6 @@ Comment[de]=Programm zur Dateikompression
 Comment[es]=Programa de compresión de archivos
 Comment[fr]=Programme pour compression de fichiers
 Comment[hu]=Tömörítőprogram
-Terminal=false
 StartupNotify=false
 DocPath=/usr/share/doc/packages/bzip/manual_toc.html
 X-AppInstall-Package=bzip

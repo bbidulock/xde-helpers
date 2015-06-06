@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=JFTP
 GenericName=JFTP
@@ -8,7 +6,6 @@ Comment=Java GUI client for FTP, SMB, SFTP and NFS
 Icon=jftp.xpm
 TryExec=/usr/bin/jftp
 Exec=jftp %u
-Terminal=false
 Categories=Network;FileTransfer;Java;
 StartupNotify=false
 X-AppInstall-Package=jftp

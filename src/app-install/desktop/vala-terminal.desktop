@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Terminal
 Comment=Command Line Interface
 Icon=vala-terminal
 TryExec=/usr/bin/vala-terminal
 Exec=vala-terminal
-Terminal=false
 Categories=Application;Utility;GTK;
 MimeType=text/x-vcard;
 StartupNotify=true

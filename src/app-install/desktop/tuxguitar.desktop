@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=tuxguitar
 Comment=Edit, playback guitar tablatures
@@ -9,7 +7,6 @@ Comment[fr]=Edite, joue des tablatures de guitare
 Icon=tuxguitar
 TryExec=/usr/bin/tuxguitar
 Exec=tuxguitar
-Terminal=false
 Categories=AudioVideo;Audio;
 MimeType=audio/x-tuxguitar;audio/x-gtp;audio/x-ptb;
 StartupNotify=false

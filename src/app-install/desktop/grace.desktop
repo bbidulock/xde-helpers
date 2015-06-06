@@ -1,13 +1,11 @@
 [Desktop Entry]
 Version=0.9.5
-Encoding=UTF-8
 Type=Application
 Name=Grace
 Comment=An XY plotting tool
 Icon=grace
 TryExec=/usr/bin/xmgrace
 Exec=xmgrace %f
-Terminal=false
 Categories=Education;Science;Math;Motif;
 MimeType=application/x-grace;
 StartupNotify=false

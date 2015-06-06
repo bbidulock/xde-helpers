@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Network Authentication
 Name[cs]=Síťová autentizace
@@ -27,7 +25,6 @@ Comment[zh_TW]=設定您的 Kerberos 網路驗證偏好設定
 Icon=krb-valid-ticket
 TryExec=/usr/bin/krb5-auth-dialog-preferences
 Exec=krb5-auth-dialog-preferences
-Terminal=false
 OnlyShowIn=GNOME;
 Categories=Settings;GNOME;GTK;X-GNOME-NetworkSettings;
 StartupNotify=true

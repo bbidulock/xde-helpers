@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Komparator4
 Name[x-test]=xxKomparator4xx
@@ -10,7 +8,6 @@ Comment[x-test]=xxA KDE Directory Synchronization Applicationxx
 Icon=komparator4
 TryExec=/usr/bin/komparator4
 Exec=komparator4 %U
-Terminal=false
 Categories=Utility;Archiving;KDE;Qt;
 StartupNotify=false
 X-DocPath=komparator4/index.html

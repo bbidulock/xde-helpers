@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Virtual MIDI Keyboard
 Comment=MIDI Virtual Keyboard
 Icon=vkeybd
 TryExec=/usr/bin/vkeybd
 Exec=vkeybd
-Terminal=false
 Categories=AudioVideo;Audio;
 StartupNotify=false
 X-AppInstall-Package=vkeybd

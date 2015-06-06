@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Freedroid
 Comment=Clear a spaceship from all droids
 Icon=freedroid
 TryExec=/usr/bin/freedroid
 Exec=freedroid
-Terminal=false
 Categories=Game;
 StartupNotify=false
 X-AppInstall-Package=freedroid

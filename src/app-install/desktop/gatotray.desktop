@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gatotray System Monitor
 GenericName=System Monitor
@@ -8,7 +6,6 @@ Comment=Graphical CPU stats monitor in the system tray
 Icon=utilities-system-monitor
 TryExec=/usr/bin/gatotray
 Exec=gatotray
-Terminal=false
 OnlyShowIn=FLUXBOX;BLACKBOX;
 Categories=TrayIcon;System;Utility;GTK;
 StartupNotify=false

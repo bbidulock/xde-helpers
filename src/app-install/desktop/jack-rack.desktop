@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=JACK Rack
 Comment=Stereo LADSPA effects rack
 Icon=jack-rack-icon
 TryExec=/usr/bin/jack-rack
 Exec=jack-rack
-Terminal=false
 Categories=Application;AudioVideo;GNOME;
 StartupNotify=false
 X-AppInstall-Package=jack-rack

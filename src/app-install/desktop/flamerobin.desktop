@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=FlameRobin
 GenericName=Database administration tool
@@ -8,7 +6,6 @@ Comment=Administration Tool for Firebird DBMS
 Icon=_usr_share_pixmaps_flamerobin
 TryExec=/usr/bin/flamerobin
 Exec=flamerobin
-Terminal=false
 Categories=Development;Database;GTK;
 StartupNotify=false
 X-AppInstall-Package=flamerobin

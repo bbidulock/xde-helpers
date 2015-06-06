@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=MouseTrap
 Comment=Controls the mouse via Webcam.
 Icon=mousetrap
 TryExec=/usr/bin/mousetrap
 Exec=mousetrap
-Terminal=false
 Categories=Utility;Accessibility;GNOME;GTK;
 StartupNotify=true
 X-AppInstall-Package=gnome-

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=LordsAWar
 GenericName=Turn-based strategy game
@@ -8,7 +6,6 @@ Comment=Play a clone of Warlords II
 Icon=lordsawar
 TryExec=/usr/bin/lordsawar
 Exec=lordsawar
-Terminal=false
 Categories=Game;StrategyGame;
 StartupNotify=false
 X-AppInstall-Package=lordsawar

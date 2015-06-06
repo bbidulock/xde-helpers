@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Sync
 Name[ar]=تزامن
@@ -47,7 +45,6 @@ Comment[zh_TW]=已是最新
 Icon=sync
 TryExec=/usr/bin/sync-ui
 Exec=sync-ui
-Terminal=false
 Categories=Network;GTK;
 StartupNotify=true
 X-AppInstall-Package=sync-ui

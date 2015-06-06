@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Kiki
 Comment=Regular expression testing
 Icon=kiki
 TryExec=/usr/bin/kiki
 Exec=kiki
-Terminal=false
 Categories=Development;
 StartupNotify=false
 X-AppInstall-Package=kiki

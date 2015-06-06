@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=gEDA Attribute Editor
 Name[ar]=محرّر السّمة ل‍ gEDA
@@ -40,7 +38,6 @@ Comment[zh_TW]=使用gattrib修改元件屬性
 Icon=geda-gattrib
 TryExec=/usr/bin/gattrib
 Exec=gattrib %F
-Terminal=false
 Categories=Electronics;Engineering;
 StartupNotify=false
 X-AppInstall-Package=geda-gaf

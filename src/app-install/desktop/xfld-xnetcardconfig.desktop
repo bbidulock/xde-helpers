@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=xnetcardconfig
 Comment=Configure network card
@@ -9,7 +7,6 @@ Comment[fr]=Configuration de carte resau
 Icon=xnetcardconfig
 TryExec=/usr/bin/xnetcardconfig
 Exec=xnetcardconfig
-Terminal=false
 Categories=System;HardwareSettings;
 StartupNotify=false
 X-AppInstall-Package=xnetcardconfig

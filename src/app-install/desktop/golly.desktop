@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Golly
 GenericName=Game of Life Simulator
@@ -10,7 +8,6 @@ Comment[ja]=コンウェイのライフゲーム
 Icon=golly.xpm
 TryExec=/usr/bin/golly
 Exec=golly
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=golly

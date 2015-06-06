@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Standalone System Tray
 GenericName=System Tray Icon
 Comment=A stand-alone system tray.
 TryExec=/usr/bin/stalonetray
 Exec=stalonetray
-Terminal=false
 Categories=TrayIcon;System;Administration;
 StartupNotify=false
 X-AppInstall-Package=stalonetray

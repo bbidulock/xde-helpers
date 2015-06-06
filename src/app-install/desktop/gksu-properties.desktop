@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Privilege granting
 Name[cs]=Přidělování práv
@@ -23,7 +21,6 @@ Comment[zh_CN]=配置权限授予工具的行为
 Icon=gksu.png
 TryExec=/usr/bin/gksu-properties
 Exec=gksu-properties
-Terminal=false
 OnlyShowIn=GNOME;XFCE;
 Categories=Application;Settings;GNOME;GTK;AdvancedSettings;
 StartupNotify=true

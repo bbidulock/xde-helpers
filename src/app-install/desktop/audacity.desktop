@@ -1,10 +1,6 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Audacity
-Name[de]=Audacity
-Name[ru]=Audacity
 GenericName=Sound Editor
 GenericName[de]=Audio-Editor
 GenericName[ru]=Редактор звуковых файлов
@@ -14,7 +10,6 @@ Comment[ru]=Запись и редактирование звуковых фай
 Icon=audacity
 TryExec=/usr/bin/audacity
 Exec=audacity
-Terminal=false
 Categories=AudioVideo;Audio;AudioVideoEditing;
 MimeType=application/ogg;audio/basic;audio/mpeg;audio/x-aiff;audio/x-mp3;audio/x-wav;application/x-audacity-project;
 StartupNotify=false

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Yudit Unicode Editor
 GenericName=Multi-language unicode text editor
@@ -8,7 +6,6 @@ Comment=Multi-language unicode text editor
 Icon=text-editor
 TryExec=/usr/bin/yudit
 Exec=yudit
-Terminal=false
 Categories=TextEditor;Utilitiy;
 StartupNotify=false
 X-AppInstall-Package=yudit
@@ -20,4 +17,4 @@ X-Arch-Package-Version=2.9.6-1
 X-Arch-Package-Description=A free Unicode plain-text editor for Unix-like systems.
 X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://www.yudit.org/
-X-Arch-Package-Votes=14
+X-Arch-Package-Votes=15

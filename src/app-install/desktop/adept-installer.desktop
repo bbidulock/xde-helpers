@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Adept Installer
 GenericName=Add/Remove Software
 Icon=applications-other
 TryExec=/usr/bin/adept
 Exec=adept installer
-Terminal=false
 OnlyShowIn=KDE;
 Categories=Core;KDE;Qt;
 StartupNotify=false

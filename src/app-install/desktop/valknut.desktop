@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Valknut
 GenericName=valknut
@@ -8,7 +6,6 @@ Comment=Connect to Directo Connect network
 Icon=valknut.xpm
 TryExec=/usr/bin/valknut
 Exec=valknut
-Terminal=false
 Categories=Application;Network;
 StartupNotify=false
 X-AppInstall-Package=valknut

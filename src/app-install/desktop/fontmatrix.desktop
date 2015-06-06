@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Fontmatrix
 GenericName=Font Manager
@@ -13,7 +11,6 @@ Comment[ru]=Программа для управления шрифтами
 Icon=fontmatrix
 TryExec=/usr/bin/fontmatrix
 Exec=fontmatrix
-Terminal=false
 Categories=Graphics;VectorGraphics;
 StartupNotify=false
 StartupWMClass=fontmatrix

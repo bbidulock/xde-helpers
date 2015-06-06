@@ -1,9 +1,6 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Scilab
-Name[de]=Scilab
 GenericName=Scientific Software Package
 GenericName[de]=Wissenschaftssoftware
 GenericName[fr]=Logiciel de calcul numérique
@@ -13,7 +10,6 @@ Comment[fr]=Logiciel scientifique de calcul numérique
 Icon=_usr_share_scilab_icons_scilab
 TryExec=/usr/bin/scilab
 Exec=scilab
-Terminal=false
 Categories=Development;Education;Science;Math;Physics;
 StartupNotify=false
 X-AppInstall-Package=scilab

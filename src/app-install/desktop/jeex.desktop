@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Jeex
 Comment=Hexadecimal Editor for Linux
@@ -8,7 +6,6 @@ Comment[it]=Un editor esadecimale per Linux
 Icon=jeex
 TryExec=/usr/bin/jeex
 Exec=jeex %F
-Terminal=false
 Categories=Development;GTK;
 StartupNotify=true
 X-AppInstall-Package=jeex

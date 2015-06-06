@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=fityk
 GenericName=Curve Fitter
@@ -8,7 +6,6 @@ Comment=Peak fitting and data analysis
 Icon=fityk
 TryExec=/usr/bin/fityk
 Exec=fityk %F
-Terminal=false
 Categories=Education;Science;DataVisualization;GTK;
 MimeType=application/x-fityk;
 StartupNotify=true

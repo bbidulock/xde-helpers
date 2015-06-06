@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GOsa
 GenericName=GOsa²
 Icon=gosa
 TryExec=/usr/bin/gosa
 Exec=/usr/bin/gosa
-Terminal=false
 Categories=System;Utility;KDE;Qt;
 MimeType=text/plain;
 Path=/usr/bin

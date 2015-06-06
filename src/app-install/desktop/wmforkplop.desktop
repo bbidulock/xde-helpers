@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=System Monitor Dock App (wmforkplop)
 GenericName=System Monitor
@@ -8,7 +6,6 @@ Comment=A mixture between wmhdplop and the great wmtop
 Icon=GNUstep3D
 TryExec=/usr/bin/wmforkplop
 Exec=wmforkplop
-Terminal=false
 OnlyShowIn=FLUXBOX;BLACKBOX;LXDE;OPENBOX;WMAKER;PEKWM;ADWM;WAIMEA;
 Categories=DockApp;WMAKER;
 StartupNotify=false

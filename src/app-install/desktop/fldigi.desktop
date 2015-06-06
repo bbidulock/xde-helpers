@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Fldigi
 GenericName=Amateur Radio Digital Modem
@@ -8,7 +6,6 @@ Comment=Amateur Radio Sound Card Communications
 Icon=fldigi
 TryExec=/usr/bin/fldigi
 Exec=fldigi
-Terminal=false
 Categories=Network;HamRadio;
 StartupNotify=false
 X-AppInstall-Package=fldigi

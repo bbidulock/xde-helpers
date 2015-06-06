@@ -1,13 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Xfce4 Taskmanager
 Name[cs]=Správce úloh Xfce4
 Name[da]=Xfce4 opgavehåndtering
-Name[de]=Xfce4 Taskmanager
 Name[el]=Διαχειριστής εργασιών xfce4
-Name[en_GB]=Xfce4 Taskmanager
 Name[eu]=xfce4 zeregin-kudeatzailea
 Name[fi]=Xfce4 tehtävienhallinta
 Name[fr]=Gestionnaire de tâches Xfce4
@@ -43,7 +39,6 @@ Comment[uk]=Керування процесами
 Icon=utilities-system-monitor
 TryExec=/usr/bin/xfce4-taskmanager
 Exec=xfce4-taskmanager
-Terminal=false
 Categories=Application;System;Utility;
 StartupNotify=true
 X-AppInstall-Package=xfce4-taskmanager

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=TOra
 Comment=A graphical toolkit for database administration and development
@@ -9,7 +7,6 @@ Comment[fr]=Une boite à outil graphique pour l'administration et le développem
 Icon=tora
 TryExec=/usr/bin/tora
 Exec=tora
-Terminal=false
 Categories=Development;Office;Database;KDE;Qt;
 MimeType=application/x-tora;
 StartupNotify=false

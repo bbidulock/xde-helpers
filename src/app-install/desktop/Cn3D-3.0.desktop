@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Cn3D NCBI Database Viewer
 GenericName=Database Viewer
@@ -8,7 +6,6 @@ Comment=View NCBI databases in 3D
 Icon=ncbilogo
 TryExec=/usr/bin/Cn3D-3.0
 Exec=Cn3D-3.0
-Terminal=false
 Categories=Education;Science;Biology;
 StartupNotify=false
 X-AppInstall-Package=ncbi-tools-x11

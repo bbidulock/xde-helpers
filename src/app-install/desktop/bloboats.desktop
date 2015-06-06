@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Bloboats
 Comment=An arcade-like boat racing game
 Icon=bloboats
 TryExec=/usr/bin/bloboats
 Exec=bloboats
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=bloboats

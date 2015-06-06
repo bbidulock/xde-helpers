@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Elmer
 Comment=Elmer FEA software
 Icon=_usr_share_ElmerGUI_icons_Mesh3D
 TryExec=/usr/bin/ElmerGUI
 Exec=ElmerGUI
-Terminal=false
 Categories=Education;Science;Math;
 StartupNotify=true
 X-AppInstall-Package=elmer

@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=QToDo
 Comment=ToDo-List manager
 Icon=_usr_share_pixmaps_qtodo
 TryExec=/usr/bin/qtodo
 Exec=qtodo
-Terminal=false
 Categories=Utility;KDE;Qt;
 StartupNotify=true
 X-AppInstall-Package=qtodo

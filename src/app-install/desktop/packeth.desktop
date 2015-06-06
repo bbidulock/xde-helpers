@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=PackETH
 GenericName=Packet Generator
 TryExec=/usr/bin/packeth
 Exec=packeth
-Terminal=false
 Categories=Network;
 StartupNotify=false
 X-AppInstall-Package=packeth

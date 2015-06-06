@@ -1,10 +1,6 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=FontForge
-Name[fr]=FontForge
-Name[ru]=FontForge
 Name[zh_TW]=字型鍛造廠
 Comment=An outline font editor
 Comment[fr]=Un constructeur des polices
@@ -13,7 +9,6 @@ Comment[zh_TW]=FontForge 描邊字型編輯器
 Icon=ffanvil32.xpm
 TryExec=/usr/bin/fontforge
 Exec=fontforge
-Terminal=false
 Categories=Application;Graphics;
 MimeType=application/vnd.font-fontforge-sfd;application/x-font-ttf;application/x-font-otf;application/x-font-type1;application/x-font-bdf;application/x-font-pcf;application/x-font-tex;
 StartupNotify=false

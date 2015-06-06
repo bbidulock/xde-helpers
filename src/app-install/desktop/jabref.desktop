@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=JabRef
 Comment=Graphical editor for BibTex bibliographies
@@ -8,7 +6,6 @@ Comment[de]=Grafischer Editor für BibTex-Bibliographien
 Icon=_usr_share_pixmaps_jabref32
 TryExec=/usr/bin/jabref
 Exec=jabref %f
-Terminal=false
 Categories=Office;Database;
 MimeType=text/x-bibtex;
 StartupNotify=false

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Guarddog
 GenericName=Firewall configuration utility
@@ -12,7 +10,6 @@ Comment[es]=Configurar el cortafuegos
 Icon=guarddog
 TryExec=/usr/bin/guarddog
 Exec=guarddog
-Terminal=false
 Categories=Network;
 StartupNotify=false
 X-KDE-DocPath=guarddog/index.html

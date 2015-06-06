@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gallery Uploader
 Name[fr]=Chargeur Gallery
@@ -11,7 +9,6 @@ Comment[it]=Carica foto e video su Gallery
 Icon=gallery.svg
 TryExec=/usr/bin/gallery-uploader
 Exec=gallery-uploader
-Terminal=false
 Categories=Network;FileTransfer;GNOME;GTK;
 StartupNotify=false
 X-KDE-SubstituteUID=false

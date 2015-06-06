@@ -1,11 +1,7 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Minitube
-Name[en_US]=Minitube
 GenericName=YouTube client
-GenericName[en_US]=YouTube client
 GenericName[es]=Cliente de YouTube
 GenericName[gl]=Cliente de YouTube
 GenericName[it]=Client per YouTube
@@ -16,7 +12,6 @@ Comment[it]=Guarda i video di YouTube
 Icon=minitube
 TryExec=/usr/bin/minitube
 Exec=minitube
-Terminal=false
 Categories=Application;AudioVideo;Video;Qt;
 StartupNotify=true
 X-AppInstall-Package=minitube

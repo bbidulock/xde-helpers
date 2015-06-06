@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GDIS Molecule Modeller
 GenericName=Molecule Modeller
@@ -8,7 +6,6 @@ Comment=Model and manipulate molecules, and create high-quality renderings of th
 Icon=gdis
 TryExec=/usr/bin/gdis
 Exec=gdis
-Terminal=false
 Categories=Education;Science;Chemistry;GTK;
 StartupNotify=false
 X-AppInstall-Package=gdis

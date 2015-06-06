@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Pixelize
 Comment=Create an image consisting of many small images
 Icon=pixelize
 TryExec=/usr/bin/pixelize
 Exec=pixelize
-Terminal=false
 Categories=Graphics;
 StartupNotify=false
 X-AppInstall-Package=pixelize

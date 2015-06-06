@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=IDLE (using Python-2.6)
 Comment=Integrated Development Environment for Python (using Python-2.6)
 Icon=_usr_share_pixmaps_python2.6
 TryExec=/usr/bin/idle-python2.6
 Exec=/usr/bin/idle-python2.6 -n
-Terminal=false
 Categories=Application;Development;
 StartupNotify=true
 X-AppInstall-Package=idle-python2.6

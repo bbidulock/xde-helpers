@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=PulseAudio Device Chooser
 Name[cs]=Volič zařízení PulseAudio
@@ -78,7 +76,6 @@ Comment[zh_TW]=快速變更裝置的小程式
 Icon=padevchooser
 TryExec=/usr/bin/padevchooser
 Exec=padevchooser
-Terminal=false
 Categories=AudioVideo;Tuner;
 StartupNotify=true
 X-AppInstall-Package=padevchooser

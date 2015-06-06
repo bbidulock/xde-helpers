@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=qFreeFax
 Comment=GUI for fax fonctionality provided by French ISP "Free"
@@ -8,7 +6,6 @@ Comment[fr]=Interface d'envoi de fax via un compte "Free"
 Icon=qfreefax.png
 TryExec=/usr/bin/qfreefax
 Exec=qfreefax
-Terminal=false
 Categories=Application;Network;
 MimeType=application/pdf;
 StartupNotify=true

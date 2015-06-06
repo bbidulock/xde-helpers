@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Licq
 Name[fa]=لیسک
@@ -101,7 +99,6 @@ Comment[zh_HK]=即時通訊程式
 Icon=licq
 TryExec=/usr/bin/licq
 Exec=licq
-Terminal=false
 Categories=Network;InstantMessaging;Qt;
 StartupNotify=false
 X-AppInstall-Package=licq

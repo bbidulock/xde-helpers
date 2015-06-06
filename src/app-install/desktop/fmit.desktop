@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=fmit
 Comment=Music instrument tuner
 Icon=mix_mic
 TryExec=/usr/bin/fmit
 Exec=fmit
-Terminal=false
 Categories=AudioVideo;Qt;
 StartupNotify=false
 X-AppInstall-Package=fmit

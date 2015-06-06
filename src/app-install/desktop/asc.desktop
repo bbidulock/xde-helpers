@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Advanced Strategic Command
 GenericName=Strategy Game
@@ -11,7 +9,6 @@ Comment[hu]=fordulókra osztott stratégiai játék
 Icon=asc
 TryExec=/usr/bin/asc
 Exec=asc
-Terminal=false
 Categories=Game;StrategyGame;
 StartupNotify=false
 DocPath=/usr/share/doc/packages/asc/doc/source.html

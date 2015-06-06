@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Blender
 GenericName=3D modeller
@@ -14,7 +12,6 @@ Comment[es]=modelado 3D, animación, renderizado y post-producción
 Icon=blender
 TryExec=/usr/bin/blender
 Exec=blender
-Terminal=false
 Categories=Graphics;3DGraphics;
 MimeType=application/x-blender;
 StartupNotify=false

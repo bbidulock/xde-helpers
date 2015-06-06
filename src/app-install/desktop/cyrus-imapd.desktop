@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=cyrus-imapd
 Comment=An IMAP/POP Mailserver
@@ -8,7 +6,6 @@ Comment[de]=Ein IMAP/POP-Mailserver
 Comment[es]=Un servidor de correo IMAP/POP
 Comment[fr]=Un serveur de messagerie IMAP/POP
 Comment[hu]=IMAP/POP szerver
-Terminal=false
 StartupNotify=false
 DocPath=/usr/share/doc/packages/cyrus-imapd/doc/index.html
 X-AppInstall-Package=cyrus-imapd

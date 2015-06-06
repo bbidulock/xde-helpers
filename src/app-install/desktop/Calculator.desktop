@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GNUstep Calculator
 Name[bg]=Калкулатор за GNUstep
@@ -9,7 +7,6 @@ Comment[bg]=Примерен калкулатор за GNUstep
 Icon=/usr/lib/GNUstep/Applications/Calculator.app/Resources/Calculator.app.tiff
 TryExec=/usr/bin/Calculator
 Exec=Calculator
-Terminal=false
 Categories=Utility;Calculator;
 StartupNotify=false
 X-AppInstall-Package=gnustep-examples

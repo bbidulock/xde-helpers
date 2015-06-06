@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gobby Collaborative Editor (0.4)
 Comment=Edit text files collaboratively
@@ -15,7 +13,6 @@ Comment[uk]=Редагуйте текстові файли разом з інш�
 Icon=gobby.png
 TryExec=/usr/bin/gobby
 Exec=gobby
-Terminal=false
 Categories=Network;TextEditor;
 MimeType=text/plain;
 StartupNotify=true

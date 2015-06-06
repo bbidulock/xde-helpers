@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=RapidSVN
 GenericName=Subversion Client
@@ -8,7 +6,6 @@ Comment=A GUI Client for Subversion
 Icon=rapidsvn
 TryExec=/usr/bin/rapidsvn
 Exec=rapidsvn
-Terminal=false
 Categories=Development;
 StartupNotify=false
 X-AppInstall-Package=rapidsvn

@@ -1,13 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Guidedog
-Name[de]=Guidedog
 Icon=guidedog.png
 TryExec=/usr/bin/guidedog
 Exec=guidedog -caption "%c" %i %m
-Terminal=false
 StartupNotify=false
 DocPath=guidedog/index.html
 X-KDE-RootOnly=true

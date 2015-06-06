@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Session and Startup
 Name[ast]=Sesión y entamu
@@ -71,7 +69,6 @@ Comment[zh_CN]=自定义桌面启动和闪屏
 Icon=xfce4-session
 TryExec=/usr/bin/xfce4-session-settings
 Exec=xfce4-session-settings
-Terminal=false
 OnlyShowIn=XFCE;
 Categories=Settings;DesktopSettings;X-XFCE;X-XfceSettingsDialog;
 StartupNotify=true

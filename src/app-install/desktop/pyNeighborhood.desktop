@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=pyNeighborhood
 Icon=_usr_share_pyneighborhood_icons_pyneighborhood
 TryExec=/usr/bin/pyNeighborhood
 Exec=pyNeighborhood
-Terminal=false
 Categories=Application;Network;System;Utility;
 StartupNotify=false
 X-AppInstall-Package=pyneighborhood

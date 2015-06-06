@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=KToon
 Comment=Animation
 Icon=_usr_share_pixmaps_ktoon
 TryExec=/usr/bin/ktoon
 Exec=ktoon
-Terminal=false
 Categories=Video;Graphics;
 StartupNotify=false
 X-AppInstall-Package=ktoon

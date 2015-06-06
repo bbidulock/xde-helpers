@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=aMuleGUI
 Comment=aMule remote control
@@ -9,7 +7,6 @@ Comment[fr]=Contrôle à distance d'aMule
 Icon=amulegui
 TryExec=/usr/bin/amulegui
 Exec=amulegui
-Terminal=false
 Categories=Network;P2P;
 StartupNotify=false
 X-AppInstall-Package=amule-utils-gui

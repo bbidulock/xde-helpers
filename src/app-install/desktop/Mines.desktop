@@ -1,13 +1,11 @@
 [Desktop Entry]
 Version=0.94
-Encoding=UTF-8
 Type=Application
 Name=Mines
 Comment=GNUstep minesweeper game
 Icon=_usr_lib_GNUstep_Applications_Mines.app_Resources_Mines
 TryExec=/usr/bin/Mines
 Exec=Mines
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=mines.app

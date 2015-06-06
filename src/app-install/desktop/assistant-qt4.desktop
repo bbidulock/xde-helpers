@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Qt4 Assistant
 Name[bg]=Qt4 асистент
@@ -86,7 +84,6 @@ Comment=Shows Qt4 documentation and examples
 Icon=assistant-qt4
 TryExec=/usr/bin/assistant-qt4
 Exec=assistant-qt4
-Terminal=false
 Categories=Development;Documentation;Qt;
 StartupNotify=true
 X-AppInstall-Package=qt4

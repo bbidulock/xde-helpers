@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Battle for Wesnoth (1.8)
 Name[af]=Die Stryd vir Wesnoth (1.8)
 Name[ca]=Batalla per Wesnoth (1.8)
 Name[cs]=Bitva o Wesnoth (1.8)
-Name[de]=Battle for Wesnoth (1.8)
 Name[dk]=Kampen om Wesnoth (1.8)
 Name[es]=La Batalla por Wesnoth (1.8)
 Name[eu]=Wesnotheko Guda (1.8)
@@ -59,7 +56,6 @@ Comment[tr]=Fantastik, sırayla oynanan bir strateji oyunu
 Icon=wesnoth-1.8-icon
 TryExec=/usr/bin/wesnoth-1.8-nolog
 Exec=wesnoth-1.8-nolog
-Terminal=false
 Categories=Game;StrategyGame;
 StartupNotify=false
 X-AppInstall-Package=wesnoth-1.8-core

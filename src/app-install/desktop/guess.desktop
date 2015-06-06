@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Guess
 Comment=Game similar to the famous 'Mastermind'
@@ -9,7 +7,6 @@ Comment[fr]=Jeu similaire au 'Mastermind'
 Icon=guess
 TryExec=/usr/bin/guess
 Exec=guess
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=sgt-puzzles

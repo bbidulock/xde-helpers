@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gespeaker
 Comment=A frontend for espeak
@@ -8,7 +6,6 @@ Comment[it_IT]=Un frontend per espeak
 Icon=_usr_share_gespeaker_data_icons_gespeaker
 TryExec=/usr/bin/gespeaker
 Exec=/usr/bin/gespeaker
-Terminal=false
 Categories=AudioVideo;Audio;Player;GTK;
 StartupNotify=false
 X-AppInstall-Package=gespeaker

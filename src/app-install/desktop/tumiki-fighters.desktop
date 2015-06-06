@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Tumiki Fighters
 Comment=Kenta Cho's Tumiki Fighters
 Icon=tumiki-fighters
 TryExec=/usr/bin/tumiki-fighters
 Exec=tumiki-fighters
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=tumiki-fighters

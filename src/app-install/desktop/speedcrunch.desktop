@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=SpeedCrunch
 GenericName=Calculator
@@ -8,7 +6,6 @@ Comment=High precision calculator
 Icon=speedcrunch
 TryExec=/usr/bin/speedcrunch
 Exec=speedcrunch
-Terminal=false
 Categories=Utility;Calculator;Qt;
 StartupNotify=false
 X-AppInstall-Package=speedcrunch

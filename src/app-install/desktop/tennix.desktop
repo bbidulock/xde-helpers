@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Tennix!
 GenericName=Tennis game
@@ -8,7 +6,6 @@ Comment=Play tennis against the computer or a friend
 Icon=tennix
 TryExec=/usr/bin/tennix
 Exec=tennix
-Terminal=false
 Categories=Game;SportsGame;
 StartupNotify=false
 X-AppInstall-Package=tennix

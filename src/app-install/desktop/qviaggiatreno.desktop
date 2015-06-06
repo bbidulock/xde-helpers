@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=QViaggiaTreno
 GenericName=Informazioni in tempo reale sulla circolazione ferroviaria
 Comment=Interfaccia grafica per ViaggiaTreno
 TryExec=/usr/bin/qviaggiatreno
 Exec=qviaggiatreno
-Terminal=false
 Categories=Network;Qt;
 StartupNotify=true
 X-AppInstall-Package=qviaggiatreno

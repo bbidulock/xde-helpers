@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=SvxEdit Cave Survey Data Editor
 GenericName=Cave Survey Data Editor
@@ -8,7 +6,6 @@ Comment=Enter cave survey data for Survex
 Icon=svxedit
 TryExec=/usr/bin/svxedit
 Exec=svxedit
-Terminal=false
 Categories=Education;Science;Geology;
 StartupNotify=false
 X-AppInstall-Package=survex-svxedit

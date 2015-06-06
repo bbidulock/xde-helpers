@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=E16-KDE
 GenericName=Window Manager
@@ -14,7 +12,6 @@ Comment[pt]=Esta sessão inicia o KDE utilizando o Enlightenment (e16) como gest
 Icon=/usr/share/e16/icons/e16.png
 TryExec=/usr/share/e16/misc/starte16-kde
 Exec=/usr/share/e16/misc/starte16-kde
-Terminal=false
 Hidden=true
 Categories=WindowManager;Application;System;
 StartupNotify=false

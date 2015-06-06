@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Desktop Effects
 Name[cs]=Efekty pracovního prostředí
@@ -49,7 +47,6 @@ Comment[zh_TW]=設定 Compiz 桌面特效
 Icon=simple-ccsm
 TryExec=/usr/bin/simple-ccsm
 Exec=simple-ccsm
-Terminal=false
 Categories=Settings;DesktopSettings;X-SuSE-ControlCenter-LookAndFeel;
 StartupNotify=true
 X-AppInstall-Package=simple-ccsm

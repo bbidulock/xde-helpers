@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Bomberclone
 Comment=Play a Bomberman like game
 Icon=bomberclone
 TryExec=/usr/bin/bomberclone
 Exec=bomberclone
-Terminal=false
 Categories=Game;
 StartupNotify=false
 X-AppInstall-Package=bomberclone

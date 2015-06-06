@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GKrellM System Monitor
 Comment=Manages multiple stacked monitors
@@ -11,7 +9,6 @@ Comment[hu]=Rendszermonitor
 Icon=gkrellm
 TryExec=/usr/bin/gkrellm
 Exec=gkrellm
-Terminal=false
 Categories=System;
 StartupNotify=false
 DocPath=/usr/share/doc/packages/gkrellm/Themes.html

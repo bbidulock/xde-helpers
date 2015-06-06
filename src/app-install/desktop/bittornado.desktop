@@ -1,6 +1,5 @@
 [Desktop Entry]
 Version=0.3.10
-Encoding=UTF-8
 Type=Application
 Name=Bittornado Client
 GenericName=Bittorrent Client
@@ -8,7 +7,6 @@ Icon=bittornado
 TryExec=/usr/bin/btdownloadgui.bittornado
 Exec=/usr/bin/btdownloadgui.bittornado
 X-MultipleArgs=false
-Terminal=false
 Categories=Network;FileTransfer;P2P;GNOME;
 MimeType=application/x-bittorrent;
 StartupNotify=false

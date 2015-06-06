@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=X Display Refresh
 Name[af]=X-verfris
@@ -98,7 +96,6 @@ Comment[zu]=Vuselela kabusha Isikrini
 Icon=xlogo
 TryExec=/usr/bin/xrefresh
 Exec=xrefresh
-Terminal=false
 Categories=Application;X-X11;X-XTool;
 StartupNotify=false
 X-AppInstall-Package=xorg-xrefresh

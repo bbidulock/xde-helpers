@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Icemon
 Name[hne]=आइसमान
@@ -44,7 +42,6 @@ Comment[x-test]=xxA monitor for an Icecream compilation networkxx
 Icon=icemon
 TryExec=/usr/bin/icemon
 Exec=icemon
-Terminal=false
 Categories=Development;KDE;Qt;
 StartupNotify=false
 X-DocPath=icemon/index.html

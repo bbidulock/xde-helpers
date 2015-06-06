@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=aafire
 Comment=ASCII art library demonstration program
 TryExec=/usr/bin/aafire
 Exec=aafire
-Terminal=false
 Categories=Game;
 StartupNotify=false
 X-AppInstall-Package=aalib

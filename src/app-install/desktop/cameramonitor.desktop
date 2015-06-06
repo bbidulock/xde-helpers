@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Camera Monitor
 Comment=Camera Monitor
 Icon=_usr_share_cameramonitor_cameramonitor
 TryExec=/usr/bin/cameramonitor
 Exec=cameramonitor
-Terminal=false
 Categories=Application;AudioVideo;GNOME;
 StartupNotify=false
 X-AppInstall-Package=cameramonitor

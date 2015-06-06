@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Menu Updating Tool
 Name[af]=Kieslys opdateer program
@@ -19,7 +17,6 @@ Name[cy]=Erfyn Diweddaru'r Dewislen
 Name[da]=Værktøj til menuopdatering
 Name[de]=Menü-Aktualisierung
 Name[el]=Εργαλείο ενημέρωσης μενού
-Name[en_GB]=Menu Updating Tool
 Name[eo]=Aktualigi la K-Menuaron
 Name[es]=Herramienta de actualización de menús
 Name[et]=Menüü uuendamine
@@ -91,7 +88,6 @@ Icon=kappfinder
 TryExec=/usr/bin/kappfinder
 Exec=kappfinder
 X-DBUS-StartupType=Multi
-Terminal=false
 OnlyShowIn=KDE;
 Categories=Settings;KDE;Qt;
 StartupNotify=false

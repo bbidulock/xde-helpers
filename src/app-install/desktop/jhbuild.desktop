@@ -1,23 +1,18 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GNOME Build Tool
 Name[de]=GNOME Erstellungswerkzeug
-Name[en_GB]=GNOME Build Tool
 Name[es]=Herramienta de construcción de GNOME
 Name[fr]=Outil de compilation pour GNOME
 Name[sv]=Byggverktyg för GNOME
 Comment=Build GNOME modules
 Comment[de]=GNOME-Module erstellen
-Comment[en_GB]=Build GNOME modules
 Comment[es]=Construya módulos de GNOME
 Comment[fr]=Compilation des modules GNOME
 Comment[sv]=Bygg GNOME-moduler
 Icon=applications-development
 TryExec=/usr/bin/jhbuild
 Exec=jhbuild gui
-Terminal=false
 Categories=Development;Building;GNOME;
 StartupNotify=true
 X-GNOME-Bugzilla-Bugzilla=GNOME

@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=DesktopNova-Tray
 Comment=A Tray-Icon for DesktopNova
 Icon=desktopnova
 TryExec=/usr/bin/desktopnova-tray
 Exec=desktopnova-tray
-Terminal=false
 Categories=Application;Utility;GNOME;
 StartupNotify=false
 X-AppInstall-Package=desktopnova-tray

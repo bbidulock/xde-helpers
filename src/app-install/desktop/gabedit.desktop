@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gabedit QC-GUI
 Comment=graphical user interface to computational chemistry packages
 Icon=gabedit
 TryExec=/usr/bin/gabedit
 Exec=gabedit
-Terminal=false
 Categories=Education;Science;Chemistry;GTK;
 StartupNotify=true
 X-AppInstall-Package=gabedit

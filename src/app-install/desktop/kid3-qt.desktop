@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Kid3-qt
 GenericName=Audio Tagger
@@ -15,7 +13,6 @@ GenericName[ru]=Программа-редактор аудио-тегов
 Icon=kid3-qt
 TryExec=/usr/bin/kid3-qt
 Exec=kid3-qt %f
-Terminal=false
 Categories=AudioVideo;Audio;AudioVideoEditing;Qt;
 MimeType=audio/mpeg;application/ogg;audio/x-flac;audio/x-flac+ogg;audio/x-vorbis+ogg;audio/x-speex+ogg;audio/x-oggflac;audio/x-musepack;audio/aac;audio/mp4;audio/x-speex;audio/x-tta;audio/x-wavpack;x-directory/normal;inode/directory;
 StartupNotify=false

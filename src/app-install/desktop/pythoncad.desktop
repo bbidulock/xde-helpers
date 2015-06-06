@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=PyCAD
 Comment=PythonCAD
 Icon=gtkpycad
 TryExec=/usr/bin/pythoncad
 Exec=pythoncad
-Terminal=false
 Categories=Office;X-Red-Hat-Base;
 StartupNotify=false
 X-Desktop-File-Install-Version=0.3

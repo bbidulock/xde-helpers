@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=FLTK Editor
 Comment=Simple text editor
 Icon=fltk-editor
 TryExec=/usr/bin/fltk-editor
 Exec=fltk-editor
-Terminal=false
 Categories=Utility;TextEditor;
 StartupNotify=false
 X-AppInstall-Package=fltk-editor

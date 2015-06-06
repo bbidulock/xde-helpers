@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Jwm
 GenericName=Window Manager
@@ -10,7 +8,6 @@ Comment=Minimalistic pure X11 window manager with menu/tray support
 Icon=jwm
 TryExec=/usr/bin/jwm
 Exec=jwm
-Terminal=false
 NoDisplay=true
 Categories=WindowManager;Application;System;
 StartupNotify=false
@@ -33,9 +30,10 @@ Actions=XDE;
 
 [Desktop Action XDE]
 Name=XDE
-Icon=xde
-Exec=xde-session -desktop JWM -startwm jwm
 Comment=JWM in an XDE session
+Icon=xde
+TryExec=/usr/bin/xde-session
+Exec=xde-session -desktop JWM -startwm jwm
 DesktopNames=XDE:JWM
 
 [Window Manager]

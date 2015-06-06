@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Scratch
 Comment=Programming system and content development tool
 Icon=scratch
 TryExec=/usr/bin/scratch
 Exec=scratch
-Terminal=false
 Categories=Development;
 MimeType=application/x-scratch-project;
 StartupNotify=false

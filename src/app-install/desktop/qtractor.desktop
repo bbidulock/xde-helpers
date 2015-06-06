@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Qtractor
 GenericName=Multi-track Sequencer
@@ -8,7 +6,6 @@ Comment=Qtractor is an Audio/MIDI multi-track sequencer application
 Icon=qtractor
 TryExec=/usr/bin/qtractor
 Exec=/usr/bin/qtractor
-Terminal=false
 Categories=AudioVideo;Audio;Midi;Sequencer;Qt;X-Alsa;X-Jack;X-Multitrack;
 StartupNotify=false
 X-AppInstall-Package=qtractor

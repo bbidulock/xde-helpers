@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gnome Crystal Crystalline Structures Viewer
 Name[de]=Gnome Crystal Betrachter für Kristallstrukturen
@@ -17,7 +15,6 @@ Comment[zh_TW]=編輯及展示晶體結構
 Icon=gcrystal
 TryExec=/usr/bin/gcrystal-0.12
 Exec=gcrystal-0.12 %U
-Terminal=false
 Categories=Education;Science;Chemistry;GNOME;GTK;
 MimeType=application/x-gcrystal;chemical/x-cif;chemical/x-cml;
 StartupNotify=false

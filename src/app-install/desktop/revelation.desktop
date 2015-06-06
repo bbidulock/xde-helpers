@@ -1,18 +1,15 @@
 [Desktop Entry]
 Version=0.4.11
-Encoding=UTF-8
 Type=Application
 Name=Revelation Password Manager
 Name[fr]=Gestionnaire de mots de passe Revelation
 GenericName=Password Manager
-GenericName[en_US]=Password Manager
 GenericName[fr]=Gestionnaire de mots de passe
 Comment=Organize and secure your passwords
 Comment[fr]=Organise et sécurise vos mots de passe
 Icon=revelation
 TryExec=/usr/bin/revelation
 Exec=revelation
-Terminal=false
 Categories=Application;Utility;GNOME;
 MimeType=application/x-revelation;
 StartupNotify=true

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=ClusterSSH
 GenericName=SSH/RSH Cluster Control Client
@@ -8,7 +6,6 @@ Comment=Control multiple ssh or rsh sessions from a single input window
 Icon=_usr_share_pixmaps_clusterssh-32x32
 TryExec=/usr/bin/cssh
 Exec=cssh
-Terminal=false
 Categories=Network;System;RemoteAccess;
 StartupNotify=false
 X-AppInstall-Package=clusterssh

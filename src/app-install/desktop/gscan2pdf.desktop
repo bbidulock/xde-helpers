@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=gscan2pdf
 GenericName=gscan2pdf
@@ -9,7 +7,6 @@ Comment[de]=Machen Sie PDF-Dateien direkt von Ihrem Scanner
 Icon=gscan2pdf
 TryExec=/usr/bin/gscan2pdf
 Exec=gscan2pdf
-Terminal=false
 Categories=Graphics;Scanning;
 StartupNotify=false
 X-AppInstall-Package=gscan2pdf

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=MGM System Monitor
 GenericName=System Monitor
@@ -8,7 +6,6 @@ Comment=A highly configurable, very gaudy system load meter
 Icon=_usr_share_pixmaps_mgm
 TryExec=/usr/bin/mgm
 Exec=/usr/bin/mgm
-Terminal=false
 Categories=System;Utility;Monitor;
 StartupNotify=false
 X-AppInstall-Package=mgm

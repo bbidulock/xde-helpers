@@ -1,10 +1,6 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=KildClient
-Name[eo]=KildClient
-Name[pt_BR]=KildClient
 GenericName=MUD Client
 GenericName[eo]=Kliento por konekti al MUD-oj
 GenericName[pt_BR]=Cliente de MUD
@@ -14,7 +10,6 @@ Comment[pt_BR]=Conecte-se a MUDs (Multi User Dungeons)
 Icon=kildclient
 TryExec=/usr/bin/kildclient
 Exec=kildclient
-Terminal=false
 Categories=Network;RolePlaying;
 StartupNotify=false
 X-AppInstall-Package=kildclient

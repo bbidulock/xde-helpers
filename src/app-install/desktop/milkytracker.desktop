@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=MilkyTracker
 Comment=Fasttracker 2 Clone
 Icon=milkytracker.png
 TryExec=/usr/bin/milkytracker
 Exec=milkytracker %f
-Terminal=false
 Categories=AudioVideo;Audio;Video;GNOME;
 MimeType=audio/x-xm;
 StartupNotify=false
@@ -24,4 +21,5 @@ X-Arch-Package-URL=http://www.milkytracker.org/
 
 [Desktop Action Play]
 Name=MilkyTracker (play song)
+TryExec=/usr/bin/milkytracker
 Exec=milkytracker %f

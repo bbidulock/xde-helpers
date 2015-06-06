@@ -1,17 +1,6 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=TeleGNOME
-Name[cs]=TeleGNOME
-Name[da]=TeleGNOME
-Name[de]=TeleGNOME
-Name[es]=TeleGNOME
-Name[fr]=TeleGNOME
-Name[gl]=TeleGNOME
-Name[pl]=TeleGNOME
-Name[sl]=TeleGNOME
-Name[sv]=TeleGNOME
 Comment=Viewer for Teletext pages
 Comment[cs]=Prohlížeč teletextových stránek
 Comment[da]=Fremviser for sider på tekst-tv
@@ -27,7 +16,6 @@ Comment[sv]=Visare för text-tv-sidor
 Icon=telegnome.png
 TryExec=/usr/bin/telegnome
 Exec=telegnome
-Terminal=false
 Categories=Network;News;GNOME;GTK;
 StartupNotify=false
 X-AppInstall-Package=telegnome

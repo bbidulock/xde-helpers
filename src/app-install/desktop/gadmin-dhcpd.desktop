@@ -1,26 +1,11 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GADMIN-DHCPD
-Name[de]=GADMIN-DHCPD
-Name[es]=GADMIN-DHCPD
-Name[fi]=GADMIN-DHCPD
-Name[fr]=GADMIN-DHCPD
-Name[ko]=GADMIN-DHCPD
-Name[no]=GADMIN-DHCPD
-Name[pt_BR]=GADMIN-DHCPD
-Name[ro]=GADMIN-DHCPD
-Name[sl]=GADMIN-DHCPD
-Name[sv]=GADMIN-DHCPD
-Name[uk]=GADMIN-DHCPD
-Name[zh_TW]=GADMIN-DHCPD
 GenericName=GADMIN-DHCPD
 Comment=DHCPD DHCP server administration
 Icon=gadmin-dhcpd
 TryExec=/usr/bin/su-to-root
 Exec=su-to-root -X -c /usr/sbin/gadmin-dhcpd
-Terminal=false
 Categories=System;GTK;
 StartupNotify=false
 X-AppInstall-Package=gadmin-dhcpd

@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=FreeCol
 Comment=Turn-based strategy game
 Icon=freecol
 TryExec=/usr/bin/freecol
 Exec=freecol
-Terminal=false
 Categories=Game;StrategyGame;Java;
 StartupNotify=false
 X-AppInstall-Package=freecol

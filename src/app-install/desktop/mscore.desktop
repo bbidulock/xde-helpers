@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=MuseScore
 GenericName=mscore
@@ -10,7 +8,6 @@ Comment[ru]=Визуальный редактор нотных партитур
 Icon=mscore
 TryExec=/usr/bin/mscore
 Exec=mscore
-Terminal=false
 Categories=AudioVideo;Audio;Midi;Sequencer;AudioVideoEditing;Music;Qt;
 MimeType=application/x-musescore;application/x-musescore+xml;application/vnd.recordare.musicxml;application/vnd.recordare.musicxml+xml;
 StartupNotify=true

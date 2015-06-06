@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Which Way is Up
 GenericName=whichwayisup
@@ -8,7 +6,6 @@ Comment=2D platform game with a slight rotational twist
 Icon=whichwayisup
 TryExec=/usr/bin/whichwayisup
 Exec=whichwayisup
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=whichwayisup

@@ -1,13 +1,11 @@
 [Desktop Entry]
 Version=0.06.2
-Encoding=UTF-8
 Type=Application
 Name=pympd
 Comment=pyGTK+ Frontend for MPD
 Icon=pympd.svg
 TryExec=/usr/bin/pympd
 Exec=pympd
-Terminal=false
 Categories=Application;AudioVideo;Audio;Player;
 StartupNotify=false
 X-AppInstall-Package=pympd

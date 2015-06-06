@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Right-handed (1 2 3)
 Name[af]=X Konsole
@@ -130,7 +128,6 @@ Comment[zu]=Console Umyalezo Womboniselo
 Icon=normal/Touch
 TryExec=/usr/bin/xmodmap
 Exec=xmodmap -e "pointer = 1 2 3"
-Terminal=false
 Categories=AfterStepXMouseTools;
 StartupNotify=false
 X-AppInstall-Package=xorg-xmodmap

@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=SooperLooper
 Icon=sooperlooper
 TryExec=/usr/bin/slgui
 Exec=/usr/bin/slgui
-Terminal=false
 Categories=AudioVideo;Audio;
 StartupNotify=false
 X-AppInstall-Package=sooperlooper

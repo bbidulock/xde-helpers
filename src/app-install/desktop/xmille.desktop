@@ -1,11 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Xmille
 TryExec=/usr/games/xmille
 Exec=/usr/games/xmille
-Terminal=false
 Categories=Application;Game;CardGame;
 StartupNotify=false
 X-AppInstall-Package=xmille

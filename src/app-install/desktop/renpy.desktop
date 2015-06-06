@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Ren'Py
 GenericName=renpy
@@ -9,16 +7,15 @@ Comment[es]=juegos de novela grafica
 Icon=renpy
 TryExec=/usr/bin/renpy
 Exec=renpy
-Terminal=false
 Categories=Game;
 StartupNotify=false
 X-AppInstall-Package=renpy
 X-AppInstall-Popcon=27
-X-AppInstall-Section=aur
-X-Arch-Package-Repository=aur
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
 X-Arch-Package-Name=renpy
-X-Arch-Package-Version=6.17.6-1
-X-Arch-Package-Description=Ren'Py is a visual novel engine that helps you use words,
+X-Arch-Package-Version=6.99.4-3
+X-Arch-Package-Description=The Ren'Py Visual Novel Engine
 X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://www.renpy.org
 X-Arch-Package-Votes=27

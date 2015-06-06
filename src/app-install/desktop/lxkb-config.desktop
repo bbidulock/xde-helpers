@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Keyboard Settings
 Name[es]=Preferencias de Teclado
@@ -9,7 +7,6 @@ Comment[es]=Establece tu configuración de teclado.
 Icon=preferences-desktop-keyboard
 TryExec=/usr/bin/lxkb_config
 Exec=lxkb_config
-Terminal=false
 Categories=Settings;HardwareSettings;GNOME;GTK;
 StartupNotify=true
 X-AppInstall-Package=lxkb_config-git

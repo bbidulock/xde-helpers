@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Mono Documentation
 GenericName=Documentation Browser
@@ -8,7 +6,6 @@ Comment=View, search and edit documentation related to Mono
 Icon=monodoc
 TryExec=/usr/bin/monodoc
 Exec=/usr/bin/monodoc
-Terminal=false
 Categories=Development;Documentation;
 StartupNotify=true
 X-AppInstall-Package=monodoc-browser

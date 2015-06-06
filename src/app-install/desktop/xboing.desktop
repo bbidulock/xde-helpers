@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=XBoing II
 GenericName=XBoing II
@@ -8,7 +6,6 @@ Comment=Destroy some blocks
 Icon=xboing
 TryExec=/usr/bin/xboing
 Exec=xboing
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=xboing

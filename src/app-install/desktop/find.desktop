@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Yahoo Internet Search
 GenericName=Internet Search
@@ -65,7 +63,6 @@ Comment[zh_TW]=尋找檔案/資料夾
 Icon=normal/WWW
 TryExec=/usr/bin/ASRun
 Exec=ASRun --immidiate --cmd http://www.yahoo.com
-Terminal=false
 Categories=SearchTool;
 StartupNotify=false
 X-AppInstall-Package=afterstep-git

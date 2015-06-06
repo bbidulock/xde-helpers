@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GNUsound
 GenericName=Sound Editor
@@ -8,7 +6,6 @@ Comment=Sound editor
 Icon=_usr_share_gnusound_gui_logo
 TryExec=/usr/bin/gnusound
 Exec=gnusound %F
-Terminal=false
 Categories=Application;AudioVideo;Audio;AudioVideoEditing;Player;Recorder;GNOME;GTK;
 MimeType=audio/wav;audio/x-wav;audio/mpeg;audio/x-mpeg;audio/mpeg3;audio/x-mpeg-3;audio/x-mp3;video/mpeg;video/x-mpeg;audio/aiff;audio/x-aiff;audio/basic;video/avi;video/msvideo;video/x-msvideo;audio/x-au;audio/x-realaudio;audio/x-pn-realaudio;audio/voc;audio/x-voc;audio/x-flac;application/x-flac;application/ogg;audio/x-ulaw;audio/x-voc;video/quicktime;video/x-ms-asf;video/x-ms-wmv;
 StartupNotify=false

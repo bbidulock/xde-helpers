@@ -1,13 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=hocr
-Name[he]=hocr
 Icon=hocr1-48
 TryExec=/usr/bin/hocr-gtk
 Exec=hocr-gtk
-Terminal=false
 Categories=Application;Office;OCR;GTK;
 StartupNotify=true
 X-AppInstall-Package=hocr-gtk

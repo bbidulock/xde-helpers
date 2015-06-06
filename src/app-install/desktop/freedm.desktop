@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Free DM
 GenericName=Multiplayer-only Clone of the first person shooter Doom
@@ -8,7 +6,6 @@ Comment=First Person Shooter Game
 Icon=freedm
 TryExec=/usr/games/freedm
 Exec=/usr/games/freedm
-Terminal=false
 Categories=Game;ActionGame;
 StartupNotify=false
 X-AppInstall-Package=freedm

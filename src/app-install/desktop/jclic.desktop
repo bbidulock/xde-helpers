@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=JClic
 Comment=Multimedia educational activities: puzzles, associations, text exercises, crosswords, scrambled letters, etc.
@@ -10,7 +8,6 @@ Comment[valencia]=Activitats educatives multimèdia: puzzles, associacions, exer
 Icon=jclic.png
 TryExec=/usr/bin/jclic
 Exec=jclic %U
-Terminal=false
 Categories=Application;Education;
 StartupNotify=false
 X-AppInstall-Package=jclic

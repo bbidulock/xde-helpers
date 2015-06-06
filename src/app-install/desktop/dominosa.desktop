@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Dominosa
 Comment=Reconstruct the pattern by arranging the set of dominoes to match the provided array of numbers
@@ -9,7 +7,6 @@ Comment[fr]=Essayer de réobtenir le modèle de base en arrangeant les dominos p
 Icon=dominosa
 TryExec=/usr/bin/dominosa
 Exec=dominosa
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=sgt-puzzles

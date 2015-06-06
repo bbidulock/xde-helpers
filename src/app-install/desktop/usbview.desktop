@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Applications/System/Hardware
 Name=usbview
 Comment=View USB devices attached to system
 TryExec=/usr/bin/usbview
 Exec=/usr/bin/usbview
 MultipleArgs=false
-Terminal=false
 StartupNotify=false
 X-AppInstall-Package=usbview
 X-AppInstall-Popcon=0

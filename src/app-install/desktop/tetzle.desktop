@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Tetzle
 Icon=tetzle
 TryExec=/usr/bin/tetzle
 Exec=tetzle
-Terminal=false
 Categories=Game;LogicGame;Qt;
 StartupNotify=false
 X-AppInstall-Package=tetzle

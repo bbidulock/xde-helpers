@@ -1,12 +1,10 @@
 [Desktop Entry]
 Version=1.0.7
-Encoding=UTF-8
 Type=Application
 Name=Atris
 Comment=Tetris-like game
 TryExec=/usr/bin/atris
 Exec=atris
-Terminal=false
 Categories=Game;BlocksGame;
 StartupNotify=false
 X-AppInstall-Package=atris

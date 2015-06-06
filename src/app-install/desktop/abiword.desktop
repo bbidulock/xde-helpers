@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=AbiWord
 Name[de]=Textverarbeitung
@@ -32,7 +30,6 @@ Comment[ru]=Обработка форматированных текстовых
 Icon=abiword
 TryExec=/usr/bin/abiword
 Exec=abiword %U
-Terminal=false
 Categories=Office;WordProcessor;GNOME;GTK;X-Red-Hat-Base;
 MimeType=application/x-abiword;text/x-abiword;text/x-xml-abiword;text/plain;application/msword;application/rtf;application/vnd.plain;application/xhtml+xml;text/html;application/x-crossmark;application/docbook+xml;application/x-t602;application/vnd.oasis.opendocument.text;application/vnd.oasis.opendocument.text-template;application/vnd.oasis.opendocument.text-web;application/vnd.sun.xml.writer;application/vnd.stardivision.writer;text/vnd.wap.wml;application/wordperfect6;application/wordperfect5.1;application/vnd.wordperfect;application/x-abicollab;
 StartupNotify=true

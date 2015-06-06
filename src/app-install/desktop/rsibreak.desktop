@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=RSIBreak
 Name[hi]=आरएसआईब्रेक
@@ -43,7 +41,6 @@ Icon=rsibreak
 TryExec=/usr/bin/rsibreak
 Exec=rsibreak
 X-DCOP-ServiceType=Unique
-Terminal=false
 Categories=Utility;KDE;Qt;
 StartupNotify=false
 X-DocPath=rsibreak/index.html

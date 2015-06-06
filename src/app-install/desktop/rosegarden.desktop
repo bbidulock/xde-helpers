@@ -1,16 +1,11 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Rosegarden
-Name[de]=Rosegarden
-Name[es]=Rosegarden
 Comment=MIDI and Audio Sequencer and Notation Editor
 Comment[es]=Secuenciador de MIDI y de audio y editor de partitura
 Icon=rosegarden
 TryExec=/usr/bin/rosegarden
 Exec=rosegarden %f
-Terminal=false
 Categories=AudioVideo;Audio;Midi;Sequencer;X-Red-Hat-Base;X-SuSE-Sequencer;
 MimeType=audio/x-rosegarden-composition;audio/x-rosegarden-device;audio/x-rosegarden-project;audio/x-rosegarden-template;audio/x-wav;audio/midi;audio/ogg;audio/mp3;audio/x-flac;
 StartupNotify=false

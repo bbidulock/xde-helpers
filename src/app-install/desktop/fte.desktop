@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=fte
 Comment=Console- and X-based editor
@@ -8,7 +6,6 @@ Comment[de]=Konsolen- und X-basierter Editor
 Comment[es]=Editor basado en consola y X
 Comment[fr]=Console avec éditeur basé sur X
 Comment[hu]=Szövegszerkesztő
-Terminal=false
 StartupNotify=false
 DocPath=/usr/share/doc/packages/fte/doc/index.html
 X-AppInstall-Package=fte

@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Link
 Name=Change Password
 GenericName=LDAP Password changer
 Comment=Webpage for changing password on ldap-users installation
 Icon=password
-Terminal=false
 Categories=Network;System;Security;
 URL=https://tjener/lwat/chguserpw.php?username=$(id -un)
 StartupNotify=false

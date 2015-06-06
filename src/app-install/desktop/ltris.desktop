@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=LTris
 GenericName=Puzzle game
@@ -8,7 +6,6 @@ Comment=Tetris clone
 Icon=ltris
 TryExec=/usr/bin/ltris
 Exec=ltris
-Terminal=false
 Categories=Game;
 StartupNotify=true
 X-AppInstall-Package=ltris

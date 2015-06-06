@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=mtPaint graphic editor
 GenericName=Painting program
@@ -10,7 +8,6 @@ Comment[pt_BR]=programa de pintura para criar pixel art e manipular fotos digita
 Icon=mtpaint
 TryExec=/usr/bin/mtpaint
 Exec=mtpaint
-Terminal=false
 Categories=Graphics;RasterGraphics;
 StartupNotify=false
 X-AppInstall-Package=mtpaint

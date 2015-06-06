@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=qcomicbook
 GenericName=ComicBook Viewer
@@ -13,7 +11,6 @@ Comment[tr]=QComicBook cbz, cbr, cbt biçimindeki çizgi roman arşivlerini gör
 Icon=qcomicbook
 TryExec=/usr/bin/qcomicbook
 Exec=qcomicbook
-Terminal=false
 Categories=Graphics;RasterGraphics;Viewer;Qt;
 MimeType=application/x-cbz;application/x-cbr;application/x-cbt;
 StartupNotify=false

@@ -1,24 +1,18 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Qtpfsgui
-Name[en_US]=Qtpfsgui
 GenericName=HDR imaging
 GenericName[de]=Workflow für HDR Bilder
-GenericName[en_US]=HDR imaging
 GenericName[it]=Workflow per immagini HDR
 GenericName[ru]=Работа с HDR-фотографией
 Comment=Qtpfsgui is a graphical user interface used to create and tonemap HDR images
 Comment[de]=Qtpfsgui ist eine grafische Benutzeroberfläche um HDR Bilder zu erzeugen und um die Farbabbildung durchzuführen
-Comment[en_US]=Qtpfsgui is a graphical user interface used to create and tonemap HDR images
 Comment[hu_HU]=Ez a program nagy megvilágítástartományú (HDR) képek előállítására és megtekintésére szolgál.
 Comment[it]=Qtpfsgui e' una interfaccia grafica usata per creare ed eseguire il tonemapping di immagini HDR
 Comment[ru]=Qtpfsgui — программа для создания HDR-снимков и отображения тонов
 Icon=qtpfsgui
 TryExec=/usr/bin/qtpfsgui
 Exec=qtpfsgui
-Terminal=false
 Categories=Graphics;RasterGraphics;Photography;Viewer;Qt;
 StartupNotify=true
 StartupWMClass=qtpfsgui

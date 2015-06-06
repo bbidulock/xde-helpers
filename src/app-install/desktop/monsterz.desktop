@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Monsterz
 Comment=Little arcade puzzle game, similar to the famous Bejeweled
 Icon=_usr_share_games_monsterz_graphics_icon
 TryExec=/usr/bin/monsterz
 Exec=monsterz
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=monsterz

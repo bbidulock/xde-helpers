@@ -1,15 +1,11 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Ghextris
-Name[fi]=Ghextris
 Comment=Fit falling blocks together on a hexagonal grid
 Comment[fi]=Sovita putoavat palikat yhteen heksaruudukolla
 Icon=_usr_share_games_ghextris_ghextris
 TryExec=/usr/bin/ghextris
 Exec=ghextris
-Terminal=false
 Categories=Application;Game;BlocksGame;GNOME;
 StartupNotify=true
 X-AppInstall-Package=ghextris

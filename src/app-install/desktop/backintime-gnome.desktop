@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Back In Time
 Comment=Simple backup system
@@ -9,7 +7,6 @@ Icon=gtk-save
 TryExec=/usr/bin/backintime-gnome
 Exec=backintime-gnome
 X-MultipleArgs=false
-Terminal=false
 Categories=System;GNOME;GTK;
 StartupNotify=true
 X-AppInstall-Package=backintime-gnome

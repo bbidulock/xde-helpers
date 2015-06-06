@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=c2bImport
 GenericName=cb2Bib Import Reference
@@ -10,7 +8,6 @@ Comment[ca]=Importa referència al cb2Bib
 Icon=cb2bib
 TryExec=/usr/bin/cb2bib
 Exec=cb2bib --import %f
-Terminal=false
 Categories=Office;
 MimeType=text/x-bibtex;application/x-download;application/bibtex;
 Path=/usr/bin

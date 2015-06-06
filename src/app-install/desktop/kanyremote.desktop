@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=kanyremote
 Name[xx]=xxkanyremotexx
@@ -29,7 +27,6 @@ Comment[xx]=xxBluetooth remote controlxx
 Icon=kanyremote
 TryExec=/usr/bin/kanyremote
 Exec=kanyremote
-Terminal=false
 OnlyShowIn=KDE;
 Categories=Utility;
 StartupNotify=false

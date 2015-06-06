@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Abuse
 GenericName=Arcade Game
@@ -12,8 +10,6 @@ Comment=Play a clone of the classic Abuse shooter
 Icon=abuse
 TryExec=/usr/bin/abuse
 Exec=abuse
-Terminal=false
-Hidden=false
 Categories=Game;ActionGame;
 StartupNotify=false
 DocPath=/usr/share/doc/packages/abuse/docs/index.html

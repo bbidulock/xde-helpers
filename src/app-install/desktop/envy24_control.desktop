@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Envy24 control
 Comment=Control Envy24 (ice1712) based soundcards
 Icon=alsa-tools
 TryExec=/usr/bin/envy24control
 Exec=envy24control
-Terminal=false
 Categories=AudioVideo;Audio;
 StartupNotify=false
 X-AppInstall-Package=alsa-tools-gui

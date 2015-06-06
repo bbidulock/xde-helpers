@@ -1,13 +1,11 @@
 [Desktop Entry]
 Version=0.5
-Encoding=UTF-8
 Type=Application
 Name=qwo
 Comment=An input method for touchscreens
 Icon=qwo
 TryExec=/usr/bin/qwo
 Exec=qwo
-Terminal=false
 Categories=Utility;Keyboard;
 StartupNotify=false
 X-MB-SingleInstance=true

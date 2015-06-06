@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GCompris Administration
 Name[af]=GCompris-administrasie
@@ -44,8 +42,6 @@ Comment[da]=Administration af GCompris
 Comment[de]=GCompris-Administration
 Comment[dz]=ཇི་ཀམ་པེརེསི་གི་དོན་ལུ་བདག་སྐྱོང་
 Comment[el]=Επεξεργαστής gcompris
-Comment[en_CA]=Administration for gcompris
-Comment[en_GB]=Administration for gcompris
 Comment[eo]=Administrado por GCompris
 Comment[es]=Administración de gcompris
 Comment[et]=GComprise administreerimine
@@ -91,7 +87,6 @@ Comment[zh_TW]=gcompris 系統管理
 Icon=gcompris-edit
 TryExec=/usr/bin/gcompris
 Exec=gcompris -a --nolockcheck
-Terminal=false
 Categories=Education;
 StartupNotify=true
 X-GNOME-Bugzilla-Bugzilla=GNOME

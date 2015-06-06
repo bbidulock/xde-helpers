@@ -1,12 +1,7 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GConf Cleaner
-Name[de]=GConf Cleaner
-Name[fr]=GConf Cleaner
 Name[ja]=GConfクリーナー
-Name[sv]=GConf Cleaner
 Comment=A Cleaning tool for GConf
 Comment[de]=Ein Reinigungs-Werkzeug für Gconf
 Comment[fr]=Un outil de nettoyage pour Gconf
@@ -15,7 +10,6 @@ Comment[sv]=En rensningsverktyg för GConf
 Icon=gconf-cleaner.png
 TryExec=/usr/bin/gconf-cleaner
 Exec=gconf-cleaner
-Terminal=false
 Categories=System;GNOME;GTK;
 StartupNotify=true
 X-AppInstall-Package=gconf-cleaner

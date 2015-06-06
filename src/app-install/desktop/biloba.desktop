@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Biloba
 GenericName=Board Game
@@ -13,7 +11,6 @@ Comment[fr]=Jeu de stratégie tour par tour, jusqu'à quatre joueurs en réseau
 Icon=biloba
 TryExec=/usr/bin/biloba
 Exec=biloba
-Terminal=false
 Categories=Game;BoardGame;
 StartupNotify=false
 X-AppInstall-Package=biloba

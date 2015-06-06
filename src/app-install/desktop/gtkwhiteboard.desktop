@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GTK Wiimote Whitebaord
 Comment=A whiteboard written in GTK using the wiimote
 Icon=_usr_share_pixmaps_gtkwhiteboard
 TryExec=/usr/bin/gtkwhiteboard
 Exec=/usr/bin/gtkwhiteboard
-Terminal=false
 Categories=Utility;HardwareSettings;
 StartupNotify=true
 X-AppInstall-Package=gtkwhiteboard

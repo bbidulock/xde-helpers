@@ -1,11 +1,6 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gaupol
-Name[fi]=Gaupol
-Name[hu]=Gaupol
-Name[ru]=Gaupol
 GenericName=Subtitle Editor
 GenericName[de]=Untertiteleditor
 GenericName[fi]=Tekstitysmuokkain
@@ -28,7 +23,6 @@ Comment[sv]=Redigera undertextfiler
 Icon=gaupol
 TryExec=/usr/bin/gaupol
 Exec=gaupol %F
-Terminal=false
 Categories=AudioVideo;Video;GTK;
 MimeType=text/x-microdvd;text/x-mpsub;text/x-ssa;application/x-subrip;text/x-subviewer;
 StartupNotify=true

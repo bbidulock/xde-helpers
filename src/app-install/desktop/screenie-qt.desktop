@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Screenie
 GenericName=Screenshot Composer
 TryExec=/usr/bin/screenie-qt
 Exec=screenie-qt
-Terminal=false
 Categories=Graphics;Qt;
 StartupNotify=false
 X-AppInstall-Package=screenie-qt

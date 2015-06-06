@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=AlienBlaster
 GenericName=2D Action Shooter
@@ -8,7 +6,6 @@ Comment=Blast the invading aliens
 Icon=alienblaster
 TryExec=/usr/bin/alienblaster
 Exec=alienblaster
-Terminal=false
 Categories=Game;ActionGame;
 StartupNotify=false
 X-AppInstall-Package=alienblaster

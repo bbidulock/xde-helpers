@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Raincat
 GenericName=Logic Game
@@ -10,7 +8,6 @@ Comment[es]=Rompecabezas en 2D protagonizado por un lindo gatito
 Icon=raincat
 TryExec=/usr/bin/raincat
 Exec=raincat
-Terminal=false
 Categories=Game;KidsGame;
 StartupNotify=false
 X-AppInstall-Package=raincat

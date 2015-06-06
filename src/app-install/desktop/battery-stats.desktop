@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Battery Charge Graph
 Comment=Battery Charge Graph
 Icon=/usr/share/battery-graph/pixmaps/battery-stats.xpm
 TryExec=/usr/bin/battery-graph
 Exec=/usr/bin/battery-graph
-Terminal=false
 Categories=Utility;
 StartupNotify=false
 X-AppInstall-Package=battery-stats

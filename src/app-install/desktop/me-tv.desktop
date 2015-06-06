@@ -1,18 +1,6 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Me TV
-Name[cs]=Me TV
-Name[de]=Me TV
-Name[fa]=Me TV
-Name[fi]=Me TV
-Name[fr]=Me TV
-Name[it]=Me TV
-Name[nl]=Me TV
-Name[pl]=Me TV
-Name[sl]=Me TV
-Name[sv]=Me TV
 GenericName=Digital Television Viewer
 Comment=A digital television (DVB) viewer for GNOME
 Comment[cs]=Přehrávač digitální televize (DVB) pro GNOME
@@ -29,7 +17,6 @@ Icon=me-tv
 TryExec=/usr/bin/me-tv
 Exec=me-tv
 X-MultipleArgs=false
-Terminal=false
 Categories=AudioVideo;TV;GTK;
 MimeType=video/mpeg;audio/x-mpeg;video/x-mpeg;
 StartupNotify=true

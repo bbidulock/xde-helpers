@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Conkeror Web Browser
 Name[bg]=Интернет браузър (Conkeror)
@@ -73,7 +71,6 @@ Icon=browser
 TryExec=/usr/bin/conkeror
 Exec=conkeror %u
 X-MultipleArgs=false
-Terminal=false
 Categories=Network;WebBrowser;
 MimeType=text/html;text/xml;application/xhtml+xml;application/xml;image/gif;image/jpeg;image/png;
 StartupNotify=true

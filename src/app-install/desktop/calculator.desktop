@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=FOX Calculator
 GenericName=Calculator
@@ -8,7 +6,6 @@ Comment=Simple desktop calculator
 Icon=calculator
 TryExec=/usr/bin/calculator
 Exec=calculator
-Terminal=false
 Categories=Utility;Calculator;
 StartupNotify=false
 StartupWMClass=Calculator

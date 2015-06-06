@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GLAME
 Comment=GNU/Linux Audio Mechanics
@@ -8,7 +6,6 @@ Icon=_usr_share_glame_pixmaps_glame
 TryExec=/usr/bin/glame
 Exec=glame
 MultipleArgs=false
-Terminal=false
 StartupNotify=false
 X-AppInstall-Package=glame
 X-AppInstall-Popcon=13

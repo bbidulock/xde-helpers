@@ -1,6 +1,5 @@
 [Desktop Entry]
 Version=0.0
-Encoding=UTF-8
 Type=Application
 Name=JavaMorph
 GenericName=JavaMorph
@@ -8,7 +7,6 @@ Comment=Merge two human-face-JPEGs!
 Icon=_usr_share_pixmaps_JavaMorph
 TryExec=/usr/bin/javamorph
 Exec=/usr/bin/javamorph
-Terminal=false
 Categories=Graphics;
 MimeType=application/x-javamorph;
 StartupNotify=false

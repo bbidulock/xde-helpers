@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=i3 (with debug log)
 GenericName=Window Manager
@@ -10,7 +8,6 @@ Comment=improved dynamic tiling window manager
 Icon=i3
 TryExec=/usr/bin/i3-with-shmlog
 Exec=i3-with-shmlog
-Terminal=false
 NoDisplay=true
 Hidden=true
 Categories=WindowManager;Application;System;

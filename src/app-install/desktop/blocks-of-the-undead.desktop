@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Blocks Of The Undead
 Comment=Tetris Attack clone with spooky undertones
 TryExec=/usr/bin/BlocksOfTheUndead
 Exec=BlocksOfTheUndead
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=blocks-of-the-undead

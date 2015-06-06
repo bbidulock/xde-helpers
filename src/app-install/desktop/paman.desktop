@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=PulseAudio Manager
 Name[cs]=Správce PulseAudio
@@ -50,7 +48,6 @@ GenericName[zh_TW]=管理您的 PulseAudio 聲音伺服器。
 Icon=paman
 TryExec=/usr/bin/paman
 Exec=paman
-Terminal=false
 Categories=AudioVideo;Audio;
 StartupNotify=true
 X-AppInstall-Package=paman

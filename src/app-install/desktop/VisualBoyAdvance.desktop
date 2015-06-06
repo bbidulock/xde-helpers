@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=VisualBoy Advance
 Comment=Game Boy Advance emulator
 Icon=VisualBoyAdvance-gtk-32x32
 TryExec=/usr/bin/gvba
 Exec=gvba
-Terminal=false
 Categories=Game;ArcadeGame;GTK;
 StartupNotify=true
 X-AppInstall-Package=visualboyadvance

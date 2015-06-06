@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=KDE collectd database-viewer
 Name[de]=KDE collectd Datenbankbetrachter
@@ -11,7 +9,6 @@ Comment[de]=Betrachter für collectd-Datenbanken
 Icon=kcollectd
 TryExec=/usr/bin/kcollectd
 Exec=kcollectd
-Terminal=false
 Categories=Utility;KDE;Qt;
 MimeType=application/x-kcollectd;
 StartupNotify=true

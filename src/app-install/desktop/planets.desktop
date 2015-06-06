@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Planets
 Comment=A simple interactive program for playing with simulations of planetary systems
@@ -8,7 +6,6 @@ Comment[da]=Et simpelt interaktivt program til at lege med simulering af planets
 Icon=planets
 TryExec=/usr/bin/planets
 Exec=planets
-Terminal=false
 Categories=Application;Education;Science;Astronomy;Physics;
 StartupNotify=false
 X-AppInstall-Package=planets

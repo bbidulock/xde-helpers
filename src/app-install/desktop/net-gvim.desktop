@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Vi IMproved
 Name[bg]=Vi Ðåäàêòîð
@@ -60,7 +58,6 @@ Comment[zh_CN.GB2312]=功能强大的 vi 编辑器
 Icon=gvim
 TryExec=/usr/bin/gvim
 Exec=gvim -f %f
-Terminal=false
 Categories=Application;Utility;TextEditor;X-Red-Hat-Base;
 MimeType=text/english;text/plain;text/x-makefile;text/x-c++hdr;text/x-c++src;text/x-chdr;text/x-csrc;text/x-java;text/x-moc;text/x-pascal;text/x-tcl;text/x-tex;application/x-shellscript;text/x-c;text/x-c++;
 StartupNotify=false

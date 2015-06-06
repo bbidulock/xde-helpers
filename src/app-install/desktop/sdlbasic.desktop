@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=sdlBasic
 GenericName=sdlBasic
@@ -8,7 +6,6 @@ Comment=Multiplatform basic interpreter for the development of videogames
 Icon=sdlbasic
 TryExec=/usr/bin/sdlBasic
 Exec=sdlBasic
-Terminal=false
 Categories=Development;
 StartupNotify=false
 X-AppInstall-Package=sdlbasic

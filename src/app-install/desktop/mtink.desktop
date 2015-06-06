@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Mtink
 GenericName=Status monitor for printer
@@ -9,7 +7,6 @@ Comment=Status monitor for Epson inkjet printers
 Comment[fr]=Moniteur d'état pour les imprimante jets d'encre Epson
 TryExec=/usr/bin/mtink
 Exec=mtink
-Terminal=false
 Categories=Utility;HardwareSettings;Monitor;Motif;
 StartupNotify=false
 X-AppInstall-Package=mtink

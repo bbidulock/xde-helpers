@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Window Magnifier
 Name[af]=X Vergroter
@@ -131,7 +129,6 @@ Comment[zu]=Umenzi mkhulu we Desktop
 Icon=Magnify
 TryExec=/usr/bin/wmagnify
 Exec=wmagnify
-Terminal=false
 Categories=Graphics;Viewer;
 StartupNotify=false
 StartupWMClass=magnify

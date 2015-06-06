@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=xmbarrel
 GenericName=barrel game
 Icon=_usr_share_pixmaps_xbarrel.m
 TryExec=/usr/games/xmbarrel
 Exec=/usr/games/xmbarrel
-Terminal=false
 Categories=Game;
 StartupNotify=false
 X-AppInstall-Package=xmpuzzles

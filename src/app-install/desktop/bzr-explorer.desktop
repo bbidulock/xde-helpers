@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Bazaar Explorer
 GenericName=Version Control GUI
@@ -8,7 +6,6 @@ Comment=GUI application for using Bazaar
 Icon=bzr-explorer
 TryExec=/usr/bin/bzr
 Exec=bzr explorer
-Terminal=false
 Categories=Development;RevisionControl;
 StartupNotify=false
 X-AppInstall-Package=bzr

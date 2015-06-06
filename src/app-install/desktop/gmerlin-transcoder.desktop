@@ -1,15 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gmerlin transcoder
-Name[de]=Gmerlin transcoder
 Comment=Gmerlin multimedia transcoder
-Comment[de]=Gmerlin multimedia transcoder
 Icon=gmerlin-transcoder.png
 TryExec=/usr/bin/gmerlin_transcoder
 Exec=gmerlin_transcoder
-Terminal=false
 Categories=Application;AudioVideo;
 StartupNotify=false
 X-AppInstall-Package=gmerlin

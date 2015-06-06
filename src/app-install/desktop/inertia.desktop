@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Inertia
 Comment=Collect all the gems without running into any mines
@@ -9,7 +7,6 @@ Comment[fr]=Collecter tous les gèmes sans toucher une seule mine
 Icon=inertia
 TryExec=/usr/bin/inertia
 Exec=inertia
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=sgt-puzzles

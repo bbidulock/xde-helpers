@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=earth3d
 Comment=eart3d - 3D Model of the earth
 Icon=earth
 TryExec=/usr/bin/earth3d
 Exec=earth3d
-Terminal=false
 Categories=Education;Science;Qt;
 StartupNotify=false
 X-AppInstall-Package=earth3d

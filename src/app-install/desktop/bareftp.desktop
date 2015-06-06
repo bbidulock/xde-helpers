@@ -1,11 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=bareFTP
 GenericName=File Transfer Client
 GenericName[ca]=Client de transferència de fitxers
-GenericName[de]=File Transfer Client
 GenericName[es]=Transferencia de archivos
 GenericName[fr]=Client de transfert de fichiers
 GenericName[it]=Client per il trasferimento di file
@@ -26,7 +23,6 @@ Comment[sv]=Överför filer via FTP, FTPS eller SFTP.
 Icon=bareftp
 TryExec=/usr/bin/bareftp
 Exec=bareftp
-Terminal=false
 Categories=Network;FileTransfer;
 StartupNotify=false
 X-AppInstall-Package=bareftp

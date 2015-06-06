@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Poe
 Comment=Vorbis comment editor
@@ -8,7 +6,6 @@ Comment[bg]=Редактор на коментари на файлове във 
 Icon=/usr/lib/GNUstep/Applications/Poe.app/Resources/Poe.tiff
 TryExec=/usr/bin/Poe
 Exec=Poe
-Terminal=false
 Categories=AudioVideo;Audio;AudioVideoEditing;
 StartupNotify=false
 X-AppInstall-Package=poe.app

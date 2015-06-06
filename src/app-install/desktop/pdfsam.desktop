@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=pdfsam
 GenericName=PDF split and merge
@@ -10,7 +8,6 @@ Comment[de]=Ein Werkzeug zur Trennung oder Zusammenführung von PDF-Dokumenten
 Icon=_usr_share_pdfsam_pdf
 TryExec=/usr/bin/pdfsam
 Exec=pdfsam
-Terminal=false
 Categories=Office;
 StartupNotify=false
 X-AppInstall-Package=pdfsam

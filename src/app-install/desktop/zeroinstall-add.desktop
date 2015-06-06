@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Add New Program
 Name[es]=Agregar un nuevo programa
@@ -14,7 +12,6 @@ Comment[sv]=Lägger till Zero Install-program till menyn Program
 Icon=zeroinstall-zero2desktop
 TryExec=/usr/bin/0desktop
 Exec=0desktop -- %u
-Terminal=false
 Categories=PackageManager;GTK;
 StartupNotify=false
 X-AppInstall-Package=zeroinstall-injector

@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Tux Commander
 Comment=A two panel file manager
 Icon=tuxcmd
 TryExec=/usr/bin/tuxcmd
 Exec=tuxcmd
-Terminal=false
 Categories=Utility;GTK;
 StartupNotify=true
 X-Desktop-File-Install-Version=0.15

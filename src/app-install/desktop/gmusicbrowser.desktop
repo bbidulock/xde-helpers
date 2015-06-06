@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=gmusicbrowser
 Comment=Jukebox for large collections of mp3/ogg/flac/mpc
@@ -8,7 +6,6 @@ Comment[fr]=Jukebox pour de grandes collections de mp3/ogg/flac/mpc
 Icon=gmusicbrowser
 TryExec=/usr/bin/gmusicbrowser
 Exec=gmusicbrowser %F
-Terminal=false
 Categories=AudioVideo;Audio;
 StartupNotify=true
 X-AppInstall-Package=gmusicbrowser

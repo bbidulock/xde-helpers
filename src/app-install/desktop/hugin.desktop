@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Hugin Panorama Creator
 Name[cs]=Hugin pro skládání panoramat
@@ -23,7 +21,6 @@ Comment[ru]=Сшивка панорам из отдельных фотограф
 Icon=hugin
 TryExec=/usr/bin/hugin
 Exec=hugin
-Terminal=false
 Categories=Graphics;
 MimeType=application/x-ptoptimizer-script;
 StartupNotify=false

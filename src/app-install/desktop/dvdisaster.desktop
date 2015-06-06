@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=dvdisaster
 GenericName=data archival
@@ -11,7 +9,6 @@ Comment[de]=Zusätzliche Fehlerkorrektur für CD/DVD
 Icon=dvdisaster.png
 TryExec=/usr/bin/dvdisaster
 Exec=dvdisaster
-Terminal=false
 Categories=Application;System;
 StartupNotify=false
 X-AppInstall-Package=dvdisaster

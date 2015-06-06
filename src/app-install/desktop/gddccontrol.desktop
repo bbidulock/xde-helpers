@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Monitor Settings
 Comment=Set your monitor preferences (contrast, brightness,...) and manage your profiles
 Icon=gddccontrol
 TryExec=/usr/bin/gddccontrol
 Exec=gddccontrol
-Terminal=false
 Categories=Application;Settings;GNOME;
 StartupNotify=false
 X-AppInstall-Package=gddccontrol

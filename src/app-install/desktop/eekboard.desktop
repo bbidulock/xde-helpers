@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Eekboard
 GenericName=Eekboard Virtual Keyboard
@@ -8,7 +6,6 @@ Comment=Virtual Keyboard
 Icon=eekboard
 TryExec=/usr/bin/eekboard
 Exec=eekboard
-Terminal=false
 Categories=Utility;GTK;
 StartupNotify=false
 X-AppInstall-Package=eekboard

@@ -1,15 +1,11 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=threadscope
-Name[es]=threadscope
 Comment=Haskell GHC thread profiler
 Comment[es]=Perfilador de hilos para Haskell GHC
 Icon=_usr_share_threadscope-0.1.2_threadscope
 TryExec=/usr/bin/threadscope
 Exec=/usr/bin/threadscope
-Terminal=false
 Categories=Application;Development;
 MimeType=application/x-threadscope;
 StartupNotify=false

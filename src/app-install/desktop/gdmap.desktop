@@ -1,12 +1,10 @@
 [Desktop Entry]
 Version=0.8.0
-Encoding=UTF-8
 Type=Application
 Name=Graphical Disk Map
 Name[bg]=Графична карта на диска
 Name[de]=Plattenspeicher anzeigen
 Name[dk]=Grafisk Kortlægning af Disken
-Name[es]=Graphical Disk Map
 Name[fr]=Représentation graphique du disque
 Name[he]=מפת דיסק גרפית
 Name[hr]=Graficka disk mapa
@@ -33,7 +31,6 @@ Comment[tr]=Disk alanını agac haritalarini kullanarak goster
 Icon=gdmap_icon.png
 TryExec=/usr/bin/gdmap
 Exec=gdmap
-Terminal=false
 Categories=Utility;Filesystem;GTK;
 StartupNotify=false
 X-AppInstall-Package=gdmap

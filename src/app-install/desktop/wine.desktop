@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=WINE
 GenericName=Wine Win32 API Emulator
@@ -10,15 +8,14 @@ Comment[ru]=Программа для запуска приложений для
 Icon=wine
 TryExec=/usr/bin/wine
 Exec=wine %f
-Terminal=false
 Categories=Emulator;
 MimeType=application/x-ms-dos-executable;application/x-msdos-program;application/x-msdownload;application/exe;application/x-exe;application/dos-exe;vms/exe;application/x-winexe;application/msdos-windows;application/x-msdos-program;
 StartupNotify=false
 X-AppInstall-Package=wine
 X-AppInstall-Popcon=6949
-X-AppInstall-Section=multilib
+X-AppInstall-Section=community
 X-AppInstall-Architectures=amd64,i386
-X-Arch-Package-Repository=multilib
+X-Arch-Package-Repository=community
 X-Arch-Package-Name=wine
 X-Arch-Package-Version=1.7.44-1
 X-Arch-Package-Description=A compatibility layer for running Windows programs

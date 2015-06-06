@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=BKchem
 Comment=Edit chemical structures and reactions
 Icon=bkchem
 TryExec=/usr/bin/bkchem
 Exec=bkchem %U
-Terminal=false
 Categories=Education;Science;Chemistry;
 MimeType=image/svg+xml;image/svg+xml-compressed;application/x-cdml+xml;application/x-cdml+xml-compressed;
 StartupNotify=false

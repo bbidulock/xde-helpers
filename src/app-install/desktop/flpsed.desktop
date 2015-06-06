@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=flpsed PDF Annotator
 Comment=Add text and annotations to PDF and PostScript documents
 TryExec=/usr/bin/flpsed
 Exec=flpsed
-Terminal=false
 Categories=Graphics;WordProcessor;Viewer;
 StartupNotify=false
 X-AppInstall-Package=flpsed

@@ -1,6 +1,5 @@
 [Desktop Entry]
 Version=1.4
-Encoding=UTF-8
 Type=Application
 Name=FloboPuyo
 Comment=A tetris-like game
@@ -11,7 +10,6 @@ Comment[pt]=Estilo Tetris
 Icon=flobopuyo
 TryExec=/usr/bin/flobopuyo
 Exec=flobopuyo
-Terminal=false
 Categories=Game;BlocksGame;
 StartupNotify=false
 X-AppInstall-Package=flobopuyo

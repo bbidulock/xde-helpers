@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Buxon
 Comment=sioc:Forum browser
 Icon=buxon
 TryExec=/usr/bin/buxon
 Exec=/usr/bin/buxon %u
-Terminal=false
 Categories=Utility;Viewer;
 MimeType=application/rdf+xml;
 StartupNotify=false

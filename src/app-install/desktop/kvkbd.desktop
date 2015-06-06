@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Kvkbd
 Name[x-test]=xxKvkbdxx
@@ -37,7 +35,6 @@ Comment[x-test]=xxA virtual keyboard for KDExx
 Icon=preferences-desktop-keyboard
 TryExec=/usr/bin/kvkbd
 Exec=kvkbd
-Terminal=false
 Categories=Utility;Accessibility;KDE;Qt;
 StartupNotify=false
 X-DocPath=kvkbd/index.html

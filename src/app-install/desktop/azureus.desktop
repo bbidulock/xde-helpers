@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Vuze
 GenericName=BitTorrent client
@@ -8,7 +6,6 @@ Comment=Download and share files using the BitTorrent P2P network
 Icon=Azureus
 TryExec=/usr/bin/azureus
 Exec=azureus %f
-Terminal=false
 Categories=Network;FileTransfer;P2P;Java;
 MimeType=application/x-bittorrent;
 StartupNotify=false

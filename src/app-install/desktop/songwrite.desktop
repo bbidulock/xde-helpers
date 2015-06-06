@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Songwrite
 GenericName=Tablature editor
@@ -8,7 +6,6 @@ Comment=guitar tablature editor and player
 Icon=_usr_share_songwrite_data_songwrite_32x32
 TryExec=/usr/bin/songwrite
 Exec=songwrite
-Terminal=false
 Categories=Application;AudioVideo;Audio;AudioVideoEditing;Player;Music;
 StartupNotify=false
 X-AppInstall-Package=songwrite

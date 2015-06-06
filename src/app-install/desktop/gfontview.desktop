@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Font Viewer
 Name[es]=Visualizador de fuentes
@@ -9,7 +7,6 @@ Comment[es]=Permite ver ficheros TrueType y Type1
 Icon=gfontview.png
 TryExec=/usr/bin/gfontview
 Exec=gfontview
-Terminal=false
 StartupNotify=false
 X-AppInstall-Package=gfontview
 X-AppInstall-Popcon=0

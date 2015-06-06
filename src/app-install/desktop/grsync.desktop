@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Grsync
 Comment=Synchronize files with rsync
@@ -12,7 +10,6 @@ Comment[tr]=Rsync için bir GTK grafik arayüzü
 Icon=grsync.png
 TryExec=/usr/bin/grsync
 Exec=/usr/bin/grsync -i %f
-Terminal=false
 Categories=Application;System;
 MimeType=application/x-grsync-session;
 StartupNotify=false

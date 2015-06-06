@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gnash SWF Viewer
 Name[ca]=Visualitzador d'SWF Gnash
@@ -18,7 +16,6 @@ Name[zh_CN]=Gnash SWF 查看器
 Icon=gnash
 TryExec=/usr/bin/gtk-gnash
 Exec=gtk-gnash %U
-Terminal=false
 NoDisplay=true
 Categories=AudioVideo;Video;Player;GTK;
 MimeType=application/x-shockwave-flash;application/futuresplash;
@@ -32,4 +29,4 @@ X-Arch-Package-Version=0.8.12-1
 X-Arch-Package-Description=A GNU Flash movie player
 X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://www.gnu.org/software/gnash/
-X-Arch-Package-Votes=23
+X-Arch-Package-Votes=24

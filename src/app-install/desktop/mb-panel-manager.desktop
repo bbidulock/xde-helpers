@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Panel Manager
 Comment=Manage panel configuration
 Icon=mbpanelmgr.png
 TryExec=/usr/bin/matchbox-panel-manager
 Exec=matchbox-panel-manager
-Terminal=false
 Categories=Application;MB;SystemSettings;
 StartupNotify=True
 SingleInstance=True

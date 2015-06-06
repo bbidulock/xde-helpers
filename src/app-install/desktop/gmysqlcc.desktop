@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GMySQLcc
 Comment=Gtk+ MySQL Control Center
 Icon=gmysqlcc-32.png
 TryExec=/usr/bin/gmysqlcc
 Exec=gmysqlcc
-Terminal=false
 Categories=Development;Database;GTK;
 StartupNotify=false
 X-AppInstall-Package=gmysqlcc

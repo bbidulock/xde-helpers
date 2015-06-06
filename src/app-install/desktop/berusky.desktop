@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Berusky
 Comment=Logic game based on Sokoban(TM)
 Icon=berusky
 TryExec=/usr/bin/berusky
 Exec=berusky
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=berusky

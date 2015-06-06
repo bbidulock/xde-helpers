@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Meritous
 Comment=action-adventure dungeon crawl game
 Icon=meritous
 TryExec=/usr/bin/meritous
 Exec=meritous
-Terminal=false
 Categories=Application;Game;AdventureGame;
 StartupNotify=false
 X-AppInstall-Package=meritous

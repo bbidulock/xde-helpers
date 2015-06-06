@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Mail Recipient
 Name[ar]=تم تسليم البريد
@@ -13,8 +11,6 @@ Name[cs]=Příjemce elektronické pošty
 Name[da]=Postmodtager
 Name[de]=E-Mail-Empfänger
 Name[el]=Παραλήπτης αλληλογραφίας
-Name[en_AU]=Mail Recipient
-Name[en_GB]=Mail Recipient
 Name[eo]=Ret-poŝt adresato
 Name[es]=Destinatario de correo
 Name[et]=Saada e-kirjaga
@@ -62,7 +58,6 @@ Name[zh_TW]=郵件接收者
 Icon=internet-mail
 TryExec=/usr/lib/Thunar/thunar-sendto-email
 Exec=/usr/lib/Thunar/thunar-sendto-email %F
-Terminal=false
 StartupNotify=false
 X-AppInstall-Package=thunar
 X-AppInstall-Popcon=0

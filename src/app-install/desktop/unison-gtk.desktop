@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Unison
 GenericName=File synchronization tool
@@ -9,7 +7,6 @@ Icon=_usr_share_pixmaps_unison-gtk
 TryExec=/usr/bin/unison-2.32.52-gtk
 Exec=unison-2.32.52-gtk
 X-MultipleArgs=false
-Terminal=false
 Categories=Utility;FileTools;GTK;
 StartupNotify=true
 StartupWMClass=Unison-gtk

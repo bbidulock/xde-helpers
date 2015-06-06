@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=KCC
 GenericName=Chinese Checkers game for KDE
@@ -10,7 +8,6 @@ Comment[de]=GGZ Halmaspiel
 Icon=kcc
 TryExec=/usr/lib/ggz/kcc
 Exec=/usr/lib/ggz/kcc
-Terminal=false
 Categories=Game;BoardGame;KDE;Qt;X-GGZ-Games;
 StartupNotify=false
 X-AppInstall-Package=kcc

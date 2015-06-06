@@ -1,6 +1,5 @@
 [Desktop Entry]
 Version=0.006
-Encoding=UTF-8
 Type=Application
 Name=Composite
 GenericName=Sequencer
@@ -8,7 +7,6 @@ Comment=Live performance sequencer, sampler, looper
 Icon=composite-icon
 TryExec=/usr/bin/composite-gui
 Exec=composite-gui %F
-Terminal=false
 Categories=AudioVideo;Audio;Qt;X-Sound;
 MimeType=text/xml;
 StartupNotify=true

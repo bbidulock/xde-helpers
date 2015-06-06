@@ -1,6 +1,5 @@
 [Desktop Entry]
 Version=0.2.0
-Encoding=UTF-8
 Type=Application
 Name=Quarry
 GenericName=Board Game GUI
@@ -8,7 +7,6 @@ Comment=A multi-purpose board game GUI for Go, Amazons and Reversi
 Icon=quarry.png
 TryExec=/usr/bin/quarry
 Exec=quarry
-Terminal=false
 Categories=Application;Game;BoardGame;GNOME;GTK;
 MimeType=application/x-go-sgf;text/sgf;text/x-sgf;
 StartupNotify=true

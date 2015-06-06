@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Hardware Lister
 Comment=Provides information on hardware
@@ -8,7 +6,6 @@ Comment[ca]=Proveeix informació sobre el maquinari
 Icon=lshw-gtk
 TryExec=/usr/bin/lshw-gtk
 Exec=lshw-gtk
-Terminal=false
 Categories=Settings;HardwareSettings;
 StartupNotify=false
 X-AppInstall-Package=lshw-gtk

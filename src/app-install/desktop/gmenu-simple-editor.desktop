@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Menu Editor
 Name[af]=Kieslysredigeerder
@@ -25,8 +23,6 @@ Name[dv]=މެނޫއެޑިޓްކުރާ
 Name[dz]=དཀར་ཆག་ཞུན་དགཔ།
 Name[el]=Επεξεργαστής μενού
 Name[en@shaw]=𐑥𐑧𐑯𐑿 𐑧𐑛𐑦𐑑𐑹
-Name[en_CA]=Menu Editor
-Name[en_GB]=Menu Editor
 Name[eo]=Menua redaktilo
 Name[es]=Editor del menú
 Name[et]=Menüüredaktor
@@ -103,7 +99,6 @@ Name[zh_TW]=選單編輯器
 Icon=gnome-main-menu
 TryExec=/usr/bin/gmenu-simple-editor
 Exec=gmenu-simple-editor
-Terminal=false
 NoDisplay=true
 Categories=Application;Other;
 StartupNotify=true

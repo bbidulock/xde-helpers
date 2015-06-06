@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Rxvt-Unicode Terminal
 Name[af]=X Terminaal
@@ -212,7 +210,6 @@ Comment[zu]=Ithuluzi langaphandle Langamanga Lethu Elinwetshiwe
 Icon=logos/Unicode
 TryExec=/usr/bin/urxvt
 Exec=urxvt
-Terminal=false
 Categories=TerminalEmulator;
 StartupNotify=false
 X-AppInstall-Package=rxvt-unicode

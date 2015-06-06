@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=pgAdmin III
 Comment=PostgreSQL Administration Tool
 Icon=pgadmin3
 TryExec=/usr/bin/pgadmin3
 Exec=pgadmin3
-Terminal=false
 Categories=Development;Database;
 StartupNotify=false
 X-AppInstall-Package=pgadmin3

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Kobo Deluxe
 Name[bg]=Кобо делукс
@@ -11,7 +9,6 @@ Comment[nl]=Schiet vijandelijke bases in de ruimte kapot
 Icon=kobo-icon
 TryExec=/usr/bin/kobodl
 Exec=kobodl
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=true
 X-AppInstall-Package=kobodeluxe

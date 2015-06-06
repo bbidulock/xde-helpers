@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Driftnet
 Comment=Picks out and displays images from network traffic
 Icon=driftnet
 TryExec=/usr/bin/driftnet
 Exec=driftnet
-Terminal=false
 Categories=Network;Monitor;
 StartupNotify=false
 X-AppInstall-Package=driftnet

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Keen
 Comment=Game based on KenKen
@@ -8,7 +6,6 @@ Comment[de]=Auf KenKen basierendes Puzzlespiel
 Icon=keen
 TryExec=/usr/bin/keen
 Exec=keen
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=sgt-puzzles

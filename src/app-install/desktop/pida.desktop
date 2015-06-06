@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=PIDA
 Comment=Python Integrated Development Application
@@ -8,7 +6,6 @@ Comment[de]=Integrierte Entwicklungsumgebung für Python
 Icon=pida-icon
 TryExec=/usr/bin/pida
 Exec=pida %F
-Terminal=false
 Categories=Development;IDE;GTK;
 MimeType=text/plain;
 StartupNotify=false

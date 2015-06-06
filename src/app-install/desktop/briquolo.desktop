@@ -1,9 +1,6 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Briquolo
-Name[fr]=Briquolo
 GenericName=BreakOut
 GenericName[fr]=Casse Briques
 Comment=An OpenGL breakout
@@ -11,7 +8,6 @@ Comment[fr]=Un casse brique OpenGL
 Icon=_usr_share_games_pixmaps_briquolo
 TryExec=/usr/bin/briquolo
 Exec=briquolo
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=briquolo

@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=jaaa
 Comment=Analyse or generate an Audio signal
 Icon=jaaa
 TryExec=/usr/bin/jaaa
 Exec=jaaa -A
-Terminal=false
 Categories=AudioVideo;Audio;
 StartupNotify=false
 X-AppInstall-Package=jaaa

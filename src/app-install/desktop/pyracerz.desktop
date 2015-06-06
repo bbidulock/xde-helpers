@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=pyRacerz
 GenericName=pyRacerz Game
@@ -8,7 +6,6 @@ Comment=2D racing game
 Icon=pyracerz
 TryExec=/usr/bin/pyracerz
 Exec=pyracerz
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=pyracerz

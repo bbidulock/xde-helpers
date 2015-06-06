@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=PHASEX
 Comment=Phase Harmonic Advanced Synthesis EXperiment
 Icon=phasex-icon
 TryExec=/usr/bin/phasex
 Exec=phasex
-Terminal=false
 Categories=AudioVideo;Audio;X-Digital_Processing;X-JACK;X-MIDI;X-Synthesis;
 StartupNotify=false
 X-Desktop-File-Install-Version=0.10

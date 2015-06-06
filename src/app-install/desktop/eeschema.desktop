@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Eeschema
 GenericName=Electronic schematic design
@@ -10,7 +8,6 @@ Comment[fr]=Dessiner des schémas électroniques
 Icon=eeschema
 TryExec=/usr/bin/eeschema
 Exec=eeschema
-Terminal=false
 Categories=Development;Electronics;GTK;
 MimeType=application/x-kicad-schematic;
 StartupNotify=false

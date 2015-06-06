@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Tux Typing
 GenericName=Educational typing game
@@ -15,7 +13,6 @@ Comment[tr]=Daktilo Öğretmeni
 Icon=tuxtype
 TryExec=/usr/bin/tuxtype
 Exec=tuxtype
-Terminal=false
 Categories=Education;
 StartupNotify=true
 X-AppInstall-Package=tuxtype

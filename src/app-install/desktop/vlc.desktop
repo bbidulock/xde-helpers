@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=VLC media player
 Name[bn]=VLC মিডিয়া প্লেয়ার
@@ -22,10 +20,8 @@ Name[pa]=VLC ਮੀਡਿਆ ਪਲੇਅਰ
 Name[pl]=VLC media player - odtwarzacz multimedialny
 Name[pt_BR]=Reprodutor de Mídias VLC
 Name[ru]=Медиаплеер VLC
-Name[sk]=VLC media player
 Name[sv]=Mediaspelaren VLC
 Name[wa]=Djouweu d' media VLC
-Name[zh_CN]=VLC media player
 Comment=Read, capture, broadcast your multimedia streams
 Comment[bn]=আপনার মাল্টিমিডিয়া স্ট্রীম পড়ুন, ধরে রাখুন এবং ছড়িয়ে দিন
 Comment[ca]=Reproduïu, captureu i difoneu fluxos multimèdia
@@ -53,7 +49,6 @@ Comment[zh_CN]=为您读取、捕获或发送多媒体流
 Icon=vlc
 TryExec=/usr/bin/vlc
 Exec=vlc %U
-Terminal=false
 Categories=AudioVideo;Player;
 MimeType=video/dv;video/mpeg;video/x-mpeg;video/msvideo;video/quicktime;video/x-anim;video/x-avi;video/x-ms-asf;video/x-ms-wmv;video/x-msvideo;video/x-nsv;video/x-flc;video/x-fli;application/ogg;application/x-ogg;application/x-matroska;audio/x-mp3;audio/x-mpeg;audio/mpeg;audio/x-wav;audio/x-mpegurl;audio/x-scpls;audio/x-m4a;audio/x-ms-asf;audio/x-ms-asx;audio/x-ms-wax;application/vnd.rn-realmedia;audio/x-real-audio;audio/x-pn-realaudio;application/x-flac;audio/x-flac;application/x-shockwave-flash;misc/ultravox;audio/vnd.rn-realaudio;audio/x-pn-aiff;audio/x-pn-au;audio/x-pn-wav;audio/x-pn-windows-acm;image/vnd.rn-realpix;video/vnd.rn-realvideo;audio/x-pn-realaudio-plugin;application/x-extension-mp4;audio/mp4;video/mp4;video/mp4v-es;x-content/video-vcd;x-content/video-svcd;x-content/video-dvd;x-content/audio-cdda;x-content/audio-player;video/x-flv;
 StartupNotify=false

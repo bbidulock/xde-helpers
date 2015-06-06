@@ -1,13 +1,11 @@
 [Desktop Entry]
 Version=0.94
-Encoding=UTF-8
 Type=Application
 Name=TalkSoup
 Comment=An IRC Client for GNUstep and Mac OS X
 Icon=TalkSoup.tiff
 TryExec=/usr/bin/TalkSoup
 Exec=TalkSoup
-Terminal=false
 Categories=Network;IRCClient;
 StartupNotify=false
 X-AppInstall-Package=talksoup.app

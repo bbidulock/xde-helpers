@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=tkcvs
 GenericName=CVS/Subversion Frontend
@@ -8,7 +6,6 @@ Comment=A graphical frontend to CVS and Subversion.
 Icon=tkcvs
 TryExec=/usr/bin/tkcvs
 Exec=tkcvs
-Terminal=false
 Categories=Development;RevisionControl;ProjectManagement;
 StartupNotify=false
 X-AppInstall-Package=tkcvs

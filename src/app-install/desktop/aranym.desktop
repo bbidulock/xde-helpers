@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=ARAnyM
 Comment=Virtual Machine for running Atari 32-bit operating systems and applications
 Icon=aranym
 TryExec=/usr/bin/aranym
 Exec=aranym
-Terminal=false
 Categories=System;Emulator;
 StartupNotify=false
 X-AppInstall-Package=aranym

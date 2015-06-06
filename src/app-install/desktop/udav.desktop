@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Udav
 GenericName=Universal Data Arrays Visualization
@@ -8,7 +6,6 @@ Comment=data visualization based on MathGL
 Icon=udav
 TryExec=/usr/bin/udav
 Exec=udav
-Terminal=false
 Categories=Education;Science;Math;
 StartupNotify=false
 X-AppInstall-Package=udav

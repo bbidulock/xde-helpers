@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=XPaint
 Name[af]=X Verf
@@ -71,7 +69,6 @@ Comment[zu]=Elila Iprogremu Kapende
 Icon=/usr/share/pixmaps/XPaintIcon.xpm
 TryExec=/usr/bin/xpaint
 Exec=xpaint
-Terminal=false
 Categories=Graphics;2DGraphics;
 StartupNotify=false
 StartupWMClass=xpaint

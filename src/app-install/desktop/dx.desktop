@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=OpenDX Data Explorer
 GenericName=Data Explorer
@@ -9,7 +7,6 @@ Comment[en_GB]=Visualise scientific, engineering and analytical data
 Icon=dxicon
 TryExec=/usr/bin/dx
 Exec=dx
-Terminal=false
 Categories=Application;Education;Science;
 StartupNotify=false
 DocPath=/opt/dx/java/htmlpages/toc.htm

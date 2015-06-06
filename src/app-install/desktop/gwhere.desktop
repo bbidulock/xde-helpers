@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Removable media catalog managment
 Name[ar]=Administración de catálogos de medios removibles
@@ -29,7 +27,6 @@ Comment[pt]=GWhere permite gerir uma base de dados dos seus CDs ou outros tipos 
 Icon=gwhere.xpm
 TryExec=/usr/bin/gwhere
 Exec=gwhere
-Terminal=false
 Categories=Application;Utility;
 StartupNotify=false
 X-AppInstall-Package=gwhere

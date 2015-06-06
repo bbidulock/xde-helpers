@@ -1,15 +1,11 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Qemulator
-Name[de]=Qemulator
 Comment=Qemu Virtual Engines manager
 Comment[de]=Qemu engines manager
 Icon=qemulator.svg
 TryExec=/usr/bin/qemulator
 Exec=qemulator
-Terminal=false
 Categories=Application;Utility;Emulator;
 StartupNotify=true
 X-AppInstall-Package=qemulator

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=KDiff3
 Name[hi]=के-डिफ3
@@ -61,7 +59,6 @@ Comment[zh_TW]=一個檔案與目錄比較與合併的工具
 Icon=kdiff3
 TryExec=/usr/bin/kdiff3
 Exec=kdiff3 %i %m -caption "%c"
-Terminal=false
 Categories=Development;KDE;Qt;
 StartupNotify=false
 DocPath=kdiff3/index.html

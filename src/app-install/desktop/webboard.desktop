@@ -1,15 +1,11 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=WebBoard
-Name[de]=WebBoard
 Comment=Publish text notes and source code on a pastebin server for collaborative debugging
 Comment[de]=Veröffentlichen Sie Textnachrichten und Quellcode auf einem »pastebin« Server zur gemeinschaftlichen Fehlersuche
 Icon=gtk-paste
 TryExec=/usr/bin/webboard
 Exec=webboard
-Terminal=false
 NotShowIn=KDE;
 Categories=Application;Utility;GNOME;GTK;
 StartupNotify=true

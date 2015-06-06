@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Keyboard
 Name[ast]=Tecláu
@@ -68,7 +66,6 @@ Comment[zh_CN]=编辑键盘设置和应用程序快捷键
 Icon=preferences-desktop-keyboard
 TryExec=/usr/bin/xfce4-keyboard-settings
 Exec=xfce4-keyboard-settings
-Terminal=false
 OnlyShowIn=XFCE;
 Categories=Settings;DesktopSettings;X-XFCE;X-XfceSettingsDialog;
 StartupNotify=true

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gmsh Mesh Generator
 GenericName=Gmsh
@@ -8,7 +6,6 @@ Comment=3-D finite element mesh generator
 Icon=gmsh16x16-smooth
 TryExec=/usr/bin/gmsh
 Exec=gmsh
-Terminal=false
 Categories=Education;Science;Math;
 StartupNotify=false
 X-AppInstall-Package=gmsh

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Arista Transcoder
 GenericName=Multimedia Converter
@@ -8,7 +6,6 @@ Comment=Convert multimedia for all your devices
 Icon=_usr_share_arista_ui_icon
 TryExec=/usr/bin/arista-gtk
 Exec=arista-gtk
-Terminal=false
 Categories=AudioVideo;GNOME;GTK;
 StartupNotify=true
 X-AppInstall-Package=arista

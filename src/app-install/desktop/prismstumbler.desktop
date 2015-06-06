@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Prismstumbler
 Comment=Prismstumbler wireless lan scanner
 Icon=prism-icon4.png
 TryExec=/usr/bin/pst
 Exec=/usr/bin/pst
-Terminal=false
 Categories=Application;GPE;Other;
 StartupNotify=False
 SingleInstance=True

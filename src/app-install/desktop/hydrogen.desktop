@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Hydrogen Drum Machine
 Name[de]=Hydrogen Drumsequencer
@@ -17,7 +15,6 @@ Comment[tr]=Davul partisyonu yaz
 Icon=h2-icon
 TryExec=/usr/bin/hydrogen
 Exec=hydrogen %F
-Terminal=false
 Categories=AudioVideo;Audio;Qt;X-Sound;
 MimeType=text/xml;
 StartupNotify=true

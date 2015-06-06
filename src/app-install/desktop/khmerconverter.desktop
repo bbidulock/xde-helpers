@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Khmer Converter
 Name[km]=កម្មវិធី​បម្លែង​ពុម្ព​អក្សរ​ខ្មែរ
@@ -8,7 +6,6 @@ Comment=Convert Khmer between Unicode and legacy Khmer encodings.
 Icon=khmerconverter.png
 TryExec=/usr/bin/khmerconverter
 Exec=khmerconverter
-Terminal=false
 Categories=Utility;Translation;
 StartupNotify=false
 X-AppInstall-Package=khmerconverter

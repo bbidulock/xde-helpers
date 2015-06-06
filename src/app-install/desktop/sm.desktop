@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Screen-Message
 Comment=Displays a short text fullscreen
 Icon=sm
 TryExec=/usr/games/sm
 Exec=/usr/games/sm
-Terminal=false
 Categories=Application;Utility;GTK;
 StartupNotify=false
 X-AppInstall-Package=sm

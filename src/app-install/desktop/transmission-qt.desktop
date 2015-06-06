@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Transmission BitTorrent Client (Qt)
 GenericName=BitTorrent Client (Qt)
@@ -8,7 +6,6 @@ Comment=Download and share files over BitTorrent
 Icon=transmission
 TryExec=/usr/bin/qtr
 Exec=qtr %F
-Terminal=false
 Categories=Network;FileTransfer;P2P;Qt;
 MimeType=application/x-bittorrent;
 StartupNotify=false

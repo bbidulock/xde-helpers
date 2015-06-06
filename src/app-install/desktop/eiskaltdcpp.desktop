@@ -1,22 +1,17 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=EiskaltDC++
 GenericName=DC++ client
 GenericName[be]=Кліент сеткі DC++
 GenericName[be_BY]=Кліент сеткі DC++
-GenericName[en]=DC++ client
 GenericName[ru]=Клиент сетей DC++
 GenericName[ru_RU]=Клиент сетей DC++
 Comment=Share files over the DC++ network
 Comment[be]=Паздяляйцеся файламі праз сетку DC++
-Comment[en]=Share files over the DC++ network
 Comment[ru]=Делитесь файлами с помощью сетей DC++
 Icon=eiskaltdcpp
 TryExec=/usr/bin/eiskaltdcpp
 Exec=eiskaltdcpp
-Terminal=false
 Categories=Network;FileTransfer;P2P;Qt;
 StartupNotify=false
 X-AppInstall-Package=None

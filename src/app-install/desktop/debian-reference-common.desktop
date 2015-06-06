@@ -1,17 +1,12 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Debian Reference
 Name[de_DE]=Debian-Referenz
-Name[en_CA]=Debian Reference
-Name[en_GB]=Debian Reference
 Name[es_ES]=Guía de referencia Debian
 Name[fi_FI]=Debian-referenssi
 Name[fr_FR]=Guide de référence pour Debian
 Name[it_IT]=La guida Debian
 Name[ja_JP]=Debian リファレンス
-Name[pl_PL]=Debian Reference
 Name[pt_BR]=Referência Debian
 Name[ru_RU]=Справочник по Debian
 Name[zh_CN]=Debian 参考手册
@@ -20,7 +15,6 @@ Comment=Debian Reference Guide
 Icon=debian-reference.png
 TryExec=/usr/bin/debian-reference
 Exec=debian-reference
-Terminal=false
 Categories=Utility;
 StartupNotify=false
 X-AppInstall-Package=debian-reference

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Spring
 Comment=An open source RTS with similar gameplay to TA
@@ -9,7 +7,6 @@ Comment[it]=Un gioco di strategia in tempo reale multi giocatore simile a TA
 Icon=spring
 TryExec=/usr/bin/spring
 Exec=spring %f
-Terminal=false
 Categories=Game;StrategyGame;
 MimeType=application/x-spring-demo;
 StartupNotify=false

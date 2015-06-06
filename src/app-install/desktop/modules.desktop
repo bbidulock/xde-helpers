@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GWCommand
 GenericName=WinCommand
@@ -9,7 +7,6 @@ Icon=normal/RemoteControl
 TryExec=/usr/bin/GWCommand
 Exec=GWCommand
 MultipleArgs=false
-Terminal=false
 Categories=Modules;
 StartupNotify=false
 X-AppInstall-Package=afterstep-git

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=evilvte
 Comment=Terminal Emulator
@@ -11,7 +9,6 @@ Comment[cs]=Emulátor terminálu
 Comment[de]=Terminal-Programm
 Comment[dz]=ཊར་མི་ནཱལ་ནུས་འཕྲུལ།
 Comment[el]=Προσομοίωση τερματικού
-Comment[en_GB]=Terminal Emulator
 Comment[eo]=Terminala Simulilo
 Comment[es]=Emulador de Terminal para las X
 Comment[eu]=Terminal Emuladorea
@@ -41,7 +38,6 @@ Comment[zh_TW]=終端機程式
 Icon=evilvte
 TryExec=/usr/bin/evilvte
 Exec=evilvte
-Terminal=false
 Categories=Utility;TerminalEmulator;
 StartupNotify=false
 X-AppInstall-Package=evilvte

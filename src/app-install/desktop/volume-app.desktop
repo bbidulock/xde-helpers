@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Volume Dock App
 GenericName=Volume Control
@@ -8,7 +6,6 @@ Comment=Provide a volume control for the dock
 Icon=GNUstep3D
 TryExec=/usr/bin/volume.app
 Exec=volume.app
-Terminal=false
 OnlyShowIn=BLACKBOX;WMAKER;
 Categories=DockApp;WMAKER;
 StartupNotify=false

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Model Builder
 GenericName=Graphical ODE simulator
@@ -8,7 +6,6 @@ Comment=Graphical ODE simulator
 Icon=_usr_share_pixmaps_MB
 TryExec=/usr/bin/PyMB
 Exec=PyMB
-Terminal=false
 Categories=Education;Science;Math;Engineering;
 StartupNotify=false
 X-AppInstall-Package=model-builder

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=rRootage
 GenericName=rrootage
@@ -8,7 +6,6 @@ Comment=Destroy autocreated battleships
 Icon=rrootage.xpm
 TryExec=/usr/bin/rrootage
 Exec=rrootage
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=rrootage

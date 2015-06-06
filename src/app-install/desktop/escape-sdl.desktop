@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Escape/SDL
 GenericName=Board game
@@ -9,7 +7,6 @@ Comment=GGZ game
 Comment[de]=GGZ-Spiel
 TryExec=/usr/games/escape-sdl
 Exec=/usr/games/escape-sdl
-Terminal=false
 Categories=Game;BoardGame;X-GGZ-Games;
 StartupNotify=false
 X-AppInstall-Package=ggz-python-games

@@ -1,15 +1,11 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=PlopFolio
-Name[bg]=PlopFolio
 Comment=Personal dashboard for GNUstep
 Comment[bg]=Преглед на емисии новини и събития
 Icon=/usr/lib/GNUstep/Applications/PlopFolio.app/Resources/PlopFolio.tiff
 TryExec=/usr/bin/PlopFolio
 Exec=PlopFolio
-Terminal=false
 Categories=Network;News;
 StartupNotify=false
 X-AppInstall-Package=plopfolio.app

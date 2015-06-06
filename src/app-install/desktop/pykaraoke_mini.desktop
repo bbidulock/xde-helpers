@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=PyKaraoke Mini
 GenericName=Karaoke player
@@ -8,7 +6,6 @@ Comment=Minimum-interface PyKaraoke
 Icon=_usr_share_pykaraoke_icons_pykaraoke
 TryExec=/usr/bin/pykaraoke_mini
 Exec=pykaraoke_mini
-Terminal=false
 Categories=AudioVideo;Player;
 MimeType=audio/x-karaoke;audio/x-midi;audio/midi;
 StartupNotify=false

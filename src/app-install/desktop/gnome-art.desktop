@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Art Manager
 Comment=Install themes from art.gnome.org website
 Icon=gnome-graphics
 TryExec=/usr/bin/gnome-art
 Exec=gnome-art
-Terminal=false
 OnlyShowIn=GNOME;
 Categories=Application;Settings;GNOME;
 StartupNotify=true

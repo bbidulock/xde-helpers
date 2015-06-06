@@ -1,13 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GNU Privacy Assistant
-Name[en_US.ISO8859-1]=GNU Privacy Assistant
 Icon=gpa.png
 TryExec=/usr/bin/gpa
 Exec=gpa
-Terminal=false
 Categories=Application;Utility;Security;GTK;
 StartupNotify=false
 X-AppInstall-Package=gpa

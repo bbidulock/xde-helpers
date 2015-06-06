@@ -1,9 +1,6 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=FreeCAD
-Name[de]=FreeCAD
 GenericName=CAD Application
 GenericName[de]=CAD-Anwendung
 GenericName[de_DE]=Feature-basierter parametrischer Modellierer
@@ -13,7 +10,6 @@ Comment[de_DE]=Feature-basierter parametrischer Modellierer
 Icon=_usr_share_freecad_freecad
 TryExec=/usr/bin/freecad
 Exec=/usr/bin/freecad %F
-Terminal=false
 Categories=Graphics;Science;Engineering;
 MimeType=application/x-extension-fcstd;
 Path=/usr/lib/freecad

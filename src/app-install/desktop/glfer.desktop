@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=glfer
 Comment=slow CW (QRSS) / dual-frequency CW (DFCW)
 TryExec=/usr/bin/glfer
 Exec=glfer
-Terminal=false
 Categories=Utility;HamRadio;
 StartupNotify=false
 X-AppInstall-Package=glfer

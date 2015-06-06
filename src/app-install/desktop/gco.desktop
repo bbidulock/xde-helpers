@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GNOME Comics Organizer
 Comment=A GNOME interface for for managing your comic book collection
 Icon=gco-gco.png
 TryExec=/usr/bin/gco
 Exec=gco
-Terminal=false
 Categories=Application;Utility;GNOME;X-Red-Hat-Base;
 StartupNotify=true
 X-AppInstall-Package=gco

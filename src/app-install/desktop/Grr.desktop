@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Grr Feed Reader
 Name[bg]=Четец на емисии по RSS (Grr)
@@ -9,7 +7,6 @@ Comment[bg]=Четец на емисии по RSS за GNUstep
 Icon=_usr_share_GNUstep_Grr.app_rssreader
 TryExec=/usr/bin/Grr
 Exec=Grr
-Terminal=false
 Categories=Network;News;
 StartupNotify=false
 X-AppInstall-Package=grr.app

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Leafpad
 Comment=Simple text editor
@@ -45,7 +43,6 @@ Comment[zh_TW]=簡易文字編輯器
 Icon=leafpad
 TryExec=/usr/bin/leafpad
 Exec=leafpad %f
-Terminal=false
 Categories=Utility;TextEditor;GTK;
 MimeType=text/plain;
 StartupNotify=false

@@ -1,9 +1,6 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Comix
-Name[it]=Comix
 GenericName=Comic Book Viewer
 GenericName[fr]=Visionneur de bandes dessinées
 GenericName[sv]=Serieboksläsare
@@ -16,7 +13,6 @@ Comment[sv]=En serieboksläsare
 Icon=comix
 TryExec=/usr/bin/comix
 Exec=comix %f
-Terminal=false
 Categories=Application;Graphics;Viewer;
 MimeType=application/x-cbz;application/x-cbr;application/x-cbt;image/jpeg;image/png;image/gif;image/tiff;image/bmp;image/x-icon;image/x-xpixmap;image/x-xbitmap;application/x-zip;application/zip;application/x-rar;application/x-tar;application/x-gzip;application/x-bzip2;image/svg+xml;image/svg;image/svg-xml;image/vnd.adobe.svg+xml;text/xml-svg;image/x-portable-anymap;image/x-portable-bitmap;image/x-portable-graymap;image/x-portable-pixmap;image/x-pcx;image/x-cmu-raster;image/x-sun-raster;image/x-tga;
 StartupNotify=true

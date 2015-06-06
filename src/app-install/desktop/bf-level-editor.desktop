@@ -1,15 +1,11 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Bear Factory — Level Editor
 Comment=Level editor for the Bear Engine
-Comment[en]=Level editor for the Bear Engine
 Comment[fr]=Éditeur de niveau pour le moteur « Bear »
 Icon=bear-factory
 TryExec=/usr/bin/bf-level-editor
 Exec=bf-level-editor
-Terminal=false
 Categories=Utility;
 StartupNotify=true
 X-AppInstall-Package=bear-factory

@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Forum
 Comment=Archlinux Forum
 Icon=arch-logo
 TryExec=/usr/bin/xdg-open
 Exec=xdg-open https://bbs.archlinux.org
-Terminal=false
 Categories=Archlinux;
 StartupNotify=true
 X-AppInstall-Package=xdg-utils

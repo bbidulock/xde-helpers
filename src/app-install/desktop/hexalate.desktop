@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Hexalate
 Icon=hexalate
 TryExec=/usr/bin/hexalate
 Exec=hexalate
-Terminal=false
 Categories=Game;Qt;
 StartupNotify=false
 X-AppInstall-Package=hexalate

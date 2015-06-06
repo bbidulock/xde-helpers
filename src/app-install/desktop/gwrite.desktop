@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GWrite
 Name[zh_CN]=写字板
@@ -9,7 +7,6 @@ Comment[zh_CN]=HTML 写字板
 Icon=gwrite
 TryExec=/usr/bin/gwrite
 Exec=gwrite %f
-Terminal=false
 Categories=Utility;TextEditor;GTK;
 MimeType=text/html;
 StartupNotify=false

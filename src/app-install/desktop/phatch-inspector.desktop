@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Phatch Image Inspector
 GenericName=Image Inspector
@@ -8,7 +6,6 @@ Comment=Easily inspect EXIF and IPTC metadata
 Icon=phatch-inspector
 TryExec=/usr/bin/phatch
 Exec=phatch -n %U
-Terminal=false
 Categories=Graphics;Photography;GTK;
 MimeType=application/x-phatch;image/bmp;image/gif;image/jpeg;image/jpg;image/png;image/tiff;image/x-bmp;image/x-pcx;image/x-png;image/x-portable-bitmap;image/x-portable-graymap;image/x-portable-pixmap;image/x-psd;image/x-sun-raster;image/x-tga;image/x-xbitmap;image/x-xpixmap;application/pcx;
 StartupNotify=true

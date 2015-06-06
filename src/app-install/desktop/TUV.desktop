@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=The Upstream Vendor 6.0: Release Notes
 Comment=Release Notes for The Upstream Vendor 6.0 Release
 Icon=release-notes
 TryExec=/usr/bin/xdg-open
 Exec=xdg-open /usr/share/doc/sl-release-notes-6.0/tuv.index.html
-Terminal=false
 Categories=Documentation;X-Red-Hat-Base;
 StartupNotify=false
 X-Desktop-File-Install-Version=0.15

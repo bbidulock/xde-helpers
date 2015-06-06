@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Qt3 Configuration
 Name[de]=Qt3 Konfiguration
@@ -9,7 +7,6 @@ Comment[de]=Ein grafisches Konfigurationstool für Qt3-Programme
 Icon=qtconfig
 TryExec=/usr/bin/qtconfig-qt3
 Exec=qtconfig-qt3
-Terminal=false
 Categories=Settings;Qt;
 MimeType=application/x-qtconfig;
 StartupNotify=false

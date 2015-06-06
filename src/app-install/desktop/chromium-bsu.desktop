@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Chromium B.S.U.
 GenericName=Shoot'em up space shooter
@@ -11,7 +9,6 @@ Comment[sv]=Vertikalrullande skjutspel i rymdmiljö (Shoot'em up)
 Icon=chromium-bsu
 TryExec=/usr/bin/chromium-bsu
 Exec=chromium-bsu
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=chromium-bsu

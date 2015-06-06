@@ -1,15 +1,12 @@
 [Desktop Entry]
 Version=0.9.97
-Encoding=UTF-8
 Type=Application
 Name=gPHPEdit
 GenericName=PHP/HTML/CSS editor
-GenericName[en_IN]=PHP/HTML/CSS editor
 Comment=Edit PHP source files
 Icon=gphpedit.png
 TryExec=/usr/bin/gphpedit
 Exec=gphpedit
-Terminal=false
 Categories=Development;IDE;
 StartupNotify=false
 X-AppInstall-Package=gphpedit

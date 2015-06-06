@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Glurp
 Comment=A Client for the MPD daemon
@@ -9,7 +7,6 @@ Comment[fr]=Un Client pour le démon MPD
 Icon=glurp.svg
 TryExec=/usr/bin/glurp
 Exec=glurp
-Terminal=false
 Categories=Application;AudioVideo;GNOME;
 StartupNotify=true
 X-AppInstall-Package=glurp

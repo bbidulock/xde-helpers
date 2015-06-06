@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=xplanetFX
 GenericName=xplanetFX
@@ -8,7 +6,6 @@ Comment=xplanetFX - renderings of planet earth as desktop wallpaper
 Icon=/usr/share/pixmaps/xplanetFX.svg
 TryExec=/usr/bin/xplanetFX
 Exec=xplanetFX --gui
-Terminal=false
 Categories=Application;Utility;
 StartupNotify=false
 X-AppInstall-Package=xplanetfx

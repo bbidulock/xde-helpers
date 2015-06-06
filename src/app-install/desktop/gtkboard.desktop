@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gtkboard Board Games
 GenericName=Board Games
@@ -8,7 +6,6 @@ Comment=Play various and sundry board games
 Icon=gtkboard
 TryExec=/usr/bin/gtkboard
 Exec=gtkboard
-Terminal=false
 Categories=Application;Game;BoardGame;LogicGame;GNOME;GTK;
 StartupNotify=true
 X-AppInstall-Package=gtkboard

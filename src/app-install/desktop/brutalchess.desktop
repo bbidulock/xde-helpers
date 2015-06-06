@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Brutal Chess
 Comment=Play 3d chess with reflection of the chessmen
 Icon=brutalchess
 TryExec=/usr/bin/brutalchess
 Exec=brutalchess
-Terminal=false
 Categories=Game;BoardGame;
 StartupNotify=false
 X-AppInstall-Package=brutalchess

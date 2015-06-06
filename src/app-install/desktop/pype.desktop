@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=PyPE
 Comment=Python Programmers Editor
 Icon=pype
 TryExec=/usr/bin/pype
 Exec=pype
-Terminal=false
 Categories=Development;GNOME;GTK;
 MimeType=application/x-python;
 StartupNotify=true

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Flush
 GenericName=BitTorrent client
@@ -10,7 +8,6 @@ Comment[ru]=Скачивание файлов по BitTorrent протоколу
 Icon=flush
 TryExec=/usr/bin/flush
 Exec=flush %F
-Terminal=false
 Categories=Network;FileTransfer;P2P;GTK;
 MimeType=application/x-bittorrent;
 StartupNotify=false

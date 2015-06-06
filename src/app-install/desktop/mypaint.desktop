@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=MyPaint
 GenericName=Image Editor
@@ -8,7 +6,6 @@ Comment=Paint images from scratch
 Icon=mypaint
 TryExec=/usr/bin/mypaint
 Exec=mypaint %f
-Terminal=false
 Categories=Graphics;
 MimeType=image/openraster;image/png;image/jpeg;
 StartupNotify=false

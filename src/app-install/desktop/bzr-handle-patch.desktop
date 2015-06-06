@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Bazaar
 Comment=Apply Bazaar Bundle
 Icon=bzr-icon-64
 TryExec=/usr/bin/bzr-handle-patch
 Exec=bzr-handle-patch %f
-Terminal=false
 Categories=Application;Development;RevisionControl;
 MimeType=text/x-diff;text/x-patch;application/x-bazaar-merge-directive;
 StartupNotify=false

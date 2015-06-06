@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Amora Daemon
 GenericName=Bluetooth remote control
@@ -11,7 +9,6 @@ Icon=amora
 TryExec=/usr/bin/amorad-gui
 Exec=amorad-gui
 X-MultipleArgs=false
-Terminal=false
 Categories=Office;Utility;Presentation;RemoteAccess;
 StartupNotify=true
 StartupWMClass=amorad

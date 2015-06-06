@@ -1,18 +1,12 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Braid
 Name[af]=Weef
 Name[ca]=Trena
 Name[cs]=Šňůra
 Name[cy]=Plethu
-Name[da]=Braid
-Name[de]=Braid
-Name[el]=Braid
 Name[es]=Trenza
 Name[et]=Põimik
-Name[fi]=Braid
 Name[fr]=Tresse
 Name[gl]=Trenza
 Name[gu]=Trenza
@@ -58,7 +52,6 @@ Comment[pt_BR]=Desenha cores aleatórias circulando e formando círculos concên
 Comment[uk]=Відображає взаємнопереплетені концентричні кругові форми змінного вздовж довжини кольору. Автор — John Neil; 1997.
 TryExec=/usr/bin/braid
 Exec=braid -root
-Terminal=false
 OnlyShowIn=GNOME;
 Categories=Screensaver;
 StartupNotify=false

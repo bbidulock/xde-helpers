@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=emma
 GenericName=emma - MySQL managing assistant
@@ -8,7 +6,6 @@ Comment=MySQL managing assistant
 Icon=_usr_share_emma_icons_emma
 TryExec=/usr/bin/Emma
 Exec=Emma
-Terminal=false
 Categories=Development;Database;GNOME;GTK;
 StartupNotify=true
 X-AppInstall-Package=emma

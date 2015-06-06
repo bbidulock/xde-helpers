@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Creox c
 GenericName=DFX
@@ -8,7 +6,6 @@ Comment=Real-time guitar effects
 Icon=_usr_share_pixmaps_creox
 TryExec=/usr/bin/creox
 Exec=creox
-Terminal=false
 Categories=AudioVideo;Audio;
 StartupNotify=false
 X-AppInstall-Package=creox

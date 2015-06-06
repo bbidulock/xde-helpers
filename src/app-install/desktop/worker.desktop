@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Worker
 GenericName=File Manager
@@ -10,7 +8,6 @@ Comment[de]=Dateimanager für X, ähnlich wie Amigas DirOpus.
 Icon=WorkerIcon48
 TryExec=/usr/bin/worker
 Exec=worker
-Terminal=false
 Categories=Utility;FileTools;FileManager;
 StartupNotify=false
 X-AppInstall-Package=worker

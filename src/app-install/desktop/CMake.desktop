@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=CMake
 Comment=Cross-platform buildsystem
@@ -8,7 +6,6 @@ Icon=CMakeSetup
 TryExec=/usr/bin/cmake-gui
 Exec=cmake-gui %f
 X-MultipleArgs=false
-Terminal=false
 Categories=Development;
 MimeType=application/x-cmakecache;
 StartupNotify=true

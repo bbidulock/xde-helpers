@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=KBall
 GenericName=kball
@@ -8,7 +6,6 @@ Comment=Find the exit
 Icon=kball
 TryExec=/usr/bin/kball
 Exec=kball
-Terminal=false
 Categories=Game;ActionGame;
 StartupNotify=false
 X-AppInstall-Package=kball

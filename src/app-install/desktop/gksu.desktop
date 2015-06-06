@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Root Terminal
 Name[ar]=طرفيّة الجذر
@@ -47,7 +45,6 @@ Icon=gksu-root-terminal
 TryExec=/usr/bin/gksu
 Exec=gksu -l uxterm
 X-MultipleArgs=false
-Terminal=false
 Categories=Utility;TerminalEmulator;GTK;
 StartupNotify=true
 X-Desktop-File-Install-Version=0.18

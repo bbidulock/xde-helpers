@@ -1,9 +1,6 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Texmaker
-Name[fr]=Texmaker
 GenericName=LaTeX Editor
 GenericName[fr]=Editeur LaTeX
 Comment=LaTeX development environment
@@ -11,7 +8,6 @@ Comment[fr]=Environnement de développement LaTeX
 Icon=texmaker
 TryExec=/usr/bin/texmaker
 Exec=texmaker
-Terminal=false
 Categories=Office;Publishing;Qt;X-Mandriva-Office-Publishing;X-Misc;X-SuSE-Core-Office;
 MimeType=text/x-tex;
 StartupNotify=false

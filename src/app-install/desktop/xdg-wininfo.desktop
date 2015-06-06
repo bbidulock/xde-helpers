@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=X Window Information
 GenericName=X Debugging Tool
 Comment=A window information utility for X
 TryExec=/usr/bin/wininfo
 Exec=wininfo
-Terminal=false
 Categories=Application;Development;
 StartupNotify=false
 X-AppInstall-Package=wininfo

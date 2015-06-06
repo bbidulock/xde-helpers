@@ -1,11 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Penguin Thornq
 TryExec=/usr/games/ace-thornq
 Exec=/usr/games/ace-thornq
-Terminal=false
 Categories=Game;CardGame;
 StartupNotify=false
 X-AppInstall-Package=ace-of-penguins

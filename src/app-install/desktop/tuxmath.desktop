@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Tux Math
 GenericName=Educational math game
@@ -15,7 +13,6 @@ Comment[ru]=Обучение арифметике с пингвином в гл�
 Icon=tuxmath
 TryExec=/usr/bin/tuxmath
 Exec=tuxmath
-Terminal=false
 Categories=Education;Math;
 StartupNotify=false
 X-AppInstall-Package=tuxmath

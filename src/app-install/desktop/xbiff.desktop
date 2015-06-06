@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Xbiff
 Comment=Xbiff: mailbox flag for X
 TryExec=/usr/bin/xbiff
 Exec=xbiff
-Terminal=false
 Categories=Network;Email;
 StartupNotify=false
 X-AppInstall-Package=xorg-xbiff

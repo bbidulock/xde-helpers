@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Amphetamine
 GenericName=Jump and Run game
@@ -8,7 +6,6 @@ Comment=Fight evil monsters with your magic weapons.
 Icon=amph
 TryExec=/usr/bin/amph
 Exec=amph
-Terminal=false
 Categories=Game;ActionGame;
 StartupNotify=false
 X-AppInstall-Package=amphetamine

@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=DJPlay
 Comment=High class live DJing application
 Icon=_usr_share_djplay_djplay-icon
 TryExec=/usr/bin/djplay-launcher
 Exec=djplay-launcher
-Terminal=false
 Categories=AudioVideo;Audio;
 StartupNotify=true
 X-AppInstall-Package=djplay

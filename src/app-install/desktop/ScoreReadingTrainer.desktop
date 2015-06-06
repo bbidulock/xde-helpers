@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Score Reading Trainer
 Name[es]=Entrenador de Lectura de Partituras
@@ -9,7 +7,6 @@ Comment[es]=Mejor\xE1 tu habilidad para leer partituras.
 Icon=ScoreReadingTrainer
 TryExec=/usr/bin/score-reading-trainer
 Exec=score-reading-trainer %i %m -caption "%c"
-Terminal=false
 Categories=Application;AudioVideo;Audio;Education;
 StartupNotify=false
 DocPath=ScoreReadingTrainer/ScoreReadingTrainer.html

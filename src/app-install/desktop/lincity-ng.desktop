@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Lincity-NG
 GenericName=City Simulation Game
@@ -9,7 +7,6 @@ Comment=Plan and Build a city and take care of transport, economics, electricity
 Icon=lincity-ng.png
 TryExec=/usr/bin/lincity-ng
 Exec=lincity-ng
-Terminal=false
 Categories=Game;Simulation;
 StartupNotify=false
 X-AppInstall-Package=lincity-ng

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=FreeMind
 GenericName=FreeMind
@@ -8,7 +6,6 @@ Comment=A free mind mapping tool
 Icon=FreeMindWindowIcon
 TryExec=/usr/bin/freemind
 Exec=/usr/bin/freemind
-Terminal=false
 Categories=Office;
 MimeType=application/x-freemind;
 StartupNotify=false

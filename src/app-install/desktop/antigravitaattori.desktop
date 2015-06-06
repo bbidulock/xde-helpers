@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Antigravitaattori
 Comment=Multiplayer flying saucer racing game
 TryExec=/usr/bin/antigrav
 Exec=antigrav
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=antigravitaattori

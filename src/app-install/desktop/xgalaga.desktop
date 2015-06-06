@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=XGalaga
 Comment=An open source remake of the classic arcade game Galaga
 Icon=xgalaga
 TryExec=/usr/bin/xgalaga
 Exec=xgalaga
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=xgalaga
@@ -24,10 +21,10 @@ Actions=Original;Hyperspace;
 
 [Desktop Action Original]
 Name=Original
+Comment=The original arcade version
 Icon=xgalaga
 TryExec=/usr/bin//usr/bin/xgalaga
 Exec=xgalaga
-Comment=The original arcade version
 
 [Dekstop Action Hyperspace]
 Name=Hyperspace

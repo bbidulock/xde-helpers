@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=EasyChem Chemical Structures Editor
 Name[de]=EasyChem Strukturformeleditor
@@ -9,7 +7,6 @@ Comment[de]=Strukturformeln mit hoher Qualtät erstellen
 Icon=easychem
 TryExec=/usr/bin/easychem
 Exec=easychem
-Terminal=false
 Categories=Education;Science;Chemistry;GTK;
 StartupNotify=false
 X-AppInstall-Package=easychem

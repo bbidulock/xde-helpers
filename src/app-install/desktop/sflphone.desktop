@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=SFLphone
 GenericName=VoIP Client
@@ -9,7 +7,6 @@ Comment=Call and receive calls with SIP or IAX protocols
 Icon=sflphone.svg
 TryExec=/usr/bin/sflphone-client-gnome
 Exec=sflphone-client-gnome
-Terminal=false
 Categories=Network;Telephony;
 StartupNotify=true
 X-AppInstall-Package=sflphone

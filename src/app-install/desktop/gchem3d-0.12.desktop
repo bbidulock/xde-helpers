@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Molecules Viewer
 Name[de]=Molekülbetrachter
@@ -17,7 +15,6 @@ Comment[zh_TW]=顯示化學 3D 結構
 Icon=gchem3d
 TryExec=/usr/bin/gchem3d-0.12
 Exec=gchem3d-0.12 %u
-Terminal=false
 Categories=Education;Science;Chemistry;GNOME;GTK;
 MimeType=chemical/x-xyz;chemical/x-mdl-molfile;chemical/x-pdb;chemical/x-cml;
 StartupNotify=false

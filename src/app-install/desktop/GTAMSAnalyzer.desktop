@@ -1,15 +1,11 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GTAMSAnalyzer
-Name[bg]=GTAMSAnalyzer
 Comment=Qualitative Research Software for GNUstep
 Comment[bg]=Софтуер за изследване на текст за GNUstep
 Icon=/usr/lib/GNUstep/Applications/GTAMSAnalyzer.app/Resources/largeApp.tif
 TryExec=/usr/bin/GTAMSAnalyzer
 Exec=GTAMSAnalyzer
-Terminal=false
 Categories=Utility;TextTools;
 StartupNotify=false
 X-AppInstall-Package=gtamsanalyzer.app

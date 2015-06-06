@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Transmageddon Video Transcoder
 Name[ca]=Transcodificador de vídeo Transmageddon
@@ -37,7 +35,6 @@ Comment[zh_CN]=视频格式转换工具
 Icon=transmageddon
 TryExec=/usr/bin/transmageddon
 Exec=transmageddon
-Terminal=false
 Categories=AudioVideo;GNOME;GTK;X-Red-Hat-Base;X-Ximian-Main;
 StartupNotify=true
 X-GNOME-Bugzilla-Bugzilla=GNOME

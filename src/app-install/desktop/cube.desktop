@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Cube
 Comment=Get all six blue squares on to the six faces of the cube at the same time
@@ -9,7 +7,6 @@ Comment[fr]=Essayer d'obtenir simultanément six carrés bleus sur les six faces
 Icon=cube
 TryExec=/usr/bin/cube
 Exec=cube
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=cube

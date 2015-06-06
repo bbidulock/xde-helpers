@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=SpaceFM File Search
 Name[cs]=Hledání souborů SpaceFM
@@ -38,7 +36,6 @@ Comment[zh_CN]=搜索文件和目录
 Icon=spacefm-find
 TryExec=/usr/bin/spacefm
 Exec=spacefm --find-files %F
-Terminal=false
 Categories=Utility;GTK;
 MimeType=inode/directory;
 StartupNotify=true

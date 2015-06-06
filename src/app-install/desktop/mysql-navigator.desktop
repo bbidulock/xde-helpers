@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=MySQL Navigator
 Comment=GUI client for MySQL
 Icon=mysql-navigator.xpm
 TryExec=/usr/bin/mysql-navigator
 Exec=mysql-navigator
-Terminal=false
 Categories=Utility;Database;
 StartupNotify=false
 X-AppInstall-Package=mysql-navigator

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Fantasdic dictionary
 GenericName=Dictionary application
@@ -8,7 +6,6 @@ Comment=Look up words in various dictionary sources
 Icon=fantasdic
 TryExec=/usr/bin/fantasdic
 Exec=/usr/bin/fantasdic
-Terminal=false
 Categories=Utility;
 StartupNotify=false
 X-AppInstall-Package=fantasdic

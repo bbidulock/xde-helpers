@@ -1,17 +1,13 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=SciTE Text Editor
 Name[en_GB]=Scite Text Editor
 Name[es]=Editor de textos SciTE
 Comment=Programming editor
-Comment[en_GB]=Programming editor
 Comment[es]=Edita especializado para programación
 Icon=_usr_share_pixmaps_Sci48M
 TryExec=/usr/bin/scite
 Exec=scite %F
-Terminal=false
 Categories=Application;Development;
 StartupNotify=false
 X-AppInstall-Package=scite

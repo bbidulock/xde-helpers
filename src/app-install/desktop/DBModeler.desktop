@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=DBModeler
 Comment=Database Access Modeler
 Icon=_usr_share_GNUstep_DBModeler.app_DBModeler
 TryExec=/usr/bin/DBModeler
 Exec=DBModeler
-Terminal=false
 Categories=Development;Database;
 StartupNotify=false
 X-AppInstall-Package=gnustep-dl2

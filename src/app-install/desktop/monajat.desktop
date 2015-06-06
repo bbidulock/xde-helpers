@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Monajat Applet for supplications
 Name[ar]=بريمج مناجاة للأذكار
@@ -9,7 +7,6 @@ Comment[ar]=بريمج مناجاة للأذكار
 Icon=monajat
 TryExec=/usr/bin/monajat-applet
 Exec=/usr/bin/monajat-applet --auto
-Terminal=false
 Categories=Utility;X-Islamic-Software;
 StartupNotify=false
 X-KDE-autostart-after=panel

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=TORCS
 GenericName=TORCS
@@ -9,7 +7,6 @@ Comment[es]=Juego de simulación 3D de carrera de autos
 Icon=torcs.xpm
 TryExec=/usr/bin/torcs
 Exec=torcs
-Terminal=false
 Categories=Game;Simulation;
 StartupNotify=false
 X-AppInstall-Package=torcs

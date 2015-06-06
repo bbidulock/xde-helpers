@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Help Hannah's Horse
 Comment=A pacman-like game
@@ -8,7 +6,6 @@ Comment[es]=Un juego similar al pacman
 Icon=hannah.xpm
 TryExec=/usr/bin/hannah
 Exec=hannah
-Terminal=false
 Categories=Application;Game;
 StartupNotify=false
 X-AppInstall-Package=hannah

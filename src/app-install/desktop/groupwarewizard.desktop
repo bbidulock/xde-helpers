@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=KDE Groupware Wizard
 Name[af]=KDE groupware assistent
@@ -13,7 +11,6 @@ Name[cs]=Průvodce KDE groupwarem
 Name[da]=KDE groupware-guide
 Name[de]=KDE Groupware-Assistent
 Name[el]=Μάγος Groupware του KDE
-Name[en_GB]=KDE Groupware Wizard
 Name[es]=Asistente de trabajo en grupo de KDE
 Name[et]=KDE Groupware nõustaja
 Name[eu]=KDE groupware morroia
@@ -54,7 +51,6 @@ Name[zh_TW]=KDE 群組精靈
 Icon=kontact
 TryExec=/usr/bin/groupwarewizard
 Exec=groupwarewizard
-Terminal=false
 Categories=Utility;KDE;Qt;X-KDE-Utilities-PIM;
 StartupNotify=false
 X-KDE-StartupNotify=true

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Hugin Batch Processor
 Name[de]=Hugin - Stapelverarbeitung
@@ -19,7 +17,6 @@ Comment[hu]=Hugin projekt összefűző sor kezelő
 Icon=hugin
 TryExec=/usr/bin/PTBatcherGUI
 Exec=PTBatcherGUI %F
-Terminal=false
 Categories=Graphics;
 MimeType=application/x-ptoptimizer-script;
 StartupNotify=false

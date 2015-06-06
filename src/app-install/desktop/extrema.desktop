@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=eXtrema
 Comment=eXtrema
 Icon=extrema
 TryExec=/usr/bin/extrema
 Exec=/usr/bin/extrema
-Terminal=false
 Categories=Education;Science;DataVisualization;Math;NumericalAnalysis;
 StartupNotify=false
 X-Desktop-File-Install-Version=0.10

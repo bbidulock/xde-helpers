@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Supertuxkart
 GenericName=Supertuxkart
@@ -12,7 +10,6 @@ Comment[ro_RO]=un joc de curse cu carturi
 Icon=supertuxkart
 TryExec=/usr/bin/supertuxkart
 Exec=supertuxkart
-Terminal=false
 Categories=Game;3DGraphics;ActionGame;Simulation;SportsGame;
 StartupNotify=false
 X-AppInstall-Package=supertuxkart

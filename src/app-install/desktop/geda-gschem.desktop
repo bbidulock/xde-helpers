@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=gEDA Schematic Editor
 Name[af]=gEDA Stroombaandiagram Bewerker
@@ -32,7 +30,6 @@ Comment[ru]=Создание и редактирование электриче�
 Icon=geda-gschem
 TryExec=/usr/bin/gschem
 Exec=gschem %F
-Terminal=false
 Categories=Electronics;Engineering;
 MimeType=application/x-geda-schematic;application/x-geda-symbol;
 StartupNotify=false

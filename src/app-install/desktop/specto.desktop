@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Specto
 Comment=Be notified of everything
@@ -8,7 +6,6 @@ Comment[fr]=Soyez alerte
 Icon=specto
 TryExec=/usr/bin/specto
 Exec=specto
-Terminal=false
 Categories=Utility;GNOME;
 StartupNotify=true
 X-AppInstall-Package=specto

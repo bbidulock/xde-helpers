@@ -1,6 +1,5 @@
 [Desktop Entry]
 Version=1
-Encoding=UTF-8
 Type=Application
 Name=xae
 Comment=Small text editor
@@ -8,7 +7,6 @@ Comment[de]=Einfacher Text-Editor
 Comment[fr]=Simple editeur de texte
 TryExec=/usr/bin/xae
 Exec=/usr/bin/xae
-Terminal=false
 Categories=TextEditor;
 StartupNotify=false
 X-AppInstall-Package=aee

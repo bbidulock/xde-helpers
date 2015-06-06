@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Nautilus Pastebin Configurator
 GenericName=Nautilus Pastebin configuration panel
@@ -8,7 +6,6 @@ GenericName[it]=Pannello di configurazione per Nautilus Pastebin
 Icon=nautilus-pastebin
 TryExec=/usr/bin/nautilus-pastebin-configurator
 Exec=nautilus-pastebin-configurator
-Terminal=false
 Categories=Settings;
 StartupNotify=false
 X-AppInstall-Package=nautilus-pastebin

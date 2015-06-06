@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Debian Package Viewer
 Name[cs]=Prohlížeč debianích balíků
@@ -31,7 +29,6 @@ Comment[vi]=Bộ xem tập tin gói Debian
 Icon=deb-gview.xpm
 TryExec=/usr/bin/deb-gview
 Exec=deb-gview
-Terminal=false
 Categories=Development;Building;GNOME;
 StartupNotify=false
 X-SingleInstance=false

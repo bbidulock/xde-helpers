@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=RAKT PDF Viewer
 GenericName=raktpdf 20080320
@@ -8,7 +6,6 @@ Comment=A Gtk2 PDF viewer
 Icon=pdf-viewer
 TryExec=/usr/bin/raktpdf
 Exec=raktpdf
-Terminal=false
 Categories=Office;Viewer;GTK;
 StartupNotify=false
 X-AppInstall-Package=raktpdf

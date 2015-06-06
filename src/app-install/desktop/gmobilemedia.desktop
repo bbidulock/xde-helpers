@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=gMobileMedia (Mobile Media Browser)
 Icon=_usr_share_gmobilemedia_ui_gmobilemedia_icon
 TryExec=/usr/bin/gmobilemedia
 Exec=gmobilemedia
-Terminal=false
 Categories=Utility;Telephony;
 StartupNotify=false
 X-AppInstall-Package=gmobilemedia
