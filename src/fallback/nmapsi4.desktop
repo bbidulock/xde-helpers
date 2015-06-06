@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=NmapSI4 - User mode
 Comment=Is a Qt4 interface for nmap scanner
@@ -10,7 +8,6 @@ Comment[uk]=Qt4 інтерфейс для сканера nmap
 Icon=_usr_share_icons_hicolor_32x32_apps_nmapsi4
 TryExec=/usr/bin/nmapsi4
 Exec=nmapsi4
-Terminal=false
 Categories=Application;System;Security;Qt;
 StartupNotify=false
 X-AppInstall-Package=nmapsi4

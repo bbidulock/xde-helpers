@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=X NetHack
 GenericName=NetHack (X interface)
 Icon=nethack
 TryExec=/usr/games/xnethack
 Exec=/usr/games/xnethack
-Terminal=false
 Categories=Application;Game;AdventureGame;
 StartupNotify=false
 X-AppInstall-Package=nethack-x11

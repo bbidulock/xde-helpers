@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=qBittorrent
 Name[ko]=큐비토런트
@@ -35,7 +33,6 @@ Comment=V2.2.11
 Icon=qbittorrent
 TryExec=/usr/bin/qbittorrent
 Exec=qbittorrent %f
-Terminal=false
 Categories=Network;P2P;Qt;
 MimeType=application/x-bittorrent;
 StartupNotify=false

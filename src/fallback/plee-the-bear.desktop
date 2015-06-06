@@ -1,21 +1,16 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Plee the Bear
 Name[de]=Plee der Bär
 Name[fr]=Plee l'ours
 GenericName=A 2D platform game
-GenericName[en]=A 2D platform game
 GenericName[fr]=Un jeu de plateforme en 2D
 Comment=Catch your son, he ate all the honey then ran away
 Comment[de]=Fange deinen Sohn. Er hat den Honig aufgegessen und ist dann weggelaufen
-Comment[en]=Catch your son, he ate all the honey then ran away
 Comment[fr]=Attrapez votre fils, il a mangé tout le miel et s'est enfuit
 Icon=ptb
 TryExec=/usr/bin/plee-the-bear
 Exec=plee-the-bear
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=true
 X-AppInstall-Package=plee-the-bear

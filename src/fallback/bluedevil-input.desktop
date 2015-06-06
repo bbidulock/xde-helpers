@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=BlueDevil Input connect
 GenericName=BlueDevil Input connect
@@ -8,7 +6,6 @@ Comment=BlueDevil Input connect
 Icon=preferences-system-bluetooth
 TryExec=/usr/bin/bluedevil-input
 Exec=bluedevil-input %U
-Terminal=false
 Categories=Network;KDE;Qt;Bluetooth;Input;
 MimeType=virtual/bluedevil-input;
 StartupNotify=false

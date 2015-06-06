@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Remotedesktop Client
 Comment=Connect to a remote Windows Terminal-Server
@@ -8,7 +6,6 @@ Comment[de]=Verbindet zu einem entfernten Windows Terminal-Server
 Icon=grdesktop.png
 TryExec=/usr/bin/grdesktop
 Exec=grdesktop
-Terminal=false
 Categories=Network;X-Red-Hat-Base;
 StartupNotify=false
 X-AppInstall-Package=grdesktop
@@ -23,4 +20,5 @@ X-Arch-Package-URL=http://www.nongnu.org/grdesktop/
 X-Arch-Package-Votes=79
 
 [Desktop Action Full]
+TryExec=/usr/bin/grdesktop
 Exec=grdesktop

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=kdissert
 Name[da]=Kdissert
@@ -28,7 +26,6 @@ GenericName[xx]=xxMindmap Toolxx
 Icon=kdissert
 TryExec=/usr/bin/kdissert
 Exec=kdissert -caption "%c" %i %m
-Terminal=false
 Categories=Utility;KDE;Qt;X-KDE-More;
 MimeType=application/x-kdissert;
 StartupNotify=false

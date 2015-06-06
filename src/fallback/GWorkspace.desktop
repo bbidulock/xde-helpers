@@ -1,13 +1,11 @@
 [Desktop Entry]
 Version=0.94
-Encoding=UTF-8
 Type=Application
 Name=GWorkspace
 Comment=GNUstep Workspace Manager
 Icon=FileManager.tiff
 TryExec=/usr/bin/GWorkspace
 Exec=GWorkspace
-Terminal=false
 Categories=System;FileTools;FileManager;
 StartupNotify=false
 X-AppInstall-Package=gworkspace

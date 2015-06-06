@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Elvis
 GenericName=Text Editor
@@ -12,7 +10,6 @@ Comment[hu]=Egy vi-klón
 Icon=text-editor
 TryExec=/usr/bin/elvis
 Exec=elvis
-Terminal=false
 Categories=TextEditor;Utilitiy;
 StartupNotify=false
 DocPath=/usr/lib/elvis/elvis.html

@@ -1,12 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=tree-ppuzzle
 GenericName=Reconstruction of phylogenetic trees (parallelized)
-GenericName[en]=Reconstruction of phylogenetic trees (parallelized)
 Comment=Reconstruction of phylogenetic trees by maximum likelihood (parallelized version)
-Comment[en]=Reconstruction of phylogenetic trees by maximum likelihood (parallelized version)
 Icon=tree-ppuzzle
 TryExec=/usr/bin/tree-ppuzzle
 Exec=tree-ppuzzle

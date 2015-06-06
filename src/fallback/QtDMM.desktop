@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=QtDMM
 GenericName=Digital Multimeter GUI
@@ -8,7 +6,6 @@ Comment=Use a digital multimeter
 Icon=qtdmm
 TryExec=/usr/bin/qtdmm
 Exec=qtdmm
-Terminal=false
 Categories=Utility;
 StartupNotify=false
 X-AppInstall-Package=qtdmm

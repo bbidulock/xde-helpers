@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Powermanga
 GenericName=PowerManga
@@ -8,7 +6,6 @@ Comment=Play a vertical shoot 'em up game
 Icon=powermanga
 TryExec=/usr/bin/powermanga
 Exec=powermanga
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=powermanga

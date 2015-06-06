@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Towers
 Comment=Puzzle game based on Skyscrapers
@@ -8,7 +6,6 @@ Comment[de]=Auf Skyscrapers basierendes Puzzlespiel
 Icon=towers
 TryExec=/usr/bin/towers
 Exec=towers
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=sgt-puzzles

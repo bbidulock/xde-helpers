@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Mad Bomber
 Comment=Catch the Bombs
 Icon=madbomber-icon
 TryExec=/usr/bin/madbomber
 Exec=madbomber
-Terminal=false
 Categories=Application;Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=madbomber

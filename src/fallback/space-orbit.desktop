@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Space-orbit
 Comment=A 3D space combat simulator
 TryExec=/usr/bin/orbit
 Exec=orbit
-Terminal=false
 Categories=Application;Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=orbit

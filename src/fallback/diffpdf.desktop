@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=DiffPDF
 Comment=Compare two PDF files
 Icon=diffpdf
 TryExec=/usr/bin/diffpdf
 Exec=diffpdf
-Terminal=false
 Categories=Utility;Qt;
 StartupNotify=false
 X-AppInstall-Package=diffpdf

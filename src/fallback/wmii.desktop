@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=wmii
 GenericName=Window Manager
@@ -10,7 +8,6 @@ Comment=wmii pre-3.6 Development Snapshot
 Icon=wmii
 TryExec=/usr/bin/wmii
 Exec=wmii
-Terminal=false
 NoDisplay=true
 Categories=WindowManager;Application;System;
 StartupNotify=false
@@ -33,9 +30,10 @@ Actions=XDE;
 
 [Desktop Action XDE]
 Name=XDE
-Icon=xde
-Exec=xde-session -exec uxterm -desktop WMII -startwm wmii
 Comment=wmii under an XDE session
+Icon=xde
+TryExec=/usr/bin/xde-session
+Exec=xde-session -exec uxterm -desktop WMII -startwm wmii
 DesktopNames=XDE:WMII
 
 [Window Manager]

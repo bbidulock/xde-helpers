@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Flarq
 GenericName=Fldigi ARQ Utility
@@ -8,7 +6,6 @@ Comment=Amateur Radio Data Transfer with ARQ
 Icon=flarq
 TryExec=/usr/bin/flarq
 Exec=flarq
-Terminal=false
 Categories=Network;HamRadio;
 StartupNotify=false
 X-AppInstall-Package=fldigi

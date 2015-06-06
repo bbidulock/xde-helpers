@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Appearance
 Name[af]=Voorkoms
@@ -21,7 +19,6 @@ Name[de]=Erscheinungsbild
 Name[dz]=འབྱུང་སྣང་
 Name[el]=Εμφάνιση
 Name[en@shaw]=𐑩𐑐𐑽𐑩𐑯𐑕
-Name[en_GB]=Appearance
 Name[es]=Apariencia
 Name[et]=Välimus
 Name[eu]=Itxura
@@ -153,7 +150,6 @@ Comment[zh_TW]=自訂桌面的外觀
 Icon=preferences-desktop-theme
 TryExec=/usr/bin/gnome-appearance-properties
 Exec=gnome-appearance-properties %F
-Terminal=false
 OnlyShowIn=GNOME;
 Categories=Settings;DesktopSettings;GNOME;GTK;X-MandrivaLinux-System-Configuration-GNOME;X-SuSE-ControlCenter-LookAndFeel;
 StartupNotify=true

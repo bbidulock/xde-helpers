@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=QuteCom
 GenericName=VoIP softphone and IM client
@@ -12,7 +10,6 @@ Comment[it]=Comunicare con le persone via Internet e inviare messaggi istantanei
 Icon=qutecom
 TryExec=/usr/bin/qutecom
 Exec=qutecom
-Terminal=false
 Categories=Network;Telephony;VideoConference;Qt;
 StartupNotify=true
 X-AppInstall-Package=None

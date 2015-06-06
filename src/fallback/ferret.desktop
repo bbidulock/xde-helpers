@@ -1,13 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=ferret
-Name[pt_BR]=ferret
 Comment=Design E-R databases
 TryExec=/usr/bin/ferret
 Exec=ferret %F
-Terminal=false
 Categories=Application;Development;
 MimeType=application/x-ferret;
 StartupNotify=false

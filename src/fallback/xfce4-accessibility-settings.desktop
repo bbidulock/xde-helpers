@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Accessibility
 Name[ast]=Accesibilidá
@@ -67,7 +65,6 @@ Comment[zh_CN]=使您的键盘和鼠标更好用
 Icon=preferences-desktop-accessibility
 TryExec=/usr/bin/xfce4-accessibility-settings
 Exec=xfce4-accessibility-settings
-Terminal=false
 OnlyShowIn=XFCE;
 Categories=Settings;DesktopSettings;X-XFCE;X-XfceSettingsDialog;
 StartupNotify=true

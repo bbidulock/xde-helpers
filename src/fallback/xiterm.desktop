@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Xi Terminal
 GenericName=Terminal Program
@@ -8,7 +6,6 @@ Comment=VT102 emulator for the X window system
 Icon=terminal
 TryExec=/usr/bin/xiterm
 Exec=xiterm -bg black -fg grey70 -sl 500 -vb
-Terminal=false
 Categories=Utility;TerminalEmulator;
 StartupNotify=false
 StartupWMClass=xiterm

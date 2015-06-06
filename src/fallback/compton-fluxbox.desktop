@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Compton
 Comment=An X compositor
 Icon=xcompmgr
 TryExec=/usr/bin/compton
 Exec=compton --config ~/.config/compton/FLUXBOX/compton.conf
-Terminal=false
 Hidden=true
 OnlyShowIn=FLUXBOX;BLACKBOX;OPENBOX;ICEWM;WMAKER;FVWM;JWM;PEKWM;ADWM;WAIMEA;
 Categories=Utility;

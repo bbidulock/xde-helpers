@@ -1,9 +1,6 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GNOME Breakout
-Name[de]=GNOME Breakout
 Name[tr]=Gnome Breakout
 Comment=Play a clone of the classic arcade game Breakout for GNOME
 Comment[de]=Das klassische Arcade Spiel Breakout f\xFCr GNOME
@@ -11,7 +8,6 @@ Comment[tr]=Breakout klasi\xF0inin Gnome te\xFEkili
 Icon=gnome-breakout.png
 TryExec=/usr/bin/gnome-breakout
 Exec=gnome-breakout
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=gnome-breakout

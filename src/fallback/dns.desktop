@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=DNS and Hostname
 Name[af]=DNS en gasheernaam
@@ -86,7 +84,6 @@ GenericName[zu]=Hlela igama lesiphakeli neziphakelalwazi zamagama
 Icon=yast-dns
 TryExec=/sbin/yast2
 Exec=/sbin/yast2 dns
-Terminal=false
 Categories=Qt;X-SuSE-YaST;X-SuSE-YaST-Net_advanced;
 StartupNotify=false
 X-KDE-HasReadOnlyMode=true

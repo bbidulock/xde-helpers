@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Cadabra
 GenericName=Cadabra computer algebra system
@@ -8,7 +6,6 @@ Comment=Computer algebra system for field theory problems
 Icon=cadabra
 TryExec=/usr/bin/xcadabra
 Exec=xcadabra
-Terminal=false
 Categories=Education;Science;Math;
 StartupNotify=false
 X-AppInstall-Package=cadabra

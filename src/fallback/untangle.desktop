@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Untangle
 Comment=Position the points so that no line crosses another
@@ -9,7 +7,6 @@ Comment[fr]=Placer les attaches de telle sorte qu'aune ligne ne se croise
 Icon=untangle
 TryExec=/usr/bin/untangle
 Exec=untangle
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=sgt-puzzles

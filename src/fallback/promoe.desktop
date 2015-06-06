@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Promoe
 GenericName=XMMS2 Client
 Icon=xmms2
 TryExec=/usr/bin/promoe
 Exec=promoe
-Terminal=false
 Categories=Application;AudioVideo;Audio;Qt;
 StartupNotify=false
 X-AppInstall-Package=promoe

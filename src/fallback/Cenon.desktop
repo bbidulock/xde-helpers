@@ -1,12 +1,10 @@
 [Desktop Entry]
 Version=0.94
-Encoding=UTF-8
 Type=Application
 Name=Cenon
 Icon=_usr_lib_GNUstep_Applications_Cenon.app_Resources_Cenon
 TryExec=/usr/bin/Cenon
 Exec=Cenon
-Terminal=false
 Categories=Graphics;2DGraphics;VectorGraphics;
 StartupNotify=false
 X-AppInstall-Package=cenon

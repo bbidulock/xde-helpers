@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Snake4
 GenericName=Snake4 Game
@@ -8,7 +6,6 @@ Comment=Fruit-eating snake game
 Icon=_usr_share_pixmaps_snake4
 TryExec=/usr/games/snake4
 Exec=/usr/games/snake4
-Terminal=false
 Categories=Game;ActionGame;
 StartupNotify=false
 X-AppInstall-Package=snake4

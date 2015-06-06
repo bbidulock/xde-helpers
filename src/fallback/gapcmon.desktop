@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=APCUPSD Monitor
 GenericName=gapcmon
@@ -8,7 +6,6 @@ Comment=Gtk/GUI Monitor program for (U)ninterruptible (P)ower (S)upply under the
 Icon=gapcmon.png
 TryExec=/usr/bin/gapcmon
 Exec=gapcmon
-Terminal=false
 Categories=Application;System;GTK;
 StartupNotify=false
 X-AppInstall-Package=gapcmon

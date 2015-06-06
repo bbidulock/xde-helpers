@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Balder2D
 Comment=2D overhead shooter in Zero G
 Icon=balder2d.xpm
 TryExec=/usr/bin/balder2d
 Exec=balder2d
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=balder2d

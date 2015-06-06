@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Dungeon Crawl
 Icon=crawl
 TryExec=/usr/games/crawl-tiles
 Exec=/usr/games/crawl-tiles
-Terminal=false
 Categories=Game;AdventureGame;
 StartupNotify=false
 X-AppInstall-Package=crawl-tiles

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Netslide
 Comment=Game combining the grid generation of Net with the movement of Sixteen
@@ -9,7 +7,6 @@ Comment[fr]=Jeu combinant l'outil de génération de grille de Net avec le mouve
 Icon=netslide
 TryExec=/usr/bin/netslide
 Exec=netslide
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=sgt-puzzles

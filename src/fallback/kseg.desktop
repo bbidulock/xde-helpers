@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=KSeg Geometry Sketchpad
 Comment=Sketchpad for planar Euclidean geometry
 Icon=kseg
 TryExec=/usr/bin/kseg
 Exec=kseg
-Terminal=false
 Categories=Application;Education;Science;Math;
 StartupNotify=false
 X-AppInstall-Package=kseg

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=serial port terminal
 Name[fr]=Terminal pour port série
@@ -8,7 +6,6 @@ Comment=Communicate with the serial port
 Comment[fr]=Communique avec le port série
 TryExec=/usr/bin/gtkterm
 Exec=gtkterm
-Terminal=false
 Categories=Application;Utility;GNOME;
 StartupNotify=false
 X-AppInstall-Package=gtkterm

@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Evolution Calendar
 Name[af]=Evolution-kalender
 Name[bg]=Календар на Evolution
 Name[cs]=Kalendář Evolution
 Name[da]=Evolution kalender
-Name[de]=Evolution Calendar
 Name[el]=Ημερολόγιο Evolution
 Name[es]=Calendario de Evolution
 Name[et]=Evolutioni kalender
@@ -98,7 +95,6 @@ Comment[zh_TW]=管理排程
 Icon=ximian-evolution-calendar
 TryExec=/usr/bin/evolution
 Exec=evolution -c calendar
-Terminal=false
 Categories=Calendar;GNOME;
 StartupNotify=false
 DocPath=evolution-2.22/evolution-2.22.xml?usage-calendar

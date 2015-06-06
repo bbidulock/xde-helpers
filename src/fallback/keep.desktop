@@ -1,10 +1,7 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Keep
 Name[cy]=Cadw
-Name[fr]=Keep
 Name[ka]=დატოვება
 Name[lt]=Nekeisti
 Name[xx]=xxKeepxx
@@ -37,7 +34,6 @@ Icon=keep
 TryExec=/usr/bin/keep
 Exec=keep
 X-DCOP-ServiceType=Unique
-Terminal=false
 Categories=Application;System;KDE;Qt;
 StartupNotify=false
 X-AppInstall-Package=keep

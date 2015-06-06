@@ -1,10 +1,7 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=mc
 Comment=Midnight Commander
-Comment[zh_TW]=Midnight Commander
 Icon=/usr/share/pixmaps/mc.xpm
 TryExec=/usr/bin/mc
 Exec=mc

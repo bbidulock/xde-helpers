@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GNOME Shell
 Comment=Window management and application launching
 TryExec=/usr/bin/gnome-shell
 Exec=gnome-shell
-Terminal=false
 NoDisplay=true
 OnlyShowIn=GNOME;
 Categories=Core;GNOME;GTK;

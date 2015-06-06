@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=FTP Server
 GenericName=Module for configuration FTP daemon (vsftpd or pure-ftpd)
 Icon=yast-ftp-server
 TryExec=/sbin/yast2
 Exec=/sbin/yast2 ftp-server
-Terminal=false
 Categories=Settings;System;Qt;X-SuSE-YaST;X-SuSE-YaST-Net_advanced;
 StartupNotify=true
 X-KDE-HasReadOnlyMode=true

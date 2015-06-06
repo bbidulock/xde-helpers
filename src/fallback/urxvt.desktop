@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=RXVT Unicode Terminal
 Name[ar]=RXVT يونيكود
@@ -64,7 +62,6 @@ Comment=An unicode capable rxvt clone
 Icon=utilities-terminal
 TryExec=/usr/bin/urxvt
 Exec=urxvt
-Terminal=false
 Categories=System;TerminalEmulator;
 StartupNotify=false
 StartupWMClass=urxvt

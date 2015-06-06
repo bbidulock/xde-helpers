@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Session Logout Dialog
 Comment=Prompt the user to log out of their session
 Icon=gnome-logout
 TryExec=/usr/bin/libssui-tool
 Exec=libssui-tool --logout
-Terminal=false
 Hidden=true
 OnlyShowIn=GNOME;
 Categories=System;SystemSetup;

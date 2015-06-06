@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=OpenShot Video Editor
 X-GNOME-FullName=OpenShot Video Editor
@@ -8,7 +6,6 @@ Comment=Create and edit videos and movies
 Icon=openshot
 TryExec=/usr/bin/openshot
 Exec=openshot %F
-Terminal=false
 Categories=AudioVideo;Video;AudioVideoEditing;GNOME;GTK;
 MimeType=application/vnd.openshot-project;
 StartupNotify=false

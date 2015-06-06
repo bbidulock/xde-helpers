@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GDPC Molecular Dynamic Simulator
 GenericName=Molecular Dynamic Simulator
@@ -9,7 +7,6 @@ Comment[en_GB]=Visualise molecular dynamic simulations
 Comment[pt_BR]=Visualizador de simulações moleculares dinâmicas
 TryExec=/usr/bin/gdpc
 Exec=gdpc
-Terminal=false
 Categories=Education;Science;Chemistry;
 StartupNotify=false
 X-AppInstall-Package=gdpc

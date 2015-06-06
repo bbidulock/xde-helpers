@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=DrPython
 Icon=drpython
 TryExec=/usr/bin/drpython
 Exec=drpython
-Terminal=false
 Categories=Development;
 StartupNotify=true
 X-AppInstall-Package=drpython

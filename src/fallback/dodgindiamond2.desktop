@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Dodgin Diamond 2
 GenericName=dodgindiamond2
 Comment=Shoot 'em up
 TryExec=/usr/bin/dodgindiamond2
 Exec=dodgindiamond2
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=dodgindiamond2

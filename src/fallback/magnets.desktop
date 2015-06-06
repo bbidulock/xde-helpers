@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Magnets
 Comment=Magnets puzzle game
@@ -8,7 +6,6 @@ Comment[de]=Magnetpuzzlespiel
 Icon=magnets
 TryExec=/usr/bin/magnets
 Exec=magnets
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=sgt-puzzles

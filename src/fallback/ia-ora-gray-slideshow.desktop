@@ -1,11 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Ia Ora Gray
 Comment=Mandriva Screensaver
 TryExec=/usr/lib/gnome-screensaver/slideshow
 Exec=/usr/lib/gnome-screensaver/slideshow --location=/usr/share/mdk/screensaver --sort-images --background-color="#000000" --no-stretch
-Terminal=false
 Categories=GNOME;Screensaver;
 StartupNotify=false

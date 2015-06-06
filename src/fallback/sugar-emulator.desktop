@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Sugar
 GenericName=Sugar Emulator
 Comment=The emulator for the Sugar Desktop Environment
 TryExec=/usr/bin/sugar-emulator
 Exec=/usr/bin/sugar-emulator
-Terminal=false
 Categories=Application;Education;Emulator;
 StartupNotify=false
 X-AppInstall-Package=sugar-emulator-0.84

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Lv2rack
 GenericName=LV2 plugins host
@@ -8,7 +6,6 @@ Comment=LV2 plugins host for JACK
 Icon=lv2rack32x32
 TryExec=/usr/bin/lv2rack
 Exec=lv2rack
-Terminal=false
 Categories=AudioVideo;Audio;
 StartupNotify=false
 X-AppInstall-Package=zynjacku

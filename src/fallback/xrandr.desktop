@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=X RandR
 GenericName=XRandr
@@ -8,7 +6,6 @@ Comment=List the resolution properties of the monitor
 Icon=xlogo
 TryExec=/usr/bin/xrandr
 Exec=xrandr|gxmessage -name xrandr -font 'Liberation Mono 8' -title 'X Window Properties' -file -
-Terminal=false
 Categories=Application;X-X11;X-XTool;
 StartupNotify=false
 StartupWMClass=xrandr

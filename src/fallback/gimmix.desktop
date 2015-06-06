@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gimmix
 Comment=Gimmix is a graphical music player daemon (MPD) client written in C.
 Icon=gimmix.png
 TryExec=/usr/bin/gimmix
 Exec=gimmix
-Terminal=false
 Categories=Application;AudioVideo;GTK;
 StartupNotify=true
 X-AppInstall-Package=gimmix

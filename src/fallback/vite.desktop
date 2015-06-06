@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=ViTE
 Comment=A visual trace explorer
 Icon=_usr_share_pixmaps_vite
 TryExec=/usr/bin/vite
 Exec=/usr/bin/vite
-Terminal=false
 Categories=Application;Utility;
 StartupNotify=false
 X-AppInstall-Package=vite

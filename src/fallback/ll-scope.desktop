@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Oscilloscope
 Comment=An oscilloscope DSSI plugin
 Icon=_usr_lib_dssi_ll-scope_icon
 TryExec=/usr/bin/jack-dssi-host
 Exec=jack-dssi-host ll-scope.so
-Terminal=false
 Categories=Application;AudioVideo;Audio;GNOME;Synthesis;
 StartupNotify=false
 X-AppInstall-Package=ll-scope

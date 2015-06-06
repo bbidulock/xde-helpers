@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Block Attack!
 Comment=Block Attack! Game
 Icon=blocks
 TryExec=/usr/bin/blocks
 Exec=blocks
-Terminal=false
 Categories=Game;BlocksGame;
 StartupNotify=false
 X-AppInstall-Package=fltk-games

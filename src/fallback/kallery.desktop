@@ -1,14 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Kallery
-Name[de]=Kallery
 GenericName=Image Gallery Generator
 Icon=kallery.png
 TryExec=/usr/bin/kallery
 Exec=kallery -caption "%c" %i %m
-Terminal=false
 Categories=Graphics;KDE;Qt;
 StartupNotify=false
 DocPath=kallery/index.html

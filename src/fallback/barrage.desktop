@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Barrage
 Comment=Kill and destroy as many targets as possible within 3 minutes
 Icon=barrage
 TryExec=/usr/bin/barrage
 Exec=barrage
-Terminal=false
 Categories=Application;Game;ArcadeGame;X-Red-Hat-Base;
 StartupNotify=false
 X-AppInstall-Package=barrage

@@ -1,11 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=preload
 TryExec=/usr/bin/appspreloader.sh
 Exec=appspreloader.sh
-Terminal=false
 StartupNotify=false
 X-KDE-autostart-phase=2
 X-SuSE-translate=false

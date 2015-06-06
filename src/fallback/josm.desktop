@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Josm
 GenericName=Java OpenStreetMap Editor
@@ -8,7 +6,6 @@ Comment=Editor for OpenStreetMap.org
 Icon=josm-32
 TryExec=/usr/bin/josm
 Exec=josm
-Terminal=false
 Categories=Education;Science;Geoscience;
 StartupNotify=false
 X-AppInstall-Package=josm

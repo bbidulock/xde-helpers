@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Smart Card Manager
 Comment=Enterprise Security Client Smart Card Manager
 Icon=esc.png
 TryExec=/usr/bin/esc
 Exec=esc
-Terminal=false
 Categories=Application;System;SystemSetup;X-Red-Hat-Base;
 StartupNotify=false

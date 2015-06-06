@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Aqsis User Interface
 GenericName=RenderMan User Interface
@@ -8,7 +6,6 @@ Comment=Graphical user interface for Aqsis tools
 Icon=aqsis
 TryExec=/usr/bin/eqsl
 Exec=eqsl
-Terminal=false
 Categories=Graphics;3DGraphics;
 StartupNotify=false
 X-AppInstall-Package=aqsis

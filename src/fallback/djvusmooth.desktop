@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=djvusmooth
 GenericName=Graphical editor for DjVu
 GenericName[pl]=Graficzny edytor plików DjVu
 TryExec=/usr/bin/djvusmooth
 Exec=/usr/bin/djvusmooth %f
-Terminal=false
 Categories=Graphics;
 MimeType=image/x-djvu;image/x.djvu;image/vnd.djvu;
 StartupNotify=false

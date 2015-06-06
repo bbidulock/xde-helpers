@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=LaTeXila
 GenericName=LaTeX Frontend
@@ -10,7 +8,6 @@ Comment[fr]=Éditeur LaTeX
 Icon=latexila
 TryExec=/usr/bin/latexila
 Exec=latexila
-Terminal=false
 Categories=Office;Publishing;GNOME;GTK;
 MimeType=text/x-tex;
 StartupNotify=false

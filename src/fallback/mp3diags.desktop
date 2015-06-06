@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=MP3 Diags
 Comment=MP3 Diags - diagnosis and repair tool
 Icon=mp3diags
 TryExec=/usr/bin/mp3diags
 Exec=mp3diags
-Terminal=false
 Categories=AudioVideo;Audio;AudioVideoEditing;
 StartupNotify=false
 X-AppInstall-Package=mp3diags

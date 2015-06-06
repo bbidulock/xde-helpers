@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Granule
 Comment=Flashcards Program
 Icon=granule.png
 TryExec=/usr/bin/granule
 Exec=granule
-Terminal=false
 Categories=Application;Utility;GNOME;
 StartupNotify=false
 X-AppInstall-Package=granule

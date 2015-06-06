@@ -1,15 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Pod Browser
-Name[en_GB]=Pod Browser
 Comment=Browse Perl Documentation
-Comment[en_GB]=Browse Perl Documentation
 Icon=podbrowser.png
 TryExec=/usr/bin/podbrowser
 Exec=podbrowser
-Terminal=false
 Categories=Application;Development;GNOME;X-Red-Hat-Base;
 StartupNotify=true
 X-AppInstall-Package=podbrowser

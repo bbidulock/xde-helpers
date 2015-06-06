@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gunroar
 Comment=Kenta Cho's Gunroar
 Icon=gunroar
 TryExec=/usr/bin/gunroar
 Exec=gunroar
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=gunroar

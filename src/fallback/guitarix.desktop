@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=guitarix
 GenericName=Mono Amplifier
@@ -8,7 +6,6 @@ Comment=Simple mono amplifier simulation
 Icon=guitarix
 TryExec=/usr/bin/guitarix
 Exec=guitarix
-Terminal=false
 Categories=AudioVideo;Midi;X-Jack;X-MIDI;
 StartupNotify=false
 X-AppInstall-Package=guitarix

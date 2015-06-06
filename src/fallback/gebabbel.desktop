@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gebabbel
 Comment=GUI for gpsbabel
 Icon=gebabbel
 TryExec=/usr/bin/gebabbel
 Exec=gebabbel
-Terminal=false
 Categories=Education;Utility;
 StartupNotify=false
 X-AppInstall-Package=gebabbel

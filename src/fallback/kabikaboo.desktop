@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Kabikaboo
 GenericName=Writing Assistant
@@ -8,7 +6,6 @@ Comment=Manage large collections of notes
 Icon=_usr_share_kabikaboo_kabikaboo
 TryExec=/usr/bin/kabikaboo
 Exec=kabikaboo
-Terminal=false
 Categories=Office;GNOME;GTK;
 StartupNotify=false
 X-AppInstall-Package=kabikaboo

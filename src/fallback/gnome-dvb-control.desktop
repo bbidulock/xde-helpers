@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Digital TV Control Center
 Name[cs]=Ovládací centrum digitální TV
@@ -21,7 +19,6 @@ Comment[pt_BR]=Agendar gravações e procurar por guia de programação
 Icon=gnome-dvb-daemon
 TryExec=/usr/bin/gnome-dvb-control
 Exec=gnome-dvb-control
-Terminal=false
 Categories=AudioVideo;TV;Recorder;GNOME;GTK;
 StartupNotify=false
 X-AppInstall-Package=gnome-dvb-client

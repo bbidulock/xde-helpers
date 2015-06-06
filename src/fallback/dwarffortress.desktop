@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Dwarf Fortress
 GenericName=Dwarf Fortress
@@ -8,12 +6,11 @@ Comment=A single-player fantasy game.
 Icon=/usr/share/pixmaps/dwarffortress.png
 TryExec=/usr/bin/dwarffortress
 Exec=dwarffortress
-Terminal=false
 Categories=Game;
 StartupNotify=false
 X-AppInstall-Package=dwarffortress
-X-AppInstall-Section=multilib
-X-Arch-Package-Repository=multilib
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
 X-Arch-Package-Name=dwarffortress
 X-Arch-Package-Version=0.40.24-2
 X-Arch-Package-Description=A single-player fantasy game. You control a dwarven outpost or an adventurer in a randomly generated persistent world.

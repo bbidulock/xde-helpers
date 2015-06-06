@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Lekhonee Gnome
 GenericName=A Wordpress blog client
@@ -8,7 +6,6 @@ Comment=A Wordpress blog client
 Icon=lekhonee-gnome
 TryExec=/usr/bin/lekhonee-gnome
 Exec=lekhonee-gnome
-Terminal=false
 Categories=Application;Network;
 StartupNotify=false
 X-AppInstall-Package=lekhonee-gnome

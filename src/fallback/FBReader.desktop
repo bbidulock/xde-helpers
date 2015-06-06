@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=E-book reader
 Name[ru]=Чтение электронных книг
@@ -11,7 +9,6 @@ Comment[ru]=Чтение электронных книг
 Icon=FBReader.png
 TryExec=/usr/bin/FBReader
 Exec=FBReader %F
-Terminal=false
 Categories=Office;Viewer;Literature;
 StartupNotify=true
 X-AppInstall-Package=fbreader

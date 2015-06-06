@@ -1,9 +1,6 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Scorched 3D
-Name[lt_LT]=Scorched 3D
 Comment=3D artillery game similar to Scorched Earth
 Comment[de_DE]=3D Reimplementation des Klassikers Scorched Earth
 Comment[fr_FR]=un jeu d'artillerie en 3 proche de Scorched Earth
@@ -13,7 +10,6 @@ Comment[ro_RO]=Un joc 3D cu artilerie similar cu Scorched Earth
 Icon=scorched3d
 TryExec=/usr/bin/scorched3d
 Exec=scorched3d
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=true
 X-AppInstall-Package=scorched3d

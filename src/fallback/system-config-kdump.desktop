@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Kernel crash dumps
 Name[bn_IN]=কার্নেল ক্র্যাশ ডাম্প
@@ -47,7 +45,6 @@ Comment[zh_TW]=配置 kernel 當機傾印
 Icon=system-config-kdump
 TryExec=/usr/bin/system-config-kdump
 Exec=system-config-kdump
-Terminal=false
 Categories=Settings;System;
 StartupNotify=true
 X-Desktop-File-Install-Version=0.15

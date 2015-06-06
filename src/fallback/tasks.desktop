@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Tasks
 Name[bg]=Задачи
@@ -90,7 +88,6 @@ Comment[zh_CN]=任务列表
 Icon=tasks
 TryExec=/usr/bin/tasks
 Exec=tasks
-Terminal=false
 Categories=Office;ProjectManagement;GTK;
 StartupNotify=true
 X-MB-SingleInstance=true

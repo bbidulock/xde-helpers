@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Numpty Physics
 Icon=numptyphysics
@@ -8,7 +6,6 @@ TryExec=/usr/games/numptyphysics
 Exec=/usr/games/numptyphysics
 X-Osso-Service=org.maemo.garage.numptyphysics
 X-Osso-Type=application/x-executable
-Terminal=false
 Categories=Game;LogicGame;
 MimeType=application/x-numptyphysics-level;application/x-numptyphysics-collection;application/x-numptyphysics-demo;
 StartupNotify=false

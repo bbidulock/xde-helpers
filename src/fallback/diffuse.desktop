@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Diffuse Merge Tool
 Name[de]=Diffuse Mischwerkzeug
@@ -15,7 +13,6 @@ Comment[zh_CN]=图形化的比较和合并文本文件的工具
 Icon=diffuse
 TryExec=/usr/bin/diffuse
 Exec=diffuse -s %F
-Terminal=false
 Categories=Development;TextTools;TextEditor;GTK;
 MimeType=text/plain;text/x-csrc;text/x-chdr;
 StartupNotify=true

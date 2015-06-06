@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Tanglet
 GenericName=Word Finding Game
@@ -8,7 +6,6 @@ Comment=Single player variant of Boggle
 Icon=tanglet
 TryExec=/usr/bin/tanglet
 Exec=tanglet
-Terminal=false
 Categories=Game;Qt;
 StartupNotify=false
 X-AppInstall-Package=tanglet

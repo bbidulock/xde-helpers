@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GQview
 GenericName=Image Viewer
@@ -15,7 +13,6 @@ Comment[hu]=Képek megjelenítése és rendszerezése
 Icon=gqview.png
 TryExec=/usr/bin/gqview
 Exec=gqview -r %F
-Terminal=false
 Categories=Application;Graphics;Viewer;GTK;
 MimeType=application/x-navi-animation;image/bmp;image/x-bmp;image/x-MS-bmp;image/gif;image/x-icon;image/jpeg;image/png;image/x-portable-anymap;image/x-portable-bitmap;image/x-portable-graymap;image/x-portable-pixmap;image/x-cmu-raster;image/x-sun-raster;image/x-tga;image/tiff;image/vnd.wap.wbmp;image/x-xbitmap;image/x-xpixmap;image/svg;image/svg+xml;image/x-png;image/xpm;image/x-ico;image/x-pcx;
 StartupNotify=false

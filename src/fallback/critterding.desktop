@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Critterding
 GenericName=Evolving Artificial Life
@@ -8,7 +6,6 @@ Comment=Petri dish universe in 3D that demonstrates evolving artificial life
 Icon=critterding
 TryExec=/usr/bin/critterding
 Exec=critterding
-Terminal=false
 Categories=Education;Science;
 StartupNotify=true
 X-AppInstall-Package=critterding

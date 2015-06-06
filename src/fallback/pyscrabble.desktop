@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=PyScrabble
 Comment=A classical game of words
@@ -9,7 +7,6 @@ Comment[sv]=Ett klassiskt ordspel
 Icon=pyscrabble
 TryExec=/usr/bin/pyscrabble
 Exec=pyscrabble
-Terminal=false
 Categories=Game;BoardGame;GTK;
 StartupNotify=false
 X-AppInstall-Package=pyscrabble

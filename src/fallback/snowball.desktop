@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=SnowballZ
 GenericName=snowballz
@@ -8,7 +6,6 @@ Comment=Command your army of penguins
 Icon=snowballz
 TryExec=/usr/bin/snowballz
 Exec=snowballz
-Terminal=false
 Categories=Game;StrategyGame;
 StartupNotify=false
 X-AppInstall-Package=snowballz

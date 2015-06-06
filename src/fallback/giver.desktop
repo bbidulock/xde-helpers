@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Giver
 GenericName=File Sharing
@@ -8,7 +6,6 @@ Comment=Easy quick file sharing
 Icon=giver
 TryExec=/usr/bin/giver
 Exec=giver
-Terminal=false
 Categories=Network;FileTransfer;
 StartupNotify=false
 X-GNOME-Bugzilla-Bugzilla=GNOME

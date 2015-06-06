@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Audex
 GenericName=Audio CD extraction tool
@@ -16,7 +14,6 @@ TryExec=/usr/bin/audex
 Exec=audex
 X-DCOP-ServiceName=audex
 X-DCOP-ServiceType=Unique
-Terminal=false
 Categories=AudioVideo;Audio;KDE;Qt;
 MimeType=application/x-audex;
 StartupNotify=false

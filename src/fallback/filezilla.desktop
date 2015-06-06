@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=FileZilla
 GenericName=FTP client
@@ -12,7 +10,6 @@ Comment[fr]=Transférer des fichiers via FTP, FTPS et SFTP
 Icon=filezilla
 TryExec=/usr/bin/filezilla
 Exec=filezilla
-Terminal=false
 Categories=Network;FileTransfer;GTK;X-MandrivaLinux-CrossDesktop;
 StartupNotify=false
 X-Desktop-File-Install-Version=0.18

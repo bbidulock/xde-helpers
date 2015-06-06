@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Printers
 Name[ru]=Настройка принтеров
@@ -9,7 +7,6 @@ Comment[ru]=Программа для настройки принтеров Foom
 Icon=foomatic-gui-logo.png
 TryExec=/usr/bin/su-to-root
 Exec=su-to-root -X -c /usr/bin/foomatic-gui
-Terminal=false
 Categories=Application;System;
 StartupNotify=false
 X-AppInstall-Package=foomatic-gui

@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=flPhoto
 Comment=FLTK Photo Album
 Icon=flphoto
 TryExec=/usr/bin/flphoto
 Exec=flphoto %F
-Terminal=false
 Categories=Graphics;Photography;
 MimeType=application/x-flphoto;
 Patterns=*.album;

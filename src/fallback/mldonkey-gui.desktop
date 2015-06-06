@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=MLDonkey
 Comment=Graphical frontend for MLDonkey
@@ -8,7 +6,6 @@ Comment[fr]=Interface graphique pour MLDonkey
 Icon=mlgui.xpm
 TryExec=/usr/bin/mlgui
 Exec=mlgui
-Terminal=false
 Categories=Network;FileTransfer;GTK;
 StartupNotify=false
 X-AppInstall-Package=mldonkey-gui

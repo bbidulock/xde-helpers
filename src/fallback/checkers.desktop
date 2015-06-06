@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Checkers
 Comment=Checkers Game
 Icon=checkers
 TryExec=/usr/bin/checkers
 Exec=checkers
-Terminal=false
 Categories=Game;BoardGame;
 StartupNotify=false
 X-AppInstall-Package=fltk-games

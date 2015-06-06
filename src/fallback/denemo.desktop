@@ -1,26 +1,17 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GNU Denemo
-Name[de]=GNU Denemo
-Name[en]=GNU Denemo
-Name[fr]=GNU Denemo
-Name[it]=GNU Denemo
 GenericName=Score Editor
 GenericName[de]=Notensatzprogramm
-GenericName[en]=Score Editor
 GenericName[fr]=Édieur de partition
 GenericName[it]=Compositore per spartiti
 Comment=Edit musical scores
 Comment[de]=Partituren editieren
-Comment[en]=Edit musical scores
 Comment[fr]=Ėdite des partitions musicales
 Comment[it]=Compone gli spartiti musicali
 Icon=denemo
 TryExec=/usr/bin/denemo
 Exec=denemo
-Terminal=false
 Categories=AudioVideo;Audio;Education;Music;GNOME;
 StartupNotify=true
 X-AppInstall-Package=denemo

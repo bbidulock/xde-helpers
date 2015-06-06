@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=DNS Server
 Name[af]=DNS-bediener
@@ -79,7 +77,6 @@ GenericName[zu]=Hlela isiphakelalwazi se-DNS
 Icon=yast-dns-server
 TryExec=/sbin/yast2
 Exec=/sbin/yast2 dns-server
-Terminal=false
 Categories=Settings;System;Qt;X-SuSE-YaST;X-SuSE-YaST-Net_advanced;
 StartupNotify=true
 X-KDE-HasReadOnlyMode=true

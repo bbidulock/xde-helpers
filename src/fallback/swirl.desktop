@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Swirl
 Comment=Flowing, swirly patterns. Written by M. Dobie and R. Taylor.
 TryExec=/usr/lib/xscreensaver/swirl
 Exec=/usr/lib/xscreensaver/swirl -root
-Terminal=false
 OnlyShowIn=GNOME;
 Categories=Screensaver;
 StartupNotify=false

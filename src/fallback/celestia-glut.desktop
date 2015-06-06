@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Celestia (GLUT)
 GenericName=Space Simulator
@@ -8,7 +6,6 @@ Comment=Explore the Universe in this detailed space simulation
 Icon=celestia
 TryExec=/usr/bin/celestia-glut
 Exec=celestia-glut %f
-Terminal=false
 Categories=Education;Science;Astronomy;
 StartupNotify=false
 X-AppInstall-Package=celestia-glut

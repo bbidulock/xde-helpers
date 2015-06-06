@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=QPxTool
 GenericName=CD/DVD media quality checker
@@ -10,7 +8,6 @@ Comment[ru]=Проверка качества носителей CD/DVD
 Icon=qpxtool
 TryExec=/usr/bin/qpxtool
 Exec=qpxtool
-Terminal=false
 Categories=System;
 StartupNotify=true
 X-AppInstall-Package=qpxtool

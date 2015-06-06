@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=MirrorMagic
 Icon=/usr/share/games/mirrormagic/graphics/mirrormagic.xpm
 TryExec=/usr/games/mirrormagic
 Exec=/usr/games/mirrormagic
-Terminal=false
 Categories=Application;Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=mirrormagic

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Network Connections
 Name[ar]=الاتصالات الشبكية
@@ -15,7 +13,6 @@ Name[cs]=Připojení k síti
 Name[da]=Netværksforbindelser
 Name[de]=Netzwerkverbindungen
 Name[el]=Συνδέσεις δικτύου
-Name[en_GB]=Network Connections
 Name[eo]=Retkonektoj
 Name[es]=Conexiones de red
 Name[et]=Võrguühendused
@@ -118,7 +115,6 @@ Comment[zh_TW]=管理與變更您的連線設定值
 Icon=preferences-system-network
 TryExec=/usr/bin/nm-connection-editor
 Exec=nm-connection-editor
-Terminal=false
 OnlyShowIn=GNOME;
 Categories=Settings;GNOME;GTK;X-GNOME-NetworkSettings;X-SuSE-ControlCenter-System;
 StartupNotify=true

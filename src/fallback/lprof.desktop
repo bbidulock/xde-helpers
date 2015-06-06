@@ -1,19 +1,13 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=LProf
-Name[en_US]=LProf
 GenericName=ICC Profiler
-GenericName[en_US]=ICC Profiler
 GenericName[ru]=ICC-профилировщик
 Comment=Hardware ICC Profiler
-Comment[en_US]=Hardware ICC Profiler
 Comment[ru]=ICC-профилировщик аппаратного обеспечения
 Icon=lprof.png
 TryExec=/usr/bin/lprof
 Exec=lprof
-Terminal=false
 Categories=Graphics;RasterGraphics;
 StartupNotify=true
 StartupWMClass=lprof

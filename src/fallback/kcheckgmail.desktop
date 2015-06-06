@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=KCheckGMail
 Name[tr]=KCheckGmail
@@ -42,7 +40,6 @@ Comment[zh_CN]=Kicker面板显示你已经收到了多少邮件
 Icon=kcheckgmail
 TryExec=/usr/bin/kcheckgmail
 Exec=kcheckgmail
-Terminal=false
 Categories=Network;KDE;Qt;
 StartupNotify=false
 X-KDE-StartupNotify=true

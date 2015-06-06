@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=BlueDevil
 GenericName=bluedevil
@@ -8,7 +6,6 @@ Comment=KDE Bluetooth support
 Icon=preferences-system-bluetooth
 TryExec=/usr/bin/bluedevil-monolithic
 Exec=bluedevil-monolithic
-Terminal=false
 Categories=Network;KDE;Qt;Bluetooth;
 StartupNotify=false
 X-AppInstall-Package=bluedevil

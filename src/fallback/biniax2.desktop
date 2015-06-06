@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Biniax-2
 Comment==Colorful Logic game with arcade and tactics modes
 Icon=biniax2
 TryExec=/usr/bin/biniax2
 Exec=biniax2
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=biniax2

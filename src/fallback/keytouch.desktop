@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=KeyTouch
 Comment=Configure extra function keys
 Icon=_usr_share_keytouch_pixmaps_icon
 TryExec=/usr/bin/keytouch
 Exec=keytouch
-Terminal=false
 Categories=Settings;DesktopSettings;GTK;
 StartupNotify=true
 X-AppInstall-Package=keytouch

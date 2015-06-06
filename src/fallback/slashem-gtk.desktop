@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GTK Slash'EM
 GenericName=GTK Slash'EM
@@ -8,7 +6,6 @@ Comment=Super Lotsa Added Stuff Hack - Extended Magic (GTK)
 Icon=slashem
 TryExec=/usr/games/slashem-gtk
 Exec=/usr/games/slashem-gtk
-Terminal=false
 Categories=Game;AdventureGame;
 StartupNotify=false
 X-AppInstall-Package=slashem-gtk

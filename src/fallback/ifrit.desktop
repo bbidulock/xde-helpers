@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=IFRIT 3D Data Visualization
 Name[en_GB]=IFRIT 3D Data Visualisation
@@ -11,7 +9,6 @@ Comment[en_GB]=Visualise numerical simulations in 3D
 Icon=ifrit
 TryExec=/usr/bin/ifrit
 Exec=/usr/bin/ifrit
-Terminal=false
 Categories=Application;Education;Science;Physics;
 StartupNotify=false
 X-AppInstall-Package=ifrit

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GXditview
 GenericName=Ditroff Viewer
@@ -8,7 +6,6 @@ Comment=GNU ditroff file viewer for X
 Icon=postscript-viewer
 TryExec=/usr/bin/gxditview
 Exec=gxditview %f
-Terminal=false
 Categories=Office;Viewer;
 MimeType=text/troff;
 StartupNotify=false

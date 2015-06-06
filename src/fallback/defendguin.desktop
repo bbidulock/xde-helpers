@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Defendguin
 Comment=Save the Penguins
 Icon=defendguin-icon
 TryExec=/usr/bin/defendguin
 Exec=defendguin
-Terminal=false
 Categories=Application;Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=defendguin

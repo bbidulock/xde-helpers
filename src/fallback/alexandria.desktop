@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Alexandria Book Collection Manager
 Name[cs]=Alexandria správce sbírek knih
@@ -41,7 +39,6 @@ Comment[sv]=Hantera din boksamling
 Icon=alexandria
 TryExec=/usr/bin/alexandria
 Exec=/usr/bin/alexandria
-Terminal=false
 Categories=Application;Office;
 StartupNotify=false
 X-AppInstall-Package=alexandria

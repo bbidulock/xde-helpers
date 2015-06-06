@@ -1,10 +1,7 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=xmix
 TryExec=/usr/bin/xmix
 Exec=xmix
-Terminal=false
 Categories=Audio;Mixer;
 StartupNotify=false

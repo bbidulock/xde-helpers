@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Seq24
 Comment=MIDI Sequencer
 Icon=_usr_share_pixmaps_seq24
 TryExec=/usr/bin/seq24
 Exec=seq24
-Terminal=false
 Categories=AudioVideo;Audio;
 StartupNotify=false
 X-AppInstall-Package=seq24

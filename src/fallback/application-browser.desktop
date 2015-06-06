@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Application Browser
 Name[af]=Toepassingrondblaaier
@@ -9,11 +7,8 @@ Name[bn]=প্রয়োগের ব্রাঊজার
 Name[ca]=Navegador d'aplicacions
 Name[cs]=Prohlížeč aplikací
 Name[da]=Gennemse programmer
-Name[de]=Application Browser
 Name[dz]=གློག་རིམ་བརའུ་ཟར་
 Name[el]=Περιηγητής Εφαρμογών
-Name[en_CA]=Application Browser
-Name[en_GB]=Application Browser
 Name[en_IGID]=Agidappligidicigidashigidon Brigidowsigider
 Name[es]=Navegador de aplicaciones
 Name[et]=Rakenduste sirvija
@@ -44,7 +39,6 @@ Name[zh_TW]=應用程式瀏覽器
 Name[zu]=Isipheqi Sohlelo
 TryExec=/usr/bin/application-browser
 Exec=/usr/bin/application-browser
-Terminal=false
 NoDisplay=true
 StartupNotify=true
 X-SuSE-translate=true

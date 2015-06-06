@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=FSLView
 GenericName=MRI Image Viewer
@@ -10,7 +8,6 @@ Comment[de]=Dieses Programm gehört zu FSL
 Icon=fslview.xpm
 TryExec=/usr/bin/fslview
 Exec=fslview %F
-Terminal=false
 Categories=Education;Graphics;Science;Viewer;DataVisualization;MedicalSoftware;Qt;
 StartupNotify=false
 X-AppInstall-Package=fslview

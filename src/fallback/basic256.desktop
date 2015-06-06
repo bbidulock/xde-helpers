@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=BASIC-256
 Comment=Learn BASIC in an environment designed for young children
@@ -10,7 +8,6 @@ Comment[es]=Aprende BASIC en un entorno diseñado para niños.
 Comment[fr]=Apprend BASIC dans un environnement visé aux jeunes enfants.
 TryExec=/usr/bin/basic256
 Exec=basic256
-Terminal=false
 Categories=Education;Science;ComputerScience;
 StartupNotify=false
 X-AppInstall-Package=basic256

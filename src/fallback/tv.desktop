@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=TV Card
 Name[af]=TV-kaart
@@ -82,7 +80,6 @@ GenericName[zh_TW]=設定電視卡
 Icon=yast-tv
 TryExec=/sbin/yast2
 Exec=/sbin/yast2 tv
-Terminal=false
 Categories=Settings;System;Qt;X-SuSE-YaST;X-SuSE-YaST-Hardware;
 StartupNotify=true
 X-KDE-HasReadOnlyMode=true

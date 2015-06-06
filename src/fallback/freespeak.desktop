@@ -1,10 +1,6 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=FreeSpeak
-Name[fr]=FreeSpeak
-Name[it]=FreeSpeak
 GenericName=A free frontend to online translator engines
 GenericName[fr]=Une interface pour les moteurs de traduction en ligne
 GenericName[it]=Un frontend libero ai motori di traduzione online
@@ -14,7 +10,6 @@ Comment[it]=Un frontend libero ai motori di traduzione online
 Icon=freespeak
 TryExec=/usr/bin/freespeak
 Exec=freespeak
-Terminal=false
 Categories=Education;Translation;
 StartupNotify=true
 X-AppInstall-Package=freespeak

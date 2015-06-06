@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Xtetris
 Comment=A classical tetris game for X11
 Icon=xtetris.png
 TryExec=/usr/bin/xtetris
 Exec=xtetris
-Terminal=false
 Categories=Game;BlocksGame;
 StartupNotify=false
 X-AppInstall-Package=xtetris

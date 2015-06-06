@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Lingot
 Comment=LINGOT Is Not a Guitar-Only Tuner
@@ -8,7 +6,6 @@ Comment[cs]=(Nejen kytarová) ladička
 Icon=_usr_share_pixmaps_lingot_lingot-icon
 TryExec=/usr/bin/lingot
 Exec=lingot
-Terminal=false
 Categories=AudioVideo;GNOME;GTK;
 StartupNotify=false
 X-AppInstall-Package=None

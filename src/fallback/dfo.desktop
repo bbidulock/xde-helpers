@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Desktop Flickr Organizer
 Comment=Desktop Flickr Organizer for Gnome
 Icon=_usr_share_dfo_icons_FontBookSquareThumbnail
 TryExec=/usr/bin/dfo
 Exec=dfo
-Terminal=false
 Categories=Graphics;GNOME;GTK;
 StartupNotify=true
 X-AppInstall-Package=dfo

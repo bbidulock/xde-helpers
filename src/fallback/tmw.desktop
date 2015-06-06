@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=The Mana World
 Name[fr]=Le Monde de Mana
@@ -12,7 +10,6 @@ Comment[nl]=Een online role playing game
 Icon=tmw
 TryExec=/usr/bin/tmw
 Exec=tmw
-Terminal=false
 Categories=Application;Game;
 StartupNotify=false
 X-AppInstall-Package=tmw

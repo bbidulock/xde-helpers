@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Chemtool
 GenericName=Chemistry Structure Editor
@@ -8,7 +6,6 @@ Comment=Draw and make calculations on chemical structures
 Icon=chemtool
 TryExec=/usr/bin/chemtool
 Exec=chemtool
-Terminal=false
 Categories=Education;Science;Chemistry;
 MimeType=application/x-chemtool;
 StartupNotify=false

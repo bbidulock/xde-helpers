@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=CodeLite
 Icon=_usr_share_codelite_images_cubes
 TryExec=/usr/bin/codelite
 Exec=codelite %f
-Terminal=false
 Categories=Development;
 StartupNotify=true
 X-AppInstall-Package=codelite

@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=MDB Viewer
 Comment=View and export Microsoft Access databases
 Icon=gmdb2.xpm
 TryExec=/usr/bin/gmdb2
 Exec=gmdb2
-Terminal=false
 Categories=Application;Office;
 StartupNotify=true
 X-AppInstall-Package=mdbtools-git

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Mono IL Contrast
 GenericName=Assembly Comparison Tool
@@ -8,7 +6,6 @@ Comment=Identify differences in the API exposed by mono library assemblies.
 Icon=monodoc
 TryExec=/usr/bin/ilcontrast
 Exec=/usr/bin/ilcontrast
-Terminal=false
 Categories=Development;Profiling;
 StartupNotify=true
 X-AppInstall-Package=mono-tools-gui

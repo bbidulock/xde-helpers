@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Caribou
 GenericName=Virtual on-screen keyboard
@@ -8,7 +6,6 @@ Comment=Enter text with a virtual keyboard
 Icon=caribou
 TryExec=/usr/bin/caribou
 Exec=caribou
-Terminal=false
 NoDisplay=true
 Categories=Utility;Accessibility;GNOME;GTK;
 StartupNotify=true

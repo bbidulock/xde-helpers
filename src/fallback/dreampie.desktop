@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=DreamPie
 Comment=An interactive Python shell
 Icon=dreampie
 TryExec=/usr/bin/dreampie
 Exec=dreampie
-Terminal=false
 Categories=Development;GTK;
 StartupNotify=true
 X-AppInstall-Package=dreampie

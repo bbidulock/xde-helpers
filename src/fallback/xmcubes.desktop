@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=xmcubes
 GenericName=cubes game
 Icon=_usr_share_pixmaps_xcubes.m
 TryExec=/usr/games/xmcubes
 Exec=/usr/games/xmcubes
-Terminal=false
 Categories=Game;
 StartupNotify=false
 X-AppInstall-Package=xmpuzzles

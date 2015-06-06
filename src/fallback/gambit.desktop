@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gambit Game Analysis
 Comment=Construction and analysis of finite extensive and normal form games
 Icon=gambit
 TryExec=/usr/bin/gambit
 Exec=gambit
-Terminal=false
 Categories=Education;Science;Math;
 StartupNotify=false
 X-AppInstall-Package=gambit

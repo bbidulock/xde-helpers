@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Figaro's Password Manager 2
 GenericName=Password Manager
@@ -18,7 +16,6 @@ Comment[se]=Hantera lösenord
 Icon=_usr_share_pixmaps_fpm2_logo
 TryExec=/usr/bin/fpm2
 Exec=fpm2 %f
-Terminal=false
 Categories=Utility;GTK;
 StartupNotify=true
 X-AppInstall-Package=fpm2

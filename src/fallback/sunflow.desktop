@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Sunflow
 Comment=Photorealistic Rendering Engine
 Icon=sunflow.png
 TryExec=/usr/bin/sunflow
 Exec=sunflow
-Terminal=false
 Categories=Graphics;3DGraphics;
 StartupNotify=false
 X-AppInstall-Package=sunflow

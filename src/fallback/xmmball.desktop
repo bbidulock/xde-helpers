@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=xmmball
 GenericName=mball game
 Icon=_usr_share_pixmaps_xmball.m
 TryExec=/usr/games/xmmball
 Exec=/usr/games/xmmball
-Terminal=false
 Categories=Game;
 StartupNotify=false
 X-AppInstall-Package=xmpuzzles

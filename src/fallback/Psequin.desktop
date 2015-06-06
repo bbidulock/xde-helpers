@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Sequin DNA Sequence Submission Tool
 GenericName=Sequence Submission Tool
@@ -8,7 +6,6 @@ Comment=Submit DNA sequences to the GenBank, EMBL, and DDBJ databases
 Icon=ncbilogo
 TryExec=/usr/bin/Psequin
 Exec=Psequin
-Terminal=false
 Categories=Education;Science;Biology;
 StartupNotify=false
 X-AppInstall-Package=ncbi-tools-x11

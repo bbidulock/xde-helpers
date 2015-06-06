@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Configure Your Computer
 Name[ar]=اضبط حاسوبك
@@ -107,6 +105,5 @@ Comment[zh_TW]=設定您的電腦
 Icon=drakconf
 TryExec=/usr/bin/drakconf
 Exec=drakconf
-Terminal=false
 Categories=System;GTK;X-MandrivaLinux-CrossDesktop;
 StartupNotify=false

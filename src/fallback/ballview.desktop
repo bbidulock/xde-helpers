@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=BALLView
 GenericName=Molecular modeling and visualization tool
 Icon=ballview
 TryExec=/usr/bin/BALLView
 Exec=BALLView
-Terminal=false
 Categories=Education;Science;Chemistry;
 MimeType=chemical/x-pdb;chemical/x-mdl-molfile;chemical/x-mol2;
 StartupNotify=false

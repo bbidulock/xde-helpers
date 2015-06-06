@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Browse Available Software
 Name[ar]=استعرض البرامج المتوفرة
@@ -101,7 +99,6 @@ Comment[zh_TW]=檢視已安裝及可用的套件
 Icon=rpmdrake
 TryExec=/usr/bin/rpmdrake
 Exec=rpmdrake
-Terminal=false
 NoDisplay=true
 Categories=System;PackageManager;GTK;X-MandrivaLinux-CrossDesktop;
 StartupNotify=false

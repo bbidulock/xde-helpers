@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=7-Zip FM
 GenericName=7-Zip File Manager
 Icon=p7zip
 TryExec=/usr/bin/7zFM
 Exec=7zFM
-Terminal=false
 Categories=Utility;Archiving;Compression;GTK;
 StartupNotify=false

@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Linux Audit Framework (LAF)
 GenericName=audit-laf
 Icon=yast-audit-laf
 TryExec=/sbin/yast2
 Exec=/sbin/yast2 audit-laf
-Terminal=false
 Categories=Settings;System;Qt;X-SuSE-YaST;X-SuSE-YaST-Security;
 StartupNotify=true
 X-KDE-HasReadOnlyMode=true

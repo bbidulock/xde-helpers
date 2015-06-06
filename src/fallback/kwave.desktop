@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Kwave Sound Editor
 Name[de]=Kwave Sound-Editor
@@ -14,7 +12,6 @@ Comment[fr]=Un éditeur de sons pour KDE
 Icon=kwave
 TryExec=/usr/bin/kwave
 Exec=kwave %F
-Terminal=false
 Categories=AudioVideo;Audio;AudioVideoEditing;Player;Recorder;KDE;Qt;
 MimeType=audio/wav;audio/x-wav;audio/basic;audio/x-aifc;audio/x-aiff;audio/x-ircam;application/x-flac;audio/x-flac;audio/x-ogg;application/ogg;
 StartupNotify=false

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Evolution Mail
 Name[da]=Evolution - e-post-program
@@ -15,7 +13,6 @@ Name[nb]=Evolution e-post
 Name[nn]=Evolution e-post
 Name[no]=Evolution e-post
 Name[pt_BR]=Leitor de E-mail Evolution
-Name[ro]=Evolution Mail
 Name[sv]=Evolution e-post
 Name[xh]=I-Imeyili ye-Evolution
 Name[zh_CN]=Evolution 电子邮件
@@ -39,7 +36,6 @@ Comment[zh_CN]=Evolution 电子邮件
 Icon=evolution
 TryExec=/usr/bin/evolution
 Exec=evolution --component=mail
-Terminal=false
 Categories=Network;GNOME;
 StartupNotify=true
 X-GNOME-Bugzilla-Bugzilla=GNOME

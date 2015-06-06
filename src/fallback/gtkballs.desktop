@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GtkBalls
 GenericName=GtkBalls
@@ -8,7 +6,6 @@ Comment=Puzzle game
 Icon=gtkballs_16x16
 TryExec=/usr/games/gtkballs
 Exec=/usr/games/gtkballs
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=gtkballs

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Nautilus scripts manager
 Name[it]=Gestore di script per Nautilus
@@ -9,7 +7,6 @@ Comment[it]=Abilita e disabilita gli script per Nautilus
 Icon=nautilus-scripts-manager.svg
 TryExec=/usr/bin/nautilus-scripts-manager
 Exec=nautilus-scripts-manager
-Terminal=false
 Categories=Settings;
 StartupNotify=false
 X-AppInstall-Package=nautilus-scripts-manager

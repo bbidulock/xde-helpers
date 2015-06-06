@@ -1,13 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Mount-gtk
-Name[en_GB]=Mount-gtk
 Icon=drive-removable-media
 TryExec=/usr/bin/mount-gtk
 Exec=mount-gtk
-Terminal=false
 Categories=Utility;GTK;
 StartupNotify=false
 X-AppInstall-Package=mount-gtk2

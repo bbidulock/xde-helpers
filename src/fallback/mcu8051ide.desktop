@@ -1,17 +1,11 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=MCU 8051 IDE
-Name[en_US]=MCU 8051 IDE
 GenericName=MCU 8051 IDE
-GenericName[en_US]=MCU 8051 IDE
 Comment=Graphical IDE for MCS-51 based microcontrollers
-Comment[en_US]=Graphical IDE for MCS-51 based microcontrollers
 Icon=mcu8051ide
 TryExec=/usr/bin/mcu8051ide
 Exec=mcu8051ide
-Terminal=false
 Categories=Development;
 StartupNotify=false
 X-KDE-SubstituteUID=false

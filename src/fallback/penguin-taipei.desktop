@@ -1,11 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Penguin Taipei
 TryExec=/usr/games/ace-taipei
 Exec=/usr/games/ace-taipei
-Terminal=false
 Categories=Game;BoardGame;
 StartupNotify=false
 X-AppInstall-Package=ace-of-penguins

@@ -1,11 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=NoteEdit
 Name[de]=Noteneditor
 Name[pl]=Edytor nut
-Name[sl]=NoteEdit
 Name[sv]=Notredigerare
 Comment=Note editor
 Comment[de]=Noteneditor
@@ -16,7 +13,6 @@ Icon=noteedit
 TryExec=/usr/bin/noteedit
 Exec=noteedit %i %m -caption "%c"
 ServiceTypes=Browser/View;
-Terminal=false
 Categories=AudioVideo;Audio;KDE;Qt;
 MimeType=audio/x-notes;
 StartupNotify=false

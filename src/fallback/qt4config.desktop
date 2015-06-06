@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Qt 4 Settings
 Name[af]=Qt 4-instellings
@@ -44,7 +42,6 @@ Name[zu]=Amasethingi e-Qt 4
 Icon=designer
 TryExec=/usr/bin/qtconfig-qt4
 Exec=/usr/bin/qtconfig-qt4
-Terminal=false
 Categories=Settings;Utility;DesktopSettings;Qt;
 StartupNotify=false
 X-KDE-StartupNotify=true

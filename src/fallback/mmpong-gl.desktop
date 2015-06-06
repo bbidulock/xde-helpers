@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=mmpong-gl
 Comment=massively multiplayer pong game
 Icon=mmpong-gl
 TryExec=/usr/bin/mmpong-gl
 Exec=mmpong-gl
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=mmpong-gl

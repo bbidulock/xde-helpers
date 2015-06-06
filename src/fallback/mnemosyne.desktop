@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Mnemosyne
 Comment=A flash card program to make your review process more efficient
 Icon=mnemosyne
 TryExec=/usr/bin/mnemosyne
 Exec=mnemosyne %f
-Terminal=false
 Categories=Education;
 StartupNotify=false
 X-AppInstall-Package=mnemosyne

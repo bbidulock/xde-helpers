@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=gquilt Patch Manager
 Icon=gquilt.xpm
 TryExec=/usr/bin/gquilt
 Exec=gquilt
-Terminal=false
 Categories=Development;RevisionControl;
 StartupNotify=false
 X-AppInstall-Package=gquilt

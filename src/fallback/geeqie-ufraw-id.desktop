@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Edit UFRaw ID file
 Name[ca]=Edita la ID del fitxer UFRAW
@@ -18,7 +16,6 @@ Name[sv]=Redigera ID-filen till UFRaw
 Icon=ufraw
 TryExec=/usr/bin/ufraw
 Exec=ufraw --create-id=only %U
-Terminal=false
 OnlyShowIn=X-Geeqie;
 Categories=X-Geeqie;
 MimeType=application/x-ufraw;image/x-dcraw;

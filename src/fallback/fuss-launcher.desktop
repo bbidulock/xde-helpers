@@ -1,11 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Fuss Application Launcher
 TryExec=/usr/bin/fuss-launcher
 Exec=fuss-launcher
-Terminal=false
 StartupNotify=false
 X-KDE-autostart-after=panel
 X-KDE-autostart-phase=2

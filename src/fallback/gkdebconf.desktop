@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GkDebconf
 Comment=Helper to reconfigure packages
@@ -8,7 +6,6 @@ Icon=_usr_share_pixmaps_gkdebconf-icon
 TryExec=/usr/bin/gkdebconf
 Exec=gkdebconf
 MultipleArgs=false
-Terminal=false
 Categories=Application;System;
 StartupNotify=false
 X-AppInstall-Package=gkdebconf

@@ -1,16 +1,12 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Pyragua
 GenericName=Integrated Development Environment
-GenericName[en_GB]=Integrated Development Environment
 GenericName[es]=Entorno Integrado de Desarrollo
 Comment=A fast and lightweight IDE using wxPython
 Icon=pyragua
 TryExec=/usr/bin/pyragua
 Exec=pyragua %F
-Terminal=false
 Categories=Development;IDE;
 StartupNotify=true
 X-AppInstall-Package=pyragua

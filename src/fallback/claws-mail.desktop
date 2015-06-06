@@ -1,10 +1,6 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Claws Mail
-Name[es]=Claws Mail
-Name[ja]=Claws Mail
 GenericName=E-mail client
 GenericName[ca]=Client de correu electrònic
 GenericName[cs]=E-mailový klient
@@ -38,7 +34,6 @@ Comment[sv]=Lättviktig och snabb GTK+-baserad E-postklient
 Icon=claws-mail
 TryExec=/usr/bin/claws-mail
 Exec=claws-mail %u
-Terminal=false
 Categories=Network;Email;GTK;
 Keywords=lightweight;fast;gui;extensible;plugin;pop;pop3;imap;imap4;nntp;news;
 MimeType=x-scheme-handler/mailto;
@@ -57,13 +52,16 @@ X-Info=Claws Mail
 Actions=GetMail;ComposeMail;SendFile;
 
 [Desktop Action GetMail]
-Exec=claws-mail --receive-all
 Name=Get Mail
+TryExec=/usr/bin/claws-mail
+Exec=claws-mail --receive-all
 
 [Desktop Action ComposeMail]
-Exec=claws-mail --compose
 Name=Email...
+TryExec=/usr/bin/claws-mail
+Exec=claws-mail --compose
 
 [Desktop Action SendFile]
-Exec=claws-mail --compose --attach %f
 Name=Send file...
+TryExec=/usr/bin/claws-mail
+Exec=claws-mail --compose --attach %f

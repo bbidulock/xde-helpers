@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Tucan Manager
 Comment=Download and upload manager for hosting sites.
 Icon=tucan
 TryExec=/usr/bin/tucan
 Exec=tucan
-Terminal=false
 Categories=Network;FileTransfer;GTK;
 StartupNotify=true
 X-AppInstall-Package=tucan

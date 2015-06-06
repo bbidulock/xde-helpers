@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=PIX Bros
 GenericName=pixbros
@@ -8,7 +6,6 @@ Comment=2D game inspired in Bubble Bobble, Snow Bros and Tumble Pop
 Icon=pixbros
 TryExec=/usr/bin/pixbros
 Exec=pixbros
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=pixbros

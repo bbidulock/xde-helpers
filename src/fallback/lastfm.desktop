@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Last.fm
 Comment=Listen to Last.fm radio
 Icon=lastfm
 TryExec=/usr/bin/lastfm
 Exec=/usr/bin/lastfm
-Terminal=false
 Categories=AudioVideo;Audio;Qt;
 StartupNotify=true
 X-AppInstall-Package=lastfm

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=OpenCity
 GenericName=City simulator
@@ -10,7 +8,6 @@ Comment[fr]=Un jeu de simulation de ville en 3D
 Icon=opencity
 TryExec=/usr/bin/opencity
 Exec=opencity
-Terminal=false
 Categories=Game;StrategyGame;
 StartupNotify=false
 X-AppInstall-Package=opencity

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Patch CD Update
 Name[af]=Stel CD-bywerking reg
@@ -92,7 +90,6 @@ GenericName[zu]=Faka izichibiyelo ezivela kwi-CD ukuze ulungise futhi uthuthukis
 Icon=yast-cd_update
 TryExec=/sbin/yast2
 Exec=/sbin/yast2 online_update cd_update
-Terminal=false
 Categories=Settings;System;Qt;X-SuSE-YaST;X-SuSE-YaST-Software;
 StartupNotify=true
 X-KDE-HasReadOnlyMode=true

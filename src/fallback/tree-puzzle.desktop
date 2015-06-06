@@ -1,12 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=tree-puzzle
 GenericName=Reconstruction of phylogenetic trees
-GenericName[en]=Reconstruction of phylogenetic trees
 Comment=Reconstruction of phylogenetic trees by maximum likelihood
-Comment[en]=Reconstruction of phylogenetic trees by maximum likelihood
 Icon=tree-puzzle
 TryExec=/usr/bin/tree-puzzle
 Exec=tree-puzzle

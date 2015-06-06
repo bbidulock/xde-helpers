@@ -1,14 +1,6 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=LongoMatch
-Name[cs]=LongoMatch
-Name[da]=LongoMatch
-Name[de]=LongoMatch
-Name[es]=LongoMatch
-Name[sl]=LongoMatch
-Name[sv]=LongoMatch
 X-GNOME-FullName=LongoMatch: The Digital Coach
 X-GNOME-FullName[cs]=LongoMatch: Digitální rozhodčí
 X-GNOME-FullName[da]=LongoMatch: Den digitale træner
@@ -24,7 +16,6 @@ Comment[sl]=Orodje za analizo posnetkov tekem za trenerje
 Icon=longomatch
 TryExec=/usr/bin/longomatch
 Exec=longomatch
-Terminal=false
 Categories=AudioVideo;Video;AudioVideoEditing;Player;
 StartupNotify=false
 X-GNOME-Bugzilla-Bugzilla=GNOME

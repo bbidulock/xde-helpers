@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Qt Designer
 GenericName=Interface Designer
@@ -8,7 +6,6 @@ Comment=Design GUIs for Qt applications
 Icon=QtProject-designer
 TryExec=/usr/lib/qt/bin/designer
 Exec=/usr/lib/qt/bin/designer
-Terminal=false
 Categories=Development;Qt;
 MimeType=application/x-designer;
 StartupNotify=false

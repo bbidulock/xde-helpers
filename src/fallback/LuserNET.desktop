@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=LuserNET News Reader
 Name[bg]=Четец на новини (LuserNET)
@@ -9,7 +7,6 @@ Comment[bg]=Четец на новини за GNUstep
 Icon=_usr_share_GNUstep_LuserNET.app_News.app
 TryExec=/usr/bin/LuserNET
 Exec=LuserNET
-Terminal=false
 Categories=Network;News;
 StartupNotify=false
 X-AppInstall-Package=lusernet.app

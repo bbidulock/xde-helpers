@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Googlizer
 Comment=Search Google for whatever's in the X selection
 Icon=googlizer.png
 TryExec=/usr/bin/googlizer
 Exec=googlizer
-Terminal=false
 Categories=Application;Network;
 StartupNotify=false
 X-AppInstall-Package=googlizer

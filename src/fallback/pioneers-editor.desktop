@@ -1,12 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Pioneers Editor
 Name[af]=Pioniers-redigeerder
-Name[cs]=Pioneers Editor
 Name[da]=Editor for Pioneers
-Name[de]=Pioneers Editor
 Name[es]=Editos de Pioneers
 Name[fr]=Éditeur de partie
 Name[hu]=Pioneers szerkesztő
@@ -26,7 +22,6 @@ Comment[sv]=Skapa ett egna spel för Pioneers
 Icon=pioneers-editor.png
 TryExec=/usr/bin/pioneers-editor
 Exec=pioneers-editor
-Terminal=false
 Categories=Game;BoardGame;GNOME;GTK;
 StartupNotify=false
 X-AppInstall-Package=pioneers

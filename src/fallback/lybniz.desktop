@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Lybniz Graph Plotter
 Comment=Plot graphs and functions
 Icon=lybniz
 TryExec=/usr/bin/lybniz
 Exec=lybniz
-Terminal=false
 Categories=Education;
 StartupNotify=true
 X-AppInstall-Package=lybniz

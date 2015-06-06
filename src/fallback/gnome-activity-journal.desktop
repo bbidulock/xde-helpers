@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Activity Journal
 Name[ca]=Diari d'activitats
@@ -38,7 +36,6 @@ Comment[zh_CN]=浏览按时间顺序排列的活动志，轻松找到文件。
 Icon=gnome-activity-journal
 TryExec=/usr/bin/gnome-activity-journal
 Exec=gnome-activity-journal
-Terminal=false
 Categories=Utility;GTK;
 StartupNotify=false
 X-AppInstall-Package=gnome-activity-journal

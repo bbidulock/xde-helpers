@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Chemical calculator
 Name[de]=Chemie-Rechner
@@ -21,7 +19,6 @@ Comment[zh_TW]=化學簡易計算機
 Icon=gchemcalc
 TryExec=/usr/bin/gchemcalc-0.12
 Exec=gchemcalc-0.12
-Terminal=false
 Categories=Education;Science;Chemistry;GNOME;GTK;
 StartupNotify=false
 X-AppInstall-Package=gcu-bin

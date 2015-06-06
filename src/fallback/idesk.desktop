@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Idesk
 Comment=Place icons on the desktop
 Icon=folder_home.png
 TryExec=/usr/bin/idesk
 Exec=idesk
-Terminal=false
 Hidden=true
 OnlyShowIn=FLUXBOX;BLACKBOX;OPENBOX;ICEWM;JWM;PEKWM;ADWM;
 Categories=Application;Utility;

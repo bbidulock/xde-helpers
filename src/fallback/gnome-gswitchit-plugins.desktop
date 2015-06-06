@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Keyboard Indicator plugins
 Name[bg]=Модули за индикатора на клавиатурата
@@ -115,7 +113,6 @@ Comment[zh_TW]=啟用/停用已安裝的外掛程式
 Icon=gnome-dev-keyboard
 TryExec=/usr/bin/gswitchit-plugins-capplet
 Exec=gswitchit-plugins-capplet
-Terminal=false
 NoDisplay=true
 OnlyShowIn=GNOME;
 Categories=Application;Settings;System;AdvancedSettings;

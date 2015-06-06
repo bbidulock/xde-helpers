@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=D-Feet D-Bus Debugger
 GenericName=D-Bus Debugger
@@ -9,7 +7,6 @@ Comment=Debug D-Bus applications
 Icon=dfeet-icon
 TryExec=/usr/bin/d-feet
 Exec=d-feet
-Terminal=false
 Categories=Development;GNOME;GTK;
 StartupNotify=false
 X-AppInstall-Package=d-feet

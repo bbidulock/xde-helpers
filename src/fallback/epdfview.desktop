@@ -1,10 +1,6 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=ePDFViewer
-Name[ca]=ePDFViewer
-Name[es]=ePDFViewer
 GenericName=PDF Viewer
 GenericName[ca]=Visor PDF
 GenericName[es]=Visor PDF
@@ -14,7 +10,6 @@ Comment[es]=Visor de documentos PDF ligero
 Icon=icon_epdfview-48
 TryExec=/usr/bin/epdfview
 Exec=epdfview %f
-Terminal=false
 Categories=Office;Viewer;GTK;
 MimeType=application/pdf;
 StartupNotify=false

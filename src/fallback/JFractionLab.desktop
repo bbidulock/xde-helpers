@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=JFractionLab
 Comment=Calculate Fractions is fun!
@@ -8,7 +6,6 @@ Comment[es]=¡Calcular con fracciones es divertido!
 Icon=_usr_share_jfractionlab_images_jfractionlab_icon
 TryExec=/usr/bin/JFractionLab
 Exec=JFractionLab
-Terminal=false
 Categories=Application;Education;Math;
 StartupNotify=false
 X-KDE-SubstituteUID=false

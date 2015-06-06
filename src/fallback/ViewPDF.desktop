@@ -1,12 +1,10 @@
 [Desktop Entry]
 Version=0.94
-Encoding=UTF-8
 Type=Application
 Name=ViewPDF
 Comment=A spicy PDF Reader.
 TryExec=/usr/bin/ViewPDF
 Exec=ViewPDF
-Terminal=false
 Categories=Office;Viewer;
 MimeType=application/pdf;
 StartupNotify=false

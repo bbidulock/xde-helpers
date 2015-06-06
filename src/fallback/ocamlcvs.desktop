@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=OCamlCVS
 GenericName=Handle CVS
@@ -9,7 +7,6 @@ Comment=Visual utility to manage CVS files
 Comment[fr]=Utilitaire visuel pour gérer les fichiers sous CVS
 TryExec=/usr/bin/ocamlcvs2.byte
 Exec=ocamlcvs2.byte
-Terminal=false
 Categories=Development;RevisionControl;GTK;
 StartupNotify=false
 X-AppInstall-Package=cameleon

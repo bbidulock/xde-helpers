@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Bos Wars
 GenericName=boswars
@@ -8,7 +6,6 @@ Comment=Battle for survival
 Icon=boswars
 TryExec=/usr/bin/boswars
 Exec=boswars
-Terminal=false
 Categories=Game;StrategyGame;
 StartupNotify=false
 X-AppInstall-Package=boswars

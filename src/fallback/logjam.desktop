@@ -1,18 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=LogJam
-Name[de]=LogJam
-Name[en_US.UTF-8]=LogJam
-Name[es]=LogJam
 Name[he]=לוגג'ם
-Name[ja]=LogJam
-Name[ru_RU]=LogJam
-Name[uk_UA]=LogJam
 Comment=Manage journal/weblog
 Comment[de]=Journal/Weblog managen
-Comment[en_US.UTF-8]=Manage journal/weblog
 Comment[es]=Gestionar diario/weblog
 Comment[he]=נהל יומן
 Comment[ja]=日記/ブログを管理
@@ -21,7 +12,6 @@ Comment[uk_UA]=Керування веб-журналами
 Icon=logjam.png
 TryExec=/usr/bin/logjam
 Exec=logjam
-Terminal=false
 Categories=Application;Network;
 StartupNotify=true
 X-AppInstall-Package=logjam

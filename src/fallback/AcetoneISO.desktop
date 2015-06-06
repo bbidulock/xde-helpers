@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=AcetoneISO
 GenericName=CD/DVD image manipulator
@@ -10,7 +8,6 @@ GenericName[ru]=Манипулятор CD/DVD образов
 Icon=Acetino2
 TryExec=/usr/bin/acetoneiso
 Exec=acetoneiso %f
-Terminal=false
 Categories=AudioVideo;DiscBurning;KDE;Qt;
 MimeType=application/x-iso;
 StartupNotify=true

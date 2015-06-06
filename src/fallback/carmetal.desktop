@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=CaRMetal
 Comment=CaRMetal interactive geometry
 Icon=CaRMetal.png
 TryExec=/usr/bin/carmetal
 Exec=carmetal
-Terminal=false
 Categories=Application;Education;Math;
 MimeType=application/x-carmetal;
 StartupNotify=true

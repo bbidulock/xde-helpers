@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Entagged
 Comment=Tag Editor
@@ -8,7 +6,6 @@ Comment[fr]=Editeur de Tags
 Icon=entagged.png
 TryExec=/usr/bin/entagged
 Exec=entagged
-Terminal=false
 Categories=AudioVideo;
 StartupNotify=false
 X-AppInstall-Package=entagged

@@ -1,11 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Digital TV Setup
 Name[cs]=Nastavení digitální TV
 Name[de]=Digital Fernsehen Einstellungen
-Name[en_GB]=Digital TV Setup
 Name[es]=Ajustes de televisión digital
 Name[fr]=Réglage DVB
 Name[pl]=Ustawienia Cyfrowej TV
@@ -15,7 +12,6 @@ Comment[ar]=إعداد التلفاز الرقمي
 Comment[cs]=Nastavit digitální TV
 Comment[da]=Opsætning af digitalt tv
 Comment[de]=Digitales Fernsehen einrichten
-Comment[en_GB]=Setup digital TV
 Comment[es]=Configurar la TV digital
 Comment[fr]=Réglage TV numérique
 Comment[pl]=Skonfiguruj telewizję cyfrową
@@ -25,7 +21,6 @@ Comment[tr]=Dijital TV kurulumu
 Icon=gnome-dvb-setup
 TryExec=/usr/bin/gnome-dvb-setup
 Exec=gnome-dvb-setup
-Terminal=false
 Categories=AudioVideo;HardwareSettings;TV;GNOME;GTK;
 StartupNotify=false
 X-AppInstall-Package=gnome-dvb-client

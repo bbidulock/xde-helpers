@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Boa Constructor
 Comment=RAD Tool for Python and WxWindows
@@ -8,7 +6,6 @@ Icon=boa-constructor
 TryExec=/usr/bin/boa-constructor
 Exec=boa-constructor
 X-MultipleArgs=false
-Terminal=false
 Categories=Development;Debugger;GUIDesigner;
 StartupNotify=true
 X-AppInstall-Package=boa-constructor

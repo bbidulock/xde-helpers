@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Certificate and Key Storage
 Name[af]=Sertifikaat- en sleutelberging
@@ -18,7 +16,6 @@ Name[cs]=Odemknout certifikáty a umístění klíčů
 Name[da]=Certifikat- og nøglelager
 Name[de]=Zertifikat-/Schlüsselverwahrung
 Name[el]=Αποθήκη πιστοποιητικών και κλειδιών
-Name[en_GB]=Certificate and Key Storage
 Name[eo]=Memorejo de atestiloj kaj ŝlosiloj
 Name[es]=Certificados y almacenamiento de claves
 Name[et]=Sertifikaadi- ja võtmehoidla
@@ -86,7 +83,6 @@ Comment[cs]=Klíčenka GNOME: komponenta PKCS#11
 Comment[da]=GNOME-nøgleringsdæmon: PKCS#11-komponent
 Comment[de]=GNOME-Schlüsselbunddienst: PKCS#11-Komponente
 Comment[el]=Κλειδοθήκη GNOME: Συστατικό στοιχείο PKCS#11
-Comment[en_GB]=GNOME Keyring: PKCS#11 Component
 Comment[es]=Depósito de claves de GNOME: Componente PKCS#11
 Comment[et]=GNOME võtmerõngas: PKCS#11 komponent
 Comment[eu]=GNOMEren gako-sorta: PKCS#11 osagaia
@@ -139,7 +135,6 @@ Comment[zh_HK]=GNOME 密碼匙圈：PKCS#11 元件
 Comment[zh_TW]=GNOME 鑰匙圈：PKCS#11 元件
 TryExec=/usr/bin/gnome-keyring-daemon
 Exec=/usr/bin/gnome-keyring-daemon --start --components=pkcs11
-Terminal=false
 OnlyShowIn=GNOME;MATE;Unity;
 StartupNotify=false
 X-GNOME-Autostart-Notify=true

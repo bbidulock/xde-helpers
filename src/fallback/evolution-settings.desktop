@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Email Settings
 Name[bg]=Настройки на е-поща
@@ -86,7 +84,6 @@ Comment[zh_TW]=設定郵件帳號
 Icon=evolution
 TryExec=/usr/bin/evolution-settings
 Exec=evolution-settings
-Terminal=false
 OnlyShowIn=GNOME;
 Categories=Settings;GNOME;GTK;X-GNOME-PersonalSettings;
 StartupNotify=true

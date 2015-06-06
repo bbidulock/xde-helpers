@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Sixteen
 Comment=Game similar to Fifteen, but with a different type of move
@@ -9,7 +7,6 @@ Comment[fr]=Jeu similaire à Fifteen, mais avec un type de déplacement différe
 Icon=sixteen
 TryExec=/usr/bin/sixteen
 Exec=sixteen
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=sgt-puzzles

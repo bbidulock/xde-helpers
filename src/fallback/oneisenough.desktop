@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=One Is Enough
 GenericName=oneisenough
@@ -8,7 +6,6 @@ Comment=2D platform game about communist and capitalist balls
 Icon=oneisenough
 TryExec=/usr/bin/oneisenough
 Exec=oneisenough
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=oneisenough

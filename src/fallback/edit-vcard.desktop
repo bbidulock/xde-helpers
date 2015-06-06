@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=My VCard
 Name[es]=Mi vCard
@@ -31,7 +29,6 @@ Comment[zh_CN]=编辑个人名片
 Icon=gpe-contacts
 TryExec=/usr/bin/gpe-contacts
 Exec=gpe-contacts -v
-Terminal=false
 Categories=Application;DesktopSettings;
 StartupNotify=true
 X-SingleInstance=true

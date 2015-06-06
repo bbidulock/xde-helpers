@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Bluetooth Analyzer
 Name[be]=Аналізатар Bluetooth
@@ -61,7 +59,6 @@ Comment[zh_TW]=分析藍芽追蹤檔
 Icon=bluetooth
 TryExec=/usr/bin/bluetooth-analyzer
 Exec=bluetooth-analyzer
-Terminal=false
 OnlyShowIn=GNOME;
 Categories=Application;Utility;
 MimeType=application/x-hcidump;application/x-btsnoop;application/x-pktlog;

@@ -1,11 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GDM flexiserver
 Comment=New GDM Session
 TryExec=/usr/bin/gdmflexiserver
 Exec=gdmflexiserver
-Terminal=false
 Categories=System;Administration;
 StartupNotify=false

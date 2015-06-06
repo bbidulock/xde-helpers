@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=PulseAudio Preferences
 Name[as]=PulseAudio পছন্দ
@@ -130,7 +128,6 @@ Comment[zh_TW]=檢視與修改本機音效伺服器的設定
 Icon=paprefs
 TryExec=/usr/bin/paprefs
 Exec=paprefs
-Terminal=false
 Categories=AudioVideo;Settings;System;Music;GTK;SystemSetup;X-MandrivaLinux-CrossDesktop;
 StartupNotify=true
 X-Desktop-File-Install-Version=0.18

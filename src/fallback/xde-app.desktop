@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Run XDG Application
 GenericName=Launcher
@@ -8,7 +6,6 @@ Comment=Launch an XDG application from the desktop in the background.
 Icon=system-run
 TryExec=/usr/bin/xde-app
 Exec=xde-app
-Terminal=false
 Categories=System;Utility;GTK;
 StartupNotify=true
 StartupWMClass=xde-app

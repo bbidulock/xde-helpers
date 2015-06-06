@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Dreamchess
 GenericName=Chess game
@@ -9,7 +7,6 @@ Comment=a 3D chess game
 Icon=dreamchess
 TryExec=/usr/bin/dreamchess
 Exec=dreamchess
-Terminal=false
 Categories=Game;BoardGame;
 StartupNotify=false
 X-AppInstall-Package=dreamchess

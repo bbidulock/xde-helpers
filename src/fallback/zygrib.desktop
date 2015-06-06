@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=zyGrib GRIB file viewer
 GenericName=GRIB file viewer
@@ -8,7 +6,6 @@ Comment=Multi-protocol Messaging Client
 Icon=zygrib.png
 TryExec=/usr/bin/zyGrib
 Exec=zyGrib
-Terminal=false
 Categories=Application;Meteorology;
 StartupNotify=true
 X-AppInstall-Package=zygrib

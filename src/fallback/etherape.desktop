@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=EtherApe
 Comment=Graphical Network Monitor
 Icon=etherape.png
 TryExec=/usr/bin/etherape
 Exec=etherape
-Terminal=false
 Categories=Network;System;GNOME;
 StartupNotify=false
 X-AppInstall-Package=etherape

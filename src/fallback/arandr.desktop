@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=ARandR
 GenericName=Screen Settings
@@ -8,7 +6,6 @@ GenericName[de]=Bildschirmeinstellungen
 Icon=display
 TryExec=/usr/bin/arandr
 Exec=arandr
-Terminal=false
 Categories=Settings;HardwareSettings;
 StartupNotify=true
 X-AppInstall-Package=arandr

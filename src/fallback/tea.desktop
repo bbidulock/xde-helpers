@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=TEA Text Editor
 GenericName=TEA Editor
@@ -8,7 +6,6 @@ Comment=Text editor with hundreds of functions
 Icon=tea
 TryExec=/usr/bin/tea
 Exec=tea %U
-Terminal=false
 Categories=Utility;TextEditor;
 StartupNotify=false
 X-AppInstall-Package=tea

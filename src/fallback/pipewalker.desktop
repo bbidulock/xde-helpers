@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=PipeWalker
 Comment=Connect all hosts to network!
@@ -9,7 +7,6 @@ Comment[ru]=Объедините все компьютеры в сеть!
 Icon=pipewalker.xpm
 TryExec=/usr/bin/pipewalker
 Exec=pipewalker
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=pipewalker

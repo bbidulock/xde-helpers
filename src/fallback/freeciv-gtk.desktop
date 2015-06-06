@@ -1,13 +1,6 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Freeciv
-Name[ca]=Freeciv
-Name[es]=Freeciv
-Name[fr]=Freeciv
-Name[no]=Freeciv
-Name[pt]=Freeciv
 Comment=Turn-based strategy game inspired by the history of human civilization
 Comment[ca]=Joc d'estratègia inspirat en la història de la civilització humana
 Comment[da]=Strategispil inspireret af den menneskelige civilisations historie
@@ -19,7 +12,6 @@ Comment[sv]=Turordningsbaserat strategispel inspirerat av den mänskliga histori
 Icon=freeciv-client
 TryExec=/usr/bin/freeciv-gtk2
 Exec=freeciv-gtk2
-Terminal=false
 Categories=Game;StrategyGame;GTK;
 StartupNotify=true
 X-AppInstall-Package=freeciv-client-gtk

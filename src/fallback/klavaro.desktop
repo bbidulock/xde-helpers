@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Klavaro
 Comment=Learn to type correctly
@@ -11,7 +9,6 @@ Comment[ru]=Научитесь безошибочно печатать
 Icon=_usr_share_icons_hicolor_24x24_apps_klavaro
 TryExec=/usr/bin/klavaro
 Exec=klavaro
-Terminal=false
 Categories=Education;GTK;
 StartupNotify=true
 X-AppInstall-Package=klavaro

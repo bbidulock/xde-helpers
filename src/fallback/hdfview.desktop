@@ -1,18 +1,12 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=hdfview
-Name[de]=hdfview
-Name[en]=hdfview
 Comment=HDF4/5 Data Browser
 Comment[DE]=HDF4/5 Daten Browser
-Comment[EN]=HDF4/5 Data Browser
 Icon=hdfview
 TryExec=/usr/bin/hdfview
 Exec=/usr/bin/hdfview %F
 X-MultipleArgs=true
-Terminal=false
 Categories=Education;Science;DataVisualization;Physics;
 MimeType=application/x-hdf;
 StartupNotify=false

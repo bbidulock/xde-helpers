@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=UIMA Document Analyzer
 Name[fr]=Analyseur de documents pour UIMA
@@ -9,7 +7,6 @@ Comment[fr]=Lanceur simplifié de composants UIMA
 Icon=UIMA
 TryExec=/usr/bin/documentAnalyzer
 Exec=documentAnalyzer
-Terminal=false
 Categories=Education;Science;Java;
 StartupNotify=false
 X-AppInstall-Package=uima-utils

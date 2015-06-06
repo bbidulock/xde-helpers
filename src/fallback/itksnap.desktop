@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=ITK-SNAP
 GenericName=3D Structure Segmentation
 Icon=itksnap.xpm
 TryExec=/usr/bin/itksnap
 Exec=itksnap %F
-Terminal=false
 Categories=Education;Graphics;Science;Viewer;DataVisualization;MedicalSoftware;
 StartupNotify=false
 X-AppInstall-Package=itksnap

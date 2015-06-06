@@ -1,15 +1,11 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gmerlin KBD
-Name[de]=Gmerlin KBD
 Comment=Configure the Gmerlin keyboard daemon
 Comment[de]=Gmerlin keyboard daemon konfigurieren
 Icon=gmerlin-kbd.png
 TryExec=/usr/bin/gmerlin_kbd_config
 Exec=gmerlin_kbd_config
-Terminal=false
 Categories=Application;AudioVideo;
 StartupNotify=false
 X-AppInstall-Package=gmerlin

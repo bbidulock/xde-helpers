@@ -1,15 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GCipher
-Name[en_US.ISO8859-15]=GCipher
 Comment=A simple encryption tool
-Comment[en_US.ISO8859-15]=A simple encryption tool
 Icon=/usr/share/pixmaps/gnome-lockscreen.png
 TryExec=/usr/bin/gcipher
 Exec=gcipher
-Terminal=false
 Categories=Application;Utility;GNOME;X-Red-Hat-Base;
 StartupNotify=true
 X-AppInstall-Package=gcipher

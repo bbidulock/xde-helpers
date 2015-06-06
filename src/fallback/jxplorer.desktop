@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=JXplorer
 GenericName=LDAP Browser
@@ -8,7 +6,6 @@ Comment=Java LDAP Browser
 Icon=jxplorer
 TryExec=/usr/bin/jxplorer
 Exec=jxplorer
-Terminal=false
 Categories=Development;Network;
 StartupNotify=true
 X-AppInstall-Package=jxplorer

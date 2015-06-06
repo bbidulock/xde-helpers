@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Translator
 Name[af]=Vertaler
@@ -10,7 +8,6 @@ Name[ca]=Traductor
 Name[cy]=Cyfieithydd
 Name[da]=Oversætter
 Name[de]=Übersetzer
-Name[en]=Translator
 Name[eo]=Tradukilo
 Name[es]=Traductor
 Name[eu]=Itzultzailea
@@ -39,7 +36,6 @@ Comment=Translate as you type
 Icon=emblem-web.png
 TryExec=/usr/bin/apertium-tolk
 Exec=apertium-tolk
-Terminal=false
 Categories=Utility;GNOME;GTK;
 StartupNotify=true
 X-AppInstall-Package=apertium-tolk

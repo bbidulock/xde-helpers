@@ -1,10 +1,7 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Mixer.app
 TryExec=/usr/bin/Mixer.app
 Exec=Mixer.app
-Terminal=false
 Categories=Audio;
 StartupNotify=false

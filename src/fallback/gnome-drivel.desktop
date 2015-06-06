@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Drivel Journal Editor
 Name[bg]=Работа с блогове (Drivel)
@@ -86,7 +84,6 @@ Comment[zh_TW]=更新和管理網誌
 Icon=drivel-48.png
 TryExec=/usr/bin/drivel
 Exec=drivel %U
-Terminal=false
 Categories=Application;Network;GNOME;GTK;
 MimeType=application/x-drivel;
 StartupNotify=true

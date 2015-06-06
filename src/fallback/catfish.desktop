@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Catfish
 Comment=File search
@@ -11,7 +9,6 @@ Comment[fr]=Recherche de fichiers
 Icon=catfish
 TryExec=/usr/bin/catfish
 Exec=catfish
-Terminal=false
 Categories=Utility;Filesystem;GTK;
 StartupNotify=true
 X-AppInstall-Package=catfish

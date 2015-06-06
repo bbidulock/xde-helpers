@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Network Center
 Name[bg]=Мрежов Център
@@ -44,6 +42,5 @@ Name[zh_TW]=網路中心
 Icon=/usr/share/mcc/themes/default/netcenter.png
 TryExec=/usr/bin/draknetcenter
 Exec=draknetcenter
-Terminal=false
 Categories=Network;System;
 StartupNotify=true

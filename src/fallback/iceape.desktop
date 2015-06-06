@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Iceape Suite
 GenericName=Internet Suite
 Icon=iceape
 TryExec=/usr/bin/iceape
 Exec=iceape %u
-Terminal=false
 Categories=Network;GTK;
 StartupNotify=false
 X-AppInstall-Package=iceape-browser

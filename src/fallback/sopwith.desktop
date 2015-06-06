@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Sopwith
 Comment=WW1 Dogfighting Game
 Icon=sopwith.png
 TryExec=/usr/bin/sopwith
 Exec=sopwith
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=sopwith

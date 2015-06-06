@@ -1,13 +1,11 @@
 [Desktop Entry]
 Version=0.3
-Encoding=UTF-8
 Type=Application
 Name=Linthesia
 GenericName=Piano game
 Icon=linthesia.xpm
 TryExec=/usr/bin/linthesia
 Exec=linthesia
-Terminal=false
 Categories=Education;Game;Music;
 StartupNotify=false
 X-AppInstall-Package=linthesia

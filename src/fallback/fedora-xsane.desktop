@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Scanner Tool
 GenericName=Scanner Tool
@@ -8,7 +6,6 @@ Comment=Scan images to view, copy, fax or email them
 Icon=xsane
 TryExec=/usr/bin/xsane
 Exec=xsane
-Terminal=false
 Categories=Application;Graphics;2DGraphics;RasterGraphics;Scanning;GTK;X-Fedora;X-Red-Hat-Base;
 StartupNotify=true
 X-Desktop-File-Install-Version=0.15

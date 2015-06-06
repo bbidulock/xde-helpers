@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GDebi Package Installer
 Name[cs]=Instalátor balíků GDebi
@@ -60,7 +58,6 @@ Comment[tr]=Yazılım paketlerini kur ve izle
 Icon=application-x-deb
 TryExec=/usr/bin/gdebi-kde
 Exec=gdebi-kde
-Terminal=false
 OnlyShowIn=KDE;
 NotShowIn=GNOME;
 Categories=Application;System;

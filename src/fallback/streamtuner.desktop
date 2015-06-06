@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=streamtuner
 GenericName=Stream Directory Browser
@@ -14,7 +12,6 @@ Comment[ja]=インターネットストリーム ディレクトリを調べる
 Icon=streamtuner.png
 TryExec=/usr/bin/streamtuner
 Exec=streamtuner
-Terminal=false
 Categories=AudioVideo;Tuner;GTK;
 StartupNotify=true
 X-AppInstall-Package=streamtuner

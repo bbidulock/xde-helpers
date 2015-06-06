@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=FLUID
 Comment=FLTK GUI Designer
 Icon=fluid
 TryExec=/usr/bin/fluid
 Exec=fluid %F
-Terminal=false
 Categories=Development;GUIDesigner;
 MimeType=application/x-fluid;
 StartupNotify=false

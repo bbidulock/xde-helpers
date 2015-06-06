@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=gPlanarity
 Comment=Puzzle game involving untangling planar graphs
 Icon=gPicon.png
 TryExec=/usr/bin/gplanarity
 Exec=gplanarity
-Terminal=false
 Categories=Game;
 StartupNotify=true
 X-AppInstall-Package=gplanarity

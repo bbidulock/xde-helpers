@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gravitation
 Icon=gravitation
 TryExec=/usr/bin/gravitation
 Exec=gravitation
-Terminal=false
 Categories=Game;AdventureGame;
 StartupNotify=false
 X-AppInstall-Package=gravitation

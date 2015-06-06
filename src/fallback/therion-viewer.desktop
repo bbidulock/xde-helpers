@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Therion loch viewer
 GenericName=Therion Cave Survey Viewer
@@ -8,7 +6,6 @@ Comment=View therion surveys in 3D
 Icon=therion
 TryExec=/usr/bin/loch
 Exec=loch
-Terminal=false
 Categories=Application;Science;Geology;
 StartupNotify=false
 X-AppInstall-Package=therion-viewer

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Manage Programs
 Name[es]=Administrar programas
@@ -14,7 +12,6 @@ Comment[sv]=Uppdatera eller ta bort Zero Install-program i menyn Program
 Icon=zeroinstall-zero2desktop
 TryExec=/usr/bin/0desktop
 Exec=0desktop --manage
-Terminal=false
 Categories=PackageManager;GTK;
 StartupNotify=false
 X-AppInstall-Package=zeroinstall-injector

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Screensaver
 Name[da]=Pauseskærm
@@ -35,7 +33,6 @@ Comment[pt_BR]=Modificar as propriedades do protetor de tela
 Icon=xscreensaver
 TryExec=/usr/bin/xscreensaver-demo
 Exec=xscreensaver-demo
-Terminal=false
 NotShowIn=GNOME;KDE;
 Categories=Settings;DesktopSettings;Security;X-XFCE;
 StartupNotify=false

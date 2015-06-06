@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Zynjacku
 GenericName=LV2 synths host
@@ -8,7 +6,6 @@ Comment=LV2 synths host for JACK
 Icon=zynjacku32x32
 TryExec=/usr/bin/zynjacku
 Exec=zynjacku
-Terminal=false
 Categories=AudioVideo;Audio;
 StartupNotify=false
 X-AppInstall-Package=zynjacku

@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Application Finder
 Comment=Find and launch applications installed on your system
 Icon=xfce4-appfinder
 TryExec=/usr/bin/xfce4-appfinder
 Exec=xfce4-appfinder
-Terminal=false
 Categories=Utility;X-XFCE;
 StartupNotify=true
 X-AppInstall-Package=xfce4-appfinder

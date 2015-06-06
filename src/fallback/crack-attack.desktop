@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Crack Attack
 Comment=Clone of the Nintendo classic 'Tetris Attack'
@@ -9,7 +7,6 @@ Comment[hu]=A Nintendo-klasszikus 'Tetris Attack' klónja
 Icon=crack-attack
 TryExec=/usr/bin/crack-attack
 Exec=crack-attack
-Terminal=false
 Categories=Application;Game;BlocksGame;
 StartupNotify=false
 DocPath=/usr/share/doc/packages/crack-attack/index.html

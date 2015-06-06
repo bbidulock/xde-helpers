@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=ggz-gtk
 GenericName=Gtk+ internet gaming center
@@ -13,7 +11,6 @@ Comment[fr]=Core Client GGZ
 Comment[pt]=Cliente núcleo do GGZ
 TryExec=/usr/bin/ggz-gtk
 Exec=ggz-gtk
-Terminal=false
 Categories=Network;ConsoleOnly;X-GGZ;
 StartupNotify=false
 X-AppInstall-Package=ggz-gtk-client

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gip IP Address Calculator
 Name[de]=Gip IP-Adress-Rechner
@@ -11,7 +9,6 @@ Comment[de]=IP-Adressen und Netzbereiche berechnen
 Icon=_usr_share_gip_calculator
 TryExec=/usr/bin/gip
 Exec=/usr/bin/gip %U
-Terminal=false
 Categories=Utility;GNOME;GTK;
 MimeType=application/x-gip;
 StartupNotify=true

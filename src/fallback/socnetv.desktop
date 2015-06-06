@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=SocNetV
 GenericName=Social Networks Analysis and Visualisation
@@ -8,7 +6,6 @@ Comment=Social Networks Visualisation and Analysis.
 Icon=socnetv
 TryExec=/usr/bin/socnetv
 Exec=socnetv
-Terminal=false
 Categories=Education;Science;Math;Qt;
 StartupNotify=false
 X-AppInstall-Package=socnetv

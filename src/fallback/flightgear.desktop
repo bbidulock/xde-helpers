@@ -1,13 +1,11 @@
 [Desktop Entry]
 Version=1.4
-Encoding=UTF-8
 Type=Application
 Name=FlightGear
 Comment=A flight simulator
 Comment[pt]=Simulação de Vôo
 TryExec=/usr/bin/fgfs
 Exec=fgfs
-Terminal=false
 Categories=Game;Simulation;
 StartupNotify=false
 X-AppInstall-Package=flightgear

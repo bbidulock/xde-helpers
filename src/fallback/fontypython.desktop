@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Fonty Python Font Manager
 Comment=View and temporarily install all kinds of fonts.
@@ -8,7 +6,6 @@ Comment[fr]=Fonty Python est aussi appropri√© pour visionner vos fichiers TTF o√
 Icon=fontypython
 TryExec=/usr/bin/fontypython
 Exec=fontypython
-Terminal=false
 Categories=Graphics;
 StartupNotify=true
 X-AppInstall-Package=fontypython

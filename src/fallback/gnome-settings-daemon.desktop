@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GNOME Settings Daemon
 Name[ar]=عفريت إعدادات جنوم
@@ -20,7 +18,6 @@ Name[da]=GNOME-indstillingsdæmon
 Name[de]=GNOME-Einstellungsdienst
 Name[el]=Υπηρεσία ρυθμίσεων GNOME
 Name[en@shaw]=·𐑜𐑯𐑴𐑥 𐑕𐑧𐑑𐑦𐑙𐑟 𐑛𐑰𐑥𐑩𐑯
-Name[en_GB]=GNOME Settings Daemon
 Name[eo]=Demono de GNOME-agordoj
 Name[es]=Administrador de preferencias de GNOME
 Name[et]=GNOME sätetedeemon
@@ -80,7 +77,6 @@ Name[zh_HK]=GNOME 設定值伺服程式
 Name[zh_TW]=GNOME 設定值伺服程式
 TryExec=/usr/lib/gnome-settings-daemon/gnome-settings-daemon
 Exec=/usr/lib/gnome-settings-daemon/gnome-settings-daemon-localeexec
-Terminal=false
 NoDisplay=true
 OnlyShowIn=GNOME;
 StartupNotify=false

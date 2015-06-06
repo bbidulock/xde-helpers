@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=A7Xpg
 Comment=Kenta Cho's A7Xpg
 Icon=a7xpg
 TryExec=/usr/bin/a7xpg
 Exec=a7xpg
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=a7xpg

@@ -1,12 +1,10 @@
 [Desktop Entry]
 Version=0.94
-Encoding=UTF-8
 Type=Application
 Name=EasyDiff
 Comment=A graphical GNUstep diff utility
 TryExec=/usr/bin/EasyDiff
 Exec=EasyDiff
-Terminal=false
 Categories=Utility;TextTools;
 StartupNotify=false
 X-AppInstall-Package=easydiff.app

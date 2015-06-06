@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=SCIM (Smart Common Input Method) startup
 Comment=Start the Smart Common Input Method platform
 Icon=/usr/share/pixmaps/scim-setup.png
 TryExec=/usr/bin/scim
 Exec=scim -d
-Terminal=false
 Categories=Utility;Applications;
 StartupNotify=true
 X-KDE-SubstituteUID=false

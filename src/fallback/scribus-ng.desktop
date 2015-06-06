@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=ScribusNG
 GenericName=Page Layout (Development)
@@ -91,7 +89,6 @@ Comment[zu]=Ukushicilelwa kwe-Desktop
 Icon=scribus-ng
 TryExec=/usr/bin/scribus-ng
 Exec=scribus-ng %f
-Terminal=false
 Categories=Graphics;Publishing;Qt;
 MimeType=application/vnd.scribus-ng;
 StartupNotify=false

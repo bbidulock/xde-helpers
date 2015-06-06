@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Boot Loader
 Name[af]=Selflaaiprogram
@@ -94,7 +92,6 @@ GenericName[zu]=Hlela i-boot loader
 Icon=yast-bootloader
 TryExec=/sbin/yast2
 Exec=/sbin/yast2 bootloader
-Terminal=false
 Categories=Settings;System;Qt;X-SuSE-YaST;X-SuSE-YaST-System;
 StartupNotify=true
 X-KDE-HasReadOnlyMode=true

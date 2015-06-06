@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Network Hogs
 GenericName=Network Monitor
@@ -8,7 +6,6 @@ Comment=Network top-like monitor
 Icon=system-monitor
 TryExec=/usr/bin/nethogs
 Exec=gksudo "xterm -name nethogs -T 'Network Hogs' -e nethogs"
-Terminal=false
 Categories=Network;System;ConsoleOnly;
 StartupNotify=false
 X-AppInstall-Package=nethogs

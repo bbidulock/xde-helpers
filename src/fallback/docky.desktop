@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Docky
 Comment=The finest dock no money can buy.
 Icon=docky
 TryExec=/usr/bin/docky
 Exec=docky
-Terminal=false
 Categories=Utility;
 StartupNotify=false
 X-AppInstall-Package=docky

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=CTSim Computed Tomography Simulator
 GenericName=Computed Tomography Simulator
@@ -8,7 +6,6 @@ Comment=Simulate the process of X-ray Computed Tomography
 Icon=ctsim
 TryExec=/usr/bin/ctsim
 Exec=ctsim
-Terminal=false
 Categories=Education;Science;MedicalSoftware;
 StartupNotify=false
 X-AppInstall-Package=ctsim

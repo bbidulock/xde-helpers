@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GNUnet-qt
 GenericName=GNUnet-qt
@@ -8,7 +6,6 @@ Comment=QT frontend to GNUnet
 Icon=gnunet-qt
 TryExec=/usr/bin/gnunet-qt
 Exec=gnunet-qt
-Terminal=false
 Categories=Network;FileTransfer;P2P;Qt;
 StartupNotify=false
 X-AppInstall-Package=gnunet-qt

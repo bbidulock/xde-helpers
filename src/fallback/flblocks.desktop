@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=FLTK Block Attack!
 Comment=Block Attack! Game
 Icon=flblocks
 TryExec=/usr/games/flblocks
 Exec=/usr/games/flblocks
-Terminal=false
 Categories=Game;BlocksGame;
 StartupNotify=false
 X-AppInstall-Package=fltk1.1-games

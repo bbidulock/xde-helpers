@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Fifteen
 Comment=Try to end up with the tiles in numerical order, with the space in the bottom right
@@ -9,7 +7,6 @@ Comment[fr]=Essayer de tout remettre dans le bon ordre numérique, avec l'espace
 Icon=fifteen
 TryExec=/usr/bin/fifteen
 Exec=fifteen
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=sgt-puzzles

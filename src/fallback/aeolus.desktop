@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Aeolus
 Comment=Organ Emulator
 Icon=audio-x-generic
 TryExec=/usr/bin/aeolus
 Exec=/usr/bin/aeolus
-Terminal=false
 Categories=AudioVideo;Audio;
 StartupNotify=false
 X-AppInstall-Package=aeolus

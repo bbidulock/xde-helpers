@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Preview
 Comment=Image viewer
 Icon=/usr/lib/GNUstep/Applications/Preview.app/Resources/Preview.tiff
 TryExec=/usr/bin/Preview
 Exec=Preview
-Terminal=false
 Categories=Graphics;Viewer;
 StartupNotify=false
 X-AppInstall-Package=preview.app

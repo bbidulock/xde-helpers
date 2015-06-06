@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Euler
 GenericName=Computer Algebra System
@@ -10,7 +8,6 @@ Comment[de]=Ein interaktives mathematisches Programm
 Icon=euler-32.xpm
 TryExec=/usr/bin/euler
 Exec=euler
-Terminal=false
 Categories=Education;Science;Math;
 StartupNotify=false
 X-AppInstall-Package=euler

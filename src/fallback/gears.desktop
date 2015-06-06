@@ -1,10 +1,7 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gears
 Name[cs]=Kolečka
-Name[da]=Gears
 Name[de]=Zahnräder
 Name[es]=Engranajes
 Name[fi]=Rattaat
@@ -39,7 +36,6 @@ Comment[pt_BR]=Este desenha conjuntos de engrenagens rodando entre si, rodando e
 Comment[uk]=Ця програма відображає набір зчеплених шестерень, що обертаються і крутяться у просторі. Автор — Jamie Zawinski; 2007.
 TryExec=/usr/bin/gears
 Exec=gears -root
-Terminal=false
 OnlyShowIn=GNOME;
 Categories=Screensaver;
 StartupNotify=false

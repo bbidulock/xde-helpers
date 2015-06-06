@@ -1,17 +1,6 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Geeqie
-Name[ca]=Geeqie
-Name[cs]=Geeqie
-Name[de]=Geeqie
-Name[es]=Geeqie
-Name[fr]=Geeqie
-Name[nl]=Geeqie
-Name[pt_BR]=Geeqie
-Name[ro]=Geeqie
-Name[ru]=Geeqie
 Name[sr@latin]=Čudak
 Name[sr]=Чудак
 GenericName=Image Viewer
@@ -41,7 +30,6 @@ Comment[sr]=Прегледајте и уредите ваше слике
 Icon=geeqie
 TryExec=/usr/bin/geeqie-standard
 Exec=geeqie-standard -r %F
-Terminal=false
 NotShowIn=X-Geeqie;
 Categories=Graphics;Viewer;
 MimeType=application/x-navi-animation;image/bmp;image/x-bmp;image/x-MS-bmp;image/gif;image/x-icon;image/jpeg;image/png;image/x-portable-anymap;image/x-portable-bitmap;image/x-portable-graymap;image/x-portable-pixmap;image/x-cmu-raster;image/x-sun-raster;image/x-tga;image/tiff;image/vnd.wap.wbmp;image/x-xbitmap;image/x-xpixmap;image/svg;image/svg+xml;image/x-png;image/xpm;image/x-ico;image/x-pcx;

@@ -1,16 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=UNetbootin
-Name[en_US]=UNetbootin
 GenericName=UNetbootin
-GenericName[en_US]=UNetbootin
 Comment=Tool for creating Live USB drives
-Comment[en_US]=Tool for creating Live USB drives
 TryExec=/usr/bin/unetbootin
 Exec=/usr/bin/unetbootin
-Terminal=false
 Categories=Application;System;
 StartupNotify=false
 X-AppInstall-Package=unetbootin

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Regina
 GenericName=3-Manifold Topology
@@ -8,7 +6,6 @@ Comment=A Normal Surface Theory Calculator
 Icon=regina
 TryExec=/usr/bin/regina-kde
 Exec=regina-kde %U
-Terminal=false
 Categories=Education;Math;KDE;Qt;
 MimeType=application/x-regina;application/x-python;
 StartupNotify=false

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Chinese chess
 Name[zh_CN]=天书棋谈
@@ -9,7 +7,6 @@ Comment[zh_CN]=玩流行的中国象棋游戏
 Icon=gmchess
 TryExec=/usr/bin/gmchess
 Exec=gmchess
-Terminal=false
 Categories=Game;GTK;
 StartupNotify=true
 X-AppInstall-Package=gmchess

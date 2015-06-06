@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Entrez NCBI Database Querying Tool
 GenericName=Database Querying Tool
@@ -8,7 +6,6 @@ Comment=Query NCBI databases and retrieve documents
 Icon=ncbilogo
 TryExec=/usr/bin/entrez2
 Exec=entrez2
-Terminal=false
 Categories=Education;Science;Biology;
 StartupNotify=false
 X-AppInstall-Package=ncbi-tools-x11

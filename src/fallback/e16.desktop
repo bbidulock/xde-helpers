@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=E16
 Comment=The Enlightenment (e16) window manager
@@ -18,7 +16,6 @@ Comment[tr]=Enlightenment (e16) pencere yöneticisi
 Icon=/usr/share/e16/icons/e16.png
 TryExec=/usr/bin/e16
 Exec=e16
-Terminal=false
 StartupNotify=false
 X-AppInstall-Package=enlightenment16
 X-AppInstall-Popcon=115
@@ -34,9 +31,10 @@ Actions=XDE;
 
 [Desktop Action XDE]
 Name=XDE
-Icon=xde
-Exec=xde-session -desktop ENLIGHTENMENT -startwm start-e16
 Comment=Enlightenment in an XDE session
+Icon=xde
+TryExec=/usr/bin/xde-session
+Exec=xde-session -desktop ENLIGHTENMENT -startwm start-e16
 
 [Window Manager]
 SessionManaged=false

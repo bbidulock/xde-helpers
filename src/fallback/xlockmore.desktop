@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Xlock
 Comment=X11 screen saver
 Icon=gnome-lockscreen.png
 TryExec=/usr/bin/xlock
 Exec=xlock
-Terminal=false
 StartupNotify=false
 X-AppInstall-Package=xlockmore-blank
 X-AppInstall-Popcon=0

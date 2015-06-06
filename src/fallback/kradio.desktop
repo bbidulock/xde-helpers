@@ -1,13 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=KRadio
-Name[de]=KRadio
 Icon=kradio.png
 TryExec=/usr/bin/kradio
 Exec=kradio -caption "%c" %i %m
-Terminal=false
 Categories=AudioVideo;KDE;Qt;
 StartupNotify=false
 DocPath=kradio/index.html

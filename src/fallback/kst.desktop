@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Kst
 Icon=kst
 TryExec=/usr/bin/kst
 Exec=/usr/bin/kst
-Terminal=false
 Categories=Utility;KDE;Qt;
 StartupNotify=false
 DocPath=kst/index.html

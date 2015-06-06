@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=mhWaveEdit
 GenericName=Sound file editor
@@ -8,7 +6,6 @@ Comment=Record, play, edit and convert sound files
 Icon=mhwaveedit.xpm
 TryExec=/usr/bin/mhwaveedit
 Exec=mhwaveedit
-Terminal=false
 Categories=AudioVideo;Audio;AudioVideoEditing;Recorder;
 StartupNotify=false
 X-AppInstall-Package=mhwaveedit

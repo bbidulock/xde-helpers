@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Image Viewer
 Name[af]=Beeldbekyker
@@ -144,7 +142,6 @@ Comment[zh_TW]=輕鬆檢視數位相片和圖片
 Icon=gpicview
 TryExec=/usr/bin/gpicview
 Exec=gpicview %f
-Terminal=false
 Categories=Graphics;2DGraphics;RasterGraphics;Photography;Viewer;Core;GTK;
 MimeType=image/bmp;image/gif;image/jpeg;image/jpg;image/png;image/tiff;image/x-bmp;image/x-pcx;image/x-tga;image/x-portable-pixmap;image/x-portable-bitmap;image/x-targa;image/x-portable-greymap;application/pcx;image/svg+xml;image/svg-xml;
 StartupNotify=true

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Circus Linux!
 GenericName=Circus Linux
@@ -10,7 +8,6 @@ Comment[de]=Werfe die Clowns bevor sie fallen und treffe die Ballone mit ihnen
 Icon=circuslinux-icon.xpm
 TryExec=/usr/bin/circuslinux
 Exec=circuslinux
-Terminal=false
 Categories=Application;Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=circuslinux

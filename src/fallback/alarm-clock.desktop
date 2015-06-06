@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Alarm Clock
 Name[pl]=Budzik
@@ -15,7 +13,6 @@ Comment[sr]=Организујте Ваше време
 Icon=alarm-clock
 TryExec=/usr/bin/alarmclock
 Exec=alarmclock
-Terminal=false
 OnlyShowIn=GNOME;
 Categories=Utility;GNOME;GTK;
 MimeType=text/plain;

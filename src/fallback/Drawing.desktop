@@ -1,12 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Drawing (StarOffice Draw)
 Name[de]=Zeichnungen (StarOffice Draw)
-Name[en]=Drawing (StarOffice Draw)
 Icon=/opt/gnome2/share/dist/icons/suse-yast.png
 TryExec=/opt/staroffice6.0/program/sdraw
 Exec=/opt/staroffice6.0/program/sdraw
-Terminal=false
 StartupNotify=false

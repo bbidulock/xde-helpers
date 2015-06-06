@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=RawTherapee
 Comment=A free RAW converter and digital photo processing software
 Icon=_usr_share_pixmaps_rawtherapee
 TryExec=/usr/bin/rawtherapee
 Exec=rawtherapee %f
-Terminal=false
 Categories=Graphics;
 StartupNotify=false
 X-AppInstall-Package=rawtherapee

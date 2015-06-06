@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=LabPlot
 GenericName=LabPlot
@@ -11,7 +9,6 @@ Icon=LabPlot
 TryExec=/usr/bin/LabPlot
 Exec=LabPlot -caption "%c" %i %m
 X-ServiceTypes=Browser/View
-Terminal=false
 Categories=Education;Science;Math;Physics;KDE;Qt;
 MimeType=application/x-LabPlot-plot;
 StartupNotify=false

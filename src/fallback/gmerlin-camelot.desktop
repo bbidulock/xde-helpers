@@ -1,15 +1,11 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Camelot
-Name[de]=Camelot
 Comment=Gmerlin webcam application
 Comment[de]=Gmerlin Webcam Programm
 Icon=gmerlin-camelot.png
 TryExec=/usr/bin/camelot
 Exec=camelot
-Terminal=false
 Categories=Application;AudioVideo;
 StartupNotify=false
 X-AppInstall-Package=gmerlin

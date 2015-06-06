@@ -1,20 +1,17 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=zsnes
 Comment=A Super Nintendo Entertainment System (TM) emulator
 Icon=zsnes.xpm
 TryExec=/usr/bin/zsnes
 Exec=zsnes
-Terminal=false
 Categories=Application;Game;2DGraphics;Emulator;
 StartupNotify=false
 X-AppInstall-Package=zsnes
 X-AppInstall-Popcon=0
-X-AppInstall-Section=multilib
+X-AppInstall-Section=community
 X-AppInstall-Architectures=i386
-X-Arch-Package-Repository=multilib
+X-Arch-Package-Repository=community
 X-Arch-Package-Name=zsnes
 X-Arch-Package-Version=1.51-17
 X-Arch-Package-Description=Super Nintendo emulator

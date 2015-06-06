@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=gPodder Podcast Client
 Name[cs]=gPodder podcast čtečka
@@ -38,7 +36,6 @@ Comment[uk]=Завантаження та прослуховування ауд�
 Icon=gpodder
 TryExec=/usr/bin/gpodder
 Exec=gpodder
-Terminal=false
 Categories=AudioVideo;Audio;Network;FileTransfer;News;GTK;
 StartupNotify=false
 X-AppInstall-Package=gpodder

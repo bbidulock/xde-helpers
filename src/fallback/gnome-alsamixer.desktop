@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GNOME ALSA Mixer
 Comment=ALSA sound mixer for GNOME
@@ -9,7 +7,6 @@ Comment[fr]=M\xE9langeur de son ALSA pour GNOME
 Icon=_usr_share_pixmaps_gnome-alsamixer_gnome-alsamixer-icon
 TryExec=/usr/bin/gnome-alsamixer
 Exec=gnome-alsamixer
-Terminal=false
 Categories=Application;AudioVideo;
 StartupNotify=true
 X-Desktop-File-Install-Version=0.3

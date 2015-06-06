@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Val & Rick
 Comment=Kenta Cho's Val & Rick
 Icon=val-and-rick.xpm
 TryExec=/usr/games/val-and-rick
 Exec=/usr/games/val-and-rick
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=val-and-rick

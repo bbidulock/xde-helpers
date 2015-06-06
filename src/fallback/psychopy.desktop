@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=PsychoPy
 GenericName=Psychology Stimuli IDE
@@ -8,7 +6,6 @@ GenericName[ru]=IDE для психологических стимулов
 Icon=psychopy.xpm
 TryExec=/usr/bin/psychopy
 Exec=psychopy %F
-Terminal=false
 Categories=Development;Graphics;Science;IDE;MedicalSoftware;
 StartupNotify=false
 X-AppInstall-Package=psychopy

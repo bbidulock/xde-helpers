@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Nikwi Deluxe
 GenericName=nikwi
@@ -8,7 +6,6 @@ Comment=Platform game where your goal is to collect candies
 Icon=nikwi
 TryExec=/usr/bin/nikwi
 Exec=nikwi
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=nikwi

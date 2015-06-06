@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Slimrat
 GenericName=File Downloader
@@ -9,7 +7,6 @@ Comment=Download files from various hosters
 Icon=slimrat
 TryExec=/usr/bin/slimrat-gui
 Exec=slimrat-gui %U
-Terminal=false
 Categories=Network;GNOME;GTK;
 StartupNotify=true
 X-AppInstall-Package=slimrat

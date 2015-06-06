@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Audit Configuration
 Name[cs]=Nastavení auditu
@@ -9,7 +7,6 @@ Comment[cs]=Upravit nastavení auditu
 Icon=logviewer
 TryExec=/usr/bin/su-to-root
 Exec=su-to-root -X -c system-config-audit
-Terminal=false
 Categories=Settings;System;
 StartupNotify=false
 X-AppInstall-Package=system-config-audit

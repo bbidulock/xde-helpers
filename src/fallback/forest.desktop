@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Forest
 Name[af]=Woud
@@ -8,7 +6,6 @@ Name[bg]=Гора
 Name[ca]=Bosc
 Name[cs]=Les
 Name[cy]=Coedwig
-Name[da]=Forest
 Name[de]=Wald
 Name[el]=Δάσος
 Name[es]=Bosque
@@ -65,7 +62,6 @@ Comment[ru]=Рекурсивные деревья. Автор Peter Baumung; 199
 Comment[uk]=Фрактальні дерева. Автор — Peter Baumung; 1997.
 TryExec=/usr/bin/forest
 Exec=forest -root
-Terminal=false
 OnlyShowIn=GNOME;
 Categories=Screensaver;
 StartupNotify=false

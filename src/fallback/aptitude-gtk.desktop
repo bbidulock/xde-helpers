@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Aptitude Package Manager
 GenericName=Package Manager
@@ -8,7 +6,6 @@ Comment=Install, remove and upgrade software packages
 Icon=debian-logo
 TryExec=/usr/bin/su-to-root
 Exec=su-to-root -X -c aptitude-gtk
-Terminal=false
 Categories=Settings;System;PackageManager;GTK;
 StartupNotify=false
 X-AppInstall-Package=aptitude-gtk

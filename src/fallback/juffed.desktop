@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=JuffEd text editor
 Name[de]=Texteditor JuffEd
@@ -29,7 +27,6 @@ Comment[zh_CN]=先进的文本编辑器
 Icon=juffed
 TryExec=/usr/bin/juffed
 Exec=juffed
-Terminal=false
 Categories=Utility;TextEditor;Qt;
 MimeType=text/plain;
 StartupNotify=false

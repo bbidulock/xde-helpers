@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=QStarDict
 GenericName=Dictionary
@@ -8,7 +6,6 @@ Comment=QStarDict is Qt version of StarDict
 Icon=qstardict
 TryExec=/usr/bin/qstardict
 Exec=qstardict
-Terminal=false
 Categories=Utility;Dictionary;Qt;
 StartupNotify=false
 X-AppInstall-Package=qstardict

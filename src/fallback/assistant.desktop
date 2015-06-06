@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Qt Assistant
 Comment=Shows Qt documentation and examples
 Icon=assistant
 TryExec=/usr/lib/qt/bin/assistant
 Exec=/usr/lib/qt/bin/assistant
-Terminal=false
 Categories=Development;Documentation;Qt;
 StartupNotify=false
 X-AppInstall-Package=qt5-tools

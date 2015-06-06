@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Ear Candy
 Comment=Gracefully fade applications volume in and out
 Icon=earsLabel
 TryExec=/usr/bin/earcandy
 Exec=earcandy
-Terminal=false
 Categories=Utility;
 StartupNotify=true
 X-AppInstall-Package=earcandy

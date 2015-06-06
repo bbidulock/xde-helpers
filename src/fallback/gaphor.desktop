@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gaphor
 Comment=Gaphor Modeling Tool
 Icon=gaphor
 TryExec=/usr/bin/gaphor
 Exec=/usr/bin/gaphor
-Terminal=false
 Categories=Application;Development;
 StartupNotify=true
 X-AppInstall-Package=gaphor

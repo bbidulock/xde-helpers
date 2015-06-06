@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Xmoto
 GenericName=Motocross game
@@ -8,7 +6,6 @@ GenericName[fr_FR]=Jeu de moto
 Icon=xmoto.xpm
 TryExec=/usr/bin/xmoto
 Exec=xmoto
-Terminal=false
 Categories=Game;SportsGame;
 StartupNotify=false
 X-AppInstall-Package=xmoto

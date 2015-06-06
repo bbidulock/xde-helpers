@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=London Law
 Comment=London Law board game with network support
@@ -8,7 +6,6 @@ Comment[de]=Scotland Yard Brettspiel mit Netzwerkunterstützung
 Icon=_usr_share_icons_londonlaw
 TryExec=/usr/games/london-client
 Exec=/usr/games/london-client
-Terminal=false
 Categories=Game;BoardGame;
 StartupNotify=false
 X-AppInstall-Package=londonlaw

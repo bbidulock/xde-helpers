@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Flight of the Amazon Queen
 GenericName=Game
@@ -8,7 +6,6 @@ Comment=Embark on a quest to rescue a kidnapped princess and in the process, dis
 Icon=flight-of-the-amazon-queen
 TryExec=/usr/games/scummvm
 Exec=/usr/games/scummvm -p /usr/share/scummvm/flight-of-the-amazon-queen queen
-Terminal=false
 Categories=Game;AdventureGame;RolePlaying;
 StartupNotify=false
 X-AppInstall-Package=scummvm

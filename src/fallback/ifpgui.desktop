@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=ifpgui
 Comment=KDE-style GUI for iRiver iFP flash players
 TryExec=/usr/bin/ifpgui
 Exec=/usr/bin/ifpgui
-Terminal=false
 Categories=Application;AudioVideo;KDE;
 StartupNotify=false
 X-AppInstall-Package=ifpgui

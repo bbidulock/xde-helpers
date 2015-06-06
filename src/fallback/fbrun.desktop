@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Run Command
 GenericName=Launcher
@@ -8,7 +6,6 @@ Comment=Run a command in fluxbox.
 Icon=system-run
 TryExec=/usr/bin/fbrun
 Exec=fbrun
-Terminal=false
 OnlyShowIn=FLUXBOX;
 Categories=System;Utility;Fluxbox;
 StartupNotify=false

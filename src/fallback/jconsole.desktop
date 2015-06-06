@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=OpenJDK Monitoring & Management Console
 Comment=Monitor and manage OpenJDK applications
 Icon=java
 TryExec=/usr/bin/jconsole
 Exec=jconsole
-Terminal=false
 Categories=Development;Monitor;Java;
 StartupNotify=false
 StartupWMClass=sun-tools-jconsole-JConsole

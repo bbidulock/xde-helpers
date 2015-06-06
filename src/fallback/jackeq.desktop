@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=JackEQ
 Comment=routes and manipulates audio from/to multiple sources
 Icon=_usr_share_jackeq_thai-gold
 TryExec=/usr/bin/jackeq
 Exec=jackeq
-Terminal=false
 Categories=AudioVideo;
 StartupNotify=false
 X-AppInstall-Package=jackeq

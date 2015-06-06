@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=QuitCount
 Comment=Simple counter showing your gains since you quit smoking
 Icon=quitcount
 TryExec=/usr/bin/quitcount
 Exec=quitcount
-Terminal=false
 Categories=Application;Utility;GTK;
 StartupNotify=false
 X-AppInstall-Package=quitcount

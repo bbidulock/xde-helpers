@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=xjadeo
 GenericName=X jack video monitor
@@ -8,7 +6,6 @@ Comment=A simple video player that gets sync from jack transport.
 Icon=qjadeo
 TryExec=/usr/bin/qjadeo
 Exec=/usr/bin/qjadeo
-Terminal=false
 Categories=AudioVideo;Video;Player;
 StartupNotify=false
 X-AppInstall-Package=xjadeo

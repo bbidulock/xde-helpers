@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=gmanedit
 Comment=GNOME Manpages Editor
@@ -9,7 +7,6 @@ Comment[gl]=Editor de p\xE1xinas man de GNOME
 Icon=gmanedit_icon.png
 TryExec=/usr/bin/gmanedit
 Exec=gmanedit
-Terminal=false
 Categories=Development;
 StartupNotify=false
 X-AppInstall-Package=gmanedit

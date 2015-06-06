@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Workspace Pager
 GenericName=Pager
@@ -8,7 +6,6 @@ Comment=Popup pager for the X Desktop Environment
 Icon=pager
 TryExec=/usr/bin/xde-pager
 Exec=xde-pager
-Terminal=false
 NotShowIn=GNOME;KDE;XFCE;LXDE;
 Categories=System;XDE;GTK;Utilities;
 StartupNotify=true

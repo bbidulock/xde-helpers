@@ -1,14 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Evolution Email
 Name[af]=Evolution-e-pos
 Name[bg]=Е-поща на Evolution
 Name[cs]=Poštovní klient Evolution
 Name[da]=Evolution e-mail
-Name[de]=Evolution Email
-Name[el]=Evolution Email
 Name[es]=Correo electrónico de Evolution
 Name[et]=Evolutioni e-post
 Name[fi]=Evolution-sähköposti
@@ -99,7 +95,6 @@ Comment[zh_TW]=管理電子郵件
 Icon=ximian-evolution-email.png
 TryExec=/usr/bin/evolution
 Exec=evolution -c mail
-Terminal=false
 Categories=Network;Email;GNOME;
 StartupNotify=false
 DocPath=evolution-2.22/evolution-2.22.xml?usage-mail

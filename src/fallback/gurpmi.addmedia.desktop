@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Add urpmi media
 Name[ar]=أضف وسائط urpmi
@@ -45,7 +43,6 @@ Name[zh_CN]=添加自定义介质
 Name[zh_TW]=新增 urpmi 媒體
 TryExec=/usr/bin/gurpmi.addmedia
 Exec=gurpmi.addmedia %f
-Terminal=false
 NoDisplay=true
 Categories=System;PackageManager;GTK;
 MimeType=application/x-urpmi-media;

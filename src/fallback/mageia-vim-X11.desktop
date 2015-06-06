@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=VI editor
 Comment=All-purpose text editor
 Icon=gvim
 TryExec=/usr/bin/gvim
 Exec=/usr/bin/gvim -f
-Terminal=false
 Categories=Utility;TextEditor;Gtk;
 MimeType=text/plain;
 StartupNotify=false

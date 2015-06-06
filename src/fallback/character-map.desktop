@@ -1,11 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Character map
 TryExec=/usr/bin/gucharmap
 Exec=gucharmap
-Terminal=false
 Categories=Text;
 StartupNotify=false
 X-AppInstall-Package=gucharmap

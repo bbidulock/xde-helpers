@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=VMPK
 Comment=Virtual MIDI Piano Keyboard
@@ -10,7 +8,6 @@ Comment[tr]=Sanal MIDI Piyano Klavyesi
 Icon=vmpk
 TryExec=/usr/bin/vmpk
 Exec=vmpk
-Terminal=false
 Categories=AudioVideo;Audio;Education;Midi;Music;
 StartupNotify=false
 X-AppInstall-Package=vmpk

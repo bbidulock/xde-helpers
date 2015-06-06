@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=KMyFirewall
 Name[sv]=Min brandvägg
@@ -33,7 +31,6 @@ Comment[xx]=xxFirewall Configuration Toolxx
 Icon=kmyfirewall
 TryExec=/usr/bin/kmyfirewall
 Exec=kmyfirewall %u
-Terminal=false
 Categories=System;KDE;Qt;
 MimeType=application/x-kmyfirewall;application/x-kmyfirewall-kmfrs;application/x-kmyfirewall-kmfgrs;application/x-kmyfirewall-kmfnet;
 StartupNotify=false

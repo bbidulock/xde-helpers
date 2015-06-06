@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=c2bCiter
 GenericName=Reference Citation Tool
@@ -10,7 +8,6 @@ Comment[ca]=Eina bibliogràfica per escriure citacions
 Icon=cb2bib
 TryExec=/usr/bin/cb2bib
 Exec=cb2bib --citer %F
-Terminal=false
 Categories=Office;
 MimeType=text/x-bibtex;
 Path=/usr/bin

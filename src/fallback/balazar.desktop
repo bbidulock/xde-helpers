@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Balazar
 GenericName=Action / Adventure Game
@@ -10,7 +8,6 @@ Comment[es]=Juega a un juego de estrategia y rol con graficos 3D
 Icon=balazar
 TryExec=/usr/bin/balazar
 Exec=balazar
-Terminal=false
 Categories=Game;AdventureGame;ArcadeGame;RolePlaying;
 StartupNotify=false
 X-AppInstall-Package=balazar

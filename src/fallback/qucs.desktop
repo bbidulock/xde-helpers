@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Qucs
 Comment=A Universal Circuit Simulator
@@ -12,7 +10,6 @@ Comment[pt]=Simulador universal de circuitos
 Icon=/usr/share/qucs/bitmaps/big.qucs.xpm
 TryExec=/usr/bin/qucs
 Exec=qucs %U
-Terminal=false
 Categories=Education;Electronics;
 StartupNotify=false
 X-AppInstall-Package=qucs

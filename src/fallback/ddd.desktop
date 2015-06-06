@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Data Display Debugger
 Comment=Debugger with graphical user interface
@@ -11,7 +9,6 @@ Comment[hu]=Nyomkövetőprogram grafikus felhasználói felülettel
 Icon=ddd
 TryExec=/usr/bin/ddd
 Exec=ddd
-Terminal=false
 Categories=Development;
 StartupNotify=false
 DocPath=/usr/share/doc/packages/ddd/html/ddd.html

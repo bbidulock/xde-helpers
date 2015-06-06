@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Evolution Address Book
 Name[af]=Evolution-adresboek
@@ -24,7 +22,6 @@ Name[ko]=에볼루션 주소록
 Name[lt]=Evolution adresų knyga
 Name[mr]=इव्होल्यूशन अड्रेस बुक
 Name[nb]=Evolution adressebok
-Name[nl]=Evolution Address Book
 Name[pa]=ਈਵੇਲੂਸ਼ਨ ਐਡਰੈੱਸ ਬੁੱਕ
 Name[pl]=Evolution Książka adresowa
 Name[pt]=Livro de Endereços Evolution
@@ -105,7 +102,6 @@ Comment[zh_TW]=管理聯絡人
 Icon=ximian-evolution-addressbook
 TryExec=/usr/bin/evolution
 Exec=evolution -c contacts
-Terminal=false
 Categories=Office;ContactManagement;GNOME;
 StartupNotify=false
 DocPath=evolution-2.22/evolution-2.22.xml?usage-contact

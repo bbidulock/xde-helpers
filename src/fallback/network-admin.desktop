@@ -1,11 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Network Admin
 Icon=/usr/share/gnome-system-tools/pixmaps/network.xpm
 TryExec=/usr/bin/network-admin
 Exec=network-admin
-Terminal=false
 Categories=System;Administration;
 StartupNotify=false

@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=XMMS2tray
 GenericName=XMMS2 tray icon
 Icon=_usr_share_xmms2tray_data_xmms2_24
 TryExec=/usr/bin/xmms2tray
 Exec=xmms2tray
-Terminal=false
 OnlyShowIn=GNOME;KDE;XFCE;Old;ROX;
 Categories=TrayIcon;Application;AudioVideo;Audio;Player;GTK;
 StartupNotify=false

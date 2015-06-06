@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Mail Notification
 Name[bg]=Известяване за поща
@@ -37,7 +35,6 @@ Comment[sv]=Bli notifierad när nya brev anländer
 Icon=mail-notification
 TryExec=/usr/bin/mail-notification
 Exec=mail-notification --sm-disable
-Terminal=false
 Categories=Network;Email;GNOME;GTK;
 StartupNotify=true
 X-GNOME-DocPath=mail-notification/mail-notification.xml

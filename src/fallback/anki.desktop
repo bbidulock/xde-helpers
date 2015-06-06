@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Anki
 GenericName=Language Learning Flashcards
@@ -8,7 +6,6 @@ Comment=An intelligent spaced-repetition memory training program
 Icon=anki
 TryExec=/usr/bin/anki
 Exec=anki %f
-Terminal=false
 Categories=Education;Languages;KDE;
 StartupNotify=false
 X-AppInstall-Package=anki

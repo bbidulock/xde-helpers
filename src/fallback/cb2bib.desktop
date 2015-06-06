@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=cb2Bib
 GenericName=Reference Extracting Tool
@@ -10,7 +8,6 @@ Comment[ca]=Eina per extreure referències bibliogràfiques
 Icon=cb2bib
 TryExec=/usr/bin/cb2bib
 Exec=cb2bib --bibedit %F
-Terminal=false
 Categories=Office;
 MimeType=text/x-bibtex;
 Path=/usr/bin

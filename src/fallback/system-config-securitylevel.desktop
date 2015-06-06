@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Security Level and Firewall
 Name[bn_IN]=নিরাপত্তার মাত্রা ও ফায়ারওয়াল
@@ -86,7 +84,6 @@ Comment[zh_TW]=設定系統的安全等級及防火牆規則
 Icon=system-config-securitylevel.png
 TryExec=/usr/bin/system-config-securitylevel
 Exec=system-config-securitylevel
-Terminal=false
 Categories=Application;SystemSetup;X-Red-Hat-Base;
 StartupNotify=true
 X-Desktop-File-Install-Version=0.10

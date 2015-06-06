@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=PARSEC47
 Comment=Kenta Cho's PARSEC47
 Icon=parsec47
 TryExec=/usr/bin/parsec47
 Exec=parsec47
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=parsec47

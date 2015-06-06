@@ -1,15 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gobby Collaborative Editor (0.5)
-Name[en_GB]=Gobby Collaborative Editor (0.5)
 Comment=Edit text files collaboratively
-Comment[en_GB]=Edit text files collaboratively
 Icon=gobby-0.5
 TryExec=/usr/bin/gobby-0.5
 Exec=gobby-0.5
-Terminal=false
 Categories=Network;TextEditor;
 MimeType=text/plain;
 StartupNotify=true

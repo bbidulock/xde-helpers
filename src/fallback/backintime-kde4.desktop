@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Back In Time
 Comment=Simple backup system
@@ -9,7 +7,6 @@ Icon=document-save
 TryExec=/usr/bin/backintime-kde4
 Exec=backintime-kde4
 X-MultipleArgs=false
-Terminal=false
 Categories=System;KDE;Qt;
 StartupNotify=true
 X-AppInstall-Package=backintime-kde

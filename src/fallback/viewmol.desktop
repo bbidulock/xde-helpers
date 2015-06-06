@@ -1,14 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Viewmol
-Name[ru]=Viewmol
 Comment=Viewmol
 Icon=viewmol.png
 TryExec=/usr/bin/viewmol
 Exec=/usr/bin/viewmol %f
-Terminal=false
 Categories=Education;Science;Chemistry;
 MimeType=chemical/x-msi-car;chemical/x-dmol;chemical/x-mopac;chemical/x-gaussian-log;chemical/x-gulp;chemical/x-pdb;chemical/x-turbomole-control;chemical/x-turbomole-coord;
 Path=$HOME

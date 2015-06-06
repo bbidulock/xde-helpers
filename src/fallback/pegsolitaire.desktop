@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Peg Solitaire
 GenericName=pegsolitaire
@@ -8,7 +6,6 @@ Comment=Play an educational puzzle game similar to Hi-Q
 Icon=pegsolitaire-icon
 TryExec=/usr/bin/pegsolitaire
 Exec=pegsolitaire
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=pegsolitaire

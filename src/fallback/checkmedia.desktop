@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Media Check
 Name[af]=Media-nagaan
@@ -90,7 +88,6 @@ GenericName[zu]=Fakazela ukwethembeka kwe-CD ne-DVD
 Icon=yast-checkmedia
 TryExec=/sbin/yast2
 Exec=/sbin/yast2 checkmedia
-Terminal=false
 Categories=Settings;System;Qt;X-SuSE-YaST;X-SuSE-YaST-Software;
 StartupNotify=true
 X-KDE-HasReadOnlyMode=true

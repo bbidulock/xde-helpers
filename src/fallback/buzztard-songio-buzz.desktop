@@ -1,12 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Buzztard Music Editor
-Name[de]=Buzztard Music Editor
 TryExec=/usr/bin/bt-edit
 Exec=bt-edit --command=load --input-file=%f
-Terminal=false
 MimeType=audio/x-bmw;audio/x-bmx;
 StartupNotify=false
 X-AppInstall-Package=buzztard-bsl

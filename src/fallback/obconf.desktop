@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Openbox Configuration Manager
 Name[ca]=Gestor de configuració de l'Openbox
@@ -23,7 +21,6 @@ Comment[zh_TW]=管理 Openbox 組態設定
 Icon=obconf
 TryExec=/usr/bin/obconf
 Exec=obconf %f
-Terminal=false
 Categories=Settings;DesktopSettings;GTK;
 MimeType=application/x-openbox-theme;
 StartupNotify=true

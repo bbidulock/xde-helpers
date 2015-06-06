@@ -1,15 +1,11 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=poker2D
-Name[fr]=poker2D
 GenericName=Multiplayer online poker
 GenericName[fr]=Poker multijoueur en ligne
 Icon=poker2D
 TryExec=/usr/games/poker2d
 Exec=/usr/games/poker2d
-Terminal=false
 Categories=Game;CardGame;KDE;
 StartupNotify=false
 DocPath=poker2D/index.html

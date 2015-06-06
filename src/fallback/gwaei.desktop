@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=gWaei Japanese-English Dictionary
 Name[fr]=gWaei Dictionnaire Japonais-Anglais
@@ -13,7 +11,6 @@ Comment[ja]=英語か日本語の単語を入れて簡単に翻訳を調べま�
 Icon=gwaei
 TryExec=/usr/bin/gwaei
 Exec=gwaei
-Terminal=false
 Categories=Utility;GNOME;GTK;
 StartupNotify=false
 X-AppInstall-Package=gwaei

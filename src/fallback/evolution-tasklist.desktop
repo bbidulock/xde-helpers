@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Evolution Task List
 Name[af]=Evolution-taaklys
 Name[bg]=Списък със задачи на Evolution
 Name[cs]=Úkolovník Evolution
 Name[da]=Evolution opgaveliste
-Name[de]=Evolution Task List
 Name[el]=Κατάλογος Εργασιών Evolution
 Name[es]=Lista de tareas de Evolution
 Name[et]=Evolutioni ülesannete nimekiri
@@ -99,7 +96,6 @@ Comment[zh_TW]=管理目前的工作
 Icon=ximian-evolution-tasks
 TryExec=/usr/bin/evolution
 Exec=evolution -c tasks
-Terminal=false
 Categories=Calendar;GNOME;
 StartupNotify=false
 DocPath=evolution-2.22/evolution-2.22.xml?usage-calendar-todo

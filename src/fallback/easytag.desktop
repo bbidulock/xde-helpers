@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=EasyTAG
 GenericName=Audio File Tag Viewer/Editor
@@ -22,7 +20,6 @@ Comment[uk]=EasyTAG - утиліта для перегляду, редагува
 Icon=EasyTAG_icon
 TryExec=/usr/bin/easytag
 Exec=easytag %F
-Terminal=false
 Categories=AudioVideo;AudioVideoEditing;GTK;
 MimeType=audio/x-mp3;application/ogg;x-directory/normal;
 StartupNotify=false

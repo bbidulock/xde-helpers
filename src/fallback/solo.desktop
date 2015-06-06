@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Solo
 Comment=Sudoku game
@@ -9,7 +7,6 @@ Comment[fr]=Un sudoku
 Icon=solo
 TryExec=/usr/bin/solo
 Exec=solo
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=sgt-puzzles

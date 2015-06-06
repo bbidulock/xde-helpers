@@ -1,15 +1,11 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Bless Hex Editor
 GenericName=Hex Editor
-GenericName[en_US]=Hex Editor
 Comment=Edit binary files
 Icon=bless-48x48
 TryExec=/usr/bin/bless
 Exec=bless %F
-Terminal=false
 Categories=Development;GTK;
 StartupNotify=false
 X-AppInstall-Package=bless

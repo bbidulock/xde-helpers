@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Same Game
 Comment=Clear the grid of coloured squares by highlighting contiguous regions of more than one coloured square
@@ -9,7 +7,6 @@ Comment[fr]=Supprimer la grille de couleur en éclairant les régions adjacentes
 Icon=samegame
 TryExec=/usr/bin/samegame
 Exec=samegame
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=sgt-puzzles

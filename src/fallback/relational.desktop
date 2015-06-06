@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Relational
 GenericName=Relational Algebra
@@ -10,7 +8,6 @@ Comment[it]=Impara l'algebra relazionale
 Icon=kexi
 TryExec=/usr/bin/relational
 Exec=relational
-Terminal=false
 Categories=Education;
 StartupNotify=false
 X-AppInstall-Package=relational

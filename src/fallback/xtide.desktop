@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=XTide Tide Predictor
 GenericName=Tide Predictor
@@ -8,7 +6,6 @@ Comment=View tide and current predictions
 Icon=xtide
 TryExec=/usr/bin/xtide
 Exec=xtide
-Terminal=false
 Categories=Education;Science;
 StartupNotify=false
 X-AppInstall-Package=xtide

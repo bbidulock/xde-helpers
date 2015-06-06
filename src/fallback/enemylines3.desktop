@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Enemylines3
 Comment=semi-abstract first person 3d-shooter game
@@ -8,7 +6,6 @@ Comment[fr]=Un jeu de tir à la première personne
 Icon=enemylines3
 TryExec=/usr/bin/enemylines3
 Exec=enemylines3
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=enemylines3

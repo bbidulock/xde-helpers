@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Network
 Name[cs]=Síť
@@ -42,6 +40,5 @@ Comment[sr]=Потрбно је ВПН потврђивање
 Comment[sv]=Begär VPN-autentisering
 TryExec=/usr/libexec/nm-vpnc-auth-dialog
 Exec=/usr/libexec/nm-vpnc-auth-dialog
-Terminal=false
 NoDisplay=true
 StartupNotify=false

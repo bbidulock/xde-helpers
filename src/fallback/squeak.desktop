@@ -1,17 +1,12 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Squeak
-Name[de_DE]=Squeak
-Name[es_ES]=Squeak
 Comment=Programming system and content development tool
 Comment[de_DE]=Programmier- und Multimediaentwicklungsumgebung
 Comment[es_ES]=Herramienta de desarrollo de contenidos y aplicaciones
 Icon=_usr_share_pixmaps_squeak
 TryExec=/usr/bin/squeak
 Exec=squeak
-Terminal=false
 Categories=Application;Development;Education;
 MimeType=application/x-image;application/squeak-image;application/squeak-project;
 StartupNotify=false

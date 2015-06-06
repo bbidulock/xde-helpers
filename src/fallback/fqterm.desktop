@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=FQTerm
 GenericName=BBS Client
@@ -10,7 +8,6 @@ Comment=BBS client based on Qt library in linux
 Icon=_usr_share_FQTerm_pic_fqterm_256x256
 TryExec=/usr/bin/fqterm
 Exec=fqterm -caption "%c" %i %u
-Terminal=false
 Categories=Application;Network;Qt;
 StartupNotify=false
 X-AppInstall-Package=fqterm

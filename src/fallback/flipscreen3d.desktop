@@ -1,11 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=FlipScreen3D
 TryExec=/usr/bin/flipscreen3d
 Exec=flipscreen3d -root
-Terminal=false
 OnlyShowIn=GNOME;
 Categories=Screensaver;
 StartupNotify=false

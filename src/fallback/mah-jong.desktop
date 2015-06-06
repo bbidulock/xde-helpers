@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Mah-Jong
 GenericName=Classic Mahjong game
@@ -8,7 +6,6 @@ Comment=Play classic Mahjong puzzle game
 Icon=mah-jong
 TryExec=/usr/bin/xmj
 Exec=xmj
-Terminal=false
 Categories=Game;BoardGame;
 StartupNotify=false
 X-AppInstall-Package=mah-jong

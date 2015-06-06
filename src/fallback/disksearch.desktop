@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=DiskSearch
 Comment=Search your removable media
 Icon=disksearch
 TryExec=/usr/bin/disksearch
 Exec=disksearch
-Terminal=false
 Categories=Utility;GTK;
 StartupNotify=true
 X-AppInstall-Package=disksearch

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=ImageShack Uploader
 Name[ru]=Загрузчик ImageShack
@@ -9,7 +7,6 @@ Comment[ru]=Загрузите свои изображения и видео н�
 Icon=imageshack
 TryExec=/usr/bin/imageshack-uploader
 Exec=imageshack-uploader
-Terminal=false
 Categories=Network;FileTransfer;Qt;
 StartupNotify=false
 X-AppInstall-Package=imageshack-uploader

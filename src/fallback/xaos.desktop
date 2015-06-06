@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=XaoS
 GenericName=XaoS Fractal Explorer
@@ -9,7 +7,6 @@ Icon=xaos
 TryExec=/usr/bin/xaos
 Exec=xaos
 X-MultipleArgs=false
-Terminal=false
 Categories=Application;Graphics;
 StartupNotify=true
 X-AppInstall-Package=xaos

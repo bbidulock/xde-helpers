@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Mozilla Thunderbird
 GenericName=Mail/News
@@ -8,7 +6,6 @@ Comment=Mail and News Client
 Icon=mozilla-thunderbird
 TryExec=/usr/bin/mozilla-thunderbird
 Exec=mozilla-thunderbird
-Terminal=false
 Categories=Network;Email;News;GTK;X-MandrivaLinux-CrossDesktop;
 MimeType=message/rfc822;x-scheme-handler/mailto;
 StartupNotify=false

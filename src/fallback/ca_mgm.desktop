@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=CA Management
 Name[af]=CA-bestuur
@@ -78,7 +76,6 @@ GenericName[zu]=Hlela i-Cas, izitifiketi, nezicelo
 Icon=yast-ca_mgm
 TryExec=/sbin/yast2
 Exec=/sbin/yast2 ca_mgm
-Terminal=false
 Categories=Settings;System;Qt;X-SuSE-YaST;X-SuSE-YaST-Security;
 StartupNotify=true
 X-KDE-HasReadOnlyMode=true

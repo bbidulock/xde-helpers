@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=SubDownloader
 Comment=Application to download/upload subtitles of your movies.
@@ -8,7 +6,6 @@ Icon=subdownloader
 TryExec=/usr/bin/subdownloader
 Exec=subdownloader
 X-DCOP-ServiceType=unique
-Terminal=false
 Categories=AudioVideo;Video;KDE;Qt;
 MimeType=video/avi;
 Path=/usr/share/subdownloader

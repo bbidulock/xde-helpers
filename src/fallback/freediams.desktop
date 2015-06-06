@@ -1,15 +1,12 @@
 [Desktop Entry]
 Version=0.4.0
-Encoding=UTF-8
 Type=Application
 Name=FreeDiams
 Comment=Pharmaceutical Drugs Prescriptor
-Comment[en]=Pharmaceutical Drugs Prescriptor
 Comment[fr]=Prescripteur
 Icon=freediams
 TryExec=/usr/bin/freediams
 Exec=freediams
-Terminal=false
 Categories=Office;MedicalSoftware;
 StartupNotify=false
 X-AppInstall-Package=freediams

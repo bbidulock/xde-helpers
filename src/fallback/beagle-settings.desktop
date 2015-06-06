@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Search Settings
 Name[af]=Soekinstellings
@@ -40,7 +38,6 @@ GenericName[cs]=Nastavit vyhledávání
 GenericName[da]=Konfigurér skrivebordssøgning
 GenericName[de]=Konfiguriere Desktop-Suche
 GenericName[dz]=ཌེཀསི་ཊོཔ་འཚོལ་ཞིབ་རིམ་སྒྲིག
-GenericName[en_GB]=Configure Desktop Search
 GenericName[es]=Configurar búsqueda de escritorio
 GenericName[eu]=Konfiguratu mahaigaineko bilaketa
 GenericName[fi]=Määritä työpöytähaku
@@ -67,7 +64,6 @@ GenericName[zh_TW]=設定桌面搜尋
 Icon=beagle-system-search
 TryExec=/usr/bin/beagle-settings
 Exec=beagle-settings
-Terminal=false
 Categories=Settings;Utility;Filesystem;X-SuSE-ControlCenter-System;
 StartupNotify=false
 X-GNOME-Bugzilla-Bugzilla=GNOME

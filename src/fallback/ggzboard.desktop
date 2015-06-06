@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GGZBoard
 GenericName=SDL board games collection
@@ -12,7 +10,6 @@ Comment[fr]=Jeux GGZ: L'\xE9checs, Dame, Go, ...
 Icon=_usr_share_ggz_ggzboard_common_icon
 TryExec=/usr/games/ggzboard
 Exec=/usr/games/ggzboard
-Terminal=false
 Categories=Game;BoardGame;X-GGZ-Games;
 StartupNotify=false
 X-AppInstall-Package=ggz-python-games

@@ -1,26 +1,11 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GADMIN-PROFTPD
-Name[de]=GADMIN-PROFTPD
-Name[es]=GADMIN-PROFTPD
-Name[fi]=GADMIN-PROFTPD
-Name[fr]=GADMIN-PROFTPD
-Name[ko]=GADMIN-PROFTPD
-Name[no]=GADMIN-PROFTPD
-Name[pt_BR]=GADMIN-PROFTPD
-Name[ro]=GADMIN-PROFTPD
-Name[sl]=GADMIN-PROFTPD
-Name[sv]=GADMIN-PROFTPD
-Name[uk]=GADMIN-PROFTPD
-Name[zh_TW]=GADMIN-PROFTPD
 GenericName=GADMIN-PROFTPD
 Comment=ProFTPD FTP server administration
 Icon=gadmin-proftpd
 TryExec=/usr/bin/su-to-root
 Exec=su-to-root -X -c /usr/sbin/gadmin-proftpd
-Terminal=false
 Categories=System;GTK;
 StartupNotify=false
 X-AppInstall-Package=gadmin-proftpd

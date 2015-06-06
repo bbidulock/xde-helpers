@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=MultiGet
 Comment=MultiGet Downloader
@@ -8,7 +6,6 @@ Comment[zh_CN]=MultiGet 下载器
 Icon=_usr_share_pixmaps_multiget_48
 TryExec=/usr/bin/multiget
 Exec=multiget
-Terminal=false
 Categories=Network;
 StartupNotify=false
 X-AppInstall-Package=multiget

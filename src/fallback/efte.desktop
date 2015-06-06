@@ -1,6 +1,5 @@
 [Desktop Entry]
 Version=1.1
-Encoding=UTF-8
 Type=Application
 Name=eFTE
 GenericName=Text Editor
@@ -32,7 +31,6 @@ Comment[sv]=Snabb, utbyggbar textredigerare för programmerare
 Icon=efte
 TryExec=/usr/bin/efte
 Exec=efte %f
-Terminal=false
 Categories=Development;TextEditor;
 MimeType=text/english;text/plain;text/x-makefile;text/x-c++hdr;text/x-c++src;text/x-chdr;text/x-csrc;text/x-java;text/x-pascal;text/x-tcl;text/x-tex;application/x-shellscript;text/x-c;text/x-c++;
 StartupNotify=false

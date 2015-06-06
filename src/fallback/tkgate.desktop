@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=tkgate Circuit Simulator
 GenericName=Circuit Simulator
@@ -8,7 +6,6 @@ Comment=Event driven digital circuit simulator with Tcl/Tk
 Icon=tkgate
 TryExec=/usr/bin/tkgate
 Exec=tkgate
-Terminal=false
 Categories=Education;Electronics;Engineering;
 StartupNotify=false
 X-AppInstall-Package=tkgate

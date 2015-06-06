@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Childsplay
 GenericName=Childsplay
@@ -10,7 +8,6 @@ Comment[es]=Conjunto de juegos educativos para niños
 Icon=logo_cp_32x32.xpm
 TryExec=/usr/bin/childsplay
 Exec=childsplay
-Terminal=false
 Categories=Application;Education;Game;2DGraphics;KidsGame;
 StartupNotify=false
 X-AppInstall-Package=childsplay

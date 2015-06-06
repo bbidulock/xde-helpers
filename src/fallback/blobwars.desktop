@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Metal Blob Solid
 Icon=blobwars
 TryExec=/usr/bin/blobwars
 Exec=blobwars
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-Desktop-File-Install-Version=1.0

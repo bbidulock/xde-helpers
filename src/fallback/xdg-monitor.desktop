@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=XDG Monitor
 Comment=Monitor the XDG launching of programs
 Icon=utilities-system-monitor
 TryExec=/usr/bin/xdg-monitor
 Exec=/usr/bin/xdg-monitor --replace
-Terminal=false
 NotShowIn=GNOME;KDE;XFCE;
 Categories=TrayIcon;System;Monitor;XDG;
 StartupNotify=true

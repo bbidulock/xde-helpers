@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=ReZound
 Icon=rezound32.xpm
 TryExec=/usr/bin/rezound
 Exec=/usr/bin/rezound --audio-method=jack
-Terminal=false
 Categories=Application;AudioVideo;Audio;
 StartupNotify=false
 X-AppInstall-Package=rezound

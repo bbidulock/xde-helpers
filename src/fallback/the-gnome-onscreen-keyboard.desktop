@@ -1,10 +1,7 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=The GNOME Onscreen Keyboard
 TryExec=/usr/bin/gok
 Exec=gok
-Terminal=false
 Categories=Accessibility;
 StartupNotify=false

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Power Management
 Name[af]=Kragbestuur
@@ -81,7 +79,6 @@ GenericName[zu]=Hlela ukulawulwa kwamandla
 Icon=yast-power-management
 TryExec=/sbin/yast2
 Exec=/sbin/yast2 power-management
-Terminal=false
 Categories=Qt;X-SuSE-YaST;X-SuSE-YaST-System;
 StartupNotify=false
 X-KDE-HasReadOnlyMode=true

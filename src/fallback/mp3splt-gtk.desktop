@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Mp3splt-gtk audio splitter
 GenericName=Sound Splitter
@@ -8,7 +6,6 @@ Comment=Split mp3 and ogg files without decoding
 Icon=/usr/share/mp3splt-gtk/mp3splt-gtk_ico.png
 TryExec=/usr/bin/mp3splt-gtk
 Exec=mp3splt-gtk
-Terminal=false
 Categories=Application;AudioVideo;Audio;AudioVideoEditing;
 MimeType=application/ogg;audio/x-mp3;
 StartupNotify=false

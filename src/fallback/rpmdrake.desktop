@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Install & Remove Software
 Name[ar]=تثبيت وإزالة البرامج
@@ -85,6 +83,5 @@ Comment[zh_TW]=安裝、移除與更新套件
 Icon=rpmdrake
 TryExec=/usr/bin/rpmdrake
 Exec=rpmdrake
-Terminal=false
 Categories=System;PackageManager;GTK;X-MandrivaLinux-CrossDesktop;
 StartupNotify=false

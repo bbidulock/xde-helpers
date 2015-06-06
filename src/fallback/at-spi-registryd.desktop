@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=AT SPI Registry Wrapper
 Name[ar]=غلاف مضبطة AT SPI
@@ -11,7 +9,6 @@ Name[ca]=Embolcall del registre del servei d'accessibilitat (AT SPI)
 Name[cs]=Objekt registru AT SPI
 Name[da]=Mellemlag til AT-SPI-register
 Name[de]=Wrapper der AT-SPI-Registrierung
-Name[en_GB]=AT SPI Registry Wrapper
 Name[es]=Envolvente del registro de AT-SPI
 Name[et]=AT-SPI registri mähkur
 Name[eu]=AT-SPI erregistroen bildukia
@@ -51,7 +48,6 @@ Name[zh_HK]=AT SPI 註冊表包裹器
 Name[zh_TW]=AT SPI 註冊表包裹器
 TryExec=/usr/lib/at-spi/at-spi-registryd
 Exec=/usr/lib/at-spi/at-spi-registryd
-Terminal=false
 NoDisplay=true
 OnlyShowIn=GNOME;
 StartupNotify=false

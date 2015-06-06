@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Widelands
 GenericName=Strategy Game
@@ -19,7 +17,6 @@ Comment[de]=Echtzeitbasiertes Aufbau-Strategiespiel
 Icon=/usr/share/games/widelands/pics/wl-ico-64.png
 TryExec=/usr/bin/widelands
 Exec=widelands
-Terminal=false
 Categories=Application;Game;StrategyGame;
 StartupNotify=false
 X-AppInstall-Package=widelands

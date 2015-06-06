@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=kasablanca
 GenericName=FTP Client
@@ -52,7 +50,6 @@ Comment[zu]=Umthengi we FTP
 Icon=kasablanca
 TryExec=/usr/bin/kasablanca
 Exec=kasablanca
-Terminal=false
 Categories=Network;KDE;Qt;
 StartupNotify=false
 X-AppInstall-Package=kasablanca

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gcolor2
 GenericName=Gcolor2
@@ -8,7 +6,6 @@ Comment=Simple GTK2 color selector and picker
 Icon=_usr_share_pixmaps_gcolor2_gcolor2
 TryExec=/usr/bin/gcolor2
 Exec=gcolor2
-Terminal=false
 Categories=Application;Graphics;
 StartupNotify=false
 X-AppInstall-Package=gcolor2

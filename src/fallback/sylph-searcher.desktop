@@ -1,17 +1,12 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Sylph-Searcher
-Name[es]=Sylph-Searcher
-Name[ja]=Sylph-Searcher
 Comment=Full-text search program for Sylpheed
 Comment[es]=Programa de búsqueda «full-text» para Sylpheed
 Comment[ja]=Sylpheed の全文検索プログラム
 Icon=sylph-searcher
 TryExec=/usr/bin/sylph-searcher
 Exec=sylph-searcher
-Terminal=false
 Categories=Utility;
 StartupNotify=false
 X-AppInstall-Package=sylph-searcher

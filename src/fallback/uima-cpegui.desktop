@@ -1,15 +1,11 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=UIMA CPE Gui
-Name[fr]=UIMA CPE Gui
 Comment=Graphical interface to build UIMA CPE
 Comment[fr]=Interface graphique pour construire des chaînes UIMA
 Icon=UIMA
 TryExec=/usr/bin/cpeGui
 Exec=cpeGui
-Terminal=false
 Categories=Education;Science;Java;
 StartupNotify=false
 X-AppInstall-Package=uima-utils

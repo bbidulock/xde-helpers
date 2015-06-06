@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=wxGlade
 Comment=GUI designer written in Python with wxPython
@@ -9,7 +7,6 @@ Comment[fr_FR.UTF-8]=Outil de développement rapide écrit en Python avec wxPyth
 Icon=wxglade
 TryExec=/usr/bin/wxglade
 Exec=wxglade
-Terminal=false
 Categories=Development;
 StartupNotify=false
 X-AppInstall-Package=wxglade

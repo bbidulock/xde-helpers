@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=KMidimon
 Comment=ALSA Sequencer MIDI monitor
@@ -8,7 +6,6 @@ Comment[es]=Monitor MIDI utilizando el secuenciador ALSA
 Icon=kmidimon
 TryExec=/usr/bin/kmidimon
 Exec=kmidimon %u
-Terminal=false
 Categories=AudioVideo;Audio;Midi;Player;Recorder;Music;
 MimeType=audio/midi;audio/x-midi;audio/cakewalk;
 StartupNotify=false

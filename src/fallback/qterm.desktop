@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=QTerm
 GenericName=BBS Client
@@ -10,7 +8,6 @@ Comment=BBS client based on Qt library in linux
 Icon=qterm
 TryExec=/usr/bin/qterm
 Exec=qterm -caption "%c" %i %m %u
-Terminal=false
 Categories=Application;Network;
 StartupNotify=false
 X-AppInstall-Package=qterm

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=TVtime Television Viewer
 GenericName=Television Viewer
@@ -8,7 +6,6 @@ Comment=High quality video deinterlacer
 Icon=tvtime.png
 TryExec=/usr/bin/tvtime
 Exec=tvtime
-Terminal=false
 Categories=Application;AudioVideo;
 StartupNotify=false
 X-AppInstall-Package=tvtime

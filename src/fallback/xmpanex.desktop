@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=xmpanex
 GenericName=panex game
 Icon=_usr_share_pixmaps_xpanex.m
 TryExec=/usr/games/xmpanex
 Exec=/usr/games/xmpanex
-Terminal=false
 Categories=Game;
 StartupNotify=false
 X-AppInstall-Package=xmpuzzles

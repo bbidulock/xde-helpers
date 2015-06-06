@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Debian Installer
 Comment=Debian Installer
 Icon=debian-installer-launcher
 TryExec=/usr/bin/su-to-root
 Exec=su-to-root -X -c /usr/sbin/debian-installer-launcher
-Terminal=false
 Categories=Application;System;
 StartupNotify=true
 X-AppInstall-Package=debian-installer-launcher

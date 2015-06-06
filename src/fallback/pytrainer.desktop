@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=pyTrainer
 Comment=The Free Sport Training Center
 Icon=pytrainer
 TryExec=/usr/bin/pytrainer
 Exec=pytrainer
-Terminal=false
 Categories=Office;
 StartupNotify=false
 X-AppInstall-Package=pytrainer

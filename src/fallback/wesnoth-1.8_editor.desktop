@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Battle for Wesnoth Map Editor (1.8)
 Name[cs]=Editor map Bitvy o Wesnoth (1.8)
@@ -37,7 +35,6 @@ Comment[tr]=Wesnoth savaşı haritaları için harita düzenleyici
 Icon=wesnoth-1.8_editor-icon
 TryExec=/usr/bin/wesnoth-1.8-nolog
 Exec=wesnoth-1.8-nolog -e
-Terminal=false
 Categories=Game;StrategyGame;
 StartupNotify=false
 X-AppInstall-Package=wesnoth-1.8-core

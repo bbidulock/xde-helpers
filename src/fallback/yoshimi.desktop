@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Yoshimi
 GenericName=Software Synthesizer
@@ -8,7 +6,6 @@ Comment=Software Synthesizer based on ZynAddSubFX
 Icon=yoshimi
 TryExec=/usr/bin/yoshimi
 Exec=yoshimi
-Terminal=false
 Categories=AudioVideo;Audio;
 StartupNotify=true
 X-AppInstall-Package=yoshimi

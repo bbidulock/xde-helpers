@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=PDF Chain
 GenericName=pdfchain
@@ -8,7 +6,6 @@ Comment=GUI for PDFTK - A graphical tool for manipulating PDF
 Icon=pdfchain
 TryExec=/usr/bin/pdfchain
 Exec=pdfchain
-Terminal=false
 Categories=Office;
 MimeType=application/pdf;
 StartupNotify=false

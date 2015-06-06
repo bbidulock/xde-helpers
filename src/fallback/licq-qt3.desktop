@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Licq
 Name[fa]=لیسک
@@ -103,7 +101,6 @@ TryExec=/usr/bin/licq
 Exec=licq
 ServiceTypes=DCOP/InstantMessenger;
 X-DCOP-ServiceName=licq
-Terminal=false
 Categories=Network;InstantMessaging;KDE;Qt;
 StartupNotify=false
 X-AppInstall-Package=licq

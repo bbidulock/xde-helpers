@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Lock Screen
 Name[af]=Sluit skerm
@@ -33,7 +31,6 @@ Name[zu]=Khiya Isibuko
 Icon=gnome-lockscreen
 TryExec=/usr/bin/gnome-screensaver-command
 Exec=gnome-screensaver-command --lock
-Terminal=false
 Hidden=true
 OnlyShowIn=GNOME;
 Categories=Application;System;GNOME;

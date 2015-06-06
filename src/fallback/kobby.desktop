@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Kobby
 GenericName=Collaborative Text Editor
 Icon=meeting-attending
 TryExec=/usr/bin/kobby
 Exec=kobby
-Terminal=false
 Categories=Network;Utility;TextEditor;KDE;Qt;
 StartupNotify=false
 X-AppInstall-Package=kobby

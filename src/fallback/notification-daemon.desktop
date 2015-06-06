@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Notification Daemon
 Comment=Display notifications
 TryExec=/usr/libexec/notification-daemon
 Exec=/usr/libexec/notification-daemon
-Terminal=false
 NoDisplay=true
 StartupNotify=false
 X-AppInstall-Package=notification-daemon

@@ -1,9 +1,6 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Vagalume Last.fm Client
-Name[de]=Vagalume Last.fm Client
 Name[es]=Cliente de Last.fm Vagalume
 Name[fi]=Vagalume Last.fm Asiakasohjelma
 Name[fr]=Vagalume un client pour Last.fm
@@ -17,7 +14,6 @@ Name[ru]=Vagalume Last.fm клиент
 Icon=vagalume
 TryExec=/usr/bin/vagalume
 Exec=/usr/bin/vagalume
-Terminal=false
 Categories=Application;AudioVideo;Audio;Player;GNOME;GTK;
 StartupNotify=false
 X-AppInstall-Package=vagalume

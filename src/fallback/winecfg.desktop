@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Wine configuration
 Comment=Setup the compatibility layer for Windows programs
@@ -8,7 +6,6 @@ Comment[ca]=Configura la capa de compatibilitat per a programes de Windows
 Icon=_usr_share_pixmaps_wine
 TryExec=/usr/bin/winecfg
 Exec=winecfg
-Terminal=false
 Categories=Application;System;
 StartupNotify=false
 X-AppInstall-Package=wine-bin

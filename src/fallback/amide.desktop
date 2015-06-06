@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Amide
 Name[zh_CN]=高级医学图像察看器
@@ -11,7 +9,6 @@ Comment[zh_CN]=高级医学图像察看器
 Icon=amide_logo.png
 TryExec=/usr/bin/amide
 Exec=amide
-Terminal=false
 Categories=Graphics;MedicalSoftware;
 StartupNotify=false
 X-AppInstall-Package=amide

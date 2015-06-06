@@ -1,6 +1,5 @@
 [Desktop Entry]
 Version=2.2
-Encoding=UTF-8
 Type=Application
 Name=GNUbik
 GenericName=GNUbik Game
@@ -8,7 +7,6 @@ Comment=3D Rubik's cube game
 Icon=_usr_share_pixmaps_gnubik
 TryExec=/usr/games/gnubik
 Exec=/usr/games/gnubik
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=gnubik

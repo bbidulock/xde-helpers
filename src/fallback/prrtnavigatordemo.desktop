@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=PRRT Navigator Demo
 Comment=Robotics Simulation
@@ -8,7 +6,6 @@ Icon=reactivenav
 TryExec=/usr/bin/prrt-navigator-demo
 Exec=prrt-navigator-demo
 X-MultipleArgs=false
-Terminal=false
 Categories=Education;Science;ArtificialIntelligence;Robotics;
 StartupNotify=true
 X-AppInstall-Package=mrpt-apps

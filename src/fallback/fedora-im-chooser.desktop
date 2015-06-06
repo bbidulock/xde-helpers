@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Input Method Selector
 Name[ar]=طريقة إدخال
@@ -67,7 +65,6 @@ Comment[cs]=Vyberte, která vstupní metoda se má používat, nebo vsupní meto
 Comment[da]=Vælg den inputmetode som skal være i brug eller deaktivér brugen af inputmetoden på skrivebordet
 Comment[de]=Wählen Sie die Eingabemethode, welche verwendet werden soll oder deaktivieren Sie die Verwendung von Eingabemethoden auf dem Desktop.
 Comment[el]=Επιλέξτε μέθοδο εισαγωγής για χρήση ή απενεργοποιήστε τη χρήση μεθόδων εισαγωγής στην επιφάνεια εργασίας
-Comment[en_GB]=Choose the input method to be used or disable the input method usage on the desktop
 Comment[es]=Selecciona el método de entrada a utilizar o desactiva los métodos de entrada en el escritorio.
 Comment[fa]=انتخاب شیوه ورودی برای استفاده یا غیر فعال سازی شیوه ورودی در رومیزی
 Comment[fi]=Valitse käytettävä syöttömenetelmä tai kytkemiseen syöttömenetelmien käyttö pois päältä työpöytäkäytössä.
@@ -106,7 +103,6 @@ Comment[zh_TW]=請選擇欲使用的輸入法或是停用桌面環境所使用�
 Icon=im-chooser
 TryExec=/usr/bin/im-chooser
 Exec=im-chooser
-Terminal=false
 NotShowIn=XFCE;
 Categories=Settings;Applications;X-GNOME-PersonalSettings;
 StartupNotify=true

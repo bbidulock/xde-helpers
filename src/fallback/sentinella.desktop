@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Sentinella
 GenericName=Action launcher based on system activity
@@ -20,7 +18,6 @@ GenericName[zh_CN]=基于系统状态的命令启动器
 Icon=sentinella
 TryExec=/usr/bin/sentinella
 Exec=sentinella -caption "%c" %i
-Terminal=false
 Categories=System;Monitor;Qt;
 StartupNotify=false
 X-KDE-StartupNotify=true

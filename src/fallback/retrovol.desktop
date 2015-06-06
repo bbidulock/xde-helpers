@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Retrovol sound mixer
 GenericName=Retrovol
@@ -8,7 +6,6 @@ Comment=Retrovol sound mixer
 Icon=wmaker-sound_mixer.png
 TryExec=/usr/bin/retrovol
 Exec=retrovol -hide
-Terminal=false
 Hidden=true
 NotShowIn=GNOME;KDE;XFCE;LXDE;
 Categories=TrayIcon;GTK;

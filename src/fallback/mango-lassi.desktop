@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Input Device Sharing
 Name[de]=Gemeinsame Eingabegeräte
@@ -9,7 +7,6 @@ Comment[de]=Maus und Tastatur mit anderen Computern teilen
 Icon=mango-lassi
 TryExec=/usr/bin/mango-lassi
 Exec=/usr/bin/mango-lassi
-Terminal=false
 Categories=Network;
 StartupNotify=false
 X-AppInstall-Package=mango-lassi

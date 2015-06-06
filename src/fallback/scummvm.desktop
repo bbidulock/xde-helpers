@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=ScummVM
 Comment=Interpreter for several adventure games
@@ -13,7 +11,6 @@ Comment[sv]=Tolk för flera äventyrsspel
 Icon=scummvm
 TryExec=/usr/bin/scummvm
 Exec=scummvm
-Terminal=false
 Categories=Game;AdventureGame;
 StartupNotify=false
 X-AppInstall-Package=scummvm

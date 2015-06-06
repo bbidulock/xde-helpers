@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=ROX Filer
 Name[ar]=مرشح ROX
@@ -53,7 +51,6 @@ Name[zh_TW]=ROX-Filer
 Icon=/usr/libexec/ROX-Filer/.DirIcon
 TryExec=/usr/bin/rox
 Exec=rox
-Terminal=false
 Categories=System;FileTools;FileManager;
 StartupNotify=true
 X-XFCE-Binaries=rox;

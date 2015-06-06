@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Grip
 Comment=CD player and ripper
 Icon=grip
 TryExec=/usr/bin/grip
 Exec=grip
-Terminal=false
 Categories=AudioVideo;Audio;Player;GTK;
 StartupNotify=true
 X-AppInstall-Package=grip

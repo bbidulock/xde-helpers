@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Eye of GNOME
 Comment=View many different types of images
 Icon=/usr/share/pixmaps/gnome-eog.xpm
 TryExec=/usr/bin/eog
 Exec=eog
-Terminal=false
 Categories=Graphics;Viewer;
 StartupNotify=false
 X-AppInstall-Package=eog

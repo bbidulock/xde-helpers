@@ -1,11 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=OpenAL-Soft Configuration Utility
 TryExec=/usr/bin/alsoft-conf
 Exec=alsoft-conf
-Terminal=false
 Categories=Settings;
 StartupNotify=false
 X-AppInstall-Package=alsoft-conf

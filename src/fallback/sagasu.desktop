@@ -1,17 +1,12 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Sagasu
-Name[cs]=Sagasu
-Name[fr]=Sagasu
 Comment=GNOME tool to find strings in a set of files
 Comment[cs]=Nástroj GNOME pro hledání řetězců v souborech
 Comment[fr]=Outil GNOME cherchant des chaines dans des fichiers
 Icon=sagasu.png
 TryExec=/usr/bin/sagasu
 Exec=sagasu
-Terminal=false
 Categories=Application;Utility;Accessories;X-Red-Hat-Base;
 StartupNotify=false
 X-AppInstall-Package=sagasu

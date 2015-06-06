@@ -1,11 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Epiphany web browser
 Comment=Epiphany web browser
 TryExec=/usr/bin/epiphany-browser
 Exec=epiphany-browser
-Terminal=false
 Categories=Network;Browsing;Web;
 StartupNotify=false

@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Caph
 Comment=Sandbox game based on physics
 Icon=caph.png
 TryExec=/usr/bin/caph
 Exec=caph
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=caph

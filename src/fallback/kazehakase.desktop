@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Kazehakase Web Browser
 Name[ja]=風博士ウェブブラウザ
@@ -9,7 +7,6 @@ Comment[ja]=ウェブブラウザ
 Icon=kazehakase-icon
 TryExec=/usr/bin/kazehakase
 Exec=kazehakase %U
-Terminal=false
 Categories=Network;WebBrowser;
 MimeType=text/html;text/xml;application/xhtml+xml;
 StartupNotify=false

@@ -1,15 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=unknown
 GenericName=Fastlink identify genotypes
-GenericName[en]=Fastlink identify genotypes
 Comment=Identify possible genotypes for unknowns
-Comment[en]=Identify possible genotypes for unknowns
 TryExec=/usr/bin/unknown
 Exec=unknown
-Terminal=false
 Categories=Education;Science;Biology;
 StartupNotify=false
 X-AppInstall-Package=fastlink

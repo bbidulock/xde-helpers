@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Garlic Protein Visualization
 Name[en_GB]=Garlic Protein Visualisation
@@ -15,7 +13,6 @@ Comment[hu]=3D molekula-megjelenítő
 Icon=garlic
 TryExec=/usr/bin/garlic
 Exec=garlic
-Terminal=false
 Categories=Education;Science;Biology;Chemistry;
 StartupNotify=false
 DocPath=/usr/share/doc/packages/garlic/html/index.html

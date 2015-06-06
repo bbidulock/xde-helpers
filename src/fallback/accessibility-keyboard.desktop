@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Accessibility
 Name[af]=Toeganklikheid
@@ -49,7 +47,6 @@ Comment[cs]=Nastaví možnosti zpřístupnění vaší klávesnice
 Comment[da]=Angiv indstillinger for tastaturtilgængelighed
 Comment[de]=Die Einstellungen zum barrierefreien Zugriff auf die Tastatur festlegen
 Comment[el]=Ρύθμιση των προτιμήσεων προσιτότητας πληκτρολογίου
-Comment[en_CA]=Set your keyboard accessibility preferences
 Comment[es]=Establece sus preferencias de accesibilidad del teclado
 Comment[et]=Klaviatuuri hõlbustussätete määramine
 Comment[eu]=Ezarri zure teklatuaren erabilerraztasun-hobespenak
@@ -102,7 +99,6 @@ Comment[zu]=Hlela ikhibhodi yakho ukuze ukwazi ukufinyelela kokuthandayo
 Icon=gnome-settings-accessibility-keyboard
 TryExec=/usr/bin/gnome-accessibility-keyboard-properties
 Exec=gnome-accessibility-keyboard-properties
-Terminal=false
 OnlyShowIn=GNOME;
 Categories=Application;Settings;Accessibility;GNOME;X-SuSE-ControlCenter-Personal;
 StartupNotify=true

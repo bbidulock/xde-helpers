@@ -1,11 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Asmon
 Comment=System resource monitor dockapp for Windowmaker and Afterstep.
 TryExec=/usr/bin/asmon
 Exec=asmon
-Terminal=false
 Categories=System;Monitoring;
 StartupNotify=false

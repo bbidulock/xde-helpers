@@ -1,6 +1,5 @@
 [Desktop Entry]
 Version=0.9.4
-Encoding=UTF-8
 Type=Application
 Name=Gazpacho Interface Designer
 Name[es]=Diseñador de Interfaces Gazpacho
@@ -17,7 +16,6 @@ Comment[pt_BR]=Projetar Interfaces Gráficas para Usuários
 Icon=_usr_share_gazpacho_pixmaps_gazpacho-icon
 TryExec=/usr/bin/gazpacho
 Exec=/usr/bin/gazpacho %F
-Terminal=false
 Categories=Application;Development;GUIDesigner;
 MimeType=application/x-glade;
 StartupNotify=false

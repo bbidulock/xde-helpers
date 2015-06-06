@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Service Pack Creator
 Name[ar]=منشئ الرزم الخدمية
@@ -15,7 +13,6 @@ Name[da]=Opretning af servicepakke
 Name[de]=Servicepaket-Erstellung
 Name[el]=Δημιουργία πακέτων ενημερώσεων
 Name[en@shaw]=𐑕𐑻𐑝𐑦𐑕 𐑐𐑨𐑒 𐑒𐑮𐑦𐑱𐑑𐑼
-Name[en_GB]=Service Pack Creator
 Name[es]=Creador de paquetes de servicio
 Name[et]=Teeninduspaki looja
 Name[eu]=Zerbitzu-pakete sortzailea
@@ -62,7 +59,6 @@ Comment=Create service packs for sharing with other computers
 Icon=gpk-service-pack
 TryExec=/usr/bin/gpk-service-pack
 Exec=gpk-service-pack
-Terminal=false
 OnlyShowIn=GNOME;
 Categories=System;GNOME;GTK;X-Red-Hat-Base;
 StartupNotify=true

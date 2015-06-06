@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Wmgui
 GenericName=Graphical user interface to the wiimote
@@ -10,7 +8,6 @@ Comment[fr]=Simple interface graphique pour la wiimote pour tester et afficher l
 Icon=wmgui.xpm
 TryExec=/usr/bin/wmgui
 Exec=wmgui
-Terminal=false
 Categories=Utility;HardwareSettings;
 StartupNotify=false
 X-AppInstall-Package=wmgui

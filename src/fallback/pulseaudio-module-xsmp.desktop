@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=PulseAudio Session Management
 Comment=Load module-x11-xsmp into PulseAudio
 TryExec=/usr/bin/pactl
 Exec=pactl load-module module-x11-xsmp
-Terminal=false
 StartupNotify=false
 X-AppInstall-Package=libpulse
 X-AppInstall-Popcon=0

@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=BOUML
 Comment=Free UML 2 modeler
 Icon=bouml
 TryExec=/usr/bin/bouml
 Exec=/usr/bin/bouml
-Terminal=false
 Categories=Development;
 StartupNotify=false
 X-AppInstall-Package=bouml

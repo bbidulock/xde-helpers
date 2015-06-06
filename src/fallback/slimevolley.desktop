@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Slime Volley
 Comment=Unrealistic 2D volleyball simulation
@@ -8,7 +6,6 @@ Comment[fr]=Simulation non réaliste de volley en 2D
 Icon=slimevolley
 TryExec=/usr/bin/slimevolley
 Exec=slimevolley
-Terminal=false
 Categories=Game;SportsGame;
 StartupNotify=false
 X-AppInstall-Package=slimevolley

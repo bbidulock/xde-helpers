@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=PhotoPrint
 Name[ru]=Пакетная печать фотографий в PhotoPrint
@@ -11,7 +9,6 @@ Comment[ru]=Цветоуправляемая пакетная печать фо�
 Icon=fotoprint
 TryExec=/usr/bin/photoprint
 Exec=photoprint %F
-Terminal=false
 Categories=Graphics;Photography;GNOME;GTK;
 MimeType=image/tiff;image/jpeg;image/png;
 StartupNotify=true

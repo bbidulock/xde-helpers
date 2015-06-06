@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=RedNotebook
 GenericName=Journal
@@ -8,7 +6,6 @@ Comment=Daily journal with calendar, templates and keyword searching
 Icon=rednotebook
 TryExec=/usr/bin/rednotebook
 Exec=rednotebook
-Terminal=false
 Categories=Office;
 StartupNotify=true
 X-AppInstall-Package=rednotebook

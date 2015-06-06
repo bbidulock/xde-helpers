@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Tkabber
 GenericName=GUI client for XMPP (Jabber) instant messaging
@@ -16,7 +14,6 @@ Comment[ru]=Общаться с помощью протокола XMPP (Jabber)
 Icon=/usr/share/icons/tkabber.xpm
 TryExec=/usr/bin/tkabber
 Exec=/usr/bin/tkabber
-Terminal=false
 Categories=Network;InstantMessaging;
 StartupNotify=false
 X-AppInstall-Package=tkabber

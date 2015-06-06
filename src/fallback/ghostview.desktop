@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GhostView
 Name[af]=Ghostview
@@ -123,7 +121,6 @@ Comment[zu]=Umboniseli Wokubhaliweyo Okudluliswayo
 Icon=/usr/share/pixmaps/gv_icon.xpm
 TryExec=/usr/bin/ghostview
 Exec=ghostview
-Terminal=false
 Categories=Graphics;Office;Viewer;
 MimeType=application/ps;
 StartupNotify=false

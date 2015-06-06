@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=iptux
 Name[zh_CN]=信使(iptux)
@@ -11,7 +9,6 @@ Comment[zh_TW]=局域網通訊工具
 Icon=ip-tux
 TryExec=/usr/bin/iptux
 Exec=iptux
-Terminal=false
 Categories=Network;GTK;
 StartupNotify=true
 X-AppInstall-Package=iptux

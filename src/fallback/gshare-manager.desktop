@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=File Sharing
 Name[ca]=Compartició de fitxers
@@ -25,7 +23,6 @@ Comment[sv]=Konfigurera fildelningstjänsten
 Icon=folder-remote
 TryExec=/usr/bin/gshare-manager
 Exec=gshare-manager
-Terminal=false
 OnlyShowIn=GNOME;
 Categories=Application;Settings;GNOME;
 StartupNotify=true

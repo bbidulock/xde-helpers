@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=ii-esu
 GenericName=ii-esu
@@ -8,7 +6,6 @@ Comment=HIZ's ES
 Icon=ii-esu
 TryExec=/usr/bin/ii-esu
 Exec=ii-esu
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=ii-esu

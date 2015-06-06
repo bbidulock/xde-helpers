@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GPar2
 Comment=GUI for Parity Volumes
@@ -8,7 +6,6 @@ Comment[fr]=Gestionnaire de volumes de parité
 Icon=gnome-main-menu
 TryExec=/usr/bin/gpar2
 Exec=gpar2 %f
-Terminal=false
 Categories=Application;Utility;
 MimeType=application/x-par;application/x-par2;
 StartupNotify=true

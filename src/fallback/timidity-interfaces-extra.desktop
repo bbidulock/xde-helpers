@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=TiMidity++ MIDI sequencer
 Name[ja]=TiMidity++ MIDIシーケンサ
@@ -9,7 +7,6 @@ Comment[ja]=ソフトウェア・シンセサイザ（MIDI/MODプレイヤー）
 Icon=_usr_share_pixmaps_timidity
 TryExec=/usr/bin/timidity
 Exec=/usr/bin/timidity -ia
-Terminal=false
 Categories=AudioVideo;Audio;Sequencer;
 MimeType=audio/midi;audio/x-mod;
 StartupNotify=false

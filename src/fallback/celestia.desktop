@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Celestia (GNOME)
 GenericName=Space Simulator
@@ -8,9 +6,14 @@ Comment=Explore the Universe in this detailed space simulation
 Icon=celestia
 TryExec=/usr/bin/celestia-gnome
 Exec=celestia-gnome
-Terminal=false
 Categories=Application;Education;Astronomy;
 StartupNotify=true
-X-AppInstall-Package=celestia-gnome
+X-AppInstall-Package=celestia
 X-AppInstall-Popcon=119
-X-AppInstall-Section=main
+X-AppInstall-Section=extra
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=celestia
+X-Arch-Package-Version=1.6.1-5
+X-Arch-Package-Description=Real-time space simulation
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.shatters.net/celestia/

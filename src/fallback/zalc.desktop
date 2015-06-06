@@ -1,6 +1,5 @@
 [Desktop Entry]
 Version=1.2.4
-Encoding=UTF-8
 Type=Application
 Name=Zalc
 Comment=A small, FLTK-based calculator
@@ -8,7 +7,6 @@ Comment[ru_RU]=Простой, базирующийся на FLTK калькул
 Icon=zalc
 TryExec=/usr/bin/zalc
 Exec=zalc
-Terminal=false
 Categories=Utility;
 StartupNotify=false
 X-AppInstall-Package=zalc

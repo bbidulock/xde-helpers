@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Navigation log viewer
 Comment=A visualization tool for navigation logs
@@ -8,7 +6,6 @@ Icon=navlog-viewer
 TryExec=/usr/bin/navlog-viewer
 Exec=navlog-viewer
 X-MultipleArgs=false
-Terminal=false
 Categories=Education;Science;ArtificialIntelligence;Robotics;
 MimeType=application/x-mrpt-navlog;
 StartupNotify=true

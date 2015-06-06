@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=ghkl
 GenericName=Diffractometer Calculation
 Comment=hkl library graphical interface.
 TryExec=/usr/bin/ghkl
 Exec=ghkl
-Terminal=false
 Categories=Education;Science;Physics;GTK;
 MimeType=application/x-foo;
 StartupNotify=false

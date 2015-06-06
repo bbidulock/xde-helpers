@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Data Composition
 Name[ar]=تجهيز التوليفة
@@ -11,9 +9,6 @@ Name[cs]=Datová kompozice
 Name[da]=Datakompilering
 Name[de]=Datenzusammenstellung
 Name[el]=Σύνθεση δεδομένων
-Name[en]=Data Composition
-Name[en_AU]=Data Composition
-Name[en_GB]=Data Composition
 Name[es]=Composición de datos
 Name[eu]=Datu konposizioa
 Name[fi]=Tiedostokokoelma
@@ -50,7 +45,6 @@ Name[zh_TW]=資料燒錄清單
 Icon=media-cdrom
 TryExec=/usr/bin/xfburn
 Exec=xfburn --data-composition %F
-Terminal=false
 StartupNotify=false
 X-AppInstall-Package=xfburn
 X-AppInstall-Popcon=0

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Ren'Py Demo
 GenericName=renpy-demo
@@ -9,7 +7,6 @@ Comment[es]=demo de juego de novela grafica con Ren'Py
 Icon=renpy-demo
 TryExec=/usr/bin/renpy-demo
 Exec=renpy-demo
-Terminal=false
 Categories=Game;
 StartupNotify=false
 X-AppInstall-Package=renpy-demo

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=XPat2 Solitare
 Name[af]=Xpat 2
@@ -94,7 +92,6 @@ Comment[zu]=Umdlalo Wekhadi
 Icon=xpat2
 TryExec=/usr/bin/xpat2
 Exec=xpat2
-Terminal=false
 Categories=Game;CardGame;
 StartupNotify=false
 X-AfterStep-IndexName=xpat2

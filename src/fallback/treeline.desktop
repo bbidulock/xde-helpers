@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=TreeLine
 Comment=Tree-like structured custom data manager
@@ -8,7 +6,6 @@ Comment[es]=Gestor configurable de datos estructurados en forma de árbol
 Icon=treeline
 TryExec=/usr/bin/treeline
 Exec=treeline %f
-Terminal=false
 Categories=Application;
 MimeType=application/x-treeline;
 StartupNotify=false

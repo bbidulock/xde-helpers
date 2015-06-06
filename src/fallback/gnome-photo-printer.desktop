@@ -1,15 +1,11 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GNOME Photo Printer
-Name[fr]=GNOME Photo Printer
 Comment=Print several photos on one page
 Comment[fr]=Imprime plusieurs photos sur une page
 Icon=gnome-photo-printer.png
 TryExec=/usr/bin/gnome-photo-printer
 Exec=gnome-photo-printer
-Terminal=false
 Categories=Graphics;
 StartupNotify=false
 X-AppInstall-Package=gnome-photo-printer

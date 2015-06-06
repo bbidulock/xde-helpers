@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=xdrawchem Chemistry Editor
 GenericName=Chemistry Editor
@@ -8,7 +6,6 @@ Comment=Edit chemical structures and reactions
 Icon=xdc
 TryExec=/usr/bin/xdrawchem
 Exec=xdrawchem
-Terminal=false
 Categories=Education;Science;Chemistry;
 StartupNotify=false
 X-AppInstall-Package=xdrawchem

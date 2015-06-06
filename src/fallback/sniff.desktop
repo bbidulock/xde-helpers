@@ -1,17 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=AT-SPI Browser
-Name[en_CA]=AT-SPI Browser
-Name[en_GB]=AT-SPI Browser
 Comment=Browse your Assistive Technology-enabled desktop
-Comment[en_CA]=Browse your Assistive Technology-enabled desktop
-Comment[en_GB]=Browse your Assistive Technology-enabled desktop
 Icon=dogtail-head.svg
 TryExec=/usr/bin/sniff
 Exec=sniff
-Terminal=false
 Categories=Application;Development;
 StartupNotify=true
 X-AppInstall-Package=python-dogtail

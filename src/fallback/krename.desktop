@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=KRename
 Comment=A batch renamer
@@ -8,7 +6,6 @@ Comment[de]=Ein Batch Umbenenner
 Icon=krename.png
 TryExec=/usr/bin/krename
 Exec=krename -caption "%c" %i %m %U
-Terminal=false
 Categories=Utility;KDE;Qt;
 StartupNotify=false
 DocPath=krename/index.html

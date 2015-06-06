@@ -1,12 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=NEdit
-Name[bg]=NEdit
 Name[br]=Edit
 Name[mi]=NWhakatika
-Name[ru]=NEdit
 Name[xh]=Hlela u N
 Name[zu]=N-uhlelo
 GenericName=Text Editor
@@ -102,7 +98,6 @@ Comment[zu]=Umhleli Wokubhaliweyo
 Icon=text-editor
 TryExec=/usr/bin/nedit
 Exec=nedit
-Terminal=false
 Categories=TextEditor;
 StartupNotify=false
 X-AppInstall-Package=nedit

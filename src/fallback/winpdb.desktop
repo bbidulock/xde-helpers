@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Winpdb
 Comment=Platform independent Python debugger
 Icon=winpdb
 TryExec=/usr/bin/winpdb
 Exec=winpdb %F
-Terminal=false
 Categories=Development;Debugger;
 StartupNotify=false
 X-AppInstall-Package=winpdb

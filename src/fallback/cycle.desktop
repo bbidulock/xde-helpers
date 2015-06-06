@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Cycle
 Comment=Calendar program for women
 Icon=cycle.xpm
 TryExec=/usr/bin/cycle
 Exec=cycle
-Terminal=false
 Categories=Education;Calendar;
 StartupNotify=false
 X-AppInstall-Package=cycle

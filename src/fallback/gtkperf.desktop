@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GtkPerf
 Comment=Test GTK+ performance
 Icon=duck
 TryExec=/usr/bin/gtkperf
 Exec=gtkperf
-Terminal=false
 Categories=System;
 StartupNotify=false
 X-AppInstall-Package=gtkperf

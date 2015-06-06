@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=LibreOffice
 GenericName=Office
@@ -13,18 +11,11 @@ GenericName[bg]=Офис пакет
 GenericName[bn]=অফিস
 GenericName[bo]=ཕབ་དོར།
 GenericName[br]=Burev
-GenericName[bs]=Office
 GenericName[ca]=Oficina
 GenericName[ca_XV]=Oficina
 GenericName[cs]=Kancelář
 GenericName[da]=Kontor
-GenericName[de]=Office
-GenericName[el]=Office
-GenericName[en]=Office
-GenericName[en_GB]=Office
-GenericName[en_ZA]=Office
 GenericName[eo]=Oficejo
-GenericName[es]=Office
 GenericName[et]=Kontoritöö
 GenericName[eu]=Bulegoa
 GenericName[fi]=Toimisto
@@ -39,7 +30,6 @@ GenericName[hu]=Iroda
 GenericName[id]=Perkantoran
 GenericName[is]=Skrifstofa
 GenericName[it]=Ufficio
-GenericName[ja]=Office
 GenericName[km]=ការិយាល័យ
 GenericName[kn]=ಕಛೇರಿ
 GenericName[ko]=오피스
@@ -61,7 +51,6 @@ GenericName[or]=କାର୍ଯ୍ୟାଳୟ
 GenericName[pa_IN]=ਆਫਿਸ
 GenericName[pl]=Biuro
 GenericName[pt]=Escritório
-GenericName[pt_BR]=Office
 GenericName[ro]=Birou
 GenericName[ru]=Офис
 GenericName[sh]=Kancelarija
@@ -91,7 +80,6 @@ Comment[be_BY]=Набор праграм для офіснай працы, су�
 Comment[bn]=অফিস প্রোডাক্টিভিটি স্যুট মুক্ত ও আদর্শ ODF নথি বিন্যাসের সাথে সঙ্গতিপূর্ণ। নথি ফাউন্ডেশন দ্বারা সমর্থিত।
 Comment[br]=An heuliad burevek keverlec'h gant ar mentrezh teul ODF skoueriekaet ha digor. Skoret eo gant The Document Foundation.
 Comment[da]=Kontorpakken er kompatibel med den åbne standard ODF. Støttes af The Document Foundation.
-Comment[en]=The office productivity suite compatible to the open and standardized ODF document format. Supported by The Document Foundation.
 Comment[en_GB]=The office productivity suite compatible to the open and standardised ODF document format. Supported by The Document Foundation.
 Comment[et]=Kontoritarkvara komplekt, mis ühildub avatud ja standardiseeritud ODF-dokumendivorminguga. Toetab Document Foundation.
 Comment[fr]=La suite de productivité bureautique compatible avec le format de document ODF standardisé et ouvert. Pris en charge par The Document Foundation.
@@ -109,8 +97,6 @@ Comment[zh_TW]=與開放且標準化的 ODF 文件格式相容的辦公生產力
 Icon=libreoffice-startcenter
 TryExec=/usr/bin/libreoffice
 Exec=libreoffice %U
-Terminal=false
-NoDisplay=false
 Categories=Office;X-MandrivaLinux-Office-Other;X-Red-Hat-Base;X-SuSE-Core-Office;
 MimeType=application/vnd.openofficeorg.extension;
 StartupNotify=true
@@ -131,24 +117,30 @@ Actions=Writer;Calc;Impress;Draw;Base;Math;
 
 [Desktop Action Writer]
 Name=Text Document
+TryExec=/usr/bin/libreoffice
 Exec=libreoffice --writer
 
 [Desktop Action Calc]
 Name=Spreadsheet
+TryExec=/usr/bin/libreoffice
 Exec=libreoffice --calc
 
 [Desktop Action Impress]
 Name=Presentation
+TryExec=/usr/bin/libreoffice
 Exec=libreoffice --impress
 
 [Desktop Action Draw]
 Name=Drawing
+TryExec=/usr/bin/libreoffice
 Exec=libreoffice --draw
 
 [Desktop Action Base]
 Name=Database
+TryExec=/usr/bin/libreoffice
 Exec=libreoffice --base
 
 [Desktop Action Math]
 Name=Formula
+TryExec=/usr/bin/libreoffice
 Exec=libreoffice --math

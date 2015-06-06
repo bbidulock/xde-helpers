@@ -1,14 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Picture Editor (Gimp)
 Name[de]=Bildbearbeitung (Gimp)
-Name[en]=Picture Editor (Gimp)
 Icon=/opt/gnome2/share/dist/icons/suse-yast.png
 TryExec=/usr/bin/gimp
 Exec=susewmif ROOT_X11 yast2
-Terminal=false
 StartupNotify=false
 X-AppInstall-Package=gimp
 X-AppInstall-Popcon=0

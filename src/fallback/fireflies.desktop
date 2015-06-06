@@ -1,10 +1,7 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Fireflies
 Name[cs]=Světlušky
-Name[da]=Fireflies
 Name[de]=Leuchtkäfer
 Name[es]=Luciérnagas
 Name[fi]=Tulikärpäset
@@ -42,7 +39,6 @@ Comment[uk]=Зграя світляків, що переслідують при�
 Comment[zh_TW]=一群蜻蜓在螢幕上追補小蟲，留下被風吹散的彩色尾跡。這個程式不包含在 XScreenSaver 套件中，如果您還沒有這個程式，您可以在<http://somewhere.fscked.org/fireflies/> 找到。作者：Matt Perry
 TryExec=/usr/bin/fireflies
 Exec=fireflies -root
-Terminal=false
 OnlyShowIn=GNOME;
 Categories=Screensaver;
 StartupNotify=false

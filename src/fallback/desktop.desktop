@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Window Commands
 GenericName=AfterStep GUI Command Launcher
@@ -8,7 +6,6 @@ Comment=Performs commands on windows
 Icon=normal/RemoteControl
 TryExec=/usr/bin/GWCommand
 Exec=GWCommand
-Terminal=false
 Categories=AfterStepDesktop;
 StartupNotify=false
 X-AppInstall-Package=afterstep-git

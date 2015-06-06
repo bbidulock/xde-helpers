@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=OpenNX Connection Wizard
 Name[de]=OpenNX Verbindungs-Assistent
@@ -11,7 +9,6 @@ Comment[ru]=Создать новую конфигурацию сессии Open
 Icon=opennx-wizard
 TryExec=/usr/bin/opennx
 Exec=/usr/bin/opennx --wizard
-Terminal=false
 Categories=Network;RemoteAccess;
 StartupNotify=false
 X-AppInstall-Package=opennx

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Linux Letters and Numbers
 Name[es]=Linux Letras y Números
@@ -12,7 +10,6 @@ Comment[es]=Juego de aprendizaje de letras para niños
 Icon=lletters.xpm
 TryExec=/usr/bin/lletters
 Exec=lletters
-Terminal=false
 Categories=Application;Education;Game;2DGraphics;KidsGame;
 FilePattern=lletters
 StartupNotify=false

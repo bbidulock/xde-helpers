@@ -1,11 +1,6 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Xgnokii
-Name[de]=Xgnokii
-Name[it]=Xgnokii
-Name[pl]=Xgnokii
 GenericName=Mobile Phone Suite
 GenericName[de]=Suite für Mobiltelefone
 GenericName[fi]=Kännykkäohjelmisto
@@ -19,7 +14,6 @@ Comment[pl]=Zarządzaj swoim telefonem komórkowym
 Icon=phone
 TryExec=/usr/bin/xgnokii
 Exec=xgnokii
-Terminal=false
 Categories=Office;Utility;Calendar;ContactManagement;TelephonyTools;GTK;
 StartupNotify=false
 X-AppInstall-Package=xgnokii

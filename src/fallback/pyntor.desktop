@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Pyntor
 Comment=Viewer for presentation slides
@@ -8,7 +6,6 @@ Comment[de]=Präsentationsprogramm
 Icon=pyntor
 TryExec=/usr/bin/pyntor
 Exec=pyntor %f
-Terminal=false
 Categories=Office;
 MimeType=application/x-pyntor;
 StartupNotify=false

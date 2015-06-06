@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=PyPar2
 Comment=A graphical frontend for the par2 utility
@@ -10,7 +8,6 @@ Comment[pl]=Graficzna nakładka na narzędzie par2
 Icon=pypar2.png
 TryExec=/usr/bin/pypar2
 Exec=pypar2
-Terminal=false
 Categories=Application;GNOME;GTK;
 MimeType=application/x-executable;
 StartupNotify=true

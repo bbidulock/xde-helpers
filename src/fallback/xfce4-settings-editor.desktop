@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Settings Editor
 Name[ast]=Editor de configuración
@@ -98,7 +96,6 @@ Comment[zh_CN]=Xfconf 的图形界面设置编辑器
 Icon=preferences-system
 TryExec=/usr/bin/xfce4-settings-editor
 Exec=xfce4-settings-editor
-Terminal=false
 OnlyShowIn=XFCE;
 Categories=Settings;DesktopSettings;X-XFCE;
 StartupNotify=false

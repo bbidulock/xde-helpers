@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GTK Aiksaurus
 GenericName=Thesaurus
@@ -8,7 +6,6 @@ Comment=Find Synonyms and Homonyms
 Icon=gaiksaurus
 TryExec=/usr/bin/gaiksaurus
 Exec=gaiksaurus
-Terminal=false
 Categories=Office;GNOME;
 StartupNotify=false
 X-AppInstall-Package=gaiksaurus

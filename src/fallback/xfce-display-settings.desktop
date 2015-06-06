@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Display
 Name[ast]=Pantalla
@@ -67,7 +65,6 @@ Comment[zh_CN]=设置屏幕参数及布局
 Icon=video-display
 TryExec=/usr/bin/xfce4-display-settings
 Exec=xfce4-display-settings
-Terminal=false
 OnlyShowIn=XFCE;
 Categories=Settings;DesktopSettings;X-XFCE;X-XfceSettingsDialog;
 StartupNotify=true

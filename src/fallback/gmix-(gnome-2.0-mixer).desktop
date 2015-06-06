@@ -1,11 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=gmix (Gnome 2.0 Mixer)
 Icon=/usr/share/pixmaps/gnome-mixer.xpm
 TryExec=/usr/bin/gnome-volume-control
 Exec=gnome-volume-control
-Terminal=false
 Categories=Sound;
 StartupNotify=false

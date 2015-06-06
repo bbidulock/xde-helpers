@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Qemu Launcher
 Name[lt]=Qemu Paleidėjas
@@ -9,7 +7,6 @@ Comment[lt]=Tvarkykite virtualaus kompiuterio konfigūracijas
 Icon=qemu-launcher.svg
 TryExec=/usr/bin/qemu-launcher
 Exec=qemu-launcher
-Terminal=false
 Categories=Application;Utility;Emulator;
 StartupNotify=true
 X-AppInstall-Package=qemu-launcher

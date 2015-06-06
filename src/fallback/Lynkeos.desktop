@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Lynkeos Image Processor
 Name[bg]=Обработка на изображения (Lynkeos)
@@ -9,7 +7,6 @@ Comment[bg]=Обработване на астрономически изобр�
 Icon=/usr/lib/GNUstep/Applications/Lynkeos.app/Resources/Lynkeos.png
 TryExec=/usr/bin/Lynkeos
 Exec=Lynkeos
-Terminal=false
 Categories=Graphics;Photography;Astronomy;
 StartupNotify=false
 X-AppInstall-Package=lynkeos.app

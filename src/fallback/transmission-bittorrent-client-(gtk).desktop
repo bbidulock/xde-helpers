@@ -1,11 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Transmission BitTorrent Client (GTK)
 Icon=/usr/share/pixmaps/transmission.xpm
 TryExec=/usr/bin/transmission
 Exec=transmission
-Terminal=false
 Categories=Network;FileTransfer;
 StartupNotify=false

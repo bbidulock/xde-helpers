@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Rectangles
 Comment=Subdivide the grid into rectangles of various sizes following certain rules
@@ -9,7 +7,6 @@ Comment[fr]=Diviser la grille de jeu en rectangles de tailles variables en suiva
 Icon=rect
 TryExec=/usr/bin/rect
 Exec=rect
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=sgt-puzzles

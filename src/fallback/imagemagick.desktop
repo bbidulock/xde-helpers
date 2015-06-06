@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=ImageMagick
 GenericName=Image Viewer
@@ -94,7 +92,6 @@ Comment[zu]=Umboniseli Womfanekiso
 Icon=/usr/share/pixmaps/display.xpm
 TryExec=/usr/bin/display
 Exec=display logo:
-Terminal=false
 Categories=Application;Graphics;
 StartupNotify=false
 StartupWMClass=display

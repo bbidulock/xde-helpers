@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Qt QDbusViewer
 GenericName=D-Bus Debugger
@@ -8,7 +6,6 @@ Comment=Debug D-Bus applications
 Icon=qdbusviewer
 TryExec=/usr/lib/qt/bin/qdbusviewer
 Exec=/usr/lib/qt/bin/qdbusviewer
-Terminal=false
 Categories=Development;Debugger;Qt;
 StartupNotify=false
 X-AppInstall-Package=qt5-tools

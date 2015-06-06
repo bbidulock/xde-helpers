@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Taxbird
 GenericName=Taxbird
@@ -8,7 +6,6 @@ Comment=freier Elster-Client für Linux
 Icon=taxbird.xpm
 TryExec=/usr/bin/taxbird
 Exec=taxbird
-Terminal=false
 Categories=Office;Finance;
 MimeType=application/x-taxbird;
 StartupNotify=false

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Block Attack - Rise of the Blocks
 GenericName=Block Attack
@@ -11,7 +9,6 @@ Comment[ro_RO]=Ridicarea blocurilor
 Icon=blockattack32
 TryExec=/usr/bin/blockattack
 Exec=blockattack
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=blockattack

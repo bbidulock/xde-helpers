@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Maxima Algebra System
 GenericName=Computer Algebra System
@@ -8,7 +6,6 @@ Comment=An interface to the Maxima Computer Algebra System
 Icon=maxima-icon
 TryExec=/usr/bin/xmaxima
 Exec=xmaxima
-Terminal=false
 Categories=Education;Math;
 StartupNotify=false
 X-AppInstall-Package=xmaxima

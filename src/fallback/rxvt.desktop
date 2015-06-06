@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=RXVT
 Name[hi]=आरएक्सवीटी
@@ -134,7 +132,6 @@ Comment[zu]=Ithuluzi langaphandle Langamanga Lethu Elinwetshiwe
 Icon=terminal
 TryExec=/usr/bin/rxvt
 Exec=rxvt
-Terminal=false
 Categories=Utility;TerminalEmulator;
 StartupNotify=false
 StartupWMClass=rxvt

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=kamefu
 Name[xx]=xxkamefuxx
@@ -19,7 +17,6 @@ Comment[xx]=xxKamefu - KDE All-Machine Emulator Frontend for UNIXxx
 Icon=package_games
 TryExec=/usr/bin/kamefu
 Exec=kamefu
-Terminal=false
 Categories=Game;ArcadeGame;KDE;Qt;
 StartupNotify=false
 X-AppInstall-Package=kamefu

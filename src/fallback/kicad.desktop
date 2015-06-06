@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=KiCad
 GenericName=EDA Suite
@@ -13,7 +11,6 @@ Comment[ru]=Комплекс для разработки электрическ�
 Icon=kicad
 TryExec=/usr/bin/kicad
 Exec=kicad
-Terminal=false
 Categories=Development;Electronics;Engineering;GTK;
 MimeType=application/x-kicad-project;
 StartupNotify=false

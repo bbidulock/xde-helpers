@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Frescobaldi
 GenericName=LilyPond Music Editor
@@ -16,7 +14,6 @@ GenericName[tr]=LilyPond Müzik Düzenleyicisi
 Icon=frescobaldi
 TryExec=/usr/bin/frescobaldi
 Exec=frescobaldi %U
-Terminal=false
 Categories=AudioVideo;Utility;Music;TextEditor;KDE;Qt;
 MimeType=text/x-lilypond;
 StartupNotify=false

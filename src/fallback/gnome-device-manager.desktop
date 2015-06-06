@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Device Manager
 Comment=Manage devices
 Icon=gnome-device-manager
 TryExec=/usr/bin/gnome-device-manager
 Exec=gnome-device-manager
-Terminal=false
 Categories=System;GNOME;GTK;
 StartupNotify=false
 X-GNOME-DocPath=gnome-device-manager/gnome-device-manager.xml

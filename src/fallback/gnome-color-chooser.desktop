@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GNOME Color Chooser
 Comment=Customize your GNOME desktop
 Comment[bg]=Настройка работния плот на GNOME
 Comment[cs]=Úprava vzhledu prostředí GNOME
 Comment[de]=Den GNOME-Desktop farblich anpassen
-Comment[en_CA]=Customize your GNOME desktop
 Comment[es]=Personalize su escritorio GNOME
 Comment[fr]=Customisez votre bureau GNOME
 Comment[he]=התאם אישית את שולחן ה־GNOME שלך
@@ -26,7 +23,6 @@ Comment[zh_CN]=自定义您的 GNOME 桌面
 Icon=gnome-color-chooser.svg
 TryExec=/usr/bin/gnome-color-chooser
 Exec=gnome-color-chooser
-Terminal=false
 Categories=Settings;GNOME;
 StartupNotify=true
 X-AppInstall-Package=gnome-color-chooser

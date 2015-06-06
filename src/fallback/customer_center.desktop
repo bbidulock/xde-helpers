@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Novell Customer Center Configuration
 Name[af]=Novell-kliëntesentrumkonfigurasie
@@ -68,7 +66,6 @@ GenericName[zu]=Ukuhelwa Kwesikhungo Samakhasimende Sakwa-Novell
 Icon=yast-product-registration
 TryExec=/sbin/yast2
 Exec=/sbin/yast2 inst_suse_register
-Terminal=false
 Categories=Settings;System;Qt;X-SuSE-YaST;
 StartupNotify=true
 X-SuSE-DocTeamID=ycc_customer_center

@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=XWelltris
 Comment=Play a 3D Tetris like game
 Icon=xwelltris
 TryExec=/usr/bin/xwelltris
 Exec=xwelltris
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=xwelltris

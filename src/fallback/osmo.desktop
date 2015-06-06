@@ -1,9 +1,6 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Osmo
-Name[tr]=Osmo
 GenericName=Osmo
 Comment=Personal Organizer
 Comment[pl]=Organizer osobisty
@@ -11,7 +8,6 @@ Comment[tr]=Kişisel Düzenleyici
 Icon=osmo
 TryExec=/usr/bin/osmo
 Exec=osmo
-Terminal=false
 Categories=Office;Calendar;ContactManagement;GTK;
 StartupNotify=false
 X-AppInstall-Package=osmo

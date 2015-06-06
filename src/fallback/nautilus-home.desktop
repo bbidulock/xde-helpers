@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Home Folder
 Name[af]=Tuislêergids
@@ -26,8 +24,6 @@ Name[de]=Persönlicher Ordner
 Name[dz]=ཁྱིམ་གྱི་སྣོད་འཛིན།
 Name[el]=Κατάλογος Χρήστη
 Name[en@shaw]=𐑣𐑴𐑥 𐑓𐑴𐑤𐑛𐑼
-Name[en_CA]=Home Folder
-Name[en_GB]=Home Folder
 Name[eo]=Hejma dosierujo
 Name[es]=Carpeta personal
 Name[et]=Kodukataloog
@@ -249,7 +245,6 @@ Comment[zu]=Hlola ifolda yakho yasekhaya esilawulini sefayela iNautilus
 Icon=user-home
 TryExec=/usr/bin/nautilus
 Exec=nautilus --no-desktop
-Terminal=false
 OnlyShowIn=GNOME;
 Categories=System;FileManager;Core;GNOME;GTK;
 StartupNotify=true

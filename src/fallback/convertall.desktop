@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=ConvertAll
 GenericName=Unit Converter
@@ -8,7 +6,6 @@ Comment=Convert between many different units
 Icon=convertall
 TryExec=/usr/bin/convertall
 Exec=convertall
-Terminal=false
 Categories=Utility;Qt;
 StartupNotify=false
 X-AppInstall-Package=convertall

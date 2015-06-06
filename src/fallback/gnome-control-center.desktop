@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=System Settings
 Name[af]=Stelselinstellings
@@ -12,7 +10,6 @@ Name[cs]=Nastavení systému
 Name[da]=Systemindstillinger
 Name[de]=Systemeinstellungen
 Name[el]=Ρυθμίσεις συστήματος
-Name[en_GB]=System Settings
 Name[eo]=Sistemagordoj
 Name[es]=Configuración del sistema
 Name[et]=Süsteemi sätted
@@ -58,7 +55,6 @@ Name[zh_TW]=系統設定值
 Icon=preferences-system
 TryExec=/usr/bin/gnome-control-center
 Exec=gnome-control-center --overview
-Terminal=false
 OnlyShowIn=GNOME;
 Categories=System;GNOME;GTK;
 StartupNotify=true

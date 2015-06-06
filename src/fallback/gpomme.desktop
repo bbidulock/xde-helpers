@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=pommed GTK client
 Comment=A graphical client for pommed
 Icon=gpomme
 TryExec=/usr/bin/gpomme
 Exec=gpomme
-Terminal=false
 Categories=Utility;
 StartupNotify=true
 X-AppInstall-Package=gpomme

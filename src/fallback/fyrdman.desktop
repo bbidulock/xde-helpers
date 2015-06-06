@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Fyrdman
 GenericName=Hastings1066 Strategy Game
@@ -12,7 +10,6 @@ Comment[fr]=Participe dans la bataille de 1066
 Icon=fyrdman
 TryExec=/usr/lib/ggz/fyrdman
 Exec=/usr/lib/ggz/fyrdman
-Terminal=false
 Categories=Game;StrategyGame;KDE;Qt;X-GGZ-Games;
 StartupNotify=false
 X-AppInstall-Package=ggz-kde-games

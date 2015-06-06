@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Cameleon
 GenericName=OCaml Integrated Development Environment
@@ -9,7 +7,6 @@ Comment=Visual environment to develop OCaml application
 Comment[fr]=Environnement visuel pour le développement d'application OCaml
 TryExec=/usr/bin/cameleon2.byte
 Exec=cameleon2.byte
-Terminal=false
 Categories=Development;IDE;GTK;
 StartupNotify=false
 X-AppInstall-Package=cameleon

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Sweep
 GenericName=Sound Editor
@@ -8,7 +6,6 @@ Comment=Sweep Sound Editor
 Icon=sweep.svg
 TryExec=/usr/bin/sweep
 Exec=sweep
-Terminal=false
 Categories=Application;AudioVideo;
 MimeType=audio/x-wav;
 StartupNotify=false

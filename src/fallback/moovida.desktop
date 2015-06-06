@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Moovida Media Center
 Comment=Play movies and songs on TV with remote
@@ -8,7 +6,6 @@ Icon=moovida
 TryExec=/usr/bin/moovida
 Exec=moovida %U
 X-Osso-Service=com.fluendo.elisa
-Terminal=false
 Categories=AudioVideo;Player;GNOME;GTK;X-Red-Hat-Base;X-Ximian-Main;
 StartupNotify=true
 StartupWMClass=moovida

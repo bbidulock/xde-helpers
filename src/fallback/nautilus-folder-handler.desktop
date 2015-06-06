@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Open Folder
 Name[af]=Open gids
@@ -22,8 +20,6 @@ Name[de]=Ordner öffnen
 Name[dz]=སྣོད་འཛིན་ཁ་ཕྱེ།
 Name[el]=Άνοιγμα φακέλου
 Name[en@shaw]=𐑴𐑐𐑩𐑯 𐑓𐑴𐑤𐑛𐑼
-Name[en_CA]=Open Folder
-Name[en_GB]=Open Folder
 Name[eo]=Malfermi dosierujon
 Name[es]=Abrir carpeta
 Name[et]=Avatakse kataloog
@@ -94,7 +90,6 @@ Name[zh_TW]=開啟資料夾
 Icon=folder-open
 TryExec=/usr/bin/nautilus
 Exec=nautilus --no-desktop %U
-Terminal=false
 NoDisplay=true
 OnlyShowIn=GNOME;
 MimeType=x-directory/gnome-default-handler;x-directory/normal;inode/directory;application/x-gnome-saved-search;

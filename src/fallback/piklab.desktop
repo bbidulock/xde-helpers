@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Piklab
 GenericName=IDE
@@ -10,7 +8,6 @@ Comment[fr]=Environnement de développement intégré pour applications utilisan
 Icon=piklab
 TryExec=/usr/bin/piklab
 Exec=piklab %U
-Terminal=false
 Categories=Development;IDE;Electronics;KDE;Qt;
 MimeType=text/x-hex;application/x-piklab;
 StartupNotify=false

@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=XMakemol
 GenericName=Molecule Viewer
 Comment=View and manipulate atomic and other chemical systems
 TryExec=/usr/bin/xmakemol
 Exec=xmakemol
-Terminal=false
 Categories=Education;Science;Chemistry;
 StartupNotify=false
 X-AppInstall-Package=xmakemol

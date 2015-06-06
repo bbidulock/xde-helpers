@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Laby
 Comment=Learn how to program with ants and spider webs
@@ -8,7 +6,6 @@ Comment[fr]=Apprendre à programmer avec des fourmis
 Icon=laby
 TryExec=/usr/games/laby
 Exec=/usr/games/laby
-Terminal=false
 Categories=Game;LogicGame;GNOME;GTK;
 StartupNotify=true
 X-AppInstall-Package=laby

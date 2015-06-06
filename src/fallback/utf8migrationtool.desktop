@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=UTF-8 Migration Tool
 Name[fr]=Outil de migration UTF-8
@@ -9,7 +7,6 @@ Comment[fr]=Assistant de migration UTF-8
 Icon=applications-system
 TryExec=/usr/bin/utf8migrationtool
 Exec=utf8migrationtool
-Terminal=false
 Categories=System;Utility;GNOME;GTK;
 StartupNotify=false
 X-AppInstall-Package=utf8-migration-tool

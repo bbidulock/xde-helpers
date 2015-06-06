@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=SVN Workbench
 Comment=A Workbench for Subversion
 Icon=_usr_share_svn-workbench_wb
 TryExec=/usr/bin/svn-workbench
 Exec=/usr/bin/svn-workbench
-Terminal=false
 Categories=Development;
 StartupNotify=false
 X-AppInstall-Package=svn-workbench

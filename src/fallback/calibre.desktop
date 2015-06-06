@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=calibre
 Comment=E-book library management
@@ -9,7 +7,6 @@ Comment[es]=aplicación para la gestión de libros electrónicos
 Icon=calibre
 TryExec=/usr/bin/calibre
 Exec=calibre
-Terminal=false
 Categories=Office;Database;Viewer;FileTools;Qt;
 StartupNotify=false
 X-AppInstall-Package=calibre
@@ -17,7 +14,7 @@ X-AppInstall-Popcon=209
 X-AppInstall-Section=community
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=calibre
-X-Arch-Package-Version=2.29.0-1
+X-Arch-Package-Version=2.30.0-1
 X-Arch-Package-Description=Ebook management application
 X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://calibre-ebook.com/

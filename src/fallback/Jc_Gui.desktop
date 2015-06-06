@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Jc_Gui
 GenericName=Jconvolver Gui
@@ -8,7 +6,6 @@ Comment=Host for jconvolver
 Icon=Jc_Gui
 TryExec=/usr/bin/Jc_Gui
 Exec=Jc_Gui
-Terminal=false
 Categories=AudioVideo;X-Jack;
 StartupNotify=false
 X-AppInstall-Package=jcgui

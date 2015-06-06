@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=VBView2
 GenericName=VoxBo Image Viewer
 TryExec=/usr/bin/vbview2
 Exec=vbview2 %F
-Terminal=false
 Categories=Education;Graphics;Science;Viewer;DataVisualization;MedicalSoftware;Qt;
 StartupNotify=false
 X-AppInstall-Package=voxbo

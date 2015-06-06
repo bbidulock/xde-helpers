@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Time Tracker
 Comment=Track and time daily activities
 Icon=gnome-week.png
 TryExec=/usr/bin/gtimelog
 Exec=gtimelog
-Terminal=false
 Categories=Application;Utility;
 StartupNotify=true
 X-AppInstall-Package=gtimelog

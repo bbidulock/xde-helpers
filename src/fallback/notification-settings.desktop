@@ -1,10 +1,7 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Xfce 4 Notification Settings
 Name[be]=Настаўленьні Інфармавальніка Xfce 4
-Name[en_GB]=Xfce 4 Notification Settings
 Name[fr]=Paramètres de notification Xfce 4
 Name[hu]=Xfce 4 emlékeztető beállítások
 Name[nl]=Xfce 4 Berichtweergave Instellingen
@@ -12,7 +9,6 @@ Name[pl]=Ustawienia powiadomień Xfce 4
 Name[uk]=Xfce 4 Властивості Повідомлення
 GenericName=Notification Settings
 GenericName[be]=Настаўленьні Інфармавальніка
-GenericName[en_GB]=Notification Settings
 GenericName[fr]=Paramètres de notification
 GenericName[hu]=Emlékeztető beállítások
 GenericName[nl]=Berichtweergave Instellingen
@@ -29,7 +25,6 @@ Comment[uk]=Налаштувати властивості служби Пові�
 Icon=notification-settings
 TryExec=/usr/bin/notification-settings
 Exec=notification-settings
-Terminal=false
 OnlyShowIn=XFCE;
 Categories=Settings;DesktopSettings;X-XFCE;
 StartupNotify=true

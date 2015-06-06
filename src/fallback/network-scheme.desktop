@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Network
 Name[af]=Netwerkbedieners
@@ -249,7 +247,6 @@ Comment[zu]=Hlola iziphakelalwazi zakho zenethiwekhi esilawulini sefayela iNauti
 Icon=network-workgroup
 TryExec=/usr/bin/nautilus
 Exec=nautilus --no-desktop network:
-Terminal=false
 OnlyShowIn=GNOME;
 Categories=Network;System;Core;
 StartupNotify=true

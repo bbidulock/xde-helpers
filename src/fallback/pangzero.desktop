@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Pang Zero
 GenericName=pangzero
@@ -8,7 +6,6 @@ Comment=Pop balloons with your harpoon
 Icon=pangzero
 TryExec=/usr/bin/pangzero
 Exec=pangzero
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=pangzero

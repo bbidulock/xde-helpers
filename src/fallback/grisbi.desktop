@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Grisbi
 Name[fr]=Gestionnaire de finances Grisbi
@@ -10,7 +8,6 @@ Comment[fr]=Gérez vos finances, vos comptes et vos investissements
 Icon=_usr_share_pixmaps_grisbi_grisbi
 TryExec=/usr/bin/grisbi
 Exec=grisbi
-Terminal=false
 Categories=Application;Office;Finance;
 MimeType=application/x-grisbi;
 StartupNotify=true

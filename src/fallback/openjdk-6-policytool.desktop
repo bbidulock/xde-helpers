@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=OpenJDK Java 6 Policy Tool
 Name[fi]=OpenJDK Java 6 - käytäntötyökalu
@@ -9,6 +7,5 @@ Comment[fi]=OpenJDK Java 6 - käytäntötyökalu
 Icon=openjdk-6
 TryExec=/usr/lib/jvm/java-6-openjdk/bin/policytool
 Exec=/usr/lib/jvm/java-6-openjdk/bin/policytool
-Terminal=false
 Categories=Settings;
 StartupNotify=false

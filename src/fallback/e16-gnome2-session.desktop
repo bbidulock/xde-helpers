@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=E16 GNOME2
 GenericName=Window Manager
@@ -14,7 +12,6 @@ Comment[pt]=Esta sessão inicia o GNOME utilizando o Enlightenment (e16) como ge
 Icon=/usr/share/e16/icons/e16.png
 TryExec=/usr/share/e16/misc/starte16-gnome
 Exec=/usr/share/e16/misc/starte16-gnome
-Terminal=false
 Hidden=true
 Categories=WindowManager;Application;System;
 StartupNotify=false

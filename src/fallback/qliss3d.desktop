@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Qliss3D
 Comment=demonstration tool for Lissajous physiques
 Icon=_usr_share_pixmaps_qliss3d
 TryExec=/usr/bin/qliss3d
 Exec=qliss3d
-Terminal=false
 Categories=Education;Math;KDE;Qt;
 StartupNotify=true
 X-AppInstall-Package=qliss3d

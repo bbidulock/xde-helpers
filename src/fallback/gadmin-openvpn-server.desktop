@@ -1,26 +1,11 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GADMIN-OPENVPN-Server
-Name[de]=GADMIN-OPENVPN-Server
-Name[es]=GADMIN-OPENVPN-Server
-Name[fi]=GADMIN-OPENVPN-Server
-Name[fr]=GADMIN-OPENVPN-Server
-Name[ko]=GADMIN-OPENVPN-Server
-Name[no]=GADMIN-OPENVPN-Server
-Name[pt_BR]=GADMIN-OPENVPN-Server
-Name[ro]=GADMIN-OPENVPN-Server
-Name[sl]=GADMIN-OPENVPN-Server
-Name[sv]=GADMIN-OPENVPN-Server
-Name[uk]=GADMIN-OPENVPN-Server
-Name[zh_TW]=GADMIN-OPENVPN-Server
 GenericName=GADMIN-OPENVPN-Server
 Comment=OpenVPN server administration
 Icon=gadmin-openvpn-server
 TryExec=/usr/bin/su-to-root
 Exec=su-to-root -X -c /usr/sbin/gadmin-openvpn-server
-Terminal=false
 Categories=System;GTK;
 StartupNotify=false
 X-AppInstall-Package=gadmin-openvpn-server

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Asunder CD Ripper
 Name[de]=Asunder
@@ -21,7 +19,6 @@ Comment[sv]=Ett program för att spara spår från en ljudskiva som WAV, MP3, OG
 Icon=asunder
 TryExec=/usr/bin/asunder
 Exec=asunder
-Terminal=false
 Categories=AudioVideo;Audio;
 StartupNotify=true
 X-AppInstall-Package=asunder

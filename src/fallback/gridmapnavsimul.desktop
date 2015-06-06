@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gridmap Navigation Simulator
 Comment=Robotics Simulator
@@ -8,7 +6,6 @@ Icon=gridmapsimul
 TryExec=/usr/bin/GridmapNavSimul
 Exec=GridmapNavSimul
 X-MultipleArgs=false
-Terminal=false
 Categories=Education;Science;ArtificialIntelligence;Robotics;
 StartupNotify=true
 X-AppInstall-Package=mrpt-apps

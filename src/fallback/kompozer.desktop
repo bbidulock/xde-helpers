@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=KompoZer
 GenericName=Web Authoring System
@@ -10,7 +8,6 @@ Comment[it]=Creare pagine Web
 Icon=kompozer
 TryExec=/usr/bin/kompozer
 Exec=kompozer
-Terminal=false
 Categories=Development;Network;WebDevelopment;
 MimeType=text/html;text/xml;text/css;text/x-javascript;text/javascript;application/xhtml+xml;
 StartupNotify=false

@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Greenwich Whois Client
 Comment=Get information about domain names and IP addresses
 Icon=greenwich.png
 TryExec=/usr/bin/greenwich
 Exec=greenwich
-Terminal=false
 Categories=Application;Network;
 StartupNotify=true
 X-AppInstall-Package=greenwich

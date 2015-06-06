@@ -1,19 +1,14 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=NFO Viewer
-Name[bg]=NFO Viewer
 Name[de]=NFO-Betrachter
 Name[de_CH]=NFO-Betrachter
 Name[fi]=NFO-katselin
-Name[fr]=NFO Viewer
 Name[he]=מציג NFO
 Name[hu]=NFO-fájlnéző
 Name[it]=Visualizzatore NFO
 Name[pl]=Przeglądarka NFO
 Name[ru]=Просмотр NFO
-Name[zh_CN]=NFO Viewer
 Comment=View NFO files
 Comment[bg]=Преглеждане на NFO файлове
 Comment[de]=NFO-Dokumente anzeigen
@@ -29,7 +24,6 @@ Comment[zh_CN]=浏览 NFO 文件
 Icon=nfoview
 TryExec=/usr/bin/nfoview
 Exec=nfoview %F
-Terminal=false
 Categories=Utility;Viewer;GTK;
 MimeType=text/x-nfo;
 StartupNotify=true

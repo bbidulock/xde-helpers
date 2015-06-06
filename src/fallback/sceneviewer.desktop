@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Scene Viewer 3D
 Comment=Viewer of MRPT scenes
@@ -8,7 +6,6 @@ Icon=sceneviewer
 TryExec=/usr/bin/SceneViewer3D
 Exec=SceneViewer3D %F
 X-MultipleArgs=false
-Terminal=false
 Categories=Education;Science;ArtificialIntelligence;Robotics;
 MimeType=application/x-mrpt-3dscene;
 StartupNotify=true

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Chamo
 GenericName=Source code editor
@@ -10,7 +8,6 @@ Comment[fr]=Editeur de code OCaml \xE0 la emacs
 Icon=chamo.png
 TryExec=/usr/bin/chamo.byte
 Exec=chamo.byte
-Terminal=false
 Categories=Utility;TextEditor;GTK;
 StartupNotify=false
 X-AppInstall-Package=cameleon

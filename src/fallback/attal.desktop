@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Attal
 Comment=Turn based strategy game
 Comment[it]=Gioco strategico a turni
 TryExec=/usr/bin/attal-client
 Exec=attal-client
-Terminal=false
 Categories=Game;StrategyGame;
 StartupNotify=true
 X-AppInstall-Package=attal

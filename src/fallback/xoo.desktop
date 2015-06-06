@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Xoo
 Comment=Handheld Device Simulator
 Icon=xoo.png
 TryExec=/usr/bin/xoo
 Exec=xoo
-Terminal=false
 Categories=Development;GTK;
 StartupNotify=true
 X-AppInstall-Package=xoo

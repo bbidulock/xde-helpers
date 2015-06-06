@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=File Manager
 Comment=Browse the file system
 Icon=system-file-manager
 TryExec=/usr/bin/exo-open
 Exec=exo-open --launch FileManager %u
-Terminal=false
 OnlyShowIn=XFCE;
 Categories=Utility;X-XFCE;X-Xfce-Toplevel;
 StartupNotify=true

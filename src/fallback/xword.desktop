@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Xword
 GenericName=Crossword Puzzles
 Comment=Do crossword puzzles
 TryExec=/usr/bin/xword
 Exec=xword
-Terminal=false
 Categories=Game;LogicGame;
 MimeType=application/x-crossword;
 StartupNotify=false

@@ -1,15 +1,11 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=gXNeur
-Name[ru]=gXNeur
 Comment=Automatic keyboard layout switcher
 Comment[ru]=Автоматический переключатель раскладки клавиатуры
 Icon=gxneur
 TryExec=/usr/bin/gxneur
 Exec=gxneur
-Terminal=false
 Categories=Utility;Accessibility;GNOME;GTK;
 StartupNotify=true
 X-AppInstall-Package=gxneur

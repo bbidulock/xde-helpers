@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=CHUI
 Comment=Cahn-Hilliard User Interface (Illuminator)
 TryExec=/usr/bin/chui
 Exec=chui
-Terminal=false
 Categories=Application;Graphics;GNOME;
 StartupNotify=true
 X-AppInstall-Package=illuminator-demo

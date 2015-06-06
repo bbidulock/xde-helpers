@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Packages Stats
 Comment=Mandriva Linux packages stats
 Icon=drakstats
 TryExec=/usr/bin/drakstats
 Exec=drakstats
-Terminal=false
 Categories=System;PackageManager;GTK;X-MandrivaLinux-CrossDesktop;
 StartupNotify=false

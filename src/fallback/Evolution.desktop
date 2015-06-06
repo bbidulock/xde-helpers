@@ -1,13 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Evolution E-Mail Client
-Name[de]=Evolution E-Mail Client
 Icon=/opt/gnome/share/dist/icons/evolution.png
 TryExec=/usr/bin/evolution
 Exec=evolution
-Terminal=false
 StartupNotify=true
 X-AppInstall-Package=evolution
 X-AppInstall-Section=extra

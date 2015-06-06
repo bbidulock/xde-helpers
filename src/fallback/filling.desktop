@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Filling
 Comment=Fill in digits so that each connected region of squares containing the same digit has an area equal to that digit
@@ -9,7 +7,6 @@ Comment[fr]=Ajouter des chiffres de telles sortes que chaque section carré cont
 Icon=filling
 TryExec=/usr/bin/filling
 Exec=filling
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=sgt-puzzles

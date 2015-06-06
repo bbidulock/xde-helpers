@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Xoids
 GenericName=Asteroids Game
@@ -10,7 +8,6 @@ Comment[ca]=Conduïu una nau especial i destruïu asteroides i OVNI
 Icon=xoids
 TryExec=/usr/bin/xoids
 Exec=xoids
-Terminal=false
 Categories=Game;ActionGame;
 StartupNotify=false
 X-AppInstall-Package=xoids

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Xlog
 Comment=Amateur Radio logging program
@@ -9,7 +7,6 @@ Comment[pl]=Dziennik łączności dla radioamatorów
 Icon=xlog-icon.png
 TryExec=/usr/bin/xlog
 Exec=xlog %F
-Terminal=false
 Categories=Utility;Database;HamRadio;GTK;
 MimeType=text/x-xlog;
 StartupNotify=false

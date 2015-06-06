@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Dwm
 GenericName=Window Manager
@@ -10,7 +8,6 @@ Comment=Dynamic window manager
 Icon=dwm
 TryExec=/usr/bin/dwm
 Exec=dwm
-Terminal=false
 NoDisplay=true
 Categories=WindowManager;Application;System;
 StartupNotify=false
@@ -33,9 +30,10 @@ Actions=XDE;
 
 [Desktop Action XDE]
 Name=XDE
-Icon=xde
-Exec=xde-session -desktop DWM -startwm start-dwm
 Comment=Dwm in an XDE session
+Icon=xde
+TryExec=/usr/bin/xde-session
+Exec=xde-session -desktop DWM -startwm start-dwm
 DesktopNames=XDE:DWM
 
 [Window Manager]

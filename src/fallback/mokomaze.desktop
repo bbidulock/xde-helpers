@@ -1,13 +1,11 @@
 [Desktop Entry]
 Version=0.5
-Encoding=UTF-8
 Type=Application
 Name=Mokomaze
 Comment=Ball-in-the-labyrinth game
 Icon=mokomaze
 TryExec=/usr/games/mokomaze
 Exec=/usr/games/mokomaze
-Terminal=false
 Categories=Game;
 StartupNotify=false
 X-MB-SingleInstance=true

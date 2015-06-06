@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Yarssr
 Comment=RSS reader for the notification area
 Icon=paper_green
 TryExec=/usr/bin/yarssr
 Exec=yarssr
-Terminal=false
 Categories=Network;News;
 StartupNotify=false
 X-AppInstall-Package=yarssr

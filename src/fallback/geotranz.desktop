@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Geotranz
 Comment=Geographic coordinates translator
 Icon=geotrans
 TryExec=/usr/bin/geotranz
 Exec=geotranz
-Terminal=false
 Categories=Education;Science;Geography;
 StartupNotify=false
 X-AppInstall-Package=geotranz

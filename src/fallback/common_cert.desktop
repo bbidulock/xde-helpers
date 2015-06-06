@@ -1,11 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Common Server Certificate
 Name[af]=Gewone bedienersertifikaat
 Name[ar]=شهادة الخادم العامة
-Name[bg]=Common Server Certificate
 Name[bn]=কম্পোনেন্ট নির্বাচক
 Name[ca]=Certificat del servidor comú
 Name[cs]=Běžný certifikát serveru
@@ -77,7 +74,6 @@ GenericName[zu]=Faka isitifiketi se-SSL samasevisi esiphakelalwazi
 Icon=yast-common_cert
 TryExec=/sbin/yast2
 Exec=/sbin/yast2 common_cert
-Terminal=false
 Categories=Settings;System;Qt;X-SuSE-YaST;X-SuSE-YaST-Security;
 StartupNotify=true
 X-KDE-HasReadOnlyMode=true

@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Padre
 Comment=Perl Application Development and Refactoring Environment
 Icon=_usr_share_pixmaps_padre
 TryExec=/usr/bin/padre
 Exec=/usr/bin/padre
-Terminal=false
 Categories=Development;IDE;TextTools;
 StartupNotify=false
 X-AppInstall-Package=padre

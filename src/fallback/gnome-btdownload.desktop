@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=BitTorrent Download Client
 Comment=Download files with BitTorrent
@@ -10,7 +8,6 @@ Comment[sv]=Ladda ner filer med BitTorrent
 Icon=download
 TryExec=/usr/bin/gnome-btdownload
 Exec=gnome-btdownload
-Terminal=false
 Categories=Network;FileTransfer;P2P;
 MimeType=application/x-bittorrent;
 StartupNotify=true

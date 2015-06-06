@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=UPnP Inspector
 Comment=DLNA/UPnP device and service analyzer,control-point and test-tool
 Icon=inspector
 TryExec=/usr/bin/upnp-inspector
 Exec=upnp-inspector
-Terminal=false
 Categories=Development;
 StartupNotify=false
 X-AppInstall-Package=upnp-inspector

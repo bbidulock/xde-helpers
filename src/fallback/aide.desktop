@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Encoding=UTF-8
-Type=Application
-Name=aide
-Comment=aide - Advanced Intrusion Detection Environment
-Terminal=false
-StartupNotify=false
-DocPath=/usr/share/doc/packages/aide/manual.html

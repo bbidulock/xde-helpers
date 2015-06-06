@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gnome CD Master
 Comment=Gnome Audio CD editor and burner
 Icon=gcdmaster.png
 TryExec=/usr/bin/gcdmaster
 Exec=gcdmaster %F
-Terminal=false
 Categories=Application;AudioVideo;GNOME;X-Fedora;
 StartupNotify=true
 X-AppInstall-Package=gcdmaster

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=gnoMint X.509 CA Manager
 Name[ca]=Gestor de CAs X.509 gnoMint.
@@ -18,7 +16,6 @@ Comment[sv]=Hantera X.509-certifikat och certifikatutfärdare, enkelt och grafis
 Icon=gnomint
 TryExec=/usr/bin/gnomint
 Exec=gnomint
-Terminal=false
 Categories=Application;System;Security;GNOME;
 MimeType=application/x-gnomint;
 StartupNotify=true

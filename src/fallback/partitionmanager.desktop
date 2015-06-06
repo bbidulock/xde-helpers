@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=KDE Partition Manager
 Name[bg]=Управление на дялове за KDE
@@ -99,7 +97,6 @@ Comment[zh_TW]=管理磁碟、分割區與檔案系統
 Icon=partitionmanager
 TryExec=/usr/bin/partitionmanager
 Exec=partitionmanager
-Terminal=false
 Categories=System;Filesystem;KDE;Qt;
 StartupNotify=false
 X-KDE-StartupNotify=true

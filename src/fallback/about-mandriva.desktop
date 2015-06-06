@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=About Mandriva
 Name[cs]=O Mandrivě
@@ -59,7 +57,6 @@ Comment[zh_TW]=更多關於 Mandriva
 Icon=mandriva
 TryExec=/usr/bin/about-mandriva
 Exec=about-mandriva
-Terminal=false
 NoDisplay=true
 Categories=System;Documentation;
 StartupNotify=false

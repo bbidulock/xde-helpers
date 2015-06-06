@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Frama-C
 Comment=Framework for source code analysis of software written in C
 Icon=frama-c
 TryExec=/usr/bin/frama-c-gui
 Exec=frama-c-gui
-Terminal=false
 Categories=Development;Science;IDE;GTK;
 StartupNotify=false
 X-AppInstall-Package=frama-c

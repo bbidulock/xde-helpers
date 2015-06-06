@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Network Authentication
 Name[nb]=Nettverksautentisering
 Comment=Kerberos Network Authentication Dialog
 TryExec=/usr/bin/krb5-auth-dialog
 Exec=krb5-auth-dialog --sm-disable
-Terminal=false
 StartupNotify=false
 X-AppInstall-Package=krb5-auth-dialog
 X-AppInstall-Popcon=10

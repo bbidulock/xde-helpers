@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=DjView4
 GenericName=DjVu Viewer
@@ -66,7 +64,6 @@ GenericName[zu]=Umboniseli we DjVu
 Icon=djvulibre-djview4
 TryExec=/usr/bin/djview4
 Exec=djview4 %f
-Terminal=false
 Categories=Graphics;Viewer;Qt;
 MimeType=image/x-djvu;image/x.djvu;image/vnd.djvu;
 StartupNotify=false

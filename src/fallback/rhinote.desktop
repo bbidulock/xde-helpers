@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Rhinote
 Comment=Virtual sticky-notes
@@ -8,7 +6,6 @@ Comment[it]=Note di testo virtuali
 Icon=rhinote
 TryExec=/usr/bin/rhinote
 Exec=rhinote
-Terminal=false
 Categories=Utility;TextEditor;
 StartupNotify=false
 X-AppInstall-Package=rhinote

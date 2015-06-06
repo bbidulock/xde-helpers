@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=BlueDevil Audio connect
 GenericName=BlueDevil Audio connect
@@ -8,7 +6,6 @@ Comment=BlueDevil Audio connect
 Icon=preferences-system-bluetooth
 TryExec=/usr/bin/bluedevil-audio
 Exec=bluedevil-audio %U
-Terminal=false
 Categories=Audio;Network;KDE;Qt;Bluetooth;
 MimeType=virtual/bluedevil-audio;
 StartupNotify=false

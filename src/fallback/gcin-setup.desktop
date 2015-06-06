@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=gcin Setup
 Name[ja]=gcin入力メソッドの設定
@@ -13,7 +11,6 @@ Comment[zh_TW]=gcin 設定工具
 Icon=gcin
 TryExec=/usr/bin/gcin-setup
 Exec=gcin-setup
-Terminal=false
 Categories=Settings;
 StartupNotify=true
 X-AppInstall-Package=gcin

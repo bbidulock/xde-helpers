@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=colorname
 Icon=_usr_share_pixmaps_colorname
 TryExec=/usr/bin/colorname
 Exec=/usr/bin/colorname
-Terminal=false
 Categories=Graphics;Utility;GTK;
 StartupNotify=false
 X-AppInstall-Package=colorname

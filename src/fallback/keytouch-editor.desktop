@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=KeyTouch Editor
 Comment=Edit keyboard maps for keytouch
 Icon=_usr_share_keytouch-editor_pixmaps_icon
 TryExec=/usr/bin/su-to-root
 Exec=/usr/bin/su-to-root -X -c /usr/sbin/keytouch-editor
-Terminal=false
 Categories=Settings;HardwareSettings;GTK;
 StartupNotify=true
 X-AppInstall-Package=keytouch-editor

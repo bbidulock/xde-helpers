@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Authorizations
 Name[ar]=التخويلات
@@ -63,7 +61,6 @@ Comment[zh_TW]=設定授權
 Icon=gtk-dialog-authentication
 TryExec=/usr/bin/polkit-gnome-authorization
 Exec=polkit-gnome-authorization
-Terminal=false
 OnlyShowIn=GNOME;
 Categories=Settings;System;GNOME;GTK;X-GNOME-SystemSettings;
 StartupNotify=true

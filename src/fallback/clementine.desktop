@@ -1,9 +1,6 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Clementine
-Name[ru]=Clementine
 GenericName=Music Player
 GenericName[pt]=Reprodutor de músicas Clementine
 GenericName[ru]=Музыкальный проигрыватель
@@ -13,7 +10,6 @@ Comment[ru]=Слушайте музыку локально и из last.fm
 Icon=application-x-clementine
 TryExec=/usr/bin/clementine
 Exec=clementine
-Terminal=false
 Categories=AudioVideo;Player;Qt;
 MimeType=application/ogg;application/x-ogg;application/x-ogm-audio;audio/aac;audio/mp4;audio/mpeg;audio/mpegurl;audio/ogg;audio/vnd.rn-realaudio;audio/vorbis;audio/x-flac;audio/x-mp3;audio/x-mpeg;audio/x-mpegurl;audio/x-ms-wma;audio/x-musepack;audio/x-oggflac;audio/x-pn-realaudio;audio/x-scpls;audio/x-speex;audio/x-vorbis;audio/x-vorbis+ogg;audio/x-wav;video/x-ms-asf;x-content/audio-player;
 StartupNotify=false

@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=User Administration
 Comment=Add or remove users and groups
 Icon=userdrake
 TryExec=/usr/bin/userdrake
 Exec=userdrake
-Terminal=false
 NoDisplay=true
 Categories=System;GTK;X-MandrivaLinux-CrossDesktop;
 StartupNotify=true

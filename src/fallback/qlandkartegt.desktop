@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=QLandkarteGT
 GenericName=GPS device mapping utility
@@ -8,7 +6,6 @@ Icon=qlandkartegt
 TryExec=/usr/bin/qlandkartegt
 Exec=qlandkartegt
 X-MultipleArgs=false
-Terminal=false
 Categories=Utility;Geography;Qt;
 StartupNotify=false
 X-AppInstall-Package=qlandkartegt

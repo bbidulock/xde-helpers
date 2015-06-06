@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=KVIrc 4
 GenericName=IRC Client
@@ -14,7 +12,6 @@ Comment[tr]=IRC'e bağlanın
 Icon=kvirc
 TryExec=/usr/bin/kvirc
 Exec=kvirc -m %u
-Terminal=false
 Categories=Network;IRCClient;KDE;Qt;
 MimeType=application/x-kva;application/x-kvt;
 StartupNotify=false

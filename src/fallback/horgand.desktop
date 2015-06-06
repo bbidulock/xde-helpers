@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Horgand
 GenericName=Soft Synth
 Comment=Organd Soft Synth
 TryExec=/usr/bin/horgand
 Exec=horgand
-Terminal=false
 Categories=AudioVideo;Audio;
 StartupNotify=false
 X-AppInstall-Package=horgand

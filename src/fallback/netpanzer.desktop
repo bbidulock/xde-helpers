@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=NetPanzer
 GenericName=Realtime Strategy Game
@@ -8,7 +6,6 @@ Comment=Online multiplayer tactical warfare game
 Icon=netpanzer
 TryExec=/usr/bin/netpanzer
 Exec=netpanzer
-Terminal=false
 Categories=Game;StrategyGame;
 StartupNotify=false
 X-AppInstall-Package=netpanzer

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=HTTP
 Name[fa]=اچ‌تی‌تی‌پی
@@ -47,7 +45,6 @@ Comment[zh_TW]=設定 HTTP 伺服器
 Icon=system-config-httpd.png
 TryExec=/usr/bin/system-config-httpd
 Exec=system-config-httpd
-Terminal=false
 Categories=Application;System;X-Red-Hat-Base;X-Red-Hat-ServerConfig;
 StartupNotify=false
 X-Desktop-File-Install-Version=0.2

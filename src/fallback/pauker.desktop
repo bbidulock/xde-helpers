@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Pauker
 GenericName=Pauker
@@ -8,7 +6,6 @@ Comment=Generic card based learning program
 Icon=pauker
 TryExec=/usr/bin/pauker
 Exec=pauker
-Terminal=false
 Categories=Education;
 StartupNotify=false
 X-AppInstall-Package=pauker

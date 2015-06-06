@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GrafX2
 Comment=Deluxe Paint Clone
 Icon=grafx2
 TryExec=/usr/bin/grafx2
 Exec=grafx2
-Terminal=false
 Categories=Application;Graphics;
 StartupNotify=false
 X-AppInstall-Package=grafx2

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=KchmViewer
 GenericName=CHM file viewer
@@ -8,7 +6,6 @@ Comment=A viewer of CHM (MS-Help) files
 Icon=kchmviewer
 TryExec=/usr/bin/kchmviewer
 Exec=kchmviewer %f
-Terminal=false
 Categories=Office;Viewer;KDE;Qt;
 MimeType=application/chm;application/x-chm;
 StartupNotify=false

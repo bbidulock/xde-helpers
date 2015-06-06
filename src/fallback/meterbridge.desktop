@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Meterbridge
 GenericName=Audio Level Meter
@@ -8,7 +6,6 @@ Comment=Audio level meter for JACK
 Icon=meterbridge32x32.xpm
 TryExec=/usr/bin/meterbridge
 Exec=/usr/bin/meterbridge -t vu alsa_pcm:playback_1 alsa_pcm:playback_2
-Terminal=false
 Categories=AudioVideo;Audio;
 StartupNotify=false
 X-AppInstall-Package=meterbridge

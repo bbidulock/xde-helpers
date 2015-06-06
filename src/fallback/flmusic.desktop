@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Flmusic
 Comment=Very simple CD/audio player
 Icon=flmusic
 TryExec=/usr/bin/flmusic
 Exec=flmusic
-Terminal=false
 Categories=AudioVideo;Audio;Player;
 StartupNotify=false
 X-AppInstall-Package=flmusic

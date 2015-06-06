@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GNOME Printer Applet
 Comment=GNOME Printer Applet
 Icon=stock_printer
 TryExec=/usr/bin/gnome-cups-icon
 Exec=gnome-cups-icon
-Terminal=false
 OnlyShowIn=GNOME;
 StartupNotify=false

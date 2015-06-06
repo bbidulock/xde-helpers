@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gerbv Gerber File Viewer
 GenericName=Gerber File Viewer
@@ -8,7 +6,6 @@ Comment=Gerber file viewer for PCB design
 Icon=gerbv
 TryExec=/usr/bin/gerbv
 Exec=gerbv %F
-Terminal=false
 Categories=Education;Science;Electronics;
 MimeType=application/x-gerber;application/x-excellon;
 StartupNotify=false

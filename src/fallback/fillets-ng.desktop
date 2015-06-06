@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Fish Fillets
 Comment=Puzzle game about witty fish saving the world sokoban-style
@@ -8,7 +6,6 @@ Comment[ro]=Un puzzle cu un pește inteligent care salvează lumea în stil soko
 Icon=fillets-ng
 TryExec=/usr/bin/fillets
 Exec=fillets
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=fillets-ng

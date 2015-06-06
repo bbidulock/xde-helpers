@@ -1,14 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=QTNX
-Name[en_GB]=QTNX
 Comment=Client for NX remote desktop
-Comment[en_GB]=Client for NX remote desktop
 TryExec=/usr/bin/qtnx
 Exec=/usr/bin/qtnx
-Terminal=false
 Categories=Network;RemoteAccess;Qt;
 StartupNotify=false
 X-AppInstall-Package=qtnx

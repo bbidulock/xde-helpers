@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=SOFA
 GenericName=SOFA
@@ -8,7 +6,6 @@ Comment=Open Source Framework for Medical Simulation
 Icon=sofa
 TryExec=/usr/bin/sofa
 Exec=sofa
-Terminal=false
 Categories=Graphics;
 StartupNotify=false
 X-AppInstall-Package=sofa

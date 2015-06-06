@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Software Installer
 Name[ar]=مثبِّت البرمجيَّات
@@ -109,7 +107,6 @@ Comment[zh_CN]=图形化安装 RPM 软件包
 Comment[zh_TW]=RPM 檔案安裝的圖形化前端
 TryExec=/usr/bin/gurpmi
 Exec=gurpmi %F
-Terminal=false
 NoDisplay=true
 Categories=Settings;PackageManager;GTK;
 MimeType=application/x-rpm;application/x-urpmi;

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Airstrike
 Comment=Dogfight an enemy plane
@@ -8,7 +6,6 @@ Comment[de_DE]=Kämpfe gegen ein feindliches Flugzeug
 Icon=airstrike.xpm
 TryExec=/usr/games/airstrike
 Exec=/usr/games/airstrike
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=airstrike

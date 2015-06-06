@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Esperanza
 Comment=XMMS2 client which aims to be as feature-full and easy-to-use as possible
 Icon=xmms2
 TryExec=/usr/bin/esperanza
 Exec=esperanza
-Terminal=false
 Categories=AudioVideo;Audio;Player;Qt;
 StartupNotify=false
 X-AppInstall-Package=esperanza

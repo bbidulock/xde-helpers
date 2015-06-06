@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=DFArc - Dink frontend
 Name[da]=DFArc - Dinks grænseflade
@@ -10,7 +8,6 @@ Name[fi]=DFArc - Dink Smallwood -pelin hallintaohjelma
 Name[fr]=DFArc - Interface de lancement pour Dink
 Name[it]=DFArc - interfaccia di Dink
 Name[mk]=DFArc - Dink насловна
-Name[pl]=DFArc - Dink frontend
 Name[vi]=DFArc — giao diện Dink
 Comment=Run, edit, install, remove and package D-Mods (Dink Modules)
 Comment[da]=Kør, redigere, installer, fjern og pak D-Mods (Dink-moduler)
@@ -25,7 +22,6 @@ Comment[vi]=Khởi chạy, chỉnh sửa, cài đặt, gỡ bỏ và đóng gói
 Icon=dfarc
 TryExec=/usr/bin/dfarc
 Exec=dfarc
-Terminal=false
 Categories=Game;AdventureGame;
 MimeType=application/x-dmod;
 StartupNotify=false

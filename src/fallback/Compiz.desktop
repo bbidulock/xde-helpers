@@ -1,14 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Compiz
-Name[en_US]=Compiz
 Icon=/usr/share/pixmaps/xgl-settings-capplet.svg
 Icon[en_US]=/usr/share/pixmaps/xgl-settings-capplet.svg
 TryExec=/usr/bin/compiz-manager
 Exec=compiz-manager
-Terminal=false
 StartupNotify=false
 X-AppInstall-Package=compiz
 X-AppInstall-Popcon=62

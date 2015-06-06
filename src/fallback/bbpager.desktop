@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=BlackBox Pager
 GenericName=Desktop Pager
@@ -8,7 +6,6 @@ Comment=Place a pager on the blackbox root.
 Icon=blackbox
 TryExec=/usr/bin/bbpager
 Exec=bbpager
-Terminal=false
 OnlyShowIn=FLUXBOX;BLACKBOX;
 Categories=Utility;Pager;
 StartupNotify=false

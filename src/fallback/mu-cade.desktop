@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Mu-cade
 Comment=Kenta Cho's Mu-cade
 Icon=mu-cade
 TryExec=/usr/bin/mu-cade
 Exec=mu-cade
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=mu-cade

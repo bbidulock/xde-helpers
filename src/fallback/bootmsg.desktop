@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Start-Up Log
 Name[af]=Aanvangsopgawe
@@ -94,7 +92,6 @@ GenericName[zu]=Bonisa ilogi yokuqalisa (/var/log/boot.msg)
 Icon=yast-bootmsg
 TryExec=/sbin/yast2
 Exec=/sbin/yast2 view_anymsg /var/log/boot.msg
-Terminal=false
 Categories=Settings;System;Qt;X-SuSE-YaST;X-SuSE-YaST-Misc;
 StartupNotify=true
 X-KDE-HasReadOnlyMode=true

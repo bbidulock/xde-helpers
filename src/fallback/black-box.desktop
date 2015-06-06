@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Black-Box
 GenericName=Laser puzzle
@@ -8,7 +6,6 @@ Comment=Find the crystals
 Icon=black-box
 TryExec=/usr/bin/black-box
 Exec=black-box
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=black-box

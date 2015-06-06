@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Periodic table of the elements
 Name[de]=Periodensystem der Elemente
@@ -23,7 +21,6 @@ Comment[zh_TW]=門得列夫週期表
 Icon=gchemtable
 TryExec=/usr/bin/gchemtable-0.12
 Exec=gchemtable-0.12
-Terminal=false
 Categories=Education;Science;Chemistry;GNOME;GTK;
 StartupNotify=false
 X-AppInstall-Package=gcu-bin

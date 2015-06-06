@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=gwave
 GenericName=Gwave Waveform Viewer
@@ -8,7 +6,6 @@ Comment=A waveform viewer eg for spice simulators
 Icon=gwave
 TryExec=/usr/bin/gwave
 Exec=gwave
-Terminal=false
 Categories=Electronics;Engineering;
 StartupNotify=false
 X-AppInstall-Package=gwave

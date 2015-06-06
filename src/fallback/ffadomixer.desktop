@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=FFADO Mixer
 Name[ru]=Микшер FFADO
@@ -11,7 +9,6 @@ Comment[ru]=Микшер для звуковых устройств с инте�
 Icon=ffado
 TryExec=/usr/bin/ffado-mixer
 Exec=ffado-mixer
-Terminal=false
 Categories=AudioVideo;Audio;HardwareSettings;Mixer;Qt;
 StartupNotify=false
 X-AppInstall-Package=libffado

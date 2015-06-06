@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=fotoxx
 GenericName=Digital Photo Editor
 Icon=_usr_share_fotoxx_icons_fotoxx
 TryExec=/usr/bin/fotoxx
 Exec=/usr/bin/fotoxx
-Terminal=false
 Categories=Graphics;
 StartupNotify=false
 X-AppInstall-Package=fotoxx

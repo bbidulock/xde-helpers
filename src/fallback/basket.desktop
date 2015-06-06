@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=BasKet Note Pads
 Name[de]=BasKet Notizblätter
@@ -32,7 +30,6 @@ Icon=basket
 TryExec=/usr/bin/basket
 Exec=basket %f
 X-DBUS-StartupType=Unique
-Terminal=false
 Categories=Office;KDE;Qt;
 MimeType=application/x-basket-archive;application/x-basket-template;
 StartupNotify=false

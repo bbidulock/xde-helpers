@@ -1,21 +1,13 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=pyRenamer
-Name[de]=pyRenamer
-Name[en]=pyRenamer
-Name[es]=pyRenamer
-Name[fr]=pyRenamer
 Comment=Mass rename files
 Comment[de]=Dateien massenweise umbenennen
-Comment[en]=Mass rename files
 Comment[es]=Renombramiento masivo de archivos
 Comment[fr]=Renomme en masse les fichiers
 Icon=_usr_share_pyrenamer_pyrenamer
 TryExec=/usr/bin/pyrenamer
 Exec=/usr/bin/pyrenamer
-Terminal=false
 Categories=Utility;FileTools;GNOME;GTK;
 StartupNotify=false
 X-AppInstall-Package=pyrenamer

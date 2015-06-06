@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Löve Game
 Comment=Run Löve game
@@ -8,7 +6,6 @@ Comment[es]=Ejecutar juego de Löve
 Icon=love-app-64
 TryExec=/usr/bin/love
 Exec=love %f
-Terminal=false
 Categories=Game;
 MimeType=application/x-love-game;
 StartupNotify=false

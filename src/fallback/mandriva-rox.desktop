@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=ROX
 Comment=File Manager of the ROX desktop environment
 Icon=rox
 TryExec=/usr/bin/rox
 Exec=rox %U
-Terminal=false
 Categories=System;FileManager;X-MandrivaLinux-System-FileTools;
 StartupNotify=true
 X-AppInstall-Package=rox

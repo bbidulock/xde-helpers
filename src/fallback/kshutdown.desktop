@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=KShutdown
 Name[sr@latin]=K-Gašenje
@@ -16,7 +14,6 @@ Comment[sr]=Напредна алатка за гашење рачунара
 Icon=kshutdown
 TryExec=/usr/bin/kshutdown
 Exec=kshutdown
-Terminal=false
 Categories=Utility;
 StartupNotify=false
 X-AppInstall-Package=kshutdown

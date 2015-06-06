@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Network Configurator
 GenericName=DHCP Client Daemon Applet
@@ -8,7 +6,6 @@ Comment=Configure and monitor your network connections
 Icon=dhcpcd
 TryExec=/usr/bin/dhcpcd-gtk
 Exec=dhcpcd-gtk
-Terminal=false
 NotShowIn=GNOME;KDE;XFCE;
 Categories=TrayIcon;Network;System;GTK;
 StartupNotify=true

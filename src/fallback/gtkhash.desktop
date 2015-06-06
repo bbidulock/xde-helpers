@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GtkHash
 Comment=Compute message digests and checksums
@@ -8,7 +6,6 @@ Comment[de]=Berechnen von Prüfsummen
 Icon=gtkhash
 TryExec=/usr/bin/gtkhash
 Exec=gtkhash
-Terminal=false
 Categories=Utility;GNOME;
 StartupNotify=true
 X-AppInstall-Package=gtkhash

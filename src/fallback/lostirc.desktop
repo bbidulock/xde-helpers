@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=LostIRC
 Comment=Chat on IRC-networks
@@ -9,7 +7,6 @@ Comment[fr]=Chat sur les réseaux IRC
 Icon=lostirc.png
 TryExec=/usr/bin/lostirc
 Exec=lostirc
-Terminal=false
 Categories=Application;Network;
 StartupNotify=false
 X-AppInstall-Package=lostirc

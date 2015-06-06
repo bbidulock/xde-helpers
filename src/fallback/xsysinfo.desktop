@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=X System Info
 Name[af]=Stelsel inligting
@@ -70,7 +68,6 @@ Comment=Display Linux kernel parameters in graphical form
 Icon=utilities-system-monitor
 TryExec=/usr/bin/xsysinfo
 Exec=xsysinfo
-Terminal=false
 Categories=System;
 StartupNotify=false
 X-AfterStep-IndexName=xsysinfo

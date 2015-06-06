@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Logout
 Name[af]=Uitteken
@@ -31,7 +29,6 @@ Name[zu]=Phuma
 Icon=gnome-logout
 TryExec=/usr/bin/gnome-session-save
 Exec=gnome-session-save --kill
-Terminal=false
 OnlyShowIn=GNOME;
 Categories=Application;System;GNOME;
 StartupNotify=false

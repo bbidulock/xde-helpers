@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Einstein
 Comment="Puzzle game inspired on Einstein's puzzle"
@@ -8,7 +6,6 @@ Comment[de]="Puzzle-Spiel, inspiriert von Einsteins Puzzle"
 Icon=einstein.png
 TryExec=/usr/bin/einstein
 Exec=einstein
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=einstein

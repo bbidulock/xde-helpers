@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Merkaartor
 GenericName=OpenStreetMap Editor
@@ -9,7 +7,6 @@ GenericName[tr]=Açık Sokak Haritası Düzenleyicisi
 Icon=merkaartor
 TryExec=/usr/bin/merkaartor
 Exec=merkaartor
-Terminal=false
 Categories=Network;Geography;Qt;
 StartupNotify=false
 X-AppInstall-Package=merkaartor

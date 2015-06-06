@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Black Box
 Comment=Deduce the positions of the balls by firing lasers
@@ -9,7 +7,6 @@ Comment[fr]=Déduire la position des balles en tirant un laser
 Icon=blackboxgame
 TryExec=/usr/bin/blackboxgame
 Exec=blackboxgame
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=sgt-puzzles

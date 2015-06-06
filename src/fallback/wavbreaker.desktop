@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Wavbreaker File Splitter
 Name[de]=Wavbreaker Datei-Splitter
@@ -11,7 +9,6 @@ Comment[de]=Teilen Sie Wave-Dateien in mehrere Teile
 Icon=wavbreaker
 TryExec=/usr/bin/wavbreaker
 Exec=wavbreaker
-Terminal=false
 Categories=Application;AudioVideo;Audio;
 MimeType=audio/x-wav;
 StartupNotify=false

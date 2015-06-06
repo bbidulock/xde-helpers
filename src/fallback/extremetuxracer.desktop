@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Extreme Tux Racer
 GenericName=Arcade Game
@@ -12,7 +10,6 @@ Comment[ro_RO]=Curse cu un pinguin pe munte, la vale
 Icon=etracer
 TryExec=/usr/bin/etracer
 Exec=etracer
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=extremetuxracer

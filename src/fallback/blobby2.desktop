@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Blobby Volley 2
 GenericName=Volley Game
@@ -8,6 +6,13 @@ Comment=Volley game with network support
 Icon=blobby2
 TryExec=/usr/bin/blobby
 Exec=blobby
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
+X-AppInstall-Package=blobby2
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=blobby2
+X-Arch-Package-Version=1.0-1
+X-Arch-Package-Description=A beach ball game with blobs of goo
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/blobby/

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=QElectroTech
 GenericName=Electric diagrams editor
@@ -26,7 +24,6 @@ Comment[ru_RU]=Редактор электрических схем
 Icon=qelectrotech
 TryExec=/usr/bin/qelectrotech
 Exec=qelectrotech
-Terminal=false
 Categories=Graphics;Science;VectorGraphics;Electricity;Engineering;Qt;
 MimeType=application/x-qet-project;application/x-qet-element;
 StartupNotify=false

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Chromium Web Browser
 Name[ar]=مُتصفح الوِب فيَرفُكس
@@ -175,7 +173,6 @@ Comment[sr@Latn]=Pretražite Internet
 Comment[sv]=Surfa på webben
 Comment[ta]=வலையத்ைத மேலோட
 Comment[tg]=Шабакаро баррасӣ кунед
-Comment[th]=Browse the Web
 Comment[tl]=I-browse ang Web
 Comment[tr]=Web' de gezin
 Comment[uk]=Переглядайте Тенета
@@ -186,7 +183,6 @@ Comment[zh_TW]=瀏覽網頁
 Icon=chromium-browser
 TryExec=/usr/bin/chromium-browser
 Exec=chromium-browser %u
-Terminal=false
 Categories=Network;WebBrowser;GTK;X-MandrivaLinux-CrossDesktop;X-MandrivaLinux-Internet-WebBrowsers;
 MimeType=text/html;text/xml;application/xhtml+xml;application/xml;application/rss+xml;application/rdf+xml;
 StartupNotify=true

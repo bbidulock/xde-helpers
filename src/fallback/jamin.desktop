@@ -1,17 +1,12 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=JAMin
-Name[fr]=JAMin
-Name[ru]=JAMin
 Comment=JACK Audio Mastering interface
 Comment[fr]=Interface de masterisation JACK Audio
 Comment[ru]=JAMin -- приложение для мастеринга звука
 Icon=jamin.svg
 TryExec=/usr/bin/jamin
 Exec=jamin
-Terminal=false
 Categories=Application;AudioVideo;
 MimeType=application/x-jamin;
 StartupNotify=true

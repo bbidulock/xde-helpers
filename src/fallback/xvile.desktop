@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=XVile
 Comment=VI Like Emacs
 Icon=vile
 TryExec=/usr/bin/xvile
 Exec=xvile
-Terminal=false
 Categories=Application;Utility;TextEditor;
 StartupNotify=false
 X-AppInstall-Package=xvile

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=EBView
 Name[ja]=EBView 辞書ブラウザ
@@ -9,7 +7,6 @@ Comment[ja]=EPWING形式のCD-ROM辞書を検索します
 Icon=_usr_share_pixmaps_ebview
 TryExec=/usr/bin/ebview
 Exec=/usr/bin/ebview
-Terminal=false
 Categories=Application;Utility;Dictionary;GTK;
 MimeType=application/ebview;
 StartupNotify=true

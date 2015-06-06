@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Scribus
 GenericName=Page Layout
@@ -91,7 +89,6 @@ Comment[zu]=Ukushicilelwa kwe-Desktop
 Icon=scribus
 TryExec=/usr/bin/scribus
 Exec=scribus %f
-Terminal=false
 Categories=Office;Publishing;Qt;X-MandrivaLinux-CrossDesktop;
 MimeType=application/vnd.scribus;
 StartupNotify=false

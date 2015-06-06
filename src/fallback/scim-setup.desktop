@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=SCIM Input Method Setup
 Name[as]=SCIM নিবেশ পদ্ধতিৰ প্ৰতিষ্ঠা
@@ -61,7 +59,6 @@ Comment[zh_TW]=泛用智慧型輸入法平台的設定工具
 Icon=scim-setup
 TryExec=/usr/bin/scim-setup
 Exec=scim-setup
-Terminal=false
 Categories=Settings;Applications;
 StartupNotify=true
 X-AppInstall-Package=scim

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Qt4 Designer
 Name[el]=Σχεδιαστής Qt4
@@ -87,7 +85,6 @@ Comment=Design GUIs for Qt4 applications
 Icon=designer-qt4
 TryExec=/usr/bin/designer-qt4
 Exec=designer-qt4
-Terminal=false
 Categories=Development;GUIDesigner;Qt;
 MimeType=application/x-designer;
 StartupNotify=true

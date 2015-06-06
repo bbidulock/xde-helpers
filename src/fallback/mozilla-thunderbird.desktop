@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Thunderbird
 Name[bn]=থাণ্ডারবার্ড
@@ -83,7 +81,6 @@ Comment=Send and Receive Email
 Icon=thunderbird
 TryExec=/usr/bin/thunderbird
 Exec=thunderbird
-Terminal=false
 Categories=Network;Email;
 MimeType=message/rfc822;
 StartupNotify=true

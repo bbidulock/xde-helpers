@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=xpyraminx
 GenericName=pyraminx game
 Icon=_usr_share_pixmaps_xpyraminx.m
 TryExec=/usr/games/xpyraminx
 Exec=/usr/games/xpyraminx
-Terminal=false
 Categories=Game;
 StartupNotify=false
 X-AppInstall-Package=xpuzzles

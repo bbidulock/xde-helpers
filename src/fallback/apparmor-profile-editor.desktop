@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=AppArmor Profile Editor
 Comment=Edit AppArmor profiles
 Icon=apparmor-profile-editor
 TryExec=/usr/bin/profileeditor
 Exec=profileeditor %f
-Terminal=false
 Categories=Utility;TextEditor;
 StartupNotify=false
 X-KDE-SubstituteUID=true

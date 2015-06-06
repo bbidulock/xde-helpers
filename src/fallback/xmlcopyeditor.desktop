@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=XML Copy Editor
 GenericName=XML Editor
@@ -8,7 +6,6 @@ Comment=Edit XML documents
 Icon=xmlcopyeditor.png
 TryExec=/usr/bin/xmlcopyeditor
 Exec=xmlcopyeditor %U
-Terminal=false
 Categories=Application;Development;TextEditor;
 MimeType=text/xml;
 StartupNotify=false

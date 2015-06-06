@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Autorun Prompt
 Name[ar]=محث التنفيذ التلقائي
@@ -18,7 +16,6 @@ Name[cs]=Výzva automatického spuštění
 Name[da]=Autokørselsforespørgsel
 Name[de]=Autostart-Nachfrage
 Name[el]=Ειδοποίηση αυτόματης εκτέλεσης
-Name[en_GB]=Autorun Prompt
 Name[es]=Pregunta de autoejecución
 Name[et]=Automaatkäivituse küsimus
 Name[eu]=Autoexekuzioaren galdera
@@ -68,7 +65,6 @@ Name[zh_TW]=自動執行提示
 Icon=application-x-executable
 TryExec=/usr/bin/nautilus-autorun-software
 Exec=nautilus-autorun-software %u
-Terminal=false
 NoDisplay=true
 OnlyShowIn=GNOME;
 MimeType=x-content/software;

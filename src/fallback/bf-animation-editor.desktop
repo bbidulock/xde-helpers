@@ -1,15 +1,11 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Bear Factory — Animation Editor
 Comment=Animation editor for the Bear Engine
-Comment[en]=Animation editor for the Bear Engine
 Comment[fr]=Éditeur d'animation pour le moteur « Bear »
 Icon=bear-factory
 TryExec=/usr/bin/bf-animation-editor
 Exec=bf-animation-editor
-Terminal=false
 Categories=Utility;
 StartupNotify=true
 X-AppInstall-Package=bear-factory

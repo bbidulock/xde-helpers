@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Display
 Name[ar]=العرض
@@ -10,10 +8,8 @@ Name[bn_IN]=প্রদর্শন
 Name[ca]=Pantalla
 Name[cs]=Zobrazení
 Name[cy]=Dangosydd
-Name[da]=Display
 Name[de]=Anzeige
 Name[el]=Οθόνη
-Name[en_GB]=Display
 Name[es]=Pantalla
 Name[et]=Kuva
 Name[fa]=نمایش
@@ -102,7 +98,6 @@ Comment[zh_TW]=設定解析度與彩度
 Icon=system-config-display.png
 TryExec=/usr/bin/system-config-display
 Exec=system-config-display
-Terminal=false
 Categories=Settings;System;GTK;SystemSetup;X-Red-Hat-Base;
 StartupNotify=true
 X-Desktop-File-Install-Version=0.15

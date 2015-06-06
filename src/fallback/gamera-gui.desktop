@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=gamera-gui
 GenericName=GUI for the Gamera framework
 Icon=gamera-gui.xpm
 TryExec=/usr/bin/gamera_gui
 Exec=/usr/bin/gamera_gui %f
-Terminal=false
 Categories=Graphics;OCR;
 StartupNotify=false
 X-AppInstall-Package=gamera-gui

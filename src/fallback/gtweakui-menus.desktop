@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=gTweakUI - Menus
 Comment=Extra preferences for application menus
 TryExec=/usr/bin/gtweakui-menus
 Exec=gtweakui-menus
-Terminal=false
 OnlyShowIn=GNOME;
 Categories=Application;Settings;GNOME;
 StartupNotify=true

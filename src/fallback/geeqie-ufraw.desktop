@@ -1,14 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=UFRaw Batch
 Name[ca]=Lot UFRaw
 Name[cs]=Hromadné zpracování v UFRaw
 Name[de]=UFRaw-Stapelverarbeitung
-Name[es]=UFRaw Batch
 Name[fr]=Traitement par lots UFRaw
-Name[nl]=UFRaw Batch
 Name[pt_BR]=Lote UFRaw
 Name[ro]=Batch UFRaw
 Name[ru]=Пакетная обработка UFRaw
@@ -18,7 +14,6 @@ Name[sv]=UFRaw batch
 Icon=ufraw
 TryExec=/usr/bin/ufraw
 Exec=geeqie-ufraw %f
-Terminal=false
 OnlyShowIn=X-Geeqie;
 Categories=X-Geeqie;
 MimeType=application/x-ufraw;image/x-dcraw;

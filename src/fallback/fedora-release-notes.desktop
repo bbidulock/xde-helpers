@@ -1,16 +1,12 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Release Notes
 Name[fr_FR]=Notes de version
 GenericName=Release Notes
 Comment=Release Notes for Fedora 15
-Comment[fr_FR]=Release Notes for Fedora 15
 Icon=fedora-release-notes
 TryExec=/usr/bin/xdg-open
 Exec=xdg-open file:///usr/share/doc/HTML/fedora-release-notes/index.html
-Terminal=false
 OnlyShowIn=GNOME;
 Categories=Application;Utility;
 StartupNotify=true

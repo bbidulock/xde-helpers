@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=TkCVS
 Comment=Graphical interface to CVS and SVN
 Icon=development_tools_section
 TryExec=/usr/bin/tkcvs
 Exec=tkcvs
-Terminal=false
 Categories=Development;RevisionControl;
 StartupNotify=true
 X-AppInstall-Package=tkcvs

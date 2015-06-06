@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=BitStormLite
 GenericName[zh_CN]=BitStormLite
@@ -8,7 +6,6 @@ Comment=A small and fast BitTorrent client
 Comment[zh_CN]=一个轻巧快速的BitTorrent客户端
 TryExec=/usr/bin/bitstormlite
 Exec=bitstormlite %f
-Terminal=false
 Categories=Network;
 MimeType=application/x-bittorrent;application/x-torrent;
 StartupNotify=false

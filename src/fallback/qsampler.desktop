@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Qsampler
 GenericName=LinuxSampler GUI
@@ -8,7 +6,6 @@ Comment=Qsampler is a LinuxSampler Qt GUI Interface
 Icon=qsampler
 TryExec=/usr/bin/qsampler
 Exec=/usr/bin/qsampler
-Terminal=false
 Categories=AudioVideo;Audio;Qt;
 StartupNotify=false
 X-AppInstall-Package=qsampler

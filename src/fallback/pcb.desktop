@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=PCB Designer
 GenericName=PCB Design
@@ -8,7 +6,6 @@ Comment=Create and edit printed circuit board designs
 Icon=pcb
 TryExec=/usr/bin/pcb
 Exec=pcb %f
-Terminal=false
 Categories=Electronics;Engineering;
 MimeType=application/x-pcb-layout;application/x-pcb-footprint;
 StartupNotify=false

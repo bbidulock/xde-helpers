@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Launchpad Reviews
 GenericName=Code Review Listing Dialog
 Comment=Show when new code reviews appear
 TryExec=/usr/bin/review-list
 Exec=review-list
-Terminal=false
 Categories=Network;
 StartupNotify=true
 X-AppInstall-Package=lptools

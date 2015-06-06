@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=QtSmbstatus Client
 Comment=QtSmbstatus is a GUI (graphical user interface) for smbstatus
@@ -11,7 +9,6 @@ Comment[uk]=QtSmbstatus - графічний інтерфейс для smbstatus
 Icon=qtsmbstatus
 TryExec=/usr/bin/qtsmbstatus
 Exec=qtsmbstatus
-Terminal=false
 Categories=Network;Utility;Qt;
 StartupNotify=false
 X-AppInstall-Package=qtsmbstatus-client

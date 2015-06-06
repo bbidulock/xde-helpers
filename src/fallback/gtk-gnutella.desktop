@@ -1,15 +1,6 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=gtk-gnutella
-Name[de]=gtk-gnutella
-Name[fr]=gtk-gnutella
-Name[hu]=gtk-gnutella
-Name[ja]=gtk-gnutella
-Name[nb]=gtk-gnutella
-Name[nl]=gtk-gnutella
-Name[nn]=gtk-gnutella
 GenericName=P2P Client
 GenericName[de]=P2P-Client
 GenericName[fr]=Client P2P
@@ -29,7 +20,6 @@ Comment[nn]=Ein grafisk Gnutella-tenent
 Icon=gtk-gnutella.png
 TryExec=/usr/bin/gtk-gnutella
 Exec=gtk-gnutella
-Terminal=false
 Categories=Application;Network;FileTransfer;P2P;GTK;
 StartupNotify=false
 X-AppInstall-Package=gtk-gnutella

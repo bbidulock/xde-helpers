@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=KBarcode Batch Printing
 Name[de]=KBarcode Batch Druck
@@ -9,7 +7,6 @@ Comment[de]=Werkzeug zum Barcode und Etiketten Druck (Stapelverarbeitung)
 Icon=kbarcode.png
 TryExec=/usr/bin/kbarcode
 Exec=kbarcode --batch
-Terminal=false
 Categories=Office;KDE;Qt;
 StartupNotify=false
 DocPath=kbarcode/index.html

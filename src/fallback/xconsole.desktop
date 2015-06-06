@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=X Console
 Name[af]=X Konsole
@@ -128,7 +126,6 @@ Comment[zu]=Console Umyalezo Womboniselo
 Icon=xlogo
 TryExec=/usr/bin/xconsole
 Exec=xconsole -file /dev/xconsole
-Terminal=false
 Categories=Application;X-X11;X-XTool;
 StartupNotify=false
 StartupWMClass=xconsole

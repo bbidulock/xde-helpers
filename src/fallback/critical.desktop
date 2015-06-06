@@ -1,14 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Critical
 Name[af]=Krities
 Name[bg]=Критично
 Name[ca]=Crític
-Name[cs]=Critical
 Name[cy]=Critigol
-Name[da]=Critical
 Name[de]=Kritisch
 Name[el]=Κρίσιμο
 Name[es]=Crítico
@@ -59,7 +55,6 @@ Comment[pt_BR]=Desenha um sistema de linhas que se organizam sozinhas. Começa c
 Comment[uk]=Відображає систему ліній, що самоорганізується. Все починається як випадкове нагромадження, але після декількох ітерацій починає з’являтися впорядкованість. Автор — Martin Pool; 1999.
 TryExec=/usr/bin/critical
 Exec=critical -root
-Terminal=false
 OnlyShowIn=GNOME;
 Categories=Screensaver;
 StartupNotify=false

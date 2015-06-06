@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=BibleMemorizer
 Name[xx]=xxBibleMemorizerxx
 GenericName=Bible Verses Memorizer
 GenericName[fr]=Mémorisation de versets bibliques
-GenericName[xx]=Bible Verses Memorizer
 Comment=A simple KDE Application
 Comment[br]=Ur meziant eeun evit KDE
 Comment[ca]=Una aplicació KDE simple
@@ -42,7 +39,6 @@ Comment[zh_CN]=一个简单的 KDE 应用程序
 Icon=biblememorizer
 TryExec=/usr/bin/biblememorizer
 Exec=biblememorizer
-Terminal=false
 Categories=Application;Utility;KDE;X-Bible;X-Religion;
 StartupNotify=false
 X-AppInstall-Package=biblememorizer

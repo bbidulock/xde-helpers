@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Feel
 GenericName=Feel
@@ -8,7 +6,6 @@ Icon=normal/Touch
 TryExec=/usr/bin/ASRun
 Exec=ASRun --afterstep-config feel
 MultipleArgs=false
-Terminal=false
 Categories=AfterStepConfig;
 StartupNotify=false
 X-AppInstall-Package=afterstep-git

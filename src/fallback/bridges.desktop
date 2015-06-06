@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Bridges
 Comment=Connect the islands together with bridges
@@ -9,7 +7,6 @@ Comment[fr]=Relier des îles ensembles suivant certaines règles
 Icon=bridges
 TryExec=/usr/bin/bridges
 Exec=bridges
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=sgt-puzzles

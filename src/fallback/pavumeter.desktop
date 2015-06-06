@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=PulseAudio Volume Meter (Playback)
 Name[cs]=PulseAudio měření hlasitosti (přehrávání)
@@ -62,7 +60,6 @@ Comment[zh_TW]=監控輸出音量
 Icon=pavumeter
 TryExec=/usr/bin/pavumeter
 Exec=pavumeter
-Terminal=false
 Categories=AudioVideo;Audio;
 StartupNotify=true
 X-AppInstall-Package=pavumeter

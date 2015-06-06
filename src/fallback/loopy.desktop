@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Loopy
 Comment=Draw lines around a digit according to the number in it
@@ -9,7 +7,6 @@ Comment[fr]=Dessiner autour d'un digit le nombre de lignes correspondantes
 Icon=loopy
 TryExec=/usr/bin/loopy
 Exec=loopy
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=loopy

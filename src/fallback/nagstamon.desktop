@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=nagstamon
 Comment=Nagios status monitor
 Icon=_usr_share_nagstamon_Nagstamon_resources_nagstamon
 TryExec=/usr/bin/nagstamon
 Exec=nagstamon
-Terminal=false
 Categories=System;Monitor;GTK;
 StartupNotify=false
 X-AppInstall-Package=nagstamon

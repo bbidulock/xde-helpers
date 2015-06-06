@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=MessageBox(KNateon)
 Name[ko]=통합메시지함(네이트온)
@@ -9,7 +7,6 @@ Comment[ko]=네이트온 용 통합메시지함
 Icon=nateon_messagebox
 TryExec=/usr/bin/nateon_messagebox
 Exec=nateon_messagebox
-Terminal=false
 StartupNotify=false
 X-AppInstall-Package=nateon
 X-AppInstall-Popcon=1

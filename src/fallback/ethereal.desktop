@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Ethereal
 Name[bn]=অপেরা
@@ -10,7 +8,6 @@ Name[mr]=नाजुक
 Name[pa]=ਈਥਰਲ
 Name[ta]=®¾Ã¢Âø
 Name[uk]=Ефемерність
-Name[vi]=Ethereal
 Name[xh]=Phezu Kwamafu
 Name[zu]=I-Ethereal
 GenericName=Network Analyzer
@@ -80,7 +77,6 @@ GenericName[zu]=Isihlaziyi Senethiwekhi
 Icon=ethereal
 TryExec=/usr/bin/ethereal
 Exec=ethereal
-Terminal=false
 Categories=Network;System;
 StartupNotify=false
 X-KDE-SubstituteUID=true

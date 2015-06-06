@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=SciDAVis
 Comment=Application for scientific data analysis and visualization
@@ -10,7 +8,6 @@ Comment[pt_BR]=Programa para visualização e análise da dados científico
 Icon=scidavis
 TryExec=/usr/bin/scidavis
 Exec=scidavis
-Terminal=false
 Categories=Graphics;Science;Math;Physics;Qt;
 MimeType=application/x-sciprj;
 StartupNotify=false

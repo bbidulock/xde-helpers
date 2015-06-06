@@ -1,17 +1,12 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Qalculate!
-Name[nl]=Qalculate!
-Name[sv]=Qalculate!
 Comment=Powerful and easy to use calculator
 Comment[nl]=Gemakkelijk te gebruiken rekenmachine met veel mogelijkheden
 Comment[sv]=Kraftfull och användarvänlig miniräknare
 Icon=qalculate.png
 TryExec=/usr/bin/qalculate-gtk
 Exec=qalculate-gtk
-Terminal=false
 Categories=Application;Utility;GNOME;
 StartupNotify=true
 X-AppInstall-Package=qalculate-gtk

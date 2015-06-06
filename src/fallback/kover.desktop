@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Kover
 Comment=CD Cover Printer
 Icon=kover
 TryExec=/usr/bin/kover
 Exec=kover
-Terminal=false
 MimeType=application/x-kover;
 StartupNotify=false
 X-AppInstall-Package=kover

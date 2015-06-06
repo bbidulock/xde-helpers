@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Menu Editor
 Name[af]=Kieslys Redigeerder
@@ -19,7 +17,6 @@ Name[cy]=Golygydd Dewislen
 Name[da]=Menueditor
 Name[de]=Menü-Editor
 Name[el]=Επεξεργαστής μενού
-Name[en_GB]=Menu Editor
 Name[eo]=Menuredaktilo
 Name[es]=Editor de menús
 Name[et]=Menüü redaktor
@@ -93,7 +90,6 @@ Icon=kmenuedit
 TryExec=/usr/bin/kmenuedit
 Exec=kmenuedit
 X-DBUS-StartupType=Unique
-Terminal=false
 OnlyShowIn=KDE;
 Categories=Settings;KDE;Qt;
 StartupNotify=false

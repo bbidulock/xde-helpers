@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Ircp Tray
 Comment=A simple OBEX file transfer applet
@@ -18,7 +16,6 @@ Comment[zh_TW]=一個簡單的 OBEX 檔案傳輸軟體
 Icon=ircp-tray
 TryExec=/usr/bin/ircp-tray
 Exec=ircp-tray
-Terminal=false
 Categories=Utility;
 StartupNotify=false
 X-AppInstall-Package=ircp-tray

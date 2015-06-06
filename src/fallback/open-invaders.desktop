@@ -1,18 +1,14 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Open Invaders
 GenericName=Space Invaders clone
 Comment=Play a Space Invaders clone
 Comment[ca]=Jugueu a un clon del Space Invaders
 Comment[de]=Spiele ein Space Invaders Klon
-Comment[en]=Play a Space Invaders clone
 Comment[es]=Juega a un clon de Space Invaders
 Icon=open-invaders
 TryExec=/usr/bin/open-invaders
 Exec=open-invaders -w
-Terminal=false
 Categories=Game;ActionGame;
 StartupNotify=false
 X-AppInstall-Package=open-invaders

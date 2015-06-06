@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Audacious2
 GenericName=Music Player
@@ -31,7 +29,6 @@ Comment[ru]=Слушайте музыку
 Icon=audacious2
 TryExec=/usr/bin/audacious2
 Exec=audacious2 %U
-Terminal=false
 Categories=AudioVideo;Audio;Player;GTK;
 MimeType=application/ogg;application/x-cue;application/x-ogg;application/xspf+xml;audio/midi;audio/mp3;audio/mpeg;audio/mpegurl;audio/ogg;audio/prs.sid;audio/x-flac;audio/x-it;audio/x-mod;audio/x-mp3;audio/x-mpeg;audio/x-mpegurl;audio/x-ms-wma;audio/x-musepack;audio/x-s3m;audio/x-scpls;audio/x-stm;audio/x-vorbis+ogg;audio/x-wav;audio/x-xm;inode/directory;x-content/audio-cdda;
 StartupNotify=true

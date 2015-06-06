@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Stormbaan Coureur
 Comment=simulated obstacle course for automobiles
 Icon=stormbaancoureur
 TryExec=/usr/bin/stormbaancoureur
 Exec=stormbaancoureur
-Terminal=false
 Categories=Game;ActionGame;
 StartupNotify=false
 X-AppInstall-Package=stormbaancoureur

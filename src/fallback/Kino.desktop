@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Kino
 GenericName=Video Editor
@@ -44,7 +42,6 @@ Comment[uk]=Редагування DV відео
 Icon=kino
 TryExec=/usr/bin/kino
 Exec=soundwrapper kino %F
-Terminal=false
 Categories=AudioVideo;Video;AudioVideoEditing;Recorder;GNOME;GTK;
 MimeType=video/dv;application/smil;
 StartupNotify=true

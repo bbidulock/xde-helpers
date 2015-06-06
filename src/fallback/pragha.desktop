@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Pragha
 GenericName=Music Player
@@ -33,7 +31,6 @@ Comment[zh_CN]=管理和听音乐
 Icon=pragha
 TryExec=/usr/bin/pragha
 Exec=pragha %F
-Terminal=false
 Categories=AudioVideo;Player;GTK;
 MimeType=application/x-ape;audio/ape;audio/x-ape;audio/x-m4a;video/x-ms-asf;audio/x-ms-wma;audio/x-mp3;audio/mpeg;audio/x-mpeg;audio/mpeg3;audio/mp3;application/ogg;application/x-ogg;audio/vorbis;audio/x-vorbis;audio/ogg;audio/x-ogg;audio/x-flac;application/x-flac;audio/flac;audio/x-wav;audio/mpegurl;audio/x-mpegurl;audio/x-scpls;application/xspf+xml;audio/x-ms-wax;
 StartupNotify=true

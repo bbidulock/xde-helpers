@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Classrooom control
 Name[es_ES]=Control del Aula
@@ -11,7 +9,6 @@ Comment[fr]=Outil pour controller les ordinateurs de la classe
 Icon=_usr_share_pixmaps_CA2pp
 TryExec=/usr/bin/controlaula.gambas
 Exec=/usr/bin/controlaula.gambas -teacher
-Terminal=false
 Categories=Application;Education;
 StartupNotify=false
 X-AppInstall-Package=controlaula

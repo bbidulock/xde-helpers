@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=xzgv
 GenericName=Image viewer
@@ -8,7 +6,6 @@ Comment=Browse images in a thumbnail-based file selector
 Icon=xzgv
 TryExec=/usr/bin/xzgv
 Exec=xzgv
-Terminal=false
 Categories=Graphics;RasterGraphics;Viewer;GTK;
 StartupNotify=false
 X-AppInstall-Package=xzgv

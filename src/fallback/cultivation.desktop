@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=cultivation
 Icon=cultivation.xpm
 TryExec=/usr/games/cultivation
 Exec=/usr/games/cultivation
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=cultivation

@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=TkDiff
 Comment=Graphical interface to diff
 Icon=development_tools_section
 TryExec=/usr/bin/tkdiff
 Exec=tkdiff
-Terminal=false
 Categories=Development;RevisionControl;
 StartupNotify=true
 X-AppInstall-Package=tkdiff

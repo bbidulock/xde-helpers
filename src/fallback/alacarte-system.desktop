@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Main Menu - System view
 Name[cs]=Hlavní nabídka - systémový pohled
@@ -43,7 +41,6 @@ Comment[zh_TW]=變更那一個應用程式要顯示在全系統的主選單上
 Icon=alacarte
 TryExec=/usr/bin/alacarte
 Exec=alacarte --system-view=/etc/alacarte_system
-Terminal=false
 NotShowIn=KDE;
 Categories=Settings;DesktopSettings;GNOME;X-SuSE-ControlCenter-LookAndFeel;
 StartupNotify=false

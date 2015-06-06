@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=qRFCView
 GenericName=RFC viewer
@@ -10,7 +8,6 @@ Comment[fr]=Récupère et affiche les RFC
 Icon=qrfcview.png
 TryExec=/usr/bin/qRFCView
 Exec=qRFCView
-Terminal=false
 Categories=Utility;TextTools;Qt;
 StartupNotify=false
 X-AppInstall-Package=qrfcview

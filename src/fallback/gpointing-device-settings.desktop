@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Pointing devices
 Comment=Set your mouse and touchpad preferences
 Icon=input-mouse
 TryExec=/usr/bin/gpointing-device-settings
 Exec=gpointing-device-settings
-Terminal=false
 OnlyShowIn=GNOME;
 Categories=Settings;HardwareSettings;GNOME;GTK;
 StartupNotify=true

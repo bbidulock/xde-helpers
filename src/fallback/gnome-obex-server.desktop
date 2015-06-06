@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GNOME Obex Server
 Name[cs]=GNOME Obex server
@@ -57,8 +55,6 @@ Comment[da]=Modtag filer sendt af Bluetooth-enheder
 Comment[de]=Empfangen von Dateien die von einem Bluetooth-Gerät gesendet werden
 Comment[dz]=བུ་ལུ་ཊུཐ་ཐབས་འཕྲུལ་གིས་གཏང་བའི་ཡིག་སྣོད་ཚུ་ལེན།
 Comment[el]=Λήψη αρχείων σταλμένων από συσκευές Bluetooth
-Comment[en_CA]=Receive files sent by Bluetooth devices
-Comment[en_GB]=Receive files sent by Bluetooth devices
 Comment[es]=Recibir archivos enviados por dispositivos Bluetooth
 Comment[fi]=Vastaanota bluetooth-laitteiden lähettämiä tiedostoja
 Comment[fr]=Reçoit des fichiers de périphériques Bluetooth
@@ -95,7 +91,6 @@ Comment[zh_TW]=接收自藍芽裝置的檔案
 Icon=blueradio-48
 TryExec=/usr/bin/gnome-obex-server
 Exec=gnome-obex-server
-Terminal=false
 Categories=System;Applet;
 StartupNotify=false
 X-GNOME-Bugzilla-Bugzilla=GNOME

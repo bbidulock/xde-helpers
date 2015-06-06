@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Txt Reader
 Name[zh_CN]=Txt Reader 文本阅读器
@@ -11,7 +9,6 @@ Comment[zh_CN]=阅读小说和其他文本文件
 Icon=txtreader
 TryExec=/usr/bin/txtreader
 Exec=txtreader
-Terminal=false
 Categories=Office;Viewer;
 StartupNotify=true
 X-AppInstall-Package=txtreader

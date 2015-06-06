@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GNOME System Monitor Devices
 Comment=View current processes and monitor system state
 Icon=gnome-monitor
 TryExec=/usr/bin/gnome-system-monitor
 Exec=gnome-system-monitor --show-devices
-Terminal=false
 StartupNotify=true
 DocPath=gnome-system-monitor
 X-GNOME-Bugzilla-Bugzilla=GNOME

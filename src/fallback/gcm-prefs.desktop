@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Color Profiles
 Name[cs]=Profily barev
@@ -70,7 +68,6 @@ Comment[zh_CN]=管理 ICC 色彩配置文件
 Icon=gnome-color-manager
 TryExec=/usr/bin/gcm-prefs
 Exec=gcm-prefs
-Terminal=false
 Categories=Settings;X-GNOME-SystemSettings;
 StartupNotify=true
 X-GNOME-Bugzilla-Bugzilla=GNOME

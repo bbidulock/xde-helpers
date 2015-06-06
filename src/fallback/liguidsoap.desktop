@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Liguidsoap
 GenericName=Graphical user interface to liquidsoap
@@ -10,7 +8,6 @@ Comment[fr]=Simple interface graphique pour liquidsoap afin de configurer vos fl
 Icon=liguidsoap.xpm
 TryExec=/usr/bin/liguidsoap
 Exec=liguidsoap
-Terminal=false
 Categories=Audio;
 StartupNotify=false
 X-AppInstall-Package=liguidsoap

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=LibreOffice Draw
 Name[af]=OpenOffice.org Draw
@@ -48,7 +46,6 @@ GenericName[da]=Tegneprogram
 GenericName[de]=Zeichnung
 GenericName[dz]=པར་རིས།
 GenericName[el]=Σχεδιασμός
-GenericName[en]=Drawing Program
 GenericName[en_CA]=Drawing
 GenericName[en_GB]=Drawing
 GenericName[en_ZA]=Drawing
@@ -217,7 +214,6 @@ Comment[zu]=Yenza futhi ulungise imidwebo, amaflowchadi, namalogo ngokusebenzisa
 Icon=libreoffice-draw
 TryExec=/usr/bin/oodraw
 Exec=libreoffice --draw %U
-Terminal=false
 Categories=Graphics;Office;FlowChart;2DGraphics;VectorGraphics;X-MandrivaLinux-Office-Drawing;X-Red-Hat-Base;
 Keywords=Vector;Schema;Diagram;Layout;OpenDocument Graphics;Microsoft Publisher;Corel Draw;cdr;odg;svg;
 MimeType=application/vnd.oasis.opendocument.graphics;application/vnd.oasis.opendocument.graphics-flat-xml;application/vnd.oasis.opendocument.graphics-template;application/vnd.sun.xml.draw;application/vnd.sun.xml.draw.template;application/vnd.visio;application/x-wpg;application/vnd.corel-draw;application/vnd.ms-publisher;image/x-freehand;application/clarisworks;
@@ -231,4 +227,5 @@ Actions=NewDocument;
 
 [Desktop Action NewDocument]
 Name=New Drawing
+TryExec=/usr/bin/libreoffice
 Exec=libreoffice --draw

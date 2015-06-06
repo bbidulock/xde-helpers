@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=ISO Master
 GenericName=ISO File Editor
@@ -12,7 +10,6 @@ Comment[es]=Leer, escribir i modificar imagenes ISO
 Icon=_usr_share_icons_isomaster_isomaster
 TryExec=/usr/bin/isomaster
 Exec=isomaster
-Terminal=false
 Categories=AudioVideo;DiscBurning;
 MimeType=application/x-iso;
 StartupNotify=true

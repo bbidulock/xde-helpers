@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=NetApplet
 Comment=Network monitoring applet
 Icon=/usr/share/libDrakX/pixmaps/connected.png
 TryExec=/usr/bin/net_applet
 Exec=net_applet --force
-Terminal=false
 Categories=System;Monitor;GTK;X-MandrivaLinux-CrossDesktop;
 StartupNotify=false
 X-KDE-autostart-after=kdesktop

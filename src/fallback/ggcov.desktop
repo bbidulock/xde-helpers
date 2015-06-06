@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GGcov
 Comment=Source code coverage browser
 Icon=ggcov64.png
 TryExec=/usr/bin/ggcov
 Exec=ggcov
-Terminal=false
 Categories=Application;Development;
 StartupNotify=false
 X-AppInstall-Package=ggcov

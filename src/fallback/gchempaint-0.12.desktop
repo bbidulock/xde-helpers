@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GChemPaint Chemical Structures Editor
 Name[de]=GChemPaint Chemischer Strukturformeleditor
@@ -19,7 +17,6 @@ Comment[zh_TW]=編輯 2D 化學結構
 Icon=gchempaint
 TryExec=/usr/bin/gchempaint-0.12
 Exec=gchempaint-0.12 %U
-Terminal=false
 Categories=Education;Science;Chemistry;GNOME;GTK;
 MimeType=application/x-gchempaint;chemical/x-cml;chemical/x-pdb;chemical/x-cdx;chemical/x-cdxml;chemical/x-mdl-molfile;chemical/x-ncbi-asn1;chemical/x-ncbi-asn1-binary;chemical/x-ncbi-asn1-xml;
 StartupNotify=false

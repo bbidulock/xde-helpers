@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=soundKonverter
 GenericName=An audio file converter
 Icon=soundkonverter
 TryExec=/usr/bin/soundkonverter
 Exec=soundkonverter %i -caption "%c"
-Terminal=false
 Categories=AudioVideo;AudioVideoEditing;CD;
 StartupNotify=false
 DocPath=soundkonverter/soundkonverter.html

@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Heroes
 Comment=Collect powerups and avoid your opponents' trails
 Icon=heroes
 TryExec=/usr/bin/heroes
 Exec=heroes
-Terminal=false
 Categories=Application;Game;
 StartupNotify=false
 X-AppInstall-Package=heroes

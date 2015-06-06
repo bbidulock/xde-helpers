@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Pictures folder
 Name[af]=Fotolêergids
@@ -22,8 +20,6 @@ Name[da]=Billedemappe
 Name[de]=Bilderordner
 Name[dz]=པར་གྱི་སྣོད་འཛིན།
 Name[el]=Φάκελος εικόνων
-Name[en_CA]=Pictures folder
-Name[en_GB]=Pictures folder
 Name[es]=Carpeta de imágenes
 Name[et]=Pildikataloog
 Name[eu]=Irudiak karpeta
@@ -105,8 +101,6 @@ Comment[da]=Viser et billedeshow af billeder fra din billedemappe
 Comment[de]=Eine Diaschau mit den Bildern aus Ihrem Bilderordner anzeigen
 Comment[dz]=ཁྱོད་རའི་པར་གྱི་སྣོད་འཛིན་ནང་ལས་ བཤུད་བརྙན་ཅིག་ བཀྲམ་སྟོན་འབད།
 Comment[el]=Προβολή μιας παρουσίασης εικόνων του φακέλου των εικόνων σας
-Comment[en_CA]=Display a slideshow from your Pictures folder
-Comment[en_GB]=Display a slideshow from your Pictures folder
 Comment[es]=Muestra una serie de imágenes de su carpeta Imágenes
 Comment[et]=Slaidiesitluse kuvamine Sinu pildikataloogi põhjal
 Comment[eu]=Bistaratu diapositibak Irudien karpetatik
@@ -168,7 +162,6 @@ Comment[zh_TW]=顯示圖片資料夾的幻燈片放映
 Comment[zu]=Bonisa umboniso wama-slide kwifolda yakho Yezithombe
 TryExec=/usr/bin/slideshow
 Exec=slideshow --location=Pictures
-Terminal=false
 OnlyShowIn=GNOME;
 Categories=GNOME;Screensaver;
 StartupNotify=false

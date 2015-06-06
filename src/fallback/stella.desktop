@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Stella
 Comment=A multi-platform Atari 2600 emulator
 Icon=stella.png
 TryExec=/usr/bin/stella
 Exec=stella
-Terminal=false
 Categories=Application;Game;Emulator;
 StartupNotify=false
 X-AppInstall-Package=stella

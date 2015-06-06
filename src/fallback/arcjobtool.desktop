@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=ARC Job Submission Tool
 Name[de]=ARC Jobhochladungswerkzeug
@@ -17,7 +15,6 @@ Comment[sv]=Gridjobbhanteringsverktyg
 Icon=arcjobtool
 TryExec=/usr/bin/arcjobtool
 Exec=arcjobtool
-Terminal=false
 Categories=Network;
 StartupNotify=false
 X-AppInstall-Package=arcjobtool

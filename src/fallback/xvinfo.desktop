@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=X Video Information
 GenericName=XVInfo
@@ -8,7 +6,6 @@ Comment=List X video information
 Icon=xlogo
 TryExec=/usr/bin/xvinfo
 Exec=xvinfo|gxmessage -name xvinfo -font 'Liberation Mono 8' -title 'X Video Information' -file -
-Terminal=false
 Categories=Application;X-X11;X-XTool;
 StartupNotify=false
 StartupWMClass=xvinfo

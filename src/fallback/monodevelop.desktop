@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=MonoDevelop
 GenericName=Integrated Development Environment
@@ -8,7 +6,6 @@ Comment=Develop .NET applications in an Integrated Development Environment
 Icon=monodevelop
 TryExec=/usr/bin/monodevelop
 Exec=monodevelop %F
-Terminal=false
 Categories=Development;IDE;GNOME;GTK;
 MimeType=text/x-csharp;application/x-mds;application/x-mdp;application/x-cmbx;application/x-prjx;application/x-csproj;application/x-vbproj;application/x-sln;application/x-aspx;text/xml;application/xhtml+xml;text/html;text/plain;
 StartupNotify=true

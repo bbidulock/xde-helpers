@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Debian Package Search
 Comment=Search for packages and view package information
 Icon=packagesearch
 TryExec=/usr/bin/packagesearch
 Exec=packagesearch
-Terminal=false
 Categories=Settings;System;PackageManager;Qt;
 StartupNotify=false
 X-AppInstall-Package=packagesearch

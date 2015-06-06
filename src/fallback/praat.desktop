@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Praat Speech Analyzer
 Name[en_GB]=Praat Speech Analyser
@@ -11,7 +9,6 @@ Comment[en_GB]=Analyse, synthesise and manipulate speech
 Icon=praat
 TryExec=/usr/bin/praat
 Exec=praat
-Terminal=false
 Categories=Education;Science;
 StartupNotify=false
 X-AppInstall-Package=praat

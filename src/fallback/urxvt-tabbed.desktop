@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=urxvt (tabbed)
 Comment=An unicode capable and tabbed rxvt clone
 Icon=utilities-terminal
 TryExec=/usr/bin/urxvt-tabbed
 Exec=urxvt-tabbed
-Terminal=false
 Categories=System;TerminalEmulator;
 StartupNotify=false
 X-AppInstall-Package=rxvt-unicode

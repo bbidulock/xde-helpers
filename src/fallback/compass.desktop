@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Compass
 Name[af]=Kompas
@@ -8,7 +6,6 @@ Name[bg]=Компас
 Name[ca]=Compàs
 Name[cs]=Kompas
 Name[cy]=Cwmpawd
-Name[da]=Compass
 Name[de]=Kompass
 Name[el]=Πυξίδα
 Name[es]=Brújula
@@ -62,7 +59,6 @@ Comment[pt_BR]=Este desenha uma bússola com todos os elementos rodando aleatori
 Comment[uk]=Ця програма відображає компас з елементами, що випадково обертаються, створюючи відчуття "втраченості і нудоти". Автор — Jamie Zawinski; 1999.
 TryExec=/usr/bin/compass
 Exec=compass -root
-Terminal=false
 OnlyShowIn=GNOME;
 Categories=Screensaver;
 StartupNotify=false

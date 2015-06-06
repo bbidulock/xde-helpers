@@ -1,11 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Penguin Solitaire
 TryExec=/usr/games/ace-solitaire
 Exec=/usr/games/ace-solitaire
-Terminal=false
 Categories=Game;CardGame;
 StartupNotify=false
 X-AppInstall-Package=ace-of-penguins

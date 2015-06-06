@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=KDE Resources
 Name[af]=KDE Hulpbronne
@@ -155,7 +153,6 @@ Comment[zu]=Hlela Imithombo Ye-KDE
 Icon=date
 TryExec=/usr/bin/kcmshell
 Exec=kcmshell kresources
-Terminal=false
 OnlyShowIn=KDE;
 Categories=KDE;Qt;X-KDE-settings-components;
 Keywords=resources,konnector resource,contact resource,calendar resource,notes resource,imap;

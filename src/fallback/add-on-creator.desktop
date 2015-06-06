@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Add-On Creator
 GenericName=Create Add-On product
 Icon=yast-addon
 TryExec=/sbin/yast2
 Exec=/sbin/yast2 add-on-creator
-Terminal=false
 Categories=Settings;System;Qt;X-SuSE-YaST;X-SuSE-YaST-Misc;
 StartupNotify=true
 X-KDE-HasReadOnlyMode=true

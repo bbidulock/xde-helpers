@@ -1,11 +1,7 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Celtic
 Name[cs]=Keltský
-Name[da]=Celtic
-Name[de]=Celtic
 Name[es]=Céltico
 Name[fi]=Ruutukangas
 Name[fr]=Broderie celtique
@@ -17,7 +13,6 @@ Name[ko]=켈트족
 Name[nl]=Keltisch
 Name[pt]=Céltico
 Name[pt_BR]=Celta
-Name[ro]=Celtic
 Name[ru]=Кельтские мотивы
 Name[uk]=Кельтський
 Name[zh_CN]=静谧
@@ -36,7 +31,6 @@ Comment[pt_BR]=Repetidamente desenha padrões aleatórios de ponto de cruz celta
 Comment[uk]=Повторно малює випадкові кельтські візерунки, що перетинаються. Автор — Max Froumentin; 2005.
 TryExec=/usr/bin/celtic
 Exec=celtic -root
-Terminal=false
 OnlyShowIn=GNOME;
 Categories=Screensaver;
 StartupNotify=false

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Dictionary Reader
 Name[bg]=Речник (Dictionary Reader)
@@ -9,7 +7,6 @@ Comment[bg]=Речник за GNUstep
 Icon=/usr/lib/GNUstep/Applications/DictionaryReader.app/Resources/dict.png
 TryExec=/usr/bin/DictionaryReader
 Exec=DictionaryReader
-Terminal=false
 Categories=Office;Dictionary;TextTools;
 StartupNotify=false
 X-AppInstall-Package=dictionaryreader.app

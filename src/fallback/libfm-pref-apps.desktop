@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Preferred Applications
 Name[ar]=التطبيقات المفضّلة
@@ -12,7 +10,6 @@ Name[cs]=Upřednostňované aplikace
 Name[da]=Foretrukne programmer
 Name[de]=Bevorzugte Anwendungen
 Name[el]=Προτιμώμενες εφαρμογές
-Name[en_GB]=Preferred Applications
 Name[es]=Aplicaciones preferidas
 Name[et]=Eelistatud rakendused
 Name[eu]=Hobetsitako aplikazioak
@@ -83,7 +80,6 @@ Comment[zh_TW]=選取當點擊網頁連結或電郵位址時開啟的應用程�
 Icon=preferences-desktop
 TryExec=/usr/bin/libfm-pref-apps
 Exec=libfm-pref-apps
-Terminal=false
 NotShowIn=GNOME;KDE;XFCE;
 Categories=Settings;DesktopSettings;GTK;X-LXDE-Settings;
 StartupNotify=true

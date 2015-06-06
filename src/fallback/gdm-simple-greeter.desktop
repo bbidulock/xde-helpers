@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Login Window
 Name[af]=Aanmeldvenster
@@ -23,8 +21,6 @@ Name[de]=Anmeldefenster
 Name[dz]=ནང་བསྐྱོད་སྒོ་སྒྲིག
 Name[el]=Παράθυρο εισόδου
 Name[en@shaw]=𐑤𐑪𐑜𐑦𐑯 𐑢𐑦𐑯𐑛𐑴
-Name[en_CA]=Login Window
-Name[en_GB]=Login Window
 Name[eo]=Salutfenestro
 Name[es]=Ventana de inicio de sesión
 Name[et]=Sisselogimisaken
@@ -86,7 +82,6 @@ Name[zh_HK]=登入畫面
 Name[zh_TW]=登入畫面
 TryExec=/usr/lib/gdm/gdm-simple-greeter
 Exec=/usr/lib/gdm/gdm-simple-greeter
-Terminal=false
 OnlyShowIn=GNOME;
 StartupNotify=false
 X-GNOME-Autostart-Notify=true

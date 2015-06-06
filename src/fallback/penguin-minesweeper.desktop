@@ -1,11 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Penguin Minesweeper
 TryExec=/usr/games/ace-minesweeper
 Exec=/usr/games/ace-minesweeper
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=ace-of-penguins

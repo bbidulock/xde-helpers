@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=TkDiff File Comparison
 GenericName=diff frontend
@@ -8,7 +6,6 @@ Comment=TkDiff is a graphical front-end for the standard Unix 'diff' utility.
 Icon=tkdiff
 TryExec=/usr/bin/tkdiff
 Exec=tkdiff
-Terminal=false
 Categories=Development;ProjectManagement;
 StartupNotify=false
 X-AppInstall-Package=tkdiff

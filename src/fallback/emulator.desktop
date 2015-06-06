@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=MESS Game Console Emulator
 GenericName=Game Console Emulator
@@ -8,7 +6,6 @@ Comment=console emulator - Atari, Apple, BBC, Commodore, MSX, ZX Spectrum.
 Icon=normal/GameController
 TryExec=/usr/bin/xmess
 Exec=xmess
-Terminal=false
 Categories=Emulator;
 StartupNotify=false
 X-AfterStep-IndexName=xmess

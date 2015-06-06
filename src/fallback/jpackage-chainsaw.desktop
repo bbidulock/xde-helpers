@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Chainsaw
 Comment=Log4j log viewer
 Icon=chainsaw.png
 TryExec=/usr/bin/chainsaw
 Exec=chainsaw
-Terminal=false
 Categories=Application;Development;GNOME;X-JPackage;
 StartupNotify=false
 X-AppInstall-Package=chainsaw

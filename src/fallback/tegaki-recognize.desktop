@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Tegaki Recognize
 GenericName=Handwriting Recognition
@@ -8,7 +6,6 @@ Comment=Handwriting Recognition
 Icon=tegaki-recognize
 TryExec=/usr/bin/tegaki-recognize
 Exec=/usr/bin/tegaki-recognize
-Terminal=false
 Categories=Utility;
 StartupNotify=false
 X-AppInstall-Package=tegaki-recognize

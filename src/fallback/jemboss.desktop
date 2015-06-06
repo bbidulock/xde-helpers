@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Jemboss
 GenericName=GUI for EMBOSS
@@ -8,7 +6,6 @@ Comment=Graphical user interface for the European Molecular Biology Open Softwar
 Icon=jemboss
 TryExec=/usr/bin/runJemboss.csh
 Exec=runJemboss.csh
-Terminal=false
 Categories=Education;Science;Biology;
 StartupNotify=false
 X-AppInstall-Package=jemboss

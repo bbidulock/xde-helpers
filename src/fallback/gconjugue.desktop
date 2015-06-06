@@ -1,15 +1,11 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GConjugue
-Name[pt_BR]=GConjugue
 Comment=Conjugates Portuguese verbs
 Comment[pt_BR]=Conjuga verbos em português
 Icon=gconjugue.png
 TryExec=/usr/bin/gconjugue
 Exec=gconjugue
-Terminal=false
 Categories=Utility;
 StartupNotify=true
 X-AppInstall-Package=gconjugue

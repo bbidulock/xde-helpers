@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Import Geeqie 1.0alphaX metadata
 Name[ca]=Importa metadades de Geeqie 1.0alphaX
@@ -17,7 +15,6 @@ Name[sr]=Увези метаподатке из Чудака 1.0alphaX
 Name[sv]=Importera metadata från Geeqie 1.0alphaX
 TryExec=/usr/bin/geeqie-import
 Exec=geeqie-import geeqie-1-alpha
-Terminal=false
 OnlyShowIn=X-Geeqie;
 Categories=X-Geeqie;
 StartupNotify=false

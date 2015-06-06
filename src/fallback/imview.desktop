@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Imview Image Viewer
 GenericName=Image Viewer
@@ -9,7 +7,6 @@ Comment[en_GB]=View and analyse scientific images
 Icon=imview
 TryExec=/usr/bin/imview
 Exec=imview
-Terminal=false
 Categories=Education;Graphics;Science;
 StartupNotify=false
 X-AppInstall-Package=imview

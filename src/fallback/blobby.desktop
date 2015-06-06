@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Blobby Volley 2
 GenericName=Volley-Ball Game
 Icon=blobby
 TryExec=/usr/bin/blobby
 Exec=blobby
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=blobby

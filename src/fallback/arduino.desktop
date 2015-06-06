@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Arduino IDE
 GenericName=Create physical computing projects
 Icon=arduino
 TryExec=/usr/bin/arduino
 Exec=arduino
-Terminal=false
 Categories=Development;Electronics;Engineering;
 StartupNotify=false
 X-AppInstall-Package=arduino
@@ -19,4 +16,4 @@ X-Arch-Package-Version=1.6.4-2
 X-Arch-Package-Description=Arduino prototyping platform SDK
 X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://arduino.cc/en/Main/Software
-X-Arch-Package-Votes=396
+X-Arch-Package-Votes=398

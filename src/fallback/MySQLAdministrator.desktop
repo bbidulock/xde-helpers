@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=MySQL Administrator
 Comment=MySQL Administration Tool
 Icon=_usr_share_mysql-gui_MySQLIcon_Admin_48x48
 TryExec=/usr/bin/mysql-admin
 Exec=/usr/bin/mysql-admin
-Terminal=false
 Categories=Application;Development;Database;GTK;
 StartupNotify=false
 X-AppInstall-Package=mysql-admin

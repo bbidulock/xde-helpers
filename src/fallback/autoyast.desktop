@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Autoinstallation
 Name[af]=Outo-installasie
@@ -86,7 +84,6 @@ GenericName[zu]=Isistimu yokuhlela yokuzifaka kohlelo
 Icon=yast-autoyast
 TryExec=/sbin/yast2
 Exec=/sbin/yast2 autoyast
-Terminal=false
 Categories=Settings;System;Qt;X-SuSE-YaST;X-SuSE-YaST-Misc;
 StartupNotify=true
 X-KDE-HasReadOnlyMode=true

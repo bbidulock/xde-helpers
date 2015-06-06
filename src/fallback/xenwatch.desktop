@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=xenwatch
 Comment=watch xen domains
 TryExec=/usr/bin/xenstore
 Exec=xenstore
-Terminal=false
 Categories=System;Utility;GTK;
 StartupNotify=false
 X-AppInstall-Package=xenstore

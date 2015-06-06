@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Appearance
 Name[ast]=Aspeutu
@@ -68,7 +66,6 @@ Comment[zh_CN]=设置桌面外观
 Icon=preferences-desktop-theme
 TryExec=/usr/bin/xfce4-appearance-settings
 Exec=xfce4-appearance-settings
-Terminal=false
 OnlyShowIn=XFCE;
 Categories=Settings;DesktopSettings;X-XFCE;X-XfceSettingsDialog;
 StartupNotify=true

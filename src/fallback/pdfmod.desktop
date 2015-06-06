@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=PDF Mod
 GenericName=PDF Modifier
@@ -47,7 +45,6 @@ Comment[zh_CN]=在 PDF 文档中移除、释放或转动页面
 Icon=pdfmod
 TryExec=/usr/bin/pdfmod
 Exec=pdfmod %U
-Terminal=false
 Categories=Utility;GNOME;GTK;
 MimeType=application/pdf;application/x-bzpdf;application/x-gzpdf;
 StartupNotify=true

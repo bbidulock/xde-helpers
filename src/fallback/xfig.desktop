@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Xfig
 Name[eo]=XDesegno
@@ -108,7 +106,6 @@ Comment[zu]=Iprogremu Yemidwebo
 Icon=xfig
 TryExec=/usr/bin/xfig
 Exec=/usr/bin/xfig %F
-Terminal=false
 Categories=Application;Graphics;
 MimeType=image/fig;image/x-xfig;
 StartupNotify=false

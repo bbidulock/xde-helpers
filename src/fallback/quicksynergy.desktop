@@ -1,15 +1,11 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=QuickSynergy
-Name[fr]=QuickSynergy
 Comment=A graphical interface for easily configuring Synergy
 Comment[fr]=Une interface graphique pour configurer simplement Synergy
 Icon=quicksynergy
 TryExec=/usr/bin/quicksynergy
 Exec=quicksynergy
-Terminal=false
 Categories=Utility;GTK;
 StartupNotify=false
 X-AppInstall-Package=quicksynergy

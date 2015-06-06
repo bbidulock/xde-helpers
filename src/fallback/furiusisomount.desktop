@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Furius ISO Mount
 GenericName=Furius ISO Mount
@@ -9,7 +7,6 @@ Comment[it]=Gestire immagini ISO, IMG, BIN, MDF e NRG
 Icon=furiusisomount
 TryExec=/usr/bin/furiusisomount
 Exec=furiusisomount
-Terminal=false
 Categories=Utility;DiscBurning;
 StartupNotify=true
 X-AppInstall-Package=furiusisomount

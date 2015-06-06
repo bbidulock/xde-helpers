@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Disk Controller
 Name[af]=Skyfbeheerder
@@ -87,7 +85,6 @@ GenericName[zu]=Hlela isilawuli sediski
 Icon=yast-controller
 TryExec=/sbin/yast2
 Exec=/sbin/yast2 controller
-Terminal=false
 Categories=Qt;X-SuSE-YaST;X-SuSE-YaST-Hardware;
 StartupNotify=false
 X-KDE-HasReadOnlyMode=true

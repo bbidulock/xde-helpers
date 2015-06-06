@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=The Bub's Brothers
 GenericName=Bubble Bobble
@@ -10,7 +8,6 @@ Comment[es]=Atrapa los enemigos en burbujas y petalas en este fantastico juego m
 Icon=bubbros
 TryExec=/usr/bin/bubbros
 Exec=bubbros
-Terminal=false
 Categories=Game;ActionGame;
 StartupNotify=false
 X-AppInstall-Package=bubbros

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Krank
 Comment=a little casual game
@@ -8,7 +6,6 @@ Comment[ru]=небольшая казуальная игрушка
 Icon=_usr_share_games_krank_krank
 TryExec=/usr/bin/krank
 Exec=krank
-Terminal=false
 Categories=Game;ArcadeGame;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=krank

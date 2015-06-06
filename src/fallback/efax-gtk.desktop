@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Efax-gtk
 Name[he_IL]=תוכנת פקסים efax-gtk
@@ -11,7 +9,6 @@ Comment[zh_TW]=efax 傳真軟體的 GUI 前端程式
 Icon=stock_send-fax
 TryExec=/usr/bin/efax-gtk
 Exec=efax-gtk
-Terminal=false
 Categories=Office;GTK;
 StartupNotify=false
 X-AppInstall-Package=efax-gtk

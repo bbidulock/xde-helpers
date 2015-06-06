@@ -1,14 +1,6 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Rawstudio
-Name[de]=Rawstudio
-Name[es]=Rawstudio
-Name[it]=Rawstudio
-Name[pl]=Rawstudio
-Name[ru]=Rawstudio
-Name[sv]=Rawstudio
 GenericName=Raw image converter
 GenericName[de]=Ein RAW Bildkonverter
 GenericName[es]=Un convertidor de imágenes raw
@@ -26,7 +18,6 @@ Comment[sv]=Läs, bearbeta och konvertera råbilder från digitalkameror
 Icon=rawstudio
 TryExec=/usr/bin/rawstudio
 Exec=rawstudio %F
-Terminal=false
 Categories=Graphics;Photography;GTK;
 MimeType=image/x-dcraw;
 StartupNotify=true

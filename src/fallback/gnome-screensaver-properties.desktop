@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Screensaver
 Name[af]=Skermskut
@@ -21,7 +19,6 @@ Name[hi]=स्क्रीन सेवर
 Name[hr]=Čuvar ekrana
 Name[hu]=Képernyővédő
 Name[id]=Képernyővédő
-Name[it]=Screensaver
 Name[ja]=スクリーンセーバー
 Name[km]=ធាតុ​រក្សា​អេក្រង់
 Name[ko]=화면 보호기
@@ -109,7 +106,6 @@ Comment[zu]=Shintsha izici zesisitha-sibuko
 Icon=xscreensaver.xpm
 TryExec=/usr/bin/xscreensaver-demo
 Exec=xscreensaver-demo
-Terminal=false
 NotShowIn=GNOME;KDE;
 Categories=Application;Settings;System;DesktopSettings;Security;AdvancedSettings;Screensaver;X-SuSE-ControlCenter-System;
 StartupNotify=false

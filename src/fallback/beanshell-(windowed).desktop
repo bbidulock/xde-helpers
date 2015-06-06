@@ -1,10 +1,7 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=BeanShell (windowed)
 TryExec=/usr/bin/xbsh
 Exec=xbsh
-Terminal=false
 Categories=Programming;
 StartupNotify=false

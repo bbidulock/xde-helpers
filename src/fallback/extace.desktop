@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Extace Waveform Display
 Name[es]=Extace
@@ -17,7 +15,6 @@ Comment[pt]=Visualização gráfica das ondas sonoras
 Icon=extace.png
 TryExec=/usr/bin/extace
 Exec=extace
-Terminal=false
 StartupNotify=false
 X-AppInstall-Package=extace
 X-AppInstall-Popcon=8

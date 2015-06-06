@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=xmlink
 GenericName=mlink game
 Icon=_usr_share_pixmaps_xmlink.m
 TryExec=/usr/games/xmlink
 Exec=/usr/games/xmlink
-Terminal=false
 Categories=Game;
 StartupNotify=false
 X-AppInstall-Package=xpuzzles

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Desktop Effects
 Name[as]=ডেষ্কট'পৰ গুণ
@@ -37,7 +35,6 @@ Name[pa]=ਵੇਹੜਾ ਪਰਭਾਵ
 Name[pl]=Efekty pulpitu
 Name[pt]=Efeitos do Ambiente de Trabalho
 Name[pt_BR]=Efeitos da área de trabalho
-Name[ro]=Desktop Effects
 Name[ru]=Эффекты рабочего стола
 Name[si]=ඩෙස්ක්ටොප් රංග සැරසිලි
 Name[sk]=Efekty pracovného prostredia
@@ -101,7 +98,6 @@ Comment[zh_TW]=選擇桌面特效
 Icon=desktop-effects
 TryExec=/usr/bin/desktop-effects
 Exec=desktop-effects
-Terminal=false
 OnlyShowIn=GNOME;
 Categories=Settings;DesktopSettings;GNOME;GTK;
 StartupNotify=true

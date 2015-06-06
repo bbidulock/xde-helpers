@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=projectM PulseAudio Visualization
 GenericName=PulseAudio Stream Visualization
@@ -8,7 +6,6 @@ Comment=Visualization of PulseAudio streams with projectM
 Icon=prjm16-transparent
 TryExec=/usr/bin/projectM-pulseaudio
 Exec=projectM-pulseaudio
-Terminal=false
 Categories=AudioVideo;Audio;
 StartupNotify=false
 X-AppInstall-Package=projectm-pulseaudio

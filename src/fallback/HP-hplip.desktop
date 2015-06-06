@@ -1,6 +1,5 @@
 [Desktop Entry]
 Version=0.6
-Encoding=UTF-8
 Type=Application
 Name=HP Device Manager
 GenericName=HP Device Manager
@@ -8,7 +7,6 @@ Comment=View device status, ink levels and perform maintenance.
 Icon=/usr/share/hplip/data/images/HPmenu.png
 TryExec=/usr/share/hplip/toolbox
 Exec=/usr/share/hplip/toolbox
-Terminal=false
 Hidden=true
 Categories=Application;Utility;X-Red-Hat-Extra;
 StartupNotify=false

@@ -1,10 +1,6 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Subtitle Composer
-Name[es]=Subtitle Composer
-Name[fr]=Subtitle Composer
 GenericName=Subtitle Editor
 GenericName[es]=Editor de subtítulos
 GenericName[fr]=Éditeur de sous-titres
@@ -14,7 +10,6 @@ Comment[fr]=Éditeur de sous-titres pour KDE
 Icon=subtitlecomposer
 TryExec=/usr/bin/subtitlecomposer
 Exec=subtitlecomposer %f -caption "%c"
-Terminal=false
 Categories=AudioVideo;KDE;Qt;
 MimeType=text/x-ssa;text/x-ass;text/x-microdvd;text/x-mpsub;application/x-subrip;text/x-subviewer;text/x-mplsub;text/x-tmplayer;text/x-tmplayer+;
 StartupNotify=false

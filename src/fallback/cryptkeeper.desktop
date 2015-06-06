@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Cryptkeeper
 Icon=cryptkeeper
 TryExec=/usr/bin/cryptkeeper
 Exec=cryptkeeper
-Terminal=false
 Categories=System;Security;GTK;
 StartupNotify=false
 X-AppInstall-Package=cryptkeeper
@@ -19,4 +16,4 @@ X-Arch-Package-Version=0.9.5-5
 X-Arch-Package-Description=A Linux system tray applet that manages EncFS encrypted
 X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://tom.noflag.org.uk/cryptkeeper.html
-X-Arch-Package-Votes=94
+X-Arch-Package-Votes=95

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Galculator
 Comment=Perform simple and scientific calculations
@@ -13,7 +11,6 @@ Comment[sk]=Kalkulačka na jednoduché i vedecké výpočty
 Icon=galculator
 TryExec=/usr/bin/galculator
 Exec=galculator
-Terminal=false
 Categories=Utility;
 StartupNotify=true
 X-AppInstall-Package=galculator

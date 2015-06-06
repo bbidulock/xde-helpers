@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=AutoKey (GTK)
 GenericName=Keyboard Automation
@@ -8,7 +6,6 @@ Comment=Program keyboard shortcuts
 Icon=_usr_share_pixmaps_akicon
 TryExec=/usr/bin/autokey-gtk
 Exec=autokey-gtk
-Terminal=false
 Categories=Utility;GNOME;
 StartupNotify=false
 X-AppInstall-Package=autokey-gtk

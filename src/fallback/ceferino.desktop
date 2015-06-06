@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Ceferino
 GenericName=ceferino
@@ -8,7 +6,6 @@ Comment=Save the cows!
 Icon=ceferino
 TryExec=/usr/bin/ceferino
 Exec=ceferino
-Terminal=false
 Categories=Game;ActionGame;
 StartupNotify=false
 X-AppInstall-Package=ceferino

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GNU PSPP
 GenericName=Statistical Software
@@ -10,7 +8,6 @@ Comment[de]=Statistische Daten mit einer freien Alternative zu SPSS analysieren
 Icon=pspp.png
 TryExec=/usr/bin/psppire
 Exec=psppire %F
-Terminal=false
 Categories=Education;Science;Math;GTK;
 StartupNotify=false
 X-AppInstall-Package=pspp

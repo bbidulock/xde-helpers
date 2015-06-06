@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gtranslator PO Editor
 Name[ar]=مترجم‌ج - محرر PO
@@ -9,7 +7,6 @@ Name[cs]=Editor PO Gtranslator
 Name[da]=Gtranslator - po-redigering
 Name[de]=Gtranslator Anwendungsübersetzer
 Name[el]=Επεξεργαστής αρχείων PO (Gtranslator)
-Name[en_GB]=Gtranslator PO Editor
 Name[es]=Editor de PO Gtranslator
 Name[eu]=Gtranslator PO-en editorea
 Name[fi]=Gtranslator po-muokkain
@@ -68,7 +65,6 @@ Comment[zh_TW]=進行應用程式與函式庫的翻譯與本地化
 Icon=gtranslator
 TryExec=/usr/bin/gtranslator
 Exec=gtranslator
-Terminal=false
 Categories=Development;Translation;GNOME;GTK;
 MimeType=text/x-gettext-translation;text/x-gettext-translation-template;
 StartupNotify=true

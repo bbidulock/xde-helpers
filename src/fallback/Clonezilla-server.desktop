@@ -1,25 +1,15 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Clonezilla server
-Name[en]=Clonezilla server
-Name[es]=Clonezilla server
-Name[fr]=Clonezilla server
-Name[it]=Clonezilla server
 Name[ja]=Clonezilla サーバ
 Name[zh_CN]=再生龙服务器版
 Name[zh_TW]=再生龍伺服器版
 GenericName=Clonezilla server edition
-GenericName[en]=Clonezilla server edition
-GenericName[es]=Clonezilla server edition
-GenericName[fr]=Clonezilla server edition
 GenericName[it]=Clonezilla edizione server
 GenericName[ja]=Clonezilla サーバエディッション
 GenericName[zh_CN]=启动再生龙服务器版
 GenericName[zh_TW]=啟動再生龍伺服器版
 Comment=Start Clonezilla server edition
-Comment[en]=Start Clonezilla server edition
 Comment[es]=Arrancar Clonezilla server edition
 Comment[fr]=Lancer Clonezilla server edition
 Comment[it]=Avvio di Clonezilla edizione server

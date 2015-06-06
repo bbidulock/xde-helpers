@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GNUmed
 GenericName=Electronic Medical Record
@@ -8,7 +6,6 @@ Comment=Paperless Medical Record and Practice Management
 Icon=gnumed
 TryExec=/usr/bin/gnumed
 Exec=/usr/bin/gnumed
-Terminal=false
 Categories=Office;MedicalSoftware;
 StartupNotify=false
 X-AppInstall-Package=gnumed-client

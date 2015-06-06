@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Input Method Switcher
 Name[ja]=入力メソッド切換器
@@ -17,7 +15,6 @@ Comment[zh_TW]=設定鍵盤輸入模式
 Icon=input-keyboard
 TryExec=/usr/bin/im-switch
 Exec=im-switch
-Terminal=false
 Categories=Settings;
 StartupNotify=false
 X-AppInstall-Package=im-switch

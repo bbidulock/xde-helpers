@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Qt V4L2 test Utility
 Name[pt]=Utilitário de teste V4L2
@@ -9,7 +7,6 @@ Comment[pt]=Permite testar dispositivos Video4Linux
 Icon=qv4l2
 TryExec=/usr/bin/qv4l2
 Exec=qv4l2
-Terminal=false
 Categories=AudioVideo;
 Keywords=video;grabber;V4L;
 StartupNotify=false

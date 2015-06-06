@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=VDR X-Frontend
 Comment=VDR Xineliboutput Client - X-Frontend
 Icon=_usr_share_icons_xineliboutput-sxfe
 TryExec=/usr/bin/vdr-sxfe
 Exec=vdr-sxfe --lirc
-Terminal=false
 Categories=AudioVideo;Video;TV;Player;
 StartupNotify=false
 X-AppInstall-Package=xineliboutput-sxfe

@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Literki
 Comment=Hacker's keyboard
 Icon=literki
 TryExec=/usr/bin/literki
 Exec=literki
-Terminal=false
 Categories=Application;Utility;
 MimeType=text/x-vcard;
 StartupNotify=true

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=KMess
 GenericName=Live Messenger Client
@@ -67,7 +65,6 @@ Comment[nl]=MSN Messenger Kloon voor KDE 4
 Icon=kmess
 TryExec=/usr/bin/kmess
 Exec=kmess -caption "%c" %i
-Terminal=false
 Categories=Network;InstantMessaging;KDE;Qt;
 StartupNotify=false
 DocPath=kmess/index.html

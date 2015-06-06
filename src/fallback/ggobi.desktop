@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GGobi
 GenericName=Data Analysis Tool
@@ -8,7 +6,6 @@ Comment=Multivariate interactive graphics for exploratory data analysis
 Icon=ggobi.png
 TryExec=/usr/bin/ggobi
 Exec=ggobi
-Terminal=false
 Categories=Graphics;2DGraphics;
 MimeType=text/comma-separated-values;text/csv;application/csv;
 StartupNotify=false

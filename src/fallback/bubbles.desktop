@@ -1,11 +1,8 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Bubbles
 Name[cs]=Bubliny
 Name[cy]=Swigod
-Name[da]=Bubbles
 Name[de]=Blasen
 Name[es]=Burbujas
 Name[et]=Mullid
@@ -14,7 +11,6 @@ Name[fr]=Bulles
 Name[hr]=Mjehuri
 Name[hu]=Buborékok
 Name[it]=Bolle
-Name[ja]=Bubbles
 Name[km]=ពពុះ
 Name[ko]=거품
 Name[mk]=Меурчиња
@@ -43,7 +39,6 @@ Comment[pt_BR]=Esse simula o tipo de formação de bolha que acontece quando a �
 Comment[uk]=Ця програма імітує спосіб, у який відбувається формування бульбашок у воді що кипить:спочатку з’язвляються малі бульбашки, які згодом наближаються одна до одної, а потім формують більшу бульбашку, яка нарешті спливає. Автор — James Macnicol; 1996.
 TryExec=/usr/bin/bubbles
 Exec=bubbles -root
-Terminal=false
 OnlyShowIn=GNOME;
 Categories=Screensaver;
 StartupNotify=false

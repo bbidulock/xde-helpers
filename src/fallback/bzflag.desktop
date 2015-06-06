@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=BZFlag
 GenericName=Tank Battle Game
@@ -8,7 +6,6 @@ Comment=Battle enemy tanks
 Icon=bzflag-48x48
 TryExec=/usr/games/bzflag
 Exec=/usr/games/bzflag
-Terminal=false
 Categories=Game;3DGraphics;ActionGame;
 StartupNotify=false
 X-AppInstall-Package=bzflag

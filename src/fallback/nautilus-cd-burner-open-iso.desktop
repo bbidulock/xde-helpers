@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=CD/DVD Creator
 Name[ar]=منشئ CD/DVD
@@ -16,8 +14,6 @@ Name[da]=Cd/dvd-brænder
 Name[de]=CD/DVD-Ersteller
 Name[dz]=སི་ཌི་/ཌི་བི་ཌི་ གསར་བསྐྲུན་པ།
 Name[el]=Δημιουργός CD/DVD
-Name[en_CA]=CD/DVD Creator
-Name[en_GB]=CD/DVD Creator
 Name[es]=Creador de CD/DVD
 Name[et]=CD/DVD-kirjutaja
 Name[eu]=CD/DVD sortzailea
@@ -88,8 +84,6 @@ Comment[da]=Åbn cd/dvd-brænderen
 Comment[de]=CD/DVD-Ersteller öffnen
 Comment[dz]=སི་ཌི་/ཌི་བི་ཌི་ གསར་བསྐྲུན་པ་ཁ་ཕྱེ།
 Comment[el]=Άνοιγμα του δημιουργού CD/DVD
-Comment[en_CA]=Open the CD/DVD Creator
-Comment[en_GB]=Open the CD/DVD Creator
 Comment[es]=Abre el creador de CD/DVD
 Comment[et]=CD/DVD-kirjutaja avamine
 Comment[eu]=Ireki CD/DVD sortzailea
@@ -147,7 +141,6 @@ Comment[zh_TW]=開啟 CD/DVD 製作程式
 Icon=nautilus-cd-burner
 TryExec=/usr/bin/nautilus-cd-burner
 Exec=nautilus-cd-burner --source-iso=%f
-Terminal=false
 NoDisplay=true
 OnlyShowIn=GNOME;
 Categories=Core;GNOME;

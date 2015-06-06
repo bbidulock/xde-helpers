@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GeoGebra
 GenericName=Dynamic mathematics software
@@ -21,7 +19,6 @@ Comment[pt_BR]=Crie construções matemáticas interativas e applets.
 Icon=geogebra.png
 TryExec=/usr/bin/geogebra
 Exec=geogebra
-Terminal=false
 Categories=Education;Math;
 MimeType=application/vnd.geogebra.file;application/vnd.geogebra.tool;
 StartupNotify=true

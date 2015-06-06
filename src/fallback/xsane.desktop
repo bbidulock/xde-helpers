@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=XSane Image scanning program
 Name[af]=xsane
@@ -81,7 +79,6 @@ Comment[ru]=Программа для работы со сканером. Мож
 Icon=xsane
 TryExec=/usr/bin/xsane
 Exec=xsane
-Terminal=false
 Categories=Graphics;RasterGraphics;Scanning;OCR;GTK;
 StartupNotify=true
 X-AppInstall-Package=xsane

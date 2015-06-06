@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Lexmark printer manager
 Comment=Status, alignment, cartridge maintenance
 Icon=z42tool
 TryExec=/usr/bin/z42tool
 Exec=z42tool
-Terminal=false
 Categories=System;Monitor;
 StartupNotify=false

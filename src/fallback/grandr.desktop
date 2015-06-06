@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Multiple screens
 Comment=Configure multiple screens
 Icon=display-capplet.png
 TryExec=/usr/bin/grandr
 Exec=grandr
-Terminal=false
 OnlyShowIn=GNOME;
 Categories=Settings;System;HardwareSettings;GNOME;GTK;
 StartupNotify=true

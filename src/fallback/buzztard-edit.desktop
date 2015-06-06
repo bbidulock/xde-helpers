@@ -1,6 +1,5 @@
 [Desktop Entry]
 Version=0.5.0
-Encoding=UTF-8
 Type=Application
 Name=Buzztard Music Editor
 Name[de]=Buzztard Musik Editor
@@ -13,7 +12,6 @@ Comment[nn]=Redigerer buzztard-songfiler
 Icon=/usr/share/buzztard/pixmaps/buzztard
 TryExec=/usr/bin/buzztard-edit
 Exec=buzztard-edit --command=load --input-file=%f
-Terminal=false
 Categories=AudioVideo;Audio;Sequencer;GNOME;GTK;
 MimeType=audio/x-bzt;audio/x-bzt-xml;
 StartupNotify=false

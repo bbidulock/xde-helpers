@@ -1,12 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=ScreenLock
 Name[es]=Bloqueo de pantalla
 Name[pt_BR]=Bloquear tela
 Name[ru]=Блокировка экрана
-Name[tr]=ScreenLock
 Name[uk]=Блокування екрану
 Name[zh_TW]=鎖住螢幕
 Comment=Lock your screen
@@ -18,7 +15,6 @@ Comment[uk]=Заблокувати екран
 Icon=system-lock-screen
 TryExec=/usr/bin/lxlock
 Exec=lxlock
-Terminal=false
 NoDisplay=true
 StartupNotify=false
 X-AppInstall-Package=lxsession

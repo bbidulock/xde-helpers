@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=PyMOL Molecular Graphics System
 Name[pl]=PyMOL, graficzny modeler cząsteczek
@@ -11,7 +9,6 @@ Comment[pl]=Program do tworzenia i wizualizowania modeli cząsteczek
 Icon=pymol
 TryExec=/usr/bin/pymol
 Exec=pymol
-Terminal=false
 Categories=Education;Science;Chemistry;
 MimeType=chemical/x-pdb;
 StartupNotify=false

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Adobe Flash Player
 Comment=Preferences for Adobe Flash Player
@@ -21,7 +19,6 @@ Comment[sv]=Inställningar för Adobe Flash Player
 Icon=flash-player-properties
 TryExec=/usr/bin/flash-player-properties
 Exec=flash-player-properties
-Terminal=false
 NotShowIn=KDE;
 Categories=Settings;GNOME;GTK;X-GNOME-PersonalSettings;
 StartupNotify=true

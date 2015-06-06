@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Peg-E
 Comment=Peg elimination game
 Icon=peg-e
 TryExec=/usr/bin/peg-e
 Exec=peg-e
-Terminal=false
 Categories=Game;Qt;
 StartupNotify=false
 X-AppInstall-Package=peg-e

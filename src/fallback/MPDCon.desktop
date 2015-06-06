@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=MPDCon
 Name[bg]=Клиент за MPD (MPDCon)
@@ -9,7 +7,6 @@ Comment[bg]=MPD клиент за GNUstep
 Icon=/usr/lib/GNUstep/Applications/MPDCon.app/Resources/MPDCon.tiff
 TryExec=/usr/bin/MPDCon
 Exec=MPDCon
-Terminal=false
 Categories=AudioVideo;Audio;Player;
 StartupNotify=false
 X-AppInstall-Package=mpdcon

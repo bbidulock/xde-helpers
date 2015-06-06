@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Xpdf
 Name[af]=X Pdf
@@ -131,7 +129,6 @@ Comment=Views Adobe PDF (acrobat) files
 Icon=xpdf
 TryExec=/usr/bin/xpdf
 Exec=xpdf %f
-Terminal=false
 Categories=Office;Viewer;
 MimeType=application/pdf;
 StartupNotify=false

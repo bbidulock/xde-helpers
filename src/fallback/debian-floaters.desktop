@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Floating Debian
 Name[de]=Schwebendes Debian
@@ -16,7 +14,6 @@ Comment[pt]=Logotipos espiral Debian flutuando pelo écran
 Comment[sv]=Debianvirveln flyter runt på skärmen
 TryExec=/usr/bin/floaters
 Exec=/usr/lib/gnome-screensaver/gnome-screensaver/floaters /usr/share/pixmaps/debian-swirl-logo.svg
-Terminal=false
 OnlyShowIn=GNOME;
 Categories=GNOME;Screensaver;
 StartupNotify=false

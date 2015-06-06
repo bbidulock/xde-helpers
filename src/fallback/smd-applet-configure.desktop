@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Sync Mail Dir
 Name[it]=Sincronizzazione Maildir
@@ -9,7 +7,6 @@ Comment[it]=Configura Sync Mail Dir
 Icon=mail-send-receive
 TryExec=/usr/bin/smd-applet
 Exec=smd-applet --configure
-Terminal=false
 Categories=Settings;Email;GNOME;GTK;
 StartupNotify=false
 X-AppInstall-Package=syncmaildir-applet

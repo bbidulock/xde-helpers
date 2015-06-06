@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=System Shutdown Dialog
 Comment=Prompt the user to shutdown their computer
 Icon=system-shutdown
 TryExec=/usr/bin/gnome-session-save
 Exec=gnome-session-save --shutdown-dialog
-Terminal=false
 Hidden=true
 OnlyShowIn=GNOME;
 Categories=System;SystemSetup;

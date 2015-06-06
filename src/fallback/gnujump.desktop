@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GNUjump
 Comment=Jump up the tower to survive
 Icon=gnujump.png
 TryExec=/usr/bin/gnujump
 Exec=gnujump
-Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=gnujump

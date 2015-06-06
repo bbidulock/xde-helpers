@@ -1,12 +1,10 @@
 [Desktop Entry]
 Version=0.94
-Encoding=UTF-8
 Type=Application
 Name=Gomoku.app
 Comment=GNUstep Gomoku Game
 TryExec=/usr/bin/Gomoku
 Exec=Gomoku
-Terminal=false
 Categories=Game;BoardGame;
 StartupNotify=false
 X-AppInstall-Package=gomoku.app

@@ -1,10 +1,7 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Twisted SSH Client
 TryExec=/usr/bin/tkconch
 Exec=tkconch
-Terminal=false
 Categories=Network;RemoteAccess;
 StartupNotify=false

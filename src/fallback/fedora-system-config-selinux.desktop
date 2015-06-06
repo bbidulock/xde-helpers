@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=SELinux Management
 GenericName=SELinux
@@ -8,7 +6,6 @@ Comment=Configure SELinux in a graphical setting
 Icon=/usr/share/system-config-selinux/system-config-selinux.png
 TryExec=/usr/bin/system-config-selinux
 Exec=/usr/bin/system-config-selinux
-Terminal=false
 Categories=Settings;System;Security;
 StartupNotify=true
 X-Desktop-File-Install-Version=0.15

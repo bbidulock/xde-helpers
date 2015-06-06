@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Wormux
 GenericName=Arcade Game
@@ -14,7 +12,6 @@ Comment[ro_RO]=Un joc în 2D în care personaje amuzante lansează arme amuzante
 Icon=wormux_128x128.xpm
 TryExec=/usr/bin/wormux
 Exec=wormux
-Terminal=false
 Categories=Game;ActionGame;
 StartupNotify=false
 X-AppInstall-Package=wormux

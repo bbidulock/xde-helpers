@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Ink Text Editor
 Name[bg]=Текстов редактор (Ink)
@@ -9,7 +7,6 @@ Comment[bg]=Примерен текстов редактор за GNUstep
 Icon=/usr/lib/GNUstep/Applications/Ink.app/Resources/Ink_app.tiff
 TryExec=/usr/bin/Ink
 Exec=Ink
-Terminal=false
 Categories=Utility;TextEditor;
 StartupNotify=false
 X-AppInstall-Package=gnustep-examples

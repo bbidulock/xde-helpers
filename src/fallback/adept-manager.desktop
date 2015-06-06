@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Adept Manager
 Name[bg]=Управление на Adept
@@ -71,7 +69,6 @@ Comment[xx]=xxManage installed and available softwarexx
 Icon=applications-other
 TryExec=/usr/bin/adept
 Exec=adept manager
-Terminal=false
 OnlyShowIn=KDE;
 Categories=System;PackageManager;KDE;Qt;
 StartupNotify=false

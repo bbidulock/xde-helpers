@@ -1,13 +1,11 @@
 [Desktop Entry]
 Version=0.9.4
-Encoding=UTF-8
 Type=Application
 Name=Pygmy
 Comment=GTK+ MPD client
 Icon=pygmy
 TryExec=/usr/bin/pygmy
 Exec=pygmy
-Terminal=false
 Categories=Application;AudioVideo;Player;GTK;
 StartupNotify=true
 X-AppInstall-Package=pygmy

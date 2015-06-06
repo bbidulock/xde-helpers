@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=LaTeXDraw
 GenericName=Vector graphics editor for PSTricks
@@ -8,7 +6,6 @@ Comment=Graphical editor for PSTricks
 Icon=_usr_share_pixmaps_latexdraw32
 TryExec=/usr/bin/latexdraw
 Exec=latexdraw %f
-Terminal=false
 Categories=Graphics;VectorGraphics;
 MimeType=image/svg+xml;application/x-latexdraw-project;
 StartupNotify=false

@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=About Mageia
 Comment=More about Mageia
 Icon=mageia
 TryExec=/usr/bin/about-mageia
 Exec=about-mageia
-Terminal=false
 NoDisplay=true
 Categories=System;Documentation;
 StartupNotify=false

@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=20.000 Light Years Into Space
 GenericName=Steampunk RTS Game
@@ -9,7 +7,6 @@ Comment[ca]=Creeu una xarxa de subministrament d'energia per a la ciutat i evite
 Icon=lightyears
 TryExec=/usr/bin/lightyears
 Exec=lightyears
-Terminal=false
 Categories=Game;
 StartupNotify=false
 X-AppInstall-Package=lightyears

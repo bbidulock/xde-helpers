@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=BlueWho
 Comment=Information and notification of new discovered bluetooth devices
@@ -8,7 +6,6 @@ Comment[it_IT]=Informazioni e notifica dei nuovi dispositivi bluetooth rilevati
 Icon=_usr_share_bluewho_data_bluewho
 TryExec=/usr/bin/bluewho
 Exec=/usr/bin/bluewho
-Terminal=false
 Categories=Utility;GTK;
 StartupNotify=false
 X-AppInstall-Package=bluewho

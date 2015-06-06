@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=GtkAtlantic
 GenericName=Monopd network client
@@ -8,7 +6,6 @@ Comment=Connect to a Monopd server
 Icon=gtkatlantic
 TryExec=/usr/bin/gtkatlantic
 Exec=gtkatlantic
-Terminal=false
 Categories=Game;BoardGame;
 StartupNotify=false
 X-AppInstall-Package=gtkatlantic

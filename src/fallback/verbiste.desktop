@@ -1,15 +1,11 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Verbiste
-Name[fr]=Verbiste
 Comment=French conjugation system
 Comment[fr]=Système de conjugaison française
 Icon=verbiste.png
 TryExec=/usr/bin/verbiste
 Exec=verbiste
-Terminal=false
 Categories=Office;Dictionary;
 StartupNotify=false
 X-AppInstall-Package=verbiste-gnome

@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Zaz
 Comment=Zaz ain't Z***
 Icon=zaz.xpm
 TryExec=/usr/bin/zaz
 Exec=zaz
-Terminal=false
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=zaz

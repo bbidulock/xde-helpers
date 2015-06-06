@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Change Password
 Name[af]=Verander Wagwoord
@@ -20,7 +18,6 @@ Name[cy]=Newid Cyfrinair
 Name[da]=Skift adgangskode
 Name[de]=Passwort ändern
 Name[el]=Αλλαγή κωδικού πρόσβασης
-Name[en_GB]=Change Password
 Name[eo]=Ŝanĝi la pasvorton
 Name[es]=Cambiar la contraseña
 Name[et]=Parooli muutmine
@@ -94,7 +91,6 @@ Icon=preferences-desktop-user-password
 TryExec=/usr/bin/kdepasswd
 Exec=kdepasswd
 X-DBUS-StartupType=Unique
-Terminal=false
 Categories=Settings;KDE;Qt;
 StartupNotify=false
 X-AppInstall-Package=kdepasswd

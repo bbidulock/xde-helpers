@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Ardour GTK2
 Comment=Ardour Digital Audio Workstation (GTK2 Interface)
 Icon=_usr_share_ardour2_icons_ardour_icon_22px
 TryExec=/usr/bin/ardour2
 Exec=/usr/bin/ardour2
-Terminal=false
 Categories=AudioVideo;Audio;
 MimeType=application/x-ardour;
 StartupNotify=false

@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Gnome-RDP
 GenericName=Remote Desktop Client
 Icon=gnome-rdp
 TryExec=/usr/bin/gnome-rdp
 Exec=gnome-rdp
-Terminal=false
 Categories=Network;RemoteAccess;
 StartupNotify=true
 X-GNOME-Bugzilla-Bugzilla=GNOME

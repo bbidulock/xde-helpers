@@ -1,6 +1,4 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=gpsk31
 Comment=psk31 program for hamradio operators
@@ -8,7 +6,6 @@ Comment[nl]=psk31 programma voor zendamateurs
 Icon=gpsk31.png
 TryExec=/usr/bin/gpsk31
 Exec=gpsk31
-Terminal=false
 Categories=Network;HamRadio;
 StartupNotify=false
 X-AppInstall-Package=gpsk31

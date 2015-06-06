@@ -1,13 +1,10 @@
 [Desktop Entry]
-Version=1.0
-Encoding=UTF-8
 Type=Application
 Name=Referencer
 Comment=Document organiser
 Icon=referencer
 TryExec=/usr/bin/referencer
 Exec=referencer %F
-Terminal=false
 Categories=Application;Office;GNOME;
 MimeType=application/x-referencer;
 StartupNotify=true
