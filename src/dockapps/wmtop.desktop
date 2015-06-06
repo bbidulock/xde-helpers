@@ -24,8 +24,10 @@ Action=Neon;LCD;
 
 [Desktop Action Neon]
 Name=Neon pixmap
+TryExec=/usr/bin/wmtop
 Exec=wmtop -a 1
 
 [Desktop Action LCD]
 Name=Liquid Crystal Display pixmap
+TryExec=/usr/bin/wmtop
 Exec=wmtop -a 2

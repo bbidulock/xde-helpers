@@ -24,16 +24,20 @@ Actions=CPU1;CPU2;CPU3;CPU4;
 
 [Desktop Action CPU1]
 Name=CPU Load Monitor (CPU1)
+TryExec=/usr/bin/wmcpumon
 Exec=wmcpumon -c 1 -s
 
 [Desktop Action CPU2]
 Name=CPU Load Monitor (CPU2)
+TryExec=/usr/bin/wmcpumon
 Exec=wmcpumon -c 2 -s
 
 [Desktop Action CPU3]
 Name=CPU Load Monitor (CPU3)
+TryExec=/usr/bin/wmcpumon
 Exec=wmcpumon -c 3 -s
 
 [Desktop Action CPU4]
 Name=CPU Load Monitor (CPU4)
+TryExec=/usr/bin/wmcpumon
 Exec=wmcpumon -c 4 -s
