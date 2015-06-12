@@ -2,9 +2,9 @@
 Type=Application
 Name=Freedroid RPG
 Comment=Isometric role playing game
-Icon=_usr_share_pixmaps_freedroidrpg
-TryExec=/usr/games/freedroidRPG
-Exec=/usr/games/freedroidRPG
+Icon=freedroidrpg
+TryExec=/usr/bin/freedroidRPG
+Exec=freedroidRPG
 Categories=Game;RolePlaying;
 StartupNotify=false
 X-AppInstall-Package=freedroidrpg

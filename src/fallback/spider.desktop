@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Penguin Spider
+Comment=Solitary card-game
+Icon=cards
+TryExec=/usr/bin/spider
+Exec=/usr/bin/spider
+Categories=Game;BoardGame;
+X-AppInstall-Package=ace-of-penguins
+X-AppInstall-Section=custom
+X-Arch-Package=ace-of-penguins 1.4-2
+X-Arch-Package-Repository=custom
+X-Arch-Package-Name=ace-of-penguins
+X-Arch-Package-Version=1.4-2
+X-Arch-Package-Description=A set of Unix/X solitaire games.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.delorie.com/store/ace/

@@ -22,4 +22,3 @@ X-Arch-Package-Version=4.3.039-1
 X-Arch-Package-Description=The GNU Bourne Again shell
 X-Arch-Package-Groups=base
 X-Arch-Package-URL=http://www.gnu.org/software/bash/bash.html
-TrhExec=bash

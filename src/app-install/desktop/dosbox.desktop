@@ -7,6 +7,7 @@ Name[it]=DOSBox emulatore
 Name[nl]=DOSBox Simulator
 Name[ru]=Эмулятор DOSBox
 Name[ua]=Емулятор DOSBox
+GenericName=Emulator
 Comment=Run old DOS applications
 Comment[ca]=Executeu antigues aplicacions DOS
 Comment[de]=Ein Emulator für alte DOS programe

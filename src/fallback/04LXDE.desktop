@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=LXDE
+Comment=LXDE
+TryExec=/usr/bin/startlxde
+Exec=/usr/share/X11/xdm/Xsession LXDE
+StartupNotify=false
+X-AppInstall-Package=lxde-common
+X-AppInstall-Section=community
+X-Arch-Package=lxde-common 0.99.0-2
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=lxde-common
+X-Arch-Package-Version=0.99.0-2
+X-Arch-Package-Description=Common files of the LXDE Desktop
+X-Arch-Package-Groups=lxde
+X-Arch-Package-URL=http://lxde.org/

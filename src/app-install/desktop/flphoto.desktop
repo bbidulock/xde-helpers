@@ -1,7 +1,8 @@
 [Desktop Entry]
 Type=Application
-Name=flPhoto
-Comment=FLTK Photo Album
+Name=FLPhoto
+GenericName=Photo Album
+Comment=All you need for the photos from your digital camera
 Icon=flphoto
 TryExec=/usr/bin/flphoto
 Exec=flphoto %F
@@ -10,7 +11,7 @@ MimeType=application/x-flphoto;
 Patterns=*.album;
 StartupNotify=false
 X-AppInstall-Package=flphoto
-X-AppInstall-Popcon=0
+X-AppInstall-Popcon=3
 X-AppInstall-Section=custom
 X-Arch-Package=flphoto 1.3.1-4
 X-Arch-Package-Repository=custom
@@ -19,3 +20,9 @@ X-Arch-Package-Version=1.3.1-4
 X-Arch-Package-Description=Basic image management and display program based on the FLTK toolkit
 X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://www.easysw.com/~mike/flphoto/
+X-Arch-Package-Votes=3
+Actions=Camera;
+
+[Desktop Action Camera]
+TryExec=/usr/bin/flphoto
+Exec=flphoto --camera

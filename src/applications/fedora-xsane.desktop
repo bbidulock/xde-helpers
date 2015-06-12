@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Scanner Tool
+GenericName=Scanner Tool
+Comment=Scan images to view, copy, fax or email them
+Icon=xsane
+TryExec=/usr/bin/xsane
+Exec=xsane
+Categories=Graphics;2DGraphics;RasterGraphics;Scanning;GTK;
+StartupNotify=true
+X-Desktop-File-Install-Version=0.15
+X-AppInstall-Package=xsane
+X-AppInstall-Section=extra
+X-Arch-Package=xsane 0.999-1
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=xsane
+X-Arch-Package-Version=0.999-1
+X-Arch-Package-Description=A GTK-based X11 frontend for SANE and plugin for Gimp.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.xsane.org

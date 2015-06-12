@@ -1,0 +1,19 @@
+#!/bin/bash
+
+for f in *.svg
+do
+	g=$(basename $f .svg).png
+	echo "==> $f"
+	echo "--> $f -> small/$g"
+	rsvg-convert -w 16 -h 16 -b none -f png -o small/$g $f
+	mogrify -antialias # -sharpen 4x4 small/$g
+#	convert -resize 16x16 -background None -antialias -sharpen 16x16+0+0 $f small/$g
+	echo "--> $f -> medium/$g"
+	rsvg-convert -w 32 -h 32 -b none -f png -o medium/$g $f
+	mogrify -antialias # -sharpen 8x8 medium/$g
+#	convert -resize 32x32 -background None -antialias -sharpen 32x32+0+0 $f medium/$g
+	echo "--> $f -> large/$g"
+	rsvg-convert -w 48 -h 48 -b none -f png -o large/$g $f
+	mogrify -antialias # -sharpen 16x16 large/$g
+#	convert -resize 48x48 -background None -antialias -sharpen 48x48+0+0 $f large/$g
+done

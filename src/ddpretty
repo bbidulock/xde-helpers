@@ -1,11 +1,10 @@
 #!/bin/bash
 
-files=$(find . -name '*.desktop'|sort)
+files=$(find . -name '*.desktop'|sort|sed 's,^\./,,')
 
 for f in $files
 do
 	echo "--> converting $f"
-	dpretty "$f" >tmp.log
-	dpretty tmp.log >"$f"
-	rm -f tmp.log
+	dpretty "$f" >"tmp$$.log"
+	/bin/mv -f "tmp$$.log" "$f"
 done

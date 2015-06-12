@@ -9,7 +9,6 @@ Exec=eekboard
 Categories=Utility;GTK;
 StartupNotify=false
 X-AppInstall-Package=eekboard
-X-AppInstall-Popcon=0
 X-AppInstall-Section=aur
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=eekboard

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg7209" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48px" width="48px" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs7211">
+  <linearGradient id="linearGradient3110" y2="12.397" gradientUnits="userSpaceOnUse" x2="12.165" gradientTransform="translate(0,1.6e-5)" y1="15.161" x1="14.454">
+   <stop id="stop3106" stop-color="#729fcf" offset="0"/>
+   <stop id="stop3108" stop-color="#3465a4" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1347" y2="77.598" gradientUnits="userSpaceOnUse" x2="29.875" gradientTransform="translate(0 2)" y1="5.8177" x1="21.25">
+   <stop id="stop1351" stop-color="#729fcf" offset="0"/>
+   <stop id="stop1353" stop-color="#eeeeec" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2187" y2="77.598" gradientUnits="userSpaceOnUse" x2="29.875" gradientTransform="translate(0 2)" y1="5.8177" x1="21.25">
+   <stop id="stop2183" stop-color="#d3d7cf" offset="0"/>
+   <stop id="stop2185" stop-color="#eeeeec" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3411" y2="42" gradientUnits="userSpaceOnUse" y1="48" x2="19.019" x1="19.019">
+   <stop id="stop3407" stop-opacity="0" offset="0"/>
+   <stop id="stop3413" offset=".5"/>
+   <stop id="stop3409" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient3429" cx="45" gradientUnits="userSpaceOnUse" cy="45" r="1.5" gradientTransform="matrix(2,0,0,2,-45,-45)">
+   <stop id="stop3425" offset="0"/>
+   <stop id="stop3427" stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <radialGradient id="radialGradient3421" cx="3" gradientUnits="userSpaceOnUse" cy="45" r="1.5" gradientTransform="matrix(0,-2,2,0,-87,51)">
+   <stop id="stop3417" offset="0"/>
+   <stop id="stop3419" stop-opacity="0" offset="1"/>
+  </radialGradient>
+ </defs>
+ <metadata id="metadata7214">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <g id="g3431" opacity=".3" transform="matrix(1 0 0 1.3333 0 -18)">
+   <rect id="rect3399" opacity="1" height="6" width="3" y="42" x="0" fill="url(#radialGradient3421)"/>
+   <rect id="rect3401" opacity="1" height="6" width="3" y="42" x="45" fill="url(#radialGradient3429)"/>
+   <rect id="rect3403" opacity="1" height="6" width="42" y="42" x="3" fill="url(#linearGradient3411)"/>
+  </g>
+  <rect id="rect1304" height="39" stroke="#babdb6" stroke-linecap="round" fill="url(#linearGradient2187)" rx="1.5" ry="1.5" width="43" y="4.5" x="2.5"/>
+  <rect id="rect2179" height="37" stroke="#fff" stroke-linecap="round" fill="none" rx=".5" ry=".5" width="41" y="5.5" x="3.5"/>
+  <path id="rect1344" d="m4 4.5h19.5v19h-21v-17.5c0-0.831 0.669-1.5 1.5-1.5z" stroke="url(#linearGradient3110)" stroke-linecap="round" fill="url(#linearGradient1347)"/>
+  <g id="g2295" opacity="0.07" transform="translate(0 2)" stroke="#000" stroke-linecap="round" fill="none">
+   <path id="path2209" opacity="1" d="m23.5 3.5v37"/>
+   <path id="path2211" opacity="1" d="m3.5 21.5h41"/>
+  </g>
+  <path id="path2205" d="m3.5 24.5h41" fill-rule="evenodd" stroke="#eeeeec" stroke-linecap="round" fill="#fff"/>
+  <path id="path2207" d="m24.5 5.5v37" fill-rule="evenodd" stroke="#eeeeec" stroke-linecap="round" fill="#fff"/>
+  <path id="rect1355" opacity=".4" d="m3.5 23.5v-17.5c0-0.277 0.223-0.5 0.5-0.5h19.5" stroke="#fff" stroke-linecap="square" fill="none"/>
+  <rect id="rect1906" stroke-linejoin="round" height="7" width="10" stroke="#204a87" stroke-linecap="round" y="7.5" x="5.5" fill="#d3d7cf"/>
+  <rect id="rect1890" stroke-linejoin="round" height="5" width="7" stroke="#204a87" stroke-linecap="round" y="16.5" x="6.5" fill="#d3d7cf"/>
+  <rect id="rect2796" stroke-linejoin="round" height="8" width="12" stroke="#d3d7cf" stroke-linecap="round" y="11.5" x="9.5" fill="#3465a4"/>
+ </g>
+</svg>

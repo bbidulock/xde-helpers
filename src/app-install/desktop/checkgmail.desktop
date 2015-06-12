@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=Application
-Name=CheckGMail
-GenericName=CheckGMail
-Comment=Gmail Notifier
+Name=Check GMail
+GenericName=Mail Notifier
+Comment=Checks a Gmail account for new mail
 Icon=checkgmail
 TryExec=/usr/bin/checkgmail
 Exec=checkgmail
-Categories=Network;
+Categories=Network;Email;
 StartupNotify=false
 X-AppInstall-Package=checkgmail
 X-AppInstall-Popcon=120

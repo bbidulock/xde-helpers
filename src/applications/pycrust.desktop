@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=PyCrust
+Comment=GUI Python Shell with Filling
+Icon=/usr/share/pixmaps/pycrust
+TryExec=/usr/bin/pycrust
+Exec=/usr/bin/pycrust
+Categories=Development;
+StartupNotify=true
+X-AppInstall-Package=wxpython
+X-AppInstall-Popcon=82
+X-AppInstall-Section=extra
+X-Arch-Package=wxpython 3.0.2.0-1
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=wxpython
+X-Arch-Package-Version=3.0.2.0-1
+X-Arch-Package-Description=A wxWidgets GUI toolkit for Python
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.wxpython.org

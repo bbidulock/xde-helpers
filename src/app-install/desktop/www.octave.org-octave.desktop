@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=GNU Octave
+Comment=Scientific Computing using GNU Octave
+Icon=/usr/share/octave/3.6.3/imagelib/octave-logo.svg
+TryExec=/usr/bin/octave
+Exec=/usr/bin/octave
+Terminal=true
+Categories=Development;Science;Math;
+StartupNotify=false
+X-Desktop-File-Install-Version=0.21
+X-AppInstall-Package=octave
+X-AppInstall-Section=extra
+X-Arch-Package=octave 3.6.3-2
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=octave
+X-Arch-Package-Version=3.8.2-6
+X-Arch-Package-Description=A high-level language, primarily intended for numerical computations.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.octave.org

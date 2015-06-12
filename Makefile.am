@@ -36,10 +36,13 @@ TODO: TODO.in
 dist_noinst_SCRIPTS = autogen.sh configure.sh rebuild.sh
 
 dist_appl_DATA = \
+	src/applications/04LXDE.desktop \
+	src/applications/10b7fe8b8cb7ce4bd9129435562966586700000029680024.desktop \
 	src/applications/13309728252.desktop \
 	src/applications/13309728253.desktop \
 	src/applications/2bwm.desktop \
 	src/applications/aafire.desktop \
+	src/applications/abe.desktop \
 	src/applications/abiword.desktop \
 	src/applications/about-fedora.desktop \
 	src/applications/aboutinfo.desktop \
@@ -76,15 +79,18 @@ dist_appl_DATA = \
 	src/applications/aterm.desktop \
 	src/applications/atop.desktop \
 	src/applications/at-spi-dbus-bus.desktop \
+	src/applications/at-spi-registryd.desktop \
 	src/applications/audacious2.desktop \
 	src/applications/audacious2-gtkui.desktop \
 	src/applications/aumix.desktop \
 	src/applications/aumix-gtk.desktop \
+	src/applications/avahi-discover.desktop \
 	src/applications/awesome.desktop \
 	src/applications/b653gv6.desktop \
 	src/applications/balsa.desktop \
 	src/applications/balsa-mailto-handler.desktop \
 	src/applications/baobab.desktop \
+	src/applications/base.desktop \
 	src/applications/bash.desktop \
 	src/applications/bazaar-properties.desktop \
 	src/applications/bbkeys.desktop \
@@ -98,7 +104,9 @@ dist_appl_DATA = \
 	src/applications/blueman-manager.desktop \
 	src/applications/bluetoothctl.desktop \
 	src/applications/bluetooth-sendto.desktop \
+	src/applications/boinc-manager.desktop \
 	src/applications/bonobo-browser.desktop \
+	src/applications/brasero-copy-medium.desktop \
 	src/applications/brasero.desktop \
 	src/applications/bspwm.desktop \
 	src/applications/bssh.desktop \
@@ -110,9 +118,17 @@ dist_appl_DATA = \
 	src/applications/cacafire.desktop \
 	src/applications/cairo-clock.desktop \
 	src/applications/cairo-compmgr.desktop \
+	src/applications/caja-autorun-software.desktop \
+	src/applications/caja-browser.desktop \
+	src/applications/caja-computer.desktop \
 	src/applications/caja.desktop \
+	src/applications/caja-file-management-properties.desktop \
+	src/applications/caja-folder-handler.desktop \
+	src/applications/caja-home.desktop \
+	src/applications/calc.desktop \
 	src/applications/calcoo.desktop \
 	src/applications/calculator.desktop \
+	src/applications/canfield.desktop \
 	src/applications/cbatticon.desktop \
 	src/applications/chbg.desktop \
 	src/applications/checkers.desktop \
@@ -125,6 +141,7 @@ dist_appl_DATA = \
 	src/applications/Clonezilla-server.desktop \
 	src/applications/clusterssh.desktop \
 	src/applications/CMake.desktop \
+	src/applications/compiz.desktop \
 	src/applications/compton.desktop \
 	src/applications/compton-fluxbox.desktop \
 	src/applications/config.desktop \
@@ -137,9 +154,12 @@ dist_appl_DATA = \
 	src/applications/dash.desktop \
 	src/applications/dasher.desktop \
 	src/applications/dc.desktop \
+	src/applications/dconf-editor.desktop \
 	src/applications/debian-sensible-browser.desktop \
 	src/applications/debian-x-terminal-emulator.desktop \
 	src/applications/deja-dup.desktop \
+	src/applications/deja-dup-monitor.desktop \
+	src/applications/deja-dup-preferences.desktop \
 	src/applications/designer.desktop \
 	src/applications/designer-qt3.desktop \
 	src/applications/designer-qt4.desktop \
@@ -163,6 +183,7 @@ dist_appl_DATA = \
 	src/applications/ede.desktop \
 	src/applications/editres.desktop \
 	src/applications/educational.desktop \
+	src/applications/eekboard-autostart.desktop \
 	src/applications/eeschema.desktop \
 	src/applications/ekiga.desktop \
 	src/applications/elinks.desktop \
@@ -172,7 +193,10 @@ dist_appl_DATA = \
 	src/applications/encompass.desktop \
 	src/applications/eog.desktop \
 	src/applications/epiphany.desktop \
+	src/applications/eric6.desktop \
+	src/applications/eric6_webbrowser.desktop \
 	src/applications/eterm.desktop \
+	src/applications/etherape.desktop \
 	src/applications/ettercap.desktop \
 	src/applications/evilwm.desktop \
 	src/applications/evince.desktop \
@@ -187,11 +211,14 @@ dist_appl_DATA = \
 	src/applications/fbpanel.desktop \
 	src/applications/fbrun.desktop \
 	src/applications/fbxkb.desktop \
+	src/applications/fedora-gparted.desktop \
 	src/applications/fedora-gvim.desktop \
 	src/applications/fedora-release-notes.desktop \
 	src/applications/fedora-release-notesX.desktop \
+	src/applications/fedora-sniff.desktop \
 	src/applications/fedora-xdvi.desktop \
 	src/applications/fedora-xpdf.desktop \
+	src/applications/fedora-xsane.desktop \
 	src/applications/fedora-xterm.desktop \
 	src/applications/feh.desktop \
 	src/applications/ffadomixer.desktop \
@@ -204,6 +231,7 @@ dist_appl_DATA = \
 	src/applications/flburn.desktop \
 	src/applications/flipse.desktop \
 	src/applications/flmusic.desktop \
+	src/applications/flobopuyo.desktop \
 	src/applications/flphoto.desktop \
 	src/applications/fltk-editor.desktop \
 	src/applications/fluff.desktop \
@@ -211,6 +239,7 @@ dist_appl_DATA = \
 	src/applications/fluxbox.desktop \
 	src/applications/flwm.desktop \
 	src/applications/freecell.desktop \
+	src/applications/freedroid.desktop \
 	src/applications/free-i.c.s..desktop \
 	src/applications/f-spot.desktop \
 	src/applications/ftmenu.desktop \
@@ -225,9 +254,11 @@ dist_appl_DATA = \
 	src/applications/gatotray.desktop \
 	src/applications/gaw.desktop \
 	src/applications/gcalctool.desktop \
+	src/applications/gcolor2.desktop \
 	src/applications/gcr-prompter.desktop \
 	src/applications/gcr-viewer.desktop \
 	src/applications/gdmflexiserver-xnest.desktop \
+	src/applications/gdmsetup.desktop \
 	src/applications/geany.desktop \
 	src/applications/geda-gattrib.desktop \
 	src/applications/geda-gschem.desktop \
@@ -237,6 +268,7 @@ dist_appl_DATA = \
 	src/applications/geoclue-where-am-i.desktop \
 	src/applications/gfontview.desktop \
 	src/applications/gftp.desktop \
+	src/applications/ghemical.desktop \
 	src/applications/Gimp.desktop \
 	src/applications/gimp.desktop \
 	src/applications/gksu.desktop \
@@ -260,6 +292,7 @@ dist_appl_DATA = \
 	src/applications/gnuchess.desktop \
 	src/applications/gnuplot.desktop \
 	src/applications/gogglesmm.desktop \
+	src/applications/golf.desktop \
 	src/applications/goomwwm.desktop \
 	src/applications/gpaint.desktop \
 	src/applications/GParted.desktop \
@@ -312,6 +345,7 @@ dist_appl_DATA = \
 	src/applications/innovidata-opennx-wizard.desktop \
 	src/applications/internet-chess-club.desktop \
 	src/applications/iptraf-ng.desktop \
+	src/applications/javafilter.desktop \
 	src/applications/jumanji.desktop \
 	src/applications/Jwm.desktop \
 	src/applications/kicad.desktop \
@@ -370,15 +404,40 @@ dist_appl_DATA = \
 	src/applications/mandriva-xterm.desktop \
 	src/applications/mantis-wm.desktop \
 	src/applications/map.desktop \
+	src/applications/marco.desktop \
+	src/applications/mastermind.desktop \
+	src/applications/mate-about.desktop \
+	src/applications/mate-about-me.desktop \
+	src/applications/mate-appearance-properties.desktop \
+	src/applications/mate-at-properties.desktop \
+	src/applications/matecc.desktop \
+	src/applications/mate-default-applications-properties.desktop \
+	src/applications/mate.desktop \
+	src/applications/mate-display-properties.desktop \
+	src/applications/mate-font-viewer.desktop \
+	src/applications/mate-keybinding.desktop \
+	src/applications/mate-keyboard.desktop \
+	src/applications/mate-network-properties.desktop \
+	src/applications/mate-network-scheme.desktop \
+	src/applications/mate-notification-properties.desktop \
+	src/applications/mate-panel.desktop \
+	src/applications/mate-session-properties.desktop \
+	src/applications/mate-settings-daemon.desktop \
+	src/applications/mate-settings-mouse.desktop \
+	src/applications/mate-theme-installer.desktop \
+	src/applications/mate-user-guide.desktop \
+	src/applications/mate-window-properties.desktop \
 	src/applications/matwm2.desktop \
 	src/applications/mc.desktop \
 	src/applications/mcedit.desktop \
 	src/applications/mdbtools-gmdb.desktop \
 	src/applications/menutray.desktop \
+	src/applications/merlin.desktop \
 	src/applications/metacity.desktop \
 	src/applications/metacity-wm.desktop \
 	src/applications/midori.desktop \
 	src/applications/midori-private.desktop \
+	src/applications/minesweeper.desktop \
 	src/applications/mmc-wizard.desktop \
 	src/applications/moc-tray.desktop \
 	src/applications/modules.desktop \
@@ -425,13 +484,21 @@ dist_appl_DATA = \
 	src/applications/pawm.desktop \
 	src/applications/pcmanfm.desktop \
 	src/applications/pcmanfm-desktop-pref.desktop \
+	src/applications/pcmanfm-user-f4.desktop \
+	src/applications/pcmanfm-user-f6.desktop \
+	src/applications/pcmanfm-user-f7.desktop \
+	src/applications/pcmanfm-user-f8.desktop \
+	src/applications/pcmanfm-user-f9.desktop \
+	src/applications/pegged.desktop \
 	src/applications/peksystray.desktop \
 	src/applications/pekwm.desktop \
 	src/applications/pekwm_kdm.desktop \
+	src/applications/penguins.desktop \
 	src/applications/piedock.desktop \
 	src/applications/pingus.desktop \
 	src/applications/pnmixer.desktop \
 	src/applications/polkit-gnome-authentication-agent-1.desktop \
+	src/applications/polkit-mate-authentication-agent-1.desktop \
 	src/applications/pragha.desktop \
 	src/applications/preferred-execute.desktop \
 	src/applications/preferred-file-manager.desktop \
@@ -446,6 +513,7 @@ dist_appl_DATA = \
 	src/applications/pulseaudio.desktop \
 	src/applications/pulseaudio-module-xsmp.desktop \
 	src/applications/putty.desktop \
+	src/applications/pycrust.desktop \
 	src/applications/qdbusviewer.desktop \
 	src/applications/qdbusviewer-qt4.desktop \
 	src/applications/qemu-launcher.desktop \
@@ -458,6 +526,7 @@ dist_appl_DATA = \
 	src/applications/qt4-linguist.desktop \
 	src/applications/qt4-qtconfig.desktop \
 	src/applications/qt-assistant3.desktop \
+	src/applications/qtconfig.desktop \
 	src/applications/qtconfig-qt4.desktop \
 	src/applications/qt-linguist3.desktop \
 	src/applications/qucs.desktop \
@@ -493,11 +562,14 @@ dist_appl_DATA = \
 	src/applications/sl-release-notes.desktop \
 	src/applications/smart.desktop \
 	src/applications/smproxy.desktop \
+	src/applications/sniff.desktop \
 	src/applications/software-properties.desktop \
+	src/applications/solitaire.desktop \
 	src/applications/spacefm.desktop \
 	src/applications/spacefm-find.desktop \
 	src/applications/spacefm-folder-handler.desktop \
 	src/applications/spectrwm.desktop \
+	src/applications/spider.desktop \
 	src/applications/springdale-release-notes.desktop \
 	src/applications/squeak.desktop \
 	src/applications/ssh.desktop \
@@ -511,11 +583,14 @@ dist_appl_DATA = \
 	src/applications/stuurman.desktop \
 	src/applications/stuurman-desktop-pref.desktop \
 	src/applications/sudoku.desktop \
+	src/applications/sun-java.desktop \
 	src/applications/sylpheed-claws.desktop \
 	src/applications/sylpheed.desktop \
 	src/applications/systemadm.desktop \
 	src/applications/system-config-printer.desktop \
 	src/applications/system.desktop \
+	src/applications/taipei.desktop \
+	src/applications/taipei-editor.desktop \
 	src/applications/telnet.desktop \
 	src/applications/terminal-as-root-(gksu).desktop \
 	src/applications/terminals.desktop \
@@ -523,6 +598,7 @@ dist_appl_DATA = \
 	src/applications/texconfig.desktop \
 	src/applications/texdoctk.desktop \
 	src/applications/the-gimp.desktop \
+	src/applications/thornq.desktop \
 	src/applications/Thunar-bulk-rename.desktop \
 	src/applications/Thunar.desktop \
 	src/applications/Thunar-folder-handler.desktop \
@@ -531,6 +607,7 @@ dist_appl_DATA = \
 	src/applications/thunar-settings.desktop \
 	src/applications/thunar-volman-settings.desktop \
 	src/applications/thunderbird.desktop \
+	src/applications/tightvnc.desktop \
 	src/applications/tint2conf.desktop \
 	src/applications/tmp.desktop \
 	src/applications/top.desktop \
@@ -635,6 +712,7 @@ dist_appl_DATA = \
 	src/applications/wmwifi.desktop \
 	src/applications/wmwork.desktop \
 	src/applications/wmx.desktop \
+	src/applications/www.octave.org-octave.desktop \
 	src/applications/x11vnc.desktop \
 	src/applications/xarchiver.desktop \
 	src/applications/xbiff.desktop \
@@ -653,6 +731,18 @@ dist_appl_DATA = \
 	src/applications/xclock.desktop \
 	src/applications/xcolorsel.desktop \
 	src/applications/xconsole.desktop \
+	src/applications/xde-app.desktop \
+	src/applications/xde-input.desktop \
+	src/applications/xde-logout.desktop \
+	src/applications/xde-pager.desktop \
+	src/applications/xde-panel.desktop \
+	src/applications/xde-run.desktop \
+	src/applications/xde-setbg.desktop \
+	src/applications/xde-watch.desktop \
+	src/applications/xde-xlock.desktop \
+	src/applications/xdg-launch.desktop \
+	src/applications/xdg-monitor.desktop \
+	src/applications/xdg-traymenu.desktop \
 	src/applications/xditview.desktop \
 	src/applications/xdpyinfo.desktop \
 	src/applications/xdvi.desktop \
@@ -692,6 +782,7 @@ dist_appl_DATA = \
 	src/applications/xplanetFX.desktop \
 	src/applications/xprop.desktop \
 	src/applications/xrandr.desktop \
+	src/applications/xrced.desktop \
 	src/applications/Xrefresh.desktop \
 	src/applications/xrefresh.desktop \
 	src/applications/xrestop.desktop \
@@ -964,11 +1055,16 @@ dist_dock_DATA = \
 	src/dockapps/wmwork.desktop
 
 dist_back_DATA = \
+	src/fallback/04LXDE.desktop \
+	src/fallback/10b7fe8b8cb7ce4bd9129435562966586700000029680024.desktop \
+	src/fallback/10b7fe8b8cb7ce4bd9129435562967291800000029680025.desktop \
+	src/fallback/10b7fe8b8cb7ce4bd9129435562967393300000029680026.desktop \
+	src/fallback/13309728252.desktop \
+	src/fallback/13309728253.desktop \
+	src/fallback/13309728254.desktop \
 	src/fallback/2bwm.desktop \
 	src/fallback/2dslamdemo.desktop \
-	src/fallback/3d_chess.desktop \
 	src/fallback/3dchess.desktop \
-	src/fallback/7digital.desktop \
 	src/fallback/7zFM.desktop \
 	src/fallback/a7xpg.desktop \
 	src/fallback/aafire.desktop \
@@ -991,16 +1087,12 @@ dist_back_DATA = \
 	src/fallback/achilles.desktop \
 	src/fallback/AClock.desktop \
 	src/fallback/aconnectgui.desktop \
-	src/fallback/acronym.desktop \
 	src/fallback/activate-screensaver-(next).desktop \
 	src/fallback/activate-screensaver-(previous).desktop \
 	src/fallback/activate-screensaver-(random).desktop \
-	src/fallback/ada12docde.desktop \
-	src/fallback/ada12docen.desktop \
 	src/fallback/adanaxisgpl.desktop \
 	src/fallback/add-on-creator.desktop \
 	src/fallback/add-on.desktop \
-	src/fallback/addrbo.desktop \
 	src/fallback/adept-installer.desktop \
 	src/fallback/adept-manager.desktop \
 	src/fallback/adie.desktop \
@@ -1012,9 +1104,6 @@ dist_back_DATA = \
 	src/fallback/aewm++.desktop \
 	src/fallback/AfterStep.desktop \
 	src/fallback/agave.desktop \
-	src/fallback/aide.desktop \
-	src/fallback/aimdecs.desktop \
-	src/fallback/aim.desktop \
 	src/fallback/airstrike.desktop \
 	src/fallback/akonadiconsole.desktop \
 	src/fallback/akonaditray.desktop \
@@ -1025,28 +1114,19 @@ dist_back_DATA = \
 	src/fallback/alarm-clock.desktop \
 	src/fallback/albumshaper.desktop \
 	src/fallback/alc.desktop \
-	src/fallback/aleclone.desktop \
-	src/fallback/AlephOne.desktop \
 	src/fallback/alex4.desktop \
 	src/fallback/alexandria.desktop \
 	src/fallback/alienblaster.desktop \
-	src/fallback/all.desktop \
-	src/fallback/allegro-devel.desktop \
 	src/fallback/alleyoop.desktop \
 	src/fallback/allin1.desktop \
 	src/fallback/alltray.desktop \
 	src/fallback/almanah.desktop \
-	src/fallback/alsa-docs.desktop \
 	src/fallback/AlsaMixer.app.desktop \
 	src/fallback/alsamixer.desktop \
 	src/fallback/alsamixergui.desktop \
 	src/fallback/alsaplayer.desktop \
 	src/fallback/alsoft-conf.desktop \
 	src/fallback/amarok.desktop \
-	src/fallback/amavis-postfix.desktop \
-	src/fallback/amavis-sendmail.desktop \
-	src/fallback/amaya.desktop \
-	src/fallback/amg.desktop \
 	src/fallback/amide.desktop \
 	src/fallback/amorad-gui.desktop \
 	src/fallback/amor.desktop \
@@ -1066,22 +1146,11 @@ dist_back_DATA = \
 	src/fallback/antmaze.desktop \
 	src/fallback/antspotlight.desktop \
 	src/fallback/apache.en.desktop \
-	src/fallback/apcupsd.desktop \
 	src/fallback/apertium-tolk.desktop \
-	src/fallback/apollonian.desktop \
-	src/fallback/app_aa_background.desktop \
-	src/fallback/app_agents_details.desktop \
-	src/fallback/apparmor.desktop \
 	src/fallback/apparmor-profile-editor.desktop \
 	src/fallback/apple2.desktop \
-	src/fallback/applets.desktop \
 	src/fallback/application-browser.desktop \
-	src/fallback/applix-demo-eng.desktop \
-	src/fallback/applix-demo-frn.desktop \
-	src/fallback/applix-demo-grm.desktop \
-	src/fallback/app_nwscheme.desktop \
 	src/fallback/appspreload.desktop \
-	src/fallback/aprsd.desktop \
 	src/fallback/aptitude-gtk.desktop \
 	src/fallback/aptitude-(terminal).desktop \
 	src/fallback/aptoncd.desktop \
@@ -1091,9 +1160,6 @@ dist_back_DATA = \
 	src/fallback/aqsl.desktop \
 	src/fallback/aqsltell.desktop \
 	src/fallback/aqualung.desktop \
-	src/fallback/ar01s18.desktop \
-	src/fallback/ar01s19.desktop \
-	src/fallback/arabtex.desktop \
 	src/fallback/arandr.desktop \
 	src/fallback/aranym.desktop \
 	src/fallback/Arch-AUR.desktop \
@@ -1107,36 +1173,27 @@ dist_back_DATA = \
 	src/fallback/Arch-SVN.desktop \
 	src/fallback/Arch-Wiki.desktop \
 	src/fallback/arcjobtool.desktop \
-	src/fallback/ARCserve.desktop \
 	src/fallback/ardour.desktop \
 	src/fallback/arduino.desktop \
-	src/fallback/argoups.desktop \
 	src/fallback/ario.desktop \
 	src/fallback/arista.desktop \
 	src/fallback/ark.desktop \
 	src/fallback/armagetronad.desktop \
-	src/fallback/armagetron.desktop \
 	src/fallback/arora.desktop \
 	src/fallback/artha.desktop \
 	src/fallback/asc.desktop \
 	src/fallback/asclock.desktop \
-	src/fallback/asis.desktop \
-	src/fallback/asl.desktop \
 	src/fallback/asmon.desktop \
-	src/fallback/aspell.desktop \
-	src/fallback/aspell-nl.desktop \
 	src/fallback/assaultcube.desktop \
 	src/fallback/assistant.desktop \
 	src/fallback/assistant-qt3.desktop \
 	src/fallback/assistant-qt4.desktop \
 	src/fallback/assogiate.desktop \
-	src/fallback/astromenace.desktop \
 	src/fallback/asunder.desktop \
 	src/fallback/aswallpaper.desktop \
 	src/fallback/asylum.desktop \
 	src/fallback/atanks.desktop \
 	src/fallback/aterm.desktop \
-	src/fallback/atk-devel.desktop \
 	src/fallback/atlantis.desktop \
 	src/fallback/atomix.desktop \
 	src/fallback/atop.desktop \
@@ -1147,18 +1204,15 @@ dist_back_DATA = \
 	src/fallback/at-spi-registryd-wrapper.desktop \
 	src/fallback/attal.desktop \
 	src/fallback/attalscenario.desktop \
-	src/fallback/attraction.desktop \
 	src/fallback/atunnel.desktop \
 	src/fallback/audacious2.desktop \
 	src/fallback/audacious2-gtkui.desktop \
-	src/fallback/audacious.desktop \
 	src/fallback/audacity.desktop \
 	src/fallback/audex.desktop \
 	src/fallback/audit-laf.desktop \
 	src/fallback/aumix.desktop \
 	src/fallback/aumix-gtk.desktop \
 	src/fallback/authconfig.desktop \
-	src/fallback/authldap.desktop \
 	src/fallback/autofs.desktop \
 	src/fallback/autokey-gtk.desktop \
 	src/fallback/autokey-qt.desktop \
@@ -1172,7 +1226,6 @@ dist_back_DATA = \
 	src/fallback/axel-kapt.desktop \
 	src/fallback/ayttm.desktop \
 	src/fallback/azureus.desktop \
-	src/fallback/b3ctcck.desktop \
 	src/fallback/b653gv6.desktop \
 	src/fallback/background.desktop \
 	src/fallback/backintime-gnome.desktop \
@@ -1198,17 +1251,14 @@ dist_back_DATA = \
 	src/fallback/batmon.desktop \
 	src/fallback/battery-stats.desktop \
 	src/fallback/bauble.desktop \
-	src/fallback/bayonne.desktop \
 	src/fallback/bazaar-properties.desktop \
 	src/fallback/bbkeys.desktop \
 	src/fallback/bbpager.desktop \
 	src/fallback/bbrun.desktop \
-	src/fallback/bbtools-gui.desktop \
 	src/fallback/bc.desktop \
 	src/fallback/beagled-autostart.desktop \
 	src/fallback/beagle-search.desktop \
 	src/fallback/beagle-settings.desktop \
-	src/fallback/beanshell-(text).desktop \
 	src/fallback/beanshell-(windowed).desktop \
 	src/fallback/beidgui35.desktop \
 	src/fallback/beneath-a-steel-sky.desktop \
@@ -1230,16 +1280,6 @@ dist_back_DATA = \
 	src/fallback/bitpim.desktop \
 	src/fallback/bitstormlite.desktop \
 	src/fallback/bittornado.desktop \
-	src/fallback/bk01apa.desktop \
-	src/fallback/bk02ar01.desktop \
-	src/fallback/bk02ar01s18.desktop \
-	src/fallback/bk02ar01s19.desktop \
-	src/fallback/bk03ar01.desktop \
-	src/fallback/bk03ar01s18.desktop \
-	src/fallback/bk03ar01s19.desktop \
-	src/fallback/bk04apb.desktop \
-	src/fallback/bk05apb.desktop \
-	src/fallback/bk07apb.desktop \
 	src/fallback/bkchem.desktop \
 	src/fallback/black-box.desktop \
 	src/fallback/blackbox.desktop \
@@ -1264,8 +1304,6 @@ dist_back_DATA = \
 	src/fallback/blocks-of-the-undead.desktop \
 	src/fallback/blocktube.desktop \
 	src/fallback/blogilo.desktop \
-	src/fallback/blt.desktop \
-	src/fallback/bluecurve.desktop \
 	src/fallback/bluedevil-audio.desktop \
 	src/fallback/bluedevil-input.desktop \
 	src/fallback/bluedevil-monolithic.desktop \
@@ -1287,25 +1325,12 @@ dist_back_DATA = \
 	src/fallback/bmon.desktop \
 	src/fallback/boa-constructor.desktop \
 	src/fallback/boats.desktop \
-	src/fallback/bochs.desktop \
 	src/fallback/boinc.desktop \
 	src/fallback/boinc-manager.desktop \
 	src/fallback/boing.desktop \
 	src/fallback/bomberclone.desktop \
 	src/fallback/bomber.desktop \
-	src/fallback/bombermaze.desktop \
-	src/fallback/bonnie++.desktop \
 	src/fallback/bonobo-browser.desktop \
-	src/fallback/bonobo.desktop \
-	src/fallback/bonobo-devel.desktop \
-	src/fallback/books-install.desktop \
-	src/fallback/books-lki.desktop \
-	src/fallback/books-lkmpg2.desktop \
-	src/fallback/books-lkmpg.desktop \
-	src/fallback/books-lpg.desktop \
-	src/fallback/books-nag.desktop \
-	src/fallback/books-sag.desktop \
-	src/fallback/books-user.desktop \
 	src/fallback/bootloader.desktop \
 	src/fallback/bootmsg.desktop \
 	src/fallback/boswars.desktop \
@@ -1317,14 +1342,12 @@ dist_back_DATA = \
 	src/fallback/boxed.desktop \
 	src/fallback/boxfit.desktop \
 	src/fallback/bpython.desktop \
-	src/fallback/brahms.desktop \
 	src/fallback/braid.desktop \
 	src/fallback/brasero-copy-medium.desktop \
 	src/fallback/brasero.desktop \
 	src/fallback/brasero-nautilus.desktop \
 	src/fallback/bridges.desktop \
 	src/fallback/briquolo.desktop \
-	src/fallback/broadcast2000.desktop \
 	src/fallback/brutalchess.desktop \
 	src/fallback/bsc.desktop \
 	src/fallback/bsod.desktop \
@@ -1342,25 +1365,15 @@ dist_back_DATA = \
 	src/fallback/bum.desktop \
 	src/fallback/bumps.desktop \
 	src/fallback/burgerspace.desktop \
-	src/fallback/busybox.desktop \
 	src/fallback/buxon.desktop \
 	src/fallback/buzztard-edit.desktop \
 	src/fallback/buzztard-songio-buzz.desktop \
 	src/fallback/bvi.desktop \
 	src/fallback/bviplus.desktop \
 	src/fallback/bvnc.desktop \
-	src/fallback/bwidget.desktop \
-	src/fallback/bx5bfk7.desktop \
-	src/fallback/bx5bmkb.desktop \
-	src/fallback/bx5bmki.desktop \
-	src/fallback/bx5bmky.desktop \
-	src/fallback/bx5dcoe.desktop \
-	src/fallback/bx5dh00.desktop \
-	src/fallback/bx5dkv1.desktop \
 	src/fallback/bygfoot.desktop \
 	src/fallback/byobu.desktop \
 	src/fallback/bzflag.desktop \
-	src/fallback/bzip.desktop \
 	src/fallback/bzr-explorer.desktop \
 	src/fallback/bzr-handle-patch.desktop \
 	src/fallback/bzr-notify.desktop \
@@ -1372,7 +1385,13 @@ dist_back_DATA = \
 	src/fallback/cairo-clock.desktop \
 	src/fallback/cairo-compmgr.desktop \
 	src/fallback/cairo-dock-cairo.desktop \
+	src/fallback/caja-autorun-software.desktop \
+	src/fallback/caja-browser.desktop \
+	src/fallback/caja-computer.desktop \
 	src/fallback/caja.desktop \
+	src/fallback/caja-file-management-properties.desktop \
+	src/fallback/caja-folder-handler.desktop \
+	src/fallback/caja-home.desktop \
 	src/fallback/Calc.desktop \
 	src/fallback/calc.desktop \
 	src/fallback/calcoo.desktop \
@@ -1386,6 +1405,7 @@ dist_back_DATA = \
 	src/fallback/cameramonitor.desktop \
 	src/fallback/ca_mgm.desktop \
 	src/fallback/camorama.desktop \
+	src/fallback/canfield.desktop \
 	src/fallback/canorus.desktop \
 	src/fallback/cantor.desktop \
 	src/fallback/caph.desktop \
@@ -1397,15 +1417,10 @@ dist_back_DATA = \
 	src/fallback/cb2bib.desktop \
 	src/fallback/cbatticon.desktop \
 	src/fallback/cbrpager.desktop \
-	src/fallback/ccaudio-devel.desktop \
-	src/fallback/ccrtp-devel.desktop \
-	src/fallback/ccscript-devel.desktop \
 	src/fallback/ccsm.desktop \
 	src/fallback/ccurve.desktop \
-	src/fallback/cdb_online.desktop \
 	src/fallback/cd-creator.desktop \
 	src/fallback/cddb-slave.desktop \
-	src/fallback/cdrdao.desktop \
 	src/fallback/cd_update.desktop \
 	src/fallback/ceferino.desktop \
 	src/fallback/celestia.desktop \
@@ -1415,96 +1430,11 @@ dist_back_DATA = \
 	src/fallback/Cenon.desktop \
 	src/fallback/cervisia.desktop \
 	src/fallback/cgmail.desktop \
-	src/fallback/cgmdraw.desktop \
 	src/fallback/cgoban.desktop \
-	src/fallback/cha_64bit.desktop \
-	src/fallback/cha_aaintro.desktop \
-	src/fallback/cha_acls.desktop \
-	src/fallback/cha_advdisk.desktop \
-	src/fallback/cha_apache2.desktop \
-	src/fallback/cha_basicnet.desktop \
-	src/fallback/cha_boot.desktop \
-	src/fallback/cha_bootproblem.desktop \
-	src/fallback/cha_cryptofs.desktop \
-	src/fallback/cha_deployment_autoinst.desktop \
-	src/fallback/cha_deployment.desktop \
-	src/fallback/cha_deployment_firstboot.desktop \
-	src/fallback/cha_deployment_remoteinst.desktop \
-	src/fallback/cha_dhcp.desktop \
-	src/fallback/cha_dns.desktop \
-	src/fallback/cha_filesystems.desktop \
-	src/fallback/cha_filetrans.desktop \
-	src/fallback/cha_fire.desktop \
-	src/fallback/cha_ftp.desktop \
-	src/fallback/cha_grub.desktop \
-	src/fallback/cha_hb_agents.desktop \
-	src/fallback/cha_hb_concepts.desktop \
-	src/fallback/cha_hb_configuration.desktop \
-	src/fallback/cha_hb_installation.desktop \
-	src/fallback/cha_hb_management.desktop \
-	src/fallback/cha_hb_manual_config.desktop \
-	src/fallback/cha_hb_quickstart.desktop \
-	src/fallback/cha_hb_troubleshooting.desktop \
-	src/fallback/cha_help.desktop \
-	src/fallback/cha_inst.desktop \
-	src/fallback/cha_instserver.desktop \
-	src/fallback/cha_inst_system_iscsi.desktop \
-	src/fallback/cha_internet.desktop \
-	src/fallback/cha_isns.desktop \
-	src/fallback/cha_kerbadmin.desktop \
-	src/fallback/cha_ldap.desktop \
-	src/fallback/cha_mobile.desktop \
 	src/fallback/chamo.desktop \
-	src/fallback/cha_net_kerberos.desktop \
-	src/fallback/cha_net_sync.desktop \
-	src/fallback/cha_netz_xntp.desktop \
-	src/fallback/cha_new_bash.desktop \
-	src/fallback/cha_new.desktop \
-	src/fallback/cha_nfs.desktop \
-	src/fallback/cha_nis.desktop \
-	src/fallback/cha_nm.desktop \
-	src/fallback/cha_ocfs2.desktop \
-	src/fallback/cha_onlineupdate.desktop \
-	src/fallback/cha_pam.desktop \
-	src/fallback/cha_p.desktop \
-	src/fallback/cha_planning.desktop \
-	src/fallback/cha_pmanage.desktop \
-	src/fallback/cha_ppc_prep_choose.desktop \
-	src/fallback/cha_ppc_prep_workflow.desktop \
-	src/fallback/cha_prep_boot.desktop \
 	src/fallback/character-map.desktop \
 	src/fallback/Charmap.desktop \
-	src/fallback/cha_rpm.desktop \
-	src/fallback/cha_samba.desktop \
-	src/fallback/cha_security.desktop \
-	src/fallback/cha_shell.desktop \
-	src/fallback/cha_slp.desktop \
-	src/fallback/cha_squid.desktop \
-	src/fallback/cha_ssh.desktop \
-	src/fallback/cha_suse.desktop \
-	src/fallback/cha_sysreqs.desktop \
-	src/fallback/cha_tablet.desktop \
-	src/fallback/cha_tf.desktop \
-	src/fallback/cha_trouble.desktop \
 	src/fallback/chatzilla.desktop \
-	src/fallback/cha_udev.desktop \
-	src/fallback/cha_update.desktop \
-	src/fallback/cha_upgrade.desktop \
-	src/fallback/cha_util.desktop \
-	src/fallback/cha_wireless.desktop \
-	src/fallback/cha_x11.desktop \
-	src/fallback/cha_x86_prep_choose.desktop \
-	src/fallback/cha_x86_prep_worklfow.desktop \
-	src/fallback/cha_y2_hw.desktop \
-	src/fallback/cha_y2_lang.desktop \
-	src/fallback/cha_y2_sw.desktop \
-	src/fallback/cha_y2_userman.desktop \
-	src/fallback/cha_yast2.desktop \
-	src/fallback/cha_yast_ca.desktop \
-	src/fallback/cha_yast_text.desktop \
-	src/fallback/cha_zmd.desktop \
-	src/fallback/cha_zseries_prep_choose.desktop \
-	src/fallback/cha_zseries_prep_workflow.desktop \
 	src/fallback/chbg.desktop \
 	src/fallback/checkers.desktop \
 	src/fallback/checkgmail.desktop \
@@ -1512,7 +1442,6 @@ dist_back_DATA = \
 	src/fallback/cheese.desktop \
 	src/fallback/chemtool.desktop \
 	src/fallback/chess-net.desktop \
-	src/fallback/chguserpw.desktop \
 	src/fallback/childsplay.desktop \
 	src/fallback/chmsee.desktop \
 	src/fallback/choqok.desktop \
@@ -1520,34 +1449,25 @@ dist_back_DATA = \
 	src/fallback/chromium-bsu.desktop \
 	src/fallback/chromium.desktop \
 	src/fallback/chui.desktop \
-	src/fallback/cilk.desktop \
 	src/fallback/circuit.desktop \
 	src/fallback/circuslinux.desktop \
 	src/fallback/clamtk.desktop \
 	src/fallback/clamz.desktop \
-	src/fallback/clanlib-devel.desktop \
-	src/fallback/clara.desktop \
 	src/fallback/claws-mail.desktop \
 	src/fallback/clementine.desktop \
 	src/fallback/clips.desktop \
-	src/fallback/clisp.desktop \
-	src/fallback/cln.desktop \
 	src/fallback/Clonezilla-live.desktop \
 	src/fallback/Clonezilla-server.desktop \
 	src/fallback/cloudlife.desktop \
 	src/fallback/clusterssh.desktop \
 	src/fallback/CMake.desktop \
-	src/fallback/cmclient.desktop \
 	src/fallback/Cn3D-3.0.desktop \
-	src/fallback/cocoon.desktop \
 	src/fallback/codeina.desktop \
 	src/fallback/codelite.desktop \
 	src/fallback/cola.desktop \
 	src/fallback/colorcode.desktop \
 	src/fallback/colorname.desktop \
-	src/fallback/comanche.desktop \
 	src/fallback/comix.desktop \
-	src/fallback/CommonC++-devel.desktop \
 	src/fallback/common_cert.desktop \
 	src/fallback/compass.desktop \
 	src/fallback/compiz-custom.desktop \
@@ -1566,7 +1486,6 @@ dist_back_DATA = \
 	src/fallback/conky.desktop \
 	src/fallback/connectagram.desktop \
 	src/fallback/consonance.desktop \
-	src/fallback/contact.desktop \
 	src/fallback/contacts.desktop \
 	src/fallback/controlaula.desktop \
 	src/fallback/control-center.desktop \
@@ -1580,13 +1499,11 @@ dist_back_DATA = \
 	src/fallback/cowbell.desktop \
 	src/fallback/crack-attack.desktop \
 	src/fallback/crackberg.desktop \
-	src/fallback/craft.desktop \
 	src/fallback/crawl-tiles.desktop \
 	src/fallback/creox.desktop \
 	src/fallback/critical.desktop \
 	src/fallback/critter.desktop \
 	src/fallback/critterding.desktop \
-	src/fallback/crossfire.desktop \
 	src/fallback/cryptkeeper.desktop \
 	src/fallback/crystal.desktop \
 	src/fallback/ctsim.desktop \
@@ -1607,28 +1524,20 @@ dist_back_DATA = \
 	src/fallback/cycle.desktop \
 	src/fallback/cynosure.desktop \
 	src/fallback/Cynthiune.desktop \
-	src/fallback/cyrus-imapd.desktop \
-	src/fallback/cyrus-sasl.desktop \
 	src/fallback/dangerball.desktop \
 	src/fallback/dash.desktop \
 	src/fallback/dasher.desktop \
 	src/fallback/dasher-text-entry.desktop \
 	src/fallback/database-properties.desktop \
-	src/fallback/dataplore.desktop \
 	src/fallback/dates.desktop \
-	src/fallback/db2latex.desktop \
-	src/fallback/db2pe.desktop \
-	src/fallback/db.desktop \
-	src/fallback/db-devel.desktop \
 	src/fallback/dbforge.desktop \
 	src/fallback/DBModeler.desktop \
-	src/fallback/db-utils.desktop \
 	src/fallback/dc.desktop \
 	src/fallback/dc++.desktop \
+	src/fallback/dconf-editor.desktop \
 	src/fallback/dc-qt.desktop \
 	src/fallback/ddd.desktop \
 	src/fallback/ddv.desktop \
-	src/fallback/deb.desktop \
 	src/fallback/deb-gview.desktop \
 	src/fallback/debian-floaters.desktop \
 	src/fallback/debian-installer-launcher.desktop \
@@ -1643,14 +1552,13 @@ dist_back_DATA = \
 	src/fallback/default.desktop \
 	src/fallback/defendguin.desktop \
 	src/fallback/deja-dup.desktop \
+	src/fallback/deja-dup-monitor.desktop \
 	src/fallback/deja-dup-preferences.desktop \
-	src/fallback/dejagnu.desktop \
 	src/fallback/deluge.desktop \
 	src/fallback/deluxe.desktop \
 	src/fallback/demon.desktop \
 	src/fallback/demo-screen-hacks.desktop \
 	src/fallback/denemo.desktop \
-	src/fallback/deploy_image.desktop \
 	src/fallback/designer.desktop \
 	src/fallback/designer-qt3.desktop \
 	src/fallback/designer-qt4.desktop \
@@ -1661,7 +1569,6 @@ dist_back_DATA = \
 	src/fallback/desktopnova-tray.desktop \
 	src/fallback/desmume.desktop \
 	src/fallback/devhelp.desktop \
-	src/fallback/devices.desktop \
 	src/fallback/dfeet.desktop \
 	src/fallback/dfo.desktop \
 	src/fallback/dguitar.desktop \
@@ -1671,7 +1578,6 @@ dist_back_DATA = \
 	src/fallback/dia.desktop \
 	src/fallback/diakonos.desktop \
 	src/fallback/DictionaryReader.desktop \
-	src/fallback/dicts.desktop \
 	src/fallback/diff-ext.desktop \
 	src/fallback/diffpdf.desktop \
 	src/fallback/diffuse.desktop \
@@ -1698,11 +1604,7 @@ dist_back_DATA = \
 	src/fallback/dns.desktop \
 	src/fallback/dns-server.desktop \
 	src/fallback/docbook2odf.desktop \
-	src/fallback/docbook_3.desktop \
-	src/fallback/docbook-dsssl-stylesheets.desktop \
-	src/fallback/docbook-xsl-stylesheets.desktop \
 	src/fallback/docker.desktop \
-	src/fallback/docker-tray.desktop \
 	src/fallback/docky.desktop \
 	src/fallback/dodgindiamond2.desktop \
 	src/fallback/dogtail-recorder.desktop \
@@ -1711,7 +1613,6 @@ dist_back_DATA = \
 	src/fallback/dominosa.desktop \
 	src/fallback/dopewars.desktop \
 	src/fallback/dosbox.desktop \
-	src/fallback/doxygen.desktop \
 	src/fallback/dragonplayer.desktop \
 	src/fallback/drakbackup.desktop \
 	src/fallback/draknetcenter.desktop \
@@ -1719,7 +1620,6 @@ dist_back_DATA = \
 	src/fallback/draw.desktop \
 	src/fallback/Drawing.desktop \
 	src/fallback/drawxtl.desktop \
-	src/fallback/drdb.desktop \
 	src/fallback/dreamchess.desktop \
 	src/fallback/dreampie.desktop \
 	src/fallback/drgeo.desktop \
@@ -1727,7 +1627,6 @@ dist_back_DATA = \
 	src/fallback/drift.desktop \
 	src/fallback/driftnet.desktop \
 	src/fallback/drpython.desktop \
-	src/fallback/dsh.desktop \
 	src/fallback/dsl.desktop \
 	src/fallback/dvdisaster.desktop \
 	src/fallback/dvdrip.desktop \
@@ -1735,7 +1634,6 @@ dist_back_DATA = \
 	src/fallback/dwm.desktop \
 	src/fallback/dwww.desktop \
 	src/fallback/dx.desktop \
-	src/fallback/dx-doc.desktop \
 	src/fallback/e16.desktop \
 	src/fallback/e16-gnome2-session.desktop \
 	src/fallback/e16-gnome3-session.desktop \
@@ -1750,8 +1648,6 @@ dist_back_DATA = \
 	src/fallback/eboard.desktop \
 	src/fallback/ebview.desktop \
 	src/fallback/ebwxshell.desktop \
-	src/fallback/ecasound.desktop \
-	src/fallback/ecawave.desktop \
 	src/fallback/echinus.desktop \
 	src/fallback/echomixer.desktop \
 	src/fallback/eclipse.desktop \
@@ -1759,11 +1655,10 @@ dist_back_DATA = \
 	src/fallback/ecryptfs-setup-private.desktop \
 	src/fallback/ede.desktop \
 	src/fallback/EdenMath.desktop \
-	src/fallback/edict.desktop \
 	src/fallback/editres.desktop \
 	src/fallback/edit-vcard.desktop \
 	src/fallback/educational.desktop \
-	src/fallback/ee.desktop \
+	src/fallback/eekboard-autostart.desktop \
 	src/fallback/eekboard.desktop \
 	src/fallback/eeschema.desktop \
 	src/fallback/efax-gtk.desktop \
@@ -1798,14 +1693,11 @@ dist_back_DATA = \
 	src/fallback/enemylines7.desktop \
 	src/fallback/engine.desktop \
 	src/fallback/enigma.desktop \
-	src/fallback/enscript.desktop \
 	src/fallback/entagged.desktop \
 	src/fallback/entrez2.desktop \
-	src/fallback/environment-modules.desktop \
 	src/fallback/envy24_control.desktop \
 	src/fallback/eog.desktop \
 	src/fallback/epdfview.desktop \
-	src/fallback/eperl.desktop \
 	src/fallback/epicycle.desktop \
 	src/fallback/epigrass.desktop \
 	src/fallback/epiphany.desktop \
@@ -1814,18 +1706,17 @@ dist_back_DATA = \
 	src/fallback/eqonomize.desktop \
 	src/fallback/eqsl.desktop \
 	src/fallback/eric4.desktop \
+	src/fallback/eric6.desktop \
+	src/fallback/eric6_webbrowser.desktop \
 	src/fallback/eric.desktop \
 	src/fallback/eruption.desktop \
 	src/fallback/escape-sdl.desktop \
 	src/fallback/esc.desktop \
 	src/fallback/esmska.desktop \
-	src/fallback/esound.desktop \
 	src/fallback/esperanza.desktop \
 	src/fallback/esteidutil.desktop \
 	src/fallback/eterm.desktop \
 	src/fallback/etherape.desktop \
-	src/fallback/etherboot.desktop \
-	src/fallback/etherboot-mknbi.desktop \
 	src/fallback/ethereal.desktop \
 	src/fallback/ettercap.desktop \
 	src/fallback/etw.desktop \
@@ -1834,7 +1725,6 @@ dist_back_DATA = \
 	src/fallback/evilvte.desktop \
 	src/fallback/evilwm.desktop \
 	src/fallback/evince.desktop \
-	src/fallback/evmsconfig.desktop \
 	src/fallback/evolution-addressbook.desktop \
 	src/fallback/evolution-calendar.desktop \
 	src/fallback/Evolution.desktop \
@@ -1851,7 +1741,6 @@ dist_back_DATA = \
 	src/fallback/exo-preferred-applications.desktop \
 	src/fallback/exo-terminal-emulator.desktop \
 	src/fallback/exo-web-browser.desktop \
-	src/fallback/expat.desktop \
 	src/fallback/expoblending.desktop \
 	src/fallback/extace.desktop \
 	src/fallback/extcalc.desktop \
@@ -1860,30 +1749,24 @@ dist_back_DATA = \
 	src/fallback/extremetuxracer.desktop \
 	src/fallback/extrusion.desktop \
 	src/fallback/eye-of-gnome.desktop \
-	src/fallback/ezwgl.desktop \
 	src/fallback/fadeplot.desktop \
-	src/fallback/failsafe-mgr.desktop \
 	src/fallback/failsafewm.desktop \
-	src/fallback/falconseye.desktop \
 	src/fallback/fantasdic.desktop \
-	src/fallback/faq.desktop \
-	src/fallback/fas-devel.desktop \
 	src/fallback/fastdnaml.desktop \
 	src/fallback/fatrat.desktop \
 	src/fallback/faum.desktop \
-	src/fallback/fbbdoc.desktop \
 	src/fallback/fbpanel.desktop \
 	src/fallback/FBReader.desktop \
 	src/fallback/fbrun.desktop \
 	src/fallback/fbxkb.desktop \
 	src/fallback/fc.desktop \
 	src/fallback/fceu.desktop \
-	src/fallback/fdutils.desktop \
 	src/fallback/fedora-abrt.desktop \
 	src/fallback/fedora-empathy-accounts.desktop \
 	src/fallback/fedora-empathy.desktop \
 	src/fallback/fedora-glade.desktop \
 	src/fallback/fedora-gnome-phone-manager.desktop \
+	src/fallback/fedora-gparted.desktop \
 	src/fallback/fedora-gvim.desktop \
 	src/fallback/fedora-im-chooser.desktop \
 	src/fallback/fedora-iok.desktop \
@@ -1906,13 +1789,10 @@ dist_back_DATA = \
 	src/fallback/fet.desktop \
 	src/fallback/ffadomixer.desktop \
 	src/fallback/ffado.org-ffadomixer.desktop \
-	src/fallback/fftw.desktop \
 	src/fallback/fiberlamp.desktop \
 	src/fallback/fifteen.desktop \
-	src/fallback/figurine.desktop \
 	src/fallback/filelight.desktop \
 	src/fallback/file-roller.desktop \
-	src/fallback/files.desktop \
 	src/fallback/filezilla.desktop \
 	src/fallback/filler.desktop \
 	src/fallback/fillets-ng.desktop \
@@ -1924,7 +1804,6 @@ dist_back_DATA = \
 	src/fallback/firestarter.desktop \
 	src/fallback/firewall.desktop \
 	src/fallback/fireworkx.desktop \
-	src/fallback/firstboot.desktop \
 	src/fallback/fityk.desktop \
 	src/fallback/flag.desktop \
 	src/fallback/flags-slideshow.desktop \
@@ -1946,12 +1825,10 @@ dist_back_DATA = \
 	src/fallback/fliptext.desktop \
 	src/fallback/flmusic.desktop \
 	src/fallback/flobopuyo.desktop \
-	src/fallback/florist.desktop \
 	src/fallback/flow.desktop \
 	src/fallback/flphoto.desktop \
 	src/fallback/flpsed.desktop \
 	src/fallback/flsudoku.desktop \
-	src/fallback/fltk-devel.desktop \
 	src/fallback/fltk-editor.desktop \
 	src/fallback/fluff.desktop \
 	src/fallback/fluidballs.desktop \
@@ -1960,10 +1837,8 @@ dist_back_DATA = \
 	src/fallback/flush.desktop \
 	src/fallback/fluxbox.desktop \
 	src/fallback/flwm.desktop \
-	src/fallback/fly.desktop \
 	src/fallback/flyingtoasters.desktop \
 	src/fallback/fmit.desktop \
-	src/fallback/fnlib.desktop \
 	src/fallback/foff.desktop \
 	src/fallback/fofix.desktop \
 	src/fallback/fontforge.desktop \
@@ -1980,14 +1855,11 @@ dist_back_DATA = \
 	src/fallback/fotoxx.desktop \
 	src/fallback/fox.desktop \
 	src/fallback/foxtrotgps.desktop \
-	src/fallback/fpac.desktop \
-	src/fallback/fpk.desktop \
 	src/fallback/fpm2.desktop \
 	src/fallback/fqterm.desktop \
 	src/fallback/frama-c.desktop \
 	src/fallback/fraqtive.desktop \
 	src/fallback/freealchemist.desktop \
-	src/fallback/freeamp.desktop \
 	src/fallback/freecad.desktop \
 	src/fallback/freecell.desktop \
 	src/fallback/freeciv-gtk.desktop \
@@ -2009,7 +1881,6 @@ dist_back_DATA = \
 	src/fallback/freeplane.desktop \
 	src/fallback/freepops-updater-gnome.desktop \
 	src/fallback/freespeak.desktop \
-	src/fallback/freeswan.desktop \
 	src/fallback/freetennis.desktop \
 	src/fallback/freevial.desktop \
 	src/fallback/freevo.desktop \
@@ -2018,7 +1889,6 @@ dist_back_DATA = \
 	src/fallback/frescobaldi.desktop \
 	src/fallback/fretsonfire-game.desktop \
 	src/fallback/frogatto.desktop \
-	src/fallback/frontbase.desktop \
 	src/fallback/frozen-bubble.desktop \
 	src/fallback/fslint.desktop \
 	src/fallback/fslview.desktop \
@@ -2026,7 +1896,6 @@ dist_back_DATA = \
 	src/fallback/f-spot-import.desktop \
 	src/fallback/f-spot-screensaver.desktop \
 	src/fallback/f-spot-view.desktop \
-	src/fallback/fte.desktop \
 	src/fallback/ftmenu.desktop \
 	src/fallback/FTP.desktop \
 	src/fallback/ftp-server.desktop \
@@ -2037,7 +1906,6 @@ dist_back_DATA = \
 	src/fallback/fuzzyflakes.desktop \
 	src/fallback/Fvwm1.desktop \
 	src/fallback/fvwm2.desktop \
-	src/fallback/fvwm95.desktop \
 	src/fallback/fvwm-crystal.desktop \
 	src/fallback/Fvwm.desktop \
 	src/fallback/fvwm.desktop \
@@ -2047,7 +1915,6 @@ dist_back_DATA = \
 	src/fallback/g2ipmsg.desktop \
 	src/fallback/g3data.desktop \
 	src/fallback/g3dviewer.desktop \
-	src/fallback/gabber.desktop \
 	src/fallback/gabedit.desktop \
 	src/fallback/gadmin-bind.desktop \
 	src/fallback/gadmin-dhcpd.desktop \
@@ -2067,7 +1934,6 @@ dist_back_DATA = \
 	src/fallback/galternatives.desktop \
 	src/fallback/gamazons.desktop \
 	src/fallback/gambas2.desktop \
-	src/fallback/gambc.desktop \
 	src/fallback/gambit.desktop \
 	src/fallback/GameConqueror.desktop \
 	src/fallback/game.desktop \
@@ -2115,16 +1981,12 @@ dist_back_DATA = \
 	src/fallback/gcstar.desktop \
 	src/fallback/gcx.desktop \
 	src/fallback/gddccontrol.desktop \
-	src/fallback/gd.desktop \
 	src/fallback/gdebi.desktop \
 	src/fallback/gdebi-kde.desktop \
 	src/fallback/gdesklets.desktop \
 	src/fallback/gdevilspie.desktop \
-	src/fallback/gdict.desktop \
 	src/fallback/gdis.desktop \
-	src/fallback/gdk-pixbuf-devel.desktop \
 	src/fallback/gdmap.desktop \
-	src/fallback/gdm.desktop \
 	src/fallback/gdm-flexiserver.desktop \
 	src/fallback/gdmflexiserver.desktop \
 	src/fallback/gdmflexiserver-xnest.desktop \
@@ -2151,8 +2013,6 @@ dist_back_DATA = \
 	src/fallback/gelemental.desktop \
 	src/fallback/gemanx.desktop \
 	src/fallback/gemdropx.desktop \
-	src/fallback/general.desktop \
-	src/fallback/gentoo.desktop \
 	src/fallback/geoclue-demo-agent.desktop \
 	src/fallback/geoclue-where-am-i.desktop \
 	src/fallback/geogebra.desktop \
@@ -2174,28 +2034,22 @@ dist_back_DATA = \
 	src/fallback/ggl-qt.desktop \
 	src/fallback/ggobi.desktop \
 	src/fallback/ggreeter.desktop \
-	src/fallback/ggv.desktop \
 	src/fallback/ggzboard.desktop \
 	src/fallback/ggz-gnome.desktop \
 	src/fallback/ggz-gtk.desktop \
 	src/fallback/ggz-txt.desktop \
 	src/fallback/ghcal.desktop \
-	src/fallback/ghc.desktop \
 	src/fallback/ghemical.desktop \
 	src/fallback/ghex.desktop \
 	src/fallback/ghextris.desktop \
 	src/fallback/ghkl.desktop \
-	src/fallback/ghostscript-library.desktop \
 	src/fallback/ghostview.desktop \
 	src/fallback/giggle.desktop \
 	src/fallback/gigolo.desktop \
 	src/fallback/gimmix.desktop \
-	src/fallback/gimpbook.desktop \
 	src/fallback/Gimp.desktop \
 	src/fallback/gimp.desktop \
-	src/fallback/gimphelp.desktop \
 	src/fallback/gip.desktop \
-	src/fallback/git.desktop \
 	src/fallback/gitg.desktop \
 	src/fallback/giver.desktop \
 	src/fallback/gjiten.desktop \
@@ -2209,21 +2063,15 @@ dist_back_DATA = \
 	src/fallback/gl-117.desktop \
 	src/fallback/glabels.desktop \
 	src/fallback/glade-3.desktop \
-	src/fallback/glade.desktop \
-	src/fallback/glademm.desktop \
 	src/fallback/glame.desktop \
 	src/fallback/glblur.desktop \
 	src/fallback/glcells.desktop \
 	src/fallback/gl-chess.desktop \
 	src/fallback/glchess.desktop \
-	src/fallback/gle.desktop \
 	src/fallback/gleidescope.desktop \
 	src/fallback/glfer.desktop \
 	src/fallback/glforestfire.desktop \
 	src/fallback/glhanoi.desktop \
-	src/fallback/glibc-devel.desktop \
-	src/fallback/glibc-html.desktop \
-	src/fallback/glimmer.desktop \
 	src/fallback/glines.desktop \
 	src/fallback/gliv.desktop \
 	src/fallback/glknots.desktop \
@@ -2234,11 +2082,9 @@ dist_back_DATA = \
 	src/fallback/glslideshow.desktop \
 	src/fallback/glsnake.desktop \
 	src/fallback/gltext.desktop \
-	src/fallback/gltron.desktop \
 	src/fallback/glurp.desktop \
 	src/fallback/gmail-notify.desktop \
 	src/fallback/gmanedit.desktop \
-	src/fallback/gmc.desktop \
 	src/fallback/gmchess.desktop \
 	src/fallback/gmdb.desktop \
 	src/fallback/gmenu-simple-editor.desktop \
@@ -2336,7 +2182,6 @@ dist_back_DATA = \
 	src/fallback/gnome-gyahtzee.desktop \
 	src/fallback/gnome-hearts.desktop \
 	src/fallback/gnome-iagno.desktop \
-	src/fallback/gnomeicu.desktop \
 	src/fallback/gnome-info-panel.desktop \
 	src/fallback/gnome-invest-chart.desktop \
 	src/fallback/gnome-keybinding.desktop \
@@ -2351,14 +2196,12 @@ dist_back_DATA = \
 	src/fallback/gnome-keyring-ssh.desktop \
 	src/fallback/gnomekiss.desktop \
 	src/fallback/gnome-klotski.desktop \
-	src/fallback/gnome-libs-devel.desktop \
 	src/fallback/gnome-lines.desktop \
 	src/fallback/gnome-log-viewer.desktop \
 	src/fallback/gnome-mag.desktop \
 	src/fallback/gnome-mahjongg.desktop \
 	src/fallback/gnome-mastermind.desktop \
 	src/fallback/gnome-media-panel.desktop \
-	src/fallback/gnomemm.desktop \
 	src/fallback/gnome-mouse-panel.desktop \
 	src/fallback/gnome-mplayer.desktop \
 	src/fallback/gnome-mud.desktop \
@@ -2376,7 +2219,6 @@ dist_back_DATA = \
 	src/fallback/gnome-network-scheme.desktop \
 	src/fallback/gnome-network-tool.desktop \
 	src/fallback/gnome-obex-server.desktop \
-	src/fallback/GnomeOnlineHelp.desktop \
 	src/fallback/gnome-paint.desktop \
 	src/fallback/gnome-panel.desktop \
 	src/fallback/gnome-passwd.desktop \
@@ -2465,6 +2307,7 @@ dist_back_DATA = \
 	src/fallback/gogglesmm.desktop \
 	src/fallback/gok.desktop \
 	src/fallback/goldendict.desktop \
+	src/fallback/golf.desktop \
 	src/fallback/golly.desktop \
 	src/fallback/Gomoku.desktop \
 	src/fallback/goobox.desktop \
@@ -2524,7 +2367,6 @@ dist_back_DATA = \
 	src/fallback/gravitywars.desktop \
 	src/fallback/grcm.desktop \
 	src/fallback/grdesktop.desktop \
-	src/fallback/grecord-(gnome-2.0-recorder).desktop \
 	src/fallback/greenwich.desktop \
 	src/fallback/gresolver.desktop \
 	src/fallback/gretl.desktop \
@@ -2542,7 +2384,6 @@ dist_back_DATA = \
 	src/fallback/grub-choose-default.desktop \
 	src/fallback/gscan2pdf.desktop \
 	src/fallback/gscriptor.desktop \
-	src/fallback/gsetroot.desktop \
 	src/fallback/gsettings-data-convert.desktop \
 	src/fallback/gshare-manager.desktop \
 	src/fallback/gsharp.desktop \
@@ -2726,6 +2567,7 @@ dist_back_DATA = \
 	src/fallback/jack-rack.desktop \
 	src/fallback/jajuk.desktop \
 	src/fallback/jamin.desktop \
+	src/fallback/javafilter.desktop \
 	src/fallback/javamorph.desktop \
 	src/fallback/Jc_Gui.desktop \
 	src/fallback/jclicauthor.desktop \
@@ -2747,6 +2589,7 @@ dist_back_DATA = \
 	src/fallback/joe.desktop \
 	src/fallback/jokosher.desktop \
 	src/fallback/josm.desktop \
+	src/fallback/joystick.desktop \
 	src/fallback/jpackage-chainsaw.desktop \
 	src/fallback/jpackage-logfactor5.desktop \
 	src/fallback/jpilot.desktop \
@@ -2904,7 +2747,6 @@ dist_back_DATA = \
 	src/fallback/knotes.desktop \
 	src/fallback/kobby.desktop \
 	src/fallback/kobodeluxe.desktop \
-	src/fallback/koffice.desktop \
 	src/fallback/kolf.desktop \
 	src/fallback/kollision.desktop \
 	src/fallback/kolourpaint.desktop \
@@ -2994,7 +2836,6 @@ dist_back_DATA = \
 	src/fallback/kzenexplorer.desktop \
 	src/fallback/LabPlot.desktop \
 	src/fallback/laby.desktop \
-	src/fallback/lalcal.desktop \
 	src/fallback/lal.desktop \
 	src/fallback/larswm.desktop \
 	src/fallback/last-exit.desktop \
@@ -3108,7 +2949,6 @@ dist_back_DATA = \
 	src/fallback/mah-jong.desktop \
 	src/fallback/mahjongg.desktop \
 	src/fallback/mail-notification.desktop \
-	src/fallback/mailtc.desktop \
 	src/fallback/manage-print-jobs.desktop \
 	src/fallback/mandriva-aumix.desktop \
 	src/fallback/mandriva-avidemux-gtk.desktop \
@@ -3143,8 +2983,31 @@ dist_back_DATA = \
 	src/fallback/mantis-wm.desktop \
 	src/fallback/map.desktop \
 	src/fallback/marble.desktop \
+	src/fallback/marco.desktop \
 	src/fallback/massxpert.desktop \
+	src/fallback/mastermind.desktop \
 	src/fallback/matchbox-keyboard.desktop \
+	src/fallback/mate-about.desktop \
+	src/fallback/mate-about-me.desktop \
+	src/fallback/mate-appearance-properties.desktop \
+	src/fallback/mate-at-properties.desktop \
+	src/fallback/matecc.desktop \
+	src/fallback/mate-default-applications-properties.desktop \
+	src/fallback/mate.desktop \
+	src/fallback/mate-display-properties.desktop \
+	src/fallback/mate-font-viewer.desktop \
+	src/fallback/mate-keybinding.desktop \
+	src/fallback/mate-keyboard.desktop \
+	src/fallback/mate-network-properties.desktop \
+	src/fallback/mate-network-scheme.desktop \
+	src/fallback/mate-notification-properties.desktop \
+	src/fallback/mate-panel.desktop \
+	src/fallback/mate-session-properties.desktop \
+	src/fallback/mate-settings-daemon.desktop \
+	src/fallback/mate-settings-mouse.desktop \
+	src/fallback/mate-theme-installer.desktop \
+	src/fallback/mate-user-guide.desktop \
+	src/fallback/mate-window-properties.desktop \
 	src/fallback/math.desktop \
 	src/fallback/mathomatic.desktop \
 	src/fallback/MathWar.desktop \
@@ -3161,6 +3024,7 @@ dist_back_DATA = \
 	src/fallback/menutray.desktop \
 	src/fallback/meritous.desktop \
 	src/fallback/merkaartor.desktop \
+	src/fallback/merlin.desktop \
 	src/fallback/meshlab.desktop \
 	src/fallback/metaballs.desktop \
 	src/fallback/metacity.desktop \
@@ -3177,6 +3041,7 @@ dist_back_DATA = \
 	src/fallback/mined.desktop \
 	src/fallback/Mines.desktop \
 	src/fallback/mines.desktop \
+	src/fallback/minesweeper.desktop \
 	src/fallback/minirok.desktop \
 	src/fallback/minitube.desktop \
 	src/fallback/mirage.desktop \
@@ -3232,6 +3097,7 @@ dist_back_DATA = \
 	src/fallback/multiget.desktop \
 	src/fallback/multimedia.desktop \
 	src/fallback/multisync.desktop \
+	src/fallback/multisync-gui.desktop \
 	src/fallback/mumble.desktop \
 	src/fallback/mupdf.desktop \
 	src/fallback/mupen64plus.desktop \
@@ -3414,6 +3280,11 @@ dist_back_DATA = \
 	src/fallback/pcb.desktop \
 	src/fallback/pcmanfm.desktop \
 	src/fallback/pcmanfm-desktop-pref.desktop \
+	src/fallback/pcmanfm-user-f4.desktop \
+	src/fallback/pcmanfm-user-f6.desktop \
+	src/fallback/pcmanfm-user-f7.desktop \
+	src/fallback/pcmanfm-user-f8.desktop \
+	src/fallback/pcmanfm-user-f9.desktop \
 	src/fallback/pcmanx.desktop \
 	src/fallback/pdfchain.desktop \
 	src/fallback/pdfedit.desktop \
@@ -3421,6 +3292,7 @@ dist_back_DATA = \
 	src/fallback/pdfsam.desktop \
 	src/fallback/pdfshuffler.desktop \
 	src/fallback/peg-e.desktop \
+	src/fallback/pegged.desktop \
 	src/fallback/pegs.desktop \
 	src/fallback/pegsolitaire.desktop \
 	src/fallback/peksystray.desktop \
@@ -3433,6 +3305,7 @@ dist_back_DATA = \
 	src/fallback/penguin-merlin.desktop \
 	src/fallback/penguin-minesweeper.desktop \
 	src/fallback/penguin-pegged.desktop \
+	src/fallback/penguins.desktop \
 	src/fallback/penguin-solitaire.desktop \
 	src/fallback/penguin-taipei.desktop \
 	src/fallback/penguin-taipei-editor.desktop \
@@ -3482,12 +3355,14 @@ dist_back_DATA = \
 	src/fallback/policytool.desktop \
 	src/fallback/polkit-gnome-authentication-agent-1.desktop \
 	src/fallback/polkit-gnome-authorization.desktop \
+	src/fallback/polkit-mate-authentication-agent-1.desktop \
 	src/fallback/pondus.desktop \
 	src/fallback/ponoff.desktop \
 	src/fallback/popsquares.desktop \
 	src/fallback/pornview.desktop \
 	src/fallback/posterazor.desktop \
 	src/fallback/postr.desktop \
+	src/fallback/power-management.desktop \
 	src/fallback/powermanga.desktop \
 	src/fallback/pppoeconf.desktop \
 	src/fallback/praat.desktop \
@@ -3595,11 +3470,13 @@ dist_back_DATA = \
 	src/fallback/qt4-linguist.desktop \
 	src/fallback/qt4-qtconfig.desktop \
 	src/fallback/qt-assistant3.desktop \
+	src/fallback/qtconfig.desktop \
 	src/fallback/qtconfig-qt4.desktop \
 	src/fallback/qtcreator.desktop \
 	src/fallback/QtDMM.desktop \
 	src/fallback/qtemu.desktop \
 	src/fallback/qterm.desktop \
+	src/fallback/qterminal.desktop \
 	src/fallback/qtiplot.desktop \
 	src/fallback/qt-linguist3.desktop \
 	src/fallback/qtm.desktop \
@@ -3713,6 +3590,7 @@ dist_back_DATA = \
 	src/fallback/sakura.desktop \
 	src/fallback/salasaga.desktop \
 	src/fallback/samegame.desktop \
+	src/fallback/same-gnome.desktop \
 	src/fallback/sbxkb.desktop \
 	src/fallback/scangui.desktop \
 	src/fallback/scavenger.desktop \
@@ -3771,12 +3649,14 @@ dist_back_DATA = \
 	src/fallback/sim.desktop \
 	src/fallback/SimpleAgenda.desktop \
 	src/fallback/simpleburn.desktop \
+	src/fallback/simple-ccsm.desktop \
 	src/fallback/simple-scan.desktop \
 	src/fallback/simutrans.desktop \
 	src/fallback/singles.desktop \
 	src/fallback/singularity.desktop \
 	src/fallback/sixteen.desktop \
 	src/fallback/skanlite.desktop \
+	src/fallback/skencil.desktop \
 	src/fallback/skrooge.desktop \
 	src/fallback/slant.desktop \
 	src/fallback/slashem-gtk.desktop \
@@ -3807,6 +3687,7 @@ dist_back_DATA = \
 	src/fallback/solarwolf.desktop \
 	src/fallback/sol.desktop \
 	src/fallback/solfege.desktop \
+	src/fallback/solitaire.desktop \
 	src/fallback/solo.desktop \
 	src/fallback/sonata.desktop \
 	src/fallback/songwrite.desktop \
@@ -3825,7 +3706,7 @@ dist_back_DATA = \
 	src/fallback/spectrwm.desktop \
 	src/fallback/spe.desktop \
 	src/fallback/speedcrunch.desktop \
-	src/fallback/spout.desktop \
+	src/fallback/spider.desktop \
 	src/fallback/springdale-release-notes.desktop \
 	src/fallback/spring.desktop \
 	src/fallback/springlobby.desktop \
@@ -3861,6 +3742,7 @@ dist_back_DATA = \
 	src/fallback/sudoku.desktop \
 	src/fallback/sugar-emulator.desktop \
 	src/fallback/sunflow.desktop \
+	src/fallback/sun-java.desktop \
 	src/fallback/superkaramba.desktop \
 	src/fallback/supertux.desktop \
 	src/fallback/supertuxkart.desktop \
@@ -3910,6 +3792,8 @@ dist_back_DATA = \
 	src/fallback/system-wacomcpl.desktop \
 	src/fallback/tagtool.desktop \
 	src/fallback/tagua.desktop \
+	src/fallback/taipei.desktop \
+	src/fallback/taipei-editor.desktop \
 	src/fallback/TalkSoup.desktop \
 	src/fallback/tangerine.desktop \
 	src/fallback/tanglet.desktop \
@@ -3949,6 +3833,7 @@ dist_back_DATA = \
 	src/fallback/therion.desktop \
 	src/fallback/therion-viewer.desktop \
 	src/fallback/thoggen.desktop \
+	src/fallback/thornq.desktop \
 	src/fallback/threadscope.desktop \
 	src/fallback/Thunar-bulk-rename.desktop \
 	src/fallback/Thunar.desktop \
@@ -3960,6 +3845,7 @@ dist_back_DATA = \
 	src/fallback/thunderbird.desktop \
 	src/fallback/tictactoe-ng.desktop \
 	src/fallback/tiger.desktop \
+	src/fallback/tightvnc.desktop \
 	src/fallback/tilda.desktop \
 	src/fallback/time-admin.desktop \
 	src/fallback/time.desktop \
@@ -3972,7 +3858,7 @@ dist_back_DATA = \
 	src/fallback/tkcvs.desktop \
 	src/fallback/tkdiff.desktop \
 	src/fallback/tkgate.desktop \
-	src/fallback/tkwish8.4.desktop \
+	src/fallback/tkwish8.6.desktop \
 	src/fallback/tmp.desktop \
 	src/fallback/tmw.desktop \
 	src/fallback/tomatoes.desktop \
@@ -3989,7 +3875,6 @@ dist_back_DATA = \
 	src/fallback/tqslcert.desktop \
 	src/fallback/tqsl.desktop \
 	src/fallback/trackballs.desktop \
-	src/fallback/tracker-miner-applications.desktop \
 	src/fallback/tracker-preferences.desktop \
 	src/fallback/tracker-search-tool.desktop \
 	src/fallback/transfermii-gui.desktop \
@@ -3999,8 +3884,6 @@ dist_back_DATA = \
 	src/fallback/transmission-gtk.desktop \
 	src/fallback/transmission-qt.desktop \
 	src/fallback/traverso.desktop \
-	src/fallback/trayer.desktop \
-	src/fallback/trayion.desktop \
 	src/fallback/treeline.desktop \
 	src/fallback/tree-ppuzzle.desktop \
 	src/fallback/tree-puzzle.desktop \
@@ -4021,6 +3904,7 @@ dist_back_DATA = \
 	src/fallback/tuxmath.desktop \
 	src/fallback/tuxpaint.desktop \
 	src/fallback/tuxtype.desktop \
+	src/fallback/tv.desktop \
 	src/fallback/twiddle.desktop \
 	src/fallback/twinkle.desktop \
 	src/fallback/twisted-ssh-client.desktop \
@@ -4086,6 +3970,7 @@ dist_back_DATA = \
 	src/fallback/viking.desktop \
 	src/fallback/vile.desktop \
 	src/fallback/vim.desktop \
+	src/fallback/vimprobable2.desktop \
 	src/fallback/vinagre.desktop \
 	src/fallback/vinagre-file.desktop \
 	src/fallback/vino-preferences.desktop \
@@ -4106,6 +3991,7 @@ dist_back_DATA = \
 	src/fallback/VolumeControl.desktop \
 	src/fallback/vpnpptp.desktop \
 	src/fallback/vtwm.desktop \
+	src/fallback/vumeter.desktop \
 	src/fallback/vym.desktop \
 	src/fallback/w3af.desktop \
 	src/fallback/w3m.desktop \
@@ -4220,6 +4106,7 @@ dist_back_DATA = \
 	src/fallback/WrapperFactory.desktop \
 	src/fallback/writer.desktop \
 	src/fallback/wsjt.desktop \
+	src/fallback/www.octave.org-octave.desktop \
 	src/fallback/wxcas.desktop \
 	src/fallback/wxglade.desktop \
 	src/fallback/wxmaxima.desktop \
@@ -4276,6 +4163,7 @@ dist_back_DATA = \
 	src/fallback/Xdx.desktop \
 	src/fallback/xedit.desktop \
 	src/fallback/xemacs.desktop \
+	src/fallback/xen.desktop \
 	src/fallback/xenlog.desktop \
 	src/fallback/xenwatch.desktop \
 	src/fallback/xev.desktop \
@@ -4366,6 +4254,7 @@ dist_back_DATA = \
 	src/fallback/xmmball.desktop \
 	src/fallback/xmmlink.desktop \
 	src/fallback/xmms2tray.desktop \
+	src/fallback/Xmms.desktop \
 	src/fallback/xmms.desktop \
 	src/fallback/xmoct.desktop \
 	src/fallback/xmodmap.desktop \
@@ -4460,3 +4349,1120 @@ dist_back_DATA = \
 	src/fallback/zygrib.desktop \
 	src/fallback/zynaddsubfx.desktop \
 	src/fallback/zynjacku.desktop
+
+pixmap_ICONS = \
+	src/icons/2bWM.save.svg \
+	src/icons/2bWM.svg \
+	src/icons/abiword_48.svg \
+	src/icons/abiword.svg \
+	src/icons/accessories-text-editor.svg \
+	src/icons/acroread.svg \
+	src/icons/AdobeReader8.svg \
+	src/icons/AdobeReader.svg \
+	src/icons/adobe-reader.svg \
+	src/icons/adwm.svg \
+	src/icons/aewm.svg \
+	src/icons/alacarte.svg \
+	src/icons/alltray.svg \
+	src/icons/amsn.svg \
+	src/icons/amule.svg \
+	src/icons/anyremote.svg \
+	src/icons/apparmor_app_armor.svg \
+	src/icons/apple-green.png \
+	src/icons/apple-red.png \
+	src/icons/application-default-icon.svg \
+	src/icons/application-x-remote-connection.svg \
+	src/icons/application-x-vnc.svg \
+	src/icons/archlinux-wm-awesome.svg \
+	src/icons/archlinux-wm-base.svg \
+	src/icons/archlinux-wm-blackbox.svg \
+	src/icons/archlinux-wm-dwm.svg \
+	src/icons/archlinux-wm-fluxbox.svg \
+	src/icons/archlinux-wm-fvwm.svg \
+	src/icons/archlinux-wm-gnome.svg \
+	src/icons/archlinux-wm-icewm.svg \
+	src/icons/archlinux-wm-jwm.svg \
+	src/icons/archlinux-wm-kde2.svg \
+	src/icons/archlinux-wm-kdemod.svg \
+	src/icons/archlinux-wm-kde.svg \
+	src/icons/archlinux-wm-openbox.svg \
+	src/icons/archlinux-wm-pekwm.svg \
+	src/icons/archlinux-wm-twm.svg \
+	src/icons/archlinux-wm-wmaker.svg \
+	src/icons/archlinux-wm-xfce.svg \
+	src/icons/archlinux-wm-xmonad.svg \
+	src/icons/arch-logo.svg \
+	src/icons/ardour.svg \
+	src/icons/assistant3.png \
+	src/icons/audacious2.svg \
+	src/icons/audacity.svg \
+	src/icons/audio-player.svg \
+	src/icons/avidemux_icon.svg \
+	src/icons/avidemux.svg \
+	src/icons/Azureus.svg \
+	src/icons/azureus.svg \
+	src/icons/background.svg \
+	src/icons/badge-small.svg \
+	src/icons/balsa.svg \
+	src/icons/baobab.svg \
+	src/icons/bash.svg \
+	src/icons/blackbox.svg \
+	src/icons/blender.svg \
+	src/icons/bluefish_icon.svg \
+	src/icons/bluefish-icon.svg \
+	src/icons/bluefish.svg \
+	src/icons/blueradio-48.svg \
+	src/icons/blueradio.svg \
+	src/icons/bluetooth-48.svg \
+	src/icons/bluetoothradio.svg \
+	src/icons/bluetooth.svg \
+	src/icons/boinc.png \
+	src/icons/bomberclone.png \
+	src/icons/bootdisk_create.svg \
+	src/icons/boot.svg \
+	src/icons/brasero.svg \
+	src/icons/bt-logo.svg \
+	src/icons/bum.svg \
+	src/icons/cacao-oj6.svg \
+	src/icons/cairo-clock.svg \
+	src/icons/caja.svg \
+	src/icons/ccsm.svg \
+	src/icons/chainsaw.png \
+	src/icons/chbg_64x64.xpm \
+	src/icons/checkbox.svg \
+	src/icons/checkgmail.png \
+	src/icons/cheese.svg \
+	src/icons/cinelerra.svg \
+	src/icons/claws-mail.svg \
+	src/icons/clock.svg \
+	src/icons/compiz.svg \
+	src/icons/computerjanitor.svg \
+	src/icons/conduit-icon.svg \
+	src/icons/conduit.svg \
+	src/icons/cowbell.svg \
+	src/icons/critter.png \
+	src/icons/ctwm.svg \
+	src/icons/cupsprinter.png \
+	src/icons/cupsprinter.svg \
+	src/icons/cycle.xpm \
+	src/icons/d4x.svg \
+	src/icons/dasher.svg \
+	src/icons/debian.png \
+	src/icons/defaultgroup.svg \
+	src/icons/deja-dup.png \
+	src/icons/deja-dup-symbolic.svg \
+	src/icons/deluge.svg \
+	src/icons/deluge-torrent.svg \
+	src/icons/designer.png \
+	src/icons/desktop-effects.svg \
+	src/icons/devhelp.svg \
+	src/icons/dhcpcd.svg \
+	src/icons/dia_gnome_icon.svg \
+	src/icons/dia-gnome.svg \
+	src/icons/dia.svg \
+	src/icons/dillo.png \
+	src/icons/disks.png \
+	src/icons/display-capplet.svg \
+	src/icons/dogtail-head.svg \
+	src/icons/dogtail-tail.svg \
+	src/icons/dosbox.png \
+	src/icons/drakmenustyle.svg \
+	src/icons/drakstats.svg \
+	src/icons/drilogo.png \
+	src/icons/dvdisaster.png \
+	src/icons/dwm.svg \
+	src/icons/eclipse.svg \
+	src/icons/edit-urpm-sources.svg \
+	src/icons/eekboard.svg \
+	src/icons/eeschema.svg \
+	src/icons/ekiga.svg \
+	src/icons/emacs.svg \
+	src/icons/email.svg \
+	src/icons/emerald.svg \
+	src/icons/emerald-theme-manager-icon.svg \
+	src/icons/emesene.svg \
+	src/icons/empathy.svg \
+	src/icons/eog.svg \
+	src/icons/epdfview.png \
+	src/icons/epiphany-bookmarks.svg \
+	src/icons/epiphany.png \
+	src/icons/eq.svg \
+	src/icons/eric.png \
+	src/icons/Eterm.png \
+	src/icons/Etermutilities-terminal.svg \
+	src/icons/etherape.png \
+	src/icons/ettercap.svg \
+	src/icons/evilwm.svg \
+	src/icons/evince.svg \
+	src/icons/evolution-memos.svg \
+	src/icons/evolution.svg \
+	src/icons/evolution-tasklist.svg \
+	src/icons/evolution-tasks.svg \
+	src/icons/exaile.svg \
+	src/icons/exaile-tray-icon.svg \
+	src/icons/fedora-logo-icon.svg \
+	src/icons/fedora-logo-sprite.svg \
+	src/icons/file-manager.svg \
+	src/icons/file-roller2.png \
+	src/icons/file-roller3.png \
+	src/icons/file-roller.svg \
+	src/icons/filezilla.svg \
+	src/icons/firestarter.svg \
+	src/icons/firewall.svg \
+	src/icons/flegita.svg \
+	src/icons/flobopuyo.png \
+	src/icons/flphoto.png \
+	src/icons/fluxbox.svg \
+	src/icons/force-exit.svg \
+	src/icons/frozen-bubble.png \
+	src/icons/f-spot.svg \
+	src/icons/fusion-icon.svg \
+	src/icons/fvwm-crystal.png \
+	src/icons/gajim.svg \
+	src/icons/gcolor2.png \
+	src/icons/gdebi.svg \
+	src/icons/gdeb.svg \
+	src/icons/gdmflexiserver.svg \
+	src/icons/gdm-foot-logo.png \
+	src/icons/gdm-login-photo.png \
+	src/icons/gdm-setup.svg \
+	src/icons/gdmsetup.svg \
+	src/icons/gdm-suse.svg \
+	src/icons/gdm.svg \
+	src/icons/gdm-xnest.svg \
+	src/icons/gdu-category-multidisk.svg \
+	src/icons/gdu-category-multipath.svg \
+	src/icons/gdu-category-peripheral.svg \
+	src/icons/gdu-check-disk.svg \
+	src/icons/gdu-detach.svg \
+	src/icons/gdu-eject.svg \
+	src/icons/gdu-emblem-lvm-lv.svg \
+	src/icons/gdu-emblem-lvm-vg.svg \
+	src/icons/gdu-emblem-mp-component.svg \
+	src/icons/gdu-emblem-mp.svg \
+	src/icons/gdu-emblem-raid0.svg \
+	src/icons/gdu-emblem-raid10.svg \
+	src/icons/gdu-emblem-raid1.svg \
+	src/icons/gdu-emblem-raid3.svg \
+	src/icons/gdu-emblem-raid4.svg \
+	src/icons/gdu-emblem-raid5.svg \
+	src/icons/gdu-emblem-raid6.svg \
+	src/icons/gdu-emblem-raid-linear.svg \
+	src/icons/gdu-encrypted-lock.svg \
+	src/icons/gdu-encrypted-unlock.svg \
+	src/icons/gdu-error.svg \
+	src/icons/gdu-expander.svg \
+	src/icons/gdu-hba.svg \
+	src/icons/gdu-info.svg \
+	src/icons/gdu-mount.svg \
+	src/icons/gdu-multidisk-drive.svg \
+	src/icons/gdu-raid-array-start.svg \
+	src/icons/gdu-raid-array-stop.svg \
+	src/icons/gdu-raid-array.svg \
+	src/icons/gdu-smart-failing.svg \
+	src/icons/gdu-smart-healthy.svg \
+	src/icons/gdu-smart-threshold.svg \
+	src/icons/gdu-smart-unknown.svg \
+	src/icons/gdu-unmountable.svg \
+	src/icons/gdu-unmount.svg \
+	src/icons/gdu-warning.svg \
+	src/icons/geany.svg \
+	src/icons/geda-gattrib.svg \
+	src/icons/geda-gschem.svg \
+	src/icons/gedit-icon.svg \
+	src/icons/gedit-logo2.png \
+	src/icons/gedit-logo.svg \
+	src/icons/gedit-plugin-manager.png \
+	src/icons/gedit-plugin.png \
+	src/icons/geeqie.png \
+	src/icons/gftp.svg \
+	src/icons/ghemical-logo.png \
+	src/icons/ghemical.png \
+	src/icons/gimp.svg \
+	src/icons/gksu-debian.svg \
+	src/icons/gksu-root-terminal.svg \
+	src/icons/glipper.svg \
+	src/icons/gmplayer.svg \
+	src/icons/gnochm.svg \
+	src/icons/gnome-about-logo.png \
+	src/icons/gnome-aisleriot.svg \
+	src/icons/gnome-aorta.png \
+	src/icons/gnome-app-install.svg \
+	src/icons/gnome-applets.png \
+	src/icons/gnome-apt.svg \
+	src/icons/gnome-ataxx.svg \
+	src/icons/gnome-background-image.png \
+	src/icons/gnome-background-pattern.png \
+	src/icons/gnome-background.png \
+	src/icons/gnomebaker-48.svg \
+	src/icons/gnomebaker.svg \
+	src/icons/gnome-blackjack.svg \
+	src/icons/gnome-blog.svg \
+	src/icons/gnome-bluetooth.svg \
+	src/icons/gnome-brightness-applet.svg \
+	src/icons/gnome-calc2.png \
+	src/icons/gnome-calc3.png \
+	src/icons/gnome-calendar.png \
+	src/icons/gnome-ccbackground.png \
+	src/icons/gnome-ccdesktop.png \
+	src/icons/gnome-ccdialog.png \
+	src/icons/gnome-ccmime.png \
+	src/icons/gnome-ccperiph.png \
+	src/icons/gnome-ccscreensaver.png \
+	src/icons/gnome-ccwindowmanager.svg \
+	src/icons/gnome-cd.png \
+	src/icons/gnome-chess-symbolic.svg \
+	src/icons/gnome-color-browser.png \
+	src/icons/gnome-color-xterm.png \
+	src/icons/gnome-computer.png \
+	src/icons/gnome-control-center.png \
+	src/icons/gnome-cpu-frequency-applet.svg \
+	src/icons/gnome-cromagnon.png \
+	src/icons/gnome-day.png \
+	src/icons/gnome-db.png \
+	src/icons/gnome-debian.png \
+	src/icons/gnome-default-dlg.png \
+	src/icons/gnome-desktop-ccperiph.png \
+	src/icons/gnome-dev-floppy.png \
+	src/icons/gnome-device-manager.svg \
+	src/icons/gnome-dictionary.svg \
+	src/icons/gnome-diskfree.png \
+	src/icons/gnome-display-properties.svg \
+	src/icons/gnome-do.svg \
+	src/icons/gnome-emacs.png \
+	src/icons/gnome-eog.png \
+	src/icons/gnome-error.png \
+	src/icons/gnome-eterm.svg \
+	src/icons/gnome-eyes-applet.svg \
+	src/icons/gnome-file-c.png \
+	src/icons/gnome-file-h.png \
+	src/icons/gnome-folder.png \
+	src/icons/gnome-freecell.svg \
+	src/icons/gnome-fs-blockdev.svg \
+	src/icons/gnome-fs-bookmark-missing.svg \
+	src/icons/gnome-fs-bookmark.svg \
+	src/icons/gnome-fs-client.png \
+	src/icons/gnome-fs-home.png \
+	src/icons/gnome-gemvt.png \
+	src/icons/gnome-gimp.png \
+	src/icons/gnome-glchess.svg \
+	src/icons/gnome-glines.svg \
+	src/icons/gnome-gmenu.svg \
+	src/icons/gnome-gmush.png \
+	src/icons/gnome-gnect.svg \
+	src/icons/gnome-gnibbles.svg \
+	src/icons/gnome-gnometris.svg \
+	src/icons/gnome-gnomine.svg \
+	src/icons/gnome-gnomoku.png \
+	src/icons/gnome-gnumeric.svg \
+	src/icons/gnome-grecord.png \
+	src/icons/gnome-help.svg \
+	src/icons/gnome-home.png \
+	src/icons/gnome-html.png \
+	src/icons/gnome-iagno.svg \
+	src/icons/gnome-image-gif.png \
+	src/icons/gnome-image-jpeg.png \
+	src/icons/gnome-info.png \
+	src/icons/gnome-inhibit-applet.svg \
+	src/icons/gnome-irc.png \
+	src/icons/gnome-klotski.svg \
+	src/icons/gnome-laptop.png \
+	src/icons/gnome-logo-icon.png \
+	src/icons/gnome-logo-icon-transparent.png \
+	src/icons/gnome-logo-large.png \
+	src/icons/gnome-logo-white.svg \
+	src/icons/gnome-log.png \
+	src/icons/gnome-mdi.png \
+	src/icons/gnome-mime-application-x-remote-connection.svg \
+	src/icons/gnome-mime-application-x-vnc.svg \
+	src/icons/gnome-mines.svg \
+	src/icons/gnome-mixer.png \
+	src/icons/gnome-mnemonic.png \
+	src/icons/gnome-monitor.svg \
+	src/icons/gnome-month.png \
+	src/icons/gnome-mouse.png \
+	src/icons/gnome-mplayer.svg \
+	src/icons/gnome-nettool.svg \
+	src/icons/gnome-network-preferences.svg \
+	src/icons/gnome-network-properties.svg \
+	src/icons/gnome-news.svg \
+	src/icons/gnome-nibbles.svg \
+	src/icons/gnome-note.svg \
+	src/icons/gnome-palm-conduit.png \
+	src/icons/gnome-palm.svg \
+	src/icons/gnome-panel-clock.svg \
+	src/icons/gnome-panel-drawer.svg \
+	src/icons/gnome-panel-fish.svg \
+	src/icons/gnome-panel-force-quit.svg \
+	src/icons/gnome-panel-launcher.svg \
+	src/icons/gnome-panel-notification-area.svg \
+	src/icons/gnome-panel-separator.svg \
+	src/icons/gnome-panel.svg \
+	src/icons/gnome-panel-window-list.svg \
+	src/icons/gnome-panel-window-menu.svg \
+	src/icons/gnome-panel-workspace-switcher.svg \
+	src/icons/gnome-pdf.svg \
+	src/icons/gnome-pilot2.svg \
+	src/icons/gnome-pilot.svg \
+	src/icons/gnome-planner.svg \
+	src/icons/gnome-power-manager.svg \
+	src/icons/gnome-power-statistics.svg \
+	src/icons/gnome-qeye.png \
+	src/icons/gnome-question.png \
+	src/icons/gnome-reclevel.svg \
+	src/icons/gnome-remote-desktop.svg \
+	src/icons/gnome-robots.svg \
+	src/icons/gnome-samegnome.svg \
+	src/icons/gnome-session-halt.svg \
+	src/icons/gnome-session-hibernate.svg \
+	src/icons/gnome-session-properties.svg \
+	src/icons/gnome-session-reboot.svg \
+	src/icons/gnome-session-sleep.svg \
+	src/icons/gnome-session-suspend.svg \
+	src/icons/gnome-session-switch.svg \
+	src/icons/gnome-set-time.svg \
+	src/icons/gnome-settings-background.svg \
+	src/icons/gnome-settings-default-applications.svg \
+	src/icons/gnome-settings-sound.svg \
+	src/icons/gnome-settings-theme.svg \
+	src/icons/gnome-shutdown.svg \
+	src/icons/gnome-sound-properties.svg \
+	src/icons/gnome-sound-recorder.svg \
+	src/icons/gnome-spider.png \
+	src/icons/gnome-squeak.png \
+	src/icons/gnome-sticky-notes-applet.svg \
+	src/icons/gnome-sudoku.svg \
+	src/icons/gnome-suse.png \
+	src/icons/gnome.svg \
+	src/icons/gnome-system-monitor.svg \
+	src/icons/gnome-tali.svg \
+	src/icons/gnome-talk.png \
+	src/icons/gnome-terminal.svg \
+	src/icons/gnome-term-linux2.png \
+	src/icons/gnome-term-linux.png \
+	src/icons/gnome-term-night.png \
+	src/icons/gnome-term.svg \
+	src/icons/gnome-term-tiger.png \
+	src/icons/gnome-tetravex.svg \
+	src/icons/gnome-tigert.png \
+	src/icons/gnome-touristinfo.png \
+	src/icons/gnome-translate.svg \
+	src/icons/gnome-user-interface.png \
+	src/icons/gnome-volume-control.svg \
+	src/icons/gnome-vumeter.svg \
+	src/icons/gnome-warning.png \
+	src/icons/gnome-week.png \
+	src/icons/gnome-window-manager.svg \
+	src/icons/gnome-windows.svg \
+	src/icons/gnome-word.svg \
+	src/icons/gnome-workspace.svg \
+	src/icons/gnome-xterm.svg \
+	src/icons/gnormalize.svg \
+	src/icons/gnote.svg \
+	src/icons/gnotski.svg \
+	src/icons/gnumeric.svg \
+	src/icons/GNUstep3D.svg \
+	src/icons/GNUstep.svg \
+	src/icons/gogglesmm.svg \
+	src/icons/gok.png \
+	src/icons/goobox.svg \
+	src/icons/gparted.svg \
+	src/icons/gpicview.svg \
+	src/icons/gpk-log.svg \
+	src/icons/gpk-prefs.svg \
+	src/icons/gpk-repo.svg \
+	src/icons/gpk-service-pack.svg \
+	src/icons/gpm-ac-adapter.svg \
+	src/icons/gpm-brightness.svg \
+	src/icons/gpm-hibernate.svg \
+	src/icons/gpm-keyboard-000.svg \
+	src/icons/gpm-keyboard-030.svg \
+	src/icons/gpm-keyboard-060.svg \
+	src/icons/gpm-keyboard-100.svg \
+	src/icons/gpm-mouse-000.svg \
+	src/icons/gpm-mouse-030.svg \
+	src/icons/gpm-mouse-060.svg \
+	src/icons/gpm-mouse-100.svg \
+	src/icons/gpm-primary-000-charging.svg \
+	src/icons/gpm-primary-000.svg \
+	src/icons/gpm-primary-020-charging.svg \
+	src/icons/gpm-primary-020.svg \
+	src/icons/gpm-primary-040-charging.svg \
+	src/icons/gpm-primary-040.svg \
+	src/icons/gpm-primary-060-charging.svg \
+	src/icons/gpm-primary-060.svg \
+	src/icons/gpm-primary-080-charging.svg \
+	src/icons/gpm-primary-080.svg \
+	src/icons/gpm-primary-100-charging.svg \
+	src/icons/gpm-primary-100.svg \
+	src/icons/gpm-primary-charged.svg \
+	src/icons/gpm-primary-missing.svg \
+	src/icons/gpm-suspend.svg \
+	src/icons/gpm-ups-000-charging.svg \
+	src/icons/gpm-ups-000.svg \
+	src/icons/gpm-ups-020-charging.svg \
+	src/icons/gpm-ups-020.svg \
+	src/icons/gpm-ups-040-charging.svg \
+	src/icons/gpm-ups-040.svg \
+	src/icons/gpm-ups-060-charging.svg \
+	src/icons/gpm-ups-060.svg \
+	src/icons/gpm-ups-080-charging.svg \
+	src/icons/gpm-ups-080.svg \
+	src/icons/gpm-ups-100-charging.svg \
+	src/icons/gpm-ups-100.svg \
+	src/icons/gpm-ups-charged.svg \
+	src/icons/gpm-ups-missing.svg \
+	src/icons/grandr.svg \
+	src/icons/grip.svg \
+	src/icons/gscan2pdf.svg \
+	src/icons/gsd-xrandr.svg \
+	src/icons/gstreamer-properties.png \
+	src/icons/gswitchit-applet.svg \
+	src/icons/gswitchit-properties-capplet.svg \
+	src/icons/gthumb.svg \
+	src/icons/gtk-help.svg \
+	src/icons/gtk-recordmydesktop.svg \
+	src/icons/gtkvim.png \
+	src/icons/gtranslator.svg \
+	src/icons/gucharmap.png \
+	src/icons/gufw_menu.svg \
+	src/icons/gvim.svg \
+	src/icons/gwget.svg \
+	src/icons/gxine.svg \
+	src/icons/harddrake.svg \
+	src/icons/hardinfo.svg \
+	src/icons/help-browser.svg \
+	src/icons/help-contents.svg \
+	src/icons/help.svg \
+	src/icons/hexchat.svg \
+	src/icons/hotwire.svg \
+	src/icons/htop.svg \
+	src/icons/hwbrowser.svg \
+	src/icons/hwinfo.svg \
+	src/icons/i3.svg \
+	src/icons/ibus-engine.svg \
+	src/icons/ibus-keyboard.svg \
+	src/icons/ibus-setup.svg \
+	src/icons/ibus.svg \
+	src/icons/image-viewer.svg \
+	src/icons/im-aim.svg \
+	src/icons/im-ekiga.svg \
+	src/icons/im-gadugadu.svg \
+	src/icons/im-gizmo.svg \
+	src/icons/im-google-talk.svg \
+	src/icons/im-groupwise.svg \
+	src/icons/im-icq.svg \
+	src/icons/im-irc.svg \
+	src/icons/im-jabber.svg \
+	src/icons/im-local-xmpp.svg \
+	src/icons/im-meanwhile.svg \
+	src/icons/im-msn.svg \
+	src/icons/im-mxit.svg \
+	src/icons/im-myspace.svg \
+	src/icons/im-qq.svg \
+	src/icons/im-sametime.svg \
+	src/icons/imsettings-applet.png \
+	src/icons/imsettings-unknown.png \
+	src/icons/im-silc.svg \
+	src/icons/im-sip.svg \
+	src/icons/im-yahoo.svg \
+	src/icons/im-zephyr.svg \
+	src/icons/inkscape.svg \
+	src/icons/internet-mail.svg \
+	src/icons/internet-news-reader.svg \
+	src/icons/invest-applet.svg \
+	src/icons/invest-big.svg \
+	src/icons/invest.svg \
+	src/icons/istanbul.svg \
+	src/icons/java.svg \
+	src/icons/javaws.png \
+	src/icons/jdownloader.svg \
+	src/icons/jokosher_icon.svg \
+	src/icons/jokosher.svg \
+	src/icons/jwm.svg \
+	src/icons/kasumi.png \
+	src/icons/kcmkwm.svg \
+	src/icons/kde.svg \
+	src/icons/kedit.svg \
+	src/icons/kentoo.svg \
+	src/icons/keyboardlayout.svg \
+	src/icons/keyring.png \
+	src/icons/kfm.svg \
+	src/icons/khelpcenter.svg \
+	src/icons/kicad.svg \
+	src/icons/kino.svg \
+	src/icons/konsole.svg \
+	src/icons/kpackage.svg \
+	src/icons/kscreensaver.svg \
+	src/icons/ksysguard.svg \
+	src/icons/ktip.svg \
+	src/icons/kuser.svg \
+	src/icons/kwin.svg \
+	src/icons/kynpatic.svg \
+	src/icons/language-selector.svg \
+	src/icons/larswm.svg \
+	src/icons/libreoffice-base.svg \
+	src/icons/libreoffice-calc.svg \
+	src/icons/libreoffice-draw.svg \
+	src/icons/libreoffice-impress.svg \
+	src/icons/libreoffice-main.svg \
+	src/icons/libreoffice-math.svg \
+	src/icons/libreoffice-startcenter.svg \
+	src/icons/libreoffice-writer.svg \
+	src/icons/liferea.svg \
+	src/icons/linguist3.png \
+	src/icons/lives.svg \
+	src/icons/localedrake.svg \
+	src/icons/locale.svg \
+	src/icons/logfactor5.png \
+	src/icons/login-photo.png \
+	src/icons/lpi-translate.svg \
+	src/icons/lv_icon.svg \
+	src/icons/mail_generic.svg \
+	src/icons/mandrivaupdate.svg \
+	src/icons/mate-network-properties.svg \
+	src/icons/mate-notification-properties.svg \
+	src/icons/mate-panel-clock.svg \
+	src/icons/mate-panel-drawer.svg \
+	src/icons/mate-panel-fish.svg \
+	src/icons/mate-panel-force-quit.svg \
+	src/icons/mate-panel-launcher.svg \
+	src/icons/mate-panel-notification-area.svg \
+	src/icons/mate-panel-separator.svg \
+	src/icons/mate-panel.svg \
+	src/icons/mate-panel-window-list.svg \
+	src/icons/mate-panel-window-menu.svg \
+	src/icons/mate-panel-workspace-switcher.svg \
+	src/icons/mate-preferences-desktop-display.svg \
+	src/icons/mate-session-properties.svg \
+	src/icons/mate-typing-monitor.svg \
+	src/icons/media-player-banshee.svg \
+	src/icons/meld.svg \
+	src/icons/menu-editor.svg \
+	src/icons/midori.svg \
+	src/icons/mirage.svg \
+	src/icons/miro-128x128.svg \
+	src/icons/miro-24x24.svg \
+	src/icons/miro-48x48.svg \
+	src/icons/miro-72x72.svg \
+	src/icons/miro.svg \
+	src/icons/monitor.png \
+	src/icons/mousepad.svg \
+	src/icons/mplayer.svg \
+	src/icons/msg_error.svg \
+	src/icons/msg_info.svg \
+	src/icons/msg_warning.svg \
+	src/icons/mwm.svg \
+	src/icons/nautilus-actions.svg \
+	src/icons/nautilus-cd-burner.svg \
+	src/icons/nautilus-gdu.svg \
+	src/icons/nautilus.svg \
+	src/icons/nm-device-wired.svg \
+	src/icons/nm-no-connection.svg \
+	src/icons/nobody.png \
+	src/icons/nohost.png \
+	src/icons/notification-properties.svg \
+	src/icons/novell-button.png \
+	src/icons/nt.svg \
+	src/icons/nt-wm.svg \
+	src/icons/nx.svg \
+	src/icons/office-mail.svg \
+	src/icons/office-writer.svg \
+	src/icons/ogmrip.svg \
+	src/icons/ooo3.0.svg \
+	src/icons/ooo-base3.0.svg \
+	src/icons/ooo-base.svg \
+	src/icons/ooo-calc3.0.svg \
+	src/icons/ooo-calc.svg \
+	src/icons/ooo-draw3.0.svg \
+	src/icons/ooo-draw.svg \
+	src/icons/ooo-fromtemplate3.0.svg \
+	src/icons/ooo-fromtemplate.svg \
+	src/icons/ooo-gulls3.0.svg \
+	src/icons/ooo-gulls.svg \
+	src/icons/ooo-impress3.0.svg \
+	src/icons/ooo-impress.svg \
+	src/icons/ooo-main3.0.svg \
+	src/icons/ooo-main.svg \
+	src/icons/ooo-math3.0.svg \
+	src/icons/ooo-math.svg \
+	src/icons/ooo-printeradmin3.0.svg \
+	src/icons/ooo-printeradmin.svg \
+	src/icons/ooo.svg \
+	src/icons/ooo-template3.0.svg \
+	src/icons/ooo-template.svg \
+	src/icons/ooo-web3.0.svg \
+	src/icons/ooo-web.svg \
+	src/icons/ooo-writer3.0.svg \
+	src/icons/ooo-writer.svg \
+	src/icons/opennx-admin.svg \
+	src/icons/opennx-wizard.svg \
+	src/icons/openoffice3.0.svg \
+	src/icons/openofficeorg3.0-base.svg \
+	src/icons/openofficeorg3.0-calc.svg \
+	src/icons/openofficeorg3.0-draw.svg \
+	src/icons/openofficeorg3.0-fromtemplate.svg \
+	src/icons/openofficeorg3.0-gulls.svg \
+	src/icons/openofficeorg3.0-impress.svg \
+	src/icons/openofficeorg3.0-main.svg \
+	src/icons/openofficeorg3.0-math.svg \
+	src/icons/openofficeorg3.0-printeradmin.svg \
+	src/icons/openofficeorg3.0.svg \
+	src/icons/openofficeorg3.0-template.svg \
+	src/icons/openofficeorg3.0-web.svg \
+	src/icons/openofficeorg3.0-writer.svg \
+	src/icons/openofficeorg3-base.svg \
+	src/icons/openofficeorg3-calc.svg \
+	src/icons/openofficeorg3-draw.svg \
+	src/icons/openofficeorg3-fromtemplate.svg \
+	src/icons/openofficeorg3-gulls.svg \
+	src/icons/openofficeorg3-impress.svg \
+	src/icons/openofficeorg3-main.svg \
+	src/icons/openofficeorg3-math.svg \
+	src/icons/openofficeorg3-printeradmin.svg \
+	src/icons/openofficeorg3.svg \
+	src/icons/openofficeorg3-template.svg \
+	src/icons/openofficeorg3-web.svg \
+	src/icons/openofficeorg3-writer.svg \
+	src/icons/openofficeorg-base.svg \
+	src/icons/openofficeorg-calc.svg \
+	src/icons/openofficeorg-draw.svg \
+	src/icons/openofficeorg-fromtemplate.svg \
+	src/icons/openofficeorg-gulls.svg \
+	src/icons/openofficeorg-impress.svg \
+	src/icons/openofficeorg-main.svg \
+	src/icons/openofficeorg-math.svg \
+	src/icons/openofficeorg-printeradmin.svg \
+	src/icons/openofficeorg.svg \
+	src/icons/openofficeorg-template.svg \
+	src/icons/openofficeorg-web.svg \
+	src/icons/openofficeorg-writer.svg \
+	src/icons/openoffice.svg \
+	src/icons/openterm.svg \
+	src/icons/orca.svg \
+	src/icons/os_debian.png \
+	src/icons/oxine.svg \
+	src/icons/package-manager-icon.svg \
+	src/icons/palimpsest.svg \
+	src/icons/palm-pilot.svg \
+	src/icons/panel-tile.png \
+	src/icons/pan.svg \
+	src/icons/paraicon.png \
+	src/icons/password.png \
+	src/icons/pavumeter.svg \
+	src/icons/pawm.svg \
+	src/icons/pcmanfm.svg \
+	src/icons/pekwm.svg \
+	src/icons/phonon-gstreamer.svg \
+	src/icons/pidgin-menu.svg \
+	src/icons/pidgin.svg \
+	src/icons/pirut.svg \
+	src/icons/pitivi.svg \
+	src/icons/pixie.svg \
+	src/icons/pk-package-sources.svg \
+	src/icons/porthole.svg \
+	src/icons/poweredby.png \
+	src/icons/preferences-desktop-default-applications.svg \
+	src/icons/preferences-desktop-keyboard.svg \
+	src/icons/preferences-desktop-locale.svg \
+	src/icons/preferences-desktop-multimedia.svg \
+	src/icons/preferences-desktop-remote-desktop.svg \
+	src/icons/preferences-desktop-screensaver.svg \
+	src/icons/preferences-desktop-sound.svg \
+	src/icons/preferences-desktop-theme.svg \
+	src/icons/preferences-desktop-wallpaper.svg \
+	src/icons/preferences-sound.svg \
+	src/icons/preferences-system-firewall-new.svg \
+	src/icons/preferences-system-firewall.svg \
+	src/icons/preferences-system-windows.svg \
+	src/icons/preferences-theme.svg \
+	src/icons/preferences-wallpaper.svg \
+	src/icons/printer2.svg \
+	src/icons/puplet-screenshot.png \
+	src/icons/pup.svg \
+	src/icons/pybliographic.svg \
+	src/icons/pyrenamer.svg \
+	src/icons/python2.5.svg \
+	src/icons/python2.6.svg \
+	src/icons/python3.0.svg \
+	src/icons/python.svg \
+	src/icons/qemu-launcher.svg \
+	src/icons/qphotorec.svg \
+	src/icons/qtconfig.svg \
+	src/icons/QtProject-designer.png \
+	src/icons/qucs.svg \
+	src/icons/qv4l2.svg \
+	src/icons/rapidsvn.svg \
+	src/icons/rclock.svg \
+	src/icons/reboot-notifier.svg \
+	src/icons/redhat-accessories.png \
+	src/icons/redhat-applications.png \
+	src/icons/redhat-email.svg \
+	src/icons/redhat-extras.png \
+	src/icons/redhat-filemanager.svg \
+	src/icons/redhat-games.png \
+	src/icons/redhat-graphics.png \
+	src/icons/redhat-home.png \
+	src/icons/redhat-internet.png \
+	src/icons/redhat-main-menu.png \
+	src/icons/redhat-office.png \
+	src/icons/redhat-preferences.png \
+	src/icons/redhat-presentations.png \
+	src/icons/redhat-programming.png \
+	src/icons/redhat-server_settings.png \
+	src/icons/redhat-sound_video.png \
+	src/icons/redhat-spreadsheet.png \
+	src/icons/redhat-starthere.png \
+	src/icons/redhat-system_settings.png \
+	src/icons/redhat-system_tools.png \
+	src/icons/redhat-tools.png \
+	src/icons/redhat-web-browser.png \
+	src/icons/redhat-word-processor.png \
+	src/icons/referencer.svg \
+	src/icons/remmina.svg \
+	src/icons/resapplet.svg \
+	src/icons/rhythmbox-notplaying.svg \
+	src/icons/rhythmbox.svg \
+	src/icons/rhythmbox-tray-icon.svg \
+	src/icons/rip.svg \
+	src/icons/ristretto.svg \
+	src/icons/route.svg \
+	src/icons/rox.svg \
+	src/icons/roxterm.svg \
+	src/icons/rpmdrake.svg \
+	src/icons/samba_setup.svg \
+	src/icons/sane.png \
+	src/icons/scim-setup.svg \
+	src/icons/screensaver.svg \
+	src/icons/scribus.svg \
+	src/icons/seahorse-applet.svg \
+	src/icons/seahorse-preferences.svg \
+	src/icons/seahorse.svg \
+	src/icons/serpentine.svg \
+	src/icons/session-properties.svg \
+	src/icons/simple-ccsm.svg \
+	src/icons/skype.svg \
+	src/icons/sleep.svg \
+	src/icons/smplayer.svg \
+	src/icons/software-properties.svg \
+	src/icons/sound-juicer.svg \
+	src/icons/spectrwm.svg \
+	src/icons/status_lock.png \
+	src/icons/status_unlocked.png \
+	src/icons/sticky-notes.svg \
+	src/icons/stock_alarm.svg \
+	src/icons/stock_bluetooth.svg \
+	src/icons/stock_bookmark.svg \
+	src/icons/stock_delete-bookmark.svg \
+	src/icons/stock_edit-bookmark.svg \
+	src/icons/stock_help-agent.svg \
+	src/icons/stock_help.svg \
+	src/icons/stock_insert-note.svg \
+	src/icons/stock_mail-open.svg \
+	src/icons/stock_mail.svg \
+	src/icons/stock_new-spreadsheet.svg \
+	src/icons/stock_news.svg \
+	src/icons/stock_notes.svg \
+	src/icons/stock_printers.png \
+	src/icons/stock_task.svg \
+	src/icons/stock_todo.svg \
+	src/icons/style.svg \
+	src/icons/sun-java6.svg \
+	src/icons/sun_java.svg \
+	src/icons/susehelpcenter.svg \
+	src/icons/suse-menustripe.png \
+	src/icons/SuSEmenu.svg \
+	src/icons/synaptic.svg \
+	src/icons/sync_broken.png \
+	src/icons/sync_icon.png \
+	src/icons/syncing_icon.png \
+	src/icons/sync_paused.png \
+	src/icons/system-config-boot.svg \
+	src/icons/system-config-date.svg \
+	src/icons/system-config-display.svg \
+	src/icons/system-config-firewall.svg \
+	src/icons/system-config-language.svg \
+	src/icons/system-config-rootpassword.svg \
+	src/icons/system-config-securitylevel.svg \
+	src/icons/system-file-manager.svg \
+	src/icons/system-hibernate.svg \
+	src/icons/system-installer.svg \
+	src/icons/system-logo.png \
+	src/icons/system-logo-small.png \
+	src/icons/system-logo-white.png \
+	src/icons/system-release-white.png \
+	src/icons/system-restart.svg \
+	src/icons/system-shutdown-panel.svg \
+	src/icons/system-shut-down.svg \
+	src/icons/system-shutdown.svg \
+	src/icons/system-software-installer.svg \
+	src/icons/system-software-install.svg \
+	src/icons/system-software-update.svg \
+	src/icons/system-suspend-hibernate.svg \
+	src/icons/system-suspend.svg \
+	src/icons/system.svg \
+	src/icons/system-switch-user.svg \
+	src/icons/taskbar.svg \
+	src/icons/tdsl.svg \
+	src/icons/temp-home.png \
+	src/icons/Terminal.svg \
+	src/icons/terminal.svg \
+	src/icons/text-editor.svg \
+	src/icons/Thunar.svg \
+	src/icons/tigervnc.svg \
+	src/icons/tightvnc.svg \
+	src/icons/tilda.svg \
+	src/icons/time.svg \
+	src/icons/tint2conf.svg \
+	src/icons/tomboy-note.svg \
+	src/icons/tomboy.svg \
+	src/icons/totem.svg \
+	src/icons/totem-symbolic.svg \
+	src/icons/touchpad.svg \
+	src/icons/transmission.svg \
+	src/icons/tsclient.svg \
+	src/icons/tvm-burn-cd.svg \
+	src/icons/twm.svg \
+	src/icons/typing-monitor.svg \
+	src/icons/un-reboot.svg \
+	src/icons/update-manager.svg \
+	src/icons/usb-creator-gtk.svg \
+	src/icons/usb-creator.svg \
+	src/icons/user_add.svg \
+	src/icons/user-bookmarks.svg \
+	src/icons/user_icon.png \
+	src/icons/utilities-system-monitor.svg \
+	src/icons/utilities-terminal.svg \
+	src/icons/VBox.svg \
+	src/icons/velox.svg \
+	src/icons/vim.svg \
+	src/icons/vinagre.svg \
+	src/icons/virtualbox.svg \
+	src/icons/vlc.svg \
+	src/icons/vmplayer.svg \
+	src/icons/vmware-player.svg \
+	src/icons/vmware-server-console.svg \
+	src/icons/vmware-server.svg \
+	src/icons/vmware.svg \
+	src/icons/vmware-workstation.svg \
+	src/icons/vtwm.svg \
+	src/icons/wallpaper.svg \
+	src/icons/wesnoth-icon.svg \
+	src/icons/wesnoth.svg \
+	src/icons/windwm.svg \
+	src/icons/winecfg.svg \
+	src/icons/wine-doors.svg \
+	src/icons/wine-notepad.svg \
+	src/icons/wine.svg \
+	src/icons/wine-uninstaller.svg \
+	src/icons/wine-winecfg.svg \
+	src/icons/wine-winefile.svg \
+	src/icons/wm2.svg \
+	src/icons/wmaker.svg \
+	src/icons/wmii.svg \
+	src/icons/wmtweaks.svg \
+	src/icons/wmudmount-lock.svg \
+	src/icons/wmudmount-unlock.svg \
+	src/icons/wmx.svg \
+	src/icons/workspace-switcher.svg \
+	src/icons/www.svg \
+	src/icons/xarchiver.svg \
+	src/icons/xboard.svg \
+	src/icons/xchat2.svg \
+	src/icons/xchat-gnome.svg \
+	src/icons/xchat.svg \
+	src/icons/xdvi.png \
+	src/icons/xdwm.svg \
+	src/icons/xfardic-logo.svg \
+	src/icons/xfce4-autostart-editor.svg \
+	src/icons/xfce4-backdrop.svg \
+	src/icons/xfce4-clock.svg \
+	src/icons/xfce4-menueditor.svg \
+	src/icons/xfce4-notes-plugin.svg \
+	src/icons/xfce4-session.svg \
+	src/icons/xfce4-splash.svg \
+	src/icons/xfce4-systray.svg \
+	src/icons/xfce4-taskbar.svg \
+	src/icons/xfce4-ui.svg \
+	src/icons/xfce4-workspaces.svg \
+	src/icons/xfce4_xicon1.svg \
+	src/icons/xfce-edit.svg \
+	src/icons/xfce-filemanager.svg \
+	src/icons/xfce-mail.svg \
+	src/icons/xfce-man.svg \
+	src/icons/xfce-schedule.svg \
+	src/icons/xfce-sound.svg \
+	src/icons/xfce-terminal.svg \
+	src/icons/xfsm-hibernate.svg \
+	src/icons/xfsm-reboot.svg \
+	src/icons/xfsm-shutdown.svg \
+	src/icons/xfsm-suspend.svg \
+	src/icons/xfsm-switch.svg \
+	src/icons/xfwm4.svg \
+	src/icons/xine.svg \
+	src/icons/xlogo.svg \
+	src/icons/xmms2-black-on-white.svg \
+	src/icons/xmms2.svg \
+	src/icons/xmms2-white-on-black.svg \
+	src/icons/x-office-mail.svg \
+	src/icons/xpdf-rosa.svg \
+	src/icons/x-pdf.svg \
+	src/icons/xpdf.svg \
+	src/icons/xplanetFX.svg \
+	src/icons/xrdp.png \
+	src/icons/xsane.svg \
+	src/icons/xsane.xpm \
+	src/icons/xscreensaver.svg \
+	src/icons/x-system-software-sources.svg \
+	src/icons/xterm.svg \
+	src/icons/xvkbd.svg \
+	src/icons/yast-addon.svg \
+	src/icons/yast-answering_machine.svg \
+	src/icons/yast-autofs.svg \
+	src/icons/yast-autoyast.svg \
+	src/icons/yast-backup.svg \
+	src/icons/yast-bluetooth.svg \
+	src/icons/yast-bootfloppy.svg \
+	src/icons/yast-bootloader.svg \
+	src/icons/yast-bootmsg.svg \
+	src/icons/yast-ca_mgm.svg \
+	src/icons/yast-cd-creator.svg \
+	src/icons/yast-cdrom.svg \
+	src/icons/yast-cd_update.svg \
+	src/icons/yast-checkmedia.svg \
+	src/icons/yast-common_cert.svg \
+	src/icons/yast-controller.svg \
+	src/icons/yast-dasd.svg \
+	src/icons/yast-dhcp-server.svg \
+	src/icons/yast-dirinstall.svg \
+	src/icons/yast-disk.svg \
+	src/icons/yast-dns-server.svg \
+	src/icons/yast-dns.svg \
+	src/icons/yast-dsl.svg \
+	src/icons/yast-dump.svg \
+	src/icons/yast-fax.svg \
+	src/icons/yast-fingerprint.svg \
+	src/icons/yast-firewall.svg \
+	src/icons/yast-groups.svg \
+	src/icons/yast-hardware.svg \
+	src/icons/yast-heartbeat.svg \
+	src/icons/yast-host.svg \
+	src/icons/yast-http-server.svg \
+	src/icons/yast-hwinfo.svg \
+	src/icons/yast-idedma.svg \
+	src/icons/yast-inetd.svg \
+	src/icons/yast-inst-mode.svg \
+	src/icons/yast-instserver.svg \
+	src/icons/yast-irda.svg \
+	src/icons/yast-iscsi-client.svg \
+	src/icons/yast-iscsi-server.svg \
+	src/icons/yast-isdn.svg \
+	src/icons/yast-isns.svg \
+	src/icons/yast-joystick.svg \
+	src/icons/yast-kerberos.svg \
+	src/icons/yast-keyboard.svg \
+	src/icons/yast-language.svg \
+	src/icons/yast-lan.svg \
+	src/icons/yast-ldap-browser.svg \
+	src/icons/yast-ldap-server.svg \
+	src/icons/yast-ldap.svg \
+	src/icons/yast-license.svg \
+	src/icons/yast-lvm_config.svg \
+	src/icons/yast-mail-server.svg \
+	src/icons/yast-mail.svg \
+	src/icons/yast-messages.svg \
+	src/icons/yast-misc.svg \
+	src/icons/yast-modem.svg \
+	src/icons/yast-mouse.svg \
+	src/icons/yast-network_devices.svg \
+	src/icons/yast-network_services.svg \
+	src/icons/yast-network.svg \
+	src/icons/yast-nfs_server.svg \
+	src/icons/yast-nfs.svg \
+	src/icons/yast-nis_server.svg \
+	src/icons/yast-nis.svg \
+	src/icons/yast-ntp-client.svg \
+	src/icons/yast-online_update.svg \
+	src/icons/yast-pci_id.svg \
+	src/icons/yast-power-management.svg \
+	src/icons/yast-powertweak.svg \
+	src/icons/yast-printer.svg \
+	src/icons/yast-product-registration.svg \
+	src/icons/yast-profile-manager.svg \
+	src/icons/yast-proxy.svg \
+	src/icons/yast-release-notes.svg \
+	src/icons/yast-remote.svg \
+	src/icons/yast-restore.svg \
+	src/icons/yast-routing.svg \
+	src/icons/yast-samba-client.svg \
+	src/icons/yast-samba-server.svg \
+	src/icons/yast-scanner.svg \
+	src/icons/yast-security.svg \
+	src/icons/yast-slp-server.svg \
+	src/icons/yast-software.svg \
+	src/icons/yast-sound.svg \
+	src/icons/yast_source.svg \
+	src/icons/yast-sudoers.svg \
+	src/icons/yast-support.svg \
+	src/icons/yast-sw_single.svg \
+	src/icons/yast-sw_source.svg \
+	src/icons/yast-sysconfig.svg \
+	src/icons/yast-system.svg \
+	src/icons/yast-tftp-server.svg \
+	src/icons/yast-timezone.svg \
+	src/icons/yast-tv.svg \
+	src/icons/yast-uml.svg \
+	src/icons/yast-update.svg \
+	src/icons/yast-vdisk.svg \
+	src/icons/yast-vendor.svg \
+	src/icons/yast-wol.svg \
+	src/icons/yast-x11.svg \
+	src/icons/yast-xpram.svg \
+	src/icons/yast-yast-language.svg \
+	src/icons/yast-zfcp.svg \
+	src/icons/yeahwm.svg \
+	src/icons/yumex.svg \
+	src/icons/zen-icon.svg \
+	src/icons/zim.svg
+
+dist_noinst_DATA = \
+	$(pixmap_ICONS)
+
+install-data-hook:
+	$(NORMAL_INSTALL)
+	@x="$(DESTDIR)$(icondir)/" ; \
+	test -d "$$x" || $(MKDIR_P) "$$x" ; \
+	list="$(pixmap_ICONS)" ; for f in $$list ; do \
+		d=; if test -f "$(srcdir)/$$f" ; then d="$(srcdir)/" ; fi ; \
+		case "$$f" in \
+		*.png) \
+			echo " $(INSTALL_DATA) \"$$d$$f\" \"$$x\"" ; \
+			$(INSTALL_DATA) "$$d$$f" "$$x" ;; \
+		*.xpm) \
+			echo " $(INSTALL_DATA) \"$$d$$f\" \"$$x\"" ; \
+			$(INSTALL_DATA) "$$d$$f" "$$x" ;; \
+		*.svg) \
+			p=`basename "$$f" .svg`.png ; \
+			g=`basename "$$f" .svg`.svg ; \
+			echo " rsvg-convert -w 48 -h 48 -z 1.0 -f svg \"$$d$$f\" | sed -e 's,\"48pt\",\"48px\",g' >\"$$x$$g\"" ; \
+			rsvg-convert -w 48 -h 48 -z 1.0 -f svg "$$d$$f" | sed -e 's,"48pt","48px",g' >"$$x$$g" ; \
+			echo " rsvg-convert -w 48 -h 48 -z 1.0 -f png \"$$x$$g\" -o \"$$x$$p\"" ; \
+			rsvg-convert -w 48 -h 48 -z 1.0 -f png "$$x$$g" -o "$$x$$p" ;; \
+		esac ; \
+	done
+
+uninstall-hook:
+	$(NORMAL_UNINSTALL)
+	@x="$(DESTDIR)$(icondir)/" ; \
+	list="$(pixmap_ICONS)" ; for f in $$list ; do \
+		case "$$f" in \
+		*.png) \
+			p=`basename "$$f"` ; rm -fv "$$x$$p" ;; \
+		*.xpm) \
+			p=`basename "$$f"` ; rm -fv "$$x$$p" ;; \
+		*.svg) \
+			p=`basename "$$f" .svg`.png ; rm -fv "$$x$$p" ; \
+			g=`basename "$$f" .svg`.svg ; rm -fv "$$x$$g" ;; \
+		esac ; \
+	done
+

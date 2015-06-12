@@ -6,305 +6,352 @@ use open IN => ':utf8', OUT => ':locale';
 
 my %defaults = (
 	Version=>'1.0',
+	Encoding=>'UTF-8',
 	Type=>'Application',
 	Terminal=>'false',
-	StartupNotify=>'false',
+	DBusActivatable=>'false',
+	Hidden=>'false',
+	NoDisplay=>'false',
+	Actions=>'',
+	MimeType=>'',
+	Categories=>'',
+	Keywords=>'',
+	OnlyShowIn=>'',
+	NotShowIn=>'',
+);
+
+my %assumed = (
+	Version=>'1.0',
 	Encoding=>'UTF-8',
+	Terminal=>'false',
+	DBusActivatable=>'false',
+	Hidden=>'false',
+	NoDisplay=>'false',
+	Actions=>'',
+	MimeType=>'',
+	Categories=>'',
+	Keywords=>'',
+	OnlyShowIn=>'',
+	NotShowIn=>'',
 );
 
-my @order = (
-	'Version',
-	'Encoding',
-	'Type',
-	'Name',
-	'GenericName',
-	'X-GNOME-FullName',
-	'Comment',
-	'Icon',
-	'TryExec',
-	'Exec',
-	'MultipleArgs',
-	'X-MultipleArgs',
+my @localized = (qw(
+	Name
+	GenericName
+	Comment
+	X-GNOME-FullName
+	Keywords
+	X-GNOME-Keywords
+	X-KDE-Keywords
+));
 
-	'ServiceTypes',
-	'X-ServiceTypes',
-	'X-DBUS-ServiceName',
-	'X-DCOP-ServiceName',
-	'X-Osso-Service',
-	'X-DBUS-ServiceType',
-	'X-DCOP-ServiceType',
-	'X-Osso-Type',
-	'X-DBUS-StartupType',
-
-	'Terminal',
-	'TerminalOptions',
-	'NoDisplay',
-	'Hidden',
-	'OnlyShowIn',
-	'NotShowIn',
-	'Categories',
-	'Keywords',
-	'X-GNOME-Keywords',
-	'X-KDE-Keywords',
-
-	'MimeType',
-	'FilePattern',
-	'Patterns',
-	'Path',
-	'URL',
-
-	'StartupNotify',
-	'StartupWMClass',
-	'XClassHintResName',
-	'InitialPreference',
-	'DocPath',
-	'X-DocPath',
-	'X-KDE-DocPath',
-
-	'SingleInstance',
-	'X-SingleInstance',
-	'X-MB-SingleInstance',
-
-	'X-GIO-NoFuse',
-	'X-KDE-Protocols',
-
-	'X-XFCE-Binaries',
-	'X-XFCE-Category',
-	'X-XFCE-Commands',
-	'X-XFCE-CommandsWithParameter',
-
-	'X-KDE-AuthorizeAction',
-	'X-KDE-autostart-after',
-	'X-KDE-autostart-condition',
-	'X-KDE-autostart-phase',
-	'X-KDE-BrowserView-Args',
-	'X-KDE-FactoryName',
-	'X-KDE-HasReadOnlyMode',
-	'X-KDE-HasTempFileOption',
-	'X-KDE-Library',
-	'X-KDE-ModuleType',
-	'X-KDE-NativeMimeType',
-	'X-KDE-NOTKoDocumentEmbeddable',
-	'X-KDE-RootOnly',
-	'X-KDE-ServiceTypes',
-	'X-KDE-StartupNotify',
-	'X-KDE-SubstituteUID',
-	'X-KDE-UniqueApplet',
-	'X-KDE-Username',
-
-	'X-GNOME-Autostart-Notify',
-	'X-GNOME-Autostart-Phase',
-	'X-GNOME-Provides',
-	'X-GNOME-WMName',
-
-	'X-GNOME-AutoRestart',
-	'X-GNOME-Autostart-enabled',
-	'X-GNOME-DocPath',
-	'X-GNOME-Gettext-Domain',
-	'X-GNOME-Username',
-	'X-GnomeWMSettingsLibrary',
-	'X-GNOME-WMSettingsModule',
-
-	'X-GNOME-Bugzilla-Bugzilla',
-	'X-GNOME-Bugzilla-Product',
-	'X-GNOME-Bugzilla-Component',
-	'X-GNOME-Bugzilla-Version',
-	'X-GNOME-Bugzilla-OtherBinaries',
-	'X-GNOME-Bugzilla-ExtraInfoScript',
-	'X-Desktop-File-Install-Version',
-
-	'X-AppInstall-Package',
-	'X-AppInstall-Popcon',
-	'X-AppInstall-Section',
-	'X-AppInstall-Architectures',
-
-	'X-Arch-Package',
-	'X-Arch-Package-Repository',
-	'X-Arch-Package-Name',
-	'X-Arch-Package-Version',
-	'X-Arch-Package-Description',
-	'X-Arch-Package-Groups',
-	'X-Arch-Package-URL',
-	'X-Arch-Package-Votes',
-
+my %verbs = (
+	Name=>1,
+	GenericName=>1,
+	'X-GNOME-FullName'=>1,
+	Comment=>1,
+	Icon=>1,
+	TryExec=>1,
+	Exec=>1,
+	MultipleArgs=>1,
+	'X-MultipleArgs'=>1,
+	Keywords=>1,
+	'X-GNOME-Keywords'=>1,
+	'X-KDE-Keywords'=>1,
 );
 
-my @multiples = (
-	'ServiceTypes',
-	'OnlyShowIn',
-	'NotShowIn',
-	'Categories',
-	'Keywords',
-	'X-GNOME-Keywords',
-	'X-KDE-Keywords',
-	'MimeType',
-	'Patterns',
-	'X-KDE-Protocols',
-	'X-XFCE-Binaries',
-	'X-XFCE-Commands',
-	'X-XFCE-CommandsWithParameter',
-	'X-KDE-ServiceTypes',
-);
+my @order = (qw(
+	Version
+	Encoding
+	Type
+	Name
+	GenericName
+	X-GNOME-FullName
+	Comment
+	Icon
+	TryExec
+	Exec
+	MultipleArgs
+	X-MultipleArgs
 
-my @corder = (
+	ServiceTypes
+	X-ServiceTypes
+	X-DBUS-ServiceName
+	X-DCOP-ServiceName
+	X-Osso-Service
+	X-DBUS-ServiceType
+	X-DCOP-ServiceType
+	X-Osso-Type
+	X-DBUS-StartupType
 
-	'DockApp',
-	'TrayIcon',
-	'WindowManager',
-	'Application',
+	Terminal
+	TerminalOptions
+	NoDisplay
+	Hidden
+	OnlyShowIn
+	NotShowIn
+	Categories
+	Keywords
+	X-GNOME-Keywords
+	X-KDE-Keywords
 
-	'AudioVideo',
-	'Audio',
-	'Video',
-	'Development',
-	'Education',
-	'Game',
-	'Graphics',
-	'Network',
-	'Office',
-	'Science',
-	'Settings',
-	'System',
-	'Utility',
+	MimeType
+	FilePattern
+	Patterns
+	Path
+	URL
 
-	'Building',
-	'Debugger',
-	'IDE',
-	'GUIDesigner',
-	'Profiling',
-	'RevisionControl',
-	'Translation',
-	'Calendar',
-	'ContactManagement',
-	'Database',
-	'Dictionary',
-	'Chart',
-	'Email',
-	'Finance',
-	'FlowChart',
-	'PDA',
-	'ProjectManagement',
-	'Presentation',
-	'Spreadsheet',
-	'WordProcessor',
-	'2DGraphics',
-	'VectorGraphics',
-	'RasterGraphics',
-	'3DGraphics',
-	'Scanning',
-	'OCR',
-	'Photography',
-	'Publishing',
-	'Viewer',
-	'TextTools',
-	'DesktopSettings',
-	'HardwareSettings',
-	'Printing',
-	'PackageManager',
-	'Dialup',
-	'InstantMessaging',
-	'Chat',
-	'IRCClient',
-	'Feed',
-	'FileTransfer',
-	'HamRadio',
-	'News',
-	'P2P',
-	'RemoteAccess',
-	'Telephony',
-	'TelephonyTools',
-	'VideoConference',
-	'WebBrowser',
-	'WebDevelopment',
-	'Midi',
-	'Mixer',
-	'Sequencer',
-	'Tuner',
-	'TV',
-	'AudioVideoEditing',
-	'Player',
-	'Recorder',
-	'DiscBurning',
-	'ActionGame',
-	'AdventureGame',
-	'ArcadeGame',
-	'BoardGame',
-	'BlocksGame',
-	'CardGame',
-	'KidsGame',
-	'LogicGame',
-	'RolePlaying',
-	'Shooter',
-	'Simulation',
-	'SportsGame',
-	'StrategyGame',
-	'Art',
-	'Construction',
-	'Music',
-	'Languages',
-	'ArtificialIntelligence',
-	'Astronomy',
-	'Biology',
-	'Chemistry',
-	'ComputerScience',
-	'DataVisualization',
-	'Economy',
-	'Electricity',
-	'Geography',
-	'Geology',
-	'Geoscience',
-	'History',
-	'Humanities',
-	'ImageProcessing',
-	'Literature',
-	'Maps',
-	'Math',
-	'NumericalAnalysis',
-	'MedicalSoftware',
-	'Physics',
-	'Robotics',
-	'Spirituality',
-	'Sports',
-	'ParallelComputing',
-	'Amusement',
-	'Archiving',
-	'Compression',
-	'Electronics',
-	'Emulator',
-	'Engineering',
-	'FileTools',
-	'FileManager',
-	'TerminalEmulator',
-	'Filesystem',
-	'Monitor',
-	'Security',
-	'Accessibility',
-	'Calculator',
-	'Clock',
-	'TextEditor',
-	'Documentation',
-	'Adult',
-	'Core',
+	StartupNotify
+	StartupWMClass
+	XClassHintResName
+	InitialPreference
+	DocPath
+	X-DocPath
+	X-KDE-DocPath
 
-	'XDE',
-	'KDE',
-	'GNOME',
-	'XFCE',
-	'X-XFCE',
-	'LXDE',
-	'EDE',
-	'WMAKER',
-	'GTK',
-	'Qt',
-	'Motif',
-	'Java',
-	'ConsoleOnly',
+	SingleInstance
+	X-SingleInstance
+	X-MB-SingleInstance
+
+	X-GIO-NoFuse
+	X-KDE-Protocols
+
+	X-XFCE-Binaries
+	X-XFCE-Category
+	X-XFCE-Commands
+	X-XFCE-CommandsWithParameter
+
+	X-KDE-AuthorizeAction
+	X-KDE-autostart-after
+	X-KDE-autostart-condition
+	X-KDE-autostart-phase
+	X-KDE-BrowserView-Args
+	X-KDE-FactoryName
+	X-KDE-HasReadOnlyMode
+	X-KDE-HasTempFileOption
+	X-KDE-Library
+	X-KDE-ModuleType
+	X-KDE-NativeMimeType
+	X-KDE-NOTKoDocumentEmbeddable
+	X-KDE-RootOnly
+	X-KDE-ServiceTypes
+	X-KDE-StartupNotify
+	X-KDE-SubstituteUID
+	X-KDE-UniqueApplet
+	X-KDE-Username
+
+	X-GNOME-Autostart-Notify
+	X-GNOME-Autostart-Phase
+	X-GNOME-Provides
+	X-GNOME-WMName
+
+	X-GNOME-AutoRestart
+	X-GNOME-Autostart-enabled
+	X-GNOME-DocPath
+	X-GNOME-Gettext-Domain
+	X-GNOME-Username
+	X-GnomeWMSettingsLibrary
+	X-GNOME-WMSettingsModule
+
+	X-GNOME-Bugzilla-Bugzilla
+	X-GNOME-Bugzilla-Product
+	X-GNOME-Bugzilla-Component
+	X-GNOME-Bugzilla-Version
+	X-GNOME-Bugzilla-OtherBinaries
+	X-GNOME-Bugzilla-ExtraInfoScript
+	X-Desktop-File-Install-Version
+
+	X-AppInstall-Package
+	X-AppInstall-Popcon
+	X-AppInstall-Section
+	X-AppInstall-Architectures
+
+	X-Arch-Package
+	X-Arch-Package-Repository
+	X-Arch-Package-Name
+	X-Arch-Package-Version
+	X-Arch-Package-Description
+	X-Arch-Package-Groups
+	X-Arch-Package-URL
+	X-Arch-Package-Votes
+
+));
+
+my @multiples = (qw(
+	ServiceTypes
+	OnlyShowIn
+	NotShowIn
+	Categories
+	Keywords
+	X-GNOME-Keywords
+	X-KDE-Keywords
+	MimeType
+	Patterns
+	X-KDE-Protocols
+	X-XFCE-Binaries
+	X-XFCE-Commands
+	X-XFCE-CommandsWithParameter
+	X-KDE-ServiceTypes
+));
+
+my @corder = (qw(
+
+	DockApp
+	TrayIcon
+	WindowManager
+	Application
+
+	AudioVideo
+	Audio
+	Video
+	Development
+	Education
+	Game
+	Graphics
+	Network
+	Office
+	Science
+	Settings
+	System
+	Utility
+
+	Building
+	Debugger
+	IDE
+	GUIDesigner
+	Profiling
+	RevisionControl
+	Translation
+	Calendar
+	ContactManagement
+	Database
+	Dictionary
+	Chart
+	Email
+	Finance
+	FlowChart
+	PDA
+	ProjectManagement
+	Presentation
+	Spreadsheet
+	WordProcessor
+	2DGraphics
+	VectorGraphics
+	RasterGraphics
+	3DGraphics
+	Scanning
+	OCR
+	Photography
+	Publishing
+	Viewer
+	TextTools
+	DesktopSettings
+	HardwareSettings
+	Printing
+	PackageManager
+	Dialup
+	InstantMessaging
+	Chat
+	IRCClient
+	Feed
+	FileTransfer
+	HamRadio
+	News
+	P2P
+	RemoteAccess
+	Telephony
+	TelephonyTools
+	VideoConference
+	WebBrowser
+	WebDevelopment
+	Midi
+	Mixer
+	Sequencer
+	Tuner
+	TV
+	AudioVideoEditing
+	Player
+	Recorder
+	DiscBurning
+	ActionGame
+	AdventureGame
+	ArcadeGame
+	BoardGame
+	BlocksGame
+	CardGame
+	KidsGame
+	LogicGame
+	RolePlaying
+	Shooter
+	Simulation
+	SportsGame
+	StrategyGame
+	Art
+	Construction
+	Music
+	Languages
+	ArtificialIntelligence
+	Astronomy
+	Biology
+	Chemistry
+	ComputerScience
+	DataVisualization
+	Economy
+	Electricity
+	Geography
+	Geology
+	Geoscience
+	History
+	Humanities
+	ImageProcessing
+	Literature
+	Maps
+	Math
+	NumericalAnalysis
+	MedicalSoftware
+	Physics
+	Robotics
+	Spirituality
+	Sports
+	ParallelComputing
+	Amusement
+	Archiving
+	Compression
+	Electronics
+	Emulator
+	Engineering
+	FileTools
+	FileManager
+	TerminalEmulator
+	Filesystem
+	Monitor
+	Security
+	Accessibility
+	Calculator
+	Clock
+	TextEditor
+	Documentation
+	Adult
+	Core
+
+	XDE
+	KDE
+	GNOME
+	XFCE
+	X-XFCE
+	LXDE
+	EDE
+	WMAKER
+	GTK
+	Qt
+	Motif
+	Java
+	ConsoleOnly
 
 
-);
+));
 
-my @sorder = (
-qw(
+my @sorder = (qw(
 	GNOME
 	KDE
 	XDE
@@ -362,8 +409,7 @@ qw(
 	WMX
 	XDWM
 	YEAHWM
-)
-);
+));
 
 my $debug = 0;
 
@@ -389,6 +435,7 @@ foreach my $a (@args) {
 	my $kf = Glib::KeyFile->new;
 	if ($kf->load_from_file($a, ['keep-comments', 'keep-translations'])) {
 		print STDERR "# --> FILE: $a\n" if $debug;
+		my $b = $a; $b =~ s/.*\///;
 		my %keys;
 		my @groups = $kf->get_groups;
 		my $first = 1;
@@ -396,7 +443,7 @@ foreach my $a (@args) {
 			print "\n" unless $first;
 			$first = 0;
 			print "[$g]\n";
-			if ($g ne 'Desktop Entry') {
+			if ($g ne 'Desktop Entry' and $g !~ /^Desktop Action/) {
 				foreach my $k ($kf->get_keys($g)) {
 					next if $k eq 'X-Arch-Package';
 					print "$k=";
@@ -413,18 +460,64 @@ foreach my $a (@args) {
 						$keys{$k}=$defaults{$k};
 					}
 				}
-				if (exists $keys{Exec} and not exists $keys{TryExec}) {
-					$keys{TryExec} = (split(/\s+/, $keys{Exec}))[0];
-					if ($keys{TryExec} =~ /^[^\/]*$/) {
-						$keys{TryExec} = "/usr/bin/".$keys{TryExec};
+				foreach my $k (keys %assumed) {
+					if (exists $keys{$k} and $keys{$k} eq $assumed{$k}) {
+						delete $keys{$k};
 					}
 				}
-				if (not exists $keys{"X-Arch-Package-Name"} and $a =~ /\.desktop$/) {
-					print STDERR "# --> CHECKING: file '$a'\n" if $debug;
-					foreach my $d (@appdirs) {
-						print STDERR "# --> CHECKING: '$d/$a'\n" if $debug;
-						next unless -r "$d/$a";
-						my $p = `yaourt -Qo $d/$a 2>/dev/null`;
+				foreach my $l (@localized) {
+					next unless exists $keys{$l};
+					foreach my $k (sort keys %keys) {
+						if ($k =~ /^$l[[]/ and $keys{$k} eq $keys{$l}) {
+							delete $keys{$k};
+						}
+
+					}
+				}
+				if (exists $keys{Exec} and not exists $keys{TryExec}) {
+					$keys{TryExec} = (split(/\s+/, $keys{Exec}))[0];
+				}
+				if ($keys{TryExec} and $keys{TryExec} =~ /^[^\/]*$/) {
+					$keys{TryExec} = "/usr/bin/".$keys{TryExec};
+				}
+				if ($g eq 'Desktop Entry') {
+					if (not exists $keys{"X-Arch-Package-Name"} and $b =~ /\.desktop$/) {
+						print STDERR "# --> CHECKING: file '$b'\n" if $debug;
+						foreach my $d (@appdirs) {
+							print STDERR "# --> CHECKING: '$d/$b'\n" if $debug;
+							next unless -r "$d/$b";
+							my $p = `yaourt -Qo $d/$b 2>/dev/null`;
+							chomp $p;
+							$p =~ s/.*is owned by //;
+							if ($p) {
+								$keys{'X-Arch-Package'} = $p;
+								my $n = (split(/\s+/,$p))[0];
+								my @lines = (`yaourt -Qi $n 2>/dev/null`);
+								for my $l (@lines) {
+									chomp $l;
+									my @fields = (split(/\s+/,$l,3));
+									my $k = $fields[0];
+									if ($k =~ /^(Repository|Name|Version|Description|Groups|URL|Votes)$/) {
+										$keys{"X-Arch-Package-$k"} = $fields[2];
+									}
+									if ($k eq 'Name') {
+										$keys{"X-AppInstall-Package"} = $fields[2];
+									}
+									if ($k eq 'Repository') {
+										$keys{"X-AppInstall-Section"} = $fields[2];
+									}
+									if ($k eq 'Votes') {
+										$keys{"X-AppInstall-Popcon"} = $fields[2]
+										if $fields[2] and not $keys{"X-AppInstall-Popcon"};
+									}
+								}
+								last;
+							}
+						}
+					}
+					if (not exists $keys{"X-Arch-Package-Name"} and exists $keys{TryExec} and $b ne 'tmp.log') {
+						print STDERR "# --> CHECKING: binary '$keys{TryExec}'\n" if $debug;
+						my $p = `yaourt -Qo $keys{TryExec} 2>/dev/null`;
 						chomp $p;
 						$p =~ s/.*is owned by //;
 						if ($p) {
@@ -449,19 +542,12 @@ foreach my $a (@args) {
 									if $fields[2] and not $keys{"X-AppInstall-Popcon"};
 								}
 							}
-							last;
 						}
 					}
-				}
-				if (not exists $keys{"X-Arch-Package-Name"} and exists $keys{TryExec} and $a ne 'tmp.log') {
-					print STDERR "# --> CHECKING: binary '$keys{TryExec}'\n" if $debug;
-					my $p = `yaourt -Qo $keys{TryExec} 2>/dev/null`;
-					chomp $p;
-					$p =~ s/.*is owned by //;
-					if ($p) {
-						$keys{'X-Arch-Package'} = $p;
+					if (not exists $keys{"X-Arch-Package-Name"} and exists $keys{"X-Arch-Package"}) {
+						my $p = $keys{'X-Arch-Package'};
 						my $n = (split(/\s+/,$p))[0];
-						my @lines = (`yaourt -Qi $n 2>/dev/null`);
+						my @lines = (`yaourt -Si $n 2>/dev/null`);
 						for my $l (@lines) {
 							chomp $l;
 							my @fields = (split(/\s+/,$l,3));
@@ -481,122 +567,99 @@ foreach my $a (@args) {
 							}
 						}
 					}
-				}
-				if (not exists $keys{"X-Arch-Package-Name"} and exists $keys{"X-Arch-Package"}) {
-					my $p = $keys{'X-Arch-Package'};
-					my $n = (split(/\s+/,$p))[0];
-					my @lines = (`yaourt -Si $n 2>/dev/null`);
-					for my $l (@lines) {
-						chomp $l;
-						my @fields = (split(/\s+/,$l,3));
-						my $k = $fields[0];
-						if ($k =~ /^(Repository|Name|Version|Description|Groups|URL|Votes)$/) {
-							$keys{"X-Arch-Package-$k"} = $fields[2];
-						}
-						if ($k eq 'Name') {
-							$keys{"X-AppInstall-Package"} = $fields[2];
-						}
-						if ($k eq 'Repository') {
-							$keys{"X-AppInstall-Section"} = $fields[2];
-						}
-						if ($k eq 'Votes') {
-							$keys{"X-AppInstall-Popcon"} = $fields[2]
-							if $fields[2] and not $keys{"X-AppInstall-Popcon"};
-						}
-					}
-				}
-				if (not exists $keys{"X-Arch-Package-Name"} and exists $keys{"X-AppInstall-Package"}) {
-					my $p = $keys{'X-AppInstall-Package'};
-					my $n = (split(/\s+/,$p))[0];
-					my @lines = (`yaourt -Si $n 2>/dev/null`);
-					for my $l (@lines) {
-						chomp $l;
-						my @fields = (split(/\s+/,$l,3));
-						my $k = $fields[0];
-						if ($k =~ /^(Repository|Name|Version|Description|Groups|URL|Votes)$/) {
-							$keys{"X-Arch-Package-$k"} = $fields[2];
-						}
-						if ($k eq 'Name') {
-							$keys{"X-AppInstall-Package"} = $fields[2];
-						}
-						if ($k eq 'Repository') {
-							$keys{"X-AppInstall-Section"} = $fields[2];
-						}
-						if ($k eq 'Votes') {
-							$keys{"X-AppInstall-Popcon"} = $fields[2]
-							if $fields[2] and not $keys{"X-AppInstall-Popcon"};
+					if (not exists $keys{"X-Arch-Package-Name"} and exists $keys{"X-AppInstall-Package"}) {
+						my $p = $keys{'X-AppInstall-Package'};
+						my $n = (split(/\s+/,$p))[0];
+						my @lines = (`yaourt -Si $n 2>/dev/null`);
+						for my $l (@lines) {
+							chomp $l;
+							my @fields = (split(/\s+/,$l,3));
+							my $k = $fields[0];
+							if ($k =~ /^(Repository|Name|Version|Description|Groups|URL|Votes)$/) {
+								$keys{"X-Arch-Package-$k"} = $fields[2];
+							}
+							if ($k eq 'Name') {
+								$keys{"X-AppInstall-Package"} = $fields[2];
+							}
+							if ($k eq 'Repository') {
+								$keys{"X-AppInstall-Section"} = $fields[2];
+							}
+							if ($k eq 'Votes') {
+								$keys{"X-AppInstall-Popcon"} = $fields[2]
+								if $fields[2] and not $keys{"X-AppInstall-Popcon"};
+							}
 						}
 					}
-				}
-				if (not exists $keys{"X-Arch-Package-Name"} and $a =~ /\.desktop$/) {
-					my $p = $a; $p =~ s/\.desktop$//;
-					my $n = "\L$p\E";
-					my @lines = (`yaourt -Si $n 2>/dev/null`);
-					for my $l (@lines) {
-						chomp $l;
-						my @fields = (split(/\s+/,$l,3));
-						my $k = $fields[0];
-						if ($k =~ /^(Repository|Name|Version|Description|Groups|URL|Votes)$/) {
-							$keys{"X-Arch-Package-$k"} = $fields[2];
-						}
-						if ($k eq 'Name') {
-							$keys{"X-AppInstall-Package"} = $fields[2];
-						}
-						if ($k eq 'Repository') {
-							$keys{"X-AppInstall-Section"} = $fields[2];
-						}
-						if ($k eq 'Votes') {
-							$keys{"X-AppInstall-Popcon"} = $fields[2]
-							if $fields[2] and not $keys{"X-AppInstall-Popcon"};
-						}
-					}
-				}
-				if (not exists $keys{"X-Arch-Package-Name"} and exists $keys{TryExec}) {
-					my $p = $keys{TryExec};
-					my $n = $p; $n =~ s/^.*\///;
-					my @lines = (`yaourt -Si $n 2>/dev/null`);
-					for my $l (@lines) {
-						chomp $l;
-						my @fields = (split(/\s+/,$l,3));
-						my $k = $fields[0];
-						if ($k =~ /^(Repository|Name|Version|Description|Groups|URL|Votes)$/) {
-							$keys{"X-Arch-Package-$k"} = $fields[2];
-						}
-						if ($k eq 'Name') {
-							$keys{"X-AppInstall-Package"} = $fields[2];
-						}
-						if ($k eq 'Repository') {
-							$keys{"X-AppInstall-Section"} = $fields[2];
-						}
-						if ($k eq 'Votes') {
-							$keys{"X-AppInstall-Popcon"} = $fields[2]
-							if $fields[2] and not $keys{"X-AppInstall-Popcon"};
+					if (not exists $keys{"X-Arch-Package-Name"} and $b =~ /\.desktop$/) {
+						my $p = $b; $p =~ s/\.desktop$//;
+						my $n = "\L$p\E";
+						my @lines = (`yaourt -Si $n 2>/dev/null`);
+						for my $l (@lines) {
+							chomp $l;
+							my @fields = (split(/\s+/,$l,3));
+							my $k = $fields[0];
+							if ($k =~ /^(Repository|Name|Version|Description|Groups|URL|Votes)$/) {
+								$keys{"X-Arch-Package-$k"} = $fields[2];
+							}
+							if ($k eq 'Name') {
+								$keys{"X-AppInstall-Package"} = $fields[2];
+							}
+							if ($k eq 'Repository') {
+								$keys{"X-AppInstall-Section"} = $fields[2];
+							}
+							if ($k eq 'Votes') {
+								$keys{"X-AppInstall-Popcon"} = $fields[2]
+								if $fields[2] and not $keys{"X-AppInstall-Popcon"};
+							}
 						}
 					}
-				}
-				if ($keys{"X-Arch-Package-Name"} and $a ne 'tmp.log') {
-					my $n = $keys{"X-Arch-Package-Name"};
-					my @lines = (`yaourt -Si $n 2>/dev/null`);
-					for my $l (@lines) {
-						chomp $l;
-						my @fields = (split(/\s+/,$l,3));
-						my $k = $fields[0];
-						if ($k =~ /^(Repository|Name|Version|Description|Groups|URL|Votes)$/) {
-							$keys{"X-Arch-Package-$k"} = $fields[2];
-						}
-						if ($k eq 'Name') {
-							$keys{"X-AppInstall-Package"} = $fields[2];
-						}
-						if ($k eq 'Repository') {
-							$keys{"X-AppInstall-Section"} = $fields[2];
-						}
-						if ($k eq 'Votes') {
-							$keys{"X-AppInstall-Popcon"} = $fields[2]
-							if $fields[2] and not $keys{"X-AppInstall-Popcon"};
+					if (not exists $keys{"X-Arch-Package-Name"} and exists $keys{TryExec}) {
+						my $p = $keys{TryExec};
+						my $n = $p; $n =~ s/^.*\///;
+						my @lines = (`yaourt -Si $n 2>/dev/null`);
+						for my $l (@lines) {
+							chomp $l;
+							my @fields = (split(/\s+/,$l,3));
+							my $k = $fields[0];
+							if ($k =~ /^(Repository|Name|Version|Description|Groups|URL|Votes)$/) {
+								$keys{"X-Arch-Package-$k"} = $fields[2];
+							}
+							if ($k eq 'Name') {
+								$keys{"X-AppInstall-Package"} = $fields[2];
+							}
+							if ($k eq 'Repository') {
+								$keys{"X-AppInstall-Section"} = $fields[2];
+							}
+							if ($k eq 'Votes') {
+								$keys{"X-AppInstall-Popcon"} = $fields[2]
+								if $fields[2] and not $keys{"X-AppInstall-Popcon"};
+							}
 						}
 					}
-				} else {
-					print STDERR "==> WARNING: no package found for $a\n" if $debug;
+					if ($keys{"X-Arch-Package-Name"} and $b ne 'tmp.log') {
+						my $n = $keys{"X-Arch-Package-Name"};
+						my @lines = (`yaourt -Si $n 2>/dev/null`);
+						for my $l (@lines) {
+							chomp $l;
+							my @fields = (split(/\s+/,$l,3));
+							my $k = $fields[0];
+							if ($k =~ /^(Repository|Name|Version|Description|Groups|URL|Votes)$/) {
+								$keys{"X-Arch-Package-$k"} = $fields[2];
+							}
+							if ($k eq 'Name') {
+								$keys{"X-AppInstall-Package"} = $fields[2];
+							}
+							if ($k eq 'Repository') {
+								$keys{"X-AppInstall-Section"} = $fields[2];
+							}
+							if ($k eq 'Votes') {
+								$keys{"X-AppInstall-Popcon"} = $fields[2]
+								if $fields[2] and not $keys{"X-AppInstall-Popcon"};
+							}
+						}
+					} else {
+						print STDERR "==> WARNING: no package found for $b\n" if $debug;
+					}
 				}
 				foreach my $k (@multiples) {
 					if (exists $keys{$k} and $keys{$k}) {
@@ -677,8 +740,10 @@ foreach my $a (@args) {
 						$keys{$k} =~ s/\s+$//;
 						$keys{$k} =~ s/^\s+//;
 						if ($keys{$k} ne '') {
-							print STDERR "# --> PRINTING: key '$k'\n" if $debug;
-							print "$k=$keys{$k}\n";
+							if ($g eq 'Desktop Entry' or exists $verbs{$k}) {
+								print STDERR "# --> PRINTING: key '$k'\n" if $debug;
+								print "$k=$keys{$k}\n";
+							}
 						}
 						delete $keys{$k};
 					}
@@ -688,8 +753,10 @@ foreach my $a (@args) {
 							$keys{$c} =~ s/\s+$//;
 							$keys{$c} =~ s/^\s+//;
 							if ($keys{$c} ne '') {
-								print STDERR "# --> PRINTING: key '$c'\n" if $debug;
-								print "$c=$keys{$c}\n";
+								if ($g eq 'Desktop Entry' or exists $verbs{$k}) {
+									print STDERR "# --> PRINTING: key '$c'\n" if $debug;
+									print "$c=$keys{$c}\n";
+								}
 							}
 							delete $keys{$c};
 						}
@@ -709,7 +776,9 @@ foreach my $a (@args) {
 					}
 				}
 				if ($actions) {
-					printf "Actions=$actions\n";
+					if ($g eq 'Desktop Entry') {
+						printf "Actions=$actions\n";
+					}
 				}
 			}
 		}

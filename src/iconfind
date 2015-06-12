@@ -1,0 +1,74 @@
+#!/bin/bash
+
+d1=${1:-fallback}
+
+#find $d1 -type f -name '*.desktop' \
+#	|sort \
+#	|xargs grep -l 'X-Arch-Package-Name' \
+#	|xargs grep '^Icon=' \
+#	|sed 's,:, ,;s,=, ,' \
+#	|awk '{print$1" "$3}' \
+#	|while read f i ; do
+#	echo -n "==> $f -> $i: " >&2
+#	icon=$(xdg-icon -e svg -t gnome-brave -s 48 -w "$i")
+#	echo -e "\n--> $icon" >&2
+#	n=$(basename $i)
+#	n=$(echo "$n"|sed 's,\..*$,,')
+#done
+
+find $d1 -type f -name '*.desktop' |sort|while read f
+do
+	p=$(awk 'BEGIN{FS="="}/^X-Arch-Package-Name=/{print$2;exit(0)}' $f)
+	if [ -n "$p" ]
+	then
+		echo "$f -> $p"
+	else
+		echo "E: $f has no package" >&2
+		continue
+	fi
+	v=$(pacman -Qq "$p" 2>/dev/null)
+	if [ -z "$v" ]
+	then
+		echo "W: $f with package $p is not installed" >&2
+	fi
+	n=$(awk 'BEGIN{FS="="}/^Icon=/{print$2;exit(0)}' $f)
+	if [ -n "$n" ]
+	then
+		echo "$f => $n"
+	else
+		echo "E: $f with package $p has no Icon" >&2
+		continue
+	fi
+	i=
+	case "$n" in
+		/*) if [ -r "$n" ]; then i="$n" ; fi ;;
+		 *) n=$(basename "$n"); n=$(echo "$n"|sed 's,\..*$,,') ;;
+	esac
+	if [ -z "$i" ]
+	then
+		i=$(xdg-icon -w -e svg "$n")
+	fi
+	if [ -z "$i" ]
+	then
+		i=$(xdg-icon -w -s 48 "$n")
+	fi
+	if [ -n "$i" ]
+	then
+		echo "$f >> $i"
+	else
+		if [ -n "$v" ]
+		then
+			echo "E: $f with package $p does not install Icon $n" >&2
+		else
+			echo "W: $f with package $p has no pre-installed Icon $n" >&2
+		fi
+		continue
+	fi
+	o=$(pacman -Qoq "$i" 2>/dev/null)
+	if [ -n "$o" -a "$o" = "$p" ]
+	then
+		echo "I: $f with package $p  owns its Icon $n ($i)" >&2
+	else
+		echo "W: $f with package $p  does not own Icon $n ($i)" >&2
+	fi
+done

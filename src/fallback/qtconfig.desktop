@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Qt Config
+Comment=Configure Qt behavior, styles, fonts
+Icon=qtlogo
+TryExec=/usr/bin/qtconfig
+Exec=/usr/bin/qtconfig
+NoDisplay=true
+Categories=Settings;Qt;
+StartupNotify=false
+X-AppInstall-Package=qtchooser
+X-AppInstall-Section=extra
+X-Arch-Package=qtchooser 48-1
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=qtchooser
+X-Arch-Package-Version=48-1
+X-Arch-Package-Description=Wrap the other Qt tools by searching for different instances of Qt on the system
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://qt.gitorious.org/qt/qtchooser

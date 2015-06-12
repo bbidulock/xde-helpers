@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Java
+Comment=Java Virtual Machine
+Icon=sun-java.png
+TryExec=/usr/bin/java
+Exec=java -jar
+NoDisplay=true
+Categories=Applications;
+MimeType=application/x-java-archive;application/x-jar;
+StartupNotify=false
+X-AppInstall-Package=java-gcj-compat
+X-AppInstall-Section=custom
+X-Arch-Package=java-gcj-compat 1.0.80-4
+X-Arch-Package-Repository=custom
+X-Arch-Package-Name=java-gcj-compat
+X-Arch-Package-Version=1.0.80-4
+X-Arch-Package-Description=Wrapper package to wrap free tools into a java 1.5.0.0 compatible java environment
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.eclipse.org/

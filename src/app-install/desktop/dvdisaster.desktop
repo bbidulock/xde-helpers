@@ -1,16 +1,16 @@
 [Desktop Entry]
 Type=Application
 Name=dvdisaster
-GenericName=data archival
+GenericName=DVD Recovery Tool
 GenericName[de]=Daten-Archivierung
 Comment=Additional error protection for CD/DVD media
 Comment[cs]=Přídavná ochrana pro média CD/DVD
 Comment[de]=Zusätzliche Fehlerkorrektur für CD/DVD
-Icon=dvdisaster.png
+Icon=dvdisaster
 TryExec=/usr/bin/dvdisaster
 Exec=dvdisaster
-Categories=Application;System;
-StartupNotify=false
+Categories=AudioVideo;System;GTK;
+StartupNotify=true
 X-AppInstall-Package=dvdisaster
 X-AppInstall-Popcon=133
 X-AppInstall-Section=community

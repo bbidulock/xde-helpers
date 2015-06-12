@@ -2,10 +2,10 @@
 Type=Application
 Name=3D Acceleration
 Comment=Change 3D Acceleration options
-Icon=_usr_share_driconf_driconf-icon
+Icon=drilogo
 TryExec=/usr/bin/driconf
 Exec=driconf
-Categories=Application;Settings;GNOME;AdvancedSettings;
+Categories=Settings;GNOME;AdvancedSettings;
 StartupNotify=true
 X-AppInstall-Package=driconf
 X-AppInstall-Popcon=174

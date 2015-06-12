@@ -11,7 +11,6 @@ Icon=etracer
 TryExec=/usr/bin/etracer
 Exec=etracer
 Categories=Game;ArcadeGame;
-StartupNotify=false
 X-AppInstall-Package=extremetuxracer
 X-AppInstall-Popcon=228
 X-AppInstall-Section=community

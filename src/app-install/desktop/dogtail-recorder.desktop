@@ -2,7 +2,7 @@
 Type=Application
 Name=Dogtail Script Recorder
 Comment=Automate your desktop using Dogtail
-Icon=dogtail-head.svg
+Icon=dogtail-head
 TryExec=/usr/bin/dogtail-recorder
 Exec=dogtail-recorder
 Categories=Application;Development;

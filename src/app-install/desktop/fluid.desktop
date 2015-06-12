@@ -7,7 +7,6 @@ TryExec=/usr/bin/fluid
 Exec=fluid %F
 Categories=Development;GUIDesigner;
 MimeType=application/x-fluid;
-StartupNotify=false
 X-AppInstall-Package=fltk
 X-AppInstall-Popcon=34
 X-AppInstall-Section=extra

@@ -1,0 +1,12 @@
+#!/bin/bash
+
+for f in *.svg
+do
+	echo "--> $f -> scaled/$f"
+	rsvg-convert -w 48 -h 48 -z 1.0 -f svg $f | \
+		sed -e 's,"48pt","48px",g' \
+		>scaled/$f
+	g=$(basename $f .svg).png
+	echo "    $f -> large/$g"
+	convert -antialias -scale 48x48 -background None -adaptive-sharpen 3x3x scaled/$f large/$g
+done

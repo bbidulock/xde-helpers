@@ -1,0 +1,31 @@
+#!/bin/bash
+
+f1=${1:-evenmore.lst}
+d2=${2:-evenmore}
+
+eval "list=( \$(cat \$f1) )"
+
+for f in ${list[@]}
+do
+	n=$(basename "$f")
+	if [ ! -r "$d2/$n" ]
+	then
+		echo "--> processing $f"
+		dpretty "$f" >"$d2/$n"
+	else
+		echo "--> processing $f"
+		dpretty "$f" >"more$$.tmp"
+		if diff -q "$d2/$n" "more$$.tmp"
+		then
+			echo "--> matches $d2/$n"
+		else
+			vimdiff "$d2/$n" "more$$.tmp"
+			echo -n "continue? "
+			read line
+			if [ "$line" = "q" ]
+			then
+				exit 0
+			fi
+		fi
+	fi
+done

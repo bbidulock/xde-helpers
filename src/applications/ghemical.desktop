@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Ghemical
+GenericName=Computational chemistry package
+GenericName[de]=Chemisches Berechnungsprogramm
+Comment=3D molecule editor and computing program
+Comment[de]=3D Moleküleditor und Berechnungsprogramm
+Icon=ghemical
+TryExec=/usr/bin/ghemical
+Exec=ghemical
+Categories=Education;Science;Chemistry;GTK;
+StartupNotify=true
+X-AppInstall-Package=ghemical
+X-AppInstall-Popcon=4
+X-AppInstall-Section=custom
+X-Arch-Package=ghemical 3.0.0-3
+X-Arch-Package-Repository=custom
+X-Arch-Package-Name=ghemical
+X-Arch-Package-Version=3.0.0-3
+X-Arch-Package-Description=Computational chemistry package
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://bioinformatics.org/ghemical/ghemical/
+X-Arch-Package-Votes=4

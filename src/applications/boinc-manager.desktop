@@ -1,0 +1,27 @@
+[Desktop Entry]
+Type=Application
+Name=BOINC Manager
+GenericName=BOINC monitor and control utility
+GenericName[cs]=Monitorovací a ovládací nástroj pro BOINC
+GenericName[de]=BOINC Überwachungs- und Kontrollprogramm
+GenericName[pt]=Monitorização BOINC e utilitário de controlo
+Comment=Configure or monitor a BOINC core client
+Comment[cs]=Monitoruje a nastavuje klienta BOINC
+Comment[de]=BOINC Basis Client konfigurieren oder überwachen
+Comment[pt]=Configurar ou monitorizar o cliente básico do BOINC
+Icon=boincmgr-32.xpm
+TryExec=/usr/bin/boincmgr
+Exec=/usr/bin/boincmgr
+Categories=System;Monitor;GTK;
+Path=/var/lib/boinc-client
+StartupNotify=false
+X-AppInstall-Package=boinc
+X-AppInstall-Popcon=399
+X-AppInstall-Section=community
+X-Arch-Package=boinc 7.2.42-1
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=boinc
+X-Arch-Package-Version=7.2.42-1
+X-Arch-Package-Description=Berkeley Open Infrastructure for Network Computing for desktop
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://boinc.berkeley.edu/
