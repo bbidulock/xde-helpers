@@ -1,9 +1,9 @@
-xde-helpers -- read me first file.  2015-06-06
+xde-helpers -- read me first file.  2015-06-12
 
 xde-helpers
 ===========
 
-Package xde-helpers-1.1.167 was released under GPLv3 license 2015-06-06.
+Package xde-helpers-1.1.168 was released under GPLv3 license 2015-06-12.
 
 This is a set of .desktop files intended to assist the XDE (X Desktop
 Environment).
@@ -11,7 +11,7 @@ Environment).
 Release
 -------
 
-This is the xde-helpers-1.1.167 package, released 2015-06-06.  This release,
+This is the xde-helpers-1.1.168 package, released 2015-06-12.  This release,
 and the latest version, can be obtained from the GitHub repository at
 (http://github.com/bbidulock/xde-helpers), using a command such as:
 

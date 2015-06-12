@@ -26,6 +26,7 @@ dockdir='$(xdedir)/dockapps'
 traydir='$(xdedir)/trayicons'
 backdir='$(xdedir)/fallback'
 sessdir='$(xdedir)/xsessions'
+icondir='$(xdedir)/pixmaps'
 dirsdir='$(xdedir)/desktop-directories'
 xdgdir='$(sysconfdir)/xdg/xde'
 autodir='$(xdgdir)/autostart'
@@ -37,6 +38,7 @@ AC_SUBST([dockdir])
 AC_SUBST([traydir])
 AC_SUBST([backdir])
 AC_SUBST([sessdir])
+AC_SUBST([icondir])
 AC_SUBST([dirsdir])
 AC_SUBST([xdgdir])
 AC_SUBST([autodir])
