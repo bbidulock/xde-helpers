@@ -731,18 +731,6 @@ dist_appl_DATA = \
 	src/applications/xclock.desktop \
 	src/applications/xcolorsel.desktop \
 	src/applications/xconsole.desktop \
-	src/applications/xde-app.desktop \
-	src/applications/xde-input.desktop \
-	src/applications/xde-logout.desktop \
-	src/applications/xde-pager.desktop \
-	src/applications/xde-panel.desktop \
-	src/applications/xde-run.desktop \
-	src/applications/xde-setbg.desktop \
-	src/applications/xde-watch.desktop \
-	src/applications/xde-xlock.desktop \
-	src/applications/xdg-launch.desktop \
-	src/applications/xdg-monitor.desktop \
-	src/applications/xdg-traymenu.desktop \
 	src/applications/xditview.desktop \
 	src/applications/xdpyinfo.desktop \
 	src/applications/xdvi.desktop \
