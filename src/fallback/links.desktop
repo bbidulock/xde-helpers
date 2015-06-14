@@ -63,7 +63,6 @@ X-XFCE-Category=WebBrowser
 X-XFCE-Commands=exo-open --launch TerminalEmulator %B;
 X-XFCE-CommandsWithParameter=exo-open --launch TerminalEmulator %B %s;
 X-AppInstall-Package=links
-X-AppInstall-Popcon=0
 X-AppInstall-Section=core
 X-Arch-Package=links 2.9-1
 X-Arch-Package-Repository=core

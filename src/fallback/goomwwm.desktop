@@ -15,7 +15,6 @@ X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=goomwwm
 X-AppInstall-Package=goomwwm-git
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=goomwwm-git 1:1.0.0.73.g25c9a12-2
 X-Arch-Package-Repository=custom

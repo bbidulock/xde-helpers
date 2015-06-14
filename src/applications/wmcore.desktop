@@ -11,7 +11,6 @@ Categories=DockApp;WMAKER;
 StartupNotify=false
 StartupWMClass=wmcore
 X-AppInstall-Package=wmcore
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=wmcore 0.0.2-11
 X-Arch-Package-Repository=custom

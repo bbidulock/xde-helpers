@@ -8,7 +8,6 @@ Exec=xcircuit
 Categories=Application;Electronics;Engineering;
 StartupNotify=false
 X-AppInstall-Package=xcircuit
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package=xcircuit 3.8.78-1
 X-Arch-Package-Repository=community

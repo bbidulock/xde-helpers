@@ -13,7 +13,6 @@ Exec=supertux
 Categories=Application;Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=supertux
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=supertux

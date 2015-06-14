@@ -10,7 +10,6 @@ StartupNotify=false
 X-KDE-autostart-after=panel
 X-GNOME-Autostart-enabled=true
 X-AppInstall-Package=virtualbox-guest-utils
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package=virtualbox-guest-utils 4.3.28-1
 X-Arch-Package-Repository=community

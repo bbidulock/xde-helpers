@@ -16,7 +16,6 @@ X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=pekwm
 X-AppInstall-Package=pekwm-git
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=pekwm-git 1:0.1.17.r115.gf055b87-2
 X-Arch-Package-Repository=custom

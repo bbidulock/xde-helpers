@@ -11,7 +11,6 @@ Categories=DockApp;WMAKER;
 StartupNotify=false
 StartupWMClass=wmmixer
 X-AppInstall-Package=wmmixer
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=wmmixer 1.7+20141005-1
 X-Arch-Package-Repository=custom

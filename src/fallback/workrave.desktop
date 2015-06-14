@@ -14,7 +14,6 @@ Exec=workrave
 Categories=Application;Other;
 StartupNotify=false
 X-AppInstall-Package=workrave
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=workrave

@@ -11,7 +11,6 @@ Categories=DockApp;WMAKER;
 StartupNotify=false
 StartupWMClass=wmcpumon
 X-AppInstall-Package=wmcpuload
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=wmcpuload 1.0.1-2
 X-Arch-Package-Repository=custom

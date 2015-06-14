@@ -74,7 +74,6 @@ Exec=xfce4-screenshooter
 Categories=Utility;GTK;
 StartupNotify=true
 X-AppInstall-Package=xfce4-screenshooter
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package-Repository=extra
 X-Arch-Package-Name=xfce4-screenshooter

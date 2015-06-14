@@ -8,7 +8,6 @@ Exec=xtetris
 Categories=Game;BlocksGame;
 StartupNotify=false
 X-AppInstall-Package=xtetris
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=xtetris 2.6-2
 X-Arch-Package-Repository=custom

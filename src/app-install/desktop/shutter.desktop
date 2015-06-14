@@ -10,7 +10,6 @@ Categories=Application;Utility;
 MimeType=image/bmp;image/jpeg;image/gif;image/png;image/tiff;image/x-bmp;image/x-ico;image/x-png;image/x-pcx;image/x-tga;image/xpm;image/svg+xml;
 StartupNotify=false
 X-AppInstall-Package=shutter
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=shutter

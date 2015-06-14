@@ -16,7 +16,6 @@ X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=yeahwm
 X-AppInstall-Package=yeahwm
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=yeahwm 0.3.5-3
 X-Arch-Package-Repository=custom
@@ -26,6 +25,7 @@ X-Arch-Package-Description=YeahWM - a window manager for X based on evilwm and a
 X-Arch-Package-Groups=yeahtools
 X-Arch-Package-URL=http://phrat.de/index.html
 DesktopNames=YEAHWM
+X-LightDM-DesktopName=yeahwm
 Actions=XDE;
 
 [Desktop Action XDE]
@@ -35,6 +35,7 @@ Icon=xde
 TryExec=/usr/bin/xde-session
 Exec=xde-session -desktop YEAHWM -startwm start-yeahwm
 DesktopNames=XDE:YEAHWM
+X-LightDM-DesktopName=xde
 
 [Window Manager]
 Name=yeahwm

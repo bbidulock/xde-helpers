@@ -95,7 +95,6 @@ Exec=xv
 Categories=Application;Graphics;
 StartupNotify=false
 X-AppInstall-Package=xv
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package=xv 3.10a-18
 X-Arch-Package-Repository=community

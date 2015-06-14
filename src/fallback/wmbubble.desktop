@@ -11,7 +11,6 @@ Categories=DockApp;WMAKER;
 StartupNotify=false
 StartupWMClass=wmbubble
 X-AppInstall-Package=wmbubble
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=wmbubble 1.49rc2.r13.gcd98c65-1
 X-Arch-Package-Repository=custom

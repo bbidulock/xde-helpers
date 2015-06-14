@@ -90,7 +90,6 @@ Exec=xfce4-dict
 Categories=Office;Dictionary;GTK;
 StartupNotify=true
 X-AppInstall-Package=xfce4-dict
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package-Repository=extra
 X-Arch-Package-Name=xfce4-dict

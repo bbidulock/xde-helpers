@@ -16,7 +16,6 @@ X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=wmx
 X-AppInstall-Package=wmx-svn
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=wmx-svn r114-2
 X-Arch-Package-Repository=custom
@@ -26,6 +25,7 @@ X-Arch-Package-Description=The ideal window manager for today's elegant and asce
 X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://www.all-day-breakfast.com/wmx/
 DesktopNames=WMX
+X-LightDM-DesktopName=wmx
 Actions=XDE;
 
 [Desktop Action XDE]
@@ -34,6 +34,7 @@ Icon=xde
 TryExec=/usr/bin/xde-session
 Exec=xde-session -desktop WMX -startwm start-wmx
 DesktopNames=XDE:WMX
+X-LightDM-DesktopName=xde
 
 [Window Manager]
 Name=wmx

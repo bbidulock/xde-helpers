@@ -116,7 +116,6 @@ Categories=System;Monitor;GTK;
 StartupNotify=false
 X-Desktop-File-Install-Version=0.22
 X-AppInstall-Package=system-config-printer
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=system-config-printer 1.5.7-1
 X-Arch-Package-Repository=extra

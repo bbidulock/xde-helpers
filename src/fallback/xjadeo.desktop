@@ -9,7 +9,6 @@ Exec=/usr/bin/qjadeo
 Categories=AudioVideo;Video;Player;
 StartupNotify=false
 X-AppInstall-Package=xjadeo
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
 X-Arch-Package-Repository=community

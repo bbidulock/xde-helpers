@@ -8,7 +8,6 @@ Exec=stuurman-desktop --desktop-pref
 Categories=Settings;DesktopSettings;GTK;
 StartupNotify=true
 X-AppInstall-Package=stuurman-desktop-git
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=stuurman-desktop-git 1:r1061.e188c48-1
 X-Arch-Package-Repository=custom

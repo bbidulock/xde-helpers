@@ -6,7 +6,6 @@ TryExec=/usr/bin/pactl
 Exec=pactl load-module module-x11-xsmp
 StartupNotify=false
 X-AppInstall-Package=libpulse
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=libpulse 6.0-2
 X-Arch-Package-Repository=extra

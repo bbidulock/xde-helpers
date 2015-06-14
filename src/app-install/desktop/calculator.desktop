@@ -10,7 +10,6 @@ Categories=Utility;Calculator;
 StartupNotify=false
 StartupWMClass=Calculator
 X-AppInstall-Package=fox
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package=fox 1:1.6.50-1
 X-Arch-Package-Repository=community

@@ -11,7 +11,6 @@ Categories=AudioVideo;AudioVideoEditing;GTK;
 MimeType=application/winff;
 StartupNotify=false
 X-AppInstall-Package=winff
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-AppInstall-Architectures=amd64,i386,powerpc,sparc
 X-Arch-Package-Repository=community

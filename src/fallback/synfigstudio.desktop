@@ -9,7 +9,6 @@ Categories=Graphics;2DGraphics;VectorGraphics;GTK;
 MimeType=image/sif;
 StartupNotify=true
 X-AppInstall-Package=synfigstudio
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=synfigstudio

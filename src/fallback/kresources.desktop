@@ -215,7 +215,6 @@ X-KDE-HasReadOnlyMode=false
 X-KDE-Library=kresources
 X-KDE-ModuleType=Library
 X-AppInstall-Package=kdelibs
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package-Repository=extra
 X-Arch-Package-Name=kdelibs

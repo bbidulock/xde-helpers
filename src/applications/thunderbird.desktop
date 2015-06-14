@@ -21,7 +21,6 @@ X-XFCE-Category=MailReader
 X-XFCE-Commands=%B;
 X-XFCE-CommandsWithParameter=/usr/lib/xfce4/exo-1/exo-compose-mail-1 mozilla-remote %B "mailto:%s";/usr/lib/xfce4/exo-1/exo-compose-mail-1 mozilla %B "mailto:%s";
 X-AppInstall-Package=thunderbird
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package-Repository=extra
 X-Arch-Package-Name=thunderbird

@@ -98,7 +98,6 @@ Categories=Network;WebBrowser;GTK;X-Ximian-Main;X-Ximian-Toplevel;
 MimeType=text/html;text/xml;application/xhtml+xml;application/vnd.mozilla.xul+xml;text/mml;application/x-xpinstall;
 StartupNotify=true
 X-AppInstall-Package=firefox
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=firefox 38.0.5-1
 X-Arch-Package-Repository=extra

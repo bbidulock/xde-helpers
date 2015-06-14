@@ -9,7 +9,6 @@ MultipleArgs=false
 Categories=AfterStepConfig;
 StartupNotify=false
 X-AppInstall-Package=afterstep-git
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=afterstep-git 2.2.12.r18.g4f62e0d-1
 X-Arch-Package-Repository=custom

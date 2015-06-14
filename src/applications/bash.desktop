@@ -13,7 +13,6 @@ Categories=Shells;
 StartupNotify=false
 DocPath=/usr/share/doc/packages/bash/bashref.html
 X-AppInstall-Package=bash
-X-AppInstall-Popcon=0
 X-AppInstall-Section=core
 X-Arch-Package=bash 4.3.039-1
 X-Arch-Package-Repository=core

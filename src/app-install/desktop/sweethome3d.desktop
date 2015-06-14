@@ -9,7 +9,6 @@ Exec=sweethome3d
 Categories=Graphics;2DGraphics;3DGraphics;
 StartupNotify=true
 X-AppInstall-Package=sweethome3d
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=sweethome3d

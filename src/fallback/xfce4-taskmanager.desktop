@@ -42,7 +42,6 @@ Exec=xfce4-taskmanager
 Categories=Application;System;Utility;
 StartupNotify=true
 X-AppInstall-Package=xfce4-taskmanager
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package-Repository=extra
 X-Arch-Package-Name=xfce4-taskmanager

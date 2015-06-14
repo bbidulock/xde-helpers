@@ -15,7 +15,6 @@ X-GNOME-Autostart-Phase=Applications
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=evilwm
 X-AppInstall-Package=evilwm
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=evilwm 1.1.0-1
 X-Arch-Package-Repository=custom
@@ -25,6 +24,7 @@ X-Arch-Package-Description=Minimalist but usable window manager for the X Window
 X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://evilwm.sourceforge.net
 DesktopNames=EVILWM
+X-LightDM-DesktopName=evilwm
 Actions=XDE;
 
 [Desktop Action XDE]
@@ -34,6 +34,7 @@ Icon=xde
 TryExec=/usr/bin/xde-session
 Exec=xde-session -desktop EVILWM -startwm start-evilwm
 DesktopNames=XDE:EVILWM
+X-LightDM-DesktopName=xde
 
 [Window Manager]
 Name=evilwm

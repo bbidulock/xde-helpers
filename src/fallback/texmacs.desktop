@@ -10,7 +10,6 @@ Categories=Application;Science;Utility;
 MimeType=text/x-texmacs;text/plain;text/x-tex;
 StartupNotify=false
 X-AppInstall-Package=texmacs
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package-Repository=extra
 X-Arch-Package-Name=texmacs

@@ -70,7 +70,6 @@ X-XFCE-Category=TerminalEmulator
 X-XFCE-Commands=%B;
 X-XFCE-CommandsWithParameter=%B -e %s;
 X-AppInstall-Package=rxvt-unicode
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package=rxvt-unicode 9.21-1
 X-Arch-Package-Repository=community

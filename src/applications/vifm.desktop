@@ -12,7 +12,6 @@ Keywords=File;Directory;Browse;
 MimeType=inode/directory;
 StartupNotify=false
 X-AppInstall-Package=vifm
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package=vifm 0.7.8-1
 X-Arch-Package-Repository=community

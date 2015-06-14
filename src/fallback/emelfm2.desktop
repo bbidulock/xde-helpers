@@ -16,7 +16,6 @@ Categories=Application;System;Utility;FileTools;FileManager;Core;GTK;
 MimeType=inode/directory;inode/mount-point;
 StartupNotify=false
 X-AppInstall-Package=emelfm2
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package=emelfm2 0.9.1-1
 X-Arch-Package-Repository=community

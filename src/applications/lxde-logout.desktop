@@ -27,7 +27,6 @@ NoDisplay=true
 OnlyShowIn=LXDE;
 StartupNotify=false
 X-AppInstall-Package=lxde-common
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package=lxde-common 0.99.0-2
 X-Arch-Package-Repository=community

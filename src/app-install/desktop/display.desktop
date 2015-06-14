@@ -9,7 +9,6 @@ Exec=display
 Categories=Graphics;
 StartupNotify=false
 X-AppInstall-Package=imagemagick
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=imagemagick 6.9.1.2-1
 X-Arch-Package-Repository=extra

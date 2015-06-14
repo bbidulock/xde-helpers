@@ -28,7 +28,6 @@ StartupNotify=false
 X-KDE-StartupNotify=false
 X-Desktop-File-Install-Version=0.18
 X-AppInstall-Package=smplayer
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package-Repository=extra
 X-Arch-Package-Name=smplayer

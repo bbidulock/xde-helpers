@@ -9,7 +9,6 @@ TryExec=/usr/bin/gfontview
 Exec=gfontview
 StartupNotify=false
 X-AppInstall-Package=gfontview
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=gfontview 0.5.0-2
 X-Arch-Package-Repository=custom

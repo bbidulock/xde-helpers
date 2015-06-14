@@ -10,7 +10,6 @@ X-MultipleArgs=false
 Categories=Application;Graphics;
 StartupNotify=true
 X-AppInstall-Package=xaos
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package-Repository=extra
 X-Arch-Package-Name=xaos

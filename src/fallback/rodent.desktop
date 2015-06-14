@@ -56,7 +56,6 @@ X-XFCE-Category=FileManager
 X-XFCE-Commands=%B;
 X-XFCE-CommandsWithParameter=%B "%s";
 X-AppInstall-Package=rodent
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package-Repository=custom
 X-Arch-Package-Name=rodent

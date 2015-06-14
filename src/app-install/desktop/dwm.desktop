@@ -16,7 +16,6 @@ X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=dwm
 X-AppInstall-Package=dwm-git
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=dwm-git 1:6.0.43.g14343e6-1
 X-Arch-Package-Repository=custom

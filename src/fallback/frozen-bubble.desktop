@@ -1,11 +1,10 @@
 [Desktop Entry]
 Type=Application
-Name=Frozen-Bubble
+Name=Frozen Bubble
 Comment=Pop out the bubbles !
-Icon=frozen-bubble-icon-48x48.png
-TryExec=/usr/bin/frozen-bubble
-Exec=frozen-bubble
-X-MultipleArgs=false
+Icon=frozen-bubble
+TryExec=/usr/bin/vendor_perl/frozen-bubble
+Exec=/usr/bin/vendor_perl/frozen-bubble
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=frozen-bubble

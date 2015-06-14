@@ -16,7 +16,6 @@ X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=mantis-wm
 X-AppInstall-Package=mantis-wm-git
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=mantis-wm-git 0.11.c5805bd-2
 X-Arch-Package-Repository=custom

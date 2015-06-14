@@ -24,7 +24,7 @@ GenericName[fr]=Gestionnaire de Fenêtres
 GenericName[pt]=Gestor de Janelas
 Comment=Log in using the Openbox window manager
 Icon=openbox
-TryExec=/usr/bin//usr/bin/openbox
+TryExec=/usr/bin/openbox
 Exec=openbox
 NoDisplay=true
 Categories=WindowManager;Application;System;
@@ -44,6 +44,7 @@ X-Arch-Package-Description=Highly configurable and lightweight X11 window manage
 X-Arch-Package-Groups=lxde  lxqt
 X-Arch-Package-URL=http://openbox.org
 DesktopNames=OPENBOX
+X-LightDM-DesktopName=openbox
 X-KDE-WindowManagerRestartArgument=--replace
 X-Ubuntu-Gettext-Domain=openbox
 Actions=XDE;Gnome;KDE;Session;
@@ -55,6 +56,7 @@ Icon=xde
 TryExec=/usr/bin/xde-session
 Exec=xde-session -desktop OPENBOX -startwm start-openbox
 DesktopNames=XDE:OPENBOX
+X-LightDM-DesktopName=xde
 
 [Desktop Action Gnome]
 Name=Gnome
@@ -63,6 +65,7 @@ Icon=gnome
 TryExec=/usr/bin/openbox-gnome-session
 Exec=openbox-gnome-session
 DesktopNames=GNOME
+X-LightDM-DesktopName=gnome
 
 [Desktop Action KDE]
 Name=KDE
@@ -71,6 +74,7 @@ Icon=kde
 TryExec=/usr/bin//usr/bin/startkde
 Exec=openbox-kde-session
 DesktopNames=KDE
+X-LightDM-DesktopName=kde
 
 [Desktop Action Session]
 Name=Session
@@ -79,6 +83,7 @@ Icon=openbox
 TryExec=/usr/bin/openbox-session
 Exec=openbox-session
 DesktopNames=OPENBOX
+X-LightDM-DesktopName=openbox
 
 [Window Manager]
 Name=Openbox

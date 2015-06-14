@@ -10,7 +10,6 @@ OnlyShowIn=FLUXBOX;BLACKBOX;LXDE;OPENBOX;WMAKER;PEKWM;ADWM;WAIMEA;
 Categories=DockApp;WMAKER;
 StartupNotify=false
 X-AppInstall-Package=wmweather+
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=wmweather+ 2.15-1
 X-Arch-Package-Repository=custom

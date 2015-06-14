@@ -182,7 +182,6 @@ NotShowIn=Pantheon;
 Categories=Network;WebBrowser;GTK;
 StartupNotify=true
 X-AppInstall-Package=midori
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package=midori 0.5.10-1
 X-Arch-Package-Repository=community

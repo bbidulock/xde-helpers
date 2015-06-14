@@ -11,7 +11,6 @@ Categories=DockApp;WMAKER;
 StartupNotify=false
 StartupWMClass=allin1
 X-AppInstall-Package=allin1
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=allin1 0.5.0-3
 X-Arch-Package-Repository=custom

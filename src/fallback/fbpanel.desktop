@@ -12,7 +12,6 @@ StartupNotify=false
 StartupWMClass=fbpanel
 X-GNOME-Autostart-enabled=true
 X-AppInstall-Package=fbpanel-svn
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=fbpanel-svn 521-2
 X-Arch-Package-Repository=custom

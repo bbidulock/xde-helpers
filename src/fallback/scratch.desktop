@@ -9,7 +9,6 @@ Categories=Development;
 MimeType=application/x-scratch-project;
 StartupNotify=false
 X-AppInstall-Package=scratch
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package=scratch 1.4.0.7-5
 X-Arch-Package-Repository=community

@@ -6,7 +6,6 @@ TryExec=/usr/bin/xmms
 Exec=xmms
 StartupNotify=false
 X-AppInstall-Package=xmms
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package-Repository=custom
 X-Arch-Package-Name=xmms

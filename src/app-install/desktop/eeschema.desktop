@@ -12,7 +12,6 @@ Categories=Development;Electronics;GTK;
 MimeType=application/x-kicad-schematic;
 StartupNotify=false
 X-AppInstall-Package=kicad
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package=kicad 20130518-3
 X-Arch-Package-Repository=community

@@ -63,7 +63,6 @@ MimeType=text/english;text/plain;text/x-makefile;text/x-c++hdr;text/x-c++src;tex
 StartupNotify=false
 X-Desktop-File-Install-Version=0.10
 X-AppInstall-Package=vim-gtk2
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=vim-gtk2 7.4.712-1
 X-Arch-Package-Repository=custom

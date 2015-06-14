@@ -10,7 +10,6 @@ Exec=zalc
 Categories=Utility;
 StartupNotify=false
 X-AppInstall-Package=zalc
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=zalc 1.2.4-2
 X-Arch-Package-Repository=custom

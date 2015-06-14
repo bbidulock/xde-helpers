@@ -155,7 +155,6 @@ X-GNOME-Bugzilla-Product=gnome-bluetooth
 X-GNOME-Bugzilla-Component=sendto
 X-GNOME-Bugzilla-Version=3.16.1
 X-AppInstall-Package=gnome-bluetooth
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=gnome-bluetooth 3.16.1-1
 X-Arch-Package-Repository=extra

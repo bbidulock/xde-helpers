@@ -16,7 +16,6 @@ X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=bspwm
 X-AppInstall-Package=bspwm-git
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=bspwm-git 997-1
 X-Arch-Package-Repository=custom

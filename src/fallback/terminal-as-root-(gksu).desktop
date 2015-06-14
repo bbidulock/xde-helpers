@@ -8,7 +8,6 @@ Exec=gksu -u root /usr/bin/x-terminal-emulator
 Categories=System;TerminalEmulator;
 StartupNotify=false
 X-AppInstall-Package=gksu
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=gksu 2.0.2-5
 X-Arch-Package-Repository=extra

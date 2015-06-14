@@ -7,6 +7,6 @@ TryExec=/usr/bin/gnome-session-save
 Exec=gnome-session-save --shutdown-dialog
 Hidden=true
 OnlyShowIn=GNOME;
-Categories=System;SystemSetup;
+Categories=System;GNOME;GTK;SystemSetup;
 StartupNotify=true
 X-SuSE-translate=true

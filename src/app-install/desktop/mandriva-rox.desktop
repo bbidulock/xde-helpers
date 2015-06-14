@@ -8,7 +8,6 @@ Exec=rox %U
 Categories=System;FileManager;X-MandrivaLinux-System-FileTools;
 StartupNotify=true
 X-AppInstall-Package=rox
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package=rox 2.11-2
 X-Arch-Package-Repository=community

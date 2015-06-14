@@ -24,7 +24,6 @@ Categories=Office;Viewer;
 Keywords=PDF;PS;PostScript;DjVU;document;presentation;
 StartupNotify=false
 X-AppInstall-Package=zathura
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package=zathura 0.3.3-1
 X-Arch-Package-Repository=community

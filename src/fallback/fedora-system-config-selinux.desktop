@@ -6,6 +6,6 @@ Comment=Configure SELinux in a graphical setting
 Icon=/usr/share/system-config-selinux/system-config-selinux.png
 TryExec=/usr/bin/system-config-selinux
 Exec=/usr/bin/system-config-selinux
-Categories=Settings;System;Security;
+Categories=Settings;System;Security;SystemSetup;
 StartupNotify=true
 X-Desktop-File-Install-Version=0.15

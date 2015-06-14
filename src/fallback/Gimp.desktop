@@ -7,7 +7,6 @@ TryExec=/usr/bin/gimp
 Exec=susewmif ROOT_X11 yast2
 StartupNotify=false
 X-AppInstall-Package=gimp
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=gimp 2.8.14-2
 X-Arch-Package-Repository=extra

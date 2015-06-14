@@ -30,7 +30,6 @@ MimeType=application/ogg;application/x-ogg;application/sdp;application/smil;appl
 StartupNotify=false
 X-KDE-Protocols=ftp,http,https,mms,rtmp,rtsp,sftp,smb;
 X-AppInstall-Package=mpv
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package=mpv 0.9.2-1
 X-Arch-Package-Repository=community

@@ -16,7 +16,6 @@ X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=yeahwm
 X-AppInstall-Package=yeahwm
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=yeahwm 0.3.5-3
 X-Arch-Package-Repository=custom

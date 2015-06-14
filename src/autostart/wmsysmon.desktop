@@ -10,7 +10,6 @@ OnlyShowIn=FLUXBOX;BLACKBOX;LXDE;OPENBOX;WMAKER;PEKWM;ADWM;WAIMEA;
 Categories=DockApp;WMAKER;
 StartupNotify=false
 X-AppInstall-Package=wmsysmon
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=wmsysmon 0.7.7-2
 X-Arch-Package-Repository=custom

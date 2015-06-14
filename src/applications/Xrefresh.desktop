@@ -119,7 +119,6 @@ Exec=xrefresh
 Categories=X-SuSE-DesktopUtility;
 StartupNotify=false
 X-AppInstall-Package=xorg-xrefresh
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=xorg-xrefresh 1.0.5-1
 X-Arch-Package-Repository=extra

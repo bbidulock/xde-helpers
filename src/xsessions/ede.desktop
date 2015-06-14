@@ -15,7 +15,6 @@ X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=pekwm
 X-AppInstall-Package=ede
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package-Repository=custom
 X-Arch-Package-Name=ede
@@ -24,6 +23,7 @@ X-Arch-Package-Description=The lightweight Equinox Desktop Environment
 X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://equinox-project.org/
 DesktopNames=EDE
+X-LightDM-DesktopName=ede
 
 [Window Manager]
 Name=pekwm

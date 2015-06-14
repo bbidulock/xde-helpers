@@ -9,7 +9,6 @@ Exec=xsnow
 Categories=AfterStepDesktop;
 StartupNotify=false
 X-AppInstall-Package=xsnow
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=xsnow 1.42-6
 X-Arch-Package-Repository=extra

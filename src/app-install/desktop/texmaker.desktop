@@ -12,7 +12,6 @@ Categories=Office;Publishing;Qt;X-Mandriva-Office-Publishing;X-Misc;X-SuSE-Core-
 MimeType=text/x-tex;
 StartupNotify=false
 X-AppInstall-Package=texmaker
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=texmaker

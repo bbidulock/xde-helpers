@@ -1,15 +1,16 @@
 [Desktop Entry]
 Type=Application
 Name=Abe's Amazing Adventure
+GenericName=Platform Game
 Comment=Side-scrolling game
-Icon=_usr_share_pixmaps_abe
+Icon=abe
 TryExec=/usr/bin/abe
 Exec=abe
 Categories=Game;AdventureGame;
-StartupNotify=false
 X-AppInstall-Package=abe
 X-AppInstall-Popcon=41
 X-AppInstall-Section=aur
+X-Arch-Package=abe 1.1-10
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=abe
 X-Arch-Package-Version=1.1-10

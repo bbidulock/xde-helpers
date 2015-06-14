@@ -20,7 +20,6 @@ Categories=Office;KDE;Qt;
 MimeType=application/x-vym;
 StartupNotify=false
 X-AppInstall-Package=vym
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=vym

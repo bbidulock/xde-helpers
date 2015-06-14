@@ -10,7 +10,6 @@ Terminal=true
 Categories=System;ConsoleOnly;
 StartupNotify=false
 X-AppInstall-Package=bluez-utils
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=bluez-utils 5.30-1
 X-Arch-Package-Repository=extra

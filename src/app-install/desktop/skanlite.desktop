@@ -86,7 +86,6 @@ Categories=Graphics;Scanning;KDE;Qt;
 StartupNotify=false
 X-DocPath=skanlite/index.html
 X-AppInstall-Package=skanlite
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=skanlite

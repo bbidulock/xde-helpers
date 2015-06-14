@@ -9,7 +9,6 @@ Categories=Application;System;TerminalEmulator;GNOME;
 StartupNotify=false
 X-Desktop-File-Install-Version=0.15
 X-AppInstall-Package=rxvt-unicode
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package=rxvt-unicode 9.21-1
 X-Arch-Package-Repository=community

@@ -9,7 +9,6 @@ Exec=/usr/games/bzflag
 Categories=Game;3DGraphics;ActionGame;
 StartupNotify=false
 X-AppInstall-Package=bzflag
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package-Repository=extra
 X-Arch-Package-Name=bzflag

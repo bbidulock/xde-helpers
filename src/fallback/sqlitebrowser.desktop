@@ -9,7 +9,6 @@ Categories=Development;Database;Qt;
 MimeType=application/x-sqlite;
 StartupNotify=false
 X-AppInstall-Package=sqlitebrowser
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=sqlitebrowser

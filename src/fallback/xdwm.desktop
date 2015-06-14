@@ -16,7 +16,6 @@ X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=xdwm
 X-AppInstall-Package=xdwm
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=xdwm 6.1p6-1
 X-Arch-Package-Repository=custom

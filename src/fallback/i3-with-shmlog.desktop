@@ -17,7 +17,6 @@ X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=i3
 X-AppInstall-Package=i3-wm
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package=i3-wm 4.10.2-1
 X-Arch-Package-Repository=community

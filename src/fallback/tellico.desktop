@@ -68,7 +68,6 @@ MimeType=application/x-tellico;
 StartupNotify=false
 X-KDE-DocPath=tellico/index.html
 X-AppInstall-Package=tellico
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=tellico

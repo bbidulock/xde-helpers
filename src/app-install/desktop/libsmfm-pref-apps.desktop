@@ -54,7 +54,6 @@ NotShowIn=GNOME;KDE;XFCE;
 Categories=Settings;DesktopSettings;GTK;X-LXDE-Settings;
 StartupNotify=true
 X-AppInstall-Package=libsmfm-gtk2-git
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=libsmfm-gtk2-git 1:r2092.484998b-1
 X-Arch-Package-Repository=custom

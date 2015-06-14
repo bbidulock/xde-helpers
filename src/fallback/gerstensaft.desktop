@@ -16,7 +16,6 @@ Exec=/usr/bin/beer
 Categories=Application;Network;
 StartupNotify=false
 X-AppInstall-Package=gerstensaft
-X-AppInstall-Popcon=0
 X-AppInstall-Section=aur
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=gerstensaft

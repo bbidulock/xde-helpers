@@ -11,7 +11,6 @@ Categories=AudioVideo;Audio;
 MimeType=audio/x-tuxguitar;audio/x-gtp;audio/x-ptb;
 StartupNotify=false
 X-AppInstall-Package=tuxguitar
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=tuxguitar

@@ -10,7 +10,6 @@ Categories=Settings;Qt;
 StartupNotify=false
 X-Desktop-File-Install-Version=0.15
 X-AppInstall-Package=qt4
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=qt4 4.8.6-6
 X-Arch-Package-Repository=extra

@@ -9,7 +9,6 @@ Exec=raktpdf
 Categories=Office;Viewer;GTK;
 StartupNotify=false
 X-AppInstall-Package=raktpdf
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=raktpdf 20080320-2
 X-Arch-Package-Repository=custom

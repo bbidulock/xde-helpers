@@ -9,7 +9,6 @@ Exec=xfisktank
 Categories=AfterStepDesktop;
 StartupNotify=false
 X-AppInstall-Package=xfishtank
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=xfishtank 2.5-1
 X-Arch-Package-Repository=custom

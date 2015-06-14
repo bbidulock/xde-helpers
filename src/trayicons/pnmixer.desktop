@@ -14,7 +14,6 @@ NotShowIn=GNOME;KDE;XFCE;LXDE;OPENBOX;ICEWM;WMAKER;JWM;
 Categories=TrayIcon;AudioVideo;System;GTK;
 StartupNotify=false
 X-AppInstall-Package=pnmixer
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=pnmixer 0.5.1-3
 X-Arch-Package-Repository=custom

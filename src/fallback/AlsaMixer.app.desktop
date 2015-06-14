@@ -11,7 +11,6 @@ Categories=DockApp;WMAKER;
 StartupNotify=false
 StartupWMClass=alsamixer_app
 X-AppInstall-Package=alsamixer.app
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=alsamixer.app 0.1+20141204-1
 X-Arch-Package-Repository=custom

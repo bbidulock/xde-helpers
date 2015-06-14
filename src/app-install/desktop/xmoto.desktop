@@ -9,7 +9,6 @@ Exec=xmoto
 Categories=Game;SportsGame;
 StartupNotify=false
 X-AppInstall-Package=xmoto
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=xmoto

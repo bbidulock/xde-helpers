@@ -34,7 +34,6 @@ Icon=cairo-clock
 TryExec=/usr/bin/cairo-clock
 Exec=cairo-clock
 Categories=Application;Utility;GNOME;GTK;
-StartupNotify=false
 X-AppInstall-Package=cairo-clock
 X-AppInstall-Popcon=99
 X-AppInstall-Section=custom

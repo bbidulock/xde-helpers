@@ -16,7 +16,6 @@ X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=awesome
 X-AppInstall-Package=awesome-git
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=awesome-git 3.5.2.423.g1542722-1
 X-Arch-Package-Repository=custom

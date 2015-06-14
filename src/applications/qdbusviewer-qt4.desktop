@@ -9,7 +9,6 @@ Exec=qdbusviewer-qt4
 Categories=Development;Debugger;Qt;
 StartupNotify=false
 X-AppInstall-Package=qt4
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=qt4 4.8.6-6
 X-Arch-Package-Repository=extra

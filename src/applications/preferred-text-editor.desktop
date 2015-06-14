@@ -62,7 +62,6 @@ Categories=Preferred;
 MimeType=text/english;text/plain;text/x-makefile;text/x-c++hdr;text/x-c++src;text/x-chdr;text/x-csrc;text/x-java;text/x-moc;text/x-pascal;text/x-tcl;text/x-tex;application/x-shellscript;text/x-c;text/x-c++;
 StartupNotify=false
 X-AppInstall-Package=vim-gtk2
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=vim-gtk2 7.4.712-1
 X-Arch-Package-Repository=custom

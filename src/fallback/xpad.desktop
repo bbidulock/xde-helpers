@@ -47,7 +47,6 @@ Categories=Utility;GTK;
 StartupNotify=true
 StartupWMClass=xpad
 X-AppInstall-Package=xpad
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=xpad

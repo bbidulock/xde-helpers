@@ -213,7 +213,6 @@ Exec=urxvt
 Categories=TerminalEmulator;
 StartupNotify=false
 X-AppInstall-Package=rxvt-unicode
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package=rxvt-unicode 9.21-1
 X-Arch-Package-Repository=community

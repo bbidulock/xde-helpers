@@ -11,7 +11,6 @@ StartupNotify=true
 StartupWMClass=xde-watch
 X-GNOME-Autostart-enabled=true
 X-AppInstall-Package=xde-theme
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=xde-theme 1.1.142-1
 X-Arch-Package-Repository=custom

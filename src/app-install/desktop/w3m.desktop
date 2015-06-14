@@ -61,7 +61,6 @@ X-XFCE-Category=WebBrowser
 X-XFCE-Commands=exo-open --launch TerminalEmulator %B;
 X-XFCE-CommandsWithParameter=exo-open --launch TerminalEmulator %B %s;
 X-AppInstall-Package=w3m
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package-Repository=extra
 X-Arch-Package-Name=w3m

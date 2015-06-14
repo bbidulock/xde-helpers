@@ -51,7 +51,6 @@ Exec=terminator
 Categories=Utility;TerminalEmulator;GNOME;GTK;
 StartupNotify=true
 X-AppInstall-Package=terminator
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=terminator

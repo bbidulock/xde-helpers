@@ -96,7 +96,6 @@ Exec=roxterm
 Categories=Preferred;
 StartupNotify=false
 X-AppInstall-Package=roxterm-gtk2
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=roxterm-gtk2 2.9.7-1
 X-Arch-Package-Repository=custom

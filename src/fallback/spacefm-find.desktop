@@ -40,7 +40,6 @@ Categories=Utility;GTK;
 MimeType=inode/directory;
 StartupNotify=true
 X-AppInstall-Package=spacefm-gtk2
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=spacefm-gtk2 1.0.1-1
 X-Arch-Package-Repository=custom

@@ -13,7 +13,6 @@ StartupNotify=false
 StartupWMClass=bbrun
 X-GNOME-Autostart-enabled=true
 X-AppInstall-Package=bbrun
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package=bbrun 1.6-5
 X-Arch-Package-Repository=community

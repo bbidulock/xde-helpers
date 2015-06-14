@@ -11,7 +11,6 @@ Exec=vmpk
 Categories=AudioVideo;Audio;Education;Midi;Music;
 StartupNotify=false
 X-AppInstall-Package=vmpk
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
 X-Arch-Package-Repository=community

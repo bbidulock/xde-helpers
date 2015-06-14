@@ -91,7 +91,6 @@ X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=twm
 X-AppInstall-Package=xorg-twm-git
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=xorg-twm-git 1.0.8.r6.g8f68d82-1
 X-Arch-Package-Repository=custom

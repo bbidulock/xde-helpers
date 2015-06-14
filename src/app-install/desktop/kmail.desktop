@@ -16,7 +16,6 @@ X-XFCE-Binaries=kmail;
 X-XFCE-Category=MailReader
 X-XFCE-Commands=%B;
 X-AppInstall-Package=kdepim-kmail
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package-Repository=extra
 X-Arch-Package-Name=kdepim-kmail

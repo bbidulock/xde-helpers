@@ -192,7 +192,6 @@ StartupNotify=false
 StartupWMClass=xclipboard
 X-KDE-StartupNotify=true
 X-AppInstall-Package=xorg-xclipboard
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=xorg-xclipboard 1.1.3-1
 X-Arch-Package-Repository=extra

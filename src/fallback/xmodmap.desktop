@@ -10,7 +10,6 @@ Categories=Application;X-X11;X-XTool;
 StartupNotify=false
 StartupWMClass=xmodmap
 X-AppInstall-Package=xorg-xmodmap
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=xorg-xmodmap 1.0.9-1
 X-Arch-Package-Repository=extra

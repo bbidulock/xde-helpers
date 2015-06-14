@@ -152,7 +152,6 @@ X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=NetworkManager
 X-GNOME-Bugzilla-Component=nm-applet
 X-AppInstall-Package=network-manager-applet-gtk2
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package-Repository=custom
 X-Arch-Package-Name=network-manager-applet-gtk2

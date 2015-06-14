@@ -8,6 +8,9 @@ do
 	n=$(basename "$f")
 	if [ ! -r "$d2/$n" ]
 	then
-		cp -v "$d1/$n" "$d2/$n"
+		case "$d1/$n" in
+		/*) ./dpretty "$d1/$n" > "$d2/$n" ;;
+		 *) cp -v "$d1/$n" "$d2/$n" ;;
+		esac
 	fi
 done

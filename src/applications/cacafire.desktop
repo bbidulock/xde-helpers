@@ -7,7 +7,6 @@ Exec=cacafire
 Categories=Game;
 StartupNotify=false
 X-AppInstall-Package=libcaca
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=libcaca 0.99.beta18-2
 X-Arch-Package-Repository=extra

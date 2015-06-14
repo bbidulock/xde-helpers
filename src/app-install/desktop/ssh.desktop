@@ -128,7 +128,6 @@ Exec=/usr/lib64/gdm-ssh-session
 Categories=WindowManager;Application;System;
 StartupNotify=false
 X-AppInstall-Package=gdm
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package-Repository=extra
 X-Arch-Package-Name=gdm

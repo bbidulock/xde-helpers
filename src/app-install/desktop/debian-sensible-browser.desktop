@@ -42,7 +42,6 @@ X-XFCE-Category=WebBrowser
 X-XFCE-Commands=%B;
 X-XFCE-CommandsWithParameter=%B "%s";
 X-AppInstall-Package=sensible-utils
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=sensible-utils 0.0.7-1
 X-Arch-Package-Repository=custom

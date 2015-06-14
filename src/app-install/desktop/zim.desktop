@@ -78,7 +78,6 @@ Categories=Utility;TextEditor;GTK;
 MimeType=application/x-zim-notebook;text/x-zim-wiki;application/x-gjots;
 StartupNotify=true
 X-AppInstall-Package=zim
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=zim

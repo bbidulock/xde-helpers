@@ -88,7 +88,6 @@ Categories=System;TerminalEmulator;KDE;Qt;
 StartupNotify=false
 X-KDE-StartupNotify=false
 X-AppInstall-Package=yakuake
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=yakuake

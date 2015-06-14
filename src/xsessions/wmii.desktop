@@ -16,7 +16,6 @@ X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=wmii
 X-AppInstall-Package=wmii
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package=wmii 3.9.2-4
 X-Arch-Package-Repository=community
@@ -26,6 +25,7 @@ X-Arch-Package-Description=A small, dynamic window manager for X11
 X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://wmii.suckless.org/
 DesktopNames=WMII
+X-LightDM-DesktopName=wmii
 Actions=XDE;
 
 [Desktop Action XDE]
@@ -35,6 +35,7 @@ Icon=xde
 TryExec=/usr/bin/xde-session
 Exec=xde-session -exec uxterm -desktop WMII -startwm wmii
 DesktopNames=XDE:WMII
+X-LightDM-DesktopName=xde
 
 [Window Manager]
 Name=wmii

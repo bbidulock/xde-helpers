@@ -210,7 +210,6 @@ X-GNOME-Bugzilla-Component=BugBuddyBugs
 X-GNOME-Bugzilla-Version=2.28.x
 X-GNOME-Bugzilla-OtherBinaries=evolution-data-server-2.28;evolution-exchange-storage;evolution-alarm-notify;
 X-AppInstall-Package=evolution
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package-Repository=extra
 X-Arch-Package-Name=evolution

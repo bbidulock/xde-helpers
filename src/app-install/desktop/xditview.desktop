@@ -11,7 +11,6 @@ MimeType=text/troff;
 StartupNotify=false
 StartupWMClass=xditview
 X-AppInstall-Package=xorg-xditview
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=xorg-xditview 1.0.3-1
 X-Arch-Package-Repository=custom

@@ -11,7 +11,6 @@ Categories=DockApp;WMAKER;
 StartupNotify=false
 StartupWMClass=wmfire
 X-AppInstall-Package=wmfire
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=wmfire 1:0.0.3.8-2
 X-Arch-Package-Repository=custom

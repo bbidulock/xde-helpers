@@ -31,7 +31,6 @@ Categories=Utility;Dictionary;
 StartupNotify=true
 X-GNOME-DocPath=stardict/stardict.xml
 X-AppInstall-Package=stardict
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=stardict

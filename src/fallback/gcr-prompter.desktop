@@ -98,7 +98,6 @@ Exec=/usr/lib/gcr/gcr-prompter
 NoDisplay=true
 StartupNotify=false
 X-AppInstall-Package=gcr
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=gcr 3.16.0-1
 X-Arch-Package-Repository=extra

@@ -9,7 +9,6 @@ NoDisplay=true
 Categories=GTK;
 StartupNotify=true
 X-AppInstall-Package=gtk3
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=gtk3 3.16.3-2
 X-Arch-Package-Repository=extra

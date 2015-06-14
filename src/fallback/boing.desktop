@@ -27,7 +27,6 @@ OnlyShowIn=GNOME;
 Categories=Screensaver;
 StartupNotify=false
 X-AppInstall-Package=boing
-X-AppInstall-Popcon=0
 X-AppInstall-Section=aur
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=boing

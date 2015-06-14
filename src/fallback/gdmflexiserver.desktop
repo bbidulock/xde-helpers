@@ -234,7 +234,6 @@ Comment[zu]=Ngena njengomunye umsebenzisi ngaphandle komngenisi -phuma
 Icon=gdmflexiserver
 TryExec=/usr/bin/gdmflexiserver
 Exec=gdmflexiserver
-OnlyShowIn=GNOME;
 Categories=System;RemoteAccess;GNOME;GTK;
 StartupNotify=false
 X-GNOME-Bugzilla-Bugzilla=GNOME

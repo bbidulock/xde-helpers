@@ -70,7 +70,6 @@ Comment[zh_TW]=CUPS 網頁介面
 Icon=cups
 TryExec=/usr/bin/xdg-open
 Exec=xdg-open http://localhost:631/
-NotShowIn=GNOME;
 Categories=Settings;System;HardwareSettings;Printing;
 StartupNotify=false
 DocPath=/usr/share/doc/packages/cups/index.html

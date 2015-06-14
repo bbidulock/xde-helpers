@@ -10,7 +10,6 @@ Categories=TrayIcon;System;Utility;GTK;
 StartupNotify=false
 StartupWMClass=ftmenu
 X-AppInstall-Package=ftmenu
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=ftmenu 0.4.0-1
 X-Arch-Package-Repository=custom

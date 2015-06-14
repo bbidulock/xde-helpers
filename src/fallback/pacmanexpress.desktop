@@ -9,7 +9,6 @@ Exec=ssx /opt/pacmanexpress/pacmanexpress
 Categories=Application;Utility;
 StartupNotify=false
 X-AppInstall-Package=pacmanexpress
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=pacmanexpress 3.6-1
 X-Arch-Package-Repository=custom

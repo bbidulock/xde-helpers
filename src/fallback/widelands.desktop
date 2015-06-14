@@ -20,7 +20,6 @@ Exec=widelands
 Categories=Application;Game;StrategyGame;
 StartupNotify=false
 X-AppInstall-Package=widelands
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=widelands

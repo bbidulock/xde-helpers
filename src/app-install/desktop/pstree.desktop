@@ -8,7 +8,6 @@ Terminal=true
 Categories=System;Monitoring;
 StartupNotify=false
 X-AppInstall-Package=psmisc
-X-AppInstall-Popcon=0
 X-AppInstall-Section=core
 X-Arch-Package=psmisc 22.21-2
 X-Arch-Package-Repository=core

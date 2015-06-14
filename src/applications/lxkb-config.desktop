@@ -10,7 +10,6 @@ Exec=lxkb_config
 Categories=Settings;HardwareSettings;GNOME;GTK;
 StartupNotify=true
 X-AppInstall-Package=lxkb_config-git
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=lxkb_config-git r153.cec6ebd-1
 X-Arch-Package-Repository=custom

@@ -11,7 +11,6 @@ Categories=DockApp;WMAKER;
 StartupNotify=false
 StartupWMClass=wmbattery
 X-AppInstall-Package=wmbattery
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=wmbattery 2.41-1
 X-Arch-Package-Repository=custom

@@ -7,7 +7,6 @@ Exec=xedit
 Categories=Utility;TextEditor;
 StartupNotify=false
 X-AppInstall-Package=xorg-xedit
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=xorg-xedit 1.2.2-1
 X-Arch-Package-Repository=extra

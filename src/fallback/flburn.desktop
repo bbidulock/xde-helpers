@@ -8,7 +8,6 @@ Exec=flburn
 Categories=AudioVideo;
 StartupNotify=false
 X-AppInstall-Package=flburn
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=flburn 0.0.3-4
 X-Arch-Package-Repository=custom

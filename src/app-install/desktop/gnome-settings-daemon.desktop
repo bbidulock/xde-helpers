@@ -84,7 +84,6 @@ X-GNOME-Autostart-Notify=true
 X-GNOME-Autostart-Phase=Initialization
 X-GNOME-AutoRestart=true
 X-AppInstall-Package=gnome-settings-daemon
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=gnome-settings-daemon 3.16.2-1
 X-Arch-Package-Repository=extra

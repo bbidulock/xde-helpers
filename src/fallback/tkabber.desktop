@@ -17,7 +17,6 @@ Exec=/usr/bin/tkabber
 Categories=Network;InstantMessaging;
 StartupNotify=false
 X-AppInstall-Package=tkabber
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=tkabber

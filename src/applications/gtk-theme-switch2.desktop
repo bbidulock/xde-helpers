@@ -9,7 +9,6 @@ NotShowIn=GNOME;XFCE;
 Categories=Settings;DesktopSettings;GTK;
 StartupNotify=true
 X-AppInstall-Package=gtk-theme-switch2
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package=gtk-theme-switch2 2.1.0-3
 X-Arch-Package-Repository=community

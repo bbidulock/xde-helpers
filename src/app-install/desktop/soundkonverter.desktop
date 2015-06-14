@@ -9,7 +9,6 @@ Categories=AudioVideo;AudioVideoEditing;CD;
 StartupNotify=false
 DocPath=soundkonverter/soundkonverter.html
 X-AppInstall-Package=soundkonverter
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=soundkonverter

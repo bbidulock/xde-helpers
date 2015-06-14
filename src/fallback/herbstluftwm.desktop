@@ -16,7 +16,6 @@ X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=herbstluftwm
 X-AppInstall-Package=herbstluftwm-git
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=herbstluftwm-git v0.6.2.48.gceeae62-1
 X-Arch-Package-Repository=custom

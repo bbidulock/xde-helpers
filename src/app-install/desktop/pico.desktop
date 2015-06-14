@@ -100,7 +100,6 @@ Terminal=true
 Categories=Utility;TextEditor;
 StartupNotify=false
 X-AppInstall-Package=pico
-X-AppInstall-Popcon=0
 X-AppInstall-Section=aur
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=pico

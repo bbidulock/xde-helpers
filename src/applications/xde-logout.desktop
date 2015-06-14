@@ -17,7 +17,6 @@ NoDisplay=true
 NotShowIn=GNOME;KDE;XFCE;LXDE;
 StartupNotify=false
 X-AppInstall-Package=xde-session-git
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=xde-session-git 1.1.14.g42b29ca-1
 X-Arch-Package-Repository=custom

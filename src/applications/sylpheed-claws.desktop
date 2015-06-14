@@ -41,7 +41,6 @@ X-XFCE-Category=MailReader
 X-XFCE-Commands=%B;
 X-XFCE-CommandsWithParameter=/usr/lib/xfce4/exo-1/exo-compose-mail-1 sylpheed %B "mailto:%s";
 X-AppInstall-Package=sylpheed
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=sylpheed

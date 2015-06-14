@@ -11,7 +11,6 @@ Categories=DockApp;WMAKER;
 StartupNotify=false
 StartupWMClass=wmcalc
 X-AppInstall-Package=wmcalc
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=wmcalc 0.3-4
 X-Arch-Package-Repository=custom

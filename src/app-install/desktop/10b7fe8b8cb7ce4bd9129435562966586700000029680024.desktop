@@ -36,7 +36,6 @@ X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=metacity
 X-GNOME-Bugzilla-Component=general
 X-AppInstall-Package=metacity2
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=metacity2 2.34.13-1
 X-Arch-Package-Repository=custom

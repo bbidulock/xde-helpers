@@ -82,7 +82,6 @@ Exec=xfce4-sensors
 Categories=Utility;Monitor;X-XFCE;
 StartupNotify=false
 X-AppInstall-Package=xfce4-sensors-plugin
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package-Repository=extra
 X-Arch-Package-Name=xfce4-sensors-plugin

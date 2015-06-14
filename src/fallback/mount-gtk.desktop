@@ -7,7 +7,6 @@ Exec=mount-gtk
 Categories=Utility;GTK;
 StartupNotify=false
 X-AppInstall-Package=mount-gtk2
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=mount-gtk2 1.4.3-2
 X-Arch-Package-Repository=custom

@@ -112,7 +112,6 @@ StartupNotify=false
 StartupWMClass=xfig
 InitialPreference=2
 X-AppInstall-Package=xfig
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=xfig 3.2.5c-2
 X-Arch-Package-Repository=extra

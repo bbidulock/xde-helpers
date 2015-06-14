@@ -7,7 +7,6 @@ Exec=gspiceui
 Categories=Application;Science;GTK;
 StartupNotify=false
 X-AppInstall-Package=gspiceui
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=gspiceui 1.1.00-1
 X-Arch-Package-Repository=custom

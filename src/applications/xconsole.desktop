@@ -130,7 +130,6 @@ Categories=Application;X-X11;X-XTool;
 StartupNotify=false
 StartupWMClass=xconsole
 X-AppInstall-Package=xorg-xconsole
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=xorg-xconsole 1.0.6-1
 X-Arch-Package-Repository=extra

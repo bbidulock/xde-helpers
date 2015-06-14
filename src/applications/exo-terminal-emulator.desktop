@@ -112,7 +112,6 @@ OnlyShowIn=XFCE;
 Categories=Utility;X-XFCE;X-Xfce-Toplevel;
 StartupNotify=true
 X-AppInstall-Package=exo
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=exo 0.10.6-1
 X-Arch-Package-Repository=extra

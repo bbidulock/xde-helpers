@@ -82,7 +82,6 @@ StartupNotify=false
 X-KDE-autostart-phase=1
 X-GNOME-Autostart-Phase=Initialization
 X-AppInstall-Package=pulseaudio
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=pulseaudio 6.0-2
 X-Arch-Package-Repository=extra

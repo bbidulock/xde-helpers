@@ -9,7 +9,6 @@ NoDisplay=true
 Categories=System;Monitor;
 StartupNotify=true
 X-AppInstall-Package=xorg-xkill
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=xorg-xkill 1.0.4-1
 X-Arch-Package-Repository=extra

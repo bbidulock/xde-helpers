@@ -10,7 +10,6 @@ Categories=System;GTK;XDG;
 MimeType=application/x-desktop;
 StartupNotify=true
 X-AppInstall-Package=xdg-launch
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=xdg-launch 0.4-1
 X-Arch-Package-Repository=custom

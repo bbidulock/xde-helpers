@@ -2,7 +2,7 @@
 Type=Application
 Name=Cycle
 Comment=Calendar program for women
-Icon=cycle.xpm
+Icon=cycle
 TryExec=/usr/bin/cycle
 Exec=cycle
 Categories=Education;Calendar;

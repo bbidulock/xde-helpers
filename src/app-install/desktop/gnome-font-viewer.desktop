@@ -172,7 +172,6 @@ X-GNOME-Bugzilla-Version=3.0.0
 X-GNOME-Bugzilla-OtherBinaries=gnome-thumbnail-font
 X-Desktop-File-Install-Version=0.18
 X-AppInstall-Package=gnome-font-viewer
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=gnome-font-viewer 3.16.2-1
 X-Arch-Package-Repository=extra

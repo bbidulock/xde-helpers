@@ -16,7 +16,6 @@ X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=Openbox
 X-AppInstall-Package=openbox
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package=openbox 3.6-1
 X-Arch-Package-Repository=community

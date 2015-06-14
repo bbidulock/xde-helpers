@@ -88,7 +88,6 @@ Categories=AudioVideo;GNOME;GTK;
 MimeType=application/x-ogg;application/ogg;audio/x-mp3;audio/x-scpls;audio/x-mp3;audio/x-mpeg;audio/mpeg;audio/x-mpegurl;application/x-flac;audio/x-wav;
 StartupNotify=true
 X-AppInstall-Package=soundconverter
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=soundconverter

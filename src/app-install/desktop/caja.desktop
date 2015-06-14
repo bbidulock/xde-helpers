@@ -57,7 +57,6 @@ X-XFCE-Category=FileManager
 X-XFCE-Commands=%B;
 X-XFCE-CommandsWithParameter=%B --no-desktop --browser "%s";
 X-AppInstall-Package=caja
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=caja

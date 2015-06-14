@@ -42,7 +42,6 @@ X-GNOME-Bugzilla-Product=gstreamer
 X-GNOME-Bugzilla-Component=general
 X-GNOME-Bugzilla-Version=0.16
 X-AppInstall-Package=transmageddon
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=transmageddon

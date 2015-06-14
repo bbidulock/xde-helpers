@@ -8,7 +8,6 @@ Exec=blocks
 Categories=Game;BlocksGame;
 StartupNotify=false
 X-AppInstall-Package=fltk-games
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=fltk-games 1.3.3-4
 X-Arch-Package-Repository=extra

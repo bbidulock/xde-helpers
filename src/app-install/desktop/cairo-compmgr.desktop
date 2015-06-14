@@ -10,7 +10,6 @@ StartupNotify=false
 X-GNOME-Autostart-Notify=true
 X-GNOME-Autostart-Phase=Desktop
 X-AppInstall-Package=cairo-compmgr
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=cairo-compmgr 2:0.3.1-10
 X-Arch-Package-Repository=custom

@@ -10,7 +10,6 @@ Terminal=true
 Categories=System;ConsoleOnly;
 StartupNotify=false
 X-AppInstall-Package=atop
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package=atop 2.1_1-2
 X-Arch-Package-Repository=community

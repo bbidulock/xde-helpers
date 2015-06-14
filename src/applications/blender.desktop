@@ -16,7 +16,6 @@ Categories=Graphics;3DGraphics;
 MimeType=application/x-blender;
 StartupNotify=false
 X-AppInstall-Package=blender
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package=blender 16:2.74-3
 X-Arch-Package-Repository=community

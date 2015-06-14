@@ -11,7 +11,6 @@ Categories=DockApp;WMAKER;
 StartupNotify=false
 StartupWMClass=wminet
 X-AppInstall-Package=wminet
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=wminet 3.0.0-1
 X-Arch-Package-Repository=custom

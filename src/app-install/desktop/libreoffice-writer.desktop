@@ -189,7 +189,6 @@ InitialPreference=5
 X-GIO-NoFuse=true
 X-KDE-Protocols=file,http,smb,ftp,webdav;
 X-AppInstall-Package=libreoffice-still
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=libreoffice-still 4.3.7-2
 X-Arch-Package-Repository=extra

@@ -101,7 +101,6 @@ OnlyShowIn=XFCE;
 Categories=Utility;X-XFCE;GTK;X-Xfce-Toplevel;
 StartupNotify=false
 X-AppInstall-Package=libxfce4ui
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=libxfce4ui 4.12.1-1
 X-Arch-Package-Repository=extra

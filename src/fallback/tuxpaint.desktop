@@ -173,7 +173,6 @@ Exec=tuxpaint
 Categories=Education;Art;
 StartupNotify=false
 X-AppInstall-Package=tuxpaint
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=tuxpaint

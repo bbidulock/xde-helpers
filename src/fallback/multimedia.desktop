@@ -10,7 +10,6 @@ Terminal=true
 Categories=AudioVideo;
 StartupNotify=false
 X-AppInstall-Package=alsa-utils
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=alsa-utils 1.0.29-1
 X-Arch-Package-Repository=extra

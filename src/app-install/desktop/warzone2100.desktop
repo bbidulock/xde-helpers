@@ -11,7 +11,6 @@ Exec=warzone2100
 Categories=Game;StrategyGame;
 StartupNotify=false
 X-AppInstall-Package=warzone2100
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=warzone2100

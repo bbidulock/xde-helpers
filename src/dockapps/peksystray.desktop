@@ -10,7 +10,6 @@ OnlyShowIn=BLACKBOX;OPENBOX;WMAKER;
 Categories=DockApp;TrayIcon;System;Utility;WMAKER;
 StartupNotify=false
 X-AppInstall-Package=peksystray
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=peksystray 0.4.0-6
 X-Arch-Package-Repository=custom

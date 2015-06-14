@@ -230,7 +230,6 @@ Comment[zu]=Shintsha isithombe esizoboniswa kuGDM (umphathi womngenisi) isiyaluz
 Icon=gdm-login-photo
 TryExec=/usr/bin/gdmphotosetup
 Exec=gdmphotosetup
-OnlyShowIn=GNOME;
 NotShowIn=GNOME;
 Categories=Settings;GNOME;GTK;AdvancedSettings;SystemSetup;
 StartupNotify=true

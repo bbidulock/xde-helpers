@@ -63,7 +63,6 @@ X-XFCE-Category=WebBrowser
 X-XFCE-Commands=exo-open --launch TerminalEmulator %B;
 X-XFCE-CommandsWithParameter=exo-open --launch TerminalEmulator %B %s;
 X-AppInstall-Package=lynx
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=lynx 2.8.8-2
 X-Arch-Package-Repository=extra

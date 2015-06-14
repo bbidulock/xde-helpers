@@ -1,8 +1,10 @@
 [Desktop Entry]
 Type=Application
 Name=EtherApe
+GenericName=EtherApe
 Comment=Graphical Network Monitor
-Icon=etherape.png
+Comment[es]=Monitor Gráfico de Red
+Icon=etherape
 TryExec=/usr/bin/etherape
 Exec=etherape
 Categories=Network;System;GNOME;
@@ -10,6 +12,7 @@ StartupNotify=false
 X-AppInstall-Package=etherape
 X-AppInstall-Popcon=179
 X-AppInstall-Section=community
+X-Arch-Package=etherape 0.9.12-2
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=etherape
 X-Arch-Package-Version=0.9.13-1

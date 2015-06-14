@@ -52,7 +52,6 @@ Categories=Utility;KDE;Qt;
 StartupNotify=false
 X-DocPath=smb4k/index.html
 X-AppInstall-Package=smb4k
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package-Repository=extra
 X-Arch-Package-Name=smb4k

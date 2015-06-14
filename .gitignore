@@ -9,8 +9,17 @@ configure
 configure.ac
 ChangeLog
 scripts/
+*.tmp
 *.log
 *.swp
 *.swo
 INSTALL
 ncurses.lst
+ncurses.lst.old
+src/evenmore
+src/original
+src/save
+src/icons/large
+src/icons/medium
+src/icons/small
+src/icons/scaled

@@ -9,7 +9,6 @@ Exec=su-to-root -X -c /usr/sbin/wifi-radar
 Categories=Application;Network;
 StartupNotify=false
 X-AppInstall-Package=wifi-radar
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=wifi-radar

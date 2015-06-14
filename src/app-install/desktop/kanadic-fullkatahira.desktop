@@ -7,5 +7,4 @@ Exec=/usr/bin/kdrill -edictfile /usr/share/edict/hira.edic.gz -kdictfile none
 Categories=Game;LogicGame;
 StartupNotify=false
 X-AppInstall-Package=kanadic
-X-AppInstall-Popcon=0
 X-AppInstall-Section=main

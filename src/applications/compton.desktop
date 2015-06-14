@@ -11,7 +11,6 @@ OnlyShowIn=FLUXBOX;BLACKBOX;OPENBOX;ICEWM;WMAKER;FVWM;JWM;PEKWM;ADWM;WAIMEA;
 Categories=Utility;
 StartupNotify=false
 X-AppInstall-Package=compton-git
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=compton-git 0.1_beta2.59.g23d1dd1-1
 X-Arch-Package-Repository=custom

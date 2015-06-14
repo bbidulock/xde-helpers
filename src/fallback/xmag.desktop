@@ -190,7 +190,6 @@ StartupNotify=false
 StartupWMClass=xmag
 X-KDE-StartupNotify=false
 X-AppInstall-Package=xorg-xmag
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=xorg-xmag 1.0.6-1
 X-Arch-Package-Repository=extra

@@ -105,7 +105,6 @@ Keywords=PDF;document;presentation;
 MimeType=application/pdf;
 StartupNotify=true
 X-AppInstall-Package=zathura-ypb
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=zathura-ypb 0.0.8.2.r30.gbef9bc4-2
 X-Arch-Package-Repository=custom

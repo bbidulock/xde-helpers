@@ -8,7 +8,6 @@ Exec=aumix
 Categories=Audio;Mixer;GTK;
 StartupNotify=true
 X-AppInstall-Package=aumix
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package=aumix 2.9.1-5
 X-Arch-Package-Repository=community

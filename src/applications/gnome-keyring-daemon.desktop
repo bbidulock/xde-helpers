@@ -65,7 +65,6 @@ X-GNOME-Bugzilla-Product=gnome-keyring
 X-GNOME-Bugzilla-Component=general
 X-GNOME-Bugzilla-Version=2.28.2
 X-AppInstall-Package=gnome-keyring
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=gnome-keyring 3.16.0-1
 X-Arch-Package-Repository=extra

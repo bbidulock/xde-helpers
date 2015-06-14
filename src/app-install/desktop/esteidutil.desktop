@@ -10,6 +10,5 @@ Exec=esteidutil
 Categories=Utility;GTK;
 StartupNotify=false
 X-AppInstall-Package=esteidutil
-X-AppInstall-Popcon=0
 X-AppInstall-Section=main
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc

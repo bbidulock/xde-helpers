@@ -8,7 +8,6 @@ Exec=yabause-gtk
 Categories=Game;GNOME;GTK;
 StartupNotify=false
 X-AppInstall-Package=yabause-gtk
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=yabause-gtk

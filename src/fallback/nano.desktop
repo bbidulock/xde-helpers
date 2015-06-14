@@ -167,7 +167,6 @@ Terminal=true
 Categories=Utility;TextEditor;
 StartupNotify=false
 X-AppInstall-Package=nano
-X-AppInstall-Popcon=0
 X-AppInstall-Section=core
 X-Arch-Package=nano 2.4.1-1
 X-Arch-Package-Repository=core

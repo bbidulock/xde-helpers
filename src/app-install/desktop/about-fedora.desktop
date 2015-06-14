@@ -59,7 +59,6 @@ Exec=yelp ghelp:about-fedora
 Categories=X-Fedora-About;
 StartupNotify=true
 X-AppInstall-Package=yelp
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=yelp 3.16.1-1
 X-Arch-Package-Repository=extra

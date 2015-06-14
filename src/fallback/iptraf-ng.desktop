@@ -9,7 +9,6 @@ Exec=gksudo "xterm -name iptraf -T 'IP Traffic' -e iptraf-ng"
 Categories=Network;System;ConsoleOnly;
 StartupNotify=false
 X-AppInstall-Package=iptraf-ng
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=iptraf-ng 1.1.4-1
 X-Arch-Package-Repository=extra

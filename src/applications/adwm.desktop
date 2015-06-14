@@ -16,7 +16,6 @@ X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=ADWM
 X-AppInstall-Package=adwm-git
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=adwm-git 0.5.3.r0.g04c1484-1
 X-Arch-Package-Repository=custom

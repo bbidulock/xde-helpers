@@ -20,7 +20,6 @@ X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=enlightenment
 X-AppInstall-Package=enlightenment16
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=enlightenment16 1.0.16-1
 X-Arch-Package-Repository=extra

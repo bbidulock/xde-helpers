@@ -8,7 +8,6 @@ Exec=flmusic
 Categories=AudioVideo;Audio;Player;
 StartupNotify=false
 X-AppInstall-Package=flmusic
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=flmusic 1.2.1-1
 X-Arch-Package-Repository=custom

@@ -7,7 +7,6 @@ Terminal=true
 Categories=System;Administration;
 StartupNotify=false
 X-AppInstall-Package=texlive-core
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=texlive-core 2014.36709-1
 X-Arch-Package-Repository=extra

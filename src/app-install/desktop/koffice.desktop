@@ -9,5 +9,4 @@ Categories=Office;KDE;Qt;
 StartupNotify=false
 X-DocPath=koffice/index.html
 X-AppInstall-Package=koffice
-X-AppInstall-Popcon=0
 X-AppInstall-Section=main

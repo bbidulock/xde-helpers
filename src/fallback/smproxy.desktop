@@ -11,7 +11,6 @@ Categories=Application;X-X11;X-XTool;
 StartupNotify=false
 X-GNOME-Autostart-enabled=false
 X-AppInstall-Package=xorg-smproxy
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=xorg-smproxy 1.0.6-1
 X-Arch-Package-Repository=extra

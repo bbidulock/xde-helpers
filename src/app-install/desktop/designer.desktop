@@ -9,7 +9,6 @@ Exec=/usr/bin/designer
 Categories=Development;Qt;
 MimeType=application/x-designer;
 X-AppInstall-Package=qt5-tools
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=qt5-tools 5.4.2-1
 X-Arch-Package-Repository=extra

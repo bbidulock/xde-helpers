@@ -123,7 +123,6 @@ X-GNOME-Bugzilla-Component=general
 X-GNOME-Bugzilla-Version=3.0.2
 X-Desktop-File-Install-Version=0.18
 X-AppInstall-Package=nautilus
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package-Repository=extra
 X-Arch-Package-Name=nautilus

@@ -9,7 +9,6 @@ Exec=xvidtune
 Categories=Application;X-X11;X-XTool;
 StartupNotify=false
 X-AppInstall-Package=xorg-xvidtune
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=xorg-xvidtune 1.0.3-2
 X-Arch-Package-Repository=extra

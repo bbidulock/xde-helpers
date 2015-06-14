@@ -16,7 +16,6 @@ X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=wmaker
 X-AppInstall-Package=windowmaker-crm-git
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=windowmaker-crm-git 0.95.6.r296.gbae28b2-1
 X-Arch-Package-Repository=custom

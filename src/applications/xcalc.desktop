@@ -125,7 +125,6 @@ Categories=Utility;Calculator;
 StartupNotify=true
 X-KDE-StartupNotify=true
 X-AppInstall-Package=xorg-xcalc
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=xorg-xcalc 1.0.6-1
 X-Arch-Package-Repository=extra

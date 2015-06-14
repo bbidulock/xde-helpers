@@ -1,16 +1,18 @@
 [Desktop Entry]
 Type=Application
 Name=Gcolor2
-GenericName=Gcolor2
-Comment=Simple GTK2 color selector and picker
-Icon=_usr_share_pixmaps_gcolor2_gcolor2
+GenericName=A simple GTK+2 color selector
+Comment=Choose colours from palette or screen
+Icon=gcolor2
 TryExec=/usr/bin/gcolor2
 Exec=gcolor2
-Categories=Application;Graphics;
-StartupNotify=false
+Categories=Graphics;
+Keywords=select;pick;detect;choose;colors;palette;
+StartupNotify=true
 X-AppInstall-Package=gcolor2
 X-AppInstall-Popcon=161
 X-AppInstall-Section=community
+X-Arch-Package=gcolor2 0.4-7
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=gcolor2
 X-Arch-Package-Version=0.4-7

@@ -47,7 +47,6 @@ TryExec=/usr/bin/xfburn
 Exec=xfburn --data-composition %F
 StartupNotify=false
 X-AppInstall-Package=xfburn
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=xfburn 0.5.4-1
 X-Arch-Package-Repository=extra

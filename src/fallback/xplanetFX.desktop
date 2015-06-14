@@ -9,7 +9,6 @@ Exec=xplanetFX --gui
 Categories=Application;Utility;
 StartupNotify=false
 X-AppInstall-Package=xplanetfx
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=xplanetfx 2.6.5-1
 X-Arch-Package-Repository=custom

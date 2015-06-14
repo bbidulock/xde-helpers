@@ -94,7 +94,6 @@ Categories=Education;Physics;KDE;Qt;
 StartupNotify=false
 X-DocPath=step/index.html
 X-AppInstall-Package=step
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package-Repository=extra
 X-Arch-Package-Name=step

@@ -143,7 +143,6 @@ Categories=Preferred;
 MimeType=inode/directory;inode/directory;
 StartupNotify=true
 X-AppInstall-Package=pcmanfm
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package=pcmanfm 1.2.3-1
 X-Arch-Package-Repository=community

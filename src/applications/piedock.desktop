@@ -9,7 +9,6 @@ Exec=piedock
 Categories=System;Utility;
 StartupNotify=false
 X-AppInstall-Package=piedock
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package-Repository=custom
 X-Arch-Package-Name=piedock

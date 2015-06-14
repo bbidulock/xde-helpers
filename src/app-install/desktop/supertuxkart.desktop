@@ -13,7 +13,6 @@ Exec=supertuxkart
 Categories=Game;3DGraphics;ActionGame;Simulation;SportsGame;
 StartupNotify=false
 X-AppInstall-Package=supertuxkart
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=supertuxkart

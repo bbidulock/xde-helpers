@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Extreme Tux Racer
+GenericName=Arcade Game
+GenericName[de]=Arkade-Spiel
+GenericName[ro_RO]=Joc de arcadă
+Comment=Race a penguin down a mountain
+Comment[de]=Rutsche mit einem Pinguin einen Hügel hinab
+Comment[ro_RO]=Curse cu un pinguin pe munte, la vale
+Icon=etr
+TryExec=/usr/bin/etr
+Exec=etr
+Categories=Game;ArcadeGame;
+StartupNotify=true
+X-AppInstall-Package=extremetuxracer
+X-AppInstall-Popcon=228
+X-AppInstall-Section=community
+X-Arch-Package=extremetuxracer 0.6.0-1
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=extremetuxracer
+X-Arch-Package-Version=0.6.0-1
+X-Arch-Package-Description=Downhill racing game starring Tux
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/extremetuxracer/

@@ -31,7 +31,6 @@ Categories=AudioVideo;Audio;Player;GTK;
 MimeType=application/x-ogg;audio/midi;audio/mp3;audio/mpeg;audio/mpegurl;audio/ogg;audio/prs.sid;audio/x-flac;audio/x-it;audio/x-mod;audio/x-mp3;audio/x-mpeg;audio/x-mpegurl;audio/x-ms-wma;audio/x-musepack;audio/x-s3m;audio/x-scpls;audio/x-stm;audio/x-wav;audio/x-xm;application/ogg;audio/x-vorbis+ogg;application/xspf+xml;
 StartupNotify=true
 X-AppInstall-Package=audacious2
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=audacious2 3.2.4-1
 X-Arch-Package-Repository=custom

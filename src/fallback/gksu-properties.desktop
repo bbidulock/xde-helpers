@@ -25,7 +25,6 @@ OnlyShowIn=GNOME;XFCE;
 Categories=Application;Settings;GNOME;GTK;AdvancedSettings;
 StartupNotify=true
 X-AppInstall-Package=libgksu
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=libgksu 2.0.12-6
 X-Arch-Package-Repository=extra

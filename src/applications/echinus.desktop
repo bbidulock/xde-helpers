@@ -16,7 +16,6 @@ X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=echinus
 X-AppInstall-Package=echinus-git
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=echinus-git 0.4.9.r31.g2acd233-1
 X-Arch-Package-Repository=custom

@@ -92,6 +92,7 @@ X-Arch-Package-Description=A multiple large virtual desktop window manager origi
 X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://www.fvwm.org
 DesktopNames=FVWM
+X-LightDM-DesktopName=fvwm
 X-SuSE-translate=true
 Actions=XDE;
 
@@ -102,6 +103,7 @@ Icon=xde
 TryExec=/usr/bin/xde-session
 Exec=xde-session -desktop FVWM -startwm start-fvwm
 DesktopNames=XDE:FVWM
+X-LightDM-DesktopName=xde
 
 [Window Manager]
 Name=fvwm

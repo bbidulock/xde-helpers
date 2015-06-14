@@ -104,6 +104,7 @@ dist_appl_DATA = \
 	src/applications/blueman-manager.desktop \
 	src/applications/bluetoothctl.desktop \
 	src/applications/bluetooth-sendto.desktop \
+	src/applications/boinc.desktop \
 	src/applications/boinc-manager.desktop \
 	src/applications/bonobo-browser.desktop \
 	src/applications/brasero-copy-medium.desktop \
@@ -186,17 +187,21 @@ dist_appl_DATA = \
 	src/applications/eekboard-autostart.desktop \
 	src/applications/eeschema.desktop \
 	src/applications/ekiga.desktop \
+	src/applications/elementary_config.desktop \
+	src/applications/elementary_test.desktop \
 	src/applications/elinks.desktop \
 	src/applications/emboss-explorer.desktop \
 	src/applications/emelfm2.desktop \
 	src/applications/empathy.desktop \
 	src/applications/encompass.desktop \
+	src/applications/enlightenment_filemanager.desktop \
 	src/applications/eog.desktop \
 	src/applications/epiphany.desktop \
 	src/applications/eric6.desktop \
 	src/applications/eric6_webbrowser.desktop \
 	src/applications/eterm.desktop \
 	src/applications/etherape.desktop \
+	src/applications/etr.desktop \
 	src/applications/ettercap.desktop \
 	src/applications/evilwm.desktop \
 	src/applications/evince.desktop \
@@ -207,6 +212,7 @@ dist_appl_DATA = \
 	src/applications/exo-terminal-emulator.desktop \
 	src/applications/exo-web-browser.desktop \
 	src/applications/extension.desktop \
+	src/applications/extremetuxracer.desktop \
 	src/applications/failsafewm.desktop \
 	src/applications/fbpanel.desktop \
 	src/applications/fbrun.desktop \
@@ -227,6 +233,7 @@ dist_appl_DATA = \
 	src/applications/filezilla.desktop \
 	src/applications/find.desktop \
 	src/applications/firefox.desktop \
+	src/applications/five-or-more.desktop \
 	src/applications/flash-player-properties.desktop \
 	src/applications/flburn.desktop \
 	src/applications/flipse.desktop \
@@ -241,6 +248,7 @@ dist_appl_DATA = \
 	src/applications/freecell.desktop \
 	src/applications/freedroid.desktop \
 	src/applications/free-i.c.s..desktop \
+	src/applications/freemind.desktop \
 	src/applications/f-spot.desktop \
 	src/applications/ftmenu.desktop \
 	src/applications/Fvwm1.desktop \
@@ -273,8 +281,11 @@ dist_appl_DATA = \
 	src/applications/gimp.desktop \
 	src/applications/gksu.desktop \
 	src/applications/gksu-properties.desktop \
+	src/applications/glchess.desktop \
+	src/applications/glines.desktop \
 	src/applications/gmdb.desktop \
 	src/applications/gmrun.desktop \
+	src/applications/gnome-alsamixer.desktop \
 	src/applications/gnome-chess.desktop \
 	src/applications/gnome.desktop \
 	src/applications/gnome-ekiga.desktop \
@@ -609,6 +620,7 @@ dist_appl_DATA = \
 	src/applications/thunderbird.desktop \
 	src/applications/tightvnc.desktop \
 	src/applications/tint2conf.desktop \
+	src/applications/tkwish8.6.desktop \
 	src/applications/tmp.desktop \
 	src/applications/top.desktop \
 	src/applications/totem.desktop \
@@ -731,6 +743,18 @@ dist_appl_DATA = \
 	src/applications/xclock.desktop \
 	src/applications/xcolorsel.desktop \
 	src/applications/xconsole.desktop \
+	src/applications/xde-app.desktop \
+	src/applications/xde-input.desktop \
+	src/applications/xde-logout.desktop \
+	src/applications/xde-pager.desktop \
+	src/applications/xde-panel.desktop \
+	src/applications/xde-run.desktop \
+	src/applications/xde-setbg.desktop \
+	src/applications/xde-watch.desktop \
+	src/applications/xde-xlock.desktop \
+	src/applications/xdg-launch.desktop \
+	src/applications/xdg-monitor.desktop \
+	src/applications/xdg-traymenu.desktop \
 	src/applications/xditview.desktop \
 	src/applications/xdpyinfo.desktop \
 	src/applications/xdvi.desktop \
@@ -820,6 +844,7 @@ dist_appl_DATA = \
 #	src/xsessions/e16-session.desktop \
 #	src/xsessions/echinus.desktop \
 #	src/xsessions/ede.desktop \
+#	src/xsessions/enlightenment.desktop \
 #	src/xsessions/evilwm.desktop \
 #	src/xsessions/failsafewm.desktop \
 #	src/xsessions/fluxbox.desktop \
@@ -840,6 +865,7 @@ dist_appl_DATA = \
 #	src/xsessions/larswm.desktop \
 #	src/xsessions/LXDE.desktop \
 #	src/xsessions/mantis-wm.desktop \
+#	src/xsessions/mate.desktop \
 #	src/xsessions/matwm2.desktop \
 #	src/xsessions/metacity.desktop \
 #	src/xsessions/mutter.desktop \
@@ -869,22 +895,40 @@ dist_appl_DATA = \
 #	src/xsessions/yeahwm.desktop
 
 #dist_auto_DATA = \
+#	src/autostart/at-spi-dbus-bus.desktop \
+#	src/autostart/at-spi-registryd.desktop \
+#	src/autostart/bbkeys.desktop \
 #	src/autostart/bbrun.desktop \
 #	src/autostart/cbatticon.desktop \
 #	src/autostart/compton.desktop \
 #	src/autostart/compton-fluxbox.desktop \
+#	src/autostart/deja-dup-monitor.desktop \
 #	src/autostart/dhcpcd-gtk.desktop \
 #	src/autostart/docker.desktop \
+#	src/autostart/eekboard-autostart.desktop \
 #	src/autostart/gatotray.desktop \
+#	src/autostart/gnome-keyring-gpg.desktop \
+#	src/autostart/gnome-keyring-pkcs11.desktop \
+#	src/autostart/gnome-keyring-secrets.desktop \
+#	src/autostart/gnome-keyring-ssh.desktop \
+#	src/autostart/gnome-settings-daemon.desktop \
+#	src/autostart/gsettings-data-convert.desktop \
 #	src/autostart/icewmtray.desktop \
 #	src/autostart/idesk.desktop \
 #	src/autostart/lxpanel.desktop \
+#	src/autostart/lxpolkit.desktop \
+#	src/autostart/mate-settings-daemon.desktop \
 #	src/autostart/menutray.desktop \
 #	src/autostart/nm-applet.desktop \
 #	src/autostart/pnmixer.desktop \
+#	src/autostart/polkit-mate-authentication-agent-1.desktop \
+#	src/autostart/print-applet.desktop \
+#	src/autostart/pulseaudio.desktop \
 #	src/autostart/remmina-applet.desktop \
 #	src/autostart/retrovol.desktop \
+#	src/autostart/sd-applet.desktop \
 #	src/autostart/smproxy.desktop \
+#	src/autostart/vboxclient.desktop \
 #	src/autostart/wmappl.desktop \
 #	src/autostart/wmbattery.desktop \
 #	src/autostart/wmblob.desktop \
@@ -902,8 +946,10 @@ dist_appl_DATA = \
 #	src/autostart/wmWeather.desktop \
 #	src/autostart/wmweather+.desktop \
 #	src/autostart/xde-input.desktop \
+#	src/autostart/xde-pager.desktop \
 #	src/autostart/xde-panel.desktop \
-#	src/autostart/xde-setbg.desktop
+#	src/autostart/xde-setbg.desktop \
+#	src/autostart/xdg-monitor.desktop
 
 dist_menu_DATA = \
 	src/menus/unexicon-applications.menu \
@@ -1657,6 +1703,8 @@ dist_back_DATA = \
 	src/fallback/ekiga.desktop \
 	src/fallback/electric.desktop \
 	src/fallback/electricsheep.desktop \
+	src/fallback/elementary_config.desktop \
+	src/fallback/elementary_test.desktop \
 	src/fallback/elinks.desktop \
 	src/fallback/ElmerGUI.desktop \
 	src/fallback/elvis.desktop \
@@ -1681,6 +1729,7 @@ dist_back_DATA = \
 	src/fallback/enemylines7.desktop \
 	src/fallback/engine.desktop \
 	src/fallback/enigma.desktop \
+	src/fallback/enlightenment_filemanager.desktop \
 	src/fallback/entagged.desktop \
 	src/fallback/entrez2.desktop \
 	src/fallback/envy24_control.desktop \
@@ -1706,6 +1755,7 @@ dist_back_DATA = \
 	src/fallback/eterm.desktop \
 	src/fallback/etherape.desktop \
 	src/fallback/ethereal.desktop \
+	src/fallback/etr.desktop \
 	src/fallback/ettercap.desktop \
 	src/fallback/etw.desktop \
 	src/fallback/euler2d.desktop \
@@ -1793,6 +1843,7 @@ dist_back_DATA = \
 	src/fallback/firewall.desktop \
 	src/fallback/fireworkx.desktop \
 	src/fallback/fityk.desktop \
+	src/fallback/five-or-more.desktop \
 	src/fallback/flag.desktop \
 	src/fallback/flags-slideshow.desktop \
 	src/fallback/flame.desktop \
@@ -4341,6 +4392,7 @@ dist_back_DATA = \
 pixmap_ICONS = \
 	src/icons/2bWM.save.svg \
 	src/icons/2bWM.svg \
+	src/icons/abe.png \
 	src/icons/abiword_48.svg \
 	src/icons/abiword.svg \
 	src/icons/accessories-text-editor.svg \
@@ -4350,6 +4402,7 @@ pixmap_ICONS = \
 	src/icons/adobe-reader.svg \
 	src/icons/adwm.svg \
 	src/icons/aewm.svg \
+	src/icons/AfterStep.svg \
 	src/icons/alacarte.svg \
 	src/icons/alltray.svg \
 	src/icons/amsn.svg \
@@ -4387,6 +4440,7 @@ pixmap_ICONS = \
 	src/icons/audio-player.svg \
 	src/icons/avidemux_icon.svg \
 	src/icons/avidemux.svg \
+	src/icons/awesome.svg \
 	src/icons/Azureus.svg \
 	src/icons/azureus.svg \
 	src/icons/background.svg \
@@ -4420,6 +4474,7 @@ pixmap_ICONS = \
 	src/icons/checkbox.svg \
 	src/icons/checkgmail.png \
 	src/icons/cheese.svg \
+	src/icons/chemtool.png \
 	src/icons/cinelerra.svg \
 	src/icons/claws-mail.svg \
 	src/icons/clock.svg \
@@ -4459,6 +4514,7 @@ pixmap_ICONS = \
 	src/icons/drilogo.png \
 	src/icons/dvdisaster.png \
 	src/icons/dwm.svg \
+	src/icons/e16.png \
 	src/icons/eclipse.svg \
 	src/icons/edit-urpm-sources.svg \
 	src/icons/eekboard.svg \
@@ -4474,11 +4530,13 @@ pixmap_ICONS = \
 	src/icons/epdfview.png \
 	src/icons/epiphany-bookmarks.svg \
 	src/icons/epiphany.png \
+	src/icons/e.png \
 	src/icons/eq.svg \
 	src/icons/eric.png \
 	src/icons/Eterm.png \
 	src/icons/Etermutilities-terminal.svg \
 	src/icons/etherape.png \
+	src/icons/etr.png \
 	src/icons/ettercap.svg \
 	src/icons/evilwm.svg \
 	src/icons/evince.svg \
@@ -4488,6 +4546,7 @@ pixmap_ICONS = \
 	src/icons/evolution-tasks.svg \
 	src/icons/exaile.svg \
 	src/icons/exaile-tray-icon.svg \
+	src/icons/extremetuxracer.png \
 	src/icons/fedora-logo-icon.svg \
 	src/icons/fedora-logo-sprite.svg \
 	src/icons/file-manager.svg \
@@ -4497,11 +4556,13 @@ pixmap_ICONS = \
 	src/icons/filezilla.svg \
 	src/icons/firestarter.svg \
 	src/icons/firewall.svg \
+	src/icons/five-or-more.svg \
 	src/icons/flegita.svg \
 	src/icons/flobopuyo.png \
 	src/icons/flphoto.png \
 	src/icons/fluxbox.svg \
 	src/icons/force-exit.svg \
+	src/icons/freemind.png \
 	src/icons/frozen-bubble.png \
 	src/icons/f-spot.svg \
 	src/icons/fusion-icon.svg \
@@ -4569,11 +4630,14 @@ pixmap_ICONS = \
 	src/icons/gimp.svg \
 	src/icons/gksu-debian.svg \
 	src/icons/gksu-root-terminal.svg \
+	src/icons/gl-117.png \
+	src/icons/glchess.svg \
 	src/icons/glipper.svg \
 	src/icons/gmplayer.svg \
 	src/icons/gnochm.svg \
 	src/icons/gnome-about-logo.png \
 	src/icons/gnome-aisleriot.svg \
+	src/icons/gnome-alsamixer-icon.png \
 	src/icons/gnome-aorta.png \
 	src/icons/gnome-app-install.svg \
 	src/icons/gnome-applets.png \

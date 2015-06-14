@@ -10,7 +10,6 @@ Categories=Office;Viewer;GTK;
 MimeType=application/x-chm;
 StartupNotify=false
 X-AppInstall-Package=xchm
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=xchm

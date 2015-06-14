@@ -1,15 +1,15 @@
 [Desktop Entry]
 Type=Application
-Name=Freedroid
-Comment=Clear a spaceship from all droids
-Icon=freedroid
+Name=FreeDroid
+Comment=An SDL Paranoid(c) clone game
+Icon=paraicon
 TryExec=/usr/bin/freedroid
 Exec=freedroid
-Categories=Game;
-StartupNotify=false
+Categories=Game;Arcade;
 X-AppInstall-Package=freedroid
 X-AppInstall-Popcon=21
 X-AppInstall-Section=community
+X-Arch-Package=freedroid 1.0.2-9
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=freedroid
 X-Arch-Package-Version=1.0.2-9

@@ -11,7 +11,6 @@ NoDisplay=true
 Keywords=geolocation;
 StartupNotify=false
 X-AppInstall-Package=geoclue2
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=geoclue2 2.2.0-2
 X-Arch-Package-Repository=extra

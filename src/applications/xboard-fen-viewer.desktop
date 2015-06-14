@@ -28,7 +28,6 @@ Categories=Game;BoardGame;
 MimeType=application/x-chess-fen;
 StartupNotify=false
 X-AppInstall-Package=xboard
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package=xboard 4.8.0-1
 X-Arch-Package-Repository=community

@@ -8,7 +8,6 @@ Exec=gaw
 Categories=Graphics;GTK;
 StartupNotify=false
 X-AppInstall-Package=gaw
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=gaw 20111016-1
 X-Arch-Package-Repository=custom

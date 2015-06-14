@@ -9,7 +9,6 @@ NotShowIn=GNOME;KDE;XFCE;LXDE;
 Categories=System;
 StartupNotify=true
 X-AppInstall-Package=sd-applet
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=sd-applet 0.01.6-1
 X-Arch-Package-Repository=custom

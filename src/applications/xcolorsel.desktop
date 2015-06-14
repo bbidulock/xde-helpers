@@ -10,7 +10,6 @@ Categories=Application;X-X11;X-XTool;
 StartupNotify=false
 StartupWMClass=xcolorsel
 X-AppInstall-Package=xcolorsel
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=xcolorsel 1.1a-2
 X-Arch-Package-Repository=custom

@@ -1,13 +1,13 @@
 [Desktop Entry]
 Type=Application
-Name=Freevo
-GenericName=Freevo
+Name=Freevo Audio/Video Player
+GenericName=Home Theatre
 Comment=Playing various multimedia formats, like pictures, audio or video.
 Comment[de]=Wiedergabe verschiedenster Multimediaformate, wie z.B. Fotos, Musik oder Videos.
-Icon=_usr_share_pixmaps_freevo
+Icon=freevo
 TryExec=/usr/bin/freevo
 Exec=freevo
-Categories=Application;AudioVideo;X-Red-Hat-Base;X-Ximian-Main;
+Categories=AudioVideo;Player;
 StartupNotify=false
 X-AppInstall-Package=freevo
 X-AppInstall-Popcon=40

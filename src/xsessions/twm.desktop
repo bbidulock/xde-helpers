@@ -91,16 +91,16 @@ X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=twm
 X-AppInstall-Package=xorg-twm-git
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=xorg-twm-git 1.0.8.r6.g8f68d82-1
 X-Arch-Package-Repository=custom
 X-Arch-Package-Name=xorg-twm-git
-X-Arch-Package-Version=1.0.8.r6.g8f68d82-1
+X-Arch-Package-Version=1.0.9.r0.gb52e404-1
 X-Arch-Package-Description=Tab Window Manager for the X Window System
 X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://xorg.freedesktop.org/
 DesktopNames=TWM
+X-LightDM-DesktopName=twm
 X-SuSE-translate=true
 Actions=XDE;
 
@@ -111,6 +111,7 @@ Icon=xde
 TryExec=/usr/bin/xde-session
 Exec=xde-session -desktop TWM -startwm start-twm
 DesktopNames=XDE:TWM
+X-LightDM-DesktopName=xde
 
 [Window Manager]
 Name=twm

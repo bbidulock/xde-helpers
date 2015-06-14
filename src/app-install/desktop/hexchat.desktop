@@ -51,7 +51,6 @@ Keywords[zh_CN]=IM;聊天;
 MimeType=x-scheme-handler/irc;x-scheme-handler/ircs;
 StartupNotify=true
 X-AppInstall-Package=hexchat
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package=hexchat 2.10.2-2
 X-Arch-Package-Repository=community

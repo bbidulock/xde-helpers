@@ -13,7 +13,6 @@ Exec=tmw
 Categories=Application;Game;
 StartupNotify=false
 X-AppInstall-Package=tmw
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=tmw

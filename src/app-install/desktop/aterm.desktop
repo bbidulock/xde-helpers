@@ -165,7 +165,6 @@ X-XFCE-Category=TerminalEmulator
 X-XFCE-Commands=%B;
 X-XFCE-CommandsWithParameter=%B -e %s;
 X-AppInstall-Package=aterm
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=aterm 1.0.1-6
 X-Arch-Package-Repository=custom

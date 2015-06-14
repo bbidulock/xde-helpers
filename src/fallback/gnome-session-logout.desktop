@@ -2,11 +2,11 @@
 Type=Application
 Name=Session Logout Dialog
 Comment=Prompt the user to log out of their session
-Icon=gnome-logout
-TryExec=/usr/bin/libssui-tool
-Exec=libssui-tool --logout
+Icon=system-log-out
+TryExec=/usr/bin/gnome-session-save
+Exec=gnome-session-save --logout-dialog
 Hidden=true
 OnlyShowIn=GNOME;
-Categories=System;SystemSetup;
+Categories=System;GNOME;GTK;SystemSetup;
 StartupNotify=true
 X-SuSE-translate=true

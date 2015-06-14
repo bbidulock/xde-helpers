@@ -63,7 +63,6 @@ NotShowIn=GNOME;KDE;XFCE;
 Categories=Settings;DesktopSettings;GTK;X-LXDE-Settings;
 StartupNotify=false
 X-AppInstall-Package=lxsession
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package=lxsession 1:0.5.2-1
 X-Arch-Package-Repository=community

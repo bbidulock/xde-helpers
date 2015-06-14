@@ -9,7 +9,6 @@ Exec=xzgv
 Categories=Graphics;RasterGraphics;Viewer;GTK;
 StartupNotify=false
 X-AppInstall-Package=xzgv
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=xzgv 0.9.1-4
 X-Arch-Package-Repository=custom

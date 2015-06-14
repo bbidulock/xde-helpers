@@ -9,7 +9,6 @@ Exec=moc-tray
 Categories=TrayIcon;AudioVideo;Audio;Player;GTK;
 StartupNotify=false
 X-AppInstall-Package=moc-tray
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package=moc-tray 0.4-3
 X-Arch-Package-Repository=community

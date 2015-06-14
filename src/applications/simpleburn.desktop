@@ -10,7 +10,6 @@ Categories=AudioVideo;DiscBurning;
 Keywords=disc;cdrom;dvd;burn;audio;video;
 StartupNotify=true
 X-AppInstall-Package=simpleburn
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=simpleburn 1.7.3-1
 X-Arch-Package-Repository=custom

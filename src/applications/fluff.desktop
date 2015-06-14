@@ -8,7 +8,6 @@ Exec=fluff
 Categories=System;FileManager;
 StartupNotify=false
 X-AppInstall-Package=fluff
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=fluff 1.0.3-1
 X-Arch-Package-Repository=custom

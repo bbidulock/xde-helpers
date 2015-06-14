@@ -9,7 +9,6 @@ Exec=slock
 Categories=Application;System;
 StartupNotify=false
 X-AppInstall-Package=jwmtools-git
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=jwmtools-git 1:r75.4689c0b-1
 X-Arch-Package-Repository=custom

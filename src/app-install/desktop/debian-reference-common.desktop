@@ -18,5 +18,4 @@ Exec=debian-reference
 Categories=Utility;
 StartupNotify=false
 X-AppInstall-Package=debian-reference
-X-AppInstall-Popcon=0
 X-AppInstall-Section=main

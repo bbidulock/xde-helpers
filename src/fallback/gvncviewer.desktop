@@ -9,7 +9,6 @@ Exec=/usr/bin/gvncviewer
 Categories=Application;Utility;GTK;
 StartupNotify=false
 X-AppInstall-Package=gtk-vnc-gtk2
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=gtk-vnc-gtk2 0.5.4-1
 X-Arch-Package-Repository=custom

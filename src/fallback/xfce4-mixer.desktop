@@ -51,7 +51,6 @@ Exec=xfce4-mixer
 Categories=AudioVideo;Audio;Mixer;X-XFCE;
 StartupNotify=true
 X-AppInstall-Package=xfce4-mixer
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package-Repository=extra
 X-Arch-Package-Name=xfce4-mixer

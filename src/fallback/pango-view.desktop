@@ -9,7 +9,6 @@ Exec=pango-view -t "Hello world!"
 Categories=System;Utility;
 StartupNotify=false
 X-AppInstall-Package=pango
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=pango 1.36.8-1
 X-Arch-Package-Repository=extra

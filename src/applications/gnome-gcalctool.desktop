@@ -173,7 +173,6 @@ X-GNOME-Bugzilla-Component=general
 X-GNOME-Bugzilla-OtherBinaries=gnome-calculator
 X-Desktop-File-Install-Version=0.18
 X-AppInstall-Package=gcalctool-oldgui
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=gcalctool-oldgui 5.28.2-3
 X-Arch-Package-Repository=custom

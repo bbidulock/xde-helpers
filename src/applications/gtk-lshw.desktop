@@ -9,7 +9,6 @@ Categories=Application;System;GTK;X-Fedora;X-Red-Hat-Base;
 StartupNotify=false
 X-Desktop-File-Install-Version=0.10
 X-AppInstall-Package=lshw
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package=lshw B.02.17-1
 X-Arch-Package-Repository=community

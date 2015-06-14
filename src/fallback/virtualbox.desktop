@@ -16,7 +16,6 @@ MimeType=application/x-virtualbox-vbox;application/x-virtualbox-vbox-extpack;app
 StartupNotify=false
 DocPath=file:///usr/share/doc/virtualbox/UserManual.pdf
 X-AppInstall-Package=virtualbox
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package=virtualbox 4.3.28-1
 X-Arch-Package-Repository=community

@@ -12,7 +12,6 @@ Categories=TrayIcon;System;Utility;
 StartupNotify=false
 X-GNOME-Autostart-enabled=true
 X-AppInstall-Package=menutray
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=menutray 0.43-1
 X-Arch-Package-Repository=custom

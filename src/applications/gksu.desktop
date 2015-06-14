@@ -49,7 +49,6 @@ Categories=Utility;TerminalEmulator;GTK;
 StartupNotify=true
 X-Desktop-File-Install-Version=0.18
 X-AppInstall-Package=gksu
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=gksu 2.0.2-5
 X-Arch-Package-Repository=extra

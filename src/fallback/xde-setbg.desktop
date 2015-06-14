@@ -11,7 +11,6 @@ Categories=Settings;GTK;
 StartupNotify=false
 X-GNOME-Autostart-enabled=false
 X-AppInstall-Package=xde-ctools-git
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=xde-ctools-git 0.1.89.gaaf6c9a-1
 X-Arch-Package-Repository=custom

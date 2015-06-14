@@ -8,7 +8,6 @@ Exec=xdg-open /usr/share/doc/springdale-release-notes-6.4/index.html
 Categories=Documentation;X-Red-Hat-Base;
 StartupNotify=false
 X-AppInstall-Package=xdg-utils
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=xdg-utils 1.1.0.git20150323-1
 X-Arch-Package-Repository=extra

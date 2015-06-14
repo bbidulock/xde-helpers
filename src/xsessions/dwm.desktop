@@ -16,7 +16,6 @@ X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=dwm
 X-AppInstall-Package=dwm-git
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=dwm-git 1:6.0.43.g14343e6-1
 X-Arch-Package-Repository=custom
@@ -26,6 +25,7 @@ X-Arch-Package-Description=A dynamic window manager for X
 X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://dwm.suckless.org
 DesktopNames=DWM
+X-LightDM-DesktopName=dwm
 Actions=XDE;
 
 [Desktop Action XDE]
@@ -35,6 +35,7 @@ Icon=xde
 TryExec=/usr/bin/xde-session
 Exec=xde-session -desktop DWM -startwm start-dwm
 DesktopNames=XDE:DWM
+X-LightDM-DesktopName=xde
 
 [Window Manager]
 Name=dwm

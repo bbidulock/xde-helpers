@@ -141,5 +141,5 @@ Icon=accessibility-directory.png
 TryExec=/usr/bin/gnome-accessibility-keyboard-properties
 Exec=gnome-accessibility-keyboard-properties
 OnlyShowIn=GNOME;
-Categories=Application;Settings;Accessibility;X-Red-Hat-Base;
+Categories=Settings;Accessibility;
 StartupNotify=false

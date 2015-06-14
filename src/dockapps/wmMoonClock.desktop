@@ -11,7 +11,6 @@ Categories=DockApp;WMAKER;
 StartupNotify=false
 StartupWMClass=wmMoonClock
 X-AppInstall-Package=wmmoonclock
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=wmmoonclock 1.27-2
 X-Arch-Package-Repository=custom

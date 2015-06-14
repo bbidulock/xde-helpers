@@ -7,7 +7,6 @@ Exec=xbiff
 Categories=Network;Email;
 StartupNotify=false
 X-AppInstall-Package=xorg-xbiff
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=xorg-xbiff 1.0.3-3
 X-Arch-Package-Repository=extra

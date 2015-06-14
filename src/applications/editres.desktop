@@ -10,7 +10,6 @@ Categories=Application;X-X11;X-XTool;
 StartupNotify=false
 StartupWMClass=editres
 X-AppInstall-Package=xorg-editres
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=xorg-editres 1.0.6-1
 X-Arch-Package-Repository=custom

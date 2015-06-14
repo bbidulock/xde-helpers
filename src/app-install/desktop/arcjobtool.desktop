@@ -18,5 +18,4 @@ Exec=arcjobtool
 Categories=Network;
 StartupNotify=false
 X-AppInstall-Package=arcjobtool
-X-AppInstall-Popcon=0
 X-AppInstall-Section=main

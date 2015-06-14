@@ -8,7 +8,6 @@ Exec=yabause-qt
 Categories=Game;KDE;Qt;
 StartupNotify=false
 X-AppInstall-Package=yabause-qt
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=yabause-qt

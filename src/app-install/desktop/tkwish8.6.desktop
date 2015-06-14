@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=TkWish8.6
+TryExec=/usr/bin/wish8.6
+Exec=wish
+Terminal=true
+Categories=Programming;
+StartupNotify=false
+X-AppInstall-Package=tk
+X-AppInstall-Section=extra
+X-Arch-Package=tk 8.6.4-1
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=tk
+X-Arch-Package-Version=8.6.4-1
+X-Arch-Package-Description=A windowing toolkit for use with tcl
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://tcl.sourceforge.net/

@@ -7,7 +7,6 @@ Exec=solfege
 Categories=Application;AudioVideo;Audio;Education;GNOME;
 StartupNotify=false
 X-AppInstall-Package=solfege
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=solfege

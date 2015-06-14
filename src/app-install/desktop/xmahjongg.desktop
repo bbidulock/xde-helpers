@@ -9,7 +9,6 @@ Exec=/usr/games/xmahjongg
 Categories=Game;CardGame;
 StartupNotify=false
 X-AppInstall-Package=xmahjongg
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package-Repository=extra
 X-Arch-Package-Name=xmahjongg

@@ -10,7 +10,6 @@ Categories=Settings;System;LXDE;
 StartupNotify=false
 StartupWMClass=lxpanel
 X-AppInstall-Package=lxpanel
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package=lxpanel 0.8.1-1
 X-Arch-Package-Repository=community

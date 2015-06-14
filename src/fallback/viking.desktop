@@ -25,7 +25,6 @@ Exec=viking %F
 Categories=Education;Science;Geography;GTK;
 StartupNotify=true
 X-AppInstall-Package=viking
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=viking

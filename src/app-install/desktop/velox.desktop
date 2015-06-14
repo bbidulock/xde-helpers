@@ -16,7 +16,6 @@ X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=velox
 X-AppInstall-Package=velox
-X-AppInstall-Popcon=0
 X-AppInstall-Section=custom
 X-Arch-Package=velox 0.0.3-2
 X-Arch-Package-Repository=custom

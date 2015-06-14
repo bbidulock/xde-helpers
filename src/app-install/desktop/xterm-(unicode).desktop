@@ -8,7 +8,6 @@ Exec=uxterm
 Categories=Utility;TerminalEmulator;
 StartupNotify=false
 X-AppInstall-Package=xterm
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=xterm 318-1
 X-Arch-Package-Repository=extra

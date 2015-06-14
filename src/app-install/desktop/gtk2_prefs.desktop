@@ -9,7 +9,6 @@ NotShowIn=GNOME;XFCE;
 Categories=Settings;DesktopSettings;GTK;
 StartupNotify=true
 X-AppInstall-Package=gtk2_prefs
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package=gtk2_prefs 0.4.1-4
 X-Arch-Package-Repository=community

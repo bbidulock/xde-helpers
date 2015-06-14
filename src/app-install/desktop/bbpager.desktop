@@ -12,7 +12,6 @@ StartupNotify=false
 StartupWMClass=bbpager
 X-GNOME-Autostart-enabled=false
 X-AppInstall-Package=bbpager
-X-AppInstall-Popcon=0
 X-AppInstall-Section=community
 X-Arch-Package=bbpager 0.4.7-5
 X-Arch-Package-Repository=community

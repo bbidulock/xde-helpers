@@ -177,7 +177,6 @@ Categories=System;Monitor;
 StartupNotify=false
 X-KDE-StartupNotify=true
 X-AppInstall-Package=xorg-xload
-X-AppInstall-Popcon=0
 X-AppInstall-Section=extra
 X-Arch-Package=xorg-xload 1.1.2-1
 X-Arch-Package-Repository=extra
