@@ -6,7 +6,6 @@ Icon=/usr/share/pixmaps/flburn.png
 TryExec=/usr/bin/flburn
 Exec=flburn
 Categories=AudioVideo;
-StartupNotify=false
 X-AppInstall-Package=flburn
 X-AppInstall-Section=custom
 X-Arch-Package=flburn 0.0.3-4

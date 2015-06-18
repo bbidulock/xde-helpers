@@ -1,17 +1,20 @@
 [Desktop Entry]
 Type=Application
 Name=ColorCode
-GenericName=Clone of the MasterMind code-breaking game
-GenericName[fr]=Clone avancé du jeu MasterMind
-Comment=Advanced clone of the MasterMind code-breaking game
-Icon=_usr_share_pixmaps_colorcode32
-TryExec=/usr/games/colorcode
-Exec=/usr/games/colorcode
+GenericName=MasterMind-like game
+GenericName[es]=Juego similar a MasterMind
+GenericName[fr]=Jeu comme MasterMind
+Comment=MasterMind-like game
+Comment[es]=Juego similar a MasterMind
+Comment[fr]=Jeu comme MasterMind
+Icon=cc64
+TryExec=/usr/bin/colorcode
+Exec=colorcode
 Categories=Game;LogicGame;Qt;
-StartupNotify=false
 X-AppInstall-Package=colorcode
 X-AppInstall-Popcon=10
 X-AppInstall-Section=aur
+X-Arch-Package=colorcode 0.7.2-1
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=colorcode
 X-Arch-Package-Version=0.7.2-1

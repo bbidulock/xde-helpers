@@ -1,6 +1,10 @@
 [Desktop Entry]
 Type=Application
 Name=Scribus
+Name[ar]=سكريبس
+Name[fa]=اسکریباس
+Name[lo]=ສະຄຣີບັດສ໌
+Name[ta]=ஸ்கிரிபஸ்
 GenericName=Page Layout
 GenericName[af]=Werkskerm Publisering
 GenericName[bg]=Издателска програма
@@ -89,10 +93,10 @@ Comment[zu]=Ukushicilelwa kwe-Desktop
 Icon=scribus
 TryExec=/usr/bin/scribus
 Exec=scribus %f
-Categories=Office;Publishing;Qt;X-MandrivaLinux-CrossDesktop;
+Categories=Graphics;Office;Publishing;Qt;
 MimeType=application/vnd.scribus;
-StartupNotify=false
 StartupWMClass=scribus
+DocPath=scribus
 X-KDE-SubstituteUID=false
 X-Desktop-File-Install-Version=0.18
 X-AppInstall-Package=scribus

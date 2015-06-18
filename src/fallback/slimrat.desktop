@@ -1,17 +1,20 @@
 [Desktop Entry]
 Type=Application
 Name=Slimrat
+Name[sr]=Слимрат
 GenericName=File Downloader
 X-GNOME-FullName=Slimrat File Downloader
 Comment=Download files from various hosters
 Icon=slimrat
 TryExec=/usr/bin/slimrat-gui
 Exec=slimrat-gui %U
-Categories=Network;GNOME;GTK;
+Categories=Network;FileTransfer;GNOME;GTK;
 StartupNotify=true
+MimeType=text/html;text/xml;application/xhtml+xml;
 X-AppInstall-Package=slimrat
 X-AppInstall-Popcon=107
 X-AppInstall-Section=aur
+X-Arch-Package=slimrat 1.1_beta2-2
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=slimrat
 X-Arch-Package-Version=1.1_beta2-2

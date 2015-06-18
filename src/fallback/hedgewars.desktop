@@ -1,14 +1,12 @@
 [Desktop Entry]
 Type=Application
 Name=Hedgewars
-GenericName=Fighting Hedgehogs
-GenericName[ru]=Битвы ежей
-GenericName[tr]=Worms Benzeri Strateji Oyunu
-Icon=hedgewars.png
+GenericName=Platform Game
+Comment=Worms style game
+Icon=hedgewars
 TryExec=/usr/bin/hedgewars
 Exec=hedgewars
-Categories=Application;Game;StrategyGame;
-StartupNotify=false
+Categories=Game;ArcadeGame;
 X-AppInstall-Package=hedgewars
 X-AppInstall-Popcon=143
 X-AppInstall-Section=community

@@ -2,14 +2,15 @@
 Type=Application
 Name=SDL-Ball
 GenericName=Breakout Game
+Comment=A Breakout clone
 Icon=sdl-ball
 TryExec=/usr/bin/sdl-ball
 Exec=sdl-ball
-Categories=Game;ArcadeGame;
-StartupNotify=false
+Categories=Game;ActionGame;ArcadeGame;
 X-AppInstall-Package=sdl-ball
 X-AppInstall-Popcon=17
 X-AppInstall-Section=aur
+X-Arch-Package=sdl-ball 1.02-2
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=sdl-ball
 X-Arch-Package-Version=1.02-2

@@ -1,17 +1,18 @@
 [Desktop Entry]
 Type=Application
 Name=Ri-li
-Comment=a toy simulator game
-Comment[fr]=un jeu de petit train
-Comment[ro_RO]=un joc cu un tren de jucărie
+Comment=Drive a toy wood engine
+Comment[fr]=Conduire un petit train de bois
+Comment[it]=Conduci un piccolo treno di legno
 Icon=ri-li
-TryExec=/usr/bin/ri-li
-Exec=ri-li
+TryExec=/usr/bin/Ri_li
+Exec=Ri_li %u
 Categories=Game;ArcadeGame;
 StartupNotify=false
 X-AppInstall-Package=ri-li
 X-AppInstall-Popcon=23
 X-AppInstall-Section=aur
+X-Arch-Package=ri-li 2.0.1-3
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=ri-li
 X-Arch-Package-Version=2.0.1-3

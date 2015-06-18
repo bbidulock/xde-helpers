@@ -1,5 +1,5 @@
 [Desktop Entry]
-Type=Application
+Type=XSession
 Name=KDE/Openbox
 GenericName=Window Manager
 GenericName[fr]=Gestionnaire de Fenêtres
@@ -25,6 +25,7 @@ X-Arch-Package-Description=Highly configurable and lightweight X11 window manage
 X-Arch-Package-Groups=lxde  lxqt
 X-Arch-Package-URL=http://openbox.org
 DesktopNames=KDE
+X-LightDM-DesktopName=kde
 
 [Window Manager]
 Name=Openbox

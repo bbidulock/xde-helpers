@@ -1,15 +1,16 @@
 [Desktop Entry]
 Type=Application
-Name=Qliss3D
-Comment=demonstration tool for Lissajous physiques
-Icon=_usr_share_pixmaps_qliss3d
+Name=QLiss3D
+Comment=Renders 3D Lissajous figures
+Icon=qliss3d
 TryExec=/usr/bin/qliss3d
 Exec=qliss3d
-Categories=Education;Math;KDE;Qt;
+Categories=Education;Graphics;2DGraphics;3DGraphics;Math;KDE;Qt;
 StartupNotify=true
 X-AppInstall-Package=qliss3d
 X-AppInstall-Popcon=10
 X-AppInstall-Section=aur
+X-Arch-Package=qliss3d 1.4-1
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=qliss3d
 X-Arch-Package-Version=1.4-1

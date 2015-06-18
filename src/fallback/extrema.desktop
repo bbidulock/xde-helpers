@@ -1,16 +1,16 @@
 [Desktop Entry]
 Type=Application
 Name=eXtrema
-Comment=eXtrema
+Comment=Visualization and Data Analysis Tool
 Icon=extrema
 TryExec=/usr/bin/extrema
-Exec=/usr/bin/extrema
+Exec=extrema
 Categories=Education;Science;DataVisualization;Math;NumericalAnalysis;
-StartupNotify=false
 X-Desktop-File-Install-Version=0.10
 X-AppInstall-Package=extrema
 X-AppInstall-Popcon=13
 X-AppInstall-Section=aur
+X-Arch-Package=extrema 4.4.5-2
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=extrema
 X-Arch-Package-Version=4.4.5-2

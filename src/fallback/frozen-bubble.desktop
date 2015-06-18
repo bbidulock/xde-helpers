@@ -1,15 +1,15 @@
 [Desktop Entry]
 Type=Application
 Name=Frozen Bubble
-Comment=Pop out the bubbles !
+Comment=Pop out the bubbles!
 Icon=frozen-bubble
 TryExec=/usr/bin/vendor_perl/frozen-bubble
 Exec=/usr/bin/vendor_perl/frozen-bubble
 Categories=Game;ArcadeGame;
-StartupNotify=false
 X-AppInstall-Package=frozen-bubble
 X-AppInstall-Popcon=456
 X-AppInstall-Section=extra
+X-Arch-Package=frozen-bubble 2.2.1beta1-6
 X-Arch-Package-Repository=extra
 X-Arch-Package-Name=frozen-bubble
 X-Arch-Package-Version=2.2.1beta1-6

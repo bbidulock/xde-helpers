@@ -1,7 +1,8 @@
 [Desktop Entry]
 Type=Application
 Name=Freedroid RPG
-Comment=Isometric role playing game
+GenericName=Isometric role playing game
+Comment=Extension/modification of the classical Freedroid game(based on paradroid) into an RPG
 Icon=freedroidrpg
 TryExec=/usr/bin/freedroidRPG
 Exec=freedroidRPG
@@ -10,9 +11,9 @@ StartupNotify=false
 X-AppInstall-Package=freedroidrpg
 X-AppInstall-Popcon=24
 X-AppInstall-Section=community
+X-Arch-Package=freedroidrpg 0.15.1-5
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=freedroidrpg
 X-Arch-Package-Version=0.15.1-5
 X-Arch-Package-Description=a mature science fiction role playing game set in the future
-X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://freedroid.sourceforge.net

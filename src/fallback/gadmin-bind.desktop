@@ -1,16 +1,16 @@
 [Desktop Entry]
 Type=Application
-Name=GADMIN-BIND
+Name=Gadmin Bind
 GenericName=GADMIN-BIND
 Comment=BIND DNS server administration
 Icon=gadmin-bind
-TryExec=/usr/bin/su-to-root
-Exec=su-to-root -X -c /usr/sbin/gadmin-bind
+TryExec=/usr/bin/gadmin-bind-menu
+Exec=gadmin-bind-menu
 Categories=System;GTK;
-StartupNotify=false
 X-AppInstall-Package=gadmin-bind
 X-AppInstall-Popcon=1
 X-AppInstall-Section=aur
+X-Arch-Package=gadmin-bind 0.2.5-1
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=gadmin-bind
 X-Arch-Package-Version=0.2.5-1

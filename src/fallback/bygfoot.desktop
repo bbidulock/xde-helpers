@@ -1,15 +1,15 @@
 [Desktop Entry]
 Type=Application
-Name=bygfoot
+Name=Bygfoot
 Comment=A soccer manager game
-Icon=bygfoot.xpm
-TryExec=/usr/games/bygfoot
-Exec=/usr/games/bygfoot
-Categories=Application;Game;
-StartupNotify=false
+Icon=bygfoot
+TryExec=/usr/bin/bygfoot
+Exec=bygfoot
+Categories=Game;SportsGame;
 X-AppInstall-Package=bygfoot
 X-AppInstall-Popcon=17
 X-AppInstall-Section=aur
+X-Arch-Package=bygfoot 2.3.2-3
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=bygfoot
 X-Arch-Package-Version=2.3.2-3

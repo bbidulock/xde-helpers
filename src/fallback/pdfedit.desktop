@@ -1,15 +1,16 @@
 [Desktop Entry]
 Type=Application
 Name=PDF Editor
+GenericName=PDF Editor
 Comment=PDF Editor
-Icon=_usr_share_pdfedit_icon_pdfedit_logo
+Icon=pdfedit
 TryExec=/usr/bin/pdfedit
 Exec=pdfedit
 Categories=Graphics;Viewer;TextTools;Qt;
-StartupNotify=false
 X-AppInstall-Package=pdfedit
 X-AppInstall-Popcon=474
 X-AppInstall-Section=aur
+X-Arch-Package=pdfedit 0.4.5-2
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=pdfedit
 X-Arch-Package-Version=0.4.5-2

@@ -1,13 +1,12 @@
 [Desktop Entry]
 Type=Application
-Name=Wings3D polygon mesh modeller
-GenericName=3D Modeler
+Name=Wings 3D
+GenericName=3D Polygon Mesh Modeler
 Comment=Create and edit 3D models of objects
 Icon=wings3d
 TryExec=/usr/bin/wings3d
 Exec=wings3d
 Categories=Graphics;3DGraphics;
-StartupNotify=false
 X-AppInstall-Package=wings3d
 X-AppInstall-Popcon=79
 X-AppInstall-Section=community

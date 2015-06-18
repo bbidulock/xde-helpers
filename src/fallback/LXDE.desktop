@@ -1,5 +1,5 @@
 [Desktop Entry]
-Type=Application
+Type=XSession
 Name=LXDE
 GenericName=X11 Desktop Environment
 GenericName[de]=X11 Desktop-Umgebung
@@ -7,9 +7,13 @@ GenericName[fi]=X11-työpöytäympäristö
 GenericName[pt]=Ambiente de trabalho X11
 Comment=LXDE - Lightweight X11 desktop environment
 Comment[de]=LXDE - Leichtgewichtige X11 Desktop-Umgebung
+Comment[es]=LXDE - Entorno de Escritorio X11 Liviano
 Comment[fi]=LXDE - kevyt X11-työpöytäympäristö
 Comment[ja]=LXDE - 軽量な X11 デスクトップ環境
 Comment[pt]=LXDE - Ambiente de trabalho X11 leve
+Comment[ru]=LXDE - Легковесное окружение рабочего стола X11
+Comment[tr]=LXDE - Hafif X11 masaüstü ortamı
+Comment[uk]=LXDE - Легке середовище стільниці X11
 Comment[zh_TW]=LXDE - 輕量級的 X11 桌面環境
 Icon=lxde-icon
 TryExec=/usr/bin/startlxde
@@ -30,6 +34,7 @@ X-Arch-Package-Description=Common files of the LXDE Desktop
 X-Arch-Package-Groups=lxde
 X-Arch-Package-URL=http://lxde.org/
 DesktopNames=LXDE
+X-LightDM-DesktopName=lxde
 
 [Window Manager]
 Name=Openbox

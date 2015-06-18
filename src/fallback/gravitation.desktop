@@ -1,14 +1,15 @@
 [Desktop Entry]
 Type=Application
 Name=Gravitation
+Comment=A game about mania, melancholia, and the creative process by Jason Rohrer
 Icon=gravitation
 TryExec=/usr/bin/gravitation
 Exec=gravitation
 Categories=Game;AdventureGame;
-StartupNotify=false
 X-AppInstall-Package=gravitation
 X-AppInstall-Popcon=3
 X-AppInstall-Section=aur
+X-Arch-Package=gravitation 3-1
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=gravitation
 X-Arch-Package-Version=3-1

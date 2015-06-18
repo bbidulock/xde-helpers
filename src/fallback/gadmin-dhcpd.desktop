@@ -1,16 +1,16 @@
 [Desktop Entry]
 Type=Application
-Name=GADMIN-DHCPD
+Name=Gadmin DHCPD
 GenericName=GADMIN-DHCPD
 Comment=DHCPD DHCP server administration
 Icon=gadmin-dhcpd
-TryExec=/usr/bin/su-to-root
-Exec=su-to-root -X -c /usr/sbin/gadmin-dhcpd
+TryExec=/usr/bin/gadmin-dhcpd-menu
+Exec=gadmin-dhcpd-menu
 Categories=System;GTK;
-StartupNotify=false
 X-AppInstall-Package=gadmin-dhcpd
 X-AppInstall-Popcon=4
 X-AppInstall-Section=aur
+X-Arch-Package=gadmin-dhcpd 0.5.0-1
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=gadmin-dhcpd
 X-Arch-Package-Version=0.5.0-1

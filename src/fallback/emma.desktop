@@ -1,16 +1,17 @@
 [Desktop Entry]
 Type=Application
-Name=emma
-GenericName=emma - MySQL managing assistant
+Name=Emma
+GenericName=Database Administration
 Comment=MySQL managing assistant
-Icon=_usr_share_emma_icons_emma
-TryExec=/usr/bin/Emma
-Exec=Emma
+Icon=emma
+TryExec=/usr/bin/emma
+Exec=emma
 Categories=Development;Database;GNOME;GTK;
 StartupNotify=true
 X-AppInstall-Package=emma
-X-AppInstall-Popcon=38
+X-AppInstall-Popcon=42
 X-AppInstall-Section=aur
+X-Arch-Package=emma 0.6-4
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=emma
 X-Arch-Package-Version=0.6-4

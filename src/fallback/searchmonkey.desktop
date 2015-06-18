@@ -1,15 +1,15 @@
 [Desktop Entry]
 Type=Application
 Name=Searchmonkey
-Comment=Regular expression power search utilty
-Icon=_usr_share_pixmaps_searchmonkey_searchmonkey-32x32
+Comment=Find text files quickly using regular expressions
+Icon=searchmonkey
 TryExec=/usr/bin/searchmonkey
 Exec=searchmonkey
 Categories=Utility;TextTools;
-StartupNotify=false
 X-AppInstall-Package=searchmonkey
 X-AppInstall-Popcon=25
 X-AppInstall-Section=aur
+X-Arch-Package=searchmonkey 2.0.0-2
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=searchmonkey
 X-Arch-Package-Version=2.0.0-2

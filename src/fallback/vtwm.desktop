@@ -1,5 +1,5 @@
 [Desktop Entry]
-Type=Application
+Type=XSession
 Name=VTWM
 GenericName=Window Manager
 GenericName[fr]=Gestionnaire de Fenêtres
@@ -17,14 +17,15 @@ X-GNOME-Provides=windowmanager
 X-GNOME-WMName=vtwm
 X-AppInstall-Package=vtwm-git
 X-AppInstall-Section=custom
-X-Arch-Package=vtwm-git 5.5.0.rc8.15-5
+X-Arch-Package=vtwm 5.4.7-6
 X-Arch-Package-Repository=custom
-X-Arch-Package-Name=vtwm-git
-X-Arch-Package-Version=5.5.0.rc8.15-5
+X-Arch-Package-Name=vtwm
+X-Arch-Package-Version=5.4.7-6
 X-Arch-Package-Description=A lightweight, customizable window manager with a virtual desktop
 X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://www.vtwm.org
 DesktopNames=VTWM
+X-LightDM-DesktopName=vtwm
 Actions=XDE;
 
 [Desktop Action XDE]
@@ -34,6 +35,7 @@ Icon=xde
 TryExec=/usr/bin/xde-session
 Exec=xde-session -desktop VTWM -startwm start-vtwm
 DesktopNames=XDE:VTWM
+X-LightDM-DesktopName=xde
 
 [Window Manager]
 Name=vtwm

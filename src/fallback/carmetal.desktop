@@ -1,16 +1,20 @@
 [Desktop Entry]
 Type=Application
 Name=CaRMetal
+GenericName=Geometry program
+GenericName[es]=Programa de geometría
+GenericName[fr]=Logiciel de géométrie
 Comment=CaRMetal interactive geometry
-Icon=CaRMetal.png
+Icon=carmetal
 TryExec=/usr/bin/carmetal
 Exec=carmetal
-Categories=Application;Education;Math;
+Categories=Education;Math;
 MimeType=application/x-carmetal;
 StartupNotify=true
 X-AppInstall-Package=carmetal
 X-AppInstall-Popcon=83
 X-AppInstall-Section=aur
+X-Arch-Package=carmetal 3.8.5-1
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=carmetal
 X-Arch-Package-Version=3.8.5-1

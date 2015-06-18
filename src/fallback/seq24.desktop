@@ -1,8 +1,9 @@
 [Desktop Entry]
 Type=Application
 Name=Seq24
-Comment=MIDI Sequencer
-Icon=_usr_share_pixmaps_seq24
+GenericName=MIDI Sequencer
+Comment=Minimal loop based midi sequencer
+Icon=seq24
 TryExec=/usr/bin/seq24
 Exec=seq24
 Categories=AudioVideo;Audio;
@@ -11,6 +12,7 @@ X-AppInstall-Package=seq24
 X-AppInstall-Popcon=51
 X-AppInstall-Section=aur
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package=seq24 0.9.2-2
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=seq24
 X-Arch-Package-Version=0.9.2-2

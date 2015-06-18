@@ -1,18 +1,20 @@
 [Desktop Entry]
 Type=Application
-Name=qgit
-GenericName=git GUI viewer
-Comment=git GUI viewer
+Name=QGit
+Comment=A GIT GUI viewer built on Qt/C++
+Icon=qgit
 TryExec=/usr/bin/qgit
 Exec=qgit
 ServiceTypes=KParts/ReadOnlyPart,Browser/View;
 Categories=Development;RevisionControl;Qt;
+URL=http://digilander.libero.it/mcostalba/
 MimeType=inode/directory;
-StartupNotify=false
+StartupNotify=true
 X-KDE-BrowserView-Args=DetailedList
 X-AppInstall-Package=qgit
 X-AppInstall-Popcon=132
 X-AppInstall-Section=community
+X-Arch-Package=qgit 2.5-1
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=qgit
 X-Arch-Package-Version=2.5-1

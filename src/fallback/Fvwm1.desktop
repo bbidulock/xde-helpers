@@ -1,5 +1,5 @@
 [Desktop Entry]
-Type=Application
+Type=XSession
 Name=FVWM1
 Name[bn]=জি-ভি
 Name[hi]=एफ़वीडबल्यूएम
@@ -82,6 +82,7 @@ X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=Fvwm
 X-GNOME-Bugzilla-Component=general
 DesktopNames=FVWM
+X-LightDM-DesktopName=fvwm
 Actions=XDE;
 
 [Desktop Action XDE]
@@ -91,6 +92,7 @@ Icon=xde
 TryExec=/usr/bin/xde-session
 Exec=xde-session -desktop FVWM1 -startwm fvwm1
 DesktopNames=XDE:FVWM
+X-LightDM-DesktopName=xde
 
 [Window Manager]
 Name=Fvwm

@@ -46,7 +46,6 @@ TryExec=/usr/bin/gnome-do
 Exec=gnome-do
 OnlyShowIn=GNOME;
 Categories=Utility;
-StartupNotify=false
 X-AppInstall-Package=gnome-do
 X-AppInstall-Popcon=784
 X-AppInstall-Section=community

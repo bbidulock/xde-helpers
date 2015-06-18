@@ -1,12 +1,11 @@
 [Desktop Entry]
 Type=Application
 Name=zsnes
-Comment=A Super Nintendo Entertainment System (TM) emulator
-Icon=zsnes.xpm
+Comment=Super Nintendo Entertainment System emulator
+Icon=zsnes
 TryExec=/usr/bin/zsnes
 Exec=zsnes
-Categories=Application;Game;2DGraphics;Emulator;
-StartupNotify=false
+Categories=Game;2DGraphics;Emulator;
 X-AppInstall-Package=zsnes
 X-AppInstall-Section=community
 X-AppInstall-Architectures=i386

@@ -1,5 +1,5 @@
 [Desktop Entry]
-Type=Application
+Type=XSession
 Name=wm2
 GenericName=Window Manager
 GenericName[fr]=Gestionnaire de Fenêtres
@@ -15,16 +15,17 @@ X-GNOME-Autostart-Notify=false
 X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=wm2
-X-AppInstall-Package=wm2-svn
+X-AppInstall-Package=wm2
 X-AppInstall-Section=custom
-X-Arch-Package=wm2-svn r114-1
+X-Arch-Package=wm2 4-1
 X-Arch-Package-Repository=custom
-X-Arch-Package-Name=wm2-svn
-X-Arch-Package-Version=r114-1
+X-Arch-Package-Name=wm2
+X-Arch-Package-Version=4-1
 X-Arch-Package-Description=The ideal window manager for today's elegant and ascetic programmer
 X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://www.all-day-breakfast.com/wm2/
 DesktopNames=WM2
+X-LightDM-DesktopName=wm2
 Actions=XDE;
 
 [Desktop Action XDE]
@@ -34,6 +35,7 @@ Icon=xde
 TryExec=/usr/bin/xde-session
 Exec=xde-session -exec uxterm -desktop WM2 -startwm wm2
 DesktopNames=XDE:WM2
+X-LightDM-DesktopName=xde
 
 [Window Manager]
 Name=wm2

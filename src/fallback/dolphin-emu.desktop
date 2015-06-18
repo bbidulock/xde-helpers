@@ -10,6 +10,7 @@ Categories=Game;Emulator;GTK;
 StartupNotify=false
 X-AppInstall-Package=dolphin-emu
 X-AppInstall-Section=community
+X-Arch-Package=dolphin-emu 3.5-2
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=dolphin-emu
 X-Arch-Package-Version=1:4.0.2-8

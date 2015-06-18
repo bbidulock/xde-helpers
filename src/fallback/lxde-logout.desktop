@@ -23,7 +23,6 @@ Comment[zh_TW]=登出、關機、或重新開機
 Icon=gnome-logout
 TryExec=/usr/bin/lxde-logout
 Exec=lxde-logout
-NoDisplay=true
 OnlyShowIn=LXDE;
 StartupNotify=false
 X-AppInstall-Package=lxde-common

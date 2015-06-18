@@ -1,16 +1,16 @@
 [Desktop Entry]
 Type=Application
 Name=Bos Wars
-GenericName=boswars
-Comment=Battle for survival
+GenericName=Battle of Survival Wars
+Comment=Battle for survival strategy game
 Icon=boswars
 TryExec=/usr/bin/boswars
 Exec=boswars
 Categories=Game;StrategyGame;
-StartupNotify=false
 X-AppInstall-Package=boswars
 X-AppInstall-Popcon=65
 X-AppInstall-Section=aur
+X-Arch-Package=boswars 2.7-5
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=boswars
 X-Arch-Package-Version=2.7-5

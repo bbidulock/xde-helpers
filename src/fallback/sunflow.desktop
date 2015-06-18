@@ -1,15 +1,20 @@
 [Desktop Entry]
 Type=Application
 Name=Sunflow
+GenericName=A 3D renderer
+GenericName[es]=Un renderer de 3D
+GenericName[fr]=Un renderer 3D
 Comment=Photorealistic Rendering Engine
-Icon=sunflow.png
+Icon=sunflow
 TryExec=/usr/bin/sunflow
-Exec=sunflow
+Exec=sunflow %f
+X-MultipleArgs=false
 Categories=Graphics;3DGraphics;
-StartupNotify=false
+MimeType=text/x-sunflow;
 X-AppInstall-Package=sunflow
 X-AppInstall-Popcon=14
 X-AppInstall-Section=aur
+X-Arch-Package=sunflow 0.07.2-10
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=sunflow
 X-Arch-Package-Version=0.07.2-10

@@ -1,15 +1,16 @@
 [Desktop Entry]
 Type=Application
 Name=Gnome Wave Cleaner
+GenericName=Sound Editor
 Comment=Sound File Noise Reduction
-Icon=gwc.xpm
-TryExec=/usr/bin/gnome_wave_cleaner
-Exec=gnome_wave_cleaner %F
+Icon=gwc-logo
+TryExec=/usr/bin/gwc
+Exec=gwc
 Categories=Application;AudioVideo;GNOME;
-StartupNotify=false
 X-AppInstall-Package=gwc
 X-AppInstall-Popcon=12
 X-AppInstall-Section=aur
+X-Arch-Package=gwc 0.21.19-1
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=gwc
 X-Arch-Package-Version=0.21.19-1

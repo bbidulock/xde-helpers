@@ -1,5 +1,5 @@
 [Desktop Entry]
-Type=Application
+Type=XSession
 Name=evilwm
 GenericName=Window Manager
 GenericName[fr]=Gestionnaire de Fenêtres
@@ -24,6 +24,7 @@ X-Arch-Package-Description=Minimalist but usable window manager for the X Window
 X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://evilwm.sourceforge.net
 DesktopNames=EVILWM
+X-LightDM-DesktopName=evilwm
 Actions=XDE;
 
 [Desktop Action XDE]
@@ -33,6 +34,7 @@ Icon=xde
 TryExec=/usr/bin/xde-session
 Exec=xde-session -desktop EVILWM -startwm start-evilwm
 DesktopNames=XDE:EVILWM
+X-LightDM-DesktopName=xde
 
 [Window Manager]
 Name=evilwm

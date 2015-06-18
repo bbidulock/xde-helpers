@@ -1,13 +1,16 @@
 [Desktop Entry]
 Type=Application
 Name=Xmille
-TryExec=/usr/games/xmille
-Exec=/usr/games/xmille
-Categories=Application;Game;CardGame;
-StartupNotify=false
+GenericName=Xmille
+Comment=The classic game of Mille Bournes
+Comment[fr]=Le jeu de Mille Bornes
+TryExec=/usr/bin/xmille
+Exec=xmille
+Categories=Game;CardGame;
 X-AppInstall-Package=xmille
 X-AppInstall-Popcon=5
 X-AppInstall-Section=aur
+X-Arch-Package=xmille 2.0-11
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=xmille
 X-Arch-Package-Version=2.0-11

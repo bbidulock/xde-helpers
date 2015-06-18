@@ -1,16 +1,17 @@
 [Desktop Entry]
 Type=Application
 Name=Ceferino
-GenericName=ceferino
+GenericName=Super-Pang clone
 Comment=Save the cows!
 Icon=ceferino
 TryExec=/usr/bin/ceferino
 Exec=ceferino
-Categories=Game;ActionGame;
-StartupNotify=false
+Categories=Game;ArcadeGame;
+StartupNotify=true
 X-AppInstall-Package=ceferino
 X-AppInstall-Popcon=111
 X-AppInstall-Section=aur
+X-Arch-Package=ceferino 0.97.8-3
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=ceferino
 X-Arch-Package-Version=0.97.8-3

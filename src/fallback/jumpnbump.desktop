@@ -2,11 +2,10 @@
 Type=Application
 Name=Jump'n'Bump
 Comment=Jump on your opponents to make them explode
-Icon=_usr_share_pixmaps_jumpnbump
+Icon=jumpnbump
 TryExec=/usr/bin/jumpnbump-menu
 Exec=jumpnbump-menu
 Categories=Game;ActionGame;
-StartupNotify=false
 X-AppInstall-Package=jumpnbump
 X-AppInstall-Popcon=32
 X-AppInstall-Section=aur

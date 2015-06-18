@@ -1,11 +1,11 @@
 [Desktop Entry]
-Type=Application
+Type=XSession
 Name=E16 GNOME3
 GenericName=Window Manager
 GenericName[fr]=Gestionnaire de Fenêtres
 GenericName[pt]=Gestor de Janelas
 Comment[it]=Questo avvia GNOME 3 usando Enlightenment (e16) come window manager
-Icon=/usr/share/e16/icons/e16.png
+Icon=e16
 TryExec=/usr/bin/gnome-session
 Exec=gnome-session --session=e16-gnome
 Hidden=true
@@ -25,3 +25,4 @@ X-Arch-Package-Description=The GNOME Session Handler
 X-Arch-Package-Groups=gnome
 X-Arch-Package-URL=http://www.gnome.org
 DesktopNames=GNOME
+X-LightDM-DesktopName=gnome

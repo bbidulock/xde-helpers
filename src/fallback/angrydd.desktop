@@ -1,15 +1,15 @@
 [Desktop Entry]
 Type=Application
 Name=Angry Drunken Dwarves
-Comment="Falling blocks puzzle game"
-Icon=_usr_share_games_angrydd_angrydd
+Comment=Classic "falling blocks" puzzle game
+Icon=angrydd
 TryExec=/usr/bin/angrydd
 Exec=angrydd
 Categories=Game;BlocksGame;
-StartupNotify=false
 X-AppInstall-Package=angrydd
 X-AppInstall-Popcon=24
 X-AppInstall-Section=aur
+X-Arch-Package=angrydd 1.0.1-6
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=angrydd
 X-Arch-Package-Version=1.0.1-6

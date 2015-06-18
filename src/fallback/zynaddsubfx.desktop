@@ -1,15 +1,16 @@
 [Desktop Entry]
 Type=Application
-Name=ZynAddSubFX Software Synthesizer
+Name=ZynAddSubFX
 Name[pt]=Sintetizador por Software ZynAddSubFX
-Comment=ZynAddSubFX Software Synthesizer
-Icon=_usr_share_pixmaps_zynaddsubfx
+GenericName=Software Synthesizer
+Comment=A powerful realtime software synthesizer
+Icon=zynaddsubfx
 TryExec=/usr/bin/zynaddsubfx
-Exec=/usr/bin/zynaddsubfx
-Categories=Application;AudioVideo;Audio;
-StartupNotify=false
+Exec=zynaddsubfx
+Categories=AudioVideo;Audio;
 X-AppInstall-Package=zynaddsubfx
 X-AppInstall-Section=community
+X-Arch-Package=zynaddsubfx 2.4.1-3
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=zynaddsubfx
 X-Arch-Package-Version=2.5.0-1

@@ -65,6 +65,7 @@ StartupNotify=true
 X-AppInstall-Package=pavumeter
 X-AppInstall-Popcon=376
 X-AppInstall-Section=aur
+X-Arch-Package=pavumeter 0.9.3-6
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=pavumeter
 X-Arch-Package-Version=0.9.3-6

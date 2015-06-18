@@ -11,6 +11,7 @@ StartupNotify=true
 X-AppInstall-Package=funnyboat
 X-AppInstall-Popcon=7
 X-AppInstall-Section=aur
+X-Arch-Package=funnyboat 1.5-5
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=funnyboat
 X-Arch-Package-Version=1.5-5

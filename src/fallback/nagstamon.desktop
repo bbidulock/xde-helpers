@@ -1,15 +1,23 @@
 [Desktop Entry]
 Type=Application
-Name=nagstamon
+Name=Nagstamon
 Comment=Nagios status monitor
-Icon=_usr_share_nagstamon_Nagstamon_resources_nagstamon
+Icon=nagstamon
 TryExec=/usr/bin/nagstamon
 Exec=nagstamon
 Categories=System;Monitor;GTK;
-StartupNotify=false
+NoDisplay=true
+Hidden=true
+OnlyShowIn=GNOME;KDE;XFCE;
+Categories=Monitor;GTK;Network,System;
+X-KDE-autostart-after=panel
+X-KDE-StartupNotify=false
+X-KDE-UniqueApplet=true
+X-GNOME-Autostart-enabled=false
 X-AppInstall-Package=nagstamon
 X-AppInstall-Popcon=24
 X-AppInstall-Section=aur
+X-Arch-Package=nagstamon 1.0.1-3
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=nagstamon
 X-Arch-Package-Version=1.0.1-3

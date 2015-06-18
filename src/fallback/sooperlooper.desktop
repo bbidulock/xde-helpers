@@ -1,14 +1,15 @@
 [Desktop Entry]
 Type=Application
-Name=SooperLooper
-Icon=sooperlooper
+Name=Sooper Looper
+Comment=Make music with a live looper
+Icon=slgui
 TryExec=/usr/bin/slgui
-Exec=/usr/bin/slgui
+Exec=slgui
 Categories=AudioVideo;Audio;
-StartupNotify=false
 X-AppInstall-Package=sooperlooper
 X-AppInstall-Popcon=26
 X-AppInstall-Section=aur
+X-Arch-Package=sooperlooper 1.7.0-2
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=sooperlooper
 X-Arch-Package-Version=1.7.0-2

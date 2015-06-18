@@ -1,14 +1,20 @@
 [Desktop Entry]
 Type=Application
 Name=Wine configuration
+Name[pl_PL]=Konfiguracja Wine
 Comment=Setup the compatibility layer for Windows programs
 Comment[ca]=Configura la capa de compatibilitat per a programes de Windows
-Icon=_usr_share_pixmaps_wine
+Icon=wine-winecfg
 TryExec=/usr/bin/winecfg
 Exec=winecfg
-Categories=Application;System;
-StartupNotify=false
-X-AppInstall-Package=wine-bin
+Categories=System;Emulator;Wine;
+X-AppInstall-Package=wine
 X-AppInstall-Popcon=6949
-X-AppInstall-Section=main
+X-AppInstall-Section=community
 X-AppInstall-Architectures=amd64,i386
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=wine
+X-Arch-Package-Version=1.7.44-1
+X-Arch-Package-Description=A compatibility layer for running Windows programs
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.winehq.com

@@ -1,6 +1,7 @@
 [Desktop Entry]
 Type=Application
 Name=Qt4 Assistant
+Name[de]=Qt4 Assistent
 Name[bg]=Qt4 асистент
 Name[cs]=Qt4 asistent
 Name[hu]=Qt4 Asszisztens
@@ -81,11 +82,14 @@ GenericName[zh_CN]=文档浏览器
 GenericName[zh_TW]=文件閱讀器
 GenericName[zu]=Umcingi Woshicilelo
 Comment=Shows Qt4 documentation and examples
+Comment[de]=Qt4 Hilfezentrum
 Icon=assistant-qt4
 TryExec=/usr/bin/assistant-qt4
 Exec=assistant-qt4
 Categories=Development;Documentation;Qt;
 StartupNotify=true
+MimeType=application/x-assistant;
+X-Desktop-File-Install-Version=0.15
 X-AppInstall-Package=qt4
 X-AppInstall-Popcon=518
 X-AppInstall-Section=extra

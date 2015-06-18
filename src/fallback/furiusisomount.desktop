@@ -12,6 +12,7 @@ StartupNotify=true
 X-AppInstall-Package=furiusisomount
 X-AppInstall-Popcon=106
 X-AppInstall-Section=aur
+X-Arch-Package=furiusisomount 0.11.3.1-1
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=furiusisomount
 X-Arch-Package-Version=0.11.3.1-1

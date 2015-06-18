@@ -1,7 +1,9 @@
 [Desktop Entry]
 Type=Application
 Name=Zatacka
-Comment=Arcade multiplayer game for 2-6 players
+Generic=Arcade Multiplayer Game
+Comment=Achtung! Die Kurve!
+Icon=zatacka
 TryExec=/usr/bin/zatacka
 Exec=zatacka
 Categories=Game;ArcadeGame;
@@ -9,6 +11,7 @@ StartupNotify=false
 X-AppInstall-Package=zatacka
 X-AppInstall-Popcon=11
 X-AppInstall-Section=aur
+X-Arch-Package=zatacka 0.1.8-1
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=zatacka
 X-Arch-Package-Version=0.1.8-1

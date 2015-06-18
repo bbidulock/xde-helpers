@@ -1,15 +1,16 @@
 [Desktop Entry]
 Type=Application
-Name=FOFF
-Comment=Lightweight graphical FTP client
+Name=Free Open FTP Face
+Comment=FTP Client
+Comment[es_CL]=Cliente FTP
 Icon=foff
 TryExec=/usr/bin/foff
 Exec=foff
-Categories=Network;FileTransfer;
-StartupNotify=false
+Categories=Network;FileTransfer;GNOME;GTK;
 X-AppInstall-Package=foff
 X-AppInstall-Popcon=11
 X-AppInstall-Section=aur
+X-Arch-Package=foff 0.99.5-5
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=foff
 X-Arch-Package-Version=0.99.5-5

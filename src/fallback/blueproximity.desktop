@@ -1,14 +1,17 @@
 [Desktop Entry]
 Type=Application
 Name=BlueProximity
+GenericName=Bluetooth Proximity Detector
+Comment=Bluetooth Proximity Detector
 Icon=blueproximity
-TryExec=/usr/bin/blueproximity
-Exec=/usr/bin/blueproximity
-Categories=Application;Utility;
-StartupNotify=false
+TryExec=/usr/bin/start_proximity.sh
+Exec=start_proximity.sh
+Categories=Utility;Security;
+StartupNotify=true
 X-AppInstall-Package=blueproximity
 X-AppInstall-Popcon=130
 X-AppInstall-Section=aur
+X-Arch-Package=blueproximity 1.2.5-6
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=blueproximity
 X-Arch-Package-Version=1.2.5-6

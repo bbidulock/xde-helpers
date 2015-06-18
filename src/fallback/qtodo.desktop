@@ -1,15 +1,19 @@
 [Desktop Entry]
 Type=Application
-Name=QToDo
-Comment=ToDo-List manager
-Icon=_usr_share_pixmaps_qtodo
+Name=QTodo
+GenericName=Todo-List Manager
+Comment=Helping the user to get things actually done
+Comment[it]=Aiuta l'utente a riprendere lavori dimenticati
+Comment[pl]=Przypomina u\xBFytkownikowi o zadaniach do wykonania
+Icon=qtodo
 TryExec=/usr/bin/qtodo
 Exec=qtodo
-Categories=Utility;KDE;Qt;
+Categories=Office;KDE;QT;
 StartupNotify=true
 X-AppInstall-Package=qtodo
 X-AppInstall-Popcon=1
 X-AppInstall-Section=aur
+X-Arch-Package=qtodo 0.1.2-1
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=qtodo
 X-Arch-Package-Version=0.1.2-1

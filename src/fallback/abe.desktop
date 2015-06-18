@@ -2,7 +2,7 @@
 Type=Application
 Name=Abe's Amazing Adventure
 GenericName=Platform Game
-Comment=Side-scrolling game
+Comment=Retro Platform Game
 Icon=abe
 TryExec=/usr/bin/abe
 Exec=abe

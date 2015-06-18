@@ -1,16 +1,16 @@
 [Desktop Entry]
 Type=Application
-Name=GADMIN-OPENVPN-Server
-GenericName=GADMIN-OPENVPN-Server
-Comment=OpenVPN server administration
+Name=GAdmin OpenVPN Server
+GenericName=GAdmin OpenVPN Server
+Comment=OpenVPN Server Administration
 Icon=gadmin-openvpn-server
-TryExec=/usr/bin/su-to-root
-Exec=su-to-root -X -c /usr/sbin/gadmin-openvpn-server
-Categories=System;GTK;
-StartupNotify=false
+TryExec=/usr/bin/gamin-openvpn-server
+Exec=gksu gadmin-openvpn-server
+Categories=System;Network;GTK;
 X-AppInstall-Package=gadmin-openvpn-server
 X-AppInstall-Popcon=4
 X-AppInstall-Section=aur
+X-Arch-Package=gadmin-openvpn-server 0.1.6-1
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=gadmin-openvpn-server
 X-Arch-Package-Version=0.1.6-1

@@ -1,15 +1,15 @@
 [Desktop Entry]
 Type=Application
-Name=Xscorch
+Name=XScorch
 Comment=Clone of Scorched Earth
-Icon=xscorch
+Icon=xscorch-icon
 TryExec=/usr/bin/xscorch
 Exec=xscorch
-Categories=Application;Game;ArcadeGame;
-StartupNotify=false
+Categories=Game;ArcadeGame;
 X-AppInstall-Package=xscorch
 X-AppInstall-Popcon=14
 X-AppInstall-Section=aur
+X-Arch-Package=xscorch 0.2.1-2
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=xscorch
 X-Arch-Package-Version=0.2.1-2

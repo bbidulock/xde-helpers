@@ -1,8 +1,9 @@
 [Desktop Entry]
 Type=Application
-Name=Teeworlds
+Name=TeeWorlds
 GenericName=Platform Game
-Comment=An online multi-player platform 2D shooter
+Comment=A multiplayer 2D FPS shooter
+Comment[pl_PL]=wieloosobowa strzelanka FTP w 2D
 Icon=teeworlds
 TryExec=/usr/bin/teeworlds
 Exec=teeworlds

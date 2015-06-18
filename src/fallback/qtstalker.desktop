@@ -1,18 +1,19 @@
 [Desktop Entry]
 Type=Application
-Name=Qtstalker
+Name=QtStalker
 GenericName=Stock Charting
 GenericName[nl]=Koersgrafieken
 Comment=Stock and commodity market charting and technical analysis
 Comment[nl]=Koersgrafieken en technische analyse
-Icon=_usr_share_pixmaps_qtstalker
+Icon=qtstalker
 TryExec=/usr/bin/qtstalker
 Exec=/usr/bin/qtstalker
-Categories=Application;Office;Finance;Qt;
-StartupNotify=false
+Categories=Office;Finance;Qt;
+StartupNotify=true
 X-AppInstall-Package=qtstalker
 X-AppInstall-Popcon=9
 X-AppInstall-Section=aur
+X-Arch-Package=qtstalker 0.36-2
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=qtstalker
 X-Arch-Package-Version=0.36-2

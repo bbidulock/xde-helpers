@@ -1,14 +1,15 @@
 [Desktop Entry]
 Type=Application
 Name=Passage
+Comment=An autobiographical pixelated art game by Jason Rohrer
 Icon=passage
 TryExec=/usr/bin/passage
 Exec=passage
 Categories=Game;AdventureGame;
-StartupNotify=false
 X-AppInstall-Package=passage
 X-AppInstall-Popcon=8
 X-AppInstall-Section=aur
+X-Arch-Package=passage 4-1
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=passage
 X-Arch-Package-Version=4-1

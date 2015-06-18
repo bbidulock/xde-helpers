@@ -1,16 +1,18 @@
 [Desktop Entry]
 Type=Application
 Name=Alsa Modular Synth
-Comment=Modular Software Synth
-Icon=ams_32
+GenericName=Modular Software Synth
+Comment=Realtime modular synthesizer and effect processor
+Icon=ams
 TryExec=/usr/bin/ams
 Exec=ams
-Categories=AudioVideo;Audio;GNOME;
-StartupNotify=false
+Categories=AudioVideo;Audio;GNOME;Qt;X-Jack;X-Sound;
+StartupNotify=true
 X-AppInstall-Package=ams
 X-AppInstall-Popcon=47
 X-AppInstall-Section=community
 X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package=ams 2.0.1-3
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=ams
 X-Arch-Package-Version=2.1.1-1

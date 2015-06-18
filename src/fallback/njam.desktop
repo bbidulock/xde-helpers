@@ -1,15 +1,16 @@
 [Desktop Entry]
 Type=Application
 Name=Njam
-Comment=pacman-like game with multiplayer support
-Icon=njamicon.png
+GenericName=Pacman Clone
+Comment=Pacman-like game with multiplayer support
+Icon=njamicon
 TryExec=/usr/bin/njam
 Exec=njam
 Categories=Game;ArcadeGame;
-StartupNotify=false
 X-AppInstall-Package=njam
 X-AppInstall-Popcon=9
 X-AppInstall-Section=aur
+X-Arch-Package=njam 1.25-8
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=njam
 X-Arch-Package-Version=1.25-8

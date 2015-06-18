@@ -1,10 +1,10 @@
 [Desktop Entry]
-Type=Application
+Type=XSession
 Name=wmii
 GenericName=Window Manager
 GenericName[fr]=Gestionnaire de Fenêtres
 GenericName[pt]=Gestor de Janelas
-Comment=wmii pre-3.6 Development Snapshot
+Comment=A small, dynamic window manager for X11
 Icon=wmii
 TryExec=/usr/bin/wmii
 Exec=wmii
@@ -25,6 +25,7 @@ X-Arch-Package-Description=A small, dynamic window manager for X11
 X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://wmii.suckless.org/
 DesktopNames=WMII
+X-LightDM-DesktopName=wmii
 Actions=XDE;
 
 [Desktop Action XDE]
@@ -34,6 +35,7 @@ Icon=xde
 TryExec=/usr/bin/xde-session
 Exec=xde-session -exec uxterm -desktop WMII -startwm wmii
 DesktopNames=XDE:WMII
+X-LightDM-DesktopName=xde
 
 [Window Manager]
 Name=wmii

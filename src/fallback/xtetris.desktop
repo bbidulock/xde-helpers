@@ -6,7 +6,6 @@ Icon=xtetris.png
 TryExec=/usr/bin/xtetris
 Exec=xtetris
 Categories=Game;BlocksGame;
-StartupNotify=false
 X-AppInstall-Package=xtetris
 X-AppInstall-Section=custom
 X-Arch-Package=xtetris 2.6-2

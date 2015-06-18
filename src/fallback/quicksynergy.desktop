@@ -1,16 +1,18 @@
 [Desktop Entry]
 Type=Application
 Name=QuickSynergy
+GenericName=QuickSynergy
 Comment=A graphical interface for easily configuring Synergy
 Comment[fr]=Une interface graphique pour configurer simplement Synergy
 Icon=quicksynergy
 TryExec=/usr/bin/quicksynergy
 Exec=quicksynergy
-Categories=Utility;GTK;
-StartupNotify=false
+Categories=Utility;Network;GTK;
+StartupNotify=true
 X-AppInstall-Package=quicksynergy
 X-AppInstall-Popcon=94
 X-AppInstall-Section=aur
+X-Arch-Package=quicksynergy 0.9.0-2
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=quicksynergy
 X-Arch-Package-Version=0.9.0-2

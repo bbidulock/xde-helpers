@@ -2,10 +2,10 @@
 Type=Application
 Name=Singularity
 Comment=Become the singularity
-Icon=_usr_share_pixmaps_singularity
-TryExec=/usr/games/singularity
-Exec=/usr/games/singularity
-Categories=Application;Game;StrategyGame;
+Icon=singularity
+TryExec=/usr/bin/singularity
+Exec=singularity
+Categories=Game;StrategyGame;Simulation;
 StartupNotify=false
 X-AppInstall-Package=singularity
 X-AppInstall-Section=community

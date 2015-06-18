@@ -1,5 +1,5 @@
 [Desktop Entry]
-Type=Application
+Type=XSession
 Name=FVWM-Crystal
 GenericName=Window Manager
 GenericName[fr]=Gestionnaire de Fenêtres
@@ -25,6 +25,7 @@ X-Arch-Package-Description=Transparent Themes for fvwm
 X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://fvwm-crystal.sourceforge.net/
 DesktopNames=FVWM
+X-LightDM-DesktopName=fvwm
 
 [Window Manager]
 Name=fvwm

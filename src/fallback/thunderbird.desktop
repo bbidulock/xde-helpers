@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
-Name=Mozilla Thunderbird
+Name=Thunderbird
 Name[ar]=موزيلا تندربيرد
 Name[bg]=Мозила Thunderbird
 Name[bn]=মজিলা থান্ডারবার্ড
@@ -11,11 +11,12 @@ Name[te]=మొజిల్లా థండర్‌బర్డ్
 Name[uk]=Переглядач пошти Mozilla Thunderbird
 Name[ur]=موزیلا تھنڈربرڈ
 Name[ur_PK]=موزیلا تھنڈربرڈ
+Comment=Mail & News Reader
 Icon=thunderbird
 TryExec=/usr/bin/thunderbird
 Exec=thunderbird
 Categories=Network;Email;MailReader;
-StartupNotify=false
+StartupNotify=true
 X-XFCE-Binaries=thunderbird;thunderbird-gtk2;thunderbird-gtk;mozilla-thunderbird;
 X-XFCE-Category=MailReader
 X-XFCE-Commands=%B;

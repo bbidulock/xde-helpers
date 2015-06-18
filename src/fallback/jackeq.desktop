@@ -1,15 +1,17 @@
 [Desktop Entry]
 Type=Application
 Name=JackEQ
-Comment=routes and manipulates audio from/to multiple sources
-Icon=_usr_share_jackeq_thai-gold
+GenericName=Equalizer
+Comment=Equalize your JACK I/O
+Icon=jackeq
 TryExec=/usr/bin/jackeq
 Exec=jackeq
-Categories=AudioVideo;
-StartupNotify=false
+Categories=AudioVideo;Audio;Player;GNOME;GTK;
+StartupNotify=true
 X-AppInstall-Package=jackeq
 X-AppInstall-Popcon=25
 X-AppInstall-Section=aur
+X-Arch-Package=jackeq 0.5.9-2
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=jackeq
 X-Arch-Package-Version=0.5.9-2

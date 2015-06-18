@@ -1,8 +1,8 @@
 [Desktop Entry]
 Type=Application
-Name=XTide Tide Predictor
+Name=XTide
 GenericName=Tide Predictor
-Comment=View tide and current predictions
+Comment=Harmonic tide clock and tide predictor
 Icon=xtide
 TryExec=/usr/bin/xtide
 Exec=xtide
@@ -11,6 +11,7 @@ StartupNotify=false
 X-AppInstall-Package=xtide
 X-AppInstall-Popcon=6
 X-AppInstall-Section=aur
+X-Arch-Package=xtide 2.13-2
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=xtide
 X-Arch-Package-Version=2.13-2

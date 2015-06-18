@@ -2,13 +2,13 @@
 Type=Application
 Name=Simutrans
 Comment=Transportation simulator
-Icon=simutrans.xpm
+Icon=simutrans
 TryExec=/usr/bin/simutrans
 Exec=simutrans
 Categories=Game;Simulation;
-StartupNotify=false
 X-AppInstall-Package=simutrans
 X-AppInstall-Section=community
+X-Arch-Package=simutrans 111.3-1
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=simutrans
 X-Arch-Package-Version=120.0.1-1

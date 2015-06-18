@@ -1,8 +1,8 @@
 [Desktop Entry]
 Type=Application
 Name=Monsterz
-Comment=Little arcade puzzle game, similar to the famous Bejeweled
-Icon=_usr_share_games_monsterz_graphics_icon
+Comment=A puzzler with cute beasties
+Icon=monsterz
 TryExec=/usr/bin/monsterz
 Exec=monsterz
 Categories=Game;ArcadeGame;
@@ -10,6 +10,7 @@ StartupNotify=false
 X-AppInstall-Package=monsterz
 X-AppInstall-Popcon=8
 X-AppInstall-Section=aur
+X-Arch-Package=monsterz 0.7.1-4
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=monsterz
 X-Arch-Package-Version=0.7.1-4

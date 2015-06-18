@@ -11,6 +11,7 @@ StartupNotify=true
 X-AppInstall-Package=eric4
 X-AppInstall-Popcon=1
 X-AppInstall-Section=aur
+X-Arch-Package=eric4 4.5.25-1
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=eric4
 X-Arch-Package-Version=4.5.25-1

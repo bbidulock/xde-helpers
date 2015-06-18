@@ -1,13 +1,12 @@
 [Desktop Entry]
 Type=Application
-Name=PuTTY SSH Client
-GenericName=PuTTY
-Comment=Connect to an SSH server with PuTTY
+Name=PuTTY
+GenericName=SSH/Telenet/Serial Client
+Comment=A highly configurable ssh/telnet/serial console program
 Icon=putty
 TryExec=/usr/bin/putty
-Exec=putty
-Categories=Application;Network;GTK;
-StartupNotify=false
+Exec=putty %u
+Categories=Application;Network;RemoteAccess;GTK;
 X-AppInstall-Package=putty
 X-AppInstall-Popcon=399
 X-AppInstall-Section=extra

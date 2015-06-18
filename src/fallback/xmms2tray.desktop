@@ -1,16 +1,18 @@
 [Desktop Entry]
 Type=Application
-Name=XMMS2tray
-GenericName=XMMS2 tray icon
-Icon=_usr_share_xmms2tray_data_xmms2_24
+Name=Xmms2Tray
+GenericName=Tray Icon
+Comment=XMMS2 tray icon
+Icon=xmms2tray
 TryExec=/usr/bin/xmms2tray
 Exec=xmms2tray
 OnlyShowIn=GNOME;KDE;XFCE;Old;ROX;
-Categories=TrayIcon;Application;AudioVideo;Audio;Player;GTK;
-StartupNotify=false
+Categories=TrayIcon;AudioVideo;Audio;Player;GTK;
+X-GNOME-Autostart-enabled=true
 X-AppInstall-Package=xmms2tray
 X-AppInstall-Popcon=14
 X-AppInstall-Section=aur
+X-Arch-Package=xmms2tray 0.5.1-3
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=xmms2tray
 X-Arch-Package-Version=0.5.1-3

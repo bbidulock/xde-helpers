@@ -1,16 +1,18 @@
 [Desktop Entry]
 Type=Application
-Name=GNU TeXmacs Editor
-GenericName=TeXmacs Editor
-Comment=A structured wysiwyg scientific text editor
-Icon=TeXmacs
+Name=TeXmacs
+GenericName=GNU TeXmacs Editor
+GenericName[es]=Editor GNU TeXmacs
+Comment=A structured wysiwyg scientific text editor and graphical frontend to various CASes
+Comment[es]=GNU TeXmacs es un editor de texto cientifico libre e interface de programas CAS
+Icon=texmacs
 TryExec=/usr/bin/texmacs
 Exec=texmacs %f
-Categories=Application;Science;Utility;
+Categories=Science;Math;
 MimeType=text/x-texmacs;text/plain;text/x-tex;
-StartupNotify=false
 X-AppInstall-Package=texmacs
 X-AppInstall-Section=extra
+X-Arch-Package=texmacs 1.99.2-1
 X-Arch-Package-Repository=extra
 X-Arch-Package-Name=texmacs
 X-Arch-Package-Version=1.99.2-1

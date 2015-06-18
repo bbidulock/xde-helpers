@@ -1,13 +1,18 @@
 [Desktop Entry]
 Type=Application
-Name=Adanaxis
+Name=Adanaxis (GPL)
 GenericName=Adanaxis
-Comment=Fly your ship in a 4d environment
-Icon=adanaxisgpl32x32
+Comment=4D space shooter game
+Icon=adanaxisgpl
 TryExec=/usr/bin/adanaxisgpl
 Exec=adanaxisgpl
 Categories=Game;ActionGame;
-StartupNotify=false
-X-AppInstall-Package=adanaxisgpl
+X-AppInstall-Package=adanaxis-gpl
 X-AppInstall-Popcon=30
-X-AppInstall-Section=main
+X-AppInstall-Section=aur
+X-Arch-Package=adanaxis-gpl 1.2.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=adanaxis-gpl
+X-Arch-Package-Version=1.2.5-1
+X-Arch-Package-Description=A deep space first-person shooter game in four spatial dimensions (GPL version)
+X-Arch-Package-URL=http://libregamewiki.org/Adanaxis

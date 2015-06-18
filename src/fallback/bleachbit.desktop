@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
-Name=BleachBit
+Name=BleachBit (Admin)
 GenericName=Unnecessary file cleaner
 GenericName[ar]=منظّف الملفات غير المرغوبة
 GenericName[be]=Неабавязковы уборшчык файлаў
@@ -69,14 +69,15 @@ Comment[th]=พื้นที่ว่างและรักษาไว้�
 Comment[tr]=Yer temizle ve gizliliğini koru
 Comment[uk]=Вільний простір та керування приватністю
 Comment[zh_CN]=释放空间和保护隐私
-Icon=bleachbit
-TryExec=/usr/bin/bleachbit
-Exec=bleachbit
+Icon=bleachbit-admin
+TryExec=/usr/bin/bleachbit-admin
+Exec=bleachbit-admin
 Categories=System;GTK;
 StartupNotify=true
 X-AppInstall-Package=bleachbit
 X-AppInstall-Popcon=186
 X-AppInstall-Section=community
+X-Arch-Package=bleachbit 0.9.0-1
 X-Arch-Package-Repository=community
 X-Arch-Package-Name=bleachbit
 X-Arch-Package-Version=1.6-1

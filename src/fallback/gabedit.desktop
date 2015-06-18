@@ -1,15 +1,16 @@
 [Desktop Entry]
 Type=Application
 Name=Gabedit QC-GUI
-Comment=graphical user interface to computational chemistry packages
+Comment=A graphical user interface for computational chemistry software.
 Icon=gabedit
 TryExec=/usr/bin/gabedit
-Exec=gabedit
-Categories=Education;Science;Chemistry;GTK;
+Exec=gabedit %f
+Categories=Education;Science;Chemistry;Physics;GNOME;GTK;
 StartupNotify=true
 X-AppInstall-Package=gabedit
 X-AppInstall-Popcon=12
 X-AppInstall-Section=aur
+X-Arch-Package=gabedit 2.4.8-1
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=gabedit
 X-Arch-Package-Version=2.4.8-1

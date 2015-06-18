@@ -1,15 +1,16 @@
 [Desktop Entry]
 Type=Application
 Name=PosteRazor
+GenericName=Poster Builder
 Comment=Cuts a raster image into multipage PDF documents
-Icon=PosteRazor
-TryExec=/usr/bin/PosteRazor
-Exec=PosteRazor %f
-Categories=Graphics;
-StartupNotify=false
+Icon=posterazor
+TryExec=/usr/bin/posterazor
+Exec=posterazor %f
+Categories=Graphics;2DGraphics;
 X-AppInstall-Package=posterazor
 X-AppInstall-Popcon=29
 X-AppInstall-Section=aur
+X-Arch-Package=posterazor 1.9.6beta-5
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=posterazor
 X-Arch-Package-Version=1.9.6beta-5

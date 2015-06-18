@@ -1,16 +1,21 @@
 [Desktop Entry]
 Type=Application
-Name=Linsmith
+Name=LinSmith
 GenericName=Smith Chart Generator
 GenericName[es]=Generador de Cartas de Smith
-Icon=_usr_share_pixmaps_linsmith_linsmith_icon
+Comment=Smith Charting program
+Icon=linsmith
 TryExec=/usr/bin/linsmith
 Exec=linsmith
-Categories=Application;Engineering;GNOME;GTK;
-StartupNotify=false
+X-DCOP-ServiceType=none
+Categories=Engineering;Electronics;HamRadio;GNOME;GTK;
+MimeType=text/plain;
+StartupNotify=true
+X-KDE-SubstituteUID=false
 X-AppInstall-Package=linsmith
 X-AppInstall-Popcon=7
 X-AppInstall-Section=aur
+X-Arch-Package=linsmith 0.99.28-1
 X-Arch-Package-Repository=aur
 X-Arch-Package-Name=linsmith
 X-Arch-Package-Version=0.99.28-1
