@@ -1,5 +1,5 @@
 [Desktop Entry]
-Type=XSession
+Type=Application
 Name=fluxbox
 TryExec=/usr/bin/startfluxbox
 Exec=/usr/bin/startfluxbox

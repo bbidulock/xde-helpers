@@ -1,5 +1,5 @@
 [Desktop Entry]
-Type=XSession
+Type=Application
 Name=twobwm
 Comment=A fast floating and keyboard driven window manager
 TryExec=/usr/bin/twobwm

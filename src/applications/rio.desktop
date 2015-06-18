@@ -1,5 +1,5 @@
 [Desktop Entry]
-Type=XSession
+Type=Application
 Name=Rio
 Comment=Log in to a Rio environment from Plan9port
 Icon=/opt/plan9/dist/spaceglenda100.png

@@ -1,5 +1,5 @@
 [Desktop Entry]
-Type=XSession
+Type=Application
 Name=Custom
 Name[x-test]=xxCustomxx
 Comment=Custom X-Window Session

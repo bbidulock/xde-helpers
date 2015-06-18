@@ -1,5 +1,5 @@
 [Desktop Entry]
-Type=XSession
+Type=Application
 Name=MCWM
 Comment=MC's Window Manager (patched)
 TryExec=/usr/bin/mcwm

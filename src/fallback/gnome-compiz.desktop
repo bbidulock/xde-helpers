@@ -1,5 +1,5 @@
 [Desktop Entry]
-Type=XSession
+Type=Application
 Name=GNOME/Compiz
 Comment=This session logs you into the GNOME desktop environment with Compiz and Cairo-Dock
 Icon=compiz

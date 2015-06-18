@@ -1,5 +1,5 @@
 [Desktop Entry]
-Type=XSession
+Type=Application
 Name=Panache
 TryExec=/usr/bin/startlogram
 Exec=/usr/bin/startlogram

@@ -1,5 +1,5 @@
 [Desktop Entry]
-Type=XSession
+Type=Application
 Name=Plan9port
 Comment=Log in to a full Plan9(port) desktop environment
 Icon=/opt/plan9/dist/spaceglenda100.png

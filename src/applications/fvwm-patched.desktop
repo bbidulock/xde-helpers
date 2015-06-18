@@ -1,5 +1,5 @@
 [Desktop Entry]
-Type=XSession
+Type=Application
 Name=fvwm-patched
 TryExec=/usr/bin/fvwm
 Exec=/usr/bin/fvwm

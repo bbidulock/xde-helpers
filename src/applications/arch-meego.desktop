@@ -1,5 +1,5 @@
 [Desktop Entry]
-Type=XSession
+Type=Application
 Name=Arch Netbook
 Comment=Arch's MeeGo User eXperience.
 TryExec=/usr/bin/startmeego

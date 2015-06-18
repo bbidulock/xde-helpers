@@ -1,5 +1,5 @@
 [Desktop Entry]
-Type=XSession
+Type=Application
 Name=Awesome Cinnamon
 Comment=Dynamic window manager
 TryExec=/usr/bin/cinnamon
