@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Seaside
+GenericName=Seaside
+Comment=Web application framework written in Smalltalk
+Icon=seaside.png
+TryExec=/usr/bin/seaside
+Exec=seaside
+Categories=Development;
+X-AppInstall-Package=seaside
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=seaside 3.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=seaside
+X-Arch-Package-Version=3.1-1
+X-Arch-Package-Description=Web application framework written in Smalltalk
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://seaside.st/
+X-Arch-Package-Votes=1

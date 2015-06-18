@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Enemy Territory: Quake Wars Demo
+GenericName=ET: Quake Wars Demo
+Comment=Enemy Territory: Quake Wars Demo
+Icon=/usr/share/pixmaps/etqw-demo.png
+TryExec=/usr/bin/etqw-demo
+Exec=/usr/bin/etqw-demo
+Categories=Application;Game;KDE;GNOME;Qt;
+StartupNotify=true
+X-AppInstall-Package=etqw-demo
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=etqw-demo 2-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=etqw-demo
+X-Arch-Package-Version=2-3
+X-Arch-Package-Description=Enemy Territory: Quake Wars demo
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://zerowing.idsoftware.com/linux/etqw/ETQWFrontPage/
+X-Arch-Package-Votes=4

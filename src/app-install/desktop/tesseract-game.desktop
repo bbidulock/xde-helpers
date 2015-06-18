@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Tesseract
+Comment=FPS that uses an improved version of the Cube engine
+Icon=tesseract-game
+TryExec=/usr/bin/tesseract-game
+Exec=tesseract-game %u
+Categories=Application;Game;ActionGame;
+StartupNotify=false
+X-AppInstall-Package=tesseract-game-bin
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=tesseract-game-bin 20140511-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tesseract-game-bin
+X-Arch-Package-Version=20140511-1
+X-Arch-Package-Description=A FPS game focused on instagib deathmatch and capture-the-flag
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://tesseract.gg/
+X-Arch-Package-Votes=2

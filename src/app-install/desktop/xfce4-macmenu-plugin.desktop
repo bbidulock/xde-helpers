@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+X-AppInstall-Package=xfce4-macmenu-plugin
+X-AppInstall-Popcon=23
+X-AppInstall-Section=aur
+X-Arch-Package=xfce4-macmenu-plugin 1.0.15-7
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xfce4-macmenu-plugin
+X-Arch-Package-Version=1.0.15-7
+X-Arch-Package-Description=Mac-style menubar plugin for xfce panel (4.4+)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://aquila.deus.googlepages.com/
+X-Arch-Package-Votes=23
+
+[Xfce Panel]
+Type=X-XFCE-PanelPlugin
+Encoding=UTF-8
+Name=Mac Menu
+Comment=Mac Menubar applet for gtk2/3-aqd
+Icon=gnome-fs-home
+X-XFCE-Exec=/usr/lib/xfce4/panel-plugins/xfce4-macmenu-plugin

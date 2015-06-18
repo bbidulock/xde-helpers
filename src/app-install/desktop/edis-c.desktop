@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Edis-C
+GenericName=C IDE
+GenericName[es]=IDE de C
+Comment=Lightweight C IDE
+Comment[es]=IDE de C Ligero
+Icon=edis-c
+TryExec=/usr/bin/edis-c
+Exec=/usr/bin/edis-c
+Categories=Application;Development;
+StartupNotify=false
+X-AppInstall-Package=edis-c-git
+X-AppInstall-Section=aur
+X-Arch-Package=edis-c-git r207.ff2660b-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=edis-c-git
+X-Arch-Package-Version=r207.ff2660b-1
+X-Arch-Package-Description=Lightweight C IDE
+X-Arch-Package-URL=https://github.com/centaurialpha/edis

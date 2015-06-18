@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Palm Emulator
+GenericName=Palm Emulator
+Comment=Emulator of Palm phone
+Icon=palm.png
+TryExec=/usr/bin/palm-start
+Exec=palm-start
+Categories=Application;AudioVideo;
+X-AppInstall-Package=palm-emulator
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=palm-emulator 1.2.0.33-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=palm-emulator
+X-Arch-Package-Version=1.2.0.33-1
+X-Arch-Package-Description=Palm emulator for VirtualBox.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://developer.palm.com/
+X-Arch-Package-Votes=2

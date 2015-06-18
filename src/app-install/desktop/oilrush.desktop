@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Oil Rush
+GenericName=Arcade Game
+Comment=is a real-time strategy game based on group control.
+Icon=/opt/oilrush/data/launcher/oilrush.png
+TryExec=/usr/bin/oilrush
+Exec=oilrush
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=oilrush
+X-AppInstall-Popcon=18
+X-AppInstall-Section=aur
+X-Arch-Package=oilrush 1.35-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=oilrush
+X-Arch-Package-Version=1.35-2
+X-Arch-Package-Description=a real-time strategy game based on group control.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://oilrush-game.com/
+X-Arch-Package-Votes=18

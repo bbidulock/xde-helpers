@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Battle Cube
+Comment=Play Battle Cube
+Icon=battle-cube
+TryExec=/usr/bin/battle-cube
+Exec=battle-cube
+Categories=AudioVideo;Game;
+StartupNotify=true
+X-AppInstall-Package=battle-cube
+X-AppInstall-Section=aur
+X-Arch-Package=battle-cube 1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=battle-cube
+X-Arch-Package-Version=1-2
+X-Arch-Package-Description=A Unity experiment by Nifflas
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://nifflas.ni2.se/?page=Miscellaneous
+X-Arch-Package-Votes=0

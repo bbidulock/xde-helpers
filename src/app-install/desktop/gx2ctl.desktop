@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=gx2ctl
+Comment=Drag'n'drop XMMS2 music daemon client
+Icon=gx2ctl
+TryExec=/usr/bin/gx2ctl
+Exec=gx2ctl
+Categories=Application;AudioVideo;Audio;Player;Music;GNOME;
+StartupNotify=true
+X-AppInstall-Package=gx2ctl
+X-AppInstall-Section=aur
+X-Arch-Package=gx2ctl 0.1.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gx2ctl
+X-Arch-Package-Version=0.1.2-2
+X-Arch-Package-Description=A GNOME xmms2 control client, written in glade2/gtk+ C
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://mir.dnsalias.com/oss/xmms2/gx2ctl
+X-Arch-Package-Votes=0

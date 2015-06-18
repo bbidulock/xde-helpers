@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Kiwix
+GenericName=Offline reader for Web content
+GenericName[es]=Lector de contenido web sin conexión
+Comment=It's especially intended to make Wikipedia available offline.
+Comment[es]=Está especialmente concebido para acceder a la Wikipedia sin conexión.
+Icon=kiwix
+TryExec=/usr/bin/kiwix
+Exec=kiwix
+Categories=Education;
+StartupNotify=true
+X-AppInstall-Package=kiwix-bin
+X-AppInstall-Popcon=24
+X-AppInstall-Section=aur
+X-Arch-Package=kiwix-bin 0.9-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kiwix-bin
+X-Arch-Package-Version=0.9-1
+X-Arch-Package-Description=Offline reader for Web content. It's especially intended to
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.kiwix.org
+X-Arch-Package-Votes=24

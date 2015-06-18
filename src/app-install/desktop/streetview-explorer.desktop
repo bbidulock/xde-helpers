@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=StreetView Explorer
+GenericName=StreetView Explorer
+Comment=View StreetView imagery in 3D
+Icon=streetview-explorer
+TryExec=/usr/bin/streetview-explorer
+Exec=streetview-explorer
+Categories=Application;Network;3DGraphics;
+StartupNotify=true
+X-AppInstall-Package=-svn
+X-AppInstall-Section=aur
+X-Arch-Package=streetview-explorer-svn 65-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=-svn
+X-Arch-Package-Version=65-1
+X-Arch-Package-Description=View StreetView imagery in 3D
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/streetview-explorer/
+X-Arch-Package-Votes=0

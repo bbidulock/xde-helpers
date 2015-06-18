@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=pouetChess
+GenericName=3D Chess game
+Comment=Play a game of chess, either against another player or against the AI
+Icon=pouetChess
+TryExec=/usr/bin/pouetChess
+Exec=pouetChess
+Categories=Game;BoardGame;
+StartupNotify=true
+X-AppInstall-Package=pouetchess
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=pouetchess 0.2.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pouetchess
+X-Arch-Package-Version=0.2.0-2
+X-Arch-Package-Description=a small 3D chess game with pretty graphics
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pouetchess.sourceforge.net/
+X-Arch-Package-Votes=10

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Papilio ZAP
+GenericName=Papilio ZAP IDE
+Comment=The open-source Arduino environment with Papilio support
+Icon=zap
+TryExec=/usr/bin/zap
+Exec=zap
+Categories=Application;Development;IDE;KDE;Qt;
+X-AppInstall-Package=papilio-zap-ide
+X-AppInstall-Section=aur
+X-Arch-Package=papilio-zap-ide 2.3.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=papilio-zap-ide
+X-Arch-Package-Version=2.3.0-1
+X-Arch-Package-Description=ZPUino Arduino Papilio IDE is specially designed to get you up
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://forum.gadgetfactory.net/index.php?/files/file/8-zap-zpuino-arduino-papilio-ide/
+X-Arch-Package-Votes=0

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Minecraft Structure Planner
+Comment=Plan Minecraft structures and draw ASCII art
+Comment[de]=Minecraft-Strukturen planen, und ASCII-Art zeichen
+Icon=/usr/share/pixmaps/minecraft-structure-planner.png
+TryExec=/usr/bin/minecraft-structure-planner
+Exec=minecraft-structure-planner
+Categories=Graphics;Editor;Games;
+X-AppInstall-Package=minecraft-structure-planner
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=minecraft-structure-planner v0.99.7-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=minecraft-structure-planner
+X-Arch-Package-Version=v0.99.7-3
+X-Arch-Package-Description=Plan structures for Minecraft … Or just draw some pixel art
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://minecraftstructureplanner.com
+X-Arch-Package-Votes=2

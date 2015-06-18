@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Wizards Magic
+Icon=/opt/wizards-magic/misc/complete_the_course.gif
+TryExec='/usr/bin/wizards-magic'
+Exec='/usr/bin/wizards-magic'
+Categories=Game;CardGame;
+X-AppInstall-Package=wizards-magic
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=wizards-magic 3.2.20-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wizards-magic
+X-Arch-Package-Version=3.2.20-1
+X-Arch-Package-Description=Open Source card strategy, based on rules of Magic: The
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/wizards-magic
+X-Arch-Package-Votes=5
+StartupNotufy=false

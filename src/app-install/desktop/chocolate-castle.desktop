@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Chocolate Castle
+Comment=Sliding block puzzle game
+Icon=chocolate-castle
+TryExec=/usr/bin/chocolate-castle
+Exec=chocolate-castle
+Categories=Application;Game;PuzzleGame;
+StartupNotify=false
+X-AppInstall-Package=chocolate-castle
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=chocolate-castle
+X-Arch-Package-Version=1.1-1
+X-Arch-Package-Description=[Humble Bundle] A tricky sliding block puzzle game
+X-Arch-Package-Groups=humblevoxatronbundle humblebundle
+X-Arch-Package-URL=http://www.lexaloffle.com/choc.php
+X-Arch-Package-Votes=4

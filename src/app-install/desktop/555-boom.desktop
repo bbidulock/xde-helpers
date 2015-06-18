@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=555-boom
+GenericName=555-boom
+Comment=A Puzzle Game and Electromechanical Sandbox.
+Icon=/usr/share/555-boom/Game/Resources/images/boom.png
+TryExec=/usr/bin/555-boom.sh
+Exec=555-boom.sh
+Categories=Application;Game;BoardGame;
+StartupNotify=false
+X-AppInstall-Package=555-boom
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=555-boom 0.6.1-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=555-boom
+X-Arch-Package-Version=0.6.1-4
+X-Arch-Package-Description=Puzzle Game and Electromechanical Sandbox
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.cosc.canterbury.ac.nz/greg.ewing/python/PyWeek5/index.html
+X-Arch-Package-Votes=7

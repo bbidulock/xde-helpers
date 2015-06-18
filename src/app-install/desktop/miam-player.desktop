@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Miam Player
+GenericName=Music Player
+Icon=/usr/share/pixmaps/miam-player.png
+TryExec=/usr/bin/miam-player
+Exec=miam-player
+Categories=AudioVideo;
+X-AppInstall-Package=miam-player
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=miam-player 0.7.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=miam-player
+X-Arch-Package-Version=0.7.2-1
+X-Arch-Package-Description=Cross-platform open source music player built with Qt5, VLC
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.miam-player.org/
+X-Arch-Package-Votes=1

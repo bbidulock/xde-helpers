@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=rxvt-unicode
+Comment=An Unicode capable rxvt clone
+Icon=rxvt-unicode
+TryExec=/usr/bin/urxvt
+Exec=urxvt
+NoDisplay=true
+Categories=Application;System;TerminalEmulator;
+X-AppInstall-Package=rxvt-unicode-chinese
+X-AppInstall-Popcon=14
+X-AppInstall-Section=aur
+X-Arch-Package=rxvt-unicode-chinese 9.20-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rxvt-unicode-chinese
+X-Arch-Package-Version=9.20-1
+X-Arch-Package-Description=An unicode enabled rxvt-clone terminal emulator (urxvt) with
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://software.schmorp.de/pkg/rxvt-unicode.html
+X-Arch-Package-Votes=14
+Aliases=rxvt-unicode;

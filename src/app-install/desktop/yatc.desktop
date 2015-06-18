@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=YATC
+GenericName=Yet Another Tibia Client
+GenericName[hr]=Jos Jedan Tibia Klijent
+Comment=Yet Another Tibia Client
+Comment[hr]=Jos Jedan Tibia Klijent
+Icon=yatc.ico.png
+TryExec=/usr/bin/yatc
+Exec=yatc
+Categories=Game;Adventure;
+StartupNotify=false
+X-AppInstall-Package=yatc
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=yatc 0.3.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=yatc
+X-Arch-Package-Version=0.3.2-2
+X-Arch-Package-Description=A client for any game that uses Tibia-compatible protocol.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://yatc.vucica.net/
+X-Arch-Package-Votes=1

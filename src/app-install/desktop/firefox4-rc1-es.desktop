@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Firefox 4
+GenericName=Web Browser
+Icon=firefox
+TryExec=/usr/bin/firefox4-rc1-es
+Exec=firefox4-rc1-es %u
+MultipleArgs=false
+Categories=Application;Network;
+MimeType=text/html;
+StartupNotify=false
+X-AppInstall-Package=firefox4-rc1-es
+X-AppInstall-Section=aur
+X-Arch-Package=firefox4-rc1-es 4.0rc1-201103091
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firefox4-rc1-es
+X-Arch-Package-Version=4.0rc1-201103091
+X-Arch-Package-Description=Mozilla Firefox Espanol, RC1
+X-Arch-Package-URL=http://www.mozilla.org/projects/firefox

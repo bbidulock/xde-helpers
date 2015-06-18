@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Nightingale
+Comment=An open-source customizable music player - SVN version
+Icon=nightingale
+TryExec=/opt/nightingale/nightingale
+Exec=/opt/nightingale/nightingale
+Categories=AudioVideo;Player;
+X-AppInstall-Package=nightingale-git
+X-AppInstall-Popcon=30
+X-AppInstall-Section=aur
+X-Arch-Package=nightingale-git 8d024f1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nightingale-git
+X-Arch-Package-Version=8d024f1-1
+X-Arch-Package-Description=Community port of Songbird to be more Linux native, up to
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://getnightingale.com/
+X-Arch-Package-Votes=30

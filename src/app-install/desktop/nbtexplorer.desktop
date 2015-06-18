@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=NBTExplorer
+GenericName=NBTExplorer
+Comment=A Minecraft NBT file editor for editing world and player files.
+Icon=/usr/share/pixmaps/nbtexplorer.png
+TryExec=/usr/bin/nbtexplorer
+Exec=nbtexplorer
+Categories=Game;
+X-AppInstall-Package=nbtexplorer
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=nbtexplorer 2.7.6-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nbtexplorer
+X-Arch-Package-Version=2.7.6-2
+X-Arch-Package-Description=Minecraft NBT Editor for editing player and world files.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/jaquadro/NBTExplorer
+X-Arch-Package-Votes=3

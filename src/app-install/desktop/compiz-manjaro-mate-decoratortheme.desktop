@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=0.9.4
+Type=Application
+Name=Compiz-Manjaro-MATE decorator theme enabler
+TryExec=/usr/bin/compiz-manjaro-mate-decoratortheme
+Exec=compiz-manjaro-mate-decoratortheme
+OnlyShowIn=MATE;
+StartupNotify=false
+X-AppInstall-Package=compiz-manjaro
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=compiz-manjaro 0.9.12.1-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=compiz-manjaro
+X-Arch-Package-Version=.1-4
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://launchpad.net/
+X-Arch-Package-Votes=13

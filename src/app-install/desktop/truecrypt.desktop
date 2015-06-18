@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=TrueCrypt
+Comment=On-the-fly encryption
+Icon=truecrypt
+TryExec=/usr/bin/truecrypt
+Exec=truecrypt
+Categories=System;Utility;Encryption;Encryption Tools;
+StartupNotify=true
+X-AppInstall-Package=truecrypt
+X-AppInstall-Section=extra
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=truecrypt
+X-Arch-Package-Version=1:7.1a-2
+X-Arch-Package-Description=Free open-source cross-platform disk encryption software
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.truecrypt.org/

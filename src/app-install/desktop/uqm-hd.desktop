@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=The Ur-Quan Masters HD
+Comment=Classic grand space action-adveture game Star Control II, with hires graphics
+Icon=/usr/share/pixmaps/uqm-hd.xpm
+TryExec=/usr/bin/uqm-hd
+Exec=/usr/bin/uqm-hd
+Categories=Game;
+X-AppInstall-Package=uqm-hd
+X-AppInstall-Section=aur
+X-Arch-Package=uqm-hd 0.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=uqm-hd
+X-Arch-Package-Version=0.2-2
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://urquanmastershd.com/
+X-Arch-Package-Votes=0

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Subtitle Master
+Comment=Find and download subtitles for your videos.
+Comment[pt_BR]=Encontre e baixe legendas para os seus filmes.
+Icon=subtitle-master
+TryExec=/usr/bin/subtitlemaster
+Exec=subtitlemaster %U
+Categories=Multimedia;
+Keywords=subtitle;subtitles;movie;movies;video;videos;
+Keywords[pt_BR]=legenda;legendas;filme;filmes;vídeo;vídeos
+X-AppInstall-Package=subtitle-master
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=subtitle-master 2.0.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=subtitle-master
+X-Arch-Package-Version=2.0.0-2
+X-Arch-Package-Description=Easily find and download subtitles for your videos.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://subtitlemaster.com/
+X-Arch-Package-Votes=1

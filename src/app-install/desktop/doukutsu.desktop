@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Cave Story
+Comment=Traditional 2D platformer
+Icon=doukutsu
+TryExec=/usr/bin/doukutsu
+Exec=/usr/bin/doukutsu
+Categories=Game;AdventureGame;
+StartupNotify=true
+X-AppInstall-Package=doukutsu
+X-AppInstall-Popcon=64
+X-AppInstall-Section=aur
+X-Arch-Package=doukutsu 1.2-6
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=doukutsu
+X-Arch-Package-Version=1.2-6
+X-Arch-Package-Description=Japanese freeware PC side-scrolling platformer game (aka Cave
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.cavestory.org/
+X-Arch-Package-Votes=64

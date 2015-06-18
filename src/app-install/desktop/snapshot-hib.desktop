@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Snapshot
+GenericName=Puzzle Platformer
+Comment=Retro Affect
+Icon=snapshot
+TryExec=/usr/bin/snapshot
+Exec=/usr/bin/snapshot
+Categories=Game;
+X-AppInstall-Package=snapshot-hib
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package=snapshot-hib 1.28_20121219-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=snapshot-hib
+X-Arch-Package-Version=1.28_20121219-1
+X-Arch-Package-Description=A platformer puzzle game (Humble Bundle version)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.retroaffect.com/games/1/snapshot/
+X-Arch-Package-Votes=11

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Musicdog
+GenericName=Music downloader and streamer
+Comment=Listen to music
+Icon=/opt/airapps/musicdog/icon48.png
+TryExec=/usr/bin/musicdog
+Exec=musicdog
+Categories=AudioVideo;Player;
+X-AppInstall-Package=musicdog
+X-AppInstall-Section=aur
+X-Arch-Package=musicdog 2.2.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=musicdog
+X-Arch-Package-Version=2.2.1-1
+X-Arch-Package-Description=Music streaming media player.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.musicdog.se/
+X-Arch-Package-Votes=0

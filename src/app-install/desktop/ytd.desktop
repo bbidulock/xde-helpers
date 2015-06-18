@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=ytd
+GenericName=YouTube Downloader
+Comment=an utility for downloading multimedia content from YouTube and other online streaming services
+Comment[cs]=Nástroj pro stahování videa z YouTube a dalších webových úložišť videa
+TryExec=/usr/bin/ytd
+Exec=ytd
+X-MultipleArgs=false
+Categories=Network;
+StartupNotify=true
+X-AppInstall-Package=ytd
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=ytd 1.43-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ytd
+X-Arch-Package-Version=1.43-1
+X-Arch-Package-Description=an utility for downloading multimedia content from YouTube and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.pepak.net/download/youtube-downloader/
+X-Arch-Package-Votes=3

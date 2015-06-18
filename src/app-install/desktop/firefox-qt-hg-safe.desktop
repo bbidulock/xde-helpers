@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Firefox Qt (hg) - Safe Mode
+GenericName=Web Browser - Safe Mode
+Icon=firefox-qt-hg
+TryExec=/usr/bin/firefox-qt-hg
+Exec=firefox-qt-hg -safe-mode %u
+MultipleArgs=false
+Categories=Application;Network;
+StartupNotify=false
+X-AppInstall-Package=firefox-qt-hg
+X-AppInstall-Section=aur
+X-Arch-Package=firefox-qt-hg 56394-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firefox-qt-hg
+X-Arch-Package-Version=56394-1
+X-Arch-Package-Description=Standalone web browser from mozilla.org, latest development version, Qt build
+X-Arch-Package-URL=http://www.mozilla.org/projects/firefox/

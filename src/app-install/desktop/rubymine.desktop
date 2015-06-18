@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=RubyMine
+GenericName=Ruby and Rails IDE with the full stack of essential developer tools
+Comment=Ruby and Rails IDE with the full stack of essential developer tools
+Icon=rubymine
+TryExec=/usr/bin/jetbrains-rubymine
+Exec=/usr/bin/jetbrains-rubymine
+Categories=Development;IDE;Ruby;
+StartupWMClass=jetbrains-rubymine
+X-AppInstall-Package=rubymine
+X-AppInstall-Popcon=62
+X-AppInstall-Section=aur
+X-Arch-Package=rubymine 7.1.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rubymine
+X-Arch-Package-Version=7.1.2-1
+X-Arch-Package-Description=Ruby and Rails IDE with the full stack of essential developer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://www.jetbrains.com/ruby/
+X-Arch-Package-Votes=62

@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=UnixCW
+Comment=CW Suite and Tutor Program
+Icon=unixcw
+TryExec=/usr/bin/xcwcp
+Exec=xcwcp
+X-DCOP-ServiceType=none
+Categories=AudioVideo;Audio;Education;HamRadio;
+MimeType=text/plain;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=unixcw
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=unixcw 3.4.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=unixcw
+X-Arch-Package-Version=3.4.1-2
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://unixcw.sourceforge.net
+X-Arch-Package-Votes=4

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=mailme
+GenericName=mailme
+Comment=Adds email notification to telepathy/empathy
+Icon=mail-unread
+TryExec=/usr/bin/mailme
+Exec=mailme
+Categories=Network;
+X-GNOME-Autostart-enabled=true
+X-AppInstall-Package=mailme-git
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=mailme-git 20110922-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mailme-git
+X-Arch-Package-Version=20110922-1
+X-Arch-Package-Description=Mailme is Yet Another 'You've got mail!' notifier, effectively
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/jku/mailme
+X-Arch-Package-Votes=4

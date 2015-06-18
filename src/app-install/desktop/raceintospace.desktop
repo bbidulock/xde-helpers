@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Race Into Space
+Comment=The computer version of the Liftoff! board game by Fritz Bronner
+Icon=raceintospace.xpm
+TryExec=/usr/bin/raceintospace
+Exec=raceintospace
+Categories=Application;Game;
+X-AppInstall-Package=raceintospace
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=raceintospace 1.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=raceintospace
+X-Arch-Package-Version=1.1-2
+X-Arch-Package-Description=The computer version of the Liftoff! board game by Fritz
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.raceintospace.org/
+X-Arch-Package-Votes=9

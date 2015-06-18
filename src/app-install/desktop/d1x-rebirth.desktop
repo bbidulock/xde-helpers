@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Descent 1 Rebirth
+GenericName=FP Action Game
+Comment=First person action game controlling a ship with 6 degrees of freedom
+Comment[fr]=Jeu \xE0 la premi\xE8re personne o\xF9 l'on contr\xF4le un vaisseau qui permet de se d\xE9placer avec 6 degr\xE9s de libert\xE9
+Icon=d1x-rebirth
+TryExec=/usr/bin/d1x-rebirth
+Exec=d1x-rebirth
+Categories=Game;ActionGame;
+X-AppInstall-Package=d1x-rebirth
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=d1x-rebirth 0.58.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=d1x-rebirth
+X-Arch-Package-Version=0.58.1-1
+X-Arch-Package-Description=An enhanced engine to play with Descent1 datas
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.dxx-rebirth.com/
+X-Arch-Package-Votes=13

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=ATD Demo
+Comment=Play Airline Tycoon Deluxe Demo
+Icon=atd-demo
+TryExec=/usr/bin/atd-demo
+Exec=atd-demo /window /noinputgrab
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=atd-demo
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=atd-demo 1.08.20130212-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=atd-demo
+X-Arch-Package-Version=.-2
+X-Arch-Package-Description=Demo of Airline Tycoon Deluxe for Linux
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://rune-soft.com/Games/Released/Game-239/game=Airline_Tycoon_Deluxe-6
+X-Arch-Package-Votes=1

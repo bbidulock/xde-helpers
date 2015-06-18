@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Desktube
+GenericName=Desktube
+Comment=Standalone Adobe Air Application for YouTube
+Icon=desktube.png
+TryExec=/usr/bin/adobe-air
+Exec=adobe-air /opt/desktube/DeskTube.air
+Categories=Application;AudioVideo;Audio;Video;Player;GTK;
+MimeType=application/vnd.adobe.air-application-installer-package+zip;
+X-AppInstall-Package=desktube
+X-AppInstall-Section=aur
+X-Arch-Package=desktube 1.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=desktube
+X-Arch-Package-Version=1.0-3
+X-Arch-Package-Description=Standalone Adobe Air Application for Youtube
+X-Arch-Package-URL=http://thedesktube.com/

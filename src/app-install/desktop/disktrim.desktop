@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=DiskTRIM
+Comment=Disk TRIM using wiper.sh.
+Icon=/usr/share/pixmaps/disktrim.png
+TryExec=/usr/bin/disktrim
+Exec=disktrim
+NoDisplay=true
+Categories=System;
+X-AppInstall-Package=disktrim
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=disktrim 0.09-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=disktrim
+X-Arch-Package-Version=0.09-2
+X-Arch-Package-Description=Automated graphical user interface for wiper.sh
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/disktrim/
+X-Arch-Package-Votes=5
+Aliases=DiskTRIM;

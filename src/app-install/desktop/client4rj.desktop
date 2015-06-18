@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Client4rj
+Name[zh_CN]=锐捷
+Comment=Client for ruijie
+Icon=network-config
+TryExec=/usr/bin/sudo
+Exec=sudo client4rj
+Categories=Application;Network;System;
+StartupNotify=false
+X-AppInstall-Package=client4rj
+X-AppInstall-Section=aur
+X-Arch-Package=client4rj 0.4.2-s1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=client4rj
+X-Arch-Package-Version=0.4.2-s1
+X-Arch-Package-Description=QT4 client for ruijie 3.22 and blow
+X-Arch-Package-URL=http://www.linux-ren.org/modules/softstorage/show.php?content=140&forumpage=4

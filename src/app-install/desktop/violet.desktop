@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Violet
+Comment=UML diagram drawing tool
+Icon=violet
+TryExec=/usr/bin/violet
+Exec=violet
+Categories=Development;Engineering;Java;
+X-AppInstall-Package=violet
+X-AppInstall-Popcon=72
+X-AppInstall-Section=aur
+X-Arch-Package=violet 2.0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=violet
+X-Arch-Package-Version=2.0.1-1
+X-Arch-Package-Description=A UML editor for quickly producing simple UML diagrams (also
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://violet.sourceforge.net
+X-Arch-Package-Votes=72

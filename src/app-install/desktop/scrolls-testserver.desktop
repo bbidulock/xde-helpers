@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Scrolls
+GenericName=Scrolls
+Comment=You use the power of creatures, spells, and ancient machines to gain the edge in battle, deploying your forces by using scrolls.
+Icon=/usr/share/pixmaps/scrolls.png
+TryExec=/usr/bin/scrolls
+Exec=scrolls
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=scrolls-testserver
+X-AppInstall-Section=aur
+X-Arch-Package=scrolls-testserver latest-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=scrolls-testserver
+X-Arch-Package-Version=latest-4
+X-Arch-Package-Description=You use the power of creatures, spells, and ancient machines
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://www.scrolls.com/
+X-Arch-Package-Votes=0
+Aliases=scrolls;

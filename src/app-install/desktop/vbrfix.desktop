@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=VbrFix
+Comment=Fix corrupt mp3 files
+Comment[de_DE]=Kaputte MP3-Audiodateien reparieren
+TryExec=/usr/bin/VbrfixGui
+Exec=VbrfixGui
+Terminal=False
+Categories=Application;AudioVideo;
+StartupNotify=True
+X-AppInstall-Package=vbrfix-svn
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=vbrfix-svn 0.33beta-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=vbrfix-svn
+X-Arch-Package-Version=0.33beta-3
+X-Arch-Package-Description=QT / console program useful for fixing corrupt mp3 files
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://gna.org/projects/vbrfix
+X-Arch-Package-Votes=9

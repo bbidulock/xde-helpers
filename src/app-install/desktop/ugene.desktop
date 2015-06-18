@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Unipro UGENE
+GenericName=Unipro UGENE
+Comment=Integrated Bioinformatics Suite
+Icon=/usr/share/ugene/ugene.svg
+Icon[en_US]=applications-biology
+TryExec=/usr/bin/ugene
+Exec=/usr/bin/ugene
+Categories=Education;Science;
+X-AppInstall-Package=ugene-binary
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=ugene-binary 1.15.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ugene-binary
+X-Arch-Package-Version=1.15.1-1
+X-Arch-Package-Description=A free cross-platform genome analysis suite. Precompiled
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ugene.unipro.ru
+X-Arch-Package-Votes=4

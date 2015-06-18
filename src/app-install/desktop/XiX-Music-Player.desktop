@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=XiX-Music-Player
+Icon=/usr/share/pixmaps/XiX-Music-Player.ico
+TryExec=/usr/bin/xix-music-player
+Exec=xix-music-player
+Categories=AudioVideo;
+X-AppInstall-Package=xix-music-player
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=xix-music-player 0.39a-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xix-music-player
+X-Arch-Package-Version=0.39a-3
+X-Arch-Package-Description=Multi-platform music player.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/xixmusicplayer/
+X-Arch-Package-Votes=2

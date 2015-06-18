@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=VeraCrypt
+Comment=Disk encryption software
+Icon=veracrypt
+TryExec=/usr/bin/veracrypt
+Exec=veracrypt
+Categories=System;
+StartupNotify=true
+X-AppInstall-Package=veracrypt
+X-AppInstall-Popcon=37
+X-AppInstall-Section=aur
+X-Arch-Package=veracrypt 1.0f_2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=veracrypt
+X-Arch-Package-Version=1.0f_2-1
+X-Arch-Package-Description=Free disk encryption software, TrueCrypt fork.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://veracrypt.codeplex.com/
+X-Arch-Package-Votes=37

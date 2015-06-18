@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=magic hexagon
+Comment=super hexagon, ponified
+TryExec=/usr/bin/magichexagon-git
+Exec=magichexagon-git
+Categories=Games;
+StartupNotify=false
+X-AppInstall-Package=magichexagon-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=magichexagon-git 86.d4255a4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=magichexagon-git
+X-Arch-Package-Version=86.d4255a4-1
+X-Arch-Package-Description=Super Hexagon, ponified
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/meh2481/magichexagon
+X-Arch-Package-Votes=1

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Scriptfarm
+Comment=A simple to use Scripts / Alias manager for Linux
+Icon=/usr/share/pixmaps/scriptfarm.png
+TryExec=/usr/bin/scriptfarm
+Exec=/usr/bin/scriptfarm
+Categories=System;
+X-AppInstall-Package=scriptfarm
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=scriptfarm 0.22-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=scriptfarm
+X-Arch-Package-Version=0.22-2
+X-Arch-Package-Description=A simple to use Scripts / Alias manager for Linux.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://sourceforge.net/projects/scriptfarm/
+X-Arch-Package-Votes=4

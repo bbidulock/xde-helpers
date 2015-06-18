@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Lyx
+Comment=Tex/Latex WYSIWYM document processor
+Icon=/usr/share/lyx/images/lyx.png
+TryExec=/usr/bin/lyx
+Exec=lyx
+NoDisplay=true
+Categories=Office;
+StartupNotify=false
+X-AppInstall-Package=lyx_prerelease
+X-AppInstall-Section=aur
+X-Arch-Package=lyx_prerelease 2.1.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lyx_prerelease
+X-Arch-Package-Version=2.1.0-2
+X-Arch-Package-Description=A document processor with Tex/Latex backend.
+X-Arch-Package-URL=http://www.lyx.org
+Aliases=lyx;

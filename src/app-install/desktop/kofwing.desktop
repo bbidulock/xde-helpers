@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=KOFWing-1.9
+Comment=The King of Fighters flashwing version in Flash
+Icon=/usr/share/icons/kofwing.jpg
+TryExec=/usr/bin/wine
+Exec=wine '/usr/share/kofwing-1.9/The King Of Fighters Wing v1.9.exe'
+Categories=Game;Graphics;3DGraphics;GTK;
+X-AppInstall-Package=kofwing
+X-AppInstall-Section=aur
+X-Arch-Package=kofwing 1.9-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kofwing
+X-Arch-Package-Version=1.9-1
+X-Arch-Package-Description=A free windows port version of the game The King of Fighters
+X-Arch-Package-Groups=games
+X-Arch-Package-URL=http://www.flashwing.net
+X-Arch-Package-Votes=0

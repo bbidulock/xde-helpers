@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Rocks'N'Diamonds
+GenericName=Rocks'N'Diamonds
+Comment=Arcade game
+TryExec=/usr/bin/rocksndiamonds
+Exec=rocksndiamonds
+Categories=Application;Game;
+StartupNotify=false
+X-AppInstall-Package=rocksndiamonds
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=rocksndiamonds
+X-Arch-Package-Version=3.3.1.2-1
+X-Arch-Package-Description=game similiar to Boulderdash with lots of levels
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.artsoft.org/rocksndiamonds/

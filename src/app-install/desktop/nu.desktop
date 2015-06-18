@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Nu
+Name[en_GB]=nu.desktop
+Comment=The World's First Stable Digital Currency
+Icon=/usr/share/pixmaps/nu.png
+TryExec=/usr/bin/nu
+Exec=/usr/bin/nu
+Categories=Application;Network;
+MimeType=x-scheme-handler/nu;
+X-AppInstall-Package=nubits-wallet
+X-AppInstall-Section=aur
+X-Arch-Package=nubits-wallet 1.0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nubits-wallet
+X-Arch-Package-Version=1.0.1-1
+X-Arch-Package-Description=The World's First Stable Digital Currency.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://nubits.com/
+X-Arch-Package-Votes=0

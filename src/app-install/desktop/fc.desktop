@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=FreeCol
+GenericName=Strategy Game
+Comment=A free Colonization clone
+Icon=/usr/share/pixmaps/freecol.xpm
+TryExec=/usr/bin/freecol
+Exec=freecol
+Categories=Game;StrategyGame;
+X-AppInstall-Package=freecol
+X-AppInstall-Section=community
+X-Arch-Package=freecol 0.11.3-1
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=freecol
+X-Arch-Package-Version=0.11.3-1
+X-Arch-Package-Description=A turn-based strategy game based on Colonization
+X-Arch-Package-URL=http://www.freecol.org/

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=grig
+Comment=Rig control (cat) program
+TryExec=/usr/bin/grig
+Exec=grig
+Categories=HamRadio;
+StartupNotify=true
+X-AppInstall-Package=grig
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=grig 0.8.0-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=grig
+X-Arch-Package-Version=0.8.0-4
+X-Arch-Package-Description=Rig control (cat) program
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://groundstation.sourceforge.net/grig/
+X-Arch-Package-Votes=13

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=flRec
+Comment=Hard Disk Recorder
+Icon=/usr/share/pixmaps/flrec.png
+TryExec=/usr/bin/flrec
+Exec=flrec
+Categories=AudioVideo;
+X-AppInstall-Package=flrec
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=flrec 0.13-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=flrec
+X-Arch-Package-Version=0.13-3
+X-Arch-Package-Description=Simple audio hard disk recorder and player(sox backend). It
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://archive.today/Ngkky
+X-Arch-Package-Votes=5

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Popcorn Time
+Comment=Watch torrent movies instantly
+Icon=popcorntime
+TryExec=/usr/bin/popcorntime
+Exec=popcorntime %U
+NoDisplay=true
+Categories=Video;Network;Player;
+X-AppInstall-Package=popcorntime-bin
+X-AppInstall-Popcon=111
+X-AppInstall-Section=aur
+X-Arch-Package=popcorntime-bin 0.3.7.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=popcorntime-bin
+X-Arch-Package-Version=0.3.7.2-1
+X-Arch-Package-Description=Stream movies from torrents. Skip the downloads. Launch,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://popcorntime.io/
+X-Arch-Package-Votes=111
+Aliases=popcorntime;

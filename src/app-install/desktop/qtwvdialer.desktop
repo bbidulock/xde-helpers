@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=QtWvDialer
+TryExec=/usr/bin/qtwvdialer
+Exec=qtwvdialer
+Categories=Network;Dialup;
+X-AppInstall-Package=qtwvdialer
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=qtwvdialer 0.4.4-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qtwvdialer
+X-Arch-Package-Version=0.4.4-2
+X-Arch-Package-Description=A simple graphical front-end to wvdial.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.mtoussaint.de/qtwvdialer.html
+X-Arch-Package-Votes=4

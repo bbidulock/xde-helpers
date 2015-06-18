@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=AntikTV
+GenericName=AntikTV
+Comment=Watching IPTV from Antik.sk
+TryExec=/usr/bin/antiktv
+Exec=antiktv
+Categories=Video;
+X-AppInstall-Package=antiktv-svn
+X-AppInstall-Section=aur
+X-Arch-Package=antiktv-svn 4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=antiktv-svn
+X-Arch-Package-Version=4-1
+X-Arch-Package-Description=Program for watching IPTV from local ISP Antik.sk
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/antiktv/
+X-Arch-Package-Votes=0

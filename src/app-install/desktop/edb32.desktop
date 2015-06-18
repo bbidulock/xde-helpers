@@ -1,0 +1,27 @@
+[Desktop Entry]
+Type=Application
+Name=Evan's Debugger (32-bit version)
+GenericName=Debugger
+Comment=QT4 based binary mode debugger
+Icon=edb32
+TryExec=/usr/bin/edb32
+Exec=edb32
+Categories=Application;Development;
+MimeType=application/x-executable;
+X-AppInstall-Package=bin32-edb-debugger
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=bin32-edb-debugger 0.9.20-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bin32-edb-debugger
+X-Arch-Package-Version=0.9.20-1
+X-Arch-Package-Description=EDB (Evan's Debugger) is a QT4 based binary mode debugger with
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.codef00.com/projects.php#Debugger
+X-Arch-Package-Votes=1
+Actions=Debug
+
+[Desktop Action Debug]
+Name=Evan's Debugger 32-bit (debug with)
+TryExec=/usr/bin/edb32
+Exec=edb32 --run %f

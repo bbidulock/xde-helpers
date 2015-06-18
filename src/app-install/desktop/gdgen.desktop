@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Gdgen
+Comment=DGEN emulator frontend
+Icon=gdgen
+TryExec=/usr/bin/gdgen
+Exec=gdgen
+Categories=Game;Emulator;
+X-AppInstall-Package=gdgen
+X-AppInstall-Popcon=19
+X-AppInstall-Section=aur
+X-Arch-Package=gdgen 0.0.3-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gdgen
+X-Arch-Package-Version=0.0.3-3
+X-Arch-Package-Description=A PyGTK+ frontend for the DGEN Sega Genesis/Mega Drive
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/gdgen
+X-Arch-Package-Votes=19

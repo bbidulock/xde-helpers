@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=6.0.1608
+Type=Application
+Name=Heli X6
+Comment=Professional R/C helicopter flight simulator
+Icon=/usr/share/pixmaps/heli-x6.png
+TryExec=/usr/bin/heli-x6
+Exec=/usr/bin/heli-x6
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=heli-x6
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=heli-x6 6.0.1614-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=heli-x6
+X-Arch-Package-Version=6.0.1614-1
+X-Arch-Package-Description=Latest Professional R/C helicopter flight simulator from Heli
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.heli-x.net/
+X-Arch-Package-Votes=2

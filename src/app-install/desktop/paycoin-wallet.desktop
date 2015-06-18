@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Paycoin Wallet
+GenericName=Paycoin
+Comment=Paycoin P2P Wallet
+Icon=paycoin
+TryExec=/usr/bin/paycoin
+Exec=paycoin
+Categories=Network;
+StartupNotify=false
+X-AppInstall-Package=paycoin-wallet
+X-AppInstall-Section=aur
+X-Arch-Package=paycoin-wallet 0.1.2.26-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=paycoin-wallet
+X-Arch-Package-Version=0.1.2.26-4
+X-Arch-Package-Description=PayCoin is a global currency that lets you send money to anyone, anywhere, anytime. Sending and accepting money is virtually free, lightning fast and insanely easy.
+X-Arch-Package-Groups=network;
+X-Arch-Package-URL=http://paycoin.com

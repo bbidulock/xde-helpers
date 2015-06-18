@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Zsnes 1.42
+Comment=Super Nintendo emulator
+Icon=/usr/share/pixmaps/zsnes-1-42.png
+TryExec=/usr/bin/env
+Exec=env SDL_AUDIODRIVER="alsa" /usr/bin/zsnes-1-42
+Categories=Application;Game;
+StartupNotify=false
+X-AppInstall-Package=zsnes-1-42
+X-AppInstall-Section=aur
+X-Arch-Package=zsnes-1-42 1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zsnes-1-42
+X-Arch-Package-Version=1-1
+X-Arch-Package-Description=Super Nintendo emulator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://zsnes.com
+X-Arch-Package-Votes=0

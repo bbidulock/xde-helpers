@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Hybrid
+Comment=A very complete gui for video encoding
+Icon=/usr/share/pixmaps/Hybrid.png
+TryExec=/usr/bin/Hybrid
+Exec=Hybrid
+Categories=Application;AudioVideo;
+X-AppInstall-Package=hybrid-encoder
+X-AppInstall-Popcon=33
+X-AppInstall-Section=aur
+X-Arch-Package=hybrid-encoder 150510-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=hybrid-encoder
+X-Arch-Package-Version=150510-1
+X-Arch-Package-Description=A very complete gui for video encoding
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.selur.de/
+X-Arch-Package-Votes=33

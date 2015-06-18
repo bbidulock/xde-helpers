@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=CloudClient
+Icon=thunder-256
+TryExec=/usr/bin/CloudClient
+Exec=/usr/bin/CloudClient
+Categories=Network;
+StartupNotify=false
+X-AppInstall-Package=xlcloudclient-git
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package=xlcloudclient-git 0.98-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xlcloudclient-git
+X-Arch-Package-Version=0.98-1
+X-Arch-Package-Description=GUI client of Xunlei (Thunder) cloud
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/CaledoniaProject/XLCloudClient
+X-Arch-Package-Votes=11

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=0.1.2
+Type=Application
+Name=Gadmin HTTPd
+Comment=GUI for Apache WebServer
+Icon=gadmin-httpd.png
+TryExec=/usr/bin/gadmin-httpd-menu
+Exec=gadmin-httpd-menu
+Categories=System;Applications;
+X-AppInstall-Package=gadmin-httpd
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=gadmin-httpd 0.1.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gadmin-httpd
+X-Arch-Package-Version=0.1.5-1
+X-Arch-Package-Description=A GTK+ graphical user interface for the Apache httpd
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://dalalven.dtdns.net/linux/gadmintools-webpage/
+X-Arch-Package-Votes=3

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Evernus
+Comment=EVE Online trade tool
+Icon=evernus
+TryExec=/usr/bin/evernus
+Exec=/usr/bin/evernus
+NoDisplay=true
+Categories=Application;Game;
+X-AppInstall-Package=evernus-hg
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=evernus-hg r1165.c5db09af7869-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=evernus-hg
+X-Arch-Package-Version=r1165.c5db09af7869-1
+X-Arch-Package-Description=EVE Online trade tool
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://evernus.com/
+X-Arch-Package-Votes=1
+Aliases=evernus;

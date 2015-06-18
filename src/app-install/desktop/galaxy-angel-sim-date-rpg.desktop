@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Galaxy Angel Sim Date RPG
+Comment=WARNING: Adult content!
+Icon=galaxy-angel-sim-date-rpg
+TryExec=/usr/bin/galaxy-angel-sim-date-rpg
+Exec=galaxy-angel-sim-date-rpg
+Categories=Game;
+X-AppInstall-Package=galaxy-angel-sim-date-rpg
+X-AppInstall-Section=aur
+X-Arch-Package=galaxy-angel-sim-date-rpg 1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=galaxy-angel-sim-date-rpg
+X-Arch-Package-Version=1-1
+X-Arch-Package-Description=Galaxy Angel fan-made sim dating RPG (Flash game, ADULT CONTENT WARNING!)
+X-Arch-Package-URL=http://www.newgrounds.com/portal/view/203189

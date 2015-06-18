@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Pocket Volleyball
+Comment=An arcade volleyball game
+Icon=volleyball
+TryExec=/usr/bin/volleyball
+Exec=volleyball
+Categories=Game;SportsGame;
+X-AppInstall-Package=volleyball
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=volleyball 0.8.6-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=volleyball
+X-Arch-Package-Version=0.8.6-4
+X-Arch-Package-Description=An arcade volleyball game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.losersjuegos.com.ar/juegos/volleyball
+X-Arch-Package-Votes=4

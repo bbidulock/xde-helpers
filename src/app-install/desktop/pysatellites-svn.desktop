@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=PySatellites
+GenericName=Simulator of 2D trajectories of satellites
+GenericName[fr]=Simulateur de trajectoires de satellites
+Icon=pysatellites.png
+TryExec=/usr/bin/pysatellites
+Exec=pysatellites
+Categories=Education;Science;Qt;
+X-AppInstall-Package=pysatellites-svn
+X-AppInstall-Section=aur
+X-Arch-Package=pysatellites-svn 61-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pysatellites-svn
+X-Arch-Package-Version=61-3
+X-Arch-Package-Description=PySatellites is a simulator of 2D trajectories of satellites
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://outilsphysiques.tuxfamily.org/pmwiki.php/Oppl/Pysatellites
+X-Arch-Package-Votes=0

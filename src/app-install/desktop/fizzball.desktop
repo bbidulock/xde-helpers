@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=FizzBall
+GenericName=Breakout
+Comment=Bounce bubbles, rescue hungry animals, and solve a mystery, all at the same time!
+Icon=/usr/share/pixmaps/FizzBall.png
+TryExec=/usr/bin/fizzball
+Exec=fizzball
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=fizzball
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=fizzball 1.01-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fizzball
+X-Arch-Package-Version=1.01-2
+X-Arch-Package-Description=Bounce bubbles, rescue hungry animals, and solve a mystery,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://grubbygames.com/fizzball/
+X-Arch-Package-Votes=1

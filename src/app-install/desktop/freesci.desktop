@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=0.6.4
+Type=Application
+Name=FreeSCI
+GenericName=Sierra Games Interpretor
+Comment=Play Sierra games
+Icon=/usr/share/icons/hicolor/48x48/apps/freesci.png
+TryExec=/usr/bin/freesci
+Exec=freesci
+Terminal=true
+Categories=Game;Emulator;
+X-AppInstall-Package=freesci
+X-AppInstall-Section=aur
+X-Arch-Package=freesci 0.6.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=freesci
+X-Arch-Package-Version=0.6.4-1
+X-Arch-Package-Description=Free reimplementation of the Sierra Creative Interpreter (SCI).
+X-Arch-Package-URL=http://freesci.linuxgames.com/

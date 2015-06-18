@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=neembuuuploader
+GenericName=Upload Manager
+Comment=Java based upload manager
+Icon=NeembuuUploader
+TryExec=/usr/bin/neembuu
+Exec=/usr/bin/neembuu
+Categories=Network;
+StartupNotify=true
+X-AppInstall-Package=neembuuuploader
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=neembuuuploader 2.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=neembuuuploader
+X-Arch-Package-Version=2.6-1
+X-Arch-Package-Description=Neembuu Uploader v2.3 is a free and opensource Java
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://neembuuuploader.sf.net/
+X-Arch-Package-Votes=3

@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Aquaria
+GenericName=2D Fantasy Action-Adventure
+Comment=A massive ocean world, teeming with life and filled with ancient secrets. Join Naija, a lone underwater dweller in search of her family, as she explores the depths of Aquaria. She'll travel from hidden caves, shrouded in darkness, to beautiful, sunlit oases, all lovingly handcrafted by its two creators.
+Icon=aquaria.png
+TryExec=/usr/bin/aquaria
+Exec=aquaria
+Categories=Application;Game;
+X-AppInstall-Package=aquaria
+X-AppInstall-Section=aur
+X-Arch-Package=aquaria 1.1.3_20121008-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=aquaria
+X-Arch-Package-Version=1.1.3_20121008-1
+X-Arch-Package-Description=2D Fantasy Action-Adventure by Bit Blot. Open Source version. Package uses data files from Humble Indie Bundle if present, otherwise falls back to downloading beta.
+X-Arch-Package-URL=http://www.bit-blot.com/

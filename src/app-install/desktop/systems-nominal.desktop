@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Systems Nominal
+Comment=An experimental game by Nerd^3
+Icon=systems-nominal
+TryExec=/usr/bin/systems-nominal
+Exec=/usr/bin/systems-nominal
+Categories=Game;
+X-AppInstall-Package=systems-nominal
+X-AppInstall-Section=aur
+X-Arch-Package=systems-nominal 1.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=systems-nominal
+X-Arch-Package-Version=1.0-2
+X-Arch-Package-Description=An experimental game by Nerd^3
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.nerdcubed.co.uk/games/
+X-Arch-Package-Votes=0

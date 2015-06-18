@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Whyteboard
+Comment=A simple PDF and image annotator
+Icon=whyteboard
+TryExec=/usr/bin/whyteboard
+Exec=whyteboard %f
+Categories=Graphics;GNOME;GTK;
+MimeType=application/x-whyteboard;
+StartupNotify=false
+X-AppInstall-Package=whyteboard
+X-AppInstall-Popcon=19
+X-AppInstall-Section=aur
+X-Arch-Package=whyteboard 0.41.1-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=whyteboard
+X-Arch-Package-Version=0.41.1-4
+X-Arch-Package-Description=A drawing program that supports annotation of pdf files. Also
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/whyteboard/
+X-Arch-Package-Votes=19

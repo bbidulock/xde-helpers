@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Osmos
+GenericName=Osmos
+Comment=Shall we play a game?
+Icon=/opt/Osmos/icon.png
+TryExec=/opt/Osmos/Osmos
+Exec=/opt/Osmos/Osmos
+NoDisplay=true
+Categories=Application;Game;ArcadeGame;
+X-AppInstall-Package=osmos-humblebundle
+X-AppInstall-Section=aur
+X-Arch-Package=osmos-humblebundle 1.6.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=osmos-humblebundle
+X-Arch-Package-Version=1.6.1-2
+X-Arch-Package-Description=Arcade game, HumbleBundle version. 'Enter the ambient world of Osmos: elegant, physics-based gameplay, dreamlike visuals, and a minimalist, electronic soundtrack.'
+X-Arch-Package-Groups=humblebundle;
+X-Arch-Package-URL=http://www.humblebundle.com/
+Aliases=osmos;

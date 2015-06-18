@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=8.0.4
+Type=Application
+Name=bioviz-igb
+Name[en_GB]=bioviz-igb.desktop
+Comment=Integrated Genome Browser
+Icon=bioviz-igb
+TryExec=/usr/bin/bioviz-igb
+Exec=bioviz-igb
+Categories=Education;Science;
+X-AppInstall-Package=bioviz-igb
+X-AppInstall-Section=aur
+X-Arch-Package=bioviz-igb 8.0.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bioviz-igb
+X-Arch-Package-Version=8.0.4-1
+X-Arch-Package-Description=Integrated Genome Browser is an easy-to-use, highly
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://bioviz.org/igb/
+X-Arch-Package-Votes=0

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Mars, Land of No Mercy
+Comment=A turn-based strategy game with isometric graphic
+Icon=mars.png
+TryExec=/usr/bin/mars
+Exec=mars
+Categories=Game;StrategyGame;
+X-AppInstall-Package=mars
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=mars 0.2.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mars
+X-Arch-Package-Version=0.2.1-2
+X-Arch-Package-Description='Mars, Land of No Mercy' is a turn-based strategy game with
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/mars/
+X-Arch-Package-Votes=4

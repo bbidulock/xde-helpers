@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=The Great Work
+Comment=Play The Great Work
+Icon=the-great-work
+TryExec=/usr/bin/the-great-work
+Exec=the-great-work
+Categories=AudioVideo;Game;
+StartupNotify=true
+X-AppInstall-Package=the-great-work
+X-AppInstall-Section=aur
+X-Arch-Package=the-great-work 1.0.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=the-great-work
+X-Arch-Package-Version=1.0.1-2
+X-Arch-Package-Description=The Great Work is a Nifflas game about an apprentice that is
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://nifflas.ni2.se/?page=The+Great+Work
+X-Arch-Package-Votes=0

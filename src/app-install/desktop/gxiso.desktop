@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=gxiso
+Icon=/usr/share/gxiso/gxiso.png
+TryExec=/usr/bin/gxiso
+Exec=gxiso
+StartupNotify=true
+X-AppInstall-Package=gxiso
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=gxiso 1.6rc1-6
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gxiso
+X-Arch-Package-Version=1.6rc1-6
+X-Arch-Package-Description=A GTK2 program to extract and upload Xbox ISO images to a Xbox
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gxiso.berlios.de/
+X-Arch-Package-Votes=9

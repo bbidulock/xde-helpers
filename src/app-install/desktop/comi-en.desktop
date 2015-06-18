@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=The Curse of Monkey Island (English)
+GenericName=The Curse of Monkey Island
+Comment=What's sharper, your sword or your wit?
+Icon=comi
+TryExec=/usr/bin/comi-en
+Exec=comi-en
+Categories=Game;
+X-AppInstall-Package=comi-en
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=comi-en 1.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=comi-en
+X-Arch-Package-Version=1.0-3
+X-Arch-Package-Description=The Curse of Monkey Island (English version) for ScummVM.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.lucasarts.com/products/monkey/Default.htm
+X-Arch-Package-Votes=2

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Polkit-explorer
+Comment=Present PolicyKit information in a human-readable form.
+Icon=emblem-system
+TryExec=/usr/bin/polkitex
+Exec=polkitex
+Categories=System;
+StartupNotify=false
+X-AppInstall-Package=polkit-explorer
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=polkit-explorer 1-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=polkit-explorer
+X-Arch-Package-Version=1-5
+X-Arch-Package-Description=Present PolicyKit information in a human-readable form.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/scarygliders/Polkit-Explorer
+X-Arch-Package-Votes=8

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Bluegriffon-nightly
+Comment=The next-generation Web Editor (NightlyBuild)
+Icon=bluegriffon-nightly-icon
+TryExec=/usr/bin/bluegriffon-nightly
+Exec=bluegriffon-nightly %u
+MultipleArgs=false
+Categories=Application;Development;
+MimeType=text/html;
+StartupNotify=false
+X-AppInstall-Package=bluegriffon-nightly
+X-AppInstall-Section=aur
+X-Arch-Package=bluegriffon-nightly 0.8.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bluegriffon-nightly
+X-Arch-Package-Version=0.8.1-2
+X-Arch-Package-Description=The next-generation Web Editor
+X-Arch-Package-URL=http://bluegriffon.org/

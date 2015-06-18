@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Jag level editor
+Comment=Level editor for Jag game
+Icon=/usr/share/pixmaps/jag-leveleditor.png
+TryExec=/usr/bin/jag-editor
+Exec=jag-editor
+X-MultipleArgs=false
+Categories=Game;LogicGame;GNOME;GTK;
+StartupNotify=true
+X-AppInstall-Package=jag
+X-AppInstall-Popcon=22
+X-AppInstall-Section=aur
+X-Arch-Package=jag 0.3.2-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jag
+X-Arch-Package-Version=0.3.2-3
+X-Arch-Package-Description=A free arcade-puzzle 2D game in which you have to break all
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://jag.xlabsoft.com/
+X-Arch-Package-Votes=22

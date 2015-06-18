@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Cumulus
+GenericName=Flight navigation aid
+GenericName[de]=Flug Navigations Hilfe
+Comment=A flight navigation aid for glider pilots and others
+Comment[de]=Eine Flug Navigations Hilfe für Segelflieger und andere
+Icon=/opt/cumulus/icons/cumulus-desktop48x48.png
+TryExec=/opt/cumulus/bin/cumulus
+Exec=/opt/cumulus/bin/cumulus
+Categories=Utility;Qt;Navigation;
+StartupNotify=false
+X-AppInstall-Package=cumulus
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=cumulus 5.21.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cumulus
+X-Arch-Package-Version=5.21.0-1
+X-Arch-Package-Description=Cumulus is a free and Open Source flight computer for Linux
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.kflog.org/cumulus/
+X-Arch-Package-Votes=2

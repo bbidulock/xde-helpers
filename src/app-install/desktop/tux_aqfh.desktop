@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Tux the Penguin: A Quest for Herring
+Comment=A 3D search/explore game staring Tux the Linux Penguin and his girlfriend Gown
+Icon=tux_aqfh.png
+TryExec=/usr/bin/tux_aqfh
+Exec=tux_aqfh
+Categories=Game;AdventureGame;
+X-AppInstall-Package=tux_aqfh
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=tux_aqfh 1.0.14-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tux_aqfh
+X-Arch-Package-Version=1.0.14-1
+X-Arch-Package-Description='Tux the Penguin: A Quest for Herring' is a 3D search/explore
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/tuxaqfh/
+X-Arch-Package-Votes=1

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=IcarusTouch
+Comment=Multitouch MIDI Keyboard
+Icon=/opt/icarustouch/icarustouch.png
+TryExec=/usr/bin/python2
+Exec=python2 /opt/icarustouch/kivy/main.py
+Categories=AudioVideo;Audio;
+Path=/opt/icarustouch/kivy
+X-AppInstall-Package=icarustouch
+X-AppInstall-Section=aur
+X-Arch-Package=icarustouch 1.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=icarustouch
+X-Arch-Package-Version=1.0-2
+X-Arch-Package-Description=Multitouch keyboard for MIDI devices using the Kivy toolkit
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/stocyr/IcarusTouch
+X-Arch-Package-Votes=0

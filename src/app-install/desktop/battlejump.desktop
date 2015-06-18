@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Battle Jump
+GenericName=Battle Jump
+Comment="Arcade game inspired by Monster Farm Jump."
+Icon=/usr/share/battlejump/Images/Logo/ico-48.png
+TryExec=/usr/bin/battlejump
+Exec=/usr/bin/battlejump
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=battlejump
+X-AppInstall-Popcon=14
+X-AppInstall-Section=aur
+X-Arch-Package=battlejump 0.12.0-9
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=battlejump
+X-Arch-Package-Version=0.12.0-9
+X-Arch-Package-Description=Arcade game inspired by Monster Farm Jump.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.battlejump.com
+X-Arch-Package-Votes=14

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Little Space Duo
+GenericName=Puzzle-based Arcade
+Comment=Little Space Duo is a classic, puzzle-based arcade game starring an unusual pair of heroes - a little girl and a small robot. Join them on a mission through the spaceship and help them to overcome all the challenges and hazards they will encounter on the way.
+Icon=/usr/share/pixmaps/LittleSpaceDuo.png
+TryExec=/usr/bin/littlespaceduo
+Exec=littlespaceduo
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=littlespaceduo
+X-AppInstall-Section=aur
+X-Arch-Package=littlespaceduo 1.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=littlespaceduo
+X-Arch-Package-Version=1.1-1
+X-Arch-Package-Description=Little Space Duo is a classic, puzzle-based arcade game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.jugilus.com/
+X-Arch-Package-Votes=0

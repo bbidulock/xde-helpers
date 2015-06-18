@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Klaus
+GenericName=Chess Program
+Icon=klauschess.svg
+TryExec=/usr/bin/klaus
+Exec=klaus
+Categories=Game;BoardGame;
+MimeType=application/x-chess-pgn;
+StartupNotify=true
+X-AppInstall-Package=klaus
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=klaus 0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=klaus
+X-Arch-Package-Version=0.1-1
+X-Arch-Package-Description=A platform independent chess program
+X-Arch-Package-Groups=games
+X-Arch-Package-URL=http://launchpad.net/klaus
+X-Arch-Package-Votes=1

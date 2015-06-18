@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=PyCharm
+Comment=A Python IDE
+Icon=pycharm
+TryExec=/usr/bin/pycharm.sh
+Exec=pycharm.sh %u
+Categories=Development;IDE;Django;Javascript;Python;Web;
+X-AppInstall-Package=pycharm-official-updates
+X-AppInstall-Section=aur
+X-Arch-Package=pycharm-official-updates 3.1b133.673-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pycharm-official-updates
+X-Arch-Package-Version=3.1b133.673-1
+X-Arch-Package-Description=PyCharm updated as official software update tool claims a new version is available, which is a mixture between stable an EAP (Early Access Program)
+X-Arch-Package-URL=http://www.jetbrains.com/pycharm/

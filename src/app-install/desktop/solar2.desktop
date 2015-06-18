@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Solar 2
+Comment=An open-world, sandbox game set in an infinite abstract universe
+Icon=/opt/solar2/solar2.png
+TryExec=/usr/bin/solar2
+Exec=/usr/bin/solar2
+Categories=Game;
+X-AppInstall-Package=solar2
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=solar2 1.10-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=solar2
+X-Arch-Package-Version=1.10-3
+X-Arch-Package-Description=An open-world, sandbox game set in an infinite abstract
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://murudai.com/solar/
+X-Arch-Package-Votes=6
+Value=1.0

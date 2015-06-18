@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=YouTrack Workflow Editor
+Comment=YouTrack Workflow Editor
+Icon=youtrack-workflow-editor
+TryExec=/usr/bin/youtrack-workflow-editor
+Exec=youtrack-workflow-editor %u
+Categories=Development;IDE;
+X-AppInstall-Package=youtrack-workflow-editor
+X-AppInstall-Section=aur
+X-Arch-Package=youtrack-workflow-editor 6.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=youtrack-workflow-editor
+X-Arch-Package-Version=6.0-1
+X-Arch-Package-Description=A MPS-based application to create and edit workflows for
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.jetbrains.com/youtrack/
+X-Arch-Package-Votes=0

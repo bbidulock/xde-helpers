@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Steam Skin Manager
+Comment=A tool for managing Steam skins.
+Icon=steamskinmanager
+TryExec=/usr/bin/SteamSkinManager
+Exec=/usr/bin/SteamSkinManager %U
+Categories=Settings;GNOME;GTK;
+MimeType=x-scheme-handler/ubuntusteamskin;
+X-AppInstall-Package=steam-skin-manager
+X-AppInstall-Popcon=30
+X-AppInstall-Section=aur
+X-Arch-Package=steam-skin-manager 3.9.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=steam-skin-manager
+X-Arch-Package-Version=3.9.1-2
+X-Arch-Package-Description=GUI for Steam skins management
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://iubuntu.cz/Steam/
+X-Arch-Package-Votes=30

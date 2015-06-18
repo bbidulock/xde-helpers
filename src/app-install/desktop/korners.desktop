@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Korners
+GenericName=Helma game
+Icon=/usr/share/pixmaps/korners.png
+TryExec=/usr/bin/korners
+Exec=korners
+Categories=Game;BoardGame;
+X-AppInstall-Package=korners
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=korners 0.84-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=korners
+X-Arch-Package-Version=0.84-2
+X-Arch-Package-Description=Korners is a simple board game for KDE also known as Helma.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/korners/
+X-Arch-Package-Votes=1

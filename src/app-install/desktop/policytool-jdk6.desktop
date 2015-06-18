@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Java 6 Policy Settings
+Icon=sun-java-jdk6
+TryExec=/usr/lib/jvm/java-6-jdk/jre/bin/policytool
+Exec=/usr/lib/jvm/java-6-jdk/jre/bin/policytool
+Categories=Settings;Java;
+StartupNotify=true
+X-AppInstall-Package=jdk6
+X-AppInstall-Popcon=59
+X-AppInstall-Section=aur
+X-Arch-Package=jdk6 6u45-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jdk6
+X-Arch-Package-Version=u-3
+X-Arch-Package-Description=Oracle Java Development Kit (public release - end of support)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://www.java.com/en/download/faq/java_6.xml
+X-Arch-Package-Votes=59

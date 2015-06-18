@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=HeldenViewer
+GenericName=Youtube Downloader
+Icon=/usr/share/pixmaps/HeldenViewer.png
+TryExec=/usr/bin/heldenviewer
+Exec=heldenviewer
+Categories=AudioVideo;
+X-AppInstall-Package=heldenviewer
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=heldenviewer 1.0.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=heldenviewer
+X-Arch-Package-Version=1.0.4-1
+X-Arch-Package-Description=Program to search, view and download Youtube videos
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.heldenviewer.com/cms/index.php/en
+X-Arch-Package-Votes=2

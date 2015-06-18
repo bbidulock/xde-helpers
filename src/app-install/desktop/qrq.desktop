@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=QRQ
+Comment=Morse Code Trainer
+Icon=qrq
+TryExec=/usr/bin/qrq
+Exec=qrq
+X-DCOP-ServiceType=none
+Terminal=true
+Categories=HamRadio;
+MimeType=text/plain;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=qrq
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=qrq 0.3.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qrq
+X-Arch-Package-Version=0.3.1-1
+X-Arch-Package-Description=CW trainer for Linux/Unix - similar to the DOS Classic RUFZ
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://fkurz.net/ham/qrq.html
+X-Arch-Package-Votes=2

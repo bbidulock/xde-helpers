@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=MIUI Lock Screen Theme Editor
+Name[zh_CN]=MIUI锁屏主题编辑器
+Comment=Easy to edit miui lock screen theme.
+Comment[zh_CN]=方便的编辑MIUI锁屏主题文件。
+Icon=/usr/share/icons/lockscreentextediter.png
+TryExec=/usr/bin/lockscreentextediter
+Exec=/usr/bin/lockscreentextediter
+NoDisplay=true
+Categories=Graphics;
+StartupNotify=false
+InitialPreference=3
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=lockscreentextediter
+X-AppInstall-Section=aur
+X-Arch-Package=lockscreentextediter 20120625-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lockscreentextediter
+X-Arch-Package-Version=20120625-1
+X-Arch-Package-Description=An applications for edit miui lock screen theme(mtz).
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.miui.com/thread-553310-1-1.html
+X-Arch-Package-Votes=0
+Aliases=miuilockscreentextediter;

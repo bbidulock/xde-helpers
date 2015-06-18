@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Indicator Forceclose
+Icon=/usr/share/icons/hicolor/scalable/apps/gnome-panel-force-quit.svg
+TryExec=/usr/bin/indicator-forceclose
+Exec=indicator-forceclose
+X-AppInstall-Package=indicator-forceclose
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=indicator-forceclose 12.02-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=indicator-forceclose
+X-Arch-Package-Version=12.02-1
+X-Arch-Package-Description=AppIndicator used to force close an application for Unity
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://launchpad.net/indicator-forceclose
+X-Arch-Package-Votes=1

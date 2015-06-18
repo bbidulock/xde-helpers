@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Neelix
+GenericName=Neelix
+Comment=campaign Creator for RTCW Enemy Territory
+TryExec=/usr/bin/neelix
+Exec=/usr/bin/neelix
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=neelix
+X-AppInstall-Section=aur
+X-Arch-Package=neelix 0.9.6.1b2-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=neelix
+X-Arch-Package-Version=0.9.6.1b2-3
+X-Arch-Package-Description=A campaign creator for RTCW Enemy Territory
+X-Arch-Package-URL=http://gaminggone.net

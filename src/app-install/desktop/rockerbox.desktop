@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=RockerBox
+GenericName=RockerBox
+Icon=rockerbox
+TryExec=/usr/bin/rockerbox
+Exec=rockerbox
+Categories=Application;Science;
+X-AppInstall-Package=rockerbox
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=rockerbox 2.0.6-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rockerbox
+X-Arch-Package-Version=2.0.6-2
+X-Arch-Package-Description=Analysis and filtering of massive proteomics search results.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://trac.nbic.nl/rockerbox
+X-Arch-Package-Votes=1

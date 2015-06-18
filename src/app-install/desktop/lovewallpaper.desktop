@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=LoveWallPaper
+Name[zh_CN]=爱壁纸HD
+GenericName=美化桌面
+Comment=最专业的壁纸应用
+Icon=/opt/lovewallpaper/src/notify.png
+TryExec=/opt/lovewallpaper/lovewallpaper
+Exec=/opt/lovewallpaper/lovewallpaper
+Categories=Utility;DesktopUtility;
+Path=/opt/lovewallpaper
+X-AppInstall-Package=lovewallpaper
+X-AppInstall-Section=aur
+X-Arch-Package=lovewallpaper 1.1.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lovewallpaper
+X-Arch-Package-Version=1.1.1-2
+X-Arch-Package-Description=最专业的桌面高清壁纸软件
+X-Arch-Package-URL=http://www.lovebizhi.com

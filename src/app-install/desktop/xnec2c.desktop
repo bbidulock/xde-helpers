@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=xnec2c
+Comment=GTK+ nec Viewer
+Icon=xnec2c
+TryExec=/usr/bin/xnec2c.sh
+Exec=xnec2c.sh
+X-DCOP-ServiceType=none
+Categories=Network;HamRadio;
+MimeType=text/plain;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=xnec2c
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=xnec2c 3.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xnec2c
+X-Arch-Package-Version=3.2-1
+X-Arch-Package-Description=GTK+ Antenna EM Modeling Client
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.qsl.net/5b4az/pkg/nec2/xnec2c/doc/xnec2c.html
+X-Arch-Package-Votes=6

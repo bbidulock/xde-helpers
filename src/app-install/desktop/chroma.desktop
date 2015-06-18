@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Chroma
+GenericName=Chroma
+Comment=Puzzle game
+Comment[fr]=Jeu de casse-tête
+Icon=/usr/share/chroma/graphics/icon.png
+TryExec=/usr/bin/chroma
+Exec=/usr/bin/chroma
+Categories=Game;
+X-AppInstall-Package=chroma
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=chroma 1.15-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=chroma
+X-Arch-Package-Version=1.15-1
+X-Arch-Package-Description=Abstract puzzle game.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.level7.org.uk/chroma/
+X-Arch-Package-Votes=10

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Race for the Galaxy
+Comment=Singleplayer and online implementation of the card game Race for the Galaxy by Tom Lehman.
+Icon=/usr/share/rftg/rftg.svg
+TryExec=/usr/bin/rftg
+Exec=rftg
+Categories=Game;StrategyGame;
+FilePattern=rftg;
+StartupNotify=false
+X-AppInstall-Package=rftg
+X-AppInstall-Section=community
+X-Arch-Package=rftg 0.9.4-1
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=rftg
+X-Arch-Package-Version=0.9.4-1
+X-Arch-Package-Description=Singleplayer and online implementation of the card game Race for the Galaxy by Tom Lehman.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://keldon.net/rftg/

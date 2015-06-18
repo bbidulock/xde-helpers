@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Lucas Chess
+Icon=/usr/share/pixmaps/lucas-chess-wine.png
+TryExec=/usr/bin/lucas-chess-wine
+Exec=lucas-chess-wine
+Categories=Game;BoardGame;
+StartupNotify=true
+X-AppInstall-Package=lucas-chess-wine
+X-AppInstall-Section=aur
+X-Arch-Package=lucas-chess-wine 8.11-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lucas-chess-wine
+X-Arch-Package-Version=8.11-1
+X-Arch-Package-Description=One of the most comprehensive chess learning tools for engine
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www-lucaschess.rhcloud.com/
+X-Arch-Package-Votes=0

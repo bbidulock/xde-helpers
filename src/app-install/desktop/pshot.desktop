@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=pshot
+GenericName=pshot
+Icon=/usr/share/pixmaps/pshot_logo.png
+TryExec=/usr/bin/pshot
+Exec=pshot
+Categories=Application;Utility;
+X-AppInstall-Package=pshot-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=pshot-git 23.a7eff0d-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pshot-git
+X-Arch-Package-Version=23.a7eff0d-1
+X-Arch-Package-Description=Screenshot utility for your Linux box, inspirtation taken by
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/wifiextender/pshot
+X-Arch-Package-Votes=1

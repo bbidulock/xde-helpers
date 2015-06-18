@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Pharo
+GenericName=Pharo
+Comment=An implementation of Smalltalk
+Icon=pharo.png
+TryExec=/usr/bin/pharo
+Exec=pharo
+Categories=Development;
+X-AppInstall-Package=pharo
+X-AppInstall-Popcon=17
+X-AppInstall-Section=aur
+X-Arch-Package=pharo 4.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pharo
+X-Arch-Package-Version=4.0-2
+X-Arch-Package-Description=a fork of Squeak, an implementation of the object-oriented,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.pharo-project.org/
+X-Arch-Package-Votes=17

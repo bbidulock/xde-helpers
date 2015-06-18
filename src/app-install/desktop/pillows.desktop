@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Pillows
+Comment=Launch the pillows!
+TryExec=/usr/bin/pillows
+Exec=pillows
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=pillows
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=pillows 0.2.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pillows
+X-Arch-Package-Version=0.2.1-2
+X-Arch-Package-Description=An exciting “save-the-world” arcade game with a very unique
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://fydo.net/projects/pillows
+X-Arch-Package-Votes=3

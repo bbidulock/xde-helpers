@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Pica-pica
+GenericName=P2P IM Client
+GenericName[ru]=P2P клиент мгновенных сообщений
+Icon=picapica-icon-sit
+TryExec=/usr/bin/pica-client
+Exec=pica-client
+Categories=Network;InstantMessaging;Qt;
+StartupNotify=true
+X-AppInstall-Package=pica-pica-client
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=pica-pica-client 0.6dev.git540e7dc-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pica-pica-client
+X-Arch-Package-Version=0.6dev.git540e7dc-1
+X-Arch-Package-Description=Pica Pica is a distributed instant messaging software that
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://picapica.im/
+X-Arch-Package-Votes=3

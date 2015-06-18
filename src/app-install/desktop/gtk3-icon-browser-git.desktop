@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Icon Browser
+Comment=An application that shows themed icons
+Icon=gtk3-icon-browser
+TryExec=/usr/bin/gtk3-icon-browser
+Exec=gtk3-icon-browser
+Categories=GTK;
+StartupNotify=true
+X-AppInstall-Package=gtk3-icon-browser-git
+X-AppInstall-Section=aur
+X-Arch-Package=gtk3-icon-browser-git 20140626-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gtk3-icon-browser-git
+X-Arch-Package-Version=20140626-2
+X-Arch-Package-Description=An application that shows GTK+ icons from current theme
+X-Arch-Package-URL=https://git.gnome.org/browse/gtk+/tree/demos/icon-browser

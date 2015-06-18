@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=kleiner-brauhelfer
+Comment=Calculate and manage the beer brewing process
+Comment[de]=Kalkuliere und verwalte den Bierbrauprozess
+Icon=kleiner-brauhelfer
+TryExec=/usr/bin/brauhelfer
+Exec=brauhelfer
+Categories=Application;Science;
+StartupNotify=true
+X-AppInstall-Package=kleiner-brauhelfer
+X-AppInstall-Section=aur
+X-Arch-Package=kleiner-brauhelfer 1.4.1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kleiner-brauhelfer
+X-Arch-Package-Version=1.4.1.0-1
+X-Arch-Package-Description=A Qt-based tool for hobby brewer to calculate and manage the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.joerum.de/kleiner-brauhelfer
+X-Arch-Package-Votes=0

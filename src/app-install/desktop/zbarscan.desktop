@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Scan with ZBar
+Comment=Scan with Zbar
+Icon=zbarscan
+TryExec=/usr/bin/zbarscan
+Exec=zbarscan %f
+NoDisplay=true
+Categories=Graphics;2DGraphics;Viewer;GTK;
+MimeType=image/bmp;image/gif;image/jpeg;image/jpg;image/png;image/tiff;image/x-bmp;image/x-pcx;image/x-png;image/x-portable-bitmap;image/x-portable-graymap;image/x-portable-pixmap;image/x-tga;image/x-xbitmap;image/x-xpixmap;
+X-AppInstall-Package=zbar-desktop
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=zbar-desktop 0.0.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zbar-desktop
+X-Arch-Package-Version=0.0.5-1
+X-Arch-Package-Description=Scan QR-Code from context menu
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.eworm.de/
+X-Arch-Package-Votes=5

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=CatacombSDL
+Comment=SDL Port of 'The Catacomb' aka 'Catacomb II'
+Icon=catacombsdl
+TryExec=/usr/bin/catacombsdl
+Exec=catacombsdl windowed 800 600
+Categories=Game;
+X-AppInstall-Package=catacombsdl
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=catacombsdl 1.03-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=catacombsdl
+X-Arch-Package-Version=1.03-1
+X-Arch-Package-Description=SDL2 source port for Catacomb II / The Catacomb
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/Blzut3/CatacombSDL
+X-Arch-Package-Votes=1

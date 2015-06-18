@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Eclipse
+Comment=A Java Development Environment
+Icon=eclipse
+TryExec=/usr/bin/eclipse
+Exec=eclipse
+NoDisplay=true
+Categories=Development;IDE;Java;
+StartupNotify=true
+X-AppInstall-Package=eclipse-integration
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=eclipse-integration 4.3_20121002-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=eclipse-integration
+X-Arch-Package-Version=4.3_-3
+X-Arch-Package-Description=An IDE for Java and other languages. Integration version
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://eclipse.org
+X-Arch-Package-Votes=1
+Aliases=eclipse;

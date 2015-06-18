@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Nagstamon
+Comment=Nagios status monitor
+Icon=/usr/lib/nagstamon/resources/nagstamon.svg
+TryExec=/usr/bin/nagstamon
+Exec=/usr/bin/nagstamon
+NoDisplay=true
+Categories=Network;
+StartupNotify=true
+X-AppInstall-Package=nagstamon-git
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=nagstamon-git 0.9.11.r3.gf5ec619-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nagstamon-git
+X-Arch-Package-Version=0.9.11.r3.gf5ec619-1
+X-Arch-Package-Description=Nagios status monitor for the desktop
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://nagstamon.ifw-dresden.de/
+X-Arch-Package-Votes=3
+Aliases=nagstamon;

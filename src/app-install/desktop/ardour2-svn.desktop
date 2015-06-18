@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Ardour2
+GenericName=Digital Audio Workstation
+Comment=Professional-grade Digital Audio Workstation (DAW)
+Icon=ardour
+TryExec=/usr/bin/ardour
+Exec=ardour
+NoDisplay=true
+Categories=Multimedia;
+MimeType=application/x-ardour;
+X-AppInstall-Package=ardour2-svn
+X-AppInstall-Section=aur
+X-Arch-Package=ardour2-svn 11752-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ardour2-svn
+X-Arch-Package-Version=11752-1
+X-Arch-Package-Description=Professional-grade Digital Audio Workstation
+X-Arch-Package-URL=http://ardour.org/
+Aliases=ardour2;

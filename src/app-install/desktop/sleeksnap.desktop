@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Sleeksnap
+Comment=The user-friendly screenshot program
+Icon=/usr/share/pixmaps/sleeksnap.png
+TryExec=/usr/bin/sleeksnap
+Exec=sleeksnap
+Categories=Utility;
+X-AppInstall-Package=sleeksnap
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=sleeksnap 1.4.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sleeksnap
+X-Arch-Package-Version=1.4.5-1
+X-Arch-Package-Description=The user-friendly screenshot program
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sleeksnap.com/
+X-Arch-Package-Votes=1

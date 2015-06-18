@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Java 9 Policy Settings
+Icon=sun-java-jre9
+TryExec=/usr/lib/jvm/java-9-jre/jre/bin/policytool
+Exec=/usr/lib/jvm/java-9-jre/jre/bin/policytool
+Categories=Settings;Java;
+StartupNotify=true
+X-AppInstall-Package=jre-devel
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=jre-devel 9b68-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jre-devel
+X-Arch-Package-Version=-1
+X-Arch-Package-Description=Oracle Java  Runtime Environment Snapshot
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://jdk.java.net/
+X-Arch-Package-Votes=6

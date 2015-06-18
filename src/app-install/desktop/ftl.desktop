@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=FTL: Faster Than Light
+GenericName=FTL: Faster Than Light
+Comment=A spaceship simulation real-time roguelike-like
+Icon=/usr/share/pixmaps/ftl/ftl.png
+TryExec=/usr/bin/ftl
+Exec=/usr/bin/ftl
+Categories=Game;
+X-AppInstall-Package=ftl
+X-AppInstall-Popcon=35
+X-AppInstall-Section=aur
+X-Arch-Package=ftl 1.5.13-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ftl
+X-Arch-Package-Version=1.5.13-1
+X-Arch-Package-Description=FTL: Faster Than Light, a spaceship simulation real-time
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.ftlgame.com/
+X-Arch-Package-Votes=35

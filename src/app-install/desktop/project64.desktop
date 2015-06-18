@@ -1,0 +1,18 @@
+[Desktop Entry]
+Version=1.6
+Type=Application
+Name=Project 64
+Comment=A Great Nintendo 64 Emulator
+Icon=/usr/share/pixmaps/project64.png
+TryExec=/usr/bin/project64
+Exec=/usr/bin/project64
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=project64
+X-AppInstall-Section=aur
+X-Arch-Package=project64 1.6-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=project64
+X-Arch-Package-Version=1.6-4
+X-Arch-Package-Description=A very popular and accurate Nintendo 64 Emulator (run via wine)
+X-Arch-Package-URL=http://www.pj64-emu.com/

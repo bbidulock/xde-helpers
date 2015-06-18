@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Sunbird
+Comment=Standalone calendar from mozilla.org
+Icon=sunbird
+TryExec=/usr/bin/sunbird
+Exec=sunbird
+NoDisplay=true
+Categories=Office;
+X-AppInstall-Package=sunbird-branded
+X-AppInstall-Section=aur
+X-Arch-Package=sunbird-branded 0.9-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sunbird-branded
+X-Arch-Package-Version=0.9-4
+X-Arch-Package-Description=Standalone calendar
+X-Arch-Package-URL=http://www.mozilla.org/projects/calendar/sunbird/
+Aliases=sunbird;

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Allacrost
+Comment=A single player 2D role-playing game inspired by classic console RPGs
+Icon=allacrost
+TryExec=/usr/bin/allacrost
+Exec=allacrost
+NoDisplay=true
+Categories=Application;Game;RolePlaying;
+StartupNotify=false
+X-AppInstall-Package=allacrost-svn
+X-AppInstall-Section=aur
+X-Arch-Package=allacrost-svn 2040-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=allacrost-svn
+X-Arch-Package-Version=2040-1
+X-Arch-Package-Description=A single player 2D role-playing game inspired by classic
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.allacrost.org/
+X-Arch-Package-Votes=0
+Aliases=allacrost;

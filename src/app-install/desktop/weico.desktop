@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=20111017
+Type=Application
+Name=Weico
+Comment=Sina microblog client Based on Adobe Air
+Icon=/usr/share/icons/weico/weico128.png
+TryExec=/usr/bin/weico
+Exec=weico
+Categories=Network;InstantMessaging;
+X-AppInstall-Package=weico
+X-AppInstall-Section=aur
+X-Arch-Package=weico 1.54-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=weico
+X-Arch-Package-Version=1.54-1
+X-Arch-Package-Description=Sian microblog client based on Adobe Air.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.weico.com
+X-Arch-Package-Votes=0

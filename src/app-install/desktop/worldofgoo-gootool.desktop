@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=gootool
+Comment=World of Goo mod manager
+TryExec=/usr/bin/gootool
+Exec=gootool %F
+NoDisplay=true
+Categories=Game;Utility;
+MimeType=application/x-goomod;
+X-AppInstall-Package=worldofgoo-gootool
+X-AppInstall-Popcon=18
+X-AppInstall-Section=aur
+X-Arch-Package=worldofgoo-gootool 1.0.3.441-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=worldofgoo-gootool
+X-Arch-Package-Version=1.0.3.441-2
+X-Arch-Package-Description=World of Goo level creator and installer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://goofans.com/download/utility/
+X-Arch-Package-Votes=18
+Aliases=gootool;

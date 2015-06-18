@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Escape Goat
+Comment=A goat, imprisoned for witchcraft, must escape the treacherous Prison of Agnus
+Icon=escapegoat
+TryExec=/usr/bin/escapegoat
+Exec=/usr/bin/escapegoat
+Categories=Game;
+X-AppInstall-Package=escapegoat
+X-AppInstall-Section=aur
+X-Arch-Package=escapegoat 20131018-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=escapegoat
+X-Arch-Package-Version=20131018-1
+X-Arch-Package-Description=Escape Goat is a puzzle platformer about a goat
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.magicaltimebean.com/escape-goat/
+X-Arch-Package-Votes=0

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Newton Adv. Editor
+GenericName=Editor for Newton adv.
+Icon=/usr/share/pixmaps/newton-adventure-level-editor.png
+TryExec=/usr/bin/newton-adventure-level-editor
+Exec=newton-adventure-level-editor
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=newton-adventure-level-editor
+X-AppInstall-Section=aur
+X-Arch-Package=newton-adventure-level-editor 1.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=newton-adventure-level-editor
+X-Arch-Package-Version=1.0-2
+X-Arch-Package-Description=Level editor for Newton Adventure
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://devnewton.bci.im/projects/newton_adventure/doc/trunk/www/index.wiki
+X-Arch-Package-Votes=0

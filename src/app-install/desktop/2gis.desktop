@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=2GIS
+Name[ru_RU]=2ГИС
+Icon=2gis
+TryExec=/usr/bin/2gis
+Exec=2gis
+Categories=Application;Utility;
+StartupNotify=true
+X-AppInstall-Package=2gis
+X-AppInstall-Popcon=47
+X-AppInstall-Section=aur
+X-Arch-Package=2gis 3.14.12.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=2gis
+X-Arch-Package-Version=3.14.12.0-1
+X-Arch-Package-Description=Geographic Information System (GIS) for some Russian and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://help.2gis.ru/linux/
+X-Arch-Package-Votes=47

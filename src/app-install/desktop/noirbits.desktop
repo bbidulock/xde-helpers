@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Noirbits
+GenericName=P2P network based digital currency
+Comment=P2P network based digital currency
+Icon=/usr/share/pixmaps/noirbits.png
+TryExec=/usr/bin/noirbits-qt
+Exec=noirbits-qt
+Categories=Finance;P2P;Internet;
+StartupNotify=true
+X-AppInstall-Package=noirbits-git
+X-AppInstall-Section=aur
+X-Arch-Package=noirbits-git 0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=noirbits-git
+X-Arch-Package-Version=0.1-1
+X-Arch-Package-Description=Noirbits is a community based p2p network based digital
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.noirbits.com/
+X-Arch-Package-Votes=0

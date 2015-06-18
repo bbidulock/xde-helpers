@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Astade-Tree
+Comment=A tool for model driven development
+Icon=Astade-Tree
+TryExec=/usr/bin/Astade
+Exec=Astade
+Categories=Development;
+X-AppInstall-Package=astade
+X-AppInstall-Section=aur
+X-Arch-Package=astade 1.1.3_2367-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=astade
+X-Arch-Package-Version=1.1.3_2367-1
+X-Arch-Package-Description=A UML tool for the complete C or C++ development process
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.astade.de
+X-Arch-Package-Votes=0

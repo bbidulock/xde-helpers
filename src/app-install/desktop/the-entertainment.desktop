@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=The Entertainment
+Comment=The Entertainment - Kentucky Route Zero
+Icon=the-entertainment
+TryExec=/usr/bin/the-entertainment
+Exec=/usr/bin/the-entertainment
+Categories=Game;AdventureGame;
+X-AppInstall-Package=the-entertainment
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=the-entertainment 1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=the-entertainment
+X-Arch-Package-Version=1-1
+X-Arch-Package-Description=The Entertainment - Kentucky Route Zero
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kentuckyroutezero.com/the-entertainment/
+X-Arch-Package-Votes=1

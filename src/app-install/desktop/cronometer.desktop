@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=CRON-O-METER
+Comment=fully featured nutrition and biomarker tracking tool
+Icon=cronometer
+TryExec=/usr/bin/cronometer
+Exec=cronometer
+Categories=Office;
+X-AppInstall-Package=cronometer
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=cronometer 0.9.9-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cronometer
+X-Arch-Package-Version=0.9.9-1
+X-Arch-Package-Description=fully featured nutrition and biomarker tracking tool
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://cronometer.com/download
+X-Arch-Package-Votes=7

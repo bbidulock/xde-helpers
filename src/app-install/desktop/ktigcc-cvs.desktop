@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Ktigcc
+Comment=TI Development Environement
+Icon=ktigcc
+TryExec=/usr/bin/env
+Exec=env TIGCC=/opt/tigcc /usr/bin/ktigcc
+NoDisplay=true
+Categories=Application;Development;IDE;
+StartupNotify=true
+X-AppInstall-Package=ktigcc-cvs
+X-AppInstall-Section=aur
+X-Arch-Package=ktigcc-cvs 20090525-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ktigcc-cvs
+X-Arch-Package-Version=20090525-1
+X-Arch-Package-Description=an IDE for the tigcc cross-toolchain (Now with KDE4 support)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://tigcc.ticalc.org/linux/
+X-Arch-Package-Votes=0
+Aliases=ktigcc;

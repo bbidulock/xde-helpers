@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Lugaru
+GenericName=Third Person Shooter
+Comment=Lugaru (pronounced Loo-GAH-roo) is a third-person action title. The main character, Turner, is an anthropomorphic rebel bunny rabbit with impressive combat skills. In his quest to find those responsible for slaughtering his village, he uncovers a far-reaching conspiracy involving the corrupt leaders of the rabbit republic and the starving wolves from a nearby den. Turner takes it upon himself to fight against their plot and save his fellow rabbits from slavery.
+Icon=/usr/share/pixmaps/Lugaru.png
+TryExec=/usr/bin/lugaru
+Exec=lugaru
+NoDisplay=true
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=lugaru-hb_version
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=lugaru-hb_version 1.0c-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lugaru-hb_version
+X-Arch-Package-Version=1.0c-2
+X-Arch-Package-Description=Humble Bundle Version. Lugaru is a third-person action title.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.wolfire.com/lugaru
+X-Arch-Package-Votes=4
+Aliases=lugaru;

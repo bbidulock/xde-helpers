@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Kega Fusion
+GenericName=Sega consoles Emulator
+GenericName[fr]=Émulateur de consoles Sega
+Comment=An emulator of classic Sega consoles
+Icon=kega-fusion
+TryExec=/usr/bin/kega-fusion
+Exec=kega-fusion
+Categories=Game;Emulator;
+X-AppInstall-Package=kega-fusion
+X-AppInstall-Popcon=69
+X-AppInstall-Section=aur
+X-Arch-Package=kega-fusion 3.63-16
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kega-fusion
+X-Arch-Package-Version=3.63-16
+X-Arch-Package-Description=An emulator of classic Sega consoles, including SMS/GG,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.carpeludum.com/kega-fusion
+X-Arch-Package-Votes=69

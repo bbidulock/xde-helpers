@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Fistful of beef
+GenericName=Bull Game
+Icon=/usr/share/pixmaps/fistfulofbeef
+TryExec=/usr/bin/fistfulofbeef
+Exec=fistfulofbeef
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=fistfulofbeef
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=fistfulofbeef 208.eafb42c-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fistfulofbeef
+X-Arch-Package-Version=208.eafb42c-1
+X-Arch-Package-Description=FoB is a game where you swing bulls to defend yourself against
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.moddb.com/games/fistful-of-beef
+X-Arch-Package-Votes=1

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Bracket
+Comment=HDR photo manager
+TryExec=/usr/bin/bracket
+Exec=bracket %f
+X-MultipleArgs=false
+Categories=Graphics;2DGraphics;Photography;
+X-AppInstall-Package=bracket
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=bracket 1.0.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bracket
+X-Arch-Package-Version=1.0.0-2
+X-Arch-Package-Description=High-dynamic-range (HDR) photo manager
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.ceng.metu.edu.tr/~akyuz/bracket/bracket.html
+X-Arch-Package-Votes=4

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=WepCrackGui
+Name[es_AR]=wepcrack
+Comment=Wepcrack is a mono gui for aircrack, aireplay and other related wep cracking tools
+Icon=gtk-network
+TryExec=/usr/bin/wepcrack
+Exec=wepcrack
+Categories=Application;Network;
+StartupNotify=true
+X-AppInstall-Package=wepcrackgui-git
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=wepcrackgui-git 20111111-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wepcrackgui-git
+X-Arch-Package-Version=20111111-1
+X-Arch-Package-Description=Gui for aircrack-ng that can crack WEP and WPA networks,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/wepcrackgui/
+X-Arch-Package-Votes=8

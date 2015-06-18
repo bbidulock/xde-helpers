@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=GSSHFS network directories
+Icon=gsshfs
+TryExec=/usr/bin/gsshfs
+Exec=gsshfs
+Categories=Network;
+StartupNotify=false
+X-AppInstall-Package=gsshfs
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gsshfs
+X-Arch-Package-Version=1.0.6-2
+X-Arch-Package-Description=GUI for SSHFS
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sallu.tuxfamily.org/-Home-
+X-Arch-Package-Votes=10

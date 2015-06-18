@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=ezQuake
+GenericName=ezQuake
+Comment=One of the most popular QuakeWorld Clients for Linux/BSD/OSX/Win32
+Icon=/usr/share/pixmaps/ezquake.ico
+TryExec=/usr/bin/ezquake
+Exec=/usr/bin/ezquake
+NoDisplay=true
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=ezquake-git
+X-AppInstall-Section=aur
+X-Arch-Package=ezquake-git r4586.4c30f3f-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ezquake-git
+X-Arch-Package-Version=r4586.4c30f3f-1
+X-Arch-Package-Description=One of the most Popular QuakeWorld clients for
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ezquake.sourceforge.net/
+X-Arch-Package-Votes=0
+Aliases=ezquake;

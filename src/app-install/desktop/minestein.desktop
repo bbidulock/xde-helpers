@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Minestein
+GenericName=Minestein
+Comment=A version of the famous Minesweeper game which will always produce puzzles that can be solved using logic
+Icon=minestein.png
+TryExec=/usr/bin/minestein
+Exec=minestein
+Categories=Game;LogicGame;
+X-AppInstall-Package=minestein
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=minestein 1-10
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=minestein
+X-Arch-Package-Version=1-10
+X-Arch-Package-Description=A version of the famous Minesweeper game which will always
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourgumdrop.org.uk/minestein_1.html
+X-Arch-Package-Votes=13

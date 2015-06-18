@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Gournal
+Comment=A note-taking application written for usage on Tablet-PCs
+Icon=gournal
+TryExec=/usr/bin/gournal
+Exec=gournal
+Categories=Application;
+StartupNotify=false
+X-AppInstall-Package=gournal
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=gournal 0.5.1.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gournal
+X-Arch-Package-Version=0.5.1.1-1
+X-Arch-Package-Description=A note-taking application written for usage on Tablet-PCs
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.adebenham.com/old-stuff/gournal/
+X-Arch-Package-Votes=2

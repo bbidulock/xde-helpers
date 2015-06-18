@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Multitetris
+Comment=Multitouch Tetris game
+Icon=multitet
+TryExec=/usr/bin/multitet
+Exec=multitet
+Categories=Game;
+X-AppInstall-Package=multitetris-svn
+X-AppInstall-Section=aur
+X-Arch-Package=multitetris-svn 6432-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=multitetris-svn
+X-Arch-Package-Version=6432-2
+X-Arch-Package-Description=Multitouch Tetris style game.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://multitetris.com/
+X-Arch-Package-Votes=0

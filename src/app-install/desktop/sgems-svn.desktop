@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=SGeMS
+GenericName=sgems
+Comment=Geostatistical Analysis
+Icon=sgems-svn.png
+TryExec=/usr/bin/sgems
+Exec=sgems
+Categories=Science;Math;
+X-AppInstall-Package=sgems-svn
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=sgems-svn 117-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sgems-svn
+X-Arch-Package-Version=117-2
+X-Arch-Package-Description=Stanford Geostatistical Modeling Software (svn version)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sgems.sourceforge.net/
+X-Arch-Package-Votes=1

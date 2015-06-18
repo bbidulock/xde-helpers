@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Gnome menu editor
+Comment=Simple Gnome menu editor, written on QT
+Icon=alacarte
+TryExec=/usr/bin/gnome-menu-editor-qt
+Exec=gnome-menu-editor-qt
+Categories=Settings;Utility;DesktopSettings;GNOME;
+MimeType=application/x-desktop;
+X-AppInstall-Package=gnome-menu-editor-qt
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=gnome-menu-editor-qt r8.7e7a536-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gnome-menu-editor-qt
+X-Arch-Package-Version=r8.7e7a536-1
+X-Arch-Package-Description=Simple alacarte replacement, written on qt. Gnome menu editor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://lxlz.tk
+X-Arch-Package-Votes=1

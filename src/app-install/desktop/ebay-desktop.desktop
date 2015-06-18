@@ -1,0 +1,18 @@
+[Desktop Entry]
+Version=1.0.6
+Type=Application
+Name=eBay Desktop
+GenericName=eBay GUI
+Comment=An eBay GUI that's powered by Adobe AIR
+Icon=ebay-desktop.png
+TryExec=/usr/bin/ebay-desktop
+Exec=ebay-desktop
+Categories=Network;GTK;
+X-AppInstall-Package=ebay-desktop
+X-AppInstall-Section=aur
+X-Arch-Package=ebay-desktop 1_0_6_361-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ebay-desktop
+X-Arch-Package-Version=1_0_6_361-1
+X-Arch-Package-Description=An eBay GUI that's powered by Adobe AIR
+X-Arch-Package-URL=http://desktop.ebay.com/

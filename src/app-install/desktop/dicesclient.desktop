@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Dices RPG Client
+Name[fr]=Dices JdR : Client
+GenericName=Roleplaying Game
+GenericName[fr]=Jeu de rôle
+Comment=An online role game playing software.
+Comment[fr]=Un système pour jouer aux jeux de rôle en ligne
+Icon=DicesClient.png
+TryExec=/usr/bin/dicesclient
+Exec=dicesclient
+Categories=Game;StrategyGame;
+X-AppInstall-Package=dices
+X-AppInstall-Section=aur
+X-Arch-Package=dices 0.7-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dices
+X-Arch-Package-Version=0.7-1
+X-Arch-Package-Description=Dices is an online role game playing software.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.fredbayle.com/index.php?pg=dices-en-home
+X-Arch-Package-Votes=0

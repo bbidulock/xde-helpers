@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=AsymptoticBootloader [AVR uC]
+GenericName=bootloader for AVR microcontrollers
+TryExec=/usr/bin/asymptoticbootloader/AsymptoticBootloader
+Exec=/usr/bin/asymptoticbootloader/AsymptoticBootloader
+Categories=Development;
+X-AppInstall-Package=asymptoticbootloader
+X-AppInstall-Section=aur
+X-Arch-Package=asymptoticbootloader 1.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=asymptoticbootloader
+X-Arch-Package-Version=1.1-2
+X-Arch-Package-Description=bootloader for AVR microcontrollers
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://damiankmiecik.tk/bootloader/
+X-Arch-Package-Votes=0

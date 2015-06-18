@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Arnold
+GenericName=Amstrad CPC emulator
+Icon=/usr/share/pixmaps/arnold.png
+TryExec=/usr/bin/arnold
+Exec=arnold
+NoDisplay=true
+Categories=System;Emulator;
+X-AppInstall-Package=arnold-pulseaudio
+X-AppInstall-Section=aur
+X-Arch-Package=arnold-pulseaudio 2009.03.17-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=arnold-pulseaudio
+X-Arch-Package-Version=2009.03.17-1
+X-Arch-Package-Description=An Amstrad CPC emulator using SDL with a Gtk+ interface
+X-Arch-Package-URL=http://arnold.berlios.de
+Aliases=arnold;

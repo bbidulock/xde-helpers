@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Pazaak Cantina
+Comment=A standalone Pazaak game with multiplayer mode
+Icon=pazaak-cantina
+TryExec=/usr/bin/pazaak-cantina
+Exec=pazaak-cantina
+Categories=Game;
+X-AppInstall-Package=pazaak-cantina
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=pazaak-cantina 2.1.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pazaak-cantina
+X-Arch-Package-Version=2.1.6-1
+X-Arch-Package-Description=A standalone Pazaak game with multiplayer mode.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.pazaak.org/
+X-Arch-Package-Votes=1

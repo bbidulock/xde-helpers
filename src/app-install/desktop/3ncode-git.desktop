@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=3ncode
+GenericName=3ncode
+Comment=Graphical video and audio converter for ffmpeg
+Icon=3ncode.png
+TryExec=/usr/bin/3ncode
+Exec=3ncode
+NoDisplay=true
+Categories=AudioVideo;Video;QT;
+X-AppInstall-Package=-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=3ncode-git r31.971569a-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=-git
+X-Arch-Package-Version=r31.971569a-1
+X-Arch-Package-Description=Graphical video and audio converter for ffmpeg
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/llelectronics/3ncode
+X-Arch-Package-Votes=1
+Aliases=3ncode;

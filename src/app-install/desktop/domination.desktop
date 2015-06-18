@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Domination
+Comment=A Java version of the classic Risk board game.
+Icon=domination.png
+TryExec=/usr/bin/domination
+Exec=domination
+X-MultipleArgs=false
+Categories=Application;Game;StrategyGame;
+X-AppInstall-Package=domination
+X-AppInstall-Popcon=38
+X-AppInstall-Section=aur
+X-Arch-Package=domination 1.1.1.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=domination
+X-Arch-Package-Version=1.1.1.5-1
+X-Arch-Package-Description=A Java version of the classic Risk board game.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://domination.sourceforge.net/
+X-Arch-Package-Votes=38

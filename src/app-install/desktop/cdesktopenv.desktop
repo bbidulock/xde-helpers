@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=CDE
+Comment=Use this session to boot into the Common Desktop Environment
+TryExec=/usr/bin/startxsession.sh
+Exec=/usr/bin/startxsession.sh
+NoDisplay=true
+X-AppInstall-Package=cdesktopenv
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package=cdesktopenv 2.2.2-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cdesktopenv
+X-Arch-Package-Version=2.2.2-3
+X-Arch-Package-Description=CDE - Common Desktop Environment
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/cdesktopenv/
+X-Arch-Package-Votes=11
+Aliases=cde;

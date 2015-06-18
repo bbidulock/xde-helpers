@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Hydra Slayer
+Comment=A game featuring hydras and mathematics
+Icon=hydraslayer
+TryExec=/usr/bin/hydraslayer
+Exec=hydraslayer
+Categories=AudioVideo;Game;
+StartupNotify=true
+X-AppInstall-Package=hydraslayer
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=hydraslayer 16.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=hydraslayer
+X-Arch-Package-Version=16.1-1
+X-Arch-Package-Description=Hydra Slayer is a Roguelike inspired by Greek mythology and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.roguetemple.com/z/hydra.php
+X-Arch-Package-Votes=10

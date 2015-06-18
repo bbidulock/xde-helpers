@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Syndie - Secure Distributed Forums
+Comment=Distributed forum/blog reader
+Icon=syndie
+TryExec=/usr/bin/syndie
+Exec=syndie
+Categories=Network;
+StartupNotify=true;
+X-AppInstall-Package=syndie
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=syndie 1.105b-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=syndie
+X-Arch-Package-Version=1.105b-1
+X-Arch-Package-Description=Java based open source system for operating secure distributed
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://syndie.i2p2.de
+X-Arch-Package-Votes=4

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Brad's Spin Tool
+Comment=The multi-platform Propeller Tool Suite
+Icon=bst.png
+TryExec=/opt/bst/bst
+Exec=/opt/bst/bst
+Categories=Development;
+X-AppInstall-Package=bst
+X-AppInstall-Section=aur
+X-Arch-Package=bst 0.19.3-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bst
+X-Arch-Package-Version=0.19.3-2
+X-Arch-Package-Description=The multi-platform Propeller Tool Suite
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.fnarfbargle.com/bst.html
+X-Arch-Package-Votes=0

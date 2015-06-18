@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=LinPSK
+Comment=PSK31 for Linux
+Icon=linpsk.png
+TryExec=/usr/bin/linpsk
+Exec=linpsk
+X-DCOP-ServiceType=none
+Categories=Application;HamRadio;
+MimeType=text;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=linpsk
+X-AppInstall-Section=aur
+X-Arch-Package=linpsk 1.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=linpsk
+X-Arch-Package-Version=1.2-1
+X-Arch-Package-Description=PSK31 for Linux
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/linpsk/
+X-Arch-Package-Votes=0

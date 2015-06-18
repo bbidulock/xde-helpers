@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=GambitChess
+GenericName=Chess Game
+Icon=/usr/share/pixmaps/gambitchess.svg
+TryExec=/usr/bin/gambitchess
+Exec=gambitchess
+Categories=Game;BoardGame;
+X-AppInstall-Package=gambitchess
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=gambitchess 1.0.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gambitchess
+X-Arch-Package-Version=1.0.3-1
+X-Arch-Package-Description=A cross-platform chess game.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gambitchess.sourceforge.net/
+X-Arch-Package-Votes=1

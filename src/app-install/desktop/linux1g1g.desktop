@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=1g1g
+Name[zh]=亦歌
+Comment=Online music player
+Comment[zh_CN]=在线音乐播放器
+Comment[zh_HK]=在線音樂播放器
+Comment[zh_TW]=在線音樂播放器
+Icon=1g1g
+TryExec=/usr/bin/linux1g1g
+Exec=linux1g1g
+NoDisplay=true
+Categories=AudioVideo;
+X-AppInstall-Package=linux1g1g
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=linux1g1g 0.9-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=linux1g1g
+X-Arch-Package-Version=0.9-2
+X-Arch-Package-Description=Online music player
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.1g1g.org/
+X-Arch-Package-Votes=5
+Aliases=1g1g;

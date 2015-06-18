@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Krystal Drop
+Comment=A free clone of the excellent NeoGeo's Magical Drop puzzle game
+Icon=krystaldrop
+TryExec=/usr/bin/kdrop
+Exec=kdrop
+Categories=Game;LogicGame;
+X-AppInstall-Package=krystaldrop
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=krystaldrop 0.7.2-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=krystaldrop
+X-Arch-Package-Version=0.7.2-3
+X-Arch-Package-Description=A free clone of the excellent NeoGeo's Magical Drop puzzle
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://krystaldrop.sourceforge.net/
+X-Arch-Package-Votes=2

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=2.2
+Type=Application
+Name=KToolbar
+Comment=Sun Wireless Toolkit KToolbar
+Icon=ktoolbar.png
+TryExec=/opt/wtk/bin/ktoolbar
+Exec=/opt/wtk/bin/ktoolbar
+Categories=Application;Development;
+X-AppInstall-Package=sun-wtk
+X-AppInstall-Popcon=21
+X-AppInstall-Section=aur
+X-Arch-Package=sun-wtk 2.5.2_01-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sun-wtk
+X-Arch-Package-Version=2.5.2_01-1
+X-Arch-Package-Description=A Sun's tool kit for developing 'applications that are based
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.oracle.com/technetwork/java/index-jsp-137162.html
+X-Arch-Package-Votes=21

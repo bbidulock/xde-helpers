@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Libgdx Project Setup
+GenericName=Libgdx Project Setup
+Icon=gdx-setup
+TryExec=/usr/bin/gdx-setup
+Exec=gdx-setup %U
+Categories=Development;
+X-AppInstall-Package=gdx-setup
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=gdx-setup 20150615-11
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gdx-setup
+X-Arch-Package-Version=-11
+X-Arch-Package-Description=Libgdx project setup
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://libgdx.badlogicgames.com
+X-Arch-Package-Votes=1

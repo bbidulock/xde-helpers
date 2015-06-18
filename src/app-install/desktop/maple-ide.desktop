@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=maple-ide
+GenericName=Maple IDE
+Comment=Maple Programming IDE
+Icon=/usr/share/pixmaps/maple-ide.png
+TryExec=/usr/bin/maple-ide
+Exec=/usr/bin/maple-ide %F
+Categories=Development;IDE;
+X-AppInstall-Package=maple-ide
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=maple-ide 0.0.12-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=maple-ide
+X-Arch-Package-Version=0.0.12-3
+X-Arch-Package-Description=LeafLabs Maple IDE for Maple boards
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://leaflabs.com/docs/ide.html
+X-Arch-Package-Votes=1

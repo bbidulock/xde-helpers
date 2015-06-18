@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Alloy Modelling IDE
+GenericName=Modelling tool
+Comment=A lightweight modelling language for software design from SDG group at MIT.
+Icon=alloy
+TryExec=/usr/bin/alloy
+Exec=/usr/bin/alloy
+Categories=Development;Education;IDE;
+StartupNotify=true
+X-AppInstall-Package=alloy
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=alloy 4.2.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=alloy
+X-Arch-Package-Version=4.2.5-1
+X-Arch-Package-Description=A lightweight modelling language for software design.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://alloy.mit.edu/alloy/
+X-Arch-Package-Votes=10

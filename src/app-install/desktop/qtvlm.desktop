@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=qtVlm
+Icon=/usr/share/pixmaps/qtvlm.png
+TryExec=/usr/bin/qtvlm
+Exec=/usr/bin/qtvlm
+Categories=Science;
+X-AppInstall-Package=qtvlm-svn
+X-AppInstall-Section=aur
+X-Arch-Package=qtvlm-svn 2293-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qtvlm-svn
+X-Arch-Package-Version=2293-1
+X-Arch-Package-Description=QtVlm is a routing software for virtual and real sailing
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://wiki.virtual-loup-de-mer.org/index.php/QtVlm/en
+X-Arch-Package-Votes=0

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Kolor Panotour
+Comment=Create quality virtual tours
+Icon=/usr/share/pixmaps/panotour.png
+TryExec=/usr/bin/panotour
+Exec=panotour
+Categories=Application;Graphics;
+StartupNotify=true
+X-AppInstall-Package=panotour
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=panotour 2.3.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=panotour
+X-Arch-Package-Version=2.3.2-1
+X-Arch-Package-Description=Create quality virtual tours (trial version).
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kolor.com/
+X-Arch-Package-Votes=1

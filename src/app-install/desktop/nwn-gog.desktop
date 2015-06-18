@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Neverwinter Nights Diamond
+GenericName=Neverwinter Nights
+Comment=Play Neverwinter Nights Diamond
+Icon=nwn
+TryExec=/usr/bin/nwn
+Exec=/usr/bin/nwn
+NoDisplay=true
+Categories=Application;Game;KDE;GNOME;Qt;
+StartupNotify=true
+X-AppInstall-Package=nwn-gog
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=nwn-gog 2.0.0.15-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nwn-gog
+X-Arch-Package-Version=2.0.0.15-4
+X-Arch-Package-Description=Neverwinter Nights is an RPG from Bioware. This requires the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://nwn.bioware.com/
+X-Arch-Package-Votes=5
+Aliases=nwn;

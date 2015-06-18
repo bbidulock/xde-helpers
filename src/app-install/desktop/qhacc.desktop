@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=QHacc
+Comment=Simple home accounting software.
+TryExec=/usr/bin/qhacc
+Exec=qhacc
+Categories=Office;Finance;Qt;
+StartupNotify=true
+X-AppInstall-Package=qhacc
+X-AppInstall-Section=aur
+X-Arch-Package=qhacc 3.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qhacc
+X-Arch-Package-Version=3.5-1
+X-Arch-Package-Description=Simple home accounting application.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://qhacc.sourceforge.net/
+X-Arch-Package-Votes=0

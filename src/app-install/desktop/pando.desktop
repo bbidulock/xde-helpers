@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Pando Downloader
+GenericName=Pando Downloader
+Comment=Pando Downloader
+Icon=/usr/share/pixmaps/pando_icon48.png
+TryExec=/usr/bin/pandodl
+Exec=/usr/bin/pandodl
+Categories=Application;Network;
+StartupNotify=true
+X-AppInstall-Package=pando
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=pando 0.9.2.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pando
+X-Arch-Package-Version=0.9.2.0-2
+X-Arch-Package-Description=Free personal P2P software that makes sending, receiving and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.pando.com/phpbb/viewtopic.php?t=4046
+X-Arch-Package-Votes=8

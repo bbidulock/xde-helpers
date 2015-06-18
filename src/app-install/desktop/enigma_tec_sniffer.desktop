@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Enigma_Tec Sniffer
+GenericName=Enigma_Tec Sniffer
+Comment=Enigma Simulation
+Icon=/usr/share/pixmaps/enigma_tec_logo.png
+TryExec=/usr/bin/enigma_tec_sniffer
+Exec=enigma_tec_sniffer
+Categories=Application;Utility;
+X-AppInstall-Package=enigma_tec
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=enigma_tec 1.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=enigma_tec
+X-Arch-Package-Version=1.5-1
+X-Arch-Package-Description=Enigma is a simple, Java based application designed to help
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/enigma-sim/
+X-Arch-Package-Votes=3

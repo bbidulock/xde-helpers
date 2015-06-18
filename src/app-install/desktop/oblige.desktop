@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Oblige
+GenericName=Random level generator for various classic FPS games
+Icon=oblige
+TryExec=/usr/bin/Oblige
+Exec=Oblige
+Categories=Game;ActionGame;
+X-AppInstall-Package=oblige
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=oblige 6.20-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=oblige
+X-Arch-Package-Version=6.20-1
+X-Arch-Package-Description=A random level maker for games based on the Doom engine
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://oblige.sourceforge.net/
+X-Arch-Package-Votes=2

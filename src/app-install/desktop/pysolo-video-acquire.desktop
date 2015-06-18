@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=pySolo-Video-Acquire
+X-GNOME-FullName=pySolo Video Acquire
+Comment=GUI to pySolo Video Extension Acquire
+Icon=/opt/pysolo-video/pysolo-video.svg
+TryExec=/opt/pysolo-video/pvg_acquire.py
+Exec=/opt/pysolo-video/pvg_acquire.py
+Categories=Education;Science;Biology;
+X-AppInstall-Package=pysolo-video
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=pysolo-video 1.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pysolo-video
+X-Arch-Package-Version=1.1-1
+X-Arch-Package-Description=Video extension to pySolo - Tracking motion in Drosophila and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.pysolo.net
+X-Arch-Package-Votes=1

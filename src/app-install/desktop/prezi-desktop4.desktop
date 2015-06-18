@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Prezi Desktop
+Comment=An application for creating canvas presentations
+Icon=/opt/airapps/prezi-desktop/assets/icon/app/icon_48x48.png
+TryExec=/usr/bin/prezi-desktop
+Exec=/usr/bin/prezi-desktop
+NoDisplay=true
+Categories=Office;
+Path=/opt/airapps/prezi-desktop
+StartupNotify=true
+X-AppInstall-Package=prezi-desktop4
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=prezi-desktop4 4.6-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=prezi-desktop4
+X-Arch-Package-Version=4.6-2
+X-Arch-Package-Description=Prezi Desktop is a presentation software giving you all the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://prezi.com/desktop/
+X-Arch-Package-Votes=5
+Aliases=prezi-desktop;

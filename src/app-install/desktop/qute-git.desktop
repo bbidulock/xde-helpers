@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Qute
+Comment=A text editor with Markdown and TeX support
+Icon=qute
+TryExec=/usr/bin/qute
+Exec=qute
+NoDisplay=true
+Categories=Utility;TextEditor;
+X-AppInstall-Package=qute-git
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=qute-git 20121230-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qute-git
+X-Arch-Package-Version=20121230-1
+X-Arch-Package-Description=A text editor with Markdown and TeX support
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.inkcode.net/qute
+X-Arch-Package-Votes=5
+Aliases=qute;

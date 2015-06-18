@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Avalonrssnotify
+GenericName=Avalon
+Comment=RSS notification applet
+Icon=/usr/share/pixmaps/icon.svg
+TryExec=/usr/bin/avalonrssnotify
+Exec=/usr/bin/avalonrssnotify
+Categories=Network;
+X-AppInstall-Package=avalonrssnotify
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=avalonrssnotify 0.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=avalonrssnotify
+X-Arch-Package-Version=0.2-1
+X-Arch-Package-Description=A simple RSS reader that show feeds in the panel
+X-Arch-Package-Groups=network
+X-Arch-Package-URL=http://avalonrssnotify.sourceforge.net
+X-Arch-Package-Votes=4

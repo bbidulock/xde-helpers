@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-AppInstall-Package=ochi
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=ochi 0.1.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ochi
+X-Arch-Package-Version=0.1.1-2
+X-Arch-Package-Description=A webcam application and motion detector
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kde-apps.org/content/show.php/Ochi?content=165256
+X-Arch-Package-Votes=2

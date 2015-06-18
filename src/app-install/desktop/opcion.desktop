@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Opcion Font Viewer
+Comment=Font viewer
+Icon=opcion
+TryExec=/usr/bin/opcion
+Exec=opcion
+Categories=Utility;
+X-AppInstall-Package=opcion
+X-AppInstall-Popcon=30
+X-AppInstall-Section=aur
+X-Arch-Package=opcion 1.1.1-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=opcion
+X-Arch-Package-Version=1.1.1-5
+X-Arch-Package-Description=A java font viewer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://opcion.sourceforge.net/
+X-Arch-Package-Votes=30

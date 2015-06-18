@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Thunderbird (Mercurial version)
+GenericName=Mail Client & News Reader (Mercurial version)
+Comment=Read Mail & News (Mercurial version)
+Icon=thunderbird-hg
+TryExec=/usr/bin/thunderbird-hg
+Exec=thunderbird-hg %u
+Categories=Network;Email;
+MimeType=message/rfc822;x-scheme-handler/mailto;
+StartupNotify=true
+X-AppInstall-Package=thunderbird-hg
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=thunderbird-hg 38.0a1.r17352.54c81982f309-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=thunderbird-hg
+X-Arch-Package-Version=38.0a1.r17352.54c81982f309-1
+X-Arch-Package-Description=Standalone Mail/News reader - Mercurial version with optional
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://www.mozilla.org/thunderbird
+X-Arch-Package-Votes=2

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=NetRadiant
+Comment=A Stabilized Q3 Map Editor
+TryExec=/usr/bin/netradiant
+Exec=netradiant
+Categories=Development;Game;
+X-AppInstall-Package=netradiant-git
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=netradiant-git r1351.e995cc8-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=netradiant-git
+X-Arch-Package-Version=r1351.e995cc8-1
+X-Arch-Package-Description=A Stabilized Q3 Map Editor - git version
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://dev.xonotic.org/projects/xonotic/wiki/Netradiant
+X-Arch-Package-Votes=8

@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=WindowMaker
+Comment=A simple window manager that resembles the NeXTStep look very closely
+TryExec=/usr/bin/windowmaker
+Exec=windowmaker
+StartupNotify=false
+X-AppInstall-Package=windowmaker
+X-AppInstall-Section=extra
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=windowmaker
+X-Arch-Package-Version=0.95.6-1
+X-Arch-Package-Description=An X11 window manager with a NEXTSTEP look and feel
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.windowmaker.org/
+X-SuSE-translate=true

@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=TOU
+Comment=Fast paced action side-view game
+Icon=/usr/share/pixmaps/tou.png
+TryExec=/usr/bin/tou
+Exec=/usr/bin/tou
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=tou
+X-AppInstall-Section=aur
+X-Arch-Package=tou 1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tou
+X-Arch-Package-Version=1.0-1
+X-Arch-Package-Description=Tunnels Of the Underground (TOU) is a fast paced action side-view game with a good amount of weapons and space ships to choose from.
+X-Arch-Package-URL=http://tou.has.it/

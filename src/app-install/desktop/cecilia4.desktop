@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Cecilia 4
+GenericName=Cecilia 4
+Comment=Csound5 signal processing environment
+Icon=cecilia4
+TryExec=/usr/bin/cecilia4
+Exec=cecilia4
+Categories=Application;AudioVideo;Audio;
+X-AppInstall-Package=cecilia4
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=cecilia4 4.2_beta-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cecilia4
+X-Arch-Package-Version=4.2_beta-2
+X-Arch-Package-Description=An audio signal processing environment using Csound as its
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/cecilia4/
+X-Arch-Package-Votes=1

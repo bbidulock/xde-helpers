@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=DccNiTghtmare
+Comment=DccNiTghtmare (aka DNT) is a project to make a Free (as in free speech) 3D single player RPG in a satirical post-apocalyptical world.
+TryExec=/usr/bin/dccnitghtmare
+Exec=/usr/bin/dccnitghtmare
+Categories=Game;
+X-AppInstall-Package=dccnitghtmare
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=dccnitghtmare 0.10-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dccnitghtmare
+X-Arch-Package-Version=0.10-1
+X-Arch-Package-Description=A free sarcastic 3D single player RPG set in a
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://dnt.dnteam.org/
+X-Arch-Package-Votes=8

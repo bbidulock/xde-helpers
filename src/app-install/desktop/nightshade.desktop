@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Nightshade
+GenericName=Astronomy Simulator
+Icon=/usr/share/pixmaps/nightshade.bmp
+TryExec=/usr/bin/nightshade
+Exec=nightshade
+Categories=AudioVideo;
+X-AppInstall-Package=nightshade
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=nightshade 11.7.1-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nightshade
+X-Arch-Package-Version=11.7.1-3
+X-Arch-Package-Description=Astronomy Simulator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://nightshadesoftware.org/
+X-Arch-Package-Votes=4

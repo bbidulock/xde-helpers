@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=0.9.3
+Type=Application
+Name=Songbird
+Comment=A media player based on Mozilla
+Icon=Songbird.xpm
+TryExec=/usr/bin/songbird
+Exec=/usr/bin/songbird
+NoDisplay=true
+Categories=Application;AudioVideo;Player;
+X-AppInstall-Package=bin32-songbird-nightly
+X-AppInstall-Section=aur
+X-Arch-Package=bin32-songbird-nightly 2011.07.20-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bin32-songbird-nightly
+X-Arch-Package-Version=2011.07.20-1
+X-Arch-Package-Description=Bleeding-edge nightly Songbird build. Automatically grabs latest build. Good until Nightingale is ready.
+X-Arch-Package-URL=http://www.songbirdnest.com/
+Aliases=Songbird;

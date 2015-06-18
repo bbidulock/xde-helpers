@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=PhareRouge GL
+GenericName=Hotline Client
+Comment=Java-based Hotline client
+Icon=pharerouge-gl
+TryExec=/usr/bin/pharerouge-gl
+Exec=pharerouge-gl
+Categories=Network;FileTransfer;
+X-AppInstall-Package=pharerouge-gl
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=pharerouge-gl 20111209-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pharerouge-gl
+X-Arch-Package-Version=20111209-1
+X-Arch-Package-Description=GLoarbLine derivative of the PhareRouge Hotline client
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.lorbac.net
+X-Arch-Package-Votes=1

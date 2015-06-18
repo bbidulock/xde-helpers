@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Eternal Lands
+Comment=3D MMORPG
+Icon=eternallands.png
+TryExec=/usr/bin/el
+Exec=el
+NoDisplay=true
+Categories=Application;Game;
+StartupNotify=false
+X-AppInstall-Package=eternallands-git
+X-AppInstall-Section=aur
+X-Arch-Package=eternallands-git r5722.3012402-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=eternallands-git
+X-Arch-Package-Version=r5722.3012402-1
+X-Arch-Package-Description=Eternal Lands is a FREE 3D fantasy MMORPG (Game core built
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.eternal-lands.com/
+X-Arch-Package-Votes=0
+Aliases=eternallands;

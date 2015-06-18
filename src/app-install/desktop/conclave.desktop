@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=0.9.0
+Type=Application
+Name=Conclave
+Comment=A tabletop-inspired RPG you can play solo or co-op, at any pace.
+Icon=conclave
+TryExec=/opt/conclave/conclave
+Exec=/opt/conclave/conclave
+Categories=Game;
+X-AppInstall-Package=conclave
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=conclave 1.0.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=conclave
+X-Arch-Package-Version=1.0.0-1
+X-Arch-Package-Description=A tabletop-inspired RPG you can play solo or co-op, at any
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://www.playconclave.com/
+X-Arch-Package-Votes=2
+md5sums=()

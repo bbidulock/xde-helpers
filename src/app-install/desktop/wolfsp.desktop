@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Return To Castle Wolfenstein SP
+Comment=Return To Castle Wolfenstein (Single Player)
+Icon=/usr/share/pixmaps/wolfsp.jpg
+TryExec=/usr/bin/wolfsp
+Exec=/usr/bin/wolfsp
+Categories=Game;
+X-AppInstall-Package=wolfsp-git
+X-AppInstall-Section=aur
+X-Arch-Package=wolfsp-git 69.046504e-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wolfsp-git
+X-Arch-Package-Version=69.046504e-1
+X-Arch-Package-Description=Return to Castle Wolfenstein Single Player (Justin Crawford
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/Justasic/RTCW-SP
+X-Arch-Package-Votes=0

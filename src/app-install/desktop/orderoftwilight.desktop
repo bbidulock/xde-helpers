@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Order of Twilight
+GenericName=Arcade Game
+Comment=a game where you use your arrow keys to cast a number of different spells
+Icon=gnome-mime-application-x-love-game
+TryExec=/usr/bin/orderoftwilight
+Exec=orderoftwilight
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=orderoftwilight
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=orderoftwilight 1-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=orderoftwilight
+X-Arch-Package-Version=1-3
+X-Arch-Package-Description=a game where you use your arrow keys to cast a number of
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://blog.stabyourself.net/post/33229884169/new-game-order-of-twilight
+X-Arch-Package-Votes=3

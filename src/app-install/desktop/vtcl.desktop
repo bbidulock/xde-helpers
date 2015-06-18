@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=visualtcl
+Icon=emblem-new
+TryExec=/usr/bin/vtcl
+Exec=/usr/bin/vtcl
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=visualtcl
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=visualtcl 1.6.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=visualtcl
+X-Arch-Package-Version=1.6.1-1
+X-Arch-Package-Description=Visual Tcl is a high-quality application development
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://vtcl.sourceforge.net/
+X-Arch-Package-Votes=4

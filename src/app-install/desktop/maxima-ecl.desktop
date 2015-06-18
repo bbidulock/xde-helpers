@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=XMaxima
+GenericName=A computer algebra system
+GenericName[de]=Computeralgebra System
+GenericName[it]=algebra a livello avanzato
+Comment=A sophisticated computer algebra system
+Icon=maxima
+TryExec=/usr/bin/xmaxima
+Exec=xmaxima
+Terminal=true
+NoDisplay=true
+Categories=Science;Math;
+X-AppInstall-Package=maxima-ecl
+X-AppInstall-Section=community
+X-Arch-Package=maxima-ecl 5.35.1-1
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=maxima-ecl
+X-Arch-Package-Version=5.36.1-2
+X-Arch-Package-Description=A sophisticated computer algebra system (compiled against ecl)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://maxima.sourceforge.net
+Aliases=maxima;

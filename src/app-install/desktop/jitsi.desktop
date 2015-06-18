@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Jitsi
+GenericName=jitsi
+Comment=VoIP and Instant Messaging client
+Icon=/usr/share/pixmaps/jitsi.svg
+TryExec=/usr/bin/jitsi
+Exec=/usr/bin/jitsi
+Categories=Network;
+X-AppInstall-Package=jitsi
+X-AppInstall-Popcon=284
+X-AppInstall-Section=aur
+X-Arch-Package=jitsi 2.8.5426-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jitsi
+X-Arch-Package-Version=2.8.5426-1
+X-Arch-Package-Description=An audio/video SIP VoIP phone and instant messenger written in
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://jitsi.org
+X-Arch-Package-Votes=284

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Heebo
+Comment=Swap the blocks by flicking over them. You can only swap blocks when either one of them will line up with three or more in a line.
+Icon=/usr/share/icons/heebo.png
+TryExec=/usr/bin/heebo
+Exec=heebo
+Categories=Game;
+X-AppInstall-Package=heebo-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=heebo-git 8c21e7e-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=heebo-git
+X-Arch-Package-Version=8c21e7e-3
+X-Arch-Package-Description=Heebo is an adaptation of the classic Match-3 genre puzzle
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://saz.im/software/heebo.html
+X-Arch-Package-Votes=1

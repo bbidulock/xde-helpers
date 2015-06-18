@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Heimdall
+GenericName=Firmware Flasher
+Comment=Samsung Galaxy Firmware Flasher
+Icon=heimdall
+TryExec=/usr/bin/heimdall-frontend
+Exec=heimdall-frontend
+Categories=System;
+X-AppInstall-Package=heimdall
+X-AppInstall-Popcon=280
+X-AppInstall-Section=aur
+X-Arch-Package=heimdall 1.4.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=heimdall
+X-Arch-Package-Version=1.4.1-1
+X-Arch-Package-Description=Heimdall is a cross-platform open-source utility to flash
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.glassechidna.com.au/products/heimdall/
+X-Arch-Package-Votes=280

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Skype (OSSv4)
+Comment=Skype Internet Telephony
+Icon=skype.png
+TryExec=/usr/bin/skype_oss
+Exec=skype_oss %U
+Categories=Application;Network;
+MimeType=x-scheme-handler/skype;
+X-KDE-Protocols=skype;
+X-AppInstall-Package=skype_oss_wrapper-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=skype_oss_wrapper-git r16.ad9f1d8-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=skype_oss_wrapper-git
+X-Arch-Package-Version=r16.ad9f1d8-2
+X-Arch-Package-Description=A fake libpulse.so library that mimics pulseaudio behavior for
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/waterlaz/skype_oss_wrapper
+X-Arch-Package-Votes=1

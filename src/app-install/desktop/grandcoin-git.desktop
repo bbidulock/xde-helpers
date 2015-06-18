@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Grandcoin
+GenericName=P2P network based digital currency
+Comment=P2P network based digital currency
+Icon=/usr/share/pixmaps/grandcoin.png
+TryExec=/usr/bin/grandcoin-qt
+Exec=grandcoin-qt
+NoDisplay=true
+Categories=Finance;P2P;Internet;
+StartupNotify=true
+X-AppInstall-Package=grandcoin-git
+X-AppInstall-Section=aur
+X-Arch-Package=grandcoin-git 0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=grandcoin-git
+X-Arch-Package-Version=0.1-1
+X-Arch-Package-Description=grandcoin is a CPU only peer-to-peer network based digital
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.grandcoin.org/
+X-Arch-Package-Votes=0
+Aliases=grandcoin;

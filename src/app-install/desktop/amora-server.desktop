@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=Amora server
+Comment=Amora: A mobile remote assistant - server
+Comment[sr@Latn]=Amora: Pomoćnik za daljinsko upravljanje mobilnim telefonom - server
+Comment[sr]=Амора: Помоћник за даљинско управљање мобилним телефоном - сервер
+Icon=amora
+TryExec=/usr/bin/amorad
+Exec=amorad
+Terminal=true
+TerminalOptions=\s--noclose
+NoDisplay=true
+Categories=Application;Utility;KDE;
+X-AppInstall-Package=amora-server
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=amora-server 1.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=amora-server
+X-Arch-Package-Version=1.1-1
+X-Arch-Package-Description=Amora: A mobile remote assistant - server
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/amora/
+X-Arch-Package-Votes=4
+Aliases=amora;

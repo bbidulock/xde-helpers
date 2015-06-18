@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=uTorrent
+GenericName=bittorrent client
+Icon=utorrent.png
+TryExec=/usr/bin/utorrent
+Exec=utorrent
+Categories=Network;Utility;
+MimeType=application/x-bittorrent;
+X-AppInstall-Package=utorrent-webui
+X-AppInstall-Section=aur
+X-Arch-Package=utorrent-webui 0.310-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=utorrent-webui
+X-Arch-Package-Version=0.310-2
+X-Arch-Package-Description=A fast and feature rich bittorrent client with WebUI.
+X-Arch-Package-URL=http://www.utorrent.com/

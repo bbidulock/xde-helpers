@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Lexter
+Comment=A Tetris-like word puzzle game for text terminals
+Icon=lexter
+TryExec=/usr/bin/lexter
+Exec=lexter
+Terminal=true
+Categories=Game;BlocksGame;ConsoleOnly;
+X-AppInstall-Package=lexter
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=lexter 1.0.3-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lexter
+X-Arch-Package-Version=1.0.3-3
+X-Arch-Package-Description=A Tetris-like word puzzle game for text terminals
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.kyne.com.au/~mark/software/lexter.php
+X-Arch-Package-Votes=2

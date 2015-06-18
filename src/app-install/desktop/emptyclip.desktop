@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Empty Clip
+Comment=Top-down 2D Action RPG
+Icon=emptyclip
+TryExec=/usr/bin/emptyclip
+Exec=emptyclip
+Categories=Game;ActionGame;RolePlaying;
+X-AppInstall-Package=emptyclip
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=emptyclip 1.0.3-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=emptyclip
+X-Arch-Package-Version=1.0.3-3
+X-Arch-Package-Description=A top-down 2D Action RPG
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://emptyclip.sourceforge.net/
+X-Arch-Package-Votes=5

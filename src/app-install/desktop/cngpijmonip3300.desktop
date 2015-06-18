@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Canon IP3300 status monitor
+Name[fr]=Etat imprimante Canon IP3300
+Comment=Display Canon IP3300 status monitor
+Comment[fr]=Afficher l'état de l'imprimante Canon IP3300
+Icon=printer
+TryExec=/usr/bin/cngpijmonip3300
+Exec=cngpijmonip3300
+Categories=System;GTK;
+StartupNotify=true
+X-AppInstall-Package=cnijfilter-ip3300
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=cnijfilter-ip3300 2.70-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cnijfilter-ip3300
+X-Arch-Package-Version=2.70-1
+X-Arch-Package-Description=Canon IJ Printer Driver for Pixma IP3300 multifunction
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://support-au.canon.com.au/contents/AU/EN/0900718516.html
+X-Arch-Package-Votes=1

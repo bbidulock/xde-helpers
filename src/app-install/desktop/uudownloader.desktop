@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=UU All-in-One Tool
+Name[de_AT]=UU All-in-One Werkzeug
+GenericName=UU All-in-One Tool
+Comment=GUI application for downloading uupgrades, configuring PAM and Cloudprint
+Comment[de]=Programm welches die aktuelle Version von uupgrades installiert, PAM und Google Cloudprint konfiguriert
+Icon=/usr/share/icons/logo5.png
+TryExec=/usr/bin/gksudo
+Exec=gksudo uudownloader
+NoDisplay=true
+Categories=System;Utility;Security;
+StartupNotify=false
+X-AppInstall-Package=uudownloader
+X-AppInstall-Section=aur
+X-Arch-Package=uudownloader 1.5-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=uudownloader
+X-Arch-Package-Version=1.5-2
+X-Arch-Package-Description=Downloader for uupgrades - only gets the program
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://manjaro.org
+X-Arch-Package-Votes=0
+Aliases=uudowner;

@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=ObexFTP Frontend
+GenericName=Mobile Phone File Manager
+GenericName[pt]=Gestor de Ficheiros para Telemóveis
+GenericName[pt_BR]=Gerenciador de Arquivos para Celulares
+Icon=/usr/share/pixmaps/phone.png
+TryExec=/usr/bin/java
+Exec=java -jar '/opt/obexftp-frontend/obexftp-frontend-core-0.6.6.jar'
+Categories=Utility;FileManager;
+Path=/opt/obexftp-frontend
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=obexftp-frontend
+X-AppInstall-Popcon=17
+X-AppInstall-Section=aur
+X-Arch-Package=obexftp-frontend 0.6.6-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=obexftp-frontend
+X-Arch-Package-Version=0.6.6-2
+X-Arch-Package-Description=Java frontend for ObexFTP
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/obexftpfrontend/
+X-Arch-Package-Votes=17

@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=OmegaT
+GenericName=OmegaT-beta
+Comment=Beta version of free translation memory application.
+Comment[cs]=Beta verze svobodné aplikace překladové paměti.
+Icon=omegat
+TryExec=/usr/bin/omegat
+Exec=omegat
+NoDisplay=true
+Categories=Development;Translation;Java;
+X-AppInstall-Package=omegat-beta
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=omegat-beta 3.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=omegat-beta
+X-Arch-Package-Version=3.5-1
+X-Arch-Package-Description=Beta version of a multiplatform CAT tool application, written
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.omegat.org/en/omegat.html
+X-Arch-Package-Votes=10
+Aliases=omegat;

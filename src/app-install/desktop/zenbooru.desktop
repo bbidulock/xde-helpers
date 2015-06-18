@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Zenbooru
+Comment=A client for image boards implementing the Gelbooru v0.2, Danbooru (v1 & v2) and Moebooru APIs.
+Icon=zenbooru
+TryExec=/usr/bin/zenbooru
+Exec=zenbooru
+Categories=Network;
+StartupNotify=true
+StartupWMClass=usr_share_zenbooru_index.html
+X-AppInstall-Package=zenbooru
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=zenbooru 0.4.0_1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zenbooru
+X-Arch-Package-Version=0.4.0_1-1
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://zenbooru.org
+X-Arch-Package-Votes=1

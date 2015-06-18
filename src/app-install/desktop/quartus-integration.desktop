@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Quartus II
+Comment=Quartus II design software for Altera FPGA's
+Icon=/opt/altera/quartus/adm/quartusii.png
+TryExec=/opt/altera/quartus/bin/quartus
+Exec=/opt/altera/quartus/bin/quartus
+NoDisplay=true
+Categories=Development;
+X-AppInstall-Package=quartus-integration
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=quartus-integration 1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=quartus-integration
+X-Arch-Package-Version=1-1
+X-Arch-Package-Description=Quartus II system integration files for archlinux
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.altera.com/products/software/quartus-ii/
+X-Arch-Package-Votes=2
+Aliases=quartus;

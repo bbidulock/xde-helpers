@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=No Time To Explain
+GenericName=Platform Game
+Comment=Platform game featuring time travel
+Icon=notimetoexplain
+TryExec=/usr/bin/notimetoexplain
+Exec=notimetoexplain
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=notimetoexplain
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=notimetoexplain 15-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=notimetoexplain
+X-Arch-Package-Version=15-1
+X-Arch-Package-Description=platformer game about Time Travel, Big Jetpack Guns, Giant
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://tinybuildgames.com
+X-Arch-Package-Votes=2

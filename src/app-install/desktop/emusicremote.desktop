@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=eMusic Remote
+GenericName=eMusic browser + download client
+Comment=eMusic browser + download client for Linux, based on XULRunner.
+Icon=emusicremote
+TryExec=/usr/bin/emusicremote
+Exec=emusicremote
+Categories=AudioVideo;GNOME;GTK;
+X-AppInstall-Package=emusicremote
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=emusicremote 1.0.0.3_beta1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=emusicremote
+X-Arch-Package-Version=1.0.0.3_beta1-2
+X-Arch-Package-Description=Self contained browser + download client for eMusic based on
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://emusic.mozdev.org/remote.html
+X-Arch-Package-Votes=2

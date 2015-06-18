@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Service
+Name=wolframalpha
+ServiceTypes=SearchProvider;
+X-AppInstall-Package=wolframalpha-konqueror-search
+X-AppInstall-Section=aur
+X-Arch-Package=wolframalpha-konqueror-search 0.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wolframalpha-konqueror-search
+X-Arch-Package-Version=0.1-2
+X-Arch-Package-Description=Konqueror search engine for Wolfram|Alpha.
+X-Arch-Package-URL=http://www.wolframalpha.com/
+Keys=math
+Query=http://www.wolframalpha.com/input/?i=\\{@}

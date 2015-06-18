@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=clrmamepro
+Comment=A ROM manager
+Icon=clrmamepro
+TryExec=/usr/bin/clrmamepro
+Exec=clrmamepro
+Categories=Utility;
+X-AppInstall-Package=clrmamepro
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=clrmamepro 4.020-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=clrmamepro
+X-Arch-Package-Version=4.020-1
+X-Arch-Package-Description=A ROM manager for MAME.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://mamedev.emulab.it/clrmamepro/
+X-Arch-Package-Votes=8

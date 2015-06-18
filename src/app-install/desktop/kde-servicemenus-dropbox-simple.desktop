@@ -1,0 +1,44 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=KonqPopupMenu/Plugin;
+NoDisplay=true
+MimeType=all/all;
+X-KDE-StartupNotify=false
+X-AppInstall-Package=kde-servicemenus-dropbox-simple
+X-AppInstall-Section=aur
+X-Arch-Package=kde-servicemenus-dropbox-simple 1.0-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kde-servicemenus-dropbox-simple
+X-Arch-Package-Version=1.0-4
+X-Arch-Package-Description=A servicemenu for KDE4 which allows easy sharing Dropbox
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/glebtv/kde-servicemenus-dropbox-simple
+X-Arch-Package-Votes=0
+Aliases=dropbox_all;
+X-KDE-Priority=TopLevel
+X-KDE-Submenu=Dropbox
+Actions=moveAndGetPublicURL;copyAndGetPublicURL;_SEPARATOR_;generatePublicURL;sendPublicURLmail;
+
+[Desktop Action moveAndGetPublicURL]
+Name=Move to Public folder and copy URL
+Icon=go-jump
+TryExec=/usr/lib/dropbox/dropbox_actions.sh
+Exec=/usr/lib/dropbox/dropbox_actions.sh move_to_public_and_get_url %f
+
+[Desktop Action copyAndGetPublicURL]
+Name=Copy to Public folder and copy URL
+Icon=edit-copy
+TryExec=/usr/lib/dropbox/dropbox_actions.sh
+Exec=/usr/lib/dropbox/dropbox_actions.sh copy_to_public_and_get_url %f
+
+[Desktop Action generatePublicURL]
+Name=Generate public URL...
+Icon=download
+TryExec=/usr/lib/dropbox/dropbox_actions.sh
+Exec=/usr/lib/dropbox/dropbox_actions.sh copy_public_url %f
+
+[Desktop Action sendPublicURLmail]
+Name=Send Public URL via email
+Icon=mail-send
+TryExec=/usr/lib/dropbox/dropbox_actions.sh
+Exec=/usr/lib/dropbox/dropbox_actions.sh mail_public_url %f

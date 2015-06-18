@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Lone Survivor
+Icon=/usr/share/applications/lonesurvivor.png
+TryExec=/usr/bin/lonesurvivor
+Exec=/usr/bin/lonesurvivor
+Categories=Game;
+X-AppInstall-Package=lonesurvivor
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lonesurvivor
+X-Arch-Package-Version=1.11d-9
+X-Arch-Package-Description=a psychological survival adventure, with art, design, and
+X-Arch-Package-Groups=humble-indie-bundleV games
+X-Arch-Package-URL=http://www.superflatgames.com/
+X-Arch-Package-Votes=9

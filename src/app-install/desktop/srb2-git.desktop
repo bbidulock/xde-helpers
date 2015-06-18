@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Sonic Robo Blast 2
+Icon=srb2
+TryExec=/usr/bin/srb2
+Exec=srb2
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=srb2-git
+X-AppInstall-Section=aur
+X-Arch-Package=srb2-git 2.1.11.r1.gb1e1163-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=srb2-git
+X-Arch-Package-Version=2.1.11.r1.gb1e1163-1
+X-Arch-Package-Description=A 3D Sonic fan game based off of Doom Legacy (aka "Sonic Robo
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.srb2.org
+X-Arch-Package-Votes=0
+Aliases=srb2;

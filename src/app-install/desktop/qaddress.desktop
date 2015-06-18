@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=QAddress
+Comment=Create an Address Book with your contacts
+Icon=office-address-book
+TryExec=/usr/bin/qaddress
+Exec=qaddress
+Categories=Office;
+X-AppInstall-Package=qaddress
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=qaddress 0.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qaddress
+X-Arch-Package-Version=0.3-1
+X-Arch-Package-Description=A simple and to the point address book. It is written in C++,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://qaddress.sourceforge.net/
+X-Arch-Package-Votes=1

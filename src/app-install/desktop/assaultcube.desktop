@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=AssaultCube
+GenericName=Realistic Multiplayer FPS
+Icon=assaultcube
+TryExec=/usr/bin/assaultcube
+Exec=assaultcube
+MultipleArgs=false
+Categories=Game;ActionGame;
+MimeType=text/html;
+StartupNotify=false
+X-AppInstall-Package=assaultcube
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=assaultcube
+X-Arch-Package-Version=1.2.0.2-1
+X-Arch-Package-Description=A realistic team oriented multiplayer FPS based on the Cube engine
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://assault.cubers.net/

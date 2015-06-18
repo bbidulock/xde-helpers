@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=SLADE
+Comment=Slayer's Leet-Ass Doom Editor
+Icon=slade
+TryExec=/usr/bin/slade
+Exec=slade
+Terminal=False
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=slade-svn
+X-AppInstall-Section=aur
+X-Arch-Package=slade-svn 1421-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=slade-svn
+X-Arch-Package-Version=1421-1
+X-Arch-Package-Description=SLADE3 Doom editor.
+X-Arch-Package-URL=http://slade.mancubus.net/
+Aliases=slade;

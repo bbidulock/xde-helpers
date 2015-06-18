@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Libgdx Texture Packer
+GenericName=Libgdx Texture Packer
+Icon=java
+TryExec=/usr/bin/gdx-texturepacker
+Exec=gdx-texturepacker %U
+Categories=Developer;
+X-AppInstall-Package=gdx-texturepacker
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=gdx-texturepacker 3.2.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gdx-texturepacker
+X-Arch-Package-Version=3.2.0-2
+X-Arch-Package-Description=The gdx-texturepacker is a GUI for the awesome texture packer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://code.google.com/p/libgdx-texturepacker-gui/
+X-Arch-Package-Votes=1

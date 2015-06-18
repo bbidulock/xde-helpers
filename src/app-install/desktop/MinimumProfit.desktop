@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Minimum Profit
+Comment=A text editor for programmers
+Comment[es_CL]=Un editor de texto para programadores
+Icon=/usr/share/pixmaps/mp.png
+TryExec=/usr/bin/mp-5
+Exec=mp-5
+Categories=Development;
+X-AppInstall-Package=mp-5-gtk
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=mp-5-gtk 5.2.8-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mp-5-gtk
+X-Arch-Package-Version=5.2.8-1
+X-Arch-Package-Description=Text editor for programmers (GTK front-end)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.triptico.com/software/mp.html
+X-Arch-Package-Votes=2

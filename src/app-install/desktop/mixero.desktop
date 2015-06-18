@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=0.56
+Type=Application
+Name=Mixero
+Comment=An Twitter application using Adobe-Air
+Icon=/usr/share/icons/mixero/green48.png
+TryExec=/usr/bin/mixero
+Exec=mixero
+Categories=Network;
+X-AppInstall-Package=mixero
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=mixero 0.57-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mixero
+X-Arch-Package-Version=0.57-1
+X-Arch-Package-Description=Twitter application using adobe-air
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.mixero.com
+X-Arch-Package-Votes=3

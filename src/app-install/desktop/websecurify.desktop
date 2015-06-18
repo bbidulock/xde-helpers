@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Websecurify
+Comment=A powerful web application security testing environment.
+Icon=/opt/websecurify/icon.svg
+TryExec=/usr/bin/xulrunner
+Exec=/usr/bin/xulrunner --app /opt/websecurify/application.ini
+Categories=Application;Network;
+MimeType=text/plain;
+StartupNotify=true
+X-AppInstall-Package=websecurify
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=websecurify 1.0.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=websecurify
+X-Arch-Package-Version=1.0.0-1
+X-Arch-Package-Description=A powerful web application security testing environment.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.websecurify.com
+X-Arch-Package-Votes=3

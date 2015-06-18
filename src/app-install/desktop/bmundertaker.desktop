@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=Bmundertaker
+GenericName=Bookmark Undertaker
+TryExec=/usr/bin/bmundertaker-launch
+Exec=/usr/bin/bmundertaker-launch
+Categories=Network;
+X-AppInstall-Package=bmundertaker
+X-AppInstall-Section=aur
+X-Arch-Package=bmundertaker 0.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bmundertaker
+X-Arch-Package-Version=0.3-1
+X-Arch-Package-Description=A PyGTK application which imports Firefox's bookmarks, updates their status and exports them back to a compatible HTML file.
+X-Arch-Package-URL=https://launchpad.net/bmundertaker/

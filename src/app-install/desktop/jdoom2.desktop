@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=jDoom2
+Icon=doomsday-jdoom
+TryExec=/usr/bin/jdoom2
+Exec=jdoom2
+Categories=Game;ActionGame;X-DoomsdayEngine;
+X-AppInstall-Package=doomsday-1.8
+X-AppInstall-Section=aur
+X-Arch-Package=doomsday-1.8 1.8.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=doomsday-1.8
+X-Arch-Package-Version=1.8.6-1
+X-Arch-Package-Description=An engine for playing games based on DooM
+X-Arch-Package-URL=http://www.doomsdayhq.com

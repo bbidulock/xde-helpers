@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=DrGeo
+GenericName=Interactive geometry
+GenericName[fr]=Géométrie dynamique
+Icon=drgeo2.png
+TryExec=/usr/bin/drgeo2
+Exec=drgeo2
+Categories=Education;Math;
+X-AppInstall-Package=drgeo2
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=drgeo2 15.04-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=drgeo2
+X-Arch-Package-Version=15.04-1
+X-Arch-Package-Description=Interactive geometry tool for primary and secondary level
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.drgeo.eu/
+X-Arch-Package-Votes=8

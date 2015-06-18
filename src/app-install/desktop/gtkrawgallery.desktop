@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=GTKRawGallery
+Comment=A workflow oriented photo manager for digital camera raw image development
+Icon=gtkrawgallery
+TryExec=/usr/bin/gtkrawgallery
+Exec=gtkrawgallery %f
+Categories=Graphics;Photography;GTK;
+MimeType=image/x-dcraw;image/bmp;image/gif;image/jpeg;image/jpg;image/pjpeg;image/png;image/tiff;image/x-bmp;image/x-pcx;image/x-png;image/x-portable-anymap;image/x-portable-bitmap;image/x-portable-graymap;image/x-portable-pixmap;image/x-sun-raster;image/x-tga;image/x-xbitmap;image/x-xpixmap;image/svg+xml;
+X-AppInstall-Package=gtkrawgallery
+X-AppInstall-Popcon=12
+X-AppInstall-Section=aur
+X-Arch-Package=gtkrawgallery 0.9.9-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gtkrawgallery
+X-Arch-Package-Version=0.9.9-1
+X-Arch-Package-Description=A photo manager and camera raw file processor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gtkrawgallery.sourceforge.net/
+X-Arch-Package-Votes=12

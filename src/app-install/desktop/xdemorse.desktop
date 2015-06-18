@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=xdemorse
+Comment=Decodes morse code signals into text.
+Icon=xdemorse
+TryExec=/usr/bin/xdemorse
+Exec=xdemorse
+Categories=Application;HamRadio;
+StartupNotify=true
+X-AppInstall-Package=xdemorse
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=xdemorse 2.9-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xdemorse
+X-Arch-Package-Version=2.9-3
+X-Arch-Package-Description=An X/GTK+ application - decodes Morse Code signals into text.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.qsl.net/5b4az/pkg/morse/xdemorse/xdemorse.html
+X-Arch-Package-Votes=3

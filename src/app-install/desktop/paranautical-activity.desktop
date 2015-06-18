@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Paranautical Activity
+Comment=Rogue-like FPS similar to Quake and Doom
+Icon=paranautical-activity
+TryExec=/usr/bin/paranautical-activity
+Exec=paranautical-activity
+Categories=Game;ActionGame;
+X-AppInstall-Package=paranautical-activity
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=paranautical-activity 1.8-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=paranautical-activity
+X-Arch-Package-Version=1.8-1
+X-Arch-Package-Description=Rogue-like FPS similar to Quake and Doom (Humble Bundle
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://codeavarice.com/
+X-Arch-Package-Votes=1

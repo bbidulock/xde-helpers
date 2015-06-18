@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=WSJT7
+Comment=Weak Signal Communication by K1JT
+Icon=wsjt7.png
+TryExec=/usr/bin/wsjt
+Exec=wsjt
+X-DCOP-ServiceType=none
+Terminal=true
+Categories=Application;HamRadio;
+MimeType=text;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=wsjt7
+X-AppInstall-Section=aur
+X-Arch-Package=wsjt7 2031-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wsjt7
+X-Arch-Package-Version=2031-2
+X-Arch-Package-Description=Weak Signal Communication by K1JT
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://physics.princeton.edu/pulsar/K1JT/wsjt.html
+X-Arch-Package-Votes=0

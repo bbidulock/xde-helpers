@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Ettercap
+Comment=Multipurpose Network sniffer/analyser/interceptor/logger
+Icon=ettercap
+TryExec=/usr/bin/ettercap-gtk
+Exec=/usr/bin/ettercap-gtk --gtk
+Categories=Network;System;Security;GTK;
+Keywords=ettercap,ettercap-pkexec;
+X-AppInstall-Package=ettercap-gtk
+X-AppInstall-Section=community
+X-Arch-Package=ettercap-gtk 0.8.2-1
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=ettercap-gtk
+X-Arch-Package-Version=0.8.2-1
+X-Arch-Package-Description=A network sniffer/interceptor/logger for ethernet LANs - GTK frontend
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ettercap.github.com/ettercap/

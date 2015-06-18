@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Firefox Beta
+GenericName=Web Browser
+Icon=firefox-beta-bin-he-icon
+TryExec=/usr/bin/firefox-beta-bin-he
+Exec=firefox-beta-bin-he %u
+MultipleArgs=false
+Categories=Application;Network;
+MimeType=text/html;
+StartupNotify=false
+X-AppInstall-Package=firefox-beta-bin-he
+X-AppInstall-Section=aur
+X-Arch-Package=firefox-beta-bin-he 4.0rc1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firefox-beta-bin-he
+X-Arch-Package-Version=4.0rc1-1
+X-Arch-Package-Description=Standalone web browser from mozilla.org, beta build - binaries - Hebrew
+X-Arch-Package-URL=http://www.mozilla.org/projects/firefox

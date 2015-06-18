@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=GtkMMorse
+Comment=Morse Code Testing/Trainer
+TryExec=/usr/bin/gtkmmorse
+Exec=gtkmmorse
+X-DCOP-ServiceType=none
+Categories=HamRadio;
+MimeType=text/plain;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=gtkmmorse
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=gtkmmorse 0.9.28-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gtkmmorse
+X-Arch-Package-Version=0.9.28-1
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gtkmmorse.nongnu.org/
+X-Arch-Package-Votes=7

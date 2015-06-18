@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=PlaneShift Client
+GenericName=PlaneShift Client
+Icon=/opt/PlaneShift/support/icons/psicon.png
+TryExec=/usr/bin/planeshift
+Exec=planeshift
+Categories=Application;Game;
+X-AppInstall-Package=planeshift-svn
+X-AppInstall-Section=aur
+X-Arch-Package=planeshift-svn 2360-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=planeshift-svn
+X-Arch-Package-Version=2360-1
+X-Arch-Package-Description=Open source and cross-platform 3D Fantasy MMORPG
+X-Arch-Package-URL=http://www.planeshift.it/

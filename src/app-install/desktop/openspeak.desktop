@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=openSpeak
+GenericName=Voice Chat
+Comment=A VOIP program for gamers
+Icon=openspeak
+TryExec=/usr/bin/openspeak
+Exec=openspeak
+Categories=Application;Network;
+StartupNotify=false
+X-AppInstall-Package=openspeak-client
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=openspeak-client 0.1rc2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=openspeak-client
+X-Arch-Package-Version=0.1rc2-1
+X-Arch-Package-Description=openSpeak is a VoIP solution mainly aimed at gamers
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://openspeak-project.org/
+X-Arch-Package-Votes=1

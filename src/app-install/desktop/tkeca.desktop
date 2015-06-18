@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=4.4.0
+Type=Application
+Name=TkEca
+Comment=Frontend for Kai Vehmanen's Ecasound
+Icon=tkeca.png
+TryExec=/usr/bin/tkeca.tcl
+Exec=tkeca.tcl
+Categories=AudioVideo;Audio;AudioVideoEditing;
+X-AppInstall-Package=tkeca
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=tkeca 4.4.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tkeca
+X-Arch-Package-Version=4.4.3-1
+X-Arch-Package-Description=A fully featured frontend for Kai Vehmanen's Ecasound
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://tkeca.sourceforge.net/
+X-Arch-Package-Votes=2

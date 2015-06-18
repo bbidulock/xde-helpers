@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Avanor
+Icon=/usr/share/pixmaps/avanor.png
+TryExec=/usr/bin/avanor
+Exec=avanor
+Terminal=true
+Categories=Application;Game;RolePlaying;
+X-AppInstall-Package=avanor
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=avanor 0.5.8-11
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=avanor
+X-Arch-Package-Version=0.5.8-11
+X-Arch-Package-Description=A feature rich fantasy roguelike game with an easy ADOM-like
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/avanor/
+X-Arch-Package-Votes=3

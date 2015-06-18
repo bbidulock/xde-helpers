@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=QFinder
+GenericName=QNAP QFinder
+Comment=Program for finding and managing QNAP NAS
+Icon=GeneralFinder.png
+TryExec=/usr/bin/qfinder
+Exec=qfinder
+Categories=Network;
+X-AppInstall-Package=qfinder
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=qfinder 1.1.2.0522-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qfinder
+X-Arch-Package-Version=1.1.2.0522-1
+X-Arch-Package-Description=QFinder - A tool to find and setup QNAP NAS devices over LAN
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=None
+X-Arch-Package-Votes=2

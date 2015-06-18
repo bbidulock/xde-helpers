@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Racer
+GenericName=Car Simulator
+Comment=Car simulator with realistic physics and rendering
+Icon=/opt/racer-3d/data/images/logo.tga
+TryExec=/opt/racer-3d/racer
+Exec=racer-3d
+Categories=Game;Simulation;
+Path=/opt/racer-3d/
+X-AppInstall-Package=racer-3d
+X-AppInstall-Section=aur
+X-Arch-Package=racer-3d 054b1-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=racer-3d
+X-Arch-Package-Version=054b1-3
+X-Arch-Package-Description=3D car simulator with realistic physics and render engine
+X-Arch-Package-URL=http://www.racer.nl/

@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Find 'Em All
+Comment=Graphical find-and-grep tool
+TryExec=/usr/bin/findemall
+Exec=findemall
+Categories=Utility;
+X-AppInstall-Package=findemall
+X-AppInstall-Section=aur
+X-Arch-Package=findemall 1.3-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=findemall
+X-Arch-Package-Version=1.3-2
+X-Arch-Package-Description=Another graphical find-and-grep tool
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://findemall.sourceforge.net/
+X-Arch-Package-Votes=0

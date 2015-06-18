@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Nostromo n5x Configuration GUI
+Comment=Configure your Belkin Nostromo speedpad
+Icon=n50_tray.png
+TryExec=/usr/bin/nostromo_config
+Exec=/usr/bin/nostromo_config
+Categories=Game;
+X-AppInstall-Package=nostromo_n5x
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=nostromo_n5x 1.4.1-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nostromo_n5x
+X-Arch-Package-Version=1.4.1-3
+X-Arch-Package-Description=Configuration GUI and daemon to support Belkin Nostromo N50
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.bohme.org/?b=nostromo_n50
+X-Arch-Package-Votes=1

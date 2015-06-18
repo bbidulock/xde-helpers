@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=WTO
+GenericName=Télévision par Orange
+Comment=Regarder, enregistrer la télévision par Orange
+Icon=/usr/share/pixmaps/wto.png
+TryExec=/usr/bin/wto
+Exec=/usr/bin/wto
+MultipleArgs=false
+Categories=AudioVideo;
+X-AppInstall-Package=wto
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=wto 1.0.7-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wto
+X-Arch-Package-Version=1.0.7-1
+X-Arch-Package-Description=web tv orange sans firefox et enregistreur en python
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://wto.tuxfamily.org/downloads
+X-Arch-Package-Votes=9

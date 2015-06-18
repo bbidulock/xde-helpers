@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Zeeb
+Comment=Rename movie files
+Icon=zeeb.png
+TryExec=/usr/bin/zeeb
+Exec=zeeb
+Categories=AudioVideo;AudioVideoEditing;
+StartupNotify=true
+X-AppInstall-Package=zeeb
+X-AppInstall-Section=aur
+X-Arch-Package=zeeb 3.9.24-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zeeb
+X-Arch-Package-Version=3.9.24-1
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/zeeb/
+X-Arch-Package-Votes=0

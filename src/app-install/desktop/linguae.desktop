@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Linguae
+GenericName=Linguae
+Comment=Dictionary manager supporting most of usual formats.
+Icon=linguae.png
+TryExec=/usr/bin/linguae
+Exec=linguae
+Categories=Office;Dictionary;
+X-AppInstall-Package=linguae
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=linguae 0.15-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=linguae
+X-Arch-Package-Version=0.15-1
+X-Arch-Package-Description=Dictionary manager supporting most of usual formats.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://linguae.stalikez.info/
+X-Arch-Package-Votes=4

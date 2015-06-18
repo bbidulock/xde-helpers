@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=wireshark
+GenericName=Wireshark
+Comment=Network protocol analyzer
+Icon=/usr/share/icons/wireshark.png
+TryExec=/usr/bin/wireshark
+Exec=wireshark
+NoDisplay=true
+Categories=Application;Network;
+X-AppInstall-Package=wireshark-svn
+X-AppInstall-Section=aur
+X-Arch-Package=wireshark-svn 50510-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wireshark-svn
+X-Arch-Package-Version=50510-1
+X-Arch-Package-Description=A free network protocol analyzer for Unix/Linux. SVN version
+X-Arch-Package-URL=http://www.wireshark.org/
+Aliases=wireshark;

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=XMonad
+TryExec=/usr/bin/xmonad
+Exec=xmonad
+NoDisplay=true
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-WMName=XMonad
+X-AppInstall-Package=xmonad-gnome3
+X-AppInstall-Popcon=14
+X-AppInstall-Section=aur
+X-Arch-Package=xmonad-gnome3 20141022-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xmonad-gnome3
+X-Arch-Package-Version=20141022-2
+X-Arch-Package-Description=Minimal XMonad/GNOME3 hybrid desktop configuration
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/tonyskn/arch-aur-packages/tree/master/xmonad-gnome3
+X-Arch-Package-Votes=14
+Aliases=xmonad;

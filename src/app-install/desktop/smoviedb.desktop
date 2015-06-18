@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=sMovieDB
+GenericName=sMovieDB
+Comment=sMovieDB is a free software which will keep your movie database clean and ordered on a quick simple way
+Icon=smoviedb.png
+TryExec=/usr/bin/smoviedb
+Exec=smoviedb
+Categories=Application;AudioVideo;
+X-AppInstall-Package=smoviedb
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=smoviedb 0.80-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=smoviedb
+X-Arch-Package-Version=0.80-1
+X-Arch-Package-Description=sMovieDB is a free software which will keep your movie
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://smoviedb.sourceforge.net/
+X-Arch-Package-Votes=1

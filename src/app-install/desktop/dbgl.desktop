@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=DOSBox Game Launcher
+Comment=A graphical frontend for DOSBox
+Icon=dbgl
+TryExec=/usr/bin/dbgl
+Exec=dbgl
+Categories=Application;Game;
+StartupNotify=false
+X-AppInstall-Package=dbgl
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=dbgl 0.79-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dbgl
+X-Arch-Package-Version=0.79-1
+X-Arch-Package-Description=An open-source, free, multi-platform frontend for DOSBox
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://members.quicknet.nl/blankendaalr/dbgl/
+X-Arch-Package-Votes=13

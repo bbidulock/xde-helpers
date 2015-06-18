@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=FreeFem++-cs
+GenericName=FreeFem++ integrated environment
+TryExec=/usr/bin/FreeFem++-cs
+Exec=/usr/bin/FreeFem++-cs
+MimeType=application/x-ffcs;
+X-AppInstall-Package=ffcs
+X-AppInstall-Section=aur
+X-Arch-Package=ffcs 9.10-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ffcs
+X-Arch-Package-Version=9.10-1
+X-Arch-Package-Description=freefem++-cs and integrated environment for FreeFem++
+X-Arch-Package-URL=http://www.ann.jussieu.fr/~lehyaric/ffcs/

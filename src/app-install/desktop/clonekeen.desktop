@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=CloneKeen
+GenericName=Adventure Game
+Comment=A Commander Keen clone
+Icon=/usr/share/pixmaps/clonekeen.png
+TryExec=/usr/bin/clonekeen
+Exec=clonekeen
+Categories=Game;AdventureGame:;
+X-AppInstall-Package=clonekeen
+X-AppInstall-Popcon=14
+X-AppInstall-Section=aur
+X-Arch-Package=clonekeen 8.4-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=clonekeen
+X-Arch-Package-Version=8.4-2
+X-Arch-Package-Description=A clone of the classic DOS game, Commander Keen: Invasion of
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://clonekeen.sourceforge.net/
+X-Arch-Package-Votes=14

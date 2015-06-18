@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=pgmodeler
+Comment=PostgreSQL Database Modeler
+Icon=/usr/share/pgmodeler/conf/pgmodeler_logo.png
+TryExec=/usr/bin/pgmodeler
+Exec=/usr/bin/pgmodeler
+NoDisplay=true
+Categories=Application;Development;
+MimeType=text/html;
+X-AppInstall-Package=pgmodeler-git
+X-AppInstall-Section=aur
+X-Arch-Package=pgmodeler-git v0.8.1.alpha1.r39.gc2f0e4b-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pgmodeler-git
+X-Arch-Package-Version=v0.8.1.alpha1.r39.gc2f0e4b-1
+X-Arch-Package-Description=PostgreSQL Database Modeler
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.pgmodeler.com.br
+X-Arch-Package-Votes=0
+Aliases=pgmodeler;

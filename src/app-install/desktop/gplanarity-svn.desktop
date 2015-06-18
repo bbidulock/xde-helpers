@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=gPlanarity
+GenericName=gPlanarity
+Comment=A simple puzzle game involving untangling planar graphs for fun and prizes
+Icon=gplanarity
+TryExec=/usr/bin/gplanarity
+Exec=gplanarity
+NoDisplay=true
+Hidden-true
+Categories=Game;
+StartupNotify=true
+X-AppInstall-Package=gplanarity-svn
+X-AppInstall-Popcon=29
+X-AppInstall-Section=main
+X-Arch-Package=gplanarity-svn 18638-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gplanarity-svn
+X-Arch-Package-Version=18638-1
+X-Arch-Package-Description=A simple puzzle game involving untangling planar graphs for
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://web.mit.edu/xiphmont/Public/gPlanarity.html
+X-Arch-Package-Votes=5
+Aliases=gplanarity;

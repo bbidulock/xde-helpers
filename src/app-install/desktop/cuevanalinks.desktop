@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=CuevanaLinks-GUI
+GenericName=Download movies and series
+Icon=/usr/share/pixmaps/cuevanalinks.png
+TryExec=/usr/bin/cuevanalinks-gui
+Exec=cuevanalinks-gui
+Categories=AudioVideo;
+X-AppInstall-Package=cuevanalinks-gui-hg
+X-AppInstall-Section=aur
+X-Arch-Package=cuevanalinks-gui-hg 187-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cuevanalinks-gui-hg
+X-Arch-Package-Version=187-1
+X-Arch-Package-Description=GUI to download movies or series from cuevana.tv
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://nqnwebs.com/blog/article/cuevanalinks-ahora-para-seres
+X-Arch-Package-Votes=0

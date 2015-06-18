@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=EasyMercurial
+Comment=Simple user interface for Mercurial.
+Icon=easyhg
+TryExec=/usr/bin/easyhg
+Exec=easyhg
+Categories=Development;
+X-AppInstall-Package=easyhg
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=easyhg 1.3.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=easyhg
+X-Arch-Package-Version=1.3.0-3
+X-Arch-Package-Description=Simple user interface for the Mercurial distributed version
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://easyhg.org
+X-Arch-Package-Votes=4

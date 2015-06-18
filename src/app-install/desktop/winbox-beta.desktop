@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Winbox Beta
+Comment=Configuration tool for MikroTik RouterOS
+Icon=/usr/share/pixmaps/winbox-beta.png
+TryExec=/usr/bin/winbox-beta
+Exec=/usr/bin/winbox-beta
+Categories=Utility;
+X-AppInstall-Package=winbox-beta
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=winbox-beta 3.0rc5-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=winbox-beta
+X-Arch-Package-Version=3.0rc5-5
+X-Arch-Package-Description=Configuration tool for MikroTik RouterOS (wine)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.mikrotik.com
+X-Arch-Package-Votes=2

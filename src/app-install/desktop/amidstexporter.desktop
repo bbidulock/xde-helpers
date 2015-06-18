@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Amidst Exporter
+Comment=Advanced Minecraft Interface and Data/Structure Tracking
+Icon=amidstexporter
+TryExec=/usr/bin/amidstexporter
+Exec=java -noverify -jar /usr/share/java/amidstexporter/AmidstExporter.jar
+Categories=Game;
+Keywords=minecraft;
+X-AppInstall-Package=amidstexporter
+X-AppInstall-Section=aur
+X-Arch-Package=amidstexporter 1.32-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=amidstexporter
+X-Arch-Package-Version=1.32-1
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.buildingwithblocks.info/exportfromseed.html
+X-Arch-Package-Votes=0

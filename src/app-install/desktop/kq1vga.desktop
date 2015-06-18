@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=King's Quest: Quest for the Crown Remake
+Comment=A point and click adventure game
+Icon=/usr/share/pixmaps/kq1vga.png
+TryExec=/usr/bin/kq1vga
+Exec=/usr/bin/kq1vga &
+Categories=Game;
+StartupNotify=true
+X-AppInstall-Package=kq1vga
+X-AppInstall-Section=aur
+X-Arch-Package=kq1vga 4.1c-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kq1vga
+X-Arch-Package-Version=4.1c-1
+X-Arch-Package-Description=King's Quest: Quest for the Crown, VGA remake
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.agdinteractive.com/games/kq1/about/about.html
+X-Arch-Package-Votes=0

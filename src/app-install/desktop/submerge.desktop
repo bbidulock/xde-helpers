@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Submerge
+Comment=Graphical Subversion Diff Tool
+Icon=subcommander
+TryExec=/usr/bin/submerge
+Exec=submerge
+Categories=Development;
+StartupNotify=true
+X-AppInstall-Package=subcommander
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=subcommander 2.0.0b5p2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=subcommander
+X-Arch-Package-Version=2.0.0b5p2-1
+X-Arch-Package-Description=A Subversion repository management tool.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://subcommander.tigris.org
+X-Arch-Package-Votes=3

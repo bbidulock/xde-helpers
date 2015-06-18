@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=AcDown
+GenericName=AcDown
+Comment=acdown Anime Downloader
+Comment[zh_CN]=acdown动漫下载器
+Icon=acdown
+TryExec=/usr/bin/acdown
+Exec=/usr/bin/acdown %U
+Categories=AudioVideo;Video;Player;KDE;Qt;
+StartupNotify=false
+X-KDE-StartupNotify=false
+X-AppInstall-Package=acdown
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=acdown 4.5.8-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=acdown
+X-Arch-Package-Version=4.5.8-1
+X-Arch-Package-Description=Online video downloader that can grab resources from over a
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://acdown.codeplex.com
+X-Arch-Package-Votes=1

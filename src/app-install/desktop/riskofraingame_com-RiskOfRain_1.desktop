@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Risk of Rain
+GenericName=Risk of Rain
+Icon=/opt/riskofrain-hib/assets/icon.png
+TryExec="/opt/riskofrain-hib/ROR.sh"
+Exec="/opt/riskofrain-hib/ROR.sh"
+Categories=Game;
+Path=/opt/riskofrain-hib
+X-AppInstall-Package=riskofrain-hib
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=riskofrain-hib 1.2.8-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=riskofrain-hib
+X-Arch-Package-Version=1.2.8-1
+X-Arch-Package-Description=A roguelike action platformer/adventure game with randomized
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://riskofraingame.com
+X-Arch-Package-Votes=2

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=SpaceShooter
+Comment=A classic game in the style shoot'up, having as base the thematic of Star Trek.
+Icon=spaceshooter
+TryExec=/opt/games/spaceshooter/SpaceShooter
+Exec=/opt/games/spaceshooter/SpaceShooter
+Categories=Game;ArcadeGame;
+StartupNotify=true
+X-AppInstall-Package=spaceshooter
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=spaceshooter 1.4-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=spaceshooter
+X-Arch-Package-Version=1.4-2
+X-Arch-Package-Description=A classic game in the style shoot'up, having as base the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://spaceshooter.dukitan.com/
+X-Arch-Package-Votes=3

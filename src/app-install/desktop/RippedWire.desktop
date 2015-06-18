@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=HandBrakeGTK - RippedWire
+GenericName=DVD Ripper
+Comment=Rip DVD Video to MPEG-4 formats
+Icon=/usr/share/pixmaps/handbrakegtk.png
+TryExec=/usr/bin/mono
+Exec=/usr/bin/mono /usr/bin/HandBrakeGTK.exe
+Categories=AudioVideo;Video;AudioVideoEditing;
+StartupNotify=false
+X-AppInstall-Package=rippedwire
+X-AppInstall-Popcon=45
+X-AppInstall-Section=aur
+X-Arch-Package=rippedwire 1.0.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rippedwire
+X-Arch-Package-Version=1.0.1-2
+X-Arch-Package-Description=A GTK frontend wrapper for the Handbrake CLI
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://rippedwire.sourceforge.net
+X-Arch-Package-Votes=45

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=ProjectLibre
+Comment=Open source project management software
+Icon=/usr/share/pixmaps/projectlibre.png
+TryExec=/usr/bin/projectlibre
+Exec=/usr/bin/projectlibre %f
+Categories=Application;Office;ProjectManagement;
+MimeType=application/x-projectlibre;
+X-AppInstall-Package=projectlibre
+X-AppInstall-Popcon=49
+X-AppInstall-Section=aur
+X-Arch-Package=projectlibre 1.5.9-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=projectlibre
+X-Arch-Package-Version=1.5.9-3
+X-Arch-Package-Description=ProjectLibre is an open source project management software
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.projectlibre.org
+X-Arch-Package-Votes=49

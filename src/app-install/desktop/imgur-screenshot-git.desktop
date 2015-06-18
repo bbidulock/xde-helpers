@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=imgur-screenshot
+Comment=Upload the image to imgur web service
+Icon=/usr/share/pixmaps/imgur-screenshot.png
+TryExec=/usr/bin/imgur-screenshot
+Exec=imgur-screenshot %F
+NoDisplay=true
+Categories=Graphics;Network;
+MimeType=image/png;image/jpeg;image/bmp;image/gif;image/tiff;image/xcf;
+X-AppInstall-Package=imgur-screenshot-git
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=imgur-screenshot-git 1.4.9.r1.g77b03da-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=imgur-screenshot-git
+X-Arch-Package-Version=1.4.9.r1.g77b03da-1
+X-Arch-Package-Description=Take screenshot selection, upload to imgur + more cool things
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/jomo/imgur-screenshot
+X-Arch-Package-Votes=5
+Aliases=imgur-screenshot;

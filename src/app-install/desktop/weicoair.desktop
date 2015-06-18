@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=WeicoAir
+Name[zh_CN]=小微博
+Comment=Sina Weico
+Comment[zh_CN]=新浪微博，小，即是美
+Icon=/opt/weicoair/icon.png
+TryExec=/usr/bin/weicoair
+Exec=weicoair
+Categories=Network;InstantMessaging;
+StartupNotify=true
+X-AppInstall-Package=weicoair
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=weicoair 1.54-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=weicoair
+X-Arch-Package-Version=1.54-3
+X-Arch-Package-Description=A clear Sina Weibo client based on Adobe AIR.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.eicodesign.com/weico/air.html
+X-Arch-Package-Votes=1

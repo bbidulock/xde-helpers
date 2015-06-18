@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Namecoin
+Comment=Namecoin P2P Cryptocurrency
+Icon=/usr/share/pixmaps/namecoin-qt.png
+TryExec=/usr/bin/namecoin-qt
+Exec=/usr/bin/namecoin-qt %u
+Categories=Office;
+MimeType=x-scheme-handler/namecoin;
+X-AppInstall-Package=namecoin-qt-git
+X-AppInstall-Popcon=16
+X-AppInstall-Section=aur
+X-Arch-Package=namecoin-qt-git 0.3-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=namecoin-qt-git
+X-Arch-Package-Version=0.3-2
+X-Arch-Package-Description=A decentralized open source information registration and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://namecoin.info
+X-Arch-Package-Votes=16

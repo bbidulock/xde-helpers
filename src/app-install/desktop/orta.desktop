@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Orta Settings Manager
+Comment=Video Player
+Icon=gnome-settings-theme
+TryExec=/usr/bin/orta-settings-manager
+Exec=orta-settings-manager
+Categories=Settings;DesktopSettings;
+X-AppInstall-Package=orta-gtk-theme
+X-AppInstall-Popcon=75
+X-AppInstall-Section=aur
+X-Arch-Package=orta-gtk-theme 1.4.1-10
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=orta-gtk-theme
+X-Arch-Package-Version=1.4.1-10
+X-Arch-Package-Description=Orta GTK+, Metacity, Xfwm4 and more themes
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://skiesofazel.deviantart.com/art/Orta-184118297
+X-Arch-Package-Votes=75

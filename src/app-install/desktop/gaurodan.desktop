@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Gaurodan
+Icon=/opt/gaurodan/assets/icon.png
+TryExec=/opt/gaurodan/runner
+Exec=/opt/gaurodan/runner
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=gaurodan
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=gaurodan 1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gaurodan
+X-Arch-Package-Version=1-1
+X-Arch-Package-Description=A classic arcade shooter inspired by titles like Defender,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.locomalito.com/gaurodan.php
+X-Arch-Package-Votes=2

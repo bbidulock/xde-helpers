@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Cannon Scangear (MG5200 series)
+Icon=/usr/share/pixmaps/canon-pixma-mg5200-complete-scangear-icon.png
+TryExec=/usr/bin/scangearmp
+Exec=/usr/bin/scangearmp
+Categories=Graphics;2DGraphics;
+X-AppInstall-Package=canon-pixma-mg5100-complete
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=canon-pixma-mg5100-complete 3.40-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=canon-pixma-mg5100-complete
+X-Arch-Package-Version=3.40-2
+X-Arch-Package-Description=Complete stand alone driver set (printing and scanning) for
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.canon-europe.com/Support/Consumer_Products/products/Fax__Multifunctionals/InkJet/PIXMA_MG_series/PIXMA_MG5150.aspx
+X-Arch-Package-Votes=3

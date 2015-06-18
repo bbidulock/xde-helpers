@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=Evolution E-Mail Client
+Icon=/opt/gnome/share/dist/icons/evolution.png
+TryExec=/usr/bin/evolution
+Exec=evolution
+StartupNotify=true
+X-AppInstall-Package=evolution
+X-AppInstall-Section=extra
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=evolution
+X-Arch-Package-Version=3.16.2.1-1
+X-Arch-Package-Description=Manage your email, contacts and schedule
+X-Arch-Package-Groups=gnome-extra
+X-Arch-Package-URL=https://wiki.gnome.org/Apps/Evolution

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Second Life
+Comment=Second Life is a 3-D virtual world entirely built and owned by its residents
+Icon=/usr/share/pixmaps/secondlife.png
+TryExec=/usr/bin/secondlife
+Exec=/usr/bin/secondlife
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=secondlife-oculus-rift-bin
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=secondlife-oculus-rift-bin 3.7.12.292141-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=secondlife-oculus-rift-bin
+X-Arch-Package-Version=3.7.12.292141-1
+X-Arch-Package-Description=Second Life is a 3-D virtual world entirely built and owned by
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://wiki.secondlife.com/wiki/Linden_Lab_Official:Alternate_Viewers#Second_Life_Project_OculusRift_Channel
+X-Arch-Package-Votes=1
+Aliases=secondlife;

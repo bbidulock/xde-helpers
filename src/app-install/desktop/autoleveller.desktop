@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=AutoLeveller
+Icon=autoleveller
+TryExec=/usr/bin/autoleveller
+Exec=autoleveller
+Categories=Development;
+X-AppInstall-Package=autoleveller
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=autoleveller 0.8.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=autoleveller
+X-Arch-Package-Version=0.8.5-1
+X-Arch-Package-Description=Java based software for 'levelling' GCode file for use on a
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.autoleveller.co.uk/
+X-Arch-Package-Votes=1

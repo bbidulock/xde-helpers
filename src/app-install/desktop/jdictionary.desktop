@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=JDictionary
+Comment=Dictionary
+Comment[hu]=Szótárprogram
+Icon=/usr/share/pixmaps/jdictionary.png
+TryExec=/usr/bin/jdictionary
+Exec=jdictionary
+Categories=Application;Utility;KDE;GNOME;
+X-AppInstall-Package=jdictionary
+X-AppInstall-Section=aur
+X-Arch-Package=jdictionary 1.8-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jdictionary
+X-Arch-Package-Version=1.8-1
+X-Arch-Package-Description=jDictionary is a plugin based dictionary
+X-Arch-Package-URL=http://jdictionary.sourceforge.net

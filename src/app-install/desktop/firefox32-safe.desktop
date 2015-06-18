@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Firefox32 - Safe Mode
+GenericName=Web Browser - Safe Mode
+Icon=firefox32
+TryExec=/usr/bin/bin32-firefox
+Exec=bin32-firefox -safe-mode %u
+MultipleArgs=false
+Categories=Application;Network;
+StartupNotify=false
+X-AppInstall-Package=bin32-firefox
+X-AppInstall-Popcon=55
+X-AppInstall-Section=aur
+X-Arch-Package=bin32-firefox 38.0.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bin32-firefox
+X-Arch-Package-Version=38.0.5-1
+X-Arch-Package-Description=Firefox 32bit for Arch 64 bit (en-US)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.mozilla.org/projects/firefox
+X-Arch-Package-Votes=55

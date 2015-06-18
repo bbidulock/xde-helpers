@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Cute Chess
+GenericName=Chess Tournament Program
+Icon=/usr/share/pixmaps/cutechess.png
+TryExec=/usr/bin/cutechess
+Exec=cutechess
+Categories=Game;BoardGame;
+X-AppInstall-Package=cutechess-git
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=cutechess-git 1432.fa9b249-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cutechess-git
+X-Arch-Package-Version=1432.fa9b249-1
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ajonsson.kapsi.fi/cutechess.html
+X-Arch-Package-Votes=3

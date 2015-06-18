@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=MeMaker
+GenericName=Avatar Creator
+Comment=Builds avatars for all your applications.
+Icon=/usr/share/pixmaps/memaker.png
+TryExec=/usr/bin/memaker
+Exec=/usr/bin/memaker
+Categories=Application;Graphics;GNOME;
+X-AppInstall-Package=memaker
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=memaker 1.5-6
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=memaker
+X-Arch-Package-Version=1.5-6
+X-Arch-Package-Description=An application to create avatars from themed packages
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://memaker.org/
+X-Arch-Package-Votes=6

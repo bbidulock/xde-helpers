@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=ZX Spectrum Emulator
+GenericName=ZX Spectrum Emulator
+Comment=ZX Spectrum Emulator
+Icon=/usr/share/pixmaps/fuse-emulator.png
+TryExec=/usr/bin/fuse
+Exec=/usr/bin/fuse
+NoDisplay=true
+Categories=Application;
+X-AppInstall-Package=fuse-emulator-sdl
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=fuse-emulator-sdl 1.1.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fuse-emulator-sdl
+X-Arch-Package-Version=1.1.1-1
+X-Arch-Package-Description=The Free Unix Spectrum Emulator (SDL UI)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://fuse-emulator.sourceforge.net/fuse.php
+X-Arch-Package-Votes=1
+Aliases=fuse-emulator;

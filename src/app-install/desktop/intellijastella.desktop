@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=IntelliJ Astella EAP
+Comment=Intelligent IDE for ActionScript, Flex, AIR and HTML5 development
+Icon=intellij-astella-eap
+TryExec=/usr/bin/intellij-astella-eap
+Exec=intellij-astella-eap %u
+Categories=Development;IDE;
+X-AppInstall-Package=intellij-astella-eap
+X-AppInstall-Section=aur
+X-Arch-Package=intellij-astella-eap 1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=intellij-astella-eap
+X-Arch-Package-Version=1-1
+X-Arch-Package-Description=IDE for ActionScript, Flex, AIR and HTML5 development
+X-Arch-Package-URL=http://www.jetbrains.com/astella/

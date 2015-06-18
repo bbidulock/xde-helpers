@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=2.0.1-13
+Type=Application
+Name=X2Go Client (Gtk)
+Icon=x2go
+TryExec=/usr/bin/x2goclient_gtk
+Exec=/usr/bin/x2goclient_gtk
+X-Osso-Type=application/x-executable
+Categories=Network;
+StartupWMClass=x2goclient_gtk
+X-AppInstall-Package=x2goclient-gtk
+X-AppInstall-Section=aur
+X-Arch-Package=x2goclient-gtk 3.01_8-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=x2goclient-gtk
+X-Arch-Package-Version=3.01_8-1
+X-Arch-Package-Description=x2go gtk client
+X-Arch-Package-Groups=x2go;alts;
+X-Arch-Package-URL=http://www.x2go.org
+X-HildonDesk-ShowInToolbar=true
+X-Window-Icon=x2go

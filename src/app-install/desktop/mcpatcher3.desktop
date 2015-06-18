@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=MCPatcher 3.x
+Comment=Minecraft patcher for HD textures and more. (For Minecraft 1.5.x.)
+Icon=/usr/share/pixmaps/mcpatcher3.png
+TryExec=/usr/bin/mcpatcher3
+Exec=java -Xmx512m -jar /usr/share/mcpatcher3/mcpatcher.jar
+Categories=Game;
+Keywords=minecraft;
+X-AppInstall-Package=mcpatcher3
+X-AppInstall-Section=aur
+X-Arch-Package=mcpatcher3 3.0.4_01-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mcpatcher3
+X-Arch-Package-Version=3.0.4_01-2
+X-Arch-Package-Description=Minecraft patcher to fix textures with higher than default
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://bitbucket.org/prupe/mcpatcher
+X-Arch-Package-Votes=0

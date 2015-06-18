@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=PixivAgent
+Comment=A GUI-Frontend to fetch images from Pixiv
+Comment[zh_CN]=P站抓图GUI
+Comment[zh_HK]=Pixiv抓圖工具
+Comment[zh_TW]=Pixiv抓圖小程式
+Icon=pixiv
+TryExec=/usr/bin/python2
+Exec=python2 /usr/lib/pixiv-agent/PixivAgent.py
+Categories=Application;Utility;
+X-AppInstall-Package=pixiv-agent-git
+X-AppInstall-Section=aur
+X-Arch-Package=pixiv-agent-git 12.eb7209b-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pixiv-agent-git
+X-Arch-Package-Version=12.eb7209b-1
+X-Arch-Package-Description=User-friendly pyqt4-based download agent for Pixiv
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://bangumi.tv/group/topic/45412
+X-Arch-Package-Votes=0

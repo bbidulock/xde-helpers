@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Alien Arena
+Comment=Multiplayer retro sci-fi deathmatch
+Icon=alienarena
+TryExec=/usr/bin/alienarena
+Exec=alienarena
+NoDisplay=true
+Categories=Game;ActionGame;
+X-AppInstall-Package=alienarena-svn
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=alienarena-svn r4297-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=alienarena-svn
+X-Arch-Package-Version=r4297-2
+X-Arch-Package-Description=Multiplayer retro sci-fi deathmatch game based on Quake3
+X-Arch-Package-Groups=games
+X-Arch-Package-URL=http://icculus.org/alienarena/rpa/
+X-Arch-Package-Votes=5
+Aliases=alienarena;

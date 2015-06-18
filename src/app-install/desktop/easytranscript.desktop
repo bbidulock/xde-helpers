@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=easytranscript
+GenericName=transcription-software
+GenericName[de]=Transkriptions-Software
+Icon=/opt/easytranscript/logo.ico
+TryExec=/usr/bin/java
+Exec=java -jar /opt/easytranscript/easytranscript.jar
+Categories=Science,Office;
+X-AppInstall-Package=easytranscript
+X-AppInstall-Section=aur
+X-Arch-Package=easytranscript 2.20.8-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=easytranscript
+X-Arch-Package-Version=2.20.8-1
+X-Arch-Package-Description=easy to use transcription-software with a high feature volume
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://e-werkzeug.eu/index.php/en/easytranscript
+X-Arch-Package-Votes=0

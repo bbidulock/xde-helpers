@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=iReports NB
+Comment=A visual report builder for JasperReports based on NetBeans RCP
+Icon=/usr/share/ireport-nb/bin/document.ico
+TryExec=/usr/share/ireport-nb/bin/ireport
+Exec=/usr/share/ireport-nb/bin/ireport
+Categories=Application;Office;
+StartupNotify=true
+X-AppInstall-Package=ireport-nb
+X-AppInstall-Popcon=16
+X-AppInstall-Section=aur
+X-Arch-Package=ireport-nb 5.5.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ireport-nb
+X-Arch-Package-Version=5.5.0-1
+X-Arch-Package-Description=A visual report builder for JasperReports based on NetBeans
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/ireport/
+X-Arch-Package-Votes=16

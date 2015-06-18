@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=SimulationCraft
+Icon=SimulationCraft.xpm
+TryExec=/usr/bin/simcraft
+Exec=/usr/bin/simcraft
+StartupNotify=true
+X-AppInstall-Package=simcraft
+X-AppInstall-Section=aur
+X-Arch-Package=simcraft 612_01-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=simcraft
+X-Arch-Package-Version=_-1
+X-Arch-Package-Description=SimulationCraft is a tool to explore combat mechanics in the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/simulationcraft
+X-Arch-Package-Votes=0

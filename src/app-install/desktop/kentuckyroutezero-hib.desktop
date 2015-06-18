@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Kentucky Route Zero
+GenericName=Adventure game about a secret highway in the caves beneath Kentucky
+Comment=Cardboard Computer
+Icon=kentuckyroutezero
+TryExec=/usr/bin/kentuckyroutezero
+Exec=/usr/bin/kentuckyroutezero
+Categories=Game;
+X-AppInstall-Package=kentuckyroutezero-hib
+X-AppInstall-Section=aur
+X-Arch-Package=kentuckyroutezero-hib 0_20140520-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kentuckyroutezero-hib
+X-Arch-Package-Version=0_20140520-1
+X-Arch-Package-Description=An adventure game about a secret highway in the caves beneath
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kentuckyroutezero.com/
+X-Arch-Package-Votes=0

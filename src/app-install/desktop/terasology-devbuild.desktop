@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Terasology-devbuild
+GenericName=Terasology-devbuild
+Comment=Yet another high resolution game with blocks...
+Icon=terasology-devbuild
+TryExec=/usr/bin/terasology-devbuild
+Exec=terasology-devbuild
+Categories=Game;
+X-AppInstall-Package=terasology-devbuild
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=terasology-devbuild 1432-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=terasology-devbuild
+X-Arch-Package-Version=1432-1
+X-Arch-Package-Description=Yet another high resolution game with blocks like Minecraft!
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://terasology.org
+X-Arch-Package-Votes=8

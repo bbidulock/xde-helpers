@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Eko
+GenericName=Eko Sound Editor
+Comment=Edit sound files
+Icon=eko
+TryExec=/usr/bin/eko
+Exec=eko
+Categories=Application;AudioVideo;Audio;
+X-AppInstall-Package=eko
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=eko 1.0.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=eko
+X-Arch-Package-Version=1.0.0-1
+X-Arch-Package-Description=A simple sound editor based on Qt, libsndfile, and libsample
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://semiletov.org/eko/
+X-Arch-Package-Votes=9

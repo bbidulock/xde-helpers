@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Blokish
+Comment=A clone of the Blokus game.
+Icon=/usr/share/pixmaps/blokish.png
+TryExec=/usr/bin/blokish
+Exec=/usr/bin/blokish
+Categories=Game;PuzzleGame;
+X-AppInstall-Package=blokish
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=blokish 0.9.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=blokish
+X-Arch-Package-Version=0.9.4-1
+X-Arch-Package-Description=A clone of the Blokus game, with a rudimentary AI built in,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://idav.ucdavis.edu/~dfalcant/projects.php?project_name=blokish_v0.9.4
+X-Arch-Package-Votes=3

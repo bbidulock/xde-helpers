@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Legend Online
+Icon=/usr/share/legendonline/legendonline.png
+TryExec=/usr/bin/legendonline
+Exec=/usr/bin/legendonline
+NoDisplay=true
+Categories=Game;
+StartupNotify=true
+X-AppInstall-Package=legend-online-oas-br
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=legend-online-oas-br 1.1-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=legend-online-oas-br
+X-Arch-Package-Version=1.1-4
+X-Arch-Package-Description=Launcher of Legend Online game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://lobr.oasgames.com
+X-Arch-Package-Votes=1
+Aliases=legendonline;

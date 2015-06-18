@@ -1,0 +1,22 @@
+[Desktop Entry]
+Version=1
+Type=Application
+Name=Le Littré Dictionary
+Name[fr]=Dictionnaire Le Littré
+Comment=The great french dictionary of Émile Littré (Qt)
+Icon=littre.png
+TryExec=/usr/bin/littre
+Exec=littre
+Categories=Office;
+StartupNotify=False
+X-AppInstall-Package=littre
+X-AppInstall-Popcon=12
+X-AppInstall-Section=aur
+X-Arch-Package=littre 2.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=littre
+X-Arch-Package-Version=2.0-2
+X-Arch-Package-Description=The great french dictionary of Émile Littré (Qt)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/dictionnaire-le-littre/
+X-Arch-Package-Votes=12

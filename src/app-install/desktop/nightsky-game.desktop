@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=NightSky
+Comment=A 2D platformer in which you control a ball.
+Icon=nightsky-game
+TryExec=/usr/bin/nightsky-game
+Exec=nightsky-game
+Categories=Game;
+X-AppInstall-Package=nightsky-game
+X-AppInstall-Popcon=15
+X-AppInstall-Section=aur
+X-Arch-Package=nightsky-game 1.0.0-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nightsky-game
+X-Arch-Package-Version=1.0.0-4
+X-Arch-Package-Description=A 2D platformer in which you control a ball.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.nicalis.com/nightsky/
+X-Arch-Package-Votes=15

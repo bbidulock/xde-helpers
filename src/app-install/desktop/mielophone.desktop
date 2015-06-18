@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Mielophone
+GenericName=Music downloader and streamer
+Comment=Listen to music
+Icon=/opt/airapps/mielophone/assets/logo/logo-64.png
+TryExec=/usr/bin/mielophone
+Exec=mielophone
+Categories=AudioVideo;Player;
+X-AppInstall-Package=mielophone
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=mielophone 0.2.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mielophone
+X-Arch-Package-Version=0.2.3-1
+X-Arch-Package-Description=A minimalistic application for searching, listening,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://mielophone.github.com
+X-Arch-Package-Votes=1

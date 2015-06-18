@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Hero of Allacrost
+GenericName=Hero of Allacrost
+Comment=Hero of Allacrost is a 2D role-playing game inspired by classic console RPGs
+Icon=allacrost
+TryExec=/usr/bin/allacrost
+Exec=/usr/bin/allacrost
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=allacrost
+X-AppInstall-Popcon=14
+X-AppInstall-Section=aur
+X-Arch-Package=allacrost 20110717-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=allacrost
+X-Arch-Package-Version=20110717-4
+X-Arch-Package-Description=single player 2D role-playing game inspired by classic console
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.allacrost.org/
+X-Arch-Package-Votes=14

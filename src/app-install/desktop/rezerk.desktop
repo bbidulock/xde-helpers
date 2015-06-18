@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Rezerk
+Comment=Sequel to the classic arcade game, Berzerk..
+Icon=/usr/share/rezerk/game/ui/icon.png
+TryExec=/usr/bin/rezerk.sh
+Exec=/usr/bin/rezerk.sh
+Categories=Application;Game;ArcadeGame;
+X-AppInstall-Package=rezerk-svn
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=rezerk-svn 161-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rezerk-svn
+X-Arch-Package-Version=161-1
+X-Arch-Package-Description=Sequel to the classic arcade game, Berzerk.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.averagesoftware.org/index.php?page=rezerk
+X-Arch-Package-Votes=1

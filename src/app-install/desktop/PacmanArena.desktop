@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Pacman Arena
+Comment=Pacman in 3D
+TryExec=/usr/bin/pacman-arena
+Exec=/usr/bin/pacman-arena
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=pacman-arena
+X-AppInstall-Popcon=21
+X-AppInstall-Section=aur
+X-Arch-Package=pacman-arena 0.15-6
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pacman-arena
+X-Arch-Package-Version=0.15-6
+X-Arch-Package-Description=Pacman Arena is a Pacman clone in full 3D with a few surprises
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/pacmanarena/
+X-Arch-Package-Votes=21

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Milena GTK+
+GenericName=GUI for Milena
+GenericName[pl_PL]=GUI dla Milena
+Comment=Screen reader for Milena speech synthesizer
+Comment[pl_PL]=Czytnik ekranu dla syntezatora mowy Milena
+Icon=milena-gtk.png
+TryExec=/usr/bin/milena-gtk
+Exec=milena-gtk
+Categories=AudioVideo;GTK;
+X-AppInstall-Package=milena-gtk
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=milena-gtk 0.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=milena-gtk
+X-Arch-Package-Version=0.2-2
+X-Arch-Package-Description=Gtk2 gui Milena speech synthesizer (screen reader, etc)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://milena.polip.com/
+X-Arch-Package-Votes=3

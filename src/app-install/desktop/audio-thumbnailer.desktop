@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=X-Thumbnailer
+Name=Audio Thumbnailer
+TryExec=/usr/bin/audiothumbnailer
+MimeType=application/x-ogg;audio/mp3;audio/mpeg;audio/mpegurl;audio/prs.sid;audio/x-flac;audio/x-it;audio/x-mod;audio/x-mp3;audio/x-mpeg;audio/x-mpegurl;audio/x-ms-wma;audio/x-musepack;audio/x-s3m;audio/x-scpls;audio/x-stm;audio/x-wav;audio/x-xm;application/ogg;audio/x-vorbis+ogg;
+X-AppInstall-Package=thunar-audio-thumbnailer
+X-AppInstall-Section=aur
+X-Arch-Package=thunar-audio-thumbnailer 0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=thunar-audio-thumbnailer
+X-Arch-Package-Version=0.1-1
+X-Arch-Package-Description=Audiothumbnailer support for Thunar.
+X-Arch-Package-URL=http://goodies.xfce.org/projects/thunar-plugins/thunar-thumbnailers/
+X-Thumbnailer-Exec=/usr/lib/xfce4/audio-thumbnailer %i %o %s

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=rxvt-unicode
+Comment=A Unicode capable rxvt clone
+Icon=terminal
+TryExec=/usr/bin/urxvt
+Exec=urxvt
+NoDisplay=true
+Categories=Application;System;TerminalEmulator;
+X-AppInstall-Package=rxvt-unicode-patched-left_ptr
+X-AppInstall-Section=aur
+X-Arch-Package=rxvt-unicode-patched-left_ptr 9.15-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rxvt-unicode-patched-left_ptr
+X-Arch-Package-Version=9.15-1
+X-Arch-Package-Description=Unicode enabled rxvt-clone terminal emulator (urxvt) with fixed font spacing (width) and with mouse pointer XC_left_ptr in place of XC_xterm
+X-Arch-Package-URL=http://software.schmorp.de/pkg/rxvt-unicode.html
+Aliases=rxvt-unicode;

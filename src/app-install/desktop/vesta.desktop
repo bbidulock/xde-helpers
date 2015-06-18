@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=VESTA
+Comment=Visualization for Electronic and Structural Analysis
+Icon=vesta-icon
+TryExec=/usr/bin/vesta
+Exec=/usr/bin/vesta
+Categories=Science;
+X-AppInstall-Package=vesta
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=vesta 3.2.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=vesta
+X-Arch-Package-Version=3.2.1-1
+X-Arch-Package-Description=Visualization for Electronic and Structural Analysis
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://jp-minerals.org/vesta/en
+X-Arch-Package-Votes=13

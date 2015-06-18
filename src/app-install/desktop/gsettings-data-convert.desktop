@@ -113,7 +113,6 @@ Comment[zh_TW]=將使用者設定值從 GConf 轉移到 dconf
 TryExec=/usr/bin/gsettings-data-convert
 Exec=gsettings-data-convert
 OnlyShowIn=GNOME;Unity;
-StartupNotify=false
 X-GNOME-Autostart-Phase=Initialization
 X-AppInstall-Package=gconf-gtk2
 X-AppInstall-Section=custom

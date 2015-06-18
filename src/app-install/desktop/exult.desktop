@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Exult
+Name[pt_BR]=exult.desktop
+Comment=An open source implementation of the Ultima 7 engine
+Icon=exult
+TryExec=/usr/bin/exult
+Exec=exult
+Categories=Game;RolePlaying;
+X-AppInstall-Package=exult
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package=exult 1.4.9rc1-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=exult
+X-Arch-Package-Version=1.4.9rc1-4
+X-Arch-Package-Description=A recreation of the Ultima 7 engine
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://exult.sourceforge.net/
+X-Arch-Package-Votes=11

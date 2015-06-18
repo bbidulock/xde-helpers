@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=FreeMind-Unstable
+GenericName=FreeMind-Unstable
+Comment=A free mind mapping tool
+Icon=freemind-unstable
+TryExec=/usr/bin/freemind-unstable
+Exec=freemind-unstable
+Categories=Application;Office;
+MimeType=application/x-freemind;
+X-AppInstall-Package=freemind-unstable
+X-AppInstall-Popcon=31
+X-AppInstall-Section=aur
+X-Arch-Package=freemind-unstable 1.1.0.Alpha1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=freemind-unstable
+X-Arch-Package-Version=1.1.0.Alpha1-1
+X-Arch-Package-Description=FreeMind is a premier free mind-mapping software written in
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://freemind.sourceforge.net/wiki/index.php/Main_Page
+X-Arch-Package-Votes=31

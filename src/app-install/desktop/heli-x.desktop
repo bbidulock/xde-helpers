@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=HELI-X
+Comment=HELI-X 5 RC Flight Simulator
+Icon=heli-x
+TryExec=/usr/bin/heli-x
+Exec=heli-x
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=heli-x
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=heli-x 5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=heli-x
+X-Arch-Package-Version=5-1
+X-Arch-Package-Description=HELI-X RC Flight Simulator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.heli-x.info
+X-Arch-Package-Votes=1

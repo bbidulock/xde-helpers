@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=InWorldz viewer
+Name[en_US]=inworldz
+Comment=Second Life is a 3-D virtual world entirely built and owned by its residents
+Icon=/usr/share/pixmaps/inworldz_icon.png
+TryExec=/usr/bin/inworldz
+Exec=/usr/bin/inworldz
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=inworldz-sse3-bin
+X-AppInstall-Section=aur
+X-Arch-Package=inworldz-sse3-bin 2.2.11.34957-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=inworldz-sse3-bin
+X-Arch-Package-Version=2.2.11.34957-3
+X-Arch-Package-Description=The official viewer for InWorldz, an online virtual world,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://inworldz.com/
+X-Arch-Package-Votes=0
+Aliases=inworldz;

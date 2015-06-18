@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Revenge Of The Cats: Ethernet
+Icon=rotc-ethernet
+TryExec=/usr/bin/rotc-ethernet
+Exec=rotc-ethernet
+Terminal=False
+Categories=Game;
+X-AppInstall-Package=rotc-ethernet
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=rotc-ethernet p.5.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rotc-ethernet
+X-Arch-Package-Version=p.5.4-1
+X-Arch-Package-Description=Revenge Of The Cats - Two teams fight for zones in this
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ethernet.wasted.ch//
+X-Arch-Package-Votes=9

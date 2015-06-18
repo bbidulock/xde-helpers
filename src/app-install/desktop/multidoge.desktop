@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Multidoge
+Comment=Light Dogecoin wallet
+Icon=/usr/share/pixmaps/multidoge.png
+TryExec=/usr/bin/multidoge
+Exec=multidoge
+Categories=Utility;
+Keywords=doge;coin;bit;crypto;
+X-AppInstall-Package=multidoge
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=multidoge 0.1.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=multidoge
+X-Arch-Package-Version=0.1.4-1
+X-Arch-Package-Description=Java-based DogeCoin client
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://multidoge.org
+X-Arch-Package-Votes=2

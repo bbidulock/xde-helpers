@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Glaxium
+Comment=An OpenGL-based space-ship shoot-em-up styled game
+Icon=glaxium.png
+TryExec=/usr/bin/glaxium
+Exec=glaxium
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=glaxium
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=glaxium 0.5-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=glaxium
+X-Arch-Package-Version=0.5-3
+X-Arch-Package-Description=An OpenGL-based space-ship shoot-em-up styled game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://xhosxe.free.fr/glaxium/
+X-Arch-Package-Votes=4

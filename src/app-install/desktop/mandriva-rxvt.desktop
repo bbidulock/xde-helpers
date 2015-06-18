@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=RXvt
+Comment=A version of the rxvt terminal with support for Traditional Chinese, Simplified Chinese, Japanese and Korean.
+Icon=rxvt-CLE
+TryExec=/usr/bin/rxvt
+Exec=rxvt
+Categories=TerminalEmulator;X-MandrivaLinux-System-Terminals;
+StartupNotify=false
+X-AppInstall-Package=rxvt
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=rxvt
+X-Arch-Package-Version=2.7.10-7
+X-Arch-Package-Description=A colour vt102 terminal emulator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://rxvt.sourceforge.net/

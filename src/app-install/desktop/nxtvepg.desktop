@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=nexTView EPG
+GenericName=electronic TV Programme Guide
+Comment=Electronic TV Programme Guide
+Icon=/usr/share/pixmaps/nxtvepg-icon-48.png
+TryExec=/usr/bin/nxtvepg
+Exec=nxtvepg
+Categories=Application;AudioVideo;
+X-AppInstall-Package=nxtvepg
+X-AppInstall-Popcon=12
+X-AppInstall-Section=aur
+X-Arch-Package=nxtvepg 2.8.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nxtvepg
+X-Arch-Package-Version=2.8.1-2
+X-Arch-Package-Description=A decoder for nexTView EPG an Electronic TV Programme Guide
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://nxtvepg.sf.net/
+X-Arch-Package-Votes=12

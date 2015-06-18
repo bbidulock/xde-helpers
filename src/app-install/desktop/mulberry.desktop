@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Mulberry
+Comment=Email and Calendar
+Icon=mulberry
+TryExec=/usr/bin/mulberry
+Exec=mulberry
+Categories=Network;Office;Calendar;ContactManagement;Email;
+X-AppInstall-Package=mulberry
+X-AppInstall-Section=aur
+X-Arch-Package=mulberry 4.0.8-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mulberry
+X-Arch-Package-Version=4.0.8-1
+X-Arch-Package-Description=Email, calendar and contact application
+X-Arch-Package-URL=http://www.mulberrymail.com/

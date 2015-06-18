@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Eclipse 3.3
+Comment=Eclipse version 3.3 (A Java Development Environment)
+Icon=/usr/share/eclipse/icon.xpm
+TryExec=/usr/share/eclipse33/eclipse33
+Exec=/usr/share/eclipse33/eclipse33
+Categories=Application;Development;GNOME;
+StartupNotify=true
+X-AppInstall-Package=eclipse33
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=eclipse33 3.3.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=eclipse33
+X-Arch-Package-Version=3.3.2-2
+X-Arch-Package-Description=Eclipse 3.3 (An IDE for Java and other languages)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://eclipse.org
+X-Arch-Package-Votes=3

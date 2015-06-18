@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=SpringSource Tool Suite
+Icon=springsource-tool-suite
+TryExec=/usr/bin/STS
+Exec=STS
+Categories=Development;IDE;Java;
+StartupNotify=true
+X-AppInstall-Package=springsource-tool-suite
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=springsource-tool-suite 2.8.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=springsource-tool-suite
+X-Arch-Package-Version=2.8.1-2
+X-Arch-Package-Description=SpringSource Tool Suite
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.springsource.com/developer/sts
+X-Arch-Package-Votes=4

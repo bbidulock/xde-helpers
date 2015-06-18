@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Grappling Hook
+Comment=first-person action puzzle/platform game
+TryExec=/usr/bin/grappling-hook
+Exec=grappling-hook
+Categories=Game;ActionGame;
+X-AppInstall-Package=grappling_hook
+X-AppInstall-Section=aur
+X-Arch-Package=grappling_hook 1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=grappling_hook
+X-Arch-Package-Version=1-1
+X-Arch-Package-Description=first-person action/puzzle game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ghook.speedrungames.com/
+X-Arch-Package-Votes=0

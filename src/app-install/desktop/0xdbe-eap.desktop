@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=0xDBE
+Comment=Intelligent IDE for DBAs and SQL Developers
+Icon=0xdbe
+TryExec=/usr/bin/0xdbe
+Exec=0xdbe %u
+NoDisplay=true
+Categories=Development;IDE;
+X-AppInstall-Package=0xdbe-eap
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=0xdbe-eap 141.191-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=0xdbe-eap
+X-Arch-Package-Version=141.191-1
+X-Arch-Package-Description=Smart SQL Editor and Advanced Database Client Packed Together
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.jetbrains.com/dbe/
+X-Arch-Package-Votes=10
+Aliases=0xdbe;

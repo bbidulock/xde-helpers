@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=QtWeb
+GenericName=Browser Web
+Comment=Fast and light browser web based on Qt
+Comment[it]=Browser veloce e leggero basto sulle librerie QT
+Icon=qtweb
+TryExec=/usr/bin/qtweb
+Exec=/usr/bin/qtweb
+Categories=Network;WebBrowser;
+StartupNotify=true
+X-AppInstall-Package=qtweb
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=qtweb 3.8.5.108-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qtweb
+X-Arch-Package-Version=3.8.5.108-1
+X-Arch-Package-Description=lightweight, secure and portable browser based on qt and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://qtweb.net
+X-Arch-Package-Votes=10

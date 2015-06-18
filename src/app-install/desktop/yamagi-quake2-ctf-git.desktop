@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Quake II - Three Wave Capture The Flag
+Comment=Yamagi Quake II
+Icon=yamagi-quake2
+TryExec=/usr/bin/yamagi-quake2-ctf
+Exec=yamagi-quake2-ctf
+NoDisplay=true
+Categories=Game;Shooter;
+StartupNotify=false
+X-AppInstall-Package=yamagi-quake2-ctf-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=yamagi-quake2-ctf-git 1.02.r5.ge2b397d-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=yamagi-quake2-ctf-git
+X-Arch-Package-Version=1.02.r5.ge2b397d-1
+X-Arch-Package-Description=Quake II - Three Wave Capture The Flag for yamagi-quake2
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.yamagi.org/quake2/
+X-Arch-Package-Votes=1
+Aliases=yamagi-quake2-ctf;

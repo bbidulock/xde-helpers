@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=iTap mobile RDP
+GenericName=Remote Desktop Client
+Comment=Connect to Windows systems over RDP
+Icon=itap-mobile-rdp
+TryExec=/usr/bin/itap-mobile-rdp
+Exec=itap-mobile-rdp %F
+Categories=Application;Network;
+MimeType=application/x-rdp;
+X-AppInstall-Package=itap-mobile-rdp
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=itap-mobile-rdp 1.1.5-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=itap-mobile-rdp
+X-Arch-Package-Version=1.1.5-3
+X-Arch-Package-Description=iTap mobile RDP for Linux
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://itap-mobile.com/desktop/rdp/
+X-Arch-Package-Votes=2

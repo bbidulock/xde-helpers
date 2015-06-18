@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=FGx FlightGear Launcher
+GenericName=FGx FlightGear Launcher
+Icon=fgx
+TryExec=/usr/bin/fgx
+Exec=fgx
+Categories=Game;Simulation;
+X-AppInstall-Package=fgx
+X-AppInstall-Section=aur
+X-Arch-Package=fgx 2.8.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fgx
+X-Arch-Package-Version=2.8.0-3
+X-Arch-Package-Description=Launcher for free and open source FlightGear Flight Simulator, based on Qt (binary from Debian package)
+X-Arch-Package-URL=http://www.fgx.ch/

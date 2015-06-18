@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=0.0.2
+Type=Application
+Name=Hyro
+GenericName=Hyro
+Comment=Hyro is a HTML5 editor for 'live editing'. As you code HTML/CSS/Javascript, you can see what your doing and get instant responses.
+Icon=hyro_logo
+TryExec=/usr/bin/Hyro
+Exec=/usr/bin/Hyro
+Categories=Development;
+X-AppInstall-Package=hyro
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=hyro 0.0.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=hyro
+X-Arch-Package-Version=0.0.3-1
+X-Arch-Package-Description=A real-time HTML5 editor.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://jawerty.github.io/Hyro/
+X-Arch-Package-Votes=1

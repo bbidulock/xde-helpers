@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Utube
+Comment=A downloader and ripper for YouTube videos
+Icon=utube
+TryExec=/usr/bin/utube
+Exec=utube
+Categories=AudioVideo;Network;
+X-AppInstall-Package=utube
+X-AppInstall-Section=aur
+X-Arch-Package=utube 1.7-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=utube
+X-Arch-Package-Version=1.7-1
+X-Arch-Package-Description=A graphical downloader and ripper for YouTube videos
+X-Arch-Package-URL=http://sourceforge.net/projects/utube/

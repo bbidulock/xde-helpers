@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1
+Type=Application
+Name=Save the Date
+Comment=A dating sim, about a perfectly normal dinner with a nice young lady named Felicia. What could go wrong?
+Icon=save-the-date.ico
+TryExec=/usr/bin/save-the-date
+Exec=/usr/bin/save-the-date
+Categories=Application;Game;
+X-AppInstall-Package=save-the-date
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=save-the-date 1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=save-the-date
+X-Arch-Package-Version=1.0-1
+X-Arch-Package-Description=Short date sim with unusually high difficulty level
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://paperdino.com/games/save-the-date/
+X-Arch-Package-Votes=1

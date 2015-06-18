@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=ImageWriter (Image2USB)
+Name[de]=Imagewriter (Image auf USB-Stick)
+Comment[de]=StoMoX-USB-Version auf USB-Stick installieren
+Icon=/usr/share/imagewriter/usb-stick.png
+TryExec=/usr/bin/sudo
+Exec=sudo python2 /usr/lib/imagewriter/imagewriter.py
+Categories=Utility;
+StartupNotify=true
+X-AppInstall-Package=stomox-imagewriter
+X-AppInstall-Section=aur
+X-Arch-Package=stomox-imagewriter 1.3-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=stomox-imagewriter
+X-Arch-Package-Version=1.3-2
+X-Arch-Package-Description=A GUI tool to write StoMoX.img (or other) to USB mass storage
+X-Arch-Package-URL=https://launchpad.net/usb-imagewriter

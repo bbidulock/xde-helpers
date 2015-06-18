@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Phoenix Second Life viewer
+Comment=Second Life is a 3-D virtual world entirely built and owned by its residents
+Icon=/usr/share/pixmaps/phoenix_icon.png
+TryExec=/usr/bin/phoenixviewer
+Exec=/usr/bin/phoenixviewer
+Categories=Game;
+X-AppInstall-Package=phoenixviewer
+X-AppInstall-Section=aur
+X-Arch-Package=phoenixviewer 1.6.1.1691-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=phoenixviewer
+X-Arch-Package-Version=1.6.1.1691-1
+X-Arch-Package-Description=Second Life is a 3-D virtual world entirely built and owned by its residents. Phoenix is alternative viewer for secondlife (native 32bit)
+X-Arch-Package-URL=http://www.phoenixviewer.com

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Cubosphere
+GenericName=Logic Game
+Comment=3d puzzle
+TryExec=/usr/bin/cubosphere
+Exec=cubosphere
+Categories=Game;LogicGame;
+X-AppInstall-Package=cubosphere
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package=cubosphere 0.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cubosphere
+X-Arch-Package-Version=0.3-1
+X-Arch-Package-Description=3d puzzle similar to Kula World/Roll Away
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://sourceforge.net/projects/cubosphere/
+X-Arch-Package-Votes=11

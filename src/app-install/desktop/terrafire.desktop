@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Terrafire
+Comment=Award-winning arcade game featuring rendered 3D graphics, realistic gravitational physics and 360 degree parallax scrolling.
+Icon=terrafire
+TryExec=/usr/bin/terrafire
+Exec=terrafire
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=terrafire
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=terrafire 2.0-7
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=terrafire
+X-Arch-Package-Version=2.0-7
+X-Arch-Package-Description=Award-winning arcade game featuring rendered 3D graphics,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.ortsoftware.com/tf.html
+X-Arch-Package-Votes=5

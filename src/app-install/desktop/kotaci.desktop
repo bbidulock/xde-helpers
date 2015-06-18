@@ -1,0 +1,23 @@
+[Desktop Entry]
+Version=0.4
+Type=Application
+Name=Kotaci
+GenericName=ADSL quota checker
+Comment=Turk Telekom ADSL download checker
+Comment[tr]=Turk Telekom ADSL quota checker
+Icon=kotaci.png
+TryExec=/usr/bin/kotaci
+Exec=kotaci
+Categories=Application;Network;
+StartupNotify=false
+X-AppInstall-Package=kotaci
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=kotaci 0.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kotaci
+X-Arch-Package-Version=0.6-1
+X-Arch-Package-Description=A tray icon that shows monthly download for turk telekom adsl
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/kotaci/
+X-Arch-Package-Votes=2

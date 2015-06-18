@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Pygmed
+Comment=Edit .desktop files
+Icon=package_editors
+TryExec=/usr/bin/pygmed
+Exec=pygmed
+Categories=Development;Utility;
+StartupNotify=true
+X-AppInstall-Package=pygmed
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=pygmed 0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pygmed
+X-Arch-Package-Version=0.1-1
+X-Arch-Package-Description=A simple editor for .desktop files.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/pygmed/
+X-Arch-Package-Votes=3

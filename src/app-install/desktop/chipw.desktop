@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Chip's Workshop
+Comment=Chip's Challenge level editor
+Icon=chipw
+TryExec=/usr/bin/chipw
+Exec=chipw %f
+Categories=Game;
+MimeType=application/x-chips-challenge-levels;
+X-AppInstall-Package=chipw
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=chipw 2.0.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=chipw
+X-Arch-Package-Version=2.0.6-1
+X-Arch-Package-Description=An editor for Chip's Challenge levels.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.microstupidity.com/chipw/
+X-Arch-Package-Votes=1

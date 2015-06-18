@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=FoFiX (GIT)
+Comment=A great Guitar Hero clone!
+Icon=/usr/share/pixmaps/fofix-git.png
+TryExec=/usr/bin/fofix-git
+Exec=/usr/bin/fofix-git
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=fofix-git
+X-AppInstall-Popcon=17
+X-AppInstall-Section=aur
+X-Arch-Package=fofix-git v4.0.0alpha1.607.g3fe0f93-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fofix-git
+X-Arch-Package-Version=v4.0.0alpha1.607.g3fe0f93-1
+X-Arch-Package-Description=fretsonfire X (FoFiX). Highly improved version of Frets on
+X-Arch-Package-Groups=games
+X-Arch-Package-URL=http://code.google.com/p/fofix/
+X-Arch-Package-Votes=17

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=CeWe Mon livre photos
+Comment=Offline client for cewe.de service - Version française
+Icon=cewe-monlivrephoto
+TryExec=/usr/bin/cewe-monlivrephoto
+Exec=cewe-monlivrephoto
+Categories=Graphics;Photography;
+StartupNotify=true
+X-AppInstall-Package=cewe-monlivrephoto
+X-AppInstall-Section=aur
+X-Arch-Package=cewe-monlivrephoto 5.1.7-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cewe-monlivrephoto
+X-Arch-Package-Version=5.1.7-1
+X-Arch-Package-Description=Création off-line de livres photos, pour ensuite les commander
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.livrephoto-cewe.fr/
+X-Arch-Package-Votes=0

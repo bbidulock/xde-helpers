@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=KeePass Password Safe
+GenericName=Cross-platform password manager
+Comment=The free, open source, light-weight and easy-to-use password manager
+Icon=keepass
+TryExec=/usr/bin/keepass
+Exec=keepass
+NoDisplay=true
+Categories=Utility;
+MimeType=application/x-keepass2;
+StartupNotify=false
+StartupWMClass=KeePass2
+X-AppInstall-Package=keepass-davfix
+X-AppInstall-Section=aur
+X-Arch-Package=keepass-davfix 2.26-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=keepass-davfix
+X-Arch-Package-Version=2.26-1
+X-Arch-Package-Description=A easy-to-use password manager for Windows, Linux, Mac OS X and mobile devices, patched to fix WebDAV
+X-Arch-Package-URL=http://keepass.info/
+Aliases=keepass;

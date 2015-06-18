@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Winbox
+Comment=GUI administration for Mikrotik RouterOS
+Icon=/usr/share/pixmaps/winbox.png
+TryExec=/usr/bin/winbox
+Exec=/usr/bin/winbox
+Categories=Utility;
+X-AppInstall-Package=winbox
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=winbox 2.2.18-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=winbox
+X-Arch-Package-Version=2.2.18-5
+X-Arch-Package-Description=Mikrotik RouterOS GUI Configurator (wine)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.mikrotik.com
+X-Arch-Package-Votes=8

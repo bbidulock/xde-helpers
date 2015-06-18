@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Rufus
+Comment=Rufus - BitTorrent Client
+Icon=/usr/share/pixmaps/rufus.ico
+TryExec=/usr/bin/rufus
+Exec=rufus
+Categories=Application;Network;
+MimeType=application/x-bittorrent;
+X-AppInstall-Package=rufus
+X-AppInstall-Section=aur
+X-Arch-Package=rufus 0.7.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rufus
+X-Arch-Package-Version=0.7.0-1
+X-Arch-Package-Description=Bittorrent client based on Python
+X-Arch-Package-URL=http://rufus.sourceforge.net

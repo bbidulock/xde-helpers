@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Peercoin
+Comment=Peercoin P2P Cryptocurrency
+Icon=/usr/share/pixmaps/peercoin.png
+TryExec=/usr/bin/peercoin-qt
+Exec=/usr/bin/peercoin-qt
+Categories=Application;Network;
+MimeType=x-scheme-handler/peercoin;
+X-AppInstall-Package=peercoin-qt-git
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=peercoin-qt-git 0.3.0ppc.r38.g55dda99-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=peercoin-qt-git
+X-Arch-Package-Version=0.3.0ppc.r38.g55dda99-3
+X-Arch-Package-Description=The secure and sustainable cryptocurency
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/ppcoin/ppcoin
+X-Arch-Package-Votes=2

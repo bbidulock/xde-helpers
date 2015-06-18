@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Gnalert
+GenericName=Gnalert
+Comment=A simple notifier
+Icon=/usr/share/gnalert/data/emblem-important.svg
+TryExec=/usr/bin/gnalert
+Exec=/usr/bin/gnalert
+Categories=Utility;
+StartupNotify=false
+X-AppInstall-Package=gnalert
+X-AppInstall-Section=aur
+X-Arch-Package=gnalert 1.2.0-7
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gnalert
+X-Arch-Package-Version=1.2.0-7
+X-Arch-Package-Description=A simple notifier
+X-Arch-Package-URL=http://github.com/foutrelis/gnalert

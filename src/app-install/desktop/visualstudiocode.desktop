@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Visual Studio Code
+Comment=Lightweight code editor by Microsoft.
+Icon=visualstudiocode
+TryExec=/usr/bin/visualstudiocode
+Exec=/usr/bin/visualstudiocode
+Terminal=False
+Categories=Development;
+X-AppInstall-Package=visualstudiocode
+X-AppInstall-Section=aur
+X-Arch-Package=visualstudiocode 0.1.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=visualstudiocode
+X-Arch-Package-Version=0.1.0-3
+X-Arch-Package-Description=Lightweight code editor by Microsoft.
+X-Arch-Package-URL=https://code.visualstudio.com

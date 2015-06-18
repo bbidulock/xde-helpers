@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Jbackpack
+GenericName=Jbackpack
+Comment=Graphical frontend to rdiff
+Icon=/usr/share/java/jbackpack/icon.svg
+TryExec=/usr/bin/jbackpack
+Exec=jbackpack
+Categories=System;
+X-AppInstall-Package=jbackpack
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=jbackpack 0.9.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jbackpack
+X-Arch-Package-Version=0.9.3-1
+X-Arch-Package-Description=A grahical frontend to rdiff
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.nongnu.org/jbackpack/index.html
+X-Arch-Package-Votes=2

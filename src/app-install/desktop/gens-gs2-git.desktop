@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Gens/GS II
+GenericName=Sega Genesis, Sega CD, and Sega 32X emulator
+Comment=Sega Genesis, Sega CD, and Sega 32X emulator
+Icon=gens-qt4
+TryExec=/usr/bin/gens-qt4
+Exec=gens-qt4
+NoDisplay=true
+Categories=Application;Game;Emulator;
+X-AppInstall-Package=gens-gs2-git
+X-AppInstall-Section=aur
+X-Arch-Package=gens-gs2-git 2365-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gens-gs2-git
+X-Arch-Package-Version=2365-1
+X-Arch-Package-Description=A Sega Genesis / Sega CD / Sega 32X emulator
+X-Arch-Package-URL=http://segaretro.org/Gens/GS_II
+Aliases=gens-qt4;

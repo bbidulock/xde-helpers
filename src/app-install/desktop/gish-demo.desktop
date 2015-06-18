@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Gish (demo)
+GenericName=Platform Game
+Comment=2D platform game
+Icon=gish.png
+TryExec=/usr/bin/gish-demo
+Exec=gish-demo
+Categories=Game;LogicGame;
+X-AppInstall-Package=gish-demo
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=gish-demo 1-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gish-demo
+X-Arch-Package-Version=1-4
+X-Arch-Package-Description=side scrolling tar ball fun game (demo)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.chroniclogic.com/
+X-Arch-Package-Votes=4

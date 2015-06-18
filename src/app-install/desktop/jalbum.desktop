@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Jalbum
+Comment=Make web photo albums with thumbnail pages and slide shows
+Icon=jalbum.png
+TryExec=/usr/bin/jalbum
+Exec=jalbum
+Categories=Application;Graphics;
+MimeType=application/x-jalbum-jaskin;application/x-extension-jap;application/x-extension-jaskin;
+Path=/usr/share/jalbum
+X-AppInstall-Package=jalbum
+X-AppInstall-Popcon=32
+X-AppInstall-Section=aur
+X-Arch-Package=jalbum 12.6.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jalbum
+X-Arch-Package-Version=12.6.4-1
+X-Arch-Package-Description=free web photo album software and photo gallery software
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://jalbum.net/
+X-Arch-Package-Votes=32

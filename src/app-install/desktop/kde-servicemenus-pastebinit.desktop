@@ -1,0 +1,27 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=KonqPopupMenu/Plugin;
+NoDisplay=true
+MimeType=text/plain;
+X-KDE-StartupNotify=false
+X-AppInstall-Package=kde-servicemenus-pastebinit
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=kde-servicemenus-pastebinit 0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kde-servicemenus-pastebinit
+X-Arch-Package-Version=0.1-1
+X-Arch-Package-Description=A KDE service menu for sending files to pastebin like sites
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://example.com
+X-Arch-Package-Votes=1
+Aliases=pastebinit;
+X-KDE-Priority=TopLevel
+Actions=paste
+
+[Desktop Action paste]
+Name=Send to paste server
+Name[pl]=Wyślij na serwer
+Icon=edit-paste
+TryExec=/usr/bin/cat
+Exec=cat %u | pastebinit -b http://paste2.org | xclip -selection clipboard

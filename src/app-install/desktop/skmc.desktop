@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=SK's Minecraft Launcher
+GenericName=skmclauncher
+Comment=A game about placing blocks while running from skeletons.
+Icon=/usr/share/pixmaps/skmc.png
+TryExec=/usr/bin/skmc
+Exec=skmc
+Categories=Game;
+X-AppInstall-Package=skmclauncher
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=skmclauncher latest-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=skmclauncher
+X-Arch-Package-Version=latest-1
+X-Arch-Package-Description=sk89q's Minecraft launcher - Easily install mods, update MC,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/sk89q/skmclauncher
+X-Arch-Package-Votes=4

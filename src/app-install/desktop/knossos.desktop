@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Knossos
+Icon=/usr/lib/python3.4/site-packages/knossos/data/hlp.png
+TryExec=/usr/bin/knossos
+Exec=knossos %U
+MimeType=x-scheme-handler/fso;
+X-AppInstall-Package=fs2-knossos
+X-AppInstall-Section=aur
+X-Arch-Package=fs2-knossos 0.1.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fs2-knossos
+X-Arch-Package-Version=0.1.1-1
+X-Arch-Package-Description=A simple mod manager for FreeSpace 2 Open
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/ngld/knossos
+X-Arch-Package-Votes=0

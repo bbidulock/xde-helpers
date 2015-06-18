@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=vile
+GenericName=vile
+Comment=vile Text Editor
+Icon=text-editor
+TryExec=/usr/bin/vile
+Exec=vile
+Terminal=true
+Categories=Utility;TextEditor;
+StartupNotify=false
+X-AppInstall-Package=vile
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=vile
+X-Arch-Package-Version=9.8_p-1
+X-Arch-Package-Description=vi like emacs
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://invisible-island.net/vile/vile.html
+X-AfterStep-IndexName=vile

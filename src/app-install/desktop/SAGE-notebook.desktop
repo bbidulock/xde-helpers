@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=SAGE
+Comment=SAGE NOTEBOOK
+Icon=/opt/sage/devel/ext-main/notebook/images/sageicon.png
+TryExec=/opt/sage/sage
+Exec=/opt/sage/sage -notebook
+Terminal=true
+Categories=Science;Math;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=sage
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sage
+X-Arch-Package-Version=0.2.0-3
+X-Arch-Package-Description=An OpenGL extensions library using SDL
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://worldforge.org/dev/eng/libraries/sage
+X-Arch-Package-Votes=13

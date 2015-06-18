@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Scratch 2.0
+Comment=You can program your own interactive stories, games, and animations
+Icon=scratch2
+TryExec=/usr/bin/scratch2
+Exec=scratch2
+Categories=Development;Education;Programming;
+MimeType=application/x-scratch-project;
+X-AppInstall-Package=scratch2
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=scratch2 2.0.436-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=scratch2
+X-Arch-Package-Version=2.0.-2
+X-Arch-Package-Description=With Scratch, you can program your own interactive stories,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://scratch.mit.edu
+X-Arch-Package-Votes=2

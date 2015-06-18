@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=XBSlink
+Icon=/opt/XBSlink/xbslink.ico
+Icon[en_US]=/opt/XBSlink/xbslink.ico
+TryExec=Exec=/opt/XBSlink/su-to-xbslink.sh
+Exec=Exec=/opt/XBSlink/su-to-xbslink.sh
+Categories=Application;Network;
+Path=/opt/XBSlink/
+X-AppInstall-Package=xbslink
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=xbslink 0.9.6.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xbslink
+X-Arch-Package-Version=0.9.6.0-1
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.secudb.de/~seuffert/xbslink/
+X-Arch-Package-Votes=3

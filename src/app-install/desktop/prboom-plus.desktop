@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=PrBoom Plus
+Comment=An enhanced Doom game engine
+Icon=prboom-plus
+TryExec=/usr/bin/prboom-plus
+Exec=prboom-plus
+Categories=Game;ActionGame;
+X-AppInstall-Package=prboom-plus
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=prboom-plus 2.5.1.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=prboom-plus
+X-Arch-Package-Version=2.5.1.3-1
+X-Arch-Package-Description=An enhanced version of the PrBoom Doom engine port
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://prboom-plus.sourceforge.net/
+X-Arch-Package-Votes=6

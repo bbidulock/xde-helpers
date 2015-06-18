@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Laborejo
+Comment=Music Notation Workshop
+Icon=laborejo
+TryExec=/usr/bin/laborejo
+Exec=laborejo
+Categories=Application;AudioVideo;Audio;Education;Midi;Music;Qt;Multimedia;X-Jack;
+MimeType=application/x-laborejo;
+X-AppInstall-Package=laborejo
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=laborejo 0.8-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=laborejo
+X-Arch-Package-Version=0.8-1
+X-Arch-Package-Description=Music Notation Workshop
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.laborejo.org/
+X-Arch-Package-Votes=7

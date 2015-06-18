@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Gratuitous Space Battles
+GenericName=Gratuitous Space Battles
+Comment=A tower-defense-like space battle simulator
+Icon=/opt/GSB/icon.png
+TryExec=/usr/bin/gsb
+Exec=/usr/bin/gsb
+Categories=Game;
+Path=/usr/bin
+X-AppInstall-Package=gsb
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package=gsb 1.56.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gsb
+X-Arch-Package-Version=1.56.0-2
+X-Arch-Package-Description=A tower-defense-like space battle simulator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://positech.co.uk/gratuitousspacebattles/
+X-Arch-Package-Votes=11

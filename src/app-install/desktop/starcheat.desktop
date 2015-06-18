@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Starcheat
+GenericName=Starbound Character Editor
+Icon=starcheat.png
+TryExec=/usr/bin/starcheat
+Exec=starcheat
+Categories=Game;Editor;
+X-AppInstall-Package=starcheat
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=starcheat 0.22-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=starcheat
+X-Arch-Package-Version=0.22-1
+X-Arch-Package-Description=Starbound player save editor and Python library
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/wizzomafizzo/starcheat
+X-Arch-Package-Votes=3

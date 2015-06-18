@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=GSAS II
+Icon=/opt/gsas2/gsas2.png
+TryExec=/opt/gsas2/gsas2
+Exec=/opt/gsas2/gsas2
+Terminal=true
+NoDisplay=true
+Categories=Science;
+X-AppInstall-Package=gsas-2
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=gsas-2 785-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gsas-2
+X-Arch-Package-Version=785-1
+X-Arch-Package-Description=General Structure Analysis System II - refinement for powder
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://subversion.xor.aps.anl.gov/trac/pyGSAS
+X-Arch-Package-Votes=2
+Aliases=GSASII;

@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Canon IP4300 status monitor
+Name[fr]=Etat imprimante Canon IP4300
+Comment=Display Canon IP4300 status monitor
+Comment[fr]=Afficher l'état de l'imprimante Canon IP4300
+Icon=printer
+TryExec=/usr/bin/cngpijmonip4300
+Exec=cngpijmonip4300
+NoDisplay=true
+Categories=System;GTK;
+StartupNotify=true
+X-AppInstall-Package=cnijfilter-ip4300
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=cnijfilter-ip4300 2.70-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cnijfilter-ip4300
+X-Arch-Package-Version=2.70-1
+X-Arch-Package-Description=Canon IJ Printer Driver for Pixma IP4300 multifunction
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://support-au.canon.com.au/contents/AU/EN/0100084103.html
+X-Arch-Package-Votes=6
+Aliases=cngpijmonip4300;

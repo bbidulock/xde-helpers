@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=TopMod
+Comment="a topological mesh modeling system"
+Icon=topmod
+TryExec=/usr/bin/topmod
+Exec=topmod
+Categories=Graphics;3DGraphics;
+X-AppInstall-Package=topmod-svn
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=topmod-svn 253-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=topmod-svn
+X-Arch-Package-Version=253-1
+X-Arch-Package-Description=A topological mesh modeling system that allows users to create
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sites.google.com/site/topmod3d/
+X-Arch-Package-Votes=2

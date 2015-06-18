@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=GitEye
+Comment=Graphical Git/Hg client
+Comment[de]=Ein grafischer Git/Hg Client
+Icon=giteye.xpm
+TryExec=/opt/giteye/GitEye
+Exec=/opt/giteye/GitEye
+X-MultipleArgs=false
+Categories=Development;
+X-AppInstall-Package=giteye
+X-AppInstall-Popcon=22
+X-AppInstall-Section=aur
+X-Arch-Package=giteye 1.10.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=giteye
+X-Arch-Package-Version=1.10.0-1
+X-Arch-Package-Description=A desktop for Git. It works with TeamForge, CloudForge, GitHub
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.collab.net/giteyeapp
+X-Arch-Package-Votes=22

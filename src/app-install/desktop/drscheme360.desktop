@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=DrScheme360
+GenericName=IDE for Scheme 360
+Comment=DrScheme is an interactive, integrated, graphical programming environment for the Scheme, MzScheme, and MrEd programming Languages.
+Icon=drscheme360
+TryExec=/usr/bin/drscheme360
+Exec=drscheme360
+Categories=Development;Education;
+X-AppInstall-Package=drscheme360
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=drscheme360 360-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=drscheme360
+X-Arch-Package-Version=360-1
+X-Arch-Package-Description=PLT Scheme Environment
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.drscheme.org/
+X-Arch-Package-Votes=4

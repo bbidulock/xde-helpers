@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.4
+Type=Application
+Name=block-attack.desktop
+Comment=An open source clone of Tetris Attack based on SDL
+Icon=blockattack.xpm
+TryExec=/usr/bin/blockattack
+Exec=blockattack
+Categories=Application;Games;
+X-AppInstall-Package=block-attack
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=block-attack 1.4.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=block-attack
+X-Arch-Package-Version=1.4.2-1
+X-Arch-Package-Description=An open source clone of Tetris Attack based on SDL
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://blockattack.sourceforge.net/
+X-Arch-Package-Votes=1

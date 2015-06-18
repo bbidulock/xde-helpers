@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=GopherVR
+GenericName=3-D Gopher browser
+Icon=gophervr_icon.png
+TryExec=/usr/bin/gophervr
+Exec=gophervr
+Categories=Application;Network;Internet;
+StartupNotify=false
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=gophervr
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=gophervr 0.5.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gophervr
+X-Arch-Package-Version=0.5.0-1
+X-Arch-Package-Description=A 3-D interface to Gopherspace
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=gopher://gopher.floodgap.com/1/gophervr
+X-Arch-Package-Votes=4

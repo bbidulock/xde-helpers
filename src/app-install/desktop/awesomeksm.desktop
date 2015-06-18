@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=Awesome
+TryExec=/usr/bin/awesome
+Exec=awesome
+X-AppInstall-Package=awesome34-luajit
+X-AppInstall-Section=aur
+X-Arch-Package=awesome34-luajit 3.4.15-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=awesome34-luajit
+X-Arch-Package-Version=3.4.15-1
+X-Arch-Package-Description=A highly configurable, next generation framework window
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://awesome.naquadah.org/
+X-Arch-Package-Votes=0

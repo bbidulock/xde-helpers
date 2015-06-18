@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Magnetic Scrolls interpreter
+GenericName=Magnetic
+Comment=Play classic text adventures by Magnetic Scrolls
+Icon=gtkmagnetic.png
+TryExec=/usr/bin/gtkmagnetic
+Exec=gtkmagnetic %U
+Categories=Application;Game;GTK;
+StartupNotify=true
+X-AppInstall-Package=gtkmagnetic
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=gtkmagnetic 2.3-6
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gtkmagnetic
+X-Arch-Package-Version=2.3-6
+X-Arch-Package-Description=An interpreter for Magnetic Scrolls adventures.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://mirror.ifarchive.org/indexes/if-archiveXmagnetic-scrollsXinterpretersXmagnetic.html
+X-Arch-Package-Votes=2

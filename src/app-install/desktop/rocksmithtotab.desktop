@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=RocksmithToTab
+GenericName=Rocksmith Songs To Tabs
+Comment=Exports Rocksmith 2014 arrangements to Guitar Pro or TuxGuitar tabs.
+Icon=/usr/lib/rocksmithtotab/logo.png
+TryExec=/usr/bin/rocksmithtotab-gui
+Exec=rocksmithtotab-gui
+Categories=Application;AudioVideo;Audio;
+X-AppInstall-Package=rocksmithtotab
+X-AppInstall-Section=aur
+X-Arch-Package=rocksmithtotab 0.9.9-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rocksmithtotab
+X-Arch-Package-Version=0.9.9-1
+X-Arch-Package-Description=Exports Rocksmith 2014 arrangements to Guitar Pro or TuxGuitar
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.rocksmithtotab.de/
+X-Arch-Package-Votes=0

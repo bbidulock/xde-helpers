@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Bubble Chains
+Comment=A 2d arcade-puzzle game.
+Icon=chains.png
+TryExec=/usr/bin/chains
+Exec=chains
+X-MultipleArgs=false
+NoDisplay=true
+Categories=Game;LogicGame;Qt;
+StartupNotify=true
+X-AppInstall-Package=bubble-chains
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=bubble-chains 0.1.1-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bubble-chains
+X-Arch-Package-Version=0.1.1-5
+X-Arch-Package-Description=A 2d arcade-puzzle game. The aim is to collect chains of
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://bubble-chains.sintegrial.com/
+X-Arch-Package-Votes=7
+Aliases=chains;

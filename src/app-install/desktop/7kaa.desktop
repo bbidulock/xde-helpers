@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Seven Kingdoms: Ancient Adversaries
+Comment=Real-time strategy computer game
+Icon=7kaa.ico
+TryExec=/usr/bin/7kaa
+Exec=/usr/bin/7kaa
+Categories=Application;Game;
+X-AppInstall-Package=7kaa
+X-AppInstall-Popcon=26
+X-AppInstall-Section=aur
+X-Arch-Package=7kaa 2.14.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=7kaa
+X-Arch-Package-Version=2.14.5-1
+X-Arch-Package-Description=Seven Kingdoms: Ancient Adversaries is a real-time strategy
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://7kfans.com/
+X-Arch-Package-Votes=26

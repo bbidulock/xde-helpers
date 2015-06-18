@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Asteroids
+Comment=A remake of the game 'asteroids' in C++
+Icon=/usr/share/pixmaps/asteroids.png
+TryExec=/usr/bin/asteroids
+Exec=/usr/bin/asteroids
+Categories=Game;
+X-AppInstall-Package=asteroids
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=asteroids 0.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=asteroids
+X-Arch-Package-Version=0.2-1
+X-Arch-Package-Description=A remake of the game 'asteroids' in C++
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/zigarrre/asteroids
+X-Arch-Package-Votes=2

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=GL Chess
+Icon=/usr/share/pixmaps/glchess.xpm
+TryExec=/usr/bin/glchess
+Exec=glchess
+Categories=X-Debian-Games-Board;
+StartupNotify=false
+X-AppInstall-Package=glchess
+X-AppInstall-Popcon=19
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=glchess
+X-Arch-Package-Version=1.0.6-3
+X-Arch-Package-Description=3D Chess Frontend
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://glchess.sf.net
+X-Arch-Package-Votes=19

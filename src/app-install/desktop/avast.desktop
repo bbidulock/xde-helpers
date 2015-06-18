@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=avast!
+GenericName=avast!
+Comment=Linux Home Edition represents an antivirus solution for the increasingly popular Linux platform.
+Icon=avast.png
+TryExec=/usr/bin/avastgui
+Exec=avastgui
+Terminal=False
+Categories=Utility;GNOME;Accessories;Applications;
+X-AppInstall-Package=avast
+X-AppInstall-Section=aur
+X-Arch-Package=avast 1.3.0-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=avast
+X-Arch-Package-Version=1.3.0-5
+X-Arch-Package-Description=Avast4workstation antivirus (Home/Non-Commercial Only)
+X-Arch-Package-URL=http://www.avast.com/

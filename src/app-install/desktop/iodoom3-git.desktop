@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=IODOOM 3
+GenericName=IODOOM 3
+Icon=/usr/share/pixmaps/iodoom3.png
+TryExec=/usr/bin/iodoom3
+Exec=/usr/bin/iodoom3
+NoDisplay=true
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=iodoom3-git
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=iodoom3-git 20141221-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=iodoom3-git
+X-Arch-Package-Version=20141221-1
+X-Arch-Package-Description=A fork of the Doom 3 source code as released by id software
+X-Arch-Package-Groups=games
+X-Arch-Package-URL=http://www.iodoom3.org/
+X-Arch-Package-Votes=4
+Aliases=iodoom3;

@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=Twitux
+Comment=A GTK+ Twitter client
+Comment[es]=Un cliente Twitter
+Comment[ja]=Twitterクライアント
+Comment[pt]=Um cliente Twitter
+Comment[ru]=Twitter клиент
+Comment[uk]=Twitter клієнт
+Icon=/usr/share/icons/hicolor/48x48/apps/twitux.png
+TryExec=/usr/bin/twitux
+Exec=twitux
+Categories=Network;GTK;
+StartupNotify=true
+X-AppInstall-Package=twitux
+X-AppInstall-Popcon=67
+X-AppInstall-Section=aur
+X-Arch-Package=twitux 0.69-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=twitux
+X-Arch-Package-Version=0.69-5
+X-Arch-Package-Description=A GTK+ Twitter client
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://live.gnome.org/DanielMorales/Twitux
+X-Arch-Package-Votes=67

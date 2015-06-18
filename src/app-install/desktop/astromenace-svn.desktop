@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Astromenace
+Comment=Space shooter
+Icon=/usr/share/pixmaps/astromenace.png
+TryExec=/usr/bin/astromenace
+Exec=/usr/bin/astromenace
+NoDisplay=true
+Categories=Application;Game;ArcadeGame;
+StartupNotify=true
+X-AppInstall-Package=astromenace-svn
+X-AppInstall-Section=aur
+X-Arch-Package=astromenace-svn 293-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=astromenace-svn
+X-Arch-Package-Version=293-1
+X-Arch-Package-Description=The latest version of hardcore 3D space shooter with spaceship
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.viewizard.com/astromenace/index_linux.php
+X-Arch-Package-Votes=0
+Aliases=astromenace;

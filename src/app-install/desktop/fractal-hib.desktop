@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Fractal
+Comment=Music Puzzler Game
+Icon=fractal
+TryExec=/usr/bin/fractal
+Exec=fractal
+NoDisplay=true
+Categories=Game;LogicGame;
+StartupNotify=false
+X-AppInstall-Package=fractal-hib
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=fractal-hib 20130613-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fractal-hib
+X-Arch-Package-Version=20130613-1
+X-Arch-Package-Description=An enthralling music puzzler experience (Humble Bundle
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.cipherprime.com/games/fractal/
+X-Arch-Package-Votes=2
+Aliases=fractal;

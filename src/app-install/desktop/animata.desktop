@@ -1,0 +1,22 @@
+[Desktop Entry]
+Version=004
+Type=Application
+Name=Animata
+GenericName=Real-time animation software
+Comment=Create real-time animations
+Icon=animata
+TryExec=/usr/bin/animata
+Exec=animata %f
+Categories=Graphics;2DGraphics;
+StartupNotify=true
+X-AppInstall-Package=animata
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=animata 004-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=animata
+X-Arch-Package-Version=004-1
+X-Arch-Package-Description=an open source real-time animation software
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://animata.kibu.hu/
+X-Arch-Package-Votes=1

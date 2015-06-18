@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Thunderbird (Beta)
+GenericName=Mail Client & News Reader (Beta)
+Comment=Mail & News Reader (Beta)
+Icon=thunderbird-beta
+TryExec=/usr/bin/thunderbird-beta
+Exec=thunderbird-beta %u
+NoDisplay=true
+Categories=Network;Email;
+MimeType=message/rfc822;x-scheme-handler/mailto;
+StartupNotify=true
+X-AppInstall-Package=thunderbird-beta-bin-all-localizations
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=thunderbird-beta-bin-all-localizations 38.0b1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=thunderbird-beta-bin-all-localizations
+X-Arch-Package-Version=38.0b1-1
+X-Arch-Package-Description=Perl script for installing latest TB beta in the language of
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.mozilla.com/thunderbird/channel/
+X-Arch-Package-Votes=1
+Aliases=thunderbird-beta-bin;

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=SeaMonkey
+Comment=Web Browser
+Icon=seamonkey
+TryExec=/usr/bin/seamonkey
+Exec=seamonkey %u
+MultipleArgs=false
+Categories=Application;Network;
+MimeType=text/html;text/xml;application/xhtml+xml;application/vnd.mozilla.xul+xml;text/mml;x-scheme-handler/http;x-scheme-handler/https;message/rfc822;x-scheme-handler/mailto;
+StartupNotify=false
+X-AppInstall-Package=seamonkey
+X-AppInstall-Section=community
+X-Arch-Package=seamonkey 2.13.2-1
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=seamonkey
+X-Arch-Package-Version=2.33.1-2
+X-Arch-Package-Description=SeaMonkey internet suite
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.seamonkey-project.org/

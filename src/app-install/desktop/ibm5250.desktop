@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=IBM iSeries Access Emulator
+Comment=IBM iSeries Access Emulator for 5250 and AS400
+Icon=ibm5250.png
+TryExec=/usr/bin/ibm5250
+Exec=ibm5250
+Categories=Network;
+Keywords=IBM;iseries;as400;emulator;5250;telnet;
+X-AppInstall-Package=iseriesaccess5
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=iseriesaccess5 5.4.0.1.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=iseriesaccess5
+X-Arch-Package-Version=5.4.0.1.6-1
+X-Arch-Package-Description=IBM iSeries Access provides a 5250 emulator and others tools
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www-03.ibm.com/systems/power/software/i/access/linux.html
+X-Arch-Package-Votes=1

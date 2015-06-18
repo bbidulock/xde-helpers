@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=openVPN Connection Manager
+GenericName=openVPN Connection Manager
+Comment=openVPN Connection Manager
+Icon=/usr/share/pixmaps/openvpn-qt-arch.png
+TryExec=/usr/bin/openvpn-qt-arch
+Exec=/usr/bin/openvpn-qt-arch
+Categories=Network;
+StartupNotify=true
+X-AppInstall-Package=openvpn-qt-arch
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=openvpn-qt-arch 2.0.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=openvpn-qt-arch
+X-Arch-Package-Version=2.0.3-1
+X-Arch-Package-Description=OpenVPN Connection Manager
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://sourceforge.net/projects/openvpn-qt/
+X-Arch-Package-Votes=1

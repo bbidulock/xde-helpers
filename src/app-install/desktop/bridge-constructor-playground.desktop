@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Bridge Constructor Playground
+Comment=Merge Games
+Icon=bridge-constructor-playground
+TryExec=/usr/bin/bridge-constructor-playground
+Exec=/usr/bin/bridge-constructor-playground
+Categories=Game;
+X-AppInstall-Package=bridge-constructor-playground
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=bridge-constructor-playground 1.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bridge-constructor-playground
+X-Arch-Package-Version=1.4-1
+X-Arch-Package-Description=Become an appraised bridge engineer and architect in Bridge
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.bridgeconstructor.com/
+X-Arch-Package-Votes=1

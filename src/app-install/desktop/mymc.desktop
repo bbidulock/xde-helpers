@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=MyMC
+GenericName=PS2 Memory Card Editor
+Icon=mymc
+TryExec=/usr/bin/mymc-gui
+Exec=mymc-gui
+Categories=Game;Utility;
+X-AppInstall-Package=mymc
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=mymc 2.6-9
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mymc
+X-Arch-Package-Version=2.6-9
+X-Arch-Package-Description=A public domain utility for working with PlayStation 2 memory
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.csclub.uwaterloo.ca:11068/mymc
+X-Arch-Package-Votes=3

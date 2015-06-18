@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=SmartGit/Hg
+Comment=Graphical Git/Hg client
+Comment[de]=Ein grafischer Git/Hg Client
+Icon=/opt/smartgithg/bin/smartgithg-256.png
+TryExec=/usr/bin/smartgithg
+Exec=smartgithg
+X-MultipleArgs=false
+Categories=Development;
+MimeType=application/smartgithg;application/x-smartgithg;
+StartupWMClass=SmartGit/Hg
+X-AppInstall-Package=smartgithg
+X-AppInstall-Section=aur
+X-Arch-Package=smartgithg 6.0.7-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=smartgithg
+X-Arch-Package-Version=6.0.7-2
+X-Arch-Package-Description=Git/Hg GUI client written in Java.
+X-Arch-Package-URL=http://www.syntevo.com/smartgit

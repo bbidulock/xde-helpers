@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Dwarf Fortress
+GenericName=Dwarf Fortress
+Comment=A single-player fantasy game.
+Icon=dwarffortress
+TryExec=/usr/bin/dwarffortress-ih_2012
+Exec=dwarffortress-ih_2012
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=dwarffortress-ironhand_2012
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=dwarffortress-ironhand_2012 0.34.11-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dwarffortress-ironhand_2012
+X-Arch-Package-Version=0.34.11-3
+X-Arch-Package-Description=A single-player fantasy game. You control a dwarven outpost or
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.bay12forums.com/smf/index.php?topic=53180.0
+X-Arch-Package-Votes=1
+Aliases=dwarffortress;

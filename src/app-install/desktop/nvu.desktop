@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Nvu
+Comment=WYSIWYG Web Editor
+Icon=/opt/mozilla/lib/nvu/icons/mozicon50.xpm
+TryExec=/usr/bin/nvu
+Exec=nvu
+Categories=Application;Development;
+X-AppInstall-Package=nvu-kde
+X-AppInstall-Section=aur
+X-Arch-Package=nvu-kde 1.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nvu-kde
+X-Arch-Package-Version=1.0-3
+X-Arch-Package-Description=A Dreamweaver style WYSIWYG web editor with kdemimetypes
+X-Arch-Package-URL=http://www.nvu.com/

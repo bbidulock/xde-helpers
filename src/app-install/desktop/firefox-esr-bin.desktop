@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=Firefox ESR
+GenericName=Web Browser
+Icon=firefox-esr
+TryExec=/usr/bin/firefox-esr
+Exec=firefox-esr %u
+MultipleArgs=false
+NoDisplay=true
+Categories=Application;Network;
+MimeType=text/html;text/xml;application/xhtml+xml;application/vnd.mozilla.xul+xml;text/mml;x-scheme-handler/http;x-scheme-handler/https;
+StartupNotify=false
+StartupWMClass=Firefox
+X-AppInstall-Package=firefox-esr-bin
+X-AppInstall-Popcon=43
+X-AppInstall-Section=aur
+X-Arch-Package=firefox-esr-bin 31.6.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firefox-esr-bin
+X-Arch-Package-Version=31.6.0-1
+X-Arch-Package-Description=Standalone web browser from mozilla.org - Extended Support
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.mozilla.org/en-US/firefox/organizations/
+X-Arch-Package-Votes=43
+Aliases=firefox-esr;

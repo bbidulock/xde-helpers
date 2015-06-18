@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.1.1.25
+Type=Application
+Name=LOIC
+Icon=loic.png
+TryExec=/usr/bin/mono
+Exec=mono /opt/loic/LOIC.exe
+Categories=Application;Network;
+X-AppInstall-Package=loic
+X-AppInstall-Popcon=37
+X-AppInstall-Section=aur
+X-Arch-Package=loic 1.1.1.25-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=loic
+X-Arch-Package-Version=1.1.1.25-4
+X-Arch-Package-Description=An open source network stress tool for Windows. Based on
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/NewEraCracker/LOIC
+X-Arch-Package-Votes=37

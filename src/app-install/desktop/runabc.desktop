@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.670
+Type=Application
+Name=RunAbc
+Comment=Frontend for a lot of ABC notation tools
+Icon=runabc.png
+TryExec=/usr/bin/runabc.tcl
+Exec=runabc.tcl
+Categories=AudioVideo;Audio;AudioVideoEditing;
+X-AppInstall-Package=runabc
+X-AppInstall-Section=aur
+X-Arch-Package=runabc 1.750-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=runabc
+X-Arch-Package-Version=1.750-1
+X-Arch-Package-Description=Runabc is a frontend for a lot of abc music notation tools
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ifdo.pugmarks.com/~seymour/runabc/runabc.html
+X-Arch-Package-Votes=0

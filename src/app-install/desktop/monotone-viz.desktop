@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Monotone-Viz
+Comment=A GTK+ app to visualize monotone ancestory graphs
+Icon=monotone-viz.png
+TryExec=/usr/bin/monotone-viz
+Exec=/usr/bin/monotone-viz
+Categories=Development;RevisionControl;
+URL=http://oandrieu.nerim.net/monotone-viz/
+StartupNotify=true
+X-AppInstall-Package=monotone-viz
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=monotone-viz 1.0.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=monotone-viz
+X-Arch-Package-Version=1.0.2-1
+X-Arch-Package-Description=monotone-viz is a small GTK+ app to visualize monotone
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://oandrieu.nerim.net/monotone-viz/
+X-Arch-Package-Votes=1

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Firefox UX - Safe Mode
+GenericName=Web Browser - Safe Mode
+Icon=firefox-nightly-icon
+TryExec=/usr/bin/firefox-ux
+Exec=firefox-ux -safe-mode %u
+MultipleArgs=false
+Categories=Application;Network;
+MimeType=text/html;
+StartupNotify=false
+X-AppInstall-Package=firefox-ux
+X-AppInstall-Section=aur
+X-Arch-Package=firefox-ux 30.0a1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firefox-ux
+X-Arch-Package-Version=30.0a1-1
+X-Arch-Package-Description=Standalone web browser from Mozilla, UX nightly build
+X-Arch-Package-URL=https://mozilla.com/~jwein/ux-nightly/

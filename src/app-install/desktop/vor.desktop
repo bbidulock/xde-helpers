@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=vor
+Comment=Variations on Rockdodger
+Icon=vor
+TryExec=/usr/bin/vor
+Exec=vor
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=vor
+X-AppInstall-Section=community
+X-Arch-Package=vor 0.5.4-2
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=vor
+X-Arch-Package-Version=0.5.5-3
+X-Arch-Package-Description=Classic spaceship versus asteroid field arcade game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://jasonwoof.org/vor

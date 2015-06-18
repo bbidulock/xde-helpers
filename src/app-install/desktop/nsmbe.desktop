@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=NSMB Editor
+Comment=New Super Mario Bros. Editor
+Icon=nsmbe
+TryExec=/usr/bin/nsmbe
+Exec=nsmbe
+Categories=Application;Game;
+X-AppInstall-Package=nsmb-editor
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=nsmb-editor 375-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nsmb-editor
+X-Arch-Package-Version=375-1
+X-Arch-Package-Description=New Super Mario Bros. editor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://nsmbhd.net/download/
+X-Arch-Package-Votes=1

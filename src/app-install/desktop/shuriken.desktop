@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Shuriken
+GenericName=Beat Slicer
+Comment=Shuriken Beat Slicer
+Icon=shuriken
+TryExec=/usr/bin/shuriken
+Exec=shuriken %F
+Categories=AudioVideo;Audio;AudioEditing;
+X-AppInstall-Package=shuriken
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=shuriken 0.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=shuriken
+X-Arch-Package-Version=0.4-1
+X-Arch-Package-Description=An open source beat slicer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://rock-hopper.github.io/shuriken
+X-Arch-Package-Votes=1

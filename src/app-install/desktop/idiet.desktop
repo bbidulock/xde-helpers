@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=idiet
+GenericName=iDiet
+Comment=Diet Management Software
+Icon=idiet
+TryExec=/usr/bin/idiet
+Exec=idiet
+Categories=Science;Biology;
+StartupNotify=true
+X-AppInstall-Package=idiet
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=idiet 1.0.5-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=idiet
+X-Arch-Package-Version=1.0.5-2
+X-Arch-Package-Description=a diet software that can help you choose, customize and follow
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://idiet.sourceforge.net
+X-Arch-Package-Votes=5

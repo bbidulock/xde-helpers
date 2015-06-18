@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1
+Type=Application
+Name=Tibia
+Comment=A free 2D online role playing game
+Icon=tibia
+TryExec=/usr/bin/tibia
+Exec=tibia
+Categories=Game;MMORPG;
+X-AppInstall-Package=tibia
+X-AppInstall-Popcon=23
+X-AppInstall-Section=aur
+X-Arch-Package=tibia 10.78-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tibia
+X-Arch-Package-Version=10.78-1
+X-Arch-Package-Description=A free 2D online role playing game.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.tibia.com/
+X-Arch-Package-Votes=23

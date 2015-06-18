@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=XSession
+Name=FVWM
+Comment=The fvwm window manager
+TryExec=/usr/bin/fvwm
+Exec=/usr/bin/fvwm
+X-AppInstall-Package=fvwm+
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=fvwm+ 2.6.5-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fvwm+
+X-Arch-Package-Version=2.6.5-5
+X-Arch-Package-Description=A powerful ICCCM2 compliant multiple virtual desktop window
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.fvwm.org
+X-Arch-Package-Votes=3

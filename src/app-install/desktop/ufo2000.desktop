@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=UFO2000
+Comment=An open source turn-based tactical squad simulation multiplayer game
+Icon=ufo2000.png
+TryExec=/usr/bin/ufo2000
+Exec=ufo2000
+Categories=Game;StrategyGame;
+X-AppInstall-Package=ufo2000
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=ufo2000 0.9.1176-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ufo2000
+X-Arch-Package-Version=0.9.1176-1
+X-Arch-Package-Description=An open source turn-based tactical squad simulation
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ufo2000.sourceforge.net/
+X-Arch-Package-Votes=4

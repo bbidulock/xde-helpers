@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=SheepShear
+GenericName=Mac OS PowerPC Classic Emulator
+Icon=sheepshear.png
+TryExec=/usr/bin/sheepshear
+Exec=sheepshear
+Categories=Application;
+X-AppInstall-Package=sheepshear-git
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=sheepshear-git 1041-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sheepshear-git
+X-Arch-Package-Version=1041-1
+X-Arch-Package-Description=SheepShear, an advanced PowerPC emulator designed to run MacOS
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/kallisti5/sheepshear
+X-Arch-Package-Votes=2

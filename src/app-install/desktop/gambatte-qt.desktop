@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Gambatte
+Comment=Game Boy Color emulator
+Icon=gambatte
+TryExec=/usr/bin/gambatte-qt
+Exec=gambatte-qt
+Categories=Game;Emulator;
+X-AppInstall-Package=gambatte-qt
+X-AppInstall-Section=community
+X-Arch-Package=gambatte-qt 0.5.0-4
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=gambatte-qt
+X-Arch-Package-Version=r572-1
+X-Arch-Package-Description=Accurate Game Boy Color emulator. Qt4 UI.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/sinamas/gambatte

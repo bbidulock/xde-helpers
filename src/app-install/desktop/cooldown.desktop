@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Cooldown
+GenericName=Cooldown
+Icon=/usr/share/cooldown/data/images/ball.png
+TryExec=/usr/bin/cooldown.sh
+Exec=/usr/bin/cooldown.sh
+Categories=Game;LogicGame;
+StartupNotify=true
+X-AppInstall-Package=cooldown-svn
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=cooldown-svn 24-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cooldown-svn
+X-Arch-Package-Version=24-1
+X-Arch-Package-Description=Casual game where you need to use both your mind and your
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/cooldown-game/
+X-Arch-Package-Votes=5

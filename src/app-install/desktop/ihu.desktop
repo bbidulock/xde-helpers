@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=IHU
+GenericName=P2P VoIP Application
+Comment=Peer-to-peer (P2P) Voice-over-IP (VoIP) application
+Icon=ihu.png
+TryExec=/usr/bin/ihu
+Exec=ihu
+Categories=Application;Network;P2P;Qt;
+X-AppInstall-Package=ihu
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=ihu 0.6.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ihu
+X-Arch-Package-Version=0.6.0-1
+X-Arch-Package-Description=I Hear U is a VoIP application that creates an audio stream
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ihu.sourceforge.net/
+X-Arch-Package-Votes=1

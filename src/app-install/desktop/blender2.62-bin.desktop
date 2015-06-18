@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=Blender
+GenericName=3D modeller
+GenericName[de]=3D Modellierer
+GenericName[es]=modelador 3D
+GenericName[fr]=modeleur 3D
+GenericName[ru]=Редактор 3D-моделей
+Comment=3D modeling, animation, rendering and post-production
+Comment[es]=modelado 3D, animación, renderizado y post-producción
+Icon=blender
+TryExec=/usr/bin/blender
+Exec=blender
+NoDisplay=true
+Categories=Graphics;3DGraphics;
+MimeType=application/x-blender;
+X-AppInstall-Package=blender2.62-bin
+X-AppInstall-Section=aur
+X-Arch-Package=blender2.62-bin 2.62-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=blender2.62-bin
+X-Arch-Package-Version=2.62-1
+X-Arch-Package-Description=Blender 2.62, for those that require an older version of 2.6, for plugins etc. (binary version)
+X-Arch-Package-URL=http://blender.org/
+Aliases=blender;

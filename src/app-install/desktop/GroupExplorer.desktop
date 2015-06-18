@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Group Explorer
+Comment=A mathematical visualization software for the abstract algebra classroom
+Icon=GroupExplorer.ico
+TryExec=/usr/bin/GroupExplorer
+Exec=GroupExplorer
+Categories=Education;Math;
+X-AppInstall-Package=groupexplorer
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=groupexplorer 2.2.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=groupexplorer
+X-Arch-Package-Version=2.2.0-2
+X-Arch-Package-Description=Group Explorer is mathematical visualization software for the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://groupexplorer.sourceforge.net/
+X-Arch-Package-Votes=1

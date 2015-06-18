@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Groove-dl
+GenericName=Grooveshark Downloader
+Icon=/usr/share/pixmaps/groove.ico
+TryExec=/usr/bin/groove-dl
+Exec=groove-dl
+Categories=AudioVideo;
+X-AppInstall-Package=groove-dl-git
+X-AppInstall-Popcon=18
+X-AppInstall-Section=aur
+X-Arch-Package=groove-dl-git 56.f0b0538-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=groove-dl-git
+X-Arch-Package-Version=56.f0b0538-1
+X-Arch-Package-Description=A Grooveshark song downloader in Python
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/jacktheripper51/groove-dl
+X-Arch-Package-Votes=18

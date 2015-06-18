@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Tiny and Big
+TryExec=/usr/bin/tinyandbig
+Exec=tinyandbig
+Categories=Game;ActionGame;
+StartupNotify=true
+X-AppInstall-Package=tinyandbig
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package=tinyandbig 0.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tinyandbig
+X-Arch-Package-Version=0.6-1
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.tinyandbig.com/
+X-Arch-Package-Votes=11

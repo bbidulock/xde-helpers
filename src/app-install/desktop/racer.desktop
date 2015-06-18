@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Racer
+Icon=racer-space
+TryExec=/usr/bin/racer-space
+Exec=racer-space
+Categories=Application;Game;
+X-AppInstall-Package=racer-space
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=racer-space 0.0.320-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=racer-space
+X-Arch-Package-Version=0.0.320-2
+X-Arch-Package-Description=Racer is a spaceship racing game, inspired by the F-Zero
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://racer.sourceforge.net/
+X-Arch-Package-Votes=6

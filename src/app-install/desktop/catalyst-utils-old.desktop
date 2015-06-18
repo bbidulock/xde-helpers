@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=ATI Catalyst Control Center
+Comment=ATI graphics adapter settings
+Comment[de]=ATI grafics adapter settings
+Icon=ccc_large
+TryExec=/usr/bin/amdcccle
+Exec=amdcccle
+NoDisplay=true
+Categories=Settings;DesktopSettings;
+X-AppInstall-Package=catalyst-utils-old
+X-AppInstall-Section=aur
+X-Arch-Package=catalyst-utils-old 9.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=catalyst-utils-old
+X-Arch-Package-Version=9.3-1
+X-Arch-Package-Description=Old proprietary AMD/ATI kernel drivers for Radeon brand cards. Support for R300/R700 chipsets. Stock kernel.
+X-Arch-Package-URL=http://www.ati.amd.com
+Aliases=amdcccle;
+MiniIcon=ccc_small

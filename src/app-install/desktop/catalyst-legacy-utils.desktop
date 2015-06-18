@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=ATI Catalyst Control Center
+Comment=ATI graphics adapter settings
+Comment[de]=ATI grafics adapter settings
+Icon=ccc_large
+TryExec=/usr/bin/amdcccle
+Exec=amdcccle
+NoDisplay=true
+Categories=Settings;DesktopSettings;
+X-AppInstall-Package=catalyst-legacy-utils
+X-AppInstall-Section=aur
+X-Arch-Package=catalyst-legacy-utils 13.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=catalyst-legacy-utils
+X-Arch-Package-Version=13.1-2
+X-Arch-Package-Description=AMD/ATI Catalyst drivers utilities and libraries with OpenCL implementation. SUPPORTED RADEONS: HD 2 3 4 xxx
+X-Arch-Package-URL=http://www.ati.amd.com
+Aliases=amdcccle;
+MiniIcon=ccc_small

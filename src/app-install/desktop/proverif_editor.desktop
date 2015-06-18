@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=ProVerif Editor
+Comment=ProVerif Python Editor
+Icon=text-editor
+TryExec=/usr/bin/proverif_editor
+Exec=proverif_editor
+Categories=Development;ComputerScience;Security;
+X-AppInstall-Package=proverif_editor
+X-AppInstall-Section=aur
+X-Arch-Package=proverif_editor 0.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=proverif_editor
+X-Arch-Package-Version=0.2-2
+X-Arch-Package-Description=automatic cryptographic protocol verifier python editor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/proverifeditor/
+X-Arch-Package-Votes=0

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Search for Files or Folders
+Comment=Search for files and folders in disks
+Icon=gtk-find
+TryExec=/usr/bin/pcmanfm-mod
+Exec=pcmanfm-mod --find-files %F
+Categories=Application;Utility;GTK;
+MimeType=inode/directory;
+StartupNotify=true
+X-AppInstall-Package=pcmanfm-mod
+X-AppInstall-Popcon=55
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pcmanfm-mod
+X-Arch-Package-Version=1.2.4-1
+X-Arch-Package-Description=A modified version of the legacy PCMan File Manager v0.5.2
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://igurublog.wordpress.com/downloads/mod-pcmanfm/
+X-Arch-Package-Votes=55

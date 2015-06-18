@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Neformal
+GenericName=Audio Player
+Icon=/usr/share/pixmaps/neformal.svg
+TryExec=/usr/bin/neformal
+Exec=neformal
+Categories=AudioVideo;
+X-AppInstall-Package=neformal
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=neformal 4.3.1-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=neformal
+X-Arch-Package-Version=4.3.1-3
+X-Arch-Package-Description=Neformal is a small Qt/Phonon-based player WITHOUT any
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://neformal.sourceforge.net/
+X-Arch-Package-Votes=3

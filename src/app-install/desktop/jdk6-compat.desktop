@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Java Control Panel
+Name[cs]=Nastavení Javy
+GenericName=Java Environment Settings
+GenericName[cs]=Nastavení prostředí Java
+Icon=java
+TryExec=/opt/java/bin/jcontrol
+Exec=/opt/java/bin/jcontrol
+NoDisplay=true
+Categories=Settings;Java;
+StartupNotify=true
+X-AppInstall-Package=jdk6-compat
+X-AppInstall-Section=aur
+X-Arch-Package=jdk6-compat 6u45-06.1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jdk6-compat
+X-Arch-Package-Version=6u45-06.1
+X-Arch-Package-Description=Java 6 Development Kit designed to work alongside OpenJDK7 installation (updated to pubblic releases - end of support)
+X-Arch-Package-URL=http://www.oracle.com/technetwork/java/javase/downloads/index.html
+Aliases=java-control-panel;

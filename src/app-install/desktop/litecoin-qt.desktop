@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Litecoin
+Comment=Litecoin P2P Cryptocurrency
+Comment[fr]=Litecoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Litecoin, eşten eşe kriptografik sanal para birimi
+Icon=/usr/share/pixmaps/litecoin128.png
+TryExec=/usr/bin/litecoin-qt
+Exec=/usr/bin/litecoin-qt
+Categories=Office;
+MimeType=x-scheme-handler/litecoin;
+X-AppInstall-Package=litecoin-qt
+X-AppInstall-Popcon=76
+X-AppInstall-Section=aur
+X-Arch-Package=litecoin-qt 0.8.7.5-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=litecoin-qt
+X-Arch-Package-Version=0.8.7.5-2
+X-Arch-Package-Description=Peer-to-peer network based digital currency (QT)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.litecoin.org/
+X-Arch-Package-Votes=76

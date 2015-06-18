@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=TLF
+Comment=CT Style Logging Program
+Icon=tlf.png
+TryExec=/usr/bin/tlf
+Exec=/usr/bin/tlf
+X-DCOP-ServiceType=none
+Terminal=true
+Categories=Application;HamRadio;
+MimeType=text/plain;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=tlf
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=tlf 1.2.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tlf
+X-Arch-Package-Version=1.2.1-2
+X-Arch-Package-Description=a console mode networked logging and contest program for
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://tlf.github.com/index2.html
+X-Arch-Package-Votes=1

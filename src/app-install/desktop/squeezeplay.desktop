@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=SqueezePlay
+GenericName=Internet Radio Player
+Comment=Desktop version of Squeezebox Controller software supported by Logitech
+Icon=/usr/share/jive/jive/app.png
+TryExec=/usr/bin/squeezeplay.sh
+Exec=/usr/bin/squeezeplay.sh
+Categories=AudioVideo;Player;Qt;
+X-AppInstall-Package=squeezeplay
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=squeezeplay 7.8.r9704-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=squeezeplay
+X-Arch-Package-Version=7.8.r9704-3
+X-Arch-Package-Description=Desktop version of Squeezebox Controller software supported by
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://downloads.slimdevices.com/nightly/?ver=7.8
+X-Arch-Package-Votes=8

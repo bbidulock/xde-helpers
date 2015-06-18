@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=fre:ac
+GenericName=Audio Converter
+Icon=freac.png
+TryExec=/usr/bin/freac
+Exec=freac
+Categories=AudioVideo;
+X-AppInstall-Package=freac
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=freac cvs_20141005-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=freac
+X-Arch-Package-Version=cvs_-3
+X-Arch-Package-Description=Audio converter and CD ripper with support for various popular
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.freac.org/
+X-Arch-Package-Votes=3

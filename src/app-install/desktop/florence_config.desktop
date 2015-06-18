@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=0.5.3
+Type=Application
+Name=Florence Config
+GenericName=Florence Config
+Comment=On-Screen Keyboard
+Icon=/usr/share/pixmaps/florence.svg
+TryExec=/usr/bin/florence
+Exec=florence --config
+Categories=Utility;Accessibility;GTK;Accessories;
+X-AppInstall-Package=florence05
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=florence05 0.5.4-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=florence05
+X-Arch-Package-Version=0.5.4-2
+X-Arch-Package-Description=A configurable on-screen virtual keyboard(GTK2 version)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/florence/
+X-Arch-Package-Votes=2

@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Open Metaverse viewer
+Comment=A client for connecting to 3D metaverses such as Second Life(tm)
+Icon=viewericon
+TryExec=/usr/bin/omvviewer
+Exec=omvviewer
+Categories=Game;Simulation;
+StartupNotify=true
+X-AppInstall-Package=omvviewer-git
+X-AppInstall-Section=aur
+X-Arch-Package=omvviewer-git 20100303-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=omvviewer-git
+X-Arch-Package-Version=20100303-1
+X-Arch-Package-Description=Open metaverse viewer is a project aimed to package the Second Life(tm) viewer for Linux distributions.
+X-Arch-Package-URL=http://omvviewer.byteme.org.uk/index.shtml

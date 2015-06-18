@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=TROff
+Comment=Multitouch Tron game
+Icon=mttroff
+TryExec=/usr/bin/mttroff
+Exec=mttroff
+Categories=Game;
+X-AppInstall-Package=mttroff-svn
+X-AppInstall-Section=aur
+X-Arch-Package=mttroff-svn 6432-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mttroff-svn
+X-Arch-Package-Version=6432-1
+X-Arch-Package-Description=Multitouch Tron game.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://www.libavg.de/site/projects/libavg/wiki/TROff
+X-Arch-Package-Votes=0

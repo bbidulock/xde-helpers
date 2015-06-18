@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Citrix Connection Centre
+Icon=/opt/Citrix/ICAClient/icons/manager.png
+TryExec=/opt/Citrix/ICAClient/util/conncenter
+Exec=/opt/Citrix/ICAClient/util/conncenter --icaroot /opt/Citrix/ICAClient
+Categories=Application;Network;X-Red-Hat-Base;X-SuSE-Core-Internet;
+X-AppInstall-Package=icaclient
+X-AppInstall-Popcon=47
+X-AppInstall-Section=aur
+X-Arch-Package=icaclient 13.1.0.285639-10
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=icaclient
+X-Arch-Package-Version=13.1.0.285639-10
+X-Arch-Package-Description=Citrix Receiver for Linux (ICAClient)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=None
+X-Arch-Package-Votes=47

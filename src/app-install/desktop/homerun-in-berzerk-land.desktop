@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Homerun In Berzerk Land
+GenericName=Geek throwing
+GenericName[fr]=Lancé de geek
+Comment=Hit the geek and make it fly as far as you can.
+Comment[fr]=Frappe le geek et fais-le voler aussi loin que possible.
+Icon=homerun-in-berzerk-land
+TryExec=/usr/bin/homerun-in-berzerk-land
+Exec=homerun-in-berzerk-land
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=homerun-in-berzerk-land
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=homerun-in-berzerk-land 1.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=homerun-in-berzerk-land
+X-Arch-Package-Version=1.0-3
+X-Arch-Package-Description=Hit the geek and make him fly (Flash game).
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.berzerkstudio.com/
+X-Arch-Package-Votes=1

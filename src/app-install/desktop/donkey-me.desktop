@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Donkey Me
+Comment=A Donkey Kong game whit some grafics themes ispired on clasicals movies like Star Wars, Indiana Jones, Alien, etc
+Comment[es]=Clon del Donkey Kong con los varios temas graficos inspirados en peliculas clasicas como Star Wars, Indiana Jones, alien, etc
+Icon=donkey-me
+TryExec=/usr/bin/donkey-me
+Exec=donkey-me
+Categories=Game;
+X-AppInstall-Package=donkey-me
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=donkey-me 1.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=donkey-me
+X-Arch-Package-Version=1.0-2
+X-Arch-Package-Description=A Donkey Kong game whit some grafics themes ispired on
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.bruneras.com/games_donkeyme.php
+X-Arch-Package-Votes=2

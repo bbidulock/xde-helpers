@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Egoboo
+Comment=A 3D OpenGL dungeon-crawl
+Icon=egoboo
+TryExec=/usr/bin/egoboo
+Exec=egoboo
+Categories=Game;AdventureGame;RolePlaying;
+X-AppInstall-Package=egoboo
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=egoboo 2.8.1-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=egoboo
+X-Arch-Package-Version=2.8.1-5
+X-Arch-Package-Description=An action RPG/dungeon crawling adventure with OpenGL 3D
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://egoboo.sourceforge.net/
+X-Arch-Package-Votes=5

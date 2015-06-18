@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=LightZone
+Icon=/opt/lightzone/LightZone_32.png
+TryExec=/usr/bin/lightzone
+Exec=lightzone %F
+NoDisplay=true
+Categories=Graphics;2DGraphics;RasterGraphics;
+MimeType=image/jpeg;image/png;image/tiff;image/x-raw;
+X-AppInstall-Package=lightzone-free
+X-AppInstall-Section=aur
+X-Arch-Package=lightzone-free 2.4-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lightzone-free
+X-Arch-Package-Version=2.4-3
+X-Arch-Package-Description=The last free version of LightZone, a professional photo browser and editor, like Aperture or Lightroom
+X-Arch-Package-URL=http://lightcrafts.com/linux/
+Aliases=lightzone;

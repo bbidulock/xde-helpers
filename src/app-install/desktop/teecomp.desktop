@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=TeeWorlds
+GenericName=Platform Game
+Comment=A multiplayer 2D FPS shooter
+Comment[pl_PL]=wieloosobowa strzelanka FTP w 2D
+Icon=teeworlds
+TryExec=/usr/bin/teeworlds
+Exec=teeworlds
+NoDisplay=true
+Hidden=true
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=teecomp
+X-AppInstall-Section=aur
+X-Arch-Package=teecomp 0.5.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=teecomp
+X-Arch-Package-Version=0.5.2-2
+X-Arch-Package-Description=A patched teeworlds client which add cool features like player stat, auto record demo and more
+X-Arch-Package-URL=http://spl0k.unreal-design.com/teeworlds/
+Aliases=teeworlds;

@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Picasa
+Comment=The Photo Organizer from Google
+Icon=/usr/share/pixmaps/picasa.xpm
+TryExec=/usr/bin/picasa
+Exec=/usr/bin/picasa
+Categories=Graphics;Photography;
+X-AppInstall-Package=picasa
+X-AppInstall-Section=aur
+X-Arch-Package=picasa 3.0_5744.02-6
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=picasa
+X-Arch-Package-Version=3.0_5744.02-6
+X-Arch-Package-Description=A software that helps you instantly find, edit and share all the pictures on your PC
+X-Arch-Package-URL=http://picasa.google.com

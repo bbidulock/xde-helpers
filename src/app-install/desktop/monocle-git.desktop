@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=MonocleCoin
+Comment=Monocle P2P Cryptocurrency
+Icon=/usr/share/pixmaps/monocle128.png
+TryExec=/usr/bin/monocle-qt
+Exec=/usr/bin/monocle-qt
+Categories=Office;
+MimeType=x-scheme-handler/monocle;
+X-AppInstall-Package=monocle-git
+X-AppInstall-Section=aur
+X-Arch-Package=monocle-git 0.8.7.1.r8-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=monocle-git
+X-Arch-Package-Version=0.8.7.1.r8-1
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://monocle.vertcoin.org/
+X-Arch-Package-Votes=0

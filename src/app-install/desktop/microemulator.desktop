@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=microemulator
+GenericName=J2ME Emulator
+Comment=A J2ME Emulator
+Icon=java
+TryExec=/usr/bin/microemulator
+Exec=microemulator
+Categories=Development;Emulator;Java;Emulation;
+MimeType=text/vnd.sun.j2me.app-descriptor ;
+StartupNotify=false
+X-AppInstall-Package=microemulator
+X-AppInstall-Popcon=40
+X-AppInstall-Section=aur
+X-Arch-Package=microemulator 2.0.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=microemulator
+X-Arch-Package-Version=2.0.4-1
+X-Arch-Package-Description=This is Java 2 Micro Edition (J2ME) CLDC/MIDP Emulator.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.microemu.org/
+X-Arch-Package-Votes=40

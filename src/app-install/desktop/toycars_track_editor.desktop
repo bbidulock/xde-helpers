@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Toy Cars Track Editor
+Comment=A track editor for Toy Cars
+Icon=toycars.png
+TryExec=/usr/bin/toycars_track_editor
+Exec=toycars_track_editor
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=toycars
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=toycars 0.3.10-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=toycars
+X-Arch-Package-Version=0.3.10-2
+X-Arch-Package-Description=A top down physics based car racing game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://toycars.sourceforge.net/
+X-Arch-Package-Votes=7

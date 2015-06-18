@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Animeshell
+Comment=Collection manager
+Icon=animeshell
+TryExec=/usr/bin/animeshell
+Exec=animeshell
+NoDisplay=true
+Categories=Utility;Qt;
+X-AppInstall-Package=animeshell-svn
+X-AppInstall-Section=aur
+X-Arch-Package=animeshell-svn 51-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=animeshell-svn
+X-Arch-Package-Version=51-1
+X-Arch-Package-Description=Collection manager for your animes and mangas
+X-Arch-Package-URL=http://code.google.com/p/animeshell/
+Aliases=Animeshell;

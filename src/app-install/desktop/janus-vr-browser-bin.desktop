@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Janus VR Browser
+GenericName=Web Browser
+Icon=/usr/share/icons/janusvr.png
+TryExec=/usr/bin/janusvr
+Exec=janusvr %u
+MultipleArgs=false
+NoDisplay=true
+Categories=Application;Network;
+MimeType=text/html;
+StartupNotify=false
+X-AppInstall-Package=janus-vr-browser-bin
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=janus-vr-browser-bin 42.7-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=janus-vr-browser-bin
+X-Arch-Package-Version=-1
+X-Arch-Package-Description=JanusVR is a 3D VR internet browser
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.dgp.toronto.edu/~mccrae/projects/firebox/
+X-Arch-Package-Votes=4
+Aliases=janusvr;

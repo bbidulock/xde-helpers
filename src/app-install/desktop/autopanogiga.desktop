@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=AutopanoGiga
+Comment=A program for creating panoramic images
+Icon=/opt/autopanogiga/Resources/UI/autopano_giga.png
+TryExec=/usr/bin/autopanogiga
+Exec=autopanogiga
+Categories=Application;Graphics;
+X-AppInstall-Package=autopanogiga
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=autopanogiga 4.0.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=autopanogiga
+X-Arch-Package-Version=4.0.2-1
+X-Arch-Package-Description=The program for creating panoramic images (trial version).
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kolor.com/
+X-Arch-Package-Votes=6

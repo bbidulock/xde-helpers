@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=JPCSP
+Comment=PSP emulator
+TryExec=/usr/bin/jpcsp
+Exec=jpcsp
+Categories=Game;
+X-AppInstall-Package=jpcsp
+X-AppInstall-Popcon=35
+X-AppInstall-Section=aur
+X-Arch-Package=jpcsp 0.7-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jpcsp
+X-Arch-Package-Version=0.7-1
+X-Arch-Package-Description=Java PSP Emulator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://jpcsp.org/
+X-Arch-Package-Votes=35

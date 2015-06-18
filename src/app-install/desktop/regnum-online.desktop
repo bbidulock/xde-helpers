@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Regnum Online
+GenericName=MMORPG 3D game
+GenericName[es]=Juego 3D MMORPG
+GenericName[pt]=Jogo 3D MMORPG
+Comment=MMORPG 3D game
+Comment[es]=Juego 3D MMORPG
+Comment[pt]=Jogo 3D MMORPG
+Icon=/usr/share/pixmaps/regnum.png
+TryExec=/usr/bin/regnum-online
+Exec=/usr/bin/regnum-online
+Categories=Application;Game;
+X-AppInstall-Package=regnum-online
+X-AppInstall-Popcon=21
+X-AppInstall-Section=aur
+X-Arch-Package=regnum-online 1.9.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=regnum-online
+X-Arch-Package-Version=1.9.6-1
+X-Arch-Package-Description=Cross-platform 3D Massively Multiplayer Online Role-playing
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.regnumonline.com.ar
+X-Arch-Package-Votes=21

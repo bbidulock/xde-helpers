@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=AirStream
+GenericName=Andorid file transfer
+Icon=airstream
+TryExec=/usr/bin/airstream
+Exec=airstream %U
+Categories=Multimedia;
+X-AppInstall-Package=airstream
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=airstream 5.4.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=airstream
+X-Arch-Package-Version=5.4.3-1
+X-Arch-Package-Description=Computer side of the AirStream software for Android streaming
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://airstream.io/
+X-Arch-Package-Votes=4

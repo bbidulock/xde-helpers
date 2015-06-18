@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.6
+Type=Application
+Name=Mari0
+GenericName=Arcade Game
+Comment=The Mario game with Portal gun mechanics
+Icon=gnome-mime-application-x-love-game
+TryExec=/usr/bin/mari0
+Exec=mari0
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=mari0
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=mari0
+X-Arch-Package-Version=1.6-2
+X-Arch-Package-Description=The Mario game with Portal gun mechanics
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://stabyourself.net/mari0/

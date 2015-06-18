@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=TouchOSC Editor
+Icon=touchosc-editor
+TryExec=/usr/bin/touchosc-editor
+Exec=touchosc-editor %f
+Categories=AudioVideo;Utility;Music;
+MimeType=application/touchosc;
+StartupNotify=false
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=touchosc-editor
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=touchosc-editor 1.7.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=touchosc-editor
+X-Arch-Package-Version=1.7.0-2
+X-Arch-Package-Description=Graphical editor to create and customise layouts for TouchOSC
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://hexler.net/
+X-Arch-Package-Votes=1

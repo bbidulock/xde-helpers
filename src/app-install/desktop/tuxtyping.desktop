@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=TuxTyping
+Icon=kxkb
+TryExec=/usr/bin/tuxtype
+Exec=tuxtype
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=tuxtyping
+X-AppInstall-Section=aur
+X-Arch-Package=tuxtyping 1.8.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tuxtyping
+X-Arch-Package-Version=1.8.0-1
+X-Arch-Package-Description=an educational typing tutor for kids starring Tux.
+X-Arch-Package-URL=http://tux4kids.alioth.debian.org/tuxtype/

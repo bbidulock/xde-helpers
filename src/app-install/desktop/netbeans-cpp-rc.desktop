@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=NetBeans
+Comment=NetBeans C/C++ IDE
+Icon=/usr/share/netbeans/nb/netbeans.png
+TryExec=/usr/share/netbeans/bin/netbeans
+Exec=/usr/share/netbeans/bin/netbeans
+NoDisplay=true
+Categories=Development;
+StartupNotify=true
+X-AppInstall-Package=-cpp-rc
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=netbeans-cpp-rc 8.0rc1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=-cpp-rc
+X-Arch-Package-Version=8.0rc1-1
+X-Arch-Package-Description=Netbeans IDE development platform - C/C++ only
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.netbeans.org
+X-Arch-Package-Votes=2
+Aliases=netbeans;

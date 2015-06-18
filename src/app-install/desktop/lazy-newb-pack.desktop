@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Lazy Newb Pack
+GenericName=Lazy Newb Pack
+Comment=The Lazy Newb Pack for Dwarf Fortress
+Icon=/usr/share/pixmaps/lnp.png
+TryExec=/usr/bin/lazy-newb-pack
+Exec=lazy-newb-pack
+Categories=Game;
+X-AppInstall-Package=lazy-newb-pack
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=lazy-newb-pack 20120118-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lazy-newb-pack
+X-Arch-Package-Version=20120118-1
+X-Arch-Package-Description=Lazy Newb Pack for Linux
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.bay12forums.com/smf/index.php?topic=59026.1140
+X-Arch-Package-Votes=1

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Pixel Dungeon
+Comment=Rogue-like game inspired by Brogue
+Icon=pixel-dungeon
+TryExec=/usr/bin/pixel-dungeon
+Exec=pixel-dungeon
+Categories=Game;
+X-AppInstall-Package=-git
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=pixel-dungeon-git 1.7.2a.125-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=-git
+X-Arch-Package-Version=1.7.2a.125-2
+X-Arch-Package-Description=A rogue-like game inspired by Brogue
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pixeldungeon.watabou.ru
+X-Arch-Package-Votes=8

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Probability 0
+Comment=A 2D survival platformer
+Icon=probability0
+TryExec=/usr/bin/probability0
+Exec=probability0
+Categories=Game;
+X-AppInstall-Package=probability0
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=probability0 1.05-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=probability0
+X-Arch-Package-Version=1.05-4
+X-Arch-Package-Description=A challenging freeware survival platformer.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://forums.tigsource.com/index.php?topic=9224.0
+X-Arch-Package-Votes=1

@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Awesome
+Comment=This session logs you into Awesome
+TryExec=/usr/bin/awesome
+Exec=/usr/bin/awesome
+NoDisplay=true
+X-AppInstall-Package=awesome-rc
+X-AppInstall-Section=aur
+X-Arch-Package=awesome-rc 3.4-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=awesome-rc
+X-Arch-Package-Version=3.4-2
+X-Arch-Package-Description=A tiling window manager initialy based on a dwm code rewriting. Release candidate version
+X-Arch-Package-URL=http://awesome.naquadah.org
+Aliases=awesome;

@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Magus RPG
+Comment=Chrono Trigger fan game of Magus
+Icon=magus-rpg
+TryExec=/usr/bin/magus-rpg
+Exec=magus-rpg
+Categories=Game;
+X-AppInstall-Package=magus-rpg
+X-AppInstall-Section=aur
+X-Arch-Package=magus-rpg 1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=magus-rpg
+X-Arch-Package-Version=1-1
+X-Arch-Package-Description=Chrono Trigger fan game of Magus (Flash game)
+X-Arch-Package-URL=http://www.newgrounds.com/portal/view/244675

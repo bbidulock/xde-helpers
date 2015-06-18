@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Livestation
+GenericName=Livestation
+Comment=Floola is a freeware application to efficiently manage your iPod
+Icon=livestation
+TryExec=/usr/bin/Livestation
+Exec=Livestation
+Categories=Application;AudioVideo;Video;
+X-AppInstall-Package=livestation
+X-AppInstall-Popcon=42
+X-AppInstall-Section=aur
+X-Arch-Package=livestation 3.2.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=livestation
+X-Arch-Package-Version=3.2.0-1
+X-Arch-Package-Description=Watch the world's leading TV channels in the highest quality
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.livestation.com/
+X-Arch-Package-Votes=42

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Savage 2
+GenericName=Savage 2
+Comment=Savage 2: A Tortured Soul
+Icon=/usr/share/pixmaps/savage2.png
+TryExec=/usr/bin/savage2
+Exec=/usr/bin/savage2
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=savage2
+X-AppInstall-Popcon=66
+X-AppInstall-Section=aur
+X-Arch-Package=savage2 2.1.0.8-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=savage2
+X-Arch-Package-Version=2.1.0.8-1
+X-Arch-Package-Description=Savage 2: A Tortured Soul is an fantasy themed online
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://savage2.com/
+X-Arch-Package-Votes=66

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Paycoin
+Comment=Paycoin
+Icon=paycoin
+TryExec=/usr/bin/paycoin-qt
+Exec=/usr/bin/paycoin-qt %u
+Categories=Office;Internet;
+MimeType=x-scheme-handler/paycoin;
+X-AppInstall-Package=paycoin-qt-git
+X-AppInstall-Section=aur
+X-Arch-Package=paycoin-qt-git r164.acd3748-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=paycoin-qt-git
+X-Arch-Package-Version=r164.acd3748-2
+X-Arch-Package-Description=Paycoin is a Paycoin network-compatible, community-developed
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://paycoin.com
+X-Arch-Package-Votes=0

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1
+Type=Application
+Name=Trosh: The Movie: The Game
+GenericName=Arcade Game
+Icon=gnome-mime-application-x-love-game
+TryExec=/usr/bin/trosh
+Exec=trosh
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=trosh
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=trosh 1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=trosh
+X-Arch-Package-Version=1-2
+X-Arch-Package-Description=Trosh: The Movie: The Game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://stabyourself.net/trosh/
+X-Arch-Package-Votes=3

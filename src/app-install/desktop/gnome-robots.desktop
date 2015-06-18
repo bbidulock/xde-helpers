@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Gnome Robots
+Icon=/usr/share/pixmaps/gnobots2.xpm
+TryExec=/usr/bin/gnobots2
+Exec=gnobots2
+Categories=X-Debian-Games-Puzzles;
+StartupNotify=false
+X-AppInstall-Package=gnome-robots
+X-AppInstall-Section=extra
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=gnome-robots
+X-Arch-Package-Version=3.16.1-1
+X-Arch-Package-Description=Avoid the robots and make them crash into each other
+X-Arch-Package-Groups=gnome-extra
+X-Arch-Package-URL=https://live.gnome.org/Robots

@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=ReText
+Comment=Simple text editor for Markdown and ReStructuredText
+Comment[zh_CN]=简单的Markdown、ReStructuredText编辑器
+Icon=retext
+TryExec=/usr/bin/retext
+Exec=retext %F
+NoDisplay=true
+Categories=Office;
+MimeType=text/x-retext-markdown;text/x-retext-rst;
+X-AppInstall-Package=retext-git
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=retext-git 20130920-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=retext-git
+X-Arch-Package-Version=20130920-1
+X-Arch-Package-Description=A simple editor for Markdown and ReStructuredText markup
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://retext.sourceforge.net/
+X-Arch-Package-Votes=3
+Aliases=retext;

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=WebReader
+GenericName=WebReader
+Comment=it'is the most popular cross platform rss reader and is a full featured Google reader desktop client.
+Icon=webreader.png
+TryExec=/usr/bin/adobe-air
+Exec=adobe-air /opt/webreader/webreader.air
+Categories=Application;Network;
+MimeType=application/vnd.adobe.air-application-installer-package+zip;
+X-AppInstall-Package=webreader
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=webreader 0.8.80_beta-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=webreader
+X-Arch-Package-Version=_-1
+X-Arch-Package-Description=it'is the most popular cross platform rss reader and is a full
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.getwebreader.com
+X-Arch-Package-Votes=5

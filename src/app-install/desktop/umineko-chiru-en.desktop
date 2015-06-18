@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Umineko no Naku Koro ni Chiru
+Comment=Mystery visual novel
+Icon=/usr/share/pixmaps/umineko-chiru.ico
+TryExec=/usr/games/umineko-chiru/umineko-chiru-en.sh
+Exec=/usr/games/umineko-chiru/umineko-chiru-en.sh
+Categories=Application;Game;
+X-AppInstall-Package=umineko-chiru-en
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=umineko-chiru-en 4.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=umineko-chiru-en
+X-Arch-Package-Version=4.1-1
+X-Arch-Package-Description=A Japanese murder mystery doujin soft visual novel. English
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://07th-expansion.net/umi/Main.htm
+X-Arch-Package-Votes=3

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=GunFu Deadlands
+Icon=gunfudeadlands.png
+TryExec=/usr/bin/gunfudeadlands
+Exec=gunfudeadlands
+Categories=Game;
+X-AppInstall-Package=gunfudeadlands
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=gunfudeadlands 1.01-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gunfudeadlands
+X-Arch-Package-Version=1.01-1
+X-Arch-Package-Description=A Far West themed 2D shooter featuring bullet time.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gunfudeadlands.sourceforge.net/
+X-Arch-Package-Votes=2

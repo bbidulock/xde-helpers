@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Samsung Unified Driver Configurator
+Comment=Scan with and configure Samsung printers
+Icon=/opt/Samsung/mfp/share/images/Configurator.png
+TryExec=/usr/bin/SamsungConfigurator
+Exec=/usr/bin/SamsungConfigurator
+NoDisplay=true
+Categories=System;Scanning;Qt;
+Path=/opt/Samsung/mfp/bin
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=samsung-unified-driver-4.00.39
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=samsung-unified-driver-4.00.39 4.00.39-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=samsung-unified-driver-4.00.39
+X-Arch-Package-Version=4.00.39-2
+X-Arch-Package-Description=Unified Linux Driver for Samsung printers and scanners.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.samsung.com
+X-Arch-Package-Votes=2
+Aliases=samsungUDC;

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=jwpce
+Comment=Japanese word processor
+Icon=jwpce
+TryExec=/usr/bin/jwpce
+Exec=jwpce
+Categories=Utility;
+X-AppInstall-Package=jwpce
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=jwpce 3.50-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jwpce
+X-Arch-Package-Version=3.50-1
+X-Arch-Package-Description=A free Japanese Word Processor.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.physics.ucla.edu/~grosenth/jwpce.html
+X-Arch-Package-Votes=2

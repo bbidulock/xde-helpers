@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=GetEz
+GenericName=GUI for wget
+Icon=/usr/share/pixmaps/getez.png
+TryExec=/usr/bin/getez
+Exec=getez
+Categories=Network;
+X-AppInstall-Package=getez
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=getez 0.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=getez
+X-Arch-Package-Version=0.2-1
+X-Arch-Package-Description=GUI for wget
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://getez.sourceforge.net/
+X-Arch-Package-Votes=2

@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=schat
+GenericName=Simple Network Chat (schat)
+GenericName[ru]=Чат в локальной сети
+Icon=/usr/share/schat/images/schat.png
+TryExec=/usr/bin/schat
+Exec=/usr/bin/schat
+NoDisplay=true
+Categories=Network;WebBrowser;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=schat-svn
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=schat-svn 1446-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=schat-svn
+X-Arch-Package-Version=1446-1
+X-Arch-Package-Description=IMPOMEZIA Simple Chat — is a simple cross-platform
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/schat/
+X-Arch-Package-Votes=2
+Aliases=schat;

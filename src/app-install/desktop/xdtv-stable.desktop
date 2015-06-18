@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=XdTV
+GenericName=Television Viewer
+Comment=Television Viewer
+Icon=/usr/share/pixmaps/xdtv-48.png
+TryExec=/usr/bin/xdtv
+Exec=xdtv
+NoDisplay=true
+Categories=Application;AudioVideo;
+X-AppInstall-Package=xdtv-stable
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=xdtv-stable 2.4.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xdtv-stable
+X-Arch-Package-Version=2.4.0-1
+X-Arch-Package-Description=A software that allows you to watch and record TV
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://xawdecode.sourceforge.net/
+X-Arch-Package-Votes=2
+Aliases=xdtv;

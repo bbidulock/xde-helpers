@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Amsn2
+GenericName=Amsn2
+Comment=MSN Messenger client
+Icon=amsn2
+TryExec=/usr/bin/amsn2
+Exec=amsn2
+Categories=Network;InstantMessaging;
+X-AppInstall-Package=amsn2-git
+X-AppInstall-Section=aur
+X-Arch-Package=amsn2-git 20120319-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=amsn2-git
+X-Arch-Package-Version=20120319-1
+X-Arch-Package-Description=New Generation of AMSN
+X-Arch-Package-URL=http://github.com/drf/amsn2/tree

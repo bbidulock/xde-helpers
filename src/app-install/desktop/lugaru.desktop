@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Lugaru
+GenericName=Lugaru
+Comment=Lugaru
+Icon=/usr/share/pixmaps/lugaru.png
+TryExec=/usr/bin/lugaru
+Exec=/usr/bin/lugaru
+Categories=Application;Game;KDE;GNOME;Qt;
+StartupNotify=true
+X-AppInstall-Package=lugaru
+X-AppInstall-Popcon=17
+X-AppInstall-Section=aur
+X-Arch-Package=lugaru 1.0c-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lugaru
+X-Arch-Package-Version=1.0c-3
+X-Arch-Package-Description=A third-persion action game featuring a unique close-range
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.wolfire.com/lugaru
+X-Arch-Package-Votes=17

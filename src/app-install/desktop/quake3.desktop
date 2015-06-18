@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Quake III Arena
+GenericName=Quake III
+Comment=Quake III Arena Client
+Icon=/usr/share/pixmaps/quake3.xpm
+TryExec=/usr/bin/quake3
+Exec=/usr/bin/quake3
+Categories=Application;Game;KDE;GNOME;Qt;
+StartupNotify=true
+X-AppInstall-Package=quake3
+X-AppInstall-Popcon=105
+X-AppInstall-Section=aur
+X-Arch-Package=quake3 1.32c-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=quake3
+X-Arch-Package-Version=1.32c-2
+X-Arch-Package-Description=The stock Quake 3 Arena binaries. PunkBuster Compatible.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.quake3arena.com/
+X-Arch-Package-Votes=105

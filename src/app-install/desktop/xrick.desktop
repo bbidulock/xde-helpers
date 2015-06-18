@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=xrick
+Comment=Rick Dangerous game clone
+Icon=xrick
+TryExec=/usr/bin/xrick
+Exec=xrick
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=xrick
+X-AppInstall-Popcon=16
+X-AppInstall-Section=aur
+X-Arch-Package=xrick 021212-10
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xrick
+X-Arch-Package-Version=021212-10
+X-Arch-Package-Description=Clone of Rick Dangerous, a classic platform game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.bigorno.net/xrick
+X-Arch-Package-Votes=16

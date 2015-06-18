@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Gondola
+GenericName=Gondola
+Comment=The ultimate shipping, shape sorting, barge unloading game of all time.
+Icon=/usr/share/gondola/data/gondola.png
+TryExec=/usr/bin/gondola.sh
+Exec=/usr/bin/gondola.sh
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=gondola
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=gondola 1.1-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gondola
+X-Arch-Package-Version=1.1-5
+X-Arch-Package-Description=The ultimate shipping, shape sorting, barge unloading game of
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://arcticpaint.com/gondola/
+X-Arch-Package-Votes=8

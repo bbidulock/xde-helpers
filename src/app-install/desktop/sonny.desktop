@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Sonny
+GenericName=Combat game
+GenericName[fr]=Jeu de combat
+Comment=Fight for your zombie life in this crazy and twisted world.
+Comment[fr]=Défendez votre vie de zombie dans un monde fou et torturé.
+Icon=sonny
+TryExec=/usr/bin/sonny
+Exec=sonny
+Categories=Game;ActionGame;
+X-AppInstall-Package=sonny
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=sonny 4.1-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sonny
+X-Arch-Package-Version=4.1-3
+X-Arch-Package-Description=Fight for your zombie life in this crazy and twisted world
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://armorgames.com/
+X-Arch-Package-Votes=2

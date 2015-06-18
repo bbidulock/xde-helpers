@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=JBidwatcher
+Comment=EBay Auction Sniper
+Icon=jay_noback.png
+TryExec=/usr/bin/jbidwatcher
+Exec=jbidwatcher
+X-DCOP-ServiceType=none
+Categories=Application;Network;
+MimeType=text/plain;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=jbidwatcher
+X-AppInstall-Popcon=30
+X-AppInstall-Section=aur
+X-Arch-Package=jbidwatcher 2.5.6-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jbidwatcher
+X-Arch-Package-Version=2.5.6-2
+X-Arch-Package-Description=Allows you to monitor eBay auctions, submit bids, and snipe.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.jbidwatcher.com/
+X-Arch-Package-Votes=30

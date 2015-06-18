@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=6.2
+Type=Application
+Name=Progress Quest
+Comment=Zero-player RPG
+Icon=/usr/share/pixmaps/progressquest.png
+TryExec=/usr/bin/progressquest
+Exec=/usr/bin/progressquest
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=progressquest
+X-AppInstall-Popcon=15
+X-AppInstall-Section=aur
+X-Arch-Package=progressquest 6.2-6
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=progressquest
+X-Arch-Package-Version=6.2-6
+X-Arch-Package-Description=A zero-player RPG focused on progress and features pretty
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.progressquest.com/
+X-Arch-Package-Votes=15

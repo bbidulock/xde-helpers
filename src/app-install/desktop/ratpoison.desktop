@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=Ratpoison
+Comment=The ratpoison window manager
+TryExec=/usr/bin/ratpoison
+Exec=ratpoison
+StartupNotify=false
+X-AppInstall-Package=ratpoison
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=ratpoison
+X-Arch-Package-Version=1.4.8-1
+X-Arch-Package-Description=A simple keystroke-driven window manager
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.nongnu.org/ratpoison/

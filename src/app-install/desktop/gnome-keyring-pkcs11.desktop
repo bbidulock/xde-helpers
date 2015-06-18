@@ -135,8 +135,7 @@ Comment[zh_HK]=GNOME 密碼匙圈：PKCS#11 元件
 Comment[zh_TW]=GNOME 鑰匙圈：PKCS#11 元件
 TryExec=/usr/bin/gnome-keyring-daemon
 Exec=/usr/bin/gnome-keyring-daemon --start --components=pkcs11
-OnlyShowIn=GNOME;MATE;Unity;
-StartupNotify=false
+OnlyShowIn=GNOME;XDE;XFCE;LXDE;MATE;Unity;
 X-GNOME-Autostart-Notify=true
 X-GNOME-Autostart-Phase=Initialization
 X-GNOME-AutoRestart=false
@@ -153,3 +152,5 @@ X-Arch-Package-Version=3.16.0-1
 X-Arch-Package-Description=GNOME Password Management daemon
 X-Arch-Package-Groups=gnome
 X-Arch-Package-URL=http://www.gnome.org
+AutostartCondition=GNOME /apps/gnome-keyring/daemon-components/pkcs11
+X-SuSE-translate=true

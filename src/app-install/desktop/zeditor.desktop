@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=zEditor
+GenericName=zeditor
+Comment=An editor for the creation of tutorials for the French Site du Zéro
+Icon=zeditor.xpm
+TryExec=/usr/bin/zeditor
+Exec=zeditor
+Categories=Utility;TextEditor;
+X-AppInstall-Package=zeditor
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=zeditor 0.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zeditor
+X-Arch-Package-Version=0.5-1
+X-Arch-Package-Description=An editor for the creation of tutorials (.tuto) used on the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.foxycode.net/zeditor/
+X-Arch-Package-Votes=1

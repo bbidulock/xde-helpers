@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Goblin Camp
+GenericName=Goblin Camp
+Comment=Roguelike/Citybuilder
+Icon=/usr/share/pixmaps/goblin-camp.png
+TryExec=/usr/bin/goblin-camp
+Exec=/usr/bin/goblin-camp
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=goblincamp-hg
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=goblincamp-hg 2023-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=goblincamp-hg
+X-Arch-Package-Version=2023-1
+X-Arch-Package-Description=Goblin Camp is a roguelike citybuilder, inspired by Anno 1404,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.goblincamp.com/
+X-Arch-Package-Votes=1

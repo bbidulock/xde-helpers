@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Wasteland 2
+Comment=The sequel to an adventure in post-nuclear America
+Icon=/usr/share/pixmaps/wasteland2.png
+TryExec=/usr/bin/wasteland2
+Exec=/usr/bin/wasteland2
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=wasteland2
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=wasteland2 1.9.0.13-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wasteland2
+X-Arch-Package-Version=1.9.0.13-1
+X-Arch-Package-Description=The sequel to an adventure in post-nuclear America
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://wasteland.inxile-entertainment.com/store
+X-Arch-Package-Votes=3

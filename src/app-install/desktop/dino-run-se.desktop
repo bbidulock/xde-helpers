@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Dino Run SE
+Comment=A retro-styled, action-packed prehistoric multiplayer racing game.
+Icon=dino-run-se-icon
+TryExec=/usr/bin/dino-run-se
+Exec=/usr/bin/dino-run-se
+Categories=Game;ActionGame;
+X-AppInstall-Package=dino-run-se
+X-AppInstall-Section=aur
+X-Arch-Package=dino-run-se 1.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dino-run-se
+X-Arch-Package-Version=1.1-2
+X-Arch-Package-Description=A retro-styled, action-packed prehistoric multiplayer racing
+X-Arch-Package-Groups=indieroyalesummer indieroyale
+X-Arch-Package-URL=http://www.pixeljam.com/dinorunse/
+X-Arch-Package-Votes=0

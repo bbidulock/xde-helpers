@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Xivra
+Comment=Xivra P2P Cryptocurrency
+Comment[fr]=Xivra, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Xivra, eşten eşe kriptografik sanal para birimi
+Icon=/usr/share/pixmaps/xivra.png
+TryExec=/usr/bin/xivra-qt
+Exec=/usr/bin/xivra-qt
+Categories=Office;
+MimeType=x-scheme-handler/xivra;
+X-AppInstall-Package=xivra-qt
+X-AppInstall-Section=aur
+X-Arch-Package=xivra-qt 0.8.6.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xivra-qt
+X-Arch-Package-Version=0.8.6.2-1
+X-Arch-Package-Description=Peer-to-peer network based digital currency (QT)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.xivra.com/
+X-Arch-Package-Votes=0

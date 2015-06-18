@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Gruesome
+GenericName=Gruesome roguelike
+Comment=Roguelike in which you play a grue, lurking in the shadows and eating adventurers.
+Icon=gruesome.png
+TryExec=/usr/bin/gruesome
+Exec=gruesome
+Categories=Game;ConsoleOnly;
+X-AppInstall-Package=gruesome
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=gruesome 0.0.3-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gruesome
+X-Arch-Package-Version=0.0.3-2
+X-Arch-Package-Description=Roguelike in which you play a grue, lurking in the shadows and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.gruesomegames.com
+X-Arch-Package-Votes=4

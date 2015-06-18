@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=MagicLauncher
+GenericName=MagicLauncher
+Comment=A Minecraft launcher packed with features.
+Icon=/usr/share/pixmaps/magiclauncher.png
+TryExec=/usr/bin/magiclauncher
+Exec=magiclauncher
+Categories=Game;
+X-AppInstall-Package=magiclauncher
+X-AppInstall-Popcon=22
+X-AppInstall-Section=aur
+X-Arch-Package=magiclauncher 1.2.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=magiclauncher
+X-Arch-Package-Version=1.2.6-1
+X-Arch-Package-Description=A custom minecraft launcher
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.minecraftforum.net/topic/939149-launcher-magic-launcher-099-mods-options-news/
+X-Arch-Package-Votes=22

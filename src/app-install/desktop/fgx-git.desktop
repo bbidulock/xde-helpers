@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=FGx FlightGear Launcher
+GenericName=FGx FlightGear Launcher
+Icon=fgx
+TryExec=/usr/bin/fgx
+Exec=fgx
+NoDisplay=true
+Categories=Game;Simulation;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=fgx-git
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=fgx-git 20141007-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fgx-git
+X-Arch-Package-Version=20141007-1
+X-Arch-Package-Description=Launcher for free and open source FlightGear Flight Simulator,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://gitorious.org/fgx
+X-Arch-Package-Votes=3
+Aliases=fgx;

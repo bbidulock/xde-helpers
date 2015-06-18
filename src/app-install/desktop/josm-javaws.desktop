@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=JOSM
+Comment=An editor for OpenStreetMap written in Java
+Icon=josm
+TryExec=/usr/bin/josm
+Exec=josm
+NoDisplay=true
+Categories=Graphics;
+X-AppInstall-Package=josm-javaws
+X-AppInstall-Section=aur
+X-Arch-Package=josm-javaws 2014112501-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=josm-javaws
+X-Arch-Package-Version=2014112501-3
+X-Arch-Package-Description=An editor for OpenStreetMap written in Java, Java Web Start
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://josm.openstreetmap.de/
+X-Arch-Package-Votes=0
+Aliases=josm;

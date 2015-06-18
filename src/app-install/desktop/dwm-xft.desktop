@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=XSession
+Name=Dwm
+Comment=Dynamic window manager
+Icon=dwm
+TryExec=/usr/bin/dwm
+Exec=dwm
+NoDisplay=true
+X-AppInstall-Package=dwm-xft
+X-AppInstall-Section=aur
+X-Arch-Package=dwm-xft 6.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dwm-xft
+X-Arch-Package-Version=6.0-2
+X-Arch-Package-Description=A dynamic window manager for X with Xft support
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://dwm.suckless.org
+X-Arch-Package-Votes=0
+Aliases=dwm;

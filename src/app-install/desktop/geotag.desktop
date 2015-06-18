@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Geotag
+Comment=Program to match date/time information from photos with location information from a GPS unit
+Icon=geotag.png
+TryExec=/usr/bin/geotag
+Exec=geotag
+Categories=Application;Graphics;
+X-AppInstall-Package=geotag
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=geotag 0.095-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=geotag
+X-Arch-Package-Version=0.095-1
+X-Arch-Package-Description=Geotag is an open source program that allows you match
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://geotag.sourceforge.net/
+X-Arch-Package-Votes=13

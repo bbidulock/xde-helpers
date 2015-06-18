@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=LOMF
+GenericName=LOMF
+Comment=Less Overhead More Fun
+Icon=/usr/share/pixmaps/lomf.png
+TryExec=/usr/bin/lomf
+Exec=/usr/bin/lomf
+Categories=Application;Development;
+StartupNotify=false
+X-AppInstall-Package=lomf
+X-AppInstall-Section=aur
+X-Arch-Package=lomf 5.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lomf
+X-Arch-Package-Version=5.2-1
+X-Arch-Package-Description=Less Overhead More Fun - programming language / IDE for CS
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ux-02.ha.bib.de/daten/Löwe/Programmierung/LOMF/
+X-Arch-Package-Votes=0

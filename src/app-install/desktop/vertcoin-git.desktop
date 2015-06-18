@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Vertcoin
+Comment=Vertcoin P2P Cryptocurrency
+Icon=/usr/share/pixmaps/vertcoin128.png
+TryExec=/usr/bin/vertcoin-qt
+Exec=/usr/bin/vertcoin-qt
+Categories=Office;
+MimeType=x-scheme-handler/vertcoin;
+X-AppInstall-Package=vertcoin-git
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=vertcoin-git 0.9.0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=vertcoin-git
+X-Arch-Package-Version=0.9.0.1-1
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.vertcoin.org/
+X-Arch-Package-Votes=2

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=JOE Text Editor
+GenericName=JOE Text Editor
+Comment=enhanced-WordStar style interface
+Icon=text-editor
+TryExec=/usr/bin/joe
+Exec=joe
+Terminal=true
+Categories=Utility;TextEditor;
+StartupNotify=false
+X-AppInstall-Package=joe
+X-AppInstall-Section=extra
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=joe
+X-Arch-Package-Version=3.7-4
+X-Arch-Package-Description=Joe's own editor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/joe-editor
+X-AfterStep-IndexName=joe

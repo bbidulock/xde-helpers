@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.5
+Type=Application
+Name=SolarWolf-widescreen
+Icon=/usr/share/pixmaps/solarwolf.png
+TryExec=/usr/bin/solarwolf
+Exec=/usr/bin/solarwolf
+Categories=Application;Game;ArcadeGame;
+X-AppInstall-Package=solarwolf-widescreen
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=solarwolf-widescreen 1.5-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=solarwolf-widescreen
+X-Arch-Package-Version=1.5-4
+X-Arch-Package-Description=Scramble through 60 levels collecting space boxes while
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://posor.hostingkunde.de/solarwolf/solarwolf.htm
+X-Arch-Package-Votes=8

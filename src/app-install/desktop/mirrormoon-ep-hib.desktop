@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=MirrorMoon EP
+Comment=A space adventure that begins on a red planet and its unique moon.
+Icon=mirrormoon-ep-hib
+TryExec=/usr/bin/mirrormoon-ep-hib
+Exec=mirrormoon-ep-hib
+Categories=AudioVideo;Game;
+StartupNotify=true
+X-AppInstall-Package=mirrormoon-ep-hib
+X-AppInstall-Section=aur
+X-Arch-Package=mirrormoon-ep-hib 1392070609-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mirrormoon-ep-hib
+X-Arch-Package-Version=1392070609-1
+X-Arch-Package-Description=MirrorMoon EP is a space adventure that begins on a red planet
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.mirrormoongame.com/
+X-Arch-Package-Votes=0

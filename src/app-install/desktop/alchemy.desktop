@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Alchemy
+Comment="Sketch, draw, and create in new ways"
+Icon=alchemy
+TryExec=/usr/bin/alchemy
+Exec=alchemy %F
+Categories=Graphics;2DGraphics;VectorGraphics;
+MimeType=application/pdf;
+X-AppInstall-Package=alchemy
+X-AppInstall-Popcon=40
+X-AppInstall-Section=aur
+X-Arch-Package=alchemy 008-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=alchemy
+X-Arch-Package-Version=008-2
+X-Arch-Package-Description=Sketch, draw, and create on computers in new ways
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://al.chemy.org/
+X-Arch-Package-Votes=40

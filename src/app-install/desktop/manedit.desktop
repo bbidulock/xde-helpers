@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Manpage Editor
+Comment=Create and edit UNIX manual pages
+Icon=/usr/share/pixmaps/manedit.xpm
+TryExec=/usr/bin/manedit
+Exec=manedit
+Categories=Application;Development;GNOME;
+StartupNotify=true
+X-AppInstall-Package=manedit
+X-AppInstall-Section=extra
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=manedit
+X-Arch-Package-Version=1.2.1-4
+X-Arch-Package-Description=An editor specifically tailored for UNIX manual pages
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://freecode.com/projects/manedit

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Zelda Classic
+Comment=A tribute to Nintendo's The Legend of Zelda (NES)
+Icon=zelda-classic
+TryExec=/usr/bin/zelda-classic
+Exec=zelda-classic
+Categories=Game;AdventureGame;
+X-AppInstall-Package=zelda-classic
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=zelda-classic 2.5.0.24-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zelda-classic
+X-Arch-Package-Version=2.5.0.24-2
+X-Arch-Package-Description=A tribute to Nintendo's The Legend of Zelda (NES)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://zeldaclassic.com
+X-Arch-Package-Votes=5

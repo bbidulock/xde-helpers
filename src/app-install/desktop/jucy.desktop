@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Jucy
+Comment=Java direct connect client
+Icon=jucy.png
+TryExec=/opt/jucy/Jucy
+Exec=/opt/jucy/Jucy
+Categories=Network;Java;
+X-AppInstall-Package=jucy
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=jucy 0.87-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jucy
+X-Arch-Package-Version=0.87-1
+X-Arch-Package-Description=Direct connect client
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.jucy.eu/
+X-Arch-Package-Votes=8

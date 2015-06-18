@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Julia Studio
+GenericName=Julia IDE
+Icon=/usr/share/icons/hicolor/512x512/apps/QtProject-qtcreator.png
+TryExec=/usr/bin/JuliaStudio
+Exec=/usr/bin/JuliaStudio
+Categories=Development;Qt;
+X-KDE-StartupNotify=true
+X-AppInstall-Package=julia-studio-git
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package=julia-studio-git 0.4.2.r99.g938fede-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=julia-studio-git
+X-Arch-Package-Version=0.4.2.r99.g938fede-1
+X-Arch-Package-Description=An IDE for the Julia Language
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/forio/julia-studio
+X-Arch-Package-Votes=11

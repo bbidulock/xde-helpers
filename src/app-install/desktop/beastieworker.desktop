@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Beastie Worker
+Comment=A 3D sokoban-like game featuring Beastie
+Icon=beastieworker.png
+TryExec=/usr/bin/beastieworker
+Exec=beastieworker
+Categories=Game;LogicGame;
+X-AppInstall-Package=beastieworker
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=beastieworker 0.4-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=beastieworker
+X-Arch-Package-Version=0.4-4
+X-Arch-Package-Description=A 3D sokoban-like game featuring Beastie
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://beastieworker.sourceforge.net
+X-Arch-Package-Votes=1

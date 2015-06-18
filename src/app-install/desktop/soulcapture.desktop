@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Soul Capture
+Comment=Soul Capture is a free software utility that can be used to capture both the video and audio playback of OpenGL applications such as games. It was created in Gambas and works as a front-end for the glc capture program; ffmpeg is also required for encoding. Soul Capture allows users the ability to capture and encode footage of their games and other applications from a comfortable and easy to understand interface.
+Icon=/usr/share/pixmaps/soulcapture.png
+TryExec=/usr/bin/soulcapture
+Exec=/usr/bin/soulcapture
+Categories=Video;
+StartupNotify=true
+X-AppInstall-Package=soulcapture
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=soulcapture 2.0.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=soulcapture
+X-Arch-Package-Version=2.0.0-1
+X-Arch-Package-Description=Soul Capture is a free software utility that can be used to
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://icculus.org/piga/
+X-Arch-Package-Votes=3

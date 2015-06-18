@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=FS2 Open
+Comment=FreeSpace 2
+Icon=freespace2
+TryExec=/usr/bin/fs2_open
+Exec=fs2_open
+Categories=Game;
+X-AppInstall-Package=fs2_open
+X-AppInstall-Popcon=26
+X-AppInstall-Section=aur
+X-Arch-Package=fs2_open 3.7.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fs2_open
+X-Arch-Package-Version=3.7.2-1
+X-Arch-Package-Description=An enhancement of the FreeSpace 2 engine
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://scp.indiegames.us
+X-Arch-Package-Votes=26

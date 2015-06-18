@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Linux Band
+Comment=A GUI front-end for MMA.
+Icon=linuxband
+TryExec=/usr/bin/linuxband
+Exec=linuxband
+Categories=AudioVideo;Education;Music;
+X-AppInstall-Package=linuxband
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=linuxband 12.02-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=linuxband
+X-Arch-Package-Version=12.02-1
+X-Arch-Package-Description=A GUI front-end for MMA
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://linuxband.org/
+X-Arch-Package-Votes=4

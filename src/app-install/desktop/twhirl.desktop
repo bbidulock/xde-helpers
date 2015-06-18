@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=0.9.4
+Type=Application
+Name=Twhirl
+Comment=A Social Networking Application
+Icon=/usr/share/pixmaps/twhirl/twhirl.png
+TryExec=/usr/bin/twhirl
+Exec=twhirl
+Categories=Network;
+X-AppInstall-Package=twhirl
+X-AppInstall-Popcon=18
+X-AppInstall-Section=aur
+X-Arch-Package=twhirl 0.9.7-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=twhirl
+X-Arch-Package-Version=0.9.7-1
+X-Arch-Package-Description=A social software desktop client, based on the Adobe AIR
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.twhirl.org/
+X-Arch-Package-Votes=18

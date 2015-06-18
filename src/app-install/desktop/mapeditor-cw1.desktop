@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Map Editor - CW1
+Icon=/usr/share/cwe/icons/cwe128.png
+TryExec=/usr/bin/cwe
+Exec=cwe
+Categories=Game;
+X-AppInstall-Package=creeper-world-map-editor
+X-AppInstall-Section=aur
+X-Arch-Package=creeper-world-map-editor 0380-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=creeper-world-map-editor
+X-Arch-Package-Version=0380-2
+X-Arch-Package-Description=The map editor for Creeper World
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://knucklecracker.com/creeperworld/mapeditor.php
+X-Arch-Package-Votes=0

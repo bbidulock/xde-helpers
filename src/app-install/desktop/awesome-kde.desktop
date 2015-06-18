@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Xsession
+Name=KDE/Awesome
+Comment=Use the Awesome window manager inside of the K Desktop Environment
+Icon=awesome
+TryExec=/usr/bin/startkde
+Exec=/usr/bin/awesome-kde-session
+X-AppInstall-Package=awesome-kde
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=awesome-kde 1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=awesome-kde
+X-Arch-Package-Version=1-2
+X-Arch-Package-Description=Make the Awesome WM an alternative in KDE
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://awesome.naquadah.org/wiki/KDE_and_awesome
+X-Arch-Package-Votes=1

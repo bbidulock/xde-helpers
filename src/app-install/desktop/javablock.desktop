@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=JavaBlock
+GenericName=Flowchart simulator
+Comment=Free Java Flowchart simulator / interpreter
+Icon=javablock
+TryExec=/usr/bin/javablock
+Exec=javablock
+Categories=Development;
+X-AppInstall-Package=javablock
+X-AppInstall-Section=aur
+X-Arch-Package=javablock 0.6.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=javablock
+X-Arch-Package-Version=0.6.1-1
+X-Arch-Package-Description=Free Java Flowchart simulator / interpreter
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://javablock.sourceforge.net/
+X-Arch-Package-Votes=0

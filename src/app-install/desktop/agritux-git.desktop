@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=AgriTux
+Icon=/usr/share/pixmaps/agritux.png
+TryExec=/usr/bin/agritux
+Exec=/usr/bin/agritux
+NoDisplay=true
+Categories=Office;
+StartupNotify=true
+X-AppInstall-Package=agritux-git
+X-AppInstall-Section=aur
+X-Arch-Package=agritux-git 0.r42.66f70ad-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=agritux-git
+X-Arch-Package-Version=0.r42.66f70ad-1
+X-Arch-Package-Description=Logiciel de gestion d'exploitations agricoles
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://agritux.net
+X-Arch-Package-Votes=0
+Aliases=agritux;

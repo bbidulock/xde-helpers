@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=gexif
+Comment=GTK exif data viewer
+TryExec=/usr/bin/gexif
+Exec=gexif
+NoDisplay=true
+Categories=Graphics;
+StartupNotify=true
+X-AppInstall-Package=gexif-cvs
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=gexif-cvs 20130705-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gexif-cvs
+X-Arch-Package-Version=20130705-1
+X-Arch-Package-Description=A GTK+ based GUI interface to libexif-gtk
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://libexif.sourceforge.net/
+X-Arch-Package-Votes=2
+Aliases=gexif;

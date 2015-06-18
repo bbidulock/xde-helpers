@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=DRAKON Editor
+Comment=A free cross-platform editor for the DRAKON visual language
+Icon=drakon-editor
+TryExec=/usr/bin/drakon-editor
+Exec=drakon-editor
+Categories=Development;
+X-AppInstall-Package=drakon-editor
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=drakon-editor 1.25-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=drakon-editor
+X-Arch-Package-Version=1.25-1
+X-Arch-Package-Description=A free cross-platform editor for the DRAKON visual language
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://drakon-editor.sourceforge.net/
+X-Arch-Package-Votes=7

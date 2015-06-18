@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Chunky
+Comment=Minecraft mapping and rendering tool.
+Icon=chunky
+TryExec=/usr/bin/chunky
+Exec=java -Xms512m -Xmx2g -jar /usr/share/java/chunky/Chunky.jar
+Categories=Game;
+Keywords=minecraft;
+X-AppInstall-Package=chunky-bzr
+X-AppInstall-Section=aur
+X-Arch-Package=chunky-bzr 1.1.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=chunky-bzr
+X-Arch-Package-Version=1.1.2-1
+X-Arch-Package-Description=A Minecraft mapping and rendering tool.
+X-Arch-Package-URL=http://chunky.llbit.se/

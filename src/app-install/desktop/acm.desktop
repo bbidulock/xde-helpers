@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=ACM
+Comment=A classic multiplayer flight simulator for Unix/X11
+Icon=acm
+TryExec=/usr/bin/acm
+Exec=acm -nosplash
+Categories=Game;Simulation;
+X-AppInstall-Package=acm
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=acm 5.0-28
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=acm
+X-Arch-Package-Version=5.0-28
+X-Arch-Package-Description=A classic multiplayer flight simulator for Unix/X11
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.websimulations.com/ [Down?]
+X-Arch-Package-Votes=1

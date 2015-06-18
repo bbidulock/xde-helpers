@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=muCommander
+Comment=File Manager
+Icon=mucommander
+TryExec=/usr/bin/mucommander
+Exec=mucommander
+Categories=Application;Utility;GNOME;
+StartupNotify=true
+X-AppInstall-Package=mucommander
+X-AppInstall-Popcon=34
+X-AppInstall-Section=aur
+X-Arch-Package=mucommander 0.9.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mucommander
+X-Arch-Package-Version=0.9.0-2
+X-Arch-Package-Description=A lightweight file manager written in Java
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.mucommander.com
+X-Arch-Package-Votes=34

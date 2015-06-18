@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Modelio
+Comment=A UML tool
+Icon=/opt/modelio-open/icon.xpm
+TryExec=/opt/modelio-open/modelio
+Exec=/opt/modelio-open/modelio %U
+Categories=Development;IDE;
+MimeType=application/x-uml;
+StartupNotify=true
+X-AppInstall-Package=modelio-open
+X-AppInstall-Popcon=24
+X-AppInstall-Section=aur
+X-Arch-Package=modelio-open 3.3.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=modelio-open
+X-Arch-Package-Version=3.3.1-1
+X-Arch-Package-Description=An open source UML tool that supports the UML2 and BPMN2
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.modelio.org/
+X-Arch-Package-Votes=24

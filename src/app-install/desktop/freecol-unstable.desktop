@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=FreeCol Unstable
+GenericName=Strategy Game
+Comment=A free Colonization clone
+Icon=/usr/share/pixmaps/freecol.xpm
+TryExec=/usr/bin/freecol-unstable
+Exec=freecol-unstable
+Categories=Game;StrategyGame;
+X-AppInstall-Package=freecol-unstable
+X-AppInstall-Section=aur
+X-Arch-Package=freecol-unstable 0.10.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=freecol-unstable
+X-Arch-Package-Version=0.10.0-1
+X-Arch-Package-Description=A turn-based strategy game based on Colonization (development version)
+X-Arch-Package-URL=http://www.freecol.org/

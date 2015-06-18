@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Cinnamon System Monitor Preference
+Name[es_ES]=Ajustes del applet Monitor de Sistema (cinnamon)
+Name[fr_FR]=Préférences de cinnamon-system-monitor-applet
+Name[pt_PT]=Editor de preferências do cinnamon-system-monitor-applet
+Name[zh_CN]=面板系统监视器选项
+GenericName=Preference Editor for cinnamon-system-monitor-applet
+Icon=utilities-system-monitor
+TryExec=/usr/bin/cinnamon-system-monitor-applet-config
+Exec=cinnamon-system-monitor-applet-config
+Categories=System;GNOME;
+X-AppInstall-Package=cinnamon-system-monitor-applet-git
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=cinnamon-system-monitor-applet-git 20120801-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cinnamon-system-monitor-applet-git
+X-Arch-Package-Version=20120801-1
+X-Arch-Package-Description=System monitor extension for Cinnamon (display mem swap cpu
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://github.com/paradoxxxzero/gnome-shell-system-monitor-applet/tree/gnome-3.2
+X-Arch-Package-Votes=10

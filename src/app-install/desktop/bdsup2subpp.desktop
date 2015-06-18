@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=BDSup2Sub++
+GenericName=Subtitle Conversion Tool
+Comment=Subtitle conversion tool for image based stream formats with scaling capabilities and some other nice features.
+Icon=bdsup2subpp
+TryExec=/usr/bin/bdsup2subpp
+Exec=bdsup2subpp
+Categories=AudioVideo;
+X-AppInstall-Package=bdsup2subplusplus-git
+X-AppInstall-Section=aur
+X-Arch-Package=bdsup2subplusplus-git 20130410.7c8af86-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bdsup2subplusplus-git
+X-Arch-Package-Version=20130410.7c8af86-1
+X-Arch-Package-Description=Subtitle conversion tool for image based stream formats with scaling capabilities and some other nice features. (GIT version)
+X-Arch-Package-URL=https://github.com/amichaelt/BDSup2SubPlusPlus

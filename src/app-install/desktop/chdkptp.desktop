@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=CHDK Canon Camera PTP GUI
+GenericName=Camera GUI
+Comment=Client created specifically for controlling CHDK cameras
+TryExec=/usr/bin/chdkptp
+Exec=chdkptp
+Categories=Graphics;2DGraphics;RasterGraphics;Photography;
+StartupNotify=false
+X-AppInstall-Package=-svn
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=chdkptp-svn 477-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=-svn
+X-Arch-Package-Version=477-3
+X-Arch-Package-Description=Client created specifically for controlling CHDK Canon cameras
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://chdk.wikia.com/
+X-Arch-Package-Votes=1

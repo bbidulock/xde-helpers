@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Unreal Tournament 2004
+Comment=popular first person shooter
+Icon=/usr/share/pixmaps/Unreal.ico
+TryExec=/opt/ut2004/Scripts/ut2004
+Exec=/opt/ut2004/Scripts/ut2004
+NoDisplay=true
+Categories=Application;Game;
+X-AppInstall-Package=ut2004-steam
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=ut2004-steam 3369_2-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ut2004-steam
+X-Arch-Package-Version=3369_2-3
+X-Arch-Package-Description=Popular first person shooter, native Linux version, data files
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.unrealtournament2004.com
+X-Arch-Package-Votes=1
+Aliases=ut2004;

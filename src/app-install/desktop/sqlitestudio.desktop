@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Sqlitestudio
+Comment=Database manager for SQLite
+Icon=sqlitestudio
+TryExec=/usr/bin/sqlitestudio
+Exec=sqlitestudio
+Categories=Application;Development;
+StartupNotify=false
+X-AppInstall-Package=sqlitestudio
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=sqlitestudio 3.0.6-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sqlitestudio
+X-Arch-Package-Version=3.0.6-3
+X-Arch-Package-Description=Database manager for SQLite
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sqlitestudio.pl/
+X-Arch-Package-Votes=2

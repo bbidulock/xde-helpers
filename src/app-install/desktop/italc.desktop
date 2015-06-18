@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=iTALC
+Icon=/usr/share/pixmaps/italc.xpm
+TryExec=/usr/bin/italc
+Exec=italc
+Categories=Education;
+StartupNotify=true
+X-AppInstall-Package=italc
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=italc 2.0.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=italc
+X-Arch-Package-Version=2.0.2-1
+X-Arch-Package-Description=Classroom management software which enables teachers to view
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://italc.sourceforge.net/
+X-Arch-Package-Votes=4

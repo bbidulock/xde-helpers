@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=REC Studio
+GenericName=RecStudio
+Comment=Cross platform interactive decompiler.
+Icon=/usr/share/pixmaps/recstudio.png
+TryExec=/usr/bin/recstudio
+Exec=/usr/bin/recstudio
+X-AppInstall-Package=recstudio
+X-AppInstall-Popcon=14
+X-AppInstall-Section=aur
+X-Arch-Package=recstudio 4.0_20130724-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=recstudio
+X-Arch-Package-Version=4.0_20130724-1
+X-Arch-Package-Description=Cross platform interactive decompiler.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.backerstreet.com/rec/rec.htm
+X-Arch-Package-Votes=14

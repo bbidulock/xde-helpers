@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=HOXChess
+Comment=Xiangqi (Chinese chess) client
+Icon=/usr/share/hoxchess/icons/hoxchess.xpm
+TryExec=/usr/bin/hoxchess
+Exec=hoxchess
+Categories=Game;StrategyGame;
+X-AppInstall-Package=hoxchess
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=hoxchess 1.0.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=hoxchess
+X-Arch-Package-Version=1.0.0-2
+X-Arch-Package-Description=A single-player and network client for Xiangqi (Chinese chess)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://hoxchess.googlecode.com/
+X-Arch-Package-Votes=3

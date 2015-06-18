@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Feed The Beast
+Comment=Feed The Beast offers many different styles of Minecraft modpacks to the community, catering to all tastes.
+Icon=feedthebeast
+TryExec=/usr/bin/feedthebeast
+Exec=feedthebeast
+Categories=AudioVideo;Game;
+X-AppInstall-Package=feedthebeast
+X-AppInstall-Popcon=32
+X-AppInstall-Section=aur
+X-Arch-Package=feedthebeast 1.4.8_337-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=feedthebeast
+X-Arch-Package-Version=1.4.8_337-1
+X-Arch-Package-Description=Feed The Beast offers many different styles of Minecraft
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://feed-the-beast.com/
+X-Arch-Package-Votes=32

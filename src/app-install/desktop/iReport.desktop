@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=iReport
+GenericName=iReport
+Comment=A visual report builder for JasperReports (Part of the Openbravo Stack)
+Icon=ireport
+TryExec=/usr/bin/ireport
+Exec=ireport
+Categories=Development;
+StartupNotify=false
+X-AppInstall-Package=obstack-ireport
+X-AppInstall-Section=aur
+X-Arch-Package=obstack-ireport 4.0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=obstack-ireport
+X-Arch-Package-Version=4.0.1-1
+X-Arch-Package-Description=A visual report builder for JasperReports (Part of the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://jasperforge.org/projects/ireport
+X-Arch-Package-Votes=0

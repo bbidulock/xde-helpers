@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=PDF Editor
+GenericName=PDF Editor
+Icon=pdfedit
+TryExec=/usr/bin/pdfedit
+Exec=pdfedit
+NoDisplay=true
+Categories=Utility;TextEditor;
+X-AppInstall-Package=pdfedit-addscript-csv
+X-AppInstall-Section=aur
+X-Arch-Package=pdfedit-addscript-csv 0.4.5-csv
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pdfedit-addscript-csv
+X-Arch-Package-Version=0.4.5-csv
+X-Arch-Package-Description=Full featured editor for manipulating PDF documents and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pdfedit.petricek.net/index_e.html
+X-Arch-Package-Votes=0
+Aliases=pdfedit;

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Rochard
+GenericName=Sci-Fi Action Platformer
+Comment=Recoil Games
+Icon=rochard
+TryExec=/usr/bin/rochard
+Exec=/usr/bin/rochard
+Categories=Game;
+X-AppInstall-Package=rochard-hib
+X-AppInstall-Popcon=15
+X-AppInstall-Section=aur
+X-Arch-Package=rochard-hib 1.42+h20130620-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rochard-hib
+X-Arch-Package-Version=1.42+h20130620-1
+X-Arch-Package-Description=A sci-fi action platformer that centers around manipulating
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.rochardthegame.com
+X-Arch-Package-Votes=15

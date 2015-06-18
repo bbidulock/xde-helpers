@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=MoioSMS Beta4
+GenericName=SMS Client
+Comment=A program to send SMS via web
+Icon=moiosms-beta
+TryExec=/usr/bin/moiosms-beta
+Exec=moiosms-beta
+Categories=Application;Network;
+StartupNotify=true
+X-KDE-StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=moiosms-beta
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=moiosms-beta 2.19Bb4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=moiosms-beta
+X-Arch-Package-Version=2.19Bb4-1
+X-Arch-Package-Description=A program to send SMS via web
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=None
+X-Arch-Package-Votes=1
+MapNotify=true

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Duke3D
+Comment=icculus.org port of Duke Nukem 3D
+Icon=duke3d-svn
+TryExec=/usr/bin/duke3d-svn
+Exec=duke3d-svn
+Categories=Game;ActionGame;
+X-AppInstall-Package=duke3d-svn
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=duke3d-svn 187-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=duke3d-svn
+X-Arch-Package-Version=187-2
+X-Arch-Package-Description=Icculus.org port of the famous 3d Realms game. This will
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://icculus.org/projects/duke3d/
+X-Arch-Package-Votes=7

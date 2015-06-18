@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=PeaZip
+GenericName=Archiving Tool
+Icon=peazip
+TryExec=/usr/bin/peazip
+Exec=peazip -style=cleanlooks %F
+NoDisplay=true
+Categories=System;Utility;Archiving;KDE;Qt;
+MimeType=application/x-gzip;application/x-lha;application/x-tar;application/x-tgz;application/x-tbz;application/x-tbz2;application/x-zip;application/zip;application/x-bzip;application/x-rar;application/x-tarz;application/x-archive;application/x-bzip2;application/x-jar;application/x-deb;application/x-ace;application/x-7z;application/x-arc;application/x-arj;application/x-compress;application/x-cpio;
+X-KDE-HasTempFileOption=true
+X-AppInstall-Package=peazip-qt
+X-AppInstall-Popcon=64
+X-AppInstall-Section=aur
+X-Arch-Package=peazip-qt 5.5.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=peazip-qt
+X-Arch-Package-Version=5.5.3-1
+X-Arch-Package-Description=QT archiver utility
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://peazip.sourceforge.net/peazip-linux.html
+X-Arch-Package-Votes=64
+Aliases=peazip;

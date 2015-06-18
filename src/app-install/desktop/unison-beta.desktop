@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=unison
+Comment=File synchronisation tool for X11
+Comment[de]=Datei Abgleicher und Synchronisierer
+Icon=unison.png
+TryExec=/usr/bin/unison-x11
+Exec=unison-x11
+NoDisplay=true
+Hidden=true
+Categories=Application;Network;GTK;
+StartupNotify=true
+X-AppInstall-Package=unison-beta
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=unison-beta 2.48.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=unison-beta
+X-Arch-Package-Version=2.48.3-1
+X-Arch-Package-Description=Unison is a file-synchronization tool. Beta Version
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.cis.upenn.edu/~bcpierce/unison
+X-Arch-Package-Votes=8
+Aliases=unison;

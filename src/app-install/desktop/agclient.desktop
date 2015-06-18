@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Appgate Client
+Comment=a client to connect to an Appgate Server
+Icon=agcicon.gif
+TryExec=/usr/bin/agclient
+Exec=agclient
+Categories=Network;
+StartupNotify=false
+X-AppInstall-Package=agclient
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=agclient 10.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=agclient
+X-Arch-Package-Version=10.2-1
+X-Arch-Package-Description=A client to connect to an Appgate server.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://tech.cryptzone.com/
+X-Arch-Package-Votes=2

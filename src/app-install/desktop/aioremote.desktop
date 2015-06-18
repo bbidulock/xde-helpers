@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=AIO Remote
+Comment=Control PC from Android device
+TryExec=/usr/bin/aioremote
+Exec=/usr/bin/aioremote
+Categories=Utility;
+X-AppInstall-Package=aioremote
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=aioremote 3.4.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=aioremote
+X-Arch-Package-Version=3.4.2-2
+X-Arch-Package-Description=AIO Remote stands for All In One Remote, With All In One
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.minecraft.net/
+X-Arch-Package-Votes=4

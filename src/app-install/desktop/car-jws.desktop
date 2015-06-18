@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Circle And Ruler JWS
+Comment=Java Web Start
+Icon=/opt/car-jws/car.png
+TryExec=/opt/car-jws/car-jws
+Exec=/opt/car-jws/car-jws
+Categories=Education;Science;Math;
+StartupNotify=true
+X-AppInstall-Package=car-jws
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=car-jws current-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=car-jws
+X-Arch-Package-Version=current-3
+X-Arch-Package-Description=Circle and Ruler is a dynamic geometry program. This Java
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.z-u-l.de
+X-Arch-Package-Votes=2

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=PPCoin
+Comment=PPCoin P2P Cryptocurrency
+Comment[fr]=PPCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=PPCoin, eşten eşe kriptografik sanal para birimi
+Icon=/usr/share/pixmaps/ppcoin256.png
+TryExec=/usr/bin/ppcoin-qt
+Exec=/usr/bin/ppcoin-qt
+Categories=Office;
+MimeType=x-scheme-handler/ppcoin;
+X-AppInstall-Package=ppcoin-qt
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=ppcoin-qt 0.4.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ppcoin-qt
+X-Arch-Package-Version=0.4.0-1
+X-Arch-Package-Description=P2P Long-Term Energy-Efficient Crypto-Currency (QT)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.ppcoin.org/
+X-Arch-Package-Votes=13

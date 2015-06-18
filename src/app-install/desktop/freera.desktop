@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=freera
+Comment=Free Red Alert
+Icon=freera.png
+TryExec=/usr/bin/freera
+Exec=freera
+Categories=Application;Game;
+X-AppInstall-Package=freera-svn
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=freera-svn 392-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=freera-svn
+X-Arch-Package-Version=392-1
+X-Arch-Package-Description=GPL implementation of the Westwood RedAlert. Needs the .mix
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.freera.org/
+X-Arch-Package-Votes=3

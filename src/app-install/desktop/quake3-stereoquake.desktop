@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=StereoQuake
+Comment=Stereogram Quake 3 mod
+TryExec=/usr/bin/stereoquake
+Exec=/usr/bin/stereoquake
+Categories=Application;Game;
+StartupNotify=false
+X-AppInstall-Package=quake3-stereoquake
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=quake3-stereoquake 1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=quake3-stereoquake
+X-Arch-Package-Version=1-2
+X-Arch-Package-Description=Stereogram mod for Quake 3
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://stereoquake.planetquake.gamespy.com/
+X-Arch-Package-Votes=3

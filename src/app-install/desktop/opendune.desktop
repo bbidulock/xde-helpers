@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=OpenDUNE
+Comment=Open source re-creation of "Dune II"
+Icon=opendune
+TryExec=/usr/bin/opendune
+Exec=opendune
+Categories=Game;
+X-AppInstall-Package=-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=opendune-git 0.7.88d5666-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=-git
+X-Arch-Package-Version=0.7.88d5666-1
+X-Arch-Package-Description=Open source re-creation of the popular game Dune II
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://opendune.org
+X-Arch-Package-Votes=1

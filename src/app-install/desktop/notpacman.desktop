@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Not Pacman
+GenericName=Arcade Game
+Comment=Not Pacman with physics
+Icon=gnome-mime-application-x-love-game
+TryExec=/usr/bin/notpacman
+Exec=notpacman
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=notpacman
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=notpacman 1.0.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=notpacman
+X-Arch-Package-Version=1.0.4-1
+X-Arch-Package-Description=not pacman with physics
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://stabyourself.net/notpacman/
+X-Arch-Package-Votes=10

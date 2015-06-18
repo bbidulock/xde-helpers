@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=7 Light-Years
+Comment=Play 7 Light-Years
+Icon=7-light-years
+TryExec=/usr/bin/7-light-years
+Exec=7-light-years
+Categories=AudioVideo;Game;
+StartupNotify=true
+X-AppInstall-Package=7-light-years
+X-AppInstall-Section=aur
+X-Arch-Package=7-light-years 1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=7-light-years
+X-Arch-Package-Version=1-2
+X-Arch-Package-Description=7 Light-Years is a game of flying down an endless corridor of
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://nifflas.ni2.se/?page=Miscellaneous
+X-Arch-Package-Votes=0

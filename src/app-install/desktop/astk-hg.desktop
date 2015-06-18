@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=ASTK
+Comment=Tcl/Tk interface to run Code_Aster
+Icon=astk
+TryExec=/usr/bin/astk-ssh
+Exec=astk-ssh
+NoDisplay=true
+Categories=Education;Science;Math;NumericalAnalysis;Engineering;
+X-AppInstall-Package=astk-hg
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=astk-hg 2351-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=astk-hg
+X-Arch-Package-Version=2351-1
+X-Arch-Package-Description=ASTK (Mercurial version)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.code-aster.org
+X-Arch-Package-Votes=1
+Aliases=astk;

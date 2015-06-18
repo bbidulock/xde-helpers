@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Aladin
+GenericName=Aladin
+Comment=Aladin is an interactive software sky atlas
+Icon=aladin
+TryExec=/usr/bin/aladin
+Exec=aladin
+Categories=Application;Other;Sciences;
+X-AppInstall-Package=aladin
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=aladin 8.040-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=aladin
+X-Arch-Package-Version=8.040-1
+X-Arch-Package-Description=Interactive software sky atlas
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://aladin.u-strasbg.fr/aladin.gml
+X-Arch-Package-Votes=5

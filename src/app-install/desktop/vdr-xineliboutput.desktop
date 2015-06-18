@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=VDR - vdr-sxfe
+Comment=Remote frontend to VDR xine-lib output plugin
+Icon=monitor
+TryExec=/usr/bin/vdr-sxfe
+Exec=/usr/bin/vdr-sxfe "xvdr://127.0.0.1:37890"
+NoDisplay=true
+Categories=Application;AudioVideo;Video;TV;Multimedia;
+StartupNotify=true
+X-AppInstall-Package=vdr-xineliboutput
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=vdr-xineliboutput 1.1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=vdr-xineliboutput
+X-Arch-Package-Version=1.1.0-1
+X-Arch-Package-Description=A VDR plugin that allows VDR to be used with budget cards
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/xineliboutput/
+X-Arch-Package-Votes=6
+Aliases=vdr-sxfe;

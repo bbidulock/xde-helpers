@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Leges Motus
+Icon=legesmotus
+TryExec=/usr/bin/legesmotus
+Exec=legesmotus
+Categories=Application;Game;
+X-AppInstall-Package=legesmotus
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=legesmotus 0.4.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=legesmotus
+X-Arch-Package-Version=0.4.0-1
+X-Arch-Package-Description=A team-based, networked, 2D shooter set in zero-gravity
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://legesmotus.endrift.com/index.php/Main_Page
+X-Arch-Package-Votes=3

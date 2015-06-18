@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=FortiClient SSLVPN
+Comment=FortiClient SSLVPN for Linux
+Icon=/opt/fortinet/forticlientsslvpn/icons/forticlientsslvpn.png
+TryExec=/usr/bin/forticlientsslvpn
+Exec=/usr/bin/forticlientsslvpn
+Categories=Network;GNOME;GTK;
+StartupNotify=false
+X-AppInstall-Package=forticlientsslvpn
+X-AppInstall-Popcon=12
+X-AppInstall-Section=aur
+X-Arch-Package=forticlientsslvpn 4.0.2307-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=forticlientsslvpn
+X-Arch-Package-Version=4.0.2307-2
+X-Arch-Package-Description=Fortinet SSL VPN Client for linux
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://support.fortinet.com
+X-Arch-Package-Votes=12

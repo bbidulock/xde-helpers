@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Pythentene
+GenericName=Serpentine Game
+Icon=/usr/share/pixmaps/pythentene.png
+TryExec=/usr/bin/pythentene
+Exec=pythentene
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=pythentene
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=pythentene 0.1a-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pythentene
+X-Arch-Package-Version=0.1a-3
+X-Arch-Package-Description=Classic arcade action for a new generation, Pythentene is
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.bitblaster.com/pythentene/
+X-Arch-Package-Votes=3

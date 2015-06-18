@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=A Virus Named TOM
+GenericName=Action-Puzzle Game
+Comment=Misfits Attic
+Icon=avirusnamedtom
+TryExec=/usr/bin/avirusnamedtom
+Exec=/usr/bin/avirusnamedtom
+Categories=Game;
+X-AppInstall-Package=avirusnamedtom-hib
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=avirusnamedtom-hib 0+h20131019-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=avirusnamedtom-hib
+X-Arch-Package-Version=0+h20131019-1
+X-Arch-Package-Description=A Virus Named TOM, a fast-paced action-puzzler (Humble Bundle
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.avirusnamedtom.com/
+X-Arch-Package-Votes=3

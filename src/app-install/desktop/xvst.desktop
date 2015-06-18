@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=xVideoServiceThief
+GenericName=Video Downloader
+GenericName[cs]=Stahování videí
+GenericName[de]=Video-Downloader
+Comment=Download videos and convert it
+Comment[cs]=Nástroj pro stahování a konvertování videí z různých portálů
+Comment[de]=Videos herunterladen und konvertieren
+Icon=xvst
+TryExec=/usr/bin/xvst
+Exec=xvst
+Categories=AudioVideo;Audio;Video;Qt;
+StartupNotify=false
+X-AppInstall-Package=xvst
+X-AppInstall-Popcon=84
+X-AppInstall-Section=aur
+X-Arch-Package=xvst 2.5.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xvst
+X-Arch-Package-Version=2.5.1-1
+X-Arch-Package-Description=GUI tool for downloading videos from sites like YouTube,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://xviservicethief.sourceforge.net
+X-Arch-Package-Votes=84

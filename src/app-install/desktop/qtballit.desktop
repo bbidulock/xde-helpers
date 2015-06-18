@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=QTBallit
+Comment=QTBallit esegue calcoli di balistica e balistica terminale.
+Icon=/usr/share/qtballit/qballit0.1.64.png
+TryExec=/usr/bin/qtballit
+Exec=qtballit
+Categories=Utility;
+X-AppInstall-Package=qtballit
+X-AppInstall-Section=aur
+X-Arch-Package=qtballit 0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qtballit
+X-Arch-Package-Version=0.1-1
+X-Arch-Package-Description=The linux version of WinBallit ballistic calculator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.earmi.it/download/winballit.htm
+X-Arch-Package-Votes=0

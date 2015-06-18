@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Markdowner
+Icon=/usr/share/markdowner/icon.png
+TryExec=/usr/bin/markdowner
+Exec=markdowner
+NoDisplay=true
+Categories=Utility;TextEditor;
+X-AppInstall-Package=-bzr
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=markdowner-bzr 11-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=-bzr
+X-Arch-Package-Version=11-2
+X-Arch-Package-Description=Markdowner is a simple markdown editor that will allow a user
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.jezra.net/projects/
+X-Arch-Package-Votes=4
+Aliases=markdowner;
+Caption=A light/feature free markdown editor.

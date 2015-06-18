@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=urxvt (client)
+Comment=An unicode capable rxvt clone client for urxvtd
+Icon=utilities-terminal
+TryExec=/usr/bin/urxvtc
+Exec=urxvtc
+NoDisplay=true
+Categories=System;TerminalEmulator;
+X-AppInstall-Package=rxvt-unicode-fontspacing-noinc-vteclear-secondarywheel
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=rxvt-unicode-fontspacing-noinc-vteclear-secondarywheel 9.21-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rxvt-unicode-fontspacing-noinc-vteclear-secondarywheel
+X-Arch-Package-Version=9.21-1
+X-Arch-Package-Description=Unicode enabled rxvt-clone terminal emulator (urxvt) with
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://software.schmorp.de/pkg/rxvt-unicode.html
+X-Arch-Package-Votes=2
+Aliases=urxvtc;

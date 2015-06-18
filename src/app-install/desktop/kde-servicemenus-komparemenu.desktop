@@ -1,0 +1,46 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=KonqPopupMenu/Plugin;
+NoDisplay=true
+MimeType=inode/directory;application/octet-stream;
+X-AppInstall-Package=kde-servicemenus-komparemenu
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=kde-servicemenus-komparemenu 0.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kde-servicemenus-komparemenu
+X-Arch-Package-Version=0.1-2
+X-Arch-Package-Description=A KDE service menu for comparing selected files/folders with
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://example.com
+X-Arch-Package-Votes=3
+Aliases=komparemenu;
+X-KDE-Priority=TopLevel
+X-KDE-Submenu=Kompare menu
+X-KDE-Submenu[de]=Kompare Menü
+X-KDE-Submenu[es]=Kompare menú
+Actions=setArg1;diff;_SEPARATOR_;selected;
+
+[Desktop Action setArg1]
+Name=Set file/folder
+Name[de]=Setze Datei/Ordner
+Name[es]=Marcar archivo/carpeta
+Icon=kompare
+TryExec=/usr/bin/echo
+Exec=echo "%U" > /tmp/kompare-menu-arg1
+
+[Desktop Action diff]
+Name=Compare with file/folder
+Name[de]=Vergleiche mit Datei/Ordner
+Name[es]=Comparar con el archivo/carpeta marcado
+Icon=kompare
+TryExec=/usr/bin/ARG1=$(cat
+Exec=ARG1=$(cat /tmp/kompare-menu-arg1);kompare "$ARG1" %U;
+
+[Desktop Action selected]
+Name=Compare selected files/folder
+Name[de]=Vergleiche ausgewählte Dateien/Ordner
+Name[es]=Comparar los archivos/carpetas seleccionadas
+Icon=kompare
+TryExec=/usr/bin/kompare
+Exec=kompare %U;

@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=MyTourbook
+Comment=GPS tracks analyzer and visualizer
+Icon=mytourbook.xpm
+TryExec=/usr/bin/mytourbook
+Exec=mytourbook
+Categories=Utility;DataVisualization;
+X-AppInstall-Package=mytourbook
+X-AppInstall-Section=aur
+X-Arch-Package=mytourbook 12.1.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mytourbook
+X-Arch-Package-Version=12.1.0-2
+X-Arch-Package-Description=a tool to visualize and analyze tours recorded by a GPS device, ergometer, bike- or exercise computer
+X-Arch-Package-URL=http://mytourbook.sourceforge.net

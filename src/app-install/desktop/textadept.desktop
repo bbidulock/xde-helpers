@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=textadept
+GenericName="Fast and extensible text editor for programmers"
+Comment="Textadept is a fast, minimalist, and ridiculously extensible cross-platform text editor for programmers. Written in a combination of C and Lua and relentlessly optimized for speed and minimalism over the years"
+Icon=/usr/share/textadept/core/images/textadept.png
+TryExec=/usr/bin/textadept
+Exec=textadept
+Categories=Development;IDE;Editors;Gtk;
+MimeType=text/x-chdr;text/x-csrc;text/x-c++hdr;text/x-c++src;text/x-java;text/x-dsrc;text/x-pascal;text/x-perl;text/x-python;application/x-php;application/x-httpd-php3;application/x-httpd-php4;application/x-httpd-php5;application/xml;text/html;text/css;text/x-sql;text/x-diff;
+StartupNotify=true
+X-AppInstall-Package=textadept-latest-stable
+X-AppInstall-Popcon=23
+X-AppInstall-Section=aur
+X-Arch-Package=textadept-latest-stable 7.5-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=textadept-latest-stable
+X-Arch-Package-Version=7.5-5
+X-Arch-Package-Description=A fast, minimalist, and ridiculously extensible cross-platform
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://foicica.com/textadept
+X-Arch-Package-Votes=23

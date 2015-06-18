@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Minerva
+Comment=An AIR Shared Object Editor
+Icon=/usr/share/icons/minerva/clouds_128.png
+TryExec=/usr/bin/minerva
+Exec=minerva
+Categories=Network;
+X-AppInstall-Package=minerva
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=minerva 3.3.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=minerva
+X-Arch-Package-Version=3.3.3-1
+X-Arch-Package-Description=An AIR Shared Object Editor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://blog.coursevector.com/minerva
+X-Arch-Package-Votes=1

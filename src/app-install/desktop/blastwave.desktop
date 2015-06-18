@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=Blastwave
+Icon=/usr/share/blastwave/pixmaps/blastwave_16.png
+TryExec=/usr/bin/blastwave
+Exec=blastwave
+Categories=Application;AudioVideo;Player;GTK;
+X-AppInstall-Package=blastwave
+X-AppInstall-Section=aur
+X-Arch-Package=blastwave 0.1.1-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=blastwave
+X-Arch-Package-Version=0.1.1-4
+X-Arch-Package-Description=A GTK+/C based GUI client for the XMMS2 Music Multiplexing System.
+X-Arch-Package-URL=http://sourceforge.net/projects/blastwave

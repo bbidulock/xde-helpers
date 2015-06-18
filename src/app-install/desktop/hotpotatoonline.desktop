@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Hot Potato Online
+GenericName=Arena Sport Game
+Comment=A fast-paced arena sport game where players try to explode the opposition using a short-fused potato bomb
+Icon=hotpotatoonline.png
+TryExec=/usr/bin/hotpotatoonline
+Exec=hotpotatoonline
+Categories=Application;Game;
+StartupNotify=false
+X-AppInstall-Package=hotpotatoonline
+X-AppInstall-Section=aur
+X-Arch-Package=hotpotatoonline 1.2.0-11
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=hotpotatoonline
+X-Arch-Package-Version=1.2.0-11
+X-Arch-Package-Description=Fast-paced arena sport game where players try to explode the opposition using a short-fused potato bomb
+X-Arch-Package-URL=http://www.hotpotatoonline.com/

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=FreeFileSync
+GenericName=Folder Comparison and Synchronization
+Icon=/usr/share/pixmaps/ffsicon.png
+TryExec=/usr/bin/FreeFileSync
+Exec=FreeFileSync
+Categories=Application;Utility;GTK;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=freefilesync
+X-AppInstall-Popcon=65
+X-AppInstall-Section=aur
+X-Arch-Package=freefilesync 7.1-0
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=freefilesync
+X-Arch-Package-Version=7.1-0
+X-Arch-Package-Description=Visual folder comparison and synchronization
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.freefilesync.org/
+X-Arch-Package-Votes=65
+Aliases=FreeFileSync;

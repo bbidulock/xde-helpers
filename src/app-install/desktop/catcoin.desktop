@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=CatCoin
+Comment=CatCoin P2P Cryptocurrency
+Icon=/usr/share/pixmaps/catcoin.png
+TryExec=/usr/bin/catcoin-qt
+Exec=/usr/bin/catcoin-qt
+Categories=Network;
+MimeType=x-scheme-handler/catcoin;
+X-AppInstall-Package=catcoin-qt-git
+X-AppInstall-Section=aur
+X-Arch-Package=catcoin-qt-git 0.8.9-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=catcoin-qt-git
+X-Arch-Package-Version=0.8.9-1
+X-Arch-Package-Description=Cryptocurrency
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.catcoins.org/
+X-Arch-Package-Votes=0

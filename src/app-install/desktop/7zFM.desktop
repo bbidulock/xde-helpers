@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=7-Zip FM
+GenericName=7-Zip File Manager
+Icon=p7zip
+TryExec=/usr/bin/7zFM
+Exec=7zFM
+Categories=Utility;Archiving;Compression;GTK;
+X-AppInstall-Package=p7zip920
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=p7zip920 9.20.1-9
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=p7zip920
+X-Arch-Package-Version=9.20.1-9
+X-Arch-Package-Description=7zip compressed file archiver, version 9.20(.x)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://p7zip.sourceforge.net/
+X-Arch-Package-Votes=1

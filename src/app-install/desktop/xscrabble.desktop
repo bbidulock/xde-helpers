@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=XScrabble
+Comment=An X11 implementation of the Scrabble board game
+Icon=xscrabble.xpm
+TryExec=/usr/bin/xscrabble
+Exec=xscrabble
+Categories=Game;BoardGame;
+X-AppInstall-Package=xscrabble
+X-AppInstall-Popcon=12
+X-AppInstall-Section=aur
+X-Arch-Package=xscrabble 2.12-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xscrabble
+X-Arch-Package-Version=2.12-4
+X-Arch-Package-Description=An X11 implementation of the Scrabble board game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.happypenguin.org/show?XScrabble
+X-Arch-Package-Votes=12

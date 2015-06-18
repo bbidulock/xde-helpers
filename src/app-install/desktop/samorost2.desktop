@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Samorost 2
+Comment=A point-and-click puzzle Flash Game
+TryExec=/usr/bin/samorost2
+Exec=/usr/bin/samorost2
+Categories=Game;LogicGame;
+X-AppInstall-Package=samorost2
+X-AppInstall-Popcon=16
+X-AppInstall-Section=aur
+X-Arch-Package=samorost2 1.0-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=samorost2
+X-Arch-Package-Version=1.0-4
+X-Arch-Package-Description=Samorost 2 is an award-winning point-and-click
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://amanita-design.net/samorost-2/
+X-Arch-Package-Votes=16

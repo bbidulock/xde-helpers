@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=pyDxCluster
+Comment=Ham Radio DX Cluster GUI
+Icon=pydxcluster.png
+TryExec=/usr/bin/pydxcluster
+Exec=/usr/bin/pydxcluster
+X-DCOP-ServiceType=none
+Categories=Application;HamRadio;
+MimeType=text/plain;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=pydxcluster
+X-AppInstall-Section=aur
+X-Arch-Package=pydxcluster 1.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pydxcluster
+X-Arch-Package-Version=1.2-2
+X-Arch-Package-Description=Python2 (tk) Ham Radio DX-Cluster GUI
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/pydxcluster/
+X-Arch-Package-Votes=0

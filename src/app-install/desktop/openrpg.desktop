@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Openrpg
+GenericName=Openrpg
+Comment=Online Roleplaying program
+Icon=xfce-games
+TryExec=/usr/bin/openrpg
+Exec=openrpg
+Categories=Network;
+StartupNotify=true
+X-AppInstall-Package=openrpg
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=openrpg 1.8.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=openrpg
+X-Arch-Package-Version=1.8.0-2
+X-Arch-Package-Description=Online real-time RPG tabletop simulator allowing online play
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.openrpg.com/
+X-Arch-Package-Votes=13

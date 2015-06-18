@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Unreal Tournament 2004
+Comment=Futuristic FPS by Epic Games.
+Icon=/usr/share/pixmaps/ut2004.png
+TryExec=/usr/bin/ut2004
+Exec=ut2004
+NoDisplay=true
+Categories=Application;Game;
+X-AppInstall-Package=ut2004-goty
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=ut2004-goty 3369.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ut2004-goty
+X-Arch-Package-Version=3369.2-1
+X-Arch-Package-Description=Futuristic first person shooter by Epic Games, Game of the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.unrealtournament2004.com
+X-Arch-Package-Votes=3
+Aliases=ut2004;

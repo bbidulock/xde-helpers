@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Mark of the Ninja
+GenericName=Stealth Game
+Comment=Klei Entertainment
+Icon=markoftheninja
+TryExec=/usr/bin/markoftheninja
+Exec=/usr/bin/markoftheninja
+Categories=Game;
+X-AppInstall-Package=markoftheninja-hib
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=markoftheninja-hib 1.38+h20131002-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=markoftheninja-hib
+X-Arch-Package-Version=1.38+h20131002-1
+X-Arch-Package-Description=Mark of the Ninja, a side-scrolling stealth game (Humble
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.markoftheninja.com/
+X-Arch-Package-Votes=5

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Beep
+GenericName=Arcade Game
+Comment=a 2D side-scrolling platformer with physics-based gameplay.
+Icon=/opt/beep/Art/Textures/icon.png
+TryExec=/usr/bin/beep-game
+Exec=beep-game
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=beep-game
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=beep-game 1.3-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=beep-game
+X-Arch-Package-Version=1.3-2
+X-Arch-Package-Description=a 2D side-scrolling platformer with physics-based gameplay.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.gameolith.com/game/beep/
+X-Arch-Package-Votes=2

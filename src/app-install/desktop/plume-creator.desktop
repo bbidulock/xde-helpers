@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Plume Creator
+GenericName=Writer Tool
+Comment=With Plume Creator, organize your writing projects ! Scenes, notes, characters,... Rich Text editing, full screen editing and multiple projects supported.
+Icon=plume-creator
+TryExec=/usr/bin/plume-creator
+Exec=plume-creator
+Categories=Utility;TextEditor;
+StartupNotify=false
+X-AppInstall-Package=plume-creator
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=plume-creator 0.66.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=plume-creator
+X-Arch-Package-Version=0.66.1-2
+X-Arch-Package-Description=With
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/plume-creator/
+X-Arch-Package-Votes=5

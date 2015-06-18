@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=LaserCalc
+GenericName=LaserCalc
+Comment=Optics Simulator
+Icon=lasercalc
+TryExec=/usr/bin/lasercalc
+Exec=lasercalc
+Categories=Education;Science;Physics;
+StartupNotify=false
+X-AppInstall-Package=lasercalc
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=lasercalc 0.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lasercalc
+X-Arch-Package-Version=0.6-1
+X-Arch-Package-Description=A tool to calculate optical paths and resonators based on
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://sourceforge.net/apps/phpwebsite/lasercalc/
+X-Arch-Package-Votes=1

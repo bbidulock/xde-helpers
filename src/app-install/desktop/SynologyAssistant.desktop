@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=SynologyAssistant
+GenericName=Synology DS Assistant
+Comment=Program for maintaining Synology NAS
+Icon=dsassistant.png
+TryExec=/usr/bin/dsassistant
+Exec=dsassistant
+Categories=Network;Office;
+X-AppInstall-Package=dsassistant
+X-AppInstall-Popcon=31
+X-AppInstall-Section=aur
+X-Arch-Package=dsassistant 4448-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dsassistant
+X-Arch-Package-Version=4448-1
+X-Arch-Package-Description=Disk Station Assistant - An app to setup Synology DiskStations
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.synology.com/en-global/releaseNote/tool/Synology%20Assistant
+X-Arch-Package-Votes=31

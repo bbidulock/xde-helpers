@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Space Pirates and Zombies
+GenericName=2D Space Combat/Strategy Game
+Comment=MinMax Games
+Icon=spaz
+TryExec=/usr/bin/spaz
+Exec=/usr/bin/spaz
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=spaz-hib
+X-AppInstall-Popcon=14
+X-AppInstall-Section=aur
+X-Arch-Package=spaz-hib 1.605_20120918-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=spaz-hib
+X-Arch-Package-Version=1.605_20120918-1
+X-Arch-Package-Description=Space Pirates and Zombies, a top-down space combat/strategy
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://spacepiratesandzombies.com/
+X-Arch-Package-Votes=14

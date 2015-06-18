@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=qMikroIDE
+GenericName=Fast, useful & tiny AVR's assembler IDE
+TryExec=/usr/bin/qmikroide/qMikroIDE
+Exec=/usr/bin/qmikroide/qMikroIDE
+Categories=Development;
+X-AppInstall-Package=qmikroide
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=qmikroide 1.2-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qmikroide
+X-Arch-Package-Version=1.2-3
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://damiankmiecik.tk/qmikroide/
+X-Arch-Package-Votes=1

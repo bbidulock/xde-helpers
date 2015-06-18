@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Qt Creator
+GenericName=C++ IDE
+Icon=/usr/share/icons/hicolor/512x512/apps/QtProject-qtcreator.png
+TryExec=/usr/bin/qtcreator
+Exec=/usr/bin/qtcreator
+NoDisplay=true
+Categories=Development;Qt;
+X-KDE-StartupNotify=true
+X-AppInstall-Package=qtcreator-mer-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=qtcreator-mer-git 20121214-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qtcreator-mer-git
+X-Arch-Package-Version=20121214-1
+X-Arch-Package-Description=Qt Creator is a new cross-platform integrated development
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.qtsoftware.com/products/developer-tools
+X-Arch-Package-Votes=1
+Aliases=qtcreator;

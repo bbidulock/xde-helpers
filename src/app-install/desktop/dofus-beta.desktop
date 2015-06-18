@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Dofus Beta
+Icon=dofus-beta
+TryExec=/usr/bin/dofus-beta
+Exec=/usr/bin/dofus-beta
+Categories=Game;RolePlaying;
+StartupNotify=true
+X-AppInstall-Package=dofus-beta
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=dofus-beta 2.21-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dofus-beta
+X-Arch-Package-Version=2.21-2
+X-Arch-Package-Description=A manga inspired, Massively Multiplayer Online Role-playing
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.dofus.com/
+X-Arch-Package-Votes=4

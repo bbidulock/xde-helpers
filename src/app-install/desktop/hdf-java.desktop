@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=HDFView
+Comment=HDFView is a visual tool for browsing and editing HDF4 and HDF5 files.
+Icon=/usr/share/pixmaps/HDFView.ico
+TryExec=/usr/bin/HDFView
+Exec=/usr/bin/HDFView
+NoDisplay=true
+Categories=Utility;GNOME;GTK;
+StartupNotify=false
+X-AppInstall-Package=hdf-java
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=hdf-java 2.11-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=hdf-java
+X-Arch-Package-Version=2.11-1
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.hdfgroup.org/hdf-java-html/
+X-Arch-Package-Votes=10
+Aliases=HDFView;

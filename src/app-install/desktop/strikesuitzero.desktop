@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Strike Suit Zero
+GenericName=Strike Suit Zero
+Comment=A space combat game
+Icon=strikesuitzero
+TryExec=/usr/bin/strikesuitzero
+Exec=/usr/bin/strikesuitzero
+Categories=Game;
+Path=/opt/strikesuitzero
+X-AppInstall-Package=strikesuitzero-hib
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=strikesuitzero-hib 1389211698-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=strikesuitzero-hib
+X-Arch-Package-Version=1389211698-3
+X-Arch-Package-Description=A space flight combat game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://strikesuitzero.com/
+X-Arch-Package-Votes=1

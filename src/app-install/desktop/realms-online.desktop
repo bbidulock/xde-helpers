@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Realms Online
+GenericName=MMORPG 3D game
+GenericName[es]=Juego 3D MMORPG
+Comment=MMORPG 3D game
+Comment[es]=Juego 3D MMORPG
+Icon=/usr/share/pixmaps/realms.png
+TryExec=/usr/bin/realms-online
+Exec=/usr/bin/realms-online
+Categories=Application;Game;
+X-AppInstall-Package=realms-online
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=realms-online 1.9.6-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=realms-online
+X-Arch-Package-Version=1.9.6-3
+X-Arch-Package-Description=Cross-platform 3D Massively Multiplayer Online Role-playing
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://realmsonline.gamesamba.com/index.php
+X-Arch-Package-Votes=3

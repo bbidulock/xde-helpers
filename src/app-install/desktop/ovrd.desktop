@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Oculus Rift Service
+TryExec=/usr/bin/ovrd
+Exec=/usr/bin/ovrd
+X-AppInstall-Package=oculus-rift-sdk
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=oculus-rift-sdk 0.5.0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=oculus-rift-sdk
+X-Arch-Package-Version=0.5.0.1-1
+X-Arch-Package-Description=Oculus Rift SDK official version.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://developer.oculus.com
+X-Arch-Package-Votes=2

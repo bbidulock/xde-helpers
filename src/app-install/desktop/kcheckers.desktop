@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Kcheckers
+Comment=Checkers/Daughts game using Qt4 toolkit
+Icon=/usr/share/kcheckers/icons/theme/kingwhite.png
+TryExec=/usr/bin/kcheckers
+Exec=kcheckers
+Categories=Game;BoardGame;
+StartupNotify=false
+X-AppInstall-Package=kcheckers
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=kcheckers
+X-Arch-Package-Version=0.8.1-9
+X-Arch-Package-Description=Qt4-based checkers boardgame
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://qcheckers.sourceforge.net/

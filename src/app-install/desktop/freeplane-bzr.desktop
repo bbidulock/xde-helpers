@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Freeplane
+GenericName=Freeplane
+Comment=A mindmapping tool
+Comment[ja]=マインドマップ作成ツール
+Icon=freeplane
+TryExec=/usr/bin/freeplane
+Exec=freeplane %F
+NoDisplay=true
+Categories=Office;
+MimeType=application/x-troff-mm;
+X-AppInstall-Package=freeplane-bzr
+X-AppInstall-Section=aur
+X-Arch-Package=freeplane-bzr 2953-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=freeplane-bzr
+X-Arch-Package-Version=2953-1
+X-Arch-Package-Description=A free mindmapping and knowledge management tool
+X-Arch-Package-URL=http://freeplane.sourceforge.net
+Aliases=freeplane;

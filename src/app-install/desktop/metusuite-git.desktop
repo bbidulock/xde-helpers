@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=METU Suite
+Comment=METU Suite
+Icon=metusuite
+TryExec=/usr/bin/metusuite.py
+Exec=/usr/bin/metusuite.py
+NoDisplay=true
+Categories=Utility;
+X-AppInstall-Package=metusuite-git
+X-AppInstall-Section=aur
+X-Arch-Package=metusuite-git 20121119-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=metusuite-git
+X-Arch-Package-Version=20121119-1
+X-Arch-Package-Description=METU Suite
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/th0th/metusuite
+X-Arch-Package-Votes=0
+Aliases=metusuite;

@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Gnome Klotski
+Icon=/usr/share/pixmaps/gnotski.xpm
+TryExec=/usr/bin/gnotski
+Exec=gnotski
+Categories=X-Debian-Games-Puzzles;
+StartupNotify=false
+X-AppInstall-Package=gnome-klotski
+X-AppInstall-Section=extra
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=gnome-klotski
+X-Arch-Package-Version=3.16.1-1
+X-Arch-Package-Description=Slide blocks to solve the puzzle
+X-Arch-Package-Groups=gnome-extra
+X-Arch-Package-URL=https://live.gnome.org/Klotski

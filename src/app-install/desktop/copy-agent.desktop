@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Copy
+GenericName=Network Storage
+Comment=Copy.com Sync Agent
+Icon=copy-agent
+TryExec=/usr/bin/CopyAgent
+Exec=CopyAgent
+Categories=Network;
+StartupNotify=false
+X-AppInstall-Package=copy-agent
+X-AppInstall-Popcon=122
+X-AppInstall-Section=aur
+X-Arch-Package=copy-agent 3.2.01.0481-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=copy-agent
+X-Arch-Package-Version=3.2.01.0481-1
+X-Arch-Package-Description=Copy.com sync agent
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.copy.com
+X-Arch-Package-Votes=122

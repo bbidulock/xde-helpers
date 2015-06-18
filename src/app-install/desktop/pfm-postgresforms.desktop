@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=pfm
+GenericName=Postgres Forms
+Comment=Graphical user interface for PostgreSQL database
+Icon=/usr/share/pfm/pfm-icon.png
+TryExec=/usr/bin/tclsh
+Exec=/usr/bin/tclsh /usr/share/pfm/pfm.tcl
+Categories=Office;Database;
+X-AppInstall-Package=pfm
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=pfm 2.0.7-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pfm
+X-Arch-Package-Version=2.0.7-1
+X-Arch-Package-Description=A GUI for rapidly building forms and reports for PostgreSQL
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pgfoundry.org/projects/pfm
+X-Arch-Package-Votes=3

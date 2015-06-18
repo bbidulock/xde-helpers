@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=6.1
+Type=Application
+Name=Floola
+Comment=Freeware application to efficiently manage your iPod or your Motorola mobile phone (any model supporting iTunes except iPhone, iPod touch)
+Icon=floola
+TryExec=/usr/bin/floola
+Exec=floola
+Categories=AudioVideo;Player;
+X-AppInstall-Package=floola
+X-AppInstall-Popcon=46
+X-AppInstall-Section=aur
+X-Arch-Package=floola 2012r1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=floola
+X-Arch-Package-Version=2012r1-2
+X-Arch-Package-Description=Freeware application to efficiently manage your iPod or your
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.floola.com/
+X-Arch-Package-Votes=46

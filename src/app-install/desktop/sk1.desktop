@@ -1,0 +1,66 @@
+[Desktop Entry]
+Type=Application
+Name=sk1
+GenericName=Vector-based Drawing Program
+GenericName[af]=Vector-based Teken Program
+GenericName[bg]=\xD0ек\xD1оѬна гѬа\xD1и\xD1!на пѬогѬама за Ѭи\xD1\xFDђване
+GenericName[bs]=Program za vektorsko crtanje
+GenericName[ca]=Programa de dibuix basat en els vectors
+GenericName[cs]=Vektorový kresl\xC3program
+GenericName[da]=Vektorbaseret tegneprogram
+GenericName[de]=Vektorbasiertes Zeichenprogramm
+GenericName[el]=\xCE \xCF\xFD\xCFRγ\xCF\xFDαμμα \xCE\xCF0γ\xCF\xFDα\xCF ική\xCF \xCEαϒιϒμνη\xCF ϒε \xCEιαν\xCF\xFDϒμα\xCFα
+GenericName[eo]=Vektor-desegnilo
+GenericName[es]=Programa de dibujo vectorial
+GenericName[et]=Vektorgraafika joonistamine
+GenericName[eu]=Marazteko Programa Bektoriala
+GenericName[fa]=بر\xD9 ا\xD9&\xD9!\xE2\xACR\xDBR رس\xD9& بردار\xDBR
+GenericName[fi]=Vektoripohjainen piirto-ohjelma
+GenericName[fr]=Logiciel de dessin vectoriel
+GenericName[he]=ת\xD7"\xD7:\xD7 \xD7"ת צ\xD7"\xD7"ר \xD7~\xD7\xD7"ססת \xD7"ק\xD7\xDC\xD7"ר\xD7"\xD7\xFD
+GenericName[hr]=Vektorski program za crtanje
+GenericName[hu]=vektoros rajzolóprogram
+GenericName[is]=Vigrað teikniforrit
+GenericName[it]=Programma di disegno vettoriale
+GenericName[ja]=\xE3\x92"\xE3\xAF\xE3\x92\xC6㒫\xE3\x920㒼\xE3\xA4㒳\xE3\xB0\xE3\x92\xE3\x92\xB0㒩\xE3\x92
+GenericName[lo]=\xE0\xBB\xE0\xBA:ຣ\xE0\xBB\xFD\xE0\xBA\xFDຣມວາ\xE0\xBA\xE0\xBA~າ\xE0\xBAa\xE0\xBB\xFD\xE0\xBAa\xE0\xBAa໬ວັ\xE0\xBA\xFD໬\xE0\xBA"ີ
+GenericName[lt]=Vektorinio paišymo programa
+GenericName[lv]=Uz Vektoriem b\xC4\xFDz\xC4tas Zīm\xC4šanas Programma
+GenericName[mk]=\xD0ек\xD1оѬ\xD1\xFDки базиѬан пѬогѬам за \xD1 Ѭ\xD1а\xD1aе
+GenericName[mn]=\xD0ек\xD1оѬв \xD1ђлгђђла\xD1\xFDан зђѬгийн пѬогѬам
+GenericName[mt]=Programm biex tpinġi b'vektori
+GenericName[nb]=Vektorbasert tegneprogram
+GenericName[nl]=vector-gebaseerd tekenprogramma
+GenericName[nn]=Vektorbasert teikneprogram
+GenericName[nso]=Lenaneo lago Taka leo le Lebisitswego ka Vector
+GenericName[pl]=Wektorowy program do rysowania
+GenericName[pt]=Programa de Desenho Vectorial
+GenericName[pt_BR]=Programa de Desenho baseado em Vetor
+GenericName[ro]=Program de desenare vectorialĒ
+GenericName[ru]=\xD0xѬогѬамма век\xD1оѬной гѬа\xD1ики
+GenericName[se]=Vektorvuo\xC4\xC4oduvvon sárgonprográmma
+GenericName[sk]=Vektorový kresliaci program
+GenericName[sl]=Program za vektorsko risanje
+GenericName[sv]=Vektorbaserat ritprogram
+GenericName[th]=\xE0\xB9\xE0\xB8:ร\xE0\xB9\xFD\xE0\xB8\xFDรมวา\xE0\xB8\xE0\xB8 า\xE0\xB8~\xE0\xB9\xFD\xE0\xB8a\xE0\xB8a๬ว\xE0\xB8\xFD๬\xE0\xB8"ุ\xA3\xE0\xB9R
+GenericName[tr]=Vektor Tabanlı \xC3!izim Programı
+GenericName[uk]=\xD0xѬогѬама \xD1\xFD\xD1воѬенн\xD1\xFD век\xD1оѬни\xD1& зобѬажен\xD1R
+GenericName[ven]=Mbekanyamushumo yo olwaho sa Vekitha
+GenericName[vi]=Trình vẽ kiỒu Vector
+GenericName[xh]=Inkqubo Yomzobo Osekwe-Kwimitha Yovavanyo
+GenericName[zh_CN]=\xE7x\xA2\xE9!\xFD\xE7\xBB\xDC\xE5:\xBE\xE7\xA89\xE5\xBA\xFD
+GenericName[zh_TW]=\xE5\xFD\xE9!\xFD繪\xE5S\xE7\xA89\xE5\xBC\xFD
+GenericName[zu]=Uhlelo lwemisebenzi olusekelwe kwi-Vector
+Icon=/usr/share/pixmaps/sk1.png
+TryExec=/usr/bin/sk1
+Exec=/usr/bin/sk1
+Categories=Application;Graphics;
+StartupNotify=false
+X-AppInstall-Package=sk1
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=sk1
+X-Arch-Package-Version=0.9.3-3
+X-Arch-Package-Description=Fork of skencil with improved CMYK support
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sk1project.org/modules.php?name=Products&product=sk1

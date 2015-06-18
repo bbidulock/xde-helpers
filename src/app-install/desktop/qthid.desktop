@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=QtHID
+GenericName=Funcube Dongle HID controller
+Comment=Controller application for the Funcube Dongle software defined radio receiver.
+Icon=qthid
+TryExec=/usr/bin/qthid
+Exec=qthid
+Categories=AudioVideo;Audio;HamRadio;
+StartupNotify=false
+X-AppInstall-Package=qthid
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=qthid 4.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qthid
+X-Arch-Package-Version=4.0-1
+X-Arch-Package-Description=Qthid is a control application for the Funcube Dongle software
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/csete/qthid
+X-Arch-Package-Votes=2

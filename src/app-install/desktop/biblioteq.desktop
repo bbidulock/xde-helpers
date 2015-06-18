@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=BiblioteQ
+Comment=Cataloging and library management
+Icon=applications-other
+TryExec=/usr/local/biblioteq/biblioteq.sh
+Exec=/usr/local/biblioteq/biblioteq.sh
+Categories=Office;
+StartupNotify=false
+X-AppInstall-Package=biblioteq
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=biblioteq 10.00-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=biblioteq
+X-Arch-Package-Version=10.00-1
+X-Arch-Package-Description=BiblioteQ is an Open Source Cataloging and Library Management
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://biblioteq.sourceforge.net/
+X-Arch-Package-Votes=3

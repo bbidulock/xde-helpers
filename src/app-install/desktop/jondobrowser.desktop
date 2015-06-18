@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=JonDoBrowser
+GenericName=Web Browser
+GenericName[de]=Webbrowser
+Comment=Browse the World Wide Web anonymous
+Comment[de]=Im Internet anonym surfen
+Icon=jondobrowser
+TryExec=/usr/bin/jondobrowser
+Exec=/usr/bin/jondobrowser
+X-MultipleArgs=false
+Categories=Network;WebBrowser;
+StartupNotify=true
+X-AppInstall-Package=jondobrowser
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=jondobrowser 0.10-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jondobrowser
+X-Arch-Package-Version=0.10-1
+X-Arch-Package-Description=Firefox tweaked to work with jondo (anonymous browsing)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://anonymous-proxy-servers.net/en/jondobrowser.html
+X-Arch-Package-Votes=8

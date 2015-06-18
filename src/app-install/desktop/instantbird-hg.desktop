@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Instandbird
+GenericName=Instant Messenger
+Comment=Multi-protocol Instant Messaging Client
+Icon=/usr/share/pixmaps/instantbird.png
+TryExec=/usr/bin/instantbird
+Exec=instantbird
+Categories=Network;
+StartupNotify=false
+X-AppInstall-Package=instantbird-hg
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=instantbird-hg r16199.23794caa2fd4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=instantbird-hg
+X-Arch-Package-Version=r16199.23794caa2fd4-1
+X-Arch-Package-Description=Instant messenger using libpurple and xulrunner
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://instantbird.com
+X-Arch-Package-Votes=1

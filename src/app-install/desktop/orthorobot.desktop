@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Orthorobot
+Name[en_GB]=orthorobot
+GenericName=Arcade Game
+Comment=Perspective based puzzle game, where you flatten the view to move across gaps
+Icon=/usr/share/pixmaps/orthorobot.svg
+TryExec=/usr/bin/orthorobot
+Exec=orthorobot
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=orthorobot
+X-AppInstall-Popcon=19
+X-AppInstall-Section=aur
+X-Arch-Package=orthorobot 1.0-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=orthorobot
+X-Arch-Package-Version=1.0-4
+X-Arch-Package-Description=Perspective based puzzle game, where you flatten the view to
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://stabyourself.net/orthorobot/
+X-Arch-Package-Votes=19

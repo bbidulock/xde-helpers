@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Pillars of Eternity
+Comment=A party-based role-playing video game inspired by the Infinity Engine games
+Icon=/opt/gog/pillars-of-eternity/game/PillarsOfEternity.png
+TryExec=/opt/gog/pillars-of-eternity/start.sh
+Exec=/opt/gog/pillars-of-eternity/start.sh
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=gog-pillars-of-eternity
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=gog-pillars-of-eternity 1.2.0.3-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gog-pillars-of-eternity
+X-Arch-Package-Version=1.2.0.3-2
+X-Arch-Package-Description=A party-based role-playing video game inspired by the Infinity
+X-Arch-Package-Groups=games
+X-Arch-Package-URL=http://eternity.obsidian.net/game
+X-Arch-Package-Votes=2

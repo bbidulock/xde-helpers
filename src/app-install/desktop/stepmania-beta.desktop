@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=StepMania
+Comment=Advanced Dance Simulator
+Icon=stepmania-beta.xpm
+TryExec=/usr/bin/stepmania-beta
+Exec=stepmania-beta
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=stepmania-beta
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=stepmania-beta 4.0b7-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=stepmania-beta
+X-Arch-Package-Version=4.0b7-3
+X-Arch-Package-Description=An advanced dance simulation game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.stepmania.com/
+X-Arch-Package-Votes=1

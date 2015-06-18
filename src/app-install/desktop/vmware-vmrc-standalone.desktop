@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=VMWare Console
+Icon=/opt/vmware-vmrc-standalone/share/icons/hicolor/48x48/apps/vmware-vmrc.png
+TryExec=/usr/bin/vmware-vmrc
+Exec=/usr/bin/vmware-vmrc %u
+MultipleArgs=false
+Categories=Application;Network;
+MimeType=text/html;
+StartupNotify=true
+X-AppInstall-Package=vmware-vmrc-standalone
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=vmware-vmrc-standalone 3.0.0_309851-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=vmware-vmrc-standalone
+X-Arch-Package-Version=3.0.0_309851-1
+X-Arch-Package-Description=Standalone remote console for VMware Server.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/vmware/rvc/downloads
+X-Arch-Package-Votes=2

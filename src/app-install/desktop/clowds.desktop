@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Clowds
+Comment=Universal cloud service filesystem synchronizer;
+Icon=/usr/share/pixmaps/clowds.png
+TryExec=/usr/bin/clowds
+Exec=clowds
+Categories=System;Filesystem;Qt;
+Keywords=cloud services;File system watcher;synchronization;
+StartupNotify=true
+X-AppInstall-Package=clowds
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=clowds 0.0.3a-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=clowds
+X-Arch-Package-Version=0.0.3a-1
+X-Arch-Package-Description=Synchronize all your files securely and easily with any cloud
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.clowds.net/
+X-Arch-Package-Votes=2

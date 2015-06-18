@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Zhu3D
+GenericName=3D Function Grapher
+GenericName[fr]=Traceur de fonction 3D
+Comment=With Zhu3D, you can view, animate, and solve up to three functions in 3D-space in an interactive manner
+Icon=/usr/share/zhu3d/system/icons/zhu3d.png
+TryExec=/usr/bin/zhu3d
+Exec=zhu3d
+Categories=Science;Math;Qt;
+X-AppInstall-Package=zhu3d
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=zhu3d 4.2.4-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zhu3d
+X-Arch-Package-Version=4.2.4-2
+X-Arch-Package-Description=View, animate, and solve up to three functions in 3D-space in
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.kde-apps.org/content/show.php?content=43071
+X-Arch-Package-Votes=7

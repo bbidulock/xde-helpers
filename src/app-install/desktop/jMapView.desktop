@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=jMapView
+GenericName=Mapping application for FlightGear
+Comment=A mapping application for FlightGear.
+Icon=jmapview
+TryExec=/opt/jMapView/jmapview
+Exec=/opt/jMapView/jmapview
+Categories=Game;Simulation;
+Path=~/.jmapview/
+StartupNotify=true
+X-AppInstall-Package=jmapview
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=jmapview 0.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jmapview
+X-Arch-Package-Version=0.5-1
+X-Arch-Package-Description=A mapping application for FlightGear, the open-source flight
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://jmapview.sourceforge.net/
+X-Arch-Package-Votes=1

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Midnight Commander
+Comment=Midnight Commander
+Icon=mc
+TryExec=/usr/bin/mc
+Exec=mc
+Terminal=true
+NoDisplay=true
+Hidden=true
+Categories=System;FileTools;FileManager;
+StartupNotify=false
+X-AppInstall-Package=mc-cool
+X-AppInstall-Section=aur
+X-Arch-Package=mc-cool 4.8.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mc-cool
+X-Arch-Package-Version=4.8.0-1
+X-Arch-Package-Description=Midnight Commander - a file manager. Are included VFS (smbfs, undelfs etc.)
+X-Arch-Package-URL=http://www.ibiblio.org/mc/
+Aliases=mc;

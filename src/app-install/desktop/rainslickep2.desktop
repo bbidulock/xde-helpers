@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name="On The Rainslick Episode 2"
+Comment=An RPG created by the people responsible for Penny Arcade.
+Icon=/usr/share/pixmaps/rainslick2.png
+TryExec=/usr/bin/rainslickep2
+Exec=rainslickep2
+Categories=Application;Game;
+StartupNotify=false
+X-AppInstall-Package=rainslickep2
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=rainslickep2 r3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rainslickep2
+X-Arch-Package-Version=r3-1
+X-Arch-Package-Description=On the Rain-Slick Precipice of Darkness is an episodic
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.rainslick.com/
+X-Arch-Package-Votes=1

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Scidb
+GenericName=Chess Database
+Icon=/usr/share/pixmaps/scidb.png
+TryExec=/usr/bin/scidb-beta
+Exec=scidb-beta
+Categories=Game;BoardGame;
+X-AppInstall-Package=scidb
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=scidb r960-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=scidb
+X-Arch-Package-Version=r960-1
+X-Arch-Package-Description=Chess Information Data Base
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://scidb.sourceforge.net/
+X-Arch-Package-Votes=1

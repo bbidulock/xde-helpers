@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=SigViewer
+GenericName=Biosignal viewing and annotation tool
+Comment=SigViewer is a tool to view and annotate biosignals
+Icon=sigviewer128.png
+TryExec=/usr/bin/sigviewer
+Exec=sigviewer
+Categories=Science;Qt;
+X-AppInstall-Package=sigviewer
+X-AppInstall-Section=aur
+X-Arch-Package=sigviewer 0.5.2-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sigviewer
+X-Arch-Package-Version=0.5.2-3
+X-Arch-Package-Description=An application to view and annotate biosignals.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sigviewer.sourceforge.net/
+X-Arch-Package-Votes=0

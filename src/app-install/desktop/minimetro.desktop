@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Mini Metro
+Icon=minimetro
+TryExec=/usr/bin/minimetro
+Exec=minimetro
+Categories=Game;Simulation;StrategyGame;
+X-AppInstall-Package=minimetro
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=minimetro beta22-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=minimetro
+X-Arch-Package-Version=beta22-1
+X-Arch-Package-Description=minimalistic subway layout game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://dinopoloclub.com/minimetro/
+X-Arch-Package-Votes=8

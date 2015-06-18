@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Factorio
+GenericName=Factorio
+Comment=A 2D game about building and maintaining factories.
+Icon=/usr/share/factorio/core/graphics/factorio.png
+TryExec=/usr/bin/factorio
+Exec=factorio
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=factorio-experimental
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=factorio-experimental 0.11.22-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=factorio-experimental
+X-Arch-Package-Version=0.11.22-1
+X-Arch-Package-Description=A 2D game about building and maintaining factories. -
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.factorio.com/
+X-Arch-Package-Votes=6
+Aliases=factorio;

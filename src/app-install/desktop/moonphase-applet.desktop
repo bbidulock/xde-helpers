@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Astro::MoonPhase Applet
+Icon=stock_weather-night-clear
+TryExec=/usr/bin/moonphase-applet.pl
+Exec=moonphase-applet.pl
+Categories=Education;Science;
+X-AppInstall-Package=moonphase-applet
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package=moonphase-applet 0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=moonphase-applet
+X-Arch-Package-Version=0.1-1
+X-Arch-Package-Description=Applet showing current moon phase. Using GTK+ and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://aur.archlinux.org/packages.php?ID=31877
+X-Arch-Package-Votes=11

@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+ServiceTypes=text/html,text/xml,application/xml,text/rss;
+NoDisplay=true
+X-AppInstall-Package=amarok1
+X-AppInstall-Popcon=69
+X-AppInstall-Section=aur
+X-Arch-Package=amarok1 1.4.10-16
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=amarok1
+X-Arch-Package-Version=1.4.10-16
+X-Arch-Package-Description=amaroK - a media player for KDE - v1.4.10 xine engine with
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://amarok.kde.org
+X-Arch-Package-Votes=69
+Aliases=amarok_addaspodcast;
+Actions=addAsPodcast
+
+[Desktop Action addAsPodcast]
+Name=Add as podcast to amaroK
+Name[de]=Als Podcast zu amaroK hinzufügen
+Icon=amarok
+TryExec=/usr/bin/dcop
+Exec=dcop amarok playlistbrowser addPodcast %u

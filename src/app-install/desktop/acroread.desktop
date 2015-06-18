@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Adobe Reader 9
+GenericName=PDF Viewer
+Comment=Adobe PDF Viewer
+Icon=acroread
+TryExec=/usr/bin/acroread
+Exec=acroread %U
+Categories=Office;Viewer;
+MimeType=application/pdf;application/vnd.fdf;application/vnd.adobe.pdx;application/vnd.adobe.xdp+xml;application/vnd.adobe.xfdf;
+InitialPreference=9
+X-KDE-StartupNotify=false
+X-AppInstall-Package=acroread
+X-AppInstall-Section=custom
+X-Arch-Package=acroread 9.5.5-5
+X-Arch-Package-Repository=custom
+X-Arch-Package-Name=acroread
+X-Arch-Package-Version=9.5.5-5
+X-Arch-Package-Description=Adobe Reader is a PDF file viewer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.adobe.com/products/reader/

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=SuperHexagon
+GenericName=SuperHexagon
+Comment=A minimal action game by Terry Cavanagh, with music by Chipzel
+Icon=superhexagon.png
+TryExec=/usr/bin/superhexagon
+Exec=superhexagon
+Categories=Game;
+Path=/opt/superhexagon
+X-AppInstall-Package=superhexagon
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=superhexagon 16-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=superhexagon
+X-Arch-Package-Version=16-2
+X-Arch-Package-Description=A minimal action game by Terry Cavanagh, with music by Chipzel
+X-Arch-Package-Groups=games
+X-Arch-Package-URL=http://superhexagon.com/
+X-Arch-Package-Votes=7
+Value=1.0

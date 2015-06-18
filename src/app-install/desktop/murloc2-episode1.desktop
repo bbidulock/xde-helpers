@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Murloc II: Episode 1: Camp Gizbo
+GenericName=Murloc II
+Comment=Sequel to Murloc
+Icon=murloc2-episode1
+TryExec=/usr/bin/murloc2-episode1
+Exec=murloc2-episode1
+Categories=Game;
+X-AppInstall-Package=murloc2-episode1
+X-AppInstall-Section=aur
+X-Arch-Package=murloc2-episode1 1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=murloc2-episode1
+X-Arch-Package-Version=1-1
+X-Arch-Package-Description=Sequel to Murloc (Flash game)
+X-Arch-Package-URL=http://www.newgrounds.com/portal/view/579313

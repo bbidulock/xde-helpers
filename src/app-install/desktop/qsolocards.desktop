@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=QSoloCards
+Comment=A free collection of solitaire card games written using Qt
+Icon=/usr/share/qsolocards/sol128x128.png
+TryExec=/usr/bin/qsolocards
+Exec=qsolocards
+Categories=Game;CardGame;
+StartupNotify=false
+X-AppInstall-Package=qsolocards
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=qsolocards 0.99.1-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qsolocards
+X-Arch-Package-Version=0.99.1-4
+X-Arch-Package-Description=A free collection of solitaire card games written using Qt
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/qsolocards/
+X-Arch-Package-Votes=2

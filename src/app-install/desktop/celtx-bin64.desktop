@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Celtx
+Comment=Solution for media pre-production and collaboration
+Icon=/opt/celtx/icons/default48.png
+TryExec=/opt/celtx/celtx
+Exec=/opt/celtx/celtx
+NoDisplay=true
+Categories=Office;
+X-AppInstall-Package=celtx-bin64
+X-AppInstall-Section=aur
+X-Arch-Package=celtx-bin64 2.9.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=celtx-bin64
+X-Arch-Package-Version=2.9.1-1
+X-Arch-Package-Description=Celtx is the world's first fully integrated solution for media pre-production and collaboration. (binary version for x86_64)
+X-Arch-Package-URL=http://celtx.com/
+Aliases=celtx;

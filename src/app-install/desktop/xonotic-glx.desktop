@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=2.5
+Type=Application
+Name=Xonotic (GLX)
+Comment=a free open-source first person shooter
+Icon=/usr/share/pixmaps/xonotic.png
+TryExec=/usr/bin/xonotic-glx
+Exec=/usr/bin/xonotic-glx
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=xonotic-autobuild
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=xonotic-autobuild 22022014-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xonotic-autobuild
+X-Arch-Package-Version=22022014-1
+X-Arch-Package-Description=A free, fast-paced crossplatform first-person shooter
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://xonotic.org
+X-Arch-Package-Votes=3

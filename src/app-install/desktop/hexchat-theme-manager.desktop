@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=HexChat Theme Manager
+Icon=hexchat
+TryExec=/usr/bin/mono
+Exec=mono /usr/bin/thememan %f
+NoDisplay=true
+MimeType=application/x-hct;
+X-AppInstall-Package=hexchat-theme-manager
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=hexchat-theme-manager 2.9.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=hexchat-theme-manager
+X-Arch-Package-Version=2.9.5-1
+X-Arch-Package-Description=A simple application to manage HexChat themes
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.hexchat.org/
+X-Arch-Package-Votes=13
+Aliases=htm;

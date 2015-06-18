@@ -1,0 +1,23 @@
+[Desktop Entry]
+Version=0.1
+Type=Application
+Name=CometSound
+GenericName=Music Player
+Comment=Music player written in Python
+Comment[es]=Reproductor de música escrito en python
+Comment[it_IT]=Player musicale scritto in python
+Icon=/usr/share/cometsound/src/icon.svg
+TryExec=/usr/bin/cometsound
+Exec=/usr/bin/cometsound
+Categories=AudioVideo;Audio;GTK;
+X-AppInstall-Package=cometsound
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=cometsound 0.3.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cometsound
+X-Arch-Package-Version=0.3.2-2
+X-Arch-Package-Description=Music player for GNU/Linux written in python, using pygtk and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://launchpad.net/cometsound
+X-Arch-Package-Votes=4

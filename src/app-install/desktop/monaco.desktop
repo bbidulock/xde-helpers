@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Monaco
+Comment=Assemble a crack team of thieves and execute the perfect crime
+Icon=monaco
+TryExec=/usr/bin/monaco
+Exec=/usr/bin/monaco
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=monaco
+X-AppInstall-Section=aur
+X-Arch-Package=monaco 20140507-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=monaco
+X-Arch-Package-Version=-1
+X-Arch-Package-Description=Assemble a crack team of thieves and execute the perfect crime
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.monacoismine.com/
+X-Arch-Package-Votes=0

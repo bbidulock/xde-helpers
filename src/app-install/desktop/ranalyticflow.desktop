@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=R AnalyticFlow
+Comment=Analysis flowcharts using R
+Icon=ranalyticflow.png
+TryExec=/opt/ranalyticflow/rflow
+Exec=/opt/ranalyticflow/rflow
+Categories=Science;Math;
+X-AppInstall-Package=ranalyticflow
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=ranalyticflow 2.1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ranalyticflow
+X-Arch-Package-Version=2.1.0-1
+X-Arch-Package-Description=Statistical analysis flowchart software, based on R
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.ef-prime.com/products/ranalyticflow_en/
+X-Arch-Package-Votes=2

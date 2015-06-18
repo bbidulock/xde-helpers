@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=TileRogue
+GenericName=TileRogue
+Comment=Graphical Rogue clone
+Icon=/opt/tilerogue/tilerogue.png
+TryExec=/usr/bin/tilerogue
+Exec=tilerogue
+Categories=Game;
+X-AppInstall-Package=tilerogue
+X-AppInstall-Section=aur
+X-Arch-Package=tilerogue 1.21-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tilerogue
+X-Arch-Package-Version=1.21-2
+X-Arch-Package-Description=Tile-based graphical Rogue clone
+X-Arch-Package-URL=http://www.freewebs.com/drussell/TileRogue.htm

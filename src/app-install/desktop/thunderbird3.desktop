@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Thunderbird 3
+Comment=Mail & News Reader
+Icon=thunderbird3
+TryExec=/usr/bin/thunderbird3
+Exec=thunderbird3
+Categories=Network;
+StartupNotify=true
+X-AppInstall-Package=bin32-thunderbird3
+X-AppInstall-Section=aur
+X-Arch-Package=bin32-thunderbird3 3.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bin32-thunderbird3
+X-Arch-Package-Version=3.0-1
+X-Arch-Package-Description=Standalone Mail/News reader (installs besides thunderbird2)
+X-Arch-Package-URL=http://www.mozilla.org/projects/thunderbird

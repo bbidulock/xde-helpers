@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Deadlycobra
+GenericName=Deadlycobra
+Comment=Game similar in gameplay to the classic Nibbles(tm) game.
+Icon=/usr/share/deadlycobra/pixmaps/icon.png
+TryExec=/usr/bin/deadlycobra.sh
+Exec=/usr/bin/deadlycobra.sh
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=deadlycobra
+X-AppInstall-Section=aur
+X-Arch-Package=deadlycobra 0.7.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=deadlycobra
+X-Arch-Package-Version=0.7.0-3
+X-Arch-Package-Description=Game similar in gameplay to the classic Nibbles(tm) game.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://deadlycobra.sourceforge.net/
+X-Arch-Package-Votes=0

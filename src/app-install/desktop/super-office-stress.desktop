@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1
+Type=Application
+Name=Super Office Stress
+Comment=Roguelike set in an office building.
+TryExec=/usr/bin/super-office-stress
+Exec=/usr/bin/super-office-stress
+Categories=Game;RolePlaying;
+X-AppInstall-Package=super-office-stress
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=super-office-stress 1.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=super-office-stress
+X-Arch-Package-Version=1.1-1
+X-Arch-Package-Description=Roguelike set in an office building. Go on a quest for Mythril
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.indiebuskers.net/
+X-Arch-Package-Votes=1

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=crossvc
+Comment=crossvc
+Icon=/usr/share/pixmaps/crossvc.xpm
+TryExec=/usr/bin/crossvc
+Exec=crossvc
+Categories=Application;Development;
+X-AppInstall-Package=crossvc
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=crossvc 1.5.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=crossvc
+X-Arch-Package-Version=1.5.2-2
+X-Arch-Package-Description=A graphical interface for the cvs client
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.lincvs.org/
+X-Arch-Package-Votes=4

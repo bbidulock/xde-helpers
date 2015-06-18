@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=FatCalc
+Comment=simple body fat calculator
+Icon=fatcalc
+TryExec=/usr/bin/fatcalc
+Exec=fatcalc
+Categories=Office;
+X-AppInstall-Package=fatcalc
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=fatcalc 1.1.1.32-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fatcalc
+X-Arch-Package-Version=1.1.1.32-1
+X-Arch-Package-Description=simple body fat calculator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/fatcalc
+X-Arch-Package-Votes=2

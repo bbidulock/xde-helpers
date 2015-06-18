@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=kxmame
+GenericName=Frontend for xmame
+Icon=kxmame
+TryExec=/usr/bin/kxmame
+Exec=kxmame
+NoDisplay=true
+Categories=Game;ArcadeGame;GTK;
+StartupNotify=false
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=kxmame-svn
+X-AppInstall-Popcon=12
+X-AppInstall-Section=aur
+X-Arch-Package=kxmame-svn 8-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kxmame-svn
+X-Arch-Package-Version=8-3
+X-Arch-Package-Description=KDE port of GXmame frontend for xmame and sdlmame emulators.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/kxmame
+X-Arch-Package-Votes=12
+Aliases=kxmame;

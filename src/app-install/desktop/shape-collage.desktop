@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Shape Collage
+Comment=Free Automatic Photo Collage Maker
+Icon=/opt/shape-collage/shape-collage.png
+TryExec=/opt/shape-collage/shape-collage
+Exec=/opt/shape-collage/shape-collage
+Categories=Graphics;Applications;
+StartupNotify=true
+X-AppInstall-Package=shape-collage
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=shape-collage 2.5.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=shape-collage
+X-Arch-Package-Version=2.5.3-1
+X-Arch-Package-Description=Automatic Photo Collage Maker
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.shapecollage.com/
+X-Arch-Package-Votes=7

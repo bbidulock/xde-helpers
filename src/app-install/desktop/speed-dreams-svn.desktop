@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Speed Dreams 2 (SVN)
+Comment=The Open Racing Car Simulator Fork (SVN version)
+Icon=speed-dreams-2.png
+TryExec=/usr/local/games/speed-dreams-2
+Exec=/usr/local/games/speed-dreams-2
+Categories=Application;Game;
+X-AppInstall-Package=speed-dreams-svn
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=speed-dreams-svn 5400-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=speed-dreams-svn
+X-Arch-Package-Version=5400-1
+X-Arch-Package-Description=Speed Dreams is a fork of TORCS which aims to implement
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://speed-dreams.sourceforge.net/
+X-Arch-Package-Votes=5

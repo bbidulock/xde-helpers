@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Doom III - DarkMod
+GenericName=Mod based on the Thief series
+Icon=doom3-darkmod
+TryExec=/usr/bin/doom3-darkmod
+Exec=doom3-darkmod
+Categories=Game;ActionGame;
+X-AppInstall-Package=doom3-darkmod
+X-AppInstall-Section=aur
+X-Arch-Package=doom3-darkmod 1.08-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=doom3-darkmod
+X-Arch-Package-Version=1.08-1
+X-Arch-Package-Description=DOOM III mod based on the Thief series by Looking Glass Studios
+X-Arch-Package-URL=http://www.thedarkmod.com/

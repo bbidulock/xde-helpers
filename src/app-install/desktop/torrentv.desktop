@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=TorrenTV
+Comment=Stream Torrents to your AppleTV/Roku/Chromecast
+Icon=torrentv
+TryExec=/usr/bin/torrentv
+Exec=torrentv %U
+Categories=AudioVideo;Video;Network;Player;
+X-AppInstall-Package=torrentv-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=torrentv-git r47.3aab1c5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=torrentv-git
+X-Arch-Package-Version=r47.3aab1c5-1
+X-Arch-Package-Description=Stream Torrents to your AppleTV/Roku/Chromecast
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://torrentv.github.io/
+X-Arch-Package-Votes=1

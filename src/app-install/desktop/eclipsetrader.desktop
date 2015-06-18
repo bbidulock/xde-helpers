@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=EclipseTrader
+Comment=Stock exchange, trading and technical analysis platform
+Icon=/usr/share/pixmaps/eclipsetrader.png
+TryExec=/usr/share/eclipsetrader/trader
+Exec=/usr/share/eclipsetrader/trader
+Categories=Application;Office;Finance;GTK;Java;
+StartupNotify=true
+X-AppInstall-Package=eclipsetrader
+X-AppInstall-Popcon=12
+X-AppInstall-Section=aur
+X-Arch-Package=eclipsetrader N201301040902-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=eclipsetrader
+X-Arch-Package-Version=N201301040902-1
+X-Arch-Package-Description=Stock exchange, trading and technical analysis platform
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.eclipsetrader.org/
+X-Arch-Package-Votes=12

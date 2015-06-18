@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=DB-Main
+Comment=A free data-modeling and data-architecture tool
+Icon=dbmain
+TryExec=/usr/bin/dbmain
+Exec=dbmain
+Categories=Office;
+X-AppInstall-Package=dbmain
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=dbmain 9.2.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dbmain
+X-Arch-Package-Version=9.2.0-2
+X-Arch-Package-Description=A free data-modeling and data-architecture tool
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.db-main.eu/
+X-Arch-Package-Votes=2

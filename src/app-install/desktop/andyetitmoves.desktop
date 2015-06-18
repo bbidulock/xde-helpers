@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=And Yet It Moves
+Comment=A physics-based platform game.
+Icon=andyetitmoves
+TryExec=/usr/bin/AndYetItMoves
+Exec=AndYetItMoves
+Categories=Game;LogicGame;
+X-AppInstall-Package=andyetitmoves
+X-AppInstall-Popcon=26
+X-AppInstall-Section=aur
+X-Arch-Package=andyetitmoves 1.2.2-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=andyetitmoves
+X-Arch-Package-Version=1.2.2-5
+X-Arch-Package-Description=A physics-based platform game.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.andyetitmoves.net/
+X-Arch-Package-Votes=26

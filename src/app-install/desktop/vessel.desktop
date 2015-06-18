@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Vessel
+GenericName=Vessel
+Comment=A physics-based, steampunk puzzle-platform game
+Icon=vessel.png
+TryExec=/usr/bin/vessel
+Exec=vessel
+Categories=Game;
+Path=/opt/vessel
+X-AppInstall-Package=vessel
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=vessel 20130222-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=vessel
+X-Arch-Package-Version=20130222-1
+X-Arch-Package-Description=A physics-based, steampunk puzzle-platform game
+X-Arch-Package-Groups=humble-indie-bundle6 games
+X-Arch-Package-URL=http://www.strangeloopgames.com/
+X-Arch-Package-Votes=9
+Value=1.0

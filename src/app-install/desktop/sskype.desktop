@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=SkypeSecure
+Comment=Skype Internet Telephony
+Icon=skype.png
+TryExec=/usr/bin/sskype
+Exec=sskype %U
+Categories=Application;Network;
+MimeType=x-scheme-handler/skype;
+X-KDE-Protocols=skype;
+X-AppInstall-Package=skype-secure
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=skype-secure 2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=skype-secure
+X-Arch-Package-Version=2-2
+X-Arch-Package-Description=works like skype-restricted, but wraps around already
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.skype.com/
+X-Arch-Package-Votes=13

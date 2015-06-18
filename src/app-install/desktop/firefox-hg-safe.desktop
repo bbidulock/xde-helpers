@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Firefox (hg) - Safe Mode
+GenericName=Web Browser - Safe Mode
+Icon=firefox-hg
+TryExec=/usr/bin/firefox-hg
+Exec=firefox-hg -safe-mode %u
+MultipleArgs=false
+Categories=Application;Network;
+StartupNotify=false
+X-AppInstall-Package=firefox-hg-oss
+X-AppInstall-Section=aur
+X-Arch-Package=firefox-hg-oss 63400-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firefox-hg-oss
+X-Arch-Package-Version=63400-1
+X-Arch-Package-Description=Standalone web browser from mozilla.org, latest development version, without ALSA
+X-Arch-Package-URL=http://www.mozilla.org/projects/firefox/

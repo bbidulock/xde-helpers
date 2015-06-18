@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Limits and Demonstrations
+Comment=A Lula Chamberlain Retrospective - Kentucky Route Zero
+Icon=limits-and-demonstrations
+TryExec=/usr/bin/limits-and-demonstrations
+Exec=/usr/bin/limits-and-demonstrations
+Categories=Game;AdventureGame;
+X-AppInstall-Package=limits-and-demonstrations
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=limits-and-demonstrations 1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=limits-and-demonstrations
+X-Arch-Package-Version=1-1
+X-Arch-Package-Description=A Lula Chamberlain Retrospective - Kentucky Route Zero
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kentuckyroutezero.com/limits-and-demonstrations/
+X-Arch-Package-Votes=1

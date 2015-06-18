@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Apame
+Comment=Apame 3D Panel Code
+Icon=/usr/share/apame/icons/apame.png
+TryExec=/usr/bin/apamegui
+Exec=/usr/bin/apamegui
+Categories=Math;
+X-AppInstall-Package=apame
+X-AppInstall-Section=aur
+X-Arch-Package=apame 20130714-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=apame
+X-Arch-Package-Version=20130714-1
+X-Arch-Package-Description=A 3D panel code for inviscid subsonic aerodynamic analysis.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.3dpanelmethod.com/
+X-Arch-Package-Votes=0

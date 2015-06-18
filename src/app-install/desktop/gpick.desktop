@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=gpick
+Comment=An advanced color picker
+Icon=gpick
+TryExec=/usr/bin/gpick
+Exec=gpick
+Categories=Graphics;
+X-AppInstall-Package=-hg
+X-AppInstall-Popcon=26
+X-AppInstall-Section=aur
+X-Arch-Package=gpick-hg 270-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=-hg
+X-Arch-Package-Version=270-1
+X-Arch-Package-Description=An advanced color picker
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://.googlecode.com/
+X-Arch-Package-Votes=26

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Funambol
+Comment=Funambol Administration Tool for Funambol Data Synchronization Server
+Icon=/usr/share/pixmaps/funambol-admin/icon_admin.ico
+TryExec=/usr/bin/funambol-admin
+Exec=funambol-admin
+Categories=Application;Settings;System;GNOME;
+StartupNotify=true
+X-AppInstall-Package=funambol-admin
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=funambol-admin 10.0.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=funambol-admin
+X-Arch-Package-Version=10.0.0-1
+X-Arch-Package-Description=Funambol Administration Tool for Funambol Data Synchronization
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://www.forge.funambol.org/download/
+X-Arch-Package-Votes=6

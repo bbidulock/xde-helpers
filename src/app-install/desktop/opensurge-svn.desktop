@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Open Surge
+Comment=Game based on the "Sonic the Hedgehog" universe
+Icon=opensurge
+TryExec=/usr/bin/opensurge
+Exec=opensurge
+NoDisplay=true
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=opensurge-svn
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=opensurge-svn r765-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=opensurge-svn
+X-Arch-Package-Version=r765-1
+X-Arch-Package-Description=Retro-style 2D sidescroller inspired by old-school sonic games
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://opensnc.sourceforge.net/
+X-Arch-Package-Votes=5
+Aliases=opensurge;

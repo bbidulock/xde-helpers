@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=GtkLife
+Comment=Fast, featureful, open-source Conway's Life program for *nix
+Icon=gtklife
+TryExec=/usr/bin/gtklife
+Exec=gtklife
+Categories=Education;Game;ComputerScience;GTK;
+StartupNotify=false
+X-AppInstall-Package=gtklife
+X-AppInstall-Popcon=17
+X-AppInstall-Section=aur
+X-Arch-Package=gtklife 5.1-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gtklife
+X-Arch-Package-Version=5.1-5
+X-Arch-Package-Description=Fast, featureful, open-source Conway's Life program for *nix
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ironphoenix.org/tril/gtklife/
+X-Arch-Package-Votes=17

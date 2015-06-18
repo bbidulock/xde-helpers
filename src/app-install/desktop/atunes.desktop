@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=aTunes
+GenericName=Media Player
+GenericName[pt]=Reprodutor de Música
+GenericName[pt_BR]=Reprodutor de Música
+Comment=A robust media player and manager
+Icon=atunes
+TryExec=/usr/bin/atunes
+Exec=atunes %u
+Categories=Audio;AudioVideoEditing;Player;Recorder;
+MimeType=application/x-ogg;application/ogg;audio/x-mp3;audio/mp3;
+StartupNotify=false
+X-AppInstall-Package=atunes
+X-AppInstall-Popcon=57
+X-AppInstall-Section=aur
+X-Arch-Package=atunes 3.1.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=atunes
+X-Arch-Package-Version=3.1.2-1
+X-Arch-Package-Description=A full-featured audio player and manager
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.atunes.org/
+X-Arch-Package-Votes=57

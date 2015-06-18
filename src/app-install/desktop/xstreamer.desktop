@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Xstreamer
+Comment=Streaming Utility for Linux, using C++ and QT
+TryExec=/usr/bin/Xstreamer
+Exec=Xstreamer
+Categories=Application;AudioVideo;Recorder;
+StartupNotify=false
+X-AppInstall-Package=xstreamer-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=xstreamer-git 7-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xstreamer-git
+X-Arch-Package-Version=7-2
+X-Arch-Package-Description=Streaming Utility for Linux, using C++ and QT
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/Pholey/Xstreamer
+X-Arch-Package-Votes=1

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=R-Studio
+GenericName=Data Recovery Utility
+Comment=Recover Deleted and Damaged Files
+Icon=r-studio
+TryExec=/usr/local/R-Studio/bin/R-Studio
+Exec=/usr/local/R-Studio/bin/R-Studio
+Categories=System;Utility;
+X-AppInstall-Package=r-studio
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=r-studio 3.7.1568-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=r-studio
+X-Arch-Package-Version=3.7.1568-1
+X-Arch-Package-Description=Undelete and data recovery software
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.r-tt.com/data_recovery_linux/
+X-Arch-Package-Votes=2

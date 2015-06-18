@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Devidify
+Comment=Extract audio from your DVDs
+Icon=/usr/share/icons/gnome/scalable/devices/media-optical.svg
+TryExec=/usr/bin/devidify
+Exec=devidify
+Categories=AudioVideo;GNOME;GTK;
+X-AppInstall-Package=devidify
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=devidify 1.14-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=devidify
+X-Arch-Package-Version=1.14-2
+X-Arch-Package-Description=humble little hack for extracting audio tracks from DVDs
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.mahnamahna.net/museyroom/devidify/devidify.shtml
+X-Arch-Package-Votes=7

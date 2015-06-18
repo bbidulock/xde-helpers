@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Baldurs Gate 2 Configuration
+Comment=Baldurs Gate 2 (GOG.com)
+Icon=gog-baldurs-gate-2
+TryExec=/usr/bin/gog-bg2-config
+Exec=gog-bg2-config
+Categories=Game;
+X-AppInstall-Package=gog-baldurs-gate-2
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=gog-baldurs-gate-2 1.0.0.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gog-baldurs-gate-2
+X-Arch-Package-Version=1.0.0.5-1
+X-Arch-Package-Description=Your story begins anew in the exotic southern kingdom of Amn,
+X-Arch-Package-Groups=games
+X-Arch-Package-URL=http://www.gog.com/game/baldurs_gate_2_complete
+X-Arch-Package-Votes=2

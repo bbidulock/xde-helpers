@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Pony Creator
+GenericName=Pony Creator
+Comment=Create your own pony character inspired by My Little Pony: Friendship is Magic
+Icon=pony-creator
+TryExec=/usr/bin/pony-creator
+Exec=pony-creator
+Categories=Game;
+X-AppInstall-Package=pony-creator
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=pony-creator v3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pony-creator
+X-Arch-Package-Version=v3-1
+X-Arch-Package-Description=Create your own pony character inspired by My Little Pony:
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://generalzoi.deviantart.com/art/Pony-Creator-v3-397808116
+X-Arch-Package-Votes=5

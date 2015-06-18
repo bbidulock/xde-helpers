@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=0.9.4
+Type=Application
+Name=NTToolKit
+Comment=Monitor IP traffic to the local host for troubleshooting and monitoring purposes
+Icon=/opt/nttoolkit/ipmonplus.png
+TryExec=/usr/bin/gksu
+Exec=gksu /opt/nttoolkit/ipmonplus
+Categories=Application;Network;Qt;
+Path=/opt/nttoolkit
+X-AppInstall-Package=nttoolkit
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=nttoolkit 2.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nttoolkit
+X-Arch-Package-Version=2.0-1
+X-Arch-Package-Description=Utilities designed to help network administrators with their
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.netikus.net/products_nttoolkit.html
+X-Arch-Package-Votes=1

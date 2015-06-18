@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Java Monitoring and Management Console
+Name[cs]=Konzole monitorování a správy prostředí Java
+Icon=java
+TryExec=/opt/java/bin/jconsole
+Exec=/opt/java/bin/jconsole
+Categories=Development;Java;
+StartupNotify=true
+X-AppInstall-Package=jdk5
+X-AppInstall-Section=aur
+X-Arch-Package=jdk5 5.0u22-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jdk5
+X-Arch-Package-Version=5.0u22-1
+X-Arch-Package-Description=Sun's Java Development Kit
+X-Arch-Package-URL=http://java.sun.com

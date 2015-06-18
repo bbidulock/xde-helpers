@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Cauldron
+Comment=Client for app.net
+Icon=cauldron.png
+TryExec=/usr/bin/cauldron
+Exec=cauldron
+Categories=Network;
+StartupNotify=true
+X-AppInstall-Package=cauldron
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=cauldron 0.18.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cauldron
+X-Arch-Package-Version=0.18.0-1
+X-Arch-Package-Description=A cross-platform desktop client for App.net.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://cauldron-app.herokuapp.com/
+X-Arch-Package-Votes=4

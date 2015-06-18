@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Photocrypt
+Comment=Text-to-image steganography application
+Icon=/opt/photocrypt/icon.png
+TryExec=/usr/bin/photocrypt
+Exec=photocrypt
+Categories=Application;Utility;
+X-AppInstall-Package=photocrypt
+X-AppInstall-Section=aur
+X-Arch-Package=photocrypt 0.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=photocrypt
+X-Arch-Package-Version=0.6-1
+X-Arch-Package-Description=A text-to-image steganography tool
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/mdbct/photocrypt
+X-Arch-Package-Votes=0

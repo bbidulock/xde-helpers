@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=PostSqlForms
+GenericName=PostSqlForms
+Comment=Graphical user interface for PostgreSQL and SQLite databases
+Icon=/usr/share/postsqlforms/icons/psf-icon.png
+TryExec=/usr/bin/tclsh
+Exec=/usr/bin/tclsh /usr/share/postsqlforms/main.tcl
+Categories=Office;Database;
+X-AppInstall-Package=postsqlforms
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=postsqlforms 1.0.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=postsqlforms
+X-Arch-Package-Version=1.0.4-1
+X-Arch-Package-Description=A GUI for rapidly building forms and reports for PostgreSQL
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.org/projects/postsqlforms
+X-Arch-Package-Votes=1

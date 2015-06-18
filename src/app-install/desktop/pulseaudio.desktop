@@ -78,7 +78,6 @@ Comment[zh_CN]=启动 PulseAudio 声音系统
 Comment[zh_TW]=啟動 PulseAudio 音效系統
 TryExec=/usr/bin/start-pulseaudio-x11
 Exec=start-pulseaudio-x11
-StartupNotify=false
 X-KDE-autostart-phase=1
 X-GNOME-Autostart-Phase=Initialization
 X-AppInstall-Package=pulseaudio

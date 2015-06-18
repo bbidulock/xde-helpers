@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Slic3r
+Comment=STL-to-GCODE translator for RepRap printers
+Icon=/opt/slic3r/res/Slic3r_128px.png
+TryExec=/usr/bin/slic3r
+Exec=slic3r
+NoDisplay=true
+Categories=Application;Development;
+X-AppInstall-Package=slic3r-bin-experimental
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=slic3r-bin-experimental 1.2.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=slic3r-bin-experimental
+X-Arch-Package-Version=1.2.1-1
+X-Arch-Package-Description=An STL-to-GCODE translator for RepRap 3D printers, aiming to
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.slic3r.org
+X-Arch-Package-Votes=1
+Aliases=slic3r;

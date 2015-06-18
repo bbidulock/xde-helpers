@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Grace
+Comment=Graphical Realtime Algorithmic Composition Environment
+Icon=cm-grace
+TryExec=/usr/bin/cm-grace
+Exec=cm-grace
+Categories=AudioVideo;Audio;Sound;
+X-AppInstall-Package=cm-grace-bin
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=cm-grace-bin 3.8.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cm-grace-bin
+X-Arch-Package-Version=3.8.0-1
+X-Arch-Package-Description=(Graphical Realtime Algorithmic Composition Environment) is a
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://commonmusic.sourceforge.net/
+X-Arch-Package-Votes=2

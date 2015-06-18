@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Capitalism
+Comment=A client for playing monopoly
+Icon=capitalism.png
+TryExec=/usr/bin/capitalism
+Exec=/usr/bin/capitalism
+Categories=Application;Game;BoardGame;
+X-AppInstall-Package=capitalism
+X-AppInstall-Section=aur
+X-Arch-Package=capitalism 0.5.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=capitalism
+X-Arch-Package-Version=0.5.1-1
+X-Arch-Package-Description=A client for playing monopoly, compatible to monopd and capid
+X-Arch-Package-URL=http://qt-apps.org/content/show.php/Capitalism?content=113173

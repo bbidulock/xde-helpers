@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=GRuler
+Comment=A screen ruler with many features.
+Icon=gruler-icon.png
+TryExec=/usr/bin/gruler
+Exec=gruler
+Categories=Application;Utility;GTK;
+X-AppInstall-Package=gruler
+X-AppInstall-Popcon=14
+X-AppInstall-Section=aur
+X-Arch-Package=gruler 0.8-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gruler
+X-Arch-Package-Version=0.8-2
+X-Arch-Package-Description=A GNOME screen ruler with many features including vertical and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gnomecoder.wordpress.com/screenruler/
+X-Arch-Package-Votes=14

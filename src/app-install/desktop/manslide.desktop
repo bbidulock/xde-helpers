@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=ManSlide
+Comment=Tool for creating your own slideshow
+Comment[es]=Utilidad para crear pases de diapositivas
+Icon=manslide
+TryExec=/usr/bin/manslide
+Exec=manslide
+Categories=AudioVideo;
+StartupNotify=true
+X-AppInstall-Package=manslide
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=manslide 2.0.3-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=manslide
+X-Arch-Package-Version=2.0.3-3
+X-Arch-Package-Description=Create your own slideshow
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.kde-apps.org/content/show.php/Manslide?content=72739
+X-Arch-Package-Votes=6

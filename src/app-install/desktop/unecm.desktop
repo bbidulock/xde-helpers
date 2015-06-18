@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=KonqPopupMenu/Plugin;
+MimeType=application/ecmfiles;
+X-AppInstall-Package=ecm
+X-AppInstall-Section=aur
+X-Arch-Package=ecm 1.03-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ecm
+X-Arch-Package-Version=1.03-3
+X-Arch-Package-Description=Converts CD image files into a lossless format optimized for compression tools
+X-Arch-Package-URL=http://www.neillcorlett.com/ecm/
+X-KDE-Priority=TopLevel
+X-KDE-Submenu=ECM Tools
+X-KDE-Submenu[en_GB]=ECM Tools
+X-KDE-Submenu[tr]=ECM Araçları
+Actions=unecm;
+
+[Desktop Action unecm]
+Name=Extract (unecm)
+Name[tr]=Çıkart (unecm)
+Icon=ark
+TryExec=/usr/bin/unecm
+Exec=unecm %f

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Wicd
+GenericName=Network Manager
+Comment=Manage Wired/Wireless Networks
+Icon=wicd-gtk
+TryExec=/usr/bin/wicd-client
+Exec=/usr/bin/wicd-client
+NoDisplay=true
+Categories=Network;
+X-AppInstall-Package=wicd-gtk-faenza
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=wicd-gtk-faenza 1.7.2.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wicd-gtk-faenza
+X-Arch-Package-Version=1.7.2.4-1
+X-Arch-Package-Description=Theme for wicd based on nm-applet in faenza.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://maththias.deviantart.com/art/Faenza-Wicd-Iconset-183102684
+X-Arch-Package-Votes=2
+Aliases=wicd;

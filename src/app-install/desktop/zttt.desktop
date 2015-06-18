@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=zttt
+Comment=Thrid Game in a triology of fan made Zelda Games
+Icon=zttt.png
+TryExec=/usr/bin/zttt
+Exec=zttt
+Categories=Games;
+X-AppInstall-Package=zelda-ttt_en
+X-AppInstall-Section=aur
+X-Arch-Package=zelda-ttt_en 1.9-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zelda-ttt_en
+X-Arch-Package-Version=1.9-1
+X-Arch-Package-Description=Zelda: Return of the Hylian is a fand made Zelda Game
+X-Arch-Package-URL=http://www.zeldaroth.fr/
+GeneralName=Zelda: A Time to Triumph

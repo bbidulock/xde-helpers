@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=JPdfBookmarks
+GenericName=PDF bookmarks editor
+Comment=PDF bookmarks editor
+Icon=/usr/share/icons/hicolor/128x128/apps/jpdfbookmarks.png
+TryExec=/usr/bin/jpdfbookmarks
+Exec=jpdfbookmarks
+Categories=Office;
+X-KDE-StartupNotify=true
+X-AppInstall-Package=jpdfbookmarks
+X-AppInstall-Popcon=18
+X-AppInstall-Section=aur
+X-Arch-Package=jpdfbookmarks 2.5.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jpdfbookmarks
+X-Arch-Package-Version=2.5.2-1
+X-Arch-Package-Description=Java PDF bookmarks editor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://flavianopetrocchi.blogspot.com/
+X-Arch-Package-Votes=18

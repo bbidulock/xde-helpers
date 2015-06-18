@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Cooka2
+Comment=Small and simple image viewer
+Icon=cooka2
+TryExec=/usr/bin/cooka2
+Exec=cooka2
+Categories=Graphics;Viewer;
+X-AppInstall-Package=cooka2
+X-AppInstall-Section=aur
+X-Arch-Package=cooka2 0.4-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cooka2
+X-Arch-Package-Version=0.4-3
+X-Arch-Package-Description=A small and simple image viewer written in C-Sharp
+X-Arch-Package-URL=http://www.laas02.org/?page_id=19

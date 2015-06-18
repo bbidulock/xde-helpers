@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=UDE Movie Player
+Icon=ude-movie-player-32
+TryExec=/usr/bin/ump
+Exec=ump %U
+Categories=AudioVideo;Video;Player;GNOME;GTK;
+MimeType=video/x-msvideo;video/x-ms-asf;video/x-flv;application/x-flash-video;video/mpeg;application/ogg;application/mxf;application/sdp;application/vnd.rn-realmedia;application/x-matroska;video/3gpp;video/dv;video/fli;video/flv;video/mp4;video/mp4v-es;video/mpeg;video/msvideo;video/ogg;video/vivo;video/vnd.divx;video/vnd.rn-realvideo;video/vnd.vivo;
+X-AppInstall-Package=ude-movie-player
+X-AppInstall-Section=aur
+X-Arch-Package=ude-movie-player 20101019.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ude-movie-player
+X-Arch-Package-Version=20101019.1-2
+X-Arch-Package-Description=A very simple media player
+X-Arch-Package-URL=http://code.google.com/p/ude-movie-player/

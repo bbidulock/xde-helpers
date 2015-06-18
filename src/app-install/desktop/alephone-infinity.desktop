@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Marathon Infinity (Aleph One)
+Comment=A FPS game by Bungie
+Icon=alephone-infinity
+TryExec=/usr/bin/alephone-infinity
+Exec=alephone-infinity
+Categories=Game;ActionGame;
+X-AppInstall-Package=alephone-infinity
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=alephone-infinity 20140104-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=alephone-infinity
+X-Arch-Package-Version=20140104-2
+X-Arch-Package-Description=Marathon Infinity scenario data files for Aleph One
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://marathon.sourceforge.net
+X-Arch-Package-Votes=13

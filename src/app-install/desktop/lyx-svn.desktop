@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Lyx
+Comment=Latex WYSIWYM Editor
+Icon=/usr/share/lyx/images/lyx.png
+TryExec=/usr/bin/lyx
+Exec=lyx
+NoDisplay=true
+Categories=Office;
+StartupNotify=false
+X-AppInstall-Package=lyx-svn
+X-AppInstall-Section=aur
+X-Arch-Package=lyx-svn 40284-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lyx-svn
+X-Arch-Package-Version=40284-1
+X-Arch-Package-Description=An advanced open-source document processor.
+X-Arch-Package-URL=http://www.lyx.org
+Aliases=lyx;

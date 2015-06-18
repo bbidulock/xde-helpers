@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Moon-Lander
+GenericName=Game
+Comment=An addictive game of skill where you must land a space-ship on the moon at a perfect speed.
+Icon=/usr/share/moon-lander/images/win_icon.bmp
+TryExec=/usr/bin/moon-lander
+Exec=/usr/bin/moon-lander
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=moon-lander
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=moon-lander 1.0-7
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=moon-lander
+X-Arch-Package-Version=1.0-7
+X-Arch-Package-Description=An addictive game of skill where you must land a space-ship on
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://none
+X-Arch-Package-Votes=4

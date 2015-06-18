@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=neurolab
+GenericName=Neurocognitive Linguistics Lab
+Icon=neurolab
+TryExec=/usr/bin/neurolab
+Exec=neurolab
+Categories=Education;Science;
+X-AppInstall-Package=neurolab
+X-AppInstall-Section=aur
+X-Arch-Package=neurolab 1.2.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=neurolab
+X-Arch-Package-Version=1.2.3-1
+X-Arch-Package-Description=Neurocognitive Linguistics Lab
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://bitbucket.org/kulibali/neurocogling/wiki/Home
+X-Arch-Package-Votes=0

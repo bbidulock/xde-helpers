@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=OpenJK Single Player
+Comment="Open Source Jedi Knight II + III Engine - Single Player"
+Icon=openjksp
+TryExec=/usr/bin/openjk_sp
+Exec=openjk_sp
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=openjk-git
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=openjk-git 1299.9fcc435-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=openjk-git
+X-Arch-Package-Version=1299.9fcc435-1
+X-Arch-Package-Description=Open Source Jedi Knight II + III Engine
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/Razish/OpenJK
+X-Arch-Package-Votes=9

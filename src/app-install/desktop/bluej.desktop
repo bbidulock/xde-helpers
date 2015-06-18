@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=BlueJ
+GenericName=Java IDE
+Icon=/usr/share/java/bluej/images/bluej-icon-48.png
+TryExec=/usr/bin/bluej
+Exec=/usr/bin/bluej
+Categories=Development;Java;
+X-AppInstall-Package=bluej
+X-AppInstall-Popcon=54
+X-AppInstall-Section=aur
+X-Arch-Package=bluej 3.1.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bluej
+X-Arch-Package-Version=3.1.5-1
+X-Arch-Package-Description=An integrated Java environment specifically designed for
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.bluej.org
+X-Arch-Package-Votes=54

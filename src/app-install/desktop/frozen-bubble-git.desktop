@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Frozen Bubble
+Comment=Pop out the bubbles!
+Icon=frozen-bubble
+TryExec=/usr/bin/vendor_perl/frozen-bubble
+Exec=/usr/bin/vendor_perl/frozen-bubble
+NoDisplay=true
+Hidden=true
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=frozen-bubble-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=frozen-bubble-git 2.2.1.r57.g905bf71-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=frozen-bubble-git
+X-Arch-Package-Version=2.2.1.r57.g905bf71-1
+X-Arch-Package-Description=A game in which you throw colorful bubbles and build groups to
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.frozen-bubble.org
+X-Arch-Package-Votes=1
+Aliases=frozen-bubble;

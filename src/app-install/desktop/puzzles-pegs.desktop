@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Pegs
+Comment=Jump pegs over each other to remove all but one
+Icon=puzzles-pegs
+TryExec=/usr/bin/pegs
+Exec=pegs
+Categories=Game;LogicGame;
+StartupWMClass=pegs
+X-AppInstall-Package=puzzles-menuitems
+X-AppInstall-Section=aur
+X-Arch-Package=puzzles-menuitems 20150118-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=puzzles-menuitems
+X-Arch-Package-Version=20150118-1
+X-Arch-Package-Description=Menu items for Simon Tatham's Portable Puzzle Collection.
+X-Arch-Package-URL=http://www.chiark.greenend.org.uk/~sgtatham/puzzles/

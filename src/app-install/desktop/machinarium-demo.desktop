@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=EN7
+Type=Application
+Name=Machinarium Demo
+Icon=machinarium-demo.png
+TryExec=/usr/bin/machinarium-demo
+Exec=machinarium-demo
+Categories=Game;
+X-AppInstall-Package=machinarium-demo
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=machinarium-demo EN7-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=machinarium-demo
+X-Arch-Package-Version=EN7-1
+X-Arch-Package-Description=A point-and-click adventure game by the creators of Samarost
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://machinarium.net/
+X-Arch-Package-Votes=5

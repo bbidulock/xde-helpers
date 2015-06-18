@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=bmwrapper
+GenericName=pop3 and smtp servers for bitmessage
+Comment=Poorly hacked together python script to let Thunderbird and PyBitmessage communicate
+TryExec=/usr/bin/bmwrapper
+Exec=/usr/bin/bmwrapper
+NoDisplay=True
+Categories=Utility;
+X-AppInstall-Package=bmwrapper-git
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=bmwrapper-git b2716a0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bmwrapper-git
+X-Arch-Package-Version=b2716a0-1
+X-Arch-Package-Description=bmwrapper is a poorly hacked together python script to let
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/Arceliar/bmwrapper
+X-Arch-Package-Votes=2
+Aliases=bmwrapper;

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Pocket
+Comment=Secure your information with Pocket
+Icon=/usr/share/pixmaps/pocket.png
+TryExec=/usr/bin/pocket.sh
+Exec=/usr/bin/pocket.sh
+Categories=Utility;Security;GNOME;GTK;
+StartupNotify=true
+X-AppInstall-Package=pocket
+X-AppInstall-Popcon=12
+X-AppInstall-Section=aur
+X-Arch-Package=pocket 1.5-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pocket
+X-Arch-Package-Version=1.5-3
+X-Arch-Package-Description=Desktop companion to the Android app of the same name.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://timothyjc.blogspot.co.uk/2010/12/wallet-for-android.html
+X-Arch-Package-Votes=12

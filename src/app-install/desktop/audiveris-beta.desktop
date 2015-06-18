@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Audiveris
+GenericName=Audiveris
+Comment=Audiveris is a complete music scanner going all the way from the scanned music sheet input to the MusicXML output
+Icon=Audiveris
+TryExec=/usr/bin/audiveris
+Exec=audiveris
+NoDisplay=true
+Categories=AudioVideo;Player;
+X-AppInstall-Package=audiveris-beta
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=audiveris-beta 4.1beta.3182-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=audiveris-beta
+X-Arch-Package-Version=4.1beta.3182-1
+X-Arch-Package-Description=Audiveris is a complete music scanner going all the way from
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://audiveris.kenai.com/
+X-Arch-Package-Votes=1
+Aliases=audiveris;

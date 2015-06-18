@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=VSEdit
+GenericName=VapourSynth Editor
+Comment=Create or edit a VapourSynth Scripts
+Icon=vsedit
+TryExec=/usr/bin/vsedit
+Exec=vsedit
+NoDisplay=true
+Categories=AudioVideo;
+X-AppInstall-Package=vapoursynth-vsedit-git
+X-AppInstall-Section=aur
+X-Arch-Package=vapoursynth-vsedit-git r3.0.g54b3cd0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=vapoursynth-vsedit-git
+X-Arch-Package-Version=r3.0.g54b3cd0-1
+X-Arch-Package-Description=A simple program for edit/create VapourSynth scripts. (GIT version)
+X-Arch-Package-URL=http://forum.doom9.org/showthread.php?p=1688477
+Aliases=vsedit;

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Löve Game
+GenericName=Game
+Comment=The unquestionably awesome 2D game engine
+Icon=love
+TryExec=/usr/bin/love07
+Exec=love07
+Categories=Game;
+MimeType=application/x-love-game;
+X-AppInstall-Package=love07
+X-AppInstall-Popcon=25
+X-AppInstall-Section=aur
+X-Arch-Package=love07 0.7.2-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=love07
+X-Arch-Package-Version=0.7.2-5
+X-Arch-Package-Description=An open-source 2D game engine which uses the versatile Lua
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://love2d.org/
+X-Arch-Package-Votes=25

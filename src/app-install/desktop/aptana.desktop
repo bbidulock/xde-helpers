@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Aptana Studio 3
+Comment=JavaScript-focused IDE for building dynamic web applications
+Icon=aptana
+TryExec=/usr/bin/aptana
+Exec=aptana
+Categories=Application;Development;GNOME;
+StartupNotify=true
+X-AppInstall-Package=aptana-studio
+X-AppInstall-Popcon=217
+X-AppInstall-Section=aur
+X-Arch-Package=aptana-studio 3.6.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=aptana-studio
+X-Arch-Package-Version=3.6.1-1
+X-Arch-Package-Description=The professional, open source development tool for the open
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.aptana.com/
+X-Arch-Package-Votes=217

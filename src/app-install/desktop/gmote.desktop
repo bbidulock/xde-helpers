@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=GmoteServer
+Icon=/opt/gmote/gmote.png
+TryExec=/opt/gmote/GmoteServer.sh
+Exec=/opt/gmote/GmoteServer.sh
+Categories=Network;
+Path=/opt/gmote/
+X-AppInstall-Package=gmote-server
+X-AppInstall-Popcon=67
+X-AppInstall-Section=aur
+X-Arch-Package=gmote-server 2.0.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gmote-server
+X-Arch-Package-Version=2.0.0-2
+X-Arch-Package-Description=Server for Gmote (Android Remote). Gmote turns your Android
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.gmote.org/server
+X-Arch-Package-Votes=67

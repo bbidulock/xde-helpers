@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=gSharkDown
+GenericName=Music from grooveshark.com
+Icon=gsharkdown
+TryExec=/usr/bin/gsharkdown
+Exec=gsharkdown
+Categories=Application;AudioVideo;Audio;Network;
+X-AppInstall-Package=gsharkdown
+X-AppInstall-Popcon=79
+X-AppInstall-Section=aur
+X-Arch-Package=gsharkdown 0.7.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gsharkdown
+X-Arch-Package-Version=0.7.1-1
+X-Arch-Package-Description=Application for downloading and playing music from
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://bitbucket.org/vkolev/gsharkdown
+X-Arch-Package-Votes=79

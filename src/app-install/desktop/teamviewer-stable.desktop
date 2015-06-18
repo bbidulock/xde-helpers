@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=TeamViewer
+Comment=TeamViewer Remote Control Application
+Icon=/opt/teamviewer/teamviewer/7/desktop/teamviewer.png
+TryExec=/opt/teamviewer/teamviewer/7/bin/teamviewer
+Exec=/opt/teamviewer/teamviewer/7/bin/teamviewer
+NoDisplay=true
+Categories=Network;WebDevelopment;
+X-AppInstall-Package=teamviewer-stable
+X-AppInstall-Section=aur
+X-Arch-Package=teamviewer-stable 7.0.9350-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=teamviewer-stable
+X-Arch-Package-Version=7.0.9350-3
+X-Arch-Package-Description=All-in-one solution for accessing PC's using the internet
+X-Arch-Package-URL=http://www.teamviewer.com
+Aliases=teamviewer;

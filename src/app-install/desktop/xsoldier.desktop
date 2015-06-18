@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=xsoldier
+Comment=A 2D shoot 'em up single-player game
+Icon=xsoldier
+TryExec=/usr/bin/xsoldier
+Exec=xsoldier
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=xsoldier
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=xsoldier 1.8-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xsoldier
+X-Arch-Package-Version=1.8-2
+X-Arch-Package-Description=2D shoot 'em up single-player game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.interq.or.jp/libra/oohara/xsoldier
+X-Arch-Package-Votes=10

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Ganttproject
+Comment=GanttProject is a project scheduling application written in Java and featuring gantt chart, resource management, calendaring, import/export (MS Project, HTML, PDF, spreadsheets).
+Icon=/opt/ganttproject-praha-beta4/ganttproject96.png
+TryExec=/opt/ganttproject-praha-beta4/bin/ganttproject
+Exec=/opt/ganttproject-praha-beta4/bin/ganttproject
+NoDisplay=true
+Categories=Application;Office;
+StartupNotify=true
+X-AppInstall-Package=ganttproject-praha-beta4
+X-AppInstall-Section=aur
+X-Arch-Package=ganttproject-praha-beta4 2.5-823
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ganttproject-praha-beta4
+X-Arch-Package-Version=2.5-823
+X-Arch-Package-Description=GanttProject is a project scheduling application written in Java and featuring gantt chart, resource management, calendaring, ... This package builds the next version, 2.5, still in beta as of jan, 9, 2012.
+X-Arch-Package-URL=http://ganttproject.sourceforge.net/
+Aliases=ganttproject;

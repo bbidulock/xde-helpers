@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Sigasi
+Comment=IDE for VHDL development
+Icon=sigasi
+TryExec=/usr/bin/sigasi
+Exec=sigasi %f
+Categories=Development;IDE;
+StartupNotify=true
+X-AppInstall-Package=sigasi
+X-AppInstall-Section=aur
+X-Arch-Package=sigasi 2.28-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sigasi
+X-Arch-Package-Version=2.28-1
+X-Arch-Package-Description=IDE for VHDL editing and browsing
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.sigasi.com/
+X-Arch-Package-Votes=0

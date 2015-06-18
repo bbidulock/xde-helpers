@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Second Life
+Name[en_GB]=Imprudence
+Comment=Second Life is a 3-D virtual world entirely built and owned by its residents
+Comment[en_GB]=Imprudence is a fully open-sourced viewer for the Second Life metaverse which aims to improve usability and performance.
+Icon=/home/john/Imprudence-1.1.0-RC2/imprudence_icon.png
+TryExec=/usr/bin/imprudence
+Exec=/usr/bin/imprudence
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=imprudence-bin
+X-AppInstall-Section=aur
+X-Arch-Package=imprudence-bin 1.1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=imprudence-bin
+X-Arch-Package-Version=1.1.0-1
+X-Arch-Package-Description=Imprudence viewer for the Second Life virtual world (Binary version).
+X-Arch-Package-URL=http://www.imprudenceviewer.org/
+Aliases=imprudence;

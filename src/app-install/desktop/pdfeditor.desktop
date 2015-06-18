@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Master PDF Editor
+GenericName=PDF Editor
+Comment=Edit your PDF and XPS files
+Icon=pdfeditor.png
+TryExec=/usr/bin/pdfeditor
+Exec=pdfeditor
+Categories=Office;Publishing;
+X-AppInstall-Package=pdfeditor
+X-AppInstall-Section=aur
+X-Arch-Package=pdfeditor 1.8.13-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pdfeditor
+X-Arch-Package-Version=1.8.13-1
+X-Arch-Package-Description=Master PDF Editor is a complete solution for creation and editing PDF and XPS files (free version)
+X-Arch-Package-URL=http://code-industry.net/pdfeditor.php

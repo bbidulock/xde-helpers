@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Aquaria
+GenericName=2D Fantasy Action-Adventure
+Comment=Bit Blot
+Icon=aquaria
+TryExec=/usr/bin/aquaria
+Exec=/usr/bin/aquaria
+Categories=Game;
+X-AppInstall-Package=aquaria-hib-git
+X-AppInstall-Section=aur
+X-Arch-Package=aquaria-hib-git 1.1.3+g256.8fbed64-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=aquaria-hib-git
+X-Arch-Package-Version=1.1.3+g256.8fbed64-2
+X-Arch-Package-Description=A 2D underwater action-adventure game (Humble Bundle version + improved Open Source build of the executable)
+X-Arch-Package-URL=http://www.bit-blot.com/

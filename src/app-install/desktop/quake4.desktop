@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Quake 4
+GenericName=Quake 4
+Comment=Quake 4
+Icon=/usr/share/pixmaps/quake4.bmp
+TryExec=/usr/bin/quake4
+Exec=/usr/bin/quake4
+Categories=Application;Game;KDE;GNOME;Qt;
+StartupNotify=true
+X-AppInstall-Package=quake4
+X-AppInstall-Popcon=45
+X-AppInstall-Section=aur
+X-Arch-Package=quake4 1.4.2-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=quake4
+X-Arch-Package-Version=1.4.2-3
+X-Arch-Package-Description=Quake 4 Engine. You need the retail .pk4 files to play.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.quake4game.com/
+X-Arch-Package-Votes=45

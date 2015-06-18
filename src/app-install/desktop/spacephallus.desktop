@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Space Phallus
+GenericName=spacephallus
+Comment=A fun shoot-em-up
+Icon=phalluslogo.png
+TryExec=/usr/bin/SpacePhallus
+Exec=SpacePhallus
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=spacephallus
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=spacephallus 1.2-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=spacephallus
+X-Arch-Package-Version=1.2-4
+X-Arch-Package-Description=A fun shoot-em-up in which you fight against hordes of evil
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.charliesgames.com/wordpress/?page_id=18
+X-Arch-Package-Votes=7

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=UltraVNC Viewer
+Icon=ultravnc-viewer
+TryExec=/usr/bin/ultravnc-viewer
+Exec=ultravnc-viewer
+Categories=Network;
+X-AppInstall-Package=ultravnc-viewer
+X-AppInstall-Popcon=20
+X-AppInstall-Section=aur
+X-Arch-Package=ultravnc-viewer 1.2.0.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ultravnc-viewer
+X-Arch-Package-Version=1.2.0.5-1
+X-Arch-Package-Description=A powerful VNC Client with a lot of features, compatible with
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.uvnc.com
+X-Arch-Package-Votes=20

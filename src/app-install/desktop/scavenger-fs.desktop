@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Scavenger (Fullscreen)
+Comment=Fun 2D arcade/thinking game very much like Lode Runner
+Icon=scavenger
+TryExec=/usr/bin/scavenger
+Exec=scavenger
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=scavenger
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=scavenger 145.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=scavenger
+X-Arch-Package-Version=145.4-1
+X-Arch-Package-Description=2D arcade/thinking game like Lode Runner (SDL version)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.linuxmotors.com/scavenger/
+X-Arch-Package-Votes=8

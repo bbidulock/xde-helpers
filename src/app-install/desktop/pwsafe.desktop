@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Password Safe
+GenericName=Password Manager
+Comment=A password manager from Bruce Schneier
+Icon=preferences-system-privacy
+TryExec=/usr/bin/pwsafe
+Exec=pwsafe
+Categories=Application;Utility;GTK;
+StartupNotify=true
+X-AppInstall-Package=passwordsafe-git
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=passwordsafe-git 20140518.8848.6fccde3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=passwordsafe-git
+X-Arch-Package-Version=20140518.8848.6fccde3-1
+X-Arch-Package-Description=A GUI password manager from cryptologist Bruce Schneier
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://passwordsafe.sourceforge.net/index.shtml
+X-Arch-Package-Votes=2

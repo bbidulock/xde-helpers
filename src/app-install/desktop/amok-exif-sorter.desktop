@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Amok Exif Sorter
+Icon=/opt/AmokExifSorter/aes.ico
+TryExec="/opt/AmokExifSorter/Exifsorter.sh"
+Exec="/opt/AmokExifSorter/Exifsorter.sh"
+Categories=Application;Graphics;
+Path=/opt/AmokExifSorter/
+X-AppInstall-Package=amok-exif-sorter
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=amok-exif-sorter 2.56-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=amok-exif-sorter
+X-Arch-Package-Version=2.56-1
+X-Arch-Package-Description=AmoK Exif Sorter is the easy but powerful solution for
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.amok.am/en/freeware/amok_exif_sorter/
+X-Arch-Package-Votes=3

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Level 9 interpreter
+GenericName=Level 9
+Comment=An interpreter for games from the British text adventure company Level 9
+Icon=gtklevel9.png
+TryExec=/usr/bin/gtklevel9
+Exec=gtklevel9 %U
+Categories=Application;Game;GTK;
+StartupNotify=true
+X-AppInstall-Package=gtklevel9
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=gtklevel9 5.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gtklevel9
+X-Arch-Package-Version=5.1-2
+X-Arch-Package-Description=An interpreter for games from the British text adventure
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://mirror.ifarchive.org/indexes/if-archiveXlevel9XinterpretersXlevel9.html
+X-Arch-Package-Votes=1

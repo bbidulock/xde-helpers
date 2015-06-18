@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=Linux DC++
+GenericName=Direct connect client
+TryExec=/usr/bin/linuxdcpp
+Exec=linuxdcpp
+Categories=Network;P2P;GTK;
+X-AppInstall-Package=linuxdcpp-ru
+X-AppInstall-Section=aur
+X-Arch-Package=linuxdcpp-ru 070717-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=linuxdcpp-ru
+X-Arch-Package-Version=070717-1
+X-Arch-Package-Description=Linux dc++ from CVS with encoding and magnet links support patchset
+X-Arch-Package-URL=http://linuxdcpp-ru.sourceforge.net/

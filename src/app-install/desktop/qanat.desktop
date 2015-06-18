@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Qanat
+GenericName=qanat
+Comment=A vertical shoot-em-up inspired by the classic Galaxian
+Icon=qanat.png
+TryExec=/usr/bin/barbie
+Exec=barbie
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=qanat
+X-AppInstall-Section=aur
+X-Arch-Package=qanat 0.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qanat
+X-Arch-Package-Version=0.5-1
+X-Arch-Package-Description=A vertical shoot-em-up inspired by the classic Galaxian
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://perpetualpyramid.com/drupal/?q=qanat_game
+X-Arch-Package-Votes=0

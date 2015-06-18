@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Terracoin
+Comment=Terracoin P2P Cryptocurrency
+Comment[fr]=Terracoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Terracoin, eşten eşe kriptografik sanal para birimi
+Icon=/usr/share/pixmaps/terracoin256.png
+TryExec=/usr/bin/terracoin-qt
+Exec=/usr/bin/terracoin-qt
+Categories=Office;
+MimeType=x-scheme-handler/terracoin;
+X-AppInstall-Package=terracoin-qt
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=terracoin-qt 0.8.0.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=terracoin-qt
+X-Arch-Package-Version=0.8.0.4-1
+X-Arch-Package-Description=P2P decentralized digital currency with fast confirmation and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.terracoin.org/
+X-Arch-Package-Votes=4

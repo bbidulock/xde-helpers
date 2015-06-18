@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=ukopp
+GenericName=Copy Files to Removable Media
+Comment=Full and incremental backup with media verification
+Icon=/usr/share/ukopp/icons/ukopp.png
+TryExec=/usr/bin/ukopp
+Exec=/usr/bin/ukopp
+Categories=Utility;
+StartupNotify=false
+X-AppInstall-Package=ukopp
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ukopp
+X-Arch-Package-Version=5.6-1
+X-Arch-Package-Description=A backup program for USB devices
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.kornelix.com/ukopp
+X-Arch-Package-Votes=4

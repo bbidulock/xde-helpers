@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Boxer
+Comment=Design vector graphics images in Box language
+Icon=boxer
+TryExec=/usr/bin/boxer
+Exec=boxer
+Categories=Education;Graphics;2DGraphics;
+StartupNotify=true
+X-AppInstall-Package=boxer
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=boxer 0.4.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=boxer
+X-Arch-Package-Version=0.4.0-1
+X-Arch-Package-Description=A graphical user interface for the Box vector graphics
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://boxc.sourceforge.net
+X-Arch-Package-Votes=1

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Caster
+GenericName=Third Person Shooter
+Comment=Dash across Scenic Locations destroying bug like creatures called the Flanx using 6 Unique Attacks that include Massive Terrain Deformation and High Speed Barrages of Energy Blasts!
+Icon=/usr/share/pixmaps/Caster1.png
+TryExec=/usr/bin/caster
+Exec=caster
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=caster
+X-AppInstall-Section=aur
+X-Arch-Package=caster 1.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=caster
+X-Arch-Package-Version=1.1-1
+X-Arch-Package-Description=Dash across Scenic Locations destroying bug like creatures called the Flanx using 6 Unique Attacks that include Massive Terrain Deformation and High Speed Barrages of Energy Blasts!
+X-Arch-Package-URL=http://www.elecorn.com/caster3d/

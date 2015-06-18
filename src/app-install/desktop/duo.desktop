@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Duo
+GenericName=Crazy Eight
+Comment=Duo is a crazy eight / UNO card game
+Comment[fr]=Un jeu de huit américain
+Icon=/usr/share/duo/duo.png
+TryExec=/usr/bin/duo.sh
+Exec=/usr/bin/duo.sh
+Categories=Game;CardGame;
+X-AppInstall-Package=duo
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=duo 0.10-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=duo
+X-Arch-Package-Version=0.10-4
+X-Arch-Package-Description=Duo is a crazy eight / UNO card game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://launchpad.net/duo
+X-Arch-Package-Votes=6

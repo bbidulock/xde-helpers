@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=jRipper
+GenericName=Audio Converter
+Icon=jRipper.icon.png
+TryExec=/usr/bin/jripper
+Exec=jripper
+Categories=AudioVideo;
+X-AppInstall-Package=jripper
+X-AppInstall-Section=aur
+X-Arch-Package=jripper 1.02.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jripper
+X-Arch-Package-Version=1.02.1-1
+X-Arch-Package-Description=CD ripper and audio converter that can encode and decode WAV,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.rbri.org/jripper/jripper.html
+X-Arch-Package-Votes=0

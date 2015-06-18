@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Avadon
+Icon=/opt/avadon/Avadon.png
+TryExec=/usr/bin/avadon
+Exec=/usr/bin/avadon
+Categories=Game;
+X-AppInstall-Package=avadon-hb
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=avadon-hb 1331768904-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=avadon-hb
+X-Arch-Package-Version=1331768904-1
+X-Arch-Package-Description=Avadon: The Black Fortress (Humble Bundle copy required)
+X-Arch-Package-Groups=humblebundleandroid2
+X-Arch-Package-URL=http://www.spidweb.com/avadon/
+X-Arch-Package-Votes=4

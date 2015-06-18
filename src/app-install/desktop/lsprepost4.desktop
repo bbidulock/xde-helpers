@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=LS-PrePost
+Comment=Pre/Post Processing for LS-Dyna
+Comment[fr]=Pre/Post processeur pour LS-Dyna
+Icon=netbeans
+TryExec=/usr/bin/lspp42
+Exec=lspp42
+X-AppInstall-Package=lsprepost4
+X-AppInstall-Section=aur
+X-Arch-Package=lsprepost4 4.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lsprepost4
+X-Arch-Package-Version=4.2-1
+X-Arch-Package-Description=Pre- and post-processor for LS-DYNA
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.lstc.com/lspp
+X-Arch-Package-Votes=0

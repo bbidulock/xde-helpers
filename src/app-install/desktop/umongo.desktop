@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=umongo
+Comment=UMongo is a GUI app that can browse and administer a MongoDB cluster
+Icon=/usr/share/pixmaps/umongo.png
+TryExec=/usr/bin/umongo.sh
+Exec=/usr/bin/umongo.sh
+Categories=Application;Database;
+X-AppInstall-Package=umongo
+X-AppInstall-Popcon=35
+X-AppInstall-Section=aur
+X-Arch-Package=umongo 1.6.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=umongo
+X-Arch-Package-Version=1.6.2-1
+X-Arch-Package-Description=This package provides a GUI app that can browse and administer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.edgytech.com/umongo/
+X-Arch-Package-Votes=35

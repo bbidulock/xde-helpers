@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=MP4Joiner
+Icon=/usr/share/icons/hicolor/48x48/apps/mp4joiner.png
+TryExec=/usr/bin/mp4joiner
+Exec=/usr/bin/mp4joiner
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=mp4joiner
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=mp4joiner 2.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mp4joiner
+X-Arch-Package-Version=2.2-2
+X-Arch-Package-Description=A simple free tool to join multiple MP4 files into one without
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.mp4joiner.org/
+X-Arch-Package-Votes=1

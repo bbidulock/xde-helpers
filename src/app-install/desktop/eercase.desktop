@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=EERCASE
+Comment=Enhanced Entity-Relationship (EER) Computer Aided Software Engineering application
+Icon=/usr/share/icons/eercase.png
+TryExec=/usr/bin/eercase
+Exec=/usr/bin/eercase
+Categories=Development;
+X-AppInstall-Package=eercase
+X-AppInstall-Section=aur
+X-Arch-Package=eercase 20140702-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=eercase
+X-Arch-Package-Version=-2
+X-Arch-Package-Description=Enhanced Entity-Relationship (EER) modelling application
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.cin.ufpe.br/~eercase
+X-Arch-Package-Votes=0

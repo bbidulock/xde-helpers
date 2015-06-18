@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Battalion
+GenericName=Battalion rampaging monster
+Comment=Be a rampaging monster and destroy the city
+Icon=battalion.png
+TryExec=/usr/bin/battalion
+Exec=battalion
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=battalion
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=battalion 1.4b-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=battalion
+X-Arch-Package-Version=1.4b-2
+X-Arch-Package-Description=Game in which you are a rampaging monster and destroy the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://evlweb.eecs.uic.edu/aej/AndyBattalion.html
+X-Arch-Package-Votes=3

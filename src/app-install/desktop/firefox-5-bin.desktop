@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Firefox Beta
+Name[C]=firefox-5
+GenericName=Web Browser
+GenericName[C]=Firefox Web Browser
+Icon=/opt/firefox-5-bin-5.0/icons/mozicon128.png
+TryExec=/opt/firefox-5-bin-5.0/firefox
+Exec=/opt/firefox-5-bin-5.0/firefox %u
+MultipleArgs=false
+NoDisplay=true
+Categories=Application;Network;
+MimeType=text/html;
+StartupNotify=false
+X-AppInstall-Package=firefox-5-bin
+X-AppInstall-Section=aur
+X-Arch-Package=firefox-5-bin 5.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firefox-5-bin
+X-Arch-Package-Version=5.0-1
+X-Arch-Package-Description=Standalone web browser from mozilla.org! Firefox 5 binary package from official FTP
+X-Arch-Package-URL=http://www.mozilla.org/projects/firefox
+Aliases=firefox-5;

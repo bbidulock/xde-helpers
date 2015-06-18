@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=In Hell
+Comment=Doom3 mod inspired by Ultimate Doom
+Icon=doom3-inhell
+TryExec=/usr/bin/doom3-inhell
+Exec=doom3-inhell
+Categories=Application;Game;ActionGame;
+X-AppInstall-Package=doom3-inhell
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=doom3-inhell 1.1dc-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=doom3-inhell
+X-Arch-Package-Version=1.1dc-1
+X-Arch-Package-Description=Doom3 mod inspired by the classic "Ultimate Doom"
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=None
+X-Arch-Package-Votes=10

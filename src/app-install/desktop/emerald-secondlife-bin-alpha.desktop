@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Emerald Second Life viewer
+Comment=Second Life is a 3-D virtual world entirely built and owned by its residents
+Icon=/usr/share/pixmaps/emerald-secondlife.png
+TryExec=/usr/bin/emerald-secondlife
+Exec=/usr/bin/emerald-secondlife
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=emerald-secondlife-bin-alpha
+X-AppInstall-Section=aur
+X-Arch-Package=emerald-secondlife-bin-alpha 1.4.0.2439-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=emerald-secondlife-bin-alpha
+X-Arch-Package-Version=1.4.0.2439-1
+X-Arch-Package-Description=Second Life is a 3-D virtual world entirely built and owned by its residents. Emerald is alternative viewer(alpha based on snowglobe)
+X-Arch-Package-URL=http://modularsystems.sl/
+Aliases=emerald-secondlife;

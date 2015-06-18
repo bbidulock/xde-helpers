@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=0.5.2
+Type=Application
+Name=Google2SRT
+Comment=Tool to convert subtitles from Google Video and YouTube to SubRip
+Icon=google2srt
+TryExec=/usr/bin/google2srt
+Exec=google2srt %f
+Categories=AudioVideo;Video;
+X-AppInstall-Package=google2srt
+X-AppInstall-Popcon=12
+X-AppInstall-Section=aur
+X-Arch-Package=google2srt 0.7-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=google2srt
+X-Arch-Package-Version=0.7-1
+X-Arch-Package-Description=Google2SRT allows you to convert subtitles from Google Video
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/google2srt/
+X-Arch-Package-Votes=12

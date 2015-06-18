@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=DOSEMU
+GenericName=DOS Emulator
+Icon=dosemu
+TryExec=/usr/bin/xdosemu
+Exec=xdosemu
+NoDisplay=true
+Categories=System;Emulator;
+X-AppInstall-Package=dosemu-git
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=dosemu-git 1.4.0.8.739.gc8f96f3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dosemu-git
+X-Arch-Package-Version=1.4.0.8.739.gc8f96f3-1
+X-Arch-Package-Description=DOS emulator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.dosemu.org/
+X-Arch-Package-Votes=3
+Aliases=xdosemu;

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Dragon Hunt
+Comment=An extensible graphical RPG written in Python
+Icon=dragonhunt.png
+TryExec=/usr/bin/dragonhunt
+Exec=dragonhunt
+Categories=Game;RolePlaying;
+X-AppInstall-Package=dragonhunt
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=dragonhunt 3.56-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dragonhunt
+X-Arch-Package-Version=3.56-5
+X-Arch-Package-Description=An extensible graphical RPG written in Python
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://emhsoft.com/dh.html
+X-Arch-Package-Votes=7

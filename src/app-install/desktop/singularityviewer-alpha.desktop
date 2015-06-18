@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Singularity
+Comment=Client for Online Virtual Worlds, such as Second Life
+Icon=/opt/singularityviewer/singularity_icon.png
+TryExec=/usr/bin/singularityviewer
+Exec=/usr/bin/singularityviewer
+NoDisplay=true
+Categories=Game;
+StartupNotify=true
+X-Desktop-File-Install-Version=3.0
+X-AppInstall-Package=singularityviewer-alpha
+X-AppInstall-Section=aur
+X-Arch-Package=singularityviewer-alpha 1.8.6.6517-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=singularityviewer-alpha
+X-Arch-Package-Version=1.8.6.6517-1
+X-Arch-Package-Description=An exciting client for Second Life (secondlife) and OpenSim
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.singularityviewer.org/
+X-Arch-Package-Votes=0
+Aliases=singularityviewer;

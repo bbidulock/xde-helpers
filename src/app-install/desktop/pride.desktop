@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Pride
+Icon=/opt/pride/pride/pride.png
+TryExec=/usr/bin/pride
+Exec=pride
+X-AppInstall-Package=pride
+X-AppInstall-Section=aur
+X-Arch-Package=pride latest-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pride
+X-Arch-Package-Version=latest-3
+X-Arch-Package-Description=Fast and simple POSIX alternative for Android development.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pride.tuxfamily.org/
+X-Arch-Package-Votes=0

@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Open Surge
+Comment=An open source approach of the popular side scrolling game, Sonic The Hedgehog.
+Icon=/usr/share/pixmaps/opensurge.ico
+TryExec=/usr/bin/opensurge
+Exec=opensurge
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=opensonic-svn
+X-AppInstall-Section=aur
+X-Arch-Package=opensonic-svn 759-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=opensonic-svn
+X-Arch-Package-Version=759-1
+X-Arch-Package-Description=An open source approach of the popular game Sonic The Hedgehog. Now known as Open Surge. (SVN version.)
+X-Arch-Package-URL=http://opensnc.sourceforge.net/

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Doom 3 - Phantasm
+Comment=Based on the Phantasm horror movies
+Icon=/opt/doom3/doom3.png
+TryExec=/usr/bin/doom3-phantasm
+Exec=/usr/bin/doom3-phantasm
+Categories=Game;ActionGame;
+X-AppInstall-Package=doom3-phantasm
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=doom3-phantasm 1.2-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=doom3-phantasm
+X-Arch-Package-Version=1.2-5
+X-Arch-Package-Description=A Doom 3 mod based on the Phantasm horror movies
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=None
+X-Arch-Package-Votes=6

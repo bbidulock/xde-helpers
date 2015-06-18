@@ -10,7 +10,6 @@ TryExec=/usr/bin/lxpolkit
 Exec=lxpolkit
 Hidden=true
 NotShowIn=GNOME;KDE;
-StartupNotify=false
 X-AppInstall-Package=lxsession
 X-AppInstall-Section=community
 X-Arch-Package=lxsession 1:0.5.2-1

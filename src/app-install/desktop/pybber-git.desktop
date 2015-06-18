@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Pybber Messenger
+GenericName=Internet Messenger
+Comment=XMPP/Jabber Messenger in one-window mode
+Icon=/usr/share/pybber/icons/pybber.png
+TryExec=/usr/bin/pybber
+Exec=pybber
+NoDisplay=true
+Categories=Network;InstantMessaging;
+StartupNotify=true
+X-AppInstall-Package=pybber-git
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=pybber-git 0.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pybber-git
+X-Arch-Package-Version=0.1-2
+X-Arch-Package-Description=Pybber is experimental Jabber/XMPP client. One-window mode.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://middleofdreams.wordpress.com/pybber
+X-Arch-Package-Votes=2
+Aliases=pybber;

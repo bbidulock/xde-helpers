@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Wings 3D
+GenericName=3D Modeler
+Comment=3D modeler
+Icon=wings
+TryExec=/usr/bin/wings
+Exec=wings
+NoDisplay=true
+Categories=Graphics;3DGraphics;
+X-AppInstall-Package=wings-bin
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=wings-bin 1.5.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wings-bin
+X-Arch-Package-Version=1.5.3-1
+X-Arch-Package-Description=Subdivision 3D modeler inspired by Nendo and Mirai from Izware
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.wings3d.com
+X-Arch-Package-Votes=1
+Aliases=wings;

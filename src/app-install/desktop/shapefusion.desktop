@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=ShapeFusion
+Comment=A scenario editor for the AlephOne game engine
+Icon=shapefusion
+TryExec=/usr/bin/shapefusion
+Exec=shapefusion
+Categories=Game;ActionGame;
+X-AppInstall-Package=shapefusion
+X-AppInstall-Section=aur
+X-Arch-Package=shapefusion 0.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=shapefusion
+X-Arch-Package-Version=0.6-1
+X-Arch-Package-Description=A scenario editor for the AlephOne game engine
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://shapefusion.sourceforge.net/
+X-Arch-Package-Votes=0

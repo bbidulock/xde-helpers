@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=usb2format
+GenericName=usb2format
+Icon=/usr/share/pixmaps/usb2format_logo.png
+TryExec=/usr/bin/usb2format
+Exec=usb2format
+Categories=Application;Utility;
+X-AppInstall-Package=usb2format-git
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=usb2format-git 24.702d124-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=usb2format-git
+X-Arch-Package-Version=24.702d124-1
+X-Arch-Package-Description=A small graphical utility that can be used to easily format a
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/wifiextender/usb2format
+X-Arch-Package-Votes=2

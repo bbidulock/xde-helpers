@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Wavesurfer
+Comment=Open source tool for sound visualization and manipulation
+Icon=/usr/lib/wavesurfer/icons/icon48.xpm
+TryExec=/usr/lib/wavesurfer/src/app-wavesurfer/wavesurfer.tcl
+Exec=/usr/lib/wavesurfer/src/app-wavesurfer/wavesurfer.tcl
+Categories=Application;AudioVideo;Audio;AudioVideoEditing;
+StartupNotify=false
+X-AppInstall-Package=wavesurfer
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=wavesurfer 1.8.8p4-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wavesurfer
+X-Arch-Package-Version=1.8.8p4-3
+X-Arch-Package-Description=Open source tool for sound visualization and manipulation
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/wavesurfer/
+X-Arch-Package-Votes=8

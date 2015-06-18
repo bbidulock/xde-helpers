@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Evc
+Comment=Easy Video Cutter.
+Icon=/usr/share/pixmaps/evc-128x128.png
+TryExec=/usr/bin/evc
+Exec=evc
+Categories=Application;AudioVideo;
+MimeType=video/mpeg;video/quicktime;video/x-msvideo;video/x-anim;audio/x-mp3;audio/x-mp2;
+X-AppInstall-Package=evc
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=evc 0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=evc
+X-Arch-Package-Version=0.1-1
+X-Arch-Package-Description=Easy Video Cutter. Select the video and cut your favorite
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/easyvideocutter/
+X-Arch-Package-Votes=1

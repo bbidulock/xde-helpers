@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=ETXreaL
+Comment=XreaL subproject bringing all XreaL enhancements to Return to Castle Wolfenstein: Enemy Territory.
+Icon=etxreal.xpm
+TryExec=/usr/bin/etxreal
+Exec=etxreal
+Categories=Application;Game;
+StartupNotify=false
+X-AppInstall-Package=etxreal
+X-AppInstall-Section=aur
+X-Arch-Package=etxreal 0.3.0_20111110-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=etxreal
+X-Arch-Package-Version=0.3.0_20111110-2
+X-Arch-Package-Description=ET:XreaL is an XreaL subproject bringing all XreaL enhancements to Return to Castle Wolfenstein: Enemy Territory.
+X-Arch-Package-URL=http://www.moddb.com/mods/etxreal

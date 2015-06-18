@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Android SDK
+Comment=Android Sofware Development Kit
+Icon=android-sdk
+TryExec=/usr/bin/android
+Exec=android
+NoDisplay=true
+Categories=Development;IDE;
+X-AppInstall-Package=android-sdk-proguard-latest
+X-AppInstall-Section=aur
+X-Arch-Package=android-sdk-proguard-latest r22-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=android-sdk-proguard-latest
+X-Arch-Package-Version=r22-1
+X-Arch-Package-Description=Google Android SDK
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://developer.android.com/sdk/index.html
+X-Arch-Package-Votes=0
+Aliases=android-sdk;

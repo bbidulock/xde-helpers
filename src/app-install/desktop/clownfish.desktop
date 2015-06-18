@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Clownfish
+Comment=Realtime language translator for skype
+Comment[pt_BR]=Tradutor de idiomas em tempo real para o skype
+Icon=/usr/share/clownfish/clownfish.ico
+TryExec=/usr/bin/clownfish
+Exec=/usr/bin/clownfish
+Categories=Network;
+StartupNotify=false
+X-AppInstall-Package=clownfish
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=clownfish 0.20-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=clownfish
+X-Arch-Package-Version=0.20-1
+X-Arch-Package-Description=Free realtime language translator for skype
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://clownfish-translator.com/
+X-Arch-Package-Votes=3

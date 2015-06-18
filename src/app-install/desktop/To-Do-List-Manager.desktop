@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=To-Do-List-Manager
+TryExec=/opt/To-Do-List-Manager/To-Do-List-Manager
+Exec=/opt/To-Do-List-Manager/To-Do-List-Manager
+Categories=office;
+X-AppInstall-Package=to-do-list-manager
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=to-do-list-manager 0.11-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=to-do-list-manager
+X-Arch-Package-Version=0.11-2
+X-Arch-Package-Description=A Simple To Do List Manager Written In Qt5
+X-Arch-Package-Groups=office
+X-Arch-Package-URL=https://github.com/computerfr33k/To-Do-List-Manager
+X-Arch-Package-Votes=2

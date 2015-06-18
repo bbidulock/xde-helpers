@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Stackedit
+GenericName=Stackedit Markdown Editor
+Icon=stackedit
+TryExec=/usr/bin/stackedit
+Exec=/usr/bin/stackedit
+Categories=Development;
+MimeType=text/x-markdown; charset=UTF-8;
+X-AppInstall-Package=stackedit
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=stackedit 4.3.11-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=stackedit
+X-Arch-Package-Version=4.3.11-1
+X-Arch-Package-Description=In-browser markdown editor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://stackedit.io/
+X-Arch-Package-Votes=1
+Description=In-browser markdown editor

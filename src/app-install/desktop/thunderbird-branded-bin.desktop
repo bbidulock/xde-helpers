@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Thunderbird
+GenericName=Mail Client
+Comment=Mail Client & News Reader
+Icon=thunderbird
+TryExec=/usr/bin/thunderbird
+Exec=thunderbird %u
+NoDisplay=true
+Categories=Network;
+StartupNotify=true
+X-AppInstall-Package=thunderbird-branded-bin
+X-AppInstall-Section=aur
+X-Arch-Package=thunderbird-branded-bin 3.1.9-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=thunderbird-branded-bin
+X-Arch-Package-Version=3.1.9-1
+X-Arch-Package-Description=Standalone Mail/News reader - Branded binary version
+X-Arch-Package-URL=http://www.mozilla.org/projects/thunderbird
+Aliases=thunderbird;

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Not Tetris 2
+GenericName=Arcade Game
+Comment=Basically it's a little like tetris except with a twist.
+Icon=gnome-mime-application-x-love-game
+TryExec=/usr/bin/nottetris2
+Exec=nottetris2
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=nottetris2
+X-AppInstall-Popcon=26
+X-AppInstall-Section=aur
+X-Arch-Package=nottetris2 2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nottetris2
+X-Arch-Package-Version=2-1
+X-Arch-Package-Description=Basically it's a little like tetris except with a twist.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://stabyourself.net/nottetris2/
+X-Arch-Package-Votes=26

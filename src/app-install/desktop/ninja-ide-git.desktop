@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Ninja IDE
+Comment=A Python IDE
+Icon=ninja-ide
+TryExec=/usr/bin/ninja-ide
+Exec=ninja-ide
+Categories=Development;
+MimeType=application/x-python;application/x-ninja-ide;
+StartupNotify=true
+X-AppInstall-Package=ninja-ide-git
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=ninja-ide-git 20130206-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ninja-ide-git
+X-Arch-Package-Version=20130206-1
+X-Arch-Package-Description=Ninja Is Not Just Another Intergrated Development Environment
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ninja-ide.org
+X-Arch-Package-Votes=5

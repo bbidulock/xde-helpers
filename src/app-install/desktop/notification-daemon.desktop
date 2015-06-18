@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Notification Daemon
+Comment=Display notifications
+TryExec=/usr/libexec/notification-daemon
+Exec=/usr/libexec/notification-daemon
+NoDisplay=true
+StartupNotify=false
+X-AppInstall-Package=notification-daemon
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=notification-daemon
+X-Arch-Package-Version=3.16.1-1
+X-Arch-Package-Description=Notification daemon for the desktop notifications framework
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.gnome.org/

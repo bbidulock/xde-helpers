@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Ultratron
+GenericName=Shoot'em Up Arcade
+Comment=Intense shoot-em-up with 100% pure frenzied gameplay.
+Icon=/opt/ultratron/ultratron.png
+TryExec=/usr/bin/ultratron
+Exec=ultratron
+NoDisplay=true
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=ultratron-hib
+X-AppInstall-Section=aur
+X-Arch-Package=ultratron-hib 1395265019-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ultratron-hib
+X-Arch-Package-Version=1395265019-2
+X-Arch-Package-Description=Intense shoot-em-up with 100% pure frenzied gameplay.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.puppygames.net/ultratron/
+X-Arch-Package-Votes=0
+Aliases=ultratron;

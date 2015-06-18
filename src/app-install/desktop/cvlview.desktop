@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=CVLView
+Comment=Viewer for arbitrary data stored in PFS files
+Icon=cvlview
+TryExec=/usr/bin/cvlview
+Exec=cvlview %f
+Categories=Graphics;
+X-AppInstall-Package=cvlview
+X-AppInstall-Section=aur
+X-Arch-Package=cvlview 1.0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cvlview
+X-Arch-Package-Version=1.0.1-1
+X-Arch-Package-Description=2D and 3D viewer for arbitrary data sets using GPU power
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://cvtool.sourceforge.net/
+X-Arch-Package-Votes=0

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Google Hacks
+Comment=Google Hacks - a compilation of Google searches
+Icon=/usr/share/icons/googlehacks.png
+TryExec=/usr/bin/googlehacks
+Exec=googlehacks
+NoDisplay=true
+Categories=Application;Network;
+X-AppInstall-Package=google-hacks-gui
+X-AppInstall-Section=aur
+X-Arch-Package=google-hacks-gui 1.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=google-hacks-gui
+X-Arch-Package-Version=1.6-1
+X-Arch-Package-Description=a compilation of carefully crafted Google searches
+X-Arch-Package-URL=http://code.google.com/p/googlehacks/
+Aliases=googlehacks;

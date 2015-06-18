@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=saga-gis
+Comment=System for Automated Geoscientific Analyses
+Icon=saga-gis.png
+TryExec=/usr/bin/saga_gui
+Exec=saga_gui
+NoDisplay=true
+Categories=Science;
+X-AppInstall-Package=saga-gis-svn
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=saga-gis-svn 1152-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=saga-gis-svn
+X-Arch-Package-Version=1152-1
+X-Arch-Package-Description=SAGA -System for Automated Geoscientific Analyses- is a hybrid
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.saga-gis.org
+X-Arch-Package-Votes=1
+Aliases=saga-gis;

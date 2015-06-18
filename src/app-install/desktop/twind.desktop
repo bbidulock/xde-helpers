@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Twind
+GenericName=Twin Distress
+Comment=Simple puzzle game where you must remove all of the blocks of the same color from the screen before the time runs out.
+Icon=/usr/share/twind/graphics/twind.png
+TryExec=/usr/bin/twind
+Exec=/usr/bin/twind
+Categories=Game;LogicGame;
+X-AppInstall-Package=twind
+X-AppInstall-Section=aur
+X-Arch-Package=twind 1.1.0-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=twind
+X-Arch-Package-Version=1.1.0-4
+X-Arch-Package-Description=simple puzzle game where you must remove all of the blocks of
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/twind/
+X-Arch-Package-Votes=0

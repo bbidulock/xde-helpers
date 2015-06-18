@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=eepKeyer
+Comment=CW contest keyer
+Icon=eepkeyer.png
+TryExec=/usr/bin/eepkeyer
+Exec=eepkeyer
+X-DCOP-ServiceType=none
+Categories=Application;HamRadio;
+MimeType=text/plain;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=eepkeyer
+X-AppInstall-Section=aur
+X-Arch-Package=eepkeyer 1.7-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=eepkeyer
+X-Arch-Package-Version=1.7-1
+X-Arch-Package-Description=Ham Radio Contest CW Keyer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://hamsoftware.org/old_index.html
+X-Arch-Package-Votes=0

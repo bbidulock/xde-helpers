@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Imprudence Second Life viewer (experimental)
+Comment=Second Life is a 3-D virtual world entirely built and owned by its residents
+Icon=/usr/share/pixmaps/imprudence_experimental_icon.png
+TryExec=/usr/bin/imprudence-experimental-secondlife
+Exec=/usr/bin/imprudence-experimental-secondlife
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=imprudence-experimental-secondlife-bin-x86_64
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=imprudence-experimental-secondlife-bin-x86_64 2011.04.19-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=imprudence-experimental-secondlife-bin-x86_64
+X-Arch-Package-Version=2011.04.19-1
+X-Arch-Package-Description=Second Life is a 3-D virtual world entirely built and owned by
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.kokuaviewer.org
+X-Arch-Package-Votes=7
+Aliases=imprudence-experimental-secondlife;

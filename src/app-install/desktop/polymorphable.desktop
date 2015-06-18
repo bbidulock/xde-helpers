@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Polymorphable
+Comment=Laurelia's Polymorphable Citizen (or just Polymorphable for short) is an action-rpg based on the Flare engine.
+TryExec=/usr/bin/flare
+Exec=/usr/bin/flare --game=polymorphable
+Categories=Game;RolePlaying;
+X-AppInstall-Package=polymorphable
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=polymorphable 0.18.90-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=polymorphable
+X-Arch-Package-Version=0.18.90-1
+X-Arch-Package-Description=Laurelia's Polymorphable Citizen (or just Polymorphable for
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/makrohn/polymorphable
+X-Arch-Package-Votes=2

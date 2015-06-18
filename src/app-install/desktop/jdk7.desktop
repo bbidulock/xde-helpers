@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Java Monitoring and Management Console
+Icon=sun-java-jdk7
+TryExec=/usr/lib/jvm/java-7-jdk/bin/jconsole
+Exec=/usr/lib/jvm/java-7-jdk/bin/jconsole
+NoDisplay=true
+Categories=Development;Java;
+StartupNotify=true
+X-AppInstall-Package=7
+X-AppInstall-Popcon=105
+X-AppInstall-Section=aur
+X-Arch-Package=jdk7 7.80-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=7
+X-Arch-Package-Version=.-2
+X-Arch-Package-Description=Oracle Java  Development Kit
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.oracle.com/technetwork/java/javase/downloads/index.html
+X-Arch-Package-Votes=105
+Aliases=jconsole-jdk7;

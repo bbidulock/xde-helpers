@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=DogeCoinDark
+Comment=DogeCoinDark P2P Cryptocurrency
+Icon=/usr/share/pixmaps/dogecoindark.png
+TryExec=/usr/bin/dogecoindark-qt
+Exec=/usr/bin/dogecoindark-qt
+NoDisplay=true
+Categories=Network;
+MimeType=x-scheme-handler/dogecoindark;
+X-AppInstall-Package=-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=dogecoindark-qt-git 1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=-git
+X-Arch-Package-Version=1-1
+X-Arch-Package-Description=DogeCoinDark is a new coin, that already fulfills the original
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://dogecoindark.net/
+X-Arch-Package-Votes=1
+Aliases=dogecoindark;

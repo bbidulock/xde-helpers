@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Java Policy Settings
+Name[cs]=Nastavení politiky Java aplikací
+Icon=java
+TryExec=/opt/java/bin/policytool
+Exec=/opt/java/bin/policytool
+Categories=Settings;Java;
+StartupNotify=true
+X-AppInstall-Package=jdk5
+X-AppInstall-Section=aur
+X-Arch-Package=jdk5 5.0u22-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jdk5
+X-Arch-Package-Version=5.0u22-1
+X-Arch-Package-Description=Sun's Java Development Kit
+X-Arch-Package-URL=http://java.sun.com

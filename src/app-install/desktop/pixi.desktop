@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Pixi
+GenericName=Pixi
+Comment=Pixi by DigiPen
+Icon=/usr/share/pixi/pixi.png
+TryExec=/usr/bin/pixi
+Exec=pixi
+Categories=Game;
+X-AppInstall-Package=wine-pixi
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=wine-pixi 1.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wine-pixi
+X-Arch-Package-Version=1.1-1
+X-Arch-Package-Description=Digipen Freshman Game - Showcase in IGF 2012
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=None
+X-Arch-Package-Votes=2

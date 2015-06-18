@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=6.5.3
+Type=Application
+Name=YACReader
+GenericName=Yet Another Comic Reader
+Comment=Yet Another Comic Reader
+Icon=/opt/YACReader/icon.png
+TryExec=/usr/bin/YACReader
+Exec=YACReader %f
+Categories=Graphics;Viewer;
+MimeType=application/x-cbz;application/x-cbr;application/x-cbt;
+StartupNotify=true
+X-AppInstall-Package=yacreader-bin
+X-AppInstall-Section=aur
+X-Arch-Package=yacreader-bin 6.5.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=yacreader-bin
+X-Arch-Package-Version=6.5.3-1
+X-Arch-Package-Description=Yet Another Comic Reader!
+X-Arch-Package-URL=http://www.yacreader.com/

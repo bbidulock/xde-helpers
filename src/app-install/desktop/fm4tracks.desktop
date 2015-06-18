@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=FM4 Trackservice
+GenericName=FM4 Trackservice
+Comment=FM4 Trackservice in Systray - right-click for list - left-click for Radio
+Comment[de]=FM4 Trackservice -Linksklick startet den Radiosender - Rechtsklick öffnet die Liste
+Icon=/usr/share/icons/fm4tracks.png
+TryExec=/usr/bin/fm4trackservice
+Exec=fm4trackservice
+Categories=Application;AudioVideo;AudioVideoEditing;
+StartupNotify=false
+X-AppInstall-Package=fm4trackservice
+X-AppInstall-Section=aur
+X-Arch-Package=fm4trackservice 0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fm4trackservice
+X-Arch-Package-Version=0.1-1
+X-Arch-Package-Description=FM4 Trackservice for Systray
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://fm4.orf.at/
+X-Arch-Package-Votes=0

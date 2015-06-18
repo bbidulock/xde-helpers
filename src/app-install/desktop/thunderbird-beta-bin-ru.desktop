@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Thunderbird
+GenericName=Mail Client & News Reader
+Comment=Mail & News Reader
+Icon=thunderbird-beta
+TryExec=/usr/bin/thunderbird-beta
+Exec=thunderbird-beta %u
+NoDisplay=true
+Categories=Network;Email;
+StartupNotify=true
+X-AppInstall-Package=thunderbird-beta-bin-ru
+X-AppInstall-Section=aur
+X-Arch-Package=thunderbird-beta-bin-ru 5.0b2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=thunderbird-beta-bin-ru
+X-Arch-Package-Version=5.0b2-1
+X-Arch-Package-Description=Standalone Mail/News reader - Bleeding edge russian binary version
+X-Arch-Package-URL=http://www.mozilla.org/projects/thunderbird
+Aliases=thunderbird-beta;

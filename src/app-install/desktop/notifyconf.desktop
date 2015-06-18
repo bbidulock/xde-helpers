@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=NotifyOSD Configuration
+Comment=Tool to configure Ubuntu's notify-osd notification system
+Icon=/usr/share/notifyosdconf/not.png
+TryExec=/usr/bin/notifyconf
+Exec=notifyconf
+Categories=Utility;GNOME;Qt;Applications;
+X-AppInstall-Package=notifyconf
+X-AppInstall-Popcon=83
+X-AppInstall-Section=aur
+X-Arch-Package=notifyconf 7-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=notifyconf
+X-Arch-Package-Version=7-4
+X-Arch-Package-Description=GUI for configuring notify-osd-customizable
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://launchpad.net/notifyconf
+X-Arch-Package-Votes=83

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Minefield
+GenericName=Web Browser
+Icon=firefox-nightly-icon
+TryExec=/usr/bin/firefox-nightly
+Exec=firefox-nightly %u
+MultipleArgs=false
+Categories=Application;Network;
+MimeType=text/html;
+StartupNotify=false
+X-AppInstall-Package=firefox-nightly-tm
+X-AppInstall-Section=aur
+X-Arch-Package=firefox-nightly-tm 8.0a1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firefox-nightly-tm
+X-Arch-Package-Version=8.0a1-1
+X-Arch-Package-Description=Standalone web browser from mozilla.org, nightly build, latest TraceMonkey
+X-Arch-Package-URL=http://nightly.mozilla.org/js-preview.html

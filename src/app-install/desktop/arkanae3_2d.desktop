@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Arkanae III
+GenericName=Arkanae III
+Comment=An adventure / rpg game with a mysterious storyline.
+Comment[fr]=Un jeu de r\xF4le / aventure dans un monde inconnu et myst\xE9rieux.
+Icon=arkanae3_2d.png
+TryExec=/usr/bin/arkanae3_2d
+Exec=arkanae3_2d
+Categories=Game;
+X-AppInstall-Package=arkanae3_2d
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=arkanae3_2d 0.1-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=arkanae3_2d
+X-Arch-Package-Version=0.1-3
+X-Arch-Package-Description=Jeu de rôles / aventure libre en 3D (only in French)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://home.gna.org/oomadness/fr/arkanae_iii/
+X-Arch-Package-Votes=4

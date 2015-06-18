@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Axiom
+GenericName=A computer algebra system
+GenericName[de]=Computeralgebra System
+GenericName[it]=algebra a livello avanzato
+Comment=A sophisticated computer algebra system
+Icon=/usr/share/pixmaps/axiom.png
+TryExec=/usr/bin/axiom
+Exec=axiom
+Terminal=1
+NoDisplay=true
+Categories=Science;Math;CAS;
+X-AppInstall-Package=axiom-cas
+X-AppInstall-Section=aur
+X-Arch-Package=axiom-cas may2012-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=axiom-cas
+X-Arch-Package-Version=may2012-1
+X-Arch-Package-Description=Computer algebra system
+X-Arch-Package-URL=http://www.axiom-developer.org/
+Aliases=axiom;

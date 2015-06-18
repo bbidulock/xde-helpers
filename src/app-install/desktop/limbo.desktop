@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Limbo
+Comment=Uncertain of his sister's fate, a boy enters LIMBO.
+Icon=/opt/limbo/limbo.png
+TryExec=/usr/bin/limbo
+Exec=/usr/bin/limbo
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=limbo
+X-AppInstall-Popcon=28
+X-AppInstall-Section=aur
+X-Arch-Package=limbo 20140618-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=limbo
+X-Arch-Package-Version=20140618-1
+X-Arch-Package-Description=LIMBO is a modern classic, putting players in control of a
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://playdead.com/limbo/
+X-Arch-Package-Votes=28

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=IP Calculator
+Comment=IP Calculator
+Icon=/usr/share/ip-calculator/ip-calculator.png
+TryExec=/usr/bin/ip-calculator
+Exec=ip-calculator
+Categories=Networking;
+X-AppInstall-Package=ip-calculator
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=ip-calculator 1.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ip-calculator
+X-Arch-Package-Version=1.2-1
+X-Arch-Package-Description=IP Calculator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/20115681/ip-calculator-mono
+X-Arch-Package-Votes=1

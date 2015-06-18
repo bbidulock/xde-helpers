@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=LXClipboard autostart
+Comment=LXDE Clipboard Manager Autostart
+Icon=lxclipboard
+TryExec=/usr/bin/lxclipboard
+Exec=lxclipboard
+X-GNOME-Autostart-enabled=true
+X-AppInstall-Package=lxsession-git
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=lxsession-git 0.5.2.r966.20150208-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lxsession-git
+X-Arch-Package-Version=0.5.2.r966.20150208-1
+X-Arch-Package-Description=Lightweight X11 session manager for LXDE
+X-Arch-Package-Groups=lxde
+X-Arch-Package-URL=http://lxde.org/
+X-Arch-Package-Votes=8

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=0.1.0
+Type=Application
+Name=Visual Studio Code
+Comment=A source code editor by Microsoft
+Icon=vscode.png
+TryExec=/usr/bin/vscode
+Exec=vscode
+Categories=Development;
+StartupNotify=false
+X-AppInstall-Package=visualstudio-code
+X-AppInstall-Section=aur
+X-Arch-Package=visualstudio-code 0.1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=visualstudio-code
+X-Arch-Package-Version=0.1.0-1
+X-Arch-Package-Description=A source code editor by Microsoft
+X-Arch-Package-URL=https://code.visualstudio.com/
+Aliases=vscode;

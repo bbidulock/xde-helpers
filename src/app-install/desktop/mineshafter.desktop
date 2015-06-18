@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Mineshafter
+GenericName=Mineshafter
+Comment=Mineshafter is an authentication and texture proxy for Minecraft.
+Icon=/usr/share/pixmaps/mineshafter.png
+TryExec=/usr/bin/mineshafter
+Exec=mineshafter
+Categories=Game;
+X-AppInstall-Package=mineshafter
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=mineshafter 7.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mineshafter
+X-Arch-Package-Version=7.0-1
+X-Arch-Package-Description=Mineshafter is an authentication and texture proxy for
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://mineshafter.info/
+X-Arch-Package-Votes=7

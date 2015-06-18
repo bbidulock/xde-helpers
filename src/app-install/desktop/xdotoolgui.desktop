@@ -1,0 +1,22 @@
+[Desktop Entry]
+Version=1.2
+Type=Application
+Name=Xdotool Gui
+Name[zh_CN]=按键精灵
+Comment=GUI for command-line X11 automation tool
+Icon=/usr/share/xdotool-gui/xdotoolgui.gif
+TryExec=/usr/bin/xdotool-gui
+Exec=/usr/bin/xdotool-gui
+Categories=Game;GNOME;GTK;
+StartupNotify=false
+X-AppInstall-Package=xdotool-gui
+X-AppInstall-Popcon=17
+X-AppInstall-Section=aur
+X-Arch-Package=xdotool-gui 1.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xdotool-gui
+X-Arch-Package-Version=1.2-2
+X-Arch-Package-Description=GUI for command-line X11 automation tool
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/xdotool-gui/
+X-Arch-Package-Votes=17

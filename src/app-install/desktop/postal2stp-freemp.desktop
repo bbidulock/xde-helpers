@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Postal 2 Free MP
+Comment=Freeware multiplayer FPS
+Icon=postal2
+TryExec=/usr/bin/postal2stp-freemp
+Exec=postal2stp-freemp
+Categories=Game;ActionGame;
+X-AppInstall-Package=postal2stp-freemp
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=postal2stp-freemp 1409.2-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=postal2stp-freemp
+X-Arch-Package-Version=1409.2-5
+X-Arch-Package-Description=Freeware multiplayer edition of "Postal 2: Share The Pain"
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://icculus.org/news/news.php?id=4419
+X-Arch-Package-Votes=6

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=rimshot
+GenericName=Arcade Game
+Comment=Rimshot was designed from ground up with a simple and intuitive interface in mind to allow the creation of any kinds of drumbeats.
+Icon=gnome-mime-application-x-love-game
+TryExec=/usr/bin/rimshot
+Exec=rimshot
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=rimshot
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=rimshot 1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rimshot
+X-Arch-Package-Version=1-2
+X-Arch-Package-Description=Rimshot was designed from ground up with a simple and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://stabyourself.net/rimshot/
+X-Arch-Package-Votes=1

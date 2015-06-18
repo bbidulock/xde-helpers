@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=BLABA (Bryan Lunduke's Awesome Blocks of Awesome)
+Comment=Visual Software Creation
+Icon=blaba
+TryExec=/usr/bin/blaba
+Exec=blaba
+Categories=Graphics;
+X-AppInstall-Package=blaba
+X-AppInstall-Section=aur
+X-Arch-Package=blaba 13.05-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=blaba
+X-Arch-Package-Version=13.05-1
+X-Arch-Package-Description=Bryan Lunduke's Awesome Blocks of Awesome: A graphical video game editor
+X-Arch-Package-URL=http://lunduke.com/?page_id=3152

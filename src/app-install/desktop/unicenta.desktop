@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.0                               # The version of the desktop entry specification to which this file complies
+Type=Application                          # Indicates the type as listed above
+Name=uniCentra oPOS                       # The name of the application
+Comment=Open Source Point of Sale System  # A comment which can/will be used as a tooltip
+Icon=unicentra.png                        # The name of the icon that will be used to display this entry
+TryExec=/usr/bin/unicentra
+Exec=unicentra                            # The executable of the application.
+Terminal=false                            # Describes whether this application needs to be run in a terminal or not
+Categories=Office                         # Describes the categories in which this entry should be shown;
+X-AppInstall-Package=unicentaopos
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=unicentaopos 3.56-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=unicentaopos
+X-Arch-Package-Version=3.56-1
+X-Arch-Package-Description=uniCenta oPOS is a point-of-sale system capable of running on
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.unicenta.com
+X-Arch-Package-Votes=2

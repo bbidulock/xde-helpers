@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=JahPlayer
+GenericName=Media Player
+Comment=Professional grade & open source media player capable of playing uncompressed video and image sequences
+Icon=/usr/share/jahplayer/jahplayer-icon.png
+TryExec=/usr/bin/jahplayer
+Exec=jahplayer
+Categories=AudioVideo;Audio;Qt;
+X-AppInstall-Package=jahplayer
+X-AppInstall-Section=aur
+X-Arch-Package=jahplayer 0.2.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jahplayer
+X-Arch-Package-Version=0.2.2-1
+X-Arch-Package-Description=A professional grade media player capable of playing uncompressed video and image sequences
+X-Arch-Package-URL=http://www.jahshaka.org/

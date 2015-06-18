@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Dungeon Defenders
+Comment=A co-operative 3D tower defense game with medieval theming.
+Icon=dungeondefenders
+TryExec=/usr/bin/dungeondefenders
+Exec=dungeondefenders
+Categories=Game;
+X-AppInstall-Package=dungeon-defenders-hib
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=dungeon-defenders-hib 7.48-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dungeon-defenders-hib
+X-Arch-Package-Version=7.48-2
+X-Arch-Package-Description=A co-operative 3D tower defense game with medieval theming.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://dungeondefenders.com/
+X-Arch-Package-Votes=3

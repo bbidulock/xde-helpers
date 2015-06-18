@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Redcar
+Comment=A cross-platform programmer's editor written in Ruby.
+Icon=redcar
+TryExec=/usr/bin/redcar
+Exec=redcar
+Categories=Development;IDE;Java;
+StartupNotify=true
+X-AppInstall-Package=None
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=redcar 0.13-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=None
+X-Arch-Package-Version=0.13-4
+X-Arch-Package-Description=A cross-platform programmer's editor written in Ruby.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://redcareditor.com/
+X-Arch-Package-Votes=1

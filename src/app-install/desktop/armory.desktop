@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Armory
+GenericName=Bitcoin Client
+Comment=Full-featured Bitcoin wallet management application
+Icon=/opt/BitcoinArmory/img/armory256x256.ico
+TryExec=/usr/bin/armory
+Exec=/usr/bin/armory
+Categories=Network;Qt;
+Keywords=bitcoin;finance;wallet;money;
+StartupNotify=false
+X-AppInstall-Package=armory
+X-AppInstall-Popcon=39
+X-AppInstall-Section=aur
+X-Arch-Package=armory 0.93.1-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=armory
+X-Arch-Package-Version=0.93.1-3
+X-Arch-Package-Description=Python-Based Bitcoin Software
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/etotheipi/BitcoinArmory
+X-Arch-Package-Votes=39

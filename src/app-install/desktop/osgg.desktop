@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=OldSkoolGravityGame
+Comment=Lunar lander skillgame
+Icon=osgg.png
+TryExec=/usr/bin/osgg
+Exec=osgg
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=osgg
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=osgg 0.99-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=osgg
+X-Arch-Package-Version=0.99-3
+X-Arch-Package-Description=a 2D game inspired by lunar lander with sweet 70's style
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://osgg.sourceforge.net/
+X-Arch-Package-Votes=1

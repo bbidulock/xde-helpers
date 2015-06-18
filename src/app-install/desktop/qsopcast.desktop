@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=QSopcast
+GenericName=Online TV
+Comment=A Qt frontend of sopcast
+Icon=qsopcast.xpm
+TryExec=/usr/bin/qsopcast
+Exec=qsopcast
+Categories=Application;Network;
+StartupNotify=true
+X-AppInstall-Package=qsopcast
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=qsopcast
+X-Arch-Package-Version=0.3.8.1-1
+X-Arch-Package-Description=A Qt front-end to p2p TV sopcast
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/qsopcast

@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=pngnq - Tool for quantizing PNG images in RGBA format.
+Name[zh_CN]=pngnq - 32位元的png图档转换为8位元的命令行工具
+GenericName=Tool for quantizing PNG images in RGBA format.
+GenericName[zh_CN]=32位元的png图档用neoquant算法转换为8位元的命令行工具
+Icon=pngnq
+TryExec=/usr/bin/pngnq
+Exec=pngnq
+Categories=Graphics;
+MimeType=image/png;
+X-AppInstall-Package=pngnq-svn
+X-AppInstall-Section=aur
+X-Arch-Package=pngnq-svn 20080502-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pngnq-svn
+X-Arch-Package-Version=20080502-1
+X-Arch-Package-Description=A tool for quantizing PNG images in RGBA format - svn version
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pngnq.sourceforge.net/
+X-Arch-Package-Votes=0
+X-SuSE-added=GenericName,zh_CN;Name,zh_CN;
+X-SuSE-translate=true

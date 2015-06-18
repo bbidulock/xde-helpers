@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=PixiTracker
+Comment=Simple and fun sample based tracker with minimalistic pixel interface
+Icon=/usr/lib/pixitracker/pixitracker.xpm
+TryExec=/usr/lib/pixitracker/START_LINUX_X86_64
+Exec=/usr/lib/pixitracker/START_LINUX_X86_64 /usr/lib/pixitracker/boot.pixicode
+Categories=AudioVideo;Audio;AudioVideoEditing;
+Path=/usr/lib/pixitracker
+StartupNotify=false
+X-AppInstall-Package=pixitracker
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=pixitracker 1.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pixitracker
+X-Arch-Package-Version=1.4-1
+X-Arch-Package-Description=Simple and fun sample based tracker with minimalistic pixel
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://warmplace.ru/soft/pixitracker/
+X-Arch-Package-Votes=2

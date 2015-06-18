@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Raccoon
+Comment=Alternative Google Play client to download Android APK files to your computer
+Icon=/usr/share/pixmaps/raccoon.svg
+TryExec=/usr/bin/raccoon
+Exec=raccoon
+Categories=Application;GNOME;
+StartupNotify=true
+X-AppInstall-Package=raccoon
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=raccoon 3.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=raccoon
+X-Arch-Package-Version=3.4-1
+X-Arch-Package-Description=Alternative Google Play client to download Android APK files
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.onyxbits.de/raccoon
+X-Arch-Package-Votes=8

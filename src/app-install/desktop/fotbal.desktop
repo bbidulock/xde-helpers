@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Fotbal
+GenericName=Sports Game
+Comment=Simple soccer game
+TryExec=/usr/bin/fotbal
+Exec=fotbal
+Categories=Game;SportsGame;
+X-AppInstall-Package=fotbal
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=fotbal 1-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fotbal
+X-Arch-Package-Version=1-4
+X-Arch-Package-Description=a simple 2d soccer game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://hippo.nipax.cz/download.cz.php?id=41
+X-Arch-Package-Votes=3

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=DiffImg
+Comment=Simple image comparison tool
+Icon=/usr/share/pixmaps/res/diffimg.ico
+TryExec=/usr/bin/DiffImg
+Exec=DiffImg
+Categories=Application;Graphics;
+StartupNotify=false
+X-AppInstall-Package=diffimg
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=diffimg 2.0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=diffimg
+X-Arch-Package-Version=2.0.1-1
+X-Arch-Package-Description=Simple image comparison tool
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/diffimg/
+X-Arch-Package-Votes=4

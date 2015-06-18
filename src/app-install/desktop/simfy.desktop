@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=simfy
+GenericName=Simfy Desktop Application
+Icon=/opt/simfy/share/icons/icon48x48.png
+TryExec=/usr/bin/simfy
+Exec=simfy
+Categories=AudioVideo;Audio;Player;
+X-AppInstall-Package=simfy
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=simfy 1.6.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=simfy
+X-Arch-Package-Version=1.6.2-1
+X-Arch-Package-Description=Desktop application for simfy.de
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.simfy.de
+X-Arch-Package-Votes=8

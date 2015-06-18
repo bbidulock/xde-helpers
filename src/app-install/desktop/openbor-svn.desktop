@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=OpenBOR
+Comment=Open Beats of Rage
+Icon=openbor
+TryExec=/usr/bin/openbor
+Exec=openbor
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=openbor-svn
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=openbor-svn 3.0.r4107-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=openbor-svn
+X-Arch-Package-Version=3.0.r4107-1
+X-Arch-Package-Description=An open source fighting video game and moddable game engine
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.chronocrash.com
+X-Arch-Package-Votes=4
+Aliases=openbor;

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=RSGames
+GenericName=A collection of board, card, and dice games in audio format played online
+Comment=A collection of board, card, and dice games in audio format played online
+TryExec=/usr/bin/python2
+Exec=python2 rsg.pyc
+Categories=Application;Game;ArcadeGame;
+Path=/opt/rsgames/rsg-client-build/src
+StartupNotify=true
+X-AppInstall-Package=rsgames
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=rsgames 1.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rsgames
+X-Arch-Package-Version=1.6-1
+X-Arch-Package-Description=A collection of board, card, and dice games in audio format
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.rsgames.org/
+X-Arch-Package-Votes=1

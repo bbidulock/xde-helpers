@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Summoning Wars
+GenericName=Summoning Wars
+Comment=3D Hack and Slash
+Icon=/usr/share/pixmaps/sumwars.png
+TryExec=/usr/bin/sumwars
+Exec=sumwars
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=sumwars
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=sumwars 0.5.8-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sumwars
+X-Arch-Package-Version=0.5.8-1
+X-Arch-Package-Description=Summoning Wars is an open source role-playing game, featuring
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sumwars.org/
+X-Arch-Package-Votes=10

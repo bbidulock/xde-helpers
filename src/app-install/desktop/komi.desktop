@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Komi
+GenericName=Komi the Space Frog
+TryExec=/usr/bin/komi
+Exec=komi
+Categories=Game;ArcadeGame;
+StartupNotify=true
+X-AppInstall-Package=komi
+X-AppInstall-Section=aur
+X-Arch-Package=komi 1.04-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=komi
+X-Arch-Package-Version=1.04-2
+X-Arch-Package-Description=The basic aim is to collect all the money by extending Komi
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://komi.sourceforge.net/
+X-Arch-Package-Votes=0

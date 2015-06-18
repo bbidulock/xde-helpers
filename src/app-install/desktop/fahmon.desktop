@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=FahMon
+GenericName=FahMon
+Comment=Monitor Folding@home clients locally and over a network
+Icon=fahmon
+TryExec=/usr/bin/fahmon
+Exec=fahmon
+Categories=Science;System;Monitor;GTK;
+StartupNotify=false
+X-AppInstall-Package=fahmon
+X-AppInstall-Popcon=39
+X-AppInstall-Section=aur
+X-Arch-Package=fahmon 2.3.99.4-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fahmon
+X-Arch-Package-Version=2.3.99.4-3
+X-Arch-Package-Description=See the progress of your Folding@Home client
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://fahmon.net/
+X-Arch-Package-Votes=39

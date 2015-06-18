@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Android SDK
+Comment=Android Sofware Development Kit
+Icon=android-sdk
+TryExec=/usr/bin/android
+Exec=android
+NoDisplay=true
+Categories=Development;IDE;
+X-AppInstall-Package=android-sdk-preview
+X-AppInstall-Section=aur
+X-Arch-Package=android-sdk-preview r21.1_rc3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=android-sdk-preview
+X-Arch-Package-Version=r21.1_rc3-1
+X-Arch-Package-Description=Google Android SDK Preview
+X-Arch-Package-URL=http://developer.android.com/sdk/index.html
+Aliases=android-sdk;

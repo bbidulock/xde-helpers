@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Game
+Name=Project LRNJ
+GenericName=A console-style role-playing game that teaches Japanese.
+GenericName[fi]=Japanin opiskelua edistävä roolipeli.
+GenericName[ru]=Ролевый игра, которая учит японский язык.
+GenericName[sv]=Et rollspel, som lärar ut japanska.
+Icon=/opt/lrnj/images/greenslime.png
+TryExec=/usr/bin/lrnj
+Exec=lrnj
+X-AppInstall-Package=lrnj
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=lrnj 162-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lrnj
+X-Arch-Package-Version=162-1
+X-Arch-Package-Description=A console-style role-playing game that teaches Japanese.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://lrnj.com/
+X-Arch-Package-Votes=5

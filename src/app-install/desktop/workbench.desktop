@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Work Bench
+Comment=Python Subversion Client
+Icon=wb
+TryExec=/usr/bin/workbench
+Exec=workbench
+Categories=Application;Development;GNOME;
+StartupNotify=false
+X-AppInstall-Package=workbench
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=workbench 1.6.10-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=workbench
+X-Arch-Package-Version=1.6.10-1
+X-Arch-Package-Description=Subversion client written in python.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pysvn.tigris.org/
+X-Arch-Package-Votes=7

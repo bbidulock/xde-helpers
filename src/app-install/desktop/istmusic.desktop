@@ -1,0 +1,22 @@
+[Desktop Entry]
+Version=1.0.0
+Type=Application
+Name=istmusic
+GenericName=MUSIC middleware
+Comment=Context-aware self-adaptive middleware
+Icon=/usr/share/pixmaps/istmusic.png
+TryExec=/usr/bin/istmusic
+Exec=/usr/bin/istmusic
+Terminal=true
+Categories=Network;
+StartupNotify=true
+X-AppInstall-Package=istmusic
+X-AppInstall-Section=aur
+X-Arch-Package=istmusic 1.0.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=istmusic
+X-Arch-Package-Version=1.0.0-1
+X-Arch-Package-Description=Context-aware self-adaptive middleware for mobile applications
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ist-music.berlios.de
+X-Arch-Package-Votes=0

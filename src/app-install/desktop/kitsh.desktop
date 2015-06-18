@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=KitSh
+Comment=WebKit shell
+Icon=kitsh
+TryExec=/usr/bin/kitsh
+Exec=kitsh %u
+Categories=Network;WebBrowser;
+X-AppInstall-Package=kitsh
+X-AppInstall-Section=aur
+X-Arch-Package=kitsh 0.42-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kitsh
+X-Arch-Package-Version=0.42-1
+X-Arch-Package-Description=A tasteless WebKit shell.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/kitsh/
+X-Arch-Package-Votes=0

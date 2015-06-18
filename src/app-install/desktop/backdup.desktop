@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=BackDup - Duplicity frontend
+Comment=Duplicity frontend.
+Icon=backdup
+TryExec=/usr/bin/backdup
+Exec=backdup
+NotShowIn=GNOME;Unity;
+Categories=System;Utility;
+Keywords=BackDup;
+StartupNotify=true
+X-AppInstall-Package=backdup
+X-AppInstall-Section=aur
+X-Arch-Package=backdup 0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=backdup
+X-Arch-Package-Version=0.1-1
+X-Arch-Package-Description=Duplicity front-end
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://backdup.sourceforge.net
+X-Arch-Package-Votes=0
+X-AppInstall-Ignore=true

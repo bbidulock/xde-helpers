@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Thunderbird (Nightly)
+GenericName=Mail Client & News Reader (Nightly)
+Comment=Mail & News Reader (Nightly)
+Icon=thunderbird-nightly
+TryExec=/usr/bin/thunderbird-nightly
+Exec=thunderbird-nightly %u
+Categories=Network;Email;
+MimeType=message/rfc822;x-scheme-handler/mailto;
+StartupNotify=true
+X-AppInstall-Package=thunderbird-nightly
+X-AppInstall-Popcon=18
+X-AppInstall-Section=aur
+X-Arch-Package=thunderbird-nightly 41.0a1.20150518-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=thunderbird-nightly
+X-Arch-Package-Version=41.0a1.20150518-1
+X-Arch-Package-Description=Standalone Mail/News reader - Nightly build
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.mozilla.org/thunderbird
+X-Arch-Package-Votes=18

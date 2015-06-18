@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name[C]=N
+TryExec=/usr/bin/gnash
+Exec=gnash /usr/share/n-ninja-swf/n-ninja-swf.swf
+X-AppInstall-Package=n-ninja-swf
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=n-ninja-swf 1.4-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=n-ninja-swf
+X-Arch-Package-Version=1.4-3
+X-Arch-Package-Description=Metanet's unique 2D puzzle/action platform game. Version 1.4.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.metanetsoftware.com/
+X-Arch-Package-Votes=2

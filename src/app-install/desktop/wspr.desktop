@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=WSPR
+Comment=Weak Signal Propagation Reporter
+Icon=wspr.png
+TryExec=/usr/bin/wspr
+Exec=wspr
+X-DCOP-ServiceType=none
+Categories=Application;HamRadio;
+MimeType=text;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=wspr
+X-AppInstall-Section=aur
+X-Arch-Package=wspr 2.00.r1714-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wspr
+X-Arch-Package-Version=2.00.r1714-2
+X-Arch-Package-Description=Weak Signal Propagation Reporter
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.physics.princeton.edu/pulsar/K1JT/wspr.html
+X-Arch-Package-Votes=0

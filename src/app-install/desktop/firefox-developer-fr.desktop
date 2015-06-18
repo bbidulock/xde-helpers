@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Firefox Developer
+GenericName=Web Browser
+Icon=firefox-developer-icon
+TryExec=/usr/bin/firefox-developer
+Exec=firefox-developer %u
+MultipleArgs=false
+NoDisplay=true
+Categories=Application;Network;
+MimeType=text/html;
+StartupNotify=false
+X-AppInstall-Package=--fr
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=firefox-developer-fr 40.0a2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=--fr
+X-Arch-Package-Version=40.0a2-1
+X-Arch-Package-Description=Standalone web browser from mozilla.org, developer build -
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.mozilla.org/firefox/developer
+X-Arch-Package-Votes=1
+Aliases=firefox-developer;

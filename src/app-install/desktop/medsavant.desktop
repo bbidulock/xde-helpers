@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.2.1
+Type=Application
+Name=MedSavant
+Comment=MedSavant Variant Search Engine
+Icon=medsavant
+TryExec=/usr/bin/medsavant
+Exec=medsavant
+Categories=Science;
+X-AppInstall-Package=medsavant
+X-AppInstall-Section=aur
+X-Arch-Package=medsavant 1.2.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=medsavant
+X-Arch-Package-Version=1.2.2-1
+X-Arch-Package-Description=Search egine for genetic variants.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://genomesavant.com/p/medsavant/index
+X-Arch-Package-Votes=0

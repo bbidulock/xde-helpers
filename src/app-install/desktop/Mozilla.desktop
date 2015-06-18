@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=Webbrowser
+Icon=/opt/gnome/share/dist/icons/galeon.png
+TryExec=/usr/bin/epiphany
+Exec=epiphany
+StartupNotify=true
+X-AppInstall-Package=epiphany
+X-AppInstall-Section=extra
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=epiphany
+X-Arch-Package-Version=3.16.1-1
+X-Arch-Package-Description=A GNOME web browser based on the WebKit rendering engine.
+X-Arch-Package-Groups=gnome
+X-Arch-Package-URL=https://wiki.gnome.org/Apps/Web

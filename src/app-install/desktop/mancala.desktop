@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Mancala
+GenericName=African board game
+Icon=/usr/share/pixmaps/mancala/icon.png
+TryExec=/usr/bin/mancala
+Exec=mancala
+Categories=Game;BoardGame;
+X-AppInstall-Package=mancala
+X-AppInstall-Section=aur
+X-Arch-Package=mancala 0.1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mancala
+X-Arch-Package-Version=0.1.0-1
+X-Arch-Package-Description=Ancient African board game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://cmancala.sourceforge.net/
+X-Arch-Package-Votes=0

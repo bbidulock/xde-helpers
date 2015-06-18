@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=SCHNApps
+Icon=/usr/share/icons/hicolor/scalable/apps/schnapps.svg
+TryExec=/usr/bin/schnapps
+Exec=/usr/bin/schnapps
+X-AppInstall-Package=schnapps
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=schnapps 20130402-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=schnapps
+X-Arch-Package-Version=20130402-1
+X-Arch-Package-Description=SCHNApps is a CGoGN Holder for Nice APPlicationS.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://cgogn.unistra.fr
+X-Arch-Package-Votes=2

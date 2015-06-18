@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Sted2
+Comment=High-performance MIDI sequence editor / Music composer system
+Comment[ja]=高機能な MIDI シーケンスエディタ・ミュージックコンポーザ
+TryExec=/usr/bin/sted2
+Exec=sted2
+Categories=Application;AudioVideo;Audio;Midi;Sequencer;
+MimeType=audio/x-midi;audio/x-rcp;
+StartupNotify=false
+X-AppInstall-Package=sted2
+X-AppInstall-Section=aur
+X-Arch-Package=sted2 20021104-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sted2
+X-Arch-Package-Version=20021104-1
+X-Arch-Package-Description=A high-performance MIDI sequence editor / Music composer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sted2.sourceforge.net/
+X-Arch-Package-Votes=0

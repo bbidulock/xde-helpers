@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Timeline
+GenericName=Timeline
+Comment=Visualize events on a timeline
+Icon=timeline
+TryExec=/usr/bin/timeline
+Exec=timeline
+Categories=Education;Utility;Accessories;
+X-AppInstall-Package=timeline
+X-AppInstall-Popcon=16
+X-AppInstall-Section=aur
+X-Arch-Package=timeline 1.4.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=timeline
+X-Arch-Package-Version=1.4.0-1
+X-Arch-Package-Description=A cross-platform application for displaying and navigating
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://thetimelineproj.sourceforge.net/
+X-Arch-Package-Votes=16

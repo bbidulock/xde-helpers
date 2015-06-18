@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Be The Wumpus
+Comment=A game with no graphics
+Icon=bethewumpus
+TryExec=/usr/bin/bethewumpus
+Exec=bethewumpus
+Categories=Game;AdventureGame;
+X-AppInstall-Package=bethewumpus
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=bethewumpus 0.05-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bethewumpus
+X-Arch-Package-Version=0.05-4
+X-Arch-Package-Description=a game with no graphics, with no text, only audio
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://bethewumpus.sourceforge.net/
+X-Arch-Package-Votes=4

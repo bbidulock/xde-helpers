@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Aardvark Control Center
+Comment=Aardvark GUI Control Center
+Icon=/opt/aardvark-gui/images/tp_48.png
+TryExec=/opt/aardvark-gui/controlctr
+Exec=/opt/aardvark-gui/controlctr
+Categories=Application;Development;GNOME;
+X-AppInstall-Package=aardvark-gui
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=aardvark-gui 3.72-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=aardvark-gui
+X-Arch-Package-Version=3.72-1
+X-Arch-Package-Description=Total Phase Aardvark I2C/SPI Control Center Serial Software
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.totalphase.com
+X-Arch-Package-Votes=1

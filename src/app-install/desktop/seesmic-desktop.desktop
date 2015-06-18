@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Seesmic-Desktop
+Comment=Get live updates from Twitter and Facebook.
+Icon=seesmic-48
+TryExec=/usr/bin/seesmic-desktop
+Exec=seesmic-desktop
+Categories=Network;
+X-AppInstall-Package=seesmic-desktop
+X-AppInstall-Section=aur
+X-Arch-Package=seesmic-desktop 0.8.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=seesmic-desktop
+X-Arch-Package-Version=0.8.1-1
+X-Arch-Package-Description=Get live updates from Twitter and Facebook.
+X-Arch-Package-URL=http://desktop.seesmic.com

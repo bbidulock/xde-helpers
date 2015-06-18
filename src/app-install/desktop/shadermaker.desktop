@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Shader Maker
+Comment=GLSL editor
+Icon=shadermaker.png
+TryExec=/usr/bin/ShaderMaker
+Exec=ShaderMaker
+Categories=Application;Development;IDE;
+StartupNotify=true
+X-AppInstall-Package=shadermaker
+X-AppInstall-Popcon=16
+X-AppInstall-Section=aur
+X-Arch-Package=shadermaker 1.02-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=shadermaker
+X-Arch-Package-Version=1.02-5
+X-Arch-Package-Description=A simple and cross-platform GLSL editor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://cgvr.cs.uni-bremen.de/teaching/shader_maker
+X-Arch-Package-Votes=16

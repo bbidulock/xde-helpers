@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Ynglet
+Comment=Play Ynglet
+Icon=ynglet
+TryExec=/usr/bin/ynglet
+Exec=ynglet
+Categories=AudioVideo;Game;
+StartupNotify=true
+X-AppInstall-Package=ynglet
+X-AppInstall-Section=aur
+X-Arch-Package=ynglet 1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ynglet
+X-Arch-Package-Version=1-2
+X-Arch-Package-Description=Ynglet is a game about swimming inside cubes that are floating
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://nifflas.ni2.se/?page=Miscellaneous
+X-Arch-Package-Votes=0

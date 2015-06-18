@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Publish or Perish
+Comment=Publish or Perish
+Icon=pop
+TryExec=/usr/bin/pop2
+Exec=pop2
+Categories=Application;Office;
+X-AppInstall-Package=pop
+X-AppInstall-Section=aur
+X-Arch-Package=pop 2.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pop
+X-Arch-Package-Version=2.2-1
+X-Arch-Package-Description=Publish or Perish; a tool to retrieve and analyze academic citations
+X-Arch-Package-URL=http://www.harzing.com/pop.htm

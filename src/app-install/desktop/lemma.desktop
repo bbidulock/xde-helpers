@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=0.9a
+Type=Application
+Name=LeMMA
+GenericName=LeMMA musical chords editor
+Comment=A simple GUI front-end for MMA (Musical MIDI Accompaniment).
+Icon=lemma
+TryExec=/usr/bin/lemma
+Exec=lemma
+Categories=AudioVideo;Education;Music;
+X-AppInstall-Package=lemma
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=lemma 0.9a-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lemma
+X-Arch-Package-Version=0.9a-3
+X-Arch-Package-Description=A simple GUI front-end written in Python for MMA (Musical MIDI
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://welltemperedstudio.wordpress.com/code/lemma/
+X-Arch-Package-Votes=3

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Costume Quest
+GenericName=Costume Quest
+Comment=Halloween themed 3D action adventure
+Icon=/opt/costume-quest/CostumeQuest.png
+TryExec=/usr/bin/costume-quest
+Exec=/usr/bin/costume-quest
+NoDisplay=true
+Categories=Game;
+Path=/opt/costume-quest
+X-AppInstall-Package=costume-quest-hib
+X-AppInstall-Section=aur
+X-Arch-Package=costume-quest-hib 2013_06_04-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=costume-quest-hib
+X-Arch-Package-Version=2013_06_04-1
+X-Arch-Package-Description=A halloween themed 3D action adventure (Humble Bundle)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.doublefine.com/
+X-Arch-Package-Votes=0
+Aliases=costume-quest;

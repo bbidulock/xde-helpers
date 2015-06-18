@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=PARPG
+Icon=parpg
+TryExec=/usr/bin/parpg
+Exec=parpg
+Categories=Application;Game;
+X-Desktop-File-Install-Version=1.0
+X-AppInstall-Package=parpg-hg
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=parpg-hg 26-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=parpg-hg
+X-Arch-Package-Version=26-1
+X-Arch-Package-Description=Post-Apocalyptic Roleplaying Game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.parpg.net/
+X-Arch-Package-Votes=2

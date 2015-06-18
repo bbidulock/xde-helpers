@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Transformice
+Icon=transformice.png
+TryExec=/usr/bin/transformice
+Exec=transformice
+Categories=Game;GTK;
+X-AppInstall-Package=transformice
+X-AppInstall-Section=aur
+X-Arch-Package=transformice 1.79-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=transformice
+X-Arch-Package-Version=1.79-1
+X-Arch-Package-Description=Transformice is a multiplayer game, where you are a small
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.transformice.com/
+X-Arch-Package-Votes=0

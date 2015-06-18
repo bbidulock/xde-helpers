@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Mythruna
+GenericName=A Role Crafting Game
+Comment=Mythruna
+Icon=/usr/share/pixmaps/mythruna.png
+TryExec=/usr/bin/mythruna
+Exec=mythruna
+Categories=Game;
+X-AppInstall-Package=mythruna
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=mythruna 20120627-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mythruna
+X-Arch-Package-Version=20120627-2
+X-Arch-Package-Description=A role-crafting game - What will your story be?
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://mythruna.com
+X-Arch-Package-Votes=1

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=gtaskmanager
+GenericName=Task Manager
+Comment=Small and easy to use task manager
+Icon=utilities-system-monitor
+TryExec=/usr/bin/gtaskmanager
+Exec=gtaskmanager
+Categories=System;Utility;
+StartupNotify=true
+X-AppInstall-Package=gtaskmanager
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=gtaskmanager 0.1-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gtaskmanager
+X-Arch-Package-Version=0.1-3
+X-Arch-Package-Description=Small task manager for GTK+, fork of xfce4-taskmanager without
+X-Arch-Package-Groups=system
+X-Arch-Package-URL=http://oliwer.net/b/gtaskmanager.html
+X-Arch-Package-Votes=7

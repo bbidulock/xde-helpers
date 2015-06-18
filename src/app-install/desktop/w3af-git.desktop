@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=w3af
+GenericName=w3af
+Icon=/usr/share/w3af/core/ui/gui/data/w3af_icon.png
+TryExec=/usr/bin/w3af-gui
+Exec=/usr/bin/w3af-gui
+MultipleArgs=false
+NoDisplay=true
+Categories=Application;Network;
+StartupNotify=false
+X-AppInstall-Package=w3af-git
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=w3af-git 1.6.46.14017.4e045fd-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=w3af-git
+X-Arch-Package-Version=1.6.46.14017.4e045fd-2
+X-Arch-Package-Description=Web Application Attack and Audit Framework
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://w3af.org/
+X-Arch-Package-Votes=9
+Aliases=w3af;

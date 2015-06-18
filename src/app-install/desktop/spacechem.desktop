@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=SpaceChem
+GenericName=Arcade Game
+Comment=an obscenely addictive, design-based puzzle game about building machines and fighting monsters in the name of science!
+Icon=/opt/spacechem/images/spacechem.png
+TryExec=/usr/bin/spacechem
+Exec=spacechem
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=spacechem
+X-AppInstall-Popcon=24
+X-AppInstall-Section=aur
+X-Arch-Package=spacechem 1012-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=spacechem
+X-Arch-Package-Version=1012-2
+X-Arch-Package-Description=an obscenely addictive, design-based puzzle game about
+X-Arch-Package-Groups=humblefsbundle humblebundles
+X-Arch-Package-URL=http://www.gameolith.com/game/spacechem/
+X-Arch-Package-Votes=24

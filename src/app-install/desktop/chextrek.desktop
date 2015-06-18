@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Chex Trek
+Comment=Green slimeball first-person shooter
+TryExec=/usr/bin/chextrek
+Exec=/usr/bin/chextrek
+Categories=Application;Game;
+StartupNotify=false
+X-AppInstall-Package=chextrek
+X-AppInstall-Section=aur
+X-Arch-Package=chextrek 0.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=chextrek
+X-Arch-Package-Version=0.5-1
+X-Arch-Package-Description=Chex Quest-inspired mod for Doom 3
+X-Arch-Package-URL=http://xv15mods.com/hosted/chextrek/portal.php

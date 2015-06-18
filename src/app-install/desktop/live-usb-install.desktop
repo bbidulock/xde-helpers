@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=LiveUSB Install
+GenericName=LiveUSB Install
+GenericName[en_US]=LiveUSB Install
+Comment=Tool for creating Live USB drives
+Icon=live-usb-install
+TryExec=/usr/bin/gksu
+Exec=gksu python2 /usr/share/live-usb-install/live-usb-install.py
+Categories=Application;System;
+X-AppInstall-Package=live-usb-install
+X-AppInstall-Popcon=65
+X-AppInstall-Section=aur
+X-Arch-Package=live-usb-install 2.5.9-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=live-usb-install
+X-Arch-Package-Version=2.5.9-1
+X-Arch-Package-Description=LiveUSB Install - Create bootable usb sticks from a wide range
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://live.learnfree.eu
+X-Arch-Package-Votes=65

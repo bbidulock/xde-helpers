@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Potato
+Comment=MU* Client
+Icon=potato
+Icon[en_US]=potato
+TryExec=/usr/bin/potato
+Exec=potato
+Categories=Game;
+StartupNotify=false
+StartupWMClass=Main.tcl
+X-AppInstall-Package=potato-svn
+X-AppInstall-Section=aur
+X-Arch-Package=potato-svn 670-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=potato-svn
+X-Arch-Package-Version=670-2
+X-Arch-Package-Description=Potato is a MUSH/MU* Client for Microsoft Windows, Linux and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.potatomushclient.com/
+X-Arch-Package-Votes=0

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Amphetype
+GenericName=Touch Typing Tutor
+TryExec=/usr/bin/amphetype
+Exec=amphetype
+NoDisplay=true
+Categories=Education;Qt;
+X-AppInstall-Package=amphetype-svn
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=amphetype-svn 27-7
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=amphetype-svn
+X-Arch-Package-Version=27-7
+X-Arch-Package-Description=A layout-agnostic typing program aimed at people who don't
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/amphetype/
+X-Arch-Package-Votes=5
+Aliases=amphetype;

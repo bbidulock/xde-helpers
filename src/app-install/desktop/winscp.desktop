@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=WinSCP
+GenericName=SFTP, SCP and FTP client
+GenericName[cs]=SFTP, SCP a FTP klient
+Comment=safe copying of files between a local and a remote computer
+Comment[cs]=bezpečné kopírování souboru mezi místním a vzdáleným počítačem
+Icon=winscp
+TryExec=/usr/bin/winscp
+Exec=winscp
+X-MultipleArgs=false
+Categories=Network;
+StartupNotify=true
+X-AppInstall-Package=winscp
+X-AppInstall-Popcon=15
+X-AppInstall-Section=aur
+X-Arch-Package=winscp 5.5.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=winscp
+X-Arch-Package-Version=5.5.6-1
+X-Arch-Package-Description=Free SFTP, SCP and FTP client for Wine
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://winscp.net/
+X-Arch-Package-Votes=15

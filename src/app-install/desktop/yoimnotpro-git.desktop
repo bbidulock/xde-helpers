@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Yo I'm Not Pro
+GenericName=App Center
+Icon=/usr/share/pixmaps/yoimnotpro.png
+TryExec=/usr/bin/yoimnotpro
+Exec=yoimnotpro
+NoDisplay=true
+Categories=Application;Utility;
+X-AppInstall-Package=yoimnotpro-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=yoimnotpro-git 16.92da7ca-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=yoimnotpro-git
+X-Arch-Package-Version=16.92da7ca-1
+X-Arch-Package-Description=Small archlinux app center.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/wifiextender/yoimnotpro/
+X-Arch-Package-Votes=1
+Aliases=yoimnotpro;

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=NetBeans IDE
+Comment=Quickly and easily develop desktop, mobile and web applications with Java, PHP, C/C++ and more.
+Icon=/usr/share/netbeans/nb/netbeans.png
+TryExec=/usr/bin/netbeans
+Exec=netbeans
+NoDisplay=true
+Categories=Development;
+StartupNotify=true
+X-AppInstall-Package=netbeans-ide-ru
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=netbeans-ide-ru 7.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=netbeans-ide-ru
+X-Arch-Package-Version=7.3-1
+X-Arch-Package-Description=Netbeans IDE development platform.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.netbeans.org
+X-Arch-Package-Votes=4
+Aliases=netbeans;

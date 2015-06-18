@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Little Polish
+GenericName=classic checkers
+Comment=Play the Brazilian (classics, 8x8 with international rules) checkers
+Icon=little-polish.png
+TryExec=/usr/bin/little-polish
+Exec=little-polish
+Terminal=False
+Categories=Application;Game;BoardGame;
+X-AppInstall-Package=little-polish
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=little-polish 0.7-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=little-polish
+X-Arch-Package-Version=0.7-2
+X-Arch-Package-Description=program (game) which plays Brazilian (classics, 8x8 with
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://warcaby.w8.pl/
+X-Arch-Package-Votes=2

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=PARPG
+Icon=parpg
+TryExec=/usr/bin/parpg
+Exec=parpg
+NoDisplay=true
+Categories=Application;Game;
+X-Desktop-File-Install-Version=1.0
+X-AppInstall-Package=parpg-svn
+X-AppInstall-Section=aur
+X-Arch-Package=parpg-svn 513-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=parpg-svn
+X-Arch-Package-Version=513-1
+X-Arch-Package-Description=Post-Apocalyptic Roleplaying Game
+X-Arch-Package-URL=http://www.parpg.net/
+Aliases=parpg;

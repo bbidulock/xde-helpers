@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Maperitive
+GenericName=Map Renderer
+Comment=A proprietary OSM Renderer
+Icon=maperitive
+TryExec=/usr/bin/maperitive-bin
+Exec=maperitive-bin %U
+NoDisplay=true
+Categories=Graphics;Geography;
+MimeType=application/x-mscript;
+X-AppInstall-Package=maperitive-bin
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=maperitive-bin 2.3.33-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=maperitive-bin
+X-Arch-Package-Version=2.3.33-2
+X-Arch-Package-Description=Maperitive is a (Non)FREE desktop application for drawing maps
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://maperitive.net/
+X-Arch-Package-Votes=1
+Aliases=maperitive;

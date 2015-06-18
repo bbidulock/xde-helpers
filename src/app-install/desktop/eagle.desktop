@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=EAGLE Light Edition
+Icon=eagle.png
+TryExec=/usr/bin/eagle
+Exec=eagle %U
+Categories=Development;
+MimeType=application/x-eagle-schematic;application/x-eagle-board;application/x-eagle-project;application/x-eagle-library;
+X-AppInstall-Package=eagle
+X-AppInstall-Popcon=207
+X-AppInstall-Section=aur
+X-Arch-Package=eagle 7.3.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=eagle
+X-Arch-Package-Version=7.3.0-1
+X-Arch-Package-Description=A powerful suite for schematic capture and printed circuit
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.cadsoft.de/
+X-Arch-Package-Votes=207

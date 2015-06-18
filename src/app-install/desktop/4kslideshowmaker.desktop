@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=4K Slideshow Maker
+GenericName=4K Slideshow Maker
+Comment=Create impressive slideshows, save your memories
+Icon=4kslideshowmaker.png
+TryExec=/usr/bin/4kslideshowmaker
+Exec=4kslideshowmaker
+Categories=Qt;Multimedia;
+X-AppInstall-Package=4kslideshowmaker
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=4kslideshowmaker 1.5.6.903-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=4kslideshowmaker
+X-Arch-Package-Version=1.5.6.903-2
+X-Arch-Package-Description=A straightforward and easy-to-use app to create slideshows
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.4kdownload.com/products/product-slideshowmaker
+X-Arch-Package-Votes=5

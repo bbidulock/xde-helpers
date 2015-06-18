@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=AeroFS
+Comment=Secure File Sync
+Icon=aerofs
+TryExec=/usr/bin/aerofs
+Exec=aerofs %U
+Categories=Application;Network;FileTransfer;
+StartupNotify=false
+X-AppInstall-Package=aerofs
+X-AppInstall-Popcon=26
+X-AppInstall-Section=aur
+X-Arch-Package=aerofs 0.8.91-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=aerofs
+X-Arch-Package-Version=0.8.91-1
+X-Arch-Package-Description=Synchronize your files without servers and build private cloud
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://www.aerofs.com
+X-Arch-Package-Votes=26

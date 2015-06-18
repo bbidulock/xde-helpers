@@ -1,0 +1,25 @@
+[Desktop Entry]
+Version=5.0.0
+Type=Application
+Name=MKV Extractor Qt
+GenericName=GUI for mkvextract
+GenericName[fr]=GUI pour mkvextract
+Comment=Extractor track from mkv files
+Comment[fr]=Extracteur de piste depuis des fichiers mkv
+Icon=mkv-extractor-qt
+TryExec=/usr/bin/mkv-extractor-qt
+Exec=mkv-extractor-qt
+Categories=AudioVideo;Video;
+MimeType=video/x-matroska;audio/x-matroska;application/x-matroska;
+StartupNotify=true
+X-AppInstall-Package=mkv-extractor-qt
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=mkv-extractor-qt 5.1.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mkv-extractor-qt
+X-Arch-Package-Version=5.1.1-2
+X-Arch-Package-Description=GUI for extract files from .mkv
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://hizo.fr/linux/mkv_extractor_gui
+X-Arch-Package-Votes=10

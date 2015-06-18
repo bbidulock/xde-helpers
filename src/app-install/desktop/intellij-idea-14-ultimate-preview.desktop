@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=IntelliJ IDEA 14 Ultimate Edition Preview
+Comment=Intelligent Java IDE
+Icon=intellij-idea-14-ultimate-preview
+TryExec=/usr/bin/intellij-idea-14-ultimate-preview
+Exec=intellij-idea-14-ultimate-preview %u
+Categories=Development;IDE;Java;
+StartupWMClass=jetbrains-idea
+X-AppInstall-Package=intellij-idea-14-ultimate-preview
+X-AppInstall-Section=aur
+X-Arch-Package=intellij-idea-14-ultimate-preview 139.222.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=intellij-idea-14-ultimate-preview
+X-Arch-Package-Version=139.222.5-1
+X-Arch-Package-Description=A preview version of IntelliJ IDEA 14 - An advanced IDE for Java, Groovy, and much more
+X-Arch-Package-URL=http://www.jetbrains.com/idea/

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Pida
+Comment=Python Integrated Development Application
+Icon=pida
+TryExec=/usr/bin/pida
+Exec=pida %F
+NoDisplay=true
+Categories=Application;Development;IDE;
+X-AppInstall-Package=pida-hg
+X-AppInstall-Popcon=12
+X-AppInstall-Section=aur
+X-Arch-Package=pida-hg 2920.41a69928dc55-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pida-hg
+X-Arch-Package-Version=2920.41a69928dc55-3
+X-Arch-Package-Description=Python Integrated Development Application
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pida.co.uk/
+X-Arch-Package-Votes=12
+Aliases=pida;

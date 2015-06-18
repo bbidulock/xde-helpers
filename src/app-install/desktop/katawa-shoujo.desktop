@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.2
+Type=Application
+Name=Katawa Shoujo
+Comment=Bishoujo-style visual novel game that tells a story of a young man and five other girls suffering with varying disabilities
+Icon=katawa-shoujo.png
+TryExec=/usr/bin/katawa-shoujo
+Exec=/usr/bin/katawa-shoujo
+Categories=Application;Game;
+X-AppInstall-Package=katawa-shoujo
+X-AppInstall-Popcon=29
+X-AppInstall-Section=aur
+X-Arch-Package=katawa-shoujo 1.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=katawa-shoujo
+X-Arch-Package-Version=1.2-1
+X-Arch-Package-Description=Bishoujo-style visual novel game that tells a story of a young
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://katawa-shoujo.com/
+X-Arch-Package-Votes=29

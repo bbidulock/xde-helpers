@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=FreeMind
+GenericName=FreeMind
+Comment=A free mind mapping tool
+Icon=freemind
+TryExec=/usr/bin/freemind
+Exec=freemind
+Categories=Application;Office;
+MimeType=application/x-freemind;
+X-AppInstall-Package=freemind-git
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=freemind-git 20121104-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=freemind-git
+X-Arch-Package-Version=20121104-1
+X-Arch-Package-Description=Free mind-mapping software written in Java - git sources
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://freemind.sourceforge.net/wiki/index.php/Main_Page
+X-Arch-Package-Votes=2

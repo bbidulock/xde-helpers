@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Magic Maze
+Comment=A simple monster-bashing maze game
+Icon=magicmaze
+TryExec=/usr/bin/magicmaze
+Exec=magicmaze
+Categories=Game;AdventureGame;
+X-AppInstall-Package=magicmaze
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=magicmaze 1.4.3.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=magicmaze
+X-Arch-Package-Version=1.4.3.6-1
+X-Arch-Package-Description=A low-tech, top-down, monster-bashing maze game inspired by
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://magicmaze.rubyforge.org/
+X-Arch-Package-Votes=1

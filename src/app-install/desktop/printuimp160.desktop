@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Canon MP160 printer
+Name[fr]=Imprimante Canon MP160
+Comment=Configure Canon MP160 printer
+Comment[fr]=Configurer l'imprimante Canon MP160
+Icon=printer
+TryExec=/usr/bin/printuimp160
+Exec=printuimp160
+Categories=System;GTK;
+StartupNotify=true
+X-AppInstall-Package=cnijfilter-mp160
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=cnijfilter-mp160 2.70-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cnijfilter-mp160
+X-Arch-Package-Version=2.70-1
+X-Arch-Package-Description=Canon IJ Printer Driver for Pixma MP160 multifunction
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://support-au.canon.com.au/contents/AU/EN/0900718516.html
+X-Arch-Package-Votes=2

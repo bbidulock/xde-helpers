@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Dream Journal
+Comment=Record your dreams and improve dream recall to learn lucid dreaming
+Comment[de_DE]=Träume aufzeichen, um die Traumerinnerung zu verbessern und Klarträumen zu erlernen
+Icon=/usr/share/pixmaps/dreamjournal.png
+TryExec=/usr/bin/mono
+Exec=mono /usr/lib/dreamjournal/dreamjournal.exe
+Terminal=False
+Categories=Application;Education;
+StartupNotify=True
+X-AppInstall-Package=dreamjournal
+X-AppInstall-Section=aur
+X-Arch-Package=dreamjournal 2.5-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dreamjournal
+X-Arch-Package-Version=2.5-2
+X-Arch-Package-Description=program for recording dreams and improving dream recall
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.banhurt.com/dreamjournal/
+X-Arch-Package-Votes=0

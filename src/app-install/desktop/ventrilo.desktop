@@ -1,0 +1,18 @@
+[Desktop Entry]
+Version=3.0.5
+Type=Application
+Name=Ventrilo
+Comment=VOIP client
+Icon=/usr/share/pixmaps/ventrilo.png
+TryExec=/usr/bin/ventrilo
+Exec=/usr/bin/ventrilo
+Categories=Application;Network;
+StartupNotify=false
+X-AppInstall-Package=ventrilo
+X-AppInstall-Section=aur
+X-Arch-Package=ventrilo 3.0.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ventrilo
+X-Arch-Package-Version=3.0.5-1
+X-Arch-Package-Description=voice comm for games and group discussions
+X-Arch-Package-URL=http://www.ventrilo.com/

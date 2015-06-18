@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Mediathek
+GenericName=Mediathek
+Comment=Access to the Mediathek of different tv stations
+Comment[de]=Durchsucht die Online-Mediatheken verschiedener Sender
+Icon=MediathekView
+TryExec=/usr/bin/mediathek
+Exec=mediathek
+Categories=AudioVideo;
+StartupNotify=true
+X-AppInstall-Package=mediathek
+X-AppInstall-Popcon=109
+X-AppInstall-Section=aur
+X-Arch-Package=mediathek 9-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mediathek
+X-Arch-Package-Version=9-1
+X-Arch-Package-Description=Offers access to the Mediathek of different tv stations (ARD,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://zdfmediathk.sourceforge.net
+X-Arch-Package-Votes=109

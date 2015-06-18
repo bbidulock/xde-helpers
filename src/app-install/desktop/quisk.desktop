@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=quisk
+Comment=Software defined radio
+TryExec=/usr/bin/python2
+Exec=python2 /opt/quisk/quisk.py
+X-DCOP-ServiceType=none
+Categories=Application;HamRadio;
+MimeType=text;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=quisk
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=quisk 3.6.22-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=quisk
+X-Arch-Package-Version=3.6.22-1
+X-Arch-Package-Description=Software defined radio (SDR)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://james.ahlstrom.name/quisk/
+X-Arch-Package-Votes=8

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Checkersland
+GenericName=Checkers game
+Icon=/usr/share/pixmaps/checkersland.jpeg
+TryExec=/usr/bin/checkersland
+Exec=checkersland
+Categories=Game;BoardGame;
+X-AppInstall-Package=checkersland
+X-AppInstall-Section=aur
+X-Arch-Package=checkersland 4.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=checkersland
+X-Arch-Package-Version=4.4-1
+X-Arch-Package-Description=Сheckers program with 31 variants for playing with computer or
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.checkersland.com/download/pc.jsp
+X-Arch-Package-Votes=0

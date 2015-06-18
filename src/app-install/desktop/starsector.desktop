@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Starsector
+GenericName=Starsector
+Comment=A single-player sandbox style space role-playing game with strategic elements
+Icon=/usr/share/starsector/graphics/ui/s_icon64.png
+TryExec=/usr/bin/starsector
+Exec=starsector
+Categories=Game;
+X-AppInstall-Package=starsector
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=starsector 0.65.2a_RC2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=starsector
+X-Arch-Package-Version=0.65.2a_RC2-1
+X-Arch-Package-Description=A single-player sandbox style space role-playing game with
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://fractalsoftworks.com/
+X-Arch-Package-Votes=6

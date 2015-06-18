@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1
+Type=Application
+Name=Fall of Imiryn
+GenericName=A classic role-playing style game of three aspiring young warriors.
+Icon=fallofimiryn.png
+TryExec=/usr/bin/fallofimiryn
+Exec=fallofimiryn
+Categories=Game;
+X-AppInstall-Package=fall-of-imiryn-svn
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=fall-of-imiryn-svn 940-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fall-of-imiryn-svn
+X-Arch-Package-Version=940-2
+X-Arch-Package-Description=A classic role-playing style game of three aspiring young
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://annchienta.sf.net/?page=fall_of_imiryn
+X-Arch-Package-Votes=7

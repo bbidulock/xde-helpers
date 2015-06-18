@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Facebook Qt
+GenericName=Facebook Qt
+Icon=facebook-qt
+TryExec=/usr/bin/facebook-qt
+Exec=/usr/bin/facebook-qt %u
+Categories=Network;QT;
+X-AppInstall-Package=facebook-qt
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package=facebook-qt LATEST-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=facebook-qt
+X-Arch-Package-Version=LATEST-3
+X-Arch-Package-Description=‘Facebook Qt’ is the latest attempt at marrying the web’s most
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/TamCore/facebook-qt
+X-Arch-Package-Votes=11

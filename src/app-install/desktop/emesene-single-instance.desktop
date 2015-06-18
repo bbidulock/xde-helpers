@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=emesene (single)
+GenericName=emesene-single
+Comment=Opens running emesene instead of starting a new one
+Icon=emesene
+TryExec=/usr/bin/emesene
+Exec=emesene -s
+NoDisplay=true
+Categories=Network;InstantMessaging;
+X-AppInstall-Package=emesene-single-instance
+X-AppInstall-Section=aur
+X-Arch-Package=emesene-single-instance 1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=emesene-single-instance
+X-Arch-Package-Version=1.0-1
+X-Arch-Package-Description=Adds a launcher that opens a running instance of emesene
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://blog.emesene.org
+X-Arch-Package-Votes=0
+Aliases=emesene-single;

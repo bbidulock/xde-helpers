@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Xastir with Speech
+Comment=Full featured APRS client
+Icon=xastir.png
+TryExec=/usr/bin/xastir-speech
+Exec=xastir-speech
+X-DCOP-ServiceType=none
+Categories=Application;HamRadio;
+MimeType=text;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=xastir
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=xastir 2.0.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xastir
+X-Arch-Package-Version=2.0.6-1
+X-Arch-Package-Description=Full featured APRS Tracking/Information Reporting System
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.xastir.org/
+X-Arch-Package-Votes=9

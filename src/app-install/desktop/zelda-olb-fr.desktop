@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=ZeldaOLB
+Comment=Second Game in a trilogy of fan made Zelda Games
+Comment[fr]=Deuxième jeu dans une trilogie de jeu Zelda fait par des fans
+Icon=zelda-olb.png
+TryExec=/usr/bin/zelda-olb
+Exec=zelda-olb
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=zelda-olb-fr
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=zelda-olb-fr 3.6-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zelda-olb-fr
+X-Arch-Package-Version=3.6-4
+X-Arch-Package-Description=Zelda: Oni Link Begins is the sequel of Zelda: Return of the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.zeldaroth.fr/
+X-Arch-Package-Votes=2
+Aliases=zelda-olb;
+GeneralName=Zelda: Oni Link Begins

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Soundbounce
+GenericName=Social listening for Spotify
+Icon=/opt/soundbounce/soundbounce.png
+TryExec=/usr/bin/soundbounce
+Exec=soundbounce %U
+Categories=AudioVideo;Player;
+Keywords=Music;Spotify;
+X-AppInstall-Package=soundbounce-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=soundbounce-git 20150110-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=soundbounce-git
+X-Arch-Package-Version=20150110-1
+X-Arch-Package-Description=Social listening for Spotify
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/pdaddyo/soundbounce
+X-Arch-Package-Votes=1

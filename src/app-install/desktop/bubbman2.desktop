@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Bubbman 2
+GenericName=Bubbman 2
+Comment=An Adventure Island style platformer
+Icon=/usr/share/bubbman2/data/cherry.png
+TryExec=/usr/bin/bubbman2.sh
+Exec=/usr/bin/bubbman2.sh
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=bubbman2
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=bubbman2 DX-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bubbman2
+X-Arch-Package-Version=DX-3
+X-Arch-Package-Description=An Adventure Island style platformer made for PyWeek #8
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.pygame.org/project/1114/?release_id=2054
+X-Arch-Package-Votes=3

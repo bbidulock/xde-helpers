@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Cogs
+Icon=cogs
+TryExec=/opt/cogs/Cogs
+Exec=/opt/cogs/Cogs
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=cogs
+X-AppInstall-Popcon=26
+X-AppInstall-Section=aur
+X-Arch-Package=cogs 4-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cogs
+X-Arch-Package-Version=4-2
+X-Arch-Package-Description=A game in which you build machines from sliding tiles
+X-Arch-Package-Groups=humblebundle3 humblebundle4 humblebundles
+X-Arch-Package-URL=http://www.cogsgame.com/
+X-Arch-Package-Votes=26

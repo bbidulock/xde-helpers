@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1
+Type=Application
+Name=Trauma
+Comment=Dive into the mind of a traumatized young woman to learn and understand.
+Icon=/usr/share/icons/trauma.png
+TryExec=/usr/bin/trauma
+Exec=/usr/bin/trauma
+Categories=Game;
+X-AppInstall-Package=trauma
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=trauma 3-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=trauma
+X-Arch-Package-Version=3-4
+X-Arch-Package-Description=TRAUMA is a unique photographic experience by game designer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.traumagame.com/
+X-Arch-Package-Votes=9

@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=SerpTrain
+Icon=/usr/share/pixmaps/serptrain/TrainVonKatrin.png
+TryExec=/usr/bin/serptrain
+Exec=serptrain
+Categories=Application;Game;
+X-AppInstall-Package=serptrain
+X-AppInstall-Section=aur
+X-Arch-Package=serptrain 0.6.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=serptrain
+X-Arch-Package-Version=0.6.0-1
+X-Arch-Package-Description=A puzzle game.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://serptrain.serpedon.de/
+X-Arch-Package-Votes=0

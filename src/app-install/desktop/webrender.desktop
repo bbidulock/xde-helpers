@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Webrender
+Comment=Qt4 web browser
+Icon=webrender
+TryExec=/usr/bin/webrender
+Exec=webrender
+Categories=Application;Network;WebBrowser;Qt;
+X-AppInstall-Package=webrender
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=webrender 1.0RC-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=webrender
+X-Arch-Package-Version=1.0RC-1
+X-Arch-Package-Description=WebRender is very simple, fast web browser based on Qt and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://webrender.99k.org/
+X-Arch-Package-Votes=2

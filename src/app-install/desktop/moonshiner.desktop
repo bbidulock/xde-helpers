@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Moonshiner
+GenericName=PS-to-PDF converter
+Comment=Convert PostScript files to PDF documents using a graphical interface
+Icon=moonshiner
+TryExec=/usr/bin/moonshiner
+Exec=moonshiner
+Categories=Graphics;Publishing;GTK;
+X-AppInstall-Package=moonshiner
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=moonshiner 1.0-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=moonshiner
+X-Arch-Package-Version=1.0-4
+X-Arch-Package-Description=A graphical frontend for Ghostscript's PostScript-to-PDF
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://moonshiner.sourceforge.net/
+X-Arch-Package-Votes=9

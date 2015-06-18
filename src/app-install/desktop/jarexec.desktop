@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Java Runtime
+Comment=Java Runtime Jar Executor
+Icon=javaws
+TryExec=/usr/lib/jvm/java-default-runtime/jre/bin/java
+Exec=/usr/lib/jvm/java-default-runtime/jre/bin/java -jar %f
+NoDisplay=true
+Categories=Utility;
+MimeType=application/x-java-archive;application/java-archive;application/x-jar;
+X-AppInstall-Package=jarexec
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=jarexec 2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jarexec
+X-Arch-Package-Version=2-1
+X-Arch-Package-Description=A desktop entry to run executable jar archives.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://aur.archlinux.org/packages/jarexec/
+X-Arch-Package-Votes=1

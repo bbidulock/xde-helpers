@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Wolfenstein 3D
+Comment=Cult 1992 first person shooter
+Icon=wolfenstein3d.png
+TryExec=/opt/wolfenstein3d/runme
+Exec=/opt/wolfenstein3d/runme
+Categories=Game;
+X-AppInstall-Package=wolfenstein3d
+X-AppInstall-Popcon=15
+X-AppInstall-Section=aur
+X-Arch-Package=wolfenstein3d 1.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wolfenstein3d
+X-Arch-Package-Version=1.4-1
+X-Arch-Package-Description=Wolfenstein 3D, cult first person shooter video game from id
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.idsoftware.com/games/wolfenstein/wolf3d/
+X-Arch-Package-Votes=15

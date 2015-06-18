@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=CoffeeCoin
+Comment=CoffeeCoin P2P Cryptocurrency
+Icon=/usr/share/pixmaps/coffeecoin.png
+TryExec=/usr/bin/coffeecoin-qt
+Exec=/usr/bin/coffeecoin-qt
+Categories=Network;
+MimeType=x-scheme-handler/coffeecoin;
+X-AppInstall-Package=coffeecoin-qt
+X-AppInstall-Section=aur
+X-Arch-Package=coffeecoin-qt 0.7.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=coffeecoin-qt
+X-Arch-Package-Version=0.7.2-2
+X-Arch-Package-Description=Cryptocurrency
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://bitcointalk.org/index.php?topic=596562.0
+X-Arch-Package-Votes=0

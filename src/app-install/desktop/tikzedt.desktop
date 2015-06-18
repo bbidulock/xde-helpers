@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=TikzEdt
+Comment=Semigraphical TikZ editor
+Icon=tikzedt
+TryExec=/usr/bin/tikzedt
+Exec=tikzedt
+Categories=Graphics;
+X-AppInstall-Package=tikzedt
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=tikzedt 0.2.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tikzedt
+X-Arch-Package-Version=0.2.2-2
+X-Arch-Package-Description=Semigraphical TikZ editor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://tikzedt.org
+X-Arch-Package-Votes=8

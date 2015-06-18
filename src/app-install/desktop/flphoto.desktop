@@ -10,6 +10,7 @@ Categories=Graphics;Photography;
 MimeType=application/x-flphoto;
 Patterns=*.album;
 StartupNotify=false
+X-Desktop-File-Install-Version=0.15
 X-AppInstall-Package=flphoto
 X-AppInstall-Popcon=3
 X-AppInstall-Section=custom

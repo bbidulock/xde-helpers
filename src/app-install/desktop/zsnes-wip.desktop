@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=zsnes
+Comment=Super Nintendo Entertainment System emulator
+Icon=zsnes
+TryExec=/usr/bin/zsnes
+Exec=zsnes
+NoDisplay=true
+Hidden=true
+Categories=Game;2DGraphics;Emulator;
+X-AppInstall-Package=zsnes-wip
+X-AppInstall-Section=aur
+X-Arch-Package=zsnes-wip 1112-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zsnes-wip
+X-Arch-Package-Version=1112-3
+X-Arch-Package-Description=A Super Nintendo emulator (WIP version)
+X-Arch-Package-URL=http://zsnes.ipherswipsite.com/
+Aliases=zsnes;

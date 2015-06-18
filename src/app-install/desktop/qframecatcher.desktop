@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=QFrameCatcher
+GenericName=Frame Capture
+Comment=Captures frames from a video file and saves these frames as thumbnails in a single image file or inside a folder
+Icon=qframecatcher.xpm
+TryExec=/usr/bin/qframecatcher
+Exec=qframecatcher
+Categories=AudioVideo;Qt;
+X-AppInstall-Package=qframecatcher
+X-AppInstall-Section=aur
+X-Arch-Package=qframecatcher 0.4.1-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qframecatcher
+X-Arch-Package-Version=0.4.1-3
+X-Arch-Package-Description=An application that captures frames from a video file and saves these frames as thumbnails
+X-Arch-Package-URL=http://www.kde-apps.org/content/show.php?content=37163

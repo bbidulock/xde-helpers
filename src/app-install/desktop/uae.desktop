@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=UAE Amiga Emulator
+Icon=/usr/share/uae/uae.png
+TryExec=/usr/bin/uae
+Exec=uae
+Categories=Emulator;
+X-AppInstall-Package=uae
+X-AppInstall-Section=aur
+X-Arch-Package=uae 0.8.29-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=uae
+X-Arch-Package-Version=0.8.29-4
+X-Arch-Package-Description=The Ubiquitous Amiga Emulator.
+X-Arch-Package-URL=http://uae.coresystems.de/

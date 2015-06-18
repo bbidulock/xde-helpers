@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Sigram
+Comment=A different telegram client from Sialan.labs
+Icon=/opt/sigram/icons/icon.png
+TryExec=/opt/sigram/Sigram
+Exec=/opt/sigram/Sigram
+Categories=Network;
+X-AppInstall-Package=sigram-bin
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=sigram-bin 0.7.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sigram-bin
+X-Arch-Package-Version=0.7.1-1
+X-Arch-Package-Description=A different telegram client from Sialan.labs
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://labs.sialan.org/projects/sigram
+X-Arch-Package-Votes=1

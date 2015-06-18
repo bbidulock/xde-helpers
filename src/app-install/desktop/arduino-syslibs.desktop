@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Arduino
+GenericName=Arduino IDE
+Comment=The open-source Arduino environment
+Icon=arduino
+TryExec=/usr/bin/arduino
+Exec=arduino
+NoDisplay=true
+Categories=Application;Development;IDE;KDE;Qt;
+X-AppInstall-Package=arduino-syslibs
+X-AppInstall-Section=aur
+X-Arch-Package=arduino-syslibs 0022-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=arduino-syslibs
+X-Arch-Package-Version=0022-1
+X-Arch-Package-Description=Arduino SDK (depends on external avrdude and librxtx)
+X-Arch-Package-URL=http://arduino.cc/en/Main/Software
+Aliases=arduino;

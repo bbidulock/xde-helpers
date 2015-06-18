@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Thunderbird (ESR)
+GenericName=Mail Client & News Reader (ESR)
+Comment=Mail & News Reader (ESR)
+Icon=thunderbird-esr
+TryExec=/usr/bin/thunderbird-esr
+Exec=thunderbird-esr %u
+Categories=Network;Email;
+MimeType=message/rfc822;x-scheme-handler/mailto;
+StartupNotify=true
+X-AppInstall-Package=thunderbird-esr-bin-de
+X-AppInstall-Section=aur
+X-Arch-Package=thunderbird-esr-bin-de 10.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=thunderbird-esr-bin-de
+X-Arch-Package-Version=10.0-1
+X-Arch-Package-Description=Standalone Mail/News reader – Extended Support Release – German
+X-Arch-Package-URL=http://www.mozilla.org/thunderbird

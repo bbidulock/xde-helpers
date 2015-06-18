@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=CryptoEscudo (CESC)
+Comment=A Portuguese cryptocoin for the 21st century with Scrypt POW
+Icon=/usr/share/pixmaps/bitcoin256.png
+TryExec=/usr/bin/cryptoescudo-qt
+Exec=/usr/bin/cryptoescudo-qt
+Categories=Office;
+MimeType=x-scheme-handler/cryptoescudo;
+X-AppInstall-Package=cryptoescudo
+X-AppInstall-Section=aur
+X-Arch-Package=cryptoescudo 1.0.3.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cryptoescudo
+X-Arch-Package-Version=1.0.3.0-1
+X-Arch-Package-Description=A Portuguese cryptocoin for the 21st century with Scrypt POW
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://cryptoescudo.org/
+X-Arch-Package-Votes=0

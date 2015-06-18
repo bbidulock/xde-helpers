@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Stone Soup
+GenericName=Crawl Stone Soup
+Comment=Community maintained variant of Linley's Dungeon Crawl
+Icon=stone-soup-tile.png
+TryExec=/usr/bin/stone-soup-tiles
+Exec=stone-soup-tiles
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=stone-soup-tile
+X-AppInstall-Section=aur
+X-Arch-Package=stone-soup-tile 0.8.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=stone-soup-tile
+X-Arch-Package-Version=0.8.1-1
+X-Arch-Package-Description=Community maintained variant of Linley's Dungeon Crawl (tile & ncurses version)
+X-Arch-Package-URL=http://crawl.develz.org

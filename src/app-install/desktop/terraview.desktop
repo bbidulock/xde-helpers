@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=terraView
+GenericName="Image Viewer"
+Comment="Terraview is an application for the visualization and analysis of geographic data"
+TryExec=/usr/bin/terraView
+Exec=/usr/bin/terraView
+MultipleArgs=false
+Categories=Application;Science;Viewer;
+X-AppInstall-Package=terraview
+X-AppInstall-Section=aur
+X-Arch-Package=terraview 313-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=terraview
+X-Arch-Package-Version=313-1
+X-Arch-Package-Description=An application for the visualization and analysis of geographic data, based on the terralib geoprocessing library
+X-Arch-Package-URL=http://www.dpi.inpe.br/terraview/index.html

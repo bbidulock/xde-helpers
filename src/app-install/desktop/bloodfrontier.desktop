@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Blood Frontier
+Comment=Single- and multiplayer FPS
+Icon=bloodfrontier.png
+TryExec=/usr/bin/bloodfrontier
+Exec=bloodfrontier
+Categories=Game;ActionGame;
+X-AppInstall-Package=bloodfrontier
+X-AppInstall-Section=aur
+X-Arch-Package=bloodfrontier 0.85-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bloodfrontier
+X-Arch-Package-Version=0.85-2
+X-Arch-Package-Description=A single- and multiplayer FPS based on the Cube 2 (Sauerbraten) engine.
+X-Arch-Package-URL=http://bloodfrontier.com/

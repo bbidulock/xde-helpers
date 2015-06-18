@@ -6,7 +6,6 @@ Comment[it]=Servizi di sessione utente di VirtualBox
 Comment[pl]=Usługi sesji użytkownika VirtualBox
 TryExec=/usr/bin/VBoxClient-all
 Exec=/usr/bin/VBoxClient-all
-StartupNotify=false
 X-KDE-autostart-after=panel
 X-GNOME-Autostart-enabled=true
 X-AppInstall-Package=virtualbox-guest-utils

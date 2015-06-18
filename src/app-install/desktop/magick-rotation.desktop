@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Magick Rotation
+Comment=Rotates your screen magical
+Icon=rotate
+TryExec=/usr/share/magick-rotation/magick-rotation
+Exec=/usr/share/magick-rotation/magick-rotation
+Categories=System;Utility;
+StartupNotify=false
+StartupWMClass=Emacs
+X-AppInstall-Package=magick-rotation
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=magick-rotation 1.6.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=magick-rotation
+X-Arch-Package-Version=1.6.1-1
+X-Arch-Package-Description=An autorate helper for tablet pc's like Lenovo, HP, Dell
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://launchpad.net/magick-rotation/
+X-Arch-Package-Votes=9
+X-GNOME-Autostart-Delay=120

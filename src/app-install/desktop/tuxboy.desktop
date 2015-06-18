@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=TuxBoy
+Comment=GameBoy emulator
+Icon=tuxboy
+TryExec=/usr/bin/tuxboy
+Exec=tuxboy
+Categories=Game;Emulator;
+X-AppInstall-Package=tuxboy
+X-AppInstall-Section=aur
+X-Arch-Package=tuxboy 1.0rc3-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tuxboy
+X-Arch-Package-Version=1.0rc3-4
+X-Arch-Package-Description=An open source GameBoy emulator based on gnuboy
+X-Arch-Package-URL=http://tuxemu.foo.se/

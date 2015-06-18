@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Bitcoin
+GenericName=P2P network based digital currency
+Comment=P2P network based digital currency
+Icon=/usr/share/pixmaps/bitcoin.png
+TryExec=/usr/bin/bitcoin-qt
+Exec=bitcoin-qt
+NoDisplay=true
+Categories=Office;Finance;P2P;
+StartupNotify=true
+X-AppInstall-Package=bitcoin-bin
+X-AppInstall-Section=aur
+X-Arch-Package=bitcoin-bin 0.8.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bitcoin-bin
+X-Arch-Package-Version=0.8.1-1
+X-Arch-Package-Description=Bitcoin is a peer-to-peer network based digital currency (precompiled binary official version, statically linked against libboost)
+X-Arch-Package-URL=http://www.bitcoin.org/
+Aliases=bitcoin;

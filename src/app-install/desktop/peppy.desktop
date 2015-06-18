@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Peppy
+GenericName=Text Editor
+Comment=apProximated Emacs Powered by PYthon
+Icon=peppy
+TryExec=/usr/bin/peppy
+Exec=peppy
+Categories=Utility;TextEditor;
+X-AppInstall-Package=peppy
+X-AppInstall-Popcon=12
+X-AppInstall-Section=aur
+X-Arch-Package=peppy 0.16.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=peppy
+X-Arch-Package-Version=0.16.0-1
+X-Arch-Package-Description=(ap)Proximated (X)Emacs Powered by PYthon
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://peppy.flipturn.org/
+X-Arch-Package-Votes=12

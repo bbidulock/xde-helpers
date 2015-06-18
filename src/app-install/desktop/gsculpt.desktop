@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=gSculpt
+Icon=/usr/share/gSculpt/gsimages/gSculpt_Glass_Master_by_Gary_Rose.png
+TryExec=/usr/bin/gsculpt
+Exec=gsculpt
+Categories=Graphics;3DGraphics;
+X-AppInstall-Package=gsculpt
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=gsculpt 0.99.47-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gsculpt
+X-Arch-Package-Version=0.99.47-2
+X-Arch-Package-Description=A procedural 3D modelling application with a comprehensive set
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gsculpt.sourceforge.net
+X-Arch-Package-Votes=6

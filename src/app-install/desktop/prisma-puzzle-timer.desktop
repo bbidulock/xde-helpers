@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Prisma Puzzle Timer
+Comment=Feature-rich timer for a number of mechanical puzzles
+Icon=/usr/share/prisma-puzzle-timer/icon.png
+TryExec=/usr/bin/prisma-puzzle-timer
+Exec=prisma-puzzle-timer
+Categories=Game;LogicGame;Java;
+X-AppInstall-Package=prisma-puzzle-timer
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=prisma-puzzle-timer 0.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=prisma-puzzle-timer
+X-Arch-Package-Version=0.6-1
+X-Arch-Package-Description=Feature-rich timer for a number of mechanical puzzles
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://bitbucket.org/walter/puzzle-timer
+X-Arch-Package-Votes=1

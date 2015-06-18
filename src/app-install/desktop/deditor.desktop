@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=0.2.2
+Type=Application
+Name=Deditor
+GenericName=Deditor
+Comment=Python text-editor
+Icon=/usr/share/pixmaps/deditor.gif
+TryExec=/usr/bin/python2
+Exec=python2 /usr/share/deditor/deditor.py
+Categories=Development;
+X-AppInstall-Package=deditor
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=deditor 0.3.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=deditor
+X-Arch-Package-Version=0.3.0-1
+X-Arch-Package-Description=The editor that boosts your python development
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://launchpad.net/deditor
+X-Arch-Package-Votes=4

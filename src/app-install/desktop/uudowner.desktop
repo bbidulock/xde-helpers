@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=UU-Upgrades Downloader
+GenericName=UU-Upgrades Downloader
+Comment=GUI application which downloads the actual version of uupgrades
+Comment[de]=Programm welches die aktuelle Version von uupgrades installiert
+Icon=/usr/share/icons/logo5.png
+TryExec=/usr/bin/gksudo
+Exec=gksudo uudownloader
+Categories=System;Utility;Security;
+StartupNotify=false
+X-AppInstall-Package=uu-downloader
+X-AppInstall-Section=aur
+X-Arch-Package=uu-downloader 1.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=uu-downloader
+X-Arch-Package-Version=1.1-1
+X-Arch-Package-Description=Downloader for uupgrades - only gets the program
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://manjaro.org
+X-Arch-Package-Votes=0

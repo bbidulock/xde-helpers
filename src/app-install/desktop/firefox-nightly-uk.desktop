@@ -1,0 +1,27 @@
+[Desktop Entry]
+Type=Application
+Name=Firefox Nightly
+GenericName=Web Browser
+GenericName[uk]=Навігатор Тенет
+Comment=Browse the World Wide Web
+Comment[uk]=Перегляд сторінок Інтернету
+Icon=firefox-nightly-icon
+TryExec=/usr/bin/firefox-nightly
+Exec=firefox-nightly %u
+MultipleArgs=false
+NoDisplay=true
+Categories=Application;Network;
+MimeType=text/html;text/xml;application/xhtml+xml;application/vnd.mozilla.xul+xml;text/mml;x-scheme-handler/http;x-scheme-handler/https;
+StartupNotify=false
+X-AppInstall-Package=firefox-nightly-uk
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=firefox-nightly-uk 38.0a1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firefox-nightly-uk
+X-Arch-Package-Version=38.0a1-1
+X-Arch-Package-Description=Web browser from mozilla.org, nightly build, Ukrainian l10n
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://nightly.mozilla.org/
+X-Arch-Package-Votes=2
+Aliases=firefox-nightly;

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Firefox Nightly
+GenericName=Web Browser
+Icon=firefox-nightly-icon
+TryExec=/usr/bin/firefox-nightly
+Exec=firefox-nightly %u
+MultipleArgs=false
+Categories=Application;Network;
+MimeType=text/html;
+StartupNotify=false
+X-AppInstall-Package=firefox-nightly
+X-AppInstall-Popcon=414
+X-AppInstall-Section=aur
+X-Arch-Package=firefox-nightly 41.0a1.20150514-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firefox-nightly
+X-Arch-Package-Version=41.0a1.20150514-1
+X-Arch-Package-Description=Standalone web browser from mozilla.org, nightly build
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.mozilla.org/projects/firefox
+X-Arch-Package-Votes=414

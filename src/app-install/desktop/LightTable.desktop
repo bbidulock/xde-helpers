@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=LightTable
+Icon=/opt/LightTable/core/img/lticon.png
+TryExec=/opt/LightTable/LightTable
+Exec=/opt/LightTable/LightTable
+Categories=Development;
+X-AppInstall-Package=light-table
+X-AppInstall-Section=aur
+X-Arch-Package=light-table 0.6.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=light-table
+X-Arch-Package-Version=0.6.5-1
+X-Arch-Package-Description=A new interactive IDE that lets you modify running programs and embed anything from websites to games.
+X-Arch-Package-URL=http://www.lighttable.com/

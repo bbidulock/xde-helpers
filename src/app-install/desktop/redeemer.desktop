@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Redeemer
+GenericName=Shooting game
+TryExec=/usr/bin/redeemer
+Exec=redeemer
+Categories=Game;ActionGame;
+StartupNotify=false
+X-AppInstall-Package=redeemer
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=redeemer 1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=redeemer
+X-Arch-Package-Version=1-2
+X-Arch-Package-Description=3d shooting game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://hippo.nipax.cz/download.cz.php?id=65
+X-Arch-Package-Votes=1

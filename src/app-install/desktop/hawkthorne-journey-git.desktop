@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Hawkthorne Journey
+GenericName=hawkthorne
+Comment=2D platformer based on Community's Digital Estate Planning episode.
+Icon=/usr/share/pixmaps/hawkthorne.png
+TryExec=/usr/bin/hawkthorne
+Exec=/usr/bin/hawkthorne
+NoDisplay=true
+Categories=Games;
+X-AppInstall-Package=hawkthorne-journey-git
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=hawkthorne-journey-git v0.0.76_2035_g369f502-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=hawkthorne-journey-git
+X-Arch-Package-Version=v0.0.76_2035_g369f502-2
+X-Arch-Package-Description=This 2d platformer is based on Community's Digital Estate
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/kyleconroy/hawkthorne-journey
+X-Arch-Package-Votes=4
+Aliases=hawkthorne;

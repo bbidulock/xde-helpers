@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Sooper Looper
+Comment=Make music with a live looper
+Icon=slgui
+TryExec=/usr/bin/slgui
+Exec=slgui
+NoDisplay=true
+Categories=AudioVideo;Audio;
+X-AppInstall-Package=sooperlooper-git
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=sooperlooper-git 20141219-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sooperlooper-git
+X-Arch-Package-Version=20141219-1
+X-Arch-Package-Description=A live looping sampler capable of immediate loop recording,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://essej.net/sooperlooper/
+X-Arch-Package-Votes=2
+Aliases=sooperlooper;

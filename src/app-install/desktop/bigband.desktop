@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=BigBand
+GenericName=Big Band
+Comment=Compose music for small ensembles
+Icon=bigband.xpm
+TryExec=/usr/bin/bigband
+Exec=bigband
+Categories=Application;AudioVideo;
+X-AppInstall-Package=bigband
+X-AppInstall-Section=aur
+X-Arch-Package=bigband 1.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bigband
+X-Arch-Package-Version=1.3-1
+X-Arch-Package-Description=A program to compose real music for small ensembles
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://members.chello.nl/w.boeke/bigband/
+X-Arch-Package-Votes=0

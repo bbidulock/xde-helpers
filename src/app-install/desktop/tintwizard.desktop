@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=0.3.4
+Type=Application
+Name=TintWizard
+GenericName=TintWizard
+Comment=Tint2 panel configurator
+Icon=tint2conf
+TryExec=/usr/bin/tintwizard
+Exec=tintwizard %f
+Categories=Settings;DesktopSettings;
+StartupNotify=true
+X-AppInstall-Package=tintwizard
+X-AppInstall-Section=aur
+X-Arch-Package=tintwizard 0.3.4-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tintwizard
+X-Arch-Package-Version=0.3.4-2
+X-Arch-Package-Description=A GUI wizard which generates config files for tint2 panels.
+X-Arch-Package-URL=http://code.google.com/p/tintwizard/

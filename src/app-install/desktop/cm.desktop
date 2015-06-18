@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Grace
+Comment=Graphical Realtime Algorithmic Composition Environment
+Icon=cm-grace
+TryExec=/usr/bin/cm-grace
+Exec=cm-grace
+NoDisplay=true
+Categories=AudioVideo;Audio;Sound;
+X-AppInstall-Package=cm
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=cm 3.7.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cm
+X-Arch-Package-Version=3.7.2-2
+X-Arch-Package-Description=Common Music is a real-time music composition system
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://commonmusic.sourceforge.net/
+X-Arch-Package-Votes=1
+Aliases=cm-grace;

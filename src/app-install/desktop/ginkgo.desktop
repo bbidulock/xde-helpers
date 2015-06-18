@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Ginkgo
+GenericName=Nepomuk navigator
+GenericName[fr]=Navigateur Nepomuk
+Comment=A navigator for Nepomuk, the KDE semantic toolkit
+Comment[fr]=Un navigateur pour Nepomuk, l'outil sémantique de KDE
+Icon=nepomuk
+TryExec=/usr/bin/ginkgo
+Exec=ginkgo
+Categories=Utility;
+X-AppInstall-Package=ginkgo
+X-AppInstall-Popcon=12
+X-AppInstall-Section=aur
+X-Arch-Package=ginkgo 0.32-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ginkgo
+X-Arch-Package-Version=0.32-2
+X-Arch-Package-Description=A navigator for Nepomuk, the KDE semantic toolkit.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kde-apps.org/content/show.php/Ginkgo?content=125636
+X-Arch-Package-Votes=12

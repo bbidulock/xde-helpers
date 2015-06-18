@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=BeeDiff
+GenericName=Beesoft Differ
+Comment=A program for file comparing
+Comment[cs]=Program pro porovnávání souborů
+Icon=beediff
+TryExec=/usr/bin/beediff
+Exec=beediff
+Categories=Utility;Qt;
+X-AppInstall-Package=beediff
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=beediff 1.9-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=beediff
+X-Arch-Package-Version=1.9-2
+X-Arch-Package-Description=A program for file comparing
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://freecode.com/projects/beediff
+X-Arch-Package-Votes=13

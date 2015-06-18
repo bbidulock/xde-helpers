@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Linux Rapidshare Grabber
+GenericName=Rapidshare Grabber
+Icon=lrg
+TryExec=/usr/bin/lrg
+Exec=lrg
+MultipleArgs=false
+Categories=Application;Network;
+StartupNotify=true
+X-AppInstall-Package=lrg
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=lrg 0.2.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lrg
+X-Arch-Package-Version=0.2.0-1
+X-Arch-Package-Description=A Python GUI tool for rapidshare premium member to download
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://lrg.sourceforge.net/
+X-Arch-Package-Votes=1

@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Toolkit for Oracle
+Comment=Toolkit for Oracle and other databases administration and development
+Icon=/usr/share/pixmaps/tora.xpm
+TryExec=/usr/bin/tora
+Exec=tora
+NoDisplay=true
+Categories=Development;Database;Qt;
+MimeType=application/x-tora;
+X-KDE-StartupNotify=true
+X-AppInstall-Package=tora-svn
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=tora-svn 3.0.0.svn.4997-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tora-svn
+X-Arch-Package-Version=3.0.0.svn.4997-1
+X-Arch-Package-Description=Toolkit for databases with support for Oracle, MySQL and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://tora.sourceforge.net
+X-Arch-Package-Votes=2
+Aliases=tora;

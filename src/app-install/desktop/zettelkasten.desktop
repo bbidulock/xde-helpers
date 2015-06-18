@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Zettelkasten 3
+GenericName=Zettelkasten after Niklas Luhmann
+GenericName[de]=Zettelkasten nach Niklas Luhmann
+Comment=Program for managing the work with scientific articles and texts
+Comment[de]=Programm für die Arbeit mit wissenschaftlichen Quellen und Texten
+Icon=zettelkasten
+TryExec=/usr/bin/zettelkasten
+Exec=zettelkasten
+Categories=Education;Science;Java;
+X-AppInstall-Package=zettelkasten
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=zettelkasten 3.2.4.3-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zettelkasten
+X-Arch-Package-Version=3.2.4.3-3
+X-Arch-Package-Description=A java-based tool for managing scientific work with articles
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://zettelkasten.danielluedecke.de
+X-Arch-Package-Votes=7

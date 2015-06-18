@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=TuxKart
+Comment=A 3D racing game featuring Tux
+Icon=tuxkart.png
+TryExec=/usr/bin/tuxkart
+Exec=tuxkart
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=tuxkart
+X-AppInstall-Popcon=17
+X-AppInstall-Section=aur
+X-Arch-Package=tuxkart 0.4.0-7
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tuxkart
+X-Arch-Package-Version=0.4.0-7
+X-Arch-Package-Description=A 3D racing game featuring Tux
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://tuxkart.sourceforge.net
+X-Arch-Package-Votes=17

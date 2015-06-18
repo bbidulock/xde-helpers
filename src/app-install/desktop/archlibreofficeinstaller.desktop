@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=archlibreofficeinstaller
+GenericName=GUI for installing LibreOffice
+TryExec=/opt/archlibreofficeinstaller/archlibreofficeinstaller
+Exec=/opt/archlibreofficeinstaller/archlibreofficeinstaller
+Categories=Office;Utility;
+StartupNotify=false
+X-AppInstall-Package=archlibreofficeinstaller
+X-AppInstall-Section=aur
+X-Arch-Package=archlibreofficeinstaller 1.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=archlibreofficeinstaller
+X-Arch-Package-Version=1.1-1
+X-Arch-Package-Description=LibreOffice Installer for Arch Linux
+X-Arch-Package-URL=http://almin-soft.nx0.ru/media/files/binaries/download.php?get=archlibreofficeinstaller.tar.bz2

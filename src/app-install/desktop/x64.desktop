@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=x64
+Comment=VICE C64 emulator
+Icon=CBM_Logo.svg
+TryExec=/usr/bin/x64
+Exec=x64 %f
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=vice-svn
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=vice-svn 28862-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=vice-svn
+X-Arch-Package-Version=28862-1
+X-Arch-Package-Description=A Versatile Commodore Emulator, development version, GTK3 and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://vice-emu.sourceforge.net
+X-Arch-Package-Votes=4

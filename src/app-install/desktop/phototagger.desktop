@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Photo Tagger
+GenericName=Photo Tagger
+Comment=Tags your photos
+Icon=/usr/share/icons/default.kde4/128x128/apps/nepomuk.png
+TryExec=/usr/bin/python2
+Exec=python2 /usr/share/phototagger/main.py
+Categories=Application;Graphics;
+StartupNotify=true
+X-AppInstall-Package=phototagger
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=phototagger 1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=phototagger
+X-Arch-Package-Version=1-2
+X-Arch-Package-Description=Tool that allows you to tag your photos, based on Nepomuk
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://f24h.netsons.org/phototagger
+X-Arch-Package-Votes=2

@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=DSLogic
+TryExec=/usr/bin/DSLogic
+Exec=DSLogic
+NoDisplay=true
+Categories=Development;
+X-AppInstall-Package=dslogic-git
+X-AppInstall-Section=aur
+X-Arch-Package=dslogic-git 34.7c8b0b1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dslogic-git
+X-Arch-Package-Version=34.7c8b0b1-1
+X-Arch-Package-Description=Client software that supports the DSLogic DreamSourceLab logic analyzer
+X-Arch-Package-URL=http://www.dreamsourcelab.com/
+Aliases=dslogic;

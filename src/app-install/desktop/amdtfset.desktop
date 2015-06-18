@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=amdtfset
+GenericName=AMD Tear Free Set
+Comment=set and query the tear free desktop option
+Icon=amdtfset
+TryExec=/usr/bin/test
+Exec=test $(amdtfset | grep -c dis) == 1 && amdtfset on || amdtfset off ; amdtfset; echo "Terminal will close in 2 seconds..."; sleep 2
+Terminal=true
+Categories=Settings;
+X-AppInstall-Package=-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=amdtfset-git v1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=-git
+X-Arch-Package-Version=v1.0-1
+X-Arch-Package-Description=Small command-line utility to set and query the tear free
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/sebth/amdtfset
+X-Arch-Package-Votes=1

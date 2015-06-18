@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=Free Heroes 2
+Icon=fheroes2
+TryExec=/usr/bin/fheroes2
+Exec=fheroes2
+Categories=Application;Game;
+X-AppInstall-Package=fheroes2
+X-AppInstall-Section=aur
+X-Arch-Package=fheroes2 r2693-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fheroes2
+X-Arch-Package-Version=r2693-1
+X-Arch-Package-Description=Free implementation of Heroes of the Might and Magic II engine. SDL is used.
+X-Arch-Package-URL=http://sourceforge.net/projects/fheroes2/

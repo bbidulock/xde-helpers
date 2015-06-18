@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=PS3 Media Server
+GenericName=Upnp Media Server for the PS3
+Comment=Upnp Media Server for the PS3
+Icon=pms.png
+TryExec=/usr/bin/pms
+Exec=pms
+NoDisplay=true
+Categories=AudioVideo;Audio;Video;Network;
+X-AppInstall-Package=pms-svn
+X-AppInstall-Popcon=15
+X-AppInstall-Section=aur
+X-Arch-Package=pms-svn 494-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pms-svn
+X-Arch-Package-Version=494-1
+X-Arch-Package-Description=PS3 Media Server is a DLNA compliant Upnp Media Server for the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/ps3mediaserver/
+X-Arch-Package-Votes=15
+Aliases=pms;

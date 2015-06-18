@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Mapivi
+GenericName=Picture manager and organizer
+GenericName[fr]=Gestionnaire de photographies
+Comment=Picture manager and organizer with complete meta information support.
+Comment[fr]=Gestionnaire de photographies avec un support des champs exif/iptc.
+Icon=/usr/share/pixmaps/mapivi.png
+TryExec=/usr/bin/mapivi
+Exec=/usr/bin/mapivi %F
+Categories=Graphics;Viewer;
+X-AppInstall-Package=mapivi
+X-AppInstall-Section=aur
+X-Arch-Package=mapivi 097-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mapivi
+X-Arch-Package-Version=097-1
+X-Arch-Package-Description=Mapivi is a photo management tool with focus on JPEG pictures. Mapivi supports adding, editing and searching of IPTC/IIM, EXIF data and JPEG comments. The pictures are managed in place (in your folder structure).
+X-Arch-Package-URL=http://mapivi.sourceforge.net/mapivi.shtml

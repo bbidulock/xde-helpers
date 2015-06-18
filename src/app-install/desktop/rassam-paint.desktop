@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Rassam-paint
+Comment=Simple drawing program for Linux, written in Lazarus (Free Pascal)
+Icon=rassam-paint
+TryExec=/usr/bin/rassam-paint
+Exec=rassam-paint
+Categories=Graphics;2DGraphics;RasterGraphics;
+X-AppInstall-Package=rassam-paint
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=rassam-paint 1.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rassam-paint
+X-Arch-Package-Version=1.1-1
+X-Arch-Package-Description=Simple drawing program
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/rassampaint/
+X-Arch-Package-Votes=1

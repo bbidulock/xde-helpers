@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.8.5
+Type=Application
+Name=Mobile Media Converter
+Comment=Media Converter
+Icon=mobilemediaconverter
+TryExec=/usr/bin/mobilemediaconverter
+Exec=mobilemediaconverter
+Categories=AudioVideo;Multimedia;
+X-AppInstall-Package=mobilemediaconverter
+X-AppInstall-Popcon=95
+X-AppInstall-Section=aur
+X-Arch-Package=mobilemediaconverter 1.8.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mobilemediaconverter
+X-Arch-Package-Version=1.8.5-1
+X-Arch-Package-Description=Converts mp3, wma, ogg, wav audio files to AMR files and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.miksoft.net/mobileMediaConverter.htm
+X-Arch-Package-Votes=95

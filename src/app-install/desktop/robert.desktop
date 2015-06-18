@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Robert
+GenericName=I2P Bittorrent Client
+Icon=/usr/share/pixmaps/robert.ico
+TryExec=/usr/bin/robert
+Exec=robert
+Categories=Network;
+X-AppInstall-Package=robert
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=robert 0.0.40-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=robert
+X-Arch-Package-Version=0.0.40-4
+X-Arch-Package-Description=Bittorrent client for I2P written in Python.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sponge.i2p/files/Robert-Stable.torrent
+X-Arch-Package-Votes=13

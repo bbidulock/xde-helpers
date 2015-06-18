@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=My Tribe Demo
+GenericName=My Tribe Demo
+Comment=Create your perfect island paradise with My Tribe!
+Icon=/usr/share/pixmaps/MyTribe-demo.png
+TryExec=/usr/bin/mytribe-demo
+Exec=mytribe-demo
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=mytribe-demo
+X-AppInstall-Section=aur
+X-Arch-Package=mytribe-demo 1.0.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mytribe-demo
+X-Arch-Package-Version=1.0.2-1
+X-Arch-Package-Description=Create your perfect island paradise with My Tribe!
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://grubbygames.com/mytribe/
+X-Arch-Package-Votes=0

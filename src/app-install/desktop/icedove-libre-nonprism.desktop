@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Icedove
+GenericName=Mail Client & News Reader
+Comment=Mail & News Reader
+Icon=icedove
+TryExec=/usr/bin/icedove
+Exec=icedove %u
+NoDisplay=true
+Categories=Network;Email;
+MimeType=message/rfc822;x-scheme-handler/mailto;
+StartupNotify=true
+X-AppInstall-Package=-libre-nonprism
+X-AppInstall-Section=aur
+X-Arch-Package=icedove-libre-nonprism 24.3.0.deb1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=-libre-nonprism
+X-Arch-Package-Version=.-1
+X-Arch-Package-Description=A libre version of Debian Icedove, the standalone mail/news
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://packages.debian.org/sid/
+X-Arch-Package-Votes=0
+Aliases=icedove;

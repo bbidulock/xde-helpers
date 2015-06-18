@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Awesomenauts
+GenericName=Awesomenauts
+Comment=Awesomenauts
+Icon=AwesomenautsIcon.png
+TryExec="/opt/awesomenauts/Awesomenauts.bin.x86"
+Exec="/opt/awesomenauts/Awesomenauts.bin.x86"
+Categories=Game;
+Path=/opt/awesomenauts
+X-AppInstall-Package=awesomenauts-hib
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=awesomenauts-hib 20135213-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=awesomenauts-hib
+X-Arch-Package-Version=20135213-1
+X-Arch-Package-Description=A 3vs3 multiplayer platform shooter
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.awesomenauts.com/
+X-Arch-Package-Votes=5
+Value=1.0

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Blink
+Comment=A state of the art easy to use Qt SIP client
+Icon=/usr/share/blink/icons/blink.png
+TryExec=/usr/bin/blink
+Exec=blink
+Categories=Application;
+StartupNotify=false
+X-AppInstall-Package=blink
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package=blink 1.3.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=blink
+X-Arch-Package-Version=1.3.0-1
+X-Arch-Package-Description=A state of the art easy to use Qt SIP client
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.icanblink.com
+X-Arch-Package-Votes=11

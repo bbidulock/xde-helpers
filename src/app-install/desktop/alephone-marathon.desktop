@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Marathon (Aleph One)
+Comment=A FPS game by Bungie
+Icon=alephone-marathon
+TryExec=/usr/bin/alephone-marathon
+Exec=alephone-marathon
+Categories=Game;ActionGame;
+X-AppInstall-Package=alephone-marathon
+X-AppInstall-Popcon=15
+X-AppInstall-Section=aur
+X-Arch-Package=alephone-marathon 20140104-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=alephone-marathon
+X-Arch-Package-Version=20140104-2
+X-Arch-Package-Description=Marathon 1 scenario data files for Aleph One
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://marathon.sourceforge.net
+X-Arch-Package-Votes=15

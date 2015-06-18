@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Moagg
+Comment="Mother of all gravity games"
+Icon=moagg.png
+TryExec=/usr/bin/moagg
+Exec=moagg
+Categories=Game;
+X-AppInstall-Package=moagg
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=moagg 1.95b-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=moagg
+X-Arch-Package-Version=1.95b-3
+X-Arch-Package-Description=Mother of all gravity games
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://moagg.sourceforge.net/
+X-Arch-Package-Votes=2

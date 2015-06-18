@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Wolfenstein: Enemy Territory
+GenericName=A team-based multiplayer WWII tactical first-person shooter
+Comment=A team-based multiplayer WWII tactical first-person shooter
+Icon=enemy-territory.xpm
+TryExec=/usr/bin/et
+Exec=et
+Categories=Game;ActionGame;
+StartupNotify=false
+X-AppInstall-Package=enemy-territory
+X-AppInstall-Popcon=255
+X-AppInstall-Section=aur
+X-Arch-Package=enemy-territory 2.60b-14
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=enemy-territory
+X-Arch-Package-Version=2.60b-14
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.splashdamage.com/wolfet
+X-Arch-Package-Votes=255

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=ABX Comparator
+Comment=GStreamer-based blind audio comparison tool for GNOME
+Icon=/opt/abx-comparator/abx-comparator.svg
+TryExec=/usr/bin/abx-comparator
+Exec=abx-comparator
+MultipleArgs=false
+Categories=AudioVideo;
+StartupNotify=true
+X-AppInstall-Package=abx-comparator
+X-AppInstall-Popcon=14
+X-AppInstall-Section=aur
+X-Arch-Package=abx-comparator 0.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=abx-comparator
+X-Arch-Package-Version=0.2-2
+X-Arch-Package-Description=GStreamer-based blind audio comparison tool for GNOME
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://abx-comparator.berlios.de/
+X-Arch-Package-Votes=14

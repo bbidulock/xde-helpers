@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=AisleRiot Solitaire
+Name[ru_RU]=jasperj
+Comment=Play many different solitaire games
+Icon=jasperj
+TryExec=/usr/bin/jasperj
+Exec=jasperj
+Categories=Game;
+StartupNotify=true
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=gcompris
+X-AppInstall-Package=jasper_journeys
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=jasper_journeys 2.12-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jasper_journeys
+X-Arch-Package-Version=2.12-1
+X-Arch-Package-Description=A fantasy platform adventure game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://lexaloffle.com
+X-Arch-Package-Votes=2

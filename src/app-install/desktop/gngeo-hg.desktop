@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=gngeo
+Comment=Portable NeoGeo Emulator
+Icon=gngeo
+TryExec=/usr/bin/gngeo
+Exec=gngeo
+NoDisplay=true
+Categories=Game;Emulator;
+X-AppInstall-Package=gngeo-hg
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=gngeo-hg 0.8.r95.6ad2a3d1bba3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gngeo-hg
+X-Arch-Package-Version=0.8.r95.6ad2a3d1bba3-1
+X-Arch-Package-Description=A portable command-line NeoGeo Emulator (development version)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://code.google.com/p/gngeo/
+X-Arch-Package-Votes=2
+Aliases=gngeo;

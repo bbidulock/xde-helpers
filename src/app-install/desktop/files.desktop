@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=AnalyseSI
+Comment=Merise modeling tool
+Comment[fr]=Outil de modélisation Merise
+Icon=/usr/share/pixmaps/analysesi.svg
+TryExec=/usr/bin/analysesi
+Exec=analysesi
+Categories=Application;Development;
+X-AppInstall-Package=analysesi
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=analysesi
+X-Arch-Package-Version=0.75-1
+X-Arch-Package-Description=Java Entity Relationship Model application
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://launchpad.net/analysesi
+X-Arch-Package-Votes=6

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Gednafen
+GenericName=Frontend for Mednafen
+Comment=Um frontend para o Mednafen Usando Pygtk
+Icon=/usr/share/pixmaps/icon_mednafen.png
+TryExec=/usr/bin/python2
+Exec=python2 /usr/bin/gednafen.py
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=None
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=gednafen 2011.11-01
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=None
+X-Arch-Package-Version=-
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=None
+X-Arch-Package-Votes=5

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Wing IDE 101 v4
+Comment=The intelligent development environment for python programmers
+Icon=wingide4-101.png
+TryExec=/usr/bin/wingide4-101
+Exec=wingide4-101
+Categories=Application;Development;
+X-AppInstall-Package=wingide4-101
+X-AppInstall-Section=aur
+X-Arch-Package=wingide4-101 4.1.14-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wingide4-101
+X-Arch-Package-Version=4.1.14-1
+X-Arch-Package-Description=Wing IDE 101 is free scaled down Python IDE designed for
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.wingware.com
+X-Arch-Package-Votes=0

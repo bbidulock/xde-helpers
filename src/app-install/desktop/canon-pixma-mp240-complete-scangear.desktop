@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Canon MP240 Scangear
+Icon=/usr/share/pixmaps/canon-pixma-mp240-complete-scangear-icon.svg
+TryExec=/usr/bin/scangearmp
+Exec=/usr/bin/scangearmp
+Categories=Graphics;2DGraphics;
+X-AppInstall-Package=canon-pixma-mp240-complete
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=canon-pixma-mp240-complete 3.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=canon-pixma-mp240-complete
+X-Arch-Package-Version=3.0-1
+X-Arch-Package-Description=Complete stand alone driver set (printing and scanning) for
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.canon-europe.com/Support/Consumer_Products/products/Fax__Multifunctionals/InkJet/PIXMA_MP_series/PIXMA_MP240.aspx
+X-Arch-Package-Votes=1

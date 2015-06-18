@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Maelstrom
+Comment=Maelstrom
+Icon=/usr/share/Maelstrom/icon.xpm
+TryExec=/usr/bin/Maelstrom
+Exec=/usr/bin/Maelstrom
+NoDisplay=true
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=maelstrom
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=maelstrom 3.0.6-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=maelstrom
+X-Arch-Package-Version=3.0.6-3
+X-Arch-Package-Description=Asteroids-type game with sound and 3D objects
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.libsdl.org/projects/Maelstrom/index.html
+X-Arch-Package-Votes=8
+Aliases=Maelstrom;

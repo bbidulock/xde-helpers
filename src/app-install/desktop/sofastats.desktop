@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=SOFA Statistics
+GenericName=Analysis package
+Comment=VoIP and Instant Messaging client
+Icon=/usr/lib/python2.7/site-packages/sofastats/images/sofa_48x48.xpm
+TryExec=/usr/bin/sofastats
+Exec=/usr/bin/sofastats
+Categories=Science;
+X-AppInstall-Package=sofastats
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=sofastats 1.4.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sofastats
+X-Arch-Package-Version=1.4.3-1
+X-Arch-Package-Description=Statistics Open For All
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.sofastatistics.com/
+X-Arch-Package-Votes=10

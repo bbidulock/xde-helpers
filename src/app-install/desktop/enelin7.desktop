@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Enemy Lines 7
+Comment=Shoot down enemy bombers
+Icon=enemylines7
+TryExec=/usr/bin/enelin7
+Exec=enelin7
+Categories=Game;ActionGame;
+X-AppInstall-Package=enemylines7
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=enemylines7 0.8-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=enemylines7
+X-Arch-Package-Version=0.8-3
+X-Arch-Package-Description=Enemy lines - computer game series
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://proj.phk.at/el/7/
+X-Arch-Package-Votes=1

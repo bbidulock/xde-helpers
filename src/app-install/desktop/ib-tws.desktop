@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=IB Trader Workstation
+Comment=Electronic trading platform from discount brokerage firm Interactive Brokers
+Icon=ib-tws
+TryExec=/usr/bin/ib-tws
+Exec=/usr/bin/ib-tws
+Categories=Application;Office;Finance;
+X-AppInstall-Package=ib-tws
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=ib-tws 949.3e-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ib-tws
+X-Arch-Package-Version=949.3e-1
+X-Arch-Package-Description=Electronic trading platform from discount brokerage firm
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://interactivebrokers.com/
+X-Arch-Package-Votes=2

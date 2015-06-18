@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Savage XR
+Icon=/usr/share/pixmaps/savage-xr.xpm
+TryExec=/usr/bin/savage-xr
+Exec=/usr/bin/savage-xr
+Categories=Application;Game;
+X-AppInstall-Package=savage-xr
+X-AppInstall-Popcon=16
+X-AppInstall-Section=aur
+X-Arch-Package=savage-xr 1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=savage-xr
+X-Arch-Package-Version=1.0-1
+X-Arch-Package-Description=Savage: The Battle for Newerth is an online multiplayer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.newerth.com/
+X-Arch-Package-Votes=16

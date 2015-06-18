@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=OneDrive daemon
+GenericName=Network Storage
+Comment=OneDrive service by Microsoft
+Icon=onedrive-d
+TryExec=/usr/bin/onedrive-d
+Exec=onedrive-d
+Categories=Network;
+StartupNotify=false
+X-AppInstall-Package=onedrive-d-git
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=onedrive-d-git 20150407.g62a0733-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=onedrive-d-git
+X-Arch-Package-Version=20150407.g62a0733-4
+X-Arch-Package-Description=Client daemon for Microsoft OneDrive service
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/xybu92/onedrive-d
+X-Arch-Package-Votes=10

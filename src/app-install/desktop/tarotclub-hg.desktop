@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=TarotClub
+Comment=Le jeu de Tarot libre!
+Icon=tarotclub
+TryExec=/usr/share/tarotclub/TarotClub
+Exec=/usr/share/tarotclub/TarotClub
+NoDisplay=true
+Categories=Game;CardGame;
+Path=/usr/share/tarotclub
+X-AppInstall-Package=tarotclub-hg
+X-AppInstall-Section=aur
+X-Arch-Package=tarotclub-hg 1531.318ebe275da7-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tarotclub-hg
+X-Arch-Package-Version=1531.318ebe275da7-1
+X-Arch-Package-Description=A local/network French Tarot card game.
+X-Arch-Package-URL=http://www.tarotclub.fr
+Aliases=tarotclub;

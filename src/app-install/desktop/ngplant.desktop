@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=ngPlant
+Comment=A plant modeling software package
+Icon=/usr/share/pixmaps/ngplant.xpm
+TryExec=/usr/bin/ngplant
+Exec=/usr/bin/ngplant
+Categories=Application;Graphics;
+X-AppInstall-Package=ngplant
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=ngplant 0.9.10-0
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ngplant
+X-Arch-Package-Version=0.9.10-0
+X-Arch-Package-Description=A plant modeling software package
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ngplant.sourceforge.net/
+X-Arch-Package-Votes=4

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Catacomb Snatch
+GenericName=catacomb-snatch
+Icon=catacomb-snatch
+TryExec=/usr/bin/catacomb-snatch
+Exec=/usr/bin/catacomb-snatch
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=catacomb-snatch
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=catacomb-snatch 1.1.0-297
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=catacomb-snatch
+X-Arch-Package-Version=1.1.0-297
+X-Arch-Package-Description=Catacomb Snatch is a real-time strategy shoot'em up with a
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://catacombsnatch.net/
+X-Arch-Package-Votes=8

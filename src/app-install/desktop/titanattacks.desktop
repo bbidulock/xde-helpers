@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Titan Attacks
+GenericName=Space Invaders
+Comment=The Earth is under attack from evil aliens from Titan! Upgrade your ship with bounty money and drive back the Titans across the Solar System, and defeat them on their homeworld. That'll show 'em!
+Icon=/opt/titanattacks/titanattacks.png
+TryExec=/usr/bin/titanattacks
+Exec=titanattacks
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=titanattacks
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=titanattacks 2.00.3-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=titanattacks
+X-Arch-Package-Version=2.00.3-3
+X-Arch-Package-Description=The gameplay is heavily inspired by Space Invaders with
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.puppygames.net/titan-attacks/
+X-Arch-Package-Votes=3

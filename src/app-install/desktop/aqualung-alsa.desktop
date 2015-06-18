@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Aqualung
+GenericName=Music player
+Comment=Gapless music player
+Icon=aqualung
+TryExec=/usr/bin/aqualung
+Exec=aqualung
+NoDisplay=true
+Categories=AudioVideo;Audio;Player;GTK;
+MimeType=audio/aac;audio/ac3;audio/basic;audio/mp4;audio/mpeg;audio/mpegurl;audio/vnd.rn-realaudio;audio/vorbis;audio/x-adpcm;audio/x-flac;audio/x-mp2;audio/x-mp3;audio/x-mpegurl;audio/x-ms-wma;audio/x-oggflac;audio/x-speex;audio/x-vorbis;audio/x-wav;
+StartupNotify=true
+X-AppInstall-Package=aqualung-alsa
+X-AppInstall-Section=aur
+X-Arch-Package=aqualung-alsa 0.9beta11-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=aqualung-alsa
+X-Arch-Package-Version=0.9beta11-2
+X-Arch-Package-Description=Gapless music player compiled with only ALSA support. Jack, Pulse and OSS are disabled.
+X-Arch-Package-URL=http://aqualung.factorial.hu/
+Aliases=aqualung;

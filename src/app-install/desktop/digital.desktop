@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Digital
+Icon=/usr/share/digital-game/game/icon.png
+TryExec=/usr/bin/digitalgame
+Exec=digitalgame
+Categories=Game;
+X-AppInstall-Package=digital
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=digital 1.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=digital
+X-Arch-Package-Version=1.1-2
+X-Arch-Package-Description=A computer mystery/romance set five minutes into the future of
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.scoutshonour.com/digital/
+X-Arch-Package-Votes=6

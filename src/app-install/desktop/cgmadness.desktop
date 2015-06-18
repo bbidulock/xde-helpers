@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Cgmadness
+GenericName=Marble Madness clone
+Icon=/usr/share/pixmaps/cgmadness.png
+TryExec=/usr/bin/cgmadness
+Exec=cgmadness
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=cgmadness
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=cgmadness 1.3-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cgmadness
+X-Arch-Package-Version=1.3-3
+X-Arch-Package-Description=CG Madness is based on the classic game Marble Madness.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.fluxparticle.com/cgmadness/
+X-Arch-Package-Votes=7

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=TUNet
+GenericName[en_US.UTF-8]=TUNet
+Comment=TUNet
+Icon=/opt/TUNet/log.png
+TryExec=/opt/TUNet/TUNet64
+Exec=/opt/TUNet/TUNet64
+X-AppInstall-Package=tunet
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=tunet 1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tunet
+X-Arch-Package-Version=1-1
+X-Arch-Package-Description=Tsinghua University network authentication client for Linux.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://net.tsinghua.edu.cn
+X-Arch-Package-Votes=1

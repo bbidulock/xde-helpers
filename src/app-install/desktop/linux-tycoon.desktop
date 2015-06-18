@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=0.9
+Type=Application
+Name=Linux Tycoon
+Name[en_US]=linuxtycoon
+Comment=Linux Tycoon Simulator
+Icon=/usr/share/pixmaps/LinuxTycoon.png
+TryExec=/opt/LinuxTycoon/LinuxTycoon
+Exec=/opt/LinuxTycoon/LinuxTycoon
+Categories=Application;GNOME;Games;
+X-AppInstall-Package=linux-tycoon
+X-AppInstall-Popcon=35
+X-AppInstall-Section=aur
+X-Arch-Package=linux-tycoon 1.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=linux-tycoon
+X-Arch-Package-Version=1.2-2
+X-Arch-Package-Description=a game where you design and manage your own distribution of
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://lunduke.com/linux-tycoon
+X-Arch-Package-Votes=35

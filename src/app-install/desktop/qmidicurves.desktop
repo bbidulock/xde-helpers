@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=QMIDICurves
+Comment=A MIDI-keyboard velocity response changer
+Icon=qmidicurves
+TryExec=/usr/bin/qmidicurves
+Exec=qmidicurves
+Categories=AudioVideo;
+X-AppInstall-Package=qmidicurves
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=qmidicurves 1.21-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qmidicurves
+X-Arch-Package-Version=1.21-1
+X-Arch-Package-Description=A simple QT/JACK application that lets you change
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/qmidicurves/
+X-Arch-Package-Votes=1

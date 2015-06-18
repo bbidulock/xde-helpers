@@ -1,0 +1,26 @@
+[Desktop Entry]
+Type=Application
+Name=Hamsi Manager
+GenericName=Hamsi Manager
+Comment=Hamsi Manager
+Icon=hamsi
+TryExec=/usr/bin/hamsi
+Exec=hamsi
+X-MultipleArgs=false
+NoDisplay=true
+Categories=System;Utility;FileTools;FileManager;KDE;GNOME;GTK;Qt;X-KDE-Utilities-File;
+MimeType=inode/directory;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=hamsimanager
+X-AppInstall-Popcon=18
+X-AppInstall-Section=aur
+X-Arch-Package=hamsimanager 2.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=hamsimanager
+X-Arch-Package-Version=2.0-1
+X-Arch-Package-Description=Hamsi Manager is a file manager, renamer, id3 tagger,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://supermurat.com/en/Hamsi-Manager
+X-Arch-Package-Votes=18
+Aliases=HamsiManager;

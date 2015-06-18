@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=And Yet It Moves Demo
+GenericName=And Yet It Moves Demo
+Comment=Platform Puzzle game
+Icon=/usr/share/pixmaps/ayim.jpg
+TryExec=/opt/AndYetItMovesDemo/AndYetItMovesDemo
+Exec=/opt/AndYetItMovesDemo/AndYetItMovesDemo
+NoDisplay=true
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=ayim-demo
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=ayim-demo 1.1.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ayim-demo
+X-Arch-Package-Version=1.1.1-1
+X-Arch-Package-Description=Platform Puzzle game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.andyetitmoves.net/index.php?content=demo
+X-Arch-Package-Votes=3
+Aliases=ayim;

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Star Wars: Dark Forces
+GenericName=First person shooter
+GenericName[fr]=Jeu de tir subjectif
+Comment=First person shooter set in the Star Wars universe.
+Comment[fr]=Jeu de tir subjectif dans l'univers Star Wars.
+Icon=darkforces
+TryExec=/usr/bin/darkforces
+Exec=darkforces
+Categories=Game;ActionGame;
+X-AppInstall-Package=darkforces
+X-AppInstall-Section=aur
+X-Arch-Package=darkforces 1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=darkforces
+X-Arch-Package-Version=1.0-1
+X-Arch-Package-Description=FPS set in the Star Wars universe (uses DOSBox, CD-ROM
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.lucasarts.com
+X-Arch-Package-Votes=0

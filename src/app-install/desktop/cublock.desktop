@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Cublock
+GenericName=3D tetris
+Comment=Java implementation of 3D tetris like game, similar to Blockout a generalized version of the original game
+Icon=/usr/share/pixmaps/cublock.xpm
+TryExec=/usr/bin/cublock
+Exec=cublock
+Categories=Application;Game;
+X-AppInstall-Package=cublock
+X-AppInstall-Section=aur
+X-Arch-Package=cublock 3.0.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cublock
+X-Arch-Package-Version=3.0.3-1
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=None
+X-Arch-Package-Votes=0

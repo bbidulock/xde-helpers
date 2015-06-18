@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Jomar3D
+Comment=A 3D Martian hunt orchestrated by a lobster.
+Comment[de]=Ein Marsbewohnerjagd geführt von einem Hummer.
+Comment[es]=Una caza a los marcianos orquestrada por una langosta.
+Comment[fr]=Une chasse aux martiens orchestrée par un homard.
+Icon=jomar3d
+TryExec=/usr/bin/jomar3d
+Exec=/usr/bin/jomar3d
+Categories=Game;ArcadeGame;
+Path=/usr/share/jomar3d
+X-AppInstall-Package=jomar3d
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=jomar3d 1.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jomar3d
+X-Arch-Package-Version=1.1-1
+X-Arch-Package-Description=A 3D Martian hunt orchestrated by a lobster
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://studios.chalmion.tuxfamily.org/index.php
+X-Arch-Package-Votes=1

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=MoxGen
+Comment=Moxon calculator
+Comment[ru]=Расчёт антенны Moxon
+Comment[uk]=Розрахунок антени Moxon
+TryExec=/usr/bin/fl_moxgen
+Exec=fl_moxgen
+Categories=Network;HamRadio;
+StartupNotify=false
+X-AppInstall-Package=fl_moxgen
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=fl_moxgen 0.05-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fl_moxgen
+X-Arch-Package-Version=0.05-1
+X-Arch-Package-Description=A program to compute the dimensions of a Moxon Rectangle
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://home.comcast.net/~andystewart/moxon_sw.html
+X-Arch-Package-Votes=1

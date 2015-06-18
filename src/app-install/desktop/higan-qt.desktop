@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=higan
+Comment=Nintendo multi-system emulator
+Icon=higan
+TryExec=/usr/bin/higan
+Exec=higan %u
+NoDisplay=true
+Categories=Game;Emulator;
+X-AppInstall-Package=higan-qt
+X-AppInstall-Section=community
+X-Arch-Package=higan-qt 092-2
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=higan-qt
+X-Arch-Package-Version=094-3
+X-Arch-Package-Description=Nintendo multi-system emulator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://byuu.org/
+Aliases=higan;

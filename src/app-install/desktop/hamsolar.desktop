@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Hamsolar
+Comment=Display current solar indices
+Comment[en_US]=Dispaly current solar indices
+Icon=hamsolar.png
+TryExec=/usr/bin/hamsolar
+Exec=hamsolar
+X-DCOP-ServiceType=none
+Categories=Application;HamRadio;
+MimeType=text/plain;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=hamsolar
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=hamsolar 1.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=hamsolar
+X-Arch-Package-Version=1.0-2
+X-Arch-Package-Description=Small desktop display of the current solar indices
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://hamsoftware.org/old_index.html
+X-Arch-Package-Votes=3

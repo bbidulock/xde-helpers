@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Quazaa
+GenericName=P2P Client
+Icon=/usr/share/pixmaps/quazaa.png
+TryExec=/usr/share/quazaa/Quazaa
+Exec=/usr/share/quazaa/Quazaa
+NoDisplay=true
+Categories=Network;
+X-AppInstall-Package=quazaa-svn
+X-AppInstall-Section=aur
+X-Arch-Package=quazaa-svn 456-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=quazaa-svn
+X-Arch-Package-Version=456-1
+X-Arch-Package-Description=Multi-network P2P file-sharing client based on Shareaza which will support Gnutella2, Ares, eDonkey2000 (eMule), HTTP, FTP, and BitTorrent.
+X-Arch-Package-URL=http://quazaa.sourceforge.net
+Aliases=quazaa;

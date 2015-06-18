@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Umineko no Naku Koro ni
+Comment=Mystery visual novel
+Icon=/usr/share/pixmaps/umineko.ico
+TryExec=/usr/games/umineko/umineko-en.sh
+Exec=/usr/games/umineko/umineko-en.sh
+Categories=Application;Game;
+X-AppInstall-Package=umineko-en
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=umineko-en 4.4-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=umineko-en
+X-Arch-Package-Version=4.4-2
+X-Arch-Package-Description=A Japanese murder mystery doujin soft visual novel. English
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://07th-expansion.net/umi/Main.htm
+X-Arch-Package-Votes=7

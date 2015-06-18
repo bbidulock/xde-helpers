@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=TV-MAXE
+Comment=Free television for your Linux system.
+Icon=/usr/share/tv-maxe/tvmaxe.png
+TryExec=/usr/bin/tv-maxe
+Exec=tv-maxe
+Categories=AudioVideo;
+StartupNotify=true
+X-AppInstall-Package=tv-maxe
+X-AppInstall-Popcon=36
+X-AppInstall-Section=aur
+X-Arch-Package=tv-maxe 0.11-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tv-maxe
+X-Arch-Package-Version=0.11-1
+X-Arch-Package-Description=Free television for your Linux system
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/tv-maxe/
+X-Arch-Package-Votes=36

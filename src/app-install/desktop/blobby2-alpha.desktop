@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Blobby Volley 2
+GenericName=Volley Game
+Comment=Volley game with network support
+Icon=blobby2
+TryExec=/usr/bin/blobby
+Exec=blobby
+NoDisplay=true
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=blobby2-alpha
+X-AppInstall-Section=aur
+X-Arch-Package=blobby2-alpha 0.8a-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=blobby2-alpha
+X-Arch-Package-Version=0.8a-2
+X-Arch-Package-Description=Blobby Volley (alpha)
+X-Arch-Package-URL=http://sourceforge.net/projects/blobby/
+Aliases=blobby2;

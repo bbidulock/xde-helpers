@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=gtk-iptables
+TryExec=/usr/bin/gksu
+Exec=/usr/bin/gksu gtkiptables
+Categories=System;
+StartupNotify=true
+X-AppInstall-Package=gtk-iptables
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=gtk-iptables 0.5.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gtk-iptables
+X-Arch-Package-Version=0.5.1-2
+X-Arch-Package-Description=gtk-iptables is a gtk-based frontend for iptables written in
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gtk-iptables.sourceforge.net/index.html
+X-Arch-Package-Votes=9

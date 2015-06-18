@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Ubuntuwin TV 0.7
+Comment=Show streaming tv and radio channels on your distro
+Icon=/usr/share/icons/ubuntuwintv.png
+TryExec=/usr/bin/ubuntuwintv.py
+Exec=ubuntuwintv.py
+Categories=AudioVideo;Video;GTK;
+X-AppInstall-Package=ubuntuwintv
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=ubuntuwintv 0.7.1-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ubuntuwintv
+X-Arch-Package-Version=0.7.1-3
+X-Arch-Package-Description=An utility to see a lot of TV and radio channels in streaming,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ubuntuwin.altervista.org
+X-Arch-Package-Votes=10

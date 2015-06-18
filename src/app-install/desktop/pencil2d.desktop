@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Pencil
+Icon=pencil2d
+TryExec=/usr/bin/pencil2d
+Exec=pencil2d %F
+Categories=Graphics;2DGraphics;
+X-AppInstall-Package=pencil2d-git
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=pencil2d-git 1413.2630deb-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pencil2d-git
+X-Arch-Package-Version=1413.2630deb-1
+X-Arch-Package-Description=Animation/drawing software, that lets you create traditional
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.pencil2d.org/
+X-Arch-Package-Votes=9

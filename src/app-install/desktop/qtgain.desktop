@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=QtGain
+GenericName=QtGain
+Comment=Frontend for mp3gain, vorbisgain and metaflac
+Comment[de]=Frontend für mp3gain, vorbisgain und metaflac
+Comment[ru]=Графическая оболчка для mp3gain, vorbisgain и metaflac
+Icon=/usr/share/pixmaps/qtgain.png
+TryExec=/usr/bin/qtgain
+Exec=/usr/bin/qtgain
+Categories=Application;AudioVideo;Audio;
+StartupNotify=false
+X-AppInstall-Package=qtgain
+X-AppInstall-Popcon=41
+X-AppInstall-Section=aur
+X-Arch-Package=qtgain 0.9.8-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qtgain
+X-Arch-Package-Version=0.9.8-2
+X-Arch-Package-Description=Simply frontend for mp3gain, vorbisgain and metaflac to replay
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.qt-apps.org/content/show.php/QtGain?content=56842
+X-Arch-Package-Votes=41

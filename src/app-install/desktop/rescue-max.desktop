@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Rescue! Max
+GenericName=SF game
+Icon=/usr/share/pixmaps/rescue-max.gif
+TryExec=/usr/bin/rescue-max
+Exec=rescue-max
+Categories=Game;
+X-AppInstall-Package=rescue-max
+X-AppInstall-Section=aur
+X-Arch-Package=rescue-max 1.0.0.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rescue-max
+X-Arch-Package-Version=1.0.0.3-1
+X-Arch-Package-Description=Remake of an old Mac game called Rescue! by Tom Spreen.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://rescue.sourceforge.net/
+X-Arch-Package-Votes=0

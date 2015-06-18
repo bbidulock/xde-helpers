@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=qavimator
+Comment=3D modeling, animation
+Icon=qavimator
+TryExec=/usr/bin/qavimator
+Exec=qavimator
+Categories=Graphics;3DGraphics;
+MimeType=application/graphics;
+X-AppInstall-Package=qavimator-svn
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=qavimator-svn 272-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qavimator-svn
+X-Arch-Package-Version=272-5
+X-Arch-Package-Description=Qt port of Vince Invincible's avimator, bvh 3D animation
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.qavimator.org/
+X-Arch-Package-Votes=5

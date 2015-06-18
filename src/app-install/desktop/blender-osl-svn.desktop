@@ -1,0 +1,26 @@
+[Desktop Entry]
+Type=Application
+Name=Blender-svn
+Comment=A 3D program
+Comment[cs]=Program pro 3D modeling a animaci
+Comment[da]=Et program til 3d-modelering
+Comment[es]=Un programa de 3D
+Comment[no]=Et 3d-program
+Icon=blender
+TryExec=/usr/bin/blender
+Exec=blender
+X-MultipleArgs=false
+NoDisplay=true
+Categories=Graphics;3DGraphics;
+MimeType=application/blender;application/x-blender;
+X-AppInstall-Package=blender-osl-svn
+X-AppInstall-Section=aur
+X-Arch-Package=blender-osl-svn 54639-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=blender-osl-svn
+X-Arch-Package-Version=54639-1
+X-Arch-Package-Description=SVN version of Blender (with OSL support)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://blender.org/
+X-Arch-Package-Votes=0
+Aliases=blender;

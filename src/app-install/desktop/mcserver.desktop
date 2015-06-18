@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Minecraft Server
+GenericName=Minecraft Server
+Comment=Server tool for hosting Minecraft servers
+Icon=/usr/share/pixmaps/mcserver.png
+TryExec=/usr/bin/mcserver
+Exec=mcserver
+Categories=Game;
+X-AppInstall-Package=minecraft-server-lite
+X-AppInstall-Section=aur
+X-Arch-Package=minecraft-server-lite 1.8-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=minecraft-server-lite
+X-Arch-Package-Version=1.8-2
+X-Arch-Package-Description=Lightweight server tool for hosting Minecraft servers. Comes with server jar and couple files to run, no needed extra bloatware.
+X-Arch-Package-URL=http://www.minecraft.net

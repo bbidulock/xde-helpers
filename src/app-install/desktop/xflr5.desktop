@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=XFlr5
+Comment=XFlr5 Airfoil calculation
+Icon=xflr5
+TryExec=/usr/bin/xflr5
+Exec=/usr/bin/xflr5
+Categories=Science;
+X-AppInstall-Package=xflr5-svn
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=xflr5-svn 6.09-07
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xflr5-svn
+X-Arch-Package-Version=6.09-07
+X-Arch-Package-Description=XFLR5 is an analysis tool for airfoils, wings and planes
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://xflr5.sourceforge.net/xflr5.htm
+X-Arch-Package-Votes=2

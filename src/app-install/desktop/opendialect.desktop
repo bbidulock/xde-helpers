@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=0.6.0
+Type=Application
+Name=OpenDialect
+GenericName=Open Source IDE for Flash
+Comment=Open Dialect is an open source IDE for Flash distributed under the GPL
+Icon=opendialect.png
+TryExec=/usr/bin/opendialect
+Exec=opendialect
+Categories=Application;Graphics;
+StartupNotify=true
+X-AppInstall-Package=opendialect
+X-AppInstall-Section=aur
+X-Arch-Package=opendialect 0.6.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=opendialect
+X-Arch-Package-Version=0.6.0-2
+X-Arch-Package-Description=Open Dialect is an open source IDE for Flash distributed under the GPL
+X-Arch-Package-URL=http://dialect.openmodeling.net/

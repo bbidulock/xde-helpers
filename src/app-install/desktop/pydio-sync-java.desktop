@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Pydio Sync Java
+Comment=Synchronization Client of the AjaXplorer project
+Icon=pydio-sync-java
+TryExec=/usr/bin/pydio-sync-java
+Exec=pydio-sync-java
+Categories=Network;FileTransfer;
+X-AppInstall-Package=pydio-sync-java
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=pydio-sync-java 0.8.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pydio-sync-java
+X-Arch-Package-Version=0.8.4-1
+X-Arch-Package-Description=Synchronization Client of the AjaXplorer project. Based on the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/pydio/pydio-sync-java
+X-Arch-Package-Votes=1

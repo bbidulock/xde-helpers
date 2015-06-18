@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Engauge
+Comment=A Digitizer for curves and scanned plots.
+Icon=engauge
+TryExec=/usr/bin/engauge
+Exec=engauge -manual /usr/share/doc/engauge/usermanual
+Categories=Science;Math;
+X-AppInstall-Package=engauge
+X-AppInstall-Popcon=21
+X-AppInstall-Section=aur
+X-Arch-Package=engauge 5.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=engauge
+X-Arch-Package-Version=5.2-1
+X-Arch-Package-Description=A Digitizer for curves and scanned plots
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://digitizer.sourceforge.net/
+X-Arch-Package-Votes=21

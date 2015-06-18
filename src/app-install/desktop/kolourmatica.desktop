@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Kolourmatica
+GenericName=Kolourmatica
+Comment=Colour space calculator
+Icon=kolourmatica
+TryExec=/usr/bin/kolourmatica
+Exec=kolourmatica
+Categories=Graphics;Graphics2D;
+X-AppInstall-Package=kolourmatica
+X-AppInstall-Section=aur
+X-Arch-Package=kolourmatica 1.0.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kolourmatica
+X-Arch-Package-Version=1.0.0-1
+X-Arch-Package-Description=A simple colour space calculator.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/Arlen/Kolourmatica
+X-Arch-Package-Votes=0

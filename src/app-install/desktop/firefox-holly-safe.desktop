@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Minefield - Safe Mode
+GenericName=Web Browser - Safe Mode
+Icon=firefox-holly-icon.png
+TryExec=/usr/bin/firefox-holly
+Exec=firefox-holly -safe-mode %u
+MultipleArgs=false
+Categories=Application;Network;
+MimeType=text/html;
+X-AppInstall-Package=firefox-holly
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=firefox-holly 31.0a1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firefox-holly
+X-Arch-Package-Version=31.0a1-1
+X-Arch-Package-Description=Standalone web browser from mozilla.org, nightly build
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.mozilla.org/projects/firefox
+X-Arch-Package-Votes=1

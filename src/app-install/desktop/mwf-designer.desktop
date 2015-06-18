@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Mono WinForms Designer
+GenericName=mwf-designer
+TryExec=/usr/bin/mwf-designer
+Exec=mwf-designer
+Categories=Development;
+X-AppInstall-Package=mwf-designer-git
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=mwf-designer-git 20140422-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mwf-designer-git
+X-Arch-Package-Version=20140422-1
+X-Arch-Package-Description=Mono WinForms Designer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://mono-project.com/WinForms_Designer
+X-Arch-Package-Votes=2

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=VAPOR
+Comment=Visualization and Analysis Platform for Ocean, Atmosphere, and Solar Researchers
+Icon=vapor
+TryExec=/usr/bin/vaporgui
+Exec=vaporgui
+Categories=Education;Science;DataVisualization;Qt;
+X-AppInstall-Package=vapor
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=vapor 2.1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=vapor
+X-Arch-Package-Version=2.1.0-1
+X-Arch-Package-Description=A visualization and analysis platform for ocean, atmosphere,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.vapor.ucar.edu/
+X-Arch-Package-Votes=1

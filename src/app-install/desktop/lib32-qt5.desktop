@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Qt Assistant (32bit)
+Comment=Shows Qt documentation and examples
+Icon=assistant
+TryExec=/usr/lib32/qt/bin/assistant
+Exec=/usr/lib32/qt/bin/assistant
+NoDisplay=true
+Hidden=true
+Categories=Development;Documentation;Qt;
+X-AppInstall-Package=lib32-qt5
+X-AppInstall-Section=aur
+X-Arch-Package=lib32-qt5 5.4.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lib32-qt5
+X-Arch-Package-Version=5.4.0-1
+X-Arch-Package-Description=A cross-platform application and UI framework (32bit)
+X-Arch-Package-Groups=qt;qt5;
+X-Arch-Package-URL=http://qt-project.org/
+Aliases=assistant;

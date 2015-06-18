@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Sticky Notes
+Comment=Colourful sticky reminders on your desktop.
+Icon=/usr/share/stickynotes/icons/applet.png
+TryExec=/usr/bin/python2
+Exec=python2 /usr/share/stickynotes/stickynotes.py
+Categories=Application;Utility;
+StartupNotify=true
+X-AppInstall-Package=stickynotes
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=stickynotes 10.02.20-8
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=stickynotes
+X-Arch-Package-Version=10.02.20-8
+X-Arch-Package-Description=Place colourful sticky reminders all over your desktop
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/xbot/stickynotes/
+X-Arch-Package-Votes=10

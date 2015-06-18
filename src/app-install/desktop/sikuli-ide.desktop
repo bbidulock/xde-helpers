@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Sikuli-IDE
+Comment=Advanced scripting tool
+Icon=ide-icon-64.png
+TryExec=/usr/bin/sikuli-ide.sh
+Exec=sikuli-ide.sh
+Categories=Utility;
+StartupNotify=true
+X-AppInstall-Package=sikuli-ide
+X-AppInstall-Popcon=16
+X-AppInstall-Section=aur
+X-Arch-Package=sikuli-ide 1.0rc3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sikuli-ide
+X-Arch-Package-Version=1.0rc3-1
+X-Arch-Package-Description=A visual technology to search and automate graphical user
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.sikuli.org
+X-Arch-Package-Votes=16

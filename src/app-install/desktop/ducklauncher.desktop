@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Duck Launcher
+Comment=An attractive and useful application launcher
+Icon=/usr/share/icons/hicolor/scalable/duck-launcher.svg
+TryExec=/usr/bin/duck-launcher
+Exec=/usr/bin/duck-launcher
+NoDisplay=true
+Categories=System;Utility;
+X-AppInstall-Package=ducklauncher
+X-AppInstall-Section=aur
+X-Arch-Package=ducklauncher 20140710-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ducklauncher
+X-Arch-Package-Version=20140710-1
+X-Arch-Package-Description=Duck Launcher Application Laucher by Mark Spurgeon <markspurgeon96@hotmail.com>
+X-Arch-Package-URL=https://github.com/the-duck/launcher
+Aliases=duck-launcher;
+StarupNotify=false

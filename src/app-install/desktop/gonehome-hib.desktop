@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Gone Home
+GenericName=Interactive exploration adventure
+Comment=The Fullbright Company
+Icon=gonehome
+TryExec=/usr/bin/gonehome
+Exec=/usr/bin/gonehome
+Categories=Game;
+X-AppInstall-Package=gonehome-hib
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=gonehome-hib 1.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gonehome-hib
+X-Arch-Package-Version=1.1-2
+X-Arch-Package-Description=Award winning interactive exploration simulator. Interrogate
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.gonehomegame.com/
+X-Arch-Package-Votes=1

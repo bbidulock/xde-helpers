@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Scid vs PC
+GenericName=Chess Database
+Icon=/usr/share/pixmaps/scid.png
+TryExec=/usr/bin/scid
+Exec=scid
+Categories=Game;BoardGame;
+X-AppInstall-Package=scid_vs_pc
+X-AppInstall-Popcon=17
+X-AppInstall-Section=aur
+X-Arch-Package=scid_vs_pc 4.14-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=scid_vs_pc
+X-Arch-Package-Version=4.14-1
+X-Arch-Package-Description=Shane's Chess Information Database
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://scidvspc.sourceforge.net/
+X-Arch-Package-Votes=17

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Neverwinter Nights
+GenericName=RPG
+GenericName[fr]=JDR
+Comment=RPG set in the Forgotten Realms
+Comment[fr]=JDR se déroulant dans les Royaumes Oubliés
+Icon=nwn
+TryExec=/usr/bin/nwn
+Exec=nwn
+Categories=Game;RolePlaying;
+X-AppInstall-Package=nwn
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=nwn 1.69-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nwn
+X-Arch-Package-Version=1.69-2
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://nwn.bioware.com/downloads/linuxclient.html
+X-Arch-Package-Votes=3

@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Razercfg
+Comment=The next generation Razer device configuration tool.
+TryExec=/usr/bin/qrazercfg
+Exec=qrazercfg
+NoDisplay=true
+Categories=Application;System;Utility;
+X-AppInstall-Package=razercfg-tool-git
+X-AppInstall-Section=aur
+X-Arch-Package=razercfg-tool-git 20121014-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=razercfg-tool-git
+X-Arch-Package-Version=20121014-2
+X-Arch-Package-Description=The next generation Razer device configuration tool.
+X-Arch-Package-URL=http://dual.bues.ch/cms/hacking/razercfg.html
+Aliases=razercfg;

@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=KardsGT
+GenericName=Card game suite
+Comment=Full card game suite
+Icon=/usr/share/pixmaps/kardsgt.png
+TryExec=/usr/bin/kardsgt
+Exec=kardsgt
+X-DCOP-ServiceType=Multi
+Categories=Game;CardGame;Qt;
+X-KDE-StartupNotify=true
+X-Desktop-File-Install-Version=0.16
+X-AppInstall-Package=kardsgt
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=kardsgt 0.7.1-6
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kardsgt
+X-Arch-Package-Version=0.7.1-6
+X-Arch-Package-Description=KardsGT is a general card game suite. Available games are :
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.kde-apps.org/content/show.php/KardsGT?content=40618
+X-Arch-Package-Votes=7

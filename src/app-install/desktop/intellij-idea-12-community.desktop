@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=IntelliJ IDEA 12 Community Edition
+Comment=Intelligent Java IDE
+Icon=intellij-idea-12-community
+TryExec=/usr/bin/intellij-idea-12-community
+Exec=intellij-idea-12-community %u
+Categories=Development;IDE;
+X-AppInstall-Package=intellij-idea-12-community
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=intellij-idea-12-community 12.1.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=intellij-idea-12-community
+X-Arch-Package-Version=12.1.6-1
+X-Arch-Package-Description=An intelligent IDE for Java, Groovy and other programming
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.jetbrains.com/idea/
+X-Arch-Package-Votes=4

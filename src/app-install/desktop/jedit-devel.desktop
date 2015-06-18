@@ -1,0 +1,36 @@
+[Desktop Entry]
+Type=Application
+Name=jEdit
+GenericName=Programmer's Text Editor
+GenericName[ca]=Editor de text per a programadors
+GenericName[cs]=Textový editor pro programátory
+GenericName[de]=Texteditor für Programmierer
+GenericName[es]=Editor de textos para programadores
+GenericName[ru]=Текстовый редактор разработчика
+GenericName[uk]=Текстовий редактор розробника
+Comment=Edit text files
+Comment[ca]=Editeu fitxers de text
+Comment[cs]=Edituje textové soubory
+Comment[de]=Editiere Textdateien
+Comment[es]=Modifique archivos de texto
+Comment[ru]=Редактируйте текстовые файлы
+Comment[uk]=Редагуйте текстові файли
+Icon=jedit
+TryExec=/usr/bin/jedit
+Exec=jedit %u
+NoDisplay=true
+Hidden-true
+Categories=Development;Utility;TextEditor;Java;
+MimeType=text/plain;text/x-asm;text/asp;text/x-c;text/css;text/x-h;text/html;text/x-java-source;text/javascript;text/x-script.lisp;text/pascal;text/x-script.perl;text/x-script.phyton;text/x-script.sh;text/x-script.tcl;text/xml;
+StartupNotify=false
+X-AppInstall-Package=jedit-devel
+X-AppInstall-Popcon=21
+X-AppInstall-Section=aur
+X-Arch-Package=jedit-devel 5.0.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jedit-devel
+X-Arch-Package-Version=5.0.0-1
+X-Arch-Package-Description=Programmer's text editor
+X-Arch-Package-URL=http://www.jedit.org
+X-Arch-Package-Votes=21
+Aliases=jedit;

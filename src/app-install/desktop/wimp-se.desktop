@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=wimp
+Comment="Telenor Streaming Client written in Adobe Air"
+Icon=/opt/airapps/wimp/wimpIcon.png
+TryExec=/usr/bin/wimp
+Exec=/usr/bin/wimp
+NoDisplay=true
+Categories=AudioVideo;Player;
+Path=/opt/airapps/wimp
+StartupNotify=true
+X-AppInstall-Package=wimp-se
+X-AppInstall-Section=aur
+X-Arch-Package=wimp-se 3.1.0.1858-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wimp-se
+X-Arch-Package-Version=3.1.0.1858-1
+X-Arch-Package-Description=The Adobe Air based Streaming Client for the Telenor Wimp
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://getwimp.com
+X-Arch-Package-Votes=0
+Aliases=WiMP;

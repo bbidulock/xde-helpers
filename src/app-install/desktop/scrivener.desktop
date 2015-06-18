@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Scrivener
+GenericName=Writing Tool
+Comment=A powerful content-generation tool for writers.
+Icon=/usr/share/pixmaps/scrivener/scrivener.png
+TryExec=/usr/bin/scrivener
+Exec=/usr/bin/scrivener
+Categories=Office;
+StartupNotify=false
+X-AppInstall-Package=scrivener
+X-AppInstall-Popcon=20
+X-AppInstall-Section=aur
+X-Arch-Package=scrivener 1.7.2.3-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=scrivener
+X-Arch-Package-Version=1.7.2.3-2
+X-Arch-Package-Description=a powerful content-generation tool for writers
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.literatureandlatte.com/scrivener.php
+X-Arch-Package-Votes=20

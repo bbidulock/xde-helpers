@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Angry IP Scanner
+GenericName=Fast and friendly network scanner
+Comment=Fast and friendly network scanner
+Icon=ipscan
+TryExec=/usr/bin/ipscan
+Exec=/usr/bin/ipscan
+Categories=Application;Network;Internet;
+StartupNotify=true
+StartupWMClass=Angry IP Scanner
+X-AppInstall-Package=ipscan
+X-AppInstall-Popcon=53
+X-AppInstall-Section=aur
+X-Arch-Package=ipscan 3.3.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ipscan
+X-Arch-Package-Version=3.3.2-2
+X-Arch-Package-Description=Angry IP Scanner (or simply ipscan) is an open-source and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.angryziber.com
+X-Arch-Package-Votes=53

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Exodus Viewer
+Comment=Second Life is a 3-D virtual world entirely built and owned by its residents
+Icon=/usr/share/pixmaps/exodus_icon.png
+TryExec=/usr/bin/exodus
+Exec=/usr/bin/exodus
+Categories=Game;
+X-AppInstall-Package=exodus-bin
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=exodus-bin 13.9.21.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=exodus-bin
+X-Arch-Package-Version=13.9.21.1-1
+X-Arch-Package-Description=This is an alternative viewer for SecondLife. SecondLife is a
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.exodusviewer.com/
+X-Arch-Package-Votes=3

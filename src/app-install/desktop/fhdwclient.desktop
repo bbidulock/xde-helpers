@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=FHDW client
+GenericName=FHDW client
+Comment=FHDW grade system client
+Icon=/usr/share/pixmaps/fhdwclient.png
+TryExec=/usr/bin/fhdwclient
+Exec=/usr/bin/fhdwclient
+Categories=Application;Network;
+StartupNotify=false
+X-AppInstall-Package=fhdwclient
+X-AppInstall-Section=aur
+X-Arch-Package=fhdwclient 8.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fhdwclient
+X-Arch-Package-Version=8.0-1
+X-Arch-Package-Description=FHDW grade system client
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ux-02.ha.bib.de/daten/FHDW-Verwaltung/FHDWApplication/
+X-Arch-Package-Votes=0

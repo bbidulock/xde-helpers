@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Fedora ARM Image Installer
+Comment=Install a Fedora ARM or Fedora Remix ARM image to an SD card
+Icon=/usr/share/fedora-arm-installer/data/logo.png
+TryExec=/usr/bin/fedora-arm-installer-pkexec
+Exec=fedora-arm-installer-pkexec
+Categories=System;
+StartupNotify=true
+X-Desktop-File-Install-Version=0.18
+X-AppInstall-Package=fedora-arm-installer
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=fedora-arm-installer 1.0.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fedora-arm-installer
+X-Arch-Package-Version=1.0.0-1
+X-Arch-Package-Description=Writes binary image files to any specified block device
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://fedoraproject.org/wiki/Fedora_ARM_Installer
+X-Arch-Package-Votes=1

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=AMD CodeXL
+GenericName=AMD CodeXL
+Comment=OpenCL and OpenGL Debugger and Profiler
+Icon=codexl
+TryExec=/usr/bin/CodeXL
+Exec=CodeXL
+NoDisplay=true
+Categories=Development;Debugger;Profiling;Analyze;
+X-AppInstall-Package=amdapp-codexl
+X-AppInstall-Popcon=24
+X-AppInstall-Section=aur
+X-Arch-Package=amdapp-codexl 1.7-7300
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=amdapp-codexl
+X-Arch-Package-Version=1.7-7300
+X-Arch-Package-Description=AMD CodeXL is an OpenCL and OpenGL Debugger and Profiler, with
+X-Arch-Package-Groups=amdapp
+X-Arch-Package-URL=http://developer.amd.com/tools/heterogeneous-computing/codexl/
+X-Arch-Package-Votes=24
+Aliases=codexl;

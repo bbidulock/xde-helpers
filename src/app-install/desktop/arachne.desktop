@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Arachne
+GenericName=arachne
+Comment=Realtime image fluid resizing program
+Comment[cs]=Maže nezajímavá místa z obrázků speciální technikou
+Icon=arachne
+TryExec=/usr/bin/arachne
+Exec=arachne
+Categories=Graphics;RasterGraphics;
+StartupNotify=true
+X-AppInstall-Package=arachne
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=arachne 1.1.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=arachne
+X-Arch-Package-Version=1.1.1-1
+X-Arch-Package-Description=Resize your images without distorting the shape of the things
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://seam-carver.sourceforge.net/
+X-Arch-Package-Votes=5

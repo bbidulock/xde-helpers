@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=WSJT5
+Comment=Weak Signal Communication by K1JT
+Icon=wsjt5.png
+TryExec=/usr/bin/python2
+Exec=python2 -O /opt/wsjt5/wsjt-5.9.7.r386/wsjt.py
+X-DCOP-ServiceType=none
+Categories=Application;HamRadio;
+MimeType=text;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=wsjt5
+X-AppInstall-Section=aur
+X-Arch-Package=wsjt5 5.9.7.r386-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wsjt5
+X-Arch-Package-Version=5.9.7.r386-1
+X-Arch-Package-Description=Weak Signal Communication by K1JT
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.physics.princeton.edu/pulsar/K1JT/
+X-Arch-Package-Votes=0

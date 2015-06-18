@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Habra Tray
+GenericName=Habra informer
+Comment=informer for habrahabr.ru
+Icon=habratray
+TryExec=/usr/bin/habr
+Exec=habr
+Categories=Network;InstantMessaging;
+StartupNotify=true
+X-AppInstall-Package=habratray
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=habratray 0.1-git
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=habratray
+X-Arch-Package-Version=0.1-git
+X-Arch-Package-Description=HabraTray informer to http://habrahabr.ru
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/valualit/HabraTray/
+X-Arch-Package-Votes=1

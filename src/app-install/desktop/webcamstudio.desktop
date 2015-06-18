@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=WebcamStudio
+Comment=WebcamStudio for GNU/Linux
+Icon=/usr/share/pixmaps/webcamstudio.png
+TryExec=/usr/bin/webcamstudio
+Exec=/usr/bin/webcamstudio
+Categories=Application;AudioVideo;
+X-AppInstall-Package=webcamstudio
+X-AppInstall-Popcon=88
+X-AppInstall-Section=aur
+X-Arch-Package=webcamstudio 0.61-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=webcamstudio
+X-Arch-Package-Version=0.61-2
+X-Arch-Package-Description=WebcamStudio helps you create a virtual webcam that can show
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://es.ws4gl.org/
+X-Arch-Package-Votes=88

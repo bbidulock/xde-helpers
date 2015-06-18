@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Minuette VS Lazyness
+GenericName=Pony Project Playaform 4: Minuette VS Lazyness
+Comment=A plataform game where you Minuette a Crystal pony need to run across a sideview level againt the time
+Icon=minuette
+TryExec=/usr/bin/minuette
+Exec=/usr/bin/minuette
+Categories=Game;
+X-AppInstall-Package=pony-plataform-project
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=pony-plataform-project 4-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pony-plataform-project
+X-Arch-Package-Version=4-4
+X-Arch-Package-Description=Pony Plataformimng Poject 4: A colection of pony games (not
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.dragon-mango.com/ponygame
+X-Arch-Package-Votes=1

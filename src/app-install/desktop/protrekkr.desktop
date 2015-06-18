@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.98f
+Type=Application
+Name=protrekkr
+Comment=Tracker program to create electronic music (like psytrance, trance goa, hard acid, IDM, chip, techno, etc.) for small sized intros, demos or games.
+TryExec=/usr/bin/protrekkr
+Exec=protrekkr
+Categories=AudioVideo;Audio;AudioVideoEditing;
+X-AppInstall-Package=protrekkr
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=protrekkr 1.98k_linux_svn_357-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=protrekkr
+X-Arch-Package-Version=1.98k_linux_svn_357-1
+X-Arch-Package-Description=Tracker program to create electronic music (like psytrance,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/protrekkr/
+X-Arch-Package-Votes=3

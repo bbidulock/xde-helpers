@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=CsoundQt
+Comment=Csound Qt signal processing environment/editor
+Icon=csoundqt
+TryExec=/usr/bin/csoundqt
+Exec=csoundqt
+Categories=Application;AudioVideo;Audio;
+X-AppInstall-Package=csoundqt
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=csoundqt 0.9.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=csoundqt
+X-Arch-Package-Version=0.9.0-2
+X-Arch-Package-Description=CsoundQt (formerly qutecsound) is a frontend for Csound
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://qutecsound.sourceforge.net/
+X-Arch-Package-Votes=8

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=CeWe Fotobuch
+Comment=Offline client for cewe.de service
+Icon=cewe-fotobuch
+TryExec=/usr/bin/cewe-fotobuch
+Exec=cewe-fotobuch
+Categories=Graphics;Photography;
+StartupNotify=true
+X-AppInstall-Package=cewe-fotobuch
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=cewe-fotobuch 5.1.7-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cewe-fotobuch
+X-Arch-Package-Version=5.1.7-1
+X-Arch-Package-Description=an offline client for creating photobooks, uploading and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.cewe.de/
+X-Arch-Package-Votes=3

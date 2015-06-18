@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=x3270
+Comment=An IBM 3270 terminal emulator for the X Window System
+Icon=/usr/share/pixmaps/x3270-icon2.xpm
+TryExec=/usr/bin/x3270
+Exec=/usr/bin/x3270
+Categories=Application;Utility;
+X-AppInstall-Package=x3270
+X-AppInstall-Popcon=24
+X-AppInstall-Section=aur
+X-Arch-Package=x3270 3.3.15ga9-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=x3270
+X-Arch-Package-Version=3.3.15ga9-1
+X-Arch-Package-Description=An IBM 3270 terminal emulator for the X Window System
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://x3270.bgp.nu/
+X-Arch-Package-Votes=24

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=TeamSpeak
+GenericName=TeamSpeak
+Comment=TeamSpeak is software for quality voice communication via the Internet
+Icon=/usr/share/pixmaps/teamspeak.png
+TryExec=/usr/bin/teamspeak
+Exec=/usr/bin/teamspeak
+Categories=Application;Network;
+StartupNotify=true
+X-AppInstall-Package=teamspeak
+X-AppInstall-Section=aur
+X-Arch-Package=teamspeak 3.0.8-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=teamspeak
+X-Arch-Package-Version=3.0.8-1
+X-Arch-Package-Description=TeamSpeak is a proprietary Voice over IP software
+X-Arch-Package-URL=http://www.teamspeak.com/

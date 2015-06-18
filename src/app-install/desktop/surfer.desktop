@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Surfer
+GenericName=Internet web browser
+GenericName[es]=Navegador web
+Comment=Internet web browser
+Comment[es]=Navegador web
+Icon=applications-internet
+TryExec=/usr/bin/surfer
+Exec=/usr/bin/surfer
+Categories=Network;WebBrowser;Qt;
+MimeType=text/html;text/xml;application/xhtml+xml;application/xml;image/gif;image/jpeg;image/png;
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=surfer
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=surfer 0.8-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=surfer
+X-Arch-Package-Version=0.8-1
+X-Arch-Package-Description=Web browser on QtWebKit that focus on usability
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gitorious.org/surfer
+X-Arch-Package-Votes=1

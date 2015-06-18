@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Jameica
+GenericName=HBCI Banking
+Icon=/usr/share/java/jameica/jameica-icon.png
+TryExec=/usr/share/java/jameica/jameica.sh
+Exec=/usr/share/java/jameica/jameica.sh
+NoDisplay=true
+Categories=Office;Finance;Java;
+X-AppInstall-Package=jameica-nightly
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=jameica-nightly 2.7.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jameica-nightly
+X-Arch-Package-Version=2.7.0-1
+X-Arch-Package-Description=Jameica Plattform
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.willuhn.de/products/jameica/
+X-Arch-Package-Votes=4
+Aliases=jameica;

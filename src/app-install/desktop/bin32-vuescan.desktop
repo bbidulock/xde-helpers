@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=VueScan
+GenericName=Scanning Tool
+Comment=A powerful but easy to use scanning tool.
+Icon=scanner
+TryExec=/usr/bin/vuescan
+Exec=vuescan
+NoDisplay=true
+Categories=Graphics;GTK;Gnome;
+X-KDE-StartupNotify=true
+X-AppInstall-Package=bin32-
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=bin32-vuescan 9.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bin32-
+X-Arch-Package-Version=9.5-1
+X-Arch-Package-Description=A powerful but easy to use OSI scanning tool (9.5 series,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.hamrick.com/
+X-Arch-Package-Votes=1
+Aliases=vuescan;

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Quarkcoin
+GenericName=P2P network based digital currency
+Comment=P2P network based digital currency
+Icon=/usr/share/pixmaps/quarkcoin.png
+TryExec=/usr/bin/quarkcoin-qt
+Exec=quarkcoin-qt
+Categories=Finance;P2P;Internet;
+StartupNotify=true
+X-AppInstall-Package=quarkcoin-git
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=quarkcoin-git 0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=quarkcoin-git
+X-Arch-Package-Version=0.1-1
+X-Arch-Package-Description=Quarkcoin is a CPU only peer-to-peer network based digital
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.quarkcoin.com/
+X-Arch-Package-Votes=5

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Don't Move
+Comment=Ninjas, failure, ludonarrative dissonance and player investment manipulation
+Icon=dontmove
+TryExec=/usr/bin/dontmove
+Exec=dontmove
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=dontmove-hib
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=dontmove-hib 1.3-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dontmove-hib
+X-Arch-Package-Version=1.3-2
+X-Arch-Package-Description=Ninjas, failure, ludonarrative dissonance and player
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.steverichey.com/portfolio/dont-move/
+X-Arch-Package-Votes=1

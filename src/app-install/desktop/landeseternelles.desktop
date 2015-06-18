@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Landes Eternelles - le jeu
+Comment=Landes Eternelles is a frensh role playing game (mmorpg), forked from Eternal Lands.
+Icon=landeseternelles.png
+TryExec=/usr/bin/landeseternelles
+Exec=landeseternelles
+Categories=Application;Game;
+X-AppInstall-Package=landeseternelles
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=landeseternelles 1.9.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=landeseternelles
+X-Arch-Package-Version=1.9.0-1
+X-Arch-Package-Description=Landes Eternelles is a frensh role playing game (mmorpg),
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.landes-eternelles.com
+X-Arch-Package-Votes=2

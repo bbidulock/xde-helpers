@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Cinnamoncoin
+GenericName=P2P network based digital currency
+Comment=P2P network based digital currency
+Icon=/usr/share/pixmaps/cinnamoncoin.png
+TryExec=/usr/bin/cinnamoncoin-qt
+Exec=cinnamoncoin-qt
+NoDisplay=true
+Categories=Finance;P2P;Internet;
+StartupNotify=true
+X-AppInstall-Package=cinnamoncoin-git
+X-AppInstall-Section=aur
+X-Arch-Package=cinnamoncoin-git 0.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cinnamoncoin-git
+X-Arch-Package-Version=0.1-2
+X-Arch-Package-Description=Cinnamoncoin is a peer-to-peer network based digital currency.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://cinnamoncoin.org/
+X-Arch-Package-Votes=0
+Aliases=cinnamoncoin;

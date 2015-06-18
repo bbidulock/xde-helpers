@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=StarMade
+GenericName=A Space Exploration Voxel Game!
+Comment=StarMade
+Icon=/usr/share/pixmaps/starmade.png
+TryExec=/usr/bin/starmade
+Exec=starmade
+Categories=Game;
+X-AppInstall-Package=starmade
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=starmade 15.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=starmade
+X-Arch-Package-Version=15.0-1
+X-Arch-Package-Description=Build a ship and shoot some space rocks.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://star-made.org/
+X-Arch-Package-Votes=6

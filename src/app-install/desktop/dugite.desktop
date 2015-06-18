@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Dugite
+Comment=A simple xmms2 client
+Icon=xmms2.svg
+TryExec=/usr/bin/dugite
+Exec=dugite
+Categories=AudioVideo;
+StartupNotify=true
+X-AppInstall-Package=dugite
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=dugite 0.1.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dugite
+X-Arch-Package-Version=0.1.1-1
+X-Arch-Package-Description=XMMS2 client written in C and GTK
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.bayles.id.au/dugite/
+X-Arch-Package-Votes=2

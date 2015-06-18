@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=WorldEditor
+GenericName=Airport Layout Creator
+Comment=WorldEditor (WED) is a CAD-like graphic editor that lets you create custom airport layouts. It is designed for X-Plane, and works with apt.dat version 850 and higher.
+Icon=WorldEditor
+TryExec=/usr/bin/LD_PRELOAD=libcurl.so.3
+Exec=LD_PRELOAD=libcurl.so.3 WED
+NoDisplay=true
+Categories=Game;Simulation;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=worldeditor
+X-AppInstall-Section=aur
+X-Arch-Package=worldeditor 1.3.1r1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=worldeditor
+X-Arch-Package-Version=1.3.1r1-1
+X-Arch-Package-Description=WorldEditor (WED) is a CAD-like graphic editor that lets you create custom airport layouts. It is designed for X-Plane, and works with apt.dat version 850 and higher.
+X-Arch-Package-URL=http://developer.x-plane.com/tools/worldeditor/
+Aliases=WorldEditor;

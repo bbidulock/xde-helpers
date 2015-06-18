@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=GeneRally 2
+Comment=A top-down arcade racing game
+Icon=generally2
+TryExec=/usr/bin/generally2
+Exec=generally2
+Categories=Game;
+X-AppInstall-Package=generally2
+X-AppInstall-Section=aur
+X-Arch-Package=generally2 demo2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=generally2
+X-Arch-Package-Version=demo2-1
+X-Arch-Package-Description=A top-down arcade racing game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gene-rally.com/
+X-Arch-Package-Votes=0

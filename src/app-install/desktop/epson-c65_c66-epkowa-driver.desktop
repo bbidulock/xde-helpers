@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Epson printer monitor
+Name[pl]=Monitor drukarki Epson
+Comment=Check status of your printer
+Comment[pl]=Sprawdź status swojej drukarki
+Icon=printer
+TryExec=/usr/bin/ekpstm
+Exec=/usr/bin/ekpstm
+NoDisplay=true
+Categories=Application;System;
+X-AppInstall-Package=epson-c65_c66-epkowa-driver
+X-AppInstall-Section=aur
+X-Arch-Package=epson-c65_c66-epkowa-driver 2.6.2_2-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=epson-c65_c66-epkowa-driver
+X-Arch-Package-Version=2.6.2_2-3
+X-Arch-Package-Description=Cups closed-source driver for Epson C65 and C66 printers made
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.avasys.jp/english/linux_e/index.html/
+X-Arch-Package-Votes=0
+Aliases=ekpstm;

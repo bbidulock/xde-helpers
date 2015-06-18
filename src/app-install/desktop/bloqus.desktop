@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Bloqus
+GenericName=Bloqus
+Comment=Blokus clone
+Comment[fr]=Clone de blokus
+Icon=/usr/share/bloqus/bloqus_icon_48.png
+TryExec=/usr/bin/bloqus
+Exec=/usr/bin/bloqus
+Categories=Game;
+X-AppInstall-Package=bloqus
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=bloqus 1.0.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bloqus
+X-Arch-Package-Version=1.0.0-1
+X-Arch-Package-Description=Inspired by the game Blokus, you have to place polyominos on a
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://bloqus.tuxfamily.org/
+X-Arch-Package-Votes=5

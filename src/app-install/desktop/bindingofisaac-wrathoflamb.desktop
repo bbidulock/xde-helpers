@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=The Binding of Isaac + Wrath of the Lamb DLC
+Comment=A randomly generated action RPG shooter with heavy Rogue-like elements.
+Icon=bindingofisaac-wrathoflamb
+TryExec=/usr/bin/bindingofisaac-wrathoflamb
+Exec=bindingofisaac-wrathoflamb
+Categories=Game;
+X-AppInstall-Package=bindingofisaac-wrathoflamb
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=bindingofisaac-wrathoflamb 1.48-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bindingofisaac-wrathoflamb
+X-Arch-Package-Version=1.48-4
+X-Arch-Package-Description=The Binding of Isaac + Wrath of the Lamb DLC is a randomly
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.bindingofisaac.com/
+X-Arch-Package-Votes=5

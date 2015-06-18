@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=ZombieGrinder
+Comment="A Zombie Shooter"
+Icon=zombiegrinder.png
+TryExec=/usr/bin/zombiegrinder
+Exec=/usr/bin/zombiegrinder
+Categories=Game;
+Path=/usr/bin/
+StartupNotify=false
+X-AppInstall-Package=zombiegrinder
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=zombiegrinder latest-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zombiegrinder
+X-Arch-Package-Version=latest-1
+X-Arch-Package-Description=A Zombie shooter, controlled with the keyboard
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.twindrills.com/
+X-Arch-Package-Votes=4

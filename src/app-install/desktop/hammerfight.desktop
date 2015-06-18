@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Hammerfight
+Comment=A 2D physics-based video game in which you swing large melee weapons to destroy enemies
+Icon=hammerfight
+TryExec=/usr/bin/hammerfight
+Exec=/usr/bin/hammerfight
+Categories=Game;
+X-AppInstall-Package=hammerfight
+X-AppInstall-Popcon=29
+X-AppInstall-Section=aur
+X-Arch-Package=hammerfight 1.004-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=hammerfight
+X-Arch-Package-Version=1.004-1
+X-Arch-Package-Description=A 2D physics-based video game in which you swing large melee
+X-Arch-Package-Groups=humblebundle3 humblebundle4 humblebundles
+X-Arch-Package-URL=http://www.koshutin.com/
+X-Arch-Package-Votes=29

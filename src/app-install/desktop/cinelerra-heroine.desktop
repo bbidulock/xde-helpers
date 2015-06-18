@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Cinelerra
+Comment=Video Editor
+TryExec=/usr/bin/cinelerra
+Exec=cinelerra
+NoDisplay=true
+X-AppInstall-Package=cinelerra-heroine
+X-AppInstall-Popcon=18
+X-AppInstall-Section=aur
+X-Arch-Package=cinelerra-heroine 4.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cinelerra-heroine
+X-Arch-Package-Version=4.6-1
+X-Arch-Package-Description=Cinelerra from the HeroineWarrior.com (64-bit)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.heroinewarrior.com/cinelerra.php
+X-Arch-Package-Votes=18
+Aliases=cinelerra;

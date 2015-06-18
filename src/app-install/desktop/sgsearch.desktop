@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=SGSearch search tool
+Icon=sgsearch
+TryExec=/usr/bin/sgsearch
+Exec=sgsearch
+Categories=Utility;
+StartupNotify=false
+X-AppInstall-Package=sgsearch
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sgsearch
+X-Arch-Package-Version=1.1.7-1
+X-Arch-Package-Description=A simple GTK frontend for find and grep file search tools
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sallu.tuxfamily.org/
+X-Arch-Package-Votes=3

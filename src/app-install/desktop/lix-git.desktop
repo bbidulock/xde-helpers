@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Lix
+Comment=an action-puzzle game
+Icon=/usr/share/pixmaps/lix.png
+TryExec=/usr/bin/lix
+Exec=lix
+NoDisplay=true
+Categories=Application;Game;
+X-AppInstall-Package=lix-git
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=lix-git 20150203.714.abdbc16-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lix-git
+X-Arch-Package-Version=20150203.714.abdbc16-1
+X-Arch-Package-Description=an action-puzzle game in the IRS (Interactive Rodent
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://asdfasdf.ethz.ch/~simon/
+X-Arch-Package-Votes=5
+Aliases=lix;

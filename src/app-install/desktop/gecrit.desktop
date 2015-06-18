@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=gEcrit
+GenericName=Python IDE
+Icon=/usr/share/pixmaps/gecrit.png
+TryExec=/usr/bin/gecrit
+Exec=gecrit
+Categories=Development;IDE;
+X-AppInstall-Package=gecrit
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=gecrit 2.8.4-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gecrit
+X-Arch-Package-Version=2.8.4-2
+X-Arch-Package-Description=Fast, lightweight Python IDE intended for beginners, with
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/gecrit/
+X-Arch-Package-Votes=5

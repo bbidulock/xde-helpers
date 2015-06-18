@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=PCSX2
+GenericName=Playstation 2 Emulator
+Comment=Sony Playstation 2 emulator
+Icon=pcsx2
+TryExec=/usr/bin/pcsx2
+Exec=pcsx2
+Categories=Game;Emulator;GTK;
+X-AppInstall-Package=pcsx2-bin
+X-AppInstall-Section=aur
+X-Arch-Package=pcsx2-bin 1.0.0-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pcsx2-bin
+X-Arch-Package-Version=1.0.0-4
+X-Arch-Package-Description=A PlayStation 2 emulator.
+X-Arch-Package-URL=http://www.pcsx2.net
