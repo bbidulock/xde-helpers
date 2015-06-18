@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=ceed
+Comment=Crazy Eddie's gui consolidated EDitor
+Icon=/usr/share/ceed/icons/application_icon.png
+TryExec=/usr/bin/ceed-gui
+Exec=ceed-gui
+Categories=Development;Graphics;
+X-AppInstall-Package=ceed
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=ceed 0.0.11-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ceed
+X-Arch-Package-Version=0.0.11-1
+X-Arch-Package-Description=Unified Editor Tool for Crazy Eddie's GUI Library
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.cegui.org.uk
+X-Arch-Package-Votes=2

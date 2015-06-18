@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Ignuit
+GenericName=ignuit
+Comment=A memorization aid based on the Leitner flashcard system
+Icon=ignuit
+TryExec=/usr/bin/ignuit
+Exec=ignuit
+Categories=Education;
+X-AppInstall-Package=ignuit
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=ignuit 2.20.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ignuit
+X-Arch-Package-Version=2.20.0-1
+X-Arch-Package-Description=A memorization aid based on the Leitner flashcard system
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://homepages.ihug.co.nz/~trmusson/programs.html#ignuit
+X-Arch-Package-Votes=10

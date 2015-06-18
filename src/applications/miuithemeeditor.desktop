@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=MIUI Theme Editor
+Name[zh_CN]=MIUI主题编辑器
+Comment=Easy to edit miui theme.
+Comment[zh_CN]=方便的编辑MIUI主题文件。
+Icon=/usr/share/icons/miuithemeeditor.png
+TryExec=/usr/bin/miuithemeeditor
+Exec=/usr/bin/miuithemeeditor
+Categories=Graphics;
+StartupNotify=false
+InitialPreference=3
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=miuithemeeditor
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=miuithemeeditor 20120625-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=miuithemeeditor
+X-Arch-Package-Version=20120625-3
+X-Arch-Package-Description=An applications for edit miui theme(mtz).
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.miui.com/thread-553310-1-1.html
+X-Arch-Package-Votes=1

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Voidlauncher
+GenericName=Voidlauncher
+Comment=Void launcher for minecraft.
+Icon=/usr/share/pixmaps/voidlauncher.png
+TryExec=/usr/bin/voidlauncher
+Exec=voidlauncher
+Categories=Game;
+X-AppInstall-Package=voidlauncher
+X-AppInstall-Section=aur
+X-Arch-Package=voidlauncher latest-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=voidlauncher
+X-Arch-Package-Version=latest-1
+X-Arch-Package-Description=VoidLauncher for voidswrath.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://voidswrath.com
+X-Arch-Package-Votes=0

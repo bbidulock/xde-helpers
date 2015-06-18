@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Eclipse PHP
+Comment=Eclipse for PHP Developers
+Icon=eclipse-php
+TryExec=/usr/bin/eclipse-php
+Exec=eclipse-php
+Categories=Development;IDE;
+StartupNotify=true
+X-AppInstall-Package=eclipse-php
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=eclipse-php 4.4.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=eclipse-php
+X-Arch-Package-Version=4.4.1-2
+X-Arch-Package-Description=An IDE for PHP and other web development languages
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://eclipse.org
+X-Arch-Package-Votes=2

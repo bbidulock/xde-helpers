@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Indigo
+Comment=A physically-based renderer
+Icon=indigo
+TryExec=/usr/bin/indigo
+Exec=indigo %f
+X-MultipleArgs=false
+NoDisplay=true
+Categories=Graphics;3DGraphics;
+X-AppInstall-Package=indigo-unstable
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=indigo-unstable 1.1.18-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=indigo-unstable
+X-Arch-Package-Version=1.1.18-1
+X-Arch-Package-Description=Physically-based unbiased render engine (unstable version)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.indigorenderer.com
+X-Arch-Package-Votes=1
+Aliases=indigo;

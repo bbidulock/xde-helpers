@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Qtrainer
+GenericName=Qtrainer is a personal home trainer
+GenericName[fr]=Qtrainer est un entraineur personnel à la maison
+Comment=Qtrainer is a personal home trainer
+Icon=/usr/share/pixmaps/qtrainer.png
+TryExec=/usr/bin/qtrainer
+Exec=qtrainer
+Categories=Education;
+StartupNotify=true
+X-AppInstall-Package=qtrainer
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=qtrainer 0.6-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qtrainer
+X-Arch-Package-Version=0.6-2
+X-Arch-Package-Description=Qtrainer is a personal home trainer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/dprevite/pysshfs
+X-Arch-Package-Votes=1

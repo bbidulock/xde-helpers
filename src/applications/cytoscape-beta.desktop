@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Cytoscape (Beta)
+GenericName=Biological Networks Analysis
+Comment=Visualization and analysis of biological networks. Beta Version.
+Icon=cytoscape-beta
+TryExec=/usr/bin/cytoscape-beta
+Exec=cytoscape-beta
+Categories=Application;Science;
+MimeType=application/cytoscape;application/x-cytoscape;
+X-AppInstall-Package=cytoscape-beta
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=cytoscape-beta 3.0.0_beta1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cytoscape-beta
+X-Arch-Package-Version=3.0.0_beta1-2
+X-Arch-Package-Description=A software for visualizing molecular interaction networks and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.cytoscape.org
+X-Arch-Package-Votes=2

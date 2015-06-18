@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=JOSM
+GenericName=Java OpenStreetMap Editor
+Comment=Editor for OpenStreetMap.org
+Icon=josm
+TryExec=/usr/bin/josm
+Exec=josm
+Categories=Education;Science;Geoscience;Graphics;
+X-AppInstall-Package=josm
+X-AppInstall-Popcon=99
+X-AppInstall-Section=community
+X-Arch-Package=josm 8339-1
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=josm
+X-Arch-Package-Version=8339-1
+X-Arch-Package-Description=An editor for OpenStreetMap written in Java
+X-Arch-Package-URL=http://josm.openstreetmap.de/

@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Killbots
+Name[sr@ijekavian]=К‑злоботи
+Name[sr@ijekavianlatin]=K‑zloboti
+Name[sr@latin]=K‑zloboti
+Name[sr]=К‑злоботи
+Name[x-test]=xxKillbotsxx
+Icon=killbots
+TryExec=/usr/bin/killbots
+Exec=killbots -caption "%c"
+Categories=Game;StrategyGame;KDE;Qt;
+StartupNotify=false
+X-DocPath=killbots/index.html
+X-AppInstall-Package=killbots
+X-AppInstall-Popcon=155
+X-AppInstall-Section=extra
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=killbots
+X-Arch-Package-Version=15.04.2-1
+X-Arch-Package-Description=A simple game of evading killer robots
+X-Arch-Package-Groups=kde-applications  kdegames
+X-Arch-Package-URL=http://kde.org/applications/games/killbots/

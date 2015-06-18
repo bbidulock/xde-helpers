@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Pallavi
+Comment=A text editor
+Icon=/usr/share/pallavi/pallavi128.xpm
+TryExec=/usr/bin/pallavi
+Exec=pallavi
+Categories=Utility;GNOME;GTK;
+X-AppInstall-Package=pallavi
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=pallavi 0.6b3-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pallavi
+X-Arch-Package-Version=0.6b3-2
+X-Arch-Package-Description=Extensible Text Editor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pallavi.sf.net/
+X-Arch-Package-Votes=5

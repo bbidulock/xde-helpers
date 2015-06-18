@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Service
+Name=Bing Search
+ServiceTypes=SearchProvider;
+X-AppInstall-Package=bing-konqueror-search
+X-AppInstall-Section=aur
+X-Arch-Package=bing-konqueror-search 0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bing-konqueror-search
+X-Arch-Package-Version=0.1-1
+X-Arch-Package-Description=Microsoft's Bing search engine for Konqueror
+X-Arch-Package-URL=http://www.bing.com
+Charset=Default
+Keys=bg
+Query=http://www.bing.com/search?q=\\{@}&form=QBLH&scope=web&filt=all

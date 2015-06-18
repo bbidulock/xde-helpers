@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Specto
+Comment=Be notified of everything
+Comment[fr]=Soyez alerte
+Icon=specto
+TryExec=/usr/bin/specto
+Exec=specto
+Categories=Utility;GNOME;
+StartupNotify=true
+X-AppInstall-Package=specto
+X-AppInstall-Popcon=37
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=specto
+X-Arch-Package-Version=0.4.1-2
+X-Arch-Package-Description=A program that will watch configurable events and then trigger
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://specto.sourceforge.net/
+X-Arch-Package-Votes=37

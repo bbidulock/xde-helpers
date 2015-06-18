@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Dolphin
+GenericName=GameCube and Wii Emulator
+Comment=An emulator for the GameCube and Wii consoles
+Icon=dolphin-emu
+TryExec=/usr/bin/dolphin-emu
+Exec=dolphin-emu
+Categories=Game;Emulator;GTK;
+StartupNotify=false
+X-AppInstall-Package=dolphin-emu
+X-AppInstall-Section=community
+X-Arch-Package=dolphin-emu 3.5-2
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=dolphin-emu
+X-Arch-Package-Version=1:4.0.2-8
+X-Arch-Package-Description=A Gamecube / Wii / Triforce emulator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://dolphin-emu.org

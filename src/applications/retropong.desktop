@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Retropong
+GenericName=Simple pong remake
+TryExec=/usr/bin/retropong
+Exec=retropong
+Categories=Game;ActionGame;
+StartupNotify=false
+X-AppInstall-Package=retropong
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=retropong 1.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=retropong
+X-Arch-Package-Version=1.0-2
+X-Arch-Package-Description=a simple pong remake
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/retropong/
+X-Arch-Package-Votes=1

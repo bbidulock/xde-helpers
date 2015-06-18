@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Peazip
+Comment=Archiver utility
+Icon=peazip
+TryExec=/usr/bin/peazip
+Exec=peazip
+NoDisplay=true
+Categories=Application;Utility;
+StartupNotify=false
+X-AppInstall-Package=peazip-qt-build
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=peazip-qt-build 5.5.3-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=peazip-qt-build
+X-Arch-Package-Version=5.5.3-2
+X-Arch-Package-Description=Free cross-platform file archiver (compiles from source)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://peazip.org
+X-Arch-Package-Votes=2
+Aliases=peazip;

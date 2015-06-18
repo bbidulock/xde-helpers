@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=codeslayer
+Comment=A source code editor that boasts a clean interface but powerful features.
+Icon=codeslayer
+TryExec=/usr/bin/codeslayer
+Exec=codeslayer
+X-MultipleArgs=false
+Categories=Development;GTK;
+MimeType=text/x-perl;text/x-php;text/x-php-source;
+X-AppInstall-Package=codeslayer
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=codeslayer 4.3.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=codeslayer
+X-Arch-Package-Version=4.3.1-1
+X-Arch-Package-Description=A source code editor that boasts a clean interface but
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/codeslayer/
+X-Arch-Package-Votes=3

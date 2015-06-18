@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Code Browser 3.0
+Comment=Folding text editor
+Icon=cb
+TryExec=/usr/bin/code-browser
+Exec=code-browser %F
+Categories=Utility;TextEditor;
+MimeType=text/plain;
+StartupNotify=true
+X-AppInstall-Package=code-browser
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=code-browser 4.9-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=code-browser
+X-Arch-Package-Version=4.9-1
+X-Arch-Package-Description=folding text editor, designed to hierarchically structure any
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code-browser.sourceforge.net/index.html
+X-Arch-Package-Votes=8

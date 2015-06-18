@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=tsMuxeR
+Comment=tsMuxeR GUI 1.10.6
+Icon=/usr/share/pixmaps/tsmuxer.png
+TryExec=/usr/bin/tsMuxerGUI
+Exec=tsMuxerGUI
+Categories=AudioVideo;
+StartupNotify=true
+X-AppInstall-Package=tsmuxer-gui
+X-AppInstall-Popcon=39
+X-AppInstall-Section=aur
+X-Arch-Package=tsmuxer-gui 1.10.6-15
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tsmuxer-gui
+X-Arch-Package-Version=1.10.6-15
+X-Arch-Package-Description=Transport Stream muxer - gui only
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.smlabs.net/tsmuxer_en.html
+X-Arch-Package-Votes=39

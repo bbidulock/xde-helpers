@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=SDLBlocks
+Comment=Tetris remake
+TryExec=/usr/bin/sdlblocks
+Exec=/usr/bin/sdlblocks
+Categories=Game;ArcadeGame;
+StartupNotify=true
+X-AppInstall-Package=sdlblocks
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=sdlblocks 1-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sdlblocks
+X-Arch-Package-Version=1-5
+X-Arch-Package-Description=A Tetris remake written in C using libSDL
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://machineinteractive.com/projects/projects.html
+X-Arch-Package-Votes=2

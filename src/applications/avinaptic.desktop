@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Avinaptic
+Comment=Avinaptic - Video files analyzer
+Icon=/usr/share/icons/avinaptic.png
+TryExec=/usr/bin/avinaptic
+Exec=avinaptic
+Categories=AudioVideo;Video;GTK;
+X-AppInstall-Package=avinaptic
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=avinaptic 20071118-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=avinaptic
+X-Arch-Package-Version=20071118-4
+X-Arch-Package-Description=a powerful video files analyzer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://fsinapsi.altervista.org/
+X-Arch-Package-Votes=3

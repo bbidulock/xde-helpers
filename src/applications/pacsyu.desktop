@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=PacSyu
+Comment=Notifier and update installer for Archlinux
+Comment[es]=Notificador e instalador de actualizaciones para Archlinux
+Icon=pacsyu
+TryExec=/usr/bin/pacsyu
+Exec=pacsyu
+Categories=System;GTK;
+X-AppInstall-Package=pacsyu-git
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=pacsyu-git 20120116-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pacsyu-git
+X-Arch-Package-Version=20120116-1
+X-Arch-Package-Description=Update notifier based on python2 and GTK2
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sonlinkblog.blogspot.com/p/pacsyu.html
+X-Arch-Package-Votes=6

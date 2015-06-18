@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=EVIL (Aleph One)
+Comment=A FPS game
+Icon=alephone
+TryExec=/usr/bin/alephone-evil
+Exec=alephone-evil
+Categories=Game;ActionGame;
+X-AppInstall-Package=alephone-evil
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=alephone-evil 1.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=alephone-evil
+X-Arch-Package-Version=1.0-2
+X-Arch-Package-Description=A radical new scenario for the AlephOne engine
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://trilogyrelease.bungie.org/
+X-Arch-Package-Votes=2

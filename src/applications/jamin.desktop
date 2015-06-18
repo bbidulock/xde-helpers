@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=JAMin
+Comment=JACK Audio Mastering interface
+Comment[fr]=Interface de masterisation JACK Audio
+Comment[ru]=JAMin -- приложение для мастеринга звука
+Icon=jamin.svg
+TryExec=/usr/bin/jamin
+Exec=jamin
+Categories=Application;AudioVideo;
+MimeType=application/x-jamin;
+StartupNotify=true
+X-AppInstall-Package=jamin
+X-AppInstall-Popcon=49
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jamin
+X-Arch-Package-Version=0.95.0-8
+X-Arch-Package-Description=A JACK Audio Connection Kit Audio Mastering interface
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://jamin.sourceforge.net/
+X-Arch-Package-Votes=49

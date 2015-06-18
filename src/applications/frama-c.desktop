@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Frama-C
+Comment=Framework for source code analysis of software written in C
+Icon=frama-c
+TryExec=/usr/bin/frama-c-gui
+Exec=frama-c-gui
+Categories=Development;Science;IDE;GTK;
+StartupNotify=false
+X-AppInstall-Package=frama-c
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=frama-c
+X-Arch-Package-Version=20150201-1
+X-Arch-Package-Description=Extensible platform dedicated to source-code analysis of C
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://frama-c.com
+X-Arch-Package-Votes=6

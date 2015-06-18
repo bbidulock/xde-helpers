@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=R
+GenericName=environment for statistical computing
+Comment=language and environment for statistical computing and graphics
+Icon=/usr/share/pixmaps/r.png
+TryExec=/usr/bin/R
+Exec=R
+Terminal=true
+NoDisplay=true
+Categories=Science;
+StartupNotify=true
+DocPath=/usr/lib/R/doc/html/index.html
+X-AppInstall-Package=r-devel
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=r-devel latest-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=r-devel
+X-Arch-Package-Version=latest-1
+X-Arch-Package-Description=Language and environment for statistical computing and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.r-project.org/
+X-Arch-Package-Votes=2
+Aliases=r;

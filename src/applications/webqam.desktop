@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.0.0
+Type=Application
+Name=webqam
+Comment=An useful systray application that show and organize your webcams.
+Icon=webqam
+TryExec=/usr/bin/webqam
+Exec=webqam
+Categories=Utility;Qt;
+StartupNotify=false
+X-AppInstall-Package=webqam
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=webqam 1.0.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=webqam
+X-Arch-Package-Version=1.0.0-1
+X-Arch-Package-Description=An useful systray application that show and organize your
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/webqam/
+X-Arch-Package-Votes=5

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=0.0.5
+Type=Application
+Name=Aria2FE
+Icon=aria2fe
+TryExec=/usr/bin/aria2fe
+Exec=aria2fe
+Categories=Network;
+X-AppInstall-Package=aria2fe
+X-AppInstall-Popcon=46
+X-AppInstall-Section=aur
+X-Arch-Package=aria2fe 0.0.5-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=aria2fe
+X-Arch-Package-Version=0.0.5-5
+X-Arch-Package-Description=A GUI for the CLI-based aria2 download utility
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/aria2fe/
+X-Arch-Package-Votes=46

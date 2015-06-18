@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=PyPar2
+Comment=A graphical frontend for the par2 utility
+Comment[de]=Eine grafische Oberfläche für par2
+Comment[fr]=Une interface graphique pour le programme par2
+Comment[pl]=Graficzna nakładka na narzędzie par2
+Icon=pypar2.png
+TryExec=/usr/bin/pypar2
+Exec=pypar2
+Categories=Application;GNOME;GTK;
+MimeType=application/x-executable;
+StartupNotify=true
+X-AppInstall-Package=pypar2
+X-AppInstall-Popcon=24
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pypar2
+X-Arch-Package-Version=1.4-7
+X-Arch-Package-Description=Graphical frontend (PyGTK) for the Linux par2 utility
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pypar2.silent-blade.org/
+X-Arch-Package-Votes=24

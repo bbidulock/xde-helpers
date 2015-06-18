@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Tomes of Mephistopheles
+GenericName=Tomes of Mephistopheles
+Comment=A Dungeon-Crawling-RPG
+Icon=tomes-of-mephistopheles
+TryExec=/usr/bin/tomes-of-mephistopheles
+Exec=tomes-of-mephistopheles
+Categories=Game;DungeonCrawler;
+StartupNotify=false
+X-AppInstall-Package=tomes-of-mephistopheles
+X-AppInstall-Section=aur
+X-Arch-Package=tomes-of-mephistopheles alpha2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tomes-of-mephistopheles
+X-Arch-Package-Version=alpha2-1
+X-Arch-Package-Description=A dungeon-crawling-RPG currently in early state of development. Requires you to preorder Tomes of Mephistopheles.
+X-Arch-Package-URL=http://tom.kot-in-action.com/

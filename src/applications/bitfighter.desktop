@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Bitfighter
+Comment=A free multiplayer 2-D space combat game with Robotron-like controls
+Icon=bitfighter
+TryExec=/usr/bin/bitfighter
+Exec=bitfighter
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=bitfighter
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=bitfighter 0.19e-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bitfighter
+X-Arch-Package-Version=0.19e-1
+X-Arch-Package-Description=A fast-paced team-based outer-space multi-player combat game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://bitfighter.org/
+X-Arch-Package-Votes=13

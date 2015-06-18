@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Slune
+Comment=A 3D racing and car-crashing game written in Python
+Icon=slune.png
+TryExec=/usr/bin/slune
+Exec=slune
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=slune
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=slune 1.0.15-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=slune
+X-Arch-Package-Version=1.0.15-2
+X-Arch-Package-Description=A 3D racing and car-crashing game written in Python
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://home.gna.org/oomadness/en/slune/
+X-Arch-Package-Votes=3

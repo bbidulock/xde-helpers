@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=SCIM (Smart Common Input Method) startup
+Comment=Start the Smart Common Input Method platform
+Icon=/usr/share/pixmaps/scim-setup.png
+TryExec=/usr/bin/scim
+Exec=scim -d
+Categories=Utility;Applications;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=scim
+X-AppInstall-Section=extra
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=scim
+X-Arch-Package-Version=1.4.14-5
+X-Arch-Package-Description=Input method user interface and development platform
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.scim-im.org/projects/scim

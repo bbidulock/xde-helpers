@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Bygfoot
+Comment=A soccer manager game
+Icon=bygfoot
+TryExec=/usr/bin/bygfoot
+Exec=bygfoot
+Categories=Game;SportsGame;
+X-AppInstall-Package=bygfoot
+X-AppInstall-Popcon=17
+X-AppInstall-Section=aur
+X-Arch-Package=bygfoot 2.3.2-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bygfoot
+X-Arch-Package-Version=2.3.2-3
+X-Arch-Package-Description=Football (a.k.a. soccer) management game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.bygfoot.com/
+X-Arch-Package-Votes=10

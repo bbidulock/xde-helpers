@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Jin
+Comment=Graphical client for chess servers.
+Icon=/usr/share/jin/icon.png
+TryExec=/usr/bin/jin
+Exec=/usr/bin/jin
+Categories=Game;BoardGame;
+StartupNotify=false
+X-AppInstall-Package=jin
+X-AppInstall-Popcon=22
+X-AppInstall-Section=aur
+X-Arch-Package=jin 2.14.1-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jin
+X-Arch-Package-Version=2.14.1-4
+X-Arch-Package-Description=Java client for various chess servers
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://sourceforge.net/projects/jin/
+X-Arch-Package-Votes=22

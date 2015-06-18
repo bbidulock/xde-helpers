@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=QTM
+GenericName=Blog editor
+Comment=Weblog management application
+Icon=_usr_share_icons_qtm-logo1
+TryExec=/usr/bin/qtm
+Exec=/usr/bin/qtm
+Categories=Application;Network;X-MandrivaLinux-Internet-Other;
+StartupNotify=false
+X-AppInstall-Package=qtm
+X-AppInstall-Popcon=16
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qtm
+X-Arch-Package-Version=1.3-1
+X-Arch-Package-Description=A blogging client which is presently capable of composing,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://qtm.blogistan.co.uk
+X-Arch-Package-Votes=16

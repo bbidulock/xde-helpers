@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=jCatGUI
+Icon=jcatgui-9kw
+TryExec=/usr/bin/java
+Exec=java -jar /usr/share/jcatgui-9kw/jCatGUI_9kw.jar
+Categories=Network;
+StartupNotify=false
+X-AppInstall-Package=jcatgui-9kw
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=jcatgui-9kw 1.1.6.b-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jcatgui-9kw
+X-Arch-Package-Version=1.1.6.b-1
+X-Arch-Package-Description=An application written to solve jobs or rather to earn credits
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://sites.google.com/site/jcatgui9kw/
+X-Arch-Package-Votes=3

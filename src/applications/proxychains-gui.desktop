@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=ProxyChains GUI
+GenericName=ProxyChains GUI
+Icon=proxychains-gui
+TryExec=/usr/bin/ProxyChainsGUI
+Exec=ProxyChainsGUI
+Categories=Network;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=proxychains-gui
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=proxychains-gui 1.4.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=proxychains-gui
+X-Arch-Package-Version=1.4.1-2
+X-Arch-Package-Description=A free graphical user interface using Qt for ProxyChains.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://proxychains.sourceforge.net/
+X-Arch-Package-Votes=10

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Seventh Sense
+GenericName=Seventh Sense
+Comment=Lone Wolf book player
+Icon=/usr/share/pixmaps/seventhsense.png
+TryExec=/usr/bin/seventhsense
+Exec=seventhsense
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=seventhsense
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=seventhsense 1.16.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=seventhsense
+X-Arch-Package-Version=1.16.1-1
+X-Arch-Package-Description=Lone wolf book player
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.projectaon.org/staff/david/index.php
+X-Arch-Package-Votes=2

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Kabikaboo
+GenericName=Writing Assistant
+Comment=Manage large collections of notes
+Icon=_usr_share_kabikaboo_kabikaboo
+TryExec=/usr/bin/kabikaboo
+Exec=kabikaboo
+Categories=Office;GNOME;GTK;
+StartupNotify=false
+X-AppInstall-Package=kabikaboo
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kabikaboo
+X-Arch-Package-Version=1.7-1
+X-Arch-Package-Description=a tree-based notepad and book planning tool
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://launchpad.net/kabikaboo
+X-Arch-Package-Votes=3

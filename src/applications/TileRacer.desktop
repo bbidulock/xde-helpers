@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Tile Racer 0.702
+Comment=The ultimate stunt racing game
+Icon=/usr/share/tileracer/TileRacer128.png
+TryExec=/usr/share/tileracer/TileRacer.sh
+Exec=/usr/share/tileracer/TileRacer.sh
+Categories=Application;Game;X-Red-Hat-Base;
+X-AppInstall-Package=tileracer
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=tileracer 0.702-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tileracer
+X-Arch-Package-Version=0.702-3
+X-Arch-Package-Description=3D stunt racing game which features realistic car physics and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://tileracer.model-view.com
+X-Arch-Package-Votes=13

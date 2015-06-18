@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Songbird
+Comment=A media player based on Mozilla
+Icon=Songbird
+TryExec=/opt/songbird/songbird
+Exec=/opt/songbird/songbird
+Categories=AudioVideo;Player;
+X-AppInstall-Package=songbird-bin64
+X-AppInstall-Section=aur
+X-Arch-Package=songbird-bin64 1.8.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=songbird-bin64
+X-Arch-Package-Version=1.8.0-1
+X-Arch-Package-Description=Digital desktop media player (jukebox) mashed-up with web browser, powered by Mozilla (lastest contributed 64bit build binary).
+X-Arch-Package-URL=http://www.getsongbird.com/

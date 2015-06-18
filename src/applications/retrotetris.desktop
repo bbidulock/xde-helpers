@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Retrotetris
+GenericName=Simple tetris remake
+TryExec=/usr/bin/retrotetris
+Exec=retrotetris
+Categories=Game;ActionGame;
+StartupNotify=false
+X-AppInstall-Package=retrotetris
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=retrotetris 1.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=retrotetris
+X-Arch-Package-Version=1.0-2
+X-Arch-Package-Description=a simple tetris remake
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/retropong/
+X-Arch-Package-Votes=1

@@ -1,0 +1,26 @@
+[Desktop Entry]
+Type=Application
+Name=Graphical frontend to SAFT
+Name[de]=Grafisches Frontend für SAFT
+Name[ro]=Interfață grafică pentru SAFT
+Name[sv]=Grafiskt gränssnitt för SAFT
+Name[vi]=Giao diện đồ họa của SAFT
+Comment=Graphical frontend to SAFT
+Comment[de]=Grafisches Frontend für SAFT
+Comment[ro]=Interfață grafică pentru SAFT
+Comment[sv]=Grafiskt gränssnitt för SAFT
+Comment[vi]=Giao diện đồ họa của SAFT
+Icon=beer-mini.xpm
+TryExec=/usr/bin/beer
+Exec=/usr/bin/beer
+Categories=Application;Network;
+StartupNotify=false
+X-AppInstall-Package=gerstensaft
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gerstensaft
+X-Arch-Package-Version=0.3-1
+X-Arch-Package-Description=easy to use graphical frontend for sendfile
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.infodrom.org/projects/gerstensaft
+X-Arch-Package-Votes=0

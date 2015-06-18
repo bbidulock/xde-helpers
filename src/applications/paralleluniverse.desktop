@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Parallel Universe
+Comment=Play a 3D space combat and simulation
+Comment[cs]=Hraj 3D vesmírnou simulaci
+Comment[es]=Juega un combate y una simulación del espacio 3D
+Icon=paralleluniverse
+TryExec=/usr/bin/vegastrike
+Exec=vegastrike
+Categories=Game;StrategyGame;
+StartupNotify=true
+X-AppInstall-Package=paralleluniverse
+X-AppInstall-Section=aur
+X-Arch-Package=paralleluniverse 496-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=paralleluniverse
+X-Arch-Package-Version=496-1
+X-Arch-Package-Description=A modification for Privateer Remake 1.2, which itself is a total conversion of a game named VegaStrike.
+X-Arch-Package-URL=http://pu.wcjunction.com/

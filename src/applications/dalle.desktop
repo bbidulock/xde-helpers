@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=dalle
+Comment=File splitter & merger which supports lots of formats
+Icon=dalle
+TryExec=/usr/bin/dalle-gtk
+Exec=dalle-gtk
+Categories=Utility;
+X-AppInstall-Package=dalle
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package=dalle 0.10.10-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dalle
+X-Arch-Package-Version=0.10.10-1
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://dalle.sourceforge.net/
+X-Arch-Package-Votes=11

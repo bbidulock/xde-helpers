@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Super Mario War
+Comment=Super Mario multiplayer game
+Icon=smw
+TryExec=/usr/bin/smw
+Exec=smw
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=smw-svn
+X-AppInstall-Popcon=14
+X-AppInstall-Section=aur
+X-Arch-Package=smw-svn 1.8.r6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=smw-svn
+X-Arch-Package-Version=1.8.r6-1
+X-Arch-Package-Description=Super Mario War multiplayer game (development version)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://smw.supersanctuary.net/
+X-Arch-Package-Votes=14
+Aliases=smw;

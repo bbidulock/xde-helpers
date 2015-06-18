@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Minecraft Save Seed Reader
+Comment=Allows you read Minecraft save seeds and toggle game modes.
+TryExec=/usr/bin/minecraft-save-seed-reader
+Exec=java -jar /usr/share/minecraft-save-seed-reader/MinecraftSeed.jar
+Categories=Game;
+Keywords=minecraft;
+X-AppInstall-Package=minecraft-save-seed-reader
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=minecraft-save-seed-reader 1.7.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=minecraft-save-seed-reader
+X-Arch-Package-Version=1.7.2-1
+X-Arch-Package-Description=Allows you to toggle the game mode of Minecraft worlds/saves.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/thedarkfreak/Minecraft-Save-Seed-Reader/wiki
+X-Arch-Package-Votes=1

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Holotz Castle
+GenericName=holotz-castle
+Comment=Play an exciting mystery game
+Comment[es]=Juega a un excitante juego de misterio
+Comment[ro_RO]=Jucați un joc misterios și antrenant
+Icon=holotz-castle
+TryExec=/usr/bin/holotz-castle
+Exec=holotz-castle
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=holotz-castle
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=holotz-castle
+X-Arch-Package-Version=1.3.14-3
+X-Arch-Package-Description=A platform game with high doses of mystery
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.mainreactor.net
+X-Arch-Package-Votes=6

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=RFDump
+GenericName=RFID tool
+GenericName[de]=RFID-Tool
+Comment=Tool to directly interoperate with an RFID reader
+Comment[de]=Tool zum direkten Zugriff auf RFID-Leser
+Icon=_usr_share_pixmaps_rfdump
+TryExec=/usr/bin/rfdump
+Exec=rfdump
+Categories=Utility;Electronics;
+StartupNotify=false
+X-AppInstall-Package=rfdump
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rfdump
+X-Arch-Package-Version=1.6-2
+X-Arch-Package-Description=Tool to detect RFID-Tags and show their meta information
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.rfdump.org
+X-Arch-Package-Votes=7

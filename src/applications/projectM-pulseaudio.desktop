@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=projectM PulseAudio Visualization
+GenericName=PulseAudio Stream Visualization
+Comment=Visualization of PulseAudio streams with projectM
+Icon=prjm16-transparent
+TryExec=/usr/bin/projectM-pulseaudio
+Exec=projectM-pulseaudio
+Categories=AudioVideo;Audio;
+StartupNotify=false
+X-AppInstall-Package=projectm-pulseaudio
+X-AppInstall-Popcon=17
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=projectm-pulseaudio
+X-Arch-Package-Version=2.1.0-10
+X-Arch-Package-Description=ProjectM support for Pulseaudio
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://projectm.sourceforge.net/

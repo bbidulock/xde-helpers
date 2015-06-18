@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Judith
+Comment=A narrative art game with eerie atmosphere
+Icon=judith.png
+TryExec=/usr/bin/judith
+Exec=judith
+Categories=Game;AdventureGame;
+X-AppInstall-Package=judith
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=judith 1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=judith
+X-Arch-Package-Version=1.0-1
+X-Arch-Package-Description=A narrative art game with eerie atmosphere
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://distractionware.com/blog/2009/04/judith/
+X-Arch-Package-Votes=1

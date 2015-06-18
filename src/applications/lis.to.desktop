@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=lis.to
+GenericName=lis.to
+Icon=/usr/share/pixmaps/listo.png
+TryExec=/usr/bin/listo
+Exec=listo
+Categories=Office;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=lis.to
+X-AppInstall-Section=aur
+X-Arch-Package=lis.to 0.9.7.36-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lis.to
+X-Arch-Package-Version=0.9.7.36-3
+X-Arch-Package-Description=A task manager for mobilistas. Unique organisation scheme, the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/listo/
+X-Arch-Package-Votes=0
+Aliases=listo;

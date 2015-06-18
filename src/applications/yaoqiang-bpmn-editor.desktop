@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Yaoqiang BPMN Editor
+GenericName=BPMN and UML editor
+Icon=/opt/yaoqiang-bpmn-editor/yaoqiang-bpmn-editor.png
+TryExec=/opt/yaoqiang-bpmn-editor/yaoqiang-bpmn-editor
+Exec=/opt/yaoqiang-bpmn-editor/yaoqiang-bpmn-editor
+Categories=Development;IDE;
+Path=/opt/yaoqiang-bpmn-editor
+X-AppInstall-Package=yaoqiang-bpmn-editor
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=yaoqiang-bpmn-editor 4.0.25-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=yaoqiang-bpmn-editor
+X-Arch-Package-Version=.-1
+X-Arch-Package-Description=An open source graphical editor for business process diagrams,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://bpmn.sourceforge.net/
+X-Arch-Package-Votes=6

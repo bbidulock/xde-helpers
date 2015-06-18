@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Minecraft
+GenericName=Minecraft
+Comment=A game about placing blocks while running from skeletons.
+Icon=/usr/share/pixmaps/minecraft.png
+TryExec=/usr/bin/minecraft
+Exec=minecraft
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=minecraft-spout
+X-AppInstall-Section=aur
+X-Arch-Package=minecraft-spout latest-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=minecraft-spout
+X-Arch-Package-Version=latest-1
+X-Arch-Package-Description=Minecraft, with a modified command to automatically include 'Spout' mod. (includes Optifine)
+X-Arch-Package-URL=http://www.minecraft.net/
+Aliases=minecraft;

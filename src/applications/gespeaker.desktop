@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Gespeaker
+Comment=A frontend for espeak
+Comment[it_IT]=Un frontend per espeak
+Icon=_usr_share_gespeaker_data_icons_gespeaker
+TryExec=/usr/bin/gespeaker
+Exec=/usr/bin/gespeaker
+Categories=AudioVideo;Audio;Player;GTK;
+StartupNotify=false
+X-AppInstall-Package=gespeaker
+X-AppInstall-Popcon=19
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=gespeaker
+X-Arch-Package-Version=0.8.5-1
+X-Arch-Package-Description=A GTK+ frontend for espeak and mbrola to speech the read text.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.muflone.com/gespeaker/

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Audio Tag Tool
+Name[nl]=Geluidslabel Gereedschap
+Name[pt_BR]=Ferramenta para Etiquetar Audio
+Comment=MP3 and Ogg Vorbis tag editor
+Icon=TagTool
+TryExec=/usr/bin/tagtool
+Exec=tagtool
+Terminal=False
+Categories=AudioVideo;Audio;AudioVideoEditing;
+StartupNotify=false
+X-AppInstall-Package=tagtool
+X-AppInstall-Popcon=16
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tagtool
+X-Arch-Package-Version=0.13.4-1
+X-Arch-Package-Description=Tool to edit tags in MP3 and Ogg Vorbis files
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/impegoraro/tagtool
+X-Arch-Package-Votes=16

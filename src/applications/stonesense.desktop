@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Stonesense
+GenericName=Stonesense
+Comment=An isometric dwarf fortress visualizer.
+Icon=/usr/share/pixmaps/stonesense.png
+TryExec=/usr/bin/stonesense
+Exec=stonesense
+Categories=Game;
+X-AppInstall-Package=stonesense-svn
+X-AppInstall-Section=aur
+X-Arch-Package=stonesense-svn 964-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=stonesense-svn
+X-Arch-Package-Version=964-1
+X-Arch-Package-Description=An isometric dwarf fortress visualizer.
+X-Arch-Package-URL=http://stonesense.googlecode.com

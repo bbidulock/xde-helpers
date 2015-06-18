@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=OCamlCVS
+GenericName=Handle CVS
+GenericName[fr]=Gestion de CVS
+Comment=Visual utility to manage CVS files
+Comment[fr]=Utilitaire visuel pour gérer les fichiers sous CVS
+TryExec=/usr/bin/ocamlcvs2.byte
+Exec=ocamlcvs2.byte
+Categories=Development;RevisionControl;GTK;
+StartupNotify=false
+X-AppInstall-Package=cameleon
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cameleon
+X-Arch-Package-Version=0.2.1-1
+X-Arch-Package-Description=A universal file converter for various
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://camaleon.sourceforge.net/index_en.html
+X-Arch-Package-Votes=2

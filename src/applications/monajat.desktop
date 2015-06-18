@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Monajat Applet for supplications
+Name[ar]=بريمج مناجاة للأذكار
+Comment=Monajat in system tray icon
+Comment[ar]=بريمج مناجاة للأذكار
+Icon=monajat
+TryExec=/usr/bin/monajat-applet
+Exec=/usr/bin/monajat-applet --auto
+Categories=Utility;X-Islamic-Software;
+StartupNotify=false
+X-KDE-autostart-after=panel
+X-AppInstall-Package=monajat
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=monajat
+X-Arch-Package-Version=2.3.1-1
+X-Arch-Package-Description=A small application that popups Islamic prayers (azkar) every
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://launchpad.net/monajat
+X-Arch-Package-Votes=1

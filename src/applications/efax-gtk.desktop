@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Efax-gtk
+Name[he_IL]=תוכנת פקסים efax-gtk
+Name[zh_TW]=傳真
+Comment=GUI front end for the efax fax program
+Comment[he_IL]=ממשק גרפי עבור תוכנת הפקסים efax
+Comment[zh_TW]=efax 傳真軟體的 GUI 前端程式
+Icon=stock_send-fax
+TryExec=/usr/bin/efax-gtk
+Exec=efax-gtk
+Categories=Office;GTK;
+StartupNotify=false
+X-AppInstall-Package=efax-gtk
+X-AppInstall-Popcon=38
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=efax-gtk
+X-Arch-Package-Version=3.2.13-1
+X-Arch-Package-Description=A GUI front end for the 'efax' fax program
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://efax-gtk.sourceforge.net/

@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=gMFSK
+Comment=Ham Radio client for Digital modes
+Icon=gmfsk
+TryExec=/usr/bin/gmfsk
+Exec=gmfsk
+X-DCOP-ServiceType=none
+Categories=Application;HamRadio;
+MimeType=text/plain;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=gmfsk
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=gmfsk 0.7pre1-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gmfsk
+X-Arch-Package-Version=0.7pre1-3
+X-Arch-Package-Description=Ham Radio multi-mode digital communications package.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gmfsk.connect.fi/
+X-Arch-Package-Votes=2

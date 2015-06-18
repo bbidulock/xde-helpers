@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=2.0
+Type=Application
+Name=Pixi 2
+GenericName=Pixi2
+Comment=Pixi by DigiPen
+Icon=/usr/share/pixi2/pixilogo.ico
+TryExec=/usr/bin/pixi2
+Exec=pixi2
+Categories=Game;
+X-AppInstall-Package=wine-pixi2
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=wine-pixi2 2.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wine-pixi2
+X-Arch-Package-Version=2.0-2
+X-Arch-Package-Description=Digipen Sophomore Game - Final Version
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=None
+X-Arch-Package-Votes=2

@@ -1,8 +1,8 @@
 [Desktop Entry]
 Type=Application
-Name=mc
+Name=Midnight Commander
 Comment=Midnight Commander
-Icon=/usr/share/pixmaps/mc.xpm
+Icon=mc
 TryExec=/usr/bin/mc
 Exec=mc
 Terminal=true
@@ -15,5 +15,4 @@ X-Arch-Package-Repository=community
 X-Arch-Package-Name=mc
 X-Arch-Package-Version=4.8.14-1
 X-Arch-Package-Description=Midnight Commander is a text based filemanager/shell that emulates Norton Commander
-X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://www.ibiblio.org/mc/

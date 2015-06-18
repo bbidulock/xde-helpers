@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name="Yo Frankie!"
+Comment="3D platform game"
+Icon=/usr/share/pixmaps/yofrankie.png
+TryExec=/usr/bin/yofrankie.sh
+Exec=yofrankie.sh
+Categories=Game;ActionGame;
+X-AppInstall-Package=yofrankie
+X-AppInstall-Popcon=98
+X-AppInstall-Section=aur
+X-Arch-Package=yofrankie 1.1-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=yofrankie
+X-Arch-Package-Version=1.1-4
+X-Arch-Package-Description=A 3D platform game based on the bully rodent in Big Buck Bunny
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.yofrankie.org/
+X-Arch-Package-Votes=98

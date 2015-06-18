@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Day Planner
+Comment=A simple time manager
+Icon=dayplanner
+TryExec=/usr/bin/dayplanner
+Exec=dayplanner
+Categories=Office;ProjectManagement;
+X-AppInstall-Package=dayplanner
+X-AppInstall-Popcon=16
+X-AppInstall-Section=aur
+X-Arch-Package=dayplanner 0.11-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dayplanner
+X-Arch-Package-Version=0.11-2
+X-Arch-Package-Description=A simple time manager
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.day-planner.org/
+X-Arch-Package-Votes=16

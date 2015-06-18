@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=OutReel
+GenericName=Enable/Disable automount feature.
+Icon=/usr/share/pixmaps/outreel.png
+TryExec=/usr/bin/outreel
+Exec=outreel
+Categories=Multimedia;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=outreel
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=outreel 2.4.20-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=outreel
+X-Arch-Package-Version=2.4.20-1
+X-Arch-Package-Description=Outreel is fast and esasy to use video converter from
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://outreel.sourceforge.net/
+X-Arch-Package-Votes=3

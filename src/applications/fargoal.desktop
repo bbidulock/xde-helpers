@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Fargoal
+GenericName=Sword of Fargoal
+Comment=Sword of Fargoal is a simple to play roguelike game where you have to explore the undergrounds and fight monsters.
+Icon=fargoal.png
+TryExec=/usr/bin/fargoal
+Exec=fargoal
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=fargoal
+X-AppInstall-Section=aur
+X-Arch-Package=fargoal 1-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fargoal
+X-Arch-Package-Version=1-5
+X-Arch-Package-Description=Sword of Fargoal is a simple to play roguelike game where you
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://fargoal.com/
+X-Arch-Package-Votes=0

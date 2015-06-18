@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Qwired
+GenericName=Wired Client
+Icon=qwired.svg
+TryExec=/usr/bin/qwired
+Exec=qwired
+Categories=Network;FileTransfer;P2P;
+X-AppInstall-Package=qwired-svn
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=qwired-svn 470-6
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qwired-svn
+X-Arch-Package-Version=470-6
+X-Arch-Package-Description=Multi-platform client for the Wired protocol. It is written in
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://qwired-suite.blogspot.com
+X-Arch-Package-Votes=1

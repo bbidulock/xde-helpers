@@ -1,0 +1,26 @@
+[Desktop Entry]
+Type=Application
+Name=kpws
+GenericName=KDE Personal WebServer
+GenericName[sr@ijekavian]=КДЕ-ов лични веб сервер
+GenericName[sr@ijekavianlatin]=KDE-ov lični veb server
+GenericName[sr@latin]=KDE-ov lični veb server
+GenericName[sr]=КДЕ-ов лични веб сервер
+Icon=folder-new
+TryExec=/usr/bin/kpws
+Exec=kpws
+Categories=Network;RemoteAccess;KDE;Qt;
+InitialPreference=6
+X-DocPath=kpws/index.html
+X-KDE-StartupNotify=true
+X-AppInstall-Package=kpws
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=kpws 0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kpws
+X-Arch-Package-Version=0.1-1
+X-Arch-Package-Description=KDE Personal WebServer is a utility made to ease file sharing
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kde-apps.org/content/show.php?content=120462
+X-Arch-Package-Votes=2

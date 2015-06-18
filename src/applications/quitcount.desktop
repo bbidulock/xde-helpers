@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=QuitCount
+Comment=Simple counter showing your gains since you quit smoking
+Icon=quitcount
+TryExec=/usr/bin/quitcount
+Exec=quitcount
+Categories=Application;Utility;GTK;
+StartupNotify=false
+X-AppInstall-Package=quitcount
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=quitcount
+X-Arch-Package-Version=2.0-1
+X-Arch-Package-Description=Simple counter showing your gains since you quit smoking
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://quitcount.sourceforge.net/
+X-Arch-Package-Votes=2

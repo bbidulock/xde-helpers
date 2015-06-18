@@ -1,0 +1,26 @@
+[Desktop Entry]
+Type=Application
+Name=XMaxima
+GenericName=A computer algebra system
+GenericName[de]=Computeralgebra System
+GenericName[it]=algebra a livello avanzato
+Comment=A sophisticated computer algebra system
+Icon=maxima
+TryExec=/usr/bin/xmaxima
+Exec=xmaxima
+Terminal=true
+NoDisplay=true
+Hidden=true
+Categories=Science;Math;
+X-AppInstall-Package=maxima-clisp
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=maxima-clisp 5.30.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=maxima-clisp
+X-Arch-Package-Version=5.30.0-1
+X-Arch-Package-Description=Maxima - a sophisticated computer algebra system. Clisp
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://maxima.sourceforge.net
+X-Arch-Package-Votes=3
+Aliases=maxima;

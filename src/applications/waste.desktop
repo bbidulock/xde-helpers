@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Waste
+GenericName=P2P/F2F Server Application
+Comment=Mesh Workgroup Tool
+Icon=/usr/share/waste/res/connect_icon.gif
+TryExec=/usr/bin/waste
+Exec=/usr/bin/waste
+Categories=Network;FileTransfer;
+X-AppInstall-Package=wxwaste
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=wxwaste 1.5_beta_4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wxwaste
+X-Arch-Package-Version=1.5_beta_4-1
+X-Arch-Package-Description=A mesh-based workgroup tool that allows for encrypted, private
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/waste/
+X-Arch-Package-Votes=2

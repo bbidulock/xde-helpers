@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Hotwire Shell
+GenericName=Command prompt
+Comment=Execute text commands
+Icon=hotwire
+TryExec=/usr/bin/hotwire
+Exec=hotwire
+Categories=System;Utility;TerminalEmulator;GNOME;GTK;
+StartupNotify=true
+X-AppInstall-Package=hotwire
+X-AppInstall-Popcon=25
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=hotwire
+X-Arch-Package-Version=0.721-2
+X-Arch-Package-Description=An intelligent hybrid text/graphical shell for developers and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/hotwire-shell/
+X-Arch-Package-Votes=25

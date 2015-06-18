@@ -6,7 +6,6 @@ Icon=xgalaga
 TryExec=/usr/bin/xgalaga
 Exec=xgalaga
 Categories=Game;ArcadeGame;
-StartupNotify=false
 X-AppInstall-Package=xgalaga
 X-AppInstall-Popcon=64
 X-AppInstall-Section=custom

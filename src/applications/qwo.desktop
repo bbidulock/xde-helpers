@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=0.5
+Type=Application
+Name=qwo
+Comment=An input method for touchscreens
+Icon=qwo
+TryExec=/usr/bin/qwo
+Exec=qwo
+Categories=Utility;Keyboard;
+StartupNotify=false
+X-MB-SingleInstance=true
+X-AppInstall-Package=qwo
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qwo
+X-Arch-Package-Version=0.5-1
+X-Arch-Package-Description=An implementation of Quikwriting
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.nongnu.org/qwo/
+X-Arch-Package-Votes=1

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=gtk-setpwc
+Comment=A GTK frontend for setpwc
+Icon=/usr/share/pixmaps/gtksetpwc.png
+TryExec=/usr/bin/gtksetpwc.pl
+Exec=gtksetpwc.pl
+Categories=Utility;GTK;
+X-AppInstall-Package=gtksetpwc
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=gtksetpwc 0.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gtksetpwc
+X-Arch-Package-Version=0.2-2
+X-Arch-Package-Description=GTK2 frontend for setpwc
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gtksetpwc.spiderou.net/
+X-Arch-Package-Votes=5

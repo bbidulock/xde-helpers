@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=TreeLine
+Comment=TreeLine outliner and database manager
+Comment[es]=Gestor configurable de datos estructurados en forma de árbol
+Icon=treeline
+TryExec=/usr/bin/treeline
+Exec=treeline %f
+NoDisplay=true
+Hidden=true
+Categories=Office;Database;
+MimeType=application/x-treeline;
+X-AppInstall-Package=treeline-unstable
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=treeline-unstable 2.0.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=treeline-unstable
+X-Arch-Package-Version=2.0.0-1
+X-Arch-Package-Description=Tree outliner and PIM which stores any kind of information
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://treeline.bellz.org
+X-Arch-Package-Votes=4
+Aliases=treeline;

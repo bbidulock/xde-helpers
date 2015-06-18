@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.4
+Type=Application
+Name=FlightGear
+Comment=A flight simulator
+Comment[pt]=Simulação de Vôo
+TryExec=/usr/bin/fgfs
+Exec=fgfs
+Categories=Game;Simulation;
+StartupNotify=false
+X-AppInstall-Package=flightgear
+X-AppInstall-Popcon=95
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=flightgear
+X-Arch-Package-Version=3.4.0-2
+X-Arch-Package-Description=An open-source, multi-platform flight simulator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.flightgear.org

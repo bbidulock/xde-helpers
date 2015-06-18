@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Impact Finite Element Program
+Comment=An explicit suite which simulates dynamic impact events
+Icon=impact
+TryExec=/usr/bin/impact
+Exec=impact
+Categories=Education;Science;Engineering;Java;
+X-AppInstall-Package=impact
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=impact 0.7.06.038-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=impact
+X-Arch-Package-Version=0.7.06.038-1
+X-Arch-Package-Description=An explicit Finite Element Program Suite which simulates
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://impact.sourceforge.net/index_us.html
+X-Arch-Package-Votes=1

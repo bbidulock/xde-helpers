@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=WordNet
+Comment=Princeton Dictionary
+Icon=/usr/share/pixmaps/wordnet.png
+TryExec=/usr/bin/wnb
+Exec=wnb
+Categories=Application;Office;Dictionary;
+StartupNotify=false
+StartupWMClass=WordNet
+X-AppInstall-Package=wordnet
+X-AppInstall-Popcon=85
+X-AppInstall-Section=aur
+X-Arch-Package=wordnet 3.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wordnet
+X-Arch-Package-Version=3.1-1
+X-Arch-Package-Description=An Electronic Lexical Database from Princeton University
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://wordnet.princeton.edu/
+X-Arch-Package-Votes=85

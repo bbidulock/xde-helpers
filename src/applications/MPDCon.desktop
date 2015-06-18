@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=MPDCon
+Name[bg]=Клиент за MPD (MPDCon)
+Comment=GNUstep client for MPD
+Comment[bg]=MPD клиент за GNUstep
+Icon=/usr/lib/GNUstep/Applications/MPDCon.app/Resources/MPDCon.tiff
+TryExec=/usr/bin/MPDCon
+Exec=MPDCon
+Categories=AudioVideo;Audio;Player;
+StartupNotify=false
+X-AppInstall-Package=mpdcon
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mpdcon
+X-Arch-Package-Version=1.3-4
+X-Arch-Package-Description=A simple GNUstep controller for MPD
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.musicpd.org/MPDCon.shtml
+X-Arch-Package-Votes=5

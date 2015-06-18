@@ -1,0 +1,17 @@
+[Desktop Entry]
+Version=0.37.5
+Type=Application
+Name=TweetDeck
+Comment=Twitter Client
+Icon=tweetdeck.png
+TryExec=/usr/bin/tweetdeck
+Exec=tweetdeck
+Categories=Network;
+X-AppInstall-Package=tweetdeck
+X-AppInstall-Section=aur
+X-Arch-Package=tweetdeck 0_37.5-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tweetdeck
+X-Arch-Package-Version=0_37.5-3
+X-Arch-Package-Description=Twitter client (uses Wine)
+X-Arch-Package-URL=http://www.tweetdeck.com/

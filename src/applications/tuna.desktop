@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=tuna
+Icon=/usr/share/tuna/img/tuna.png
+TryExec=/usr/bin/gksu
+Exec=gksu tuna -g
+Categories=System;GTK;
+StartupNotify=true
+X-AppInstall-Package=tuna
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=tuna 0.12-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tuna
+X-Arch-Package-Version=0.12-2
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://rt.wiki.kernel.org/index.php/Tuna
+X-Arch-Package-Votes=3

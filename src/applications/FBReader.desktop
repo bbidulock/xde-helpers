@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=E-book reader
+Name[ru]=Чтение электронных книг
+GenericName=E-book reader
+GenericName[ru]=Чтение электронных книг
+Comment=E-book reader
+Comment[ru]=Чтение электронных книг
+Icon=FBReader.png
+TryExec=/usr/bin/FBReader
+Exec=FBReader %F
+Categories=Office;Viewer;Literature;
+StartupNotify=true
+X-AppInstall-Package=fbreader
+X-AppInstall-Popcon=269
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=fbreader
+X-Arch-Package-Version=0.99.4-5
+X-Arch-Package-Description=An e-book reader for Linux
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.fbreader.org/

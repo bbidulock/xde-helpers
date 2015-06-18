@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=DVD Shrink
+Comment=Shrink original DVDs onto recordable media
+Icon=/usr/share/pixmaps/dvdshrink.png
+TryExec=/usr/bin/dvdshrink
+Exec=dvdshrink
+Categories=Application;AudioVideo;DiscBurning;
+StartupNotify=true
+X-AppInstall-Package=dvdshrink
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=dvdshrink 3.2.0.15-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dvdshrink
+X-Arch-Package-Version=3.2.0.15-1
+X-Arch-Package-Description=Backup DVD disks
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.dvdshrink.org/
+X-Arch-Package-Votes=13

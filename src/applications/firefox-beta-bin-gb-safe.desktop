@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Firefox Beta - Safe Mode
+GenericName=Web Browser - Safe Mode
+Icon=firefox-beta-bin-gb-icon
+TryExec=/usr/bin/firefox-beta-bin-gb
+Exec=firefox-beta-bin-gb -safe-mode %u
+MultipleArgs=false
+Categories=Application;Network;
+MimeType=text/html;
+StartupNotify=false
+StartupWMClass=Firefox
+X-AppInstall-Package=firefox-beta-bin-gb
+X-AppInstall-Section=aur
+X-Arch-Package=firefox-beta-bin-gb 8.0b3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firefox-beta-bin-gb
+X-Arch-Package-Version=8.0b3-1
+X-Arch-Package-Description=Standalone web browser from mozilla.org, beta build - binaries. UK English
+X-Arch-Package-URL=http://www.mozilla.org/projects/firefox

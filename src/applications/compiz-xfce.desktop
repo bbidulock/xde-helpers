@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=0.9.4
+Type=Application
+Name=Compiz-Xfce autostart enabler
+TryExec=/usr/bin/compiz-xfce-autostart
+Exec=compiz-xfce-autostart
+NoDisplay=true
+OnlyShowIn=XFCE;
+StartupNotify=false
+X-AppInstall-Package=compiz-xfce
+X-AppInstall-Popcon=16
+X-AppInstall-Section=aur
+X-Arch-Package=compiz-xfce 0.8.9-23
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=compiz-xfce
+X-Arch-Package-Version=0.8.9-23
+X-Arch-Package-Description=Compiz meta package for Xfce, including autostart and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://cgit.compiz.org/
+X-Arch-Package-Votes=16
+Aliases=compiz-xfce-autostart;

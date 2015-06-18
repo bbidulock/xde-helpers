@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Magarena
+Comment=Fantasy card strategy game against computer opponent
+Icon=magarena.png
+TryExec=/usr/bin/magarena
+Exec=magarena
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=magarena
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=magarena 1.51-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=magarena
+X-Arch-Package-Version=1.51-1
+X-Arch-Package-Description=Fantasy card strategy game against computer opponent
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/magarena/
+X-Arch-Package-Votes=3

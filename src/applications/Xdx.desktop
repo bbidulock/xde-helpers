@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Xdx
+Comment=DX-cluster client for amateur radio
+Comment[nl]=DX-cluster client voor zendamateurs
+Icon=_usr_share_xdx_pixmaps_xdx
+TryExec=/usr/bin/xdx
+Exec=/usr/bin/xdx
+Categories=Network;HamRadio;
+StartupNotify=false
+X-AppInstall-Package=xdx
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xdx
+X-Arch-Package-Version=2.4.3-1
+X-Arch-Package-Description=Ham Radio DX-cluster client
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/xdxclusterclient/
+X-Arch-Package-Votes=1

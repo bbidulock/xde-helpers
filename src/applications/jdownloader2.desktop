@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=JDownloader 2 Beta
+Comment=Download manager for one-click hosting sites (Beta)
+Icon=jdownloader2
+TryExec=/usr/bin/jdownloader2
+Exec=jdownloader2
+Categories=Network;FileTransfer;
+MimeType=application/x-dlc-container;application/x-ccf-container;application/x-rsdf-container;
+StartupWMClass=jd-Main
+X-AppInstall-Package=jdownloader2-beta
+X-AppInstall-Section=aur
+X-Arch-Package=jdownloader2-beta LATEST-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jdownloader2-beta
+X-Arch-Package-Version=LATEST-1
+X-Arch-Package-Description=A download manager for one-click hosting sites (beta version, aka JDownloader 2)
+X-Arch-Package-URL=http://jdownloader.org/

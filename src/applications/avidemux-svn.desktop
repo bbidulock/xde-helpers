@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Avidemux
+Comment=Video Editor
+Comment[de]=Video-Bearbeitungsprogramm
+Comment[fr]=Éditeur video
+Icon=avidemux
+TryExec=/usr/bin/avidemux2_gtk
+Exec=avidemux2_gtk
+NoDisplay=true
+Categories=AudioVideo;Video;GTK;
+MimeType=application/x-extension-mp4;application/x-extension-m4a;video/mp4;video/x-m4v;video/mpeg;video/x-mpeg;video/x-avi;
+X-AppInstall-Package=avidemux-svn
+X-AppInstall-Section=aur
+X-Arch-Package=avidemux-svn 8397-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=avidemux-svn
+X-Arch-Package-Version=8397-1
+X-Arch-Package-Description=A graphical tool to edit video (filter/re-encode/split)
+X-Arch-Package-URL=http://avidemux.berlios.de/
+Aliases=avidemux;

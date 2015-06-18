@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=SeaMonkey
+Icon=seamonkey-beta
+TryExec=/usr/bin/seamonkey-beta
+Exec=seamonkey-beta %u
+MultipleArgs=false
+Categories=Application;Network;
+MimeType=text/html;
+StartupNotify=false
+X-AppInstall-Package=seamonkey-beta-bin-es-es
+X-AppInstall-Section=aur
+X-Arch-Package=seamonkey-beta-bin-es-es 2.3b3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=seamonkey-beta-bin-es-es
+X-Arch-Package-Version=2.3b3-1
+X-Arch-Package-Description=SeaMonkey internet suite (beta version, Castilian Spanish)
+X-Arch-Package-URL=http://www.seamonkey-project.org

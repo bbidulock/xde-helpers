@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=gamgi
+GenericName=Atom Structure Visualization
+Comment=Construct, view and analyse atomic structures
+Icon=gamgi
+TryExec=/usr/bin/gamgi
+Exec=gamgi %f
+Categories=Education;Science;Chemistry;
+X-AppInstall-Package=gamgi
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=gamgi 0.16.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gamgi
+X-Arch-Package-Version=0.16.3-1
+X-Arch-Package-Description=General Atomistic Modelling Graphic Interface is a free
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.gamgi.org/
+X-Arch-Package-Votes=3

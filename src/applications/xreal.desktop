@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=XreaL
+Comment=FPS based on Quake 3 Arena
+TryExec=/usr/bin/xreal
+Exec=xreal
+Categories=Game;
+X-AppInstall-Package=xreal-svn
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=xreal-svn 4170-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xreal-svn
+X-Arch-Package-Version=4170-1
+X-Arch-Package-Description=xReal - The highly advanced id Tech 3 engine and free indie
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://xreal-project.net/
+X-Arch-Package-Votes=5

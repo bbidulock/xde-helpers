@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=0.0.1
+Type=Application
+Name=Gadmin-SSHD
+Icon=gadmin-sshd.png
+TryExec=/usr/bin/gadmin-sshd-menu
+Exec=gadmin-sshd-menu
+Categories=System;Applications;
+X-AppInstall-Package=gadmin-sshd
+X-AppInstall-Section=aur
+X-Arch-Package=gadmin-sshd 0.0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gadmin-sshd
+X-Arch-Package-Version=0.0.1-1
+X-Arch-Package-Description=A GTK+ gui to administer SSHD
+X-Arch-Package-URL=http://mange.dynalias.org/linux/gadmintools-webpage/app_pages/gadmin-sshd.html

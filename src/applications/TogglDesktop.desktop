@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Toggl Desktop
+Comment=Toggl Timetracker Client
+Icon=/opt/toggl/toggl-desktop/product_logo_32.xpm
+TryExec=/usr/bin/toggl-desktop
+Exec=toggl-desktop
+Categories=Application;Network;
+X-AppInstall-Package=toggl-desktop-beta
+X-AppInstall-Section=aur
+X-Arch-Package=toggl-desktop-beta 4.0.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=toggl-desktop-beta
+X-Arch-Package-Version=4.0.0-1
+X-Arch-Package-Description=Time tracker application
+X-Arch-Package-URL=http://www.toggl.com/

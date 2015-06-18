@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=開放中文轉換
+Comment=A GUI frontend of OpenCC that writen by gambas.
+Icon=/usr/share/pixmaps/opencc-gbgui.png
+TryExec=/usr/bin/opencc-gbgui
+Exec=/usr/bin/opencc-gbgui
+Categories=Office;
+StartupNotify=true
+X-AppInstall-Package=opencc-gbgui
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=opencc-gbgui 0.0.3-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=opencc-gbgui
+X-Arch-Package-Version=0.0.3-2
+X-Arch-Package-Description=A GUI frontend of OpenCC that writen by gambas.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://poker-lee.tk
+X-Arch-Package-Votes=1

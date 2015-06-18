@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Momentics IDE
+Comment=QNX Momentics IDE for Blackberry 10 development (QDE)
+Icon=qde
+TryExec=/usr/bin/qde
+Exec=qde
+Categories=Development;IDE;
+X-AppInstall-Package=momentics-ide-blackberry
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=momentics-ide-blackberry 2.0_201310251201-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=momentics-ide-blackberry
+X-Arch-Package-Version=_-1
+X-Arch-Package-Description=QNX Momentics IDE for Blackberry 10 development
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://developer.blackberry.com/native/
+X-Arch-Package-Votes=2

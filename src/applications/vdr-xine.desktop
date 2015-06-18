@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=VDR - Xine Plugin
+Comment=Video Disk Recorder - Xine plugin
+Icon=xine
+TryExec=/usr/bin/xine
+Exec=/usr/bin/xine --no-splash --hide-gui "vdr://tmp/vdr-xine/stream#demux:mpeg_pes"
+Categories=Application;AudioVideo;Video;TV;Multimedia;
+StartupNotify=true
+X-AppInstall-Package=vdr-xine
+X-AppInstall-Section=aur
+X-Arch-Package=vdr-xine 0.9.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=vdr-xine
+X-Arch-Package-Version=0.9.4-1
+X-Arch-Package-Description=A VDR plugin that allows VDR to be used with budget cards
+X-Arch-Package-URL=http://sourceforge.net/projects/xine/

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Xyscan
+Comment=Tool to extract data points from graphical plots
+Comment[ru]=Программа для определения координат точек по растровому графику
+Icon=xyscan
+TryExec=/usr/bin/xyscan
+Exec=xyscan
+Categories=Education;Graphics;Science;2DGraphics;
+X-AppInstall-Package=xyscan
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=xyscan 3.3.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xyscan
+X-Arch-Package-Version=3.3.3-1
+X-Arch-Package-Description=Tool to extract data points from graphical plots
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://star.physics.yale.edu/~ullrich/xyscanDistributionPage/
+X-Arch-Package-Votes=3

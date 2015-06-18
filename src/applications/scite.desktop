@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=SciTE Text Editor
+Name[en_GB]=Scite Text Editor
+Name[es]=Editor de textos SciTE
+Comment=Programming editor
+Comment[es]=Edita especializado para programación
+Icon=_usr_share_pixmaps_Sci48M
+TryExec=/usr/bin/scite
+Exec=scite %F
+Categories=Application;Development;
+StartupNotify=false
+X-AppInstall-Package=scite
+X-AppInstall-Popcon=265
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=scite
+X-Arch-Package-Version=3.5.5-1
+X-Arch-Package-Description=Editor with facilities for building and running programs
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.scintilla.org/SciTE.html

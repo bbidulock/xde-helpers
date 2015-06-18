@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=gtklick
+Comment=A Simple Metronome
+Icon=gtklick
+TryExec=/usr/bin/gtklick
+Exec=gtklick
+Categories=AudioVideo;Audio;Music;GTK;
+StartupNotify=false
+X-AppInstall-Package=gtklick
+X-AppInstall-Popcon=16
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gtklick
+X-Arch-Package-Version=0.6.4-2
+X-Arch-Package-Description=A graphical frontend for the klick metronome application
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://das.nasophon.de/gtklick/
+X-Arch-Package-Votes=16

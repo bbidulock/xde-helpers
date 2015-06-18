@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=Java Monitoring and Management Console
+Icon=sun-java
+TryExec=/usr/bin/jconsole
+Exec=jconsole
+Categories=Development;Java;
+StartupNotify=true
+X-AppInstall-Package=java8-oracle
+X-AppInstall-Section=aur
+X-Arch-Package=java8-oracle 8.u20-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=java8-oracle
+X-Arch-Package-Version=8.u20-2
+X-Arch-Package-URL=http://www.oracle.com/technetwork/java/index.html

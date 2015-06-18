@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Fusion Icon
+Comment=Compiz Control TrayIcon
+TryExec=/usr/bin/fusion-icon
+Exec=/usr/bin/fusion-icon
+NoDisplay=true
+X-GNOME-Autostart-enabled=true
+X-AppInstall-Package=bundle-desktop-jianingy
+X-AppInstall-Section=aur
+X-Arch-Package=bundle-desktop-jianingy 0.05-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bundle-desktop-jianingy
+X-Arch-Package-Version=0.05-1
+X-Arch-Package-Description=!!DONT USE!!. This package is not functional properly yet.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://blog.jianingy.com
+X-Arch-Package-Votes=0
+Aliases=fusion-icon;

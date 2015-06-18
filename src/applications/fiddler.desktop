@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Fiddler Web Debugger Proxy
+Comment=The Free Web Debugger Proxy by Telerik
+Icon=/opt/fiddler/fiddler.png
+TryExec=/usr/bin/mono
+Exec=mono /opt/fiddler/Fiddler.exe %u
+Categories=Development;
+X-AppInstall-Package=fiddler
+X-AppInstall-Popcon=15
+X-AppInstall-Section=aur
+X-Arch-Package=fiddler 4.4.8.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fiddler
+X-Arch-Package-Version=4.4.8.4-1
+X-Arch-Package-Description=The free web debugging proxy by Telerik (running on mono)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://getfiddler.com/
+X-Arch-Package-Votes=15

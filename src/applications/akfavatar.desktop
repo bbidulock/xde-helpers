@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=AKFAvatar
+Comment=A GUI for applications, where an avatar tells things to the user
+Icon=akfavatar
+TryExec=/usr/bin/lua-akfavatar
+Exec=lua-akfavatar
+Categories=Game;
+X-AppInstall-Package=akfavatar
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=akfavatar 0.21.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=akfavatar
+X-Arch-Package-Version=0.21.2-1
+X-Arch-Package-Description=A GUI for applications, where an avatar tells things to the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://akfoerster.de/akfavatar/akfavatar.en.html
+X-Arch-Package-Votes=2

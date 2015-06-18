@@ -1,0 +1,26 @@
+[Desktop Entry]
+Type=Application
+Name=Esperanza
+GenericName=QT4 client for XMMS2
+GenericName[cs]=QT4 klient pro XMMS2
+Comment=QT4 klient pro XMMS2
+Icon=/usr/share/icons/hicolor/128x128/apps/esperanza.png
+TryExec='/usr/bin/esperanza'
+Exec='/usr/bin/esperanza'
+NoDisplay=true
+Categories=Application;AudioVideo;Player;KDE;Qt;Multimedia;
+StartupNotify=true
+X-KDE-StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=esperanza-git
+X-AppInstall-Popcon=23
+X-AppInstall-Section=aur
+X-Arch-Package=esperanza-git r402.1b81dc2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=esperanza-git
+X-Arch-Package-Version=r402.1b81dc2-1
+X-Arch-Package-Description=Esperanza is a XMMS2 client written in C++/Qt4 and aims to be
+X-Arch-Package-Groups=xmms2
+X-Arch-Package-URL=http://wiki.xmms2.xmms.se/index.php/Client:Esperanza
+X-Arch-Package-Votes=23
+Aliases=esperanza;

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=shnerkel
+Icon=shnerkel
+TryExec=/usr/bin/shnerkel
+Exec=shnerkel
+Categories=AudioVideo;Audio;
+X-AppInstall-Package=shnerkel
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=shnerkel 0.04-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=shnerkel
+X-Arch-Package-Version=0.04-2
+X-Arch-Package-Description=A Linux Outlaws podcast aggregator and player
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.jezra.net/projects/shnerkel
+X-Arch-Package-Votes=3
+Caption=A Linux Outlaws audcast browser and streamer

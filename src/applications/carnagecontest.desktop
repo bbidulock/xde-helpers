@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Carnage Contest
+GenericName=Arcade Game
+Comment=A free 2D turn based multiplayer shooter with fully destructible terrain
+Icon=carnagecontest
+TryExec=/usr/bin/carnagecontest
+Exec=carnagecontest
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=carnagecontest
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=carnagecontest 0.1.0.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=carnagecontest
+X-Arch-Package-Version=0.1.0.1-2
+X-Arch-Package-Description=A free 2D turn based multiplayer shooter with fully
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://carnagecontest.com/
+X-Arch-Package-Votes=2

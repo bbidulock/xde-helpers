@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=eXtended screenshot
+Comment=A tool for capture, edit, share and exchange screenshots between people via the internet.
+TryExec=/usr/bin/xscreenshot
+Exec=/usr/bin/xscreenshot
+Categories=Application;Graphics;
+X-AppInstall-Package=xscreenshot
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=xscreenshot 3.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xscreenshot
+X-Arch-Package-Version=3.1-1
+X-Arch-Package-Description=A tool for capture, edit, share and exchange screenshots
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://xscreenshot.com/
+X-Arch-Package-Votes=5

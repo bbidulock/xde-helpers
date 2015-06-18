@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=ZDoom
+GenericName=Enhanced Doom Engine
+Icon=zdoom
+TryExec=/usr/bin/zdoom
+Exec=zdoom %F
+NoDisplay=true
+Categories=Game;ActionGame;
+X-AppInstall-Package=zdoom-svn
+X-AppInstall-Section=aur
+X-Arch-Package=zdoom-svn 4337-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zdoom-svn
+X-Arch-Package-Version=4337-1
+X-Arch-Package-Description=An enhanced Doom port with additional support for Heretic, Hexen and Strife (SVN version).
+X-Arch-Package-URL=http://www.zdoom.org/
+Aliases=zdoom;

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Achilles Life Simulator
+GenericName=Life Simulator
+Comment=Watch a simulation of artificial life and evolution
+Icon=achilles
+TryExec=/usr/bin/achilles
+Exec=achilles
+Categories=Application;Education;Science;Simulation;Biology;
+StartupNotify=false
+X-AppInstall-Package=achilles
+X-AppInstall-Popcon=33
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=achilles
+X-Arch-Package-Version=2_8-6
+X-Arch-Package-Description=An artificial life and evolution simulator that uses Hebbian
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://packages.debian.org/achilles
+X-Arch-Package-Votes=2

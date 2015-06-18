@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Qt Linguist (5.1.1)
+Comment=Add translations to Qt applications
+Icon=linguist-qt51
+TryExec=/opt/qt5/linguist
+Exec=/opt/qt5/linguist
+Categories=Development;Qt;
+MimeType=text/vnd.trolltech.linguist;application/x-linguist;
+X-AppInstall-Package=qt51
+X-AppInstall-Section=aur
+X-Arch-Package=qt51 5.1.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qt51
+X-Arch-Package-Version=5.1.1-2
+X-Arch-Package-Groups=qt51;
+X-Arch-Package-URL=http://qt-project.org/

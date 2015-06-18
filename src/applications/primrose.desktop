@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Primrose
+Comment=Captivating tile-clearing puzzle game
+Icon=primrose
+TryExec=/usr/bin/primrose
+Exec=primrose
+Categories=Game;LogicGame;
+X-AppInstall-Package=primrose
+X-AppInstall-Popcon=16
+X-AppInstall-Section=aur
+X-Arch-Package=primrose 6-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=primrose
+X-Arch-Package-Version=6-2
+X-Arch-Package-Description=A captivating tile-clearing puzzle game by Jason Rohrer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://primrose.sourceforge.net/
+X-Arch-Package-Votes=16

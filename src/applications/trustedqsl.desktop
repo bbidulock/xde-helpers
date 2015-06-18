@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=TrustedQSL
+Comment=Sign QSO data for upload to LoTW
+Icon=TrustedQSL.png
+TryExec=/usr/bin/tqsl
+Exec=/usr/bin/tqsl %F
+X-DCOP-ServiceType=none
+Categories=Application;HamRadio;
+MimeType=text/plain;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=trustedqsl-git
+X-AppInstall-Section=aur
+X-Arch-Package=trustedqsl-git 2.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=trustedqsl-git
+X-Arch-Package-Version=2.1-1
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://lotw.arrl.org/
+X-Arch-Package-Votes=0

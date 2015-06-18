@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Gmlive
+Name[es_ES]=GMLive
+Name[zh_CN]=GMLive
+Name[zh_TW]=GMLive
+Comment=Streaming Direct Broadcast System based on P2P
+Comment[es_ES]=Sistema de streaming directo y basado en P2P
+Comment[zh_TW]=基於 P2P 的串流廣播系統
+Icon=gmlive
+TryExec=/usr/bin/gmlive
+Exec=gmlive
+Categories=AudioVideo;
+StartupNotify=true
+X-AppInstall-Package=gmlive
+X-AppInstall-Popcon=106
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gmlive
+X-Arch-Package-Version=0.22.3-1
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/gmlive/
+X-Arch-Package-Votes=106

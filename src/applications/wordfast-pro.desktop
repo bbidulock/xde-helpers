@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Wordfast Pro
+Comment=Multiplatform translation memory(MT) software.
+Icon=wordfast
+TryExec=/opt/wordfast-pro/wordfast.sh
+Exec=/opt/wordfast-pro/wordfast.sh
+Categories=Office;Translation;Java;
+X-AppInstall-Package=wordfast-pro
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=wordfast-pro 3.2.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wordfast-pro
+X-Arch-Package-Version=3.2.1-1
+X-Arch-Package-Description=Multiplatform translation memory(computer assisted
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.wordfast.com/store_download.html
+X-Arch-Package-Votes=1

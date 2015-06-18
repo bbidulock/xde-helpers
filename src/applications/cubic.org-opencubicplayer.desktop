@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Open Cubic Player
+GenericName=Music Player
+Comment=Open Cubic Player 0.1.20 for UNIX
+Icon=opencubicplayer
+TryExec=/usr/bin/ocp
+Exec=/usr/bin/ocp
+Categories=Application;AudioVideo;Audio;
+StartupNotify=false
+X-Desktop-File-Install-Version=0.15
+X-AppInstall-Package=ocp
+X-AppInstall-Popcon=63
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ocp
+X-Arch-Package-Version=0.1.21-4
+X-Arch-Package-Description=Open Cubic Player
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://stian.cubic.org/project-ocp.php
+X-Arch-Package-Votes=13

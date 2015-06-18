@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Commander Zod
+Icon=/usr/lib/commander-zod/assets/icon.png
+TryExec=/usr/bin/commander-zod
+Exec=/usr/bin/commander-zod
+Categories=Application;Game;
+X-AppInstall-Package=commander-zod
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=commander-zod 0.2011_09_06-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=commander-zod
+X-Arch-Package-Version=0.-2
+X-Arch-Package-Description=The Zod Engine - An Open Source Remake of the 1996 Game Z by
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://zod.sourceforge.net/
+X-Arch-Package-Votes=13

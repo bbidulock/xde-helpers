@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Beneath A Steel Sky
+GenericName=Game
+Comment=A science-fiction adventure game set in a bleak post-apocalyptic vision of the future
+Icon=beneath-a-steel-sky
+TryExec=/usr/games/scummvm
+Exec=/usr/games/scummvm -p /usr/share/scummvm/beneath-a-steel-sky sky
+Categories=Game;AdventureGame;RolePlaying;
+StartupNotify=false
+X-AppInstall-Package=scummvm
+X-AppInstall-Popcon=42
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=scummvm
+X-Arch-Package-Version=1.7.0-1
+X-Arch-Package-Description=A 'virtual machine' for several classic graphical point-and-click adventure games.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.scummvm.org/

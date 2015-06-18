@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=FreeDink
+Comment=Humorous zelda-like isometric adventure/RPG
+Icon=freedink
+TryExec=/usr/bin/freedink
+Exec=freedink
+Categories=Game;AdventureGame;
+StartupNotify=false
+X-AppInstall-Package=freedink
+X-AppInstall-Popcon=18
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=freedink
+X-Arch-Package-Version=1.08.20121209-2
+X-Arch-Package-Description=A free and enhanced version of the Dink Smallwood game engine
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.freedink.org/
+X-Arch-Package-Votes=18

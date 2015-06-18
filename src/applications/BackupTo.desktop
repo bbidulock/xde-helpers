@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=backupto
+Icon=/usr/share/pixmaps/qtcreator_logo.png
+TryExec=/usr/bin/backupto
+Exec=/usr/bin/backupto
+Categories=Application;System;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=backupto
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=backupto 1.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=backupto
+X-Arch-Package-Version=1.0-3
+X-Arch-Package-Description=kde backup easy and fast
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://opendesktop.org/content/show.php/BackupTo?content=149622
+X-Arch-Package-Votes=1

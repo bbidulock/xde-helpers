@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Kana test
+GenericName=kanatest
+Comment=Drill game to learn Japanese kana characters
+Comment[fr]=Jeu pour apprendre les kana Japonnais
+Comment[ro]=Joc pentru învățarea caracterelor kana japoneze
+Comment[ru]=Тренировочная игра для изучения знаков японской каны
+Icon=kanatest
+TryExec=/usr/bin/kanatest
+Exec=kanatest
+Categories=Education;Languages;
+StartupNotify=true
+X-AppInstall-Package=kanatest
+X-AppInstall-Popcon=26
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kanatest
+X-Arch-Package-Version=0.4.10-2
+X-Arch-Package-Description=A simple Hiragana and Katakana drill tool
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.clayo.org/kanatest/
+X-Arch-Package-Votes=26

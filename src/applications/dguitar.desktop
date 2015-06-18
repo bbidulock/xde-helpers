@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=DGuitar
+Comment=A Guitar Pro file reader and player
+Icon=dguitar.png
+TryExec=/usr/bin/dguitar
+Exec=dguitar
+Categories=Application;Audio;
+StartupNotify=true
+X-AppInstall-Package=dguitar
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=dguitar
+X-Arch-Package-Version=0.5.8-6
+X-Arch-Package-Description=A guitar pro tab reader
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://dguitar.sourceforge.net/

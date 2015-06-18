@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=cb2Bib
+GenericName=Reference Extracting Tool
+GenericName[ca]=Eina per extreure referències
+Comment=Bibliographic Reference Extracting Tool
+Comment[ca]=Eina per extreure referències bibliogràfiques
+Icon=cb2bib
+TryExec=/usr/bin/cb2bib
+Exec=cb2bib --bibedit %F
+Categories=Office;
+MimeType=text/x-bibtex;
+Path=/usr/bin
+StartupNotify=true
+X-AppInstall-Package=cb2bib
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cb2bib
+X-Arch-Package-Version=1.4.9-2
+X-Arch-Package-Description=A tool for parsing clipboard data into BibTeX bibliographic
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.molspaces.com/cb2bib/
+X-Arch-Package-Votes=8

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=qOrganizer
+Comment=A personal organizer
+Comment[hu]=Egy személyes szervező
+Icon=qorganizer
+TryExec=/usr/bin/qorganizer
+Exec=qorganizer
+Categories=Office;Qt;
+X-AppInstall-Package=qorganizer
+X-AppInstall-Popcon=22
+X-AppInstall-Section=aur
+X-Arch-Package=qorganizer 3.1.5-6
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qorganizer
+X-Arch-Package-Version=3.1.5-6
+X-Arch-Package-Description=A general organizer that includes a calendar with
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://qorganizer.sourceforge.net/
+X-Arch-Package-Votes=22

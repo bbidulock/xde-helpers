@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=JavaFX Scene Builder 1
+Comment=A visual layout tool that lets users quickly design JavaFX application user interfaces, without coding.
+Icon=javafx-scene-builder-1
+TryExec=/usr/bin/JavaFXSceneBuilder1
+Exec=JavaFXSceneBuilder1 %F
+Categories=Development;Java;Applications;
+MimeType=application/fxml;
+X-AppInstall-Package=javafx-scene-builder-1
+X-AppInstall-Section=aur
+X-Arch-Package=javafx-scene-builder-1 1.1b35-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=javafx-scene-builder-1
+X-Arch-Package-Version=1.1b35-1
+X-Arch-Package-Description=A visual layout tool that lets users quickly design JavaFX application user interfaces, without coding.
+X-Arch-Package-URL=http://www.oracle.com/technetwork/java/javase/downloads/javafxscenebuilder-info-2157684.html

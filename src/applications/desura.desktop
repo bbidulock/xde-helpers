@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Desura
+GenericName=Bootstrapper
+Comment=Download and play the best games — bootstrapper
+Icon=desura
+TryExec=/usr/bin/desura
+Exec=desura
+Categories=Game;
+MimeType=x-scheme-handler/desura;
+StartupNotify=false
+X-AppInstall-Package=desura
+X-AppInstall-Popcon=223
+X-AppInstall-Section=aur
+X-Arch-Package=desura 120.25-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=desura
+X-Arch-Package-Version=120.25-4
+X-Arch-Package-Description=A community-driven digital distribution service for gamers
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://desura.com/
+X-Arch-Package-Votes=223

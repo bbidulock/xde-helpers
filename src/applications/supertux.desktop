@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=SuperTux
+GenericName=A Platform Game
+GenericName[cs]=Plošinová hra
+GenericName[de]=Ein Jump&Run Spiel
+Comment=A Super Mario inspired penguin platform game
+Comment[cs]=Plošinovka inspirovaná SuperMariem s tučňákem Tuxem v hlavní roli
+Comment[de]=Ein von Super Mario inspiriertes Pinguin Jump&Run Spiel
+Icon=supertux.png
+TryExec=/usr/bin/supertux
+Exec=supertux
+Categories=Application;Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=supertux
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=supertux
+X-Arch-Package-Version=0.3.5.a-1
+X-Arch-Package-Description=A classic 2D jump'n run sidescroller game in a style similar to the original SuperMario games
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/supertux/supertux

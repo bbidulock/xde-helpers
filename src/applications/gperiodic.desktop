@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=GPeriodic
+Comment=A program for looking up data of elements from the periodic table.
+Comment[da]=Et program til at vise data om grundstofferne i det priodiske system.
+Comment[pl]=Program do wyszukiwania danych pierwiastków z tablicy okresowej.
+Comment[sv]=En lathund för information om grundämnena i den periodiska tabellen.
+Icon=gperiodic
+TryExec=/usr/bin/gperiodic
+Exec=gperiodic
+Categories=Education;Science;Chemistry;Physics;
+StartupNotify=false
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=gperiodic
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gperiodic
+X-Arch-Package-Version=2.0.10-1
+X-Arch-Package-Description=GPeriodic is a program for looking up data of elements from
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.frantz.fi/software/gperiodic.php
+X-Arch-Package-Votes=11

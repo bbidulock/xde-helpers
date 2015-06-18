@@ -1,0 +1,26 @@
+[Desktop Entry]
+Type=Application
+Name=EiskaltDC++
+GenericName=DC++ client
+GenericName[be]=Кліент сеткі DC++
+GenericName[be_BY]=Кліент сеткі DC++
+GenericName[ru]=Клиент сетей DC++
+GenericName[ru_RU]=Клиент сетей DC++
+Comment=Share files over the DC++ network
+Comment[be]=Паздяляйцеся файламі праз сетку DC++
+Comment[ru]=Делитесь файлами с помощью сетей DC++
+Icon=eiskaltdcpp
+TryExec=/usr/bin/eiskaltdcpp
+Exec=eiskaltdcpp
+Categories=Network;FileTransfer;P2P;Qt;
+StartupNotify=false
+X-AppInstall-Package=None
+X-AppInstall-Popcon=43
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=None
+X-Arch-Package-Version=-3
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/eiskaltdc/
+X-Arch-Package-Votes=118

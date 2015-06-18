@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=GpsDrive
+Comment=GPS Navigation
+Comment[de]=GPS Navigationsprogramm
+Icon=gpsicon.png
+TryExec=/usr/bin/gpsdrive
+Exec=gpsdrive
+Categories=Graphics;Network;Geography;
+StartupNotify=true
+X-AppInstall-Package=gpsdrive
+X-AppInstall-Popcon=70
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=gpsdrive
+X-Arch-Package-Version=2.11-28
+X-Arch-Package-Description=A car (bike, ship, plane) navigation system
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.gpsdrive.de/

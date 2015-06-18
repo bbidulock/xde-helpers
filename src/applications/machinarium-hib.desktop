@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=3
+Type=Application
+Name=Machinarium
+GenericName=A point-and-click adventure game by the creators of Samarost
+Icon=/usr/share/icons/machinarium.png
+TryExec=/usr/bin/machinarium
+Exec=/usr/bin/machinarium
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=machinarium-hib
+X-AppInstall-Section=aur
+X-Arch-Package=machinarium-hib 3-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=machinarium-hib
+X-Arch-Package-Version=3-3
+X-Arch-Package-Description=A point-and-click logic adventure game by the creators of Samarost, requires copy of the full game
+X-Arch-Package-URL=http://machinarium.net/
+Aliases=machinarium;

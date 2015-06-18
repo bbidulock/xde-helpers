@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Uget
+Comment=Download multiple URLs and apply it to one of setting/queue.
+Icon=uget-icon
+TryExec=/usr/bin/uget-gtk
+Exec=uget-gtk %u
+Categories=Network;FileTransfer;
+StartupNotify=false
+X-AppInstall-Package=uget
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=uget
+X-Arch-Package-Version=2.0-1
+X-Arch-Package-Description=GTK+ download manager featuring download classification and HTML import
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ugetdm.com/

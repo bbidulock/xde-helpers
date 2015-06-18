@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Technic Launcher
+GenericName=Technic Launcher
+Comment=Minecraft mod collection and launcher by TechnicPack.net
+Icon=/usr/share/pixmaps/technic-launcher.png
+TryExec=/usr/bin/technic-launcher
+Exec=technic-launcher
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=technic-launcher4
+X-AppInstall-Section=aur
+X-Arch-Package=technic-launcher4 211-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=technic-launcher4
+X-Arch-Package-Version=211-1
+X-Arch-Package-Description=Minecraft mod collection and launcher by TechnicPack.net
+X-Arch-Package-URL=http://www.technicpack.net/
+Aliases=technic-launcher;

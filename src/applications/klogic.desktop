@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=KLogic
+Comment=Simulate digital circuits
+Comment[de]=Digitalschaltungen simulieren
+Icon=klogic
+TryExec=/usr/bin/klogic
+Exec=klogic -caption "%c" %i %m
+Categories=Education;Science;Electronics;KDE;
+StartupNotify=false
+X-DocPath=klogic/index.html
+X-AppInstall-Package=klogic
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=klogic
+X-Arch-Package-Version=4.0.2-2
+X-Arch-Package-Description=A digital circuit editor and simulator for KDE
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.a-rostin.de/
+X-Arch-Package-Votes=5

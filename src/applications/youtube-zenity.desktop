@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=YouTube-Zenity
+Comment=A userfriendly YouTube Downloader powered by Zenity.
+Icon=youtube-zenity
+TryExec=/usr/bin/youtube-zenity
+Exec=youtube-zenity
+Categories=AudioVideo;
+StartupNotify=false
+X-AppInstall-Package=youtube-zenity
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=youtube-zenity 1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=youtube-zenity
+X-Arch-Package-Version=1-1
+X-Arch-Package-Description=A userfriendly YouTube Downloader powered by Zenity. (Converts
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://live.gnome.org/Zenity
+X-Arch-Package-Votes=13

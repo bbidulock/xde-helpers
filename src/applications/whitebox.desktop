@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Whitebox GAT 3.0 'Iguazu'
+Comment=Whitebox GAT is a unique GIS and remote sensing package.
+Icon=whitebox
+TryExec=/usr/bin/whitebox
+Exec=whitebox
+Categories=Science;Geography;Geoscience;Maps;
+X-AppInstall-Package=whitebox
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=whitebox 3.2.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=whitebox
+X-Arch-Package-Version=3.2.1-1
+X-Arch-Package-Description=A Geographic information system (GIS) and remote sensing
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.uoguelph.ca/~hydrogeo/Whitebox/index.html
+X-Arch-Package-Votes=4

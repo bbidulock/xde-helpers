@@ -1,0 +1,38 @@
+[Desktop Entry]
+Type=Service
+Icon=applications-system
+X-KDE-ServiceTypes=KonqPopupMenu/Plugin,inode/directory;
+X-KDE-StartupNotify=false
+X-AppInstall-Package=kde-services
+X-AppInstall-Popcon=34
+X-AppInstall-Section=aur
+X-Arch-Package=kde-services 2.0-8
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kde-services
+X-Arch-Package-Version=2.0-8
+X-Arch-Package-Description=kde-service multifunction
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://opendesktop.org/content/show.php/kde-services?content=147065
+X-Arch-Package-Votes=34
+X-KDE-Priority=TopLevel
+X-KDE-Submenu=System Tools
+X-KDE-Submenu[en_US]=System Tools
+X-KDE-Submenu[es]=Sistema - Herramientas
+X-KDE-Submenu[x-test]=xxSystem Toolsxx
+Actions=BuildKernel;CheckKernelUpdate;RebuildPackage;SysInfo;Htop;
+
+[Desktop Action SysInfo]
+Name=System Information
+Name[es]=Información del Sistema
+Name[x-test]=xxSystem Informationxx
+Icon=hwinfo
+TryExec=/usr/share/applications/System_Tools-sys-info.sh
+Exec=/usr/share/applications/System_Tools-sys-info.sh
+
+[Desktop Action Htop]
+Name=Process Viewer
+Name[es]=Visor De Procesos
+Name[x-test]=xxProcess Viewerxx
+Icon=view-process-all
+TryExec=/usr/share/applications/System_Tools-process-viewer.sh
+Exec=/usr/share/applications/System_Tools-process-viewer.sh

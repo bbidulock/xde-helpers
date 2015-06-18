@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=JMP3Renamer
+GenericName=Plugin-based renamer/tagger
+Icon=/usr/share/pixmaps/jmp3renamer.png
+TryExec=/usr/bin/jmp3renamer
+Exec=jmp3renamer
+Categories=AudioVideo;
+StartupNotify=false
+InitialPreference=10
+X-AppInstall-Package=jmp3renamer
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=jmp3renamer 2.1.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jmp3renamer
+X-Arch-Package-Version=2.1.4-1
+X-Arch-Package-Description=A plugin-based renamer/tagger written in Java. It supports
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.hampelratte.org/jmp3/
+X-Arch-Package-Votes=1

@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=pzl games Codeword
+Comment=Codeword (pzl games)
+Icon=/usr/share/pixmaps/pzl_games/codeword_icon.png
+TryExec=/usr/bin/python2
+Exec=python2 /usr/share/pzl_games/codeword.pyw
+Categories=Game;LogicGame;
+X-AppInstall-Package=pzl_games
+X-AppInstall-Section=aur
+X-Arch-Package=pzl_games 3.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pzl_games
+X-Arch-Package-Version=3.5-1
+X-Arch-Package-Description=Small collection of computer games.
+X-Arch-Package-URL=http://pzl.org.uk/

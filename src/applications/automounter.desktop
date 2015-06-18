@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Archive Mounter
+Icon=gtk-cdrom
+TryExec=/usr/lib/gvfs/gvfsd-archive
+Exec=/usr/lib/gvfs/gvfsd-archive file=%u
+NoDisplay=true
+MimeType=application/x-cd-image;application/x-bzip-compressed-tar;application/x-compressed-tar;application/x-tar;application/x-cpio;application/zip;
+StartupNotify=false
+X-AppInstall-Package=automounter
+X-AppInstall-Popcon=14
+X-AppInstall-Section=aur
+X-Arch-Package=automounter 0.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=automounter
+X-Arch-Package-Version=0.1-2
+X-Arch-Package-Description=This is a link to gvfs-archive that will allow automounting of
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://bbs.archlinux.org/viewtopic.php?pid=606881
+X-Arch-Package-Votes=14
+Aliases=mount-archive;

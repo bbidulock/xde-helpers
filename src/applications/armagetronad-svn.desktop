@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Armagetronad
+GenericName=3D Tron clone
+GenericName[pl]=Klon gry Tron w 3D
+Icon=/usr/share/armagetronad/desktop/icons/small/armagetronad.png
+TryExec=/usr/bin/armagetronad
+Exec=armagetronad
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=armagetronad-svn
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=armagetronad-svn 10069-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=armagetronad-svn
+X-Arch-Package-Version=10069-2
+X-Arch-Package-Description=A Tron Clone in 3D - svn version
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://armagetronad.net/
+X-Arch-Package-Votes=3

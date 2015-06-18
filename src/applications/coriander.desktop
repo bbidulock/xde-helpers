@@ -1,0 +1,22 @@
+[Desktop Entry]
+Version=2.0.2
+Type=Application
+Name=Coriander
+Comment=A Graphical User Interface for controlling IEEE1394 (Firewire) cameras
+Comment[ru_RU]=Графический интерфейс для управления IEEE1394 (Firewire) камерой
+Icon=coriander/coriander-logo
+TryExec=/usr/local/bin/coriander
+Exec=/usr/local/bin/coriander
+Categories=AudioVideo;Video;
+StartupNotify=true
+X-AppInstall-Package=coriander
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=coriander 2.0.2-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=coriander
+X-Arch-Package-Version=2.0.2-5
+X-Arch-Package-Description=Coriander is a Graphical User Interface for controlling
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://damien.douxchamps.net/ieee1394/coriander/
+X-Arch-Package-Votes=9

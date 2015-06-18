@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Hatari UI
+Icon=hatari-icon
+TryExec=/usr/bin/hatariui
+Exec=hatariui
+StartupNotify=false
+X-AppInstall-Package=hatari
+X-AppInstall-Popcon=54
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=hatari
+X-Arch-Package-Version=1.8.0-1
+X-Arch-Package-Description=An Atari ST and STE emulator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://hatari.sourceforge.net/

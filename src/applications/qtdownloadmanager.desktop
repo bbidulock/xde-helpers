@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=QtDownloadManager
+Comment=GUI for DownloadManagers
+Icon=/usr/share/pixmaps/qtdownloadmanager.png
+TryExec=/usr/share/QDM/QtDownloadManager
+Exec=/usr/share/QDM/QtDownloadManager
+Categories=Network;KDE;Qt;
+X-AppInstall-Package=qtdownloadmanager-svn
+X-AppInstall-Popcon=14
+X-AppInstall-Section=aur
+X-Arch-Package=qtdownloadmanager-svn 14-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qtdownloadmanager-svn
+X-Arch-Package-Version=14-1
+X-Arch-Package-Description=QtDownloadManager is a frontend for the console download
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.qt-apps.org/content/show.php/QtDownloadManager+(QDM)?content=115484
+X-Arch-Package-Votes=14

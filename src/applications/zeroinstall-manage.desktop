@@ -1,0 +1,26 @@
+[Desktop Entry]
+Type=Application
+Name=Manage Programs
+Name[es]=Administrar programas
+Name[sv]=Hantera program
+GenericName=Installer
+GenericName[es]=Instalador
+GenericName[sv]=Installerare
+Comment=Update or Remove Zero Install programs on your Applications menu
+Comment[es]=Actualiza o quita programas de tu menú Aplicaciones
+Comment[sv]=Uppdatera eller ta bort Zero Install-program i menyn Program
+Icon=zeroinstall-zero2desktop
+TryExec=/usr/bin/0desktop
+Exec=0desktop --manage
+Categories=PackageManager;GTK;
+StartupNotify=false
+X-AppInstall-Package=zeroinstall-injector
+X-AppInstall-Popcon=63
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zeroinstall-injector
+X-Arch-Package-Version=2.6.1-1
+X-Arch-Package-Description=A decentralised loosely-coupled secure installation system
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://0install.net
+X-Arch-Package-Votes=63

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Winkeyer-Server
+Comment=CW USB Keyer Access & Control
+Icon=winkeyer-server.png
+TryExec=/usr/bin/winkeyer_server
+Exec=winkeyer_server
+Categories=Utility;Database;HamRadio;
+X-AppInstall-Package=winkeyer-server
+X-AppInstall-Section=aur
+X-Arch-Package=winkeyer-server 0.4.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=winkeyer-server
+X-Arch-Package-Version=0.4.0-2
+X-Arch-Package-Description=Ham Radio - Winkey USB - UDP server
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.cqrlog.com/?q=node/149
+X-Arch-Package-Votes=0

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=KScope
+GenericName=Source editing environment
+GenericName[fr]=Editeur de code source
+Comment=Source editing environment
+Comment[fr]=Editeur de code source
+Icon=kscope
+TryExec=/usr/bin/kscopeapp
+Exec=kscopeapp
+Categories=Development;Qt;
+StartupNotify=false
+X-AppInstall-Package=kscope
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kscope
+X-Arch-Package-Version=1.9.4-2
+X-Arch-Package-Description=KDE Frontend to Cscope
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kscope.sourceforge.net/
+X-Arch-Package-Votes=7

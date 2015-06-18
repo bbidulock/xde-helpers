@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=MonoGame Pipeline
+Comment=MonoGame Pipeline
+Icon=pipeline
+TryExec=/usr/bin/pipeline
+Exec=pipeline
+Categories=Development;Utility;
+StartupNotify=false
+X-AppInstall-Package=monogame
+X-AppInstall-Popcon=31
+X-AppInstall-Section=aur
+X-Arch-Package=monogame 3.4-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=monogame
+X-Arch-Package-Version=3.4-2
+X-Arch-Package-Description=MonoGame is an open source implementation of the Microsoft XNA
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.monogame.net/
+X-Arch-Package-Votes=31

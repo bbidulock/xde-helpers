@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=QHandBrake
+GenericName=QHandBrake
+Comment=DVD to MPEG-4 converter
+Icon=qhandbrake
+TryExec=/usr/bin/qhandbrake
+Exec=qhandbrake
+Categories=AudioVideo;KDE;Qt;
+X-AppInstall-Package=qhandbrake-git
+X-AppInstall-Section=aur
+X-Arch-Package=qhandbrake-git 20090712-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qhandbrake-git
+X-Arch-Package-Version=20090712-1
+X-Arch-Package-Description=A Qt frontend for HandBrake, an open-source, GPL-licensed, multiplatform, multithreaded DVD to MPEG-4 converter.
+X-Arch-Package-URL=http://forum.handbrake.fr/viewtopic.php?f=4&t=6388

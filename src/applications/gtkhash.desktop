@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=GtkHash
+Comment=Compute message digests and checksums
+Comment[de]=Berechnen von Prüfsummen
+Icon=calc
+TryExec=/usr/bin/gtkhash
+Exec=gtkhash
+Categories=Utility;GNOME;GTK;
+StartupNotify=true
+X-AppInstall-Package=gtkhash
+X-AppInstall-Popcon=22
+X-AppInstall-Section=aur
+X-Arch-Package=gtkhash 0.7.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gtkhash
+X-Arch-Package-Version=0.7.0-3
+X-Arch-Package-Description=A GTK+ utility for computing message digests or checksums
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gtkhash.sourceforge.net/
+X-Arch-Package-Votes=22

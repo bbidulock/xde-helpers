@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Java 6 Policy Settings (32-bit)
+Icon=sun-java32-jdk6
+TryExec=/usr/lib32/jvm/java32-6-jdk/jre/bin/policytool
+Exec=/usr/lib32/jvm/java32-6-jdk/jre/bin/policytool
+Categories=Settings;Java;
+StartupNotify=true
+X-AppInstall-Package=bin32-jdk6
+X-AppInstall-Section=aur
+X-Arch-Package=bin32-jdk6 6u45-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bin32-jdk6
+X-Arch-Package-Version=u-3
+X-Arch-Package-Description=Oracle Java Development Kit (32-bit) (public release - end of
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://www.java.com/en/download/faq/java_6.xml
+X-Arch-Package-Votes=0

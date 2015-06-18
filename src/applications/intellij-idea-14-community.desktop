@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=IntelliJ IDEA 14 Community Edition
+Comment=Intelligent Java IDE
+Icon=intellij-idea-14-community
+TryExec=/usr/bin/intellij-idea-14-community
+Exec=intellij-idea-14-community %u
+Categories=Development;IDE;Java;
+StartupWMClass=jetbrains-idea
+X-AppInstall-Package=intellij-idea-14-community
+X-AppInstall-Section=aur
+X-Arch-Package=intellij-idea-14-community 14.1.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=intellij-idea-14-community
+X-Arch-Package-Version=14.1.1-1
+X-Arch-Package-Description=An intelligent IDE for Java, Groovy and other programming languages with advanced refactoring features intensely focused on developer productivity.
+X-Arch-Package-URL=http://www.jetbrains.com/idea/

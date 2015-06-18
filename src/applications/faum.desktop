@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=FAUmachine
+GenericName=Virtual Machine
+Comment=run the virtual machine FAUmachine
+Comment[de_DE]=die virtuelle Maschine FAUmachine starten
+Icon=faumachine
+TryExec=/usr/bin/faum
+Exec=faum
+Categories=System;Emulator;
+StartupNotify=false
+X-AppInstall-Package=faumachine
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-AppInstall-Architectures=amd64,i386
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=faumachine
+X-Arch-Package-Version=20120707-1
+X-Arch-Package-Description=FAUmachine is an Open Source Virtual Machine
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www3.informatik.uni-erlangen.de/Research/FAUmachine/
+X-Arch-Package-Votes=0

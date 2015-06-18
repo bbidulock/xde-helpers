@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Monsterz
+Comment=A puzzler with cute beasties
+Icon=monsterz
+TryExec=/usr/bin/monsterz
+Exec=monsterz
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=monsterz
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=monsterz 0.7.1-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=monsterz
+X-Arch-Package-Version=0.7.1-4
+X-Arch-Package-Description=A puzzler with cute beasties
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sam.zoy.org/monsterz
+X-Arch-Package-Votes=8

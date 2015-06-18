@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Thinliquidfilm
+Icon=/usr/share/thinliquidfilm/ipod_mount.png
+TryExec=/usr/bin/thinliquidfilm
+Exec=thinliquidfilm %U
+Categories=Application;AudioVideo;
+StartupNotify=true
+X-AppInstall-Package=thinliquidfilm
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=thinliquidfilm 1.00-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=thinliquidfilm
+X-Arch-Package-Version=1.00-5
+X-Arch-Package-Description=Convert video files into a format suitable for playing on the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.thinliquidfilm.org
+X-Arch-Package-Votes=8

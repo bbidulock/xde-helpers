@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=GitExtensions
+Comment=Graphical user interface for Git that allows you control Git without using the commandline.
+Icon=/usr/share/pixmaps/gitextensions.png
+TryExec=/usr/bin/gitextensions
+Exec=gitextensions
+Categories=Development;RevisionControl;
+StartupNotify=true
+X-AppInstall-Package=gitextensions
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=gitextensions 248-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gitextensions
+X-Arch-Package-Version=248-3
+X-Arch-Package-Description=Graphical user interface for Git that allows you control Git
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/gitextensions/
+X-Arch-Package-Votes=6

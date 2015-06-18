@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=CLIPS
+GenericName=Expert system tool
+GenericName[es]=Herramienta de sistemas expertos
+Comment=Expert system tool
+Comment[es]=Herramienta de sistemas expertos
+Icon=clips.xpm
+TryExec=/usr/bin/clips
+Exec=clips
+Terminal=true
+Categories=Development;Building;ArtificialIntelligence;
+StartupNotify=false
+X-AppInstall-Package=clips
+X-AppInstall-Popcon=21
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=clips
+X-Arch-Package-Version=6.30-1
+X-Arch-Package-Description=A forward-chaining rule-based programming language written in
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://clipsrules.sourceforge.net/
+X-Arch-Package-Votes=15

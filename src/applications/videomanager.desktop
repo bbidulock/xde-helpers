@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=VideoManager
+GenericName=Movie Collection Manager
+Icon=/usr/share/pixmaps/vm.png
+TryExec=/usr/bin/videomanager
+Exec=/usr/bin/videomanager
+Categories=Application;AudioVideo;
+StartupNotify=true
+X-AppInstall-Package=videomanager
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=videomanager 0.5-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=videomanager
+X-Arch-Package-Version=0.5-5
+X-Arch-Package-Description=GTK movie collection manager
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://codingteam.net/project/videomanager
+X-Arch-Package-Votes=5

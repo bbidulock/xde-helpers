@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Serviio
+Comment=Administration console of DLNA server
+Comment[en]=Administration console of DLNA server
+Comment[fr]=Console d'administration du serveur DLNA
+Icon=serviio
+TryExec=/usr/bin/serviio-console
+Exec=serviio-console
+Categories=AudioVideo;
+StartupNotify=false
+X-AppInstall-Package=serviio
+X-AppInstall-Popcon=48
+X-AppInstall-Section=aur
+X-Arch-Package=serviio 1.5.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=serviio
+X-Arch-Package-Version=1.5.2-2
+X-Arch-Package-Description=Free DLNA media server
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.serviio.org/
+X-Arch-Package-Votes=48

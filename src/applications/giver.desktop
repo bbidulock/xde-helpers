@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Giver
+GenericName=File Sharing
+Comment=Easy quick file sharing
+Icon=giver
+TryExec=/usr/bin/giver
+Exec=giver
+Categories=Network;FileTransfer;
+StartupNotify=false
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=giver
+X-GNOME-Bugzilla-Component=General
+X-AppInstall-Package=giver
+X-AppInstall-Popcon=34
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=giver
+X-Arch-Package-Version=0.1.8-2
+X-Arch-Package-Description=A simple file sharing application
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://giver.googlecode.com/
+X-Arch-Package-Votes=34

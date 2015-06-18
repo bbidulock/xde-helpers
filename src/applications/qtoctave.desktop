@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=QtOctave
+Comment=Graphical Qt frontend for GNU Octave
+Icon=qtoctave
+TryExec=/usr/bin/qtoctave
+Exec=qtoctave
+Categories=Development;Education;Science;Math;
+StartupNotify=false
+X-AppInstall-Package=qtoctave
+X-AppInstall-Popcon=66
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qtoctave
+X-Arch-Package-Version=0.10.1-3
+X-Arch-Package-Description=Qt4 frontend for octave
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://forja.rediris.es/projects/csl-qtoctave/
+X-Arch-Package-Votes=66

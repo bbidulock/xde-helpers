@@ -1,0 +1,23 @@
+[Desktop Entry]
+Version=1.0.22
+Type=Application
+Name=GrooveJaar
+GenericName=GrooveShark Download Client
+Comment=Java based downloader for the GrooveShark service
+Icon=/usr/share/pixmaps/groovejaar.png
+TryExec=/usr/bin/groovejaar
+Exec=groovejaar
+Terminal=False
+Categories=AudioVideo;Audio;Java;
+StartupNotify=false
+X-AppInstall-Package=groovejaar
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=groovejaar 1.0.22_5_g2705_mod-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=groovejaar
+X-Arch-Package-Version=1.0.22_5_g2705_mod-2
+X-Arch-Package-Description=A Java based client for the GrooveShark service
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/groovejaar/
+X-Arch-Package-Votes=10

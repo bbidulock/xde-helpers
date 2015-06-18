@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Firefox - Mode Segur
+GenericName=Navegador Web - Mode Segur
+Icon=firefox-rc-bin-ca-icon
+TryExec=/usr/bin/firefox-rc-bin-ca
+Exec=firefox-rc-bin-ca -safe-mode %u
+MultipleArgs=false
+Categories=Application;Network;
+MimeType=text/html;
+StartupNotify=false
+StartupWMClass=Firefox
+X-AppInstall-Package=firefox-rc-bin-ca
+X-AppInstall-Section=aur
+X-Arch-Package=firefox-rc-bin-ca 4.0rc2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firefox-rc-bin-ca
+X-Arch-Package-Version=4.0rc2-1
+X-Arch-Package-Description=Navegador web Mozilla Firefox
+X-Arch-Package-URL=http://www.mozilla.org/projects/firefox

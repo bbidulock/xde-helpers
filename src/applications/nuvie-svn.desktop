@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Nuvie
+GenericName=Nuvie
+Comment=Modern engine for Ultima VI, Martian Dreams & Savage Empire
+Icon=/usr/share/pixmaps/nuvie.ico
+TryExec=/usr/bin/nuvie
+Exec=nuvie
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=nuvie-svn
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=nuvie-svn 1625-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nuvie-svn
+X-Arch-Package-Version=1625-1
+X-Arch-Package-Description=Open source game engine for playing Origin's Ultima VI,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://nuvie.sourceforge.net/
+X-Arch-Package-Votes=1

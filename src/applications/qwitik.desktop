@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Qwitik
+Comment=Qwitik is a cross-platform client for twitter.com
+Icon=qwitik
+TryExec=/usr/bin/qwitik
+Exec=qwitik
+Categories=Application;Network;
+StartupNotify=false
+X-AppInstall-Package=qwitik
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=qwitik 0.1.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qwitik
+X-Arch-Package-Version=0.1.2-1
+X-Arch-Package-Description=Cross-platform client for twitter.com
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/qwitik/
+X-Arch-Package-Votes=1

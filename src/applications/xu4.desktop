@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=xu4 - Ultima IV recreated
+GenericName=xu4
+Comment=Community maintained variant of Linley's Dungeon Crawl
+Icon=xu4.png
+TryExec=/usr/bin/xu4
+Exec=xu4
+Categories=Game;RolePlaying;
+X-AppInstall-Package=xu4-svn
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=xu4-svn 2900-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xu4-svn
+X-Arch-Package-Version=2900-2
+X-Arch-Package-Description=A recreation of the classic computer RPG Ultima IV for modern
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://xu4.sourceforge.net/
+X-Arch-Package-Votes=1

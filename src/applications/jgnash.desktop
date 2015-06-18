@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=jGnash
+Comment=Personal Finance Manager
+Icon=jgnash.png
+TryExec=/usr/bin/jgnash
+Exec=jgnash
+Categories=Application;Office;Finance;
+StartupNotify=false
+X-AppInstall-Package=jgnash
+X-AppInstall-Popcon=12
+X-AppInstall-Section=aur
+X-Arch-Package=jgnash 2.15.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jgnash
+X-Arch-Package-Version=2.15.2-1
+X-Arch-Package-Description=A double-entry based personal finance manager, written in Java
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://jgnash.sourceforge.net/
+X-Arch-Package-Votes=12

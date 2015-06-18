@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Sokobond
+Comment=A minimalist puzzle game about bonding chemical elements
+Icon=sokobond
+TryExec=/usr/bin/sokobond
+Exec=/usr/bin/sokobond
+Categories=Game;
+X-AppInstall-Package=sokobond
+X-AppInstall-Section=aur
+X-Arch-Package=sokobond 20130411-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sokobond
+X-Arch-Package-Version=20130411-3
+X-Arch-Package-Description=A minimalist puzzle game about bonding chemical elements
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.sokobond.com
+X-Arch-Package-Votes=0

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=TileMill
+Comment=Map design studio
+Icon=tilemill
+TryExec=/usr/bin/tilemill
+Exec=tilemill
+NoDisplay=true
+Categories=Graphics;
+StartupNotify=false
+X-AppInstall-Package=tilemill-git
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=tilemill-git v0.10.1.r345.gc31d70c-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tilemill-git
+X-Arch-Package-Version=v0.10.1.r345.gc31d70c-1
+X-Arch-Package-Description=Modern map design studio
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://www.mapbox.com/tilemill/
+X-Arch-Package-Votes=7
+Aliases=tilemill;

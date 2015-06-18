@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Gate 88
+GenericName=Game
+Comment=Abstract real time action/strategy in space
+Icon=/usr/share/gate88/gate88.png
+TryExec=/usr/bin/gate88
+Exec=gate88
+Categories=Game;Strategy;
+StartupNotify=false
+X-AppInstall-Package=gate88
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=gate88 Mar19_05-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gate88
+X-Arch-Package-Version=Mar19_05-2
+X-Arch-Package-Description=An abstract realtime strategy/action game in space
+X-Arch-Package-Groups=games
+X-Arch-Package-URL=http://www.queasygames.com/gate88/
+X-Arch-Package-Votes=8

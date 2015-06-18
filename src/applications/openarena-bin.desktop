@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=OpenArena
+Comment=A Quake3-based FPS Game
+Icon=openarena
+TryExec=/usr/bin/openarena
+Exec=openarena
+NoDisplay=true
+Categories=Game;ActionGame;
+X-AppInstall-Package=openarena-bin
+X-AppInstall-Section=aur
+X-Arch-Package=openarena-bin 0.8.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=openarena-bin
+X-Arch-Package-Version=0.8.5-1
+X-Arch-Package-Description=A completely free FPS game using the ioquake3 engine
+X-Arch-Package-URL=http://openarena.ws/
+Aliases=openarena;

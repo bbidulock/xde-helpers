@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Blorple
+GenericName=Blorple IF browser
+GenericName[fr]=Blorple navigateur IF
+Comment=An Interactive Fiction metadata browser
+Comment[fr]=Un navigateur pour les metadonnées des fictions interactives
+Icon=blorple.png
+TryExec=/usr/bin/blorple
+Exec=blorple
+Categories=Game;RolePlaying;
+X-AppInstall-Package=blorple
+X-AppInstall-Section=aur
+X-Arch-Package=blorple 0.4-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=blorple
+X-Arch-Package-Version=0.4-2
+X-Arch-Package-Description=An Interactive Fiction metadata browser, written in Java
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://blorple.sourceforge.net/
+X-Arch-Package-Votes=0

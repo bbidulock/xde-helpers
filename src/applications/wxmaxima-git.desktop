@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=wxMaxima
+Comment=Perform symbolic and numeric calculations using Maxima
+Comment[uk]=Виконання аналітичних перетворень та обчислень за допомогою Maxima
+Icon=wxmaxima
+TryExec=/usr/bin/wxmaxima
+Exec=wxmaxima %f
+NoDisplay=true
+Hidden=true
+Categories=Education;Science;Math;
+MimeType=text/x-wxmaxima-batch;
+X-AppInstall-Package=wxmaxima-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=wxmaxima-git 2380.18b5ef9-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wxmaxima-git
+X-Arch-Package-Version=2380.18b5ef9-1
+X-Arch-Package-Description=A wxWidgets GUI for the computer algebra system Maxima
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/andrejv/wxmaxima
+X-Arch-Package-Votes=1
+Aliases=wmmaxima;

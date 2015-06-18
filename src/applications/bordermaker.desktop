@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=BorderMaker
+Comment=A Java application to resize and decorate pictures with borders, text and watermarks
+Icon=/usr/share/pixmaps/bordermaker.png
+TryExec=/usr/bin/bordermaker
+Exec=bordermaker
+Categories=Graphics;Java;
+StartupNotify=true
+X-AppInstall-Package=bordermaker
+X-AppInstall-Section=aur
+X-Arch-Package=bordermaker 5.0-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bordermaker
+X-Arch-Package-Version=5.0-5
+X-Arch-Package-Description=a java application to resize and decorate pictures with
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.bordermaker.nl/en/
+X-Arch-Package-Votes=0

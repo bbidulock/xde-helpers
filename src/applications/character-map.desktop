@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=Character map
+TryExec=/usr/bin/gucharmap
+Exec=gucharmap
+Categories=Text;
+StartupNotify=false
+X-AppInstall-Package=gucharmap
+X-AppInstall-Section=extra
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=gucharmap
+X-Arch-Package-Version=3.16.2-1
+X-Arch-Package-Description=Gnome Unicode Charmap
+X-Arch-Package-Groups=gnome
+X-Arch-Package-URL=http://www.gnome.org

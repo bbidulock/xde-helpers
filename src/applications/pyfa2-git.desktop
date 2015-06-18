@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Pyfa
+Icon=pyfa
+TryExec=/usr/bin/pyfa.sh
+Exec=/usr/bin/pyfa.sh
+NoDisplay=true
+Categories=Application;Game;
+X-AppInstall-Package=pyfa2-git
+X-AppInstall-Section=aur
+X-Arch-Package=pyfa2-git 20110914-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pyfa2-git
+X-Arch-Package-Version=20110914-1
+X-Arch-Package-Description=Pyfa is a cross-platform desktop fitting application for EVE-Online
+X-Arch-Package-URL=http://www.evefit.org/Evefit
+Aliases=pyfa;

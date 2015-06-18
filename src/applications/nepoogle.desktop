@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Nepoogle
+GenericName=Nepomuk search utility.
+GenericName[fr]=Utilitaire de recherche Nepomuk.
+Comment=A search utility for Nepomuk inspired in Google's search syntax.
+Comment[fr]=Un utilitaire de recherche pour Nepomuk inspiré par la syntaxe de recherche Google.
+Icon=nepomuk
+TryExec=/usr/bin/nepoogle
+Exec=nepoogle
+Categories=Utility;
+X-AppInstall-Package=nepoogle
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=nepoogle 0.9.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nepoogle
+X-Arch-Package-Version=0.9.3-1
+X-Arch-Package-Description=A search utility for Nepomuk inspired in Google's search
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kde-apps.org/content/show.php/Nepoogle?content=145505
+X-Arch-Package-Votes=6

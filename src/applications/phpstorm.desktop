@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=PhpStorm
+Comment=Lightweight and Smart PHP IDE
+Icon=phpstorm
+TryExec=/usr/bin/"phpstorm.sh"
+Exec="phpstorm.sh" %u
+Categories=Development;IDE;PHP;
+StartupWMClass=jetbrains-phpstorm
+X-AppInstall-Package=phpstorm
+X-AppInstall-Popcon=86
+X-AppInstall-Section=aur
+X-Arch-Package=phpstorm 8.0.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=phpstorm
+X-Arch-Package-Version=8.0.3-1
+X-Arch-Package-Description=Lightweight and Smart PHP IDE.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.jetbrains.com/phpstorm/
+X-Arch-Package-Votes=86

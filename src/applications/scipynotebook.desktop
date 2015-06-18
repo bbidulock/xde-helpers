@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=SciPyNotebook
+GenericName=SciPyNotebook
+Comment=Edit interactively your python scripts
+Icon=scipynotebook
+TryExec=/usr/bin/scipynotebook
+Exec=scipynotebook
+Terminal=False
+Categories=Education;Science;Math;
+StartupNotify=false
+X-AppInstall-Package=scipynotebook
+X-AppInstall-Section=aur
+X-Arch-Package=scipynotebook 0.2.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=scipynotebook
+X-Arch-Package-Version=0.2.1-1
+X-Arch-Package-Description=A notebook-style editor to hack Python with the comfort of an
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/hmatuschek/SciPyNotebook/wiki
+X-Arch-Package-Votes=0

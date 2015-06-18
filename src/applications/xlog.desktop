@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Xlog
+Comment=Amateur Radio logging program
+Comment[nl]=Log programma voor zendamateurs
+Comment[pl]=Dziennik łączności dla radioamatorów
+Icon=xlog-icon.png
+TryExec=/usr/bin/xlog
+Exec=xlog %F
+Categories=Utility;Database;HamRadio;GTK;
+MimeType=text/x-xlog;
+StartupNotify=false
+X-AppInstall-Package=xlog
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xlog
+X-Arch-Package-Version=2.0.12-2
+X-Arch-Package-Description=Ham Radio general purpose logging program.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.nongnu.org/xlog/
+X-Arch-Package-Votes=3

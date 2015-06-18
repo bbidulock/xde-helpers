@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Eclipse (Java)
+Comment=A Java Development Environment
+Icon=eclipse-java
+TryExec=/usr/bin/eclipse-java
+Exec=eclipse-java
+NoDisplay=true
+Categories=Development;IDE;Java;
+StartupNotify=true
+X-AppInstall-Package=eclipse-java-future
+X-AppInstall-Section=aur
+X-Arch-Package=eclipse-java-future 4.5.0M6-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=eclipse-java-future
+X-Arch-Package-Version=4.5.0-2
+X-Arch-Package-Description=Eclipse IDE for Java Developers (future release: ).
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.eclipse.org
+X-Arch-Package-Votes=0
+Aliases=eclipse-java;

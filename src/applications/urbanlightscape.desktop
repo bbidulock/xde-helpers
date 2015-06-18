@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Urban Lightscape
+GenericName=Urban Lightscape
+Comment=Correct the lighting of your photos
+Icon=urbanlightscape
+TryExec=/usr/bin/urbanlightscape
+Exec=urbanlightscape %f
+Categories=Graphics;2DGraphics;
+X-AppInstall-Package=urbanlightscape
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=urbanlightscape 1.3.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=urbanlightscape
+X-Arch-Package-Version=1.3.3-1
+X-Arch-Package-Description=A photo filter for exposure, brightness and lighting
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.indii.org/software/urbanlightscape
+X-Arch-Package-Votes=6

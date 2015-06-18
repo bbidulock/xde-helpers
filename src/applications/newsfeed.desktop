@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=NewsFeed
+GenericName=Atom/RSS reader
+Icon=newsfeed
+TryExec=/usr/bin/newsfeed
+Exec=newsfeed
+Categories=Network;
+X-AppInstall-Package=newsfeed
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=newsfeed 3.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=newsfeed
+X-Arch-Package-Version=3.3-1
+X-Arch-Package-Description=An RSS/RDF/Atom reader and aggregator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://mdoege.github.io/3NewsFeed/
+X-Arch-Package-Votes=9

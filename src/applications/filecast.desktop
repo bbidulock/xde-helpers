@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=FileCast
+GenericName=FileCast
+Icon=filecast
+TryExec=/usr/bin/filecast
+Exec=filecast
+Categories=Utility;Java;
+X-AppInstall-Package=filecast
+X-AppInstall-Section=aur
+X-Arch-Package=filecast 1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=filecast
+X-Arch-Package-Version=1.0-1
+X-Arch-Package-Description=Personal webserver for simple file sharing
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.onyxbits.de/filecast
+X-Arch-Package-Votes=0

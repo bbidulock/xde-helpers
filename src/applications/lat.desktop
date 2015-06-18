@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=LDAP Administration Tool
+Comment=Manage LDAP-based directories
+Icon=lat.png
+TryExec=/usr/bin/lat
+Exec=lat
+Categories=Network;GNOME;GTK;
+StartupNotify=false
+X-AppInstall-Package=lat
+X-AppInstall-Popcon=27
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=lat
+X-Arch-Package-Version=1.2.4-2
+X-Arch-Package-Description=LDAP Administration Tool
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/ldap-at/

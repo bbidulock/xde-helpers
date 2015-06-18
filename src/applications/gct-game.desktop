@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Greedy Car Thieves
+Comment=Game based on GTA 1 and GTA 2
+Icon=/usr/share/pixmaps/gct-game.png
+TryExec=/usr/bin/gct-game
+Exec=/usr/bin/gct-game
+Categories=Application;Game;
+X-AppInstall-Package=gct-game
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=gct-game 201105-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gct-game
+X-Arch-Package-Version=201105-1
+X-Arch-Package-Description=Game based on GTA 1 and GTA 2
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gct-game.net
+X-Arch-Package-Votes=5

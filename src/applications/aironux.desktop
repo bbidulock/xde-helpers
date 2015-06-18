@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Aironux
+Comment=Search and listen or download music
+Comment[es]=Busca y escucha o descarga música
+Icon=/usr/share/aironux/img/aironuxicon.png
+TryExec=/usr/bin/aironux
+Exec=aironux
+Categories=Network;
+StartupNotify=true
+X-AppInstall-Package=aironux
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=aironux 1.9-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=aironux
+X-Arch-Package-Version=1.9-1
+X-Arch-Package-Description=Search and/or download music
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ironsistem.com/web/aironux/
+X-Arch-Package-Votes=4

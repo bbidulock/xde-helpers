@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Neonview
+Comment=Lightweight image viewer
+Icon=neonview
+TryExec=/usr/bin/neonview
+Exec=neonview
+Categories=Graphics;
+X-AppInstall-Package=neonview
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=neonview 0.8.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=neonview
+X-Arch-Package-Version=0.8.2-1
+X-Arch-Package-Description=Free, lightweight image viewer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.tuxarena.com/intro/neonview.php
+X-Arch-Package-Votes=4

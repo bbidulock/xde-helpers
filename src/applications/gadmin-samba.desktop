@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=GADMIN-SAMBA
+GenericName=GADMIN-SAMBA
+Comment=SAMBA file, print and domain server administration
+Comment[de]=SAMBA Datei-, Druck- und Domänen-Kontroller Verwaltung
+Icon=gadmin-samba
+TryExec=/usr/bin/gadmin-samba-menu
+Exec=gadmin-samba-menu
+Categories=System;Network;GTK;
+X-AppInstall-Package=gadmin-samba
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=gadmin-samba 0.3.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gadmin-samba
+X-Arch-Package-Version=0.3.4-1
+X-Arch-Package-Description=An easy to use GTK+ frontend for the SAMBA file and print
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://dalalven.dtdns.net/linux/gadmintools-webpage/
+X-Arch-Package-Votes=13

@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=WiPy
+GenericName=Wired Client
+Comment=GUI frontend for py-wire
+Icon=wipy
+TryExec=/usr/bin/wipy
+Exec=wipy
+Categories=Network;
+X-AppInstall-Package=wipy
+X-AppInstall-Section=aur
+X-Arch-Package=wipy 0.2-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wipy
+X-Arch-Package-Version=0.2-3
+X-Arch-Package-Description=GUI frontend for py-wire
+X-Arch-Package-URL=http://sourceforge.net/projects/pywire

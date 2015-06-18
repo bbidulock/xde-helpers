@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Abgx360 GUI
+Comment=A program for checking if your xbox backups are valid
+Comment[fr]=Un programme pour vérifier si vos backups sont valides
+Icon=abgx360gui
+TryExec=/usr/bin/abgx360gui
+Exec=abgx360gui
+Categories=Utility;Games;
+StartupNotify=true
+X-AppInstall-Package=abgx360gui
+X-AppInstall-Popcon=19
+X-AppInstall-Section=aur
+X-Arch-Package=abgx360gui 1.0.2-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=abgx360gui
+X-Arch-Package-Version=1.0.2-3
+X-Arch-Package-Description=A GTK frontend for abgx360
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://abgx360.net/
+X-Arch-Package-Votes=19

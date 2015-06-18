@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=OpenShot Video Editor
+X-GNOME-FullName=OpenShot Video Editor
+Comment=Create and edit videos and movies
+Icon=openshot
+TryExec=/usr/bin/openshot
+Exec=openshot %F
+Categories=AudioVideo;Video;AudioVideoEditing;GNOME;GTK;
+MimeType=application/vnd.openshot-project;
+StartupNotify=false
+X-AppInstall-Package=openshot
+X-AppInstall-Popcon=338
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=openshot
+X-Arch-Package-Version=1.4.3-3
+X-Arch-Package-Description=an open-source, non-linear video editor for Linux based on MLT framework
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.openshotvideo.com/
+X-Ubuntu-Gettext-Domain=OpenShot

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=gnome-shell-google-calendar
+Comment=An attempt to integrate google calendar into gnome-shell.
+TryExec=/usr/share/gnome-shell-google-calendar/gnome-shell-google-calendar-startup.sh
+Exec=/usr/share/gnome-shell-google-calendar/gnome-shell-google-calendar-startup.sh
+X-GNOME-Autostart-enabled=true
+X-AppInstall-Package=gnome-shell-google-calendar-git
+X-AppInstall-Popcon=47
+X-AppInstall-Section=aur
+X-Arch-Package=gnome-shell-google-calendar-git 20140817-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gnome-shell-google-calendar-git
+X-Arch-Package-Version=20140817-1
+X-Arch-Package-Description=A D-Bus service that fetches events from Google Calendar and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/hashken/gnome-shell-google-calendar
+X-Arch-Package-Votes=47

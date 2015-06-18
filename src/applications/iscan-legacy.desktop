@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Image Scan!
+Comment=A front-end for EPSON scanners
+Icon=iscan.png
+TryExec=/usr/bin/iscan
+Exec=iscan
+NoDisplay=true
+Categories=Application;Graphics;
+X-AppInstall-Package=iscan-legacy
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=iscan-legacy 2.10.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=iscan-legacy
+X-Arch-Package-Version=2.10.0-1
+X-Arch-Package-Description=A legacy version of the front-end for EPSON
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.avasys.jp/english/linux_e/dl_scan.html
+X-Arch-Package-Votes=10
+Aliases=iscan;

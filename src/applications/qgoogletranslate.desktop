@@ -1,0 +1,18 @@
+[Desktop Entry]
+Version=v1.0
+Type=Application
+Name=QGoogleTranslate
+GenericName=Google Translate
+Comment=Translates text via Google Translate engine
+Icon=qgoogletranslate_icon
+TryExec=/usr/bin/qgoogletranslate
+Exec=qgoogletranslate
+Categories=Utility;QT;
+X-AppInstall-Package=qgoogletranslate-svn
+X-AppInstall-Section=aur
+X-Arch-Package=qgoogletranslate-svn 26-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qgoogletranslate-svn
+X-Arch-Package-Version=26-2
+X-Arch-Package-Description=Translates text via Google Translate engine
+X-Arch-Package-URL=http://code.google.com/p/qgoogletranslate

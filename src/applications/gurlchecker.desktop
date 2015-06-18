@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=gurlchecker
+Name[de]=gURLChecker
+Comment=Graphical Web Links checker
+Comment[de]=Ein grafischer Linkprüfer
+Comment[fr]=Vérificateur de liens graphique
+Comment[it]=Controllore grafico di link web
+Comment[sk]=Grafický Web Kontrolór Web Odkazov
+Icon=gurlchecker
+TryExec=/usr/bin/gurlchecker
+Exec=gurlchecker %u
+Categories=Application;Network;GNOME;GTK;
+StartupNotify=true
+X-AppInstall-Package=gurlchecker
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gurlchecker
+X-Arch-Package-Version=0.13.1-1
+X-Arch-Package-Description=gURLChecker is a graphical web sites checker for GNU/Linux and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gurlchecker.labs.libre-entreprise.org/
+X-Arch-Package-Votes=7

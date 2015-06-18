@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Osiris
+GenericName[it_IT]=Osiris - Serverless Portal System
+Comment=Osiris - Serverless Portal System
+Icon=/usr/share/icons/osiris-sps.png
+TryExec=/usr/bin/osiris-sps
+Exec=osiris-sps
+Categories=Application;Network;
+X-AppInstall-Package=osiris-sps
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=osiris-sps 0.15-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=osiris-sps
+X-Arch-Package-Version=0.15-2
+X-Arch-Package-Description=An anonymous p2p serverless portal system.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.osiris-sps.org/
+X-Arch-Package-Votes=8

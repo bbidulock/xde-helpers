@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Dune Dynasty
+Comment=Classic Dune. Modern Controls.
+Icon=dunedynasty
+TryExec=/usr/bin/dunedynasty
+Exec=dunedynasty
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=dunedynasty-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=dunedynasty-git 1.5.7.r263.g6f925e9-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dunedynasty-git
+X-Arch-Package-Version=1.5.7.r263.g6f925e9-1
+X-Arch-Package-Description=Enhanced continuation of the classic real-time strategy game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://dunedynasty.sourceforge.net/
+X-Arch-Package-Votes=1
+Aliases=dunedynasty;

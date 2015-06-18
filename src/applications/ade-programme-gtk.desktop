@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=ADE Program (gtk)
+GenericName=GTK ADE Programme downloader
+Comment=Interface pour afficher le planning de ADE
+Icon=/usr/share/pixmaps/ade-programme-gtk.png
+TryExec=/usr/bin/ade-programme-gtk
+Exec=/usr/bin/ade-programme-gtk
+Categories=Utility;
+StartupNotify=true
+X-AppInstall-Package=ade-programme-gtk
+X-AppInstall-Section=aur
+X-Arch-Package=ade-programme-gtk 1.0-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ade-programme-gtk
+X-Arch-Package-Version=1.0-5
+X-Arch-Package-Description=Interface pour afficher le planning de ADE
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://charlesgael.free.fr/
+X-Arch-Package-Votes=0

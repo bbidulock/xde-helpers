@@ -1,0 +1,23 @@
+[Desktop Entry]
+Version=3.5.minus1
+Type=Application
+Name=CGoban-h editor
+GenericName=Play Go on KGS
+Comment=A KGS client and SGF editor
+Icon=cgoban-h.png
+TryExec=/usr/bin/cgoban-h
+Exec=cgoban-h -edit
+Categories=Application;Game;BoardGame;
+MimeType=application/x-go-sgf;text/sgf;text/x-sgf;
+StartupNotify=true
+X-AppInstall-Package=cgoban-h
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=cgoban-h 3.5.minus1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cgoban-h
+X-Arch-Package-Version=3.5.minus1-1
+X-Arch-Package-Description=KGS client 'hacked' with some enhancements
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://beijinggoclub.com/
+X-Arch-Package-Votes=2

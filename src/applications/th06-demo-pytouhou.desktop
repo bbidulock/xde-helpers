@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Touhou Koumakyou - Embodiment of Scarlet Devil; PyTouhou version
+Comment=Sixth game of the Touhou Project series
+Icon=th06-demo
+TryExec=/usr/bin/th06-demo-pytouhou
+Exec=/usr/bin/th06-demo-pytouhou
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=th06-demo
+X-AppInstall-Section=aur
+X-Arch-Package=th06-demo 0.13-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=th06-demo
+X-Arch-Package-Version=0.13-3
+X-Arch-Package-URL=http://www16.big.or.jp/~zun/html/th06.html

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Pysycache Admin
+GenericName=Pysycache Admin
+Comment=Configuration of PySyCache
+Comment[es]=Configuración de PySyCache
+Comment[fr]=Configuration de PySyCache
+Icon=_usr_share_pixmaps_pysycache
+TryExec=/usr/bin/pysycache
+Exec=pysycache -admin
+Categories=Education;KidsGame;
+StartupNotify=true
+X-AppInstall-Package=pysycache
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pysycache
+X-Arch-Package-Version=3.1c-1
+X-Arch-Package-Description=Educational software for teaching kids how to use the mouse
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.pysycache.org/
+X-Arch-Package-Votes=13

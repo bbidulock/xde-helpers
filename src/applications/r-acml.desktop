@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=R
+GenericName=environment for statistical computing
+Comment=language and environment for statistical computing and graphics
+Icon=/usr/share/pixmaps/r.png
+TryExec=/usr/bin/R
+Exec=R
+Terminal=true
+NoDisplay=true
+Hidden=true
+Categories=Education;Science;Math;
+StartupNotify=true
+DocPath=/usr/lib/R/doc/html/index.html
+X-AppInstall-Package=r-acml
+X-AppInstall-Section=aur
+X-Arch-Package=r-acml 3.1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=r-acml
+X-Arch-Package-Version=3.1.0-1
+X-Arch-Package-Description=Language and environment for statistical computing and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.r-project.org/
+X-Arch-Package-Votes=0
+Aliases=r;

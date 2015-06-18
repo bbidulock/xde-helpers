@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Doomseeker
+Comment=Multiplayer Lobby for Doom ports (ZDaemon, Chocolate Doom, Vavoom, Skulltag and Odamex)
+Icon=doomseeker
+TryExec=/usr/bin/doomseeker
+Exec=doomseeker
+X-MultipleArgs=false
+Categories=Game;
+X-AppInstall-Package=doomseeker-svn
+X-AppInstall-Section=aur
+X-Arch-Package=doomseeker-svn 589-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=doomseeker-svn
+X-Arch-Package-Version=589-1
+X-Arch-Package-Description=Multiplayer Lobby for Doom ports (ZDaemon, Chocolate Doom, Vavoom, Skulltag and Odamex)
+X-Arch-Package-URL=http://skulltag.net/doomseeker

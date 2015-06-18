@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=UPnP Router Control
+Name[eu]=UPnP Router Kontrola
+Name[it]=Controllo router UPnP
+Comment=A simple program to manage UPnP IGD compliant routers
+Comment[de]=Ein einfaches Programm, um UPnP IGD-kompatible Router zu konfigurieren
+Comment[it]=Un semplice programma per gestire router compatibili con UPnP IGD
+Comment[nl]=Een eenvoudig programma om UPnP IGD-ondersteunde routers te beheren
+Comment[pl]=Program do zarządzanie routerami zgodnymi z UPnP IGD
+Icon=upnp-router-control
+TryExec=/usr/bin/upnp-router-control
+Exec=upnp-router-control
+Categories=Utility;
+StartupNotify=false
+X-AppInstall-Package=upnp-router-control
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=upnp-router-control
+X-Arch-Package-Version=0.2-2
+X-Arch-Package-Description=UPnP Router Control allow to see some params of the router
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://launchpad.net/upnp-router-control
+X-Arch-Package-Votes=3

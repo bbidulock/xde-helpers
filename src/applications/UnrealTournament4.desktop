@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Unreal Tournament 4
+Comment=Unreal Tournament 4 Pre Alpha
+Icon=/opt/ut4/LinuxNoEditor/Engine/Content/Slate/Testing/UE4Icon.png
+TryExec=/usr/bin/UnrealTournament
+Exec=/usr/bin/UnrealTournament
+Categories=Game;
+X-AppInstall-Package=ut4-dummy
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=ut4-dummy 2532759-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ut4-dummy
+X-Arch-Package-Version=2532759-1
+X-Arch-Package-Description=PRE-ALPHA of the new Unreal Tournament based on Unreal Engine
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://forums.unrealtournament.com/showthread.php?12011-Unreal-Tournament-Pre-Alpha-Playable-Build
+X-Arch-Package-Votes=1

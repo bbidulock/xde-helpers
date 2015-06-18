@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Heroes
+Comment=Collect powerups and avoid your opponents' trails
+Icon=heroes
+TryExec=/usr/bin/heroes
+Exec=heroes
+Categories=Application;Game;
+StartupNotify=false
+X-AppInstall-Package=heroes
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=heroes
+X-Arch-Package-Version=0.21-1
+X-Arch-Package-Description=An advanced Nibbles clone
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://heroes.sourceforge.net/
+X-Arch-Package-Votes=1

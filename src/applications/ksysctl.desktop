@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=ksysctl
+GenericName=ksysctl
+Comment=A control program (gui) for the new system contol.
+Comment[de]=Ein Kontroll Programm (GUI) fuer das neue System Control
+Icon=ksysctl
+TryExec=/usr/bin/kdesu
+Exec=kdesu ksysctl
+Categories=System;Tools;
+StartupNotify=true
+X-AppInstall-Package=ksysctl
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=ksysctl 0.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ksysctl
+X-Arch-Package-Version=0.2-2
+X-Arch-Package-Description=A front end for the systemctl program
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kde-apps.org/content/show.php/KSysCtl?content=148648
+X-Arch-Package-Votes=7

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Orbit-Hopper
+Comment=A SkyRoads clone featuring new levels, enemies and much more
+Icon=orbithopper
+TryExec=/usr/bin/orbithopper
+Exec=orbithopper
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=orbithopper
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=orbithopper 1.16c-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=orbithopper
+X-Arch-Package-Version=1.16c-2
+X-Arch-Package-Description=A SkyRoads clone featuring new levels, enemies and much more
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.zneaker.com/joomla/
+X-Arch-Package-Votes=3

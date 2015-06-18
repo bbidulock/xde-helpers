@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=tree-puzzle
+GenericName=Reconstruction of phylogenetic trees
+Comment=Reconstruction of phylogenetic trees by maximum likelihood
+Icon=tree-puzzle
+TryExec=/usr/bin/tree-puzzle
+Exec=tree-puzzle
+Terminal=yes
+Categories=Education;Science;Biology;
+StartupNotify=false
+X-AppInstall-Package=tree-puzzle
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tree-puzzle
+X-Arch-Package-Version=5.2-1
+X-Arch-Package-Description=Reconstruction of phylogenetic trees by maximum likelihood.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.tree-puzzle.de
+X-Arch-Package-Votes=2

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Megacoin
+Comment=Megacoin P2P Cryptocurrency
+Icon=/usr/share/pixmaps/Megacoin256.png
+TryExec=/usr/bin/Megacoin-qt
+Exec=/usr/bin/Megacoin-qt
+NoDisplay=true
+Categories=Network;
+MimeType=x-scheme-handler/Megacoin;
+X-AppInstall-Package=megacoin-qt-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=megacoin-qt-git 0.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=megacoin-qt-git
+X-Arch-Package-Version=0.1-2
+X-Arch-Package-Description=P2P Cryptocurrency
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.megacoin.co.nz/
+X-Arch-Package-Votes=1
+Aliases=megacoin;

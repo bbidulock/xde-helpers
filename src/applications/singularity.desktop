@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Singularity
+Comment=Become the singularity
+Icon=singularity
+TryExec=/usr/bin/singularity
+Exec=singularity
+Categories=Game;StrategyGame;Simulation;
+StartupNotify=false
+X-AppInstall-Package=singularity
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=singularity
+X-Arch-Package-Version=0.30c-7
+X-Arch-Package-Description=Strategy game - simulation of true AI
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://emhsoft.com/singularity/index.html

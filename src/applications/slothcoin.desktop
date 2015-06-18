@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=SlothCoin
+Comment=SlothCoin P2P Cryptocurrency
+Icon=/usr/share/pixmaps/slothcoin.png
+TryExec=/usr/bin/slothcoin-qt
+Exec=/usr/bin/slothcoin-qt
+Categories=Network;
+MimeType=x-scheme-handler/slothcoin;
+X-AppInstall-Package=slothcoin-qt-git
+X-AppInstall-Section=aur
+X-Arch-Package=slothcoin-qt-git 1.6.r0.g15e78bf-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=slothcoin-qt-git
+X-Arch-Package-Version=1.6.r0.g15e78bf-1
+X-Arch-Package-Description=Sloth coin cryptocurrency
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://slothcoin.org/
+X-Arch-Package-Votes=0

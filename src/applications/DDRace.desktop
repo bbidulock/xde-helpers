@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=TeeWorlds DDRace
+GenericName=Arcade Game
+Comment=is a 2D multiplayer arcade
+Icon=DDRace
+TryExec=/usr/bin/DDRace
+Exec=DDRace
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=-ddrace-git
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=teeworlds-ddrace-git d289e4d-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=-ddrace-git
+X-Arch-Package-Version=d289e4d-1
+X-Arch-Package-Description=A 2D multiplayer arcade (Git version)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ddrace.info
+X-Arch-Package-Votes=5

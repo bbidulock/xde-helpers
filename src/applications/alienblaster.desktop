@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Alien Blaster
+GenericName=2D Action Shooter
+Comment=Action-loaded 2D arcade shooter game
+Icon=alienblaster
+TryExec=/usr/bin/alienblaster.sh
+Exec=alienblaster.sh
+Categories=Game;ActionGame;
+StartupNotify=false
+X-AppInstall-Package=alienblaster
+X-AppInstall-Popcon=22
+X-AppInstall-Section=aur
+X-Arch-Package=alienblaster 1.1.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=alienblaster
+X-Arch-Package-Version=1.1.0-3
+X-Arch-Package-Description=Action-loaded 2D arcade shooter game with Fedora's patches
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.schwardtnet.de/alienblaster/
+X-Arch-Package-Votes=4

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Subtitle Edit
+Icon=subtitleedit
+TryExec=/usr/bin/subtitleedit
+Exec=subtitleedit %f
+Categories=AudioVideo;Video;AudioVideoEditing;
+MimeType=application/x-srt;text/x-ass;text/x-microdvd;text/x-ssa;text/x-subviewer;
+StartupNotify=true
+X-AppInstall-Package=subtitleedit-bin
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=subtitleedit-bin 3.4.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=subtitleedit-bin
+X-Arch-Package-Version=3.4.6-1
+X-Arch-Package-Description=A primarily Windows-oriented, Mono-based subtitle (SRT etc.)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.nikse.dk/subtitleedit/
+X-Arch-Package-Votes=1

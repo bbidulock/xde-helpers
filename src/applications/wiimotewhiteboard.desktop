@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=WiimoteWhiteboard
+GenericName=WiimoteWhiteboard
+Comment=Use a Wiimote to build an interactive whiteboard
+Icon=/usr/share/wiimotewhiteboard/Help/pub/WiimoteWhiteboard_128.png
+TryExec=/usr/bin/wiimotewb.sh
+Exec=wiimotewb.sh
+Categories=Application;Science;Utility;
+StartupNotify=false
+X-AppInstall-Package=wiimotewhiteboard
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=wiimotewhiteboard 1.0.3-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wiimotewhiteboard
+X-Arch-Package-Version=1.0.3-2
+X-Arch-Package-Description=Allows you to use the Wii Remote (Wiimote) to turn any surface
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.uweschmidt.org/wiimote-whiteboard
+X-Arch-Package-Votes=7

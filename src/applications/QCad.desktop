@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=QCad
+Icon=/usr/share/pixmaps/qcad.xpm
+TryExec=/usr/bin/qcad
+Exec=/usr/bin/qcad
+Categories=Application;Office;
+StartupNotify=true
+X-AppInstall-Package=qcad
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=qcad
+X-Arch-Package-Version=3.9.1.0-1
+X-Arch-Package-Description=A 2D CAD package based upon Qt
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.qcad.org

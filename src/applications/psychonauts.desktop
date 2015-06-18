@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Psychonauts
+Comment=A mind-bending platforming adventure
+Icon=/opt/psychonauts/psychonauts.png
+TryExec=/usr/bin/psychonauts
+Exec=/usr/bin/psychonauts
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=psychonauts
+X-AppInstall-Popcon=14
+X-AppInstall-Section=aur
+X-Arch-Package=psychonauts 20130506-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=psychonauts
+X-Arch-Package-Version=20130506-1
+X-Arch-Package-Description=A mind-bending platforming adventure (game sold separately)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.psychonauts.com/
+X-Arch-Package-Votes=14

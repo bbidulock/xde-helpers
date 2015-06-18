@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Beat Hazard Ultra
+Comment=Intense music-driven arcade shooter powered by your music
+Icon=/opt/beathazardultra/SmileLogo.png
+TryExec=/usr/bin/beathazardultra
+Exec=/usr/bin/beathazardultra
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=beathazardultra
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=beathazardultra 20130308-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=beathazardultra
+X-Arch-Package-Version=20130308-1
+X-Arch-Package-Description=Intense music-driven arcade shooter powered by your music
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.coldbeamgames.com/
+X-Arch-Package-Votes=4

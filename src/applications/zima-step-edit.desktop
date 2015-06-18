@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=ZIMA-STEP-Edit
+Comment=A simple tool for mass editing of *.STEP files headers
+Icon=zima-step-edit
+TryExec=/usr/bin/ZIMA-STEP-Edit
+Exec=ZIMA-STEP-Edit
+Categories=Office;
+X-AppInstall-Package=zima-step-edit
+X-AppInstall-Section=aur
+X-Arch-Package=zima-step-edit 1.0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zima-step-edit
+X-Arch-Package-Version=1.0.1-1
+X-Arch-Package-Description=A simple tool for mass editing of *.STEP files headers
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.zima-engineering.cz/projekty/ZIMA-STEP-Edit/
+X-Arch-Package-Votes=0

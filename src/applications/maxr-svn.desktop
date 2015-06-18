@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=M.A.X. Reloaded
+Comment=Remake of Mechanized Assault & Exploration
+Icon=maxr
+TryExec=/usr/bin/maxr
+Exec=maxr
+NoDisplay=true
+Categories=Game;StrategyGame;
+X-AppInstall-Package=maxr-svn
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=maxr-svn 2709-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=maxr-svn
+X-Arch-Package-Version=2709-1
+X-Arch-Package-Description=A remake of the old DOS game M.A.X.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://maxr.org
+X-Arch-Package-Votes=1
+Aliases=maxr;

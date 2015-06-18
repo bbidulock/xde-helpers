@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Comment=Progress over a maze etched on the surface of a cube
+Icon=/usr/share/pixmaps/cube-escape.png
+TryExec=/usr/bin/cube-escape
+Exec=/usr/bin/cube-escape
+Hidden=False
+Categories=Game;Puzzle Game;
+X-AppInstall-Package=cube-escape
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=cube-escape 0.9-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cube-escape
+X-Arch-Package-Version=0.9-1
+X-Arch-Package-Description=Progress over a maze etched on the surface of a cube
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/cube-escape/
+X-Arch-Package-Votes=5

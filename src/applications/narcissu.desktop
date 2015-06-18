@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Narcissu
+Comment=Free japanese visual novel game, telling the story of a terminally ill young man and woman
+Icon=narcissu.png
+TryExec=/usr/bin/narcissu
+Exec=/usr/bin/narcissu
+Categories=Application;Game;
+X-AppInstall-Package=narcissu
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=narcissu 1.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=narcissu
+X-Arch-Package-Version=1.0-3
+X-Arch-Package-Description=Free japanese visual novel game, telling the story of a
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://stage-nana.sakura.ne.jp/
+X-Arch-Package-Votes=4

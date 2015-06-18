@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Firefox Beta - Safe Mode
+GenericName=Web Browser - Safe Mode
+Comment=Browse the World Wide Web in Safe Mode
+Icon=firefox-beta-bin-de
+TryExec=/usr/bin/firefox-beta-bin-de
+Exec=firefox-beta-bin-de -safe-mode %u
+Categories=Network;WebBrowser;
+MimeType=text/html;text/xml;application/xhtml+xml;application/vnd.mozilla.xul+xml;text/mml;x-scheme-handler/http;x-scheme-handler/https;
+StartupNotify=false
+StartupWMClass=Firefox
+X-AppInstall-Package=firefox-beta-bin-de
+X-AppInstall-Section=aur
+X-Arch-Package=firefox-beta-bin-de 34.0b10-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firefox-beta-bin-de
+X-Arch-Package-Version=-1
+X-Arch-Package-Description=Standalone web browser from mozilla.org - German Beta (All the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://www.mozilla.org/de/firefox/
+X-Arch-Package-Votes=0

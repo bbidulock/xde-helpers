@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Plot Digitizer
+Comment=Digitize scanned plots of functional data
+Icon=plotdigitizer
+TryExec=/usr/bin/plotdigitizer.sh
+Exec=/usr/bin/plotdigitizer.sh
+Categories=Science;Math;
+StartupNotify=false
+X-AppInstall-Package=plotdigitizer
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=plotdigitizer 2.6.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=plotdigitizer
+X-Arch-Package-Version=2.6.6-1
+X-Arch-Package-Description=A program used to digitize scanned plots of functional data
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://plotdigitizer.sourceforge.net/
+X-Arch-Package-Votes=2

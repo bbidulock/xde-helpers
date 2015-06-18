@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Earlybird
+GenericName=Mail Client & News Reader
+Comment=Mail & News Reader
+Icon=thunderbird-earlybird
+TryExec=/usr/bin/thunderbird
+Exec=thunderbird %u
+NoDisplay=true
+Categories=Network;Email;
+MimeType=message/rfc822;x-scheme-handler/mailto;
+StartupNotify=true
+X-AppInstall-Package=thunderbird-earlybird-ru
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=thunderbird-earlybird-ru 39.0a2.20150405004005-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=thunderbird-earlybird-ru
+X-Arch-Package-Version=39.0a2.20150405004005-1
+X-Arch-Package-Description=Standalone Mail/News reader - Earlybird channel
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.mozilla.org//channel
+X-Arch-Package-Votes=1
+Aliases=thunderbird-earlybird;

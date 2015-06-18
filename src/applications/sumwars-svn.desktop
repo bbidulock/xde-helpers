@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Summoning Wars
+GenericName=Summoning Wars
+Comment=3D Hack and Slash
+Icon=/usr/share/pixmaps/sumwars.png
+TryExec=/usr/bin/sumwars
+Exec=sumwars
+NoDisplay=true
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=sumwars-svn
+X-AppInstall-Section=aur
+X-Arch-Package=sumwars-svn 2407-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sumwars-svn
+X-Arch-Package-Version=2407-1
+X-Arch-Package-Description=Summoning Wars is an open source role-playing game, featuring both a single-player and a multiplayer mode for about 2 to 8 players.
+X-Arch-Package-URL=http://sumwars.org/
+Aliases=sumwars;

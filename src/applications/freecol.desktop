@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=FreeCol
+Comment=Turn-based strategy game
+Icon=freecol
+TryExec=/usr/bin/freecol
+Exec=freecol
+Categories=Game;StrategyGame;Java;
+StartupNotify=false
+X-AppInstall-Package=freecol
+X-AppInstall-Popcon=71
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=freecol
+X-Arch-Package-Version=0.11.3-1
+X-Arch-Package-Description=A turn-based strategy game based on Colonization
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.freecol.org/

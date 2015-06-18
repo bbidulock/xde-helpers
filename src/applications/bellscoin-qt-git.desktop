@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Bellscoin
+Comment=Bellscoin P2P Cryptocurrency
+Icon=/usr/share/pixmaps/bellscoin.png
+TryExec=/usr/bin/bellscoin-qt
+Exec=/usr/bin/bellscoin-qt
+NoDisplay=true
+Categories=Network;
+MimeType=x-scheme-handler/bellscoin;
+X-AppInstall-Package=bellscoin-qt-git
+X-AppInstall-Section=aur
+X-Arch-Package=bellscoin-qt-git 0.8.5.45.g6b3776c-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bellscoin-qt-git
+X-Arch-Package-Version=0.8.5.45.g6b3776c-1
+X-Arch-Package-Description=Cryptocurrency
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://bitcointalk.org/index.php?topic=349695.0
+X-Arch-Package-Votes=0
+Aliases=bellscoin;

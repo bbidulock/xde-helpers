@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=gWakeOnLan
+Comment=A GTK+ utility to awake turned off machine using the Wake On LAN feature.
+Comment[fr_FR]=Un outil GTK+ pour réveiller les ordinateurs éteints grâce à le Wake On LAN.
+Comment[it_IT]=Un'utilità GTK+ per risvegliare macchine spente usando il Wake On LAN.
+Icon=_usr_share_gwakeonlan_gwakeonlan
+TryExec=/usr/bin/gwakeonlan
+Exec=/usr/bin/gwakeonlan
+Categories=Network;GTK;
+StartupNotify=false
+X-AppInstall-Package=gwakeonlan
+X-AppInstall-Popcon=13
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=gwakeonlan
+X-Arch-Package-Version=0.6.2-4
+X-Arch-Package-Description=GTK+ utility to awake machines using the Wake on LAN.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.muflone.com/gwakeonlan

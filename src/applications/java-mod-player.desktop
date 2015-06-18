@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Java Mod Player
+GenericName=Music Player
+Icon=/usr/share/pixmaps/java-mod-player.gif
+TryExec=/usr/bin/java-mod-player
+Exec=java-mod-player
+Categories=AudioVideo;
+X-AppInstall-Package=java-mod-player
+X-AppInstall-Section=aur
+X-Arch-Package=java-mod-player 2.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=java-mod-player
+X-Arch-Package-Version=2.2-1
+X-Arch-Package-Description=Complete audio player written in JAVA supporting several
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.javamod.de/
+X-Arch-Package-Votes=0

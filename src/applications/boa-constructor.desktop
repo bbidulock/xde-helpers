@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Boa Constructor
+GenericName=IDE and GUI Designer
+Comment=RAD Tool for Python and WxWindows
+Icon=boa-constructor
+TryExec=/usr/bin/boa-constructor
+Exec=boa-constructor
+X-MultipleArgs=false
+Categories=Development;Debugger;IDE;GUIDesigner;
+StartupNotify=true
+X-AppInstall-Package=boa-constructor
+X-AppInstall-Popcon=41
+X-AppInstall-Section=aur
+X-Arch-Package=boa-constructor 0.6.1-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=boa-constructor
+X-Arch-Package-Version=0.6.1-4
+X-Arch-Package-Description=Cross platform Python IDE and wxPython GUI Builder
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://boa-constructor.sourceforge.net/
+X-Arch-Package-Votes=29

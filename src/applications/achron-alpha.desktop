@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Achron
+GenericName=Achron
+Comment=Time travel RTS
+Icon=/usr/share/pixmaps/achron.png
+TryExec=/usr/bin/achron
+Exec=achron
+NoDisplay=true
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=achron-alpha
+X-AppInstall-Section=aur
+X-Arch-Package=achron-alpha 0.5.1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=achron-alpha
+X-Arch-Package-Version=0.5.1.0-1
+X-Arch-Package-Description=Time travel RTS
+X-Arch-Package-URL=http://achrongame.com/site/
+Aliases=achron;

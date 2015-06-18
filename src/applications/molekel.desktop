@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Molekel
+GenericName=Molecular Viewer
+Comment=Molecular Visualization Program
+Icon=/usr/share/pixmaps/Molekel.png
+TryExec=LD_LIBRARY_PATH=/opt/molekel/lib
+Exec=LD_LIBRARY_PATH=/opt/molekel/lib /opt/molekel/bin/Molekel
+X-DBUS-StartupType=none
+Categories=Science;Chemistry;
+MimeType=chemical/x-xyz;chemical/x-vmd;chemical/x-spdbv;chemical/x-pdb;chemical/x-ncbi-asn1-xml;chemical/x-ncbi-asn1-binary;chemical/x-ncbi-asn1;chemical/x-mopac-out;chemical/x-mopac-input;chemical/x-mopac-graph;chemical/x-mol2;chemical/x-mmcif;chemical/x-mdl-tgf;chemical/x-mdl-sdfile;chemical/x-mdl-rxnfile;chemical/x-mdl-rdfile;chemical/x-mdl-molfile;chemical/x-macromodel-input;chemical/x-jcamp-dx;chemical/x-gaussian-log;chemical/x-gaussian-input;chemical/x-gaussian-checkpoint;chemical/x-gamess-output;chemical/x-gamess-input;chemical/x-cif;chemical/x-chem3d;chemical/x-cdxml;chemical/x-cdx;
+StartupNotify=false
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=molekel
+X-AppInstall-Section=aur
+X-Arch-Package=molekel 5.4.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=molekel
+X-Arch-Package-Version=5.4.0-1
+X-Arch-Package-Description=view molecules and the results of computational chemistry
+X-Arch-Package-Groups=science chemistry
+X-Arch-Package-URL=http://molekel.cscs.ch/wiki/pmwiki.php/Main/HomePage
+X-Arch-Package-Votes=0

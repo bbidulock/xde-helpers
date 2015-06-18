@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Compiz Fusion Icon
+Comment=Start and manage Compiz Fusion
+Comment[ca]=Gestioneu el Compiz Fusion i trieu el gestors de finestres a utilitzar
+Comment[es]=Configura el Compiz Fusion y cambia entre los distintos gestores de ventanas instalados
+Icon=fusion-icon
+TryExec=/usr/bin/fusion-icon
+Exec=fusion-icon --no-start
+Categories=System;
+StartupNotify=false
+X-AppInstall-Package=fusion-icon
+X-AppInstall-Popcon=28
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fusion-icon
+X-Arch-Package-Version=0.1-6
+X-Arch-Package-Description=Simple tray icon for Compiz 0.8
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.compiz.org/
+X-Arch-Package-Votes=28

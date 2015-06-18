@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Labyrinths & Legends
+TryExec=/usr/bin/xlnl
+Exec=xlnl
+Categories=Game;
+X-AppInstall-Package=xlnl
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=xlnl 3.4.20-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xlnl
+X-Arch-Package-Version=3.4.20-1
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://lnl.sourceforge.jp/en/
+X-Arch-Package-Votes=1

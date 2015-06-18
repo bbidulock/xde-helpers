@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=MIT/GNU Scheme
+Icon=_usr_share_pixmaps_mit-scheme_lambda2
+TryExec=/usr/bin/mit-scheme-i386
+Exec=/usr/bin/mit-scheme-i386 --edit
+Categories=Development;IDE;TextEditor;
+StartupNotify=false
+X-AppInstall-Package=mit-scheme
+X-AppInstall-Popcon=49
+X-AppInstall-Section=aur
+X-AppInstall-Architectures=i386
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mit-scheme
+X-Arch-Package-Version=9.2-1
+X-Arch-Package-Description=MIT/GNU Scheme
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.gnu.org/software/mit-scheme/
+X-Arch-Package-Votes=49

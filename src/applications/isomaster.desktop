@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=ISO Master
+GenericName=ISO File Editor
+GenericName[ca]=Editor de fitxers ISO
+GenericName[es]=Editor de ficheros ISO
+Comment=Read, write and modify ISO images
+Comment[ca]=Llegiu, escriviu i modifiqueu imatges ISO
+Comment[es]=Leer, escribir i modificar imagenes ISO
+Icon=_usr_share_icons_isomaster_isomaster
+TryExec=/usr/bin/isomaster
+Exec=isomaster
+Categories=AudioVideo;DiscBurning;
+MimeType=application/x-iso;
+StartupNotify=true
+X-AppInstall-Package=isomaster
+X-AppInstall-Popcon=35
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=isomaster
+X-Arch-Package-Version=1.3.13-1
+X-Arch-Package-Description=CD image editor written in GTK2
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://littlesvr.ca/isomaster
+X-Arch-Package-Votes=35

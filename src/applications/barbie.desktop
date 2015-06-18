@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Barbie Seahorse Adventures
+GenericName=barbie
+Comment=You're a seahorse - and you want to go to the moon!
+Icon=/usr/share/barbie/data/images/platform/1.png
+TryExec=/usr/bin/barbie
+Exec=barbie
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=barbie-seahorse-adventures
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=barbie-seahorse-adventures 1.0-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=barbie-seahorse-adventures
+X-Arch-Package-Version=1.0-4
+X-Arch-Package-Description=You're a seahorse - and you want to go to the moon!
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.imitationpickles.org/barbie/
+X-Arch-Package-Votes=10

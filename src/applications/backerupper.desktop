@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=BackerUpper
+GenericName=Backup Tool
+Comment=Backup Tool
+Icon=tar
+TryExec=/usr/bin/backer
+Exec=backer
+Categories=System;Utility;Archiving;
+X-AppInstall-Package=backerupper
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=backerupper 0.24-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=backerupper
+X-Arch-Package-Version=0.24-3
+X-Arch-Package-Description=Backerupper is a simple program for backing up selected
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/backerupper/
+X-Arch-Package-Votes=6

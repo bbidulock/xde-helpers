@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Pymp
+Comment=PyGTK frontend for MPlayer
+Icon=/usr/share/pixmaps/pymp.png
+TryExec=/usr/bin/pymp
+Exec=pymp
+Categories=Application;AudioVideo;
+StartupNotify=true
+X-AppInstall-Package=pymp
+X-AppInstall-Section=aur
+X-Arch-Package=pymp 1.1-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pymp
+X-Arch-Package-Version=1.1-3
+X-Arch-Package-Description=PyGTK frontend for MPlayer
+X-Arch-Package-URL=http://jdolan.dyndns.org/trac/wiki/Pymp

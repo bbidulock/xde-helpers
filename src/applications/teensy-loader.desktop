@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Teensy Loader
+GenericName=Teensy Loader
+Comment=Teensy Loader GUI
+Icon=teensy
+TryExec=/usr/bin/teensy-loader
+Exec=teensy-loader
+Categories=Development;
+X-AppInstall-Package=teensyduino-native
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=teensyduino-native 1.21-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=teensyduino-native
+X-Arch-Package-Version=1.21-2
+X-Arch-Package-Description=Arduino SDK with Teensyduino (Arch compiler toolchain)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.pjrc.com/teensy/teensyduino.html
+X-Arch-Package-Votes=1

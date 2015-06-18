@@ -1,0 +1,27 @@
+[Desktop Entry]
+Type=Application
+Name=Weka
+GenericName=Machine learning algorithms for data mining tasks
+Comment=A data mining and machine learning toolkit
+Comment[de]=Werkzeuge für Datenfilterung und Lernen durch Maschine
+Comment[es]=Herramientas para minería de datos y aprendizaje de máquinas
+Comment[fr]=Outils pour l'extraction de connaissances a partir des données
+Comment[it]=Attrezzi per l'estrazione di dati ed imparare di macchina
+Comment[pt]=Ferramentas para a extração de dados e a aprendizagem de máquina
+Icon=weka
+TryExec=/usr/bin/weka
+Exec=weka
+Categories=Development;Science;Database;Math;Java;
+URL=http://www.cs.waikato.ac.nz/ml/weka/
+StartupNotify=false
+X-AppInstall-Package=weka
+X-AppInstall-Popcon=69
+X-AppInstall-Section=aur
+X-Arch-Package=weka 3.7.12-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=weka
+X-Arch-Package-Version=3.7.12-1
+X-Arch-Package-Description=A collection of machine learning algorithms for data mining
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.cs.waikato.ac.nz/ml/weka/
+X-Arch-Package-Votes=69

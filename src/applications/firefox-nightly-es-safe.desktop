@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Firefox 4 - Modo Seguro
+GenericName=Web Browser - Safe Mode
+Icon=firefox
+TryExec=/usr/bin/firefox-nightly-es
+Exec=firefox-nightly-es -safe-mode %u
+MultipleArgs=false
+Categories=Application;Network;
+MimeType=text/html;
+StartupNotify=false
+X-AppInstall-Package=firefox-nightly-es
+X-AppInstall-Section=aur
+X-Arch-Package=firefox-nightly-es 4.0rc1-20110309
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firefox-nightly-es
+X-Arch-Package-Version=4.0rc1-20110309
+X-Arch-Package-Description=Mozilla Firefox Espanol, Nightly Build
+X-Arch-Package-URL=http://www.mozilla.org/projects/firefox

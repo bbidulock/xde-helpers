@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=PARSEC47
+Comment=Kenta Cho's PARSEC47
+Icon=parsec47
+TryExec=/usr/bin/parsec47
+Exec=parsec47
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=parsec47
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=parsec47
+X-Arch-Package-Version=0.2-2
+X-Arch-Package-Description=Fast-paced retro shoot'em up in an abstract world
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.asahi-net.or.jp/~cs8k-cyu/windows/p47_e.html
+X-Arch-Package-Votes=2

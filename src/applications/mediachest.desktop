@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=MediaChest
+GenericName=MultiMedia Organizer
+Icon=mediachest.png
+TryExec=/usr/bin/java
+Exec=java -jar /opt/MediaChest/lib/MediaChest.jar -Djdbc.drivers=sun.jdbc.odbc.JdbcOdbcDriver:com.ms.jdbc.odbc.JdbcOdbcDriver -DMediaChest.home=/opt/MediaChest/data/ -DR-AddressBook.home=/opt/MediaChest/data photoorganizer.PhotoOrganizer
+Categories=AudioVideo;
+X-AppInstall-Package=mediachest
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=mediachest 1.7.166-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mediachest
+X-Arch-Package-Version=1.7.166-3
+X-Arch-Package-Description=Powerful organizer of multimedia data.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://mediachest.sourceforge.net/
+X-Arch-Package-Votes=1

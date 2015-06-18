@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Fracplanet
+GenericName=Fractal planet and terrain generator\s
+Comment=Interactive application to generate and view random fractal planets and terrain with oceans, mountains, icecaps and rivers, then export them to POV-Ray format or Blender.
+Icon=fracplanet
+TryExec=/usr/bin/fracplanet
+Exec=fracplanet
+Categories=Science;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=fracplanet
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=fracplanet 0.4.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fracplanet
+X-Arch-Package-Version=0.4.0-3
+X-Arch-Package-Description=Fractal planet and terrain generator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/fracplanet/
+X-Arch-Package-Votes=1

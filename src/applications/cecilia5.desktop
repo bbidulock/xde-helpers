@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Cecilia 5
+GenericName=Cecilia 5
+Comment=Csound5 signal processing environment
+Icon=cecilia5
+TryExec=/usr/bin/cecilia5
+Exec=cecilia5
+Categories=Application;AudioVideo;Audio;
+X-AppInstall-Package=cecilia5
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=cecilia5 5.0.8-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cecilia5
+X-Arch-Package-Version=5.0.8-1
+X-Arch-Package-Description=An audio signal processing environment using pyo as its audio
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/cecilia5/
+X-Arch-Package-Votes=1

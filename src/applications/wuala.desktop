@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=Alpha
+Type=Application
+Name=Wuala
+GenericName=Distributed Online Storage Network
+Comment=Wuala is a new way of storing, sharing, and publishing files on the internet. Free, simple, and secure.
+Icon=wuala.png
+TryExec=/usr/bin/wuala
+Exec=wuala
+Categories=Application;Network;
+X-AppInstall-Package=wuala
+X-AppInstall-Popcon=124
+X-AppInstall-Section=aur
+X-Arch-Package=wuala 1-20150323
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wuala
+X-Arch-Package-Version=1-20150323
+X-Arch-Package-Description=A new way of storing, sharing and publishing files on the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.wuala.com/
+X-Arch-Package-Votes=124

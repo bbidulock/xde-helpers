@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Cola Git GUI
+Comment=A highly caffeinated git GUI
+Icon=_usr_share_git-cola_icons_git
+TryExec=/usr/bin/git-cola
+Exec=git-cola
+Categories=Development;RevisionControl;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=git-cola
+X-AppInstall-Popcon=51
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=git-cola
+X-Arch-Package-Version=2.1.2-1
+X-Arch-Package-Description=A powerful GUI for Git
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://git-cola.github.com/
+X-Arch-Package-Votes=148

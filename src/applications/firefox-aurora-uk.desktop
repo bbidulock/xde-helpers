@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Aurora
+GenericName=Web Browser
+Icon=firefox-aurora-icon
+TryExec=/usr/bin/firefox-aurora
+Exec=firefox-aurora %u
+MultipleArgs=false
+NoDisplay=true
+Categories=Application;Network;
+MimeType=text/html;
+StartupNotify=false
+X-AppInstall-Package=firefox-aurora-uk
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=firefox-aurora-uk latest-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firefox-aurora-uk
+X-Arch-Package-Version=latest-1
+X-Arch-Package-Description=Aurora channel
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.mozilla.org/projects/firefox/
+X-Arch-Package-Votes=1
+Aliases=firefox-aurora;

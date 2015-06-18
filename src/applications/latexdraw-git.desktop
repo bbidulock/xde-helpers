@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=LaTeXDraw
+GenericName=Vector graphics editor for PSTricks
+Comment=Vector drawing program for LaTeX using PSTricks
+Icon=latexdraw
+TryExec=/usr/bin/latexdraw
+Exec=latexdraw %f
+NoDisplay=true
+Hidden=true
+Categories=Graphics;VectorGraphics;
+MimeType=image/svg+xml;application/x-latexdraw-project;
+X-AppInstall-Package=latexdraw-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=latexdraw-git 966.3eb00d1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=latexdraw-git
+X-Arch-Package-Version=966.3eb00d1-1
+X-Arch-Package-Description=Create svg graphics and/or pstricks code usable in latex
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://latexdraw.sourceforge.net
+X-Arch-Package-Votes=1
+Aliases=latexdraw;

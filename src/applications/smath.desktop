@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=SMath Studio
+Comment=A mathematical program with many features and paper-like interface
+Icon=/usr/share/pixmaps/smath.png
+TryExec=/usr/bin/smath
+Exec=smath
+Categories=Education;Science;
+X-AppInstall-Package=smath
+X-AppInstall-Popcon=15
+X-AppInstall-Section=aur
+X-Arch-Package=smath 0.97-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=smath
+X-Arch-Package-Version=0.97-1
+X-Arch-Package-Description=A mathematical program with many features and paper-like
+X-Arch-Package-Groups=math
+X-Arch-Package-URL=http://smath.info
+X-Arch-Package-Votes=15

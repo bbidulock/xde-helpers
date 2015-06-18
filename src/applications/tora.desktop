@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Toolkit for Oracle
+Comment=A graphical toolkit for database administration and development
+Comment[de]=Grafisches Toolkit zur Administration und Entwicklung von Datenbanken
+Comment[fr]=Une boite à outil graphique pour l'administration et le développement de base de données
+Icon=tora
+TryExec=/usr/bin/tora
+Exec=tora
+Categories=Development;Office;Database;KDE;Qt;
+MimeType=application/x-tora;
+StartupNotify=true
+X-KDE-StartupNotify=true
+X-AppInstall-Package=tora
+X-AppInstall-Popcon=17
+X-AppInstall-Section=aur
+X-Arch-Package=tora 2.1.3-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tora
+X-Arch-Package-Version=2.1.3-4
+X-Arch-Package-Description=Toolkit for databases with support for MySQL and PostgreSQL
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://tora.sourceforge.net
+X-Arch-Package-Votes=17

@@ -1,0 +1,26 @@
+[Desktop Entry]
+Type=Application
+Name=Freeciv
+Comment=Turn-based strategy game inspired by the history of human civilization
+Comment[ca]=Joc d'estratègia inspirat en la història de la civilització humana
+Comment[da]=Strategispil inspireret af den menneskelige civilisations historie
+Comment[de]=Rundenbasiertes Strategiespiel, inspiriert durch die Geschichte der menschlichen Zivilisation
+Comment[fi]=Ihmiskunnan historian inspiroima vuoropohjainen strategiapeli
+Comment[no]=Strategispill inspirert av historien til menneskelig sivilisasjon
+Comment[pt]=Jogo de estratégia por turnos inspirado na História da civilização humana
+Comment[sv]=Turordningsbaserat strategispel inspirerat av den mänskliga historien
+Icon=freeciv-client
+TryExec=/usr/bin/freeciv-sdl
+Exec=freeciv-sdl
+Categories=Game;StrategyGame;GTK;
+StartupNotify=true
+X-AppInstall-Package=freeciv-sdl
+X-AppInstall-Popcon=27
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=freeciv-sdl
+X-Arch-Package-Version=2.5.0-1
+X-Arch-Package-Description=A multiuser clone of the famous Microprose game of
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://freeciv.org
+X-Arch-Package-Votes=27

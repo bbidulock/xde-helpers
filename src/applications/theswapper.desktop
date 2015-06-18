@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=The Swapper
+Name[en_US]=theswapper.desktop
+GenericName=The Swapper
+Comment=An atmospheric brain teaser with a sense of existential crisis
+Icon=/usr/share/pixmaps/theswapper.png
+TryExec="/opt/theswapper/TheSwapper"
+Exec="/opt/theswapper/TheSwapper"
+Categories=Game;
+Path=/opt/theswapper
+X-AppInstall-Package=theswapper
+X-AppInstall-Section=aur
+X-Arch-Package=theswapper 1.24-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=theswapper
+X-Arch-Package-Version=1.24-1
+X-Arch-Package-Description=An atmospheric brain teaser with a sense of existential crisis
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://facepalmgames.com/the-swapper/
+X-Arch-Package-Votes=0
+Value=1.0

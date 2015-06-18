@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=jconsole
+GenericName=jsoftware console version
+Comment=J programming environment on terminal
+Icon=/usr/share/pixmaps/jc.svg
+TryExec=/usr/lib/j/bin/jconsole
+Exec=/usr/lib/j/bin/jconsole
+Terminal=true
+Categories=Application;Development;
+StartupNotify=true
+X-AppInstall-Package=j-language
+X-AppInstall-Popcon=15
+X-AppInstall-Section=aur
+X-Arch-Package=j-language 6.02a-9
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=j-language
+X-Arch-Package-Version=6.02a-9
+X-Arch-Package-Description=J is a modern, high-level, general-purpose, high-performance
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.jsoftware.com
+X-Arch-Package-Votes=15

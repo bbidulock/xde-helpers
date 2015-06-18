@@ -1,0 +1,22 @@
+[Desktop Entry]
+Version=0.12.2
+Type=Application
+Name=haroopad
+Comment=The Next Document processor based on Markdown
+Icon=haroopad
+TryExec=/usr/bin/haroopad
+Exec=haroopad %F
+Categories=Development;GNOME;GTK;
+MimeType=text/x-markdown;
+StartupNotify=true
+X-AppInstall-Package=haroopad
+X-AppInstall-Popcon=31
+X-AppInstall-Section=aur
+X-Arch-Package=haroopad 0.13.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=haroopad
+X-Arch-Package-Version=0.13.1-1
+X-Arch-Package-Description=A markdown enabled document processor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pad.haroopress.com/
+X-Arch-Package-Votes=31

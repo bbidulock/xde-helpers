@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=GtkAtlantic
+GenericName=Monopd network client
+Comment=Connect to a Monopd server
+Icon=gtkatlantic
+TryExec=/usr/bin/gtkatlantic
+Exec=gtkatlantic
+Categories=Game;BoardGame;
+X-AppInstall-Package=gtkatlantic
+X-AppInstall-Popcon=12
+X-AppInstall-Section=aur
+X-Arch-Package=gtkatlantic 0.5.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gtkatlantic
+X-Arch-Package-Version=0.5.0-1
+X-Arch-Package-Description=Monopoly board game client for the monopd server.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gtkatlantic.gradator.net/
+X-Arch-Package-Votes=12

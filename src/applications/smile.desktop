@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Smile
+Comment=Slideshow Maker In Linux Environement
+Comment[es]=Utilidad para crear pases de diapositivas
+Icon=smile
+TryExec=/usr/bin/smile
+Exec=smile
+Categories=AudioVideo;
+StartupNotify=true
+X-AppInstall-Package=smile
+X-AppInstall-Popcon=44
+X-AppInstall-Section=aur
+X-Arch-Package=smile 1.0-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=smile
+X-Arch-Package-Version=1.0-4
+X-Arch-Package-Description=Slideshow Maker In Linux Environnement
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://smile.tuxfamily.org/
+X-Arch-Package-Votes=44

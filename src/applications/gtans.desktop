@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Tangrams
+Name[es]=Tangramas
+Comment=gtans
+Icon=gtans
+TryExec=/usr/bin/gtans
+Exec=gtans
+Categories=Game;LogicGame;GTK;
+StartupNotify=false
+X-AppInstall-Package=gtans
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gtans
+X-Arch-Package-Version=1.99.0-1
+X-Arch-Package-Description=The Tangram chinese puzzle game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gtans.sourceforge.net/
+X-Arch-Package-Votes=4

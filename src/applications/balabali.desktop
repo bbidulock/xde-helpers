@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=balabali
+Icon=balabali
+TryExec=/opt/BalaBali_Kalender_1.0/BalaBaliKalender.sh
+Exec=/opt/BalaBali_Kalender_1.0/BalaBaliKalender.sh
+Categories=Utility;GNOME;GTK;
+StartupNotify=true
+X-AppInstall-Package=balabali
+X-AppInstall-Section=aur
+X-Arch-Package=balabali 1-0
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=balabali
+X-Arch-Package-Version=1-0
+X-Arch-Package-Description=Balinese Calendar
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.balabali.com/balabali-kalender
+X-Arch-Package-Votes=0

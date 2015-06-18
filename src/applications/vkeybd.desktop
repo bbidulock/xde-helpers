@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Virtual MIDI Keyboard
+Comment=MIDI Virtual Keyboard
+Icon=vkeybd
+TryExec=/usr/bin/vkeybd
+Exec=vkeybd
+Categories=AudioVideo;Audio;
+StartupNotify=false
+X-AppInstall-Package=vkeybd
+X-AppInstall-Popcon=65
+X-AppInstall-Section=aur
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=vkeybd
+X-Arch-Package-Version=0.1.18d-2
+X-Arch-Package-Description=A virtual MIDI keyboard for X
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.alsa-project.org/~iwai/alsa.html#vkeybd
+X-Arch-Package-Votes=65

@@ -7,7 +7,6 @@ TryExec=/usr/bin/qtconfig-qt4
 Exec=qtconfig-qt4
 NoDisplay=true
 Categories=Settings;Qt;
-StartupNotify=false
 X-AppInstall-Package=qt4
 X-AppInstall-Section=extra
 X-Arch-Package=qt4 4.8.6-6

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Dictionary OpenDict
+Name[lt]=Žodynas „OpenDict“
+Comment=Lookup words in a local or Internet dictionary
+Comment[lt]=Ieškoti žodžių kompiuterio arba Interneto žodyne
+Icon=opendict
+TryExec=/usr/bin/opendict
+Exec=opendict
+Categories=Utility;Dictionary;GTK;
+StartupNotify=true
+X-AppInstall-Package=opendict
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=opendict
+X-Arch-Package-Version=0.6.3-4
+X-Arch-Package-Description=Multiplatform computer dictionary software
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://opendict.idiles.com/
+X-Arch-Package-Votes=2

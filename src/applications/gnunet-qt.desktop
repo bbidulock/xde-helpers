@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=GNUnet-Qt
+GenericName=A Qt interface for accessing GNUnet
+Comment=A Qt interface for accessing GNUnet
+Icon=gnunet-qt
+TryExec=/usr/bin/gnunet-qt
+Exec=gnunet-qt
+Categories=Network;FileTransfer;P2P;KDE;Qt;
+StartupNotify=true
+X-KDE-StartupNotify=true
+X-AppInstall-Package=gnunet-qt
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package=gnunet-qt 0.8.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gnunet-qt
+X-Arch-Package-Version=0.8.1-1
+X-Arch-Package-Description=A Qt interface for accessing GNUnet
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://gnunet.org/
+X-Arch-Package-Votes=5

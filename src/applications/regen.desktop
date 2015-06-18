@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Regen
+Comment=Sega Genesis/Mega Drive Emulator
+Icon=/usr/share/pixmaps/regen_icon.png
+TryExec=/usr/bin/regen
+Exec=/usr/bin/regen
+Categories=Game;Emulator;
+StartupNotify=false
+X-AppInstall-Package=regen
+X-AppInstall-Popcon=14
+X-AppInstall-Section=aur
+X-Arch-Package=regen 0.95-7
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=regen
+X-Arch-Package-Version=0.95-7
+X-Arch-Package-Description=An accuracy focused emulator for Sega Genesis/Mega Drive
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://aamirm.hacking-cult.org/index_files/regen.htm
+X-Arch-Package-Votes=14

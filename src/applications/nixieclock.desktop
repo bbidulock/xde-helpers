@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Nixie Clock
+Comment=Simple desktop clock mimicking nixie tube digits
+Icon=nixieclock-icon.png
+TryExec=/usr/bin/nixieclock
+Exec=nixieclock
+Categories=Utility;Amusement;Clock;
+X-AppInstall-Package=nixieclock
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=nixieclock 1.64-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nixieclock
+X-Arch-Package-Version=1.64-1
+X-Arch-Package-Description=a simple little desktop clock that displays the current date
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://seriss.com/people/erco/unixtools/nixieclock/
+X-Arch-Package-Votes=3

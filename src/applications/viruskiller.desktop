@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Virus Killer
+Icon=viruskiller
+TryExec=/usr/bin/viruskiller
+Exec=viruskiller
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-Desktop-File-Install-Version=1.0
+X-AppInstall-Package=viruskiller
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=viruskiller
+X-Arch-Package-Version=1.03-3
+X-Arch-Package-Description=An arcade shoot 'em up game about virus invasion
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.happypenguin.org/show?Virus%20Killer
+X-Arch-Package-Votes=8

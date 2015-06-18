@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=FDLog
+Comment=FD Logging with Networked Nodes
+Icon=fdlog.png
+TryExec=/usr/bin/fdlog
+Exec=fdlog
+Terminal=true
+Categories=Application;HamRadio;
+MimeType=text/plain;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=fdlog
+X-AppInstall-Section=aur
+X-Arch-Package=fdlog 152i-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fdlog
+X-Arch-Package-Version=152i-2
+X-Arch-Package-Description=Ham Radio - Field Day Logger with networked nodes
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.fdlog.info
+X-Arch-Package-Votes=0

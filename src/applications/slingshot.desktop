@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Slingshot
+Name[xx]=xxslingshotxx
+GenericName=2D space shooting game with gravity
+GenericName[fr]=Jeu d'espace 2D avec gravité
+Icon=_usr_share_pixmaps_slingshot
+TryExec=/usr/bin/slingshot
+Exec=slingshot
+Categories=Game;StrategyGame;
+StartupNotify=false
+X-AppInstall-Package=slingshot
+X-AppInstall-Popcon=35
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=slingshot
+X-Arch-Package-Version=0.8.1p-7
+X-Arch-Package-Description=A 2D strategy game in the gravity fields of several planets
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://slingshot.wikispot.org
+X-Arch-Package-Votes=35

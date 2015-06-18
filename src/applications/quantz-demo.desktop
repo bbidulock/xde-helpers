@@ -1,0 +1,22 @@
+[Desktop Entry]
+Version=!ver!
+Type=Application
+Name=QuantZ
+GenericName=Dimensional puzzle action game
+Icon=/usr/share/icons/QuantZ/48x48.png
+TryExec=/usr/bin/QuantZ
+Exec=QuantZ
+NoDisplay=true
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=quantz-demo
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=quantz-demo 1.1.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=quantz-demo
+X-Arch-Package-Version=1.1.4-1
+X-Arch-Package-Description=A native linux non-ordinary puzzle game (Demo)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.gamerizon.com/
+X-Arch-Package-Votes=4
+Aliases=quantz;

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=QLiss3D
+Comment=Renders 3D Lissajous figures
+Icon=qliss3d
+TryExec=/usr/bin/qliss3d
+Exec=qliss3d
+Categories=Education;Graphics;2DGraphics;3DGraphics;Math;KDE;Qt;
+StartupNotify=true
+X-AppInstall-Package=qliss3d
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=qliss3d 1.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qliss3d
+X-Arch-Package-Version=1.4-1
+X-Arch-Package-Description=Renders 3D Lissajous figures with a Qt interface.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://qliss3d.sourceforge.net/
+X-Arch-Package-Votes=0

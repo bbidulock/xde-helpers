@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=AwesomeBump
+Comment=Program designed to generate normal, height, specular or ambient occlusion, roughness and metallic textures from a single image
+Icon=awesomebump
+TryExec=/usr/bin/AwesomeBump
+Exec=AwesomeBump
+Categories=Graphics;
+X-AppInstall-Package=awesomebump
+X-AppInstall-Section=aur
+X-Arch-Package=awesomebump 3.14-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=awesomebump
+X-Arch-Package-Version=3.14-1
+X-Arch-Package-Description=A free program designed to generate normal, height, specular
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://awesomebump.besaba.com/
+X-Arch-Package-Votes=0

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Version=20100915
+Type=Application
+Name=SanGuoSha
+Name[zh_CN]=三国杀
+Comment=A Chinese board game, online version
+Comment[zh_CN]=三国杀Online
+Icon=/usr/share/icons/sanguosha/SGS32.png
+TryExec=/usr/bin/sanguosha
+Exec=sanguosha
+Categories=Game;
+X-AppInstall-Package=sanguosha
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=sanguosha 3.6.8-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sanguosha
+X-Arch-Package-Version=3.6.8-1
+X-Arch-Package-Description=A Chinese board game, online version
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.sanguosha.com/
+X-Arch-Package-Votes=4

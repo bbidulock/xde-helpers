@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Klystrack
+GenericName=klystrack
+Comment=A chiptune tracker.
+Comment[fr]=Un compositeur de musique tracker utilisant des chiptunes.
+Icon=klystrack.png
+TryExec=/usr/bin/klystrack
+Exec=klystrack
+Categories=Audio;Sequencer;
+X-AppInstall-Package=klystrack
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=klystrack 1.6.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=klystrack
+X-Arch-Package-Version=1.6.1-2
+X-Arch-Package-Description=A chiptune tracker. It is comparable to AHX on the Amiga.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kometbomb.github.io/klystrack/
+X-Arch-Package-Votes=1

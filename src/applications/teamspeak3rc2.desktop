@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=TeamSpeak 3
+GenericName=TeamSpeak
+Comment=TeamSpeak is software for quality voice communication via the Internet
+Icon=/usr/share/pixmaps/teamspeak3.xpm
+TryExec=/usr/bin/teamspeak3
+Exec=/usr/bin/teamspeak3
+NoDisplay=true
+Categories=Application;Network;
+StartupNotify=true
+X-AppInstall-Package=teamspeak3rc2
+X-AppInstall-Section=aur
+X-Arch-Package=teamspeak3rc2 3.0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=teamspeak3rc2
+X-Arch-Package-Version=3.0.1-1
+X-Arch-Package-Description=TeamSpeak is software for quality voice communication via the Internet
+X-Arch-Package-URL=http://www.teamspeak.com/
+Aliases=teamspeak3;

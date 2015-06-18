@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Mindless Automaton
+Comment=A virtual tabletop for playing card games like Magic: The Gathering
+Icon=mindless
+TryExec=/usr/bin/mindless
+Exec=mindless
+Categories=Game;CardGame;
+X-AppInstall-Package=mindless
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=mindless 1.6-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mindless
+X-Arch-Package-Version=1.6-3
+X-Arch-Package-Description=A virtual tabletop for playing card games like Magic: The
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://mindless.sourceforge.net/
+X-Arch-Package-Votes=2

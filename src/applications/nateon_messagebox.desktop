@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=MessageBox(KNateon)
+Name[ko]=통합메시지함(네이트온)
+Comment=MessageBox for KNateon
+Comment[ko]=네이트온 용 통합메시지함
+Icon=nateon_messagebox
+TryExec=/usr/bin/nateon_messagebox
+Exec=nateon_messagebox
+StartupNotify=false
+X-AppInstall-Package=nateon
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nateon
+X-Arch-Package-Version=1.0.1.275-1
+X-Arch-Package-Description=Nateon messenger for Linux
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kldp.net/projects/nateon/
+X-Arch-Package-Votes=1

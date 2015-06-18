@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=OpenGF
+GenericName=OpenGF
+Comment=Learn music the easy way
+Icon=/usr/share/opengf/data/images/icon.png
+TryExec=/usr/bin/opengf.sh
+Exec=/usr/bin/opengf.sh
+Categories=Application;Education;
+X-AppInstall-Package=opengf
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=opengf 1.2rc2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=opengf
+X-Arch-Package-Version=1.2rc2-2
+X-Arch-Package-Description=Learn music the easy way
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/opengf/
+X-Arch-Package-Votes=3

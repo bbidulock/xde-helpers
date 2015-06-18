@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=earth3d
+Comment=eart3d - 3D Model of the earth
+Icon=earth
+TryExec=/usr/bin/earth3d
+Exec=earth3d
+Categories=Education;Science;Qt;
+StartupNotify=false
+X-AppInstall-Package=earth3d
+X-AppInstall-Popcon=72
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=earth3d
+X-Arch-Package-Version=1.0.5-1
+X-Arch-Package-Description=A map client for displaying a 3D model of the world
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.earth3d.org/
+X-Arch-Package-Votes=3

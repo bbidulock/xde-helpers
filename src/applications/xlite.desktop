@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=X-Lite
+Comment=A freeware SIP softphone
+Icon=xlite.png
+TryExec=/opt/xlite/xtensoftphone
+Exec=/opt/xlite/xtensoftphone
+Categories=Application;Network;Telephony;
+StartupNotify=true
+X-AppInstall-Package=bin32-xlite
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=bin32-xlite 2.0-7
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bin32-xlite
+X-Arch-Package-Version=2.0-7
+X-Arch-Package-Description=a multiplatform fully functioning softphone (binary only)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.counterpath.net/x-lite
+X-Arch-Package-Votes=4

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Sysprof
+Comment=A sampling CPU profiler
+Icon=sysprof-icon
+TryExec=/usr/bin/sysprof
+Exec=sysprof
+Categories=Development;Profiling;
+StartupNotify=true
+X-Desktop-File-Install-Version=0.18
+X-AppInstall-Package=sysprof
+X-AppInstall-Popcon=21
+X-AppInstall-Section=community
+X-AppInstall-Architectures=amd64,i386
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=sysprof
+X-Arch-Package-Version=1.2.0-2
+X-Arch-Package-Description=A sampling CPU profiler that uses a Linux kernel module to profile the entire system
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.daimi.au.dk/~sandmann/sysprof/

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=AleVT Capture
+Comment=X11 Teletext captor
+Icon=mini-alevt
+TryExec=/usr/bin/TeletextDVB-capture.sh
+Exec=TeletextDVB-capture.sh
+Categories=Application;AudioVideo;
+X-AppInstall-Package=alevt-dvb
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=alevt-dvb 1.6.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=alevt-dvb
+X-Arch-Package-Version=1.6.3-1
+X-Arch-Package-Description=A teletext/videotext decoder and browser for DVB cards and X11
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.ch4r.de/alevt%20mit%20dvb-t%20unter%20linux.html
+X-Arch-Package-Votes=5

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=KISSlicer
+Comment=Slicer for 3D Printers
+Icon=kisslicer
+TryExec=/usr/bin/kisslicer
+Exec=/usr/bin/kisslicer
+Categories=Development;
+X-AppInstall-Package=kisslicer
+X-AppInstall-Section=aur
+X-Arch-Package=kisslicer 1.1.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kisslicer
+X-Arch-Package-Version=1.1.0-3
+X-Arch-Package-Description=program that generates G-code from STL file for 3D Printers
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kisslicer.com
+X-Arch-Package-Votes=0

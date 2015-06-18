@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=MakeHuman
+Comment=Model and pose a 3D humanoid
+Comment[cs]=Tvorba humanoidních postav
+Icon=makehuman
+TryExec=/usr/bin/makehuman
+Exec=makehuman
+X-MultipleArgs=false
+Categories=Graphics;3DGraphics;
+X-AppInstall-Package=makehuman
+X-AppInstall-Popcon=72
+X-AppInstall-Section=aur
+X-Arch-Package=makehuman 1.0.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=makehuman
+X-Arch-Package-Version=1.0.2-1
+X-Arch-Package-Description=Parametrical modeling program for creating human bodies
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.makehuman.org/
+X-Arch-Package-Votes=72

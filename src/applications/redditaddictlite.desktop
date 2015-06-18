@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Reddit Addict Lite
+GenericName=Reddit Addict Lite
+Comment=track your karma in real-time.
+Icon=redditaddictlite.png
+TryExec=/usr/bin/adobe-air
+Exec=adobe-air /opt/redditaddictlite/redditaddictlite.air
+Categories=Application;Network;
+MimeType=application/vnd.adobe.air-application-installer-package+zip;
+X-AppInstall-Package=redditaddictlite
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=redditaddictlite 1.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=redditaddictlite
+X-Arch-Package-Version=1.0-2
+X-Arch-Package-Description=track your karma in real-time.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.reddit.com/redditaddict/
+X-Arch-Package-Votes=1

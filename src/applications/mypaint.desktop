@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=MyPaint
+GenericName=Image Editor
+Comment=Paint images from scratch
+Icon=mypaint
+TryExec=/usr/bin/mypaint
+Exec=mypaint %f
+Categories=Graphics;
+MimeType=image/openraster;image/png;image/jpeg;
+StartupNotify=false
+X-AppInstall-Package=mypaint
+X-AppInstall-Popcon=47
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=mypaint
+X-Arch-Package-Version=1.1.0-3
+X-Arch-Package-Description=A fast and easy painting application for digital painters, with brush dynamics
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://mypaint.intilinux.com/

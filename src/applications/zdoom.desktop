@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=ZDoom
+GenericName=Enhanced Doom Engine
+Icon=zdoom
+TryExec=/usr/bin/zdoom
+Exec=zdoom %F
+Categories=Game;ActionGame;
+X-AppInstall-Package=zdoom
+X-AppInstall-Popcon=31
+X-AppInstall-Section=aur
+X-Arch-Package=zdoom 2.7.1-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zdoom
+X-Arch-Package-Version=2.7.1-3
+X-Arch-Package-Description=An enhanced Doom port with additional support for Heretic,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.zdoom.org/
+X-Arch-Package-Votes=31

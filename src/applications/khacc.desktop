@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=KHacc
+Comment=Simple home accounting software, KDE3 version.
+Icon=khacc
+TryExec=/usr/bin/khacc
+Exec=khacc
+Categories=Office;Finance;KDE;
+StartupNotify=true
+X-AppInstall-Package=khacc
+X-AppInstall-Section=aur
+X-Arch-Package=khacc 3.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=khacc
+X-Arch-Package-Version=3.3-1
+X-Arch-Package-Description=Simple home accounting application, KDE3 version.
+X-Arch-Package-URL=http://qhacc.sourceforge.net/

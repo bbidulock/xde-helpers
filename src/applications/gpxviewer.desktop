@@ -1,0 +1,26 @@
+[Desktop Entry]
+Type=Application
+Name=GPX Viewer
+Name[cs]=Prohlížeč souborů GPX
+Name[el]=Απεικονιστής GPX
+Name[es]=Visor GPX
+Name[ja]=GPXビューア
+Name[sl]=Pregledovalnik datotek GPX
+Name[zh_CN]=GPX 查看器
+Comment=GPS Trace Viewer
+Icon=gpxviewer
+TryExec=/usr/bin/gpx-viewer
+Exec=gpx-viewer
+Categories=Utility;DataVisualization;
+StartupNotify=true
+X-AppInstall-Package=gpxviewer
+X-AppInstall-Popcon=20
+X-AppInstall-Section=aur
+X-Arch-Package=gpxviewer 0.4.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gpxviewer
+X-Arch-Package-Version=0.4.0-1
+X-Arch-Package-Description=a simple program to visualize a gpx file
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://blog.sarine.nl/gpx-viewer/
+X-Arch-Package-Votes=20

@@ -1,0 +1,27 @@
+[Desktop Entry]
+Type=Application
+Name=docbook2odf
+TryExec=/usr/bin/docbook2odf
+Exec=docbook2odf --force --input-file  %f
+ServiceTypes=text/docbook;
+MimeType=application/docbook+xml;
+StartupNotify=false
+X-AppInstall-Package=docbook2odf
+X-AppInstall-Popcon=22
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=docbook2odf
+X-Arch-Package-Version=0.244-3
+X-Arch-Package-Description=toolkit that automaticaly converts DocBook to OASIS
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://open.comsultia.com/docbook2odf/
+X-Arch-Package-Votes=8
+Actions=docbook2odf
+
+[Desktop Action docbook2odf]
+Name=Convert to OpenDocument
+Name[cs]=Skonvertovat do OpenDocument-u
+Name[sk]=Zkonvertovat do OpenDocument-u
+Icon=odf
+TryExec=/usr/bin/docbook2odf
+Exec=docbook2odf --force --input-file %U

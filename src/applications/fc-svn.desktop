@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=FreeCol-svn
+GenericName=Strategy Game
+Comment=A free Colonization clone
+Icon=/usr/share/pixmaps/freecol-svn.xpm
+TryExec=/usr/bin/freecol-svn
+Exec=freecol-svn
+Categories=Game;StrategyGame;
+X-AppInstall-Package=freecol-svn
+X-AppInstall-Section=aur
+X-Arch-Package=freecol-svn 10139-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=freecol-svn
+X-Arch-Package-Version=10139-1
+X-Arch-Package-Description=A turn-based strategy game based on Colonization, svn version
+X-Arch-Package-URL=http://www.freecol.org/

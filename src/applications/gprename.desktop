@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=2.6
+Type=Application
+Name=GPRename
+Comment=To rename files and directories in batch
+Icon=_usr_share_pixmaps_gprename_gprename
+TryExec=/usr/bin/gprename
+Exec=gprename
+Categories=Utility;FileManager;
+StartupNotify=false
+X-AppInstall-Package=gprename
+X-AppInstall-Popcon=70
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=gprename
+X-Arch-Package-Version=20140325-1
+X-Arch-Package-Description=A GTK2 batch renamer for files and directories
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gprename.sourceforge.net/

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Frogmicroblog
+GenericName=C# twitter identi.ca client
+GenericName[fr]=Client C# pour twitter et identi.ca
+Icon=frogmicroblog
+TryExec=/usr/bin/frogmicroblog
+Exec=frogmicroblog %u
+MultipleArgs=false
+Categories=Application;Network;
+StartupNotify=true
+X-AppInstall-Package=frogmicroblog
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=frogmicroblog 0.1.4-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=frogmicroblog
+X-Arch-Package-Version=0.1.4-3
+X-Arch-Package-Description=twitter identi.ca client.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/froggymicroblog/
+X-Arch-Package-Votes=6

@@ -1,0 +1,26 @@
+[Desktop Entry]
+Type=Application
+Name=Internet DJ Console
+GenericName=Graphical shoutcast/icecast client
+GenericName[de]=Grafischer Shoutcast/Icecast Client
+GenericName[fr]=Client graphique shoutcast/icecast
+Comment=Create your live radio show or podcast
+Comment[de]=Erstelle deine eigene Radiosendung oder Podcasts
+Comment[fr]=Créez votre spectacle radio en direct ou votre podcast
+Icon=_usr_share_pixmaps_idjc
+TryExec=/usr/bin/idjc
+Exec=/usr/bin/idjc
+Categories=Network;GNOME;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=idjc
+X-AppInstall-Popcon=37
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=idjc
+X-Arch-Package-Version=0.8.14-2
+X-Arch-Package-Description=Powerful client for individuals interested in streaming live
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://idjc.sourceforge.net/
+X-Arch-Package-Votes=37
+X-Ubuntu-Gettext-Domain=idjc

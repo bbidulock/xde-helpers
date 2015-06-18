@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=FieldRunners
+GenericName=FieldRunners
+Comment=Shall we play a game?
+Icon=/opt/fieldrunners/icon.png
+TryExec=/opt/fieldrunners/launch.sh
+Exec=/opt/fieldrunners/launch.sh
+NoDisplay=true
+Categories=Application;Game;StrategyGame;
+X-AppInstall-Package=fieldrunners-humblebundle
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=fieldrunners-humblebundle 1.0.0-11
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fieldrunners-humblebundle
+X-Arch-Package-Version=1.0.0-11
+X-Arch-Package-Description=Tower defense game, HumbleBundle version
+X-Arch-Package-Groups=humblebundle
+X-Arch-Package-URL=http://www.humblebundle.com/
+X-Arch-Package-Votes=6
+Aliases=fieldrunners;

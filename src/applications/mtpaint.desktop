@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=mtPaint graphic editor
+GenericName=Painting program
+Comment=painting program to create pixel art and manipulate digital photos
+Comment[es_ES]=programa de pintura para crear pixel art y manipular fotos digitales
+Comment[pt_BR]=programa de pintura para criar pixel art e manipular fotos digitais
+Icon=mtpaint
+TryExec=/usr/bin/mtpaint
+Exec=mtpaint
+Categories=Graphics;RasterGraphics;
+StartupNotify=false
+X-AppInstall-Package=mtpaint
+X-AppInstall-Popcon=47
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=mtpaint
+X-Arch-Package-Version=3.40-15
+X-Arch-Package-Description=Simple paint program for creating icons and pixel based artwork
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://mtpaint.sourceforge.net/

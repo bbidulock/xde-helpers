@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Briquolo
+GenericName=BreakOut
+GenericName[cs]=Breakout
+GenericName[fr]=Casse Briques
+Comment=An OpenGL breakout
+Comment[cs]=OpenGL breakout
+Comment[fr]=Un casse brique OpenGL
+Icon=briquolo
+TryExec=/usr/bin/briquolo
+Exec=briquolo
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=briquolo
+X-AppInstall-Popcon=81
+X-AppInstall-Section=aur
+X-Arch-Package=briquolo 0.5.7-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=briquolo
+X-Arch-Package-Version=0.5.7-5
+X-Arch-Package-Description=An addictive block game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://briquolo.free.fr/
+X-Arch-Package-Votes=10

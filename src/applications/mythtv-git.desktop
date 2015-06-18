@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=mythfrontend
+Icon=/usr/share/mythtv/html/images/mythtv.png
+TryExec=/usr/bin/mythfrontend
+Exec=/usr/bin/mythfrontend
+NoDisplay=true
+Categories=Application;AudioVideo;
+X-AppInstall-Package=mythtv-git
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=mythtv-git 0.27-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mythtv-git
+X-Arch-Package-Version=0.27-1
+X-Arch-Package-Description=A Homebrew PVR project whit pulseaudio 0.26-fixes
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.mythtv.org/
+X-Arch-Package-Votes=4
+Aliases=mythfrontend;

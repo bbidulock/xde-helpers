@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Brutal Chess
+Comment=Play 3d chess with reflection of the chessmen
+Icon=brutalchess
+TryExec=/usr/bin/brutalchess
+Exec=brutalchess
+Categories=Game;BoardGame;
+StartupNotify=false
+X-AppInstall-Package=brutalchess
+X-AppInstall-Popcon=44
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=brutalchess
+X-Arch-Package-Version=0.5.2-5
+X-Arch-Package-Description=Chess game inspired by 'Battle Chess'. Features full 3D
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/brutalchess
+X-Arch-Package-Votes=44

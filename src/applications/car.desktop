@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Circle and Ruler
+GenericName=Dynamic geometry program
+GenericName[es]=Programa de geometría dinámica
+GenericName[fr]=Logiciel de géométrie dynamique
+Icon=car.png
+TryExec=/usr/bin/car
+Exec=/usr/bin/car
+Categories=Application;Education;Math;
+StartupNotify=true
+X-AppInstall-Package=car
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=car 12.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=car
+X-Arch-Package-Version=12.0-1
+X-Arch-Package-Description=Circle and Ruler is a dynamic geometry program
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://zirkel.sourceforge.net
+X-Arch-Package-Votes=13

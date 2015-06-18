@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Octopi Repo Editor
+Icon=octopi-repoeditor
+TryExec=/usr/bin/octopi-repoeditor
+Exec=octopi-repoeditor
+Categories=System;GNOME;GTK;
+StartupNotify=true
+X-AppInstall-Package=octopi-frameworks-git
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=octopi-frameworks-git 0.5.0_692.349b8e5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=octopi-frameworks-git
+X-Arch-Package-Version=0.5.0_692.349b8e5-1
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/aarnt/octopi
+X-Arch-Package-Votes=3

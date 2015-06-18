@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=GpsPrune
+GenericName=GPS Data Processor
+Comment=Visualize, edit and prune GPS tracks
+Icon=gpsprune
+TryExec=/usr/bin/gpsprune
+Exec=gpsprune
+Categories=Utility;DataVisualization;Education;Science;Geoscience;
+StartupNotify=true
+X-AppInstall-Package=gpsprune
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=gpsprune 17.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gpsprune
+X-Arch-Package-Version=17.2-1
+X-Arch-Package-Description=a java application for viewing, editing and converting
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/prune-gps/
+X-Arch-Package-Votes=7

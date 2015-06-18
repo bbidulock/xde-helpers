@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=XSession
+Name=icewm
+TryExec=/usr/bin/icewm-session
+Exec=/usr/bin/icewm-session
+NoDisplay=true
+X-AppInstall-Package=icewm-testing
+X-AppInstall-Section=aur
+X-Arch-Package=icewm-testing 1.3.7-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=icewm-testing
+X-Arch-Package-Version=1.3.7-4
+X-Arch-Package-Description=A Window Manager designed for speed, usability, and consistency
+X-Arch-Package-URL=http://www.icewm.org/
+Aliases=icewm;

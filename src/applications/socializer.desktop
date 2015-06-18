@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Socializer
+Comment=Facebook browser
+Icon=/usr/share/pixmaps/socializer.png
+TryExec=/usr/bin/socializer
+Exec=socializer
+Categories=Network;
+X-AppInstall-Package=socializer-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=socializer-git 46.ad298be-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=socializer-git
+X-Arch-Package-Version=46.ad298be-1
+X-Arch-Package-Description=Socializer is a windowed browser made specifically for better
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://anandbose.github.io/
+X-Arch-Package-Votes=1

@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=VapourSynth Editor
+Comment=VapourSynth script editor
+Icon=vsedit
+TryExec=/usr/bin/vsedit
+Exec=vsedit
+NoDisplay=true
+Categories=Utility;
+MimeType=text/x-vpy;
+StartupNotify=false
+X-AppInstall-Package=vapoursynth-editor
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=vapoursynth-editor R4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=vapoursynth-editor
+X-Arch-Package-Version=R4-1
+X-Arch-Package-Description=VapourSynth script editor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://bitbucket.org/mystery_keeper/vapoursynth-editor
+X-Arch-Package-Votes=1
+Aliases=vsedit;

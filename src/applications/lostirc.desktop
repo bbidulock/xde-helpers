@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=LostIRC
+Comment=Chat on IRC-networks
+Comment[da]=Chat på IRC-netværk
+Comment[fr]=Chat sur les réseaux IRC
+Icon=lostirc.png
+TryExec=/usr/bin/lostirc
+Exec=lostirc
+Categories=Application;Network;
+StartupNotify=false
+X-AppInstall-Package=lostirc
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lostirc
+X-Arch-Package-Version=0.4.6-3
+X-Arch-Package-Description=A simple, yet very useful IRC client
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://lostirc.sourceforge.net/
+X-Arch-Package-Votes=13

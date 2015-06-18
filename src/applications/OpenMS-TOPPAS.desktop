@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=OpenMS-TOPPAS
+Comment=Software for LC-MS data management and analyses
+Icon=applications-science
+TryExec=/usr/bin/TOPPAS
+Exec=TOPPAS
+Categories=Science;
+StartupNotify=false
+X-AppInstall-Package=openms
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=openms 2.0.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=openms
+X-Arch-Package-Version=2.0.0-2
+X-Arch-Package-Description=C++ library and tools for LC/MS data management and analyses
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://open-ms.sourceforge.net/
+X-Arch-Package-Votes=1

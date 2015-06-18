@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Maratis Player
+Comment=A portable, simple, and visual game development tool
+Icon=maratis
+TryExec=/usr/bin/MaratisPlayer
+Exec=MaratisPlayer
+NoDisplay=true
+Categories=AudioVideo;Development;Graphics;GUIDesigner;
+X-AppInstall-Package=maratis-svn
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=maratis-svn 155-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=maratis-svn
+X-Arch-Package-Version=155-1
+X-Arch-Package-Description=A portable, simple, and visual game development tool for
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.maratis3d.org/
+X-Arch-Package-Votes=1
+Aliases=MaratisEditor;

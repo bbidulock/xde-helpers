@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Cgoban
+Comment=Play Go against human or computer opponents
+Icon=cgoban_icon
+TryExec=/usr/games/cgoban
+Exec=/usr/games/cgoban
+Categories=Game;BoardGame;GNOME;GTK;
+StartupNotify=false
+X-AppInstall-Package=cgoban
+X-AppInstall-Popcon=381
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=cgoban
+X-Arch-Package-Version=1.9.14-2
+X-Arch-Package-Description=SGF editor and client for connection to IGS
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/cgoban1/

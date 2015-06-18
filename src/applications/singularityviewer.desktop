@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Singularity Viewer
+GenericName=A third-party viewer for Second Life (C) and OpenSim grids
+Comment=A third-party viewer for Second Life (C) and OpenSim grids
+Icon=/opt/singularityviewer/singularity_icon.png
+TryExec=/usr/bin/singularityviewer
+Exec=/usr/bin/singularityviewer
+Categories=Game;
+X-AppInstall-Package=singularityviewer
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=singularityviewer 1.8.6.6157-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=singularityviewer
+X-Arch-Package-Version=1.8.6.6157-1
+X-Arch-Package-Description=An exciting client for Second Life (secondlife) and OpenSim
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.singularityviewer.org/
+X-Arch-Package-Votes=9

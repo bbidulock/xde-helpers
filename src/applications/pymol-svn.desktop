@@ -1,0 +1,26 @@
+[Desktop Entry]
+Type=Application
+Name=PyMOL
+GenericName=Molecular Modeller
+GenericName[pl]=Modeler cząsteczek
+Comment=Model molecular structures and produce high-quality images of them
+Comment[pl]=Program do tworzenia i wizualizowania modeli cząsteczek
+Icon=pymol
+TryExec=/usr/bin/pymol
+Exec=pymol
+NoDisplay=true
+Hidden=true
+Categories=Education;Science;Chemistry;
+MimeType=chemical/x-pdb;
+X-AppInstall-Package=pymol-svn
+X-AppInstall-Popcon=21
+X-AppInstall-Section=aur
+X-Arch-Package=pymol-svn 4064-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pymol-svn
+X-Arch-Package-Version=4064-1
+X-Arch-Package-Description=A user-sponsored molecular visualization system on an
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pymol.sourceforge.net
+X-Arch-Package-Votes=21
+Aliases=pymol;

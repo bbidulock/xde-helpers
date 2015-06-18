@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=CodeQuery
+GenericName=Tool for Indexing and Querying C, C++, Java and Python Sources
+Icon=codequery.png
+TryExec=/usr/bin/codequery
+Exec=codequery
+Categories=Development;IDE;
+X-AppInstall-Package=codequery
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=codequery 0.15a-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=codequery
+X-Arch-Package-Version=0.15a-3
+X-Arch-Package-Description=A code-understanding, code-browsing or code-search tool.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ruben2020.github.io/codequery/
+X-Arch-Package-Votes=1

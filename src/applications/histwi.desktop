@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Histwi
+GenericName=Twitter Application
+TryExec=/usr/bin/histwi
+Exec=/usr/bin/histwi
+Categories=Network;
+MimeType=application/vnd.oasis.opendocument.spreadsheet;application/vnd.oasis.opendocument.spreadsheet-template;application/vnd.sun.xml.calc;application/vnd.sun.xml.calc.template;application/vnd.stardivision.calc;application/vnd.stardivision.chart;application/msexcel;application/vnd.ms-excel;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;application/vnd.ms-excel.sheet.macroenabled.12;application/vnd.openxmlformats-officedocument.spreadsheetml.template;application/vnd.ms-excel.template.macroenabled.12;application/vnd.ms-excel.sheet.binary.macroenabled.12;text/csv;application/x-dbf;
+X-AppInstall-Package=histwi
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=histwi 0.6.7-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=histwi
+X-Arch-Package-Version=0.6.7-1
+X-Arch-Package-Description=Histwi is linux desktop program for Twitter account
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://originalcoding.com/histwi/
+X-Arch-Package-Votes=1

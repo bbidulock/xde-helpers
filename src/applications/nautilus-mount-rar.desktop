@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Archive Mounter
+Icon=gnome-mime-application-x-rar
+TryExec=/usr/lib/gvfs/gvfsd-rar
+Exec=/usr/lib/gvfs/gvfsd-rar file=%u
+NoDisplay=true
+MimeType=application/x-rar;application/x-rar-compressed;
+StartupNotify=false
+X-AppInstall-Package=gvfs-rar
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=gvfs-rar 1.19.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gvfs-rar
+X-Arch-Package-Version=1.19.3-1
+X-Arch-Package-Description=GVFS virtual filesystem (with rar archive support)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.gnome.org
+X-Arch-Package-Votes=5
+X-Ubuntu-Gettext-Domain=nautilus

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=VisioCom
+Comment=Drag'n'drop tool
+Icon=visiocom
+TryExec=/usr/bin/visiocom
+Exec=visiocom
+Categories=Application;Utility;
+X-AppInstall-Package=visiocom
+X-AppInstall-Section=aur
+X-Arch-Package=visiocom 1.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=visiocom
+X-Arch-Package-Version=1.1-1
+X-Arch-Package-Description=Drag'n'drop tool
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://visiocom.sourceforge.net/
+X-Arch-Package-Votes=0

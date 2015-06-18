@@ -1,0 +1,26 @@
+[Desktop Entry]
+Type=Application
+Name=Bibus
+GenericName=Bibus bibliographic database
+GenericName[de]=Bibliographische Datenbank Bibus
+GenericName[fr]=Base de donnée bibliographique Bibus
+GenericName[hu]=Bibus referencia kezelő
+Comment=manage references and citations in your publications
+Comment[de]=verwalte Literaturverweise und Zitate in Publikationen
+Comment[fr]=Logiciel de gestion bibliographique
+Comment[hu]=közlemények citációját és referenciáit kezeli
+Icon=bibus.png
+TryExec=/usr/bin/bibus
+Exec=bibus
+Categories=Application;Office;WordProcessor;GNOME;
+StartupNotify=true
+X-AppInstall-Package=bibus
+X-AppInstall-Popcon=40
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bibus
+X-Arch-Package-Version=1.5.2-5
+X-Arch-Package-Description=A bibliographic database that can directly insert references
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/bibus-biblio/
+X-Arch-Package-Votes=41

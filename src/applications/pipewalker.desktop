@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=PipeWalker
+Comment=Connect all hosts to network!
+Comment[fr]=Connectez tous les ordinateurs au réseau!
+Comment[ru]=Объедините все компьютеры в сеть!
+Icon=pipewalker.xpm
+TryExec=/usr/bin/pipewalker
+Exec=pipewalker
+Categories=Game;LogicGame;
+StartupNotify=false
+X-AppInstall-Package=pipewalker
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pipewalker
+X-Arch-Package-Version=0.9.4-1
+X-Arch-Package-Description=Pieces of a computer network are to be turned, to make all
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pipewalker.sourceforge.net/
+X-Arch-Package-Votes=8

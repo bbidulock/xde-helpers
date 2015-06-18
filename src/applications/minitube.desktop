@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=Minitube
+GenericName=YouTube client
+GenericName[es]=Cliente de YouTube
+GenericName[gl]=Cliente de YouTube
+GenericName[it]=Client per YouTube
+Comment=Watch YouTube videos
+Comment[es]=Vea los videos de YouTube
+Comment[gl]=Vexa os vídeos de YouTube
+Comment[it]=Guarda i video di YouTube
+Icon=minitube
+TryExec=/usr/bin/minitube
+Exec=minitube
+Categories=Application;AudioVideo;Video;Qt;
+StartupNotify=true
+X-AppInstall-Package=minitube
+X-AppInstall-Popcon=146
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=minitube
+X-Arch-Package-Version=2.4-1
+X-Arch-Package-Description=A native YouTube client in Qt. Watch YouTube videos without Flash Player
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://flavio.tordini.org/minitube

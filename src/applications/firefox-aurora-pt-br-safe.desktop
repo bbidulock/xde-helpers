@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Aurora - Safe Mode
+GenericName=Web Browser - Safe Mode
+Icon=firefox-aurora-icon
+TryExec=/usr/bin/firefox-aurora
+Exec=firefox-aurora -safe-mode %u
+MultipleArgs=false
+Categories=Application;Network;
+MimeType=text/html;
+StartupNotify=false
+X-AppInstall-Package=firefox-aurora-pt-br
+X-AppInstall-Section=aur
+X-Arch-Package=firefox-aurora-pt-br 32.0a2-20140707-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firefox-aurora-pt-br
+X-Arch-Package-Version=32.0a2-20140707-1
+X-Arch-Package-Description=Firefox Aurora channel - Nightly build - Brazilian Portuguese
+X-Arch-Package-URL=http://www.mozilla.org/en-US/firefox/aurora

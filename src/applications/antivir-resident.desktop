@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=AntiVir UNIX Workstation
+GenericName=Antivirus
+Comment=Avira's Personal UNIX Workstation Antivirus with AvGuard
+Icon=avira
+TryExec=/usr/bin/antivir-gui
+Exec=antivir-gui
+Categories=System;Security;
+X-AppInstall-Package=antivir-resident
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=antivir-resident 2.1.12_19-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=antivir-resident
+X-Arch-Package-Version=2.1.12_19-5
+X-Arch-Package-Description=Avira's Personal UNIX Workstation Antivirus with AvGuard
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.free-av.com/
+X-Arch-Package-Votes=1

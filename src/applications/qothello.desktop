@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=QOthello
+GenericName=Othello(Reversi) Game
+Icon=/usr/share/pixmaps/qothello.png
+TryExec=/usr/bin/qothello
+Exec=qothello
+Categories=Game;BoardGame;Qt;
+X-AppInstall-Package=qothello
+X-AppInstall-Section=aur
+X-Arch-Package=qothello 0.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qothello
+X-Arch-Package-Version=0.2-2
+X-Arch-Package-Description=Simple Othello(Reversi) game.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://qt-apps.org/content/show.php/QOthello?content=146401
+X-Arch-Package-Votes=0

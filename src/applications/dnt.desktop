@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=DNT
+Comment=A free sarcastic 3D single player RPG set in a post-apocalyptical world
+Icon=/usr/share/dnt/dnt-icon.png
+TryExec=/usr/bin/dnt
+Exec=dnt
+X-AppInstall-Package=dnt
+X-AppInstall-Section=aur
+X-Arch-Package=dnt git-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dnt
+X-Arch-Package-Version=git-1
+X-Arch-Package-Description=A free sarcastic 3D single player RPG set in a post-apocalyptical world
+X-Arch-Package-URL=http://dnt.dnteam.org/

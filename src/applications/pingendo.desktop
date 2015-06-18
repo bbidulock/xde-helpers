@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Pingendo
+Comment=An WYSIWYG HTML5 editor focused on Bootstrap 3 UI
+Icon=/usr/share/icons/nuvola/128x128/places/folder-html.png
+TryExec=LD_LIBRARY_PATH=/opt/pingendo
+Exec=LD_LIBRARY_PATH=/opt/pingendo /opt/pingendo/Pingendo
+Categories=Application;Development;
+StartupNotify=true
+X-AppInstall-Package=pingendo
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=pingendo 2.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pingendo
+X-Arch-Package-Version=2.0-1
+X-Arch-Package-Description=An WYSIWYG HTML5 editor focused on Bootstrap 3 UI
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.pingendo.com/
+X-Arch-Package-Votes=1

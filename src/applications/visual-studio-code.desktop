@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Visual Studio Code
+Comment=Editor for building and debugging modern web and cloud applications
+Icon=visual-studio-code
+TryExec=/usr/bin/visual-studio-code
+Exec=/usr/bin/visual-studio-code
+Categories=Development;
+X-AppInstall-Package=visual-studio-code
+X-AppInstall-Popcon=70
+X-AppInstall-Section=aur
+X-Arch-Package=visual-studio-code 0.1.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=visual-studio-code
+X-Arch-Package-Version=0.1.0-2
+X-Arch-Package-Description=Editor for building and debugging modern web and cloud
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://code.visualstudio.com/
+X-Arch-Package-Votes=70

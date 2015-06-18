@@ -1,5 +1,5 @@
 [Desktop Entry]
-Type=Application
+Type=XSession
 Name=EDE
 GenericName=Window Manager
 GenericName[fr]=Gestionnaire de Fenêtres
@@ -23,6 +23,7 @@ X-Arch-Package-Description=The lightweight Equinox Desktop Environment
 X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://equinox-project.org/
 DesktopNames=EDE
+X-LightDM-DesktopName=ede
 
 [Window Manager]
 Name=pekwm

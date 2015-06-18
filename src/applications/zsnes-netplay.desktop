@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Zsnes (Netplay)
+Comment=Super Nintendo emulator
+Icon=/usr/share/pixmaps/zsnes-netplay.png
+TryExec=/usr/bin/env
+Exec=env SDL_AUDIODRIVER="alsa" /usr/bin/zsnes-netplay
+Categories=Application;Game;
+StartupNotify=false
+X-AppInstall-Package=zsnes-netplay
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=zsnes-netplay 1.42n-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zsnes-netplay
+X-Arch-Package-Version=1.42n-3
+X-Arch-Package-Description=Super Nintendo emulator (latest version supporting netplay)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://zsnes.com
+X-Arch-Package-Votes=10

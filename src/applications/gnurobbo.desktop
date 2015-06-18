@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=GNURobbo
+GenericName=GNURobbo
+Comment=Logic game
+Icon=gnurobbo
+TryExec=/usr/bin/gnurobbo
+Exec=gnurobbo
+Categories=Game;ActionGame;LogicGame;
+X-AppInstall-Package=gnurobbo
+X-AppInstall-Popcon=15
+X-AppInstall-Section=aur
+X-Arch-Package=gnurobbo 0.66-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gnurobbo
+X-Arch-Package-Version=0.66-3
+X-Arch-Package-Description=A free port of QXLands logic game "Robbo" for the Atari XE/XL
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gnurobbo.sourceforge.net/
+X-Arch-Package-Votes=15

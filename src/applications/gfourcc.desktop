@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Gfourcc
+Comment=AVI fourcc editor
+Icon=/usr/share/pixmaps/gfourcc.png
+TryExec=/usr/bin/gfourcc
+Exec=gfourcc
+Categories=AudioVideo;Video;GTK;
+MimeType=video/x-avi;
+X-AppInstall-Package=gfourcc
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=gfourcc 0.1.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gfourcc
+X-Arch-Package-Version=0.1.1-1
+X-Arch-Package-Description=Gtk avi format fourcc modifier
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sarovar.org/projects/gfourcc/
+X-Arch-Package-Votes=3

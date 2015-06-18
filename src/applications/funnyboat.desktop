@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Funny Boat
+Comment=a side scrolling arcade shooter game on a steamboat
+Comment[fr_FR]=un étrange bateau a vapeur dans un jeu de tire amusant
+Icon=funnyboat
+TryExec=/usr/bin/funnyboat
+Exec=funnyboat
+Categories=Game;ArcadeGame;
+StartupNotify=true
+X-AppInstall-Package=funnyboat
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=funnyboat 1.5-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=funnyboat
+X-Arch-Package-Version=1.5-5
+X-Arch-Package-Description=A funny little side scrolling game featuring a steam boat.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://funnyboat.sourceforge.net/
+X-Arch-Package-Votes=7

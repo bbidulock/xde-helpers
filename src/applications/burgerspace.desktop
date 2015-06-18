@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=BurgerSpace
+Comment=A hamburger-smashing video game
+Comment[fr]=Un jeu de hamburgers qu'on écrase
+Icon=burgerspace.png
+TryExec=/usr/bin/burgerspace
+Exec=burgerspace
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=burgerspace
+X-AppInstall-Popcon=36
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=burgerspace
+X-Arch-Package-Version=1.9.2-1
+X-Arch-Package-Description=A clone of the 1982 BurgerTime video game by Data East
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://perso.b2b2c.ca/sarrazip/dev/burgerspace.html
+X-Arch-Package-Votes=8

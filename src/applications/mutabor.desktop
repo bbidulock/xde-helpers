@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Mutabor
+Comment=Compose microtonal music
+Icon=mutabor
+TryExec=/usr/bin/mutabor
+Exec=mutabor
+Categories=Application;AudioVideo;Audio;MIDI;Multimedia;
+X-AppInstall-Package=mutabor
+X-AppInstall-Section=aur
+X-Arch-Package=mutabor 4.0.0beta3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mutabor
+X-Arch-Package-Version=4.0.0beta3-1
+X-Arch-Package-Description=A Program that allows performing and composing microtonal
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.math.tu-dresden.de/~mutabor/
+X-Arch-Package-Votes=0

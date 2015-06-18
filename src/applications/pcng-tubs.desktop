@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Papercut NG (TUBS)
+Comment=TU Braunschweig printing client
+Icon=pcng-tubs
+TryExec=/usr/bin/pcng-tubs
+Exec=pcng-tubs
+Categories=Office;
+StartupNotify=false
+X-AppInstall-Package=pcng-tubs
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=pcng-tubs 14.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pcng-tubs
+X-Arch-Package-Version=14.0-1
+X-Arch-Package-Description=TU Braunschweig printing client (Papercut NG, preconfigured)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://doku.rz.tu-bs.de/doku.php?id=drucken:installation_druck-client_linux_eb_mb
+X-Arch-Package-Votes=1

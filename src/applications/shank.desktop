@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Shank
+GenericName=Shank
+Comment=A 2D side-scrolling beat 'em up.
+Icon=/opt/shank/data-pc/ui/controls/shank.png
+TryExec=/opt/shank/bin/Shank
+Exec=/opt/shank/bin/Shank
+Categories=Game;ArcadeGame;
+Path=/opt/shank/
+X-AppInstall-Package=shank
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=shank 120720110-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=shank
+X-Arch-Package-Version=120720110-4
+X-Arch-Package-Description=A 2D side-scrolling beat 'em up.
+X-Arch-Package-Groups=humble-indie-bundle4
+X-Arch-Package-URL=http://www.shankgame.com/
+X-Arch-Package-Votes=9

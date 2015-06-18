@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=YFKtest
+Comment=Ham Radio Contest Logger
+Icon=yfktest.png
+TryExec=/usr/bin/yfktest
+Exec=yfktest
+X-DCOP-ServiceType=none
+Terminal=true
+Categories=Application;HamRadio;
+MimeType=text/plain;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=yfktest
+X-AppInstall-Section=aur
+X-Arch-Package=yfktest 0.0.10-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=yfktest
+X-Arch-Package-Version=0.0.10-2
+X-Arch-Package-Description=Ham Radio Contesting Logger
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://fkurz.net/ham/yfktest.html
+X-Arch-Package-Votes=0

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Calendar
+Comment=Calendar application for GNOME
+Icon=gnome-calendar
+TryExec=/usr/bin/gnome-calendar
+Exec=gnome-calendar
+Categories=Utility;Calendar;
+X-AppInstall-Package=gnome-calendar-git
+X-AppInstall-Popcon=14
+X-AppInstall-Section=aur
+X-Arch-Package=gnome-calendar-git 3.16.1_e43aa8a-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gnome-calendar-git
+X-Arch-Package-Version=3.16.1_e43aa8a-1
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://git.gnome.org/browse/gnome-calendar/
+X-Arch-Package-Votes=14

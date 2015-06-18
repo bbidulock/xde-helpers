@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Shrew Soft VPN Access Manager
+Name[de]=Shrew Soft VPN Zugangsverwaltung
+Comment=Application to manage remote site configurations
+Comment[de]=Anwendung zum Verwalten der VPN-konfigurationen
+Icon=ikea
+TryExec=/usr/bin/ikea
+Exec=/usr/bin/ikea
+Categories=Network;
+StartupNotify=false
+X-AppInstall-Package=ike
+X-AppInstall-Popcon=16
+X-AppInstall-Section=aur
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ike
+X-Arch-Package-Version=2.2.1-2
+X-Arch-Package-Description=Shrew Soft VPN client for Linux
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.shrew.net
+X-Arch-Package-Votes=16

@@ -1,0 +1,32 @@
+[Desktop Entry]
+Type=Application
+Name=Hardware Lister
+Comment=Provides information on hardware
+Comment[ca]=Proveeix informació sobre el maquinari
+Icon=lshw-gtk
+TryExec=/usr/bin/lshw-gtk
+Exec=lshw-gtk
+Categories=Settings;HardwareSettings;
+X-AppInstall-Package=lshw-gtk
+X-AppInstall-Popcon=54
+X-AppInstall-Section=aur
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package=lshw-gtk B.02.16-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lshw-gtk
+X-Arch-Package-Version=B.02.16-2
+X-Arch-Package-Description=Hardware lister application with CLI and GTK interfaces.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ezix.org/project/wiki/HardwareLiSter
+X-Arch-Package-Votes=54
+Actions=Gksu;Pkexec;
+
+[Desktop Action Gksu]
+Name=As Root (gksu)
+TryExec=/usr/bin/gksu
+Exec=gksu lshw-gtk
+
+[Desktop Action Pkexec]
+Name=As Root (pkexec)
+TryExec=/usr/bin/pkexec
+Exec=pkexec lshw-gtk

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Metal Blob Solid
+Icon=blobwars
+TryExec=/usr/bin/blobwars
+Exec=blobwars
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-Desktop-File-Install-Version=1.0
+X-AppInstall-Package=blobwars
+X-AppInstall-Popcon=93
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=blobwars
+X-Arch-Package-Version=1.19-5
+X-Arch-Package-Description=Platform action game featuring a blob wih lot of weapons
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/blobwars

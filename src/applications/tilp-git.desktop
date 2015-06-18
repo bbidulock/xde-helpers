@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=TiLP
+GenericName=TI Linking Program
+GenericName[fr_FR]=Connexion calculatrices TI
+Comment=Ti Linking Program
+Comment[fr_FR]=Programme de connexion pour calculatrices TI
+Icon=/usr/share/tilp2/pixmaps/icon.xpm
+TryExec=/usr/bin/tilp
+Exec=/usr/bin/tilp
+NoDisplay=true
+Categories=Utility;X-KDE-Utilities-Peripherals;
+MimeType=application/x-tilp;
+X-AppInstall-Package=tilp-git
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=tilp-git 23-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tilp-git
+X-Arch-Package-Version=23-1
+X-Arch-Package-Description=TI graphing calculator link/transfer program, git version
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/tilp/
+X-Arch-Package-Votes=6
+Aliases=tilp;

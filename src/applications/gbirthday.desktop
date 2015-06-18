@@ -1,0 +1,27 @@
+[Desktop Entry]
+Version=0.4.0
+Type=Application
+Name=GBirthday
+Comment=Birthday reminder for Evolution contacts
+Comment[de]=Geburtstags-Reminder für Evolution Kontakte
+Comment[es]=Recordatorio de cumpleaños para los contactos de Evolution
+Comment[fr]=Rappel d'anniversaire pour Paul contacts
+Comment[gl]=Recordatorio de aniversarios pros contactos do Evolution
+Comment[it]=Promemoria compleanno per i contatti di Evolution
+Comment[pt]=Lembrete dos aniversários para os contatos do Evolution
+Comment[sk]=Upozornenie na narodeniny pre kontakty programu Evolution
+Icon=_usr_share_gbirthday_pics_birthday
+TryExec=/usr/bin/gbirthday
+Exec=gbirthday
+Categories=Office;
+StartupNotify=false
+X-AppInstall-Package=gbirthday
+X-AppInstall-Popcon=14
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gbirthday
+X-Arch-Package-Version=0.6.5-2
+X-Arch-Package-Description=A birthday reminder application
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gbirthday.sourceforge.net/
+X-Arch-Package-Votes=14

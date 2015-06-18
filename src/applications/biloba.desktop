@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=Biloba
+GenericName=Board Game
+GenericName[es]=Juego de tablero
+GenericName[fr]=Jeu de plateau
+Comment=Up to four player network capable turn based strategy board game
+Comment[ast]=Xuegu d'estratexia por turnos pa hasta cuatro xugaores en rede
+Comment[es]=Juego de estrategia por turnos de hasta cuatro jugadores en red
+Comment[fr]=Jeu de stratégie tour par tour, jusqu'à quatre joueurs en réseau
+Icon=biloba
+TryExec=/usr/bin/biloba
+Exec=biloba
+Categories=Game;BoardGame;
+StartupNotify=false
+X-AppInstall-Package=biloba
+X-AppInstall-Popcon=16
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=biloba
+X-Arch-Package-Version=0.6-1
+X-Arch-Package-Description=An abstract strategy game for 1 to 4 players.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://biloba.sf.net/
+X-Arch-Package-Votes=1

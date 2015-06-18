@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Return To Castle Wolfenstein SP
+Comment=Return To Castle Wolfenstein (Single Player)
+Icon=/usr/share/pixmaps/iortcw.png
+TryExec=/usr/bin/iortcwsp
+Exec=/usr/bin/iortcwsp
+Categories=Game;
+X-AppInstall-Package=iortcw-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=iortcw-git 326-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=iortcw-git
+X-Arch-Package-Version=326-1
+X-Arch-Package-Description=Merge of ioquake3 features and fixes into Return to Castle
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/iortcw/iortcw
+X-Arch-Package-Votes=1

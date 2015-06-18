@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Pyrana
+GenericName=Random Music Player
+Icon=/usr/share/pixmaps/pyrana.png
+TryExec=/usr/bin/Pyrana.py
+Exec=Pyrana.py
+Categories=AudioVideo;
+X-AppInstall-Package=pyrana-git
+X-AppInstall-Section=aur
+X-Arch-Package=pyrana-git 20110711-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pyrana-git
+X-Arch-Package-Version=20110711-1
+X-Arch-Package-Description=A minimalist music player that plays random music from your
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/jdodds/pyrana
+X-Arch-Package-Votes=0

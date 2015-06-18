@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Emilia Pinball
+Comment=OpenGL pinball game
+Icon=pinball.xpm
+TryExec=/usr/bin/pinball
+Exec=pinball
+Categories=Game;ArcadeGame;X-Red-Hat-Extra;
+StartupNotify=false
+X-Desktop-File-Install-Version=0.2
+X-AppInstall-Package=pinball
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pinball
+X-Arch-Package-Version=0.3.1-7
+X-Arch-Package-Description=The Emilia Pinball Project strives to fulfil your needs for a
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pinball.sourceforge.net/
+X-Arch-Package-Votes=11

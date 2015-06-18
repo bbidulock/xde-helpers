@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Unicode
+Comment=Repeatedly randomly picks an unicode character and displays it in a very large font size together with its unicode code point and the character name. Written by Joachim Breitner; 2009.
+TryExec=/usr/lib/xscreensaver/unicode
+Exec=/usr/lib/xscreensaver/unicode -root
+OnlyShowIn=GNOME;
+Categories=Screensaver;
+StartupNotify=false
+X-AppInstall-Package=unicode-screensaver
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=unicode-screensaver
+X-Arch-Package-Version=0.4-1
+X-Arch-Package-Description=A simple screensaver that displays random unicode characters.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.joachim-breitner.de/projects
+X-Arch-Package-Votes=2

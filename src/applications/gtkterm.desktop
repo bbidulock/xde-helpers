@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=serial port terminal
+Name[fr]=Terminal pour port série
+Comment=Communicate with the serial port
+Comment[fr]=Communique avec le port série
+TryExec=/usr/bin/gtkterm
+Exec=gtkterm
+Categories=Application;Utility;GNOME;
+StartupNotify=false
+X-AppInstall-Package=gtkterm
+X-AppInstall-Popcon=18
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gtkterm
+X-Arch-Package-Version=0.99.7_rc1-5
+X-Arch-Package-Description=Serial port terminal
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://fedorahosted.org/gtkterm/
+X-Arch-Package-Votes=18

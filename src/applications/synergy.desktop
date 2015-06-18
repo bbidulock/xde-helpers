@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Synergy
+Comment=The Synergy GUI is based on QSynergy by Volker Lanz.
+Icon=synergy
+TryExec=/usr/bin/synergy
+Exec=synergy
+Categories=Utility;Qt;DesktopUtility;
+X-AppInstall-Package=synergy-plus-gui-svn
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=synergy-plus-gui-svn 1536-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=synergy-plus-gui-svn
+X-Arch-Package-Version=1536-1
+X-Arch-Package-Description=Share a single mouse and keyboard between multiple computers
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://synergy-foss.org
+X-Arch-Package-Votes=10

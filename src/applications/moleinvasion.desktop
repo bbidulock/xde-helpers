@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Moleinvasion
+GenericName=Moleinvasion
+Comment=Supertux clone about moles.
+Icon=/usr/share/moleinvasion/gfx/icon.xpm
+TryExec=/usr/bin/moleinvasion
+Exec=moleinvasion
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=moleinvasion
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=moleinvasion 0.4-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=moleinvasion
+X-Arch-Package-Version=0.4-5
+X-Arch-Package-Description=Supertux clone about moles.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://moleinvasion.tuxfamily.org
+X-Arch-Package-Votes=3

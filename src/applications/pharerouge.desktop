@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=20060507.15006
+Type=Application
+Name=PhareRouge
+GenericName=Hotline Client
+Comment=Java-based Hotline client
+Icon=pharerouge
+TryExec=/usr/bin/pharerouge
+Exec=pharerouge
+Categories=Network;FileTransfer;
+X-AppInstall-Package=pharerouge
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=pharerouge 20060507.15006-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pharerouge
+X-Arch-Package-Version=20060507.15006-4
+X-Arch-Package-Description=Java Hotline client derived from RedLight
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pharerouge.sourceforge.net
+X-Arch-Package-Votes=1

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Tiberan Sun
+Comment=GDI and NOD battle in a future Earth seeded with the extraterrestrial substance Tiberium.
+Icon=/usr/share/icons/tiberiansun.ico
+TryExec=/usr/bin/tiberiansun
+Exec=/usr/bin/tiberiansun
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=tiberiansun
+X-AppInstall-Section=aur
+X-Arch-Package=tiberiansun 2.03-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tiberiansun
+X-Arch-Package-Version=2.03-1
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://web.archive.org/web/20000302013458/http://www.westwood.com/games/ccuniverse/tiberiansun/index.html
+X-Arch-Package-Votes=0

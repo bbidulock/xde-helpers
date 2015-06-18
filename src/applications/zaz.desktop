@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Zaz
+Comment=Zaz ain't Z***
+Icon=zaz.xpm
+TryExec=/usr/bin/zaz
+Exec=zaz
+Categories=Game;LogicGame;
+StartupNotify=false
+X-AppInstall-Package=zaz
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=zaz
+X-Arch-Package-Version=1.0.0-5
+X-Arch-Package-Description=Puzzle game where the player has to arrange balls in triplets
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/zaz/

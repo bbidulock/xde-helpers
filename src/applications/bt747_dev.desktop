@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=BT747
+Comment=Software for MTK chipset based dataloggers
+TryExec=/usr/bin/bt747
+Exec=bt747
+NoDisplay=true
+Categories=Utility;
+StartupNotify=true
+X-AppInstall-Package=bt747_dev
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=bt747_dev 2.1.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bt747_dev
+X-Arch-Package-Version=2.1.4-1
+X-Arch-Package-Description=datalogger device control for mtk-chipset based loggers
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.bt747.org/
+X-Arch-Package-Votes=3
+Aliases=bt747;

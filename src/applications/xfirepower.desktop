@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=XFirepower
+Comment=A multiplayer tank game which is playable over the Internet
+Icon=xfirepower
+TryExec=/usr/bin/xfire
+Exec=xfire
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=xfirepower
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=xfirepower 0.84-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xfirepower
+X-Arch-Package-Version=0.84-2
+X-Arch-Package-Description=A multiplayer tank game which is playable over the Internet
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.happypenguin.org/show?Firepower
+X-Arch-Package-Votes=1

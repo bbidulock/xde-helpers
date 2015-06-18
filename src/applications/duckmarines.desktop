@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Duck Marines
+Comment=ChuChu Rocket remake
+Icon=duckmarines
+TryExec=/usr/bin/duckmarines
+Exec=duckmarines
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=duckmarines
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=duckmarines 1.0b-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=duckmarines
+X-Arch-Package-Version=1.0b-1
+X-Arch-Package-Description=Free software remake of Sonic Team's ChuChu Rocket
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://tangramgames.dk/games/duckmarines/
+X-Arch-Package-Votes=2

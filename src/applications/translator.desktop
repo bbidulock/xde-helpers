@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Translator
+GenericName=Translates via Google Translate engine
+Icon=/usr/share/pixmaps/translator.png
+TryExec=/usr/bin/translator
+Exec=translator
+Categories=Utility;
+X-AppInstall-Package=translator
+X-AppInstall-Section=aur
+X-Arch-Package=translator 0.9.12.20-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=translator
+X-Arch-Package-Version=0.9.12.20-1
+X-Arch-Package-Description=Application that translates text via Google Translate engine
+X-Arch-Package-URL=http://www.qt-apps.org/content/show.php/ASTranslator?content=100039

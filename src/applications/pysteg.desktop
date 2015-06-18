@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=PySteg
+Comment=Embed a secret message in a cover file
+Icon=pysteg
+TryExec=/usr/bin/pysteg
+Exec=pysteg
+Categories=Graphics;2DGraphics;GTK;
+StartupNotify=true
+X-AppInstall-Package=pysteg
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=pysteg 1.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pysteg
+X-Arch-Package-Version=1.1-1
+X-Arch-Package-Description=A simple GUI frontend for the steghide (steganography) console
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/vkolev/pySteg
+X-Arch-Package-Votes=3

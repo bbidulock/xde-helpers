@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=IntelliJ IDEA X Community Edition (EAP)
+Comment=A Java IDE
+Icon=intellij_idea_ce-x_eap
+TryExec=/usr/bin/intellij_idea_ce-x_eap
+Exec=intellij_idea_ce-x_eap %u
+NoDisplay=true
+Categories=Development;IDE;
+X-AppInstall-Package=intellij_idea_ce-x_eap
+X-AppInstall-Section=aur
+X-Arch-Package=intellij_idea_ce-x_eap 117.1034-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=intellij_idea_ce-x_eap
+X-Arch-Package-Version=117.1034-1
+X-Arch-Package-Description=Early access version of the upcoming Intellij Idea 11 Java IDE (community version) with custom modifications
+X-Arch-Package-URL=http://confluence.jetbrains.net/display/IDEADEV/IDEA+11+EAP
+Aliases=intellijidea;

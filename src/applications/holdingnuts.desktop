@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=HoldingNuts
+GenericName=Poker client
+Comment=An open source poker client and server
+Icon=holdingnuts
+TryExec=/usr/bin/holdingnuts
+Exec=holdingnuts
+X-DCOP-ServiceType=Multi
+Categories=Game;CardGame;Qt;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=holdingnuts
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=holdingnuts
+X-Arch-Package-Version=0.0.5-1
+X-Arch-Package-Description=A Texas Hold'em poker client and server
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.holdingnuts.net/
+X-Arch-Package-Votes=6

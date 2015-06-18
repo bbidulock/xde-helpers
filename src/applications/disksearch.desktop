@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=DiskSearch
+Comment=Search your removable media
+Icon=disksearch
+TryExec=/usr/bin/disksearch
+Exec=disksearch
+Categories=Office;Database;GTK;
+StartupNotify=true
+X-AppInstall-Package=disksearch
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=disksearch 1.2.1-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=disksearch
+X-Arch-Package-Version=1.2.1-4
+X-Arch-Package-Description=A database tool for searching removable media (useful for
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://disksearch.sourceforge.net/
+X-Arch-Package-Votes=5

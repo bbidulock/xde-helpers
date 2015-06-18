@@ -1,0 +1,26 @@
+[Desktop Entry]
+Type=Application
+Name=BASIC-256
+GenericName=BASIC interpreter
+Comment=Learn BASIC in an environment designed for young children
+Comment[ca]=Apreneu BASIC en un entorn dissenyat per a nens.
+Comment[de]=Lerne BASIC in einer Programmierumgebung speziell für die ganz Kleinen.
+Comment[es]=Aprende BASIC en un entorno diseñado para niños.
+Comment[fr]=Apprend BASIC dans un environnement visé aux jeunes enfants.
+Icon=basic256
+TryExec=/usr/bin/basic256
+Exec=basic256
+Categories=Education;Science;ComputerScience;
+StartupNotify=false
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=basic256
+X-AppInstall-Popcon=18
+X-AppInstall-Section=aur
+X-Arch-Package=basic256 1.1.4.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=basic256
+X-Arch-Package-Version=1.1.4.0-1
+X-Arch-Package-Description=Educational BASIC programming environment
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.basic256.org/
+X-Arch-Package-Votes=4

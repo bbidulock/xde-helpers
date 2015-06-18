@@ -1,0 +1,27 @@
+[Desktop Entry]
+Type=Application
+Name=qsnapshot
+GenericName=Screen Capture Program
+GenericName[de]=Qt-basierte Anwendung für Bildschirmfotos
+GenericName[ru]=Создание снимков экрана
+GenericName[uk]=Створення знімків екрану
+Comment=Qt5-based Screen Capture Program
+Comment[de]=Bildschirmfotos aufnehmen und mit anderen teilen
+Comment[ru]=Программа  для создания снимков экрана на базе Qt5
+Comment[uk]=Програма  для створення знімків екрану на базі Qt5
+Icon=qsnapshot
+TryExec=/usr/bin/qsnapshot
+Exec=qsnapshot
+Categories=Graphics;RasterGraphics;Qt;
+X-KDE-StartupNotify=false
+X-AppInstall-Package=qsnapshot-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=qsnapshot-git c256b3b-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qsnapshot-git
+X-Arch-Package-Version=c256b3b-1
+X-Arch-Package-Description=ksnapshot clone using qt5.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/dridk/qsnapshot
+X-Arch-Package-Votes=1

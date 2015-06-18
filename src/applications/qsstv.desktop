@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Qsstv
+Comment=Slow-Scan TV Suite
+Comment[en_US]=Slow Scan TV Suite
+Icon=qsstv
+TryExec=/usr/bin/qsstv
+Exec=/usr/bin/qsstv
+X-DCOP-ServiceType=none
+Categories=Application;HamRadio;
+MimeType=text;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=qsstv
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=qsstv 8.2.11-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qsstv
+X-Arch-Package-Version=8.2.11-1
+X-Arch-Package-Description=Radio Slow-Scan TV for qt
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://users.telenet.be/on4qz/
+X-Arch-Package-Votes=13

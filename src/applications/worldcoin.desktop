@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Worldcoin
+Comment=Worldcoin P2P Cryptocurrency
+Icon=/usr/share/pixmaps/worldcoin.png
+TryExec=/usr/bin/worldcoin-qt
+Exec=/usr/bin/worldcoin-qt
+Categories=Application;Network;
+MimeType=x-scheme-handler/worldcoin;
+X-AppInstall-Package=worldcoin-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=worldcoin-git bff08fa-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=worldcoin-git
+X-Arch-Package-Version=bff08fa-1
+X-Arch-Package-Description=WorldCoin is designed to be the digital currency of the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://worldcoinfoundation.org/
+X-Arch-Package-Votes=1

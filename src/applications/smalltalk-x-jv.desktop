@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Smalltalk/X JV
+TryExec=/opt/stx-jv/bin/stx
+Exec=/opt/stx-jv/bin/stx
+Categories=Development;IDE;
+StartupNotify=true
+X-AppInstall-Package=smalltalk-x-jv
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=smalltalk-x-jv 6.1.2-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=smalltalk-x-jv
+X-Arch-Package-Version=6.1.2-5
+X-Arch-Package-Description=Smalltalk/X JV branch
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://swing.fit.cvut.cz//projects/stx-goodies/wiki/SmalltalkX
+X-Arch-Package-Votes=1

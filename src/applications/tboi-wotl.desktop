@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=The Binding of Isaac - Wrath of the Lamb
+GenericName=The Binding of Isaac - Wrath of the Lamb
+Comment=Legend of Zelda-inspired dungeon crawler
+Icon=/usr/share/tboi-wotl/tboi-wotl.png
+TryExec=/usr/bin/tboi-wotl
+Exec=/usr/bin/tboi-wotl
+Categories=Game;
+Path=/usr/share/tboi-wotl
+X-AppInstall-Package=tboi-wotl
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=tboi-wotl 1.48-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tboi-wotl
+X-Arch-Package-Version=1.48-2
+X-Arch-Package-Description=The Binding of Isaac + Wrath of the Lamb expansion - Humble
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://store.steampowered.com/app/113200/
+X-Arch-Package-Votes=6
+Value=1.0

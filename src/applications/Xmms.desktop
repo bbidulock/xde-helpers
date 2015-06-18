@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=Multimedia Player (Xmms)
+Icon=/opt/gnome2/share/dist/icons/suse-yast.png
+TryExec=/usr/bin/xmms
+Exec=xmms
+StartupNotify=false
+X-AppInstall-Package=xmms
+X-AppInstall-Section=custom
+X-Arch-Package-Repository=custom
+X-Arch-Package-Name=xmms
+X-Arch-Package-Version=1.2.11-7
+X-Arch-Package-Description=The X MultiMedia System - a multimedia player
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://legacy.xmms2.org/

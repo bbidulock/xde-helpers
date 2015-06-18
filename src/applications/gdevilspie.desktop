@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=gDevilspie
+Comment=GUI for devilspie matching daemon
+Icon=gdevilspie
+TryExec=/usr/bin/gdevilspie
+Exec=gdevilspie
+Categories=Utility;GNOME;
+StartupNotify=true
+X-AppInstall-Package=gdevilspie
+X-AppInstall-Popcon=59
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gdevilspie
+X-Arch-Package-Version=0.5-2
+X-Arch-Package-Description=pyGTK interface to devilspie
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/gdevilspie
+X-Arch-Package-Votes=59

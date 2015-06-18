@@ -1,0 +1,26 @@
+[Desktop Entry]
+Type=Application
+Name=equinox3d
+Comment=A 3D program
+Comment[cs]=Program pro 3D modeling a animaci
+Comment[da]=Et program til 3d-modelering
+Comment[es]=Un programa de 3D
+Comment[no]=Et 3d-program
+Icon=equinox
+TryExec=/usr/bin/equinox
+Exec=equinox
+X-MultipleArgs=false
+NoDisplay=true
+Categories=Graphics;3DGraphics;
+X-AppInstall-Package=equinox3d
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=equinox3d 0.9.3.4-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=equinox3d
+X-Arch-Package-Version=0.9.3.4-2
+X-Arch-Package-Description=3D modeler with fully integrated ray-tracer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.equinox3d.com/
+X-Arch-Package-Votes=8
+Aliases=equinox;

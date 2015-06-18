@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Memsource Editor
+Comment=www.memsource.com
+Icon=memsource-editor
+TryExec=/usr/bin/memsource
+Exec=/usr/bin/memsource %U
+Categories=Office;
+MimeType=application/memsource-editor;
+StartupNotify=false
+X-AppInstall-Package=memsource-editor
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=memsource-editor 4.168-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=memsource-editor
+X-Arch-Package-Version=4.168-1
+X-Arch-Package-Description=A CAT translation tool, requires Memsource subscription
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.memsource.com/
+X-Arch-Package-Votes=3

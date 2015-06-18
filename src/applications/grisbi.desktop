@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Grisbi
+Name[fr]=Gestionnaire de finances Grisbi
+GenericName=Money Management
+Comment=Manage your finances, accounts, and investments
+Comment[fr]=Gérez vos finances, vos comptes et vos investissements
+Icon=_usr_share_pixmaps_grisbi_grisbi
+TryExec=/usr/bin/grisbi
+Exec=grisbi
+Categories=Application;Office;Finance;
+MimeType=application/x-grisbi;
+StartupNotify=true
+X-AppInstall-Package=grisbi
+X-AppInstall-Popcon=95
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=grisbi
+X-Arch-Package-Version=1.0.0-1
+X-Arch-Package-Description=Personal financial management program
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.grisbi.org
+X-Arch-Package-Votes=95

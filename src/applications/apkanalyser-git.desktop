@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=ApkAnalyser
+GenericName=ApkAnalyser
+TryExec=/usr/bin/apkanalyser
+Exec=/usr/bin/apkanalyser
+NoDisplay=true
+Categories=Development;Java;
+StartupNotify=false
+X-AppInstall-Package=apkanalyser-git
+X-AppInstall-Section=aur
+X-Arch-Package=apkanalyser-git LATEST-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=apkanalyser-git
+X-Arch-Package-Version=LATEST-2
+X-Arch-Package-Description=Powerful tool to analyse your APKs
+X-Arch-Package-URL=http://developer.sonymobile.com/wp/2012/04/13/powerful-tool-to-analyse-your-apks-now-released-open-source/
+Aliases=apkanalyser;

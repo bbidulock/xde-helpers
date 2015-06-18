@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Sokobano
+TryExec=/usr/bin/sokobano
+Exec=sokobano
+Categories=Application;Game;
+X-AppInstall-Package=sokobano
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=sokobano 1.0.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sokobano
+X-Arch-Package-Version=1.0.3-1
+X-Arch-Package-Description=An entertaining Sokoban game featuring nice 3D graphics.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sokobano.sourceforge.net/
+X-Arch-Package-Votes=8

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Skink
+GenericName=5 lines Skink
+Comment=A browser for ABC tunes
+Comment[fr]=Un navigateur pour les livrets de musique ABC
+Icon=skink.png
+TryExec=/usr/bin/skink
+Exec=skink
+Categories=Multimedia;
+X-AppInstall-Package=skink
+X-AppInstall-Section=aur
+X-Arch-Package=skink 2alpha-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=skink
+X-Arch-Package-Version=2alpha-2
+X-Arch-Package-Description=A java application which supports the abc musical notation 1.6
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://celticmusic.ca/skink.html
+X-Arch-Package-Votes=0

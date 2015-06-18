@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=PyCharm
+GenericName=Python and Django IDE
+Comment=Powerful Python and Django IDE. Professional version.
+Icon=pycharm
+TryExec=/usr/bin/pycharm
+Exec=/usr/bin/pycharm
+Categories=Development;IDE;
+StartupNotify=true
+StartupWMClass=jetbrains-pycharm
+X-AppInstall-Package=pycharm-professional
+X-AppInstall-Popcon=70
+X-AppInstall-Section=aur
+X-Arch-Package=pycharm-professional 4.5.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pycharm-professional
+X-Arch-Package-Version=4.5.1-1
+X-Arch-Package-Description=Powerful Python and Django IDE. Professional version.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.jetbrains.com/pycharm/
+X-Arch-Package-Votes=70

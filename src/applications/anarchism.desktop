@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=An Anarchist FAQ
+Comment=An Anarchist FAQ
+Icon=anarchism.png
+TryExec=/usr/bin/xdg-open
+Exec=xdg-open file:///usr/share/doc/anarchism/html/index.html
+Categories=Education;Science;
+StartupNotify=true
+X-AppInstall-Package=anarchism
+X-AppInstall-Popcon=16
+X-AppInstall-Section=aur
+X-Arch-Package=anarchism 14.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=anarchism
+X-Arch-Package-Version=14.0-1
+X-Arch-Package-Description=Source of information regarding Anarchist (libertarian
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.infoshop.org/AnAnarchistFAQ
+X-Arch-Package-Votes=16

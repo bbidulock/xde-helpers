@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=MusE
+GenericName=MIDI/Audio Sequencer
+Comment=Multitrack virtual studio
+Icon=muse.xpm
+TryExec=/usr/bin/muse
+Exec=muse
+Categories=Application;AudioVideo;Audio;
+StartupNotify=false
+X-AppInstall-Package=muse
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=muse
+X-Arch-Package-Version=1.1-1
+X-Arch-Package-Description=A MIDI/Audio sequencer with recording and editing capabilities
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://muse-sequencer.org/
+X-Arch-Package-Votes=11

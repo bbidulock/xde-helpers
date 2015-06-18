@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Dynablaster Revenge
+Icon=/opt/dynablaster-revenge/data/icons/dynablaster_revenge-256.ico
+TryExec=/opt/dynablaster-revenge/dynablaster
+Exec=/opt/dynablaster-revenge/dynablaster
+Categories=Game;
+Keywords=Bomberman;
+Path=/opt/dynablaster-revenge
+X-AppInstall-Package=dynablaster-revenge
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=dynablaster-revenge 1.0.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dynablaster-revenge
+X-Arch-Package-Version=1.0.2-1
+X-Arch-Package-Description=3D remake of the original Bomberman/Dynablaster game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://dynablaster.titandemo.de/
+X-Arch-Package-Votes=3

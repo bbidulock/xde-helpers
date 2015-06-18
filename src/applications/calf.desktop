@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Calf Plugin Pack for JACK
+Name[pl]=Zestaw wtyczek Calf
+Comment=Process and produce sounds using a set of plugins with JACK interface
+Comment[pl]=Przetwarzaj i generuj dźwięk używając zestawu wtyczek zgodnych z JACK
+Icon=calf
+TryExec=/usr/bin/calfjackhost
+Exec=calfjackhost
+Categories=Application;AudioVideo;Audio;
+StartupNotify=false
+X-AppInstall-Package=calf
+X-AppInstall-Popcon=21
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=calf
+X-Arch-Package-Version=0.0.60-1
+X-Arch-Package-Description=LV2/DSSI/LADSPA plug-ins suite and standalone JACK host
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://calf.sf.net/

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=JavaCPC
+GenericName=Amstrad CPC emulator
+Icon=javacpc_icon.png
+TryExec=/usr/bin/javacpc
+Exec=javacpc
+Categories=Application;
+StartupNotify=false
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=javacpc
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=javacpc 2.9h-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=javacpc
+X-Arch-Package-Version=2.9h-1
+X-Arch-Package-Description=An Amstrad CPC emulator in Java, based on JEMU
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/javacpc/
+X-Arch-Package-Votes=1

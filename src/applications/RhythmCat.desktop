@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=RhythmCat
+GenericName=Music Player
+GenericName[pl]=Odtwarzacz dźwięku
+Comment=RhythmCat Music Player
+Comment[pl]=Odtwarzacz dźwięku RhythmCat
+Icon=/usr/share/RhythmCat/images/RhythmCat_128x128.PNG
+TryExec=/usr/bin/RhythmCat
+Exec=RhythmCat
+Categories=AudioVideo;Player;GTK;
+MimeType=application/x-ogg;application/ogg;audio/x-vorbis+ogg;audio/x-scpls;audio/x-mp3;audio/x-mpeg;audio/mpeg;audio/x-mpegurl;audio/x-flac;
+StartupNotify=false
+X-AppInstall-Package=rhythmcat
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package=rhythmcat 1.0.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rhythmcat
+X-Arch-Package-Version=1.0.1-2
+X-Arch-Package-Description=A Audio Player in GTK3 with plug-in support
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://code.google.com/p/rhythmcat/
+X-Arch-Package-Votes=11

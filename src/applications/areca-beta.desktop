@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Areca Backup
+Comment=Advanced personal backup tool
+Icon=areca_72x72
+TryExec=/usr/bin/bash
+Exec=bash -c "JAVA_PROGRAM_DIR=/usr/bin/ areca"
+NoDisplay=true
+Categories=Application;System;
+StartupNotify=true
+X-AppInstall-Package=areca-beta
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=areca-beta 7.4.9-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=areca-beta
+X-Arch-Package-Version=7.4.9-2
+X-Arch-Package-Description=Personal file backup software supporting compression,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.areca-backup.org
+X-Arch-Package-Votes=1
+Aliases=areca;

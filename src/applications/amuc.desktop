@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Amuc
+GenericName=Amuc - The Amsterdam Music Composer
+Comment=An application for composing and playing music.
+Icon=amuc.png
+TryExec=/usr/bin/amuc
+Exec=amuc
+Categories=AudioVideo;Music;
+X-AppInstall-Package=amuc
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=amuc 1.7-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=amuc
+X-Arch-Package-Version=1.7-4
+X-Arch-Package-Description=Amuc is a Linux application for composing and playing music.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://members.chello.nl/w.boeke/amuc/
+X-Arch-Package-Votes=1

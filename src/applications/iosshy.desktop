@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=IOSSHy
+GenericName=SSH Tunnel Spawner
+Icon=network-server
+TryExec=/usr/bin/iosshy
+Exec=/usr/bin/iosshy
+Categories=Network;
+X-AppInstall-Package=iosshy
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=iosshy 1.6-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=iosshy
+X-Arch-Package-Version=1.6-5
+X-Arch-Package-Description=An easy to use desktop tool to quickly create and destroy SSH
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kde-apps.org/content/show.php/IOSSHy?content=119689
+X-Arch-Package-Votes=6

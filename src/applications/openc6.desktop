@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=OpenC6
+Comment=OpenC6
+Icon=/usr/share/OpenC6/skin-gui/default/icon32x32.png
+TryExec=/usr/bin/c6
+Exec=/usr/bin/c6
+Categories=Network;KDE;Qt;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=openc6
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=openc6 0.9.9-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=openc6
+X-Arch-Package-Version=0.9.9-2
+X-Arch-Package-Description=A free instant messenger client which implements the C6
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://openc6.sourceforge.net
+X-Arch-Package-Votes=3

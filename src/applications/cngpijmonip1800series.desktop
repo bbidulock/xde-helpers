@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Canon MP510 status monitor
+Name[fr]=Etat imprimante Canon MP510
+Comment=Display Canon MP510 status monitor
+Comment[fr]=Afficher l'état de l'imprimante Canon MP510
+Icon=printer
+TryExec=/usr/bin/cngpijmonmp510
+Exec=cngpijmonmp510
+Categories=System;GTK;
+StartupNotify=true
+X-AppInstall-Package=cnijfilter-ip1800series
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=cnijfilter-ip1800series 2.70-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cnijfilter-ip1800series
+X-Arch-Package-Version=2.70-1
+X-Arch-Package-Description=Canon IJ Printer Driver for Pixma IP1800 series multifunction
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://support-au.canon.com.au/contents/AU/EN/0900718516.html
+X-Arch-Package-Votes=2

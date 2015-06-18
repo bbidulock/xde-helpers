@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Remobo
+GenericName=IPN Service
+Comment=A zero-configuration IPN service
+Icon=remobo
+TryExec=/usr/bin/remobo-gui
+Exec=remobo-gui
+Categories=Network;FileTransfer;P2P;GTK;Gnome;
+X-AppInstall-Package=remobo
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=remobo 0.72.1-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=remobo
+X-Arch-Package-Version=0.72.1-4
+X-Arch-Package-Description=A zero-configuration IPN service
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.remobo.com/
+X-Arch-Package-Votes=9

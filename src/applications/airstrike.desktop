@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=AirStrike
+Comment=Dogfight an enemy plane
+Comment[de_DE]=Kämpfe gegen ein feindliches Flugzeug
+Icon=airstrike
+TryExec=/usr/bin/airstrike
+Exec=airstrike
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=airstrike
+X-AppInstall-Popcon=61
+X-AppInstall-Section=aur
+X-Arch-Package=airstrike pre6a-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=airstrike
+X-Arch-Package-Version=pre6a-4
+X-Arch-Package-Description=2d biplane dogfight game in the tradition of the Intellivision
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://icculus.org/airstrike/
+X-Arch-Package-Votes=17

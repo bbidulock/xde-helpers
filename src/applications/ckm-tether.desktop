@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=ckm-tether
+Icon=ckm-tether
+TryExec=/usr/bin/xterm
+Exec=xterm -e gksu ckm-tether
+Terminal=true
+Categories=Application;Network;
+StartupNotify=true
+X-AppInstall-Package=ckm-tether
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=ckm-tether 1.0.1.5-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ckm-tether
+X-Arch-Package-Version=1.0.1.5-2
+X-Arch-Package-Description=clockworkmod tethering app for linux
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.clockworkmod.com
+X-Arch-Package-Votes=5

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Atraci
+GenericName=Music player
+Comment=An application that lets you listen to songs instantly
+Icon=atraci
+TryExec=/usr/bin/atraci
+Exec=atraci %U
+NoDisplay=true
+Categories=AudioVideo;Audio;Network;Player;
+X-AppInstall-Package=atraci-bin
+X-AppInstall-Popcon=14
+X-AppInstall-Section=aur
+X-Arch-Package=atraci-bin 0.7.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=atraci-bin
+X-Arch-Package-Version=0.7.0-1
+X-Arch-Package-Description=An application that lets you listen instantly to more than 60
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://getatraci.net
+X-Arch-Package-Votes=14
+Aliases=atraci;

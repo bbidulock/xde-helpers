@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=JakPod
+GenericName=iPod "Total Commander"
+Comment=JakPod is based on Java and allows you to copy music and video files to your iPod
+Icon=/opt/jakpod/jakpod.ico
+TryExec=/usr/bin/jakpod
+Exec=jakpod
+Categories=AudioVideo;GTK;
+MimeType=text/plain;
+StartupNotify=false
+X-AppInstall-Package=jakpod
+X-AppInstall-Section=aur
+X-Arch-Package=jakpod 2.0.beta1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jakpod
+X-Arch-Package-Version=2.0.beta1-2
+X-Arch-Package-Description=JakPod is based on Java and allows you to copy music and video
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.jakpod.de
+X-Arch-Package-Votes=0

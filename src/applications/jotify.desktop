@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Jotify
+GenericName=Spotify music player
+Comment=A Spotify client written in Java
+Icon=/usr/share/pixmaps/jotify.xpm
+TryExec=/usr/bin/jotify
+Exec=jotify
+Categories=Multimedia;
+X-AppInstall-Package=jotify
+X-AppInstall-Section=aur
+X-Arch-Package=jotify 090b45f-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jotify
+X-Arch-Package-Version=090b45f-1
+X-Arch-Package-Description=A Spotify client written in Java
+X-Arch-Package-URL=http://jotify.felixbruns.de/

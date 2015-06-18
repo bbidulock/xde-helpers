@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=QPxTool
+GenericName=CD/DVD media quality checker
+GenericName[ru]=Проверка качества носителей CD/DVD
+Comment=CD/DVD media quality checker
+Comment[ru]=Проверка качества носителей CD/DVD
+Icon=qpxtool
+TryExec=/usr/bin/qpxtool
+Exec=qpxtool
+Categories=System;
+StartupNotify=true
+X-AppInstall-Package=qpxtool
+X-AppInstall-Popcon=40
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=qpxtool
+X-Arch-Package-Version=0.7.2-4
+X-Arch-Package-Description=Allows better controll over optical drives to include QChecks and optimization settings.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://qpxtool.sourceforge.net/

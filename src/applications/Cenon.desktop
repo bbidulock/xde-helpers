@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=0.94
+Type=Application
+Name=Cenon
+Icon=_usr_lib_GNUstep_Applications_Cenon.app_Resources_Cenon
+TryExec=/usr/bin/Cenon
+Exec=Cenon
+Categories=Graphics;2DGraphics;VectorGraphics;
+StartupNotify=false
+X-AppInstall-Package=cenon
+X-AppInstall-Popcon=85
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cenon
+X-Arch-Package-Version=4.0.2-1
+X-Arch-Package-Description=GNUstep vector editor for EPS, DXF, Gerber, HPGL. Includes
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.cenon.info
+X-Arch-Package-Votes=1

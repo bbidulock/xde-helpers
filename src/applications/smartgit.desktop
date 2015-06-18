@@ -1,0 +1,27 @@
+[Desktop Entry]
+Type=Application
+Name=SmartGit
+Comment=Graphical Git/Hg client
+Comment[cs]=Grafický Git/Hg klient
+Comment[de]=Ein grafischer Git/Hg Client
+Comment[zh_CN]=图形界面的 Git/Hg 客户端
+Comment[zh_HK]=圖形介面的 Git/Hg 客戶端
+Comment[zh_TW]=圖形介面的 Git/Hg 客戶端
+Icon=smartgit
+TryExec=/usr/bin/smartgit
+Exec=smartgit
+X-MultipleArgs=false
+Categories=Development;
+MimeType=application/smartgit;application/x-smartgit;
+StartupWMClass=SmartGit
+X-AppInstall-Package=smartgit
+X-AppInstall-Popcon=93
+X-AppInstall-Section=aur
+X-Arch-Package=smartgit 6.5.8-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=smartgit
+X-Arch-Package-Version=6.5.8-1
+X-Arch-Package-Description=Git/Hg GUI client written in Java.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.syntevo.com/smartgit
+X-Arch-Package-Votes=93

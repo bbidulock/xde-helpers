@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=ZPacman
+GenericName=Gerenciador de Pacotes
+Comment=Um frontend para o pacman, usando zenity
+Icon=/usr/share/pixmaps/zpacman.png
+TryExec=/usr/bin/zpacman
+Exec=zpacman
+Categories=Application;System;
+StartupNotify=false
+X-AppInstall-Package=None
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=zpacman 2010.06-0
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=None
+X-Arch-Package-Version=-
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=None
+X-Arch-Package-Votes=3

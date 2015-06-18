@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Eric python IDE
+Name[es]=IDE para python Eric
+Comment=Full featured Python IDE
+Comment[es]=Completo entorno de programaci贸n para Python
+Icon=eric
+TryExec=/usr/bin/eric
+Exec=eric
+Categories=Development;IDE;Qt;Python;
+MimeType=application/x-eric;
+StartupNotify=true
+X-AppInstall-Package=eric
+X-AppInstall-Popcon=131
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=eric
+X-Arch-Package-Version=6.0.5-1
+X-Arch-Package-Description=A full-featured Python and Ruby IDE in PyQt4
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://eric-ide.python-projects.org/

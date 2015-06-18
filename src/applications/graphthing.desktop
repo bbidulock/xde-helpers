@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=GraphThing
+GenericName=Graph analysis
+GenericName[fr]=Analyse de graphes
+Comment=Create, manipulate and study graphs.
+Comment[fr]=Création, manipulation et étude de graphes.
+Icon=graphthing
+TryExec=/usr/bin/graphthing
+Exec=graphthing
+Categories=Education;Science;Math;
+StartupNotify=false
+X-AppInstall-Package=graphthing
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=graphthing
+X-Arch-Package-Version=1.3.2-4
+X-Arch-Package-Description=A tool that allows you to create, manipulate and study graphs
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://graph.seul.org/
+X-Arch-Package-Votes=1

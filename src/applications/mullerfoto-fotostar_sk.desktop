@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=FotoStar Offline Client
+Comment=Offline client for FotoStar service
+Icon=mullerfoto.xpm
+TryExec=/usr/bin/MullerFoto
+Exec=MullerFoto
+NoDisplay=true
+Categories=Graphics;Photography;
+X-AppInstall-Package=mullerfoto-fotostar_sk
+X-AppInstall-Section=aur
+X-Arch-Package=mullerfoto-fotostar_sk 4.6.7-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mullerfoto-fotostar_sk
+X-Arch-Package-Version=4.6.7-1
+X-Arch-Package-Description=an offline client for uploading and ordering photos at
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.fotolab.sk/
+X-Arch-Package-Votes=0
+Aliases=mullerfoto;

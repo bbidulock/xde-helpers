@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=tkcvs
+GenericName=CVS/Subversion Frontend
+Comment=A graphical frontend to CVS and Subversion.
+Icon=tkcvs
+TryExec=/usr/bin/tkcvs
+Exec=tkcvs
+Categories=Development;RevisionControl;ProjectManagement;
+StartupNotify=false
+X-AppInstall-Package=tkcvs
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tkcvs
+X-Arch-Package-Version=8.2.3-2
+X-Arch-Package-Description=Tcl/Tk-based graphical interface to the CVS and Subversion
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.twobarleycorns.net/tkcvs.html
+X-Arch-Package-Votes=5

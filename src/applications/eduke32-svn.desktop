@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=EDuke32
+Comment=Advanced Duke Nukem 3D engine
+Icon=eduke32
+TryExec=/usr/bin/eduke32
+Exec=eduke32 -j/usr/share/eduke32/
+NoDisplay=true
+Categories=Game;ActionGame;
+X-AppInstall-Package=eduke32-svn
+X-AppInstall-Popcon=17
+X-AppInstall-Section=aur
+X-Arch-Package=eduke32-svn 4103-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=eduke32-svn
+X-Arch-Package-Version=4103-1
+X-Arch-Package-Description=An advanced port of the classic FPS "Duke Nukem 3D" by 3D
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://eduke32.com/
+X-Arch-Package-Votes=17
+Aliases=eduke32;

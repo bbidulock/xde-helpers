@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=BlueDevil
+GenericName=bluedevil
+Comment=KDE Bluetooth support
+Icon=preferences-system-bluetooth
+TryExec=/usr/bin/bluedevil-monolithic
+Exec=bluedevil-monolithic
+Categories=Network;KDE;Qt;Bluetooth;
+StartupNotify=false
+X-AppInstall-Package=bluedevil
+X-AppInstall-Popcon=550
+X-AppInstall-Section=extra
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=bluedevil
+X-Arch-Package-Version=1:5.3.1-1
+X-Arch-Package-Description=Integrate the Bluetooth technology within KDE workspace and applications
+X-Arch-Package-Groups=plasma
+X-Arch-Package-URL=https://projects.kde.org/projects/kde/workspace/bluedevil

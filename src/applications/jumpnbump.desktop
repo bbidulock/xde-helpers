@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Jump'n'Bump
+Comment=Jump on your opponents to make them explode
+Icon=jumpnbump
+TryExec=/usr/bin/jumpnbump-menu
+Exec=jumpnbump-menu
+Categories=Game;ActionGame;
+X-AppInstall-Package=jumpnbump
+X-AppInstall-Popcon=32
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jumpnbump
+X-Arch-Package-Version=1.55-5
+X-Arch-Package-Description=You, as a bunny, have to jump on your opponents to make them
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://freecode.com/projects/jumpnbump
+X-Arch-Package-Votes=32

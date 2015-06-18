@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=FZPong
+Comment=A classic arcade game (pong)
+Icon=fzpong
+TryExec=/opt/games/fzpong/FZPong
+Exec=/opt/games/fzpong/FZPong
+Categories=Game;ArcadeGame;
+StartupNotify=true
+X-AppInstall-Package=fzpong
+X-AppInstall-Section=aur
+X-Arch-Package=fzpong 2.4-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fzpong
+X-Arch-Package-Version=2.4-2
+X-Arch-Package-Description=A classic arcade game (pong)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.dukitan.com/portal/fzpong
+X-Arch-Package-Votes=0

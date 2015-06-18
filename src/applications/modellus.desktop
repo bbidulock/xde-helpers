@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Modellus
+GenericName=Modellus
+Comment=Interactive modelling with mathematics
+Icon=/usr/share/icons/hicolor/16x16/apps/modellus.png
+TryExec=/usr/bin/modellus
+Exec=modellus
+Categories=Education;Math;
+StartupNotify=true
+X-AppInstall-Package=modellus
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=modellus 4.01-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=modellus
+X-Arch-Package-Version=4.01-1
+X-Arch-Package-Description=Interactive modelling with mathematics
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://modellus.fct.unl.pt/
+X-Arch-Package-Votes=1

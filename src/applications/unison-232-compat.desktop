@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Unison (2.32)
+Comment=File synchronisation tool for X11
+Icon=unison-232.png
+TryExec=/usr/bin/unison-232-x11
+Exec=unison-232-x11
+Categories=Application;Network;GTK;
+StartupNotify=true
+X-AppInstall-Package=unison-232-compat
+X-AppInstall-Section=aur
+X-Arch-Package=unison-232-compat 2.32.52-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=unison-232-compat
+X-Arch-Package-Version=2.32.52-1
+X-Arch-Package-Description=File-synchronization tool (legacy 2.32 version). Compatible
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.cis.upenn.edu/~bcpierce/unison
+X-Arch-Package-Votes=0
+Aliases=unison-232;

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Limbo
+Comment=Uncertain of his sister's fate, a boy enters LIMBO.
+Icon=/opt/limbo/share/icons/limbo.png
+TryExec=/usr/bin/limbo
+Exec=/usr/bin/limbo
+NoDisplay=true
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=limbo_wine
+X-AppInstall-Section=aur
+X-Arch-Package=limbo_wine 1.3-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=limbo_wine
+X-Arch-Package-Version=1.3-2
+X-Arch-Package-Description=LIMBO is a modern classic, putting players in control of a boy's journey through a tense and hostile world. (This version uses installed wine and allows to choose the language of the game if zenity is installed.)
+X-Arch-Package-URL=http://limbogame.org/
+Aliases=limbo;

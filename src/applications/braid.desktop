@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Braid
+GenericName=Time-bending Puzzle Platformer
+Comment=Number None
+Icon=braid
+TryExec=/usr/bin/braid
+Exec=braid
+Categories=Game;
+X-AppInstall-Package=braid
+X-AppInstall-Popcon=53
+X-AppInstall-Section=aur
+X-Arch-Package=braid 1.0.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=braid
+X-Arch-Package-Version=1.0.2-2
+X-Arch-Package-Description=A puzzle-platformer where the player manipulates the flow of
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://braid-game.com
+X-Arch-Package-Votes=53
+Value=1.0

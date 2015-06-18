@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Monster RPG 2
+GenericName=Monster RPG 2
+Comment=Role Playing Game
+Icon=/opt/monster2/data/staff48x48.png
+TryExec=/usr/bin/monster2
+Exec=monster2
+Categories=Game;RolePlaying;
+X-AppInstall-Package=monster2
+X-AppInstall-Section=aur
+X-Arch-Package=monster2 1.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=monster2
+X-Arch-Package-Version=1.1-2
+X-Arch-Package-Description=Monster RPG 2: 16-bit style JRPG (Commercial)
+X-Arch-Package-URL=http://www.monster-rpg.com

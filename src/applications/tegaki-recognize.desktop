@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Tegaki Recognize
+GenericName=Handwriting Recognition
+Comment=Handwriting Recognition
+Icon=tegaki-recognize
+TryExec=/usr/bin/tegaki-recognize
+Exec=/usr/bin/tegaki-recognize
+Categories=Utility;
+StartupNotify=false
+X-AppInstall-Package=tegaki-recognize
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tegaki-recognize
+X-Arch-Package-Version=0.3.1.2-7
+X-Arch-Package-Description=Chinese and Japanese Handwriting Recognition program
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.tegaki.org/
+X-Arch-Package-Votes=13

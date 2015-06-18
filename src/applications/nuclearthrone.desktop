@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Nuclear Throne
+GenericName=Nuclear Throne
+Comment=Action roguelike-like about mutants that spend their workdays trying to fight for the throne in a post-apocalyptic world
+Icon=/usr/share/pixmaps/nuclearthrone.png
+TryExec=/usr/bin/nuclearthrone
+Exec=/usr/bin/nuclearthrone
+Categories=Game;
+X-AppInstall-Package=nuclearthrone-hib
+X-AppInstall-Section=aur
+X-Arch-Package=nuclearthrone-hib 0_20140617-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nuclearthrone-hib
+X-Arch-Package-Version=0_20140617-1
+X-Arch-Package-Description=Vlambeers latest action roguelike-like about mutants that
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.nuclearthrone.com/
+X-Arch-Package-Votes=0

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=XEmeraldia
+Comment=A Tetris-like falling blocks game
+Icon=xemeraldia.png
+TryExec=/usr/bin/xemeraldia
+Exec=xemeraldia
+Categories=Game;BlocksGame;
+X-AppInstall-Package=xemeraldia
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=xemeraldia 0.4.3-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xemeraldia
+X-Arch-Package-Version=0.4.3-3
+X-Arch-Package-Description=A Tetris-like falling blocks game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.reloco.com.ar/xemeraldia/
+X-Arch-Package-Votes=2

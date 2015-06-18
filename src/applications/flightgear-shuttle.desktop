@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Nasa Shuttle
+Name[en_US]=flightgear-shuttle.desktop
+GenericName=Flight Simulator
+Comment=Flightgear Shuttle
+Icon=787.png
+TryExec=/usr/bin/flightgear
+Exec=flightgear shuttle
+Categories=Game;Simulation;
+X-AppInstall-Package=flightgear-shuttle
+X-AppInstall-Section=aur
+X-Arch-Package=flightgear-shuttle 1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=flightgear-shuttle
+X-Arch-Package-Version=1-1
+X-Arch-Package-Description=Nasa Shuttle FlightGear
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://gitorious.org/space-shuttle
+X-Arch-Package-Votes=0

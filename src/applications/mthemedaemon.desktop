@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+TryExec=/usr/bin/mthemedaemon
+Exec=/usr/bin/mthemedaemon
+X-AppInstall-Package=libmeegotouch-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=libmeegotouch-git 20110123-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=libmeegotouch-git
+X-Arch-Package-Version=20110123-1
+X-Arch-Package-Description=Qt based MeeGo Touch Framework for developing touch based user
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://meego.gitorious.org/meegotouch/libmeegotouch
+X-Arch-Package-Votes=1
+X-Moblin-Priority=Highest

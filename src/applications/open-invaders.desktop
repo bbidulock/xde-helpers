@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Open Invaders
+GenericName=Space Invaders clone
+Comment=Play a Space Invaders clone
+Comment[ca]=Jugueu a un clon del Space Invaders
+Comment[de]=Spiele ein Space Invaders Klon
+Comment[es]=Juega a un clon de Space Invaders
+Icon=open-invaders
+TryExec=/usr/bin/open-invaders
+Exec=open-invaders -w
+Categories=Game;ActionGame;
+StartupNotify=false
+X-AppInstall-Package=open-invaders
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=open-invaders
+X-Arch-Package-Version=0.3-2
+X-Arch-Package-Description=A clone of Space Invaders
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/open-invaders/
+X-Arch-Package-Votes=3

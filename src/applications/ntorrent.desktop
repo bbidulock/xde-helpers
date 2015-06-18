@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=0.5.30
+Type=Application
+Name=NTorrent
+Name[de_DE]=ntorrent.desktop
+Comment=GUI for RTorrent
+Icon=ntorrent
+TryExec=/usr/bin/ntorrent
+Exec=ntorrent
+Categories=Application;Network;
+X-AppInstall-Package=ntorrent
+X-AppInstall-Popcon=37
+X-AppInstall-Section=aur
+X-Arch-Package=ntorrent 0.5.1-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ntorrent
+X-Arch-Package-Version=0.5.1-3
+X-Arch-Package-Description=A graphical user interface client to rtorrent written in java.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/ntorrent
+X-Arch-Package-Votes=37

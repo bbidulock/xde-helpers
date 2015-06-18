@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Tryton
+GenericName=Client for the Tryton Application Platform
+GenericName[de]=Client für die Tryton Applikationsplattform
+Comment=Access Tryton server
+Comment[de]=Verbindet zu einem Tryton Server
+Icon=tryton-icon
+TryExec=/usr/bin/tryton
+Exec=tryton
+Categories=Office;Finance;
+X-AppInstall-Package=tryton
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package=tryton 3.4.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tryton
+X-Arch-Package-Version=3.4.2-1
+X-Arch-Package-Description=A three-tiers high-level general purpose application platform
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.tryton.org/
+X-Arch-Package-Votes=11

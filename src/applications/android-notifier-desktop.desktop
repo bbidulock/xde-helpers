@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Android Notifier Desktop
+GenericName=Android Notifier Desktop
+Comment=Android Notifier desktop client
+Icon=android-notifier-desktop
+TryExec=/usr/share/android-notifier-desktop/run.sh
+Exec=/usr/share/android-notifier-desktop/run.sh
+Categories=Utility;
+Path=/usr/share/android-notifier-desktop
+X-AppInstall-Package=android-notifier-desktop
+X-AppInstall-Popcon=70
+X-AppInstall-Section=aur
+X-Arch-Package=android-notifier-desktop 0.5.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=android-notifier-desktop
+X-Arch-Package-Version=0.5.1-2
+X-Arch-Package-Description=Multi-platform client for the androd-notifier app.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://android-notifier.googlecode.com
+X-Arch-Package-Votes=70

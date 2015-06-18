@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=YFKLog
+Comment=Full Featured QSO Logger
+Comment[en_US]=Full Featured QSO Logger
+Icon=yfklog.png
+TryExec=/usr/bin/yfk
+Exec=yfk
+X-DCOP-ServiceType=none
+Terminal=true
+Categories=Application;HamRadio;
+MimeType=text/plain;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=yfklog
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=yfklog 0.3.5-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=yfklog
+X-Arch-Package-Version=0.3.5-4
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://fkurz.net/ham/yfklog.html
+X-Arch-Package-Votes=3

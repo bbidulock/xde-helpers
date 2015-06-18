@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=ZIMA-ps2pdf
+Comment=Qt4 GUI for ps2pdf
+Icon=zima-ps2pdf
+TryExec=/usr/bin/ZIMA-PS2PDF
+Exec=ZIMA-PS2PDF
+Categories=Office;
+X-AppInstall-Package=zima-ps2pdf
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=zima-ps2pdf 1.1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zima-ps2pdf
+X-Arch-Package-Version=1.1.0-1
+X-Arch-Package-Description=Qt4 GUI for ps2pdf
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.zima-engineering.cz/projekty/ZIMA-PS2PDF/
+X-Arch-Package-Votes=1

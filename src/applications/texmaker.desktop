@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Texmaker
+GenericName=LaTeX Editor
+GenericName[fr]=Editeur LaTeX
+Comment=LaTeX development environment
+Comment[fr]=Environnement de développement LaTeX
+Icon=texmaker
+TryExec=/usr/bin/texmaker
+Exec=texmaker
+Categories=Office;Publishing;Qt;
+MimeType=text/x-tex;
+X-AppInstall-Package=texmaker
+X-AppInstall-Section=community
+X-Arch-Package=texmaker 4.4.1-1
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=texmaker
+X-Arch-Package-Version=4.4.1-1
+X-Arch-Package-Description=Free cross-platform LaTeX editor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.xm1math.net/texmaker/index.html

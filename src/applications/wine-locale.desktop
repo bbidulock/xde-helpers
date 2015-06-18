@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=WINE Locale Manager
+Icon=wine-locale
+TryExec=/usr/bin/winelocale
+Exec=winelocale
+Categories=Settings;
+X-AppInstall-Package=wine-locale
+X-AppInstall-Section=aur
+X-Arch-Package=wine-locale 27-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wine-locale
+X-Arch-Package-Version=27-1
+X-Arch-Package-Description=Locale manager for Wine
+X-Arch-Package-URL=http://code.google.com/p/winelocale/

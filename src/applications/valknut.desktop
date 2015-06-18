@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Valknut
+GenericName=valknut
+Comment=Connect to Directo Connect network
+Icon=valknut.xpm
+TryExec=/usr/bin/valknut
+Exec=valknut
+Categories=Application;Network;
+StartupNotify=false
+X-AppInstall-Package=valknut
+X-AppInstall-Popcon=24
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=valknut
+X-Arch-Package-Version=0.4.9-2
+X-Arch-Package-Description=A direct connect client for Linux (like dc++), with segmented
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/wxdcgui/
+X-Arch-Package-Votes=24

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=KQ Lives
+GenericName=KQ Lives
+Comment=KQ is a console-style role playing game. Originally developed by JoshBolduc, abandoned, and then rescued by the Allegro community.
+Icon=/usr/share/pixmaps/kqlogo.png
+TryExec=/usr/bin/kq
+Exec=/usr/bin/kq
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=kq
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=kq 20091214-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kq
+X-Arch-Package-Version=20091214-2
+X-Arch-Package-Description=A console-style role playing game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kqlives.sourceforge.net/
+X-Arch-Package-Votes=5

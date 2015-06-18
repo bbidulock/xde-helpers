@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Aeolus
+Comment=Organ Emulator
+Icon=audio-x-generic
+TryExec=/usr/bin/aeolus
+Exec=/usr/bin/aeolus
+Categories=AudioVideo;Audio;
+StartupNotify=false
+X-AppInstall-Package=aeolus
+X-AppInstall-Popcon=39
+X-AppInstall-Section=community
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=aeolus
+X-Arch-Package-Version=0.9.0-1
+X-Arch-Package-Description=Synthesised pipe organ emulator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kokkinizita.linuxaudio.org/linuxaudio/aeolus/

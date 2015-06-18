@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=Quantum GIS
+GenericName=Geographical Information System
+GenericName[de]=Geographisches Informationssystem
+Comment="Geographic Information System (GIS) that supports vector, raster & database formats"
+Icon=qgis-icon
+TryExec=/usr/bin/qgis
+Exec=/usr/bin/qgis %F
+MultipleArgs=false
+NoDisplay=true
+Hidden=true
+Categories=Education;Science;Geography;Qt;
+MimeType=application/x-qgis-project;image/tiff;image/jpeg;image/jp2;application/x-raster-aig;application/x-raster-ecw;application/x-raster-mrsid;application/x-mapinfo-mif;application/x-esri-shape;
+X-AppInstall-Package=qgis-git
+X-AppInstall-Popcon=25
+X-AppInstall-Section=aur
+X-Arch-Package=qgis-git 2.9.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qgis-git
+X-Arch-Package-Version=2.9.0-1
+X-Arch-Package-Description=Quantum GIS is a Geographic Information System (GIS) that supports vector, raster & database formats
+X-Arch-Package-URL=http://qgis.org/
+X-AppInstall-Votes=25
+Aliases=qgis;

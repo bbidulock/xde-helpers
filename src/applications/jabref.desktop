@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=JabRef
+GenericName=BibTeX Editor
+Comment=Graphical editor for BibTex bibliographies
+Comment[de]=Grafischer Editor für BibTex-Bibliographien
+Icon=jabref
+TryExec=/usr/bin/jabref
+Exec=jabref %f
+Categories=Office;Database;
+MimeType=text/x-bibtex;
+X-AppInstall-Package=jabref
+X-AppInstall-Popcon=102
+X-AppInstall-Section=aur
+X-Arch-Package=jabref 2.10-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jabref
+X-Arch-Package-Version=2.10-2
+X-Arch-Package-Description=GUI frontend for BibTeX, written in Java
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://jabref.sourceforge.net/
+X-Arch-Package-Votes=102

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Java 6 Policy Settings
+Icon=sun-java-jre6
+TryExec=/usr/lib/jvm/java-6-jre/jre/bin/policytool
+Exec=/usr/lib/jvm/java-6-jre/jre/bin/policytool
+Categories=Settings;Java;
+StartupNotify=true
+X-AppInstall-Package=jre6
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=jre6 6u45-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jre6
+X-Arch-Package-Version=u-2
+X-Arch-Package-Description=Oracle Java Runtime Environment (public release - end of
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://www.java.com/en/download/faq/java_6.xml
+X-Arch-Package-Votes=6

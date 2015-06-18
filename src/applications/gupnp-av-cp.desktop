@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=UPnP AV Control Point
+Icon=_usr_share_gupnp-tools_pixmaps_av-cp
+TryExec=/usr/bin/gupnp-av-cp
+Exec=gupnp-av-cp
+Categories=Development;GTK;
+StartupNotify=true
+X-AppInstall-Package=gupnp-tools
+X-AppInstall-Popcon=17
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gupnp-tools
+X-Arch-Package-Version=0.8.9-2
+X-Arch-Package-Description=GUPnP Tools are free replacements of Intel UPnP tools that use
+X-Arch-Package-Groups=gupnp
+X-Arch-Package-URL=http://www.gupnp.org/
+X-Arch-Package-Votes=17

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Archi
+Comment=Archi is a free, open source, cross-platform tool and editor to create ArchiMate models.
+Icon=archi
+TryExec=/opt/archi/archiNAME
+Exec=/opt/archi/archiNAME
+Categories=Graphics;GTK;
+StartupNotify=false
+X-AppInstall-Package=archi
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=archi 3.2.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=archi
+X-Arch-Package-Version=3.2.1-2
+X-Arch-Package-Description=Free, open source, cross-platform tool and editor to create
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.archimatetool.com/
+X-Arch-Package-Votes=2

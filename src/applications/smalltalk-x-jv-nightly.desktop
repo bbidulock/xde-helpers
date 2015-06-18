@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Smalltalk/X JV
+TryExec=/opt/stx-jv/bin/stx
+Exec=/opt/stx-jv/bin/stx --libsvn-load-from-svn --libsvn-load-branch branches/v2
+NoDisplay=true
+Categories=Development;IDE;
+StartupNotify=true
+X-AppInstall-Package=smalltalk-x-jv-nightly
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=smalltalk-x-jv-nightly 6.2.3b-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=smalltalk-x-jv-nightly
+X-Arch-Package-Version=6.2.3b-2
+X-Arch-Package-Description=Smalltalk/X JV branch nightly builds
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://swing.fit.cvut.cz//projects/stx-goodies/wiki/SmalltalkX
+X-Arch-Package-Votes=1
+Aliases=smalltalk-x-jv;

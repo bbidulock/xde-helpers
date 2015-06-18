@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Defendguin
+Comment=Save the Penguins
+Icon=defendguin-icon
+TryExec=/usr/bin/defendguin
+Exec=defendguin
+Categories=Application;Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=defendguin
+X-AppInstall-Popcon=30
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=defendguin
+X-Arch-Package-Version=0.0.12-2
+X-Arch-Package-Description=The arcade oldschool fly and shot game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.newbreedsoftware.com/defendguin
+X-Arch-Package-Votes=0

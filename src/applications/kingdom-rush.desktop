@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Kingdom Rush
+Comment=A tower defense game
+Icon=kingdom-rush
+TryExec=/usr/bin/kingdom-rush
+Exec=kingdom-rush
+Categories=Application;Game;
+StartupNotify=false
+X-AppInstall-Package=kingdom-rush-hib
+X-AppInstall-Section=aur
+X-Arch-Package=kingdom-rush-hib 1396975560-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kingdom-rush-hib
+X-Arch-Package-Version=1396975560-1
+X-Arch-Package-Description=An epic fantasy action defense game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.kingdomrush.com/home.html
+X-Arch-Package-Votes=0

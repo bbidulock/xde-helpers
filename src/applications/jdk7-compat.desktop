@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Java Monitoring and Management Console
+Icon=sun-java
+TryExec=/usr/bin/jconsole
+Exec=jconsole
+NoDisplay=true
+Categories=Development;Java;
+StartupNotify=true
+X-AppInstall-Package=jdk7-compat
+X-AppInstall-Section=aur
+X-Arch-Package=jdk7-compat 7.67-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jdk7-compat
+X-Arch-Package-Version=7.67-1
+X-Arch-Package-Description=The Java Development Kit, designed to be installed in parallel with another java installation.
+X-Arch-Package-URL=http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
+Aliases=java-monitoring-and-management-console;

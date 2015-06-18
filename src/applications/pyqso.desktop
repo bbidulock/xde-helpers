@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=PyQso
+Comment=Sign QSO data logger
+Comment[en_US]=QSO data logger
+Icon=pyqso
+TryExec=/usr/bin/pyqso
+Exec=/usr/bin/pyqso
+X-DCOP-ServiceType=none
+Categories=Application;HamRadio;
+MimeType=text/plain;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=pyqso
+X-AppInstall-Section=aur
+X-Arch-Package=pyqso 0.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pyqso
+X-Arch-Package-Version=0.2-1
+X-Arch-Package-Description=Ham Radio QSO logging tool.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://christianjacobs.uk/pyqso/
+X-Arch-Package-Votes=0

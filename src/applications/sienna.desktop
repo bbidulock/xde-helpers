@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Sienna
+Comment=Simple, fast-paced one-button platformer
+Icon=sienna
+TryExec=/usr/bin/sienna
+Exec=sienna
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=sienna-git
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=sienna-git 1.0b.r0.g57bee5c-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sienna-git
+X-Arch-Package-Version=1.0b.r0.g57bee5c-1
+X-Arch-Package-Description=Simple, fast-paced one-button platformer (development version)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://tangramgames.dk/games/sienna/
+X-Arch-Package-Votes=2

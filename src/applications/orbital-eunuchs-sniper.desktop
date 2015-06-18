@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Orbital Eunuchs Sniper
+GenericName=Overhead shooting game
+GenericName[fr]=Jeu de tir en vue de dessus
+Comment=You (the Eunuch on the orbital laser platform) are tasked with protecting the VIPs (blue) from the terrorists (red)!
+Comment[fr]=Vous (l'Eunuque sur le laser orbital) avez pour tâche de protéger les VIPs (en bleu) des terroristes (en rouge) !
+Icon=orbital-eunuchs-sniper
+TryExec=/usr/bin/snipe2d
+Exec=snipe2d
+Categories=Game;ArcadeGame;
+StartupNotify=true
+X-AppInstall-Package=orbital-eunuchs-sniper
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=orbital-eunuchs-sniper 1.30-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=orbital-eunuchs-sniper
+X-Arch-Package-Version=1.30-1
+X-Arch-Package-Description=An overhead shooting game.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://icculus.org/oes/
+X-Arch-Package-Votes=3

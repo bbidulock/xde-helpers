@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=TV-Browser
+GenericName=Digital TV Guide
+GenericName[de]=Digitale TV-Zeitschrift
+Comment=Themeable and easy to use TV Guide
+Comment[de]=Anpassbare und einfach zu benutzende TV-Zeitschrift
+Icon=tvbrowser
+TryExec=/usr/bin/tvbrowser
+Exec=tvbrowser
+Categories=AudioVideo;TV;Java;
+StartupNotify=true
+StartupWMClass=tvbrowser-TVBrowser
+X-AppInstall-Package=tvbrowser
+X-AppInstall-Popcon=76
+X-AppInstall-Section=aur
+X-Arch-Package=tvbrowser 3.4.1.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tvbrowser
+X-Arch-Package-Version=3.4.1.0-3
+X-Arch-Package-Description=Java-based TV guide which is easily extensible using plugins
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.tvbrowser.org
+X-Arch-Package-Votes=76

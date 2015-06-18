@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Mnemosyne
+Comment=A flash card program to make your review process more efficient
+Icon=mnemosyne
+TryExec=/usr/bin/mnemosyne
+Exec=mnemosyne %f
+Categories=Education;
+StartupNotify=false
+X-AppInstall-Package=mnemosyne
+X-AppInstall-Popcon=66
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mnemosyne
+X-Arch-Package-Version=2.3.3-1
+X-Arch-Package-Description=A flash-card tool with a sophisticated card review algorithm
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.mnemosyne-proj.org
+X-Arch-Package-Votes=66

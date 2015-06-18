@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=jCatGUI
+Icon=jcatgui
+TryExec=/usr/bin/java
+Exec=java -jar /usr/share/jcatgui/jCatGUI.jar
+Categories=Network;
+StartupNotify=false
+X-AppInstall-Package=jcatgui
+X-AppInstall-Section=aur
+X-Arch-Package=jcatgui 1.6.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jcatgui
+X-Arch-Package-Version=1.6.1-1
+X-Arch-Package-Description=An application written to solve jobs or rather to earn credits on captcha.trader in more comfortable way than in a browser.
+X-Arch-Package-URL=http://sites.google.com/site/${pkgname}/

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Fractal Miner
+GenericName=Interactive fractal renderer
+GenericName[fr]=Générateur de fractales interactif
+TryExec=/usr/bin/fractal-miner
+Exec=fractal-miner
+Categories=Education;Science;KDE;Qt;
+X-AppInstall-Package=fractal-miner
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=fractal-miner 0.3.4-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fractal-miner
+X-Arch-Package-Version=0.3.4-4
+X-Arch-Package-Description=An interactive multithreaded fractal renderer written in C++
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://xwmw.org/fractal-miner/
+X-Arch-Package-Votes=3

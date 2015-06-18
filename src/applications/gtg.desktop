@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Getting Things GNOME!
+Comment=Personal organizer for the GNOME desktop environment
+Comment[pl]=Osobisty organizer dla środowiska GNOME
+Icon=gtg
+TryExec=/usr/bin/gtg
+Exec=/usr/bin/gtg %F
+Categories=Office;GNOME;GTK;
+StartupNotify=true
+X-AppInstall-Package=gtg
+X-AppInstall-Popcon=161
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gtg
+X-Arch-Package-Version=0.3.1-1
+X-Arch-Package-Description=Getting Things GNOME! is a personal organizer for the GNOME
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gtgnome.net/
+X-Arch-Package-Votes=161

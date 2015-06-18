@@ -1,0 +1,22 @@
+[Desktop Entry]
+Version=2.1.30
+Type=Application
+Name=Last.fm Scrobbler
+Comment=Official Last.fm Scrobbler
+Icon=/usr/share/pixmaps/audioscrobbler.ico
+TryExec=/usr/bin/lastfm-scrobbler
+Exec=lastfm-scrobbler
+Terminal=false
+Categories=AudioVideo;Qt;
+StartupNotify=true
+X-AppInstall-Package=lastfm
+X-AppInstall-Popcon=18
+X-AppInstall-Section=aur
+X-Arch-Package=lastfm 2.1.30-8
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lastfm
+X-Arch-Package-Version=2.1.30-8
+X-Arch-Package-Description=The official Last.fm desktop application suite
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.last.fm/
+X-Arch-Package-Votes=18

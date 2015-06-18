@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Critterding
+GenericName=Evolving Artificial Life
+Comment=Petri dish universe in 3D that demonstrates evolving artificial life
+Icon=critterding
+TryExec=/usr/bin/critterding
+Exec=critterding
+Categories=Education;Science;
+StartupNotify=true
+X-AppInstall-Package=critterding
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=critterding
+X-Arch-Package-Version=beta14-1
+X-Arch-Package-Description=A Petri dish universe in 3D that demonstrates evolving
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://critterding.sourceforge.net/
+X-Arch-Package-Votes=2

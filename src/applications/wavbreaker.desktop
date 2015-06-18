@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=Wavbreaker File Splitter
+Name[de]=Wavbreaker Datei-Splitter
+GenericName=Audio File Splitter
+GenericName[de]=Audio-Datei Splitter
+Comment=Split wave files into multiple chunks
+Comment[de]=Teilen Sie Wave-Dateien in mehrere Teile
+Icon=wavbreaker
+TryExec=/usr/bin/wavbreaker
+Exec=wavbreaker
+Categories=Application;AudioVideo;Audio;
+MimeType=audio/x-wav;
+StartupNotify=false
+X-AppInstall-Package=wavbreaker
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wavbreaker
+X-Arch-Package-Version=0.11-1
+X-Arch-Package-Description=A GTK wave file splitter
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://wavbreaker.sourceforge.net/
+X-Arch-Package-Votes=8

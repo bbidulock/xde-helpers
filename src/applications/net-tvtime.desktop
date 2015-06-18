@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=TVtime Television Viewer
+GenericName=Television Viewer
+Comment=High quality video deinterlacer
+Icon=tvtime.png
+TryExec=/usr/bin/tvtime
+Exec=tvtime
+Categories=Application;AudioVideo;
+StartupNotify=false
+X-AppInstall-Package=tvtime
+X-AppInstall-Popcon=308
+X-AppInstall-Section=community
+X-AppInstall-Architectures=amd64,i386
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=tvtime
+X-Arch-Package-Version=1.0.2-5
+X-Arch-Package-Description=A high quality television application for use with video capture cards
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://tvtime.sourceforge.net/

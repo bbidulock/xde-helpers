@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=OmegaT
+GenericName=OmegaT
+Comment=Free translation memory application.
+Comment[cs]=Svobodná aplikace překladové paměti.
+Icon=omegat
+TryExec=/usr/bin/omegat
+Exec=omegat
+Categories=Development;Office;Translation;Java;
+X-AppInstall-Package=omegat
+X-AppInstall-Popcon=22
+X-AppInstall-Section=aur
+X-Arch-Package=omegat 3.1.9_02-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=omegat
+X-Arch-Package-Version=3.1.9_02-1
+X-Arch-Package-Description=Multiplatform CAT tool application, written in Java
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.omegat.org/en/omegat.html
+X-Arch-Package-Votes=22

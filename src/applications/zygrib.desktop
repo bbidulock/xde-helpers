@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=zyGrib
+GenericName=Multi-protocol Messaging Client
+Comment=GRIB File Viewer
+Comment[fr]=Visualisation de données météo au format GRIB
+Icon=zygrib.png
+TryExec=/usr/bin/zygrib
+Exec=zygrib
+Categories=Utility;Meteo;zyGrib;Meteorology;
+X-AppInstall-Package=zygrib
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package=zygrib 7.0.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zygrib
+X-Arch-Package-Version=7.0.0-3
+X-Arch-Package-Description=Weather data visualization, GRIB file viewer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.zygrib.org/
+X-Arch-Package-Votes=11

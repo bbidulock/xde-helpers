@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=The Binding of Isaac
+Comment=A randomly generated action RPG shooter with heavy Rogue-like elements.
+Icon=isaac
+TryExec=/usr/bin/isaac
+Exec=/usr/bin/isaac
+Categories=Game;ActionGame;AdventureGame;
+X-AppInstall-Package=the-binding-of-isaac
+X-AppInstall-Popcon=15
+X-AppInstall-Section=aur
+X-Arch-Package=the-binding-of-isaac 20111101-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=the-binding-of-isaac
+X-Arch-Package-Version=20111101-4
+X-Arch-Package-Description=A randomly generated action RPG shooter with heavy Rogue-like
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.bindingofisaac.com
+X-Arch-Package-Votes=15

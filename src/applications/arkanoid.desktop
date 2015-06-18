@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Arkanoid
+GenericName=Breakout game
+GenericName[fr]=Casse brique
+Comment=Breakout style arcade game.
+Comment[fr]=Jeu de casse brique.
+Icon=arkanoid
+TryExec=/usr/bin/arkanoid
+Exec=arkanoid
+Categories=Application;Game;ArcadeGame;
+X-AppInstall-Package=arkanoid
+X-AppInstall-Section=aur
+X-Arch-Package=arkanoid 1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=arkanoid
+X-Arch-Package-Version=1.0-1
+X-Arch-Package-Description=Breakout game (uses DOSBox)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://en.wikipedia.org/wiki/Arkanoid
+X-Arch-Package-Votes=0

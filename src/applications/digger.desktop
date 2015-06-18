@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=digger
+Comment=the digger game, cloned and remastered with additional features
+Icon=/usr/share/icons/digger.xpm
+TryExec=/usr/bin/digger
+Exec=digger
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=digger
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=digger 20020314-6
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=digger
+X-Arch-Package-Version=20020314-6
+X-Arch-Package-Description=the digger game, cloned and remastered with additional
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.digger.org
+X-Arch-Package-Votes=9

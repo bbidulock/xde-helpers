@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=PyPE
+GenericName=Python Programmers Editor
+Comment=A lightweight but powerful Python Programmers Editor
+Icon=pype
+TryExec=/usr/bin/pype
+Exec=pype
+Categories=Development;TextEditor;GNOME;GTK;
+MimeType=application/x-python;
+StartupNotify=true
+X-AppInstall-Package=pype
+X-AppInstall-Popcon=14
+X-AppInstall-Section=aur
+X-Arch-Package=pype 2.9.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pype
+X-Arch-Package-Version=2.9.4-1
+X-Arch-Package-Description=A lightweight but powerful Python Programmers Editor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pype.sourceforge.net/index.shtml
+X-Arch-Package-Votes=14

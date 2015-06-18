@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Eye of GNOME
+Comment=View many different types of images
+Icon=/usr/share/pixmaps/gnome-eog.xpm
+TryExec=/usr/bin/eog
+Exec=eog
+Categories=Graphics;Viewer;
+StartupNotify=false
+X-AppInstall-Package=eog
+X-AppInstall-Section=extra
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=eog
+X-Arch-Package-Version=3.16.2-1
+X-Arch-Package-Description=Eye of Gnome: An image viewing and cataloging program
+X-Arch-Package-Groups=gnome
+X-Arch-Package-URL=https://wiki.gnome.org/Apps/EyeOfGnome

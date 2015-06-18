@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=GL-117 Flight Simulator
+GenericName=Game
+Comment=Play a flight simulator
+Icon=gl-117
+TryExec=/usr/bin/gl-117
+Exec=gl-117
+Categories=Game;3DGraphics;ActionGame;Simulation;
+StartupNotify=false
+X-AppInstall-Package=gl-117
+X-AppInstall-Popcon=48
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=gl-117
+X-Arch-Package-Version=1.3.2-7
+X-Arch-Package-Description=An action flight simulator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.heptargon.de/gl-117/gl-117.html

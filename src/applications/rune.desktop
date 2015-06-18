@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Rune
+Comment=Hack and slay game based on Norse mythology
+Icon=/opt/rune/icon.xpm
+TryExec=/opt/rune/rune
+Exec=/opt/rune/rune
+Categories=Game;
+X-AppInstall-Package=rune
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=rune 1.07-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rune
+X-Arch-Package-Version=1.07-1
+X-Arch-Package-Description=Hack and slay game based on Norse mythology
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.lokigames.com/products/rune/
+X-Arch-Package-Votes=2

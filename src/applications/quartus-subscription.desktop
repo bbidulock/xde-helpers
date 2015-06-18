@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Quartus II
+Comment=Quartus II design software for Altera FPGA's
+Icon=_alteradir/quartus/adm/quartusii.png
+TryExec=_alteradir/quartus/bin/quartus
+Exec=_alteradir/quartus/bin/quartus
+NoDisplay=true
+Categories=Development;
+X-AppInstall-Package=quartus-subscription
+X-AppInstall-Section=aur
+X-Arch-Package=quartus-subscription 13.1.4.182-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=quartus-subscription
+X-Arch-Package-Version=13.1.4.182-1
+X-Arch-Package-Description=Quartus II Subscription Edition design software for Altera
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.altera.com
+X-Arch-Package-Votes=0
+Aliases=quartus;

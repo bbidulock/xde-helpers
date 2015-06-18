@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=RBDoom3BFG
+Comment=A Doom 3: BFG port
+Icon=doom3bfg
+TryExec=/usr/bin/rbdoom3bfg
+Exec=rbdoom3bfg
+Categories=Game;ActionGame;
+X-AppInstall-Package=rbdoom3bfg-git
+X-AppInstall-Section=aur
+X-Arch-Package=rbdoom3bfg-git 20130805-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rbdoom3bfg-git
+X-Arch-Package-Version=20130805-1
+X-Arch-Package-Description=Doom 3: BFG engine with native 64-bit support, SDL, and OpenAL
+X-Arch-Package-URL=https://github.com/RobertBeckebans/RBDOOM-3-BFG

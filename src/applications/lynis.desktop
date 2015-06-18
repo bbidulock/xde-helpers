@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Lynis auditing tool
+Name[es]=Herramienta de auditoría Lynis
+Comment=Security auditing tool (root)
+Comment[es]=Herramienta de auditoría de seguridad (root)
+TryExec=/usr/bin/su-to-root
+Exec=su-to-root -c '/usr/sbin/lynis --no-colors'
+Terminal=true
+Categories=System;
+StartupNotify=true
+X-AppInstall-Package=lynis
+X-AppInstall-Popcon=30
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=lynis
+X-Arch-Package-Version=2.1.0-2
+X-Arch-Package-Description=Security and system auditing tool to harden Unix/Linux systems
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://cisofy.com/lynis/

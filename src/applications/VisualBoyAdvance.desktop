@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=VisualBoy Advance
+Comment=Game Boy Advance emulator
+Icon=VisualBoyAdvance-gtk-32x32
+TryExec=/usr/bin/gvba
+Exec=gvba
+Categories=Game;ArcadeGame;GTK;
+StartupNotify=true
+X-AppInstall-Package=visualboyadvance
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=visualboyadvance
+X-Arch-Package-Version=1.8.0.dfsg-1
+X-Arch-Package-Description=Emulator for VBA
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/vba/
+X-Arch-Package-Votes=4

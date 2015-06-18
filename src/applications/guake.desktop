@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Guake Terminal
+Comment=Use the command line in a Quake-like terminal
+Comment[pt]=Utilizar a linha de comando em um terminal estilo Quake
+Comment[pt_BR]=Utilizar a linha de comando em um terminal estilo Quake
+Icon=_usr_share_pixmaps_guake_guake
+TryExec=/usr/bin/guake
+Exec=guake
+Categories=Utility;TerminalEmulator;GNOME;GTK;
+StartupNotify=true
+X-GNOME-Autostart-enabled=false
+X-AppInstall-Package=guake
+X-AppInstall-Popcon=269
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=guake
+X-Arch-Package-Version=0.7.0-1
+X-Arch-Package-Description=Drop-down terminal for GNOME
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/Guake/guake/

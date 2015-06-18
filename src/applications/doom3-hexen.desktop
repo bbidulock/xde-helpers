@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Doom 3: Hexen
+GenericName=Doom 3: Hexen
+Comment=Hexen: Edge Of Chaos mod for Doom 3
+Icon=/usr/share/pixmaps/doom3-hexen.ico
+TryExec=/usr/bin/doom3-hexen
+Exec=/usr/bin/doom3-hexen
+Categories=Application;Game;
+StartupNotify=false
+X-AppInstall-Package=doom3-hexen
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=doom3-hexen 0.99-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=doom3-hexen
+X-Arch-Package-Version=0.99-2
+X-Arch-Package-Description=heXen:Edge of Chaos based on the original Hexen game that was
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://hexenmod.net/
+X-Arch-Package-Votes=1

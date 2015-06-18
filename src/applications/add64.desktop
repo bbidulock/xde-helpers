@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Add64
+GenericName=Additive Synthesizer
+Comment=An additive synthesizer
+Icon=add64
+TryExec=/usr/bin/add64
+Exec=add64
+Categories=Application;AudioVideo;Audio;Qt;X-Jack;X-Sound;
+X-AppInstall-Package=add64
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=add64 1.2.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=add64
+X-Arch-Package-Version=1.2.3-1
+X-Arch-Package-Description=An additive synthesizer with Jack support
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://add64.sourceforge.net/
+X-Arch-Package-Votes=3

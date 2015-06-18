@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=DC++
+GenericName=Direct Connect Client
+GenericName[fr]=Client Direct Connect
+Comment=Linux port of the famous client DC++ for the P2P network Direct Connect
+Comment[fr]=Portage linux du fameux client DC++ pour le reseau P2P Direct Connect
+Icon=DC++.xpm
+TryExec=/usr/bin/linuxdcpp
+Exec=linuxdcpp
+Categories=Network;P2P;
+StartupNotify=false
+X-AppInstall-Package=linuxdcpp
+X-AppInstall-Popcon=193
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=linuxdcpp
+X-Arch-Package-Version=1.1.0-4
+X-Arch-Package-Description=A Gtk+ Direct Connect client based on DC++.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://launchpad.net/linuxdcpp/

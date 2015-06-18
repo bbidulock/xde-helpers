@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=NeoTextureEdit
+Comment=easy to use graph-based procedural seamless texture editor
+Icon=neotextureedit.png
+TryExec=/usr/bin/neotextureedit
+Exec=neotextureedit
+Categories=Graphics;Raster;
+MimeType=application/x-neotextureedit;
+Path=/usr/bin
+StartupNotify=True
+X-AppInstall-Package=neotextureedit
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=neotextureedit 0.6.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=neotextureedit
+X-Arch-Package-Version=0.6.4-1
+X-Arch-Package-Description=easy to use graph-based procedural seamless texture editor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://neotextureedit.sourceforge.net/index.html
+X-Arch-Package-Votes=1

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Golly
+GenericName=Game of Life Simulator
+Comment=A Conway's Game of Life simulator
+Comment[it]=Un simulatore del "gioco della vita" di Conway
+Comment[ja]=コンウェイのライフゲーム
+Icon=golly.xpm
+TryExec=/usr/bin/golly
+Exec=golly
+Categories=Game;LogicGame;
+StartupNotify=false
+X-AppInstall-Package=golly
+X-AppInstall-Popcon=76
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=golly
+X-Arch-Package-Version=2.6-2
+X-Arch-Package-Description=A simulator for Conway's Game of Life and other cellular
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://golly.sourceforge.net/
+X-Arch-Package-Votes=76

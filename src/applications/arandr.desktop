@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=ARandR
+GenericName=Screen Settings
+GenericName[de]=Bildschirmeinstellungen
+Icon=display
+TryExec=/usr/bin/arandr
+Exec=arandr
+Categories=Settings;HardwareSettings;
+StartupNotify=true
+X-AppInstall-Package=arandr
+X-AppInstall-Popcon=98
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=arandr
+X-Arch-Package-Version=0.1.7.1-3
+X-Arch-Package-Description=Provide a simple visual front end for XRandR 1.2.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://christian.amsuess.com/tools/arandr/

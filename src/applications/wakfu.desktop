@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Wakfu
+GenericName=Wakfu
+Comment=An MMORPG
+Icon=wakfu
+TryExec=/usr/bin/wakfu
+Exec=/usr/bin/wakfu
+Categories=Game;RolePlaying;
+X-AppInstall-Package=wakfu-transition
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=wakfu-transition 1.38-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wakfu-transition
+X-Arch-Package-Version=1.38-2
+X-Arch-Package-Description=A turn-based tactical Massively Multiplayer Online
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.wakfu.com/
+X-Arch-Package-Votes=1

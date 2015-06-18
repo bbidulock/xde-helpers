@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Craft: The vicious Vikings
+Name[de]=Craft - The vicious Vikings
+Name[es]=Juego - los vikingos viciosos
+Name[fr]=Craft - Les méchants Vikings
+Name[hu]=Játék - a gonosz vikingekkel
+Comment=A strategy game similar to Warcraft and Dune II
+Icon=craft
+TryExec=/usr/bin/craft
+Exec=craft
+Categories=Game;StrategyGame;
+DocPath=/usr/share/doc/packages/craft/html/craft.html
+X-AppInstall-Package=craft
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=craft 3.5-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=craft
+X-Arch-Package-Version=3.5-2
+X-Arch-Package-Description=A strategy game similar to Warcraft and Dune II
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://libregamewiki.org/CRAFT:_The_Vicious_Vikings
+X-Arch-Package-Votes=1

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=MiniDLNA
+Comment=Server to stream media over network
+TryExec=/usr/bin/minidlnad
+Exec=/usr/bin/minidlnad start
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
+X-AppInstall-Package=minidlnad
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=minidlnad 1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=minidlnad
+X-Arch-Package-Version=1.0-1
+X-Arch-Package-Description=Shortcut script to run a MiniDLNA daemon as a regular user,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/minidlna/
+X-Arch-Package-Votes=7

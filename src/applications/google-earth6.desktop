@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Google Earth Legacy
+GenericName=Legacy 3D planet viewer
+Comment=Explore, search and discover the planet
+Icon=google-earth6
+TryExec=/opt/google/earth/legacy/google-earth
+Exec=/opt/google/earth/legacy/google-earth %f
+MultipleArgs=false
+Categories=Application;Network;
+MimeType=application/vnd.google-earth.kml+xml;application/vnd.google-earth.kmz;application/earthviewer;application/keyhole;
+X-AppInstall-Package=google-earth6
+X-AppInstall-Popcon=46
+X-AppInstall-Section=aur
+X-Arch-Package=google-earth6 6.2.2.6613-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=google-earth6
+X-Arch-Package-Version=6.2.2.6613-2
+X-Arch-Package-Description=A legacy 3D interface to view satellite images of Earth and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.google.com/earth
+X-Arch-Package-Votes=46

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=tsMuxerGUI
+Comment=Transport Stream muxer. New Generation (3D capable) GUI
+Icon=tsMuxerGUI
+TryExec=/usr/bin/tsMuxerGUI
+Exec=tsMuxerGUI
+Categories=AudioVideo;Audio;AudioVideoEditing;Qt;
+StartupNotify=false
+X-AppInstall-Package=tsmuxer-ng
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=tsmuxer-ng 2.6.11-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tsmuxer-ng
+X-Arch-Package-Version=2.6.11-1
+X-Arch-Package-Description=Transport Stream muxer. New Generation (3D capable)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=None
+X-Arch-Package-Votes=4

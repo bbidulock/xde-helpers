@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=heybuddy
+Comment=Statusnet µblogging client
+Icon=heybuddy.png
+TryExec=/usr/bin/heybuddy
+Exec=heybuddy
+Categories=Application;Network;
+X-AppInstall-Package=heybuddy
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=heybuddy 0.2.5-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=heybuddy
+X-Arch-Package-Version=0.2.5-2
+X-Arch-Package-Description=A light/feature free client for the identi.ca microblogging
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://launchpad.net/heybuddy/
+X-Arch-Package-Votes=13
+Caption=A light/feature free client for the identi.ca microblogging site.

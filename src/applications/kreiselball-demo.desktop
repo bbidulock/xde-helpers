@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.0.1
+Type=Application
+Name=KreiselBall Demo
+GenericName=Control a ball by turning the world
+Comment=KreiselBall, a game where you control a ball by turning the world around it, either trying to get to the finish line or clear all the colored circles from the level by changing the ball into that color and then hitting the circles, has entered the Linux gaming world. This game features 30 levels with physics and internet high score..
+Icon=kreiselball-demo
+TryExec=/usr/bin/kreiselball-demo
+Exec=kreiselball-demo
+Categories=Game;
+X-AppInstall-Package=kreiselball-demo
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=kreiselball-demo 1.0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kreiselball-demo
+X-Arch-Package-Version=1.0.1-1
+X-Arch-Package-Description=Control a ball by turning the world in a classic game play
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kreiselball.com/
+X-Arch-Package-Votes=1

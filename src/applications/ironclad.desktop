@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Ironclad Tactics
+Comment=a fast-paced, card-based tactics game set in an alternate history Civil War – with steam-powered military robots!
+Icon=ironclad
+TryExec=/usr/bin/ironcladtactics
+Exec=ironcladtactics
+Categories=Game;CardGame;StrategyGame;
+X-AppInstall-Package=ironclad-tactics-hib
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=ironclad-tactics-hib 1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ironclad-tactics-hib
+X-Arch-Package-Version=1-1
+X-Arch-Package-Description=a fast-paced, card-based tactics game set in an alternate
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.zachtronics.com/ironclad-tactics/
+X-Arch-Package-Votes=1

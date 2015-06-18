@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Citrix Receiver
+Icon=/usr/lib/ICAClient/icons/manager.png
+TryExec=/usr/bin/wfcmgr
+Exec=/usr/bin/wfcmgr -icaroot /usr/lib/ICAClient
+NoDisplay=true
+Categories=Network;X-Red-Hat-Base;X-SuSE-Core-Internet;
+X-AppInstall-Package=citrixclient
+X-AppInstall-Section=aur
+X-Arch-Package=citrixclient 13.1-0
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=citrixclient
+X-Arch-Package-Version=13.1-0
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.citrix.com
+X-Arch-Package-Votes=0
+Aliases=wfcmgr;

@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Remotedesktop Client
+Comment=Connect to a remote Windows Terminal-Server
+Comment[de]=Verbindet zu einem entfernten Windows Terminal-Server
+Icon=grdesktop.png
+TryExec=/usr/bin/grdesktop
+Exec=grdesktop
+Categories=Network;X-Red-Hat-Base;
+StartupNotify=false
+X-AppInstall-Package=grdesktop
+X-AppInstall-Popcon=79
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=grdesktop
+X-Arch-Package-Version=0.23-8
+X-Arch-Package-Description=An rdesktop client for the GNOME desktop
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.nongnu.org/grdesktop/
+X-Arch-Package-Votes=79
+
+[Desktop Action Full]
+TryExec=/usr/bin/grdesktop
+Exec=grdesktop

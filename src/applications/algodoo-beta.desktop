@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Algodoo
+Icon=/opt/Algodoo/data/logos/icon.bmp
+TryExec=/usr/bin/algodoo
+Exec=/usr/bin/algodoo
+NoDisplay=true
+Categories=Application;Education;Science;2DGraphics;Construction;Physics;Games;
+Path=/opt/Algodoo
+X-AppInstall-Package=algodoo-beta
+X-AppInstall-Section=aur
+X-Arch-Package=algodoo-beta 1.7.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=algodoo-beta
+X-Arch-Package-Version=1.7.6-1
+X-Arch-Package-Description=a physics simulator program for education and fun (based on phun)
+X-Arch-Package-URL=http://www.algodoo.com/
+Aliases=algodoo;

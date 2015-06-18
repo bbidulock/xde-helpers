@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Talend Open Studio for Data Integration
+Comment=Data Integration software
+Icon=/opt/TOS_DI-r111943-V5.4.1/icon.gif
+TryExec=/usr/bin/talend-open-studio-di
+Exec=talend-open-studio-di
+Categories=Office;
+X-AppInstall-Package=talend-open-studio-di
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=talend-open-studio-di 5.4.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=talend-open-studio-di
+X-Arch-Package-Version=5.4.1-1
+X-Arch-Package-Description=Talend Open Studio for Data Integration
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.talend.com
+X-Arch-Package-Votes=2

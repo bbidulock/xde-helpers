@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Twinkle
+GenericName=A SIP softphone
+Comment=A SIP softphone
+Icon=_usr_share_twinkle_twinkle48
+TryExec=/usr/bin/twinkle
+Exec=twinkle
+Categories=Network;Telephony;KDE;Qt;
+StartupNotify=true
+X-AppInstall-Package=twinkle
+X-AppInstall-Popcon=15
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=twinkle
+X-Arch-Package-Version=1.4.2-19
+X-Arch-Package-Description=Softphone for voice over IP and IM communication using SIP
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.twinklephone.com/
+X-Arch-Package-Votes=15

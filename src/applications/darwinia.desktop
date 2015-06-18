@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Darwinia
+Comment=Save Darwinians from the Viral Infection that threatens their existance
+Icon=darwinian
+TryExec=/usr/bin/darwinia
+Exec=/usr/bin/darwinia
+Categories=Game;
+X-AppInstall-Package=darwinia
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=darwinia 1.43-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=darwinia
+X-Arch-Package-Version=1.43-2
+X-Arch-Package-Description=Save Darwinians from the Viral Infection that threatens their
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.introversion.co.uk/darwinia/
+X-Arch-Package-Votes=8

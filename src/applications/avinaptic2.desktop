@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Avinaptic
+GenericName=Video files analyzer
+Comment=View codec statistics and other information about multimedia files
+Icon=avinaptic2
+TryExec=/usr/bin/avinaptic2
+Exec=avinaptic2 %U
+Categories=AudioVideo;Video;GTK;
+MimeType=audio/ac3;audio/mp4;audio/mpeg;audio/x-matroska;audio/x-mp2;audio/x-mp3;audio/x-wav;audio/aac;video/avi;video/mp4;video/flv;video/mpeg;video/quicktime;video/x-matroska;video/webm;
+X-AppInstall-Package=avinaptic2
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=avinaptic2 20111218-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=avinaptic2
+X-Arch-Package-Version=20111218-2
+X-Arch-Package-Description=New version of a powerful video files analyzer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://fsinapsi.altervista.org/
+X-Arch-Package-Votes=2

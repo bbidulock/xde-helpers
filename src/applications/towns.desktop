@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Towns
+Comment=A city building and management game mixed with an RPG.
+Icon=towns
+TryExec=/usr/bin/towns
+Exec=/usr/bin/towns
+Categories=Game;ActionGame;AdventureGame;
+X-AppInstall-Package=towns
+X-AppInstall-Section=aur
+X-Arch-Package=towns 0.42-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=towns
+X-Arch-Package-Version=0.42-1
+X-Arch-Package-Description=A city building and management game mixed with an RPG that draws inspiration from titles spanning Dungeon Keeper, Dwarf Fortress and Majesty.
+X-Arch-Package-URL=http://www.townsgame.com/

@@ -1,0 +1,27 @@
+[Desktop Entry]
+Type=Application
+Name=Gjots2 Jotter
+Name[cs]=Zápisník Gjots2
+Name[ru]=Блокнот Gjots2
+Comment=Store and organise your random notes
+Comment[cs]=Ukládá a organizuje náhodné poznámky
+Comment[fr]=Gère et organise vos notes
+Comment[it]=Memorizza ed organizza i tuoi vari appunti
+Comment[nb]=Organiser og ta vare på dine uordnede notater
+Comment[no]=Organiser og ta vare på dine uordnede notater
+Comment[ru]=Сохраняйте и организуйте Ваши заметки
+Icon=gjots.png
+TryExec=/usr/bin/gjots2
+Exec=gjots2
+Categories=Application;Utility;GNOME;
+StartupNotify=false
+X-AppInstall-Package=gjots2
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gjots2
+X-Arch-Package-Version=2.3.10-1
+X-Arch-Package-Description=A hierarchical text editor for X11/gtk-gnome
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://bhepple.freeshell.org/gjots/
+X-Arch-Package-Votes=7

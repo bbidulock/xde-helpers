@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=MyEclipse 2015
+Comment=A commercially available Java EE and Ajax IDE, built upon the Eclipse platform and integrates both proprietary and open source code into the development environment.
+Comment[zh_CN]=一个可商用的 Java EE 和 Ajax 企业级集成开发环境, 在 Eclipse 平台基础上构建并集成专有及开源的代码至开发环境中。
+Comment[zh_TW]=一個可商用的 Java EE 和 Ajax 企業級整合開發環境, 在 Eclipse 平臺基礎上構建並整合專有及開源的原始碼至開發環境中。
+Icon=/usr/share/pixmaps/MyEclipse_2015.png
+TryExec=/usr/bin/myeclipse
+Exec=myeclipse
+Categories=Development;IDE;Java;
+StartupNotify=true
+X-AppInstall-Package=myeclipse-pro
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=myeclipse-pro 13.0.0-1.1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=myeclipse-pro
+X-Arch-Package-Version=13.0.0-1.1
+X-Arch-Package-Description=A commercially available Java EE and Ajax IDE, built upon the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://www.genuitec.com/products/myeclipse/
+X-Arch-Package-Votes=1
+Blueprint=2063-Axa-9367

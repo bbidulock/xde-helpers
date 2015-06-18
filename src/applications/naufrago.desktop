@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Naufrago!
+Comment=Lee tus entradas RSS offline
+Icon=/usr/share/naufrago/media/Viking_Longship.svg
+TryExec=/usr/bin/naufrago_launcher.sh
+Exec=naufrago_launcher.sh
+Categories=Application;Network;
+StartupNotify=False
+X-AppInstall-Package=naufrago
+X-AppInstall-Popcon=14
+X-AppInstall-Section=aur
+X-Arch-Package=naufrago 0.4-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=naufrago
+X-Arch-Package-Version=0.4-3
+X-Arch-Package-Description=Naufrago! is a simple offline RSS reader (including images)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/naufrago/
+X-Arch-Package-Votes=14

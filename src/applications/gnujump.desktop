@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=GNUjump
+Comment=Jump up the tower to survive
+Icon=gnujump.png
+TryExec=/usr/bin/gnujump
+Exec=gnujump
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=gnujump
+X-AppInstall-Popcon=18
+X-AppInstall-Section=community
+X-Arch-Package=gnujump 1.0.8-2
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=gnujump
+X-Arch-Package-Version=1.0.8-4
+X-Arch-Package-Description=A clone of the simple yet addictive game Xjump
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gnujump.es.gnu.org

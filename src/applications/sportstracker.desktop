@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=SportsTracker
+Icon=sportstracker
+TryExec=/usr/bin/sportstracker
+Exec=sportstracker
+Categories=Office;
+X-AppInstall-Package=sportstracker
+X-AppInstall-Popcon=21
+X-AppInstall-Section=aur
+X-Arch-Package=sportstracker 5.7.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sportstracker
+X-Arch-Package-Version=5.7.0-1
+X-Arch-Package-Description=Application for people which want to record their sporting
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.saring.de/sportstracker/
+X-Arch-Package-Votes=21

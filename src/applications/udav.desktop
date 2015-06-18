@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Udav
+GenericName=Universal Data Arrays Visualization
+Comment=data visualization based on MathGL
+Icon=udav
+TryExec=/usr/bin/udav
+Exec=udav
+Categories=Education;Science;Math;
+StartupNotify=false
+X-AppInstall-Package=udav
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=udav
+X-Arch-Package-Version=0.7.1.2-1
+X-Arch-Package-Description=Cross-platform program for data arrays visualization based on
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://udav.sourceforge.net
+X-Arch-Package-Votes=4

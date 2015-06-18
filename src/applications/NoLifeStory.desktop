@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=NoLifeStory
+Comment=NoLifeStory client
+TryExec=/usr/bin/NoLifeClient
+Exec=NoLifeClient
+Categories=Game;
+Path=/opt/nolifestory-git
+X-AppInstall-Package=nolifestory-git
+X-AppInstall-Section=aur
+X-Arch-Package=nolifestory-git fc1f24708a5ec33a83bd5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nolifestory-git
+X-Arch-Package-Version=fc1f24708a5ec33a83bd5-1
+X-Arch-Package-Description=NoLifeStory client
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/NoLifeDev/NoLifeStory
+X-Arch-Package-Votes=0

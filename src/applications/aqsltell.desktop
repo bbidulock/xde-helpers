@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Aqsis Shader Inspector
+GenericName=RenderMan Shader Inspector
+Comment=Inspect compiled RenderMan Shading Language (RSL) files
+Icon=aqsis
+TryExec=/usr/share/aqsis/scripts/aqsltell.sh
+Exec=/usr/share/aqsis/scripts/aqsltell.sh %F
+Terminal=true
+Categories=Graphics;3DGraphics;ConsoleOnly;
+MimeType=application/x-slx;
+StartupNotify=false
+X-AppInstall-Package=aqsis
+X-AppInstall-Popcon=20
+X-AppInstall-Section=aur
+X-AppInstall-Architectures=amd64,armel,i386,ia64,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=aqsis
+X-Arch-Package-Version=1.8.2-2
+X-Arch-Package-Description=A high quality, photorealistic, 3D rendering solution
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.aqsis.org
+X-Arch-Package-Votes=25

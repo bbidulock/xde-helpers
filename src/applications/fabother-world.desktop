@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Fabother World
+Comment=Another World (Out Of This World) interpreter
+Icon=fabother-world
+TryExec=/usr/bin/fabother-world
+Exec=fabother-world
+Categories=Game;
+X-AppInstall-Package=-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=fabother-world-git r57.d15e43e-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=-git
+X-Arch-Package-Version=r57.d15e43e-1
+X-Arch-Package-Description=An interpreter for Another World (Out of this world)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://fabiensanglard.net/anotherWorld_code_review/
+X-Arch-Package-Votes=1

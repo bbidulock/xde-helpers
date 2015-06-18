@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=NetBeans
+Comment=NetBeans Java IDE
+Icon=/usr/share/netbeans/nb/netbeans.png
+TryExec=/usr/share/netbeans/bin/netbeans
+Exec=/usr/share/netbeans/bin/netbeans
+NoDisplay=true
+Categories=Development;
+StartupNotify=true
+X-AppInstall-Package=netbeans-java-beta
+X-AppInstall-Section=aur
+X-Arch-Package=netbeans-java-beta 7.1rc1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=netbeans-java-beta
+X-Arch-Package-Version=7.1rc1-1
+X-Arch-Package-Description=Netbeans IDE development platform - JavaEE version
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.netbeans.org
+X-Arch-Package-Votes=0
+Aliases=netbeans;

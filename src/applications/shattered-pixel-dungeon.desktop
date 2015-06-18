@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Shattered Pixel Dungeon
+Comment=Shattered fork of the popular rogue-like game
+Icon=shattered-pixel-dungeon
+TryExec=/usr/bin/shattered-pixel-dungeon
+Exec=shattered-pixel-dungeon
+Categories=Game;
+X-AppInstall-Package=-git
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=shattered-pixel-dungeon-git 163v0.2.4d-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=-git
+X-Arch-Package-Version=163v0.2.4d-1
+X-Arch-Package-Description=Shattered fork of the popular rogue-like game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://shatteredpixel.tumblr.com/
+X-Arch-Package-Votes=4

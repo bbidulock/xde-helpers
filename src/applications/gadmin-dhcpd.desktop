@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Gadmin DHCPD
+GenericName=GADMIN-DHCPD
+Comment=DHCPD DHCP server administration
+Icon=gadmin-dhcpd
+TryExec=/usr/bin/gadmin-dhcpd-menu
+Exec=gadmin-dhcpd-menu
+Categories=System;GTK;
+X-AppInstall-Package=gadmin-dhcpd
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=gadmin-dhcpd 0.5.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gadmin-dhcpd
+X-Arch-Package-Version=0.5.0-1
+X-Arch-Package-Description=An easy to use GTK+ application to administer DHCPD
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=None
+X-Arch-Package-Votes=4

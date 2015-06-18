@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=OpenSonic
+Comment=Game based on the "Sonic the Hedgehog" universe
+Icon=opensonic
+TryExec=/usr/bin/opensonic
+Exec=opensonic
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=opensonic
+X-AppInstall-Popcon=92
+X-AppInstall-Section=aur
+X-Arch-Package=opensonic 0.1.4-6
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=opensonic
+X-Arch-Package-Version=0.1.4-6
+X-Arch-Package-Description=Game based on the Sonic the Hedgehog universe.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://opensnc.sourceforge.net/
+X-Arch-Package-Votes=92

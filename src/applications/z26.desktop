@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=3.02
+Type=Application
+Name=z26
+Comment=Atari 2600 Emulator
+Icon=/usr/share/pixmaps/z26.png
+TryExec=/usr/bin/z26
+Exec=/usr/bin/z26
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=z26
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=z26 3.02-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=z26
+X-Arch-Package-Version=3.02-1
+X-Arch-Package-Description=An Atari 2600 Emulator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.whimsey.com/z26/z26.html
+X-Arch-Package-Votes=6

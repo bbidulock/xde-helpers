@@ -1,0 +1,27 @@
+[Desktop Entry]
+Type=Application
+Name=File Backup Manager
+Name[cs]=Správce zálohování souborů
+Name[de]=Dateisicherungs-Manager
+Name[ja]=ファイルバックアップ管理
+Name[ru]=Резервное копирование файлов
+Comment=Back up important files
+Comment[cs]=Zálohujte důležité soubory
+Comment[de]=Wichtige Dateien sichern
+Comment[ja]=重要なファイルをバックアップ
+Comment[ru]=Создание резервных копий важных файлов
+Icon=file-roller.png
+TryExec=/usr/bin/pybackpack
+Exec=pybackpack %F
+Categories=Application;Settings;System;
+StartupNotify=true
+X-AppInstall-Package=pybackpack
+X-AppInstall-Popcon=20
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pybackpack
+X-Arch-Package-Version=0.5.8-2
+X-Arch-Package-Description=A python/gtk backup application that uses rdiff-backup. So it
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://andrewprice.me.uk/projects/pybackpack/
+X-Arch-Package-Votes=20

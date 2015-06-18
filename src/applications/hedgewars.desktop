@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Hedgewars
+GenericName=Platform Game
+Comment=Worms style game
+Icon=hedgewars
+TryExec=/usr/bin/hedgewars
+Exec=hedgewars
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=hedgewars
+X-AppInstall-Popcon=143
+X-AppInstall-Section=community
+X-AppInstall-Architectures=amd64,armel,i386,powerpc,sparc
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=hedgewars
+X-Arch-Package-Version=0.9.21.1-2
+X-Arch-Package-Description=Turn-based strategy artillery game similiar to Worms
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://hedgewars.org

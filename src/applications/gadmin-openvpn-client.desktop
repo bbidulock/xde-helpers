@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=GAdmin OpenVPN Client
+GenericName=GADMIN-OPENVPN-Client
+Comment=OpenVPN Client Administration
+Icon=gadmin-openvpn-client
+TryExec=/usr/bin/gadmin-openvpn-client-menu
+Exec=gadmin-openvpn-client-menu
+Categories=System;Network;GTK;
+X-AppInstall-Package=gadmin-openvpn-client
+X-AppInstall-Popcon=25
+X-AppInstall-Section=aur
+X-Arch-Package=gadmin-openvpn-client 0.1.9-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gadmin-openvpn-client
+X-Arch-Package-Version=0.1.9-1
+X-Arch-Package-Description=A GTK+ graphical user interface for OpenVPN(client).
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://dalalven.dtdns.net/linux/gadmintools-webpage/
+X-Arch-Package-Votes=25

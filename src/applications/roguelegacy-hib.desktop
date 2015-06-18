@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Rogue Legacy
+GenericName=Rogue"Lite" Game
+Comment=Cellar Door Games
+Icon=roguelegacy
+TryExec=/usr/bin/roguelegacy
+Exec=/usr/bin/roguelegacy
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=roguelegacy-hib
+X-AppInstall-Section=aur
+X-Arch-Package=roguelegacy-hib 1.2.0b-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=roguelegacy-hib
+X-Arch-Package-Version=1.2.0b-1
+X-Arch-Package-Description=A genealogical Rogue-Lite for PC, Mac, and Linux.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://roguelegacy.com/
+X-Arch-Package-Votes=0

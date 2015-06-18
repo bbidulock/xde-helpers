@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Docear
+Comment=Free mind-mapping software written in Java, based on Freeplane
+Icon=/usr/share/docear/docear.png
+TryExec=/usr/share/docear/docear.sh
+Exec=/usr/share/docear/docear.sh
+Categories=Network;
+StartupNotify=true
+X-AppInstall-Package=docear
+X-AppInstall-Popcon=31
+X-AppInstall-Section=aur
+X-Arch-Package=docear 1.1.0_stable-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=docear
+X-Arch-Package-Version=1.1.0_stable-1
+X-Arch-Package-Description=Docear is an academic literature suite for searching,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.docear.org/
+X-Arch-Package-Votes=31

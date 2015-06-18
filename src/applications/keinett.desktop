@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=KeiNett
+GenericName=KeiNett
+Comment=KeiNett version of Minecraft: "A game about placing blocks while running from skeletons."
+Icon=/usr/share/pixmaps/keinett.png
+TryExec=/usr/bin/keinett
+Exec=keinett
+Categories=Game;
+X-AppInstall-Package=keinett-minecraft
+X-AppInstall-Section=aur
+X-Arch-Package=keinett-minecraft 1-404.1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=keinett-minecraft
+X-Arch-Package-Version=1-404.1
+X-Arch-Package-Description=Allows singleplayer and multiplayer mode. Minecraft is a sandbox game which allows players to build constructions out of textured cubes in a 3D world.
+X-Arch-Package-URL=http://keinett.com/

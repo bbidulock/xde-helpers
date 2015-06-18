@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Speed Dreams
+Comment=The Open Racing Car Simulator Fork
+Icon=speed-dreams.png
+TryExec=/usr/bin/speed-dreams-2
+Exec=speed-dreams-2
+Categories=Application;Game;
+StartupNotify=false
+X-AppInstall-Package=speed-dreams
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=speed-dreams
+X-Arch-Package-Version=2.1.0-1
+X-Arch-Package-Description=A racing simulator with rich graphics and physics
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://speed-dreams.sourceforge.net/

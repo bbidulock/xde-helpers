@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=fityk
+GenericName=Curve Fitter
+Comment=Peak fitting and data analysis
+Icon=fityk
+TryExec=/usr/bin/fityk
+Exec=fityk %F
+Categories=Education;Science;DataVisualization;GTK;
+MimeType=application/x-fityk;
+StartupNotify=true
+X-AppInstall-Package=fityk
+X-AppInstall-Popcon=15
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fityk
+X-Arch-Package-Version=1.3.0-1
+X-Arch-Package-Description=A program for nonlinear fitting of analytical functions to
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://fityk.nieto.pl/
+X-Arch-Package-Votes=15

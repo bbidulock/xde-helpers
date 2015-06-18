@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Java 7 Mission Control (32-bit)
+Icon=sun-java32-jdk7
+TryExec=/usr/lib32/jvm/java32-7-jdk/bin/jmc
+Exec=/usr/lib32/jvm/java32-7-jdk/bin/jmc
+Categories=Development;Java;
+StartupNotify=true
+X-AppInstall-Package=bin32-jdk7
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=bin32-jdk7 7u79-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bin32-jdk7
+X-Arch-Package-Version=u-1
+X-Arch-Package-Description=Oracle Java Development Kit (32-bit) (public release - end of
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.oracle.com/technetwork/java/javase/downloads/index.html
+X-Arch-Package-Votes=3

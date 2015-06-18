@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=GNOME2 IP Messenger
+Name[ja]=GNOME2 IPメッセンジャー
+Name[zh_CN]=GNOME2飞鸽
+Comment=IP Messenger for the GNOME2
+Comment[ja]=GNOME2 版 IPメッセンジャー
+Comment[zh_CN]=GNOME2 版 飞鸽
+Icon=ipmsg.png
+TryExec=/usr/bin/g2ipmsg
+Exec=g2ipmsg
+Categories=Application;Utility;GTK;
+StartupNotify=false
+X-AppInstall-Package=g2ipmsg
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=g2ipmsg
+X-Arch-Package-Version=0.9.6-2
+X-Arch-Package-Description=Creator of padded cells for untrusted applications.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.ipmsg.org/
+X-Arch-Package-Votes=2

@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=Pixel Studio Pro
+Icon=pixel
+TryExec=/usr/bin/pixel
+Exec=pixel
+Categories=Graphics;2DGraphics;RasterGraphics;
+X-AppInstall-Package=pixel
+X-AppInstall-Section=aur
+X-Arch-Package=pixel 1.0.741-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pixel
+X-Arch-Package-Version=1.0.741-1
+X-Arch-Package-Description=Pixel Image Editor - a cross-platform image editor
+X-Arch-Package-URL=http://www.kanzelsberger.com/pixel/

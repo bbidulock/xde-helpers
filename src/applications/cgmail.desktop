@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=cGmail
+Comment=Gnome mail checker
+Icon=cgmail
+TryExec=/usr/share/cgmail/cgmail
+Exec=/usr/share/cgmail/cgmail
+Categories=Network;
+StartupNotify=true
+X-AppInstall-Package=cgmail
+X-AppInstall-Popcon=55
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cgmail
+X-Arch-Package-Version=0.6.2-4
+X-Arch-Package-Description=An email checker and notifier applet for gmail
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://cgmail.tuxfamily.org/
+X-Arch-Package-Votes=6

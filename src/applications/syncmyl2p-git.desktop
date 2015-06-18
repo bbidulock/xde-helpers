@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Sync-My-L2P
+Comment=Syncs the L2P of RWTH Aachen with your Computer
+TryExec=/usr/bin/l2p
+Exec=l2p %F
+Categories=Internet;
+MimeType=text/plain;
+X-AppInstall-Package=syncmyl2p-git
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=syncmyl2p-git 20130110-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=syncmyl2p-git
+X-Arch-Package-Version=20130110-1
+X-Arch-Package-Description=Sync the L2P of the RWTH Aachen with your Computer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/Sync-my-L2P/Sync-my-L2P
+X-Arch-Package-Votes=3

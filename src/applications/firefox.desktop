@@ -202,6 +202,7 @@ X-XFCE-Binaries=firefox;firefox-gtk2;firefox-gtk;mozilla-firefox;
 X-XFCE-Category=WebBrowser
 X-XFCE-Commands=%B -remote "openURL(about:blank,new-window)";%B;
 X-XFCE-CommandsWithParameter=%B -remote "openURL(%s)";%B %s;
+X-Desktop-File-Install-Version=0.15
 X-AppInstall-Package=firefox
 X-AppInstall-Section=extra
 X-Arch-Package=firefox 38.0.5-1

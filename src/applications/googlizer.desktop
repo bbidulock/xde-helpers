@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Googlizer
+Comment=Search Google for whatever's in the X selection
+Icon=googlizer.png
+TryExec=/usr/bin/googlizer
+Exec=googlizer
+Categories=Application;Network;
+StartupNotify=false
+X-AppInstall-Package=googlizer
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=googlizer
+X-Arch-Package-Version=2-1
+X-Arch-Package-Description=A GNOME panel/menu launcher that spawns a Google search of
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.linux.org.uk/~telsa/BitsAndPieces/googlizer.html
+X-Arch-Package-Votes=5

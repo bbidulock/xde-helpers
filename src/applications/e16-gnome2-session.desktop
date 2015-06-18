@@ -1,5 +1,5 @@
 [Desktop Entry]
-Type=Application
+Type=XSession
 Name=E16 GNOME2
 GenericName=Window Manager
 GenericName[fr]=Gestionnaire de Fenêtres
@@ -9,7 +9,7 @@ Comment[eo]=Tiu sesio lanĉas GNOME uzante Enlightenment (e16) kiel fenestro-adm
 Comment[fr]=Démarre une session GNOME en utilisant enlightenment (e16) comme gestionnaire de fenêtres
 Comment[it]=Questo avvia GNOME usando Enlightenment (e16) come window manager
 Comment[pt]=Esta sessão inicia o GNOME utilizando o Enlightenment (e16) como gestor de janelas
-Icon=/usr/share/e16/icons/e16.png
+Icon=e16
 TryExec=/usr/share/e16/misc/starte16-gnome
 Exec=/usr/share/e16/misc/starte16-gnome
 Hidden=true
@@ -29,3 +29,4 @@ X-Arch-Package-Description=A fast, flexible, and very extensible Window Manager
 X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://www.enlightenment.org
 DesktopNames=GNOME
+X-LightDM-DesktopName=gnome

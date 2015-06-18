@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=R-alpha
+GenericName=environment for statistical computing - alpha version
+Comment=language and environment for statistical computing and graphics - alpha version
+Icon=/usr/share/pixmaps/r-alpha.png
+TryExec=/usr/bin/R-alpha
+Exec=R-alpha
+Terminal=true
+Categories=Education;Science;Math;
+StartupNotify=true
+DocPath=/usr/lib/R-alpha/doc/html/index.html
+X-AppInstall-Package=r-alpha
+X-AppInstall-Section=aur
+X-Arch-Package=r-alpha 20120314-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=r-alpha
+X-Arch-Package-Version=20120314-1
+X-Arch-Package-Description=Language and environment for statistical computing and graphics - alpha version
+X-Arch-Package-URL=http://www.r-project.org/

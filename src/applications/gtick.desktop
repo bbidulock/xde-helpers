@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Gtick
+Comment=a GTK-based metronome
+Comment[pt-br]=Um metrônomo baseado em GTK
+Comment[pt]=Um metrônomo baseado em GTK
+Icon=_usr_share_pixmaps_gtick_32x32
+TryExec=/usr/bin/gtick
+Exec=/usr/bin/gtick
+Categories=AudioVideo;Audio;GTK;
+StartupNotify=false
+X-AppInstall-Package=gtick
+X-AppInstall-Popcon=50
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gtick
+X-Arch-Package-Version=0.5.4-1
+X-Arch-Package-Description=A Gtk metronome application supporting different meters and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.antcom.de/gtick/
+X-Arch-Package-Votes=50

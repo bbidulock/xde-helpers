@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Rain Slick - Ep 1
+GenericName=Turnbased RPG/Adventure
+Comment=On the Rain-Slick Precipice of Darkness is an episodic RPG-adventure game series set in a deranged comic-book meets-pulp-horror 1920s universe.
+Icon=/usr/share/pixmaps/RainSlick1.png
+TryExec=/usr/bin/rainslickep1
+Exec=rainslickep1
+NoDisplay=true
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=rainslick-ep1
+X-AppInstall-Section=aur
+X-Arch-Package=rainslick-ep1 r5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rainslick-ep1
+X-Arch-Package-Version=r5-1
+X-Arch-Package-Description=On the Rain-Slick Precipice of Darkness is an episodic RPG-adventure game series set in a deranged comic-book meets-pulp-horror 1920s universe.
+X-Arch-Package-URL=http://www.rainslick.com/
+Aliases=rainslickep1;

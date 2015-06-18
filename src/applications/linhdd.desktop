@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=linHDD
+Comment=View properties, partition, format or test speed of IDE, SATA drives and USB sticks under Linux.
+Comment[it]=Visualizza le proprietà, partiziona, formatta e testa la velocità di drive IDE, SATA e drive USB.
+Icon=linhdd
+TryExec=/usr/bin/linHDD.py
+Exec=/usr/bin/linHDD.py
+Categories=Application;Settings;System;GNOME;
+StartupNotify=true
+X-AppInstall-Package=linhdd
+X-AppInstall-Section=aur
+X-Arch-Package=linhdd 0.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=linhdd
+X-Arch-Package-Version=0.4-1
+X-Arch-Package-Description=View properties, partition, format or test speed of IDE, SATA drives and USB sticks under Linux.
+X-Arch-Package-URL=http://www.pcbypaul.com/software/linHDD.html

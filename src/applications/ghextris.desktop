@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Ghextris
+Comment=Fit falling blocks together on a hexagonal grid
+Comment[fi]=Sovita putoavat palikat yhteen heksaruudukolla
+Icon=_usr_share_games_ghextris_ghextris
+TryExec=/usr/bin/ghextris
+Exec=ghextris
+Categories=Application;Game;BlocksGame;GNOME;
+StartupNotify=true
+X-AppInstall-Package=ghextris
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ghextris
+X-Arch-Package-Version=0.9.0-4
+X-Arch-Package-Description=Tetris-like game on a hexagonal grid
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://mjr.iki.fi/software/ghextris
+X-Arch-Package-Votes=6

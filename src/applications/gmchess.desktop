@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Chinese chess
+Name[zh_CN]=天书棋谈
+Comment=Play the popular chinese chess game
+Comment[zh_CN]=玩流行的中国象棋游戏
+Icon=gmchess
+TryExec=/usr/bin/gmchess
+Exec=gmchess
+Categories=Game;GTK;
+StartupNotify=true
+X-AppInstall-Package=gmchess
+X-AppInstall-Popcon=27
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gmchess
+X-Arch-Package-Version=0.29.6-3
+X-Arch-Package-Description=Chinese chess game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/gmchess/
+X-Arch-Package-Votes=27

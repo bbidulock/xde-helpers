@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=QSynergy
+Comment=A graphical user interface for synergy.
+Icon=synergy-plus
+TryExec=/usr/bin/qsynergy
+Exec=qsynergy
+Categories=Utility;
+X-AppInstall-Package=synergy-plus
+X-AppInstall-Section=aur
+X-Arch-Package=synergy-plus 1.3.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=synergy-plus
+X-Arch-Package-Version=1.3.5-1
+X-Arch-Package-Description=Share your mouse and keyboard between several computers
+X-Arch-Package-URL=http://code.google.com/p/synergy-plus

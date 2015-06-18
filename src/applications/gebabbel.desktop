@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Gebabbel
+Comment=GUI for gpsbabel
+Icon=gebabbel
+TryExec=/usr/bin/gebabbel
+Exec=gebabbel
+Categories=Education;Utility;
+StartupNotify=false
+X-AppInstall-Package=gebabbel
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=gebabbel
+X-Arch-Package-Version=0.4-7
+X-Arch-Package-Description=GUI for gpsbabel
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gebabbel.sourceforge.net/

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Privateer: Ascii Sector
+Comment=Space combat/exploration/trading game
+Icon=/usr/share/pixmaps/asciisec.png
+TryExec=/usr/bin/asciisec
+Exec=asciisec
+Categories=Game;StrategyGame;
+StartupNotify=true
+X-AppInstall-Package=asciisec
+X-AppInstall-Popcon=20
+X-AppInstall-Section=aur
+X-Arch-Package=asciisec 0.7.1.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=asciisec
+X-Arch-Package-Version=0.7.1.4-1
+X-Arch-Package-Description=SDL roguelike with a 'Wing Commander: Privateer' theme
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.asciisector.net
+X-Arch-Package-Votes=20

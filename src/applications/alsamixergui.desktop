@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=ALSA Mixer GUI
+GenericName=Mixer
+Comment=FLTK based mixer program for use with ALSA.
+Icon=alsamixergui
+TryExec=/usr/bin/alsamixergui
+Exec=/usr/bin/alsamixergui
+Categories=Application;AudioVideo;
+X-AppInstall-Package=alsamixergui
+X-AppInstall-Popcon=642
+X-AppInstall-Section=aur
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package=alsamixergui 0.9.1-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=alsamixergui
+X-Arch-Package-Version=0.9.1-3
+X-Arch-Package-Description=FLTK based mixer program for use with ALSA.
+X-Arch-Package-URL=https://github.com/LaraCraft304/alsamixergui

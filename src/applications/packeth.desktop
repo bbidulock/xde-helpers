@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=PackETH
+GenericName=Packet Generator
+TryExec=/usr/bin/packeth
+Exec=packeth
+Categories=Network;
+StartupNotify=false
+X-AppInstall-Package=packeth
+X-AppInstall-Popcon=24
+X-AppInstall-Section=community
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=packeth
+X-Arch-Package-Version=1.7.2-2
+X-Arch-Package-Description=A Linux GUI packet generator tool for ethernet.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://packeth.sourceforge.net/

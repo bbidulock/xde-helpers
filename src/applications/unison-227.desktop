@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Unison (2.27)
+Comment=File synchronisation tool for X11
+Icon=unison-227.png
+TryExec=/usr/bin/unison-227-x11
+Exec=unison-227-x11
+Categories=Application;Network;GTK;
+StartupNotify=true
+X-AppInstall-Package=unison-227
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=unison-227 2.27.157-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=unison-227
+X-Arch-Package-Version=2.27.157-4
+X-Arch-Package-Description=File-synchronization tool (legacy 2.27 version)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.cis.upenn.edu/~bcpierce/unison
+X-Arch-Package-Votes=9

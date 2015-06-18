@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=GCstar Collections Manager
+Name[es]=Gestor de colecciones GCstar
+Name[fr]=GCstar gestionnaire de collections
+GenericName=Personal Collections Manager
+Comment=Manage your collections of movies, games, books, music and more
+Comment[es]=Organice sus colecciones de películas, juegos, libros, música y más
+Comment[fr]=Gérer vos collections de films, jeux vidéos, livres, musique,...
+Comment[pt]=Organize as suas colecções de filmes, jogos, vídeos, livros e música...
+Icon=gcstar
+TryExec=/usr/bin/gcstar
+Exec=gcstar %f
+Categories=Office;
+MimeType=application/x-gcstar;
+StartupNotify=true
+X-AppInstall-Package=gcstar
+X-AppInstall-Popcon=83
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=gcstar
+X-Arch-Package-Version=1.7.0-3
+X-Arch-Package-Description=A collection management application
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.gcstar.org

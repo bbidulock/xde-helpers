@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Clooj
+Comment=Clojure development
+Icon=java
+TryExec=/usr/bin/clooj
+Exec=/usr/bin/clooj
+Categories=Development;Java;
+X-AppInstall-Package=clooj
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=clooj 0.3.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=clooj
+X-Arch-Package-Version=0.3.6-1
+X-Arch-Package-Description=An editor for clojure written in clojure.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://github.com/arthuredelstein/clooj/
+X-Arch-Package-Votes=3

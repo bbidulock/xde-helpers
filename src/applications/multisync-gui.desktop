@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Multisync-gui
+Comment=Synchronization program for personal information such as calendars, addressbooks etc.
+Comment[de]=Synchronisation von Organizern, PIMs und Mobiltelefonen
+Icon=multisync.png
+TryExec=/usr/bin/multisync-gui
+Exec=multisync-gui
+Categories=Utility;X-SuSE-SyncUtility;
+StartupNotify=false
+X-AppInstall-Package=multisync-gui
+X-AppInstall-Popcon=24
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=multisync-gui
+X-Arch-Package-Version=0.91.0-4
+X-Arch-Package-Description=Graphical Interface for the OpenSync Synchronization Framework
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.opensync.org
+X-Arch-Package-Votes=24
+X-SuSE-translate=true

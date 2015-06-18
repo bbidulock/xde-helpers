@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Osmos
+GenericName=Osmos
+Comment=Enter the ambient world of Osmos: elegant, physics-based gameplay, dreamlike visuals, and a minimalist, electronic soundtrack.
+Icon=/opt/osmos/Icons/128x128.png
+TryExec=/usr/bin/osmos
+Exec=osmos
+Categories=Game;
+X-AppInstall-Package=osmos
+X-AppInstall-Popcon=70
+X-AppInstall-Section=aur
+X-Arch-Package=osmos 1.6.1-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=osmos
+X-Arch-Package-Version=1.6.1-3
+X-Arch-Package-Description=Enter the ambient world of Osmos: elegant, physics-based
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.hemispheregames.com/osmos/
+X-Arch-Package-Votes=70

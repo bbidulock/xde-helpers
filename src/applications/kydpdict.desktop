@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Kydpdict
+Comment=A front-end to YDP Collins Dictionary
+Icon=kydpdict
+TryExec=/usr/bin/kydpdict
+Exec=kydpdict
+Categories=Education;Office;
+X-AppInstall-Package=kydpdict
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=kydpdict 0.9.5-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kydpdict
+X-Arch-Package-Version=0.9.5-4
+X-Arch-Package-Description=A front-end to YDP Collins Dictionary
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://fossies.org/linux/privat/kydpdict-0.9.5.tar.gz/kydpdict-0.9.5/contrib/kydpdict.pl.1
+X-Arch-Package-Votes=1

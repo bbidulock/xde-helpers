@@ -1,0 +1,27 @@
+[Desktop Entry]
+Type=Application
+Name=Screen Ruler
+Name[ca]=Regla a la pantalla
+Name[es]=Regla en la pantalla
+GenericName=Screen Ruler
+GenericName[ca]=Regla a la pantalla
+GenericName[es]=Regla en la pantalla
+Comment=Measure objects on your screen
+Comment[ca]=Mesureu la mida d'objectes a la vostra pantalla
+Comment[es]=Mide objetos en la pantalla
+Icon=screenruler
+TryExec=/usr/bin/screenruler
+Exec=screenruler
+Categories=Utility;GTK;
+StartupNotify=false
+X-AppInstall-Package=screenruler
+X-AppInstall-Popcon=36
+X-AppInstall-Section=aur
+X-Arch-Package=screenruler 2.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=screenruler
+X-Arch-Package-Version=2.0-1
+X-Arch-Package-Description=A simple program that measures the distance between two points
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/doorknob60/Screenruler
+X-Arch-Package-Votes=36

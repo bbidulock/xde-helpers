@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Cameleon
+GenericName=OCaml Integrated Development Environment
+GenericName[fr]=Environnement de développement logiciel OCaml
+Comment=Visual environment to develop OCaml application
+Comment[fr]=Environnement visuel pour le développement d'application OCaml
+TryExec=/usr/bin/cameleon2.byte
+Exec=cameleon2.byte
+Categories=Development;IDE;GTK;
+StartupNotify=false
+X-AppInstall-Package=cameleon
+X-AppInstall-Popcon=25
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cameleon
+X-Arch-Package-Version=0.2.1-1
+X-Arch-Package-Description=A universal file converter for various
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://camaleon.sourceforge.net/index_en.html
+X-Arch-Package-Votes=2

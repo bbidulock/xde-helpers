@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Last.fm
+GenericName=Client for the Last.fm Network
+GenericName[de]=Client f\xFCr das Last.fm-Netzwerk
+GenericName[pl]=Klient sieci Last.fm
+Comment=Listen to Last.fm radio
+Icon=lastfm
+TryExec=/usr/bin/lastfm
+Exec=lastfm
+Categories=AudioVideo;Audio;Player;Qt;
+StartupNotify=true
+X-AppInstall-Package=lastfm
+X-AppInstall-Popcon=18
+X-AppInstall-Section=aur
+X-Arch-Package=lastfm 2.1.30-8
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lastfm
+X-Arch-Package-Version=2.1.30-8
+X-Arch-Package-Description=The official Last.fm desktop application suite
+X-Arch-Package-URL=http://www.last.fm/
+X-Arch-Package-Votes=18

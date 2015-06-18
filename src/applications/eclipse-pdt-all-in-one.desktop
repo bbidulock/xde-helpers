@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Eclipse
+Comment=A Java Development Environment
+Icon=eclipse
+TryExec=/usr/bin/eclipse
+Exec=eclipse
+NoDisplay=true
+Categories=Application;Development;GNOME;
+StartupNotify=true
+X-AppInstall-Package=eclipse-pdt-all-in-one
+X-AppInstall-Section=aur
+X-Arch-Package=eclipse-pdt-all-in-one 3.0.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=eclipse-pdt-all-in-one
+X-Arch-Package-Version=3.0.2-2
+X-Arch-Package-Description=PHP Development Tools framework for the Eclipse platform (included).
+X-Arch-Package-URL=http://www.eclipse.org/pdt/
+Aliases=eclipse;

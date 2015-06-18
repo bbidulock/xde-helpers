@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Technic Pack
+GenericName=Technic Pack
+Comment=A game about placing blocks while running from skeletons.
+Icon=/usr/share/pixmaps/technicpack.png
+TryExec=/usr/bin/technicpack
+Exec=technicpack
+Categories=Game;
+X-AppInstall-Package=technicpack
+X-AppInstall-Section=aur
+X-Arch-Package=technicpack latest-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=technicpack
+X-Arch-Package-Version=latest-1
+X-Arch-Package-Description=An open-world game whose gameplay revolves around breaking and placing blocks
+X-Arch-Package-URL=http://www.technicpack.net/

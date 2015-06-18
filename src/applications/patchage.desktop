@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Patchage
+Comment=Connect audio and MIDI applications together and manage audio sessions
+Icon=patchage
+TryExec=/usr/bin/patchage
+Exec=/usr/bin/patchage
+Categories=Application;AudioVideo;Audio;
+StartupNotify=false
+X-AppInstall-Package=patchage
+X-AppInstall-Popcon=36
+X-AppInstall-Section=community
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=patchage
+X-Arch-Package-Version=1.0.0-2
+X-Arch-Package-Description=A modular patch bay for audio and MIDI systems based on Jack and Alsa
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://drobilla.net/software/patchage

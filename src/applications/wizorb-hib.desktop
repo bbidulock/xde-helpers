@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Wizorb
+Comment=An all-new block-breaking game set in a fantasy world.
+Icon=/opt/wizorb/wizorb.png
+TryExec=/usr/bin/wizorb
+Exec=wizorb
+NoDisplay=true
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=-hib
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=wizorb-hib 1.1-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=-hib
+X-Arch-Package-Version=1.1-4
+X-Arch-Package-Description=A retro-RPG themed breakout style game (Humble Bundle version)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.wizorb.com
+X-Arch-Package-Votes=13
+Aliases=wizorb;

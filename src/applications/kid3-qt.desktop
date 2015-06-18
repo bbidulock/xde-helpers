@@ -1,0 +1,27 @@
+[Desktop Entry]
+Type=Application
+Name=Kid3-qt
+GenericName=Audio Tagger
+GenericName[de]=Audio Tag Editor
+GenericName[es]=Editor de etiquetas de audio
+GenericName[fi]=Äänitiedostojen tagimuokkaaja
+GenericName[fr]=Éditeur de balises
+GenericName[it]=Editor di tag audio
+GenericName[nl]=Audio tag editor
+GenericName[pl]=Edytor znaczników audio
+GenericName[ru]=Программа-редактор аудио-тегов
+Icon=kid3-qt
+TryExec=/usr/bin/kid3-qt
+Exec=kid3-qt %f
+Categories=AudioVideo;Audio;AudioVideoEditing;Qt;
+MimeType=audio/mpeg;application/ogg;audio/x-flac;audio/x-flac+ogg;audio/x-vorbis+ogg;audio/x-speex+ogg;audio/x-oggflac;audio/x-musepack;audio/aac;audio/mp4;audio/x-speex;audio/x-tta;audio/x-wavpack;x-directory/normal;inode/directory;
+StartupNotify=false
+X-AppInstall-Package=kid3-qt
+X-AppInstall-Popcon=65
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=kid3-qt
+X-Arch-Package-Version=3.2.1-1
+X-Arch-Package-Description=An MP3, Ogg/Vorbis and FLAC tag editor, QT version
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kid3.sourceforge.net/

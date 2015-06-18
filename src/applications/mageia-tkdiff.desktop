@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=TkDiff
+Comment=Graphical interface to diff
+Icon=development_tools_section
+TryExec=/usr/bin/tkdiff
+Exec=tkdiff
+Categories=Development;RevisionControl;
+StartupNotify=true
+X-AppInstall-Package=tkdiff
+X-AppInstall-Popcon=29
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tkdiff
+X-Arch-Package-Version=4.2-1
+X-Arch-Package-Description=a graphical front end to the diff program
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://tkdiff.sourceforge.net/
+X-Arch-Package-Votes=29

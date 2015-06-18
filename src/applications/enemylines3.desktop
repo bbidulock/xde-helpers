@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Enemylines3
+Comment=semi-abstract first person 3d-shooter game
+Comment[fr]=Un jeu de tir à la première personne
+Icon=enemylines3
+TryExec=/usr/bin/enemylines3
+Exec=enemylines3
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=enemylines3
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=enemylines3
+X-Arch-Package-Version=1.2-1
+X-Arch-Package-Description=Semi-abstract first person 3d-shooter game.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://proj.phk.at/el/3/
+X-Arch-Package-Votes=1

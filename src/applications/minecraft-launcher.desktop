@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Minecraft
+GenericName=Minecraft
+Comment=A block-building game in an infinite world.
+Icon=/usr/share/pixmaps/minecraft.png
+TryExec=/usr/bin/minecraft-launcher
+Exec=minecraft-launcher
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=minecraft-launcher
+X-AppInstall-Popcon=16
+X-AppInstall-Section=aur
+X-Arch-Package=minecraft-launcher latest-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=minecraft-launcher
+X-Arch-Package-Version=latest-4
+X-Arch-Package-Description=Launcher for Minecraft, a game about building with blocks in
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.minecraft.net/
+X-Arch-Package-Votes=16
+Aliases=minecraft;

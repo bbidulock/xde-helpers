@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=TraderStar2
+GenericName=Stock Market Analysis
+Icon=/usr/share/pixmaps/traderstar2.png
+TryExec=/usr/share/TraderStar2/TraderStar.run
+Exec=/usr/share/TraderStar2/TraderStar.run
+Categories=Office;
+X-AppInstall-Package=traderstar2
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=traderstar2 2013.12.30-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=traderstar2
+X-Arch-Package-Version=2013.12.30-1
+X-Arch-Package-Description=Stock market program for technical analysis.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.neonway.com/apps/traderstar2/
+X-Arch-Package-Votes=1

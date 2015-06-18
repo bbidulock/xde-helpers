@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=3.0-2
+Type=Application
+Name=Visual Regexp
+GenericName=Visual Regexp
+Comment=A visual explorer for your regular expressions
+TryExec=/usr/bin/visual-regexp
+Exec=/usr/bin/visual-regexp
+Categories=Development;
+X-AppInstall-Package=visual-regexp
+X-AppInstall-Popcon=20
+X-AppInstall-Section=aur
+X-Arch-Package=visual-regexp 3.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=visual-regexp
+X-Arch-Package-Version=3.0-3
+X-Arch-Package-Description=A visual explorer for your regular expressions.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://laurent.riesterer.free.fr/regexp/
+X-Arch-Package-Votes=20

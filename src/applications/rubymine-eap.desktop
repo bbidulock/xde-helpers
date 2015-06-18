@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=3.0
+Type=Application
+Name=RubyMine Satsuki EAP
+GenericName=Ruby and Rails IDE with the full stack of essential developer tools
+Comment=Ruby and Rails IDE with the full stack of essential developer tools
+Icon=rubymine
+TryExec=/usr/bin/rubymine-eap
+Exec=/usr/bin/rubymine-eap
+Categories=Development;
+X-AppInstall-Package=rubymine-eap
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=rubymine-eap 7.1_141.564-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rubymine-eap
+X-Arch-Package-Version=_-1
+X-Arch-Package-Description=Ruby and Rails IDE with the full stack of essential developer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.jetbrains.com/rubymine
+X-Arch-Package-Votes=2

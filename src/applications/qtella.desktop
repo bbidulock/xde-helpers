@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Qtella
+Comment=P2P Gnutella file sharing client
+Icon=/opt/kde/share/qtella/pixmaps/p2p.xpm
+TryExec=/usr/bin/qtella
+Exec=qtella
+Terminal=False
+Categories=Application;Network;
+X-AppInstall-Package=qtella
+X-AppInstall-Section=aur
+X-Arch-Package=qtella 0.6.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qtella
+X-Arch-Package-Version=0.6.5-1
+X-Arch-Package-Description=Qtella is a Gnutella client for Linux using QT
+X-Arch-Package-URL=http://qtella.sourceforge.net/

@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Scilab
+Comment=A scientific software package for numerical computations
+Icon=scilab
+TryExec=/usr/bin/scilab
+Exec=scilab
+Categories=Application;Science;Math;
+X-AppInstall-Package=scilab-master
+X-AppInstall-Section=aur
+X-Arch-Package=scilab-master 1392907885-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=scilab-master
+X-Arch-Package-Version=1392907885-1
+X-Arch-Package-Description=A scientific software package for numerical computations (Master Nightly Build).
+X-Arch-Package-URL=http://www.scilab.org/

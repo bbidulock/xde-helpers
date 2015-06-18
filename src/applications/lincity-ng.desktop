@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Lincity-NG
+GenericName=City Simulation Game
+GenericName[de]=Stadtsimulationsspiel
+Comment=Plan and Build a city and take care of transport, economics, electricityand others.
+Icon=lincity-ng.png
+TryExec=/usr/bin/lincity-ng
+Exec=lincity-ng
+Categories=Game;Simulation;
+StartupNotify=false
+X-AppInstall-Package=lincity-ng
+X-AppInstall-Popcon=78
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=lincity-ng
+X-Arch-Package-Version=2.0-6
+X-Arch-Package-Description=A city simulation game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/lincity-ng.berlios/

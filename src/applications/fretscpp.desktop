@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Fretscpp
+Comment=Frets on Fire rewritten in c++
+Comment[pt_BR]=Frets on Fire reescrito em c++
+Icon=/usr/share/games/fretscpp/fretscpp.png
+TryExec=/usr/bin/fretscpp
+Exec=/usr/bin/fretscpp
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=fretscpp
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=fretscpp 20130115-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fretscpp
+X-Arch-Package-Version=20130115-1
+X-Arch-Package-Description=Frets on Fire (Free Rhythm Game) - rewritten in C++
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/fretscpp/
+X-Arch-Package-Votes=7

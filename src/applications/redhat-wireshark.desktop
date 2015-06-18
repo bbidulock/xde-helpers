@@ -21,3 +21,4 @@ X-Arch-Package-Version=1.12.4-1
 X-Arch-Package-Description=a free network protocol analyzer for Unix/Linux and Windows - GTK2 frontend
 X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://www.wireshark.org/
+Aliases=wireshark;

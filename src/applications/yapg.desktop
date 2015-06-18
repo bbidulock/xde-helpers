@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Yet Another Pacman Gui (GTK)
+GenericName=Pacage's Manager Forntend
+Comment=Frontend for Pacman package's manager
+Icon=yapg
+TryExec=/usr/bin/gksu
+Exec=gksu yapg
+Categories=System;
+Path=/usr/share/yapg/
+StartupNotify=true
+X-AppInstall-Package=yapg-gtk
+X-AppInstall-Section=aur
+X-Arch-Package=yapg-gtk 0.2beta-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=yapg-gtk
+X-Arch-Package-Version=0.2beta-1
+X-Arch-Package-Description=Frontend for pacman package's manager
+X-Arch-Package-URL=http://www.brainspace.it/?p=213

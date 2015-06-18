@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=0.8.3
+Type=Application
+Name=SpazAir
+GenericName=Twitter Client
+Comment=Twitter Client powered by Adobe AIR
+Icon=/usr/share/pixmaps/spazair.png
+TryExec=/usr/bin/spazair
+Exec=spazair
+Categories=Network;GTK;
+X-AppInstall-Package=spazair
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=spazair 0.8.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=spazair
+X-Arch-Package-Version=0.8.3-1
+X-Arch-Package-Description=Twitter Client powered by Adobe AIR
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://funkatron.com/spaz
+X-Arch-Package-Votes=8

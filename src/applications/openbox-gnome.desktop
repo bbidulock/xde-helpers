@@ -1,5 +1,5 @@
 [Desktop Entry]
-Type=Application
+Type=XSession
 Name=GNOME/Openbox
 GenericName=Window Manager
 GenericName[fr]=Gestionnaire de Fenêtres
@@ -26,6 +26,7 @@ X-Arch-Package-Description=The GNOME Session Handler
 X-Arch-Package-Groups=gnome
 X-Arch-Package-URL=http://www.gnome.org
 DesktopNames=GNOME
+X-LightDM-DesktopName=gnome
 
 [Window Manager]
 Name=Openbox

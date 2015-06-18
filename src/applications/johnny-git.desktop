@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Johnny
+Comment=GUI for John the Ripper
+Icon=/opt/johnny/johnny-128.png
+TryExec=/opt/johnny/johnny
+Exec=/opt/johnny/johnny
+NoDisplay=true
+Categories=Application;Security;
+X-AppInstall-Package=johnny-git
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=johnny-git 20120424-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=johnny-git
+X-Arch-Package-Version=20120424-2
+X-Arch-Package-Description=GUI for John the Ripper
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://openwall.info/wiki/john/johnny
+X-Arch-Package-Votes=5
+Aliases=johnny;

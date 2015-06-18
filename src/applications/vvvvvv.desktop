@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=VVVVVV
+Comment=A retro styled 2D platformer
+Icon=vvvvvv
+TryExec=/usr/bin/vvvvvv
+Exec=/usr/bin/vvvvvv
+Categories=Game;
+X-AppInstall-Package=vvvvvv
+X-AppInstall-Popcon=35
+X-AppInstall-Section=aur
+X-Arch-Package=vvvvvv 2.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=vvvvvv
+X-Arch-Package-Version=2.2-2
+X-Arch-Package-Description=A retro-styled 2D platformer (game sold separately)
+X-Arch-Package-Groups=humblebundle3 humblebundle4 humblebundles
+X-Arch-Package-URL=http://thelettervsixtim.es/
+X-Arch-Package-Votes=35

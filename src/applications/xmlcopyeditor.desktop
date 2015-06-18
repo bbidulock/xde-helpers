@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=XML Copy Editor
+GenericName=XML Editor
+Comment=Edit XML documents
+Icon=xmlcopyeditor.png
+TryExec=/usr/bin/xmlcopyeditor
+Exec=xmlcopyeditor %U
+Categories=Application;Development;TextEditor;
+MimeType=text/xml;
+StartupNotify=false
+X-AppInstall-Package=xmlcopyeditor
+X-AppInstall-Popcon=53
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xmlcopyeditor
+X-Arch-Package-Version=1.2.1.3-2
+X-Arch-Package-Description=XML editor based on Scintilla.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://xml-copy-editor.sourceforge.net
+X-Arch-Package-Votes=53

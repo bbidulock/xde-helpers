@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=OpenJigsaw
+Comment=A jigsaw puzzle
+Icon=jigsaw-0.xpm
+TryExec=/usr/bin/jigsaw
+Exec=jigsaw
+Categories=Game;
+X-AppInstall-Package=openjigsaw
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=openjigsaw 0.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=openjigsaw
+X-Arch-Package-Version=0.6-1
+X-Arch-Package-Description=A jigsaw puzzle
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://marijnhaverbeke.nl/jigsaw/
+X-Arch-Package-Votes=1

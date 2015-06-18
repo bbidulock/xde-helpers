@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Comment=3D minesweeper
+Icon=openmine.png
+TryExec=/usr/bin/openmine
+Exec=/usr/bin/openmine
+Categories=Game;
+X-AppInstall-Package=openmine
+X-AppInstall-Section=aur
+X-Arch-Package=openmine 0.2.0b-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=openmine
+X-Arch-Package-Version=0.2.0b-2
+X-Arch-Package-Description=3D Minesweeper
+X-Arch-Package-URL=http://openmine.sourceforge.net/
+name=openmine

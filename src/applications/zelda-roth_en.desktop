@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Zelda: Return of the Hylian
+Comment=First Game in a triology of fan made Zelda Games
+Icon=zelda-roth
+TryExec=/usr/bin/zelda-roth
+Exec=zelda-roth
+NoDisplay=true
+Categories=Game;AdventureGame;
+X-AppInstall-Package=zelda-roth_en
+X-AppInstall-Section=aur
+X-Arch-Package=zelda-roth_en 6.11-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zelda-roth_en
+X-Arch-Package-Version=6.11-2
+X-Arch-Package-Description='Zelda: Return of the Hylian' is a fan-made Zelda Game (english version)
+X-Arch-Package-URL=http://www.zeldaroth.fr/
+Aliases=zelda-roth;

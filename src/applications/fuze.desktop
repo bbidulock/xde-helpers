@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Fuze Meeting
+GenericName=FuzeMeeting
+Comment=Fuze is software for web video conferencing
+Icon=fuze.png
+TryExec=/usr/bin/fuze
+Exec=fuze
+Categories=Application;Network;
+X-AppInstall-Package=fuzelinuxclient
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=fuzelinuxclient 14.06.27046-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fuzelinuxclient
+X-Arch-Package-Version=14.06.27046-1
+X-Arch-Package-Description=Fuze for Linux
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.fuzebox.com/
+X-Arch-Package-Votes=2

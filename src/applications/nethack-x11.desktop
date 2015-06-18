@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=X NetHack
+GenericName=NetHack (X interface)
+Icon=nethack
+TryExec=/usr/games/xnethack
+Exec=/usr/games/xnethack
+Categories=Application;Game;AdventureGame;
+StartupNotify=false
+X-AppInstall-Package=nethack-x11
+X-AppInstall-Popcon=17
+X-AppInstall-Section=aur
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nethack-x11
+X-Arch-Package-Version=3.4.3-8
+X-Arch-Package-Description=Single-player roguelike dungeon exploration game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.nethack.org/
+X-Arch-Package-Votes=17

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Yamagi Quake II - Mission Pack 2 (rogue)
+Comment=Ground Zero
+Icon=yamagi-quake2
+TryExec=/usr/bin/yamagi-quake2-rogue
+Exec=yamagi-quake2-rogue
+Categories=Game;Shooter;
+StartupNotify=false
+X-AppInstall-Package=yamagi-quake2-rogue
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=yamagi-quake2-rogue 2.01-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=yamagi-quake2-rogue
+X-Arch-Package-Version=2.01-1
+X-Arch-Package-Description=Quake II - Mission Pack 2 ('Ground Zero') for yamagi-quake2
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.yamagi.org/quake2/
+X-Arch-Package-Votes=9

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=mhWaveEdit
+GenericName=Sound file editor
+Comment=Record, play, edit and convert sound files
+Icon=mhwaveedit.xpm
+TryExec=/usr/bin/mhwaveedit
+Exec=mhwaveedit
+Categories=AudioVideo;Audio;AudioVideoEditing;Recorder;
+StartupNotify=false
+X-AppInstall-Package=mhwaveedit
+X-AppInstall-Popcon=14
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mhwaveedit
+X-Arch-Package-Version=1.4.23-1
+X-Arch-Package-Description=A graphical program for editing, playing and recording sound
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gna.org/projects/mhwaveedit
+X-Arch-Package-Votes=14

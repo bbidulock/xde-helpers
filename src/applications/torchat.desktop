@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=TORChat
+GenericName=TORChat
+Comment=Messenger application on top of the Tor network and location hidden services
+Icon=torchat
+TryExec=/usr/bin/torchat
+Exec=/usr/bin/torchat
+Categories=Network;InstantMessaging;
+StartupNotify=true
+X-AppInstall-Package=torchat
+X-AppInstall-Popcon=38
+X-AppInstall-Section=aur
+X-Arch-Package=torchat 0.9.9.553-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=torchat
+X-Arch-Package-Version=0.9.9.553-2
+X-Arch-Package-Description=A decentralized instant messenger built on top of the Tor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/prof7bit/TorChat
+X-Arch-Package-Votes=38

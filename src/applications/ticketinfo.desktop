@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Ticketinfo
+Comment=Read local public transport RFID tickets
+Icon=/opt/ticketinfo/eTicket.ico
+TryExec=/usr/bin/ticketinfo
+Exec=ticketinfo
+Categories=Application;Utility;
+X-AppInstall-Package=ticketinfo
+X-AppInstall-Section=aur
+X-Arch-Package=ticketinfo 1.8.01-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ticketinfo
+X-Arch-Package-Version=1.8.01-2
+X-Arch-Package-Description=Read local public transport RFID tickets
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.ticket-info.net
+X-Arch-Package-Votes=0

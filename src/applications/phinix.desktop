@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Phinix
+GenericName=Audio Player
+Comment=Just an audio player
+Icon=phinix
+TryExec=/usr/bin/phinix
+Exec=phinix
+X-AppInstall-Package=phinix-svn
+X-AppInstall-Section=aur
+X-Arch-Package=phinix-svn 75-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=phinix-svn
+X-Arch-Package-Version=75-1
+X-Arch-Package-Description=Just an audio player
+X-Arch-Package-URL=http://phinix.sourceforge.net/

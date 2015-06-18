@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Arduino IDE
+Comment=The open-source Arduino environment
+Icon=arduino
+TryExec=/usr/bin/arduino
+Exec=arduino %U
+Categories=Development;Electronics;Engineering;
+MimeType=text/x-arduino;
+X-AppInstall-Package=arduino
+X-AppInstall-Popcon=401
+X-AppInstall-Section=aur
+X-Arch-Package=arduino 1.6.4-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=arduino
+X-Arch-Package-Version=1.6.4-2
+X-Arch-Package-Description=Arduino prototyping platform SDK
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://arduino.cc/en/Main/Software
+X-Arch-Package-Votes=401

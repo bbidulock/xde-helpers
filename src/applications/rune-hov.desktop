@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Rune HoV
+Comment=Hack and slay game based on Norse mythology
+Icon=/opt/rune-hov/icon.xpm
+TryExec=/opt/rune-hov/rune
+Exec=/opt/rune-hov/rune
+Categories=Game;
+X-AppInstall-Package=rune-hov
+X-AppInstall-Section=aur
+X-Arch-Package=rune-hov 1.08-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rune-hov
+X-Arch-Package-Version=1.08-1
+X-Arch-Package-Description=Hack and slay game based on Norse mythology
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.lokigames.com/products/rune/
+X-Arch-Package-Votes=0

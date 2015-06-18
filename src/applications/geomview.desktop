@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Geomview
+Comment=Interactive geometry viewing program
+Icon=geomview
+TryExec=/usr/bin/geomview
+Exec=geomview
+Categories=Application;Education;Science;Math;
+StartupNotify=false
+X-AppInstall-Package=geomview
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=geomview
+X-Arch-Package-Version=1.9.5-1
+X-Arch-Package-Description=Interactive 3D viewing program that lets you view and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.geomview.org/
+X-Arch-Package-Votes=4

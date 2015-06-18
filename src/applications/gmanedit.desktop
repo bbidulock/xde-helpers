@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=gmanedit
+Comment=GNOME Manpages Editor
+Comment[es]=Editor de p\xE1ginas man de GNOME
+Comment[gl]=Editor de p\xE1xinas man de GNOME
+Icon=gmanedit_icon.png
+TryExec=/usr/bin/gmanedit
+Exec=gmanedit
+Categories=Development;
+StartupNotify=false
+X-AppInstall-Package=gmanedit
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gmanedit
+X-Arch-Package-Version=0.4.2-1
+X-Arch-Package-Description=A GNOME/GTK2 editor for Linux manpages
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/gmanedit2/
+X-Arch-Package-Votes=5

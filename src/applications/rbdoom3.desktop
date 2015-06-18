@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=RBDoomBFG 3
+GenericName=Doom 3 BFG
+Icon=/usr/share/pixmaps/rbdoom3.png
+TryExec=/usr/bin/RBDoom3BFG
+Exec=/usr/bin/RBDoom3BFG "$@"
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=rbdoom3-bfg-git
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=rbdoom3-bfg-git 461.a7c6f49-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rbdoom3-bfg-git
+X-Arch-Package-Version=461.a7c6f49-1
+X-Arch-Package-Description=Doom 3 BFG source code (Robert Beckebans repo).
+X-Arch-Package-Groups=games
+X-Arch-Package-URL=https://github.com/RobertBeckebans/RBDOOM-3-BFG
+X-Arch-Package-Votes=8

@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=GConf Cleaner
+Name[ja]=GConfクリーナー
+Comment=A Cleaning tool for GConf
+Comment[de]=Ein Reinigungs-Werkzeug für Gconf
+Comment[fr]=Un outil de nettoyage pour Gconf
+Comment[ja]=GConf用の掃除ツール
+Comment[sv]=En rensningsverktyg för GConf
+Icon=gconf-cleaner.png
+TryExec=/usr/bin/gconf-cleaner
+Exec=gconf-cleaner
+Categories=System;GNOME;GTK;
+StartupNotify=true
+X-AppInstall-Package=gconf-cleaner
+X-AppInstall-Popcon=56
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gconf-cleaner
+X-Arch-Package-Version=0.0.3-2
+X-Arch-Package-Description=A Cleaning tool for GConf
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/gconf-cleaner
+X-Arch-Package-Votes=57

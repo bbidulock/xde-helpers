@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=LLCon
+Comment=Internet Jam Session Software
+Icon=llcon
+TryExec=/usr/bin/llcon
+Exec=llcon
+Categories=AudioVideo;Audio;Network;Music;
+X-AppInstall-Package=llcon
+X-AppInstall-Section=aur
+X-Arch-Package=llcon 3.2.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=llcon
+X-Arch-Package-Version=3.2.1-1
+X-Arch-Package-Description=Low-Latency (Internet) Connection tool for real-time jam sessions
+X-Arch-Package-URL=http://sourceforge.net/projects/llcon/

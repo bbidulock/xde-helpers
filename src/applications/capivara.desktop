@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Capivara
+Comment=File manager with support for SFTP/FTP servers and synchronization features.
+Comment[fr]=Gestionnaire de fichiers intégrant le support des serveurs SFTP/FTP et de la synchronisation.
+TryExec=/usr/bin/capivara
+Exec=/usr/bin/capivara
+Categories=Network;
+MimeType=text/plain;
+StartupNotify=true
+X-AppInstall-Package=capivara
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=capivara 0.8.9-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=capivara
+X-Arch-Package-Version=0.8.9-2
+X-Arch-Package-Description=A graphical file transfer and file synchronization
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://capivara.sourceforge.net
+X-Arch-Package-Votes=4

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Dwarf Fortress
+GenericName=Dwarf Fortress
+Comment=A single-player fantasy game.
+Icon=dwarffortress
+TryExec=/usr/bin/dwarffortress-ih
+Exec=dwarffortress-ih
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=dwarffortress-ironhand
+X-AppInstall-Popcon=48
+X-AppInstall-Section=aur
+X-Arch-Package=dwarffortress-ironhand 0.40.24-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dwarffortress-ironhand
+X-Arch-Package-Version=0.40.24-3
+X-Arch-Package-Description=A single-player fantasy game. You control a dwarven outpost or
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://dffd.wimbli.com/file.php?id=8747
+X-Arch-Package-Votes=48
+Aliases=dwarffortress;

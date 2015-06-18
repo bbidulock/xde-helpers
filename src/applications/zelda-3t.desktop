@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Zelda: Time to Triumph
+Comment=Third Game in a series of fan made Zelda Games
+Icon=zelda-3t
+TryExec=/usr/bin/zelda-3t
+Exec=zelda-3t
+Categories=Game;AdventureGame;
+X-AppInstall-Package=zelda-3t
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=zelda-3t 1.9-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zelda-3t
+X-Arch-Package-Version=1.9-1
+X-Arch-Package-Description='Zelda: Time to Triumph' is a fan-made Zelda Game (english
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.zeldaroth.fr/
+X-Arch-Package-Votes=3

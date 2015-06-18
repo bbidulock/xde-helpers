@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Service
+Name=Arch Forum
+ServiceTypes=SearchProvider;
+X-AppInstall-Package=arch-konqueror-search
+X-AppInstall-Popcon=27
+X-AppInstall-Section=aur
+X-Arch-Package=arch-konqueror-search 0.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=arch-konqueror-search
+X-Arch-Package-Version=0.1-2
+X-Arch-Package-Description=Arch search engines for konqueror (AUR, Pkgs, BBS, Wiki)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://archlinux.org
+X-Arch-Package-Votes=27
+Charset=ISO 8859-7
+Keys=arfrm
+Query=http://bbs.archlinux.org/search.php?action=search&keywords=\{@}&author=&forum=-1&search_in=all&sort_by=0&sort_dir=DESC&show_as=topics&search=Submit

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=JMeter
+Comment=Load testing application
+Icon=_usr_share_pixmaps_jmeter
+TryExec=/usr/bin/jmeter
+Exec=jmeter
+Categories=Development;
+StartupNotify=false
+X-AppInstall-Package=jmeter
+X-AppInstall-Popcon=12
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jmeter
+X-Arch-Package-Version=2.13-1
+X-Arch-Package-Description=A Java desktop application designed to load test functional
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://jakarta.apache.org/jmeter/
+X-Arch-Package-Votes=12

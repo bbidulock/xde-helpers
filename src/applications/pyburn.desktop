@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=PyBurn
+Comment=A simple PyGTK client for the 'cdrecord' utility
+Icon=pyburn
+TryExec=/usr/bin/pyburn
+Exec=pyburn
+Categories=AudioVideo;Recorder;
+X-AppInstall-Package=pyburn
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=pyburn 0.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pyburn
+X-Arch-Package-Version=0.1-2
+X-Arch-Package-Description=A simple, lightweight CD-burning frontend
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.zeroflux.org/projects/pyburn
+X-Arch-Package-Votes=10

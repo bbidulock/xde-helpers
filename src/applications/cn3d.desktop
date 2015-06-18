@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Cn3d
+GenericName=Molecular structure viewer
+Comment=A visualization tool for biomolecular structures, sequences, and sequence alignments.
+Icon=cn3d42App
+TryExec=/usr/bin/cn3d
+Exec=/usr/bin/cn3d
+Categories=Education;Science;Chemistry;
+MimeType=chemical/ncbi-asn1-binary;
+StartupNotify=true
+X-AppInstall-Package=cn3d
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=cn3d 4.3-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cn3d
+X-Arch-Package-Version=4.3-3
+X-Arch-Package-Description=A visualization tool for biomolecular structures, sequences,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.ncbi.nlm.nih.gov/Structure/CN3D/cn3d.shtml
+X-Arch-Package-Votes=2

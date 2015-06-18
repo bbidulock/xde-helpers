@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Tsukihime
+Comment=A Japanese eroge dojin visual novel game that tells story of Shiki Tohno, a second year high school student of Misaki Town, who suffered a life-threatening injury when he was young
+Icon=/usr/share/pixmaps/tsukihime-en.ico
+TryExec=/usr/bin/tsukihime-en
+Exec=/usr/bin/tsukihime-en
+Categories=Application;Game;
+X-AppInstall-Package=tsukihime-en
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=tsukihime-en 1.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tsukihime-en
+X-Arch-Package-Version=1.1-1
+X-Arch-Package-Description=A Japanese eroge dojin visual novel game that tells story of
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://mirrormoon.org/projects/tsukihime
+X-Arch-Package-Votes=2

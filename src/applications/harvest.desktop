@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Harvest: Massive Encounter
+Comment=An award-winning real-time strategy game with battles of epic proportions and a unique style of resource management and exploration.
+Icon=/usr/share/pixmaps/harvest.png
+TryExec=/usr/bin/harvest
+Exec=harvest
+Categories=Game;
+X-AppInstall-Package=harvest
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=harvest 1.18-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=harvest
+X-Arch-Package-Version=1.18-2
+X-Arch-Package-Description=Harvest: Massive Encounter is an rts game with battles of epic
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.oxeyegames.com/harvest/
+X-Arch-Package-Votes=1

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=The Panda Coin
+Comment=The Panda Coin P2P Cryptocurrency
+Icon=/usr/share/pixmaps/thepandacoin.png
+TryExec=/usr/bin/thepandacoin-qt
+Exec=/usr/bin/thepandacoin-qt
+Categories=Network;
+MimeType=x-scheme-handler/thepandacoin;
+X-AppInstall-Package=thepandacoin-qt
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=thepandacoin-qt 0.8.6.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=thepandacoin-qt
+X-Arch-Package-Version=0.8.6.2-1
+X-Arch-Package-Description=A QT wallet for the cryptocurrency The Panda Coin.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://thepandacoin.com/
+X-Arch-Package-Votes=2

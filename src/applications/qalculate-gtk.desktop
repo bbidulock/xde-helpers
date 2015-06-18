@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Qalculate!
+Comment=Powerful and easy to use calculator
+Comment[nl]=Gemakkelijk te gebruiken rekenmachine met veel mogelijkheden
+Comment[sv]=Kraftfull och användarvänlig miniräknare
+Icon=qalculate.png
+TryExec=/usr/bin/qalculate-gtk
+Exec=qalculate-gtk
+Categories=Application;Utility;GNOME;
+StartupNotify=true
+X-AppInstall-Package=qalculate-gtk
+X-AppInstall-Popcon=223
+X-AppInstall-Section=extra
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=qalculate-gtk
+X-Arch-Package-Version=0.9.7-4
+X-Arch-Package-Description=GNOME frontend for libqalculate
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://qalculate.sourceforge.net/

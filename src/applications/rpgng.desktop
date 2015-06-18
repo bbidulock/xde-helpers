@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=RPG Next Gen
+GenericName=RPG Next Gen
+Comment=RPG Next Gen Editor based on Eclipse
+Icon=rpgng
+TryExec=/usr/bin/rpgng
+Exec=rpgng
+Categories=Development;
+X-AppInstall-Package=rpgng
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=rpgng 0.5.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rpgng
+X-Arch-Package-Version=0.5.5-1
+X-Arch-Package-Description=RPG Next Gen Editor is a lightweight RPG (Report Program
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://rpgnextgen.sourceforge.net/
+X-Arch-Package-Votes=1

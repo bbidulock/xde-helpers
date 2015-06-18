@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Superbrothers: Sword & Sworcery EP
+Comment=An exploratory action adventure videogame with an emphasis on audiovisual style
+Icon=/opt/swordandsworcery/icon_512.png
+TryExec=/usr/bin/swordandsworcery
+Exec=/usr/bin/swordandsworcery
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=swordandsworcery
+X-AppInstall-Popcon=12
+X-AppInstall-Section=aur
+X-Arch-Package=swordandsworcery 1.02-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=swordandsworcery
+X-Arch-Package-Version=1.02-2
+X-Arch-Package-Description=An exploratory action adventure videogame with an emphasis on
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.swordandsworcery.com/
+X-Arch-Package-Votes=12

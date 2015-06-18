@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Syder Arcade
+Comment=A free scrolling multi directional shoot 'em up
+Icon=syder-arcade
+TryExec=/usr/bin/syder-arcade
+Exec=syder-arcade
+Categories=Application;Game;ArcadeGame;
+StartupNotify=true
+X-AppInstall-Package=-hib
+X-AppInstall-Section=aur
+X-Arch-Package=syder-arcade-hib 1396896809-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=-hib
+X-Arch-Package-Version=1396896809-2
+X-Arch-Package-Description=A free scrolling multi directional shoot 'em up
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.studioevil.com/games/syder-arcade
+X-Arch-Package-Votes=0

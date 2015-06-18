@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=4K Video Downloader
+GenericName=4K Video Downloader
+Comment=Download online video
+Icon=4kvideodownloader.png
+TryExec=/usr/bin/4kvideodownloader
+Exec=4kvideodownloader
+Categories=Network;Qt;
+X-AppInstall-Package=4kvideodownloader
+X-AppInstall-Popcon=15
+X-AppInstall-Section=aur
+X-Arch-Package=4kvideodownloader 3.5.6.1730-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=4kvideodownloader
+X-Arch-Package-Version=3.5.6.1730-1
+X-Arch-Package-Description=Quickly download videos from YouTube in high-quality.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.4kdownload.com/products/product-videodownloader
+X-Arch-Package-Votes=15

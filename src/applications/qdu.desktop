@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=qdu
+Comment=graphical disk usage monitor
+TryExec=/usr/bin/qdu
+Exec=qdu
+Categories=Application;System;
+X-AppInstall-Package=qdu
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=qdu 2.2-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qdu
+X-Arch-Package-Version=2.2-4
+X-Arch-Package-Description=A graphical disk usage tool based on Qt
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://freshmeat.net/redir/qdu/38383/url_homepage/QDU
+X-Arch-Package-Votes=5

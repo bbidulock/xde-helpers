@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Here And There Along The Echo
+Comment=Here And There Along The Echo - Kentucky Route Zero
+Icon=here-and-there-along-the-echo
+TryExec=/usr/bin/here-and-there-along-the-echo
+Exec=/usr/bin/here-and-there-along-the-echo
+Categories=Game;AdventureGame;
+X-AppInstall-Package=here-and-there-along-the-echo
+X-AppInstall-Section=aur
+X-Arch-Package=here-and-there-along-the-echo 1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=here-and-there-along-the-echo
+X-Arch-Package-Version=1-2
+X-Arch-Package-Description=Here And There Along The Echo - Kentucky Route Zero
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kentuckyroutezero.com/here-and-there-along-the-echo/
+X-Arch-Package-Votes=0

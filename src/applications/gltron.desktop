@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=GLTron
+GenericName=GLTron
+Comment=Lightcycle game with a nice 3D perspective.
+Icon=/usr/share/gltron/pics/gltron.png
+TryExec=/usr/bin/gltron
+Exec=gltron
+Terminal=False
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=gltron
+X-AppInstall-Popcon=38
+X-AppInstall-Section=aur
+X-Arch-Package=gltron 0.70-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gltron
+X-Arch-Package-Version=0.70-5
+X-Arch-Package-Description=A tron-like lightcycle game with a nice 3D perspective
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.gltron.org
+X-Arch-Package-Votes=38

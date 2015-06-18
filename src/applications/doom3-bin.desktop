@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=DOOM III
+GenericName=DOOM III
+Icon=/usr/share/pixmaps/doom3.png
+TryExec=/usr/bin/doom3
+Exec=/usr/bin/doom3
+NoDisplay=true
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=doom3-bin
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=doom3-bin 1.3.1.1304-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=doom3-bin
+X-Arch-Package-Version=1.3.1.1304-1
+X-Arch-Package-Description=The stock Doom 3 binaries. Punkbuster compatible. You need the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.doom3.com/
+X-Arch-Package-Votes=9
+Aliases=doom3;

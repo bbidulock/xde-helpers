@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=shadowsocks-gui
+Comment=Shadowsocks GUI client
+Icon=/opt/shadowsocks-gui/icon.png
+TryExec=/usr/bin/shadowsocks-gui
+Exec=/usr/bin/shadowsocks-gui
+Categories=Network;GNOME;GTK;
+StartupNotify=true
+X-AppInstall-Package=shadowsocks-gui
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=shadowsocks-gui 0.4-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=shadowsocks-gui
+X-Arch-Package-Version=0.4-2
+X-Arch-Package-Description=Shadowsocks GUI client
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/shadowsocks/shadowsocks-gui
+X-Arch-Package-Votes=2

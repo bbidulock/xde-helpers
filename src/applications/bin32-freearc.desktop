@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=FreeArc
+TryExec=/bin/freearc
+Exec=/bin/freearc
+NoDisplay=true
+Categories=Utility;Archiving;GTK;
+StartupNotify=false
+X-AppInstall-Package=bin32-freearc
+X-AppInstall-Section=aur
+X-Arch-Package=bin32-freearc 0.666-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bin32-freearc
+X-Arch-Package-Version=0.666-1
+X-Arch-Package-Description=FreeArc archiver combines unexampled speed/compression ratio and multitude of features
+X-Arch-Package-URL=http://freearc.sourceforge.net/
+Aliases=freearc;

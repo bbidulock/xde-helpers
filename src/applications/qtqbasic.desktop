@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=QtQbasic
+TryExec=/usr/bin/qtqbasic
+Exec=qtqbasic
+Categories=Development;Qt;
+X-AppInstall-Package=qtqbasic-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=qtqbasic-git 20130303-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qtqbasic-git
+X-Arch-Package-Version=20130303-1
+X-Arch-Package-Description=A Qt realization of QuickBASIC
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pashazz.blogspot.com
+X-Arch-Package-Votes=1

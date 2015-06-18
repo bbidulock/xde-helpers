@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=4K YouTube to MP3
+GenericName=4K YouTube to MP3
+Comment=Download online audio
+Icon=4kyoutubetomp3.png
+TryExec=/usr/bin/4kyoutubetomp3
+Exec=4kyoutubetomp3
+Categories=Network;Qt;
+X-AppInstall-Package=4kyoutubetomp3
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=4kyoutubetomp3 2.10.5.1455-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=4kyoutubetomp3
+X-Arch-Package-Version=2.10.5.1455-1
+X-Arch-Package-Description=Extract audio from YouTube, Vimeo, Facebook and other online
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.4kdownload.com/products/product-youtubetomp3
+X-Arch-Package-Votes=6

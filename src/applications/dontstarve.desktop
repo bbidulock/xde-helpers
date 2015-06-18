@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Don't Starve
+GenericName=Survival Game
+Comment=An open world survival video game
+Icon=dontstarve
+TryExec=/usr/bin/dontstarve
+Exec=/usr/bin/dontstarve
+Categories=Game;SurvivalGame;
+Path=/opt/dontstarve/
+X-AppInstall-Package=dontstarve
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=dontstarve july21-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dontstarve
+X-Arch-Package-Version=july21-1
+X-Arch-Package-Description=An open world survival video game.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.dontstarvegame.com/
+X-Arch-Package-Votes=4

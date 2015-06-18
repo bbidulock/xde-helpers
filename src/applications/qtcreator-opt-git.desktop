@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Qt Creator Unstable
+GenericName=Qt/C++ IDE
+Icon=/opt/qtcreator-git/share/icons/hicolor/48x48/apps/QtProject-qtcreator.png
+TryExec=/opt/qtcreator-git/bin/qtcreator
+Exec=/opt/qtcreator-git/bin/qtcreator
+NoDisplay=true
+Categories=Development;Qt;
+X-KDE-StartupNotify=true
+X-AppInstall-Package=qtcreator-opt-git
+X-AppInstall-Section=aur
+X-Arch-Package=qtcreator-opt-git 20130711_v2.8.0_12_g457b5e2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qtcreator-opt-git
+X-Arch-Package-Version=20130711_v2.8.0_12_g457b5e2-1
+X-Arch-Package-Description=Qt Creator is a new cross-platform integrated development
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.qtsoftware.com/products/developer-tools
+X-Arch-Package-Votes=0
+Aliases=qtcreator;

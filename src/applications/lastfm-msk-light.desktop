@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Last.fm player
+Comment=Last.fm radio player
+Icon=lastfm.png
+TryExec=/usr/bin/lastfm
+Exec=lastfm
+NoDisplay=true
+Categories=AudioVideo;Audio;Qt;
+StartupNotify=true
+X-AppInstall-Package=lastfm-msk-light
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=lastfm-msk-light 1.5.4.26862+dfsg.4a-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lastfm-msk-light
+X-Arch-Package-Version=1.5.4.26862+dfsg.4a-4
+X-Arch-Package-Description=Last.fm client with msk patchset (light version - Debian
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.mehercule.net/staticpages/index.php/lastfm
+X-Arch-Package-Votes=2
+Aliases=lastfm;

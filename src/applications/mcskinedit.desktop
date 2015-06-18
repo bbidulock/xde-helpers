@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Minecraft SkinEdit
+Comment=Skin editor for Minecraft.
+Icon=mcskinedit_128px.png
+TryExec=/usr/bin/mcskinedit
+Exec=java -jar /usr/share/mcskinedit/MCSkinEdit.jar
+Categories=Game;
+Keywords=minecraft;
+X-AppInstall-Package=mcskinedit
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=mcskinedit alpha3pre7-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mcskinedit
+X-Arch-Package-Version=alpha3pre7-2
+X-Arch-Package-Description=Minecraft Skin Editor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.minecraftforum.net/topic/3796-skinedit-new-version-13-april-alpha-3-pre-7/#entry49969
+X-Arch-Package-Votes=9

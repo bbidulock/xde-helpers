@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=KildClient
+GenericName=MUD Client
+GenericName[eo]=Kliento por konekti al MUD-oj
+GenericName[pt_BR]=Cliente de MUD
+Comment=Connect to MUDs (Multi User Dungeons)
+Comment[eo]=Konektu al MUD-oj (Multi User Dungeons)
+Comment[pt_BR]=Conecte-se a MUDs (Multi User Dungeons)
+Icon=kildclient
+TryExec=/usr/bin/kildclient
+Exec=kildclient
+Categories=Network;RolePlaying;
+StartupNotify=false
+X-AppInstall-Package=kildclient
+X-AppInstall-Popcon=19
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kildclient
+X-Arch-Package-Version=3.0.1-2
+X-Arch-Package-Description=A powerful MUD client written for GTK+ and support for Perl.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kildclient.sourceforge.net
+X-Arch-Package-Votes=19

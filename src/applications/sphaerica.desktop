@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Sphaerica
+Comment=Interactive spherical geometry software
+Icon=sphaerica.png
+TryExec=/usr/bin/sphaerica
+Exec=/usr/bin/sphaerica
+Categories=Application;Education;
+X-AppInstall-Package=sphaerica
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=sphaerica 0.9alpha_2013051LATEST-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sphaerica
+X-Arch-Package-Version=0.9alpha_2013051LATEST-1
+X-Arch-Package-Description=Interactive spherical geometry software
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sphaerica.sourceforge.net/
+X-Arch-Package-Votes=1

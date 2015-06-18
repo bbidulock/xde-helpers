@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=PDF Chain
+GenericName=pdfchain
+Comment=GUI for PDFTK - A graphical tool for manipulating PDF
+Icon=pdfchain
+TryExec=/usr/bin/pdfchain
+Exec=pdfchain
+Categories=Office;
+MimeType=application/pdf;
+StartupNotify=false
+X-AppInstall-Package=pdfchain
+X-AppInstall-Popcon=24
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pdfchain
+X-Arch-Package-Version=0.4.4-1
+X-Arch-Package-Description=PDF Chain is a Graphical User Interface for the PDF Tool Kit
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pdfchain.sourceforge.net/
+X-Arch-Package-Votes=24

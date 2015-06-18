@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Wunderlist
+GenericName=Task Manager
+Icon=/opt/wunderlist/Resources/wunderlist.png
+TryExec=/usr/bin/wunderlist
+Exec=/usr/bin/wunderlist
+Categories=Network;Office;
+X-AppInstall-Package=wunderlist
+X-AppInstall-Section=aur
+X-Arch-Package=wunderlist 1.2.4-8
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wunderlist
+X-Arch-Package-Version=1.2.4-8
+X-Arch-Package-Description=free and easy-to-use task manager
+X-Arch-Package-URL=https://s3.amazonaws.com/wunderlist/

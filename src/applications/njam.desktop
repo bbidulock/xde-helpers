@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Njam
+GenericName=Pacman Clone
+Comment=Pacman-like game with multiplayer support
+Icon=njamicon
+TryExec=/usr/bin/njam
+Exec=njam
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=njam
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=njam 1.25-8
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=njam
+X-Arch-Package-Version=1.25-8
+X-Arch-Package-Description=Full-featured cross-platform pacman-like game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://njam.sourceforge.net/
+X-Arch-Package-Votes=9

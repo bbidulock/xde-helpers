@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=D2X-XL
+GenericName=Descent
+Icon=d2x-xl
+TryExec=/usr/bin/d2x-xl
+Exec=d2x-xl -datadir /usr/share/d2x-xl
+Categories=Game;
+X-AppInstall-Package=d2x-xl
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=d2x-xl 1.18.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=d2x-xl
+X-Arch-Package-Version=1.18.0-2
+X-Arch-Package-Description=D2X is a port of Descent 2 to OpenGL. It is an open source
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.descent2.de
+X-Arch-Package-Votes=5

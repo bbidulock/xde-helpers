@@ -1,0 +1,22 @@
+[Desktop Entry]
+Version=1.0beta1
+Type=Application
+Name=Cute Report
+GenericName=Cute Report
+Comment=Report solution
+Icon=/usr/share/pixmaps/cutereport.ico
+TryExec=/usr/bin/cutereport_gui
+Exec=cutereport_gui
+Categories=Development;GUIDesigner;KDE;Qt;
+MimeType=application/qtrp;
+X-KDE-NativeMimeType=application/qtrp;
+X-AppInstall-Package=cutereport
+X-AppInstall-Section=aur
+X-Arch-Package=cutereport 1.0beta1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cutereport
+X-Arch-Package-Version=1.0beta1-1
+X-Arch-Package-Description=CuteReport is a free report solution. It is based on Qt4
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://cute-report.com/
+X-Arch-Package-Votes=0

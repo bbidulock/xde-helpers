@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Clamz MP3 Downloader (command-line)
+Comment=Download MP3 files from AmazonMP3.com
+TryExec=/usr/bin/clamz
+Exec=clamz "--default-output-dir=\\${XDG_MUSIC_DIR:-\\$HOME/Music}/\\${album_artist}/\\${album}"
+Terminal=true
+Categories=Network;
+MimeType=audio/x-amzxml;
+StartupNotify=false
+X-AppInstall-Package=clamz
+X-AppInstall-Popcon=16
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=clamz
+X-Arch-Package-Version=0.5-2
+X-Arch-Package-Description=Command-line program to download MP3 files from Amazon.com's music store.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/clamz/

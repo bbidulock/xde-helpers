@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=TTB Teletekst Browser
+Comment=Teletekst Browser
+Comment[nl]=Bekijk Teletekst op je computer
+Icon=ttb
+TryExec=/usr/bin/ttb
+Exec=ttb
+Categories=Network;
+StartupNotify=false
+X-AppInstall-Package=ttb
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ttb
+X-Arch-Package-Version=20101101-1
+X-Arch-Package-Description=Browser for Teletekst pages in The Netherlands
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.djcbsoftware.nl/code/ttb/
+X-Arch-Package-Votes=1

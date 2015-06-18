@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Mokoi Gaming
+GenericName=Mokoi Gaming
+Icon=mokoi-gaming
+TryExec=/usr/bin/luxengine
+Exec=luxengine
+Categories=Game;
+MimeType=application/x-mokoi-game;
+StartupNotify=true
+X-AppInstall-Package=mokoigaming-luxengine
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=mokoigaming-luxengine 0.92-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mokoigaming-luxengine
+X-Arch-Package-Version=0.92-1
+X-Arch-Package-Description=SDL-based game engine that runs mokoi games
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://mokoi.info/
+X-Arch-Package-Votes=3

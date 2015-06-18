@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=DMDirc
+GenericName=IRC Client
+Comment=A simple Java client for IRC
+Icon=/usr/share/java/dmdirc/icon.svg
+TryExec=/usr/bin/dmdirc
+Exec=dmdirc
+Categories=Network;IRCClient;
+X-AppInstall-Package=dmdirc
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=dmdirc 0.8.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dmdirc
+X-Arch-Package-Version=0.8.1-1
+X-Arch-Package-Description=A simple Java client for IRC
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.dmdirc.com/
+X-Arch-Package-Votes=4

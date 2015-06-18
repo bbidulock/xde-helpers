@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Open Movie Editor
+Comment=Simple non-linear video edito
+Icon=_usr_share_pixmaps_openmovieeditor
+TryExec=/usr/bin/openmovieeditor
+Exec=openmovieeditor
+Categories=Application;AudioVideo;
+StartupNotify=false
+X-AppInstall-Package=openmovieeditor
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=openmovieeditor
+X-Arch-Package-Version=0.0.20090105-8
+X-Arch-Package-Description=A simple video editor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://openmovieeditor.sourceforge.net/HomePage
+X-Arch-Package-Votes=5

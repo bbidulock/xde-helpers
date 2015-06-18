@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Emma
+GenericName=Database Administration
+Comment=MySQL managing assistant
+Icon=emma
+TryExec=/usr/bin/emma
+Exec=emma
+Categories=Development;Database;GNOME;GTK;
+StartupNotify=true
+X-AppInstall-Package=emma
+X-AppInstall-Popcon=42
+X-AppInstall-Section=aur
+X-Arch-Package=emma 0.6-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=emma
+X-Arch-Package-Version=0.6-4
+X-Arch-Package-Description=A platform-independent mysql administrator frontend using
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.fastflo.de/projects/emma
+X-Arch-Package-Votes=42

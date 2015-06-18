@@ -1,0 +1,22 @@
+[Desktop Entry]
+Version=1
+Type=Application
+Name=Juniper's Knot
+Comment=A short kinetic novel crafted in a month by Dischan, Juniper's Knot is a story told from dual perspectives: that of a demon and a boy.
+Icon=junipersknot
+TryExec=/usr/bin/junipersknot
+Exec=/usr/bin/junipersknot
+NoDisplay=true
+Categories=Application;Game;
+X-AppInstall-Package=junipersknot
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=junipersknot 1.0-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=junipersknot
+X-Arch-Package-Version=1.0-4
+X-Arch-Package-Description=A short kinetic novel crafted in a month by Dischan, Juniper's
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://junipersknot.dischan.org/
+X-Arch-Package-Votes=5
+Aliases=dischan_JunipersKnot;

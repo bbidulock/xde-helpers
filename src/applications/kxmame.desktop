@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=kxmame
+GenericName=Frontend for xmame
+Icon=kxmame.png
+TryExec=/usr/bin/kxmame
+Exec=kxmame
+MultipleArgs=false
+Categories=Application;Network;
+StartupNotify=false
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=kxmame
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=kxmame 1.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kxmame
+X-Arch-Package-Version=1.2-2
+X-Arch-Package-Description=KDE port of GXmame frontend for xmame emulator.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/kxmame
+X-Arch-Package-Votes=10

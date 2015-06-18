@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Remote Access
+GenericName=Remote Access
+Comment=Remote Access
+Icon=/usr/share/pixmaps/remoteaccess.png
+TryExec=/usr/bin/remoteaccess
+Exec=/usr/bin/remoteaccess
+Categories=Network;
+StartupNotify=true
+X-AppInstall-Package=remoteaccess
+X-AppInstall-Section=aur
+X-Arch-Package=remoteaccess 0.1.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=remoteaccess
+X-Arch-Package-Version=0.1.4-1
+X-Arch-Package-Description=Programma per la gestione delle connessioni rdp, vnc e
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/remoteaccess-qt/
+X-Arch-Package-Votes=0

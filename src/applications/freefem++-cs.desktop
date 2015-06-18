@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=FreeFem++-cs
+GenericName=FreeFem++ integrated environment
+Icon=applications-development
+TryExec="/${HOME}/FreeFem++-cs_12.11/FreeFem++-cs"
+Exec="/${HOME}/FreeFem++-cs_12.11/FreeFem++-cs"
+NoDisplay=true
+Path="${HOME}/FreeFem++-cs_12.11/"
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=freefem++-cs
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=freefem++-cs 13.14-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=freefem++-cs
+X-Arch-Package-Version=13.14-5
+X-Arch-Package-Description=A PDE oriented language using the finite element method
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.ann.jussieu.fr/~lehyaric/ffcs/
+X-Arch-Package-Votes=3
+Aliases=ffcs;

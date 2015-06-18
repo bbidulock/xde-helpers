@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=FL_TeacherTool
+Comment=An application suite for classroom management
+Icon=fl_teachertool
+TryExec=/usr/bin/gksu
+Exec=gksu fl_teachertool -D FL_TeacherTool
+Categories=Network;RemoteAccess;
+X-AppInstall-Package=fl_teachertool
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=fl_teachertool 0.70-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fl_teachertool
+X-Arch-Package-Version=0.70-1
+X-Arch-Package-Description=A classroom management suite
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www3.telus.net/public/robark/Fl_TeacherTool/
+X-Arch-Package-Votes=2

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Battery Monitor (batmon)
+Name[bg]=Монитор за заряда на батерията (batmon)
+Comment=Monitor battery status
+Comment[bg]=Следене на заряда на батерията
+Icon=/usr/lib/GNUstep/Applications/batmon.app/Resources/Batmon_icon.tiff
+TryExec=/usr/bin/batmon
+Exec=batmon
+Categories=System;Monitor;
+StartupNotify=false
+X-AppInstall-Package=batmon
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=batmon
+X-Arch-Package-Version=0.8-1
+X-Arch-Package-Description=GNUstep battery monitor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.nongnu.org/gap/batmon
+X-Arch-Package-Votes=1

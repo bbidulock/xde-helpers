@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Kokua
+GenericName=A third-party viewer for Second Life (C) and OpenSim grids
+Comment=A third party viewer for Second Life (C) and OpenSim grids
+Icon=/usr/share/pixmaps/kokua-bin.png
+TryExec=/usr/bin/kokua-bin
+Exec=/usr/bin/kokua-bin
+Categories=Game;
+X-AppInstall-Package=kokua-bin
+X-AppInstall-Section=aur
+X-Arch-Package=kokua-bin 3.7.12.34831-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kokua-bin
+X-Arch-Package-Version=3.7.12.34831-1
+X-Arch-Package-Description=An Open Source third party viewer for Second Life® (secondlife) and OpenSim (opensimulator) grids.
+X-Arch-Package-URL=http://www.kokuaviewer.org

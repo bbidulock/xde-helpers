@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Eets Munchies
+GenericName=Puzzle Game
+Comment=Klei Entertainment
+Icon=eetsmunchies
+TryExec=/usr/bin/eetsmunchies
+Exec=/usr/bin/eetsmunchies
+Categories=Game;
+X-AppInstall-Package=eetsmunchies-hib
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=eetsmunchies-hib beta97446+h20140311-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=eetsmunchies-hib
+X-Arch-Package-Version=beta97446+h20140311-1
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kleientertainment.com/games/eets-munchies/
+X-Arch-Package-Votes=2

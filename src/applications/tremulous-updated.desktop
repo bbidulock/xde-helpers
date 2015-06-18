@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Tremulous
+Comment=A free team based FPS/RTS hybrid built on the ioq3 engine. Includes community updates.
+Icon=/usr/share/pixmaps/tremulous.xpm
+TryExec=/usr/bin/tremulous
+Exec=tremulous
+NoDisplay=true
+Categories=Game;ActionGame;
+X-AppInstall-Package=tremulous-updated
+X-AppInstall-Section=aur
+X-Arch-Package=tremulous-updated 1.1.0-7
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tremulous-updated
+X-Arch-Package-Version=1.1.0-7
+X-Arch-Package-Description=A free team based FPS/RTS hybrid built on the ioq3 engine. Includes community updates.
+X-Arch-Package-URL=http://tremulous.net
+Aliases=tremulous;

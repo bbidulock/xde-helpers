@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=KCC
+GenericName=Chinese Checkers game for KDE
+GenericName[de]=Halmaspiel für KDE
+Comment=GGZ Chinese Checkers game
+Comment[de]=GGZ Halmaspiel
+Icon=kcc
+TryExec=/usr/lib/ggz/kcc
+Exec=/usr/lib/ggz/kcc
+Categories=Game;BoardGame;KDE;Qt;X-GGZ-Games;
+StartupNotify=false
+X-AppInstall-Package=kcc
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kcc
+X-Arch-Package-Version=4.5.1-1
+X-Arch-Package-Description=Kindle Comic Converter converts comic files or folders to ePub
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/ciromattia/kcc
+X-Arch-Package-Votes=7

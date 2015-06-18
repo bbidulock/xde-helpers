@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=MouseTrap
+Comment=Controls the mouse via Webcam.
+Icon=mousetrap
+TryExec=/usr/bin/mousetrap
+Exec=mousetrap
+Categories=Utility;Accessibility;GNOME;GTK;
+StartupNotify=true
+X-AppInstall-Package=gnome-
+X-AppInstall-Popcon=9
+X-AppInstall-Section=main
+X-Arch-Package-Name=gnome-
+X-Arch-Package-Version=3.17.1-2
+X-Arch-Package-Description=a standalone GNOME application that allows users with physical
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://wiki.gnome.org/Projects/MouseTrap
+X-Arch-Package-Votes=0

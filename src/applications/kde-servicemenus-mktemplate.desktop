@@ -1,0 +1,27 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=KonqPopupMenu/Plugin;
+NoDisplay=true
+MimeType=all/allfiles;
+X-KDE-StartupNotify=false
+X-AppInstall-Package=kde-servicemenus-mktemplate
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=kde-servicemenus-mktemplate 20140503-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kde-servicemenus-mktemplate
+X-Arch-Package-Version=20140503-1
+X-Arch-Package-Description=Create user templates from existing files.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://opendesktop.org/content/show.php?content=165089
+X-Arch-Package-Votes=1
+Aliases=mktemplate;
+X-KDE-Priority=TopLevel
+Actions=makeTemplate;
+
+[Desktop Action makeTemplate]
+Name=Create template...
+Name[pl]=Stwórz szablon...
+Icon=text-x-generic-template
+TryExec=/usr/bin/mktemplate
+Exec=mktemplate "%u"

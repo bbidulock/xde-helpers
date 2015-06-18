@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=BOUML
+Comment=Free UML 2 modeler
+Icon=bouml
+TryExec=/usr/bin/bouml
+Exec=/usr/bin/bouml
+Categories=Development;
+StartupNotify=false
+X-AppInstall-Package=bouml
+X-AppInstall-Popcon=92
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bouml
+X-Arch-Package-Version=6.8.1-1
+X-Arch-Package-Description=A free UML 2 modeler with C++, Idl, Java, PHP and Python code
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://bouml.fr/
+X-Arch-Package-Votes=77

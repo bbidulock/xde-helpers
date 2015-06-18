@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Minicomputer
+Comment=An industrial grade software synthesizer
+Icon=minicomputer
+TryExec=/usr/bin/minicomputer
+Exec=minicomputer
+Categories=Application;AudioVideo;
+X-AppInstall-Package=minicomputer
+X-AppInstall-Popcon=16
+X-AppInstall-Section=aur
+X-Arch-Package=minicomputer 1.41-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=minicomputer
+X-Arch-Package-Version=1.41-3
+X-Arch-Package-Description=A standalone Linux softwaresynthesizer for creating
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://minicomputer.sourceforge.net
+X-Arch-Package-Votes=16

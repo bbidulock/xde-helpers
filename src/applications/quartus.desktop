@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Quartus II
+Comment=Quartus II design software for Altera FPGA's
+Icon=_alteradir/quartus/adm/quartusii.png
+TryExec=_alteradir/quartus/bin/quartus
+Exec=_alteradir/quartus/bin/quartus
+Categories=Development;
+X-AppInstall-Package=quartus-free130
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=quartus-free130 13.0.1.232-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=quartus-free130
+X-Arch-Package-Version=13.0.1.232-2
+X-Arch-Package-Description=Quartus II 13.0 Web Edition, the last version to support
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.altera.com/products/software/quartus-ii/web-edition
+X-Arch-Package-Votes=1

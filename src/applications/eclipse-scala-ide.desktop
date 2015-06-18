@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Scala-IDE
+GenericName=Scala IDE for Eclipse
+Icon=/usr/share/eclipse/dropins/scala-ide/icon.png
+TryExec=/usr/bin/eclipse
+Exec=/usr/bin/eclipse
+NoDisplay=true
+Categories=Development;
+X-AppInstall-Package=eclipse-scala-ide
+X-AppInstall-Popcon=42
+X-AppInstall-Section=aur
+X-Arch-Package=eclipse-scala-ide 4.0.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=eclipse-scala-ide
+X-Arch-Package-Version=4.0.0-3
+X-Arch-Package-Description=Scala IDE for Eclipse
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.scala-ide.org/
+X-Arch-Package-Votes=42
+Aliases=scala-ide;

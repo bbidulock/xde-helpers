@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Labeler
+Comment=LightScribe Simple Labeler
+Icon=lightscribe-labeler.png
+TryExec=/usr/bin/lightscribe-labeler
+Exec=lightscribe-labeler
+Categories=Application;AudioVideo;
+X-AppInstall-Package=bin32-lightscribe-labeler
+X-AppInstall-Popcon=18
+X-AppInstall-Section=aur
+X-Arch-Package=bin32-lightscribe-labeler 1.18.15.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bin32-lightscribe-labeler
+X-Arch-Package-Version=1.18.15.1-2
+X-Arch-Package-Description=LightScribe Simple Labeler
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.pawtec.com/lightscribe
+X-Arch-Package-Votes=18

@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=MuseScore
+GenericName=mscore
+GenericName[ru]=MuseScore
+Comment=WYSIWYG Music score typesetter
+Comment[ru]=Визуальный редактор нотных партитур
+Icon=mscore
+TryExec=/usr/bin/mscore
+Exec=mscore
+Categories=AudioVideo;Audio;Midi;Sequencer;AudioVideoEditing;Music;Qt;
+MimeType=application/x-musescore;application/x-musescore+xml;application/vnd.recordare.musicxml;application/vnd.recordare.musicxml+xml;
+StartupNotify=true
+X-AppInstall-Package=musescore
+X-AppInstall-Popcon=171
+X-AppInstall-Section=community
+X-AppInstall-Architectures=amd64,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=musescore
+X-Arch-Package-Version=2.0.1-1
+X-Arch-Package-Description=Create, play and print beautiful sheet music
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://musescore.org/

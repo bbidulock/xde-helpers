@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Eschalon: Book I
+GenericName=Turnbased RPG
+Comment=Eschalon: Book I is a classic role-playing game experience that will take you across massive outdoor environments and deep into sprawling dungeons as you seek to uncover the mystery of who – or what – you are.
+Icon=/usr/share/pixmaps/EschalonBook1.png
+TryExec=/usr/bin/eschalon1
+Exec=eschalon1
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=eschalon1
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=eschalon1 1.04-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=eschalon1
+X-Arch-Package-Version=1.04-3
+X-Arch-Package-Description=Eschalon: Book I is a classic role-playing game experience
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://basiliskgames.com/eschalon-book-i
+X-Arch-Package-Votes=2

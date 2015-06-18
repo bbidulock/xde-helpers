@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Jape
+Comment=Graphical proof assistant
+Icon=jape
+TryExec=/usr/bin/jape
+Exec=jape
+Categories=Education;Science;Java;
+X-AppInstall-Package=jape
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=jape 7_d14-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jape
+X-Arch-Package-Version=7_d14-1
+X-Arch-Package-Description=A configurable, graphical proof assistant.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://japeforall.org.uk/
+X-Arch-Package-Votes=4

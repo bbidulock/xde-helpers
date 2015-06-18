@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Project: Starfighter
+GenericName=Shoot 'em up Game
+GenericName[sv]=Shoot 'em up spel
+Comment=Play a 2D mission-based shoot 'em up game
+Comment[sv]=Ett 2D uppdragsbaserat shoot 'em up spel
+Icon=starfighter
+TryExec=/usr/bin/starfighter
+Exec=starfighter
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=starfighter
+X-AppInstall-Popcon=17
+X-AppInstall-Section=aur
+X-Arch-Package=starfighter 1.2-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=starfighter
+X-Arch-Package-Version=1.2-4
+X-Arch-Package-Description=2D mission-based space shooter
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/pr-starfighter
+X-Arch-Package-Votes=17

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=FB4Linux
+GenericName=Facebook desktop app
+Icon=/usr/share/pixmaps/FB4Linux.png
+TryExec=/usr/bin/fb4linux
+Exec=fb4linux
+NoDisplay=true
+Categories=Network;
+X-AppInstall-Package=facebook-for-linux
+X-AppInstall-Popcon=14
+X-AppInstall-Section=aur
+X-Arch-Package=facebook-for-linux 6.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=facebook-for-linux
+X-Arch-Package-Version=6.0-3
+X-Arch-Package-Description=Desktop application to connect to Facebook, Twitter and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://launchpad.net/facebookwindoof
+X-Arch-Package-Votes=14
+Aliases=FB4Linux;

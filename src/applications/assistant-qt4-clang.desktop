@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Qt4 Assistant(Clang)
+Comment=Shows Qt4 documentation and examples
+Icon=assistant-qt4-clang
+TryExec=/usr/bin/assistant-qt4-clang
+Exec=assistant-qt4-clang
+Categories=Development;Documentation;Qt;
+X-AppInstall-Package=qt4-clang
+X-AppInstall-Section=aur
+X-Arch-Package=qt4-clang 4.8.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qt4-clang
+X-Arch-Package-Version=4.8.6-1
+X-Arch-Package-Description=A cross-platform application and UI framework (Built with
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://qt-project.org/
+X-Arch-Package-Votes=0

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Version=7.0.0
+Type=Application
+Name=Eclipse-cpp
+Name[en_US]=eclipse-cpp
+Name[zh_CN]=eclipse C/C++开发环境
+Comment=C/C++ Open Development Platform
+Icon=eclipse-cpp
+TryExec=/opt/eclipse-cpp/eclipse
+Exec=/opt/eclipse-cpp/eclipse
+NoDisplay=true
+Categories=Development;IDE;GTK;
+StartupNotify=true
+X-AppInstall-Package=eclipse-c++
+X-AppInstall-Section=aur
+X-Arch-Package=eclipse-c++ 7.0.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=eclipse-c++
+X-Arch-Package-Version=7.0.0-3
+X-Arch-Package-Description=Eclipse IDE for C/C++ Developers (gtk verison)
+X-Arch-Package-URL=http://eclipse.org
+Aliases=eclipse-cpp;

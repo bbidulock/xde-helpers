@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=JClic
+Comment=Multimedia educational activities: puzzles, associations, text exercises, crosswords, scrambled letters, etc.
+Comment[ca]=Activitats educatives multimèdia: puzzles, associacions, exercicis de text, mots encreuats, sopes de lletres i altres.
+Comment[es]=Actividades educativas multimedia: puzzles, asociaciones, ejercicios de texto, crucigramas, sopas de letras, etc.
+Comment[valencia]=Activitats educatives multimèdia: puzzles, associacions, exercicis de text, mots encreuats, sopes de lletres i altres.
+Icon=jclic.png
+TryExec=/usr/bin/jclic
+Exec=jclic %U
+Categories=Application;Education;
+StartupNotify=false
+X-AppInstall-Package=jclic
+X-AppInstall-Popcon=140
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jclic
+X-Arch-Package-Version=0.2.3.4-3
+X-Arch-Package-Description=Java applications for educational activities.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://projectes.lafarga.cat/projects/jclic
+X-Arch-Package-Votes=0

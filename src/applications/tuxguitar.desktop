@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=tuxguitar
+Comment=Edit, playback guitar tablatures
+Comment[es]=Edita, reproduce tablaturas de guitarra
+Comment[fr]=Edite, joue des tablatures de guitare
+Icon=tuxguitar
+TryExec=/usr/bin/tuxguitar
+Exec=tuxguitar
+Categories=AudioVideo;Audio;
+MimeType=audio/x-tuxguitar;audio/x-gtp;audio/x-ptb;
+StartupNotify=false
+X-AppInstall-Package=tuxguitar
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=tuxguitar
+X-Arch-Package-Version=1.2-7
+X-Arch-Package-Description=multitrack guitar tablature editor and player
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/tuxguitar

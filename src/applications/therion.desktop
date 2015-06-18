@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Therion Cave Survey Software
+GenericName=Cave Surveying Tool
+Comment=Draw up surveys in Therion format
+Icon=therion
+TryExec=/usr/bin/xtherion
+Exec=xtherion
+Categories=Application;Science;Geology;
+StartupNotify=false
+X-AppInstall-Package=therion
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=therion
+X-Arch-Package-Version=5.3.15-2
+X-Arch-Package-Description=Cave map rendering software
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://therion.speleo.sk/
+X-Arch-Package-Votes=3

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=ii-esu
+GenericName=ii-esu
+Comment=HIZ's ES
+Icon=ii-esu
+TryExec=/usr/bin/ii-esu
+Exec=ii-esu
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=ii-esu
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ii-esu
+X-Arch-Package-Version=1.0a-3
+X-Arch-Package-Description=An inventive shooter game.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://hizuoka.web.fc2.com/game/ES/index_en.html
+X-Arch-Package-Votes=2

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Spoon
+Comment=Pentaho Data Integration delivers powerful Extraction, Transformation and Loading (ETL) capabilities using an innovative, metadata-driven approach.
+Icon=/usr/share/data-integration/spoon.png
+TryExec=/usr/bin/spoon.sh
+Exec=/usr/bin/spoon.sh
+NoDisplay=true
+Categories=Utility;
+StartupNotify=false
+X-AppInstall-Package=kettle
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=kettle 5.2.0.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kettle
+X-Arch-Package-Version=5.2.0.0-2
+X-Arch-Package-Description=Pentaho Data Integration Community Edition (Kettle) is an ETL
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kettle.pentaho.com/
+X-Arch-Package-Votes=6
+Aliases=spoon;

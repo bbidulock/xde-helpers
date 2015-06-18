@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=DNS Query Tool
+Comment=Perform advanced DNS queries
+Icon=gresolver
+TryExec=/usr/bin/gresolver
+Exec=gresolver
+Categories=Network;
+StartupNotify=true
+X-AppInstall-Package=gresolver
+X-AppInstall-Popcon=22
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=gresolver
+X-Arch-Package-Version=0.0.5-10
+X-Arch-Package-Description=A graphical frontend for dig
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://jodrell.net/projects/gresolver

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Warsow
+GenericName=Warsow
+Comment=Online Multiplayer Competitive FPS
+Icon=/usr/share/pixmaps/warsow.ico
+TryExec=/usr/bin/warsow
+Exec=/usr/bin/warsow
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=warsow-openbox
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=warsow-openbox 1.03-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=warsow-openbox
+X-Arch-Package-Version=1.03-1
+X-Arch-Package-Description=A free online multiplayer competitive FPS based on the Qfusion
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.warsow.net/
+X-Arch-Package-Votes=1

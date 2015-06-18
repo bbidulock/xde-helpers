@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=World of Padman
+Comment=Cartoon-style multiplayer first-person shooter
+Icon=worldofpadman.svg
+TryExec=/usr/bin/wop
+Exec=wop
+Categories=Game;ActionGame;
+X-AppInstall-Package=worldofpadman
+X-AppInstall-Popcon=78
+X-AppInstall-Section=aur
+X-Arch-Package=worldofpadman 1.6-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=worldofpadman
+X-Arch-Package-Version=1.6-4
+X-Arch-Package-Description=Cartoon-style multiplayer first-person shooter
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.worldofpadman.com/
+X-Arch-Package-Votes=78

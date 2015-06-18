@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Splice
+Comment=A unique puzzle game involving DNA strand manipulation.
+Icon=splice-hib
+TryExec=/usr/bin/splice-hib
+Exec=splice-hib
+Categories=Game;LogicGame;
+X-AppInstall-Package=splice-hib
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=splice-hib 1.0-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=splice-hib
+X-Arch-Package-Version=1.0-5
+X-Arch-Package-Description=A unique puzzle game involving DNA strand manipulation.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.cipherprime.com/games/splice
+X-Arch-Package-Votes=4

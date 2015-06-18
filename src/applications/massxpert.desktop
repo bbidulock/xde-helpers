@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=massXpert
+GenericName=Mass spectrometry
+GenericName[es]=Espectrometria de masa
+GenericName[fr]=Spectrométrie de masse
+GenericName[it]=Spettrometria di massa
+Comment=Bio-polymer mass spectrometry software
+Icon=massxpert-icon-32.xpm
+TryExec=/usr/bin/massxpert
+Exec=massxpert
+Terminal=true
+Categories=Education;Science;Biology;Chemistry;Physics;
+StartupNotify=false
+X-AppInstall-Package=massxpert
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=massxpert
+X-Arch-Package-Version=3.4.0-2
+X-Arch-Package-Description=A mass spectromic software suite based on Qt 4
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://massxpert.org/wiki/
+X-Arch-Package-Votes=1

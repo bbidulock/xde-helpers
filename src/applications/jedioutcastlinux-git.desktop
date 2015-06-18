@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=JediOutcastLinux
+Comment=Singleplayer Open Source Jedi Knight II Engine
+Icon=jedioutcastlinux.png
+TryExec=/usr/bin/jedioutcastlinux
+Exec=/usr/bin/jedioutcastlinux
+NoDisplay=true
+Categories=Game;
+Path=/usr/share/jedioutcastlinux
+StartupNotify=false
+X-AppInstall-Package=jedioutcastlinux-git
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=jedioutcastlinux-git 169addd-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jedioutcastlinux-git
+X-Arch-Package-Version=169addd-1
+X-Arch-Package-Description=Singleplayer Jedi Knight II: Jedi Outcast. needs original
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/xLAva/JediOutcastLinux
+X-Arch-Package-Votes=10
+Aliases=jedioutcastlinux;

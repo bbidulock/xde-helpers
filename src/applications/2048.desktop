@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=2048
+Comment=Join the numbers and get to the 2048 tile!
+Icon=/usr/share/2048/meta/apple-touch-icon.png
+TryExec=/usr/bin/xdg-open
+Exec=xdg-open /usr/share/2048/index.html
+Categories=Game;
+X-AppInstall-Package=2048-git
+X-AppInstall-Popcon=15
+X-AppInstall-Section=aur
+X-Arch-Package=2048-git 5385464-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=2048-git
+X-Arch-Package-Version=5385464-1
+X-Arch-Package-Description=Join the numbers and get to the 2048 tile!
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gabrielecirulli.github.io/2048/
+X-Arch-Package-Votes=15

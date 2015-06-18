@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Hdate
+Name[he]=לוח שנה עברי
+Comment=Hebrew desktop calendar
+Comment[he]=לוח שנה המציג את התאריך העברי
+Icon=accessories-calendar
+TryExec=/usr/bin/ghcal
+Exec=ghcal
+Categories=Utility;Calendar;GNOME;GTK;
+StartupNotify=false
+X-AppInstall-Package=hdate-applet
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=hdate-applet
+X-Arch-Package-Version=0.15.11-3
+X-Arch-Package-Description=Is an applet to show the hebrew date (calendar) using the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://hdateapplet.sourceforge.net/
+X-Arch-Package-Votes=1

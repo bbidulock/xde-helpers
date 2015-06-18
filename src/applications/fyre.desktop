@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Fyre
+Comment=Render Peter de Jong maps
+Comment[de]=Peter de Jong-Grafiken berechnen
+Icon=_usr_share_pixmaps_fyre
+TryExec=/usr/bin/fyre
+Exec=/usr/bin/fyre
+Categories=Application;Graphics;2DGraphics;
+StartupNotify=false
+X-AppInstall-Package=fyre
+X-AppInstall-Popcon=9
+X-AppInstall-Section=extra
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=fyre
+X-Arch-Package-Version=1.0.1-9
+X-Arch-Package-Description=Rendering of the Peter de Jong map
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://fyre.navi.cx/

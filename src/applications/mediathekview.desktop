@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Mediathekview
+Comment=Video downloader for ARD, ZDF, Arte, 3Sat, SWR, BR, MDR, NDR, WDR, HR, RBB, ORF, SF
+Icon=mediathekview.png
+TryExec=/usr/bin/mediathekview
+Exec=mediathekview
+Categories=AudioVideo;Video;Network;TV;Recorder;Java;
+X-AppInstall-Package=mediathekview
+X-AppInstall-Section=aur
+X-Arch-Package=mediathekview 9-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mediathekview
+X-Arch-Package-Version=9-1
+X-Arch-Package-Description=java-based downloader for several german broadcasting media centers (mediatheken), including ARD, ZDF, Arte, 3Sat, SWR, BR, MDR, NDR, WDR, HR, RBB, ORF, SF
+X-Arch-Package-URL=http://zdfmediathk.sourceforge.net/

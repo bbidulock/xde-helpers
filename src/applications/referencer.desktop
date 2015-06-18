@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Referencer
+Comment=Document organiser
+Icon=referencer
+TryExec=/usr/bin/referencer
+Exec=referencer %F
+Categories=Application;Office;GNOME;
+MimeType=application/x-referencer;
+StartupNotify=true
+X-AppInstall-Package=referencer
+X-AppInstall-Popcon=49
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=referencer
+X-Arch-Package-Version=1.2.2-3
+X-Arch-Package-Description=a Gnome application to organise documents or references, and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://launchpad.net/referencer/
+X-Arch-Package-Votes=49

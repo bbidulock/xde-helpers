@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Shadowgrounds Survivor DEMO
+Comment=Sequel to Shadowgrounds - Science fiction shoot 'em up.
+Icon=/usr/share/pixmaps/shadowgrounds-survivor-demo
+TryExec=/usr/bin/shadowgrounds-survivor-demo
+Exec=/usr/bin/shadowgrounds-survivor-demo
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=shadowgrounds-survivor-demo
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=shadowgrounds-survivor-demo 1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=shadowgrounds-survivor-demo
+X-Arch-Package-Version=1-1
+X-Arch-Package-Description=Sequel to Shadowgrounds - Science fiction shoot 'em up
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=None
+X-Arch-Package-Votes=1

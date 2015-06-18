@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=YouTranslate!
+Comment=A simple application for use Google Translate service in an easy and fast way
+Icon=youtranslate
+TryExec=/usr/bin/youtranslate
+Exec=youtranslate
+Categories=Application;Utility;
+StartupNotify=true
+X-AppInstall-Package=youtranslate
+X-AppInstall-Popcon=17
+X-AppInstall-Section=aur
+X-Arch-Package=youtranslate 1.2.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=youtranslate
+X-Arch-Package-Version=1.2.2-2
+X-Arch-Package-Description=A simple application for use Google Translate service in an
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://linux.softpedia.com/get/Utilities/YouTranslate-11031.shtml
+X-Arch-Package-Votes=17

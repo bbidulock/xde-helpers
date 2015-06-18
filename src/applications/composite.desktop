@@ -1,0 +1,22 @@
+[Desktop Entry]
+Version=0.006
+Type=Application
+Name=Composite
+GenericName=Sequencer
+Comment=Live performance sequencer, sampler, looper
+Icon=composite-icon
+TryExec=/usr/bin/composite-gui
+Exec=composite-gui %F
+Categories=AudioVideo;Audio;Qt;X-Sound;
+MimeType=text/xml;
+StartupNotify=true
+X-AppInstall-Package=composite
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=composite
+X-Arch-Package-Version=0.006.2-1
+X-Arch-Package-Description=A software application/system for real-time, in-performance
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gabe.is-a-geek.org/composite/
+X-Arch-Package-Votes=2

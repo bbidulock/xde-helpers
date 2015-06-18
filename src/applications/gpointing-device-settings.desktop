@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Pointing devices
+Comment=Set your mouse and touchpad preferences
+Icon=input-mouse
+TryExec=/usr/bin/gpointing-device-settings
+Exec=gpointing-device-settings
+OnlyShowIn=GNOME;
+Categories=Settings;HardwareSettings;GNOME;GTK;
+StartupNotify=true
+X-AppInstall-Package=gpointing-device-settings
+X-AppInstall-Popcon=757
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=gpointing-device-settings
+X-Arch-Package-Version=1.5.1-5
+X-Arch-Package-Description=GUI tool for setting pointing device such as TrackPoint or Touchpad
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://wiki.gnome.org/Attic/GPointingDeviceSettings

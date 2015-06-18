@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name[]=QuantZ
+Icon=/usr/share/icons/QuantZ/48x48.png
+TryExec=/usr/bin/QuantZ
+Exec=QuantZ
+X-AppInstall-Package=quantz
+X-AppInstall-Popcon=20
+X-AppInstall-Section=aur
+X-Arch-Package=quantz game_1.1.4-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=quantz
+X-Arch-Package-Version=game_1.1.4-2
+X-Arch-Package-Description=A native linux non-ordinary puzzle game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.gamerizon.com/
+X-Arch-Package-Votes=20
+Role=Application

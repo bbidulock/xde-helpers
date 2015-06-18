@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=GNU Privacy Assistant
+Icon=gpa.png
+TryExec=/usr/bin/gpa
+Exec=gpa
+Categories=Application;Utility;Security;GTK;
+StartupNotify=false
+X-AppInstall-Package=gpa
+X-AppInstall-Popcon=81
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=gpa
+X-Arch-Package-Version=0.9.7-1
+X-Arch-Package-Description=A graphical user interface for the GnuPG
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://www.gnupg.org/related_software/gpa/

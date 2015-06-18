@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Simutrans x32
+Comment=Transportation simulator for x32 ABI
+Icon=simutrans
+TryExec=/usr/bin/simutrans-x32
+Exec=simutrans-x32
+NoDisplay=true
+Categories=Game;Simulation;
+X-AppInstall-Package=binx32-simutrans
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=binx32-simutrans 112.0-1.1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=binx32-simutrans
+X-Arch-Package-Version=112.0-1.1
+X-Arch-Package-Description=An open source transportation simulation game (x32 ABI)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://simutrans.com/
+X-Arch-Package-Votes=1
+Aliases=simutrans;

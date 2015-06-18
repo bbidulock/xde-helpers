@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=btnx
+Icon=btnx.png
+TryExec=/usr/bin/su-to-root
+Exec=su-to-root -X -c /usr/sbin/btnx-config
+Categories=System;
+StartupNotify=false
+X-AppInstall-Package=btnx-config
+X-AppInstall-Popcon=39
+X-AppInstall-Section=aur
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=btnx-config
+X-Arch-Package-Version=0.4.9-1
+X-Arch-Package-Description=Button Extension- a GNU/GPL mouse tool for GNU/Linux
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://launchpad.net/btnx-config
+X-Arch-Package-Votes=6

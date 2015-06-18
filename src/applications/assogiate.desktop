@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=File Types Editor
+Name[da]=Filtyperedigering
+Name[sv]=Filtypsredigerare
+Comment=Modify the detection and display of file types
+Comment[da]=Redigér filtyper
+Icon=assogiate
+TryExec=/usr/bin/assogiate
+Exec=assogiate
+OnlyShowIn=GNOME;
+Categories=System;FileTools;GNOME;GTK;X-GNOME-PersonalSettings;
+StartupNotify=false
+X-AppInstall-Package=assogiate
+X-AppInstall-Popcon=14
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=assogiate
+X-Arch-Package-Version=0.2.1-5
+X-Arch-Package-Description=An editor of the MIME file types database for GNOME
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.kdau.com/projects/assogiate/
+X-Arch-Package-Votes=29

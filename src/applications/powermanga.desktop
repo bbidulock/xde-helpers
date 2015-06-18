@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Powermanga
+GenericName=PowerManga
+Comment=Play a vertical shoot 'em up game
+Icon=powermanga
+TryExec=/usr/bin/powermanga
+Exec=powermanga
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=powermanga
+X-AppInstall-Popcon=27
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=powermanga
+X-Arch-Package-Version=0.93-1
+X-Arch-Package-Description=Arcade 2D shoot-them-up game with 41 levels and more than 200
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://linux.tlk.fr/
+X-Arch-Package-Votes=27

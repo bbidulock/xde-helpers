@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=sqrxz3 - Adventure for Love
+Comment=A fast paced jump'n'run (Part III).
+Icon=sqrxz3
+TryExec=/usr/bin/sqrxz3
+Exec=sqrxz3
+Categories=Game;
+X-AppInstall-Package=sqrxz3
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=sqrxz3 1.05r-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sqrxz3
+X-Arch-Package-Version=1.05r-2
+X-Arch-Package-Description=A fast paced jump'n'run (Part III - 'Adventure for Love')
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sqrxz.de
+X-Arch-Package-Votes=1

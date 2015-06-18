@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Avogadro
+Comment=Advanced molecular editor
+Icon=avogadro-icon
+TryExec=/usr/bin/avogadro
+Exec=avogadro %f
+Categories=Education;Science;Chemistry;Physics;Qt;
+MimeType=chemical/x-cif;chemical/x-cml;chemical/x-daylight-smiles;chemical/x-gamess-input;chemical/x-gamess-output;chemical/x-gaussian-log;chemical/x-mopac-out;chemical/x-pdb;chemical/x-xyz;chemical/x-gaussian-checkpoint;chemical/x-gaussian-cube;chemical/x-qchem-output;
+StartupNotify=true
+X-AppInstall-Package=avogadro
+X-AppInstall-Popcon=58
+X-AppInstall-Section=extra
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=avogadro
+X-Arch-Package-Version=1.1.1-5
+X-Arch-Package-Description=An advanced molecular editor based on Qt
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://avogadro.openmolecules.net/wiki/Main_Page

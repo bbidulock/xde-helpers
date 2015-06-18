@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Chamo
+GenericName=Source code editor
+GenericName[fr]=Editeur de code source
+Comment=Emacs-like editor for OCaml code
+Comment[fr]=Editeur de code OCaml \xE0 la emacs
+Icon=chamo.png
+TryExec=/usr/bin/chamo.byte
+Exec=chamo.byte
+Categories=Utility;TextEditor;GTK;
+StartupNotify=false
+X-AppInstall-Package=cameleon
+X-AppInstall-Popcon=25
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cameleon
+X-Arch-Package-Version=0.2.1-1
+X-Arch-Package-Description=A universal file converter for various
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://camaleon.sourceforge.net/index_en.html
+X-Arch-Package-Votes=2

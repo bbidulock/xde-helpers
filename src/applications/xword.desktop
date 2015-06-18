@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Xword
+GenericName=Crossword Puzzles
+Comment=Do crossword puzzles in Across Lite format
+Icon=text-editor
+TryExec=/usr/bin/xword
+Exec=xword
+Categories=Game;LogicGame;GTK;
+MimeType=application/x-crossword;
+StartupNotify=true
+X-AppInstall-Package=xword
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=xword 2.0.0rc2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xword
+X-Arch-Package-Version=2.0.0rc2-1
+X-Arch-Package-Description=Do crossword puzzles in Across Lite format
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://alioth.debian.org/projects/xword/
+X-Arch-Package-Votes=0

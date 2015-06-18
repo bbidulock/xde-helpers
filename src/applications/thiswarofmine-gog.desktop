@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=This War of Mine
+Comment=Experience war not as a soldier, but as a group of civilians in a besieged city.
+Icon=/usr/share/pixmaps/thiswarofmine-gog.png
+TryExec=/usr/bin/thiswarofmine-gog
+Exec=/usr/bin/thiswarofmine-gog
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=thiswarofmine-gog
+X-AppInstall-Section=aur
+X-Arch-Package=thiswarofmine-gog 1.2.0.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=thiswarofmine-gog
+X-Arch-Package-Version=1.2.0.3-1
+X-Arch-Package-Description=Experience war not as a soldier, but as a group of civilians
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.gog.com/game/this_war_of_mine
+X-Arch-Package-Votes=0

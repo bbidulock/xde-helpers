@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Password Manager
+Name[da]=Kodeordsorganisator
+Name[ja]=パスワード・マネージャ
+Comment=Manages your password collection
+Comment[ja]=あなたのパスワード・コレクションを管理します
+Icon=gpass-icon.png
+TryExec=/usr/bin/gpass
+Exec=/usr/bin/gpass
+Categories=Application;Utility;
+StartupNotify=false
+X-AppInstall-Package=gpass
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gpass
+X-Arch-Package-Version=0.5.1-2
+X-Arch-Package-Description=A password manegement software for GNOME2 desktop.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://projects.netlab.jp/gpass/
+X-Arch-Package-Votes=7

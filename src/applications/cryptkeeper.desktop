@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Cryptkeeper
+GenericName="Cryptkeeper manages EncFs encrypted folders"
+GenericName[de]="Cryptkeeper verwaltet verschluesselte Ordner"
+Comment="Cryptkeeper is a FreeDesktop.org (KDE, Gnome, XFce, etc.) system tray applet that manages EncFS encrypted folders.
+Icon=cryptkeeper
+TryExec=/usr/bin/cryptkeeper
+Exec=cryptkeeper
+Categories=System;Security;GTK;
+X-AppInstall-Package=cryptkeeper
+X-AppInstall-Popcon=95
+X-AppInstall-Section=aur
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package=cryptkeeper 0.9.5-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cryptkeeper
+X-Arch-Package-Version=0.9.5-5
+X-Arch-Package-Description=A Linux system tray applet that manages EncFS encrypted
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://tom.noflag.org.uk/cryptkeeper.html
+X-Arch-Package-Votes=95

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Qtractor
+GenericName=Multi-track Sequencer
+Comment=Qtractor is an Audio/MIDI multi-track sequencer application
+Icon=qtractor
+TryExec=/usr/bin/qtractor
+Exec=/usr/bin/qtractor
+Categories=AudioVideo;Audio;Midi;Sequencer;Qt;X-Alsa;X-Jack;X-Multitrack;
+StartupNotify=false
+X-AppInstall-Package=qtractor
+X-AppInstall-Popcon=43
+X-AppInstall-Section=community
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=qtractor
+X-Arch-Package-Version=0.6.7-1
+X-Arch-Package-Description=Audio/MIDI multitrack sequencer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://qtractor.sourceforge.net/
+X-SuSE-translate=true

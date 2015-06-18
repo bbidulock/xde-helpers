@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Pixelize
+Comment=Create an image consisting of many small images
+Icon=pixelize
+TryExec=/usr/bin/pixelize
+Exec=pixelize
+Categories=Graphics;
+StartupNotify=false
+X-AppInstall-Package=pixelize
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pixelize
+X-Arch-Package-Version=1.0.0-2
+X-Arch-Package-Description=Build a large picture from hundreds of smaller ones
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://lashwhip.com/pixelize.html
+X-Arch-Package-Votes=8

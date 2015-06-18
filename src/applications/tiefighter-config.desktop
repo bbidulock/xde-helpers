@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Tie Fighter setting
+Name[fr]=Configuration de Tie Fighter
+Icon=tiefighter
+TryExec=/usr/bin/tiefighter-config
+Exec=tiefighter-config
+Categories=Settings;
+X-AppInstall-Package=tiefighter-collector-cdrom
+X-AppInstall-Section=aur
+X-Arch-Package=tiefighter-collector-cdrom 1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tiefighter-collector-cdrom
+X-Arch-Package-Version=1.0-1
+X-Arch-Package-Description=Space flight and combat simulator set in the Star Wars
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.lucasarts.com
+X-Arch-Package-Votes=0

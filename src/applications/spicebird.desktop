@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Spicebird
+Comment=Collaboration client that provides integrated access to email, contacts, calendaring and instant messaging in a single application
+Icon=/opt/spicebird/icons/mozicon50.xpm
+TryExec=/usr/bin/spicebird
+Exec=spicebird
+Categories=Application;Network;
+X-AppInstall-Package=spicebird
+X-AppInstall-Section=aur
+X-Arch-Package=spicebird 0.8-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=spicebird
+X-Arch-Package-Version=0.8-1
+X-Arch-Package-Description=Collaboration client that provides integrated access to email, contacts, calendaring and instant messaging in a single application
+X-Arch-Package-URL=http://www.spicebird.org

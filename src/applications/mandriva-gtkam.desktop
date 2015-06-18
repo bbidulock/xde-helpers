@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=GTKam
+Comment=Access digital cameras (via GPhoto2)
+Icon=gtkam
+TryExec=/usr/bin/gtkam
+Exec=gtkam
+Categories=Graphics;Photography;GTK;
+StartupNotify=false
+X-AppInstall-Package=gtkam
+X-AppInstall-Popcon=81
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gtkam
+X-Arch-Package-Version=0.2.0-2
+X-Arch-Package-Description=A graphical GTK front-end to gphoto2
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gphoto.sourceforge.net/proj/gtkam/
+X-Arch-Package-Votes=81

@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=iBored
+Comment=Hex editor for disk sectors
+TryExec=/usr/bin/ibored
+Exec=ibored
+Categories=Utility;
+X-AppInstall-Package=ibored
+X-AppInstall-Section=aur
+X-Arch-Package=ibored 1.1.13-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ibored
+X-Arch-Package-Version=1.1.13-1
+X-Arch-Package-Description=A hex editor for disk sectors, but can also be used to edit
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://apps.tempel.org/iBored/
+X-Arch-Package-Votes=0

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Server for YsFlight
+Name[fr]=Serveur YsFlight
+Comment=A portable flight simulator
+Comment[fr]=Simulateur de vol multi-plateformes
+Icon=ysflight
+TryExec=/usr/bin/ysflight-server
+Exec=ysflight-server
+Terminal=true
+Categories=Game;Simulation;
+X-AppInstall-Package=ysflight
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=ysflight 20150523-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ysflight
+X-Arch-Package-Version=20150523-2
+X-Arch-Package-Description=A portable flight simulator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://wwwe.ysflight.com/
+X-Arch-Package-Votes=1

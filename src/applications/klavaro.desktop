@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Klavaro
+Comment=Learn to type correctly
+Comment[eo]=Lernu tajpi korekte
+Comment[fr]=Apprenez à taper correctement
+Comment[pt]=Aprenda a digitar corretamente
+Comment[ru]=Научитесь безошибочно печатать
+Icon=_usr_share_icons_hicolor_24x24_apps_klavaro
+TryExec=/usr/bin/klavaro
+Exec=klavaro
+Categories=Education;GTK;
+StartupNotify=true
+X-AppInstall-Package=klavaro
+X-AppInstall-Popcon=77
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=klavaro
+X-Arch-Package-Version=3.01-1
+X-Arch-Package-Description=Free touch typing tutor program
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://klavaro.sourceforge.net/

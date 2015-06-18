@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Processing
+Comment=Programming language and environment for programming images, animation, and interactions
+Icon=/usr/share/processing/processing.png
+TryExec=/usr/share/processing/processing
+Exec=/usr/share/processing/processing
+Categories=Development;
+StartupNotify=true
+X-AppInstall-Package=processing
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=processing
+X-Arch-Package-Version=2.2.1-3
+X-Arch-Package-Description=Programming environment for creating images, animations and interactions
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.processing.org/

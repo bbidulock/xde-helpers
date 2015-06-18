@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=IFMapper
+GenericName=IFMapper
+Comment=A mapper for interactive fiction games
+Icon=ifmapper.png
+TryExec=/usr/bin/IFMapper
+Exec=IFMapper
+Categories=Development;
+X-AppInstall-Package=ifmapper
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=ifmapper 1.1.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ifmapper
+X-Arch-Package-Version=1.1.6-1
+X-Arch-Package-Description=WYSIWYG mapping utility for interactive fiction
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ifmapper.rubyforge.org/
+X-Arch-Package-Votes=1

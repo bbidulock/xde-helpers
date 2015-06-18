@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Cave Story+
+Comment=A platform-adventure game set in a cave.
+Icon=cavestory+.png
+TryExec=/usr/bin/cavestory+
+Exec=cavestory+
+Categories=Game;
+X-AppInstall-Package=cavestory+
+X-AppInstall-Popcon=14
+X-AppInstall-Section=aur
+X-Arch-Package=cavestory+ 1355961600-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cavestory+
+X-Arch-Package-Version=1355961600-4
+X-Arch-Package-Description=A platform-adventure game set in a cave
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://nicalis.com/games.php?game=cavestory
+X-Arch-Package-Votes=14

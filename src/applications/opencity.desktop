@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=OpenCity
+GenericName=City simulator
+GenericName[fr]=Simulateur de ville
+Comment=a 3D city simulator game
+Comment[fr]=Un jeu de simulation de ville en 3D
+Icon=opencity
+TryExec=/usr/bin/opencity
+Exec=opencity
+Categories=Game;StrategyGame;
+StartupNotify=false
+X-AppInstall-Package=opencity
+X-AppInstall-Popcon=20
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=opencity
+X-Arch-Package-Version=0.0.6.4-2
+X-Arch-Package-Description=A full 3D city simulator game project
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://opencity.info
+X-Arch-Package-Votes=20

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Cairo-Dock (no OpenGL)
+Name[fr]=Cairo-Dock (sans OpenGL)
+GenericName=Multi-purpose Dock and Desklets
+GenericName[fr]=Dock et Desklets multi-usage
+Comment=a light and eye-candy dock and desklets for your desktop.
+Icon=cairo-dock.svg
+TryExec=/usr/bin/cairo-dock
+Exec=cairo-dock -c
+Categories=System;
+StartupNotify=false
+X-AppInstall-Package=cairo-dock
+X-AppInstall-Popcon=272
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=cairo-dock
+X-Arch-Package-Version=3.4.1-2
+X-Arch-Package-Description=Light eye-candy fully themable animated dock
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://glx-dock.org/

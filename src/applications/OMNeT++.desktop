@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=OMNeT++
+Comment=Start OMNeT++ IDE
+Icon=/usr/share/icons/omnetpp.png
+TryExec=/usr/bin/omnetpp
+Exec=omnetpp
+Categories=Development;
+X-AppInstall-Package=omnetpp
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=omnetpp 4.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=omnetpp
+X-Arch-Package-Version=4.6-1
+X-Arch-Package-Description=Component-based simulation package designed for modeling
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.omnetpp.org
+X-Arch-Package-Votes=13

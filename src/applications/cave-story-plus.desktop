@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Cave Story Plus
+Comment=The extended version of Cave Story, a side-scrolling platformer game
+Icon=cave-story-plus.png
+TryExec=/usr/bin/cave-story-plus
+Exec=cave-story-plus
+Categories=Game;
+X-AppInstall-Package=cave-story-plus
+X-AppInstall-Section=aur
+X-Arch-Package=cave-story-plus 4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cave-story-plus
+X-Arch-Package-Version=4-1
+X-Arch-Package-Description=The extended version of Cave Story, a side-scrolling platformer game
+X-Arch-Package-URL=http://www.nicalis.com/

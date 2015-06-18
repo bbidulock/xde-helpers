@@ -1,0 +1,24 @@
+[Desktop Entry]
+Version=0.7.7
+Type=Application
+Name=Luke-SDK
+GenericName=Integrated Development Environment
+Comment=General purpose IDE and software administration tool
+Icon=luke.png
+TryExec=/usr/bin/luke
+Exec=luke %F
+NoDisplay=true
+Categories=Application;Development;IDE;
+StartupNotify=false
+X-AppInstall-Package=luke-sdk
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=luke-sdk 0.7.7.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=luke-sdk
+X-Arch-Package-Version=0.7.7.1-2
+X-Arch-Package-Description=An Integrated Development Environment for Boo, C, C++, C#,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://luke-sdk.berlios.de/
+X-Arch-Package-Votes=8
+Aliases=luke;

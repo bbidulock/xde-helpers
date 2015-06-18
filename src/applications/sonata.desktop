@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Sonata
+Comment=An elegant GTK+ MPD client
+Icon=sonata
+TryExec=/usr/bin/sonata
+Exec=sonata
+Categories=AudioVideo;Player;GTK;
+StartupNotify=true
+X-AppInstall-Package=sonata
+X-AppInstall-Section=extra
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=sonata
+X-Arch-Package-Version=1.6.2.1-12
+X-Arch-Package-Description=Elegant GTK+ music client for MPD
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/sonata.berlios

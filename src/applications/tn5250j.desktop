@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=tn5250j
+Comment=A modern and rich 5250 terminal emulator for iSeries and AS/400
+Icon=tn5250j
+TryExec=/usr/bin/tn5250j
+Exec=tn5250j
+Categories=Application;Network;
+StartupWMClass=org-tn5250j-My5250
+X-AppInstall-Package=tn5250j
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=tn5250j 0.7.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tn5250j
+X-Arch-Package-Version=0.7.5-1
+X-Arch-Package-Description=5250 terminal emulator for iSeries and AS/400 written in Java
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://tn5250j.sourceforge.net/
+X-Arch-Package-Votes=4

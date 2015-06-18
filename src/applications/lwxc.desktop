@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=LWXC
+Comment=XMMS2 client written in pygtk
+Icon=lwxc
+TryExec=/usr/bin/lwxc
+Exec=lwxc
+Categories=AudioVideo;Player;GTK;
+StartupNotify=false
+X-AppInstall-Package=lwxc-git
+X-AppInstall-Section=aur
+X-Arch-Package=lwxc-git c656d4d-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lwxc-git
+X-Arch-Package-Version=c656d4d-1
+X-Arch-Package-Description=le wild xmms2 client, a simple media library browser
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://phragment.github.com/lwxc/
+X-Arch-Package-Votes=0

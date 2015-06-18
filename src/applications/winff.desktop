@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=WinFF
+GenericName=Video converter
+GenericName[nl]=Video converteerder
+Comment=GUI for FFMPEG
+Icon=winff
+TryExec=/usr/bin/winff
+Exec=winff
+Categories=AudioVideo;AudioVideoEditing;GTK;
+MimeType=application/winff;
+X-AppInstall-Package=winff
+X-AppInstall-Section=community
+X-AppInstall-Architectures=amd64,i386,powerpc,sparc
+X-Arch-Package=winff 1.5.0-1
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=winff
+X-Arch-Package-Version=1.5.3-2
+X-Arch-Package-Description=GUI for ffmpeg
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/winff/

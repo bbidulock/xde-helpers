@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Arachnophilia
+Comment=A web page development workshop and general programming tool
+Icon=arachnophilia
+TryExec=/usr/bin/arachnophilia
+Exec=arachnophilia
+Categories=Development;WebDevelopment;
+Keywords=programming;code;html;php;python;
+MimeType=text/html;text/css;text/x-javascript;text/x-python;text/x-perl;application/x-php;text/x-java;text/javascript;text/x-php;application/x-cgi;application/x-javascript;application/x-perl;application/x-python;application/xhtml+xml;text/mathml;text/x-csrc;text/x-chdr;text/x-dtd;text/x-sql;text/xml;
+X-AppInstall-Package=arachnophilia
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=arachnophilia 5.5.2882-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=arachnophilia
+X-Arch-Package-Version=5.5.2882-1
+X-Arch-Package-Description=A web page development workshop and general programming tool
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.arachnoid.com/arachnophilia/index.php
+X-Arch-Package-Votes=7

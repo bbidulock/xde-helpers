@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=HippoDraw
+Comment=A highly interactive data analysis environment
+Icon=hippodraw
+TryExec=/usr/bin/hippodraw
+Exec=hippodraw
+Categories=Education;Science;DataVisualization;Qt;
+X-AppInstall-Package=hippodraw
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=hippodraw 1.21.3-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=hippodraw
+X-Arch-Package-Version=1.21.3-3
+X-Arch-Package-Description=A highly interactive data analysis environment written in
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.slac.stanford.edu/grp/ek/hippodraw/
+X-Arch-Package-Votes=2

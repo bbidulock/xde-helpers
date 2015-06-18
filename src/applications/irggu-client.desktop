@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=IrGGu-Client
+Comment=QML IrGGu-Client
+Icon=irggu
+TryExec=/usr/bin/irggu-client-qml
+Exec=/usr/bin/irggu-client-qml
+Categories=Network;
+X-AppInstall-Package=irggu-client-qml-git
+X-AppInstall-Section=aur
+X-Arch-Package=irggu-client-qml-git 20150323-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=irggu-client-qml-git
+X-Arch-Package-Version=20150323-1
+X-Arch-Package-Description=QML client for connecting to IrGGu-Server
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://irggu.arggu.ath.cx/client-qml/
+X-Arch-Package-Votes=0

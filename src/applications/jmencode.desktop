@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=JMencode
+GenericName=Audio/Video Encoder
+Comment=Java GUI for mencode
+Icon=jmencode.png
+TryExec=/usr/bin/jmencode
+Exec=jmencode
+Categories=AudioVideo;AudioVideoEditing;Java;
+X-AppInstall-Package=jmencode
+X-AppInstall-Popcon=27
+X-AppInstall-Section=aur
+X-Arch-Package=jmencode 0.64-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jmencode
+X-Arch-Package-Version=0.64-5
+X-Arch-Package-Description=Java GUI for encoding video with mencoder
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://jmencode.sourceforge.net
+X-Arch-Package-Votes=27

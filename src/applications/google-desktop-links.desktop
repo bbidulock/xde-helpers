@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=GMail
+Icon=gmail
+TryExec=/usr/bin/xdg-open
+Exec=xdg-open https://mail.google.com/
+NoDisplay=true
+Categories=Office;Email;
+StartupNotify=true
+X-AppInstall-Package=google-desktop-links
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=google-desktop-links 4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=google-desktop-links
+X-Arch-Package-Version=4-1
+X-Arch-Package-Description=provides links to Google pages as desktop files
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://google.com/
+X-Arch-Package-Votes=2
+Aliases=gmail;

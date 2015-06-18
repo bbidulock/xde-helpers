@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Freecycle
+GenericName=Plastic surgery for your audio loops
+Icon=freecycle
+TryExec=/usr/bin/freecycle
+Exec=freecycle
+Categories=AudioVideo;Audio;Recorder;Qt;
+MimeType=text/plain;
+StartupNotify=false
+X-AppInstall-Package=freecycle
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=freecycle
+X-Arch-Package-Version=0.6.1.1alpha-3
+X-Arch-Package-Description=A beat slicer running on GNU/Linux platform using the QT
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://freecycle.redsteamrecords.com/
+X-Arch-Package-Votes=6

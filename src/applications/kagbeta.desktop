@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=King Arthur's Gold BETA
+Comment=Game to build castles and destroy your enemies, inspired by Soldat and Minecraft.
+Icon=kagbeta
+TryExec=/usr/bin/kagbeta
+Exec=kagbeta
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=kagbeta
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=kagbeta 0.97-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kagbeta
+X-Arch-Package-Version=0.97-2
+X-Arch-Package-Description=King Arthur's Gold BETA is a game about building castles and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kag2d.com/
+X-Arch-Package-Votes=1

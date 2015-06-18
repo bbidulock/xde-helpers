@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=PDF Editor
+GenericName=PDF Editor
+Comment=PDF Editor
+Icon=pdfedit
+TryExec=/usr/bin/pdfedit
+Exec=pdfedit
+Categories=Graphics;Viewer;TextTools;Qt;
+X-AppInstall-Package=pdfedit
+X-AppInstall-Popcon=474
+X-AppInstall-Section=aur
+X-Arch-Package=pdfedit 0.4.5-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pdfedit
+X-Arch-Package-Version=0.4.5-2
+X-Arch-Package-Description=Full featured editor for manipulating PDF documents
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pdfedit.petricek.net/index_e.html
+X-Arch-Package-Votes=0

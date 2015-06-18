@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Desktoptracks
+Comment=Record statistics about used applications
+Icon=desktoptracks
+TryExec=/usr/bin/desktoptracks
+Exec=desktoptracks
+Categories=Utility;
+X-AppInstall-Package=desktoptracks
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=desktoptracks 0.1.2-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=desktoptracks
+X-Arch-Package-Version=0.1.2-4
+X-Arch-Package-Description=Record statistics about used applications
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/desktoptracks/
+X-Arch-Package-Votes=5

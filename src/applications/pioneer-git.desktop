@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Pioneer
+Comment=A freeform single player space adventure in the spirit of Frontier: Elite II.
+Icon=pioneer
+TryExec=/usr/bin/pioneer
+Exec=/usr/bin/pioneer
+Categories=Game;StrategyGame;
+X-AppInstall-Package=pioneer-git
+X-AppInstall-Popcon=16
+X-AppInstall-Section=aur
+X-Arch-Package=pioneer-git 20150614-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pioneer-git
+X-Arch-Package-Version=20150614-1
+X-Arch-Package-Description=A freeform single player space adventure in the spirit of
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pioneerspacesim.net/
+X-Arch-Package-Votes=16

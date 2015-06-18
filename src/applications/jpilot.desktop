@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=J-Pilot
+Comment=Desktop organizer application for the Palm Pilot
+Icon=jpilot.xpm
+TryExec=/usr/bin/jpilot
+Exec=jpilot
+Categories=Office;PDA;
+StartupNotify=false
+X-AppInstall-Package=jpilot
+X-AppInstall-Popcon=20
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jpilot
+X-Arch-Package-Version=1.8.2-1
+X-Arch-Package-Description=A desktop organizer application for the palm pilot
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.jpilot.org/
+X-Arch-Package-Votes=20

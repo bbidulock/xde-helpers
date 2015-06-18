@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=TRI
+Comment=Puzzle game about triangles and foxes
+Icon=gog-tri
+TryExec=/opt/TRI/start.sh
+Exec=/opt/TRI/start.sh
+Categories=Game;AdventureGame;LogicGame;
+Path=/opt/TRI
+X-AppInstall-Package=gog-tri
+X-AppInstall-Section=aur
+X-Arch-Package=gog-tri 1.4.0.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gog-tri
+X-Arch-Package-Version=1.4.0.6-1
+X-Arch-Package-Description=Puzzle game about triangles and foxes (GOG.com version)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.gog.com/game/tri
+X-Arch-Package-Votes=0

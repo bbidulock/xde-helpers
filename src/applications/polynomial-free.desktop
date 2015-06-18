@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Polynomial
+Comment=3D space shooter
+Icon=/usr/share/pixmaps/polynomial-free.png
+TryExec=/usr/bin/polynomial-free
+Exec=polynomial-free
+Categories=Game;
+X-AppInstall-Package=polynomial-free
+X-AppInstall-Popcon=25
+X-AppInstall-Section=aur
+X-Arch-Package=polynomial-free 135-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=polynomial-free
+X-Arch-Package-Version=135-1
+X-Arch-Package-Description=A 3D space shooter with mathematically generated fractal
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://dmytry.pandromeda.com/games/try_polynomial.html
+X-Arch-Package-Votes=25

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=B.A.L.L.Z.
+Comment=Platform game with some puzzle elements
+Icon=ballz.png
+TryExec=/usr/bin/ballz
+Exec=ballz
+Categories=Game;ActionGame;
+StartupNotify=false
+X-AppInstall-Package=ballz
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ballz
+X-Arch-Package-Version=1.0.2-2
+X-Arch-Package-Description=Platform game with some puzzle elements
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/db-tins07/
+X-Arch-Package-Votes=2

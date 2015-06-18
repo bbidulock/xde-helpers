@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Greenfoot
+GenericName=Java IDE
+Icon=/usr/share/java/greenfoot/images/greenfoot-icon-48.png
+TryExec=/usr/bin/greenfoot
+Exec=/usr/bin/greenfoot %F
+Categories=Development;Java;
+X-AppInstall-Package=greenfoot
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=greenfoot 2.4.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=greenfoot
+X-Arch-Package-Version=2.4.2-1
+X-Arch-Package-Description=It allows easy development of two-dimensional graphical
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.greenfoot.org
+X-Arch-Package-Votes=9
+Mimetype=application/x-greenfoot

@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Fun Racing
+GenericName=funracing
+Comment=A 2D car game
+Icon=funracing.png
+TryExec=/usr/bin/funracing
+Exec=funracing
+Categories=Game;Arcade;
+X-AppInstall-Package=funracing
+X-AppInstall-Section=aur
+X-Arch-Package=funracing 3.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=funracing
+X-Arch-Package-Version=3.1-2
+X-Arch-Package-Description=A 2D car game similar to burning metal 2d.
+X-Arch-Package-URL=http://clement.s.pagesperso-orange.fr/

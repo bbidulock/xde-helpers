@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Archive Mounter
+Icon=gtk-cdrom
+TryExec=/usr/lib/gvfs/gvfsd-archive
+Exec=/usr/lib/gvfs/gvfsd-archive file=%u
+NoDisplay=true
+OnlyShowIn=GNOME;
+MimeType=application/x-cd-image;application/x-bzip-compressed-tar;application/x-compressed-tar;application/x-tar;application/x-cpio;application/zip;application/x-gzip;application/x-bzip;
+StartupNotify=false
+X-AppInstall-Package=archive-mounter
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=archive-mounter 3-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=archive-mounter
+X-Arch-Package-Version=3-2
+X-Arch-Package-Description=Open with archive mounter nautilus menu entry
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.gnome.org
+X-Arch-Package-Votes=13
+Aliases=mount-archive;

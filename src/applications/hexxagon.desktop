@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Hexxagon
+TryExec=/usr/bin/hexxagon
+Exec=hexxagon
+Categories=Game;BoardGame;GTK;
+X-AppInstall-Package=hexxagon
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=hexxagon 1.0.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=hexxagon
+X-Arch-Package-Version=1.0.2-1
+X-Arch-Package-Description=A clone of the old DOS game Hexxagon, with enhanced features
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.nesqi.se
+X-Arch-Package-Votes=8

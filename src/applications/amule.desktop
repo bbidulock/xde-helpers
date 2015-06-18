@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=aMule
+Comment=A client for the eD2k network
+Icon=amule
+TryExec=/usr/bin/amule
+Exec=amule
+Categories=Network;P2P;
+StartupNotify=false
+X-AppInstall-Package=amule
+X-AppInstall-Popcon=1315
+X-AppInstall-Section=extra
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=amule
+X-Arch-Package-Version=10869-1
+X-Arch-Package-Description=An eMule-like client for ed2k p2p network
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.amule.org

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=ToME4 (git)
+Comment=An open-source, single-player, role-playing roguelike game set in the world of Eyal.
+Icon=tome4-git.png
+TryExec=/usr/bin/tome4-git
+Exec=/usr/bin/tome4-git
+Categories=Game;
+Keywords=Game;Roguelike;RPG;
+X-AppInstall-Package=tome4-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=tome4-git tome.1.2.3.r253.gc2ab8c2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tome4-git
+X-Arch-Package-Version=tome.1.2.3.r253.gc2ab8c2-1
+X-Arch-Package-Description=An open-source, single-player, role-playing roguelike game set
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://tome.te4.org/
+X-Arch-Package-Votes=1

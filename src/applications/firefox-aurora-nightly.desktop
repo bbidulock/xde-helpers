@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Aurora
+GenericName=Web Browser
+Icon=firefox-aurora-icon
+TryExec=/usr/bin/firefox-aurora
+Exec=firefox-aurora %u
+MultipleArgs=false
+NoDisplay=true
+Categories=Application;Network;
+MimeType=text/html;text/xml;application/xhtml+xml;application/xml;application/vnd.mozilla.xul+xml;application/rss+xml;application/rdf+xml;image/gif;image/jpeg;image/png;x-scheme-handler/http;x-scheme-handler/https;x-scheme-handler/ftp;x-scheme-handler/chrome;
+StartupNotify=false
+X-AppInstall-Package=firefox-aurora-nightly
+X-AppInstall-Section=aur
+X-Arch-Package=firefox-aurora-nightly 14.0a2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firefox-aurora-nightly
+X-Arch-Package-Version=14.0a2-1
+X-Arch-Package-Description=Firefox Aurora channel - Nightly build
+X-Arch-Package-URL=http://www.mozilla.org/projects/firefox/
+Aliases=firefox-aurora;

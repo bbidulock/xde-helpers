@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Public URL
+Icon=/usr/share/pixmaps/dropbox.png
+TryExec=/usr/bin/droppuburl
+Exec=/usr/bin/droppuburl
+Categories=Utility;FileTools;
+X-AppInstall-Package=droppuburl
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=droppuburl latest-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=droppuburl
+X-Arch-Package-Version=latest-5
+X-Arch-Package-Description=simple 'open-with' script to copy a dropbox public url to the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.dropbox.com
+X-Arch-Package-Votes=9

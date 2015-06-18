@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Nitrogen
+Icon=nitrogen
+TryExec=/usr/bin/nitrogen
+Exec=nitrogen %f
+Categories=Graphics;2DGraphics;Viewer;GTK;
+MimeType=image/bmp;image/gif;image/jpeg;image/jpg;image/pjpeg;image/png;image/tiff;image/x-bmp;image/x-pcx;image/x-png;image/x-portable-anymap;image/x-portable-bitmap;image/x-portable-graymap;image/x-portable-pixmap;image/x-sun-raster;image/x-tga;image/x-xbitmap;image/x-xpixmap;image/svg+xml;
+X-AppInstall-Package=nitrogen-git
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=nitrogen-git 20120717-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nitrogen-git
+X-Arch-Package-Version=20120717-1
+X-Arch-Package-Description=Background browser and setter for X windows - git version
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://projects.l3ib.org/nitrogen/
+X-Arch-Package-Votes=6

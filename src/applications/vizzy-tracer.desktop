@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Vizzy-Flash-Tracer
+GenericName=Vizzy Flash Tracer
+Comment=Vizzy Flash Tracer
+Icon=vizzy-tracer.png
+TryExec=/usr/bin/vizzy-tracer
+Exec=vizzy-tracer %u
+Categories=Java;Accessories;
+X-AppInstall-Package=vizzy-flash-tracer
+X-AppInstall-Section=aur
+X-Arch-Package=vizzy-flash-tracer 3.91-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=vizzy-flash-tracer
+X-Arch-Package-Version=3.91-1
+X-Arch-Package-Description=Vizzy Flash Tracer that shows Flash Player debug content and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/flash-tracer/
+X-Arch-Package-Votes=0

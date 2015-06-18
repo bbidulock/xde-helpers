@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=flipout
+GenericName=flipout
+Comment=FlipOut is a breakout game with physics
+Icon=/usr/share/flipout/flipout.png
+TryExec=/usr/share/flipout/flipout
+Exec=/usr/share/flipout/flipout
+Categories=Game;
+X-AppInstall-Package=flipout
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=flipout 1.1-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=flipout
+X-Arch-Package-Version=1.1-5
+X-Arch-Package-Description=FlipOut is a breakout game with physics.Instead, the paddle
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.tdb.fi/flipout.shtml
+X-Arch-Package-Votes=7

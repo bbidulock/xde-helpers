@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=External Monitor Discrete
+Comment=If external monitor on laptop, make discrete (+correct DPI and text scaling)
+Icon=preferences-desktop-display
+TryExec=/usr/bin/discretemon
+Exec=discretemon
+X-GNOME-Autostart-enabled=true
+X-AppInstall-Package=discretemon
+X-AppInstall-Section=aur
+X-Arch-Package=discretemon 1.7-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=discretemon
+X-Arch-Package-Version=1.7-2
+X-Arch-Package-Description=Sets an external monitor with a laptop as discrete (xorg)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/Gen2ly/discretemon
+X-Arch-Package-Votes=0
+X-GNOME-Autostart-Delay=0

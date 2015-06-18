@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=PyChess
+GenericName=Chess Game
+Comment=PyChess is a fully featured, nice looking, easy to use chess client for the Gnome desktop
+Icon=pychess
+TryExec=/usr/bin/pychess
+Exec=pychess
+Categories=Game;BoardGame;
+MimeType=application/x-chess-pgn;
+StartupNotify=false
+X-AppInstall-Package=pychess
+X-AppInstall-Popcon=30
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=pychess
+X-Arch-Package-Version=0.10.1-4
+X-Arch-Package-Description=Chess client for the GNOME desktop
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pychess.org/

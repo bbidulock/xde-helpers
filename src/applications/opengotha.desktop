@@ -1,0 +1,23 @@
+[Desktop Entry]
+Version=3.38
+Type=Application
+Name=Opengotha
+GenericName=Open Go Tournaments Editor
+Comment=A KGS client and SGF aditor
+Icon=/usr/local/opengotha/resources/gothalogo64.jpg
+TryExec=/usr/bin/java
+Exec=java -jar /usr/local/opengotha/opengotha.jar
+Categories=Application;Game;BoardGame;
+MimeType=application/x-go-sgf;text/sgf;text/x-sgf;
+StartupNotify=true
+X-AppInstall-Package=opengotha
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=opengotha 3.40.01-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=opengotha
+X-Arch-Package-Version=3.40.01-1
+X-Arch-Package-Description=Go game tournaments management program
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://vannier.info/jeux/gotournaments/opengotha.htm
+X-Arch-Package-Votes=1

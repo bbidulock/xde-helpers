@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Bitsquare
+GenericName=P2P Bitcoin Exchange
+Comment=Bitsquare is a cross-platform desktop application that allows users to trade national currency (dollars, euros, etc) for bitcoin without relying on centralized exchanges
+Icon=/usr/share/pixmaps/bitsquare.png
+TryExec=/usr/bin/bitsquare
+Exec=/usr/bin/bitsquare
+NoDisplay=true
+Categories=Utility;Finance;
+X-AppInstall-Package=bitsquare-git
+X-AppInstall-Section=aur
+X-Arch-Package=bitsquare-git v0.3.1.r6.g6db8157-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bitsquare-git
+X-Arch-Package-Version=v0.3.1.r6.g6db8157-1
+X-Arch-Package-Description=Bitsquare is a cross-platform desktop application that allows
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://bitsquare.io/
+X-Arch-Package-Votes=0
+Aliases=bitsquare;

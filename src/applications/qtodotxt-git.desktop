@@ -1,0 +1,22 @@
+[Desktop Entry]
+Version=1.2.0
+Type=Application
+Name=QTodo.txt
+Comment=GUI for todo.txt lists
+Icon=qtodotxt
+TryExec=/usr/bin/qtodotxt
+Exec=/usr/bin/qtodotxt
+NoDisplay=true
+Categories=Utility;Qt;
+X-AppInstall-Package=qtodotxt-git
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=qtodotxt-git 1.9.9.10.g580b8fb-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qtodotxt-git
+X-Arch-Package-Version=1.9.9.10.g580b8fb-2
+X-Arch-Package-Description=A cross-platform UI client for todo.txt files (see
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/mNantern/QTodoTxt
+X-Arch-Package-Votes=7
+Aliases=qtodotxt;

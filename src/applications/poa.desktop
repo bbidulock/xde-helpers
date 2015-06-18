@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Pages of Adventure
+Comment=Puzzle adventure in a strange world.
+Icon=/usr/share/pixmaps/poa.png
+TryExec=/usr/bin/poa
+Exec=poa
+Categories=Game;RPGGAME;
+X-AppInstall-Package=poa
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=poa 0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=poa
+X-Arch-Package-Version=0.1-1
+X-Arch-Package-Description=PagesOfAdventure is a puzzle adventure in a strange world.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pagesofadventur.sourceforge.net
+X-Arch-Package-Votes=3

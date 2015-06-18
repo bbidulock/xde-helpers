@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Endgame: Singularity
+Comment=Simulation of true AI
+Icon=singularity
+TryExec=/usr/bin/singularity
+Exec=singularity
+NoDisplay=true
+Hidden=true
+Categories=Game;StrategyGame;Simulation;
+StartupNotify=false
+X-AppInstall-Package=singularity-git
+X-AppInstall-Section=aur
+X-Arch-Package=singularity-git 7fa26c99382e-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=singularity-git
+X-Arch-Package-Version=7fa26c99382e-4
+X-Arch-Package-Description=Strategy game - simulation of true AI - git version
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://emhsoft.com/singularity/index.html
+X-Arch-Package-Votes=0
+Aliases=singularity;

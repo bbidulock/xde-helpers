@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Torchlight
+GenericName=Action Role-Playing Game
+Comment=Runic Games
+Icon=torchlight
+TryExec=/usr/bin/torchlight
+Exec=/usr/bin/torchlight
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=torchlight-hib
+X-AppInstall-Popcon=29
+X-AppInstall-Section=aur
+X-Arch-Package=torchlight-hib 1.15_20130521-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=torchlight-hib
+X-Arch-Package-Version=1.15_20130521-1
+X-Arch-Package-Description=A hack and slash action role-playing game (Humble Bundle
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.torchlightgame.com/
+X-Arch-Package-Votes=29

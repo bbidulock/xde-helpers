@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=grass
+GenericName=GIS
+Comment="Geographic Information System (GIS) used for geospatial data management and analysis"
+Icon=/usr/share/pixmaps/grass.png
+TryExec=/usr/bin/grass-start
+Exec=/usr/bin/grass-start
+MultipleArgs=false
+Terminal=true
+NoDisplay=true
+Categories=Application;Science;
+X-AppInstall-Package=grass-svn-addons
+X-AppInstall-Section=aur
+X-Arch-Package=grass-svn-addons 52159-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=grass-svn-addons
+X-Arch-Package-Version=52159-1
+X-Arch-Package-Description=Geographic Information System (GIS) used for geospatial data
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://grass.itc.it/index.php
+X-Arch-Package-Votes=0
+Aliases=grass;

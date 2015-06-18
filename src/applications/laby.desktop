@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Laby
+Comment=Learn how to program with ants and spider webs
+Comment[fr]=Apprendre à programmer avec des fourmis
+Icon=laby
+TryExec=/usr/bin/laby
+Exec=laby
+Categories=Game;LogicGame;GNOME;GTK;
+StartupNotify=true
+X-AppInstall-Package=laby
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=laby 0.6.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=laby
+X-Arch-Package-Version=0.6.4-1
+X-Arch-Package-Description=Small program to learn how to program with ants and spider
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/sgimenez/laby
+X-Arch-Package-Votes=3

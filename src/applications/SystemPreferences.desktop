@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=System Preferences
+Name[bg]=Настройки на системата
+Comment=GNUstep preferences application
+Comment[bg]=Настройки на GNUstep
+Icon=/usr/lib/GNUstep/Applications/SystemPreferences.app/Resources/SystemPreferences.tiff
+TryExec=/usr/bin/SystemPreferences
+Exec=SystemPreferences
+Categories=Settings;DesktopSettings;
+StartupNotify=false
+X-AppInstall-Package=systempreferences
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=systempreferences
+X-Arch-Package-Version=1.1.0-1
+X-Arch-Package-Description=GNUstep System Preferences
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.gnustep.org/experience/systempreferences.html
+X-Arch-Package-Votes=1

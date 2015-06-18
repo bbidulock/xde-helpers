@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=mMass
+Comment=Open source tool for precise mass spectrometric data analysis and interpretation written in python.
+Icon=mmass
+TryExec=/usr/bin/mmass
+Exec=mmass %F
+Categories=Science;
+MimeType=text/x-msd;
+StartupNotify=false
+X-AppInstall-Package=mmass
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=mmass 5.5.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mmass
+X-Arch-Package-Version=5.5.0-3
+X-Arch-Package-Description=Open source tool for precise mass spectrometric data analysis
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.mmass.org
+X-Arch-Package-Votes=3

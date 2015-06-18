@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Atomiks
+GenericName=Puzzle game
+Comment=Atomiks is a faithful remake of, and a tribute to, Atomix, a classic puzzle game
+Icon=/usr/share/pixmaps/atomiks.png
+TryExec=/usr/bin/atomiks
+Exec=atomiks
+Categories=Application;Game;
+X-AppInstall-Package=atomiks
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=atomiks 1.03-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=atomiks
+X-Arch-Package-Version=1.03-1
+X-Arch-Package-Description=Atomiks is a faithful remake of, and a tribute to, Atomix, a
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/atomiks/
+X-Arch-Package-Votes=3

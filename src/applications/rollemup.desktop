@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Roll'em Up
+Comment=Classic pinball game
+Icon=rollemup
+TryExec=/usr/bin/rollemup
+Exec=rollemup
+Categories=Game;
+X-AppInstall-Package=rollemup
+X-AppInstall-Section=custom
+X-Arch-Package=rollemup 1.00-4
+X-Arch-Package-Repository=custom
+X-Arch-Package-Name=rollemup
+X-Arch-Package-Version=1.00-4
+X-Arch-Package-Description=Pinball game that was originally made by LostBoys for the Dutch brewery Dommelsch
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://happypenguin.altervista.org/gameshow.php?t=Roll%20%27m%20Up

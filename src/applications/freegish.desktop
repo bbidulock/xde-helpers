@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=FreeGish
+GenericName=Platform
+Comment=Gish isn't your average hero, in fact he's not your average anything… see Gish is a ball of tar. A Sunday stroll with his lady friend Brea goes awry when a shadowy figure emerges from an open man hole and pulls Brea into the ground below. Following Brea's calls for help Gish suddenly finds himself in the subterranean sewers of Dross, a long forgotten city filled with twisting corridors, evil traps and some of the most demented creatures imaginable.
+Icon=freegish
+TryExec=/usr/bin/freegish
+Exec=freegish
+Categories=Application;Game;
+X-AppInstall-Package=freegish-git
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=freegish-git 1.60.181.f53d915-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=freegish-git
+X-Arch-Package-Version=1.60.181.f53d915-1
+X-Arch-Package-Description=Free version of gish, a physics platformer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://github.com/freegish/freegish
+X-Arch-Package-Votes=8

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Grcm
+GenericName=Grcm
+Comment=Manage machine connections
+Icon=gcrm.png
+TryExec=/usr/bin/grcm
+Exec=grcm
+Categories=Application;Network;GNOME;GTK;
+StartupNotify=false
+X-AppInstall-Package=grcm
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=grcm
+X-Arch-Package-Version=0.1.6-1
+X-Arch-Package-Description=GUI program to launch applications like telnet, shh, or
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://grcm.sourceforge.net
+X-Arch-Package-Votes=3

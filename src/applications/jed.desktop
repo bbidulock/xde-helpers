@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=JED Text Editor
+GenericName=JED Text Editor
+Comment=Text Editor that makes extensive use of the S-Lang library.
+Icon=text-editor
+TryExec=/usr/bin/jed
+Exec=jed
+Terminal=true
+Categories=Utility;TextEditor;
+StartupNotify=false
+X-AppInstall-Package=jed
+X-AppInstall-Popcon=34
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jed
+X-Arch-Package-Version=0.99.19-2
+X-Arch-Package-Description=A freely available text editor for Unix and others OS
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.jedsoft.org/jed
+X-Arch-Package-Votes=34
+X-AfterStep-IndexName=jed

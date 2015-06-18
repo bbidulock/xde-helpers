@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Closure
+GenericName=Platformer Puzzle Game
+Comment=Eyebrow Interactive
+Icon=closure
+TryExec=/usr/bin/closure
+Exec=/usr/bin/closure
+Categories=Game;
+X-AppInstall-Package=closure-hib
+X-AppInstall-Popcon=12
+X-AppInstall-Section=aur
+X-Arch-Package=closure-hib 1.1_20121228-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=closure-hib
+X-Arch-Package-Version=1.1_20121228-2
+X-Arch-Package-Description=A puzzle platformer game that centers around light (Humble
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://closuregame.com/
+X-Arch-Package-Votes=12

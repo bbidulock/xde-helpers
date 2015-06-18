@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=GUIDE
+GenericName=C, C++, Pascal IDE
+Comment=An Integrated Development Environment of C, C++, Pascal, especially for NOI/IOI, the National/International Olympics of Informatics, users.
+Icon=/usr/share/doc/GUIDE/html/images/Manna.png
+TryExec=/usr/bin/GUIDE
+Exec=GUIDE %U
+Categories=Development;
+StartupNotify=true
+X-AppInstall-Package=guide
+X-AppInstall-Section=aur
+X-Arch-Package=guide 1.0.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=guide
+X-Arch-Package-Version=1.0.2-1
+X-Arch-Package-Description=The official IDE for the Chinese NOI/NOIP
+X-Arch-Package-Groups=devel
+X-Arch-Package-URL=http://www.noi.cn/guide-10
+X-Arch-Package-Votes=0

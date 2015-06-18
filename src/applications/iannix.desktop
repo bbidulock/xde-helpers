@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=IanniX
+Comment=A score editor based on the UPIC sequencer by Iannis Xenakis
+Icon=iannix
+TryExec=/usr/bin/iannix
+Exec=iannix
+Categories=AudioVideo;Audio;Qt;
+MimeType=audio/x-iannix;
+X-AppInstall-Package=iannix
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=iannix 0.8.43-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=iannix
+X-Arch-Package-Version=0.8.43-1
+X-Arch-Package-Description=A score editor based on the UPIC sequencer by Iannis Xenakis.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.iannix.org/
+X-Arch-Package-Votes=5
+BinaryPattern=iannix;

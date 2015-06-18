@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=My OVH Manager
+GenericName=MoM
+Comment=Management interface software for products offered by OVH
+Comment[de]=Verwaltungsinterface für die Dienstleistungen von ovh
+Comment[fr]=Logiciel d'interface de gestion pour les produits OVH
+Icon=mom
+TryExec=/usr/bin/mom
+Exec=mom
+Categories=Network;
+StartupNotify=true
+X-AppInstall-Package=mom
+X-AppInstall-Popcon=19
+X-AppInstall-Section=aur
+X-Arch-Package=mom 4.1.15-7
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mom
+X-Arch-Package-Version=4.1.15-7
+X-Arch-Package-Description=Management interface software for products offered by OVH
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://www.ovh.com/fr/support/outils/mom.xml
+X-Arch-Package-Votes=19

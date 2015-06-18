@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Droid Assault
+GenericName=Tactical Shooter
+Comment=Play Droid Assault and experience running Star Wars style blaster battles with hordes of rampaging killer robots!
+Icon=/usr/share/pixmaps/DroidAssault.png
+TryExec=/usr/bin/droidassault
+Exec=droidassault
+NoDisplay=true
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=droid-assault
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=droid-assault 1.81-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=droid-assault
+X-Arch-Package-Version=1.81-1
+X-Arch-Package-Description=Play Droid Assault and experience running Star Wars style
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.puppygames.net/droid-assault/
+X-Arch-Package-Votes=4
+Aliases=droidassault;

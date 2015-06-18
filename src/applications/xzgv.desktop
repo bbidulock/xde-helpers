@@ -7,7 +7,6 @@ Icon=xzgv
 TryExec=/usr/bin/xzgv
 Exec=xzgv
 Categories=Graphics;RasterGraphics;Viewer;GTK;
-StartupNotify=false
 X-AppInstall-Package=xzgv
 X-AppInstall-Section=custom
 X-Arch-Package=xzgv 0.9.1-4

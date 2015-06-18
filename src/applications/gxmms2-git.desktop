@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=gxmms2
+Comment=XMMS2 music daemon client
+Comment[pl]=Odtwarzacz Muzyczny
+Icon=xmms2.svg
+TryExec=/usr/bin/gxmms2
+Exec=gxmms2
+NoDisplay=true
+Categories=Application;AudioVideo;Audio;Player;Music;GNOME;
+StartupNotify=true
+X-AppInstall-Package=gxmms2-git
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=gxmms2-git 20071203-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gxmms2-git
+X-Arch-Package-Version=20071203-2
+X-Arch-Package-Description=A GTK2 based XMMS2 client
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://wejp.k.vu/projects/xmms2/
+X-Arch-Package-Votes=13
+Aliases=gxmms2;

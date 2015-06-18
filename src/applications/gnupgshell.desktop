@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=gnupgshell
+Name[es_ES]=Un interface grafico par el GnuPG
+GenericName=GUI GnuPG
+Comment=A graphical user interface for the GnuPG
+Icon=/usr/share/gnupgshell/art/sign.ico
+TryExec=/usr/share/gnupgshell/wxGnuPGShell
+Exec=/usr/share/gnupgshell/wxGnuPGShell
+Terminal=False
+Categories=Application;Utility;
+X-AppInstall-Package=gnupgshell
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=gnupgshell 1.0.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gnupgshell
+X-Arch-Package-Version=1.0.0-1
+X-Arch-Package-Description=A graphical user interface for the GnuPG
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.tech-faq.com/gnupg-shell.html
+X-Arch-Package-Votes=3

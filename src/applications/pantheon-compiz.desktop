@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Pantheon 3D
+Comment=This session provides elementary-3d experience
+Icon=/usr/share/compiz/icon.png
+TryExec=/usr/bin/compiz
+Exec=/usr/bin/pantheon-session 3d
+X-AppInstall-Package=pantheon-3d
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=pantheon-3d 1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pantheon-3d
+X-Arch-Package-Version=1-2
+X-Arch-Package-Description=Pantheon 3d Session (pantheon/compiz desktop environment)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://bbs.archlinux.org/viewtopic.php?pid=1401967#p1401967
+X-Arch-Package-Votes=3

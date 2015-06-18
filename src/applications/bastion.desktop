@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Bastion
+Comment=An original action role-playing game set in a lush imaginative world
+Icon=/opt/games/Bastion/Bastion.png
+TryExec=/usr/bin/bastion
+Exec=/usr/bin/bastion
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=bastion
+X-AppInstall-Popcon=29
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bastion
+X-Arch-Package-Version=20120621-7
+X-Arch-Package-Description=An original action role-playing game set in a lush imaginative
+X-Arch-Package-Groups=humble-indie-bundleV games
+X-Arch-Package-URL=http://supergiantgames.com/?page_id=242
+X-Arch-Package-Votes=29

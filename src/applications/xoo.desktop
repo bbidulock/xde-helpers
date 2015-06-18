@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Xoo
+Comment=Handheld Device Simulator
+Icon=xoo.png
+TryExec=/usr/bin/xoo
+Exec=xoo
+Categories=Development;GTK;
+StartupNotify=true
+X-AppInstall-Package=xoo
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xoo
+X-Arch-Package-Version=0.9-1
+X-Arch-Package-Description=Simulate an X target display device
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.freedesktop.org/wiki/Software/xoo
+X-Arch-Package-Votes=1

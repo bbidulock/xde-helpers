@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=0.94
+Type=Application
+Name=Gorm
+Comment=[GNUstep | Graphical] Object Relationship Modeller
+Icon=_usr_lib_GNUstep_Applications_Gorm.app_Resources_Gorm
+TryExec=/usr/bin/Gorm
+Exec=Gorm
+Categories=Development;Building;GUIDesigner;
+StartupNotify=false
+X-AppInstall-Package=gorm
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gorm
+X-Arch-Package-Version=1.2.12-2
+X-Arch-Package-Description=Graphical user interface builder for GNUstep
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gnustep.org/
+X-Arch-Package-Votes=7

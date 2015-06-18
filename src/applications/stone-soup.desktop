@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Stone Soup
+GenericName=Crawl Stone Soup
+Comment=An open-source, single-player, role-playing roguelike game of exploration and treasure-hunting
+Icon=stone-soup.png
+TryExec=/usr/bin/crawl-tiles
+Exec=/usr/bin/crawl-tiles
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=stone-soup-git
+X-AppInstall-Popcon=12
+X-AppInstall-Section=aur
+X-Arch-Package=stone-soup-git 0.16.a0.2761.gf27bdc9-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=stone-soup-git
+X-Arch-Package-Version=0.16.a0.2761.gf27bdc9-2
+X-Arch-Package-Description=An open-source, single-player, role-playing roguelike game of
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://crawl.develz.org/
+X-Arch-Package-Votes=12

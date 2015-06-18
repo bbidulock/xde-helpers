@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Marathon 2: Durandal (Aleph One)
+Comment=A FPS game by Bungie
+Icon=alephone-marathon2
+TryExec=/usr/bin/alephone-marathon2
+Exec=alephone-marathon2
+Categories=Game;ActionGame;
+X-AppInstall-Package=alephone-marathon2
+X-AppInstall-Popcon=18
+X-AppInstall-Section=aur
+X-Arch-Package=alephone-marathon2 20140104-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=alephone-marathon2
+X-Arch-Package-Version=20140104-2
+X-Arch-Package-Description=Marathon 2 scenario data files for Aleph One
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://marathon.sourceforge.net
+X-Arch-Package-Votes=18

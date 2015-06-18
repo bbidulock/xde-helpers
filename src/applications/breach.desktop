@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Breach
+GenericName=A Browser written in JS
+Comment=A Browser written in JS. Free. Modular. Hackable.
+Icon=breach
+TryExec=/usr/bin/breach
+Exec=breach
+Categories=Network;
+X-AppInstall-Package=breach
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=breach 0.3.22-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=breach
+X-Arch-Package-Version=0.3.22-2
+X-Arch-Package-Description=Entirely written in Javascript. Free. Modular. Hackable.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://breach.cc/
+X-Arch-Package-Votes=5

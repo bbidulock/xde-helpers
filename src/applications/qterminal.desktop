@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=QTerminal
+Name[sr]=Ку терминал
+Name[tr]=QTerminali
+Icon=utilities-terminal
+TryExec=/usr/bin/qterminal
+Exec=qterminal
+Categories=System;TerminalEmulator;
+StartupNotify=false
+X-XFCE-Binaries=qterminal;
+X-XFCE-Category=TerminalEmulator
+X-XFCE-Commands=%B;
+X-XFCE-CommandsWithParameter=%B -e %s;
+X-AppInstall-Package=qterminal
+X-AppInstall-Popcon=16
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qterminal
+X-Arch-Package-Version=0.6.0-2
+X-Arch-Package-Description=Lightweight Qt-based terminal emulator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/qterminal/qtermwidget
+X-Arch-Package-Votes=16

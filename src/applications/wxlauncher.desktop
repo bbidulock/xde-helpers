@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=wxlauncher
+GenericName=wxlauncher for OpenSCP
+Icon=wxlauncher
+TryExec=/usr/bin/wxlauncher
+Exec=wxlauncher
+Categories=Game;
+StartupNotify=true
+X-AppInstall-Package=wxlauncher
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=wxlauncher 0.9.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wxlauncher
+X-Arch-Package-Version=0.9.6-1
+X-Arch-Package-Description=wxLauncher is a cross-platform launcher for the FreeSpace 2
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.hard-light.net/forums/index.php?topic=67950.0
+X-Arch-Package-Votes=10

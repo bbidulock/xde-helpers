@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=YouTube Playlist Downloader
+GenericName=YouTube Playlist Downloader
+Comment=GUI application which downloads Playlists or single Files and converts them to mp3
+Comment[de]=Programm zum downloaden & umwandeln von YT-Playlisten oder einzelnen Songs
+Icon=sidebar-show-symbolic
+TryExec=/usr/bin/YTPLMP3
+Exec=YTPLMP3
+Categories=Application;AudioVideo;Office;AudioVideoEditing;
+StartupNotify=false
+X-AppInstall-Package=ytplmp3
+X-AppInstall-Section=aur
+X-Arch-Package=ytplmp3 5.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ytplmp3
+X-Arch-Package-Version=5.0-2
+X-Arch-Package-Description=YTPLMP3 - only german version
+X-Arch-Package-URL=http://youtube.com/

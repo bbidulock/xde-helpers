@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Savage: The Battle for Newerth
+GenericName=Savage
+Comment=Online Multiplayer Team-Based FPS/RTS Hybrid
+Icon=/usr/share/pixmaps/savage.xpm
+TryExec=/usr/bin/savage
+Exec=/usr/bin/savage
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=savage
+X-AppInstall-Popcon=45
+X-AppInstall-Section=aur
+X-Arch-Package=savage 2.00e-9
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=savage
+X-Arch-Package-Version=2.00e-9
+X-Arch-Package-Description=Savage: The Battle for Newerth is an online multiplayer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://s2games.com/savage
+X-Arch-Package-Votes=45

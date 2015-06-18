@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Grpn Calculator
+GenericName=Calculator
+Comment=Graphical reverse polish notation calculator
+Icon=grpn
+TryExec=/usr/bin/grpn
+Exec=grpn
+Categories=Office;Utility;Calculator;
+X-AppInstall-Package=grpn
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=grpn 1.4.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=grpn
+X-Arch-Package-Version=1.4.0-1
+X-Arch-Package-Description=A graphical reverse polish notation (RPN) calculator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.getreu.net/
+X-Arch-Package-Votes=5

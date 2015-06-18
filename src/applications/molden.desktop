@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Molden
+Comment=Molecular builder and viewer of quantum chemical calculations
+Icon=molden
+TryExec=/usr/bin/gmolden
+Exec=gmolden
+Categories=Science;Chemistry;Mathematics;
+StartupNotify=false
+X-AppInstall-Package=molden
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package=molden 5.2.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=molden
+X-Arch-Package-Version=5.2.1-2
+X-Arch-Package-Description=Molecular builder and viewer of quantum chemistry calculations
+X-Arch-Package-Groups=science chemistry
+X-Arch-Package-URL=http://www.cmbi.ru.nl/molden/molden.html
+X-Arch-Package-Votes=11

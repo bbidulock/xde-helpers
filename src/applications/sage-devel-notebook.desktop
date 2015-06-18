@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Sage
+Comment=Sage notebook
+Icon=/opt/sage/devel/ext-main/notebook/images/sageicon.png
+TryExec=/usr/bin/sage
+Exec=/usr/bin/sage -notebook
+Terminal=true
+Categories=Education;Science;Math;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=sage-mathematics-devel
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=sage-mathematics-devel 6.5.beta1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sage-mathematics-devel
+X-Arch-Package-Version=6.5.beta1-1
+X-Arch-Package-Description=Open Source Mathematics Software, a viable free alternative to
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.sagemath.org/download-latest.html
+X-Arch-Package-Votes=7

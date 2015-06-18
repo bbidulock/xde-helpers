@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Gtkmorph
+GenericName=Gtkmorph
+Comment="Loads, saves, warps, and dissolves images, and loads, saves, creates, and manipulates control meshes which determine the warping."
+TryExec=/usr/bin/gtkmorph
+Exec=/usr/bin/gtkmorph
+Categories=Graphics;2DGraphics;RasterGraphics;GTK;
+X-AppInstall-Package=gtkmorph
+X-AppInstall-Popcon=16
+X-AppInstall-Section=aur
+X-Arch-Package=gtkmorph 20090926-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gtkmorph
+X-Arch-Package-Version=20090926-3
+X-Arch-Package-Description=Loads, saves, warps, and dissolves images, and loads, saves,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://xmorph.sourceforge.net/
+X-Arch-Package-Votes=16

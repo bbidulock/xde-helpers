@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Quimup
+Comment=A client for the Music Player Daemon (MPD) written in C++ and Qt
+Icon=quimup
+TryExec=/usr/bin/quimup
+Exec=quimup
+Categories=AudioVideo;Player;
+StartupNotify=true
+X-AppInstall-Package=quimup
+X-AppInstall-Popcon=39
+X-AppInstall-Section=aur
+X-Arch-Package=quimup 1.4.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=quimup
+X-Arch-Package-Version=1.4.0-2
+X-Arch-Package-Description=A client for the Music Player Daemon (MPD) written in C++ and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.coonsden.com/
+X-Arch-Package-Votes=39

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Shadowgrounds DEMO
+Comment=Science fiction shoot 'em up in third person perspective
+Icon=/usr/share/pixmaps/shadowgrounds-demo
+TryExec=/usr/bin/shadowgrounds-demo
+Exec=/usr/bin/shadowgrounds-demo
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=shadowgrounds-demo
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=shadowgrounds-demo 1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=shadowgrounds-demo
+X-Arch-Package-Version=1-1
+X-Arch-Package-Description=Science fiction shoot 'em up in a third person perspective
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=None
+X-Arch-Package-Votes=1

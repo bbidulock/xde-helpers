@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=GLC_Player
+GenericName=3D model viewer
+Comment=Open source 3D model viewer
+Icon=glc_player
+TryExec=/usr/bin/glc_player
+Exec=glc_player
+NoDisplay=true
+Categories=Graphics;3DGraphics;Viewer;Qt;
+MimeType=application/x-3ds;image/x-3ds;
+X-KDE-StartupNotify=true
+X-AppInstall-Package=glc-player
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=glc-player 2.3.0-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=glc-player
+X-Arch-Package-Version=2.3.0-4
+X-Arch-Package-Description=Open source 3D model viewer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.glc-player.net/
+X-Arch-Package-Votes=13
+Aliases=glc_player;

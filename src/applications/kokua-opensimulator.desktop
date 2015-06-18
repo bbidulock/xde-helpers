@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Kokua-OpenSimulator
+GenericName=A third-party viewer for Open Simulator grids (only)
+Comment=A third party viewer for OpenSimulator grids (only)
+Icon=/usr/share/pixmaps/kokua-opensimulator.png
+TryExec=/usr/bin/kokua-opensimulator
+Exec=/usr/bin/kokua-opensimulator
+Categories=Game;
+X-AppInstall-Package=kokua-opensimulator
+X-AppInstall-Section=aur
+X-Arch-Package=kokua-opensimulator 3.7.81.33408-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kokua-opensimulator
+X-Arch-Package-Version=3.7.81.33408-2
+X-Arch-Package-Description=An Open Source third party viewer for Open Simulator (opensim), only.
+X-Arch-Package-URL=http://www.kokuaviewer.org

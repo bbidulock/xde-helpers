@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Wired
+Comment=A professional music production and creation software
+Icon=wired.png
+TryExec=/usr/bin/wired
+Exec=wired
+Categories=Application;AudioVideo;
+StartupNotify=false
+X-AppInstall-Package=wired
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=wired 0.7.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wired
+X-Arch-Package-Version=0.7.0-1
+X-Arch-Package-Description=Modern semi-professional Digital Audio Workstation
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/wired/
+X-Arch-Package-Votes=4

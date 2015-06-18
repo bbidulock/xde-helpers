@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Meritous
+Comment=action-adventure dungeon crawl game
+Icon=meritous
+TryExec=/usr/bin/meritous
+Exec=meritous
+Categories=Application;Game;AdventureGame;
+StartupNotify=false
+X-AppInstall-Package=meritous
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=meritous
+X-Arch-Package-Version=v12-1
+X-Arch-Package-Description=An action-adventure dungeon crawl game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.asceai.net/meritous/
+X-Arch-Package-Votes=8

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0.1
+Type=Application
+Name=Boson X
+Comment=DRM-free rotational running game
+Icon=boson-x
+TryExec=/usr/bin/boson-x
+Exec=boson-x
+Categories=Game;
+X-AppInstall-Package=boson-x
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=boson-x 1.0.5-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=boson-x
+X-Arch-Package-Version=1.0.5-3
+X-Arch-Package-Description=DRM-free rotational running game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.boson-x.com/
+X-Arch-Package-Votes=7

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=GGcov
+Comment=Source code coverage browser
+Icon=ggcov64.png
+TryExec=/usr/bin/ggcov
+Exec=ggcov
+Categories=Application;Development;
+StartupNotify=false
+X-AppInstall-Package=ggcov
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-AppInstall-Architectures=i386,kfreebsd-i386
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ggcov
+X-Arch-Package-Version=0.9-1
+X-Arch-Package-Description=ggcov is a GTK+ GUI for exploring test coverage data produced
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ggcov.sourceforge.net/
+X-Arch-Package-Votes=1

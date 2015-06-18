@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=0.3
+Type=Application
+Name=Linthesia
+GenericName=Piano game
+Icon=linthesia.xpm
+TryExec=/usr/bin/linthesia
+Exec=linthesia
+Categories=Education;Game;Music;
+StartupNotify=false
+X-AppInstall-Package=linthesia
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=linthesia
+X-Arch-Package-Version=0.4_2-2
+X-Arch-Package-Description=Piano tutor and game which uses piano-roll-style falling notes
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://linthesia.sourceforge.net/
+X-Arch-Package-Votes=13

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Heroine's Quest: Herald of Ragnarok
+Comment=A Quest for Glory-inspired adventure/RPG
+Icon=/usr/share/pixmaps/heroines-quest.png
+TryExec=/usr/bin/heroines-quest
+Exec=/usr/bin/heroines-quest &
+Categories=Game;
+StartupNotify=true
+X-AppInstall-Package=heroines-quest
+X-AppInstall-Section=aur
+X-Arch-Package=heroines-quest 1.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=heroines-quest
+X-Arch-Package-Version=1.1-1
+X-Arch-Package-Description=Heroine's Quest: Herald of Ragnarok, a Quest for
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://crystalshard.net/hq.htm
+X-Arch-Package-Votes=0

@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=RhythmCat2
+Name[en_US]=RhythmCat2 Music Player
+Name[zh_CN]=RhythmCat2 音乐播放器
+Name[zh_TW]=RhythmCat2 音樂播放器
+GenericName=Music Player
+Comment=RhythmCat2 Music Player
+Icon=RhythmCat2
+TryExec=/usr/bin/RhythmCat2
+Exec=RhythmCat2 %U
+Categories=AudioVideo;Player;GTK;
+MimeType=application/x-ogg;application/ogg;audio/x-vorbis+ogg;audio/x-scpls;audio/x-mp3;audio/x-mpeg;audio/mpeg;audio/x-mpegurl;audio/x-flac;
+StartupNotify=false
+X-AppInstall-Package=rhythmcat2-git
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=rhythmcat2-git 20130331-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rhythmcat2-git
+X-Arch-Package-Version=20130331-1
+X-Arch-Package-Description=A music player which can be used under Linux
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/supercatexpert/RhythmCat2
+X-Arch-Package-Votes=2

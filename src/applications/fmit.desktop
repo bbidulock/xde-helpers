@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=fmit
+Comment=Music instrument tuner
+Icon=mix_mic
+TryExec=/usr/bin/fmit
+Exec=fmit
+Categories=AudioVideo;Qt;
+StartupNotify=false
+X-AppInstall-Package=fmit
+X-AppInstall-Popcon=47
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fmit
+X-Arch-Package-Version=0.99.5-1
+X-Arch-Package-Description=Free Music Instrument Tuner
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://home.gna.org/fmit/index.html
+X-Arch-Package-Votes=47

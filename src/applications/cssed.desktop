@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=CssED
+Comment=GTK2 based editor for cascading style sheets
+Icon=/usr/share/cssed/pixmaps/cssed-icon.png
+TryExec=/usr/bin/cssed
+Exec=cssed
+X-MultipleArgs=false
+Categories=Application;Development;WebDevelopment;GTK;
+MimeType=text/html;text/css;text/x-perl;text/x-php;text/x-php-source;
+X-AppInstall-Package=cssed
+X-AppInstall-Section=aur
+X-Arch-Package=cssed 0.4.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cssed
+X-Arch-Package-Version=0.4.0-2
+X-Arch-Package-Description=A GTK2 based Cascading Style Sheets (CSS) editor
+X-Arch-Package-URL=http://cssed.sourceforge.net/

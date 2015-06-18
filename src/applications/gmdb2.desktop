@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=MDB Tools
+Comment=View data and export schema from MDB files
+Icon=/usr/share/gmdb/glade/logo.xpm
+TryExec=/usr/bin/gmdb2
+Exec=gmdb2
+Categories=System;FileTools;
+X-AppInstall-Package=mdbtools
+X-AppInstall-Popcon=61
+X-AppInstall-Section=aur
+X-Arch-Package=mdbtools 0.7.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mdbtools
+X-Arch-Package-Version=0.7.1-2
+X-Arch-Package-Description=Utilities for viewing data and exporting schema from Microsoft
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/mdbtools/
+X-Arch-Package-Votes=61

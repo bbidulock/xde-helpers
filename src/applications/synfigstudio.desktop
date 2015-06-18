@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Synfig Studio
+Comment=Create and edit 2D animations and compositions
+Icon=synfig_icon
+TryExec=/usr/bin/synfigstudio
+Exec=synfigstudio %F
+Categories=Graphics;2DGraphics;VectorGraphics;GTK;
+MimeType=image/sif;
+StartupNotify=true
+X-AppInstall-Package=synfigstudio
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=synfigstudio
+X-Arch-Package-Version=1.0-2
+X-Arch-Package-Description=Professional vector animation program (GUI)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://synfig.org

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=3.0
+Type=Application
+Name=MPS
+GenericName=Next Programming Paradigm
+Comment=Next Programming Paradigm
+Icon=mps
+TryExec=/usr/bin/jetbrains-mps
+Exec=/usr/bin/jetbrains-mps
+Categories=Development;
+X-AppInstall-Package=mps
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=mps 3.1.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mps
+X-Arch-Package-Version=3.1.2-1
+X-Arch-Package-Description=Meta Programming System is an environment for professional
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.jetbrains.com/mps
+X-Arch-Package-Votes=4

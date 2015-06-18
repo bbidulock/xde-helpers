@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Doom 3: Classic Doom
+GenericName=Doom 3: Classic Doom
+Comment=Classic Doom mod for Doom 3
+Icon=/usr/share/pixmaps/doom3-cdoom.ico
+TryExec=/usr/bin/doom3-cdoom
+Exec=/usr/bin/doom3-cdoom
+Categories=Application;Game;
+StartupNotify=false
+X-AppInstall-Package=doom3-cdoom
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=doom3-cdoom 1.3.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=doom3-cdoom
+X-Arch-Package-Version=1.3.1-2
+X-Arch-Package-Description=Classic Doom: Doom 1 shareware episode maps recreated for use
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.moddb.com/mods/classic-doom-3
+X-Arch-Package-Votes=3

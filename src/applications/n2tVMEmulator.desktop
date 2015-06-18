@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=nand2tetris VM Emulator
+Comment=Emulates the operation of the virtual machine for Hack.
+Icon=java
+TryExec=/usr/bin/n2tVMEmulator
+Exec=n2tVMEmulator
+Categories=Education;
+X-AppInstall-Package=nand2tetris
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=nand2tetris 2.5-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nand2tetris
+X-Arch-Package-Version=2.5-3
+X-Arch-Package-Description=Software suite accompanying Nand2Tetris course.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.nand2tetris.org/
+X-Arch-Package-Votes=1

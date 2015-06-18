@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Penumbra Ep. 1: Overture
+Comment=First episode of a three collection series. A first person adventure game which focuses on story, immersion, and puzzles.
+Icon=penumbra-overture.png
+TryExec=/usr/bin/penumbra-overture
+Exec=penumbra-overture
+Categories=Game;
+X-AppInstall-Package=penumbra-collection
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=penumbra-collection 1.1-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=penumbra-collection
+X-Arch-Package-Version=1.1-3
+X-Arch-Package-Description=A first person adventure game which focuses on story,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.penumbragame.com/
+X-Arch-Package-Votes=10

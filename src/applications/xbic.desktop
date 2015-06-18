@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=XB.I.C.
+Comment=A tactical turn-based game based on the Battle Isle series
+Icon=xbic
+TryExec=/usr/bin/xbic
+Exec=xbic
+Categories=Game;StrategyGame;
+X-AppInstall-Package=xbic
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=xbic 1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xbic
+X-Arch-Package-Version=1.0-1
+X-Arch-Package-Description=A tactical turn-based game based on the Battle Isle series
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.ibiblio.org/pub/Linux/games/strategy
+X-Arch-Package-Votes=1

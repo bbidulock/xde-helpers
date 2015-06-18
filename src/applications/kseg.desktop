@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=KSeg Geometry Sketchpad
+Comment=Sketchpad for planar Euclidean geometry
+Icon=kseg
+TryExec=/usr/bin/kseg
+Exec=kseg
+Categories=Application;Education;Science;Math;
+StartupNotify=false
+X-AppInstall-Package=kseg
+X-AppInstall-Popcon=46
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kseg
+X-Arch-Package-Version=0.403-1
+X-Arch-Package-Description=An interactive geometry program for exploring Euclidean
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.mit.edu/~ibaran/kseg.html
+X-Arch-Package-Votes=0

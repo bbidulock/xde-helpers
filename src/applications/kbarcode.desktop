@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=KBarcode
+Comment=Barcode and label printing tool
+Comment[de]=Werkzeug zum Barcode und Etiketten Druck
+Icon=kbarcode.png
+TryExec=/usr/bin/kbarcode
+Exec=kbarcode -caption "%c" %i %m %f
+Categories=Office;KDE;Qt;
+MimeType=application/kbarcode-label;
+StartupNotify=false
+DocPath=kbarcode/index.html
+X-AppInstall-Package=kbarcode
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kbarcode
+X-Arch-Package-Version=2.0.7-2
+X-Arch-Package-Description=Barcode printer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.kbarcode.net/
+X-Arch-Package-Votes=4

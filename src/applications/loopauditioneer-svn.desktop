@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=LoopAuditioneer
+Comment=Software for loop and cue handling in .wav files
+Icon=loopauditioneer
+TryExec=/usr/bin/loopauditioneer
+Exec=loopauditioneer
+NoDisplay=true
+Categories=AudioVideo;Audio;
+X-AppInstall-Package=loopauditioneer-svn
+X-AppInstall-Section=aur
+X-Arch-Package=loopauditioneer-svn r42-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=loopauditioneer-svn
+X-Arch-Package-Version=r42-1
+X-Arch-Package-Description=Software for loop and cue handling in .wav files
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://loopauditioneer.sourceforge.net/
+X-Arch-Package-Votes=0
+Aliases=loopauditioneer;

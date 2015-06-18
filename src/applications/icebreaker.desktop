@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=IceBreaker
+GenericName=IceBreaker
+Comment=Melt an iceberg into small pieces, in order to trap the penguins
+Icon=icebreaker_48
+TryExec=/usr/bin/icebreaker
+Exec=icebreaker
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=icebreaker
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=icebreaker
+X-Arch-Package-Version=1.2.1-2
+X-Arch-Package-Description=A clone of Jezzball that uses icebergs and penguins.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://mattdm.org/icebreaker/
+X-Arch-Package-Votes=5

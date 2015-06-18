@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=7 Nanocycles
+Comment=Play 7 Nanocycles
+Icon=7-nanocycles
+TryExec=/usr/bin/7-nanocycles
+Exec=7-nanocycles
+Categories=AudioVideo;Game;
+StartupNotify=true
+X-AppInstall-Package=7-nanocycles
+X-AppInstall-Section=aur
+X-Arch-Package=7-nanocycles 1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=7-nanocycles
+X-Arch-Package-Version=1-2
+X-Arch-Package-Description=7 Nanocycles is a game of flying down an endless corridor of
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://nifflas.ni2.se/?page=Miscellaneous
+X-Arch-Package-Votes=0

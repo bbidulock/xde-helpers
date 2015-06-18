@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=USBprog
+Comment=USBprog firmware programmer
+Icon=usbprog_icon
+TryExec=/usr/bin/usbprog-gui
+Exec=usbprog-gui
+Categories=Development;Building;
+StartupNotify=false
+X-AppInstall-Package=usbprog
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=usbprog
+X-Arch-Package-Version=0.2.0-3
+X-Arch-Package-Description=Flashtool for the USBprog Programming Adapter
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.embedded-projects.net/usbprog/
+X-Arch-Package-Votes=8
+X-SuSE-translate=false

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=OrnamentBook
+Comment=A PyGTK-based GUI book reader
+Icon=pybookreader
+TryExec=/usr/bin/ornamentbook
+Exec=ornamentbook
+Categories=Office;Viewer;GTK;
+X-AppInstall-Package=pybookreader
+X-AppInstall-Popcon=12
+X-AppInstall-Section=aur
+X-Arch-Package=pybookreader 0.5.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pybookreader
+X-Arch-Package-Version=0.5.0-3
+X-Arch-Package-Description=A PyGTK-based GUI book reader
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/pybookreader/
+X-Arch-Package-Votes=12

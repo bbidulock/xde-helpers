@@ -1,0 +1,26 @@
+[Desktop Entry]
+Type=Application
+Name=Performous
+Comment=A karaoke game
+Comment[de]=Ein Karaoke Spiel
+Comment[es]=Un juego de karaoke
+Comment[fi]=Karaokepeli
+Comment[fr]=Un jeu de Karaoké
+Comment[it]=Un gioco di karaoke
+Comment[ro]=Un joc de tip karaoke
+Comment[se]=Ett karaoke-spel
+Icon=performous.png
+TryExec=/usr/bin/performous
+Exec=performous
+Categories=Application;Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=performous
+X-AppInstall-Popcon=55
+X-AppInstall-Section=community
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=performous
+X-Arch-Package-Version=1.0-4
+X-Arch-Package-Description=A free game like "Singstar", "Rockband" or "Stepmania"
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://performous.org/

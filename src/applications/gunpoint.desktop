@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Gunpoint
+Comment=A stealth puzzle game that lets you rewire its levels to trick people
+Icon=/usr/share/pixmaps/gunpoint.png
+TryExec=/usr/bin/gunpoint
+Exec=/usr/bin/gunpoint
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=gunpoint
+X-AppInstall-Section=aur
+X-Arch-Package=gunpoint 1410971363-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gunpoint
+X-Arch-Package-Version=1410971363-1
+X-Arch-Package-Description=A stealth puzzle game that lets you rewire its levels to trick
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.gunpointgame.com/
+X-Arch-Package-Votes=0

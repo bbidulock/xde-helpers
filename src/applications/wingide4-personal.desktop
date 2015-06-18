@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Wing IDE Personal v4
+Comment=The intelligent development environment for python programmers
+Icon=wingide4-personal.png
+TryExec=/usr/bin/wingide4-personal
+Exec=wingide4-personal
+Categories=Application;Development;
+X-AppInstall-Package=wingide4-personal
+X-AppInstall-Section=aur
+X-Arch-Package=wingide4-personal 4.1.14-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wingide4-personal
+X-Arch-Package-Version=4.1.14-1
+X-Arch-Package-Description=Wing IDE Personal is a low-cost Python IDE designed for
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.wingware.com
+X-Arch-Package-Votes=0

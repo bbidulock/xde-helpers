@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=Java Policy Settings
+Icon=sun-java.png
+TryExec=/usr/bin/policytool
+Exec=policytool
+Categories=Settings;Java;
+StartupNotify=true
+X-AppInstall-Package=java7-oracle
+X-AppInstall-Section=aur
+X-Arch-Package=java7-oracle 7.u67-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=java7-oracle
+X-Arch-Package-Version=7.u67-2
+X-Arch-Package-URL=http://www.oracle.com/technetwork/java/index.html

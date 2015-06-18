@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=kouvert
+Comment=graphical fstab file editor
+Comment[fr]=Éditeur graphique du fichier fstab
+Icon=kouvert
+TryExec=/usr/bin/kouvert
+Exec=kouvert
+Categories=System;
+X-AppInstall-Package=kouvert
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=kouvert 0.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kouvert
+X-Arch-Package-Version=0.3-1
+X-Arch-Package-Description=graphical fstab file editor write with Qt
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.qt-apps.org/content/show.php/Kouvert?content=15185
+X-Arch-Package-Votes=2

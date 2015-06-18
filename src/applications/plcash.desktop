@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=PLCash
+Comment=A personal finance program
+Icon=plcash
+TryExec=/usr/bin/plcash
+Exec=plcash
+Categories=Office;Finance;
+X-AppInstall-Package=plcash
+X-AppInstall-Section=aur
+X-Arch-Package=plcash 2.4.2392-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=plcash
+X-Arch-Package-Version=2.4.2392-1
+X-Arch-Package-Description=A personal finance program
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.arachnoid.com/PLCash/index.html
+X-Arch-Package-Votes=0

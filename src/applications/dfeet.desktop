@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=D-Feet D-Bus Debugger
+GenericName=D-Bus Debugger
+GenericName[en_CA]=D-Feet D-Bus Debugger
+Comment=Debug D-Bus applications
+Icon=dfeet-icon
+TryExec=/usr/bin/d-feet
+Exec=d-feet
+Categories=Development;GNOME;GTK;
+StartupNotify=false
+X-AppInstall-Package=d-feet
+X-AppInstall-Popcon=29
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=d-feet
+X-Arch-Package-Version=0.3.9-1
+X-Arch-Package-Description=D-Bus debugger for GNOME
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://wiki.gnome.org/Apps/DFeet

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Element4l
+Comment=An immersive and experimental platformer with a focus on flow and smooth gameplay
+Icon=element4l
+TryExec=/usr/bin/element4l
+Exec=element4l
+Categories=Game;ActionGame;AdventureGame;
+StartupNotify=true
+X-AppInstall-Package=element4l-hib
+X-AppInstall-Section=aur
+X-Arch-Package=element4l-hib Beta-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=element4l-hib
+X-Arch-Package-Version=Beta-1
+X-Arch-Package-Description=An immersive and experimental platformer with a focus on flow
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://i-illusions.com/element4l/
+X-Arch-Package-Votes=0

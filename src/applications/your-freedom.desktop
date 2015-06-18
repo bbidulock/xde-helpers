@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Your-Freedom
+Comment=VPN and Proxy Service
+Icon=/usr/share/your-freedom/yf.ico
+TryExec=/usr/bin/your-freedom
+Exec=/usr/bin/your-freedom
+Categories=Network;
+X-AppInstall-Package=your-freedom
+X-AppInstall-Popcon=23
+X-AppInstall-Section=aur
+X-Arch-Package=your-freedom 20150219-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=your-freedom
+X-Arch-Package-Version=20150219-1
+X-Arch-Package-Description=A service to bypass Firewalls, Proxies and content Filters and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://www.your-freedom.net/
+X-Arch-Package-Votes=23

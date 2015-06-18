@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Newsflash Plus
+Comment=A full featured Usenet binary reader
+Icon=internet-news-reader
+TryExec=/usr/bin/newsflashplus
+Exec=/usr/bin/newsflashplus
+Categories=Network;FileTransfer;
+X-AppInstall-Package=newsflashplus-bin
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=newsflashplus-bin 3.5.0b0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=newsflashplus-bin
+X-Arch-Package-Version=3.5.0b0-1
+X-Arch-Package-Description=Newsflash Plus is a full fledged Usenet binary reader
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ensisoft.com/index.php
+X-Arch-Package-Votes=3

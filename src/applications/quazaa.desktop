@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Quazaa
+GenericName=P2P Client
+Icon=/usr/share/pixmaps/quazaa.png
+TryExec=/usr/share/quazaa/Quazaa
+Exec=/usr/share/quazaa/Quazaa
+Categories=Network;
+X-AppInstall-Package=quazaa-git
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=quazaa-git 20131106-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=quazaa-git
+X-Arch-Package-Version=20131106-1
+X-Arch-Package-Description=Multi-network P2P file-sharing client inspired by Shareaza
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://quazaa.sourceforge.net
+X-Arch-Package-Votes=7

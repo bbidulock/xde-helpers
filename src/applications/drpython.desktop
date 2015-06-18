@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=DrPython
+Icon=drpython
+TryExec=/usr/bin/drpython
+Exec=drpython
+Categories=Development;
+StartupNotify=true
+X-AppInstall-Package=drpython
+X-AppInstall-Popcon=28
+X-AppInstall-Section=aur
+X-Arch-Package=drpython 3.11.3-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=drpython
+X-Arch-Package-Version=3.11.3-2
+X-Arch-Package-Description=Python IDE built with wxWidgets
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://drpython.sourceforge.net/
+X-Arch-Package-Votes=28

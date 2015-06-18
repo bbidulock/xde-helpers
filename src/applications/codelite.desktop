@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=CodeLite
+Icon=_usr_share_codelite_images_cubes
+TryExec=/usr/bin/codelite
+Exec=codelite %f
+Categories=Development;
+StartupNotify=true
+X-AppInstall-Package=codelite
+X-AppInstall-Popcon=45
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=codelite
+X-Arch-Package-Version=8.0_1-1
+X-Arch-Package-Description=Open-source, cross platform IDE for the C/C++ programming
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.codelite.org/
+X-Arch-Package-Votes=106

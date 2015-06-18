@@ -1,0 +1,23 @@
+[Desktop Entry]
+Version=3.3.22
+Type=Application
+Name=Cgoban3
+GenericName=Play go on KGS
+Comment=A KGS client and SGF aditor
+Icon=cgoban3.png
+TryExec=/usr/bin/java
+Exec=java -jar /usr/share/java/cgoban3/cgoban.jar
+Categories=Application;Game;BoardGame;
+MimeType=application/x-go-sgf;text/sgf;text/x-sgf;
+StartupNotify=true
+X-AppInstall-Package=cgoban3
+X-AppInstall-Popcon=44
+X-AppInstall-Section=aur
+X-Arch-Package=cgoban3 3.5.20-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cgoban3
+X-Arch-Package-Version=3.5.20-1
+X-Arch-Package-Description=Kiseido Go and SGF client
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gokgs.com/
+X-Arch-Package-Votes=44

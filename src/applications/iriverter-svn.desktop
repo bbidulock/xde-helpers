@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=iriverter-svn
+Comment=Convert videos for your handheld device
+Icon=iriverter-svn
+TryExec=/usr/bin/iriverter-svn
+Exec=iriverter-svn
+Categories=AudioVideo;
+StartupNotify=true
+X-AppInstall-Package=iriverter-svn
+X-AppInstall-Section=aur
+X-Arch-Package=iriverter-svn 172-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=iriverter-svn
+X-Arch-Package-Version=172-1
+X-Arch-Package-Description=A cross-platform mencoder frontend converting videos for various multimedia players - SVN version
+X-Arch-Package-URL=http://sourceforge.net/projects/iriverter/

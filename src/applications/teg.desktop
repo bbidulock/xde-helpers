@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=T.E.G. client
+Name[de]=T.E.G. Client
+Name[es]=Cliente T.E.G.
+Comment=Tenes Empanadas Graciela client
+Comment[de]=Client f\xFCr Tenes Empanadas Graciela
+Comment[es]=Cliente del Tenes Empanadas Graciela
+Icon=teg
+TryExec=/usr/bin/tegclient
+Exec=tegclient
+Categories=Game;StrategyGame;GNOME;GTK;
+StartupNotify=false
+X-AppInstall-Package=teg
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=teg
+X-Arch-Package-Version=0.11.2.r1.gd9ae386-1
+X-Arch-Package-Description=Tenes Empanadas Graciela - A risk clone for Gnome 2
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/wfx/teg
+X-Arch-Package-Votes=13

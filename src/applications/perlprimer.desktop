@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=PerlPrimer
+GenericName=Primer design
+GenericName[fr]=Conception d'amorces
+GenericName[pt_BR]=Projeto de primer
+Comment=Graphical design of primers for PCR and sequencing
+Comment[fr]=Conception d'amorces de PCR et de séquençage
+Comment[pt_BR]=Projeto gráfico de primers para PCR e sequenciamento
+Icon=perlprimer
+TryExec=/usr/bin/perlprimer
+Exec=perlprimer
+Categories=Education;Science;Biology;
+MimeType=application/x-perlprimer;
+X-AppInstall-Package=perlprimer
+X-AppInstall-Popcon=85
+X-AppInstall-Section=aur
+X-Arch-Package=perlprimer 1.1.14-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=perlprimer
+X-Arch-Package-Version=1.1.14-1
+X-Arch-Package-Description=Tool to design flanking oligo nucleotides for DNA
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://perlprimer.sourceforge.net
+X-Arch-Package-Votes=0

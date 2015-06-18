@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=BSOD
+Comment=BSOD stands for "Blue Screen of Death". The finest in personal computer emulation, BSOD simulates popular screen savers from a number of less robust operating systems. Written by Jamie Zawinski.
+TryExec=/usr/lib/xscreensaver/bsod
+Exec=/usr/lib/xscreensaver/bsod -root
+OnlyShowIn=GNOME;
+Categories=Screensaver;
+StartupNotify=false
+X-AppInstall-Package=bsod
+X-AppInstall-Popcon=367
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bsod
+X-Arch-Package-Version=0.1-4
+X-Arch-Package-Description=Bsod displays the famous windows xp blue screen of death on
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.vanheusden.com/bsod/
+X-Arch-Package-Votes=23

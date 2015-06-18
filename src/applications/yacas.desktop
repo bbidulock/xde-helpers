@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Yacas
+Comment=Yacas is a small and highly flexible computer algebra language
+Comment[es]=Yacas es un lenguaje de computacion algebraico
+Icon=yacas.png
+TryExec=/usr/bin/yacas
+Exec=yacas
+Terminal=true
+Categories=Science;Math;ConsoleOnly;
+X-AppInstall-Package=yacas
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package=yacas 1.3.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=yacas
+X-Arch-Package-Version=1.3.6-1
+X-Arch-Package-Description=Yet another computer algebra system
+X-Arch-Package-Groups=mathematics
+X-Arch-Package-URL=http://yacas.sourceforge.net/yacas.html
+X-Arch-Package-Votes=11

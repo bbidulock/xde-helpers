@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Envy24 Control Utility
+GenericName=envy24control
+Comment=envy24control - Control tool for Envy24 (ice1712) based soundcards
+TryExec=/usr/bin/envy24control
+Exec=envy24control
+NoDisplay=true
+Categories=Application;AudioVideo;
+X-AppInstall-Package=alsa-tools-ice1712
+X-AppInstall-Section=aur
+X-Arch-Package=alsa-tools-ice1712 1.0.27-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=alsa-tools-ice1712
+X-Arch-Package-Version=1.0.27-1
+X-Arch-Package-Description=envy24control - Control tool for Envy24 (ice1712) based soundcards
+X-Arch-Package-URL=http://alsa-project.org
+Aliases=envy24control;

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=SatViewer
+GenericName=Satellite tracking tool
+GenericName[fr]=Outil de suivi de satellites
+Icon=satviewer.png
+TryExec=/usr/bin/SatViewer
+Exec=SatViewer
+Categories=Science;Math;Qt;
+X-AppInstall-Package=satviewer
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=satviewer 201-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=satviewer
+X-Arch-Package-Version=201-1
+X-Arch-Package-Description=Satellite tracking tool
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://satviewer.net/
+X-Arch-Package-Votes=1

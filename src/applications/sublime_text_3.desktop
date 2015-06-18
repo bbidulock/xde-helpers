@@ -1,0 +1,30 @@
+[Desktop Entry]
+Type=Application
+Name=Sublime Text 3
+GenericName=Text Editor
+Comment=Sophisticated text editor for code, markup and prose
+Icon=sublime-text
+TryExec=/usr/bin/subl3
+Exec=subl3 %F
+Categories=Development;TextEditor;
+MimeType=text/plain;
+StartupNotify=true
+X-AppInstall-Package=sublime-text-3
+X-AppInstall-Section=aur
+X-Arch-Package=sublime-text-3 3.3065-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sublime-text-3
+X-Arch-Package-Version=3.3065-1
+X-Arch-Package-Description=Sophisticated text editor for code, html and prose
+X-Arch-Package-URL=http://www.sublimetext.com/3
+Actions=Window;Document;
+
+[Desktop Action Window]
+Name=New Window
+TryExec=/usr/bin/subl3
+Exec=subl3 -n
+
+[Desktop Action Document]
+Name=New File
+TryExec=/usr/bin/subl3
+Exec=subl3 --command new_file

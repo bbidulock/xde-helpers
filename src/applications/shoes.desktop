@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Shoes
+GenericName=Interpreter
+Comment=The best little GUI toolkit, for Ruby
+Icon=shoes
+TryExec=/usr/bin/shoes
+Exec=shoes
+Categories=Development;Building;GTK;
+MimeType=application/x-shoes;
+StartupNotify=true
+X-AppInstall-Package=shoes-git
+X-AppInstall-Popcon=15
+X-AppInstall-Section=aur
+X-Arch-Package=shoes-git 3.0.0.324.gd14b041-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=shoes-git
+X-Arch-Package-Version=3.0.0.324.gd14b041-1
+X-Arch-Package-Description=The best little GUI toolkit, for Ruby.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://shoesrb.com/
+X-Arch-Package-Votes=15

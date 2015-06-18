@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=firefox-nightly
+Comment=Веб-браузер firefox. Ночная сборка
+Icon=firefox-nightly-russian-icon
+TryExec=/usr/bin/firefox-nightly
+Exec=firefox-nightly
+NoDisplay=true
+Categories=Network;WebBrowser;
+StartupNotify=false
+X-AppInstall-Package=firefox-nightly-russian
+X-AppInstall-Section=aur
+X-Arch-Package=firefox-nightly-russian 16.0a1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firefox-nightly-russian
+X-Arch-Package-Version=16.0a1-1
+X-Arch-Package-Description=Standalone web browser from mozilla.org, nightly build. Russian
+X-Arch-Package-Groups=internet;
+X-Arch-Package-URL=http://www.mozilla.org/projects/firefox/prerelease.html
+Aliases=firefox-nightly;

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=leet-generator
+Comment=Converts normal plaintext into 133773}{7
+TryExec=/usr/bin/leet-generator
+Exec=leet-generator
+Categories=Utility;GTK;
+StartupNotify=true
+X-AppInstall-Package=leet-generator
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=leet-generator 0.2-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=leet-generator
+X-Arch-Package-Version=0.2-3
+X-Arch-Package-Description=Converts normal plaintext into 133773}{7
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/leet-generator
+X-Arch-Package-Votes=5

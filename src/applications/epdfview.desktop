@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=ePDFViewer
+GenericName=PDF Viewer
+GenericName[ca]=Visor PDF
+GenericName[es]=Visor PDF
+Comment=Lightweight PDF document viewer
+Comment[ca]=Visor de documents PDF lleuger
+Comment[es]=Visor de documentos PDF ligero
+Icon=epdfview
+TryExec=/usr/bin/epdfview
+Exec=epdfview %f
+Categories=Office;Viewer;GTK;
+MimeType=application/pdf;
+StartupNotify=false
+X-AppInstall-Package=epdfview
+X-AppInstall-Popcon=1176
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=epdfview
+X-Arch-Package-Version=0.1.8-6
+X-Arch-Package-Description=Lightweight PDF document viewer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://freecode.com/projects/epdfview

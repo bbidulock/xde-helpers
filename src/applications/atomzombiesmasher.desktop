@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=AtomZombieSmasher
+GenericName=AtomZombieSmasher
+Comment=RTS, evacuating civilians out of zombie-contaminated cities
+Icon=/opt/atomzombiesmasher/game/atomzombiesmasher.png
+TryExec=/usr/bin/atomzombiesmasher
+Exec=atomzombiesmasher
+Categories=Game;
+X-AppInstall-Package=atomzombiesmasher-hib
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=atomzombiesmasher-hib 1.953-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=atomzombiesmasher-hib
+X-Arch-Package-Version=1.953-1
+X-Arch-Package-Description=RTS, evacuating civilians out of zombie-contaminated cities.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://blendogames.com/atomzombiesmasher/
+X-Arch-Package-Votes=1

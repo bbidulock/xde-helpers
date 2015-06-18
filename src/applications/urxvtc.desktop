@@ -6,7 +6,6 @@ Icon=utilities-terminal
 TryExec=/usr/bin/urxvtc
 Exec=urxvtc
 Categories=System;TerminalEmulator;
-StartupNotify=false
 X-AppInstall-Package=rxvt-unicode
 X-AppInstall-Section=community
 X-Arch-Package=rxvt-unicode 9.21-1

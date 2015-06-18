@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=3.2.1
+Type=Application
+Name=Droidcam
+Comment=A tool for using your Android phone as a wireless/usb webcam
+Icon=droidcam
+TryExec=/usr/bin/droidcam
+Exec=droidcam
+Categories=AudioVideo;GNOME;
+X-AppInstall-Package=droidcam
+X-AppInstall-Popcon=42
+X-AppInstall-Section=aur
+X-Arch-Package=droidcam 4.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=droidcam
+X-Arch-Package-Version=4.1-2
+X-Arch-Package-Description=A tool for using your android device as a wireless/usb webcam
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.dev47apps.com/
+X-Arch-Package-Votes=42

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=djvusmooth
+GenericName=Graphical editor for DjVu
+GenericName[pl]=Graficzny edytor plików DjVu
+TryExec=/usr/bin/djvusmooth
+Exec=/usr/bin/djvusmooth %f
+Categories=Graphics;
+MimeType=image/x-djvu;image/x.djvu;image/vnd.djvu;
+StartupNotify=false
+X-AppInstall-Package=djvusmooth
+X-AppInstall-Popcon=16
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=djvusmooth
+X-Arch-Package-Version=0.2.14-1
+X-Arch-Package-Description=A graphical editor for DjVu documents
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://jwilk.net/software/djvusmooth
+X-Arch-Package-Votes=6

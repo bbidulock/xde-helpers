@@ -1,0 +1,26 @@
+[Desktop Entry]
+Type=Application
+Name=Cartao de Cidadao
+GenericName=Portuguese Citizen Card
+GenericName[pt]=Cartão de Cidadão
+Comment=Portuguese Citizen Card
+Comment[pt]=Cartão de Cidadão
+Icon=cartaodecidadao
+TryExec='/usr/bin/pteidgui'
+Exec='/usr/bin/pteidgui'
+NoDisplay=true
+Categories=Office;
+StartupNotify=false
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=cartaodecidadao
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=cartaodecidadao 1.23.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cartaodecidadao
+X-Arch-Package-Version=1.23.0-2
+X-Arch-Package-Description=Portuguese Citizen Card Application
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.cartaodecidadao.pt/
+X-Arch-Package-Votes=1
+Aliases=Cartao de Cidadao;

@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Cytoscape 2.8
+GenericName=Cytoscape 2.8
+Icon=cytoscape2
+TryExec=/usr/bin/cytoscape2
+Exec=cytoscape2
+Categories=Application;Office;
+X-AppInstall-Package=cytoscape2
+X-AppInstall-Section=aur
+X-Arch-Package=cytoscape2 2.8.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cytoscape2
+X-Arch-Package-Version=2.8.3-1
+X-Arch-Package-Description=A software for visualizing molecular interaction networks and integration with gene expression profiles and other state data. Version 2.8.
+X-Arch-Package-URL=http://www.cytoscape.org

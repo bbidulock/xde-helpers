@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=seamonkey-nightly-safe.desktop
+GenericName=Web Browser - Safe Mode
+Icon=seamonkey-nightly-stable-icon
+TryExec=/usr/bin/seamonkey-nightly
+Exec=seamonkey-nightly -safe-mode %u
+MultipleArgs=false
+Categories=Application;Network;
+MimeType=text/html;
+StartupNotify=false
+X-AppInstall-Package=seamonkey-nightly-stable
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=seamonkey-nightly-stable 2.17a2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=seamonkey-nightly-stable
+X-Arch-Package-Version=2.17a2-1
+X-Arch-Package-Description=SeaMonkey internet suite, stable Aurora nightly build.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.seamonkey-project.org/dev/aurora
+X-Arch-Package-Votes=1

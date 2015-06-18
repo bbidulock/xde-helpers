@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Data Display Debugger
+Comment=Debugger with graphical user interface
+Comment[de]=Debugger mit grafischer Oberfläche
+Comment[es]=Depurador con una interfase gráfica de usuario
+Comment[fr]=Debogeur avec interface graphique
+Comment[hu]=Nyomkövetőprogram grafikus felhasználói felülettel
+Icon=ddd
+TryExec=/usr/bin/ddd
+Exec=ddd
+Categories=Development;
+StartupNotify=false
+DocPath=/usr/share/doc/packages/ddd/html/ddd.html
+X-AppInstall-Package=ddd
+X-AppInstall-Popcon=432
+X-AppInstall-Section=extra
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=ddd
+X-Arch-Package-Version=3.3.12-5
+X-Arch-Package-Description=A graphical front-end for command-line debuggers such as GDB, JDB, pydb, perl debugger...
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.gnu.org/software/ddd/

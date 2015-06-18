@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Fragmentarium
+Comment=Explore pixel based graphics on the GPU
+Icon=fragmentarium.png
+TryExec=/usr/bin/fragmentarium
+Exec=fragmentarium
+Categories=Graphics;VectorGraphics;Qt;
+X-AppInstall-Package=fragmentarium
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=fragmentarium 1.0.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fragmentarium
+X-Arch-Package-Version=1.0.0-1
+X-Arch-Package-Description=An IDE for exploring pixel based graphics on the GPU
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://syntopia.github.com/Fragmentarium/
+X-Arch-Package-Votes=5

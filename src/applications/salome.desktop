@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Salome
+Comment=Platform for Pre and Post-Processing for numerical simulation
+Icon=/usr/share/pixmaps/salome.png
+TryExec=/usr/bin/salome
+Exec=/usr/bin/salome
+Categories=Science;Math;
+X-AppInstall-Package=salome-gui
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=salome-gui 7.4.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=salome-gui
+X-Arch-Package-Version=7.4.1-1
+X-Arch-Package-Description=Generic platform for Pre and Post-Processing for numerical
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.salome-platform.org
+X-Arch-Package-Votes=7

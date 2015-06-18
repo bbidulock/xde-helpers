@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Wicd
+GenericName=Network Manager
+Comment=Manage Wired/Wireless Networks
+Icon=wicd
+TryExec=/usr/bin/wicd
+Exec=wicd --no-tray
+Categories=Network;
+X-AppInstall-Package=wicd
+X-AppInstall-Section=extra
+X-Arch-Package=wicd 1.7.3-1
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=wicd
+X-Arch-Package-Version=1.7.3-1
+X-Arch-Package-Description=Wired and wireless network manager for Linux
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://launchpad.net/wicd/

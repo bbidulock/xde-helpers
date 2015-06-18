@@ -1,0 +1,23 @@
+[Desktop Entry]
+Version=0.1
+Type=Application
+Name=wxMupen64Plus
+GenericName=Mupen64Plus frontend
+Comment=A full-featured frontend for Mupen64Plus
+Icon=/usr/share/wxmupen64plus/mupenicon_large.png
+TryExec=/usr/bin/wxmupen64plus
+Exec=/usr/bin/wxmupen64plus
+NoDisplay=true
+Categories=Game;Emulator;
+X-AppInstall-Package=wxmupen64plus-hg
+X-AppInstall-Popcon=16
+X-AppInstall-Section=aur
+X-Arch-Package=wxmupen64plus-hg 549.d8469164f827-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wxmupen64plus-hg
+X-Arch-Package-Version=549.d8469164f827-1
+X-Arch-Package-Description=An experimental Mupen64Plus frontend written with wxWidgets
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://bitbucket.org/auria/wxmupen64plus/
+X-Arch-Package-Votes=16
+Aliases=wxmupen64plus;

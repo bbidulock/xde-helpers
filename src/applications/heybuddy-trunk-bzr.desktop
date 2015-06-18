@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=heybuddy - Identi.ca µblogging client
+Name[en_US]=heybuddy-trunk-bzr
+Icon=heybuddy.png
+TryExec=/usr/bin/heybuddy
+Exec=heybuddy
+NoDisplay=true
+Categories=Application;Network;
+X-AppInstall-Package=heybuddy-trunk-bzr
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=heybuddy-trunk-bzr 357-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=heybuddy-trunk-bzr
+X-Arch-Package-Version=357-1
+X-Arch-Package-Description=A light/feature free client for status.net/GNU-social. Trunk
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://launchpad.net/heybuddy/
+X-Arch-Package-Votes=4
+Aliases=heybuddy;
+Caption=A light/feature free client for the identi.ca microblogging site.

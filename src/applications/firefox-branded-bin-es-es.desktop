@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Firefox
+GenericName=Web Browser
+GenericName[es]=Navegador web
+Icon=firefox
+TryExec=/usr/bin/firefox
+Exec=firefox %u
+MultipleArgs=false
+NoDisplay=true
+Categories=Application;Network;
+MimeType=text/html;
+StartupNotify=false
+StartupWMClass=Firefox
+X-AppInstall-Package=firefox-branded-bin-es-es
+X-AppInstall-Section=aur
+X-Arch-Package=firefox-branded-bin-es-es 4.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firefox-branded-bin-es-es
+X-Arch-Package-Version=4.0-1
+X-Arch-Package-Description=Standalone web browser from mozilla.org (Castilian Spanish)
+X-Arch-Package-URL=http://www.mozilla-europe.org/es/firefox/
+Aliases=firefox;

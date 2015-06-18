@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Darksnow
+Comment=Live Audio Stream
+Icon=darksnow
+TryExec=/usr/bin/darksnow
+Exec=darksnow
+Categories=AudioVideo;Audio;
+X-AppInstall-Package=darksnow
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package=darksnow 0.7.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=darksnow
+X-Arch-Package-Version=0.7.1-1
+X-Arch-Package-Description=simple GTK2 GUI for darkice
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://darksnow.radiolivre.org/index.en.html
+X-Arch-Package-Votes=11

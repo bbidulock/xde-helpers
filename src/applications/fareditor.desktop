@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=FarEditor
+Comment=An editor for creating and manipulating .far files used by Cytadela
+Icon=fareditor.png
+TryExec=/usr/bin/fareditor
+Exec=fareditor
+Categories=Game;ActionGame;
+X-AppInstall-Package=fareditor
+X-AppInstall-Section=aur
+X-Arch-Package=fareditor 2.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fareditor
+X-Arch-Package-Version=2.0-1
+X-Arch-Package-Description=An editor for creating and manipulating .far files used by
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://cytadela.sourceforge.net/
+X-Arch-Package-Votes=0

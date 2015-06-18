@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=XSession
+Name=icewm
+TryExec=/usr/bin/icewm-session
+Exec=/usr/bin/icewm-session
+NoDisplay=true
+X-AppInstall-Package=icewm-init0
+X-AppInstall-Section=aur
+X-Arch-Package=icewm-init0 1.2.37-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=icewm-init0
+X-Arch-Package-Version=1.2.37-3
+X-Arch-Package-Description=The IceWM window manager, with usability patches by Init0
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://init0.nl/icewm.php
+X-Arch-Package-Votes=0
+Aliases=icewm;

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Marble Arena 2
+GenericName=Marble Madness game
+Icon=/usr/share/pixmaps/marble-arena2.png
+TryExec=/usr/bin/ma2
+Exec=ma2
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=marble-arena2
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=marble-arena2 1.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=marble-arena2
+X-Arch-Package-Version=1.2-1
+X-Arch-Package-Description=3D marble game, featuring vibrant HD graphics.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.marble-arena.com/
+X-Arch-Package-Votes=2

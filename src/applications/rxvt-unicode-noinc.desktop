@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=rxvt-unicode
+Comment=An Unicode capable rxvt clone
+Icon=rxvt-unicode
+TryExec=/usr/bin/urxvt
+Exec=urxvt
+NoDisplay=true
+Categories=Application;System;TerminalEmulator;
+X-AppInstall-Package=rxvt-unicode-noinc
+X-AppInstall-Section=aur
+X-Arch-Package=rxvt-unicode-noinc 9.15-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rxvt-unicode-noinc
+X-Arch-Package-Version=9.15-1
+X-Arch-Package-Description=An unicode enabled rxvt-clone terminal emulator (urxvt) with the window resize increment hint disabled
+X-Arch-Package-URL=http://software.schmorp.de/pkg/rxvt-unicode.html
+Aliases=rxvt-unicode;

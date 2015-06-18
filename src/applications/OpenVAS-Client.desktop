@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=OpenVAS-Client
+Name[es]=OpenVAS-Cliente
+Comment=GTK+-2 Client for OpenVAS Security Scanner
+Comment[de]=GTK+-2 Klient für OpenVAS Sicherheits-Scanner
+Comment[es]=Cliente GTK+-2 para el analizador de seguridad OpenVAS
+Icon=OpenVAS-Client.xpm
+TryExec=/usr/bin/OpenVAS-Client
+Exec=OpenVAS-Client
+Categories=Network;Utility;Security;
+X-AppInstall-Package=openvas-client
+X-AppInstall-Popcon=24
+X-AppInstall-Section=aur
+X-Arch-Package=openvas-client 3.0.3-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=openvas-client
+X-Arch-Package-Version=3.0.3-4
+X-Arch-Package-Description=A lightweight client. Although it is deprecated by upstream,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.openvas.org/
+X-Arch-Package-Votes=24

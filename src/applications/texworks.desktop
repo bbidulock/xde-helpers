@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=TeXworks
+GenericName=TeX Editor
+Comment=A TeX IDE inspired by TeXShop
+Comment[fr]=Un IDE TeX inspiré de TeXShop
+Icon=TeXworks
+TryExec=/usr/bin/texworks
+Exec=texworks
+OnlyShowIn=GNOME;KDE;XFCE;
+Categories=Science;Utility;Office;
+MimeType=application/x-latex;text/x-bibtex;text/x-tex;
+X-AppInstall-Package=texworks
+X-AppInstall-Popcon=67
+X-AppInstall-Section=aur
+X-Arch-Package=texworks 0.4.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=texworks
+X-Arch-Package-Version=0.4.6-1
+X-Arch-Package-Description=A TeX IDE inspired by TeXShop.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://tug.org/texworks
+X-Arch-Package-Votes=67

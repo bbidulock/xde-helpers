@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Selenium
+Comment=Test automation server for web applications
+TryExec=/usr/bin/java
+Exec=java -jar /usr/share/selenium-server/selenium-server-standalone.jar
+X-KDE-autostart-after=panel
+X-GNOME-Autostart-enabled=true
+X-AppInstall-Package=selenium-server-standalone
+X-AppInstall-Popcon=43
+X-AppInstall-Section=aur
+X-Arch-Package=selenium-server-standalone 2.45.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=selenium-server-standalone
+X-Arch-Package-Version=2.45.0-1
+X-Arch-Package-Description=Test automation server for web applications
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://seleniumhq.org/
+X-Arch-Package-Votes=43

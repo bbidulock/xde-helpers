@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Desfonema Sequencer
+GenericName=Desfonema Sequencer
+Comment=Desfonema Sequencer
+Icon=dseq
+TryExec=/usr/bin/dseq
+Exec=dseq
+Categories=AudioVideo;Audio;MIDI;
+X-AppInstall-Package=dseq
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=dseq 0.3.2b-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dseq
+X-Arch-Package-Version=0.3.2b-2
+X-Arch-Package-Description=Desfonema Sequencer is a tracker-inspired MIDI sequencer.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.desfonema.com.ar/software.html
+X-Arch-Package-Votes=1

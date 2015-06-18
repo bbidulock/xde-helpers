@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=PyChing
+GenericName=I Ching Coin Oracle
+Icon=pyching
+TryExec=/usr/bin/pyching
+Exec=pyching
+StartupNotify=true
+X-AppInstall-Package=pyching
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=pyching 1.2.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pyching
+X-Arch-Package-Version=1.2.2-1
+X-Arch-Package-Description=pyChing is a program that allows you to 'consult' the I Ching
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pyching.sourceforge.net/
+X-Arch-Package-Votes=4
+Category=Accessories

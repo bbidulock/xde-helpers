@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=NetEmul
+Comment=The LAN network simulator
+Comment[es]=Simulador de redes de computadoras
+Comment[ru]=Симулятор работы локольной сети
+Icon=/usr/share/netemul/pixmap/NetEmul.png
+TryExec=/usr/bin/netemul
+Exec=/usr/bin/netemul
+Categories=Education;
+StartupNotify=true
+X-AppInstall-Package=netemul
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=netemul
+X-Arch-Package-Version=1.0-1
+X-Arch-Package-Description=a program for simulating computer networks
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/netemul
+X-Arch-Package-Votes=1

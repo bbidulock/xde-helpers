@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Brutal Legend
+Comment=An epic rock-adventure
+Icon=/opt/brutallegend/Buddha.png
+TryExec=/usr/bin/brutallegend
+Exec=/usr/bin/brutallegend
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=brutallegend
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=brutallegend 20130615-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=brutallegend
+X-Arch-Package-Version=20130615-1
+X-Arch-Package-Description=An epic rock-adventure (game sold separately)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.doublefine.com/brutallegend/
+X-Arch-Package-Votes=4

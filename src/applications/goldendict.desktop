@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=GoldenDict
+GenericName=Multiformat Dictionary
+Comment=GoldenDict
+Icon=goldendict
+TryExec=/usr/bin/goldendict
+Exec=goldendict
+Categories=Education;Office;Dictionary;Qt;
+X-AppInstall-Package=goldendict
+X-AppInstall-Popcon=61
+X-AppInstall-Section=community
+X-Arch-Package=goldendict 1.5.0RC-1
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=goldendict
+X-Arch-Package-Version=1.5.0RC-1
+X-Arch-Package-Description=Feature-rich dictionary lookup program
+X-Arch-Package-URL=http://goldendict.org/

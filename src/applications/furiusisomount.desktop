@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Furius ISO Mount
+GenericName=Furius ISO Mount
+Comment=Manage ISO, IMG, BIN, MDF and NRG images
+Comment[it]=Gestire immagini ISO, IMG, BIN, MDF e NRG
+Icon=furiusisomount
+TryExec=/usr/bin/furiusisomount
+Exec=furiusisomount
+Categories=Utility;DiscBurning;
+StartupNotify=true
+X-AppInstall-Package=furiusisomount
+X-AppInstall-Popcon=106
+X-AppInstall-Section=aur
+X-Arch-Package=furiusisomount 0.11.3.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=furiusisomount
+X-Arch-Package-Version=0.11.3.1-1
+X-Arch-Package-Description=A PyGTK interface for managing ISO/IMG/BIN/MDF/NRG image files
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://launchpad.net/furiusisomount
+X-Arch-Package-Votes=106

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=WeiboAir
+Name[zh_CN]=新浪微博
+Comment=Sina Weibo
+Comment[zh_CN]=新浪微博AIR客户端
+Icon=/opt/weiboair/icon.png
+TryExec=/usr/bin/weiboair
+Exec=weiboair
+Categories=Network;InstantMessaging;
+StartupNotify=true
+X-AppInstall-Package=weiboair
+X-AppInstall-Section=aur
+X-Arch-Package=weiboair 149-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=weiboair
+X-Arch-Package-Version=149-2
+X-Arch-Package-Description=A Sina Weibo client based on Adobe AIR.
+X-Arch-Package-URL=http://sinatair.sinaapp.com/

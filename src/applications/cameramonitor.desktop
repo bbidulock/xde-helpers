@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Camera Monitor
+Comment=Camera Monitor
+Icon=_usr_share_cameramonitor_cameramonitor
+TryExec=/usr/bin/cameramonitor
+Exec=cameramonitor
+Categories=Application;AudioVideo;GNOME;
+StartupNotify=false
+X-AppInstall-Package=cameramonitor
+X-AppInstall-Popcon=107
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cameramonitor
+X-Arch-Package-Version=0.3.2-3
+X-Arch-Package-Description=A little monitor to check if your Webcam is On.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.infinicode.org/code/cameramonitor/
+X-Arch-Package-Votes=2

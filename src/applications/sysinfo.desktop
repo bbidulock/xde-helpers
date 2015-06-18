@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Sysinfo
+Comment=Display detailed computer/system information
+Icon=computer
+TryExec=/usr/bin/sysinfo
+Exec=sysinfo
+Categories=System;Utility;GNOME;
+StartupNotify=false
+X-AppInstall-Package=sysinfo
+X-AppInstall-Popcon=38
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sysinfo
+X-Arch-Package-Version=0.7-8
+X-Arch-Package-Description=Display some useful computer and system information
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gsysinfo.sourceforge.net/project/
+X-Arch-Package-Votes=38

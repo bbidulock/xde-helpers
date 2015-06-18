@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=FreeFileSync
+GenericName=Folder Comparison and Synchronization
+Icon=/usr/share/FreeFileSync/Help/img/ffsicon.png
+TryExec=/usr/bin/FreeFileSync
+Exec=FreeFileSync
+Categories=Application;Utility;GTK;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=freefilesync-ubuntu
+X-AppInstall-Section=aur
+X-Arch-Package=freefilesync-ubuntu 6.0-0
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=freefilesync-ubuntu
+X-Arch-Package-Version=6.0-0
+X-Arch-Package-Description=FreeFileSync Ubuntu, synchronize tool, version 5
+X-Arch-Package-URL=http://sourceforge.net/projects/freefilesync/
+Aliases=FreeFileSync;

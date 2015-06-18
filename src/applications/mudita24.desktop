@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Mudita24
+GenericName=Mudita24
+Comment=Control Panel for Ice1712 Audio Cards.
+Icon=/usr/share/pixmaps/mudita24.png
+TryExec=/usr/bin/mudita24
+Exec=mudita24
+Categories=Application;AudioVideo;Audio;X-Sound;
+X-AppInstall-Package=mudita24
+X-AppInstall-Section=aur
+X-Arch-Package=mudita24 15-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mudita24
+X-Arch-Package-Version=15-1
+X-Arch-Package-Description=Improved Control Panel for Ice1712 Audio Cards
+X-Arch-Package-URL=http://code.google.com/p/mudita24/

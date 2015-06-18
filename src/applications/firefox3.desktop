@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Firefox3
+GenericName=Web Browser
+Icon=firefox3
+TryExec=/usr/bin/firefox3
+Exec=firefox3 %u
+Categories=Network;WebBrowser;
+MimeType=text/html;text/xml;application/xhtml+xml;application/vnd.mozilla.xul+xml;text/mml;x-scheme-handler/http;x-scheme-handler/https;
+StartupNotify=true
+X-AppInstall-Package=firefox3
+X-AppInstall-Section=aur
+X-Arch-Package=firefox3 3.6.28-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firefox3
+X-Arch-Package-Version=3.6.28-1
+X-Arch-Package-Description=Standalone web browser from mozilla.org. This build installs in /opt and does not interfere with your system firefox (allowing for installing of a different version as your main browser).
+X-Arch-Package-URL=http://www.mozilla.org/projects/firefox

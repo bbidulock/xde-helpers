@@ -1,5 +1,5 @@
 [Desktop Entry]
-Type=Application
+Type=XSession
 Name=i3 (with debug log)
 GenericName=Window Manager
 GenericName[fr]=Gestionnaire de Fenêtres
@@ -26,3 +26,4 @@ X-Arch-Package-Description=An improved dynamic tiling window manager
 X-Arch-Package-Groups=i3
 X-Arch-Package-URL=http://i3wm.org/
 DesktopNames=I3
+X-LightDM-DesktopName=i3

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=fotoxx
+GenericName=Digital Photo Editor
+Icon=_usr_share_fotoxx_icons_fotoxx
+TryExec=/usr/bin/fotoxx
+Exec=/usr/bin/fotoxx
+Categories=Graphics;
+StartupNotify=false
+X-AppInstall-Package=fotoxx
+X-AppInstall-Popcon=44
+X-AppInstall-Section=aur
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fotoxx
+X-Arch-Package-Version=15.06-1
+X-Arch-Package-Description=A program for improving image files made with a digital camera
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.kornelix.com/fotoxx
+X-Arch-Package-Votes=44

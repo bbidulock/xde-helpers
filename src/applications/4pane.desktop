@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=4Pane
+GenericName=File Manager
+Comment=File manager with 4 panels
+Icon=4Pane
+TryExec=/usr/bin/4Pane
+Exec=4Pane
+NoDisplay=true
+Categories=System;FileTools;FileManager;
+X-AppInstall-Package=4pane
+X-AppInstall-Popcon=20
+X-AppInstall-Section=aur
+X-Arch-Package=4pane 3.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=4pane
+X-Arch-Package-Version=3.0-1
+X-Arch-Package-Description=A multi-pane, detailed-list file manager.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.4pane.co.uk/index.html
+X-Arch-Package-Votes=20
+Aliases=4Pane;

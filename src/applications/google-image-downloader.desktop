@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Google Image Downloader
+GenericName=Download Images from Google
+Comment=Search with Google image with a search criteria, display results and download.
+Icon=/usr/share/pixmaps/googleimagedownloader.png
+TryExec=/usr/bin/GoogleImageDownloader
+Exec=/usr/bin/GoogleImageDownloader
+Categories=Network;
+X-AppInstall-Package=google-image-downloader
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=google-image-downloader 1.2.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=google-image-downloader
+X-Arch-Package-Version=1.2.3-1
+X-Arch-Package-Description=Search with Google image with a search criteria, display
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/googleimagedown
+X-Arch-Package-Votes=1

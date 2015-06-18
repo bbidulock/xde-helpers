@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Creeper World
+Icon=/usr/share/cw1/icons/cw128.png
+TryExec=/usr/bin/cw1
+Exec=cw1
+Categories=Game;
+X-AppInstall-Package=creeper-world
+X-AppInstall-Section=aur
+X-Arch-Package=creeper-world 0632-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=creeper-world
+X-Arch-Package-Version=0632-1
+X-Arch-Package-Description=Imagine an enemy that is everywhere and moves like a giant,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://knucklecracker.com/creeperworld/cw.php
+X-Arch-Package-Votes=0

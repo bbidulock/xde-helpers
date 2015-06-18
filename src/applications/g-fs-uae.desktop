@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=G-FS-UAE
+Comment=A small interface for command line FS-UAE Amiga emulator.
+Icon=/usr/share/pixmaps/g-fs-uae.png
+TryExec=/usr/bin/G-FS-UAE.gambas
+Exec=/usr/bin/G-FS-UAE.gambas
+Categories=Game;
+StartupNotify=true
+X-AppInstall-Package=g-fs-uae
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=g-fs-uae 0.0.61-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=g-fs-uae
+X-Arch-Package-Version=0.0.61-2
+X-Arch-Package-Description=A simple gui for fs-amiga emulator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/gfsuae
+X-Arch-Package-Votes=9

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=xjadeo
+GenericName=X jack video monitor
+Comment=A simple video player that gets sync from jack transport.
+Icon=qjadeo
+TryExec=/usr/bin/qjadeo
+Exec=/usr/bin/qjadeo
+Categories=AudioVideo;Video;Player;
+StartupNotify=false
+X-AppInstall-Package=xjadeo
+X-AppInstall-Section=community
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=xjadeo
+X-Arch-Package-Version=0.8.0-2
+X-Arch-Package-Description=A simple video player that is synchronized to jack transport.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://xjadeo.sourceforge.net

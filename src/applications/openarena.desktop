@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=OpenArena
+GenericName=FPS Game
+Comment=A fast-paced 3D first-person shooter, similar to id Software Inc.'s Quake III Arena
+Comment[de]=Ein hektischer und netzwerkfähiger 3D Ego-Shooter, ähnlich zu Quake III Arena von id Software Inc.
+Icon=openarena
+TryExec=/usr/bin/openarena
+Exec=openarena
+Categories=Game;ActionGame;
+X-AppInstall-Package=openarena
+X-AppInstall-Popcon=36
+X-AppInstall-Section=aur
+X-Arch-Package=openarena 0.8.8-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=openarena
+X-Arch-Package-Version=0.8.8-2
+X-Arch-Package-Description=A violent, sexy, multiplayer first person shooter based on the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://openarena.ws/
+X-Arch-Package-Votes=36

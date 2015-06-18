@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=DBeaver
+GenericName=Database Client
+Icon=dbeaver
+TryExec=/opt/dbeaver/dbeaver
+Exec=/opt/dbeaver/dbeaver
+Categories=Development;Java;
+X-AppInstall-Package=dbeaver
+X-AppInstall-Popcon=50
+X-AppInstall-Section=aur
+X-Arch-Package=dbeaver 3.4.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dbeaver
+X-Arch-Package-Version=3.4.1-1
+X-Arch-Package-Description=A free universal database tool for developers and database
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://dbeaver.jkiss.org/
+X-Arch-Package-Votes=50

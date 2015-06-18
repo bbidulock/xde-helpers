@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=TED
+Comment=Torrent Episode Downloader
+Icon=torrent-episode-downloader
+TryExec=/usr/bin/torrent-episode-downloader
+Exec=torrent-episode-downloader
+Categories=Network;Java;
+StartupNotify=true
+X-AppInstall-Package=torrent-episode-downloader
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=torrent-episode-downloader 0.97.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=torrent-episode-downloader
+X-Arch-Package-Version=0.97.2-1
+X-Arch-Package-Description=TED: Torrent Episode Downloader
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.ted.nu/
+X-Arch-Package-Votes=13

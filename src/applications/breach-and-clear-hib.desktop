@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Breach and Clear
+Comment=A hybrid tactical strategy game based on real-life special operations forces
+Icon=breach-and-clear
+TryExec=/usr/bin/breach-and-clear
+Exec=breach-and-clear
+NoDisplay=true
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=breach-and-clear-hib
+X-AppInstall-Section=aur
+X-Arch-Package=breach-and-clear-hib 20140528-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=breach-and-clear-hib
+X-Arch-Package-Version=20140528-1
+X-Arch-Package-Description=A hybrid tactical strategy game based on real-life special
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.breachandclear.com/
+X-Arch-Package-Votes=0
+Aliases=breach-and-clear;

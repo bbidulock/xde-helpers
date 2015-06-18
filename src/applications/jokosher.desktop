@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Jokosher Audio Editor
+GenericName=Jokosher audio editor
+Comment=Simply and easily create multi-track audio
+Icon=jokosher
+TryExec=/usr/bin/jokosher
+Exec=jokosher
+Categories=AudioVideo;
+MimeType=application/x-jokosher;
+StartupNotify=false
+X-AppInstall-Package=jokosher
+X-AppInstall-Popcon=20
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jokosher
+X-Arch-Package-Version=0.11.5-2
+X-Arch-Package-Description=A simple and easy-to-use Open Source multi-track editor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://jokosher.org
+X-Arch-Package-Votes=20

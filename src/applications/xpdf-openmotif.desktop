@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Xpdf
+Comment=Views Adobe PDF (acrobat) files
+Icon=xpdf
+TryExec=/usr/bin/xpdf
+Exec=xpdf
+Categories=Office;
+MimeType=application/pdf;
+X-AppInstall-Package=xpdf-openmotif
+X-AppInstall-Section=aur
+X-Arch-Package=xpdf-openmotif 3.02_pl5-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xpdf-openmotif
+X-Arch-Package-Version=3.02_pl5-2
+X-Arch-Package-Description=A viewer for Portable Document Format (PDF) files.
+X-Arch-Package-URL=http://www.foolabs.com/xpdf/

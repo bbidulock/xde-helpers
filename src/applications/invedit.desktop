@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Minecraft INVedit
+Comment=Minecraft Inventory Editor
+Icon=/usr/share/pixmaps/invedit.png
+TryExec=/usr/bin/invedit
+Exec=/usr/bin/invedit
+Categories=Application;Game;
+X-AppInstall-Package=invedit
+X-AppInstall-Section=aur
+X-Arch-Package=invedit 0.9.17-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=invedit
+X-Arch-Package-Version=0.9.17-1
+X-Arch-Package-Description=Minecraft Inventory Editor
+X-Arch-Package-URL=http://www.minecraftforum.net/topic/14190-invedit/

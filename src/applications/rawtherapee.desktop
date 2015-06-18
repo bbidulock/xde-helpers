@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=RawTherapee
+Comment=A free RAW converter and digital photo processing software
+Icon=_usr_share_pixmaps_rawtherapee
+TryExec=/usr/bin/rawtherapee
+Exec=rawtherapee %f
+Categories=Graphics;
+StartupNotify=false
+X-AppInstall-Package=rawtherapee
+X-AppInstall-Popcon=73
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=rawtherapee
+X-Arch-Package-Version=1:4.2-1
+X-Arch-Package-Description=Raw photo editor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.rawtherapee.com/

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Zetacoin
+Comment=Zetacoin P2P Cryptocurrency
+Comment[fr]=Zetacoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Zetacoin, eşten eşe kriptografik sanal para birimi
+Icon=/usr/share/pixmaps/zetacoin256.png
+TryExec=/usr/bin/zetacoin-qt
+Exec=/usr/bin/zetacoin-qt
+Categories=Office;
+MimeType=x-scheme-handler/zetacoin;
+X-AppInstall-Package=zetacoin-qt-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=zetacoin-qt-git 0.8.2.r218.g5eed859-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zetacoin-qt-git
+X-Arch-Package-Version=0.8.2.r218.g5eed859-1
+X-Arch-Package-Description=P2P decentralized digital currency with fast confirmation and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://zeta-coin.org/
+X-Arch-Package-Votes=1

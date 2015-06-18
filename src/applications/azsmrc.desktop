@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=AzSMRC
+GenericName=Vuze Remote
+Icon=/usr/share/pixmaps/azsmrc.png
+TryExec=/usr/bin/azsmrc
+Exec=/usr/bin/azsmrc
+MultipleArgs=false
+Categories=Network;
+StartupNotify=false
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=azsmrc
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=azsmrc 1.0.0-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=azsmrc
+X-Arch-Package-Version=1.0.0-4
+X-Arch-Package-Description=Remote control for Azureus/Vuze. You must have the plugin
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://azsmrc.sourceforge.net/
+X-Arch-Package-Votes=3

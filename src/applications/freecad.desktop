@@ -1,0 +1,27 @@
+[Desktop Entry]
+Type=Application
+Name=FreeCAD
+GenericName=CAD Application
+GenericName[de]=CAD-Anwendung
+GenericName[de_DE]=Feature-basierter parametrischer Modellierer
+Comment=Feature based Parametric Modeler
+Comment[de]=Feature-basierter parametrischer Modellierer
+Comment[de_DE]=Feature-basierter parametrischer Modellierer
+Icon=freecad
+TryExec=/usr/bin/freecad
+Exec=/usr/bin/freecad %F
+Categories=Graphics;Science;Engineering;
+MimeType=application/x-extension-fcstd;
+Path=/usr/share/freecad
+StartupNotify=true
+X-AppInstall-Package=freecad
+X-AppInstall-Popcon=63
+X-AppInstall-Section=community
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package=freecad 0.14.3702-2
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=freecad
+X-Arch-Package-Version=0.15.4671-3
+X-Arch-Package-Description=A general purpose 3D CAD modeler
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.freecadweb.org/

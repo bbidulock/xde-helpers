@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Penumbra Overture
+Comment=A first person adventure/survival horror game.
+Icon=penumbra-overture-hib.png
+TryExec=/usr/bin/penumbra-overture-hib
+Exec=penumbra-overture-hib
+Categories=Game;
+X-AppInstall-Package=penumbra-overture-hib
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=penumbra-overture-hib 1.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=penumbra-overture-hib
+X-Arch-Package-Version=1.1-2
+X-Arch-Package-Description=A first person adventure/survival horror game
+X-Arch-Package-Groups=games
+X-Arch-Package-URL=http://www.penumbragame.com/
+X-Arch-Package-Votes=3

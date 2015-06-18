@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=M.A.X. Reloaded
+Comment=An open source remake of the Mechanized Assault & eXploration game
+Icon=maxr
+TryExec=/usr/bin/maxr
+Exec=maxr
+Categories=Game;StrategyGame;
+X-AppInstall-Package=maxr
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=maxr 0.2.8-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=maxr
+X-Arch-Package-Version=0.2.8-1
+X-Arch-Package-Description=M.A.X. Reloaded is an open source remake of the classic
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.maxr.org/
+X-Arch-Package-Votes=13

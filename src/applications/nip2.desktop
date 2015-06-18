@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=nip2
+Comment=Image manipulation program based on VIPS
+Comment[it]=Programma per la manipolazione di immagini basato su VIPS
+Icon=nip2
+TryExec=/usr/bin/nip2
+Exec=nip2 %F
+Categories=Graphics;RasterGraphics;
+MimeType=image/x-vips;
+StartupNotify=true
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=NIP2
+X-AppInstall-Package=nip2
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nip2
+X-Arch-Package-Version=7.42.1-1
+X-Arch-Package-Description=A frontend to the vips image library
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.vips.ecs.soton.ac.uk/
+X-Arch-Package-Votes=11

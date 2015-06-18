@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=3.0
+Type=Application
+Name=WebStorm
+GenericName=IDE
+Comment=JavaScript IDE and HTML editor
+Icon=webstorm
+TryExec=/usr/bin/jetbrains-webstorm
+Exec=/usr/bin/jetbrains-webstorm
+Categories=Development;
+X-AppInstall-Package=webstorm
+X-AppInstall-Popcon=69
+X-AppInstall-Section=aur
+X-Arch-Package=webstorm 10.0.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=webstorm
+X-Arch-Package-Version=10.0.4-1
+X-Arch-Package-Description=JavaScript IDE and HTML editor.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.jetbrains.com/webstorm
+X-Arch-Package-Votes=69

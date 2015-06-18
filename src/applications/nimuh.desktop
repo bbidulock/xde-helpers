@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Nimuh
+GenericName=Nimuh, En Busca Del Tesoro Andaluz
+Comment=Nimuh is a game located in Andalucia
+Icon=/usr/share/pixmaps/nimuh.png
+TryExec=/usr/bin/nimuh
+Exec=/usr/bin/nimuh
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=nimuh
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=nimuh 1.02-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nimuh
+X-Arch-Package-Version=1.02-2
+X-Arch-Package-Description='Nimuh: En busca del tesoro andaluz' is a game located in
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.nimuh.com
+X-Arch-Package-Votes=5

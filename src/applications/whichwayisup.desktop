@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Which Way Is Up
+GenericName=Platform Game
+Comment=2D platform game with a slight rotational twist
+Icon=whichwayisup
+TryExec=/usr/bin/whichwayisup
+Exec=whichwayisup
+Categories=Game;ArcadeGame;
+StartupNotify=true
+X-AppInstall-Package=whichwayisup
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=whichwayisup 0.7.9-7
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=whichwayisup
+X-Arch-Package-Version=0.7.9-7
+X-Arch-Package-Description=Which Way Is Up is a traditional and challenging 2D platformer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://hectigo.net/puskutraktori/whichwayisup/
+X-Arch-Package-Votes=9

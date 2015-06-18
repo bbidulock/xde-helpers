@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=pyRenamer
+Comment=Mass rename files
+Comment[de]=Dateien massenweise umbenennen
+Comment[es]=Renombramiento masivo de archivos
+Comment[fr]=Renomme en masse les fichiers
+Icon=_usr_share_pyrenamer_pyrenamer
+TryExec=/usr/bin/pyrenamer
+Exec=/usr/bin/pyrenamer
+Categories=Utility;FileTools;GNOME;GTK;
+StartupNotify=false
+X-AppInstall-Package=pyrenamer
+X-AppInstall-Popcon=124
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pyrenamer
+X-Arch-Package-Version=0.6.0-9
+X-Arch-Package-Description=Mass file renamer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.infinicode.org
+X-Arch-Package-Votes=124

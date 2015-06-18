@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Freeplane
+GenericName=Freeplane
+Comment=A free mind mapping tool
+Icon=freeplane
+TryExec=/usr/bin/freeplane
+Exec=freeplane %U
+Categories=Office;
+MimeType=application/x-freeplane;
+X-AppInstall-Package=freeplane
+X-AppInstall-Popcon=85
+X-AppInstall-Section=aur
+X-Arch-Package=freeplane 1.3.15-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=freeplane
+X-Arch-Package-Version=1.3.15-2
+X-Arch-Package-Description=A Java mindmapping tool
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://freeplane.sourceforge.net
+X-Arch-Package-Votes=85

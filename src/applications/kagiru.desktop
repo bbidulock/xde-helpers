@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Kagiru Sudoku
+Comment=Yet another Sudoku game
+Icon=kagiru
+TryExec=/usr/bin/kagiru
+Exec=kagiru
+Categories=Game;LogicGame;Java;
+X-AppInstall-Package=kagiru
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=kagiru 0.25-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kagiru
+X-Arch-Package-Version=0.25-3
+X-Arch-Package-Description=A simple Java-based Sudoku game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kagiru.sourceforge.net/
+X-Arch-Package-Votes=1

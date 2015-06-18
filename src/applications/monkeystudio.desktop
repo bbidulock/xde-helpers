@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Monkey Studio IDE
+GenericName=MkS IDE
+Icon=monkeystudio
+TryExec=/usr/bin/monkeystudio
+Exec=monkeystudio
+Categories=Development;IDE;Qt;
+StartupNotify=false
+X-AppInstall-Package=monkeystudio
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=monkeystudio
+X-Arch-Package-Version=1.9.0.4-1
+X-Arch-Package-Description=Crossplatform IDE written in C++/Qt4
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://monkeystudio.org
+X-Arch-Package-Votes=8

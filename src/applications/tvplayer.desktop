@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=0.2.0-1
+Type=Application
+Name=Tv-Player
+Comment=Streaming Tv Player
+Comment[it_IT]=Visualizzatore di Tv/Radio Streaming
+Icon=/usr/share/tvplayer/pixmaps/tv-player.png
+TryExec=/usr/bin/tv-player
+Exec=/usr/bin/tv-player
+Categories=AudioVideo;GTK;
+X-AppInstall-Package=tv-player-gtk-bzr
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=tv-player-gtk-bzr 95-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tv-player-gtk-bzr
+X-Arch-Package-Version=95-1
+X-Arch-Package-Description=Tv-player development version
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://tvplayersite.altervista.org
+X-Arch-Package-Votes=3

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=BGBilling ${_vermajor}
+Comment=BGBilling Client ${pkgver}
+Icon=bgbillingclient${_versuf}.png
+TryExec=/usr/bin/bgbilling${_versuf}.sh
+Exec=bgbilling${_versuf}.sh
+NoDisplay=true
+Categories=Office;
+X-AppInstall-Package=bgbillingclient52
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=bgbillingclient52 5.2.1222-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bgbillingclient52
+X-Arch-Package-Version=5.2.1222-1
+X-Arch-Package-Description=Client for billing system BGBilling 5.2
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://bgbilling.ru
+X-Arch-Package-Votes=3
+Aliases=bgbillingclient{_versuf};

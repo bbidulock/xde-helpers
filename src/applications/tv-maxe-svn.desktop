@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=TV-maxe
+Comment=Watch TV channels on Linux
+Icon=/usr/share/tv-maxe/tvmaxe.png
+TryExec=/usr/bin/tv-maxe
+Exec=tv-maxe
+NoDisplay=true
+Categories=AudioVideo;
+StartupNotify=true
+X-AppInstall-Package=tv-maxe-svn
+X-AppInstall-Section=aur
+X-Arch-Package=tv-maxe-svn 174-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tv-maxe-svn
+X-Arch-Package-Version=174-1
+X-Arch-Package-Description=Watch TV channels on Linux
+X-Arch-Package-URL=http://code.google.com/p/tv-maxe/
+Aliases=tv-maxe;

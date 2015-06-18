@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Tucan Manager
+Comment=Download and upload manager for hosting sites.
+Icon=tucan
+TryExec=/usr/bin/tucan
+Exec=tucan
+Categories=Network;FileTransfer;GTK;
+StartupNotify=true
+X-AppInstall-Package=tucan
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tucan
+X-Arch-Package-Version=0.3.10-3
+X-Arch-Package-Description=Download and upload manager for hosting sites
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://tucaneando.com/
+X-Arch-Package-Votes=2

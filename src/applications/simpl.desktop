@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Simpl
+GenericName=Simpl
+Comment=LC-3 Simulator
+Icon=/usr/share/pixmaps/simplc_16.png
+TryExec=/usr/bin/simpl
+Exec=/usr/bin/simpl
+Categories=Education;
+StartupNotify=true
+X-AppInstall-Package=simplc
+X-AppInstall-Section=aur
+X-Arch-Package=simplc 2.1.1b2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=simplc
+X-Arch-Package-Version=2.1.1b2-2
+X-Arch-Package-Description=a multi-ISA assembly debugger with graphical and terminal
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/simplc/
+X-Arch-Package-Votes=0

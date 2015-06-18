@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Sumo
+GenericName=Sumo
+Comment=Microscopic Traffic Simulation
+Comment[de_DE]=Mikroskopische Verkehrssimulation
+Icon=sumo
+TryExec=/usr/bin/sumo-gui
+Exec=sumo-gui %U
+Categories=Education;Science;
+MimeType=application/sumo-configuration;
+StartupWMClass=SUMO GUISimulation
+X-AppInstall-Package=sumo
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=sumo 0.23.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sumo
+X-Arch-Package-Version=0.23.0-1
+X-Arch-Package-Description=SUMO is an open source, highly portable, microscopic and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://-sim.org
+X-Arch-Package-Votes=3

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=trAInsported
+Comment=Programming game abou running trains with AI
+Icon=trAInsported
+TryExec=/usr/bin/trAInsported
+Exec=trAInsported
+Categories=Games;
+X-AppInstall-Package=trainsported-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=trainsported-git r560.f604786-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=trainsported-git
+X-Arch-Package-Version=r560.f604786-1
+X-Arch-Package-Description=A game about writing train AIs.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://trainsportedgame.no-ip.org/
+X-Arch-Package-Votes=1

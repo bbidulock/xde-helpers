@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Wacom Control Panel
+Comment=Utility to configure wacom pen tablets
+Icon=/usr/share/wacom-utility/images/generic.png
+TryExec=/usr/bin/python2
+Exec=python2 /usr/share/wacom-utility/wacom_utility.py
+NoDisplay=true
+OnlyShowIn=GNOME;XFCE;Settings;
+Categories=Settings;HardwareSettings;GNOME;X-XFCE;GTK;
+X-GNOME-Autostart-enabled=false
+X-AppInstall-Package=wacom-utility-git
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=wacom-utility-git 20130909-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wacom-utility-git
+X-Arch-Package-Version=20130909-2
+X-Arch-Package-Description=Graphical tablet configuration utility
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://github.com/lubosz/wacom-utility.git
+X-Arch-Package-Votes=8
+Aliases=wacom-utility;

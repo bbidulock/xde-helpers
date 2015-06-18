@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Sleutel
+Comment=Password manager
+Icon=sleutel
+TryExec=/usr/bin/sleutel
+Exec=sleutel
+Categories=Application;Office;GNOME;
+StartupNotify=true
+X-AppInstall-Package=sleutel
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=sleutel 1.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sleutel
+X-Arch-Package-Version=1.0-2
+X-Arch-Package-Description=Password manager based on Eclipse RCP
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sleutel.sourceforge.net
+X-Arch-Package-Votes=1

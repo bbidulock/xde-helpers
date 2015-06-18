@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=Subtitle Composer
+GenericName=Subtitle Editor
+GenericName[es]=Editor de subtítulos
+GenericName[fr]=Éditeur de sous-titres
+Comment=KDE subtitle editor
+Comment[es]=Editor de subtítulos para KDE
+Comment[fr]=Éditeur de sous-titres pour KDE
+Icon=subtitlecomposer
+TryExec=/usr/bin/subtitlecomposer
+Exec=subtitlecomposer %f -caption "%c"
+Categories=AudioVideo;KDE;Qt;
+MimeType=text/x-ssa;text/x-ass;text/x-microdvd;text/x-mpsub;application/x-subrip;text/x-subviewer;text/x-mplsub;text/x-tmplayer;text/x-tmplayer+;
+StartupNotify=false
+X-AppInstall-Package=subtitlecomposer
+X-AppInstall-Popcon=54
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=subtitlecomposer
+X-Arch-Package-Version=0.5.7-1
+X-Arch-Package-Description=A KDE subtitle editor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/maxrd2/subtitlecomposer
+X-Arch-Package-Votes=54

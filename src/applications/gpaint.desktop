@@ -8,7 +8,6 @@ Icon=gpaint
 TryExec=/usr/bin/gpaint
 Exec=gpaint
 Categories=Graphics;2DGraphics;RasterGraphics;GTK;
-StartupNotify=false
 X-AppInstall-Package=gpaint
 X-AppInstall-Popcon=109
 X-AppInstall-Section=custom

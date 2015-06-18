@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Gompload
+GenericName=A graphical ompload wrapper.
+GenericName[en_US]=A graphical ompload wrapper.
+Comment=A graphical ompload wrapper.
+Icon=gompload.png
+Icon[en_US]=gompload.png
+TryExec=/usr/bin/gompload
+Exec=gompload
+Categories=Application;Network;
+X-AppInstall-Package=gompload
+X-AppInstall-Section=aur
+X-Arch-Package=gompload 0.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gompload
+X-Arch-Package-Version=0.2-1
+X-Arch-Package-Description=A fancy ompload wrapper.
+X-Arch-Package-URL=http://omploader.org

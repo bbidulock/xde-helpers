@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Tiny & Big in Grandpa's Leftovers
+GenericName=3D Puzzle Platformer
+Comment=Black Pants Game Studio
+Icon=tinyandbig
+TryExec=/usr/bin/tinyandbig-episode1
+Exec=tinyandbig-episode1
+Categories=Game;
+X-AppInstall-Package=tinyandbig-hib
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=tinyandbig-hib 1.4.1_20130612-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tinyandbig-hib
+X-Arch-Package-Version=1.4.1_20130612-1
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.tinyandbig.com/
+X-Arch-Package-Votes=7

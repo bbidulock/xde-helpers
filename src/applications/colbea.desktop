@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=columns & beams
+Comment=Columns & beams is a program for the calculation of 2D structures
+Icon=colbea
+TryExec=/opt/colbea/cbedit
+Exec=/opt/colbea/cbedit
+Categories=Application;Science;Math;
+X-AppInstall-Package=colbea
+X-AppInstall-Section=aur
+X-Arch-Package=colbea 0.55.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=colbea
+X-Arch-Package-Version=0.55.1-1
+X-Arch-Package-Description=Colbea is a program for the calculation of 2D structures
+X-Arch-Package-URL=http://www.driemeyer.net/colbea/

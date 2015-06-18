@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=gSTM
+GenericName=gSTM
+Comment=Manage SSH tunnel connections
+Icon=gSTM.png
+TryExec=/usr/bin/gstm
+Exec=gstm
+Categories=Application;Network;GNOME;GTK;
+StartupNotify=false
+X-AppInstall-Package=gstm
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gstm
+X-Arch-Package-Version=1.2-2
+X-Arch-Package-Description=Gnome front-end to ssh tunneling
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/gstm/
+X-Arch-Package-Votes=10

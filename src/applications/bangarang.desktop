@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Bangarang
+GenericName=Media Player
+GenericName[de]=Medienwiedergabe
+GenericName[nl]=Mediaspeler
+GenericName[zh_CN]=媒体播放器
+Icon=bangarang
+TryExec=/usr/bin/bangarang
+Exec=bangarang %u
+Categories=AudioVideo;Player;KDE;Qt;
+MimeType=video/ogg;video/x-theora+ogg;video/x-ogm+ogg;video/x-ms-wmv;video/x-ms-asf;video/x-matroska;video/mpeg;video/avi;video/quicktime;video/vnd.rn-realvideo;video/x-flic;video/mp4;video/divx;video/x-msvideo;video/x-wmv;video/x-flv;video/flv;audio/mpeg;audio/mp4;audio/ogg;audio/vorbis;audio/aac;audio/aiff;audio/basic;audio/flac;audio/mp2;audio/mp3;audio/vnd.rn-realaudio;audio/wav;application/ogg;audio/x-flac;audio/x-musepack;audio/m3u;audio/x-mpegurl;audio/x-scpls;
+StartupNotify=false
+X-DocPath=bangarang/index.html
+X-AppInstall-Package=bangarang
+X-AppInstall-Popcon=48
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bangarang
+X-Arch-Package-Version=2.1-4
+X-Arch-Package-Description=Simple KDE media player.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://bangarangkde.wordpress.com/
+X-Arch-Package-Votes=80

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=GOPchop
+Comment=MPEG2 GOP-accurate editor
+Icon=gopchop.png
+TryExec=/usr/bin/gopchop
+Exec=gopchop %F
+Categories=AudioVideo;Graphics;GTK;
+MimeType=video/mpeg;
+StartupNotify=true
+X-AppInstall-Package=gopchop
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gopchop
+X-Arch-Package-Version=1.1.8-2
+X-Arch-Package-Description=Cut and merge MPEG2-PS files at GOP boundaries without
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://outflux.net/unix/software/GOPchop/
+X-Arch-Package-Votes=1

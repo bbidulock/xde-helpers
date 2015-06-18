@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Spectrum Tool
+Comment=2.4 GHz spectrum analysis using the Wi-Spy hardware device
+Comment[fr]=Analyse du spectre 2.4 GHz en utilisant l'appareil Wi-Spy
+TryExec=/usr/bin/spectool_gtk
+Exec=spectool_gtk
+StartupNotify=false
+X-AppInstall-Package=spectools
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=spectools
+X-Arch-Package-Version=2011_08_R1-1
+X-Arch-Package-Description=A set of utilities for using various spectrum analyzer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.kismetwireless.net/spectools/
+X-Arch-Package-Votes=3

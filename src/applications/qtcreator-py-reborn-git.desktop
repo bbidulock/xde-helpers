@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Qt Creator
+GenericName=C++ IDE
+Icon=/usr/share/icons/hicolor/512x512/apps/QtProject-qtcreator.png
+TryExec=/usr/bin/qtcreator
+Exec=/usr/bin/qtcreator
+NoDisplay=true
+Categories=Development;Qt;
+X-KDE-StartupNotify=true
+X-AppInstall-Package=qtcreator-py-reborn-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=qtcreator-py-reborn-git 20130306-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qtcreator-py-reborn-git
+X-Arch-Package-Version=20130306-1
+X-Arch-Package-Description=Qt Creator with Python / PySide support
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://qt.gitorious.org/~sergey-shambir/qt-creator/qt-creator-py-reborn
+X-Arch-Package-Votes=1
+Aliases=qtcreator;

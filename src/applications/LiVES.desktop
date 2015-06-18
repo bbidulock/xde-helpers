@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=LiVES
+Comment=Video Editor/VJ tool
+Icon=lives
+TryExec=/usr/bin/lives
+Exec=lives
+Categories=AudioVideo;AudioVideoEditing;
+StartupNotify=false
+X-AppInstall-Package=lives
+X-AppInstall-Popcon=186
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lives
+X-Arch-Package-Version=2.2.8-1
+X-Arch-Package-Description=A Video Editing System
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://lives.sourceforge.net
+X-Arch-Package-Votes=186

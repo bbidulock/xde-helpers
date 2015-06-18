@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=edis.desktop
+GenericName=C IDE
+GenericName[es]=IDE para C
+Comment=A simple cross-platform C IDE
+Comment[es]=Simple IDE para C multiplataforma
+Icon=edis
+TryExec=/usr/bin/edis
+Exec=/usr/bin/edis
+Categories=Application;IDE;TextEditor;
+X-AppInstall-Package=edis
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=edis 2.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=edis
+X-Arch-Package-Version=2.0-1
+X-Arch-Package-Description=a simple cross-platform IDE for C
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://centaurialpha.github.io/edis
+X-Arch-Package-Votes=2

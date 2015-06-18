@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=compton
+GenericName=X compositor
+Comment=A X compositor
+TryExec=/usr/bin/compton
+Exec=compton --dbus
+Categories=Utility;
+X-AppInstall-Package=pantheon-lite
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=pantheon-lite 1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pantheon-lite
+X-Arch-Package-Version=1-2
+X-Arch-Package-Description=Pantheon Lite Session (pantheon/openbox desktop environment)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://bbs.archlinux.org/viewtopic.php?pid=1402016#p1402016
+X-Arch-Package-Votes=2

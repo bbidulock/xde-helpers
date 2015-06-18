@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=XSession
+Name=Fluxbox
+TryExec=/usr/bin/startfluxbox
+Exec=/usr/bin/startfluxbox
+NoDisplay=true
+X-AppInstall-Package=fluxbox-git-32trans
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=fluxbox-git-32trans 20101009-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fluxbox-git-32trans
+X-Arch-Package-Version=20101009-1
+X-Arch-Package-Description=*box stacking WM with tabbing, dockapps, etc. (Dev version,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.fluxbox.org/
+X-Arch-Package-Votes=4
+Aliases=fluxbox;

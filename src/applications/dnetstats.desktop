@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=DNetStats
+GenericName=Network monitor
+GenericName[es]=Monitor de red
+Comment=Network monitor
+Comment[es]=Monitor de red
+Icon=/usr/share/pixmaps/wp.png
+TryExec=/usr/bin/dnetstats
+Exec=/usr/bin/dnetstats
+Categories=Network;Utility;Qt;
+X-AppInstall-Package=dnetstats
+X-AppInstall-Popcon=17
+X-AppInstall-Section=aur
+X-Arch-Package=dnetstats 1.2.6-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dnetstats
+X-Arch-Package-Version=1.2.6-4
+X-Arch-Package-Description=Graphic monitor for the network. Show the network stats and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://qt-apps.org/content/show.php/DNetStats?content=107467
+X-Arch-Package-Votes=17

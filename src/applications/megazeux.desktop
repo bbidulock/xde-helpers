@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Megazeux
+Icon=/usr/share/icons/megazeux.png
+TryExec=/usr/bin/megazeux
+Exec=megazeux
+Categories=Application;Game;
+X-AppInstall-Package=megazeux
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=megazeux 2.84c-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=megazeux
+X-Arch-Package-Version=2.84c-1
+X-Arch-Package-Description=A game creation system for ANSI-esque games, featuring an
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.digitalmzx.net/
+X-Arch-Package-Votes=6

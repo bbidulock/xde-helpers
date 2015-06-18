@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=rRootage
+GenericName=rrootage
+Comment=Destroy autocreated battleships
+Icon=rrootage.xpm
+TryExec=/usr/bin/rrootage
+Exec=rrootage
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=rrootage
+X-AppInstall-Popcon=30
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rrootage
+X-Arch-Package-Version=0.23a-5
+X-Arch-Package-Description=An addictive game by Kenta Cho. An abstract shooter with
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://rrootage.sourceforge.net/
+X-Arch-Package-Votes=30

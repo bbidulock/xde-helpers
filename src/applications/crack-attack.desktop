@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Crack Attack
+Comment=Clone of the Nintendo classic 'Tetris Attack'
+Comment[de]=Clone des Nintendo-Klassikers 'Tetris Attack'
+Comment[hu]=A Nintendo-klasszikus 'Tetris Attack' klónja
+Icon=crack-attack
+TryExec=/usr/bin/crack-attack
+Exec=crack-attack
+Categories=Application;Game;BlocksGame;
+StartupNotify=false
+DocPath=/usr/share/doc/packages/crack-attack/index.html
+X-AppInstall-Package=crack-attack
+X-AppInstall-Popcon=89
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=crack-attack
+X-Arch-Package-Version=1.1.14-7
+X-Arch-Package-Description=A free OpenGL game based on the Super Nintendo classic Tetris
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.nongnu.org/crack-attack/
+X-Arch-Package-Votes=86

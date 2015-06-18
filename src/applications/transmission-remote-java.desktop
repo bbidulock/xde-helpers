@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Transmission remote (java)
+Comment=Cross platform remote control GUI for the Transmission BitTorrent client.
+Icon=/usr/share/pixmaps/transmission-remote-java.png
+TryExec=/usr/bin/transmission-remote-java
+Exec=transmission-remote-java
+Categories=Network;FileTransfer;P2P;
+StartupNotify=true
+X-AppInstall-Package=transmission-remote-java
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=transmission-remote-java 0.15.20.1041-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=transmission-remote-java
+X-Arch-Package-Version=0.15.20.1041-1
+X-Arch-Package-Description=Cross platform remote control GUI for the Transmission
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/transmission-remote-java/
+X-Arch-Package-Votes=8

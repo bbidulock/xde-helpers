@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Wallpaper Finer
+Name[hu]=Háttérkép Igazító
+Name[pl]=Dopasuj tapetę
+Comment=A small and easy to use utility which adjusts images to fit your desktop size
+Comment[pl]=Niewielkie i proste w użyciu narzędzie, dopasowujujące obrazy do rozmiarów pulpitu
+Icon=wallpaperfiner
+TryExec=/usr/bin/wallpaperfiner
+Exec=wallpaperfiner
+Categories=Graphics;KDE;Qt;
+X-AppInstall-Package=wallpaperfiner
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=wallpaperfiner 0.94-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wallpaperfiner
+X-Arch-Package-Version=0.94-3
+X-Arch-Package-Description=A small and easy to use utility which adjusts images to fit
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://hyperprog.com/wpfiner
+X-Arch-Package-Votes=3

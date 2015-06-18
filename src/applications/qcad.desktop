@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=QCad
+Comment=A professional CAD System
+Comment[es]=Un sistema CAD profesional
+Icon=qcad
+TryExec=/usr/bin/qcad
+Exec=qcad %F
+Categories=Graphics;Engineering;
+MimeType=image/vnd.dxf;
+StartupNotify=false
+X-AppInstall-Package=qcad
+X-AppInstall-Popcon=1111
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=qcad
+X-Arch-Package-Version=3.9.1.0-1
+X-Arch-Package-Description=A 2D CAD package based upon Qt
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.qcad.org

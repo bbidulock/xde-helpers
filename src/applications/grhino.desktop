@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=0.16.0
+Type=Application
+Name=GRhino
+GenericName=GTP-compliant Reversi game
+Comment=Reversi game for GNOME, supporting the Go/Game Text Protocol
+Icon=grhino.png
+TryExec=/usr/bin/grhino
+Exec=grhino
+Categories=Application;Game;BoardGame;GNOME;
+StartupNotify=true
+X-AppInstall-Package=grhino
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=grhino
+X-Arch-Package-Version=0.16.1-2
+X-Arch-Package-Description=Othello/Reversi game with strong AI targeted at experienced
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://rhino.sourceforge.net/
+X-Arch-Package-Votes=5

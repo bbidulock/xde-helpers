@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Thunderbird (Miramar)
+GenericName=Mail Client & News Reader - Miramar build
+Comment=Mail & News Reader - Miramar build
+Icon=thunderbird-miramar
+TryExec=/usr/bin/thunderbird-miramar
+Exec=thunderbird-miramar %u
+Categories=Network;Email;
+StartupNotify=true
+X-AppInstall-Package=thunderbird-miramar
+X-AppInstall-Section=aur
+X-Arch-Package=thunderbird-miramar 5.0b2pre-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=thunderbird-miramar
+X-Arch-Package-Version=5.0b2pre-1
+X-Arch-Package-Description=Standalone Mail/News reader - Miramar build
+X-Arch-Package-URL=http://www.mozilla.org/projects/thunderbird

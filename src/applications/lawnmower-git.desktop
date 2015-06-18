@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=LAWNMower
+Comment=Automatically log into the Georgia Tech Local Area Wireless Network (LAWN)
+Icon=LAWNMower
+TryExec=/usr/bin/LAWNMower
+Exec=LAWNMower
+NoDisplay=true
+Categories=Application;Network;Qt;
+X-AppInstall-Package=lawnmower-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=lawnmower-git 20110127-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lawnmower-git
+X-Arch-Package-Version=20110127-1
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=None
+X-Arch-Package-Votes=1
+Aliases=lawnmower;

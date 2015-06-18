@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=XCA
+Comment=A graphical user interface for handling and issuing X.509 compliant Certificates
+Comment[de]=Eine graphische Oberfläche zur Erstellung von X.509 konformen Zertifikaten
+Comment[fi]=Graafinen X.509-varmenteiden hallintatyökalu
+Icon=xca-32x32.xpm
+TryExec=/usr/bin/xca
+Exec=xca
+Categories=Application;Utility;Qt;
+StartupNotify=false
+X-AppInstall-Package=xca
+X-AppInstall-Popcon=46
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xca
+X-Arch-Package-Version=1.2.0-1
+X-Arch-Package-Description=graphical user interface to OpenSSL, RSA/DSA public keys,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.hohnstaedt.de/xca.html
+X-Arch-Package-Votes=46

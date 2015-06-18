@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Flickr Uploader
+Comment=Upload photos to Flickr
+Icon=postr
+TryExec=/usr/bin/postr
+Exec=postr %F
+Categories=Graphics;GNOME;GTK;
+MimeType=image/bmp;image/gif;image/x-fits;image/pcx;image/x-portable-anymap;image/x-portable-bitmap;image/x-portable-graymap;image/x-portable-pixmap;image/x-sgi;image/x-tga;image/x-xbitmap;image/x-xwindowdump;image/tiff;image/jpeg;image/x-psd;image/png;image/x-icon;image/x-xpixmap;image/svg+xml;
+StartupNotify=true
+X-AppInstall-Package=postr
+X-AppInstall-Popcon=33
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=postr
+X-Arch-Package-Version=0.13-1
+X-Arch-Package-Description=GNOME Flickr Uploader
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://projects.gnome.org/postr/
+X-Arch-Package-Votes=33

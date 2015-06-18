@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=threadscope
+Comment=Haskell GHC thread profiler
+Comment[es]=Perfilador de hilos para Haskell GHC
+Icon=_usr_share_threadscope-0.1.2_threadscope
+TryExec=/usr/bin/threadscope
+Exec=/usr/bin/threadscope
+Categories=Application;Development;
+MimeType=application/x-threadscope;
+StartupNotify=false
+X-AppInstall-Package=threadscope
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-AppInstall-Architectures=amd64,armel,i386,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=threadscope
+X-Arch-Package-Version=0.2.2-1
+X-Arch-Package-Description=A graphical thread profiler.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://hackage.haskell.org/package/
+X-Arch-Package-Votes=2

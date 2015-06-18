@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Xournal
+Comment=Take handwritten notes
+Comment[ca]=Preneu notes a mà
+Comment[fr]=Prise de notes manuscrites
+Icon=xournal
+TryExec=/usr/bin/xournal
+Exec=xournal %f
+Categories=Utility;TextEditor;GNOME;GTK;
+MimeType=application/x-xoj;application/pdf;
+StartupNotify=true
+X-AppInstall-Package=xournal
+X-AppInstall-Section=extra
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=xournal
+X-Arch-Package-Version=0.4.8-1
+X-Arch-Package-Description=Notetaking and sketching application
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://xournal.sourceforge.net/

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.2.1
+Type=Application
+Name=Knytt Stories
+Comment=Jump 'n' run and adventure game
+Icon=/usr/share/pixmaps/knyttstories.png
+TryExec=/usr/bin/knyttstories
+Exec=/usr/bin/knyttstories
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=knyttstories
+X-AppInstall-Popcon=12
+X-AppInstall-Section=aur
+X-Arch-Package=knyttstories 1.2.1-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=knyttstories
+X-Arch-Package-Version=1.2.1-5
+X-Arch-Package-Description=In Knytt Stories, each level is its own little adventure. One
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://nifflas.ni2.se/
+X-Arch-Package-Votes=12

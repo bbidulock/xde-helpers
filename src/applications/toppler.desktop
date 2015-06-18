@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Tower Toppler
+GenericName=Tower Game
+Comment=A clone of the 'Nebulus' game on old 8 and 16 bit machines.
+Comment[cs]=Klon hry 'Nebulus' z dob 8 a 16 bitovÃœch poÄÃ­taÄÅ¯.
+Comment[de]=Klon des alten Spiels 'Nebulus'
+Icon=toppler
+TryExec=/usr/bin/toppler
+Exec=toppler
+Categories=Game;ArcadeGame;
+X-Desktop-File-Install-Version=0.2
+X-AppInstall-Package=toppler
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=toppler 1.1.6-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=toppler
+X-Arch-Package-Version=1.1.6-3
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://toppler.sourceforge.net/
+X-Arch-Package-Votes=8

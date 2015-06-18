@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Zynjacku
+GenericName=LV2 synths host
+Comment=LV2 synths host for JACK
+Icon=zynjacku32x32
+TryExec=/usr/bin/zynjacku
+Exec=zynjacku
+Categories=AudioVideo;Audio;
+StartupNotify=false
+X-AppInstall-Package=zynjacku
+X-AppInstall-Popcon=26
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zynjacku
+X-Arch-Package-Version=6-1
+X-Arch-Package-Description=JACK based host for LV2 synths and effects (also containing
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://home.gna.org/zynjacku/
+X-Arch-Package-Votes=26

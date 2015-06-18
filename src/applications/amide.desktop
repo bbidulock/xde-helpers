@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Amide
+Name[zh_CN]=高级医学图像察看器
+GenericName=Medical Image Examiner
+GenericName[zh_CN]=医学图像察看器
+Comment=A Medical Image Data Examiner
+Comment[zh_CN]=高级医学图像察看器
+Icon=amide_logo.png
+TryExec=/usr/bin/amide
+Exec=amide
+Categories=Graphics;MedicalSoftware;
+StartupNotify=false
+X-AppInstall-Package=amide
+X-AppInstall-Popcon=26
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=amide
+X-Arch-Package-Version=1.0.5-3
+X-Arch-Package-Description=Medical Imaging Data Examiner
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://amide.sourceforge.net/packages.html
+X-Arch-Package-Votes=9

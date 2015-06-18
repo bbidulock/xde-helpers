@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Sylph-Searcher
+Comment=Full-text search program for Sylpheed
+Comment[es]=Programa de búsqueda «full-text» para Sylpheed
+Comment[ja]=Sylpheed の全文検索プログラム
+Icon=sylph-searcher
+TryExec=/usr/bin/sylph-searcher
+Exec=sylph-searcher
+Categories=Utility;
+StartupNotify=false
+X-AppInstall-Package=sylph-searcher
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sylph-searcher
+X-Arch-Package-Version=1.2.0-1
+X-Arch-Package-Description=Sylph-Searcher provides fast full-text search for Sylpheed
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sylpheed.sraoss.jp/en/
+X-Arch-Package-Votes=0

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Moonlight HDR Viewer
+Comment=HDR image viewer
+TryExec=/usr/bin/mlhdrviewer
+Exec=mlhdrviewer
+X-MultipleArgs=false
+Categories=Graphics;2DGraphics;Viewer;
+X-AppInstall-Package=mlhdrviewer
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=mlhdrviewer 0.1.0-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mlhdrviewer
+X-Arch-Package-Version=0.1.0-4
+X-Arch-Package-Description=Simple image viewer specially designed for viewing high
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.moonlight3d.eu/
+X-Arch-Package-Votes=1

@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Navit
+GenericName=Navit
+Comment=The open source vector based navigation program with routing engine
+Comment[de]=Ein vektorbasiertes Navigationsprogramm
+Comment[fr]=Le logiciel opensource de navigation vectorielle
+Icon=navit
+TryExec=/usr/bin/navit
+Exec=navit
+Categories=Utility;Geography;GTK;
+StartupNotify=true
+X-AppInstall-Package=navit
+X-AppInstall-Popcon=34
+X-AppInstall-Section=aur
+X-AppInstall-Architectures=amd64,armel,i386,ia64,mipsel
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=navit
+X-Arch-Package-Version=0.2.0-1
+X-Arch-Package-Description=A modular turn-by-turn car navigation system
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.navit-project.org/
+X-Arch-Package-Votes=34

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Canon IP2500 series printer
+Name[fr]=Imprimante Canon IP2500 series
+Comment=Configure Canon IP2500 series printer
+Comment[fr]=Configurer l'imprimante Canon IP2500 series
+Icon=printer
+TryExec=/usr/bin/printuiip2500
+Exec=printuiip2500
+Categories=System;GTK;
+StartupNotify=true
+X-AppInstall-Package=cnijfilter-ip2500series
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=cnijfilter-ip2500series 2.70-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cnijfilter-ip2500series
+X-Arch-Package-Version=2.70-1
+X-Arch-Package-Description=Canon IJ Printer Driver for Pixma IP2500 series multifunction
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://support-au.canon.com.au/contents/AU/EN/0900718516.html
+X-Arch-Package-Votes=1

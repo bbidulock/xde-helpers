@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Geepro
+Comment=Willem Programmer software for GNU/Linux
+Icon=geepro
+TryExec=/usr/bin/geepro
+Exec=geepro
+Categories=Utility;
+StartupNotify=true
+X-AppInstall-Package=geepro
+X-AppInstall-Section=aur
+X-Arch-Package=geepro 0.0.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=geepro
+X-Arch-Package-Version=0.0.4-1
+X-Arch-Package-Description=Willem Programmer software for GNU/Linux
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/geepro
+X-Arch-Package-Votes=0

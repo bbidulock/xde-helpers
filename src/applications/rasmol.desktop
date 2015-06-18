@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=RasMol
+GenericName=Molecular Graphics Visualisation Tool
+Comment=Viewer for PDB and other Molecular Graphics
+Icon=rasmol
+TryExec=/usr/bin/rasmol-gtk
+Exec=rasmol-gtk
+Categories=Education;Science;Chemistry;
+X-AppInstall-Package=rasmol
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=rasmol 2.7.5-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rasmol
+X-Arch-Package-Version=2.7.5-3
+X-Arch-Package-Description=A program for molecular graphics visualisation (aka
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.openrasmol.org/
+X-Arch-Package-Votes=6

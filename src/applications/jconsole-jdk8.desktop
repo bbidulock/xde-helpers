@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Java Monitoring and Management Console
+Icon=sun-java-jdk8
+TryExec=/usr/lib/jvm/java-8-jdk/bin/jconsole
+Exec=/usr/lib/jvm/java-8-jdk/bin/jconsole
+Categories=Development;Java;
+StartupNotify=true
+X-AppInstall-Package=jdk
+X-AppInstall-Popcon=564
+X-AppInstall-Section=aur
+X-Arch-Package=jdk 8u45-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jdk
+X-Arch-Package-Version=u-1
+X-Arch-Package-Description=Oracle Java Development Kit
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.oracle.com/technetwork/java/javase/downloads/index.html
+X-Arch-Package-Votes=564

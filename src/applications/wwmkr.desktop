@@ -1,0 +1,18 @@
+[Desktop Entry]
+Version=2.0
+Type=Application
+Name=Writer's World Maker
+Comment=A novel building tool for fiction writers
+Icon=wwmkr
+TryExec=/usr/bin/wwmkr
+Exec=wwmkr
+Categories=Utility;TextTools;
+StartupNotify=true
+X-AppInstall-Package=wwmkr
+X-AppInstall-Section=aur
+X-Arch-Package=wwmkr 2.0.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wwmkr
+X-Arch-Package-Version=2.0.2-1
+X-Arch-Package-Description=A novel building tool for fiction writers
+X-Arch-Package-URL=http://www.wwmkr.com/

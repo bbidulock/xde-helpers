@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Qt Assistant
+GenericName=Qt Document Browser
+Icon=assistant
+TryExec=/usr/bin/assistant
+Exec=/usr/bin/assistant
+NoDisplay=true
+Categories=Development;Documentation;Qt;
+X-AppInstall-Package=qt-raster-engine
+X-AppInstall-Section=aur
+X-Arch-Package=qt-raster-engine 4.6.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qt-raster-engine
+X-Arch-Package-Version=4.6.3-1
+X-Arch-Package-Description=A cross-platform application and UI framework
+X-Arch-Package-URL=http://qt.nokia.com/
+Aliases=assistant;

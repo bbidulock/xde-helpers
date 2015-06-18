@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Rom Check Fail
+Icon=/opt/romcheckfail/RomCheckFail/bin/Farbs.png
+TryExec=/usr/bin/romcheckfail
+Exec=romcheckfail
+Terminal=False
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=romcheckfail
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=romcheckfail 0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=romcheckfail
+X-Arch-Package-Version=0-2
+X-Arch-Package-Description=A dozen arcade classics carefully placed in a large mixing
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.farbs.org/games.html
+X-Arch-Package-Votes=4

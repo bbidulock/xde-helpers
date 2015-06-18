@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Tilda
+Icon=tilda.png
+TryExec=/usr/bin/tilda
+Exec=tilda
+Categories=Utility;TerminalEmulator;GTK;
+StartupNotify=false
+X-AppInstall-Package=tilda
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=tilda
+X-Arch-Package-Version=1.2.2-1
+X-Arch-Package-Description=A Gtk based drop down terminal for Linux and Unix
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/lanoxx/tilda

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Centripetal
+Comment=Multitouch breakout game
+Icon=/usr/share/games/Centripetal/icon.png
+TryExec=/usr/bin/python2
+Exec=python2 /usr/share/games/Centripetal/main.py
+NoDisplay=true
+Categories=Game;
+Path=/usr/share/games/Centripetal
+X-AppInstall-Package=centripetal-git
+X-AppInstall-Section=aur
+X-Arch-Package=centripetal-git 20120725-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=centripetal-git
+X-Arch-Package-Version=20120725-1
+X-Arch-Package-Description=Multitouch breakout game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/dcower/Centripetal
+X-Arch-Package-Votes=0
+Aliases=Centripetal;

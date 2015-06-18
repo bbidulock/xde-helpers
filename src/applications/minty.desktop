@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Minty Fresh Adventures
+GenericName=Pony Project Plataforming4: Minty Fresh Adventures
+Comment=A plataform game where you Minty Fresh a pony need to run across a sideview level
+Icon=minuette
+TryExec=/usr/bin/minty
+Exec=/usr/bin/minty
+Categories=Game;
+X-AppInstall-Package=pony-plataform-project
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=pony-plataform-project 4-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pony-plataform-project
+X-Arch-Package-Version=4-4
+X-Arch-Package-Description=Pony Plataformimng Poject 4: A colection of pony games (not
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.dragon-mango.com/ponygame
+X-Arch-Package-Votes=1

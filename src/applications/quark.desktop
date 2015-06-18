@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Quark Music Player
+Comment=Play music from the system tray
+Icon=quark.png
+TryExec=/usr/bin/strange-quark
+Exec=strange-quark
+Categories=Application;AudioVideo;
+StartupNotify=false
+X-AppInstall-Package=quark
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=quark
+X-Arch-Package-Version=0.9.0-1
+X-Arch-Package-Description=A library that enables the dynamic execution of tasks with
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://icl.cs.utk.edu/quark/index.html
+X-Arch-Package-Votes=1

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Shutter
+Comment=Feature-rich screenshot application
+Comment[de_DE]=Vielseitiges Programm zur Aufnahme von Bildschirmfotos
+Icon=shutter
+TryExec=/usr/bin/shutter
+Exec=shutter %F
+Categories=Application;Utility;
+MimeType=image/bmp;image/jpeg;image/gif;image/png;image/tiff;image/x-bmp;image/x-ico;image/x-png;image/x-pcx;image/x-tga;image/xpm;image/svg+xml;
+StartupNotify=false
+X-AppInstall-Package=shutter
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=shutter
+X-Arch-Package-Version=0.93.1-1
+X-Arch-Package-Description=a featureful screenshot tool (formerly gscrot)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://shutter-project.org/

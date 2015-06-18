@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Jajuk
+Comment=Jajuk Advanced Jukebox
+Icon=jajuk.png
+TryExec=/usr/bin/jajuk
+Exec=jajuk
+Categories=AudioVideo;
+StartupNotify=false
+X-AppInstall-Package=jajuk
+X-AppInstall-Popcon=19
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jajuk
+X-Arch-Package-Version=1.10.5-1
+X-Arch-Package-Description=A full-featured jukebox geared towards advanced users with
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://jajuk.info/
+X-Arch-Package-Votes=19

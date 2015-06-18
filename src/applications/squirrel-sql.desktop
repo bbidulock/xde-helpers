@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Squirrel Sql
+GenericName=Database Manager
+Comment=Graphical Java program to manage JDBC databases
+Icon=/usr/share/pixmaps/acorn.ico
+TryExec=/usr/bin/squirrel-sql
+Exec=squirrel-sql
+Categories=System;
+X-AppInstall-Package=squirrel-sql
+X-AppInstall-Popcon=85
+X-AppInstall-Section=aur
+X-Arch-Package=squirrel-sql 3.6.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=squirrel-sql
+X-Arch-Package-Version=3.6.0-1
+X-Arch-Package-Description=A graphical Java program to manage JDBC databases.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.squirrelsql.org/
+X-Arch-Package-Votes=85

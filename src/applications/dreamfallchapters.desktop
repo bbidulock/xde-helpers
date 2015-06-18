@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Dreamfall Chapters
+GenericName=Dreamfall Chapters
+Comment=Dreamfall Chapters
+Icon=dreamfallchapters
+TryExec=/usr/bin/dreamfallchapters
+Exec=/usr/bin/dreamfallchapters
+Categories=Game;
+StartupNotify=true
+X-Desktop-File-Install-Version=0.22
+X-AppInstall-Package=dreamfall-chapters-hib
+X-AppInstall-Section=aur
+X-Arch-Package=dreamfall-chapters-hib r20150519+d83319-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dreamfall-chapters-hib
+X-Arch-Package-Version=r20150519+d83319-1
+X-Arch-Package-Description=Dreamfall Chapters, humble bundle version
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://redthreadgames.com/
+X-Arch-Package-Votes=0

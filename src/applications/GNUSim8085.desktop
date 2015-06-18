@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=GNUSim8085
+Comment=Intel 8085 microprocessor simulator
+Icon=_usr_share_icons_hicolor_scalable_apps_gnusim8085
+TryExec=/usr/bin/gnusim8085
+Exec=gnusim8085
+Categories=Development;GNOME;GTK;
+StartupNotify=false
+X-AppInstall-Package=gnusim8085
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gnusim8085
+X-Arch-Package-Version=1.3.7-1
+X-Arch-Package-Description=GNOME simulator and assembler for the Intel 8085
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.gnusim8085.org
+X-Arch-Package-Votes=9

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=PataPony
+GenericName=Pata Pony
+Comment=A game where you are a brunch of Pinkie Pies clones and you need to help all fo them by repeating sertain melodies by pessing predefined buttons
+Icon=patapony
+TryExec=/usr/bin/patapony
+Exec=/usr/bin/patapony
+Categories=Game;
+X-AppInstall-Package=pony-plataform-project
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=pony-plataform-project 4-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pony-plataform-project
+X-Arch-Package-Version=4-4
+X-Arch-Package-Description=Pony Plataformimng Poject 4: A colection of pony games (not
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.dragon-mango.com/ponygame
+X-Arch-Package-Votes=1

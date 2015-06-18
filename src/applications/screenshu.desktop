@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=ScreenSHU
+GenericName=ScreenSHU
+Comment=ScreenSHU
+Icon=screenshu
+TryExec=/usr/bin/screenSHU
+Exec=/usr/bin/screenSHU
+Categories=Graphics;
+StartupNotify=true
+X-AppInstall-Package=screenshu
+X-AppInstall-Section=aur
+X-Arch-Package=screenshu 1.0.1-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=screenshu
+X-Arch-Package-Version=1.0.1-3
+X-Arch-Package-Description=Your favorite screenshooter!
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://screenshu.com/
+X-Arch-Package-Votes=0

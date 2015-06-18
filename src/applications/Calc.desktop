@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Calculation (StarOffice Calc)
+Name[de]=Tabellenkalkulation (StarOffice Calc)
+Icon=/opt/gnome2/share/dist/icons/suse-yast.png
+TryExec=/opt/staroffice6.0/program/scalc
+Exec=/opt/staroffice6.0/program/scalc
+StartupNotify=false
+X-AppInstall-Package=calc
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=calc
+X-Arch-Package-Version=2.12.5.0-1
+X-Arch-Package-Description=console calculator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.isthe.com/chongo/tech/comp/calc/

@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=RenPy
+Comment=A free and cross-platform engine that helps you use words, pictures, and sounds to tell stories with the computer.
+Icon=renpy
+TryExec=/usr/bin/renpy
+Exec=/usr/bin/renpy
+Categories=Game;Simulation;
+StartupNotify=false
+X-AppInstall-Package=renpy-bin
+X-AppInstall-Section=aur
+X-Arch-Package=renpy-bin 6.18.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=renpy-bin
+X-Arch-Package-Version=6.18.1-1
+X-Arch-Package-Description=A free and cross-platform engine that helps you use words, pictures, and sounds to tell stories with the computer.
+X-Arch-Package-URL=http://www.renpy.org

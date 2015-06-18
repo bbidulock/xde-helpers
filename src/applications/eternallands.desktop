@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Eternal Lands
+Comment=3D MMORPG
+Icon=eternallands.png
+TryExec=/usr/bin/el
+Exec=el
+Categories=Application;Game;
+StartupNotify=false
+X-AppInstall-Package=eternallands
+X-AppInstall-Popcon=48
+X-AppInstall-Section=aur
+X-Arch-Package=eternallands 1.9.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=eternallands
+X-Arch-Package-Version=1.9.3-1
+X-Arch-Package-Description=A free 3D MMORPG game with thousands of on-line players
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.eternal-lands.com/
+X-Arch-Package-Votes=48

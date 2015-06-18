@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=GameLV
+GenericName=Post-Soviet Adventure Game
+Icon=/usr/share/pixmaps/gamelv.bmp
+TryExec=/usr/bin/gamelv
+Exec=gamelv
+Categories=Game;
+X-AppInstall-Package=gamelv
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=gamelv 1.01-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gamelv
+X-Arch-Package-Version=1.01-3
+X-Arch-Package-Description=A point-and-click Adventure Game in Post Soviet
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/snauts/GameLV
+X-Arch-Package-Votes=1

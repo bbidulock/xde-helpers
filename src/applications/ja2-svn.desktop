@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Jagged Alliance 2
+GenericName=Strategy/RP Game
+Comment=An enhanced port of Jagged Alliance 2 to SDL
+Icon=/usr/share/pixmaps/ja2.png
+TryExec=/usr/bin/ja2
+Exec=ja2 -fullscreen
+NoDisplay=true
+Categories=Game;RolePlaying;StrategyGame;
+X-AppInstall-Package=ja2-svn
+X-AppInstall-Section=aur
+X-Arch-Package=ja2-svn 7059-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ja2-svn
+X-Arch-Package-Version=7059-1
+X-Arch-Package-Description=A port of Jagged Alliance 2 to SDL
+X-Arch-Package-URL=http://tron.homeunix.org/ja2/
+Aliases=ja2;

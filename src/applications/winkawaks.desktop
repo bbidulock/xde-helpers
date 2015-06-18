@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Winkawaks
+Comment=Emulate your NeoGeo, CPS1 and CP2 Games
+Icon=/usr/share/icons/winkawaks.ico
+TryExec=/usr/bin/winkawaks
+Exec=/usr/bin/winkawaks
+Categories=Game;
+X-AppInstall-Package=winkawaks
+X-AppInstall-Section=aur
+X-Arch-Package=winkawaks 1.63-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=winkawaks
+X-Arch-Package-Version=1.63-1
+X-Arch-Package-Description=Kawaks, The BEST arcade game emulator for Capcom and NeoGeo
+X-Arch-Package-Groups=emulators
+X-Arch-Package-URL=http://www.winkawaks.org/
+X-Arch-Package-Votes=0

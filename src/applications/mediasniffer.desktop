@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Media Sniffer
+Icon=mediasniffer.png
+TryExec=/usr/bin/gksudo
+Exec=gksudo -ku root mediasniffer
+Categories=Application;Network;GTK;
+X-AppInstall-Package=mediasniffer
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=mediasniffer 1.0.0.13-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mediasniffer
+X-Arch-Package-Version=1.0.0.13-2
+X-Arch-Package-Description=Sniff download links to media while using iTunes, websites
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/mediasniffer/
+X-Arch-Package-Votes=9

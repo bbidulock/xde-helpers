@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Fped
+GenericName=Footprint Editor
+Comment=KiCad PCB footprint editor.
+Icon=fped
+TryExec=/usr/bin/fped
+Exec=fped
+Categories=Education;Science;
+MimeType=application/x-fped-footprint;
+X-AppInstall-Package=fped-git
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package=fped-git 20130217-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fped-git
+X-Arch-Package-Version=20130217-1
+X-Arch-Package-Description=Footprint Editor for KiCad used by Qi Hardware developers
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://projects.qi-hardware.com/index.php/p/fped/
+X-Arch-Package-Votes=11

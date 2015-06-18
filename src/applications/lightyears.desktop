@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=20,000 Light Years Into Space
+GenericName=Steampunk RTS Game
+Comment=Create a steam network to power a city and repair in time the damages that it will take
+Comment[ca]=Creeu una xarxa de subministrament d'energia per a la ciutat i eviteu que sigui destruïda
+Icon=lightyears
+TryExec=/usr/bin/lightyears
+Exec=lightyears
+Categories=Game;
+X-AppInstall-Package=lightyears
+X-AppInstall-Popcon=19
+X-AppInstall-Section=aur
+X-Arch-Package=lightyears 1.4-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lightyears
+X-Arch-Package-Version=1.4-2
+X-Arch-Package-Description=A single-player real-time strategy game with a science-fiction
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.jwhitham.org/20kly
+X-Arch-Package-Votes=19

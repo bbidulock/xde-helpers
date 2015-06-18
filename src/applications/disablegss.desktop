@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Disable screensaver Daemon
+TryExec=/usr/bin/disablegss.py
+Exec=disablegss.py
+StartupNotify=false
+X-KDE-autostart-after=panel
+X-KDE-autostart-phase=2
+X-AppInstall-Package=disablegss
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=disablegss 20061026-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=disablegss
+X-Arch-Package-Version=20061026-2
+X-Arch-Package-Description=Disable gnome-screensaver when specific apps are running
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ubuntuforums.org/showthread.php?t=284804
+X-Arch-Package-Votes=3

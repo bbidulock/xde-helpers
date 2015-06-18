@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=OpenTyrian Enhanced
+Comment="a arcade-style vertical scrolling shooter"
+Icon=opentyrian-enhanced
+TryExec=/usr/bin/opentyrian-enhanced
+Exec=/usr/bin/opentyrian-enhanced
+Categories=Game;
+X-AppInstall-Package=opentyrian-enhanced
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=opentyrian-enhanced 118-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=opentyrian-enhanced
+X-Arch-Package-Version=118-1
+X-Arch-Package-Description=C++ and feature added version of OpenTyrian
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://bitbucket.org/yuriks/opentyrian-enhanced/wiki/Home
+X-Arch-Package-Votes=4

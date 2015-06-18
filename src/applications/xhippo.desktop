@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=GNU xhippo
+GenericName=Audio Player
+Comment=A simple GTK+ playlist manager
+Icon=xhippo.xpm
+TryExec=/usr/bin/xhippo
+Exec=xhippo %F
+Categories=AudioVideo;Player;
+X-AppInstall-Package=xhippo
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=xhippo 3.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xhippo
+X-Arch-Package-Version=3.3-1
+X-Arch-Package-Description=A simple GTK+ playlist manager
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://offog.org/code/xhippo.html
+X-Arch-Package-Votes=2

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=SmillaEnlarger
+GenericName=ImageEnlarger
+Comment=Resize images using hi-tech alghoritms
+Icon=smilla
+TryExec=/usr/bin/SmillaEnlarger
+Exec=/usr/bin/SmillaEnlarger
+Categories=Application;Graphics;
+StartupNotify=true
+X-AppInstall-Package=imageenlarger
+X-AppInstall-Popcon=18
+X-AppInstall-Section=aur
+X-Arch-Package=imageenlarger 0.9.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=imageenlarger
+X-Arch-Package-Version=0.9.0-2
+X-Arch-Package-Description=Small graphical tool (based on Qt) to resize, especially
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/imageenlarger/
+X-Arch-Package-Votes=18

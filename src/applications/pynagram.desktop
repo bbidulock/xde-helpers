@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Pynagram
+GenericName=Anagram Game
+Comment=Discover all the hidden words
+Icon=pynagram
+TryExec=/usr/bin/pynagram
+Exec=pynagram
+Categories=Game;LogicGame;Qt;
+X-AppInstall-Package=pynagram
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=pynagram 1.0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pynagram
+X-Arch-Package-Version=1.0.1-1
+X-Arch-Package-Description=A simple word game in which the player is presented with seven
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://launchpad.net/pynagram
+X-Arch-Package-Votes=2

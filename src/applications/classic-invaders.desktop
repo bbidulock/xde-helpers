@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Classic_Invaders
+GenericName=Classic_Invaders
+Comment=A classic alien space shooter
+Icon=/usr/share/classic_invaders/alien-1-1.png
+TryExec=/usr/bin/classic_invaders
+Exec=/usr/bin/classic_invaders
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=classic_invaders
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=classic_invaders 1.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=classic_invaders
+X-Arch-Package-Version=1.0-2
+X-Arch-Package-Description=A classic alien space shooter.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.noquarterarcade.com/
+X-Arch-Package-Votes=2

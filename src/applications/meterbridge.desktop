@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Meterbridge
+GenericName=Audio Level Meter
+Comment=Audio level meter for JACK
+Icon=meterbridge32x32.xpm
+TryExec=/usr/bin/meterbridge
+Exec=/usr/bin/meterbridge -t vu alsa_pcm:playback_1 alsa_pcm:playback_2
+Categories=AudioVideo;Audio;
+StartupNotify=false
+X-AppInstall-Package=meterbridge
+X-AppInstall-Popcon=61
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=meterbridge
+X-Arch-Package-Version=0.9.2-1
+X-Arch-Package-Description=Collection of Audio meters for the JACK audio server
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://plugin.org.uk/meterbridge/

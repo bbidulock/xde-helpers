@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Poedit
+Comment=Gettext catalogs editor
+Comment[fr]=Outil de traduction
+Icon=poedit.png
+TryExec=/usr/bin/poeditor
+Exec=poeditor
+Categories=Application;Development;Translation;
+MimeType=application/x-po;application/x-gettext;application/x-gettext-translation;text/x-gettext-translation;text/x-po;
+StartupNotify=true
+X-AppInstall-Package=poedit
+X-AppInstall-Popcon=122
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=poedit
+X-Arch-Package-Version=1.8.1-1
+X-Arch-Package-Description=Cross-platform gettext catalogs (.po files) editor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.poedit.net/

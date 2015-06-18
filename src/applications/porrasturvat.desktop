@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Porrasturvat
+TryExec=/usr/bin/porrasturvat
+Exec=porrasturvat
+Categories=Game;
+StartupNotify=true
+X-AppInstall-Package=porrasturvat
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=porrasturvat 1.0.3-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=porrasturvat
+X-Arch-Package-Version=1.0.3-2
+X-Arch-Package-Description=Fall from stairs game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://secretexit.com/freeware/stairdismount
+X-Arch-Package-Votes=2

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Coccinella
+GenericName=Coccinella
+Comment=Communicate with Coccinella
+Icon=coccinella
+TryExec=/usr/bin/coccinella
+Exec=coccinella
+Categories=Network;InstantMessaging;
+X-AppInstall-Package=coccinella
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=coccinella 0.96.20-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=coccinella
+X-Arch-Package-Version=0.96.20-1
+X-Arch-Package-Description=A free and open-source cross-platform communication tool based
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://thecoccinella.org/
+X-Arch-Package-Votes=6

@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+GenericName=Nitrokey management application
+GenericName[de]=Nitrokeyverwaltungsapplikation
+GenericName[fr]=Programme de gestion de la Nitrokey
+Comment=Manage Nitrokey devices
+Comment[de]=Nitrokey Laufwerk verwalten
+Comment[fr]=Gérer des périphériques Nitrokey
+Icon=nitrokey-app
+TryExec=/usr/bin/nitrokey-app
+Exec=nitrokey-app
+NoDisplay=true
+X-AppInstall-Package=nitrokey-app
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=nitrokey-app r303.g460efbf-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nitrokey-app
+X-Arch-Package-Version=r303.g460efbf-1
+X-Arch-Package-Description=Nitrokey management application
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://www.nitrokey.com
+X-Arch-Package-Votes=1

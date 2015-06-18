@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=JD 2ch browser
+Name[ja]=2ch ブラウザ JD
+Comment=JD is a 2ch browser based on gtkmm2.
+Comment[ja]=gtkmm2 を利用した 2ch ブラウザ
+Icon=jd
+TryExec=/usr/bin/jd
+Exec=jd
+Categories=Network;
+StartupNotify=false
+X-AppInstall-Package=jd
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jd
+X-Arch-Package-Version=2.8.9-1
+X-Arch-Package-Description=A 2channel browser written in C++ using gtkmm
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://jd4linux.sourceforge.jp/
+X-Arch-Package-Votes=10

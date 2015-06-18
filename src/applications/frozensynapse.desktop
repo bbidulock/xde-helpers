@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Frozen Synapse
+GenericName=Turn-Based Tactics Game
+Comment=Mode 7 Games
+Icon=frozensynapse
+TryExec=/usr/bin/frozensynapse
+Exec=/usr/bin/frozensynapse
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=frozensynapse
+X-AppInstall-Popcon=22
+X-AppInstall-Section=aur
+X-Arch-Package=frozensynapse 1.0.32+h20120614-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=frozensynapse
+X-Arch-Package-Version=1.0.32+h20120614-1
+X-Arch-Package-Description=A top-down simultaneous-turn-based tactical combat game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.frozensynapse.com/
+X-Arch-Package-Votes=22

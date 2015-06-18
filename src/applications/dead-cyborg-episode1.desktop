@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Dead Cyborg - Episode 1
+GenericName=Dead Cyborg - Episode 1
+Comment=Dead Cyborg - Episode 1
+Icon=dead-cyborg-episode1.png
+TryExec=/usr/bin/dead-cyborg-episode1
+Exec=dead-cyborg-episode1
+Categories=Game;
+X-AppInstall-Package=dead-cyborg-episode1
+X-AppInstall-Popcon=17
+X-AppInstall-Section=aur
+X-Arch-Package=dead-cyborg-episode1 002-6
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dead-cyborg-episode1
+X-Arch-Package-Version=002-6
+X-Arch-Package-Description=Free, donation based oldskool sci-fi adventure game with 3D
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://deadcyborg.com/
+X-Arch-Package-Votes=17

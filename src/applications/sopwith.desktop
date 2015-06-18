@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Sopwith
+Comment=WW1 Dogfighting Game
+Icon=sopwith.png
+TryExec=/usr/bin/sopwith
+Exec=sopwith
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=sopwith
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sopwith
+X-Arch-Package-Version=1.8.4-1
+X-Arch-Package-Description=Sidescrolling shoot 'em up game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sdl-sopwith.sourceforge.net/
+X-Arch-Package-Votes=6

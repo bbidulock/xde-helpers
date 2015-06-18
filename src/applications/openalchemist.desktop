@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=OpenAlchemist
+GenericName=Puzzle game
+GenericName[de]=Gedächtnisspiel
+GenericName[fr]=Jeu de réflexion
+Comment=Transmute the elements !
+Comment[de]=Wandeln Elemente !
+Comment[fr]=Transmutez les éléments !
+Icon=openalchemist
+TryExec=/usr/bin/openalchemist
+Exec=openalchemist
+Categories=Game;LogicGame;
+X-AppInstall-Package=openalchemist
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=openalchemist 0.3-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=openalchemist
+X-Arch-Package-Version=0.3-2
+X-Arch-Package-Description=OpenAlchemist is a new reflexion game which looks like Tetris\
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.openalchemist.com/
+X-Arch-Package-Votes=5

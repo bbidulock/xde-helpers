@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=XaoS
+GenericName=XaoS Fractal Explorer
+Comment=Fractal Generator
+Icon=xaos
+TryExec=/usr/bin/xaos
+Exec=xaos
+X-MultipleArgs=false
+Categories=Application;Graphics;
+StartupNotify=true
+X-AppInstall-Package=xaos
+X-AppInstall-Section=extra
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=xaos
+X-Arch-Package-Version=3.6-1
+X-Arch-Package-Description=A fast portable real-time interactive fractal zoomer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://matek.hu/xaos/

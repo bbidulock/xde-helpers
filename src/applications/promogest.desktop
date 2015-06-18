@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Promogest
+GenericName=Gestionale
+Comment=Gestionale Open Source
+Icon=/opt/promogest/python/gui/promogest.png
+TryExec=/usr/bin/promoGest
+Exec=/usr/bin/promoGest
+X-MultipleArgs=false
+Categories=Application;Office;
+X-AppInstall-Package=promogest
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=promogest 3893-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=promogest
+X-Arch-Package-Version=3893-1
+X-Arch-Package-Description=Italian ERP Software
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://promogest.promotux.it
+X-Arch-Package-Votes=1

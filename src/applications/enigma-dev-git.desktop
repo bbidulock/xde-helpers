@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=LateralGM
+Comment=Game Development IDE for Enigma written in java
+Icon=lateralgm
+TryExec=/usr/bin/lateralgm
+Exec=lateralgm
+NoDisplay=true
+Categories=Application;Development;IDE;
+MimeType=application;application/x-gm81;application/x-gmk;application/x-gm6;application/x-gmd;application/x-egm;application/x-gm50;application/x-gm51;application/x-gm52;application/x-gm53;application/x-gm60;application/x-gm61;application/x-gm71;application/x-gm80;application/x-gm81;
+Path=/usr/bin/
+StartupNotify=true
+X-AppInstall-Package=enigma-dev-git
+X-AppInstall-Section=aur
+X-Arch-Package=enigma-dev-git 0.0.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=enigma-dev-git
+X-Arch-Package-Version=0.0.0-3
+X-Arch-Package-Description=ENIGMA, the Extensible Non-Interpreted Game Maker
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://enigma-dev.org
+X-Arch-Package-Votes=0
+Aliases=lateralgm;

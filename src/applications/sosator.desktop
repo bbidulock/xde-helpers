@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Сосатор
+GenericName=Сосатор
+Comment=Launch Sosator
+Icon=/opt/sosator/images/icon.png
+TryExec=/opt/sosator/Sosator
+Exec=/opt/sosator/Sosator
+Categories=Application;Utility;
+StartupNotify=true
+X-AppInstall-Package=sosator
+X-AppInstall-Section=aur
+X-Arch-Package=sosator 0.3b-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sosator
+X-Arch-Package-Version=0.3b-1
+X-Arch-Package-Description=Analyzes threads and finds sosnoovsheeh (special for /s/)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/sosator/
+X-Arch-Package-Votes=0

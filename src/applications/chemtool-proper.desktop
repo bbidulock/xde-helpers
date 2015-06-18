@@ -1,0 +1,26 @@
+[Desktop Entry]
+Type=Application
+Name=Chemtool
+GenericName=Chemistry Structure Editor
+Comment=Molecules 2D drawing
+Comment[cs_CZ.ISO8859-2]=Editor molekul
+Comment[de_DE.ISO8859-1]=Moleküleditor
+Icon=chemtool
+TryExec=/usr/bin/chemtool
+Exec=chemtool
+NoDisplay=true
+MultipleArgs=false
+Categories=Education;Science;Chemistry;Graphics;2DGraphics;GTK;
+MimeType=application/x-chemtool;
+X-AppInstall-Package=chemtool-proper
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=chemtool-proper 1.6.13-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=chemtool-proper
+X-Arch-Package-Version=1.6.13-3
+X-Arch-Package-Description=Chemtool without the stupid right justified help menu
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ruby.chemie.uni-freiburg.de/~martin/chemtool/chemtool.html
+X-Arch-Package-Votes=2
+Aliases=chemtool;

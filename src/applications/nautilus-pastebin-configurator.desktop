@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Nautilus Pastebin Configurator
+GenericName=Nautilus Pastebin configuration panel
+GenericName[it]=Pannello di configurazione per Nautilus Pastebin
+Icon=nautilus-pastebin
+TryExec=/usr/bin/nautilus-pastebin-configurator
+Exec=nautilus-pastebin-configurator
+Categories=Settings;
+StartupNotify=false
+X-AppInstall-Package=nautilus-pastebin
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nautilus-pastebin
+X-Arch-Package-Version=0.7.2-1
+X-Arch-Package-Description=Nautilus Pastebin Extension
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://launchpad.net/nautilus-pastebin
+X-Arch-Package-Votes=6
+X-Ubuntu-Gettext-Domain=nautilus-pastebin

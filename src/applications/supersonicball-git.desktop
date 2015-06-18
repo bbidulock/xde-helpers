@@ -1,0 +1,23 @@
+[Desktop Entry]
+Version=git
+Type=Application
+Name=Supersonic Ball
+GenericName=Arcade Game
+Comment=The crazy ball tunnel game
+Icon=gnome-mime-application-x-love-game
+TryExec=/usr/bin/supersonicball
+Exec=supersonicball
+NoDisplay=true
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=supersonicball-git
+X-AppInstall-Section=aur
+X-Arch-Package=supersonicball-git 0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=supersonicball-git
+X-Arch-Package-Version=0-1
+X-Arch-Package-Description=The crazy ball tunnel game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://julosoft.net/supersonicball/
+X-Arch-Package-Votes=0
+Aliases=supersonicball;

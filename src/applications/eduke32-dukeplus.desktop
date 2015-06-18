@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=EDuke32-DukePlus
+Comment=Advanced Duke Nukem 3D engine
+Icon=eduke32
+TryExec=/usr/bin/eduke32-dukeplus
+Exec=eduke32-dukeplus
+Categories=Game;ActionGame;
+X-AppInstall-Package=eduke32-dukeplus
+X-AppInstall-Popcon=37
+X-AppInstall-Section=aur
+X-Arch-Package=eduke32-dukeplus 2.35-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=eduke32-dukeplus
+X-Arch-Package-Version=2.35-3
+X-Arch-Package-Description=An EDuke32 mod providing optional enhancements like new
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://fissile.duke4.net/fissile_dukeplus.html
+X-Arch-Package-Votes=37

@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=File-Roller
+Comment=File-Roller: GNOME archiver
+Icon=/usr/share/pixmaps/file-roller.xpm
+TryExec=/usr/bin/file-roller
+Exec=file-roller
+Categories=Utility;Archiving;
+StartupNotify=false
+X-AppInstall-Package=file-roller
+X-AppInstall-Section=extra
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=file-roller
+X-Arch-Package-Version=3.16.2-2
+X-Arch-Package-Description=Create and modify archives
+X-Arch-Package-Groups=gnome-extra
+X-Arch-Package-URL=http://www.gnome.org

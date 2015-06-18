@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Search and rescue
+TryExec=/usr/bin/SearchAndRescue
+Exec=SearchAndRescue
+Terminal=False
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=searchandrescue
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=searchandrescue
+X-Arch-Package-Version=1.5.0-3
+X-Arch-Package-Description=A flight simulator in which your mission is finding and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://searchandrescue.sourceforge.net/
+X-Arch-Package-Votes=1

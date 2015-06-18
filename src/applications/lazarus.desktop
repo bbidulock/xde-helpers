@@ -1,0 +1,26 @@
+[Desktop Entry]
+Type=Application
+Name=Lazarus
+Comment=Lazarus IDE
+Icon=lazarus.png
+TryExec=/usr/bin/startlazarus
+Exec=startlazarus %f
+Categories=Application;Development;IDE;GUIDesigner;GTK;
+MimeType=text/x-pascal;text/lazarus-project-source;text/lazarus-project-information;text/lazarus-form;text/lazarus-resource;text/lazarus-package;text/lazarus-package-link;text/lazarus-code-inlay;
+StartupNotify=false
+StartupWMClass=Lazarus
+X-AppInstall-Package=lazarus
+X-AppInstall-Popcon=81
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=lazarus
+X-Arch-Package-Version=1.4.0-2
+X-Arch-Package-Description=Delphi-like IDE for FreePascal common files
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.lazarus.freepascal.org/
+
+[Property::X-KDE-NativeExtension]
+Type=QString
+Value=.pas
+X-Ubuntu-Gettext-Domain=desktop_kdelibs
+X-AppInstall-Architectures=amd64,i386,powerpc,sparc

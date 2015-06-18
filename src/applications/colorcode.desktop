@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=ColorCode
+GenericName=MasterMind-like game
+GenericName[es]=Juego similar a MasterMind
+GenericName[fr]=Jeu comme MasterMind
+Comment=MasterMind-like game
+Comment[es]=Juego similar a MasterMind
+Comment[fr]=Jeu comme MasterMind
+Icon=cc64
+TryExec=/usr/bin/colorcode
+Exec=colorcode
+Categories=Game;LogicGame;Qt;
+X-AppInstall-Package=colorcode
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=colorcode 0.7.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=colorcode
+X-Arch-Package-Version=0.7.2-1
+X-Arch-Package-Description=Free MasterMind game clone
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://colorcode.laebisch.com/
+X-Arch-Package-Votes=5

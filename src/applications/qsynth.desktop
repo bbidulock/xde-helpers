@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=0.3.5
+Type=Application
+Name=Qsynth
+GenericName=FluidSynth GUI
+Comment=Qsynth is a FluidSynth Qt GUI Interface
+Icon=_usr_share_pixmaps_qsynth
+TryExec=/usr/bin/qsynth
+Exec=/usr/bin/qsynth
+Categories=AudioVideo;Audio;Midi;Music;Qt;
+StartupNotify=false
+X-AppInstall-Package=qsynth
+X-AppInstall-Popcon=190
+X-AppInstall-Section=extra
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=qsynth
+X-Arch-Package-Version=0.3.9-1
+X-Arch-Package-Description=Qt GUI for FluidSynth
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://qsynth.sourceforge.net/
+X-SuSE-translate=true

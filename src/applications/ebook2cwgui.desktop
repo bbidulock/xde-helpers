@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Ebook2CW
+Comment=Text to Morse Code Converter
+Icon=eboo2cwgui.png
+TryExec=/usr/bin/ebook2cwgui
+Exec=ebook2cwgui
+X-DCOP-ServiceType=none
+Categories=Application;HamRadio;
+MimeType=text/plain;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=ebook2cwgui
+X-AppInstall-Section=aur
+X-Arch-Package=ebook2cwgui 0.1.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ebook2cwgui
+X-Arch-Package-Version=0.1.2-1
+X-Arch-Package-Description=Converts plain text files to Morse Code formatted as MP3 or
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://fkurz.net/ham/ebook2cw.html
+X-Arch-Package-Votes=0

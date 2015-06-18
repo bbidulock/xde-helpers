@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Timetable Generator
+Comment=Generate timetables for educational institutions
+Icon=fet
+TryExec=/usr/bin/fet
+Exec=fet
+Categories=Utility;
+StartupNotify=false
+X-AppInstall-Package=fet
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fet
+X-Arch-Package-Version=5.27.2-1
+X-Arch-Package-Description=Atomatically schedule the timetable of a school, high-school
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://lalescu.ro/liviu/fet
+X-Arch-Package-Votes=3

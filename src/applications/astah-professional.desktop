@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Astah* Professional
+Comment=Easy to use UML2.x modeler
+Comment[ja]=UMLの学習に最適な個人向けツールです
+Icon=astah.png
+TryExec=/usr/bin/astah
+Exec=astah
+Categories=Application;Development;
+MimeType=application/astah;
+X-AppInstall-Package=astah-professional
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=astah-professional 6.9.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=astah-professional
+X-Arch-Package-Version=6.9.0-1
+X-Arch-Package-Description=easy-to-use UML2.x modeler
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://astah.net/editions/professional
+X-Arch-Package-Votes=6
+Aliases=astah;

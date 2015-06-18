@@ -1,0 +1,33 @@
+[Desktop Entry]
+Type=Application
+Name=Mutter
+Name[ar]=مَتَر
+Name[eo]=Mutero
+Name[ko]=머터
+Name[pa]=ਮੱਟਰ
+Name[sr@latin]=Mater
+Name[sr]=Матер
+Name[ta]=மட்டர்
+TryExec=/usr/bin/mutter
+Exec=mutter
+StartupNotify=false
+X-GNOME-Autostart-Notify=true
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-WMName=Mutter
+X-GnomeWMSettingsLibrary=metacity
+X-GNOME-WMSettingsModule=metacity
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=mutter
+X-GNOME-Bugzilla-Component=general
+X-AppInstall-Package=mutter
+X-AppInstall-Section=extra
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=mutter
+X-Arch-Package-Version=3.16.2-1
+X-Arch-Package-Description=A window manager for GNOME
+X-Arch-Package-Groups=gnome
+X-Arch-Package-URL=http://www.gnome.org
+
+[Window Manager]
+SessionManaged=true

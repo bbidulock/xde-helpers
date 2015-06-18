@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=SubDownloader
+Comment=Application to download/upload subtitles of your movies.
+Icon=subdownloader
+TryExec=/usr/bin/subdownloader
+Exec=subdownloader
+X-DCOP-ServiceType=unique
+Categories=AudioVideo;Video;KDE;Qt;
+MimeType=video/avi;
+Path=/usr/share/subdownloader
+StartupNotify=false
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=subdownloader
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=subdownloader
+X-Arch-Package-Version=2.0.18-2
+X-Arch-Package-Description=Automatic download/upload of subtitles using fast hashing
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.subdownloader.net/

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=w3af
+GenericName=Security Audit
+Comment=Web Application Attack and Audit Framework
+Icon=w3af
+TryExec=/usr/bin/w3af-gui
+Exec=w3af-gui
+MultipleArgs=false
+Categories=Network;Security;
+X-AppInstall-Package=w3af
+X-AppInstall-Popcon=29
+X-AppInstall-Section=aur
+X-Arch-Package=w3af 1.6.46-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=w3af
+X-Arch-Package-Version=1.6.46-2
+X-Arch-Package-Description=Web Application Attack and Audit Framework
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://w3af.org/
+X-Arch-Package-Votes=29

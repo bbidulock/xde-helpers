@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Gweled
+Comment=Play a puzzle game similar to "Diamond Mine"
+Comment[de]=Ein Puzzlespiel ähnlich wie »Diamond Mine« spielen
+Comment[es]=Juegue a un juego de rompecabezas similar a «Diamond Mine»
+Comment[fi]=Pelaa "Diamond Mine":n kaltaista pulmapeliä
+Comment[fr]=Jouer à un casse tête similaire à "Diamond Mine"
+Comment[it]=Gioca ad un rompicapo simile a "Diamond Mine"
+Comment[ru]=Играть в логическую игру похожую на игру "Diamond Mine"
+Icon=gweled
+TryExec=/usr/bin/gweled
+Exec=gweled
+Categories=Game;LogicGame;GNOME;GTK;
+StartupNotify=true
+X-AppInstall-Package=gweled
+X-AppInstall-Popcon=65
+X-AppInstall-Section=extra
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=gweled
+X-Arch-Package-Version=0.9.1-3
+X-Arch-Package-Description=A puzzle game similar to Bejeweled (aka Diamond Mine)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://launchpad.net/gweled/

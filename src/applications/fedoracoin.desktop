@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=FedoraCoin
+Comment=FedoraCoin P2P Cryptocurrency
+Icon=/usr/share/pixmaps/fedoracoin.png
+TryExec=/usr/bin/fedoracoin-qt
+Exec=/usr/bin/fedoracoin-qt
+Categories=Network;
+MimeType=x-scheme-handler/fedoracoin;
+X-AppInstall-Package=fedoracoin-qt
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=fedoracoin-qt 1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fedoracoin-qt
+X-Arch-Package-Version=1.0-1
+X-Arch-Package-Description=A QT wallet for the FedoraCoin cryptocurrency.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://fedoraco.in
+X-Arch-Package-Votes=4

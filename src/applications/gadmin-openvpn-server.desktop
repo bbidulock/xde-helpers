@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=GAdmin OpenVPN Server
+GenericName=GAdmin OpenVPN Server
+Comment=OpenVPN Server Administration
+Icon=gadmin-openvpn-server
+TryExec=/usr/bin/gamin-openvpn-server
+Exec=gksu gadmin-openvpn-server
+Categories=System;Network;GTK;
+X-AppInstall-Package=gadmin-openvpn-server
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=gadmin-openvpn-server 0.1.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gadmin-openvpn-server
+X-Arch-Package-Version=0.1.6-1
+X-Arch-Package-Description=A GTK+ graphical user interface for OpenVPN (server)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://dalalven.dtdns.net/linux/
+X-Arch-Package-Votes=4

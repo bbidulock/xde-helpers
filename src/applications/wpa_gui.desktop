@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=wpa_gui
+GenericName=wpa_supplicant user interface
+Comment=Wpa_supplicant management
+Icon=wpa_gui
+TryExec=/usr/bin/kdesu
+Exec=kdesu wpa_gui
+Categories=Network;Qt;
+StartupNotify=false
+X-AppInstall-Package=kdesu
+X-AppInstall-Popcon=138
+X-AppInstall-Section=extra
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=kdesu
+X-Arch-Package-Version=5.10.0-1
+X-Arch-Package-Description=Integration with su for elevated privileges
+X-Arch-Package-Groups=kf5
+X-Arch-Package-URL=https://projects.kde.org/projects/frameworks/kdesu

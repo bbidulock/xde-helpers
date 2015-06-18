@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=jvgs
+GenericName=Platform Game
+Comment=Minimalistic platform game
+Icon=jvgs.png
+TryExec=/usr/bin/jvgs
+Exec=jvgs
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=jvgs
+X-AppInstall-Popcon=36
+X-AppInstall-Section=aur
+X-Arch-Package=jvgs 0.5.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jvgs
+X-Arch-Package-Version=0.5.1-1
+X-Arch-Package-Description=minimalistic platform game loosely based on xkcd webcomic
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://jvgs.sourceforge.net/
+X-Arch-Package-Votes=36

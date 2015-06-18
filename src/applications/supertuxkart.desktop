@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Supertuxkart
+GenericName=Supertuxkart
+GenericName[ro_RO]=Supertuxcart
+Comment=a kart racing game
+Comment[de_DE]=ein Kart-Rennspiel
+Comment[fr_FR]=un jeu de karting
+Comment[ro_RO]=un joc de curse cu carturi
+Icon=supertuxkart
+TryExec=/usr/bin/supertuxkart
+Exec=supertuxkart
+Categories=Game;3DGraphics;ActionGame;Simulation;SportsGame;
+StartupNotify=false
+X-AppInstall-Package=supertuxkart
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=supertuxkart
+X-Arch-Package-Version=0.9-1
+X-Arch-Package-Description=Kart racing game featuring Tux and his friends
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://supertuxkart.sourceforge.net/

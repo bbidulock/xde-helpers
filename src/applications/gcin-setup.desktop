@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=gcin Setup
+Name[ja]=gcin入力メソッドの設定
+Name[zh_CN]=gcin 输入法设置
+Name[zh_TW]=gcin 輸入法設定
+Comment=Setup utility for gcin input method
+Comment[ja]=gcin
+Comment[zh_CN]=gcin 设置工具
+Comment[zh_TW]=gcin 設定工具
+Icon=gcin
+TryExec=/usr/bin/gcin-setup
+Exec=gcin-setup
+Categories=Settings;
+StartupNotify=true
+X-AppInstall-Package=gcin
+X-AppInstall-Popcon=62
+X-AppInstall-Section=extra
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=gcin
+X-Arch-Package-Version=2.8.3-2
+X-Arch-Package-Description=Input method server supporting various input methods
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://hyperrate.com/dir.php?eid=67

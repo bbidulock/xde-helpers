@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=KRename
+Comment=A batch renamer
+Comment[de]=Ein Batch Umbenenner
+Icon=krename.png
+TryExec=/usr/bin/krename
+Exec=krename -caption "%c" %i %m %U
+Categories=Utility;KDE;Qt;
+StartupNotify=false
+DocPath=krename/index.html
+X-AppInstall-Package=krename
+X-AppInstall-Popcon=244
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=krename
+X-Arch-Package-Version=4.0.9-4
+X-Arch-Package-Description=A very powerful batch file renamer for KDE
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.krename.net

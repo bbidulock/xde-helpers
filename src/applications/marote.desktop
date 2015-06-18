@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Marote
+Comment=Elecraft K2 Tranciever Control - Interops with Xlog
+Icon=marote.png
+TryExec=/usr/bin/marote
+Exec=marote
+X-DCOP-ServiceType=none
+Categories=Application;HamRadio;
+MimeType=text/plain;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=marote
+X-AppInstall-Section=aur
+X-Arch-Package=marote 3.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=marote
+X-Arch-Package-Version=3.1-2
+X-Arch-Package-Description=Rig conrol program for Elecraft K2 Transceiver
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://hamsoftware.org/old_index.html
+X-Arch-Package-Votes=0

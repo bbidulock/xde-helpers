@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=LordsAWar
+GenericName=Turn-based strategy game
+Comment=Play a clone of Warlords II
+Icon=lordsawar
+TryExec=/usr/bin/lordsawar
+Exec=lordsawar
+Categories=Game;StrategyGame;GTK;
+X-AppInstall-Package=lordsawar
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=lordsawar 0.2.0-8
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lordsawar
+X-Arch-Package-Version=0.2.0-8
+X-Arch-Package-Description=A free, turn-based strategy game in spirit of Warlords II
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.nongnu.org/lordsawar/
+X-Arch-Package-Votes=13

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Anki
+GenericName=Language Learning Flashcards
+Comment=An intelligent spaced-repetition memory training program
+Icon=anki
+TryExec=/usr/bin/anki
+Exec=anki %f
+Categories=Education;Languages;KDE;
+StartupNotify=false
+X-AppInstall-Package=anki
+X-AppInstall-Popcon=74
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=anki
+X-Arch-Package-Version=2.0.32-1
+X-Arch-Package-Description=Helps you remember facts (like words/phrases in a foreign language) efficiently
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ankisrs.net/

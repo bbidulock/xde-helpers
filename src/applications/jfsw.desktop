@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Shadow Warrior
+Comment=Enhanced Shadow Warrior Port
+Icon=/home/xo/aur/jfsw/jfsw.png
+TryExec=/usr/bin/jfsw
+Exec=jfsw
+Categories=Game;ActionGame;
+X-AppInstall-Package=jfsw
+X-AppInstall-Section=aur
+X-Arch-Package=jfsw 20051009-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jfsw
+X-Arch-Package-Version=20051009-1
+X-Arch-Package-Description=An enhanced port of "Shadow Warrior"
+X-Arch-Package-URL=http://jonof.edgenetwork.org/?p=jfsw

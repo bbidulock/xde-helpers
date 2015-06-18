@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=PureData
+Icon=puredata.xpm
+TryExec=/usr/bin/pd
+Exec=/usr/bin/pd
+Categories=AudioVideo;Audio;
+StartupNotify=false
+X-AppInstall-Package=pd
+X-AppInstall-Popcon=61
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=pd
+X-Arch-Package-Version=0.46.6-1
+X-Arch-Package-Description=The Pure Data real-time music and multimedia environment
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://msp.ucsd.edu/software.html

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Firestorm Second Life viewer
+Comment=Second Life is a 3-D virtual world entirely built and owned by its residents
+Icon=/usr/share/pixmaps/firestorm_icon.png
+TryExec=/usr/bin/firestorm
+Exec=/usr/bin/firestorm
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=firestorm-opensim-bin
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=firestorm-opensim-bin 4.4.2.34167-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firestorm-opensim-bin
+X-Arch-Package-Version=4.4.2.34167-1
+X-Arch-Package-Description=Second Life is a 3-D virtual world entirely built and owned by
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.firestormviewer.org/
+X-Arch-Package-Votes=2
+Aliases=firestorm;

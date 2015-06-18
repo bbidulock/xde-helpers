@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Ninja IDE
+Comment=A Python IDE
+Icon=ninja-ide
+TryExec=/usr/bin/ninja-ide
+Exec=ninja-ide
+NoDisplay=true
+Hidden=true
+Categories=Development;IDE;Python;
+MimeType=application/x-python;application/x-ninja-ide;
+StartupNotify=true
+X-AppInstall-Package=ninja-ide-beta
+X-AppInstall-Section=aur
+X-Arch-Package=ninja-ide-beta 2.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ninja-ide-beta
+X-Arch-Package-Version=2.0-3
+X-Arch-Package-Description=cross-platform integrated development environment specially design to build Python Applications (beta version)
+X-Arch-Package-URL=http://ninja-ide.org/
+Aliases=ningja-ide;

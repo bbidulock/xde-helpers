@@ -1,5 +1,5 @@
 [Desktop Entry]
-Type=Application
+Type=XSession
 Name=spectrwm
 GenericName=Window Manager
 GenericName[fr]=Gestionnaire de Fenêtres
@@ -15,16 +15,17 @@ X-GNOME-Autostart-Notify=false
 X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-WMName=spectrwm
-X-AppInstall-Package=spectrwm-git
-X-AppInstall-Section=custom
-X-Arch-Package=spectrwm-git 20150422-1
-X-Arch-Package-Repository=custom
-X-Arch-Package-Name=spectrwm-git
-X-Arch-Package-Version=20150422-1
-X-Arch-Package-Description=A minimalistic dynamic tiling window manager that tries to stay out of the way.
+X-AppInstall-Package=spectrwm
+X-AppInstall-Section=community
+X-Arch-Package=spectrwm 2.7.2-1
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=spectrwm
+X-Arch-Package-Version=2.7.2-1
+X-Arch-Package-Description=A minimalistic automatic tiling window manager that tries to stay out of the way.
 X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://www.spectrwm.org
 DesktopNames=SPECTRWM
+X-LightDM-DesktopName=spectrwm
 Actions=XDE;
 
 [Desktop Action XDE]
@@ -34,6 +35,7 @@ Icon=xde
 TryExec=/usr/bin/xde-session
 Exec=xde-session -desktop SPECTRWM -startwm spectrwm
 DesktopNames=XDE:SPECTRWM
+X-LightDM-DesktopName=xde
 
 [Window Manager]
 Name=spectrwm

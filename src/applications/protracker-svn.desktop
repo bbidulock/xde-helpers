@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=ProTracker
+GenericName=ProTracker Music Program
+Comment=Tracker
+Icon=protracker
+TryExec=/usr/bin/protracker
+Exec=protracker
+NoDisplay=true
+Categories=Music;
+X-AppInstall-Package=protracker-svn
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=protracker-svn r996-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=protracker-svn
+X-Arch-Package-Version=r996-2
+X-Arch-Package-Description=Rewrite of ProTracker v2.3D (Amiga)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/protracker/
+X-Arch-Package-Votes=1
+Aliases=protracker;

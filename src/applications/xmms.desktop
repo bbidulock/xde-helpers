@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=XMMS
+GenericName=Audio Player
+Comment=Play music
+Comment[de]=Musik abspielen
+Comment[hu]=Zene lejátszása
+Icon=xmms
+TryExec=/usr/bin/xmms
+Exec=xmms %U
+Categories=Application;AudioVideo;Player;GTK;
+MimeType=application/x-ogg;audio/mp3;audio/mpeg;audio/mpegurl;audio/prs.sid;audio/x-flac;audio/x-it;audio/x-mod;audio/x-mp3;audio/x-mpeg;audio/x-mpegurl;audio/x-ms-wma;audio/x-musepack;audio/x-s3m;audio/x-scpls;audio/x-stm;audio/x-wav;audio/x-xm;application/ogg;audio/x-vorbis+ogg;
+StartupNotify=false
+X-AppInstall-Package=xmms
+X-AppInstall-Popcon=3
+X-AppInstall-Section=custom
+X-Arch-Package-Repository=custom
+X-Arch-Package-Name=xmms
+X-Arch-Package-Version=1.2.11-7
+X-Arch-Package-Description=The X MultiMedia System - a multimedia player
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://legacy.xmms2.org/
+X-Arch-Package-Votes=3

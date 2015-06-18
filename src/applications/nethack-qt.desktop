@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Qt NetHack
+GenericName=NetHack (Qt interface)
+Icon=nethack
+TryExec=/usr/games/nethack-qt
+Exec=/usr/games/nethack-qt
+Categories=Application;Game;AdventureGame;
+StartupNotify=false
+X-AppInstall-Package=nethack-qt
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nethack-qt
+X-Arch-Package-Version=3.4.3-3
+X-Arch-Package-Description=A single player dungeon exploration game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.nethack.org/index.html
+X-Arch-Package-Votes=4

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=XDigger
+Comment=A Boulder Dash clone that was ported from KC85 to Unix/X11
+Icon=xdigger
+TryExec=/usr/bin/xdigger
+Exec=xdigger
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=xdigger
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=xdigger 1.0.10-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xdigger
+X-Arch-Package-Version=1.0.10-2
+X-Arch-Package-Description=A Boulder Dash clone that was ported from KC85 to Unix/X11
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.happypenguin.org/show?XDigger
+X-Arch-Package-Votes=1

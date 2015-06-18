@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=YAPET
+GenericName=Password Encryption
+Comment=Yet Another Password Encryption Tool
+TryExec=/usr/bin/yapet
+Exec=/usr/bin/yapet %f
+Terminal=true
+Categories=Utility;Security;ConsoleOnly;
+StartupNotify=false
+X-AppInstall-Package=yapet
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=yapet
+X-Arch-Package-Version=1.0-1
+X-Arch-Package-Description=Yet Another Password Encryption Tool
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.guengel.ch/myapps/yapet/
+X-Arch-Package-Votes=9

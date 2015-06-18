@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Dwarf Fortress
+GenericName=Dwarf Fortress
+Comment=A single-player fantasy game.
+Icon=dwarffortress
+TryExec=/usr/bin/dwarffortress
+Exec=dwarffortress
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=dwarffortress-mayday
+X-AppInstall-Popcon=28
+X-AppInstall-Section=aur
+X-Arch-Package=dwarffortress-mayday 0.40.13-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dwarffortress-mayday
+X-Arch-Package-Version=0.40.13-1
+X-Arch-Package-Description=A single-player fantasy game. You control a dwarven outpost or
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://mayday.w.staszic.waw.pl/df.php
+X-Arch-Package-Votes=28
+Aliases=dwarffortress;

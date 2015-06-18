@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Qspeedtest
+Comment=A GUI tool written in C++ and Qt for evaluating the latency and speed of an Internet or LAN access by pinging and concurrently downloading test files from a customizable list of target servers.
+Icon=/usr/share/qspeedtest/logo.png
+TryExec=/usr/bin/qspeedtest
+Exec=qspeedtest
+Categories=Application;Network;
+X-AppInstall-Package=qspeedtest-svn
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=qspeedtest-svn 53-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qspeedtest-svn
+X-Arch-Package-Version=53-2
+X-Arch-Package-Description=A GUI tool written in C++ and Qt for evaluating the latency
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/qspeedtest/
+X-Arch-Package-Votes=6

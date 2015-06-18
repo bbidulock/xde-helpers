@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=HaiQ
+GenericName=Open Source Development Environment for QT4
+Icon=/usr/share/pixmaps/haiq.png
+TryExec=/usr/bin/haiq
+Exec=haiq
+NoDisplay=true
+Categories=Development;Qt;
+StartupNotify=false
+InitialPreference=10
+X-AppInstall-Package=haiq-svn
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=haiq-svn 358-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=haiq-svn
+X-Arch-Package-Version=358-2
+X-Arch-Package-Description=Open Source Development Environment for Qt 4 - SVN Version
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://groups.google.com/group/haiq
+X-Arch-Package-Votes=2
+Aliases=haiq;

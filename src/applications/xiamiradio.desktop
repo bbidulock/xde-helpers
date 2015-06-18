@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=0.01
+Type=Application
+Name=虾米电台
+Comment=A Chinese online music streaming application like Last.fm
+Icon=/usr/share/icons/xiamiradio/icon_256.png
+TryExec=/usr/bin/xiamiradio
+Exec=xiamiradio
+Categories=Network;
+X-AppInstall-Package=xiamiradio
+X-AppInstall-Section=aur
+X-Arch-Package=xiamiradio 0.01-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xiamiradio
+X-Arch-Package-Version=0.01-1
+X-Arch-Package-Description=a Chinese online music streaming application like Last.fm
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.xiami.com/software/xiamiair
+X-Arch-Package-Votes=0

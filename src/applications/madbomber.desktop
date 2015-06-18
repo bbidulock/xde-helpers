@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Mad Bomber
+GenericName=Catch the Bombs
+Comment=A clone of the classic Atari 2600 video game Kaboom
+Icon=madbomber
+TryExec=/usr/bin/madbomber
+Exec=madbomber
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=madbomber
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=madbomber 0.2.5-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=madbomber
+X-Arch-Package-Version=0.2.5-3
+X-Arch-Package-Description=A clone of the classic Atari 2600 video game Kaboom
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.newbreedsoftware.com/madbomber/
+X-Arch-Package-Votes=2

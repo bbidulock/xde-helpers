@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Densy-kassa
+Comment=Densy-kassa
+Icon=/usr/share/pixmaps/dnc.png
+TryExec=/usr/bin/reshka
+Exec=/usr/bin/reshka
+NoDisplay=true
+Categories=Application;
+X-AppInstall-Package=dnc-kassa
+X-AppInstall-Section=aur
+X-Arch-Package=dnc-kassa 20120517-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dnc-kassa
+X-Arch-Package-Version=20120517-1
+X-Arch-Package-Description=Densi-kassa: API for Russian buisness hardvare platform and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://dnc-soft.ru
+X-Arch-Package-Votes=0
+Aliases=dnc;

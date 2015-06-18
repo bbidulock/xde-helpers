@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Remotebox
+GenericName=Remotebox
+Comment=A client for the virtualization tool VirtualBox
+Icon=remotebox.png
+TryExec=/usr/bin/remotebox
+Exec=remotebox
+Categories=System;
+X-AppInstall-Package=remotebox
+X-AppInstall-Popcon=16
+X-AppInstall-Section=aur
+X-Arch-Package=remotebox 1.9-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=remotebox
+X-Arch-Package-Version=1.9-1
+X-Arch-Package-Description=Open Source VirtualBox Client with Remote Management
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://remotebox.knobgoblin.org.uk/
+X-Arch-Package-Votes=16
+Value=1.0

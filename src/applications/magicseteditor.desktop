@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Magic Set Editor
+Comment=Edit your own Magic Cards ;)
+Icon=/usr/local/share/magicseteditor/resource/icon/app.ico
+TryExec=/usr/bin/magicseteditor
+Exec=magicseteditor
+Categories=Graphics;Applications;
+StartupNotify=false
+X-AppInstall-Package=mse2
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=mse2 0.3.8-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mse2
+X-Arch-Package-Version=0.3.8-1
+X-Arch-Package-Description=Magic Set Editor is a program in which you can enter your own
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://magicseteditor.sourceforge.net/welcome
+X-Arch-Package-Votes=3

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Osmose
+GenericName=A Sega Master System emulator
+Icon=/usr/share/pixmaps/osmose.png
+TryExec=/usr/bin/osmose
+Exec=osmose
+Categories=System;Emulator;
+X-AppInstall-Package=osmose
+X-AppInstall-Popcon=17
+X-AppInstall-Section=aur
+X-Arch-Package=osmose 0.9.96-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=osmose
+X-Arch-Package-Version=0.9.96-4
+X-Arch-Package-Description=A Sega Master System / Gamegear console emulator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://bcz.asterope.fr
+X-Arch-Package-Votes=17

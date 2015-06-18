@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=CeWe FotoLab Fotosvet4
+Comment=Make an order at FotoLab using this offline client
+Icon=mullerfoto.xpm
+TryExec=/usr/bin/Fotosvet4
+Exec=Fotosvet4
+Categories=Graphics;Photography;
+X-AppInstall-Package=mullerfoto-fotostar_cz
+X-AppInstall-Section=aur
+X-Arch-Package=mullerfoto-fotostar_cz 4.6.8-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mullerfoto-fotostar_cz
+X-Arch-Package-Version=4.6.8-2
+X-Arch-Package-Description=an offline client for uploading and ordering photos at
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://foto-sberna.fotolab.cz/objednat-foto-komfortni-software-zdarma.html
+X-Arch-Package-Votes=0

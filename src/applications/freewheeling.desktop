@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=FreeWheeling
+Comment=live looping instrument
+Icon=_usr_share_pixmaps_freewheeling
+TryExec=/usr/bin/fweelin
+Exec=/usr/bin/fweelin
+Categories=Application;AudioVideo;
+StartupNotify=false
+X-AppInstall-Package=freewheeling
+X-AppInstall-Popcon=15
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=freewheeling
+X-Arch-Package-Version=0.6-1
+X-Arch-Package-Description=Freewheeling is a new way to be In The Muse-ical Moment. It's
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://freewheeling.sourceforge.net/
+X-Arch-Package-Votes=15

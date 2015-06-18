@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Frets On Fire
+Comment=A great GuitarHero clone!
+Icon=/usr/share/pixmaps/fretsonfire.png
+TryExec=/usr/bin/fretsonfire
+Exec=fretsonfire
+NoDisplay=true
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=fretsonfire-svn
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package=fretsonfire-svn 178-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fretsonfire-svn
+X-Arch-Package-Version=178-1
+X-Arch-Package-Description=A game of musical skill and fast fingers. Play guitar with the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://fretsonfire.sourceforge.net/
+X-Arch-Package-Votes=11
+Aliases=fretsonfire;

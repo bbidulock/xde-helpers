@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=ePSXe
+GenericName=ePSXe
+Comment=Enhanced PSX emulator
+Icon=/opt/epsxe/pixmaps/epsxe.png
+TryExec=/opt/epsxe/epsxe
+Exec=/opt/epsxe/epsxe
+Categories=Game;
+X-AppInstall-Package=epsxe
+X-AppInstall-Popcon=163
+X-AppInstall-Section=aur
+X-Arch-Package=epsxe 1.9.25-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=epsxe
+X-Arch-Package-Version=1.9.25-3
+X-Arch-Package-Description=Enhanced PSX emulator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://epsxe.com
+X-Arch-Package-Votes=163

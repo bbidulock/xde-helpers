@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Dwarf Fortress Graphics Edition
+GenericName=DFG
+Icon=/usr/share/pixmaps/dfg/miner32.ico
+TryExec=/usr/bin/dwarffortress
+Exec=dwarffortress
+Categories=Application;Game;
+X-AppInstall-Package=dfg
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=dfg 34_11-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dfg
+X-Arch-Package-Version=34_11-1
+X-Arch-Package-Description=Unofficial semi-graphic version of Dwarf Fortress
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://mayday.w.staszic.waw.pl/df.php
+X-Arch-Package-Votes=8

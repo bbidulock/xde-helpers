@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=wallproxy
+GenericName=WallProxy
+Comment=A http proxy based on GAppProxy
+Icon=/usr/share/pixmaps/wallproxy.png
+TryExec=/opt/wallproxy/local/wallproxy
+Exec=/opt/wallproxy/local/wallproxy
+Terminal=true
+Categories=Application;Network;
+X-AppInstall-Package=wallproxy-svn
+X-AppInstall-Section=aur
+X-Arch-Package=wallproxy-svn 89-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wallproxy-svn
+X-Arch-Package-Version=89-1
+X-Arch-Package-Description=A http proxy based on GAppProxy.
+X-Arch-Package-URL=http://code.google.com/p/wallproxy/

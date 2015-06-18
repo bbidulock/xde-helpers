@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=0.4.0
+Type=Application
+Name=Evolvotron
+Comment=Interactive image generator
+TryExec=/usr/bin/evolvotron
+Exec=evolvotron
+Categories=Graphics;2DGraphics;
+StartupNotify=false
+X-AppInstall-Package=evolvotron
+X-AppInstall-Popcon=15
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=evolvotron
+X-Arch-Package-Version=0.6.3-1
+X-Arch-Package-Description=An interactive generative art application
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.bottlenose.demon.co.uk/share/evolvotron/
+X-Arch-Package-Votes=3

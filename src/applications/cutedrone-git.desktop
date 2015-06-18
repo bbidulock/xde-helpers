@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0.0
+Type=Application
+Name=CuteDrone Example
+GenericName=CuteDroneEx
+Comment=Example application for cutedrone sdk
+TryExec=/usr/bin/cutedrone
+Exec=cutedrone
+NoDisplay=true
+Categories=Utility;
+X-AppInstall-Package=cutedrone-git
+X-AppInstall-Section=aur
+X-Arch-Package=cutedrone-git 1.0.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cutedrone-git
+X-Arch-Package-Version=1.0.0-1
+X-Arch-Package-Description=AR Drone 2.0 SDK written in C++ and QT
+X-Arch-Package-Groups=devel;
+X-Arch-Package-URL=https://burntbunch.org:1337/burntbunch/cutedrone
+Aliases=cutedrone;

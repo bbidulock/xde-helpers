@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Tickvue
+GenericName=Real-time stock tracker
+Icon=/usr/share/pixmaps/tickvue.png
+TryExec=/usr/bin/tickvue
+Exec=tickvue
+Categories=Office;Finance;
+X-AppInstall-Package=tickvue
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=tickvue 0.13.05-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tickvue
+X-Arch-Package-Version=0.13.05-3
+X-Arch-Package-Description=Nearly real-time stock and portfolio tracker. Queries data
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://tickvue.sourceforge.net/
+X-Arch-Package-Votes=2

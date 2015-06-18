@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=ParaView
+GenericName=Data Viewer
+Comment=ParaView allows visualization of large data sets
+Icon=paraview
+TryExec=/usr/bin/paraview
+Exec=/usr/bin/paraview
+Categories=Graphics;
+X-AppInstall-Package=paraview-salome
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=paraview-salome 4.1.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=paraview-salome
+X-Arch-Package-Version=4.1.0-3
+X-Arch-Package-Description=Parallel Visualization Application using VTK - This version is
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.paraview.org
+X-Arch-Package-Votes=3

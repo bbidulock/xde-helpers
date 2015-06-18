@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=NmapSI4 - User mode
+Comment=Is a Qt4 interface for nmap scanner
+Comment[it]=Interfaccia Qt4 per nmap
+Comment[ru]=Qt4 интерфейс для сканера nmap
+Comment[uk]=Qt4 інтерфейс для сканера nmap
+Icon=_usr_share_icons_hicolor_32x32_apps_nmapsi4
+TryExec=/usr/bin/nmapsi4
+Exec=nmapsi4
+Categories=Application;System;Security;Qt;
+StartupNotify=false
+X-AppInstall-Package=nmapsi4
+X-AppInstall-Popcon=71
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nmapsi4
+X-Arch-Package-Version=0.4.1-1
+X-Arch-Package-Description=Qt-based GUI for nmap
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.nmapsi4.org/
+X-Arch-Package-Votes=71

@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Mercury 2.0 RC
+GenericName=Mercury 2.0 RC
+Comment=JAVA MSN Messenger client
+Icon=mercurylogo
+TryExec=/usr/bin/mercury
+Exec=mercury
+Categories=Network;InstantMessaging;
+X-AppInstall-Package=mercury2
+X-AppInstall-Section=aur
+X-Arch-Package=mercury2 rc8a-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mercury2
+X-Arch-Package-Version=rc8a-2
+X-Arch-Package-Description=Java Based MSN client.
+X-Arch-Package-URL=http://mercury.im

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Docky
+Comment=The finest dock no money can buy.
+Icon=docky
+TryExec=/usr/bin/docky
+Exec=docky
+Categories=Utility;
+StartupNotify=false
+X-AppInstall-Package=docky
+X-AppInstall-Popcon=171
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=docky
+X-Arch-Package-Version=2.2.0-4
+X-Arch-Package-Description=Full fledged dock application that makes opening common applications and managing windows easier and quicker
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://wiki.go-docky.com/

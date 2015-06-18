@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=QPSPManager
+Comment=PBP File Manager
+Icon=/usr/share/icons/qpspmanager.ico
+TryExec=/usr/bin/QPSPManager
+Exec=QPSPManager
+Categories=Application;Utility;
+X-AppInstall-Package=qpspmanager
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=qpspmanager 2.0.2-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qpspmanager
+X-Arch-Package-Version=2.0.2-3
+X-Arch-Package-Description=PBP file manager for Linux
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://qpspmanager.sourceforge.net
+X-Arch-Package-Votes=4

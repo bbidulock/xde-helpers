@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Ear Candy
+Comment=Gracefully fade applications volume in and out
+Icon=earsLabel
+TryExec=/usr/bin/earcandy
+Exec=earcandy
+Categories=Utility;
+StartupNotify=true
+X-AppInstall-Package=earcandy
+X-AppInstall-Popcon=28
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=earcandy
+X-Arch-Package-Version=0.9-3
+X-Arch-Package-Description=Automatic pulseaudio volume control. A sound level manager
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://launchpad.net/earcandy
+X-Arch-Package-Votes=31

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Asylum
+GenericName=Asylum
+Comment=A platform shooter set in the surreal world of an instable mind.
+Icon=asylum
+TryExec=/usr/bin/asylum
+Exec=asylum
+Categories=Game;ActionGame;ArcadeGame;
+X-AppInstall-Package=asylum
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=asylum 0.3.2-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=asylum
+X-Arch-Package-Version=0.3.2-3
+X-Arch-Package-Description=A platform shooter set in the surreal world of an unstable
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sdl-asylum.sourceforge.net/
+X-Arch-Package-Votes=3

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Gliv
+Comment=View images using gdk-pixbuf and OpenGL
+Icon=gliv
+TryExec=/usr/bin/gliv
+Exec=gliv
+Categories=Graphics;
+StartupNotify=false
+X-AppInstall-Package=gliv
+X-AppInstall-Popcon=70
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=gliv
+X-Arch-Package-Version=1.9.7-3
+X-Arch-Package-Description=OpenGL image viewer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://guichaz.free.fr/gliv/

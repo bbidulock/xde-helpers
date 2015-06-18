@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=High Fidelity Interface
+Comment=Decentralized virtual world viewer
+Icon=/usr/share/pixmaps/interface.png
+TryExec=/opt/hifi/interface/interface
+Exec=/opt/hifi/interface/interface
+NoDisplay=true
+Categories=Game;Network;3DGraphics;Qt;
+StartupNotify=true
+X-AppInstall-Package=hifi-git
+X-AppInstall-Section=aur
+X-Arch-Package=hifi-git r22568.f1f0878-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=hifi-git
+X-Arch-Package-Version=r22568.f1f0878-1
+X-Arch-Package-Description=Open, decentralized virtual worlds using sensors to control
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/highfidelity/hifi
+X-Arch-Package-Votes=0
+Aliases=interface;

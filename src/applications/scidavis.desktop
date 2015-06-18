@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=SciDAVis
+Comment=Application for scientific data analysis and visualization
+Comment[de]=Programm zur wissenschaftlichen Datenauswertung und Visualisierung
+Comment[fr]=Outil d'analyse scientifique de données
+Comment[pt_BR]=Programa para visualização e análise da dados científico
+Icon=scidavis
+TryExec=/usr/bin/scidavis
+Exec=scidavis
+Categories=Graphics;Science;Math;Physics;Qt;
+MimeType=application/x-sciprj;
+StartupNotify=false
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=scidavis
+X-AppInstall-Popcon=34
+X-AppInstall-Section=aur
+X-AppInstall-Architectures=amd64,hppa,i386,ia64,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=scidavis
+X-Arch-Package-Version=1.D8-3
+X-Arch-Package-Description=Application for Scientific Data Analysis and Visualization,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://scidavis.sourceforge.net/
+X-Arch-Package-Votes=35

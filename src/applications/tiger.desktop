@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Tiger UNIX security tool
+Comment=Tiger UNIX security tool (root)
+TryExec=/usr/bin/su-to-root
+Exec=su-to-root -c '/usr/sbin/tiger'
+Terminal=true
+Categories=System;
+StartupNotify=true
+X-AppInstall-Package=tiger
+X-AppInstall-Popcon=31
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tiger
+X-Arch-Package-Version=3.2.3-3
+X-Arch-Package-Description=A security scanner, that checks computer for known problems.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.nongnu.org/tiger/
+X-Arch-Package-Votes=31

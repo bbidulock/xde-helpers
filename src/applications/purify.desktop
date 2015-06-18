@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=purify
+Comment=ROM purifier
+Icon=higan
+TryExec=/usr/bin/purify
+Exec=/usr/bin/purify
+Categories=Game;Emulator;
+X-AppInstall-Package=purify
+X-AppInstall-Section=aur
+X-Arch-Package=purify 02-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=purify
+X-Arch-Package-Version=02-2
+X-Arch-Package-Description=ROM purifier for the higan emulator
+X-Arch-Package-URL=http://byuu.org/

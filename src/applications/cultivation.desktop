@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Cultivation
+Comment=A social simulation game by Jason Rohrer
+Icon=cultivation
+TryExec=/usr/bin/cultivation
+Exec=cultivation
+Categories=Game;Simulation;
+X-AppInstall-Package=cultivation
+X-AppInstall-Popcon=24
+X-AppInstall-Section=aur
+X-Arch-Package=cultivation 9-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cultivation
+X-Arch-Package-Version=9-1
+X-Arch-Package-Description=A social simulation game by Jason Rohrer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://cultivation.sourceforge.net/
+X-Arch-Package-Votes=13

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=ProjectCenter
+Name[bg]=Среда за разработка (ProjectCenter)
+Comment=The Official GNUstep IDE
+Comment[bg]=Официалната интегрирана среда за разработка за GNUstep
+Icon=_usr_share_pixmaps_ProjectCenter
+TryExec=/usr/bin/ProjectCenter
+Exec=ProjectCenter
+Categories=Development;IDE;
+StartupNotify=false
+X-AppInstall-Package=projectcenter
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=projectcenter
+X-Arch-Package-Version=0.6.0-1
+X-Arch-Package-Description=GNUstep integrated development environment
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.gnustep.org/
+X-Arch-Package-Votes=7

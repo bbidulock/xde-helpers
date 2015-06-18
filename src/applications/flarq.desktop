@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Flarq
+GenericName=Fldigi ARQ Utility
+Comment=Amateur Radio Data Transfer with ARQ
+Icon=flarq
+TryExec=/usr/bin/flarq
+Exec=flarq
+Categories=Network;HamRadio;
+StartupNotify=false
+X-AppInstall-Package=fldigi
+X-AppInstall-Popcon=22
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fldigi
+X-Arch-Package-Version=3.22.08-1
+X-Arch-Package-Description=Digital Modem Program for Amateur Radio
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://w1hkj.com/Fldigi.html
+X-Arch-Package-Votes=22

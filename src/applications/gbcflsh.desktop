@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Gameboy Cart Flahser
+Comment=Software for reading and writing ROMs from/to Gameboy Carts.
+Icon=gbcflsh.xpm
+TryExec=/usr/bin/gbcflsh
+Exec=gbcflsh -ultraspeed
+Categories=Utility;
+StartupNotify=true
+X-AppInstall-Package=gbcflsh
+X-AppInstall-Section=aur
+X-Arch-Package=gbcflsh 1.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gbcflsh
+X-Arch-Package-Version=1.1-2
+X-Arch-Package-Description=GameBoy Cart Flasher
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/gbcf
+X-Arch-Package-Votes=0

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Insanity
+Comment=Insanity is a simple but complete XMMS2 client
+Icon=xmms2.svg
+TryExec=/usr/bin/insanity
+Exec=insanity
+Categories=Application;AudioVideo;Audio;Player;Music;GNOME;
+StartupNotify=true
+X-AppInstall-Package=insanity-git
+X-AppInstall-Section=aur
+X-Arch-Package=insanity-git 20100808-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=insanity-git
+X-Arch-Package-Version=20100808-2
+X-Arch-Package-Description=Insanity is a simple but complete XMMS2 client. (Yes, sounds
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://xmms2.org/wiki/Client:Insanity
+X-Arch-Package-Votes=0

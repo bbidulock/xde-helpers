@@ -1,0 +1,28 @@
+[Desktop Entry]
+Type=Application
+Name=Audex
+GenericName=Audio CD extraction tool
+GenericName[de]=Audio-CDs auslesen
+GenericName[fr]=Logiciel d'extraction de CD audio
+GenericName[it]=Estrazione e codifica CDDA
+Comment=Extract audio data from your audio cd's
+Comment[de]=Rippt Audio-CDs
+Comment[fr]=Extrait et encode les données de vos CD audio.
+Comment[it]=Estrae e codifica le canzoni dai tuoi CD audio
+Icon=audex
+TryExec=/usr/bin/audex
+Exec=audex
+X-DCOP-ServiceName=audex
+X-DCOP-ServiceType=Unique
+Categories=AudioVideo;Audio;KDE;Qt;
+MimeType=application/x-audex;
+StartupNotify=false
+X-AppInstall-Package=audex
+X-AppInstall-Popcon=58
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=audex
+X-Arch-Package-Version=0.79-2
+X-Arch-Package-Description=A CDDA extraction tool with a ftp upload function for KDE
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kde-apps.org/content/show.php?content=77125

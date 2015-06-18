@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Phobia III
+GenericName=Phobia III
+Comment=Shoot through a tons of bug, blood and guts all over the place. PhobiaIII is a fast paced Third Person Shooter.
+Icon=/usr/share/pixmaps/Phobia3.png
+TryExec=/usr/bin/phobia3
+Exec=phobia3
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=phobia3
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=phobia3 1.1-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=phobia3
+X-Arch-Package-Version=1.1-3
+X-Arch-Package-Description=Shoot through a tons of bug, blood and guts all over the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.redlynx.com/phobiaIII/index.html
+X-Arch-Package-Votes=5

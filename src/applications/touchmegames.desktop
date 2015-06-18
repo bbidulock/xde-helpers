@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Touchmegames
+GenericName=Touchmegames
+Comment=Collection of strategy, card and misc games.
+Icon=/usr/share/touchmegames/images/tmgicon.png
+TryExec=/usr/bin/touchmegames
+Exec=touchmegames
+Categories=Application;Game;BoardGame;
+StartupNotify=false
+X-AppInstall-Package=touchmegames
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=touchmegames 0.2.5-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=touchmegames
+X-Arch-Package-Version=0.2.5-2
+X-Arch-Package-Description=Collection of strategy, card and misc games.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://touchmegames.sourceforge.net/
+X-Arch-Package-Votes=2

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Ruby Browser
+Comment=Browse Ruby Classes and Modules
+Icon=_usr_share_rbbr_icon
+TryExec=/usr/bin/rbbr
+Exec=rbbr
+Categories=Application;Development;
+StartupNotify=false
+X-AppInstall-Package=rbbr
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rbbr
+X-Arch-Package-Version=0.6.0-2
+X-Arch-Package-Description=Ruby Meta-Level Information Browser
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ruby-gnome2.sourceforge.jp
+X-Arch-Package-Votes=4

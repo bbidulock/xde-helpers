@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=bmon
+Comment=Bandwidth monitor
+Comment[en]=Bandbreiten-Monitor
+TryExec=/usr/bin/bmon
+Exec=bmon
+Terminal=true
+Categories=Application;Network;
+StartupNotify=false
+X-AppInstall-Package=bmon
+X-AppInstall-Popcon=241
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=bmon
+X-Arch-Package-Version=3.6-2
+X-Arch-Package-Description=Portable bandwidth monitor and rate estimator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://github.com/tgraf/bmon/

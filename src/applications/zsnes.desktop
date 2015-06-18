@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=zsnes
+Comment=Super Nintendo Entertainment System emulator
+Icon=zsnes
+TryExec=/usr/bin/zsnes
+Exec=zsnes
+Categories=Game;2DGraphics;Emulator;
+X-AppInstall-Package=zsnes
+X-AppInstall-Section=community
+X-AppInstall-Architectures=i386
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=zsnes
+X-Arch-Package-Version=1.51-17
+X-Arch-Package-Description=Super Nintendo emulator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.zsnes.com/

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=NetPanzer
+GenericName=Realtime Strategy Game
+Comment=Online multiplayer tactical warfare game
+Icon=netpanzer
+TryExec=/usr/bin/netpanzer
+Exec=netpanzer
+Categories=Game;StrategyGame;
+StartupNotify=false
+X-AppInstall-Package=netpanzer
+X-AppInstall-Popcon=12
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=netpanzer
+X-Arch-Package-Version=0.8.4-1
+X-Arch-Package-Description=An online multiplayer tactical warfare game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.netpanzer.org/
+X-Arch-Package-Votes=12

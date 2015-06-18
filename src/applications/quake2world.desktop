@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application;Games;
+Name=quake2world
+GenericName=quake2world
+Comment=quake2world
+Icon=quakee2world.png
+TryExec=/usr/bin/quake2world
+Exec=quake2world
+StartupWMClass=Qauke2world
+X-AppInstall-Package=quake2world-client-svn
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=quake2world-client-svn 1461-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=quake2world-client-svn
+X-Arch-Package-Version=1461-1
+X-Arch-Package-Description=A free, stand-alone, multiplayer-only iteration of Quake2
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://jdolan.dyndns.org/trac/wiki/Quake2World
+X-Arch-Package-Votes=5
+X-Enlightenment-IconClass=Quake2world

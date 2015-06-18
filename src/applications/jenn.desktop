@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Jenn3d
+Comment=A toy for visualizing Coxeter polytopes
+Icon=jenn
+TryExec=/usr/bin/jenn
+Exec=jenn
+X-MultipleArgs=false
+Categories=Science;DataVisualization;
+X-AppInstall-Package=jenn3d-git
+X-AppInstall-Section=aur
+X-Arch-Package=jenn3d-git r21.d2eae24-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jenn3d-git
+X-Arch-Package-Version=r21.d2eae24-2
+X-Arch-Package-Description=A toy for visualizing Coxeter polytopes
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.math.cmu.edu/~fho/jenn/
+X-Arch-Package-Votes=0

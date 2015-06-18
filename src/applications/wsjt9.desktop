@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=WSJT9
+Comment=Weak Signal Communication by K1JT
+Icon=wsjt9.png
+TryExec=/opt/wsjt9/WSJT9/startwsjt
+Exec=/opt/wsjt9/WSJT9/startwsjt
+X-DCOP-ServiceType=none
+Categories=Application;HamRadio;
+MimeType=text;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=wsjt9
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=wsjt9 9.0r2136-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wsjt9
+X-Arch-Package-Version=9.0r2136-1
+X-Arch-Package-Description=Weak Signal Communication by K1JT (debian beta release)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://physics.princeton.edu/pulsar/K1JT/wsjt.html
+X-Arch-Package-Votes=1

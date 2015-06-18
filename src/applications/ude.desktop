@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=Ude
+Comment=The ude window manager
+TryExec=/usr/bin/uwm
+Exec=uwm
+StartupNotify=false
+X-AppInstall-Package=ude
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=ude
+X-Arch-Package-Version=0.2.11-2
+X-Arch-Package-Description=The ultimate window manager for UDE
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://udeproject.sourceforge.net/index.shtml

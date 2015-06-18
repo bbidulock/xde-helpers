@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Fish Fillets
+Comment=Puzzle game about witty fish saving the world sokoban-style
+Comment[ro]=Un puzzle cu un pește inteligent care salvează lumea în stil sokoban
+Icon=fillets-ng
+TryExec=/usr/bin/fillets
+Exec=fillets
+Categories=Game;LogicGame;
+StartupNotify=false
+X-AppInstall-Package=fillets-ng
+X-AppInstall-Popcon=43
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=fillets-ng
+X-Arch-Package-Version=1.0.1-5
+X-Arch-Package-Description=Port of the wonderful puzzle game Fish Fillets
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://fillets.sf.net/

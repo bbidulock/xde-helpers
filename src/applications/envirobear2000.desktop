@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Enviro-Bear 2000
+GenericName=Enviro-Bear 2000
+Comment=A game where you play as a bear who must fatten up to prepare for a long winter hibernation.
+Icon=/usr/share/pixmaps/envirobear2000.png
+TryExec=/usr/bin/envirobear2000
+Exec=envirobear2000
+Categories=Game;
+X-AppInstall-Package=envirobear2000
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=envirobear2000 0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=envirobear2000
+X-Arch-Package-Version=0-3
+X-Arch-Package-Description=A game where you play as a bear who must fatten up to prepare
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gamejolt.com/games/action/enviro-bear-2000/211/
+X-Arch-Package-Votes=1

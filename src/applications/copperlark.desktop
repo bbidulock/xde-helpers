@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Copper Lark
+Comment=Copper Lark P2P Cryptocurrency
+TryExec=/usr/bin/copperlark
+Exec=/usr/bin/copperlark
+Categories=Office;
+MimeType=x-scheme-handler/coppercoin;
+X-AppInstall-Package=copperlark
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=copperlark 0.1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=copperlark
+X-Arch-Package-Version=0.1.0-1
+X-Arch-Package-Description=Copper Lark is a peer-to-peer network based digital currency
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://copperlark.com/
+X-Arch-Package-Votes=2

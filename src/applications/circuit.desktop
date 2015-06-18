@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Circuit Simulator
+GenericName=Circuit Simulator
+Icon=circuit
+TryExec=/usr/bin/circuit
+Exec=circuit
+Categories=Education;Science;Java;
+X-AppInstall-Package=circuit
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=circuit 1.6i-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=circuit
+X-Arch-Package-Version=1.6i-1
+X-Arch-Package-Description=Electronic circuit simulator written in Java by falstad.com
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.falstad.com/circuit/
+X-Arch-Package-Votes=9

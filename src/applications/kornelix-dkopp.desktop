@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=dkopp
+GenericName=Copy files to DVD
+Comment=Full and incremental backup to DVD with verify
+Icon=/usr/share/dkopp/icons/dkopp.png
+TryExec=/usr/bin/dkopp
+Exec=/usr/bin/dkopp
+Categories=Utility;
+StartupNotify=false
+X-AppInstall-Package=dkopp
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dkopp
+X-Arch-Package-Version=6.7-1
+X-Arch-Package-Description=A backup program using DVDs
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.kornelix.com/dkopp
+X-Arch-Package-Votes=5

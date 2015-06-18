@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=OpenERP Client
+Comment=Enterprise Resource Management (client)
+Icon=openerp-client
+TryExec=/usr/bin/openerp-client
+Exec=openerp-client
+Categories=Application;Network;
+X-AppInstall-Package=openerp-client
+X-AppInstall-Popcon=25
+X-AppInstall-Section=aur
+X-Arch-Package=openerp-client 6.1_1-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=openerp-client
+X-Arch-Package-Version=6.1_1-4
+X-Arch-Package-Description=OpenERP GTK client
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://openerp.com/
+X-Arch-Package-Votes=25

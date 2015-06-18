@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=4K Stogram
+GenericName=4K Stogram
+Comment=View instagram photos
+Icon=4kstogram.png
+TryExec=/usr/bin/4kstogram
+Exec=4kstogram
+Categories=Network;Qt;
+X-AppInstall-Package=4kstogram
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=4kstogram 1.9.3.933-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=4kstogram
+X-Arch-Package-Version=1.9.3.933-1
+X-Arch-Package-Description=Download and backup Instagram photos shared by any user.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.4kdownload.com/products/product-stogram
+X-Arch-Package-Votes=7

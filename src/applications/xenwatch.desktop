@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=xenwatch
+Comment=watch xen domains
+TryExec=/usr/bin/xenstore
+Exec=xenstore
+Categories=System;Utility;GTK;
+StartupNotify=false
+X-AppInstall-Package=xenstore
+X-AppInstall-Popcon=74
+X-AppInstall-Section=community
+X-AppInstall-Architectures=amd64,i386
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=xenstore
+X-Arch-Package-Version=6.2.0-2
+X-Arch-Package-Description=Citrix XenServer Tools
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://citrix.com/English/ps2/products/product.asp?contentID=683148&ntref=hp_nav_US

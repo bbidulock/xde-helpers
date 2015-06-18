@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=QViaggiaTreno
+GenericName=Informazioni in tempo reale sulla circolazione ferroviaria
+Comment=Interfaccia grafica per ViaggiaTreno
+TryExec=/usr/bin/qviaggiatreno
+Exec=qviaggiatreno
+Categories=Network;Qt;
+StartupNotify=true
+X-AppInstall-Package=qviaggiatreno
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qviaggiatreno
+X-Arch-Package-Version=2012.9-1
+X-Arch-Package-Description=Un'applicazione per controllare gli orari dei treni in tutta
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://xp-dev.com/sc/browse/3525/?rev=-2
+X-Arch-Package-Votes=2

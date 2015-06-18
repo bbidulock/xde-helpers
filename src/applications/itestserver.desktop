@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=iTestServer
+GenericName=iTestServer
+Comment=question/answer database editor and exam server
+Icon=itestserver
+TryExec=/usr/bin/iTestServer
+Exec=iTestServer
+Categories=Education;Qt;
+X-AppInstall-Package=itest
+X-AppInstall-Section=aur
+X-Arch-Package=itest 1.4.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=itest
+X-Arch-Package-Version=1.4.0-1
+X-Arch-Package-Description=Server and Client designed for easy computerised examination.
+X-Arch-Package-URL=http://itest.sourceforge.net/

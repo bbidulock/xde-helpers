@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Titanium Studio
+Comment=A free and open source application development platform, Titanium lets you create native mobile, tablet and desktop application experiences using existing web skills like Javascript, HTML, CSS, Python, Ruby, and PHP.
+Icon=titanium-studio
+TryExec=/usr/bin/titanium-studio
+Exec=titanium-studio
+Categories=Development;IDE;GTK;
+StartupNotify=true
+X-AppInstall-Package=titanium-studio
+X-AppInstall-Popcon=22
+X-AppInstall-Section=aur
+X-Arch-Package=titanium-studio 3.1.2.201308091617-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=titanium-studio
+X-Arch-Package-Version=3.1.2.201308091617-1
+X-Arch-Package-Description=A free and open source application development platform,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.appcelerator.com/products/titanium-studio/
+X-Arch-Package-Votes=22

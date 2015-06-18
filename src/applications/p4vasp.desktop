@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=p4vasp
+Comment=Visualization suite for VASP
+Icon=p4vasp-icon
+TryExec=/usr/bin/p4v
+Exec=/usr/bin/p4v
+Categories=Science;
+X-AppInstall-Package=p4vasp
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=p4vasp 0.3.29-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=p4vasp
+X-Arch-Package-Version=0.3.29-1
+X-Arch-Package-Description=A visualization suite for the Vienna Ab-initio Simulation
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.p4vasp.at/
+X-Arch-Package-Votes=1

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Py3DG200
+Comment=GlobalSat DG200 Manager
+TryExec=/usr/bin/Py3DG200
+Exec=Py3DG200
+Categories=Utility;
+StartupNotify=true
+X-AppInstall-Package=py3dg200
+X-AppInstall-Section=aur
+X-Arch-Package=py3dg200 1.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=py3dg200
+X-Arch-Package-Version=1.4-1
+X-Arch-Package-Description=a small manager for the Global Sat DG200 GPS datalogger
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://coillet.eu/Site/Dev.php?lang=en
+X-Arch-Package-Votes=0

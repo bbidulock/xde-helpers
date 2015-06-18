@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=ArchAssistant
+GenericName=Configure Arch Linux from a systray icon
+GenericName[de]=Konfiguriere Arch Linux durch ein Icon im Tray
+GenericName[fr]=Configurer Arch Linux depuis la barre de tâches
+Icon=archassistant
+TryExec=/usr/bin/archassistant
+Exec=archassistant
+Categories=System;Utility;
+MimeType=text/plain;
+StartupNotify=false
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=archassistant
+X-AppInstall-Popcon=147
+X-AppInstall-Section=aur
+X-Arch-Package=archassistant 0.4-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=archassistant
+X-Arch-Package-Version=0.4-3
+X-Arch-Package-Description=GUI program for configuring Arch Linux
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.kde-apps.org/content/show.php/ArchAssistant?content=76760
+X-Arch-Package-Votes=147

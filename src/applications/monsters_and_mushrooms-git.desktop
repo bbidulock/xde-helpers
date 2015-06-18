@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Monsters and Mushrooms
+Comment=Millipede remake written in Python
+TryExec=/usr/bin/monsters_and_mushrooms
+Exec=/usr/bin/monsters_and_mushrooms
+NoDisplay=true
+Categories=Game;ArcadeGame;
+StartupNotify=true
+X-AppInstall-Package=monsters_and_mushrooms-git
+X-AppInstall-Section=aur
+X-Arch-Package=monsters_and_mushrooms-git r2.fd68f10-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=monsters_and_mushrooms-git
+X-Arch-Package-Version=r2.fd68f10-1
+X-Arch-Package-Description=A Millipede remake written in Python using Pygame
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/machinezilla/monsters_and_mushrooms
+X-Arch-Package-Votes=0
+Aliases=monsters_and_mushrooms;

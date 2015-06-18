@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Arduino
+GenericName=Arduino IDE
+Comment=The open-source Arduino environment
+Icon=arduino
+TryExec=/usr/bin/arduino
+Exec=arduino %U
+NoDisplay=true
+Categories=Development;
+MimeType=text/x-arduino;
+X-AppInstall-Package=arduino-native
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=arduino-native 1.6.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=arduino-native
+X-Arch-Package-Version=1.6.1-1
+X-Arch-Package-Description=Arduino prototyping platform SDK (with Arch toolchains)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://arduino.cc/en/Main/Software
+X-Arch-Package-Votes=7
+Aliases=arduino;

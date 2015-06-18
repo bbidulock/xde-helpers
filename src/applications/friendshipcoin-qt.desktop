@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=FriendshipCoin
+Name[en_US]=friendshipcoin-qt.desktop
+Comment=FriendshipCoin P2P Cryptocurrency
+Icon=/usr/share/pixmaps/friendshipcoin.png
+TryExec=/usr/bin/friendshipcoin-qt
+Exec=/usr/bin/friendshipcoin-qt
+Categories=Network;
+MimeType=x-scheme-handler/friendshipcoin;
+X-AppInstall-Package=friendshipcoin-qt
+X-AppInstall-Section=aur
+X-Arch-Package=friendshipcoin-qt v1.31-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=friendshipcoin-qt
+X-Arch-Package-Version=v1.31-1
+X-Arch-Package-Description=Cryptocurrency
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.friendshipcoins.com/
+X-Arch-Package-Votes=0

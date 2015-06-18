@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=King Arthur's Gold
+Comment=Game to build castles and destroy your enemies, inspired by Soldat and Minecraft
+Icon=kag
+TryExec=/usr/bin/kag
+Exec=kag
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=kag
+X-AppInstall-Popcon=27
+X-AppInstall-Section=aur
+X-Arch-Package=kag 0.91A-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kag
+X-Arch-Package-Version=0.91A-2
+X-Arch-Package-Description=King Arthur's Gold Classic is a game about building castles
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kag2d.com/
+X-Arch-Package-Votes=27

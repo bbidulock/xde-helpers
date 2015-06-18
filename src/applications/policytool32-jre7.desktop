@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Java 7 Policy Settings (32-bit)
+Icon=sun-java32-jre7
+TryExec=/usr/lib32/jvm/java32-7-jre/jre/bin/policytool
+Exec=/usr/lib32/jvm/java32-7-jre/jre/bin/policytool
+Categories=Settings;Java;
+StartupNotify=true
+X-AppInstall-Package=bin32-jre7
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=bin32-jre7 7u79-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bin32-jre7
+X-Arch-Package-Version=u-1
+X-Arch-Package-Description=Oracle Java Runtime Environment (32-bit) (public release - end
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.oracle.com/technetwork/java/javase/downloads/index.html
+X-Arch-Package-Votes=6

@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=LinSmith
+GenericName=Smith Chart Generator
+GenericName[es]=Generador de Cartas de Smith
+Comment=Smith Charting program
+Icon=linsmith
+TryExec=/usr/bin/linsmith
+Exec=linsmith
+X-DCOP-ServiceType=none
+Categories=Engineering;Electronics;HamRadio;GNOME;GTK;
+MimeType=text/plain;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=linsmith
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=linsmith 0.99.28-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=linsmith
+X-Arch-Package-Version=0.99.28-1
+X-Arch-Package-Description=A Smith Charting program, mainly designed for educational use
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://jcoppens.com/soft/linsmith/index.en.php
+X-Arch-Package-Votes=7

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Sagasu
+Comment=GNOME tool to find strings in a set of files
+Comment[cs]=Nástroj GNOME pro hledání řetězců v souborech
+Comment[fr]=Outil GNOME cherchant des chaines dans des fichiers
+Icon=sagasu.png
+TryExec=/usr/bin/sagasu
+Exec=sagasu
+Categories=Application;Utility;Accessories;X-Red-Hat-Base;
+StartupNotify=false
+X-AppInstall-Package=sagasu
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sagasu
+X-Arch-Package-Version=2.0.12-1
+X-Arch-Package-Description=GNOME tool to find strings in multiple files
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://perso.b2b2c.ca/sarrazip/dev/sagasu.html
+X-Arch-Package-Votes=5

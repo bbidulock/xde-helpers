@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Ancestris
+Comment=Ancestris
+Icon=ancestris
+TryExec=/usr/bin/ancestris
+Exec=ancestris
+Categories=Office;
+StartupNotify=true
+X-AppInstall-Package=ancestris
+X-AppInstall-Section=aur
+X-Arch-Package=ancestris 0.8-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ancestris
+X-Arch-Package-Version=0.8-1
+X-Arch-Package-Description=Ancestris is a genealogy program written in Java
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ancestris.org/
+X-Arch-Package-Votes=0

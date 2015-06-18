@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Magic Assistant
+GenericName=Card Organizer
+TryExec=/usr/bin/magicassistant
+Exec=magicassistant
+NoDisplay=true
+Categories=Development;
+StartupNotify=true
+X-AppInstall-Package=magicassistant-gtk-multi
+X-AppInstall-Section=aur
+X-Arch-Package=magicassistant-gtk-multi 1.2.5.2-0
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=magicassistant-gtk-multi
+X-Arch-Package-Version=1.2.5.2-0
+X-Arch-Package-Description=Card Browser, Library Organizer, Deck Builder and Tournament Manager for Magic the Gathering Card Game
+X-Arch-Package-URL=http://sourceforge.net/projects/mtgbrowser/
+Aliases=magicassistant;

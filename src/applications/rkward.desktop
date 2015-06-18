@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=RKWard
+Comment=GUI for the R-project
+Comment[fr]=Interface graphique pour R
+Comment[pl]=Graficzny interfejs dla projektu R
+Icon=rkward
+TryExec=/usr/bin/rkward
+Exec=rkward -caption "%c" %i
+Categories=Education;Science;Math;
+StartupNotify=false
+DocPath=rkward/index.html
+X-AppInstall-Package=rkward
+X-AppInstall-Popcon=70
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rkward
+X-Arch-Package-Version=0.6.3-1
+X-Arch-Package-Description=Easy to use transparent frontend to R for KDE4
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://rkward.kde.org/
+X-Arch-Package-Votes=70

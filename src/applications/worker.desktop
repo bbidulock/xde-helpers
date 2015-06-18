@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Worker
+GenericName=File Manager
+GenericName[de]=Dateimanager
+Comment=File manager for X, much like the Amiga's DirOpus.
+Comment[de]=Dateimanager für X, ähnlich wie Amigas DirOpus.
+Icon=WorkerIcon48
+TryExec=/usr/bin/worker
+Exec=worker
+Categories=Utility;FileTools;FileManager;
+StartupNotify=false
+X-AppInstall-Package=worker
+X-AppInstall-Popcon=51
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=worker
+X-Arch-Package-Version=3.7.0-1
+X-Arch-Package-Description=A file manager for the X Window System
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.boomerangsworld.de/worker
+X-Arch-Package-Votes=51

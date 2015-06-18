@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=3.6
+Type=Application
+Name=Eclipse
+Comment=Open Development Platform
+Icon=eclipse
+TryExec=/usr/bin/eclipse
+Exec=eclipse
+NoDisplay=true
+Categories=Development;IDE;GTK;
+StartupNotify=true
+X-AppInstall-Package=eclipse-platform-indigo
+X-AppInstall-Section=aur
+X-Arch-Package=eclipse-platform-indigo 3.7RC1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=eclipse-platform-indigo
+X-Arch-Package-Version=3.7RC1-1
+X-Arch-Package-Description=Eclipse Platform (Indigo) without plug-ins and SDK
+X-Arch-Package-URL=http://www.eclipse.org
+Aliases=eclipse;

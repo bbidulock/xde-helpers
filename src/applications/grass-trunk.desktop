@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=grass-trunk
+GenericName=GIS
+Comment="GRASS-trunk is the new development branch of GRASS. Geographic Information System (GIS) used for geospatial data management and analysis"
+Icon=/usr/share/pixmaps/grass.png
+TryExec=/usr/bin/grass70
+Exec=/usr/bin/grass70
+MultipleArgs=false
+Terminal=true
+NoDisplay=true
+Categories=Application;Science;
+X-AppInstall-Package=grass-trunk
+X-AppInstall-Section=aur
+X-Arch-Package=grass-trunk 42358-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=grass-trunk
+X-Arch-Package-Version=42358-1
+X-Arch-Package-Description=GRASS 7.0 is the new development branch of GRASS. Geographic Information System (GIS) used for geospatial data management and analysis, image processing, graphics/maps production, spatial modeling, and visualization
+X-Arch-Package-URL=http://grass.itc.it/index.php
+Aliases=grass;

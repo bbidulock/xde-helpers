@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Byobu Window Manager
+Comment=Text-based Window Manager using GNU Screen
+Icon=/usr/share/byobu/pixmaps/byobu.svg
+TryExec=/usr/bin/byobu-launcher
+Exec=byobu-launcher
+Terminal=true
+NoDisplay=true
+Categories=Utility;GNOME;GTK;
+StartupNotify=false
+X-AppInstall-Package=byobu
+X-AppInstall-Popcon=206
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=byobu
+X-Arch-Package-Version=5.90-1
+X-Arch-Package-Description=Enhanced profile and useful notifications for tmux/screen
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://launchpad.net/byobu
+X-Arch-Package-Votes=206

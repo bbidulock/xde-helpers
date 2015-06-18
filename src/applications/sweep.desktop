@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Sweep
+GenericName=Sound Editor
+Comment=Sweep Sound Editor
+Icon=sweep.svg
+TryExec=/usr/bin/sweep
+Exec=sweep
+Categories=Application;AudioVideo;
+MimeType=audio/x-wav;
+StartupNotify=false
+X-AppInstall-Package=sweep
+X-AppInstall-Section=extra
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=sweep
+X-Arch-Package-Version=0.9.3-3
+X-Arch-Package-Description=Sound editing and mixing program
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.metadecks.org/software/sweep/

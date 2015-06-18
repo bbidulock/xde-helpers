@@ -2,12 +2,11 @@
 Type=Application
 Name=Pingus
 GenericName=Game
-Comment=Guide a horde of penguins through various obstacles
-Icon=/usr/share/pingus/images/core/editor/actions.png
+Comment=A free Lemmings[tm] clone
+Icon=pingus
 TryExec=/usr/bin/pingus
 Exec=pingus
-Categories=Application;Game;LogicGame;StrategyGame;
-StartupNotify=false
+Categories=Game;LogicGame;StrategyGame;
 X-AppInstall-Package=pingus
 X-AppInstall-Popcon=232
 X-AppInstall-Section=community

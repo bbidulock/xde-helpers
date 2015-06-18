@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Caph
+Comment=Sandbox game based on physics
+Icon=caph.png
+TryExec=/usr/bin/caph
+Exec=caph
+Categories=Game;LogicGame;
+StartupNotify=false
+X-AppInstall-Package=caph
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=caph
+X-Arch-Package-Version=1.1-4
+X-Arch-Package-Description=Sandbox game based on physics which uses doodles as a primary gameplay element
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/caphgame/

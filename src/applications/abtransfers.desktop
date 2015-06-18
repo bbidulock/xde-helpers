@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=AB-Transfers
+GenericName=Online-Banking-Programm
+Icon=/usr/share/abtransfers/icon/icon.png
+TryExec=/usr/bin/abtransfers
+Exec=abtransfers
+Categories=Application;Office;
+X-KDE-StartupNotify=false
+X-AppInstall-Package=abtransfers
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=abtransfers 0.0.5.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=abtransfers
+X-Arch-Package-Version=0.0.5.0-2
+X-Arch-Package-Description=A program to perform HBCI-Transfers with aqbanking
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://schmufu.dyndns.org/dokuwiki/ab_transfer:start
+X-Arch-Package-Votes=1

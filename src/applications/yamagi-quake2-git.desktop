@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Yamagi Quake II
+Icon=yamagi-quake2
+TryExec=/usr/bin/yamagi-quake2
+Exec=yamagi-quake2
+NoDisplay=true
+Categories=Game;Shooter;
+StartupNotify=false
+X-AppInstall-Package=yamagi-quake2-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=yamagi-quake2-git 5.30.r2.g0b9ac6c-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=yamagi-quake2-git
+X-Arch-Package-Version=5.30.r2.g0b9ac6c-1
+X-Arch-Package-Description=Enhanced Quake II engine optimized for modern systems
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.yamagi.org/quake2/
+X-Arch-Package-Votes=1
+Aliases=yamagi-quake2;

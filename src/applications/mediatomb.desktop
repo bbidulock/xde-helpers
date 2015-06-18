@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=MediaTomb
+Comment=MediaTomb UPnP MediaServer web user interface.
+Icon=mediatomb.png
+TryExec=/usr/bin/x-www-browser
+Exec=/usr/bin/x-www-browser /var/lib/mediatomb/mediatomb.html
+Categories=AudioVideo;
+StartupNotify=false
+X-AppInstall-Package=mediatomb
+X-AppInstall-Popcon=110
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mediatomb
+X-Arch-Package-Version=0.12.1-12
+X-Arch-Package-Description=Free UPnP/DLNA media server
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://mediatomb.cc/
+X-Arch-Package-Votes=110

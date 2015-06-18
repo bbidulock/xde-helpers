@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Burp Suite Free Edition
+Comment=Burp Suite is an integrated platform for attacking web applications (free edition)
+Icon=burpsuite
+TryExec=/usr/bin/burpsuite
+Exec=burpsuite
+Categories=Development;Security;
+MimeType=application/x-extension-iml;
+X-AppInstall-Package=burpsuite
+X-AppInstall-Popcon=50
+X-AppInstall-Section=aur
+X-Arch-Package=burpsuite 1.6.01-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=burpsuite
+X-Arch-Package-Version=1.6.01-1
+X-Arch-Package-Description=Burp Suite is an integrated platform for attacking web
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://portswigger.net/burp/
+X-Arch-Package-Votes=50

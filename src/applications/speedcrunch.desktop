@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=SpeedCrunch
+GenericName=Calculator
+Comment=High precision calculator
+Icon=speedcrunch
+TryExec=/usr/bin/speedcrunch
+Exec=speedcrunch
+Categories=Utility;Calculator;Qt;
+StartupNotify=false
+X-AppInstall-Package=speedcrunch
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=speedcrunch
+X-Arch-Package-Version=0.11-2
+X-Arch-Package-Description=Simple but powerful calculator using Qt
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://speedcrunch.org/

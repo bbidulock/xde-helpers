@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=Aarchup
+TryExec="/usr/share/aarchup/aarchupstartup.sh"
+Exec="/usr/share/aarchup/aarchupstartup.sh"
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
+X-AppInstall-Package=aarchup
+X-AppInstall-Section=custom
+X-Arch-Package-Repository=custom
+X-Arch-Package-Name=aarchup
+X-Arch-Package-Version=1.7.3-2
+X-Arch-Package-Description=Fork of archup a small and lightweight update-notifier for archlinux.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/aericson/aarchup

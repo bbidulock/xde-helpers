@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Sweet Home 3D
+GenericName=Interior Design
+Comment=Interior 2D design application with 3D preview
+Icon=sweethome3d
+TryExec=/usr/bin/sweethome3d
+Exec=sweethome3d
+Categories=Graphics;2DGraphics;3DGraphics;Office;Java;
+StartupWMClass=com-eteks-sweethome3d-SweetHome3DBootstrap
+X-AppInstall-Package=sweethome3d
+X-AppInstall-Section=community
+X-Arch-Package=sweethome3d 4.4-1
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=sweethome3d
+X-Arch-Package-Version=4.6-1
+X-Arch-Package-Description=An interior design application to draw the plan of your house in a 3D environment
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.sweethome3d.com/

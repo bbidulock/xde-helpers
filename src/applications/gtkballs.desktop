@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=GtkBalls
+GenericName=GtkBalls
+Comment=Puzzle game
+Icon=gtkballs_16x16
+TryExec=/usr/games/gtkballs
+Exec=/usr/games/gtkballs
+Categories=Game;LogicGame;
+StartupNotify=false
+X-AppInstall-Package=gtkballs
+X-AppInstall-Popcon=11
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=gtkballs
+X-Arch-Package-Version=3.1.5-6
+X-Arch-Package-Description=clone of Lines - logic game about balls
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gtkballs.antex.ru/

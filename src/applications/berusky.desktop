@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Berusky
+Comment=Logic game based on Sokoban(TM)
+Icon=berusky
+TryExec=/usr/bin/berusky
+Exec=berusky
+Categories=Game;LogicGame;
+X-AppInstall-Package=berusky
+X-AppInstall-Popcon=23
+X-AppInstall-Section=aur
+X-Arch-Package=berusky 1.7-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=berusky
+X-Arch-Package-Version=1.7-1
+X-Arch-Package-Description=A logic game based on the puzzle game Sokoban
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://anakreon.cz/?q=node/1
+X-Arch-Package-Votes=14

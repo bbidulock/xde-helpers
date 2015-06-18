@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=scope
+GenericName=Qt File Manager
+Comment=A pure Qt filemanager focused on usability
+Icon=file-manager
+TryExec=/usr/bin/scope
+Exec=scope %F
+Categories=System;Utility;FileTools;FileManager;Core;Qt;
+StartupNotify=true
+X-AppInstall-Package=scope
+X-AppInstall-Section=aur
+X-Arch-Package=scope 0.4a-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=scope
+X-Arch-Package-Version=0.4a-1
+X-Arch-Package-Description=Pure Qt filemanager focused on usability
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://qt-apps.org/content/show.php/scOpe?content=140330
+X-Arch-Package-Votes=0

@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=SmartGit (EA)
+Comment=Graphical Git/Hg client (Early Access series).
+Comment[de]=Ein grafischer Git/Hg Client (Early Access).
+Icon=/opt/smartgithg-ea/bin/smartgit-256.png
+TryExec=/usr/bin/smartgithg-ea
+Exec=smartgithg-ea
+X-MultipleArgs=false
+NoDisplay=true
+Categories=Development;
+MimeType=application/smartgit;application/x-smartgit;
+StartupWMClass=SmartGit
+X-AppInstall-Package=smartgithg-ea
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=smartgithg-ea 6.5_rc_3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=smartgithg-ea
+X-Arch-Package-Version=6.5_rc_3-1
+X-Arch-Package-Description=Git/Hg GUI client written in Java. Early Access Series
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.syntevo.com/smartgit/early-access
+X-Arch-Package-Votes=4
+Aliases=smartgit-ea;

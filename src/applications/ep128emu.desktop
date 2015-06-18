@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Ep128emu
+GenericName=An Enterprise 64/128, ZX Spectrum 48/128, and Amstrad CPC 464 System emulator
+Icon=/usr/share/pixmaps/ep128emu.png
+TryExec=/usr/bin/ep128emu
+Exec=ep128emu
+Categories=System;Emulator;
+X-AppInstall-Package=ep128emu
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=ep128emu 2.0.9.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ep128emu
+X-Arch-Package-Version=2.0.9.1-2
+X-Arch-Package-Description=An emulator of the Enterprise 128 computer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ep128emu.enterpriseforever.com/
+X-Arch-Package-Votes=5

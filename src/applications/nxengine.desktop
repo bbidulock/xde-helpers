@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=NXEngine
+Comment=A clone/engine-rewrite of the classic jump-and-run platformer Cave Story/Doukutsu Monogatari
+Icon=nxengine
+TryExec=/usr/bin/nxengine
+Exec=nxengine
+Categories=Game;AdventureGame;
+X-AppInstall-Package=nxengine
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=nxengine 1.0.0.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nxengine
+X-Arch-Package-Version=1.0.0.6-1
+X-Arch-Package-Description=A clone/engine-rewrite of the classic jump-and-run platformer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://nxengine.sourceforge.net/
+X-Arch-Package-Votes=6

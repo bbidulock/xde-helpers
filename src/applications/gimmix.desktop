@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Gimmix
+Comment=Gimmix is a graphical music player daemon (MPD) client written in C.
+Icon=gimmix.png
+TryExec=/usr/bin/gimmix
+Exec=gimmix
+Categories=Application;AudioVideo;GTK;
+StartupNotify=true
+X-AppInstall-Package=gimmix
+X-AppInstall-Popcon=43
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gimmix
+X-Arch-Package-Version=0.5.7.2-3
+X-Arch-Package-Description=Graphical MPD client written in C using GTK+2
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/gimmix.berlios
+X-Arch-Package-Votes=43

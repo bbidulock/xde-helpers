@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Simutrans
+Comment=Transportation simulator
+Icon=simutrans.xpm
+TryExec=/usr/bin/simutrans
+Exec=simutrans
+NoDisplay=true
+Categories=Game;Simulation;
+X-AppInstall-Package=simutrans-svn
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=simutrans-svn 3965-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=simutrans-svn
+X-Arch-Package-Version=3965-1
+X-Arch-Package-Description=An open source transportation simulation game (development
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.simutrans.com/
+X-Arch-Package-Votes=2
+Aliases=simutrans;

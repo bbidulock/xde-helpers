@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Thrustburst
+Comment=Side scrolling shoot-em-up arcade game
+Icon=/usr/share/pixmaps/thrustburst.png
+TryExec=/usr/bin/thrustburst
+Exec=thrustburst
+Categories=Application;Game;ArcadeGame;
+StartupNotify=true
+X-AppInstall-Package=thrustburst
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=thrustburst 1.051-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=thrustburst
+X-Arch-Package-Version=1.051-1
+X-Arch-Package-Description=Side scrolling shoot-em-up arcade game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.umlautgames.net/
+X-Arch-Package-Votes=2

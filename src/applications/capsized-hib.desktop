@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Capsized
+GenericName=Action Platformer
+Comment=Alientrap Games
+Icon=capsized
+TryExec=/usr/bin/capsized
+Exec=/usr/bin/capsized
+Categories=Game;
+X-AppInstall-Package=capsized-hib
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=capsized-hib 0_20130613-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=capsized-hib
+X-Arch-Package-Version=0_20130613-1
+X-Arch-Package-Description=A science-fiction action platformer (Humble Bundle version)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.capsizedgame.com/
+X-Arch-Package-Votes=6

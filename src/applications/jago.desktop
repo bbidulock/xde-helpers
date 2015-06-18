@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=JagoClient
+GenericName=Jago Go Client
+Comment=A SGF viewer + an IGS client + GMP client
+Comment[de]=Ein SGF Betrachter sowie IGS und GMP Client.
+Icon=jago
+TryExec=/usr/bin/java
+Exec=java -jar /usr/share/java/jago/jago.jar
+Categories=Game;BoardGame;Java;
+MimeType=application/x-go-sgf;text/sgf;text/x-sgf;
+X-AppInstall-Package=jago
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=jago 6.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jago
+X-Arch-Package-Version=6.2-1
+X-Arch-Package-Description=a SGF viewer + an IGS client + GMP client
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://jagoclient.sourceforge.net/
+X-Arch-Package-Votes=2

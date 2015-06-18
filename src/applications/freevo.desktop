@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Freevo Audio/Video Player
+GenericName=Home Theatre
+Comment=Playing various multimedia formats, like pictures, audio or video.
+Comment[de]=Wiedergabe verschiedenster Multimediaformate, wie z.B. Fotos, Musik oder Videos.
+Icon=freevo
+TryExec=/usr/bin/freevo
+Exec=freevo
+Categories=AudioVideo;Player;
+StartupNotify=false
+X-AppInstall-Package=freevo
+X-AppInstall-Popcon=40
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=freevo
+X-Arch-Package-Version=1.9.0-14
+X-Arch-Package-Description=An open-source home theatre PC platform
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://freevo.sourceforge.net/

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=gretl
+Comment=Econometrics program
+Icon=gretl.xpm
+TryExec=/usr/bin/gretl
+Exec=gretl %f
+Categories=Application;Science;Econometrics;
+StartupNotify=false
+X-AppInstall-Package=gretl
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gretl
+X-Arch-Package-Version=1.9.90-1
+X-Arch-Package-Description=Gnu Regression, Econometrics and Time-series Library
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gretl.sourceforge.net/
+X-Arch-Package-Votes=14

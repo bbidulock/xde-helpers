@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Abraca XMMS2 Client
+Comment=Manage Music
+Comment[de]=Musik verwalten
+Icon=abraca
+TryExec=/usr/bin/abraca
+Exec=abraca
+Categories=Application;AudioVideo;GNOME;
+StartupNotify=false
+X-AppInstall-Package=abraca
+X-AppInstall-Popcon=59
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=abraca
+X-Arch-Package-Version=0.7.1-5
+X-Arch-Package-Description=A GTK3 client for the XMMS2 music player, with a focus on
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://abraca.github.com/Abraca/
+X-Arch-Package-Votes=5

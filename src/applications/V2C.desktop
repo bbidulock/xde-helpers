@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=V2C
+GenericName=BBS Browser
+Comment=Viewer/Writer for BBS like 2ch
+Icon=/opt/v2c/v2cicon.png
+TryExec=/opt/v2c/v2c
+Exec=/opt/v2c/v2c
+Categories=Application;Network;Java;
+X-AppInstall-Package=v2c
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=v2c 2.11.4-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=v2c
+X-Arch-Package-Version=2.11.4-2
+X-Arch-Package-Description=A 2channel and Twitter browser that made from Java+Swing
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://v2c.s50.xrea.com
+X-Arch-Package-Votes=2

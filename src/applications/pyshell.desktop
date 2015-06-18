@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=PyShell
+Comment=GUI Python Shell
+Icon=/usr/share/pixmaps/pyshell
+TryExec=/usr/bin/pyshell
+Exec=/usr/bin/pyshell
+Categories=Development;
+StartupNotify=true
+X-AppInstall-Package=pyshell
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pyshell
+X-Arch-Package-Version=0.19.7-1
+X-Arch-Package-Description=An Enhanced Bash Shell Framework.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com//
+X-Arch-Package-Votes=1

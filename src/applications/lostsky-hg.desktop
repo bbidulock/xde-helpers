@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Story of a Lost Sky
+GenericName=lostsky
+Comment=Strategy RPG set in the Touhou universe
+Icon=lostsky.png
+TryExec=/usr/bin/lostsky
+Exec=lostsky
+NoDisplay=true
+Categories=Application;Game;RolePlaying;StrategyGame;
+StartupNotify=true
+X-AppInstall-Package=lostsky-hg
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=lostsky-hg 1146-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lostsky-hg
+X-Arch-Package-Version=1146-1
+X-Arch-Package-Description=Strategy RPG set in the Touhou universe
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://lostsky.featheredmelody.com/
+X-Arch-Package-Votes=6
+Aliases=lostsky;

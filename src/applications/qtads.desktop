@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=QTads
+GenericName=QTads IF interpreter
+GenericName[fr]=QTads Interpréteur de jeux textuels
+Comment=A text-only interpreter for TADS text adventures. Support TADS 2 and 3.
+Comment[fr]=Un interpréteur pour les aventures textuelles au format TADS.
+Icon=qtads.png
+TryExec=/usr/bin/qtads
+Exec=qtads
+Categories=Game;
+X-AppInstall-Package=qtads
+X-AppInstall-Popcon=12
+X-AppInstall-Section=aur
+X-Arch-Package=qtads 2.1.6-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qtads
+X-Arch-Package-Version=2.1.6-2
+X-Arch-Package-Description=A Qt-based interpreter for TADS text adventures. Support TADS
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://qtads.sourceforge.net/
+X-Arch-Package-Votes=12

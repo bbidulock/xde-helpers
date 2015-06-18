@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=ferret
+Comment=Design E-R databases
+TryExec=/usr/bin/ferret
+Exec=ferret %F
+Categories=Application;Development;
+MimeType=application/x-ferret;
+StartupNotify=false
+X-AppInstall-Package=ferret
+X-AppInstall-Popcon=19
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ferret
+X-Arch-Package-Version=0.7-6
+X-Arch-Package-Description=Free Entity Relationship and Reverse Engineering Tool
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://savannah.gnu.org/projects/ferret/
+X-Arch-Package-Votes=19

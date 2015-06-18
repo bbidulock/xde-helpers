@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=Gringotts
+GenericName=Electronic "Strongbox"
+GenericName[de]=Elektronischer "Tresor"
+GenericName[fr]="Coffre-fort" électronique
+GenericName[it_IT]="Cassaforte" elettronica
+Comment=An electronic strongbox
+Comment[de]=Ein elektronischer "Tresor"
+Comment[fr]=Un coffre-fort électronique
+Comment[it_IT]=Una cassaforte elettronica
+Icon=_usr_share_pixmaps_gringotts
+TryExec=/usr/bin/gringotts
+Exec=gringotts
+StartupNotify=false
+X-AppInstall-Package=gringotts
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gringotts
+X-Arch-Package-Version=1.2.10-2
+X-Arch-Package-Description=Secure notes manager for UNIX-like systems.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/gringotts.berlios/
+X-Arch-Package-Votes=8

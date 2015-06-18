@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=GNUstep Calculator
+Name[bg]=Калкулатор за GNUstep
+Comment=Example calculator for GNUstep
+Comment[bg]=Примерен калкулатор за GNUstep
+Icon=/usr/lib/GNUstep/Applications/Calculator.app/Resources/Calculator.app.tiff
+TryExec=/usr/bin/Calculator
+Exec=Calculator
+Categories=Utility;Calculator;
+StartupNotify=false
+X-AppInstall-Package=gnustep-examples
+X-AppInstall-Popcon=33
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gnustep-examples
+X-Arch-Package-Version=1.4.0-1
+X-Arch-Package-Description=Helps you get started with GNUstep coding
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.gnustep.org/experience/examples.html
+X-Arch-Package-Votes=1

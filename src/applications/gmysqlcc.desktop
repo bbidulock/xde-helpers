@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=GMySQLcc
+Comment=Gtk+ MySQL Control Center
+Icon=gmysqlcc-32.png
+TryExec=/usr/bin/gmysqlcc
+Exec=gmysqlcc
+Categories=Development;Database;GTK;
+StartupNotify=false
+X-AppInstall-Package=gmysqlcc
+X-AppInstall-Popcon=27
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gmysqlcc
+X-Arch-Package-Version=0.3.0-2
+X-Arch-Package-Description=GUI client for mysql databases.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.thepozer.com/projet-gmysqlcc/
+X-Arch-Package-Votes=27

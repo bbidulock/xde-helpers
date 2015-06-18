@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Anomos
+Comment=Anonymous bittorrent-based filesharing
+Icon=anomos.png
+TryExec=/usr/bin/anondownloadgui
+Exec=anondownloadgui
+Categories=Application;Network;
+X-AppInstall-Package=anomos-git
+X-AppInstall-Popcon=24
+X-AppInstall-Section=aur
+X-Arch-Package=anomos-git 1.0.0rc1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=anomos-git
+X-Arch-Package-Version=1.0.0rc1-1
+X-Arch-Package-Description=Anonymous, Encrypted BitTorrent
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://anomos.info
+X-Arch-Package-Votes=24

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=DBForge
+GenericName=Database designer
+GenericName[fr]=Créateur de base de données
+Comment=Design database schema for OCaml
+Comment[fr]=Créé des schémas de base de données pour OCaml
+TryExec=/usr/bin/dbforge2.gui.byte
+Exec=dbforge2.gui.byte
+Categories=Development;Database;GTK;
+StartupNotify=false
+X-AppInstall-Package=cameleon
+X-AppInstall-Popcon=25
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cameleon
+X-Arch-Package-Version=0.2.1-1
+X-Arch-Package-Description=A universal file converter for various
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://camaleon.sourceforge.net/index_en.html
+X-Arch-Package-Votes=2

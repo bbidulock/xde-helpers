@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Krank
+Comment=a little casual game
+Comment[ru]=небольшая казуальная игрушка
+Icon=_usr_share_games_krank_krank
+TryExec=/usr/bin/krank
+Exec=krank
+Categories=Game;ArcadeGame;LogicGame;
+StartupNotify=false
+X-AppInstall-Package=krank
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=krank
+X-Arch-Package-Version=0.7-4
+X-Arch-Package-Description=A billiard-golf-breakout mix
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://krank.sourceforge.net/
+X-Arch-Package-Votes=11

@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Gnome-RDP
+GenericName=Remote Desktop Client
+Icon=gnome-rdp
+TryExec=/usr/bin/gnome-rdp
+Exec=gnome-rdp
+Categories=Network;RemoteAccess;
+StartupNotify=true
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=gnome-rdp
+X-GNOME-Bugzilla-Component=General
+X-GNOME-Bugzilla-Version=0.2.3
+X-AppInstall-Package=gnome-rdp
+X-AppInstall-Popcon=40
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gnome-rdp
+X-Arch-Package-Version=0.3.1.0-3
+X-Arch-Package-Description=Remote desktop client for the GNOME Desktop with RDP/VNC/SSH
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/gnome-rdp/
+X-Arch-Package-Votes=40
+X-SuSE-translate=true

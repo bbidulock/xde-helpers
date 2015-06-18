@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Rigs of Rods (config)
+Comment=Configuration utility for Rigs of Rods
+Icon=RoR.png
+TryExec=/opt/rigsofrods/rorconfig
+Exec=/opt/rigsofrods/rorconfig
+NoDisplay=true
+Categories=Application;Game;
+X-AppInstall-Package=rigsofrods-hg
+X-AppInstall-Section=aur
+X-Arch-Package=rigsofrods-hg 121-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rigsofrods-hg
+X-Arch-Package-Version=121-5
+X-Arch-Package-Description=An open source vehicle simulator based on soft-body physics
+X-Arch-Package-URL=http://www.rigsofrods.com
+Aliases=RoRConfig;

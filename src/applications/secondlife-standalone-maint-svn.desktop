@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=SecondLife
+GenericName=SecondLife
+Comment=Your world. Your Imagination
+Icon=/opt/secondlife/secondlife_icon.png
+TryExec=/opt/secondlife/secondlife
+Exec=/opt/secondlife/secondlife
+X-DBUS-StartupType=none
+NoDisplay=true
+Categories=Application;Network;
+StartupNotify=false
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=secondlife-standalone-maint-svn
+X-AppInstall-Section=aur
+X-Arch-Package=secondlife-standalone-maint-svn 2384-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=secondlife-standalone-maint-svn
+X-Arch-Package-Version=2384-1
+X-Arch-Package-Description=SecondLife stable viewer maintenance branch - built against system libraries
+X-Arch-Package-URL=http://www.secondlife.com
+Aliases=secondlife;

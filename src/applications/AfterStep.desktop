@@ -1,5 +1,5 @@
 [Desktop Entry]
-Type=Application
+Type=XSession
 Name=AfterStep
 GenericName=Window Manager
 GenericName[fr]=Gestionnaire de Fenêtres
@@ -25,6 +25,7 @@ X-Arch-Package-Description=A Window Manager based on NextStep Interface
 X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://www.afterstep.org
 DesktopNames=AFTERSTEP
+X-LightDM-DesktopName=afterstep
 X-Ubuntu-Gettext-Domain=gnome-session-3.0
 Actions=XDE;
 
@@ -35,9 +36,10 @@ Icon=xde
 TryExec=/usr/bin/xde-session
 Exec=xde-session -desktop AFTERSTEP -startwm afterstep
 DesktopNames=XDE:AFTERSTEP
+X-LightDM-DesktopName=xde
 
 [Window Manager]
 Name=AfterStep
-SessionManaged=false
+SessionManaged=true
 StartupNotification=false
 X-XDE-Managed=false

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Jkmeter
+GenericName=Audio Level Meter
+Comment=Audio level meter for JACK
+Icon=jkmeter32x32
+TryExec=/usr/bin/jkmeter
+Exec=jkmeter -C -V
+Categories=AudioVideo;Audio;
+StartupNotify=false
+X-AppInstall-Package=jkmeter
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jkmeter
+X-Arch-Package-Version=0.6.1-2
+X-Arch-Package-Description=A horizontal or vertical bargraph level meter based on the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kokkinizita.linuxaudio.org/linuxaudio/downloads/
+X-Arch-Package-Votes=6

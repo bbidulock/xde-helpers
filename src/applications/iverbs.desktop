@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=iVerbs
+Comment=Utility that helps learning irregular verbs
+Icon=iverbs
+TryExec=/usr/bin/iverbs.sh
+Exec=iverbs.sh
+Categories=Education;Languages;
+X-AppInstall-Package=iverbs_bin
+X-AppInstall-Section=aur
+X-Arch-Package=iverbs_bin 0.5beta3-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=iverbs_bin
+X-Arch-Package-Version=0.5beta3-3
+X-Arch-Package-Description=Multiplatform irregular verbs learning tool
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://iverbs.sourceforge.net
+X-Arch-Package-Votes=0

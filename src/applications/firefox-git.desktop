@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Firefox Nightly
+GenericName=Web Browser
+Icon=firefox
+TryExec=/usr/bin/firefox-git
+Exec=firefox-git %u
+MultipleArgs=false
+Categories=Application;Network;
+MimeType=text/html;
+StartupNotify=true
+X-AppInstall-Package=firefox-git
+X-AppInstall-Section=aur
+X-Arch-Package=firefox-git 20120811-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firefox-git
+X-Arch-Package-Version=20120811-1
+X-Arch-Package-Description=Standalone web browser from mozilla.org, latest development version
+X-Arch-Package-URL=http://www.mozilla.org/projects/firefox/

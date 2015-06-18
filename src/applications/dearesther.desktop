@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Dear Esther
+Comment=An experimental first-person adventure, strongly driven by a fractured narrative
+Icon=/opt/dearesther/support/dearesther/windata/cxmenu/icons/dearesther.png
+TryExec=/usr/bin/dearesther
+Exec=/usr/bin/dearesther
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=dearesther
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=dearesther 1.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dearesther
+X-Arch-Package-Version=1.6-1
+X-Arch-Package-Description=An experimental first-person adventure, strongly driven by a
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://dear-esther.com/
+X-Arch-Package-Votes=3

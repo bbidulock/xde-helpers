@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Wine Control Panel
+Name[pl_PL]=Panel Sterowania Wine
+Icon=wine-winecfg
+TryExec=/usr/bin/wine
+Exec=wine control
+Categories=Wine;
+X-AppInstall-Package=wine-menus
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=wine-menus 0.b1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wine-menus
+X-Arch-Package-Version=0.b1-1
+X-Arch-Package-Description=Wine configuration tools in Wine Menu (beta-test)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.winehq.org/
+X-Arch-Package-Votes=8

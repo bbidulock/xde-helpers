@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=MultiGet
+Comment=MultiGet Downloader
+Comment[zh_CN]=MultiGet 下载器
+Icon=_usr_share_pixmaps_multiget_48
+TryExec=/usr/bin/multiget
+Exec=multiget
+Categories=Network;
+StartupNotify=false
+X-AppInstall-Package=multiget
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=multiget
+X-Arch-Package-Version=3-2
+X-Arch-Package-Description=Easy to use GUI file downloader - svn version
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://multiget.sourceforge.net
+X-Arch-Package-Votes=7

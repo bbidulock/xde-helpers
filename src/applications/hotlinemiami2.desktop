@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Hotline Miami 2: Wrong Number
+Comment=A 2D top-down action video game
+TryExec=/usr/bin/hotlinemiami2
+Exec=hotlinemiami2
+Categories=Game;
+X-AppInstall-Package=hotlinemiami2-hib
+X-AppInstall-Section=aur
+X-Arch-Package=hotlinemiami2-hib 1.01_09_03_2015-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=hotlinemiami2-hib
+X-Arch-Package-Version=-1
+X-Arch-Package-Description=A 2D top-down action video game
+X-Arch-Package-Groups=games
+X-Arch-Package-URL=http://hotlinemiami.com/
+X-Arch-Package-Votes=0
+Value=1.0

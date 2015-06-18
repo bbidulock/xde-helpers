@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.7
+Type=Application
+Name=GView
+Comment=Interactive Genome Viewer
+Icon=gview
+TryExec=/usr/bin/gview
+Exec=gview
+Categories=Science;
+X-AppInstall-Package=gview
+X-AppInstall-Section=aur
+X-Arch-Package=gview 1.7-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gview
+X-Arch-Package-Version=1.7-1
+X-Arch-Package-Description=Interactive Genome Viewer.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://www.gview.ca/
+X-Arch-Package-Votes=0

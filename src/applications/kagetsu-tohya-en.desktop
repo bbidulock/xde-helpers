@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Kagetsu Tohya
+Comment=TYPE-MOON's sequel to their earlier dojin visual novel game, Tsukihime
+Icon=/usr/share/pixmaps/kagetsu-tohya-en.png
+TryExec=/usr/bin/kagetsu-tohya-en
+Exec=/usr/bin/kagetsu-tohya-en
+Categories=Application;Game;
+X-AppInstall-Package=kagetsu-tohya-en
+X-AppInstall-Section=aur
+X-Arch-Package=kagetsu-tohya-en 0.5.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kagetsu-tohya-en
+X-Arch-Package-Version=0.5.2-1
+X-Arch-Package-Description=TYPE-MOON's sequel to their earlier dojin visual novel game,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://nrvnqsr.proboards20.com
+X-Arch-Package-Votes=0

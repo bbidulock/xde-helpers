@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=SOFA
+GenericName=SOFA
+Comment=Open Source Framework for Medical Simulation
+Icon=sofa
+TryExec=/usr/bin/sofa
+Exec=sofa
+Categories=Graphics;
+StartupNotify=false
+X-AppInstall-Package=sofa
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sofa
+X-Arch-Package-Version=20131202-2
+X-Arch-Package-Description=Set of algorithms and procedures used in fundamental astronomy
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.iausofa.org
+X-Arch-Package-Votes=4

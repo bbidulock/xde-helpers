@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=zotero
+Comment=research tool
+Icon=zotero
+TryExec=/usr/bin/zotero
+Exec=zotero
+NoDisplay=true
+Categories=Education;Office;
+X-AppInstall-Package=zotero-git
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=zotero-git 1365052712-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zotero-git
+X-Arch-Package-Version=1365052712-1
+X-Arch-Package-Description=Zotero Standalone
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.zotero.org/
+X-Arch-Package-Votes=5
+Aliases=zotero;

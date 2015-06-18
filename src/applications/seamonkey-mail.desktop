@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=SeaMonkey Mail
+Comment=Read Mail with SeaMonkey
+Icon=/usr/share/pixmaps/seamonkey-mail-icon.png
+TryExec=/usr/bin/seamonkey
+Exec=seamonkey -mail
+Categories=Application;Network;
+StartupNotify=false
+X-AppInstall-Package=seamonkey
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=seamonkey
+X-Arch-Package-Version=2.33.1-2
+X-Arch-Package-Description=SeaMonkey internet suite
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.seamonkey-project.org/

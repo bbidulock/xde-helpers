@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Openglad
+Comment=A SDL port of an old DOS game called Gladiator
+Icon=openglad_48x48.png
+TryExec=/usr/bin/openglad
+Exec=openglad
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=openglad
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=openglad 0.98-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=openglad
+X-Arch-Package-Version=0.98-2
+X-Arch-Package-Description=SDL port of an old DOS game called Gladiator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://snowstorm.sourceforge.net/
+X-Arch-Package-Votes=1

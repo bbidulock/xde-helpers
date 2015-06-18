@@ -1,0 +1,36 @@
+[Desktop Entry]
+Type=Application
+Name=GNOME PPP
+Name[sr@Latn]=GPPP
+Name[sr]=ГППП
+Name[sv]=Uppkopplingsverktyg
+Comment=GNOME Dialup Tool
+Comment[be]=Інструмэнт далучэньня праз тэлефанаваньне
+Comment[ca]=Utilitat d'Accés Telefònic de GNOME
+Comment[cs]=GNOME Nástroj pro vytáčená připojení
+Comment[es]=Utilidad de acceso telefnico de Gnome
+Comment[fr]=Utilitaire de connexion téléphonique GNOME
+Comment[it]=Utility di accesso remoto per GNOME
+Comment[mk]=GNOME алатка за бирање
+Comment[pl]=Narzędzie Dialup dla GNOME
+Comment[ru]=Программа для модемного соединения
+Comment[sr@Latn]=Gnom pozivar
+Comment[sr]=Гном позивар
+Comment[sv]=Uppkopplingsverktyg
+Comment[tr]=Gnome Çevrim Aracı
+Comment[vi]=Công cụ quay số GNOME
+Icon=gnome-ppp.png
+TryExec=/usr/bin/gnome-ppp
+Exec=gnome-ppp
+Categories=Application;Network;
+StartupNotify=true
+X-AppInstall-Package=gnome-ppp
+X-AppInstall-Popcon=115
+X-AppInstall-Section=community
+X-AppInstall-Architectures=amd64,hppa,i386,ia64,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=gnome-ppp
+X-Arch-Package-Version=0.3.23-9
+X-Arch-Package-Description=A GNOME 2 WvDial frontend
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.gnomefiles.org/app.php?soft_id=41

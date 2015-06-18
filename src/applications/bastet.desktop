@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Bastard Tetris
+GenericName=bastet
+Comment=Go mad with this Tetris clone
+Icon=bastet
+TryExec=/usr/bin/bastet
+Exec=bastet
+Terminal=true
+Categories=Game;BlocksGame;
+StartupNotify=false
+X-AppInstall-Package=bastet
+X-AppInstall-Popcon=19
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bastet
+X-Arch-Package-Version=0.43.1-1
+X-Arch-Package-Description=Tetris(r) clone with 'bastard' block-choosing AI
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://fph.altervista.org/prog/bastet.html
+X-Arch-Package-Votes=44

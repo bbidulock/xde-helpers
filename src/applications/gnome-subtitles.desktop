@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=Gnome Subtitles
+GenericName=Subtitle Editor
+Comment=Video subtitling for the GNOME desktop
+Icon=gnome-subtitles.png
+TryExec=/usr/bin/gnome-subtitles
+Exec=gnome-subtitles %f
+Categories=AudioVideo;Video;AudioVideoEditing;GNOME;GTK;
+MimeType=application/x-subrip;text/x-mpsub;text/x-ssa;text/x-microdvd;
+StartupNotify=true
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=gnome-subtitles
+X-GNOME-Bugzilla-Component=general
+X-GNOME-Bugzilla-Version=1.0
+X-AppInstall-Package=gnome-subtitles
+X-AppInstall-Popcon=123
+X-AppInstall-Section=community
+X-AppInstall-Architectures=amd64,armel,i386,ia64,kfreebsd-amd64,kfreebsd-i386,powerpc,s390,sparc
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=gnome-subtitles
+X-Arch-Package-Version=1.3-2
+X-Arch-Package-Description=Video subtitle editor for GNOME
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gnomesubtitles.org/

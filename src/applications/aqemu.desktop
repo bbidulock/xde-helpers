@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=AQEMU
+GenericName=QEMU & KVM Virtual Machine Manager
+Comment=Front-end for QEMU and KVM
+Comment[fr]=Interface graphique pour QEMU et KVM
+Comment[it]=Interfaccia Grafica per QEMU e KVM
+Comment[ru]=Управление виртуальными машинами
+Icon=aqemu-32x32.xpm
+TryExec=/usr/bin/aqemu
+Exec=aqemu
+Categories=System;Emulator;Qt;
+StartupNotify=true
+X-AppInstall-Package=aqemu
+X-AppInstall-Popcon=53
+X-AppInstall-Section=aur
+X-AppInstall-Architectures=amd64,armel,i386,powerpc,sparc
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=aqemu
+X-Arch-Package-Version=0.8.2-4
+X-Arch-Package-Description=QEMU GUI written in Qt4
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/aqemu/
+X-Arch-Package-Votes=64

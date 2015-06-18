@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Ultimate Stunts
+Comment=Remake of the famous DOS-game stunts.
+Icon=ultimatestunts
+TryExec=/usr/bin/ustunts
+Exec=ustunts
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=ultimatestunts
+X-AppInstall-Popcon=34
+X-AppInstall-Section=aur
+X-Arch-Package=ultimatestunts 0.7.7.1-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ultimatestunts
+X-Arch-Package-Version=0.7.7.1-3
+X-Arch-Package-Description=A remake of the famous DOS racing game 'Stunts'/'4D Sports
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.ultimatestunts.nl
+X-Arch-Package-Votes=34

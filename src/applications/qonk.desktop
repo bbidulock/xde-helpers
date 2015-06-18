@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Qonk
+GenericName=Space Game
+Comment=A small space build-and-conquer strategy game.
+TryExec=/usr/bin/qonk
+Exec=/usr/bin/qonk
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=qonk
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=qonk 0.3.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qonk
+X-Arch-Package-Version=0.3.1-2
+X-Arch-Package-Description=A small space build-and-conquer strategy game.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://qonk.sf.net
+X-Arch-Package-Votes=7

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Cursed Treasure
+GenericName=Tower Defense
+Comment=Defend your gems by building towers.
+Comment[fr]=Défendez vos gemmes en construisant des tours.
+Icon=cursed-treasure
+TryExec=/usr/bin/cursed-treasure
+Exec=cursed-treasure
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=cursed-treasure
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=cursed-treasure 1.10.0073-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cursed-treasure
+X-Arch-Package-Version=1.10.0073-1
+X-Arch-Package-Description=A neat Tower Defense game with new twists (Flash game).
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.iriysoft.ru/projects/flash/cursed-treasure
+X-Arch-Package-Votes=5

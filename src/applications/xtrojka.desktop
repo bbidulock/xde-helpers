@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=XTrojka
+Comment=An X11 version of the old Tetris-like game called Trojka
+Icon=xtrojka
+TryExec=/usr/bin/xtrojka
+Exec=xtrojka
+Categories=Game;BlocksGame;
+X-AppInstall-Package=xtrojka
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=xtrojka 1.2.3-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xtrojka
+X-Arch-Package-Version=1.2.3-2
+X-Arch-Package-Description=An X11 version of the old Tetris-like game called Trojka
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.happypenguin.org/show?XTrojka
+X-Arch-Package-Votes=1

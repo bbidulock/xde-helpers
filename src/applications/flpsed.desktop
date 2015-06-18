@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=flpsed PDF Annotator
+GenericName=PDF/PS Editor
+Comment=Add text and annotations to PDF and PostScript documents
+TryExec=/usr/bin/flpsed
+Exec=flpsed
+Categories=Graphics;WordProcessor;Viewer;FLTK;PDFViewer;
+MimeType=application/postscript;
+X-AppInstall-Package=flpsed
+X-AppInstall-Popcon=52
+X-AppInstall-Section=aur
+X-Arch-Package=flpsed 0.7.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=flpsed
+X-Arch-Package-Version=0.7.0-1
+X-Arch-Package-Description=A WYSIWYG PostScript annotator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.ecademix.com/JohannesHofmann/flpsed.html
+X-Arch-Package-Votes=52

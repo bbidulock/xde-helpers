@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Lv2rack
+GenericName=LV2 plugins host
+Comment=LV2 plugins host for JACK
+Icon=lv2rack32x32
+TryExec=/usr/bin/lv2rack
+Exec=lv2rack
+Categories=AudioVideo;Audio;
+StartupNotify=false
+X-AppInstall-Package=zynjacku
+X-AppInstall-Popcon=26
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zynjacku
+X-Arch-Package-Version=6-1
+X-Arch-Package-Description=JACK based host for LV2 synths and effects (also containing
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://home.gna.org/zynjacku/
+X-Arch-Package-Votes=26

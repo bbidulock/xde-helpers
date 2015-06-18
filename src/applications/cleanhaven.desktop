@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=CleanHaven
+Comment=CleanHaven - Text cleaner
+Icon=/usr/share/icons/cleanhaven.png
+TryExec=/usr/bin/cleanhaven
+Exec=cleanhaven
+Categories=Application;Office;
+X-AppInstall-Package=cleanhaven
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=cleanhaven 2.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cleanhaven
+X-Arch-Package-Version=2.2-1
+X-Arch-Package-Description=a program designed to make the cleaning of text much easier
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.holymackerelsoftware.com/CleanHaven/CleanHaven.html
+X-Arch-Package-Votes=2

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Professor Fizzwizzle 1 Demo
+GenericName=Platform Puzzle
+Comment=Professor Fizzwizzle is a fun, mind-expanding puzzle game, where you take control of the diminutive genius, Professor Fizzwizzle. You must help the professor use his brains and his gadgets to solve each exciting level.
+Icon=/usr/share/pixmaps/ProfessorFizzwizzle1-demo.png
+TryExec=/usr/bin/professor-fizzwizzle-1-demo
+Exec=professor-fizzwizzle-1-demo
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=professor-fizzwizzle-1-demo
+X-AppInstall-Section=aur
+X-Arch-Package=professor-fizzwizzle-1-demo 1.02-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=professor-fizzwizzle-1-demo
+X-Arch-Package-Version=1.02-1
+X-Arch-Package-Description=Professor Fizzwizzle is a fun, mind-expanding puzzle game,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://grubbygames.com/professor_fizzwizzle.php
+X-Arch-Package-Votes=0

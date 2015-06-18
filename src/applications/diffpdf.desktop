@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=DiffPDF
+Comment=Compare two PDF files
+Comment[es]=Comparar dos archivos PDF
+Icon=diffpdf
+TryExec=/usr/bin/diffpdf
+Exec=diffpdf
+Categories=Utility;Office;Viewer;Qt;
+StartupNotify=true
+X-AppInstall-Package=diffpdf
+X-AppInstall-Popcon=44
+X-AppInstall-Section=aur
+X-Arch-Package=diffpdf 2.1.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=diffpdf
+X-Arch-Package-Version=2.1.3-1
+X-Arch-Package-Description=Diffing pdf files visually or textually
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.qtrac.eu/diffpdf.html
+X-Arch-Package-Votes=44

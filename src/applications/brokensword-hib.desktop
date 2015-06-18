@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Broken Sword: The Shadow of the Templars
+GenericName=Point-and-Click Adventure
+Comment=Revolution Software
+Icon=brokensword
+TryExec=/usr/bin/brokensword
+Exec=/usr/bin/brokensword
+Categories=Game;
+X-AppInstall-Package=brokensword-hib
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=brokensword-hib 1.0.800+h20130701-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=brokensword-hib
+X-Arch-Package-Version=1.0.800+h20130701-1
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://revolution.co.uk/games/bs1dc/
+X-Arch-Package-Votes=5

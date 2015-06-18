@@ -1,0 +1,24 @@
+[Desktop Entry]
+Version=0.1.0
+Type=Application
+Name=jstest-gtk
+GenericName=Joystick Configuration
+Comment=Configuration utility for joysticks
+Icon=/usr/share/icons/jstest-gtk.png
+TryExec=/usr/bin/jstest-gtk
+Exec=/usr/bin/jstest-gtk
+NoDisplay=true
+Categories=Game;Utility;GTK;
+StartupNotify=false
+X-AppInstall-Package=jstest-gtk-git
+X-AppInstall-Popcon=40
+X-AppInstall-Section=aur
+X-Arch-Package=jstest-gtk-git 0.1.0.r44.gddc6bce-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jstest-gtk-git
+X-Arch-Package-Version=0.1.0.r44.gddc6bce-1
+X-Arch-Package-Description=A simple GTK2-based joystick tester and calibrator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/Grumbel/jstest-gtk/
+X-Arch-Package-Votes=40
+Aliases=jstest-gtk;

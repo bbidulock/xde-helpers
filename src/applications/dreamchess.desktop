@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=DreamChess
+GenericName=Chess Game
+GenericName[fr]=Jeu d'échec
+Comment=a 3D chess game
+Icon=dreamchess
+TryExec=/usr/bin/dreamchess
+Exec=dreamchess
+Categories=Game;BoardGame;GNOME;GTK;
+StartupNotify=true
+X-AppInstall-Package=dreamchess
+X-AppInstall-Popcon=67
+X-AppInstall-Section=aur
+X-Arch-Package=dreamchess 0.2.0-7
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dreamchess
+X-Arch-Package-Version=0.2.0-7
+X-Arch-Package-Description=An open source chess game with OpenGL graphics and various
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.dreamchess.org/
+X-Arch-Package-Votes=67

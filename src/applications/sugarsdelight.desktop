@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1
+Type=Application
+Name=Sugar's Delight
+Comment=When Ichigo’s parents realize their daughter’s dream is to own and run a bakery they do everything they can to force her away from such a career..
+Icon=sugarsdelight.ico
+TryExec=/usr/bin/sugarsdelight
+Exec=/usr/bin/sugarsdelight
+Categories=Application;Game;
+X-AppInstall-Package=sugarsdelight
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=sugarsdelight 1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sugarsdelight
+X-Arch-Package-Version=1-2
+X-Arch-Package-Description=English version of free Japaness uri (Hentai) game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://neko-soft.blogspot.com/p/downloads.html
+X-Arch-Package-Votes=2

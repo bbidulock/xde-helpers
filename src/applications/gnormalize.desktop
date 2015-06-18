@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=gnormalize
+Comment=Encoder/Decoder, normalize frontend, etc.
+Icon=gnormalize
+TryExec=/usr/bin/gnormalize
+Exec=gnormalize
+Categories=AudioVideo;Player;GTK;
+MimeType=audio/mp3;audio/x-mp3;audio/mpeg;audio/x-mpeg;audio/x-wav;application/x-ogg;
+StartupNotify=false
+X-AppInstall-Package=gnormalize
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=gnormalize
+X-Arch-Package-Version=0.63-5
+X-Arch-Package-Description=Audio normalizer, converter, encoder/decoder, ripper, tagger and player
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gnormalize.sourceforge.net/

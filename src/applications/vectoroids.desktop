@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Vectoroids
+Comment=A clone of the classic arcade game "Asteroids"
+Icon=_usr_share_pixmaps_vectoroids-icon
+TryExec=/usr/bin/vectoroids
+Exec=vectoroids --fullscreen
+Categories=Application;Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=vectoroids
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=vectoroids
+X-Arch-Package-Version=1.1.0-3
+X-Arch-Package-Description=Clone of the classic arcade game "Asteroids" by Atari
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.newbreedsoftware.com/vectoroids/
+X-Arch-Package-Votes=2

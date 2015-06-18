@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=qNotesManager
+GenericName=Note-taking program
+Icon=/usr/share/pixmaps/qnotesmanager.png
+TryExec=/usr/bin/qnotesmanager
+Exec=qnotesmanager
+Categories=Office;
+X-AppInstall-Package=qnotesmanager
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=qnotesmanager 0.9.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qnotesmanager
+X-Arch-Package-Version=0.9.6-1
+X-Arch-Package-Description=Simple note-taking software written in Qt4.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/WalterSullivan/qNotesManager/wiki
+X-Arch-Package-Votes=2

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Gunroar
+Comment=Kenta Cho's Gunroar
+Icon=gunroar
+TryExec=/usr/bin/gunroar
+Exec=gunroar
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=gunroar
+X-AppInstall-Popcon=17
+X-AppInstall-Section=aur
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gunroar
+X-Arch-Package-Version=0.15-9
+X-Arch-Package-Description=An addictive game by Kenta Cho. Navigate your abstract
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.asahi-net.or.jp/~cs8k-cyu/windows/gr_e.html
+X-Arch-Package-Votes=17

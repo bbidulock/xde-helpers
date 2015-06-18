@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Gmail Notify
+GenericName=Gmail Notify
+Comment=New Gmail notification tool
+Icon=gmail-notify-icon.png
+TryExec=/usr/bin/gmail-notify
+Exec=gmail-notify
+Categories=Application;Network;
+StartupNotify=false
+X-AppInstall-Package=gmail-notify
+X-AppInstall-Popcon=47
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gmail-notify
+X-Arch-Package-Version=1.6.1.1-6
+X-Arch-Package-Description=A Linux alternative for the notifier program released by
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gmail-notify.sourceforge.net
+X-Arch-Package-Votes=47

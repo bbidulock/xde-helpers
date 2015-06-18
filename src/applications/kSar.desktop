@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=kSar
+Comment=Sar data visualizer
+TryExec=/usr/bin/kSar
+Exec=kSar
+Categories=Utility;DataVisualization;
+X-AppInstall-Package=ksar_bin
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=ksar_bin 5.0.6-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ksar_bin
+X-Arch-Package-Version=5.0.6-4
+X-Arch-Package-Description=a sar grapher written in java
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/ksar/
+X-Arch-Package-Votes=10

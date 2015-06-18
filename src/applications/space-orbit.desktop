@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Space-orbit
+Comment=A 3D space combat simulator
+TryExec=/usr/bin/orbit
+Exec=orbit
+Categories=Application;Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=orbit
+X-AppInstall-Popcon=26
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=orbit
+X-Arch-Package-Version=2.0.2-1
+X-Arch-Package-Description=MVC web framework for Lua
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://orbit.luaforge.net/
+X-Arch-Package-Votes=2

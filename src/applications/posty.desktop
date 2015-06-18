@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.8.2
+Type=Application
+Name=Posty
+Comment=A Twitter Application
+Icon=/usr/share/pixmaps/posty/postyIcon48x48.png
+TryExec=/usr/bin/posty
+Exec=posty
+Categories=Network;
+X-AppInstall-Package=posty
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=posty 1.8.2-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=posty
+X-Arch-Package-Version=1.8.2-3
+X-Arch-Package-Description=Adobe AIR twitter/ident.ca client
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://spreadingfunkyness.com/posty/
+X-Arch-Package-Votes=4

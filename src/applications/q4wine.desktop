@@ -1,0 +1,26 @@
+[Desktop Entry]
+Type=Application
+Name=Q4Wine
+GenericName=GUI configuration tool for Wine
+GenericName[it]=tool grafico di configurazione per Wine
+GenericName[ru]=Графическая оболочка для настройки Wine
+GenericName[uk]=Графічна оболонка для налаштування Wine
+Comment=GUI configuration tool for Wine
+Comment[it]=tool grafico di configurazione per Wine
+Comment[ru]=Графическая оболочка для настройки Wine
+Comment[uk]=Графічна оболонка для налаштування Wine
+Icon=q4wine
+TryExec=/usr/bin/q4wine
+Exec=q4wine -b %u
+Categories=System;Emulator;Qt;
+MimeType=application/x-ms-dos-executable;
+StartupNotify=true
+X-AppInstall-Package=q4wine
+X-AppInstall-Popcon=116
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=q4wine
+X-Arch-Package-Version=1.1_r2-1
+X-Arch-Package-Description=A Qt4 GUI for Wine
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/q4wine/

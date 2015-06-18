@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Zatacka
+Generic=Arcade Multiplayer Game
+Comment=Achtung! Die Kurve!
+Icon=zatacka
+TryExec=/usr/bin/zatacka
+Exec=zatacka
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=zatacka
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package=zatacka 0.1.8-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zatacka
+X-Arch-Package-Version=0.1.8-1
+X-Arch-Package-Description=Clone of Achtung die Kurve
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://zatacka.sourceforge.net
+X-Arch-Package-Votes=11

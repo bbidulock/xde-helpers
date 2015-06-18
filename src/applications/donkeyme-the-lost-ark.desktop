@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Donkey Me: Raiders of the Lost Ark
+Name[es]=Donkey me: Indiana Jones en busca del Arca Perdida
+Comment=A Donkey Kong game whit grafics ispired on the movie Indiana Jones: Raiders of the Lost Ark
+Comment[es]=Clon del Donkey Kong con los graficos inspirados en la pelicula Indiana Jones en busca del Arca Perdida
+Icon=donkeyme-the-lost-ark
+TryExec=/usr/bin/donkeyme-the-lost-ark
+Exec=donkeyme-the-lost-ark
+Categories=Game;
+X-AppInstall-Package=donkeyme-the-lost-ark
+X-AppInstall-Section=aur
+X-Arch-Package=donkeyme-the-lost-ark 1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=donkeyme-the-lost-ark
+X-Arch-Package-Version=1.0-1
+X-Arch-Package-Description=A Donkey Kong game whit grafics ispired on the movie Indiana
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.bruneras.com/games_donkeyme.php
+X-Arch-Package-Votes=0

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Dopewars
+Name[de]=Drogenkrieg
+Name[pl]=Wojny narkotykowe
+Comment=dopewars drug dealing game
+Comment[fr]=Jeu de vente de drogue
+Comment[pl]=Gra polegaj\xC4ca na handlowaniu narkotykami
+Icon=dopewars-weed.png
+TryExec=/usr/bin/dopewars
+Exec=dopewars
+Categories=Application;Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=dopewars
+X-AppInstall-Popcon=38
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=dopewars
+X-Arch-Package-Version=1.5.12-7
+X-Arch-Package-Description=A drug dealing game set in New York
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://dopewars.sourceforge.net/

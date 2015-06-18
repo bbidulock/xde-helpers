@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=TORCS
+GenericName=TORCS
+Comment=3D racing cars simulator game
+Comment[es]=Juego de simulación 3D de carrera de autos
+Icon=torcs.xpm
+TryExec=/usr/bin/torcs
+Exec=torcs
+Categories=Game;Simulation;
+StartupNotify=false
+X-AppInstall-Package=torcs
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=torcs
+X-Arch-Package-Version=1.3.6-1
+X-Arch-Package-Description=A 3D racing cars simulator using OpenGL
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://torcs.sourceforge.net

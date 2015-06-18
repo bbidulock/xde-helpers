@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=LibreCAD
+Icon=/usr/share/pixmaps/librecad.png
+TryExec=/usr/bin/librecad
+Exec=/usr/bin/librecad
+Categories=Application;Office;
+StartupNotify=true
+X-AppInstall-Package=librecad-git
+X-AppInstall-Popcon=35
+X-AppInstall-Section=aur
+X-Arch-Package=librecad-git 2.0.6_66_g9b058e0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=librecad-git
+X-Arch-Package-Version=2.0.6_66_g9b058e0-1
+X-Arch-Package-Description=A 2D CAD drawing tool based on the community edition of QCad.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/librecad/
+X-Arch-Package-Votes=35

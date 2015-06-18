@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=KNetDockApp
+GenericName=Network Monitor
+Comment=A KDE network interface monitor
+Icon=knetdockapp
+TryExec=/usr/bin/knetdockapp
+Exec=knetdockapp
+Categories=Network;KDE;Qt;
+StartupNotify=false
+X-AppInstall-Package=knetdockapp
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=knetdockapp
+X-Arch-Package-Version=0.82.3-1
+X-Arch-Package-Description=KDE systray app that monitors the activity of network
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.kde-apps.org/content/show.php?content=29398
+X-Arch-Package-Votes=5

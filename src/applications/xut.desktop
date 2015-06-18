@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Xut
+GenericName=Xut
+Comment=Button football simulation
+Icon=/usr/share/xut/xut-icon.png
+TryExec=/usr/bin/xut
+Exec=xut
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=xut
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=xut 0.2.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xut
+X-Arch-Package-Version=0.2.1-1
+X-Arch-Package-Description=Button football simulation, a turn based game where you play
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://xut.dnteam.org/
+X-Arch-Package-Votes=5

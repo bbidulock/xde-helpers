@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Blender
+Comment=3D modeling, animation, rendering and post-processing application
+Icon=blender
+TryExec=/usr/bin/blender
+Exec=blender
+X-MultipleArgs=false
+NoDisplay=true
+Categories=Application;Graphics;3DGraphics;
+MimeType=application/blender;application/x-blender;
+X-AppInstall-Package=blender2.4-svn
+X-AppInstall-Section=aur
+X-Arch-Package=blender2.4-svn 24534-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=blender2.4-svn
+X-Arch-Package-Version=24534-1
+X-Arch-Package-Description=Subversion version of Blender 2.49 optimized for current system
+X-Arch-Package-URL=http://blender.org/
+Aliases=blender;

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Shadowgrounds
+Comment=Epic sci-fi alien shooter
+Icon=/opt/shadowgrounds/Shadowgrounds.xpm
+TryExec=/usr/bin/shadowgrounds
+Exec=/usr/bin/shadowgrounds
+Categories=Game;ActionGame;
+X-AppInstall-Package=shadowgrounds
+X-AppInstall-Popcon=17
+X-AppInstall-Section=aur
+X-Arch-Package=shadowgrounds beta12_update1-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=shadowgrounds
+X-Arch-Package-Version=beta12_update1-3
+X-Arch-Package-Description=A 3D sci-fi alien shooter (game sold separately)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://shadowgroundsgame.com/
+X-Arch-Package-Votes=17

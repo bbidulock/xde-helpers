@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Mines of Elderlore
+GenericName=Mines of Elderlore roguelike
+Comment=Out-of-challenge 7DRL roguelike developped further to balance easy gameplay and include graphics.
+Icon=mines-of-elderlore.png
+TryExec=/usr/bin/mines-of-elderlore
+Exec=mines-of-elderlore
+Categories=Game;
+X-AppInstall-Package=mines-of-elderlore
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=mines-of-elderlore 1.0beta4-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mines-of-elderlore
+X-Arch-Package-Version=1.0beta4-3
+X-Arch-Package-Description=Out-of-challenge 7DRL roguelike developped further to balance
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://roguebasin.roguelikedevelopment.org/index.php?title=Mines_of_Elderlore
+X-Arch-Package-Votes=2

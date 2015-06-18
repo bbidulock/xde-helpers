@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Unreal Tournament
+GenericName=Classic Shooter
+Icon=ut
+TryExec=/usr/bin/ut
+Exec=/usr/bin/ut
+Categories=Application;Game;ActionGame;
+StartupNotify=true
+X-AppInstall-Package=unrealtournament
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=unrealtournament 451-7
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=unrealtournament
+X-Arch-Package-Version=451-7
+X-Arch-Package-Description=The classic Unreal Tournament form 1999. Retail CD or DVD
+X-Arch-Package-Groups=ut1999-goty
+X-Arch-Package-URL=http://www.unrealtournament2004.com/utgoty/
+X-Arch-Package-Votes=9

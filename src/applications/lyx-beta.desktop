@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=LyX
+GenericName=Document Processor
+Comment=Latex WYSIWYM Editor
+Icon=lyx
+TryExec=/usr/bin/lyx
+Exec=lyx %F
+NoDisplay=true
+Hidden=true
+Categories=Office;WordProcessor;Qt;
+MimeType=text/x-lyx;application/x-lyx;
+StartupNotify=false
+StartupWMClass=Lyx
+X-AppInstall-Package=lyx-beta
+X-AppInstall-Popcon=1415
+X-AppInstall-Section=aur
+X-Arch-Package=lyx-beta 2.0.0rc3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lyx-beta
+X-Arch-Package-Version=2.0.0rc3-1
+X-Arch-Package-Description=An advanced open-source document processor.
+X-Arch-Package-URL=http://www.lyx.org
+Aliases=lyx;

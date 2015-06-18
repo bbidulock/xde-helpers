@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Critical Mass
+Comment=SDL/OpenGL space shoot'em up game
+Icon=critter
+TryExec=/usr/bin/critter
+Exec=critter
+Categories=Game;
+StartupNotify=true
+X-AppInstall-Package=critter
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=critter
+X-Arch-Package-Version=1.0.2-8
+X-Arch-Package-Description=Critical Mass (aka Critter) is an SDL/OpenGL space shoot'em up game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/criticalmass

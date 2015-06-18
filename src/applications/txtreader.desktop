@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Txt Reader
+Name[zh_CN]=Txt Reader 文本阅读器
+GenericName=Txt Reader
+GenericName[zh_CN]=文本阅读器
+Comment=Read text novels and more
+Comment[zh_CN]=阅读小说和其他文本文件
+Icon=txtreader
+TryExec=/usr/bin/txtreader
+Exec=txtreader
+Categories=Office;Viewer;
+StartupNotify=true
+X-AppInstall-Package=txtreader
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=txtreader
+X-Arch-Package-Version=0.6.6-1
+X-Arch-Package-Description=This is a text reader,it's mainly used for reading text
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/txtreader4linux/
+X-Arch-Package-Votes=0

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Qt Demo
+Comment=Shows off some of Qt's widgets and functionality
+Icon=qtlogo
+TryExec=/usr/bin/qtdemo
+Exec=/usr/bin/qtdemo
+NoDisplay=true
+Categories=Development;Qt;
+X-AppInstall-Package=qt-demos
+X-AppInstall-Popcon=22
+X-AppInstall-Section=aur
+X-Arch-Package=qt-demos 4.8.4-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qt-demos
+X-Arch-Package-Version=4.8.4-4
+X-Arch-Package-Description=Qt ships with lots of example programs that teach you how to
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://qt.nokia.com/
+X-Arch-Package-Votes=22
+Aliases=qtdemo;

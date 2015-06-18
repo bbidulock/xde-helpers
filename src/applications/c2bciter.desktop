@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=c2bCiter
+GenericName=Reference Citation Tool
+GenericName[ca]=Eina per citacions bibliogràfiques
+Comment=Bibliographic Reference Citation Tool
+Comment[ca]=Eina bibliogràfica per escriure citacions
+Icon=cb2bib
+TryExec=/usr/bin/cb2bib
+Exec=cb2bib --citer %F
+Categories=Office;
+MimeType=text/x-bibtex;
+Path=/usr/bin
+StartupNotify=false
+X-AppInstall-Package=cb2bib
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cb2bib
+X-Arch-Package-Version=1.4.9-2
+X-Arch-Package-Description=A tool for parsing clipboard data into BibTeX bibliographic
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.molspaces.com/cb2bib/
+X-Arch-Package-Votes=8

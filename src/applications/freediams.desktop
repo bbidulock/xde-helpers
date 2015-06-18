@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=0.4.0
+Type=Application
+Name=FreeDiams
+Comment=Pharmaceutical Drugs Prescriptor
+Comment[fr]=Prescripteur
+Icon=freediams
+TryExec=/usr/bin/freediams
+Exec=freediams
+Categories=Office;MedicalSoftware;
+StartupNotify=false
+X-AppInstall-Package=freediams
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=freediams
+X-Arch-Package-Version=0.8.2.1-1
+X-Arch-Package-Description=The FreeMedForms Pharmaceutical Drugs Prescriber
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.freemedforms.com/en/
+X-Arch-Package-Votes=2

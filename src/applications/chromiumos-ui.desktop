@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Chromium OS UI
+Icon=/usr/lib/chromiumos-ui/product_logo_48.png
+TryExec=/usr/bin/chromiumos-ui
+Exec=chromiumos-ui %U
+Categories=Application;Network;WebBrowser;
+MimeType=text/html;text/xml;application/xhtml_xml;
+X-AppInstall-Package=-bin
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=chromiumos-ui-bin LKGR-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=-bin
+X-Arch-Package-Version=LKGR-3
+X-Arch-Package-Description=Chromium OS user interface (prebuilt binary)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.chromium.org/chromium-os
+X-Arch-Package-Votes=2

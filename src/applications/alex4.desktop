@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Alex the Allegator 4
+Comment=Retro platform game
+Icon=alex4
+TryExec=/usr/bin/alex4
+Exec=alex4
+Categories=Game;ActionGame;
+StartupNotify=false
+X-AppInstall-Package=alex4
+X-AppInstall-Popcon=38
+X-AppInstall-Section=aur
+X-Arch-Package=alex4 1.1-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=alex4
+X-Arch-Package-Version=1.1-5
+X-Arch-Package-Description=Help Alex the Allegator rescue Lola before the humans make a
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://allegator.sourceforge.net
+X-Arch-Package-Votes=9

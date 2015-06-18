@@ -1,5 +1,5 @@
 [Desktop Entry]
-Type=Application
+Type=XSession
 Name=Xfce Session
 Name[ar]=جلسة إكسفس
 Name[bg]=Xfce сесия
@@ -37,9 +37,10 @@ Name[ug]=Xfce ئەڭگىمەسى
 Name[uk]=Сеанс Xfce
 Name[zh_CN]=Xfce 会话
 Name[zh_TW]=Xfce 工作階段
-GenericName=Window Manager
-GenericName[fr]=Gestionnaire de Fenêtres
-GenericName[pt]=Gestor de Janelas
+GenericName=X11 Desktop Environment
+GenericName[de]=X11 Desktop-Umgebung
+GenericName[fi]=X11-työpöytäympäristö
+GenericName[pt]=Ambiente de trabalho X11
 Comment=Use this session to run Xfce as your desktop environment
 Comment[ar]=إستعمل هذه الجلسة لتشغيل إكسفس كسطح مكتب
 Comment[bg]=Използвайте тази сесия за стартиране на Xfce като вашата графична среда
@@ -93,3 +94,4 @@ X-Arch-Package-Description=Xfce window manager
 X-Arch-Package-Groups=xfce4
 X-Arch-Package-URL=http://www.xfce.org/
 DesktopNames=XFCE
+X-LightDM-DesktopName=xfce

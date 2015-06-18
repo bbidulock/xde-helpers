@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=PhotoPrint
+Name[ru]=Пакетная печать фотографий в PhotoPrint
+GenericName=Photo Printing
+GenericName[ru]=Печать фотографий
+Comment=Color managed printing of multiple photos on single page
+Comment[ru]=Цветоуправляемая пакетная печать фотографий
+Icon=fotoprint
+TryExec=/usr/bin/photoprint
+Exec=photoprint %F
+Categories=Graphics;Photography;GNOME;GTK;
+MimeType=image/tiff;image/jpeg;image/png;
+StartupNotify=true
+X-AppInstall-Package=photoprint
+X-AppInstall-Popcon=30
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=photoprint
+X-Arch-Package-Version=0.4.2rc2-7
+X-Arch-Package-Description=PhotoPrint is a utility designed to assist in the process of
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.blackfiveimaging.co.uk/index.php?article=02Software%2F01PhotoPrint
+X-Arch-Package-Votes=30

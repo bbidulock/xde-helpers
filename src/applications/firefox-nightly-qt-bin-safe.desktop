@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Firefox Nightly Qt - Safe Mode
+GenericName=Web Browser
+Icon=firefox-nightly-qt-bin-icon
+TryExec=/usr/bin/firefox-nightly-qt-bin
+Exec=firefox-nightly-qt-bin -safe-mode -p ffnighlyqt -no-remote %u
+MultipleArgs=false
+Categories=Application;Network;
+MimeType=text/html;
+StartupNotify=false
+X-AppInstall-Package=firefox-nightly-qt-bin
+X-AppInstall-Section=aur
+X-Arch-Package=firefox-nightly-qt-bin 10.0a1-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firefox-nightly-qt-bin
+X-Arch-Package-Version=10.0a1-3
+X-Arch-Package-Description=Standalone web browser from mozilla.org, nightly build qt - binaries.
+X-Arch-Package-URL=http://ftp.mozilla.org/pub/mozilla.org/firefox/tinderbox-builds/mozilla-central-linuxqt/

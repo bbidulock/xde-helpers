@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=noeGNUd-Slash'EM
+Comment=A 3D graphical interface for Slash'EM
+Icon=noegnud-slashem.png
+TryExec=/usr/bin/noegnud-slashem
+Exec=noegnud-slashem
+Categories=Game;
+X-AppInstall-Package=noegnud
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=noegnud 0.8.5-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=noegnud
+X-Arch-Package-Version=0.8.5-5
+X-Arch-Package-Description=An alternate ascii/2D/3D UI for nethack using SDL and OpenGL.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.darkarts.co.za/noegnud/about
+X-Arch-Package-Votes=3

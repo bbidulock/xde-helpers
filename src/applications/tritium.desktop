@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Tritium
+Comment=Tritium window manager
+TryExec=/usr/bin/tritium
+Exec=/usr/bin/tritium
+StartupNotify=false
+X-AppInstall-Package=tritium
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tritium
+X-Arch-Package-Version=0.3.5-5
+X-Arch-Package-Description=tritium is a tiling/tabbed window manager for the X Window
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/tritium/
+X-Arch-Package-Votes=4

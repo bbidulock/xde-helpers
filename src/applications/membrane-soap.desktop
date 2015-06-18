@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Membrane SOAP client
+GenericName==Membrane SOAP client
+Icon=membrane-soap.png
+TryExec=/usr/bin/membrane-soap
+Exec=membrane-soap
+Categories=Network;
+StartupWMClass=Membrane-SOAP-Client
+X-AppInstall-Package=membrane-soap
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=membrane-soap 1.3.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=membrane-soap
+X-Arch-Package-Version=1.3.1-1
+X-Arch-Package-Description=Generic SOAP client with a dynamic form generator for SOAP
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.membrane-soa.org/soap-client/
+X-Arch-Package-Votes=1

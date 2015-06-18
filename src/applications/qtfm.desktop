@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=qtFM
+Name[sr]=Кутфм
+Icon=qtfm
+TryExec=/usr/bin/qtfm
+Exec=qtfm %F
+Categories=FileTools;FileManager;Qt;
+StartupNotify=true
+X-XFCE-Binaries=qtfm;
+X-XFCE-Category=FileManager
+X-XFCE-Commands=%B;
+X-XFCE-CommandsWithParameter=%B "%s";
+X-AppInstall-Package=qtfm
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=qtfm
+X-Arch-Package-Version=5.9-1
+X-Arch-Package-Description=A lightweight file manager
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://qt-apps.org/content/show.php/QtFM?content=158787

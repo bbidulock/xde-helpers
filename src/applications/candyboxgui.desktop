@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Candy Box GUI
+Comment=A GUI interface for the web browser game : Candy Box by aniwey
+Icon=/usr/share/candyboxgui/image/candybox.png
+TryExec=/usr/bin/candyboxgui
+Exec=candyboxgui
+Categories=Game;
+StartupNotify=true
+X-AppInstall-Package=candyboxgui
+X-AppInstall-Section=aur
+X-Arch-Package=candyboxgui 1.4.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=candyboxgui
+X-Arch-Package-Version=1.4.3-1
+X-Arch-Package-Description=A gui interface for the web browser game : Candy Box by aniwey
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.github.com/elril0000/candyboxgui
+X-Arch-Package-Votes=0

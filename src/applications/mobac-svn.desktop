@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Mobile Atlas Creator
+Comment=Offline atlas creator for GPS handhels and cell phone applications
+Icon=mobac
+TryExec=/usr/bin/mobac
+Exec=mobac
+NoDisplay=true
+Categories=Education;Geography;
+X-AppInstall-Package=mobac-svn
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=mobac-svn 2021-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mobac-svn
+X-Arch-Package-Version=2021-1
+X-Arch-Package-Description=application that creates atlases for the J2ME application
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://mobac.sourceforge.net/
+X-Arch-Package-Votes=10
+Aliases=mobac;

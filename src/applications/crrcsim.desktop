@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=0.9.12
+Type=Application
+Name=CRRCSIM
+Comment=Open Source R/C flight simulator
+Icon=/usr/share/pixmaps/crrcsim.png
+TryExec=/usr/bin/crrcsim
+Exec=/usr/bin/crrcsim
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=crrcsim
+X-AppInstall-Popcon=22
+X-AppInstall-Section=aur
+X-Arch-Package=crrcsim 0.9.12-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=crrcsim
+X-Arch-Package-Version=0.9.12-3
+X-Arch-Package-Description=Model airplane flight simulation program.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/crrcsim/
+X-Arch-Package-Votes=22

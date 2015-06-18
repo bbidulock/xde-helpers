@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=QShnToolSplit
+GenericName=Grachical frontend for shntool
+GenericName[es]=Interfaz gráfica para shntool
+Comment=rachical frontend for shntool
+Comment[es]=Interfaz gráfica para shntool
+Icon=edit-cut
+TryExec=/usr/bin/qshntoolsplit
+Exec=/usr/bin/qshntoolsplit
+Categories=Audio;Utility;Qt;
+X-AppInstall-Package=qshntoolsplit
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=qshntoolsplit 0.0.1-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qshntoolsplit
+X-Arch-Package-Version=0.0.1-3
+X-Arch-Package-Description=Split cue/media files with a graphical shntool based utility
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=None
+X-Arch-Package-Votes=7

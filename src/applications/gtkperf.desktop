@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=GtkPerf
+Comment=Test GTK+ performance
+Icon=duck
+TryExec=/usr/bin/gtkperf
+Exec=gtkperf
+Categories=System;
+StartupNotify=false
+X-AppInstall-Package=gtkperf
+X-AppInstall-Popcon=23
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=gtkperf
+X-Arch-Package-Version=0.40-5
+X-Arch-Package-Description=An application designed to test GTK+ performance
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gtkperf.sourceforge.net

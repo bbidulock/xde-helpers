@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=RapidSVN
+GenericName=Subversion Client
+Comment=A GUI Client for Subversion
+Icon=rapidsvn
+TryExec=/usr/bin/rapidsvn
+Exec=rapidsvn
+Categories=Development;
+StartupNotify=false
+X-AppInstall-Package=rapidsvn
+X-AppInstall-Popcon=217
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=rapidsvn
+X-Arch-Package-Version=0.12.1-6
+X-Arch-Package-Description=A cross-platform GUI front-end for the Subversion revision system written in C++ using the wxWidgets framework.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://rapidsvn.tigris.org/

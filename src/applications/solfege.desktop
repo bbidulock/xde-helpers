@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=GNU Solfege
+Icon=solfege.png
+TryExec=/usr/bin/solfege
+Exec=solfege
+Categories=Application;AudioVideo;Audio;Education;GNOME;
+StartupNotify=false
+X-AppInstall-Package=solfege
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=solfege
+X-Arch-Package-Version=3.22.2-2
+X-Arch-Package-Description=Music education and ear training software
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.solfege.org/

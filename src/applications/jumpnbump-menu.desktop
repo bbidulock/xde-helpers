@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Jump'n'Bump
+Comment=Jump on your opponents to make them explode
+Icon=/usr/share/icons/jumpnbump.png
+TryExec=/usr/bin/jumpnbump-menu
+Exec=jumpnbump-menu
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=jumpnbump-menu
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=jumpnbump-menu 0.6-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jumpnbump-menu
+X-Arch-Package-Version=0.6-4
+X-Arch-Package-Description=A pygtk launcher for jump'n'bump.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://jumpbump.mine.nu/
+X-Arch-Package-Votes=8
+Aliases=jumpnbump;

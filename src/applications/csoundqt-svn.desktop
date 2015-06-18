@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=CsoundQt
+GenericName=CsoundQt
+Comment=Csound Qt signal processing environment
+Icon=csoundqt
+TryExec=/usr/bin/csoundqt
+Exec=csoundqt
+NoDisplay=true
+Categories=Application;AudioVideo;Audio;
+X-AppInstall-Package=csoundqt-svn
+X-AppInstall-Section=aur
+X-Arch-Package=csoundqt-svn 988-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=csoundqt-svn
+X-Arch-Package-Version=988-2
+X-Arch-Package-Description=A cross platform editor and front-end for Csound with syntax highlighting,
+X-Arch-Package-URL=http://qutecsound.sourceforge.net/
+Aliases=csoundqt;

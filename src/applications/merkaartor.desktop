@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Merkaartor
+GenericName=OpenStreetMap Editor
+GenericName[fr]=Un éditeur pour OpenStreetMap
+GenericName[tr]=Açık Sokak Haritası Düzenleyicisi
+Icon=merkaartor
+TryExec=/usr/bin/merkaartor
+Exec=merkaartor
+Categories=Network;Geography;Qt;
+StartupNotify=false
+X-AppInstall-Package=merkaartor
+X-AppInstall-Popcon=73
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=merkaartor
+X-Arch-Package-Version=0.18.1-2
+X-Arch-Package-Description=OpenStreetMap editor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://merkaartor.be/
+X-Arch-Package-Votes=73

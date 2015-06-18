@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=OpenGOO
+Comment=A free and open clone of World Of Goo.
+Icon=opengoo
+TryExec=/usr/bin/OpenGOO
+Exec=OpenGOO
+Categories=Game;
+X-AppInstall-Package=opengoo-git
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=opengoo-git 20130114-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=opengoo-git
+X-Arch-Package-Version=20130114-1
+X-Arch-Package-Description=A free and open clone of World Of Goo.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://mandarancio.github.com/OpenGOO/
+X-Arch-Package-Votes=6

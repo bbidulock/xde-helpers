@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Mumble
+GenericName=Voice Chat
+Comment=A low-latency, high quality voice chat program for gaming
+Icon=mumble
+TryExec=/usr/bin/mumble
+Exec=mumble
+Categories=Network;Chat;Qt;
+StartupNotify=false
+X-AppInstall-Package=mumble
+X-AppInstall-Popcon=93
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=mumble
+X-Arch-Package-Version=1.2.8-3
+X-Arch-Package-Description=A voice chat application similar to TeamSpeak
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://mumble.sourceforge.net/

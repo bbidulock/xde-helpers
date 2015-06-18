@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=tX
+Comment=Tabular XML editor
+Icon=tx
+TryExec=/usr/bin/tx
+Exec=tx
+Categories=Utility;
+X-AppInstall-Package=tx
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=tx 1.2-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tx
+X-Arch-Package-Version=1.2-4
+X-Arch-Package-Description=Qt4 based tabular XML editor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.gravitybind.com/
+X-Arch-Package-Votes=10

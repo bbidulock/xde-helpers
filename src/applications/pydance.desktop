@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=pydance
+GenericName=Dancing Game
+Icon=pydance.png
+TryExec=/usr/bin/pydance
+Exec=pydance
+Categories=Application;Game;ArcadeGame;Music;
+StartupNotify=false
+X-AppInstall-Package=pydance
+X-AppInstall-Popcon=16
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pydance
+X-Arch-Package-Version=1.1.0-1
+X-Arch-Package-Description=python ddr game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://icculus.org/pyddr/
+X-Arch-Package-Votes=0

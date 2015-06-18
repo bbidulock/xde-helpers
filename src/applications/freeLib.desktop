@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=freeLib
+Icon=/opt/freeLib/freeLib.png
+TryExec=/opt/freeLib/freeLib.sh
+Exec=/opt/freeLib/freeLib.sh
+Categories=Office;
+Keywords=fb2,mobi,epub,azw3;
+X-AppInstall-Package=freelib
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=freelib 4.8.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=freelib
+X-Arch-Package-Version=4.8.2-1
+X-Arch-Package-Description=Home library with librusec/flibusta support
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/freelibdesign/
+X-Arch-Package-Votes=1

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Angry Drunken Dwarves
+Comment=Classic "falling blocks" puzzle game
+Icon=angrydd
+TryExec=/usr/bin/angrydd
+Exec=angrydd
+Categories=Game;BlocksGame;
+X-AppInstall-Package=angrydd
+X-AppInstall-Popcon=24
+X-AppInstall-Section=aur
+X-Arch-Package=angrydd 1.0.1-6
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=angrydd
+X-Arch-Package-Version=1.0.1-6
+X-Arch-Package-Description="Angry, Drunken Dwarves" is a classic "falling blocks" puzzle
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.sacredchao.net/~piman/angrydd/
+X-Arch-Package-Votes=5

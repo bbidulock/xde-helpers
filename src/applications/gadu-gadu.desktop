@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Gadu Gadu
+Comment=Gadu Gadu communicator
+Comment[pl]=Komunikator gadu gadu
+Icon=/opt/GG/icons/gg.png
+TryExec=/opt/GG/gg
+Exec=/opt/GG/gg
+Categories=Application;Network;
+X-AppInstall-Package=gadu-gadu
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=gadu-gadu 12.0.50.11203-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gadu-gadu
+X-Arch-Package-Version=12.0.50.11203-1
+X-Arch-Package-Description=Gadu Gadu Communicator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gadu-gadu.pl
+X-Arch-Package-Votes=2

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Dark Oberon
+Comment=An open source real-time strategy game similar to Warcraft II
+Icon=dark-oberon
+TryExec=/usr/bin/dark-oberon
+Exec=dark-oberon
+Categories=Game;StrategyGame;
+X-AppInstall-Package=dark-oberon
+X-AppInstall-Popcon=12
+X-AppInstall-Section=aur
+X-Arch-Package=dark-oberon 1.0.2rc2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dark-oberon
+X-Arch-Package-Version=1.0.2rc2-2
+X-Arch-Package-Description=An open source real-time strategy game similar to Warcraft II
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://dark-oberon.sourceforge.net/
+X-Arch-Package-Votes=12

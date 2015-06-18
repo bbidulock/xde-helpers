@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=EduMIPS64
+Comment=MIPS64 instruction set simulator
+Icon=edumips64
+TryExec=/usr/bin/edumips64
+Exec=edumips64
+NoDisplay=true
+Categories=Development;Education;Science;ComputerScience;DataVisualization;Java;
+X-AppInstall-Package=edumips64-unict
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=edumips64-unict 0.5.2-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=edumips64-unict
+X-Arch-Package-Version=0.5.2-3
+X-Arch-Package-Description=GPL porting to Java Swing of the MIPS64 instruction set
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://edumips.org/
+X-Arch-Package-Votes=1
+Aliases=edumips64;

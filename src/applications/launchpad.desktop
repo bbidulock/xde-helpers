@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=0.18
+Type=Application
+Name=SWGEmu Launchpad
+Icon=/usr/share/pixmaps/SWGEMU/icon.png
+TryExec=/opt/SWGEMU/Launchpad/SWGEmuLaunchpad
+Exec=/opt/SWGEMU/Launchpad/SWGEmuLaunchpad
+Categories=Game;
+X-AppInstall-Package=swgemu
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=swgemu 0.18-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=swgemu
+X-Arch-Package-Version=0.18-3
+X-Arch-Package-Description=Launcher for Star Wars Galaxies Emulator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.swgemu.com
+X-Arch-Package-Votes=1

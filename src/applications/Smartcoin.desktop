@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Smartcoin
+Comment=Smartcoin P2P Cryptocurrency
+Comment[fr]=Smartcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Smartcoin, eşten eşe kriptografik sanal para birimi
+Icon=/usr/share/pixmaps/bitcoin.png
+TryExec=/usr/bin/Smartcoin-qt
+Exec=/usr/bin/Smartcoin-qt %u
+Categories=Office;
+MimeType=x-scheme-handler/potcoin;
+X-AppInstall-Package=smartcoin-qt
+X-AppInstall-Section=aur
+X-Arch-Package=smartcoin-qt 1.0.0.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=smartcoin-qt
+X-Arch-Package-Version=1.0.0.0-1
+X-Arch-Package-Description=Cryptocurrency
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http:/http://getsmartcoin.com//
+X-Arch-Package-Votes=0

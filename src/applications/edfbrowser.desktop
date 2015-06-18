@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=EDFBrowser
+GenericName=EDF Browser
+Comment=Time Series Viewer
+Icon=edfbrowser
+TryExec=/usr/bin/edfbrowser
+Exec=edfbrowser
+Categories=Education;Science;Math;
+StartupNotify=true
+X-AppInstall-Package=edfbrowser
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=edfbrowser 1.53-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=edfbrowser
+X-Arch-Package-Version=1.53-1
+X-Arch-Package-Description=A viewer and toolbox for timeseries storage files like EEG,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.teuniz.net/edfbrowser/
+X-Arch-Package-Votes=2

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Stellarium
+GenericName=Desktop planetarium
+Comment=Planetarium
+Comment[fr]=Planétarium
+Icon=stellarium
+TryExec=/usr/bin/stellarium
+Exec=stellarium
+Categories=Education;Science;Astronomy;
+StartupNotify=false
+X-AppInstall-Package=stellarium
+X-AppInstall-Section=extra
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=stellarium
+X-Arch-Package-Version=0.13.2-1
+X-Arch-Package-Description=A stellarium with great graphics and a nice database of sky-objects
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://stellarium.free.fr/

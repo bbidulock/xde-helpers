@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Firefox Beta
+Name[it_IT]=firefox-beta-desktop
+GenericName=Web Browser
+Icon=firefox-beta-bin-icon
+TryExec=/usr/bin/firefox-beta-bin
+Exec=firefox-beta-bin %u
+MultipleArgs=false
+NoDisplay=true
+Categories=Application;Network;
+MimeType=text/html;
+StartupNotify=false
+X-AppInstall-Package=firefox-beta-bin-it
+X-AppInstall-Section=aur
+X-Arch-Package=firefox-beta-bin-it 14.0b9-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firefox-beta-bin-it
+X-Arch-Package-Version=14.0b9-1
+X-Arch-Package-Description=Standalone web browser from mozilla.org! Latest beta with Italian language
+X-Arch-Package-URL=http://www.mozilla.org/projects/firefox
+Aliases=firefox-beta;

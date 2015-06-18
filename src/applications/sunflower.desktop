@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=sunflower.desktop
+GenericName=File Manager
+Comment=Sunflower is a small and highly customizable twin-panel file manager
+Icon=sunflower
+TryExec=/usr/bin/sunflower
+Exec=sunflower
+Categories=System;Utility;FileTools;FileManager;Core;GTK;
+StartupNotify=true
+X-AppInstall-Package=sunflower-git
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package=sunflower-git 0.2.59-0
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sunflower-git
+X-Arch-Package-Version=0.2.59-0
+X-Arch-Package-Description=Small and highly customizable twin-panel file manager for
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/MeanEYE/Sunflower
+X-Arch-Package-Votes=11

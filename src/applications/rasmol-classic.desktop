@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=RasMol (classic version)
+GenericName=Molecular Graphics Visualization
+GenericName[en_GB]=Molecular Graphics Visualisation
+Comment=View macro-molecules and prepare publication-quality images of them
+Icon=rasmol
+TryExec=/usr/bin/rasmol-classic
+Exec=rasmol-classic %F
+Terminal=true
+Categories=Education;Science;Biology;
+MimeType=chemical/x-pdb;chemical/x-xyz;
+StartupNotify=false
+X-AppInstall-Package=rasmol
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rasmol
+X-Arch-Package-Version=2.7.5-3
+X-Arch-Package-Description=A program for molecular graphics visualisation (aka
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.openrasmol.org/
+X-Arch-Package-Votes=6

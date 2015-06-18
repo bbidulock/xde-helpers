@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=SRWare Iron Web Browser
+Comment=Browse the World Wide Web
+Icon=iron
+TryExec=/usr/bin/iron
+Exec=iron %U
+NoDisplay=true
+Categories=Network;WebBrowser;GTK;
+MimeType=text/html;text/xml;application/xhtml+xml;text/mml;x-scheme-handler/http;x-scheme-handler/https;
+StartupWMClass=Iron
+X-AppInstall-Package=iron-bin
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=iron-bin 42.0.2250.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=iron-bin
+X-Arch-Package-Version=42.0.2250.1-1
+X-Arch-Package-Description=A web browser based on Chromium without Google's «tracking
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.srware.net/en/software_srware_iron.php
+X-Arch-Package-Votes=1
+Aliases=iron;

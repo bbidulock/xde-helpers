@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=FF-clone
+GenericName=Fish Fillets Clone
+Icon=/usr/share/pixmaps/ff-clone.png
+TryExec=/usr/bin/ff-clone
+Exec=ff-clone
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=ff-clone
+X-AppInstall-Section=aur
+X-Arch-Package=ff-clone 1.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ff-clone
+X-Arch-Package-Version=1.1-2
+X-Arch-Package-Description=Fish Fillets Clone
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.olsak.net/mirek/ff-clone/index_en.html
+X-Arch-Package-Votes=0

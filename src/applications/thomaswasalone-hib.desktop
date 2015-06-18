@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Thomas Was Alone
+GenericName=Platformer Puzzle Game
+Comment=Mike Bithell
+Icon=thomaswasalone
+TryExec=/usr/bin/thomaswasalone
+Exec=/usr/bin/thomaswasalone
+Categories=Game;
+X-AppInstall-Package=thomaswasalone-hib
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=thomaswasalone-hib 0_20130429-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=thomaswasalone-hib
+X-Arch-Package-Version=0_20130429-2
+X-Arch-Package-Description=Thomas Was Alone, a minimalistic puzzle-platformer (Humble
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.thomaswasalone.com/
+X-Arch-Package-Votes=9

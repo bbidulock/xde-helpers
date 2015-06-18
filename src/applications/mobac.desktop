@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Mobile Atlas Creator
+GenericName=MobAC
+TryExec=/usr/bin/mobac
+Exec=/usr/bin/mobac %F
+Categories=Science;Geography;
+StartupNotify=false
+X-AppInstall-Package=mobac
+X-AppInstall-Popcon=20
+X-AppInstall-Section=aur
+X-Arch-Package=mobac 1.9.16-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mobac
+X-Arch-Package-Version=1.9.16-1
+X-Arch-Package-Description=Mobile Atlas Creator (formerly known as TrekBuddy Atlas
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://mobac.sourceforge.net/
+X-Arch-Package-Votes=20

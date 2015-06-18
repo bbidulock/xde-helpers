@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=SineRider
+Comment=SineRider is a game of numerical sledding.
+Icon=sinerider
+TryExec=/usr/bin/sinerider
+Exec=sinerider
+Categories=Education;Game;Math;
+StartupWMClass=SineRider
+X-AppInstall-Package=sinerider
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=sinerider 0.3.36-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sinerider
+X-Arch-Package-Version=0.3.36-1
+X-Arch-Package-Description=A game of numerical sledding. It will make you see math the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sineridergame.com/
+X-Arch-Package-Votes=1

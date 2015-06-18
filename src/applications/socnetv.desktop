@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=SocNetV
+GenericName=Social Networks Analysis and Visualisation
+Comment=Social Networks Visualisation and Analysis.
+Icon=socnetv
+TryExec=/usr/bin/socnetv
+Exec=socnetv
+Categories=Education;Science;Math;Qt;
+StartupNotify=false
+X-AppInstall-Package=socnetv
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=socnetv
+X-Arch-Package-Version=1.7-2
+X-Arch-Package-Description=Social Networks Analysis and Visualisation
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://socnetv.sourceforge.net/
+X-Arch-Package-Votes=4
+X-SuSE-translate=true

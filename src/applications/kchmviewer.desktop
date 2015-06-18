@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=KchmViewer
+GenericName=CHM file viewer
+Comment=A viewer of CHM (MS-Help) files
+Icon=kchmviewer
+TryExec=/usr/bin/kchmviewer
+Exec=kchmviewer %U
+Categories=Office;Viewer;KDE;Qt;
+MimeType=application/chm;application/x-chm;
+X-AppInstall-Package=kchmviewer
+X-AppInstall-Popcon=200
+X-AppInstall-Section=community
+X-Arch-Package=kchmviewer 7.3-2
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=kchmviewer
+X-Arch-Package-Version=7.3-2
+X-Arch-Package-Description=A .chm files (MS HTML help file format) viewer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kchmviewer.sourceforge.net/

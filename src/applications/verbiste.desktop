@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Verbiste
+Comment=French conjugation system
+Comment[fr]=Système de conjugaison française
+Icon=verbiste.png
+TryExec=/usr/bin/verbiste
+Exec=verbiste
+Categories=Office;Dictionary;
+StartupNotify=false
+X-AppInstall-Package=verbiste-gnome
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=verbiste-gnome
+X-Arch-Package-Version=0.1.33-1
+X-Arch-Package-Description=Generates conjugations of french verbs - with gnome-panel
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sarrazip.com/dev/verbiste.html
+X-Arch-Package-Votes=7

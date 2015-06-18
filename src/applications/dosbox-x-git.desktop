@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=DOSBox
+GenericName=DOS Emulator
+GenericName[es]=Emulador de DOS
+Comment=Run DOS games and apps
+Comment[es]=Ejecuta juegos y aplicaciones DOS
+Icon=dosbox
+TryExec=/usr/bin/dosbox
+Exec=dosbox
+NoDisplay=true
+Categories=Game;Emulator;
+X-AppInstall-Package=dosbox-x-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=dosbox-x-git 957.d29bfa7-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dosbox-x-git
+X-Arch-Package-Version=957.d29bfa7-1
+X-Arch-Package-Description=x86 emulator with builtin DOS, with patches with more features
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://dosbox.sourceforge.net
+X-Arch-Package-Votes=1
+Aliases=dosbox;

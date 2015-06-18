@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Minecraft
+GenericName=Minecraft
+Comment=A game about placing blocks while running from skeletons.
+Icon=minecraft
+TryExec=/usr/bin/minecraft
+Exec=minecraft
+Categories=Game;
+X-AppInstall-Package=minecraft
+X-AppInstall-Popcon=511
+X-AppInstall-Section=aur
+X-Arch-Package=minecraft latest-24
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=minecraft
+X-Arch-Package-Version=latest-24
+X-Arch-Package-Description=An open-world game whose gameplay revolves around breaking and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.minecraft.net/
+X-Arch-Package-Votes=511

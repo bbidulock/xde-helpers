@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=upm
+Comment=Universal Password Manager
+Icon=upm
+TryExec=/usr/bin/upm
+Exec=upm
+Categories=Application;Utility;
+X-AppInstall-Package=upm
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=upm 1.13-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=upm
+X-Arch-Package-Version=1.13-1
+X-Arch-Package-Description=Universal Password Manager
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://upm.sourceforge.net/
+X-Arch-Package-Votes=7

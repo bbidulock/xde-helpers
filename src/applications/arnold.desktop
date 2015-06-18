@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Arnold
+GenericName=Amstrad CPC emulator
+Icon=/usr/share/pixmaps/arnold.png
+TryExec=/usr/bin/arnold
+Exec=arnold
+Categories=System;Emulator;
+X-AppInstall-Package=arnold
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=arnold 2009.05.31-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=arnold
+X-Arch-Package-Version=2009.05.31-3
+X-Arch-Package-Description=An Amstrad CPC emulator using SDL with a GTK+ interface
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.yasara.org/cpc/
+X-Arch-Package-Votes=13

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Kartofel
+Comment=A puzzle game where you have to connect the numbered dots
+Icon=kartofel.png
+TryExec=/usr/bin/kartofel
+Exec=kartofel
+Categories=Game;LogicGame;
+X-AppInstall-Package=kartofel
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=kartofel 1.2-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kartofel
+X-Arch-Package-Version=1.2-3
+X-Arch-Package-Description=A puzzle game where you have to connect the numbered dots
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kartofel.jfedor.org/
+X-Arch-Package-Votes=2

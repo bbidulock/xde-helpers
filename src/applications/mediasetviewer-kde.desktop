@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Mediaset Viewer KDE
+Icon=mediasetviewer-kde
+TryExec=/usr/bin/mediasetviewer-kde
+Exec=/usr/bin/mediasetviewer-kde
+Categories=AudioVideo;Video;
+StartupNotify=true
+X-AppInstall-Package=mediasetviewer-kde
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=mediasetviewer-kde 1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mediasetviewer-kde
+X-Arch-Package-Version=1-1
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=None
+X-Arch-Package-Votes=1

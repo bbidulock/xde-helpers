@@ -1,5 +1,5 @@
 [Desktop Entry]
-Type=Application
+Type=XSession
 Name=MVWM
 GenericName=Window Manager
 GenericName[fr]=Gestionnaire de Fenêtres
@@ -88,6 +88,7 @@ X-Arch-Package-Description=A clean-up effort of FVWM (with rounded corner patch)
 X-Arch-Package-Groups=None
 X-Arch-Package-URL=https://github.com/ThomasAdam/mvwm
 DesktopNames=MVWM
+X-LightDM-DesktopName=mvwm
 X-SuSE-translate=true
 Actions=XDE;
 
@@ -98,6 +99,7 @@ Icon=xde
 TryExec=/usr/bin/xde-session
 Exec=xde-session -desktop MVWM -startwm mvwm
 DesktopNames=XDE:MVWM
+X-LightDM-DesktopName=xde
 
 [Window Manager]
 Name=mvwm

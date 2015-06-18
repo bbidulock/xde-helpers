@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Freqtweak
+Comment=Realtime audio processor based on frequency spectral manipulation
+Icon=freqtweak_logo32x18.xpm
+TryExec=/usr/bin/freqtweak
+Exec=freqtweak
+Categories=AudioVideo;Audio;Midi;
+StartupNotify=false
+X-AppInstall-Package=freqtweak
+X-AppInstall-Popcon=12
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=freqtweak
+X-Arch-Package-Version=0.7.2-1
+X-Arch-Package-Description=A tool for FFT-based realtime audio spectral manipulation and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://freqtweak.sourceforge.net/
+X-Arch-Package-Votes=12

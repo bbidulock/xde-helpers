@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Illumination Software Creator
+Comment=Visual Software Creation
+Icon=illumination
+TryExec=/usr/bin/illumination
+Exec=illumination
+Categories=Development;
+X-AppInstall-Package=illumination-software-creator
+X-AppInstall-Section=aur
+X-Arch-Package=illumination-software-creator 6.1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=illumination-software-creator
+X-Arch-Package-Version=6.1.0-1
+X-Arch-Package-Description=Illumination Software Creator: Graphical programming environment that generates source code for various targets (including ActionScript/Adobe Flex, Android, HTML/JS, and Python/GTK)
+X-Arch-Package-URL=http://lunduke.com/?page_id=3454

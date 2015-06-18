@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=DataStax DevCenter
+Comment=DataStax DevCenter
+Icon=/usr/share/datastax-devcenter/icon.xpm
+TryExec=/usr/bin/datastax-devcenter
+Exec=datastax-devcenter %u
+Categories=Development;IDE;
+X-AppInstall-Package=datastax-devcenter
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=datastax-devcenter 1.3.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=datastax-devcenter
+X-Arch-Package-Version=1.3.0-1
+X-Arch-Package-Description=Visual query tool for Apache Cassandra and DataStax Enterprise
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.datastax.com/what-we-offer/products-services/devcenter
+X-Arch-Package-Votes=1

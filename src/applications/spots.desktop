@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Spots
+Comment=Spots P2P Cryptocurrency
+Icon=/usr/share/pixmaps/spots.png
+TryExec=/usr/bin/spots-qt
+Exec=/usr/bin/spots-qt
+Categories=Network;
+MimeType=x-scheme-handler/spots;
+X-AppInstall-Package=spots-qt-git
+X-AppInstall-Section=aur
+X-Arch-Package=spots-qt-git 0.8.5.r45.g6b3776c-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=spots-qt-git
+X-Arch-Package-Version=0.8.5.r45.g6b3776c-2
+X-Arch-Package-Description=Cryptocurrency
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://bitcointalk.org/index.php?topic=259764.0
+X-Arch-Package-Votes=0

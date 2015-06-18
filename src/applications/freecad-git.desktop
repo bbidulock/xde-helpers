@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=FreeCAD
+GenericName=CAD Application
+Comment=A general purpose 3D CAD modeler
+Icon=/opt/freecad/data/freecad.xpm
+TryExec=/usr/bin/freecad
+Exec=/usr/bin/freecad %F
+NoDisplay=true
+Categories=Application;Education;Science;Math;
+MimeType=application/x-extension-fcstd;
+Path=/opt/freecad/lib
+StartupNotify=true
+X-AppInstall-Package=freecad-git
+X-AppInstall-Popcon=45
+X-AppInstall-Section=aur
+X-Arch-Package=freecad-git 0.14.1.r896.gaeabffe-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=freecad-git
+X-Arch-Package-Version=0.14.1.r896.gaeabffe-1
+X-Arch-Package-Description=A general purpose 3D CAD modeler - git checkout
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.freecadweb.org/
+X-Arch-Package-Votes=45
+Aliases=freecad;

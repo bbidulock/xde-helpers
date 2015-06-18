@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=gWaei Japanese-English Dictionary
+Name[fr]=gWaei Dictionnaire Japonais-Anglais
+Name[it]=gWaei Dizionario Giapponese-Inglese
+Name[ja]=gWaei 和英辞書
+Comment=Enter a Japanese or English word to easily get translations.
+Comment[fr]=Entrer un mot en japonais ou en anglais pour facilement obtenir une traduction.
+Comment[it]=Inserisci un termine Giapponese o Inglese per avere facilmente una traduzione.
+Comment[ja]=英語か日本語の単語を入れて簡単に翻訳を調べます
+Icon=gwaei
+TryExec=/usr/bin/gwaei
+Exec=gwaei
+Categories=Utility;GNOME;GTK;
+StartupNotify=false
+X-AppInstall-Package=gwaei
+X-AppInstall-Popcon=12
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gwaei
+X-Arch-Package-Version=3.6.2-1
+X-Arch-Package-Description=Japanese-English dictionary program
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gwaei.sourceforge.net/
+X-Arch-Package-Votes=12

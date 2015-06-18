@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Audacity
+GenericName=Sound Editor
+GenericName[de]=Audio-Editor
+GenericName[ru]=Редактор звуковых файлов
+Comment=Record and edit audio files
+Comment[de]=Audio-Dateien aufnehmen und bearbeiten
+Comment[ru]=Запись и редактирование звуковых файлов
+Icon=audacity
+TryExec=/usr/bin/audacity
+Exec=audacity
+Categories=AudioVideo;Audio;AudioVideoEditing;
+MimeType=application/ogg;audio/basic;audio/mpeg;audio/x-aiff;audio/x-mp3;audio/x-wav;application/x-audacity-project;
+StartupNotify=false
+X-AppInstall-Package=audacity
+X-AppInstall-Popcon=4237
+X-AppInstall-Section=extra
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=audacity
+X-Arch-Package-Version=2.1.0-1
+X-Arch-Package-Description=A program that lets you manipulate digital audio waveforms
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://audacity.sourceforge.net/

@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Tremulous-GPP
+GenericName=Tremulous-GPP
+Comment=Online Team-Based RTS/FPS Hybrid
+Icon=tremulous-gpp.xpm
+TryExec=/usr/bin/tremulous-gpp
+Exec=/usr/bin/tremulous-gpp
+NoDisplay=true
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=tremulous-gpp
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=tremulous-gpp 1-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tremulous-gpp
+X-Arch-Package-Version=1-4
+X-Arch-Package-Description=The Gameplay Preview (beta) for Tremulous 1.2
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://tremulous.net
+X-Arch-Package-Votes=7
+Aliases=tremulous;

@@ -1,0 +1,27 @@
+[Desktop Entry]
+Type=Application
+Name=KShutdown
+Name[sr@latin]=K-Gašenje
+Name[sr]=К-Гашење
+GenericName=System Shut Down Utility
+GenericName[pl]=Narzędzie do zamykania systemu
+GenericName[sr@latin]=Napredna alatka za gašenje
+GenericName[sr]=Напредна алатка за гашење
+Comment=An advanced shut down utility
+Comment[pl]=Zaawansowane narzędzie do zamykania systemu
+Comment[sr@latin]=Napredna alatka za gašenje računara
+Comment[sr]=Напредна алатка за гашење рачунара
+Icon=kshutdown
+TryExec=/usr/bin/kshutdown
+Exec=kshutdown
+Categories=Utility;
+StartupNotify=false
+X-AppInstall-Package=kshutdown
+X-AppInstall-Popcon=82
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=kshutdown
+X-Arch-Package-Version=3.2-3
+X-Arch-Package-Description=Shutdown Utility for KDE
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kshutdown.sourceforge.net/

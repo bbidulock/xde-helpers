@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=K3DSurf
+GenericName=3D Function Grapher
+GenericName[fr]=Traceur de fonction 3D
+Comment=Visualize and manipulate Mathematical models in three, four, five, and six dimensions
+Comment[fr]=Visualisez et manipulez des modèles mathématiques en trois, quatre, cinq et six dimensions
+Icon=k3dsurf
+TryExec=/usr/bin/k3dsurf
+Exec=k3dsurf
+Categories=Education;Science;Math;KDE;Qt;
+StartupNotify=true
+X-AppInstall-Package=k3dsurf
+X-AppInstall-Popcon=42
+X-AppInstall-Section=main
+X-Arch-Package=k3dsurf 0.6.2.4-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=k3dsurf
+X-Arch-Package-Version=0.6.2.4-2
+X-Arch-Package-Description=A program to visualize and manipulate multi-dimensional surfaces by using Mathematical equations
+X-Arch-Package-URL=http://kde-apps.org/content/show.php/?content=50062

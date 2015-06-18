@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Vimprobable2
+Name[es]=Vimprobable 2
+Name[sr]=Вимогући2
+Icon=vimprobable2
+TryExec=/usr/bin/vimprobable2
+Exec=vimrprobable2 %F
+Categories=FileTools;FileManager;
+StartupNotify=true
+X-XFCE-Binaries=vimprobable2;
+X-XFCE-Category=WebBrowser
+X-XFCE-Commands=%B;
+X-XFCE-CommandsWithParameter=%B "%s";
+X-AppInstall-Package=vimprobable2
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=vimprobable2
+X-Arch-Package-Version=1.4.2-1
+X-Arch-Package-Description=Web browser that behaves like Vimperator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/apps/trac/vimprobable/
+X-Arch-Package-Votes=7

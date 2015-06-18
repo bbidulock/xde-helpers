@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Groovesquid
+GenericName=Grooveshark Downloader and Streamer
+Icon=groovesquid
+TryExec=/usr/bin/java
+Exec=java -jar /opt/groovesquid/groovesquid.jar
+Categories=AudioVideo;Audio;Player;Music;
+X-AppInstall-Package=groovesquid
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=groovesquid 0.9.2-0
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=groovesquid
+X-Arch-Package-Version=0.9.2-0
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://groovesquid.com/
+X-Arch-Package-Votes=3

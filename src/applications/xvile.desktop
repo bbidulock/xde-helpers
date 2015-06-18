@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=XVile
+Comment=VI Like Emacs
+Icon=vile
+TryExec=/usr/bin/xvile
+Exec=xvile
+Categories=Application;Utility;TextEditor;
+StartupNotify=false
+X-AppInstall-Package=xvile
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xvile
+X-Arch-Package-Version=9.8_l-1
+X-Arch-Package-Description=vi like emacs
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://invisible-island.net/vile/vile.html
+X-Arch-Package-Votes=8

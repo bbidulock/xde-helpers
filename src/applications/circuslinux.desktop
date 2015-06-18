@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Circus Linux!
+GenericName=Circus Linux
+Comment=Throw the clowns before they fall and hit the balloons with them
+Comment[ca]=Llança els pallassos abans de que caiguin i peta els globus amb ells
+Comment[de]=Werfe die Clowns bevor sie fallen und treffe die Ballone mit ihnen
+Icon=circuslinux
+TryExec=/usr/bin/circuslinux
+Exec=circuslinux
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=circuslinux
+X-AppInstall-Popcon=74
+X-AppInstall-Section=aur
+X-Arch-Package=circuslinux 1.0.3-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=circuslinux
+X-Arch-Package-Version=1.0.3-3
+X-Arch-Package-Description=A clone of the classic Atari 2600 video game Circus Atari
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.newbreedsoftware.com/circus-linux/
+X-Arch-Package-Votes=2

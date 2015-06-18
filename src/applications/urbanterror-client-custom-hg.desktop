@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Urban Terror
+Icon=urbanterror.png
+TryExec=/usr/bin/urbanterror
+Exec=urbanterror
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=urbanterror-client-custom-hg
+X-AppInstall-Section=aur
+X-Arch-Package=urbanterror-client-custom-hg 90-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=urbanterror-client-custom-hg
+X-Arch-Package-Version=90-1
+X-Arch-Package-Description=Urban Terror (client only, custom build with improved scripting)
+X-Arch-Package-URL=http://www.urbanterror.info
+Aliases=urbanterror;

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Lumina
+Comment=GLSL shaders IDE
+Icon=lumina.png
+TryExec=/usr/bin/lumina
+Exec=lumina
+Categories=Application;Development;IDE;
+StartupNotify=true
+X-AppInstall-Package=lumina
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=lumina 0.4.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lumina
+X-Arch-Package-Version=0.4.0-3
+X-Arch-Package-Description=Free cross-platform development environment for GLSL shaders
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://lumina.sourceforge.net
+X-Arch-Package-Votes=9

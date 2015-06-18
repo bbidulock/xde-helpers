@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Bill's Jammin' Jukebox
+Comment=Bill's Jammin' Jukebox for MPD and Squeezebox
+Icon=bjj.xpm
+TryExec=/usr/bin/bjj
+Exec=bjj
+Categories=Audio;Player;
+X-AppInstall-Package=bjj
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=bjj 6.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bjj
+X-Arch-Package-Version=6.0-1
+X-Arch-Package-Description=Bill's Jammin' Jukebox for MPD and Squeezebox
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.thejavashop.net/bjj/
+X-Arch-Package-Votes=4

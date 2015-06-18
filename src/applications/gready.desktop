@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=Gready
+Comment=Google Desktop desktop client based on QT
+TryExec=/usr/bin/gready
+Exec=gready
+Categories=Network;Qt;
+X-AppInstall-Package=gready
+X-AppInstall-Section=aur
+X-Arch-Package=gready 0.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gready
+X-Arch-Package-Version=0.1-2
+X-Arch-Package-Description=Google Reader desktop client based on QT
+X-Arch-Package-URL=https://github.com/r-st/Gready

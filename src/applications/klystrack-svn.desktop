@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Klystrack
+GenericName=klystrack
+Comment=A chiptune tracker.
+Comment[fr]=Un compositeur de musique tracker utilisant des chiptunes.
+Icon=klystrack.png
+TryExec=/usr/bin/klystrack
+Exec=klystrack
+NoDisplay=true
+Categories=Audio;Sequencer;
+X-AppInstall-Package=klystrack-svn
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=klystrack-svn 1153-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=klystrack-svn
+X-Arch-Package-Version=1153-1
+X-Arch-Package-Description=A chiptune tracker
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/klystrack/
+X-Arch-Package-Votes=1
+Aliases=klystrack;

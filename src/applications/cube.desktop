@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Cube
+Comment=Multiplayer and singleplayer first person shooter game
+Icon=cube
+TryExec=/usr/bin/cube
+Exec=cube
+Categories=Game;ShooterGame;
+StartupNotify=false
+X-AppInstall-Package=cube
+X-AppInstall-Popcon=137
+X-AppInstall-Section=aur
+X-Arch-Package=cube 2005_08_29-11
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cube
+X-Arch-Package-Version=2005_08_29-11
+X-Arch-Package-Description=Open source multiplayer and singleplayer first person shooter
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.cubeengine.com/
+X-Arch-Package-Votes=22

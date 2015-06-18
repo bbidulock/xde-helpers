@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
-Name=mcedit
-GenericName=mcedit
+Name=MCEdit
+GenericName=Text Editor
 Comment=Midnight Commander Text Editor
 Icon=text-editor
 TryExec=/usr/bin/mcedit
@@ -16,6 +16,5 @@ X-Arch-Package-Repository=community
 X-Arch-Package-Name=mc
 X-Arch-Package-Version=4.8.14-1
 X-Arch-Package-Description=Midnight Commander is a text based filemanager/shell that emulates Norton Commander
-X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://www.ibiblio.org/mc/
 X-AfterStep-IndexName=mcedit

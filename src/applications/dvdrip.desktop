@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=dvd::rip
+Comment=DVD Ripper and Encoder - Backup and compression utility for DVDs
+Icon=/usr/share/perl5/vendor_perl/Video/DVDRip/icon.xpm
+TryExec=/usr/bin/vendor_perl/dvdrip
+Exec=/usr/bin/vendor_perl/dvdrip
+Categories=Application;AudioVideo;Video;
+StartupNotify=false
+X-AppInstall-Package=dvdrip
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=dvdrip
+X-Arch-Package-Version=0.98.11-11
+X-Arch-Package-Description=A Gtk frontend for transcode writen in Perl
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.exit1.org/dvdrip/

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=RoboCode
+GenericName=RoboCode
+Comment=Java programming game based on battle tanks
+Icon=robocode
+TryExec=/usr/bin/robocode
+Exec=robocode
+Categories=Development;Game;Java;
+StartupNotify=true
+X-AppInstall-Package=robocode
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package=robocode 1.9.2.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=robocode
+X-Arch-Package-Version=1.9.2.3-1
+X-Arch-Package-Description=Programming game, where the goal is to develop a robot battle
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://robocode.sourceforge.net
+X-Arch-Package-Votes=11

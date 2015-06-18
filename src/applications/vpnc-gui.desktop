@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Vpnc-gui
+GenericName=VPN Manager
+Icon=/usr/share/vpnc-gui/icons/vpnc-gui.svg
+TryExec=/usr/bin/vpnc-gui
+Exec=vpnc-gui
+Categories=Application;Network;
+X-AppInstall-Package=vpnc-gui
+X-AppInstall-Popcon=31
+X-AppInstall-Section=aur
+X-Arch-Package=vpnc-gui 0.11-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=vpnc-gui
+X-Arch-Package-Version=0.11-2
+X-Arch-Package-Description=gtk graphical user interface for vpnc
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ticc.mines.edu/csm/wiki/index.php/Vpnc-gui
+X-Arch-Package-Votes=31

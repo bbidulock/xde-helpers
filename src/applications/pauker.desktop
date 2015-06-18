@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Pauker
+GenericName=Pauker
+Comment=Flash card based learning tool
+Comment[hu]=Flash-kártya alapú tanulást segítő eszköz
+Icon=pauker
+TryExec=/usr/bin/pauker
+Exec=pauker
+Categories=Education;Languages;Java;
+StartupNotify=false
+X-AppInstall-Package=pauker
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-AppInstall-Architectures=amd64,armel,i386,ia64,mipsel,powerpc,s390,sparc
+X-Arch-Package=pauker 1.8-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pauker
+X-Arch-Package-Version=1.8-3
+X-Arch-Package-Description=A flash card based learning tool using shortterm and longterm
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pauker.sourceforge.net/
+X-Arch-Package-Votes=13

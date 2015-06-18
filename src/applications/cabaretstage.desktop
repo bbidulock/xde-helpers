@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=CABAReT Stage
+GenericName=PDF suite
+Comment=A powerful, flexible PDF suite
+Icon=cabaretstage
+TryExec=/usr/bin/cabaretstage
+Exec=cabaretstage %f
+Categories=Office;Viewer;
+MimeType=application/pdf;
+X-AppInstall-Package=cabaretstage
+X-AppInstall-Popcon=17
+X-AppInstall-Section=aur
+X-Arch-Package=cabaretstage 6.0.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cabaretstage
+X-Arch-Package-Version=6.0.2-2
+X-Arch-Package-Description=A powerful, flexible PDF suite
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.cabaret-solutions.com
+X-Arch-Package-Votes=17

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=The Bub's Brothers
+GenericName=Bubble Bobble
+Comment=Kill evil enemies by catching them into bubbles and smashing those
+Comment[ca]=Mateu els enemics atrapant-los dins de bombolles i petant aquestes
+Comment[es]=Atrapa los enemigos en burbujas y petalas en este fantastico juego multijugador
+Icon=bubbros
+TryExec=/usr/bin/bubbros
+Exec=bubbros
+Categories=Game;ActionGame;
+X-AppInstall-Package=bubbros
+X-AppInstall-Popcon=24
+X-AppInstall-Section=aur
+X-Arch-Package=bubbros 1.6.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bubbros
+X-Arch-Package-Version=1.6.2-2
+X-Arch-Package-Description=Bubble Bobble clone for up to 10 players
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://bub-n-bros.sourceforge.net
+X-Arch-Package-Votes=11

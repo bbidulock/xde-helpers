@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Dragon Memory
+GenericName=Dragon Memory
+Comment=Simple and fun memory game.
+Icon=/usr/share/pixmaps/dragonmemory.png
+TryExec=/usr/bin/dragonmemory
+Exec=dragonmemory
+Categories=Game;
+X-AppInstall-Package=dragonmemory
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=dragonmemory 1.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dragonmemory
+X-Arch-Package-Version=1.0-2
+X-Arch-Package-Description=Simple and fun memory game.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://dragontech.net/index.php/games-en
+X-Arch-Package-Votes=1

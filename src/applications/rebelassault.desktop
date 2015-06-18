@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Star Wars: Rebel Assault
+Icon=rebelassault
+TryExec=/usr/bin/rebelassault
+Exec=rebelassault
+Categories=Game;ActionGame;
+X-AppInstall-Package=rebelassault
+X-AppInstall-Section=aur
+X-Arch-Package=rebelassault 1.8-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rebelassault
+X-Arch-Package-Version=1.8-1
+X-Arch-Package-Description=Action game set in the Star Wars universe (uses DOSBox, CD-ROM
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.lucasarts.com
+X-Arch-Package-Votes=0

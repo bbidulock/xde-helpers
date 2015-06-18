@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=ScummVM
+Comment=Interpreter for several adventure games
+Comment[ca]=Intèrpret per diverses aventures gràfiques
+Comment[de]=Interpreter für diverse Abenteuerspiele
+Comment[es]=Intérprete para varias aventuras gráficas
+Comment[he]=פרשן למספר משחקי הרפתקאות
+Comment[pl]=Interpreter graficznych gier przygodowych
+Comment[sv]=Tolk för flera äventyrsspel
+Icon=scummvm
+TryExec=/usr/bin/scummvm
+Exec=scummvm
+Categories=Game;AdventureGame;
+StartupNotify=false
+X-AppInstall-Package=scummvm
+X-AppInstall-Popcon=146
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=scummvm
+X-Arch-Package-Version=1.7.0-1
+X-Arch-Package-Description=A 'virtual machine' for several classic graphical point-and-click adventure games.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.scummvm.org/

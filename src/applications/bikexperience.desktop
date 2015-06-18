@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=bikeXperience
+Comment=Software for outdoor training planning and gpx-track-management
+Icon=/usr/share/icons/hicolor/100x100/apps/bxpicon.png
+TryExec=/usr/bin/bikeXperience
+Exec=bikeXperience
+NoDisplay=true
+Categories=Office;
+X-AppInstall-Package=bikexperience
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=bikexperience 5.0.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bikexperience
+X-Arch-Package-Version=5.0.0-1
+X-Arch-Package-Description=Software for outdoor training planning and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.bikexperience.de/
+X-Arch-Package-Votes=3
+Aliases=bikeXperience;

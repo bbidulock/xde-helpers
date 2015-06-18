@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Dicorime
+GenericName=Dicorime
+Comment=A French rime dictionary.
+Icon=dicorime.png
+TryExec=/usr/bin/dicorime
+Exec=dicorime
+Categories=Office;
+X-AppInstall-Package=dicorime
+X-AppInstall-Section=aur
+X-Arch-Package=dicorime 2.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dicorime
+X-Arch-Package-Version=2.1-1
+X-Arch-Package-Description=French rime dictionary
+X-Arch-Package-URL=http://www.dicorime.fr/

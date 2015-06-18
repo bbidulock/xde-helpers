@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=wxMaxima
+Comment=Perform symbolic and numeric calculations using Maxima
+Comment[uk]=Виконання аналітичних перетворень та обчислень за допомогою Maxima
+Icon=wxmaxima
+TryExec=/usr/bin/wxmaxima
+Exec=wxmaxima %f
+Categories=Education;Science;Math;
+MimeType=text/x-wxmaxima-batch;
+X-AppInstall-Package=wxmaxima
+X-AppInstall-Section=extra
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=wxmaxima
+X-Arch-Package-Version=14.12.0-1
+X-Arch-Package-Description=A wxWidgets GUI for the computer algebra system Maxima
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://wxmaxima.sourceforge.net/

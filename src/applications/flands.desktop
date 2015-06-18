@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Fabled Lands App
+Icon=/usr/share/pixmaps/flands/icon.jpg
+TryExec=/usr/bin/flands
+Exec=flands
+Categories=Application;Game;
+X-AppInstall-Package=fabled-lands-app
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=fabled-lands-app 1.0.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fabled-lands-app
+X-Arch-Package-Version=1.0.4-1
+X-Arch-Package-Description=An adaptation of the Fabled Lands gamebook series.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://flapp.sourceforge.net/
+X-Arch-Package-Votes=1

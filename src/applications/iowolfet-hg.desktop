@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Open Wolfenstein: Enemy Territory
+Comment=A team-based multiplayer WWII tactical first-person shooter
+Icon=enemy-territory.xpm
+TryExec=/usr/bin/iowolfet
+Exec=iowolfet
+NoDisplay=true
+Categories=Application;Game;
+StartupNotify=false
+X-AppInstall-Package=iowolfet-hg
+X-AppInstall-Section=aur
+X-Arch-Package=iowolfet-hg 53-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=iowolfet-hg
+X-Arch-Package-Version=53-1
+X-Arch-Package-Description=iowolfet is a completely free, standalone, team-based, multiplayer FPS; based on Wolfenstein: Enemy Territory GPL sources
+X-Arch-Package-URL=http://www.iowolfet.org/
+Aliases=iowolfet;

@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=MonoDevelop
+GenericName=Integrated Development Environment
+Comment=Develop .NET applications in an Integrated Development Environment
+Icon=monodevelop
+TryExec=/usr/bin/monodevelop
+Exec=monodevelop %F
+Categories=Development;IDE;GNOME;GTK;
+MimeType=text/x-csharp;application/x-mds;application/x-mdp;application/x-cmbx;application/x-prjx;application/x-csproj;application/x-vbproj;application/x-sln;application/x-aspx;text/xml;application/xhtml+xml;text/html;text/plain;
+StartupNotify=true
+X-GNOME-Bugzilla-Bugzilla=Ximian
+X-GNOME-Bugzilla-Product=MonoDevelop
+X-GNOME-Bugzilla-OtherBinaries=monodevelop
+X-AppInstall-Package=monodevelop
+X-AppInstall-Popcon=197
+X-AppInstall-Section=extra
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=monodevelop
+X-Arch-Package-Version=5.9.0.431-1
+X-Arch-Package-Description=An IDE primarily designed for C# and other .NET languages
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.monodevelop.com

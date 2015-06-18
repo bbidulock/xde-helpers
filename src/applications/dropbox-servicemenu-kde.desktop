@@ -1,0 +1,28 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=KonqPopupMenu/Plugin;
+NoDisplay=true
+MimeType=all/all;
+X-KDE-StartupNotify=false
+X-AppInstall-Package=dropbox-servicemenu-kde
+X-AppInstall-Section=aur
+X-Arch-Package=dropbox-servicemenu-kde 0.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dropbox-servicemenu-kde
+X-Arch-Package-Version=0.2-2
+X-Arch-Package-Description=Is a KDE service menu for Dropbox for get URL of files in dropbox public directory
+X-Arch-Package-URL=http://kde-apps.org/content/show.php?content=115336&forumpage=0
+Aliases=dropbox;
+X-KDE-Priority=TopLevel
+X-KDE-Submenu=Dropbox
+Actions=getPublicURL;copyPublicURL;
+
+[Desktop Action getPublicURL]
+Name=Get Public URL
+TryExec=/usr/bin/kdialog
+Exec=kdialog --msgbox "`python /opt/dropbox/servicemenu/dropbox.py puburl %u`"
+
+[Desktop Action copyPublicURL]
+Name=Copy Public URL to Klipper
+TryExec=/usr/bin/dbus-send
+Exec=dbus-send --type=method_call --dest=org.kde.klipper /klipper org.kde.klipper.klipper.setClipboardContents string:"`python /opt/dropbox/servicemenu/dropbox.py puburl %u`"

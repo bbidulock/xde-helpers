@@ -1,0 +1,27 @@
+[Desktop Entry]
+Type=Application
+Name=gEDA Schematic -> PCB Project
+Name[de]=gEDA Schaltplan --> PCB Projekt
+Name[es]=Esquema gEDA -> Proyecto PCB
+Name[nl]=gEDA Schema -> PCB Project
+GenericName=xgsch2pcb
+Comment=Create and edit electronics projects with xgsch2pcb
+Comment[de]=Elektonikprojekte erstellen und bearbeiten mit xgsch2pcb
+Comment[es]=Crear y modificar proyectos electrónicos con xgsch2pcb
+Comment[nl]=Creer en bewerk electronika projecten met xgsch2pcb
+Icon=geda-xgsch2pcb
+TryExec=/usr/bin/xgsch2pcb
+Exec=xgsch2pcb %f
+Categories=Electronics;Engineering;
+MimeType=application/x-geda-gsch2pcb-project;
+StartupNotify=false
+X-AppInstall-Package=xgsch2pcb
+X-AppInstall-Popcon=51
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xgsch2pcb
+X-Arch-Package-Version=0.1.3-1
+X-Arch-Package-Description=an intuitive, user-friendly graphical interface to the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://geda.seul.org/tools/xgsch2pcb/
+X-Arch-Package-Votes=16

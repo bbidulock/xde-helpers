@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Gamine
+Comment=simple interactive game for young children
+Icon=gamine
+TryExec=/usr/games/gamine
+Exec=/usr/games/gamine
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=gamine
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gamine
+X-Arch-Package-Version=1.1-2
+X-Arch-Package-Description=Gamine is a game designed for 2 years old children who are not
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.gnunux.info/dotclear2/index.php?post/2007/11/25/236
+X-Arch-Package-Votes=5

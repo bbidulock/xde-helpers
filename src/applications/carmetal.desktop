@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=CaRMetal
+GenericName=Geometry program
+GenericName[es]=Programa de geometría
+GenericName[fr]=Logiciel de géométrie
+Comment=CaRMetal interactive geometry
+Icon=carmetal
+TryExec=/usr/bin/carmetal
+Exec=carmetal
+Categories=Education;Math;
+MimeType=application/x-carmetal;
+StartupNotify=true
+X-AppInstall-Package=carmetal
+X-AppInstall-Popcon=83
+X-AppInstall-Section=aur
+X-Arch-Package=carmetal 3.8.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=carmetal
+X-Arch-Package-Version=3.8.5-1
+X-Arch-Package-Description=A dynamic geometry program using the C.a.R. engine
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://db-maths.nuxit.net/CaRMetal/
+X-Arch-Package-Votes=12

@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Dlume
+GenericName=Address Book
+Comment=Simple and easy to use addressbook
+Comment[cs]=Pěkný a jednoduchý adresář.
+Icon=dlume
+TryExec=/usr/bin/dlume
+Exec=dlume
+Categories=Office;ContactManagement;
+StartupNotify=true
+X-SingleInstance=true
+X-AppInstall-Package=dlume
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=dlume 0.2.4-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dlume
+X-Arch-Package-Version=0.2.4-5
+X-Arch-Package-Description=A handy and easy to use addressbook
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://launchpad.net/ubuntu/+source/dlume
+X-Arch-Package-Votes=4

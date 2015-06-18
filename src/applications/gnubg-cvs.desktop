@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=GNU Backgammon
+Comment=GNU Backgammon
+Icon=gnubg
+TryExec=/usr/bin/gnubg
+Exec=gnubg
+NoDisplay=true
+Categories=Game;StrategyGame;GTK;
+X-AppInstall-Package=gnubg-cvs
+X-AppInstall-Section=aur
+X-Arch-Package=gnubg-cvs 20110815-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gnubg-cvs
+X-Arch-Package-Version=20110815-1
+X-Arch-Package-Description=A world class backgammon application
+X-Arch-Package-URL=http://www.gnubg.org/
+Aliases=gnubg;

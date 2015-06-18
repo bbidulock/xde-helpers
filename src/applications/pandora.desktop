@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Pandora
+GenericName=Pandora
+Comment=Standalone Adobe Air Application for Pandora Radio
+Icon=pandora
+TryExec=/usr/bin/adobe-air
+Exec=adobe-air /opt/pandora/pandora.air
+Categories=AudioVideo;Audio;Video;Player;GTK;
+MimeType=application/vnd.adobe.air-application-installer-package+zip;
+X-AppInstall-Package=pandora
+X-AppInstall-Popcon=23
+X-AppInstall-Section=aur
+X-Arch-Package=pandora 2.0.8-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pandora
+X-Arch-Package-Version=2.0.8-1
+X-Arch-Package-Description=Standalone Adobe Air Application for Pandora Radio
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.pandora.com/desktop
+X-Arch-Package-Votes=23

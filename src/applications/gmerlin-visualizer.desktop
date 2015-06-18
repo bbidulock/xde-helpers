@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Gmerlin visualizer
+Name[de]=Gmerlin visualisierer
+Comment=Run visualization plugins
+Comment[de]=Visualisierungs Plugins laufen lassen
+Icon=gmerlin-visualizer.png
+TryExec=/usr/bin/gmerlin_visualizer
+Exec=gmerlin_visualizer
+Categories=Application;AudioVideo;
+StartupNotify=false
+X-AppInstall-Package=gmerlin
+X-AppInstall-Popcon=52
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=gmerlin
+X-Arch-Package-Version=1.2.0-6
+X-Arch-Package-Description=Multimedia architecture for Linux
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://openmovieeditor.sourceforge.net/HomePage

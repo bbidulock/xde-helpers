@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=UKNC Back to Life!
+Comment=An emulator of the MS-0511 (UKNC) computers
+Icon=ukncbtl
+TryExec=/usr/bin/ukncbtl
+Exec=ukncbtl
+Categories=Game;Emulator;Qt;
+X-AppInstall-Package=ukncbtl
+X-AppInstall-Section=aur
+X-Arch-Package=ukncbtl beta24-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ukncbtl
+X-Arch-Package-Version=beta24-2
+X-Arch-Package-Description=An emulator of the MS-0511 (UKNC) computers
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/ukncbtl/
+X-Arch-Package-Votes=0

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=TigerVNC viewer
+Comment=TigerVNC viewer
+Icon=tigervnc
+TryExec=/usr/bin/vncviewer
+Exec=/usr/bin/vncviewer
+NoDisplay=true
+Categories=Application;Network;
+StartupNotify=false
+X-AppInstall-Package=tigervnc-svn
+X-AppInstall-Section=aur
+X-Arch-Package=tigervnc-svn 5157-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tigervnc-svn
+X-Arch-Package-Version=5157-1
+X-Arch-Package-Description=suite of VNC servers and clients. Based on the VNC 4 branch of TightVNC.
+X-Arch-Package-URL=http://www.tigervnc.org
+Aliases=vncviewer;

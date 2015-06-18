@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Disco Dodgeball
+GenericName=Multiplayer Team-based FPS
+Comment=Erik Asmussen
+Icon=discododgeball
+TryExec=/usr/bin/discododgeball
+Exec=/usr/bin/discododgeball
+Categories=Game;
+X-AppInstall-Package=discododgeball-hib
+X-AppInstall-Section=aur
+X-Arch-Package=discododgeball-hib 0_20140607-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=discododgeball-hib
+X-Arch-Package-Version=0_20140607-1
+X-Arch-Package-Description=Robot Roller-Derby Disco Dodgeball, a team-based multiplayer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.82apps.com/DiscoDodgeball/
+X-Arch-Package-Votes=0

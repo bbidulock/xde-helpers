@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=GWrite
+Name[zh_CN]=写字板
+Comment=Simple text editor
+Comment[zh_CN]=HTML 写字板
+Icon=gwrite
+TryExec=/usr/bin/gwrite
+Exec=gwrite %f
+Categories=Utility;TextEditor;GTK;
+MimeType=text/html;
+StartupNotify=false
+X-AppInstall-Package=gwrite
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gwrite
+X-Arch-Package-Version=0.5.1-2
+X-Arch-Package-Description=simple GTK+ HTML5 rich text editor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/gwrite/
+X-Arch-Package-Votes=7

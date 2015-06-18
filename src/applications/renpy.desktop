@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Ren'Py
+GenericName=renpy
+GenericName[fr]=renpy
+Comment=A programming language and runtime, intended to ease the creation of visual-novel type games.
+Comment[es]=juegos de novela grafica
+Comment[fr]=Un langage de programmation et un ex\xE9cutable con\xE7us pour faciliter la cr\xE9ation de jeux de type "visual-novel"
+Icon=renpy
+TryExec=/usr/bin/renpy
+Exec=renpy
+Categories=Game;AdventureGame;
+X-AppInstall-Package=renpy
+X-AppInstall-Popcon=27
+X-AppInstall-Section=community
+X-Arch-Package=renpy 6.17.6-1
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=renpy
+X-Arch-Package-Version=6.99.4-4
+X-Arch-Package-Description=The Ren'Py Visual Novel Engine
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.renpy.org
+X-Arch-Package-Votes=27

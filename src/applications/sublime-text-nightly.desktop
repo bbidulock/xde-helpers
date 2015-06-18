@@ -1,0 +1,35 @@
+[Desktop Entry]
+Type=Application
+Name=Sublime Text 3 Nightly
+GenericName=Text Editor
+Comment=Sophisticated text editor for code, markup and prose
+Icon=sublime-text
+TryExec=/usr/bin/subl3
+Exec=subl3 %F
+NoDisplay=true
+Categories=Development;TextEditor;
+MimeType=text/plain;
+StartupNotify=true
+X-AppInstall-Package=sublime-text-nightly
+X-AppInstall-Popcon=54
+X-AppInstall-Section=aur
+X-Arch-Package=sublime-text-nightly 3.3092-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sublime-text-nightly
+X-Arch-Package-Version=3.3092-1
+X-Arch-Package-Description=Sophisticated text editor for code, html and prose - nightly
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.sublimetext.com/3dev
+X-Arch-Package-Votes=54
+Aliases=sublime_text_3;
+Actions=Window;Document;
+
+[Desktop Action Window]
+Name=New Window
+TryExec=/usr/bin/subl3
+Exec=subl3 -n
+
+[Desktop Action Document]
+Name=New File
+TryExec=/usr/bin/subl3
+Exec=subl3 --command new_file

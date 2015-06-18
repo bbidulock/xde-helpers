@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Pokenet Client
+Icon=pokenet-client
+TryExec=/usr/bin/pokenet-client
+Exec=pokenet-client
+Categories=Game;
+StartupNotify=true
+X-AppInstall-Package=pokenet-client-svn
+X-AppInstall-Section=aur
+X-Arch-Package=pokenet-client-svn LATEST-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pokenet-client-svn
+X-Arch-Package-Version=LATEST-1
+X-Arch-Package-Description=PokeNet 2D MMORPG Game
+X-Arch-Package-URL=http://code.google.com/p/pokenetonline/

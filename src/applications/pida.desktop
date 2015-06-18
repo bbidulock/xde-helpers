@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=PIDA
+Comment=Python Integrated Development Application
+Comment[de]=Integrierte Entwicklungsumgebung für Python
+Icon=pida
+TryExec=/usr/bin/pida
+Exec=pida %F
+Categories=Development;IDE;GTK;Python;
+MimeType=text/plain;
+X-AppInstall-Package=pida
+X-AppInstall-Popcon=49
+X-AppInstall-Section=aur
+X-Arch-Package=pida 0.6.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pida
+X-Arch-Package-Version=0.6.2-1
+X-Arch-Package-Description=Python Integrated Deelopment Application
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pypi.python.org/pypi/pida
+X-Arch-Package-Votes=49

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=OggConvert
+Comment=Convert media files to Free formats
+Icon=oggconvert
+TryExec=/usr/bin/oggconvert
+Exec=oggconvert
+Categories=AudioVideo;
+StartupNotify=true
+X-AppInstall-Package=oggconvert
+X-AppInstall-Popcon=36
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=oggconvert
+X-Arch-Package-Version=0.3.3-3
+X-Arch-Package-Description=A small utility for converting audio and video files into the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://oggconvert.tristanb.net/
+X-Arch-Package-Votes=36

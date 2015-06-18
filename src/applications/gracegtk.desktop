@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Grace-GTK
+Comment=An application for 2D plotting
+Icon=/usr/share/pixmaps/gracegtk.png
+TryExec=/usr/bin/ggrace
+Exec=/usr/bin/ggrace %f
+Categories=Science;X-Plotting;
+X-AppInstall-Package=gracegtk
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=gracegtk 0.9.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gracegtk
+X-Arch-Package-Version=0.9.2-1
+X-Arch-Package-Description=A port of the Grace plotting tool to gtk2
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://plasma-gate.weizmann.ac.il/Grace/
+X-Arch-Package-Votes=4

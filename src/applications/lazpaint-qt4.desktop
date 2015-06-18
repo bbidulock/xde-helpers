@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Lazpaint
+Comment=Image editor, like PaintBrush or Paint.Net, written in Lazarus (Free Pascal).
+Icon=lazpaint
+TryExec=/usr/bin/lazpaint
+Exec=lazpaint
+NoDisplay=true
+Categories=Graphics;2DGraphics;RasterGraphics;
+MimeType=image/bmp;image/gif;image/x-ico;image/jpeg;image/png;
+X-AppInstall-Package=lazpaint-qt4
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=lazpaint-qt4 6.4.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lazpaint-qt4
+X-Arch-Package-Version=6.4.1-2
+X-Arch-Package-Description=Image editor, like PaintBrush or Paint.Net, written in Lazarus
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/lazpaint/
+X-Arch-Package-Votes=1
+Aliases=lazpaint;

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=GFingerPoken
+Comment=GFingerPoken logic game
+Icon=gfpoken.png
+TryExec=/usr/bin/gfpoken
+Exec=gfpoken
+Categories=Game;LogicGame;
+StartupNotify=false
+X-AppInstall-Package=gfpoken
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gfpoken
+X-Arch-Package-Version=0.25-1
+X-Arch-Package-Description=GFingerPoken is a black-box type game for gtk 1.2 or higher
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gfpoken.bigw.org/
+X-Arch-Package-Votes=0

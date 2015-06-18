@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=lis.to
+Comment=A task manager for mobilistas
+Icon=listo
+TryExec=/usr/bin/listo
+Exec=listo
+Categories=Office;Java;
+StartupNotify=true
+X-AppInstall-Package=listo
+X-AppInstall-Section=aur
+X-Arch-Package=listo 0.9.7.36-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=listo
+X-Arch-Package-Version=0.9.7.36-1
+X-Arch-Package-Description=A task manager for mobilistas. TODO.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://lis.to
+X-Arch-Package-Votes=0

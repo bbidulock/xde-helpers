@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Indicator Power
+TryExec=/usr/lib/indicator-power/indicator-power-service
+Exec=/usr/lib/indicator-power/indicator-power-service
+NoDisplay=true
+OnlyShowIn=Pantheon;
+StartupNotify=false
+X-AppInstall-Package=indicator-power-bzr
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=indicator-power-bzr 284-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=indicator-power-bzr
+X-Arch-Package-Version=284-1
+X-Arch-Package-Description=An indicator to show the power status of your devices
+X-Arch-Package-Groups=unity
+X-Arch-Package-URL=https://launchpad.net/indicator-power
+X-Arch-Package-Votes=1

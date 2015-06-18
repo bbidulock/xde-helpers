@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=KeySafe
+Comment=A password safe
+TryExec=/usr/bin/keysafe
+Exec=/usr/bin/keysafe
+Categories=Utility;Security;GNOME;
+StartupNotify=false
+X-AppInstall-Package=keysafe
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=keysafe
+X-Arch-Package-Version=0.5-3
+X-Arch-Package-Description=A safe place to keep your passwords
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://therning.org/magnus/computer/keysafe/
+X-Arch-Package-Votes=1

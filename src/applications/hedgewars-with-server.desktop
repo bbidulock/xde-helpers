@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Hedgewars
+GenericName=Platform Game
+Comment=Worms style game
+Icon=hedgewars
+TryExec=/usr/bin/hedgewars
+Exec=hedgewars
+NoDisplay=true
+Hidden=true
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=hedgewars-with-server
+X-AppInstall-Section=aur
+X-Arch-Package=hedgewars-with-server 0.9.13-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=hedgewars-with-server
+X-Arch-Package-Version=0.9.13-1
+X-Arch-Package-Description=Free Worms-like turn based strategy game, includes server
+X-Arch-Package-URL=http://hedgewars.org
+Aliases=hedgewars;

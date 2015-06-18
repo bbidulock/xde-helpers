@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.65
+Type=Application
+Name=EOF
+Comment=Frets on Fire song editor
+Icon=/usr/share/pixmaps/eof.ico
+TryExec=/usr/bin/eof
+Exec=/usr/bin/eof
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=eof
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=eof 1.71-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=eof
+X-Arch-Package-Version=1.71-2
+X-Arch-Package-Description=A song editor for Frets on Fire
+X-Arch-Package-Groups=games
+X-Arch-Package-URL=http://www.t3-i.com/pages/project.php?id=eof
+X-Arch-Package-Votes=2

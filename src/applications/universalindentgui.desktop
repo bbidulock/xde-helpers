@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=UniversalIndentGUI
+GenericName=Code Formatter
+Comment=A cross platform GUI for several code formatters
+Icon=universalindentgui
+TryExec=/usr/bin/universalindentgui
+Exec=universalindentgui %F
+Categories=Development;GTK;
+StartupNotify=true
+X-AppInstall-Package=universalindentgui
+X-AppInstall-Popcon=32
+X-AppInstall-Section=aur
+X-Arch-Package=universalindentgui 1.2.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=universalindentgui
+X-Arch-Package-Version=1.2.0-3
+X-Arch-Package-Description=A GUI for GNU Indent, Uncrustify, Artistic Styler, PHP
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://universalindent.sourceforge.net/
+X-Arch-Package-Votes=32

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=gmusicbrowser
+Comment=Jukebox for large collections of mp3/ogg/flac/mpc
+Comment[fr]=Jukebox pour de grandes collections de mp3/ogg/flac/mpc
+Icon=gmusicbrowser
+TryExec=/usr/bin/gmusicbrowser
+Exec=gmusicbrowser %F
+Categories=AudioVideo;Audio;
+StartupNotify=true
+X-AppInstall-Package=gmusicbrowser
+X-AppInstall-Popcon=54
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gmusicbrowser
+X-Arch-Package-Version=1.1.14-3
+X-Arch-Package-Description=A customizable open-source jukebox for large collections
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gmusicbrowser.org
+X-Arch-Package-Votes=54

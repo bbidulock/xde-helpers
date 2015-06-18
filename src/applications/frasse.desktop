@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Frasse
+GenericName=Frasse and the Peas of Kejick
+Comment=Frasse and the Peas of Kejick adventure game
+Icon=frasse.png
+TryExec=/usr/bin/frasse
+Exec=frasse
+Categories=Game;AdventureGame;
+X-AppInstall-Package=frasse
+X-AppInstall-Section=aur
+X-Arch-Package=frasse 1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=frasse
+X-Arch-Package-Version=1-1
+X-Arch-Package-Description=Frasse and the Peas of Kejick is a point and click adventure
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://trumgottist.com/frasse-and-the-peas-of-kejick/
+X-Arch-Package-Votes=0

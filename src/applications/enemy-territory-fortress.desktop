@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Enemy Territory Fortress
+Comment=Class-based teamplay shooter
+Icon=/opt/enemy-territory/etf/etf.xpm
+TryExec=/usr/bin/et-f
+Exec=/usr/bin/et-f
+NoDisplay=true
+Categories=Application;Game;
+StartupNotify=false
+X-AppInstall-Package=enemy-territory-fortress
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=enemy-territory-fortress 1.60-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=enemy-territory-fortress
+X-Arch-Package-Version=1.60-3
+X-Arch-Package-Description=Class-based teamplay shooter
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://teamfortress.wikia.com/wiki/Enemy_Territory_Fortress
+X-Arch-Package-Votes=9
+Aliases=et-f;

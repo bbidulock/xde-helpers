@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Adif2Cabrillo
+Comment=QSO Log-file Converter
+Icon=adif2cabrillo
+TryExec=/usr/bin/adif2cabrillo
+Exec=adif2cabrillo
+X-DCOP-ServiceType=none
+Categories=Application;HamRadio;
+MimeType=text/plain;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=adif2cabrillo
+X-AppInstall-Section=aur
+X-Arch-Package=adif2cabrillo 1.0.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=adif2cabrillo
+X-Arch-Package-Version=1.0.2-1
+X-Arch-Package-Description=Ham Radio - QSO log-file converter
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://users.telenet.be/on4qz/a2c/index.html
+X-Arch-Package-Votes=0

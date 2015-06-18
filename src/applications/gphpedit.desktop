@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=0.9.97
+Type=Application
+Name=gPHPEdit
+GenericName=PHP/HTML/CSS editor
+Comment=Edit PHP source files
+Icon=gphpedit.png
+TryExec=/usr/bin/gphpedit
+Exec=gphpedit
+Categories=Development;IDE;
+StartupNotify=false
+X-AppInstall-Package=gphpedit
+X-AppInstall-Popcon=105
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=gphpedit
+X-Arch-Package-Version=0.9.98RC1-4
+X-Arch-Package-Description=a scintilla/gnome based editor specialized on php-files
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.gphpedit.org/

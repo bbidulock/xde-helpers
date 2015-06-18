@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Scilab
+GenericName=Scientific Software Package
+GenericName[de]=Wissenschaftssoftware
+GenericName[fr]=Logiciel de calcul numérique
+Comment=Scientific software package for numerical computations
+Comment[de]=eine Wissenschaftssoftware für numerische Berechnungen
+Comment[fr]=Logiciel scientifique de calcul numérique
+Icon=scilab
+TryExec=/usr/bin/scilab
+Exec=scilab
+Categories=Development;Education;Science;Math;Physics;
+X-AppInstall-Package=scilab
+X-AppInstall-Popcon=46
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=scilab
+X-Arch-Package-Version=5.5.2-2
+X-Arch-Package-Description=A scientific software package for numerical computations.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.scilab.org
+X-Arch-Package-Votes=46

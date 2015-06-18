@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Cave Story Configuration (Wine)
+Comment=Configuration utility for Cave Story
+Icon=doukutsu-wine
+TryExec=/usr/bin/doukutsu-wine
+Exec=doukutsu-wine -c
+Categories=Game;AdventureGame;
+StartupNotify=true
+X-AppInstall-Package=doukutsu-wine
+X-AppInstall-Section=aur
+X-Arch-Package=doukutsu-wine 1.03-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=doukutsu-wine
+X-Arch-Package-Version=1.03-1
+X-Arch-Package-Description=The Windows version of Cave Story
+X-Arch-Package-URL=http://www.cavestory.org/

@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Hitchhiker's Guide to the Galaxy Infocom Adventure
+TryExec=/usr/bin/hitchhikersguide
+Exec=hitchhikersguide
+Categories=Game;
+X-AppInstall-Package=hitchhikersguide
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=hitchhikersguide 59-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=hitchhikersguide
+X-Arch-Package-Version=59-1
+X-Arch-Package-Description=Hitchhiker's Guide to the Galaxy Infocom Adventure
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.douglasadams.com/creations/infocomjava.html
+X-Arch-Package-Votes=7

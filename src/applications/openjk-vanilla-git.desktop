@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Jedi Academy - Multi Player
+Icon=openjkmp
+TryExec=/opt/openjk/openjk.i386
+Exec=/opt/openjk/openjk.i386
+NoDisplay=true
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=openjk-vanilla-git
+X-AppInstall-Section=aur
+X-Arch-Package=openjk-vanilla-git 2581.078d63a-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=openjk-vanilla-git
+X-Arch-Package-Version=2581.078d63a-1
+X-Arch-Package-Description=Jedi Knight III Engine
+X-Arch-Package-URL=https://github.com/JACoders/OpenJK
+Aliases=openjkmp;

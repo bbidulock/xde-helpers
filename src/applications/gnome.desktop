@@ -1,5 +1,5 @@
 [Desktop Entry]
-Type=Application
+Type=XSession
 Name=GNOME
 Name[ar]=جنوم
 Name[dz]=ཇི་ནོམ་
@@ -139,4 +139,5 @@ X-Arch-Package-Description=The GNOME Session Handler
 X-Arch-Package-Groups=gnome
 X-Arch-Package-URL=http://www.gnome.org
 DesktopNames=GNOME
+X-LightDM-DesktopName=gnome
 X-SuSE-translate=true

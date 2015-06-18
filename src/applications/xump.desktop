@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=xump - The Final Run
+Icon=xump
+TryExec=/usr/bin/xump
+Exec=xump
+Categories=Game;
+X-AppInstall-Package=xump
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=xump 1.00-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xump
+X-Arch-Package-Version=1.00-1
+X-Arch-Package-Description=Simple puzzler (aka 'The Final Run')
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://retroguru.com/xump/
+X-Arch-Package-Votes=1

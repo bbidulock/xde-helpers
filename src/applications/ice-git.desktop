@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Ice
+Comment=Application to automatically add ROMs to Steam
+TryExec=/usr/bin/ice-qt
+Exec=/usr/bin/ice-qt
+NoDisplay=true
+X-AppInstall-Package=ice-git
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=ice-git r214.1cf9c50-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ice-git
+X-Arch-Package-Version=r214.1cf9c50-1
+X-Arch-Package-Description=Application to automatically add ROMs to Steam
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://scottrice.github.io/Ice
+X-Arch-Package-Votes=2
+Aliases=ice;

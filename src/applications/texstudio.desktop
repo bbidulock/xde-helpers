@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=TeXstudio
+GenericName=LaTeX Editor
+Comment=LaTeX development environment
+Icon=/usr/share/texstudio/texstudio.svg
+TryExec=/usr/bin/texstudio
+Exec=texstudio %f
+Categories=Office;
+X-AppInstall-Package=texstudio-hg
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=texstudio-hg 4886.693cb8e9a264-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=texstudio-hg
+X-Arch-Package-Version=4886.693cb8e9a264-1
+X-Arch-Package-Description=TeXstudio is a fork of the LaTeX IDE TexMaker. Gives you an
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://texstudio.sourceforge.net
+X-Arch-Package-Votes=10

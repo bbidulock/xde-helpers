@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Transmission Remote GUI
+GenericName=TransGUI
+Comment=Cross platform remote GUI for the Transmission daemon
+Icon=/usr/share/pixmaps/transgui.png
+TryExec=/usr/bin/transgui
+Exec=/usr/bin/transgui
+NoDisplay=true
+Categories=Network;FileTransfer;P2P;GTK;
+X-AppInstall-Package=transmission-remote-gui
+X-AppInstall-Section=aur
+X-Arch-Package=transmission-remote-gui 4.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=transmission-remote-gui
+X-Arch-Package-Version=4.1-2
+X-Arch-Package-Description=Cross platform remote GUI for the Transmission daemon
+X-Arch-Package-URL=http://code.google.com/p/transmisson-remote-gui/
+Aliases=transgui;

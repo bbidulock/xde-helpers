@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Desktop Flickr Organizer
+Comment=Desktop organizer for your Flickr account
+Icon=/usr/lib/desktop-flickr-organizer/icons/Font-Book.ico
+TryExec=/usr/bin/desktop-flickr-organizer
+Exec=/usr/bin/desktop-flickr-organizer
+Categories=Graphics;Photography;
+X-AppInstall-Package=desktop-flickr-organizer
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=desktop-flickr-organizer 0.8-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=desktop-flickr-organizer
+X-Arch-Package-Version=0.8-3
+X-Arch-Package-Description=Organize your Flickr account
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/dfo/
+X-Arch-Package-Votes=7

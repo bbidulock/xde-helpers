@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Zelda3T
+Comment=Third Game in a trilogy of fan made Zelda Games
+Comment[fr]=Troisième jeu dans une trilogie de jeu Zelda fait par des fans
+Icon=zelda-3t.png
+TryExec=/usr/bin/zelda-3t
+Exec=zelda-3t
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=zelda-3t-fr
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=zelda-3t-fr 1.8-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zelda-3t-fr
+X-Arch-Package-Version=1.8-4
+X-Arch-Package-Description=Zelda: Time To Triumph (french version)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.zeldaroth.fr/
+X-Arch-Package-Votes=3
+Aliases=zelda-3t;
+GeneralName=Zelda: A Time to Triumph

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Mirror Magic
+Comment=A game with a magic ray and many, many mirrors...
+Icon=mirrormagic
+TryExec=/usr/bin/mirrormagic
+Exec=mirrormagic
+Categories=Game;LogicGame;
+X-AppInstall-Package=mirrormagic
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=mirrormagic 2.0.2-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mirrormagic
+X-Arch-Package-Version=2.0.2-4
+X-Arch-Package-Description=Arcade style game like Deflektor (C 64) or Mindbender (Amiga)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.artsoft.org/mirrormagic/
+X-Arch-Package-Votes=9

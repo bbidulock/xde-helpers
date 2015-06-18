@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Hacker Evolution: Untold
+GenericName=Hacker Simulation
+Comment=Hacker Game.
+Icon=/usr/share/pixmaps/HackerEvolution.png
+TryExec=/usr/bin/hackerevolution
+Exec=hackerevolution
+NoDisplay=true
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=hacker-evolution-untold
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=hacker-evolution-untold 2.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=hacker-evolution-untold
+X-Arch-Package-Version=2.2-2
+X-Arch-Package-Description=When the number of computers in existence and their processing
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.exosyphen.com/page_hacker-evolution-untold.html
+X-Arch-Package-Votes=1
+Aliases=hackerevolution;

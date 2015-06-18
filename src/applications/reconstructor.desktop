@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Reconstructor
+Comment=Build custom Debian/Ubuntu CDs
+Icon=/usr/share/pixmaps/reconstructor.png
+TryExec=/usr/bin/reconstructor
+Exec=reconstructor
+Categories=Application;System;SystemTools;
+X-AppInstall-Package=reconstructor-engine
+X-AppInstall-Section=aur
+X-Arch-Package=reconstructor-engine 3.2.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=reconstructor-engine
+X-Arch-Package-Version=3.2.3-1
+X-Arch-Package-Description=A customisation kit for Debian based systems.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://www.reconstructor.org
+X-Arch-Package-Votes=0

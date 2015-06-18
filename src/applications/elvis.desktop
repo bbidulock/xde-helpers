@@ -1,0 +1,26 @@
+[Desktop Entry]
+Type=Application
+Name=Elvis
+GenericName=Text Editor
+Comment=A vi-clone
+Comment[de]=Ein vi-Clone namens elvis
+Comment[es]=Un clon de vi
+Comment[fr]=Un clone de vi du nom d'elvis
+Comment[hu]=Egy vi-klón
+Icon=text-editor
+TryExec=/usr/bin/elvis
+Exec=elvis
+Categories=TextEditor;Utilitiy;
+StartupNotify=false
+DocPath=/usr/lib/elvis/elvis.html
+X-AppInstall-Package=elvis
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=elvis
+X-Arch-Package-Version=2.2_0-3
+X-Arch-Package-Description=A vi clone with optional X support. Stable or beta version.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://elvis.the-little-red-haired-girl.org/
+X-Arch-Package-Votes=4
+X-AfterStep-IndexName=elvis

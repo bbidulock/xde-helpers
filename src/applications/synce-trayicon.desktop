@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=SynCE Tray Icon
+Name[sv]=SynCE Notifierings Ikon
+GenericName=SynCE Tray Icon
+GenericName[sv]=SynCE Notifierings Ikon
+Comment=SynCE PDA control for GNOME
+Icon=synce-color
+TryExec=/usr/bin/synce-trayicon
+Exec=/usr/bin/synce-trayicon
+Categories=Utility;GNOME;GTK;
+StartupNotify=false
+X-AppInstall-Package=synce-trayicon
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=synce-trayicon
+X-Arch-Package-Version=0.17-1
+X-Arch-Package-Description=SynCE trayicon for GNOME and other GTK+ environments
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://synce.sourceforge.net/
+X-Arch-Package-Votes=9

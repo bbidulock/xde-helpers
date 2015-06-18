@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=DBeaver Enterprise Edition
+GenericName=Database Client
+Icon=dbeaver-ee
+TryExec=/opt/dbeaver-ee/dbeaver
+Exec=/opt/dbeaver-ee/dbeaver
+Categories=Development;Database;Java;
+X-AppInstall-Package=dbeaver-ee
+X-AppInstall-Section=aur
+X-Arch-Package=dbeaver-ee 3.4.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dbeaver-ee
+X-Arch-Package-Version=3.4.1-1
+X-Arch-Package-Description=A free universal database tool for developers and database
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://dbeaver.jkiss.org/
+X-Arch-Package-Votes=0

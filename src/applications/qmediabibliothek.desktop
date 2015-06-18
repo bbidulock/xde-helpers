@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=QMediaBibliothek
+GenericName=Movie Database
+Icon=/usr/share/pixmaps/qmediabibliothek.png
+TryExec=/usr/bin/QMediaBibliothek
+Exec=QMediaBibliothek
+Categories=Application;AudioVideo;Player;
+MimeType=application/ogg;audio/x-vorbis+ogg;application/x-ogg;audio/mp3;audio/prs.sid;audio/x-flac;audio/mpeg;audio/x-mpeg;audio/x-mod;audio/x-it;audio/x-s3m;audio/x-xm;
+X-AppInstall-Package=qmediabibliothek
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=qmediabibliothek 0.3.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qmediabibliothek
+X-Arch-Package-Version=0.3.1-2
+X-Arch-Package-Description=Database application for KDE4 to manage movies.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.kde-apps.org/content/show.php/QMediaBibliothek?content=109347
+X-Arch-Package-Votes=1

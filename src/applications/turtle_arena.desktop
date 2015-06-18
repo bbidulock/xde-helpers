@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Turtle Arena
+Icon=/usr/share/pixmaps/turtle_arena.png
+TryExec=/usr/bin/turtle_arena.sh
+Exec=turtle_arena.sh
+Categories=Game;
+Path=/usr/bin
+X-AppInstall-Package=turtle_arena-bin
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=turtle_arena-bin 0.6.1-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=turtle_arena-bin
+X-Arch-Package-Version=0.6.1-3
+X-Arch-Package-Description=Free and open source cross-platform third-person action game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ztm.x10hosting.com/ta/index.htm
+X-Arch-Package-Votes=5

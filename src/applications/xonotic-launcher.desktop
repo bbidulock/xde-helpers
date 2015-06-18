@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Xonotic Launcher
+Comment=A Xonotic launcher with advanced features
+Comment[fr]=Un lanceur pour Xonotic avec des fonctionnalités avancées
+TryExec=/usr/bin/xonotic-launcher
+Exec=xonotic-launcher
+Categories=Game;ActionGame;
+StartupNotify=true
+X-AppInstall-Package=xonotic-launcher
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=xonotic-launcher 0.40-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xonotic-launcher
+X-Arch-Package-Version=0.40-1
+X-Arch-Package-Description=A Xonotic windowed launcher with an overview on servers, IRC
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://forums.xonotic.org/showthread.php?tid=3655
+X-Arch-Package-Votes=2

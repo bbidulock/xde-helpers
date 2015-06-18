@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=StreamRipStar
+GenericName=StreamRipStar
+Comment=Graphical user interface for streamripper to record online radio stations
+Comment[de]=Grafische Benutzeroberflaeche fuer streamripper um online Radios aufzunehmen
+Icon=/usr/share/streamripstar.png
+TryExec=/usr/bin/streamripstar
+Exec=streamripstar
+Categories=Network;Multimedia;
+StartupNotify=true
+X-AppInstall-Package=streamripstar
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package=streamripstar 0.6.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=streamripstar
+X-Arch-Package-Version=0.6.2-1
+X-Arch-Package-Description=A graphical user interface for streamripper written in Java
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/Eule/StreamRipStar
+X-Arch-Package-Votes=11

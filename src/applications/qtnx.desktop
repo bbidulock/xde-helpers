@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=QTNX
+Comment=Client for NX remote desktop
+TryExec=/usr/bin/qtnx
+Exec=/usr/bin/qtnx
+Categories=Network;RemoteAccess;Qt;
+X-AppInstall-Package=qtnx
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=qtnx 0.9-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qtnx
+X-Arch-Package-Version=0.9-1
+X-Arch-Package-Description=NX client for Qt
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://freenx.berlios.de/
+X-Arch-Package-Votes=13

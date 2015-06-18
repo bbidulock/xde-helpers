@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=iptux
+Name[zh_CN]=信使(iptux)
+Name[zh_TW]=信使(iptux)
+Comment=Lan communication software
+Comment[zh_CN]=局域网通讯工具
+Comment[zh_TW]=局域網通訊工具
+Icon=ip-tux
+TryExec=/usr/bin/iptux
+Exec=iptux
+Categories=Network;GTK;
+StartupNotify=true
+X-AppInstall-Package=iptux
+X-AppInstall-Popcon=30
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=iptux
+X-Arch-Package-Version=0.6.2-2
+X-Arch-Package-Description=Lan communication software, compatible with IP Messenger.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/iptux-src/iptux
+X-Arch-Package-Votes=30

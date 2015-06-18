@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Clonk Rage
+Comment=An entertaining, action-packed game of strategy, tactics, and skill.
+Icon=clonk_rage
+TryExec=/usr/bin/clonk_rage
+Exec=clonk_rage
+Categories=Game;ActionGame;
+MimeType=application/x-vnd.clonk.c4key;application/vnd.clonk.c4group;
+StartupNotify=true
+StartupWMClass=Clonk Rage
+X-AppInstall-Package=clonk_rage
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=clonk_rage 4.9.10.7-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=clonk_rage
+X-Arch-Package-Version=4.9.10.7-1
+X-Arch-Package-Description=An entertaining, action-packed game of strategy, tactics, and
+X-Arch-Package-Groups=games
+X-Arch-Package-URL=http://clonk.de
+X-Arch-Package-Votes=10

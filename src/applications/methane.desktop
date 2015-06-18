@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Methane
+GenericName=Super Methane Brothers
+Comment=Game in which you use a gas gun to capture baddies.
+Icon=methane
+TryExec=/usr/bin/methane
+Exec=methane
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=methane
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=methane 1.5.1-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=methane
+X-Arch-Package-Version=1.5.1-4
+X-Arch-Package-Description=Help the Super Methane Brothers to capture baddies with your
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://methane.sourceforge.net
+X-Arch-Package-Votes=6

@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Retrovol sound mixer
+GenericName=Retrovol
+Comment=Retrovol sound mixer
+TryExec=/usr/bin/retrovol
+Exec=retrovol
+Categories=AudioVideo;
+StartupNotify=false
+X-AppInstall-Package=retrovol
+X-AppInstall-Section=custom
+X-Arch-Package-Repository=custom
+X-Arch-Package-Name=retrovol
+X-Arch-Package-Version=0.14.1-1
+X-Arch-Package-Description=A sound volume mixer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/pizzasgood/retrovol

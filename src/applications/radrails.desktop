@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=RadRails
+Comment=RadRails IDE
+Icon=/opt/radrails/RadRails.xpm
+TryExec=/opt/radrails/RadRails
+Exec=/opt/radrails/RadRails
+Categories=Application;Development;GNOME;
+StartupNotify=true
+X-AppInstall-Package=radrails
+X-AppInstall-Section=aur
+X-Arch-Package=radrails 0.7.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=radrails
+X-Arch-Package-Version=0.7.2-2
+X-Arch-Package-Description=RadRails is an integrated development environment for the Ruby on Rails framework
+X-Arch-Package-URL=http://www.radrails.org

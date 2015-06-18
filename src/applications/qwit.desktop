@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Qwit
+GenericName=Twitter Client
+Comment=Qt4 Twitter Client
+Comment[it]=Client di Twitter
+Icon=qwit
+TryExec=/usr/bin/qwit
+Exec=qwit
+Categories=Network;
+StartupNotify=false
+X-AppInstall-Package=qwit
+X-AppInstall-Popcon=54
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qwit
+X-Arch-Package-Version=1.1_pre2-4
+X-Arch-Package-Description=Qt4 cross-platform client for Twitter
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/qwit/
+X-Arch-Package-Votes=54

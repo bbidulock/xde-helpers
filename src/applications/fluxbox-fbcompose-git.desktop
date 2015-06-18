@@ -1,0 +1,45 @@
+[Desktop Entry]
+Type=XSession
+Name=Fluxbox
+GenericName=Window Manager
+GenericName[fr]=Gestionnaire de Fenêtres
+GenericName[pt]=Gestor de Janelas
+Comment=Highly configurable and low resource X11 Window manager
+Icon=fluxbox
+TryExec=/usr/bin/fluxbox
+Exec=startfluxbox
+NoDisplay=true
+Hidden=true
+Categories=WindowManager;Application;System;
+StartupNotify=false
+X-GNOME-Autostart-Notify=false
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-WMName=fluxbox
+X-AppInstall-Package=fluxbox-fbcompose-git
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=fluxbox-fbcompose-git 20111021-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fluxbox-fbcompose-git
+X-Arch-Package-Version=20111021-1
+X-Arch-Package-Description=A lightweight and highly-configurable window manager. Branch
+X-Arch-Package-URL=http://www.fluxbox.org/
+X-Arch-Package-Votes=4
+Aliases=fluxbox;
+DesktopNames=FLUXBOX
+Actions=XDE;
+
+[Desktop Action XDE]
+Name=XDE
+Comment=Fluxbox in an XDE session
+Icon=xde
+TryExec=/usr/bin/xde-session
+Exec=xde-session -desktop FLUXBOX -startwm fluxbox
+DesktopNames=XDE:FLUXBOX
+
+[Window Manager]
+Name=fluxbox
+SessionManaged=true
+StartupNotification=false
+X-XDE-Managed=false

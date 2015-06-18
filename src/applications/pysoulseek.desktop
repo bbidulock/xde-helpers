@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=PySoulSeek
+GenericName=SoulSeek Client
+Icon=/usr/share/pixmaps/pysoulseek.jpg
+TryExec=/usr/bin/pyslsk
+Exec=pyslsk
+Categories=Network;
+X-AppInstall-Package=pysoulseek
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=pysoulseek 1.2.7c-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pysoulseek
+X-Arch-Package-Version=1.2.7c-3
+X-Arch-Package-Description=Soulseek music-sharing client
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sensi.org/~ak/pyslsk/
+X-Arch-Package-Votes=4

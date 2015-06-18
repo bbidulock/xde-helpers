@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Forgotten Myths
+Comment=Forgotten Myths is a free to play, online collectible trading card game (TCG or CCG)
+Icon=/opt/forgotten-myths/Forgotten Myths_Data/Resources/UnityPlayer.png
+TryExec=/usr/bin/forgotten-myths
+Exec=/usr/bin/forgotten-myths
+Categories=Game;
+X-AppInstall-Package=forgotten-myths
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=forgotten-myths 0.91-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=forgotten-myths
+X-Arch-Package-Version=0.91-1
+X-Arch-Package-Description=Forgotten Myths is a free to play, online collectible trading
+X-Arch-Package-Groups=games
+X-Arch-Package-URL=http://forgottenmyths.com
+X-Arch-Package-Votes=3

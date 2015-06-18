@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=SpectraScan
+Comment=An application for 2D plotting
+Icon=/usr/share/pixmaps/spectrascan.svg
+TryExec=/usr/bin/spectrascan
+Exec=/usr/bin/spectrascan %f
+Categories=Science;X-Plotting;
+X-AppInstall-Package=spectrascan
+X-AppInstall-Section=aur
+X-Arch-Package=spectrascan 0008-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=spectrascan
+X-Arch-Package-Version=0008-1
+X-Arch-Package-Description=Loads images from scanned curves and exports the pixel
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://spectrascan.sourceforge.net/
+X-Arch-Package-Votes=0

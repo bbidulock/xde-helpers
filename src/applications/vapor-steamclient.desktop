@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Vapor
+GenericName=vapor-steamclient
+Comment=Steam IM Client
+TryExec=/usr/bin/vapor-steamclient
+Exec=/usr/bin/vapor-steamclient
+Categories=Network;
+StartupNotify=true
+X-AppInstall-Package=vapor-steamclient
+X-AppInstall-Section=aur
+X-Arch-Package=vapor-steamclient 1.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=vapor-steamclient
+X-Arch-Package-Version=1.6-1
+X-Arch-Package-Description=Cross-platform Steam client (IM only)
+X-Arch-Package-URL=http://www.facepunch.com/threads/1057523

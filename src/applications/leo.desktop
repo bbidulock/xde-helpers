@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Leo
+GenericName=Outliner
+Icon=leo
+TryExec=/usr/bin/leo
+Exec=leo
+Categories=Utility;TextEditor;
+MimeType=application/x-leo-outline;
+X-AppInstall-Package=leo
+X-AppInstall-Popcon=23
+X-AppInstall-Section=aur
+X-Arch-Package=leo 5.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=leo
+X-Arch-Package-Version=5.1-1
+X-Arch-Package-Description=Literate programmer's editor, outliner, and project manager
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://leoeditor.com/
+X-Arch-Package-Votes=23

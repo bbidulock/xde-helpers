@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Nzb
+Comment=Grab nzb files
+Icon=nzb
+TryExec=/usr/bin/nzb
+Exec=nzb
+Categories=Network;
+StartupNotify=false
+X-AppInstall-Package=nzb
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nzb
+X-Arch-Package-Version=0.3-1
+X-Arch-Package-Description=A library and graphical Usenet client for nzb based NNTP
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.nzb.fi/
+X-Arch-Package-Votes=13

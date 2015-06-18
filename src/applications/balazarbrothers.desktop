@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Balazar Brothers
+GenericName=Action / Adventure Game
+Comment=3D adventure and roleplaying game
+TryExec=/usr/bin/balazar_brothers
+Exec=balazar_brothers
+Categories=Application;Game;AdventureGame;ArcadeGame;RolePlaying;
+StartupNotify=false
+X-AppInstall-Package=balazarbrothers
+X-AppInstall-Popcon=18
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=balazarbrothers
+X-Arch-Package-Version=1.0rc1-8
+X-Arch-Package-Description=A 3D puzzle and platform game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://home.gna.org/oomadness/en/balazar_brothers/
+X-Arch-Package-Votes=5

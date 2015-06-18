@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=QNapi
+GenericName=A program to download subtitles for movies
+GenericName[pl]=Program do pobierania napisów do filmów
+Comment=A program to download subtitles for movies
+Comment[pl]=Program do pobierania napisów do filmów
+Icon=_usr_share_icons_qnapi-48
+TryExec=/usr/bin/qnapi
+Exec=qnapi
+Categories=AudioVideo;
+StartupNotify=false
+X-AppInstall-Package=qnapi
+X-AppInstall-Popcon=75
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qnapi
+X-Arch-Package-Version=0.1.6_rc2-4
+X-Arch-Package-Description=Qt4 client for downloading movie subtitles from NAPI Project
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/qnapi/
+X-Arch-Package-Votes=75

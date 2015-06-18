@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Vidalia
+GenericName=Tor GUI
+Icon=vidalia
+TryExec=/usr/bin/vidalia
+Exec=vidalia
+Categories=Network;Qt;
+StartupNotify=false
+X-AppInstall-Package=vidalia
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=vidalia
+X-Arch-Package-Version=0.2.21-4
+X-Arch-Package-Description=Controller GUI for Tor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://www.torproject.org/vidalia
+X-Arch-Package-Votes=11

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Version=0.1
+Type=Application
+Name=Joxi
+GenericName=joxi
+Comment=Joxi
+Icon=joxi.png
+TryExec=/usr/bin/joxi
+Exec=joxi
+Categories=Application;Network;
+MimeType=application/x-designer;
+X-KDE-StartupNotify=true
+X-AppInstall-Package=joxi
+X-AppInstall-Section=aur
+X-Arch-Package=joxi 2.4.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=joxi
+X-Arch-Package-Version=2.4.0-2
+X-Arch-Package-Description=Easy to use screenshot sharing application (Russian)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://joxi.ru/
+X-Arch-Package-Votes=0

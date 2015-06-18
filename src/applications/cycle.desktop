@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Cycle
+Comment=Calendar program for women
+Icon=cycle
+TryExec=/usr/bin/cycle
+Exec=cycle
+Categories=Education;Calendar;
+StartupNotify=false
+X-AppInstall-Package=cycle
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=cycle
+X-Arch-Package-Version=0.3.1-7
+X-Arch-Package-Description=Cycle is a calendar program for women
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://cycle.sourceforge.net/

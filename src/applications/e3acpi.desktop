@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Asusosd
+Icon=exec
+TryExec=/usr/bin/asusosd
+Exec=/usr/bin/asusosd
+NoDisplay=true
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=e3acpi
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=e3acpi 1.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=e3acpi
+X-Arch-Package-Version=1.1-1
+X-Arch-Package-Description=ACPI scripts and AsusOSD for the Asus Eee PC
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://update.eeepc.asus.com/p900/pool
+X-Arch-Package-Votes=2
+Aliases=Asusosd;

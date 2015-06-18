@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Abuse
+GenericName=Arcade Game
+GenericName[de]=Arcade-Spiel
+GenericName[es]=Un Juego arcade
+GenericName[fr]=Jeu d'arcade
+GenericName[hu]=Ügyességi játék
+Comment=Play a clone of the classic Abuse shooter
+Icon=abuse
+TryExec=/usr/bin/abuse
+Exec=abuse
+Categories=Game;ActionGame;
+StartupNotify=false
+DocPath=/usr/share/doc/packages/abuse/docs/index.html
+X-AppInstall-Package=abuse
+X-AppInstall-Popcon=45
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=abuse
+X-Arch-Package-Version=0.8-4
+X-Arch-Package-Description=Side-scroller action game that pits you against ruthless alien killers
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://abuse.zoy.org/

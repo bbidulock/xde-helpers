@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=EBView
+Name[ja]=EBView 辞書ブラウザ
+Comment=EPWING CD-ROM dictionary viewer
+Comment[ja]=EPWING形式のCD-ROM辞書を検索します
+Icon=_usr_share_pixmaps_ebview
+TryExec=/usr/bin/ebview
+Exec=/usr/bin/ebview
+Categories=Application;Utility;Dictionary;GTK;
+MimeType=application/ebview;
+StartupNotify=true
+X-AppInstall-Package=ebview
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ebview
+X-Arch-Package-Version=0.3.6-1
+X-Arch-Package-Description=A GTK-based EPWING dictionary viewer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ebview.sourceforge.net/
+X-Arch-Package-Votes=7

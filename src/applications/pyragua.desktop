@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Pyragua
+GenericName=Integrated Development Environment
+GenericName[es]=Entorno Integrado de Desarrollo
+Comment=A fast and lightweight IDE using wxPython
+Icon=pyragua
+TryExec=/usr/bin/pyragua
+Exec=pyragua %F
+Categories=Development;IDE;
+StartupNotify=true
+X-AppInstall-Package=pyragua
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pyragua
+X-Arch-Package-Version=0.2.5-1
+X-Arch-Package-Description=pyragua is an python IDE developed by Semillero de
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pyragua.pyroxdev.org/
+X-Arch-Package-Votes=1

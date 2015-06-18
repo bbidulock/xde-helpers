@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Eschalon: Book 2
+GenericName=Turnbased RPG
+Comment=Eschalon: Book 2 is a classic role-playing game experience.
+Icon=/usr/share/pixmaps/EschalonBook2.png
+TryExec=/usr/bin/eschalon2
+Exec=eschalon2
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=eschalon2
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=eschalon2 1.05-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=eschalon2
+X-Arch-Package-Version=1.05-1
+X-Arch-Package-Description=Turn-based RPG. Eschalon: Book II is the sequel to 2007’s
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://basiliskgames.com/eschalon-book-ii
+X-Arch-Package-Votes=7

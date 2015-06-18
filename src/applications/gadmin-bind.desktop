@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Gadmin Bind
+GenericName=GADMIN-BIND
+Comment=BIND DNS server administration
+Icon=gadmin-bind
+TryExec=/usr/bin/gadmin-bind-menu
+Exec=gadmin-bind-menu
+Categories=System;GTK;
+X-AppInstall-Package=gadmin-bind
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=gadmin-bind 0.2.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gadmin-bind
+X-Arch-Package-Version=0.2.5-1
+X-Arch-Package-Description=A GTK+ Application to help administrate BIND
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=None
+X-Arch-Package-Votes=1

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.13.1
+Type=Application
+Name=Lincity
+GenericName=Lincity
+Comment=City simulation game
+Icon=_usr_share_pixmaps_lincity
+TryExec=/usr/bin/xlincity
+Exec=xlincity
+Categories=Application;Game;StrategyGame;
+StartupNotify=false
+X-AppInstall-Package=lincity
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lincity
+X-Arch-Package-Version=1.13.1-2
+X-Arch-Package-Description=A free construction and management simulation game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://lincity.sourceforge.net/
+X-Arch-Package-Votes=11

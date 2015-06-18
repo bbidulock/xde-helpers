@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=LDAP Browser/Editor
+TryExec=/usr/bin/lbe
+Exec=/usr/bin/lbe
+X-AppInstall-Package=lbe
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=lbe 2.8.2-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lbe
+X-Arch-Package-Version=2.8.2-3
+X-Arch-Package-Description=Simple Java-based LDAP Browser/Editor (last freeware version)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://web.archive.org/web/20090201080715/http://mcs.anl.gov/~gawor/ldap/
+X-Arch-Package-Votes=1

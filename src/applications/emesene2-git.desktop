@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Emesene2
+GenericName=Emesene2
+Comment=MSN Messenger client
+Icon=emesene2
+TryExec=/usr/bin/emesene2
+Exec=emesene2
+NoDisplay=true
+Categories=Network;InstantMessaging;
+X-AppInstall-Package=emesene2-git
+X-AppInstall-Popcon=52
+X-AppInstall-Section=aur
+X-Arch-Package=emesene2-git 20121120-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=emesene2-git
+X-Arch-Package-Version=20121120-1
+X-Arch-Package-Description=An OS independent MSN Messenger client writed in python and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.emesene.org/
+X-Arch-Package-Votes=52
+Aliases=emesene2;

@@ -1,0 +1,27 @@
+[Desktop Entry]
+Type=Application
+Name=PCMan X BBS Client
+Name[zh_CN]=PCMan X BBS 连线软件
+Name[zh_TW]=PCMan X BBS 連線軟體
+GenericName=PCMan X BBS Client
+GenericName[zh_CN]=PCMan X BBS 连线软件
+GenericName[zh_TW]=PCMan X BBS 連線軟體
+Comment=PCMan X BBS Client
+Comment[zh_CN]=PCMan X BBS 用 GTK+ 2.x 开发的自由 BBS 连接软件
+Comment[zh_TW]=PCMan X BBS 用 GTK+ 2.x 開發的自由 BBS 連線軟體
+Icon=_usr_share_pixmaps_pcmanx
+TryExec=/usr/bin/pcmanx
+Exec=pcmanx
+Categories=Application;Network;
+StartupNotify=false
+X-AppInstall-Package=pcmanx-gtk2
+X-AppInstall-Popcon=27
+X-AppInstall-Section=aur
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pcmanx-gtk2
+X-Arch-Package-Version=1.2-2
+X-Arch-Package-Description=A gtk+ based free BBS client
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/pcmanx-gtk2
+X-Arch-Package-Votes=27

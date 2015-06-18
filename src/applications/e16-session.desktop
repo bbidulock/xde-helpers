@@ -1,5 +1,5 @@
 [Desktop Entry]
-Type=Application
+Type=XSession
 Name=E16
 GenericName=Window Manager
 GenericName[fr]=Gestionnaire de Fenêtres
@@ -9,7 +9,7 @@ Comment[eo]=Tiu sesio lanĉas la fenestro-administrilon Enlightenment (e16)
 Comment[fr]=Démarre une session avec enlightenment (e16)
 Comment[it]=Questo avvia il window manager Enlightenment (e16)
 Comment[pt]=Esta sessão inicia o gestor de janelas Enlightenment (e16)
-Icon=/usr/share/e16/icons/e16.png
+Icon=e16
 TryExec=/usr/share/e16/misc/starte16
 Exec=/usr/share/e16/misc/starte16
 NoDisplay=true
@@ -29,6 +29,7 @@ X-Arch-Package-Description=A fast, flexible, and very extensible Window Manager
 X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://www.enlightenment.org
 DesktopNames=E16
+X-LightDM-DesktopName=e16
 Actions=XDE;KDE;Gnome2;Gnome3;
 
 [Desktop Action KDE]
@@ -41,6 +42,7 @@ Icon=kde
 TryExec=/usr/share/e16/misc/starte16-kde
 Exec=/usr/share/e16/misc/starte16-kde
 DesktopNames=KDE
+X-LightDM-DesktopName=kde
 
 [Desktop Action Gnome2]
 Name=Gnome2
@@ -52,6 +54,7 @@ Icon=gnome
 TryExec=/usr/share/e16/misc/starte16-gnome
 Exec=/usr/share/e16/misc/starte16-gnome
 DesktopNames=GNOME
+X-LightDM-DesktopName=gnome
 
 [Desktop Action Gnome3]
 Name=Gnome3
@@ -59,6 +62,7 @@ Icon=gnome
 TryExec=/usr/bin/gnome-session
 Exec=gnome-session --session=e16-gnome
 DesktopNames=GNOME
+X-LightDM-DesktopName=gnome
 
 [Desktop Action XDE]
 Name=XDE
@@ -67,3 +71,4 @@ Icon=xde
 TryExec=/usr/bin/xde-session
 Exec=xde-session -desktop E16 -startwm /usr/share/e16/misc/starte16
 DesktopNames=XDE:E16
+X-LightDM-DesktopName=xde

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Rasterbator
+GenericName=Rasterbator
+Comment=Create huge, rasterized images from any picture.
+Icon=rasterbator
+TryExec=/usr/bin/rasterbator
+Exec=rasterbator
+Categories=Graphics;
+StartupNotify=true
+X-AppInstall-Package=rasterbator
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=rasterbator 1.21-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rasterbator
+X-Arch-Package-Version=1.21-2
+X-Arch-Package-Description=Create huge, rasterized images from any picture.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://arje.net/rasterbator
+X-Arch-Package-Votes=8

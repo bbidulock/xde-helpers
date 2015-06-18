@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Service
+Icon=/usr/lib/peazip/res/icons/peazip.png
+ServiceTypes=KonqPopupMenu/Plugin;
+NoDisplay=true
+MimeType=application/octet-stream;inode/directory;
+X-AppInstall-Package=bin32-peazip-qt-kde4servicemenu
+X-AppInstall-Section=aur
+X-Arch-Package=bin32-peazip-qt-kde4servicemenu 4.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bin32-peazip-qt-kde4servicemenu
+X-Arch-Package-Version=4.2-1
+X-Arch-Package-Description=QT archiver utility
+X-Arch-Package-URL=http://www.peazip.org/peazip-linux.html
+Aliases=peazipadd;
+Actions=peazipadd;
+
+[Desktop Action peazipadd]
+Name=Archive with PeaZip
+Icon=/usr/lib/peazip/res/icons/peazip.png
+TryExec=/usr/bin/peazip
+Exec=peazip -add2archive %F

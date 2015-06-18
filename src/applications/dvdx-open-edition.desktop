@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=DVDx 4 Open Edition
+GenericName=Multimedia encoder
+Comment=Encode your media and rip your DVDs
+Icon=dvdx4openicon
+TryExec=/usr/bin/DVDx4
+Exec=DVDx4
+NoDisplay=true
+Categories=AudioVideo;
+StartupNotify=true
+X-AppInstall-Package=dvdx-open-edition
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=dvdx-open-edition 4.0.1.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dvdx-open-edition
+X-Arch-Package-Version=4.0.1.0-3
+X-Arch-Package-Description=DVDx 4.0 is an audio/video encoder as well as a powerful DVD
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.labdv.com/dvdx
+X-Arch-Package-Votes=1
+Aliases=DVDx_4_Open_Edition;

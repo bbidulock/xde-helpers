@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Zomboid Demo
+Comment=Project Zomboid Pre-Alpha Tech Demo
+Icon=zomboid-demo.png
+TryExec=/usr/bin/zomboid-demo
+Exec=zomboid-demo
+Categories=Game;
+X-AppInstall-Package=zomboid-demo
+X-AppInstall-Section=aur
+X-Arch-Package=zomboid-demo 0.1.4c-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zomboid-demo
+X-Arch-Package-Version=0.1.4c-2
+X-Arch-Package-Description=Project Zomboid Pre-Alpha Tech Demo
+X-Arch-Package-URL=http://projectzomboid.com

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Mp3splt-gtk audio splitter
+GenericName=Sound Splitter
+Comment=Split mp3 and ogg files without decoding
+Icon=/usr/share/mp3splt-gtk/mp3splt-gtk_ico.png
+TryExec=/usr/bin/mp3splt-gtk
+Exec=mp3splt-gtk
+Categories=Application;AudioVideo;Audio;AudioVideoEditing;
+MimeType=application/ogg;audio/x-mp3;
+StartupNotify=false
+X-AppInstall-Package=mp3splt-gtk
+X-AppInstall-Popcon=41
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=mp3splt-gtk
+X-Arch-Package-Version=0.9.2-1
+X-Arch-Package-Description=Split mp3 and ogg files without decoding
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://mp3splt.sourceforge.net/

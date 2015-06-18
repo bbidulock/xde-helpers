@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Granule
+Comment=Flashcards Program
+Icon=granule.png
+TryExec=/usr/bin/granule
+Exec=granule
+Categories=Application;Utility;GNOME;
+StartupNotify=false
+X-AppInstall-Package=granule
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=granule
+X-Arch-Package-Version=1.4.0-7
+X-Arch-Package-Description=granule is a flashcard program that implements Leitner (by the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://granule.sourceforge.net
+X-Arch-Package-Votes=1

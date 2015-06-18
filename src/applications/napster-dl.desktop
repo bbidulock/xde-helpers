@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Napster-dl
+GenericName=Napster Downloader
+Comment=Download music from free.napster.com
+Icon=napster-dl
+TryExec=/usr/bin/napster-dl
+Exec=napster-dl
+Categories=Network;FileTransfer;Java;
+X-AppInstall-Package=napster-dl
+X-AppInstall-Section=aur
+X-Arch-Package=napster-dl 0.6-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=napster-dl
+X-Arch-Package-Version=0.6-5
+X-Arch-Package-Description=A Java-based application for downloading songs from free.napster.com
+X-Arch-Package-URL=http://www.jkcool.com/napster-dl/

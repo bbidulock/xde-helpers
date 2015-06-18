@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Horgand
+GenericName=Soft Synth
+Comment=JACK capable organ softsynth
+Icon=horgand
+TryExec=/usr/bin/horgand
+Exec=horgand
+Categories=AudioVideo;Audio;Multimedia;
+X-AppInstall-Package=horgand
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package=horgand 1.14-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=horgand
+X-Arch-Package-Version=1.14-2
+X-Arch-Package-Description=JACK capable organ softsynth
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://horgand.berlios.de/
+X-Arch-Package-Votes=2

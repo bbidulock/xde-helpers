@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=xsatcom
+Comment=Satellite data calculation & display.
+Icon=xsatcom
+TryExec=/usr/bin/xsatcom
+Exec=xsatcom
+Categories=Application;HamRadio;
+StartupNotify=true
+X-AppInstall-Package=xsatcom
+X-AppInstall-Section=aur
+X-Arch-Package=xsatcom 2.9-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xsatcom
+X-Arch-Package-Version=2.9-1
+X-Arch-Package-Description=Ham Radio - satellite tracking.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.qsl.net/5b4az/pkg/satellite/xsatcom/xsatcom.html
+X-Arch-Package-Votes=0

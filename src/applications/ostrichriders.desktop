@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=OstrichRiders
+Icon=/usr/share/pixmaps/ostrichriders.png
+TryExec=/opt/OstrichRiders061_Linux32/ostrich-start
+Exec=/opt/OstrichRiders061_Linux32/ostrich-start
+Categories=Qt;Arcade;Games;
+X-AppInstall-Package=ostrichriders
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=ostrichriders 0.6.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ostrichriders
+X-Arch-Package-Version=0.6.1-1
+X-Arch-Package-Description=Ostrich Riders is a free clone of the arcade game Joust. It's
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/ostrichriders/
+X-Arch-Package-Votes=2

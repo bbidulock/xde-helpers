@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=JSampler Classic
+Comment=LinuxSampler - Audio sampler (Classic Java GUI)
+Icon=/usr/share/pixmaps/jsampler-classic.png
+TryExec=/usr/bin/jsampler-classic
+Exec=/usr/bin/jsampler-classic
+NoDisplay=true
+Categories=AudioVideo;Audio;
+X-AppInstall-Package=jsampler-cvs
+X-AppInstall-Section=aur
+X-Arch-Package=jsampler-cvs 20090722-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jsampler-cvs
+X-Arch-Package-Version=20090722-1
+X-Arch-Package-Description=A java frontend to LinuxSampler.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.linuxsampler.org/
+X-Arch-Package-Votes=0
+Aliases=jsampler-classic;

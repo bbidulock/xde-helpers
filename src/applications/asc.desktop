@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Advanced Strategic Command
+GenericName=Strategy Game
+Comment=Turn based strategy game
+Comment[de]=Spielzug-basiertes Strategiespiel
+Comment[es]=juego de estrategia basada en turnos
+Comment[hu]=fordulókra osztott stratégiai játék
+Icon=asc
+TryExec=/usr/bin/asc
+Exec=asc
+Categories=Game;StrategyGame;
+StartupNotify=false
+DocPath=/usr/share/doc/packages/asc/doc/source.html
+X-AppInstall-Package=asc
+X-AppInstall-Popcon=34
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=asc
+X-Arch-Package-Version=2.6.0.0-1
+X-Arch-Package-Description=Advanced Strategic Command is a turn based strategy game in
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.asc-hq.org/
+X-Arch-Package-Votes=18

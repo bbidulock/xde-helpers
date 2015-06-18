@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=2.2
+Type=Application
+Name=GNUbik
+GenericName=GNUbik Game
+Comment=3D Rubik's cube game
+Icon=_usr_share_pixmaps_gnubik
+TryExec=/usr/games/gnubik
+Exec=/usr/games/gnubik
+Categories=Game;LogicGame;
+StartupNotify=false
+X-AppInstall-Package=gnubik
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gnubik
+X-Arch-Package-Version=2.4.1-1
+X-Arch-Package-Description=The GNUbik program is an interactive, graphical, single player
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.gnu.org/software/gnubik/
+X-Arch-Package-Votes=1

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Aseprite
+Comment=Pixel-art paint program
+Icon=aseprite
+TryExec=/usr/bin/aseprite
+Exec=aseprite
+NoDisplay=true
+Categories=Graphics;2DGraphics;RasterGraphics;
+X-AppInstall-Package=aseprite-git
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=aseprite-git r2497.bd3fcd3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=aseprite-git
+X-Arch-Package-Version=r2497.bd3fcd3-1
+X-Arch-Package-Description=Create animated sprites and pixel art
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.aseprite.org/
+X-Arch-Package-Votes=3
+Aliases=aseprite;

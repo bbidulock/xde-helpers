@@ -1,0 +1,22 @@
+[Desktop Entry]
+Version=2.5
+Type=Application
+Name=AdvBashGuide-ru
+GenericName[ru_RU.UTF-8]=Искусство программирования на языке сценариев командной оболочки
+Comment=Advanced bash scripting guide
+Comment[ru_RU.UTF-8]=Искусство программирования на языке сценариев командной оболочки
+Icon=text-html
+TryExec=/usr/bin/xdg-open
+Exec=xdg-open /usr/share/doc/abs-guide-ru/html/abs-book.html
+Categories=Development;
+X-AppInstall-Package=abs-guide-ru
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=abs-guide-ru 2.5-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=abs-guide-ru
+X-Arch-Package-Version=2.5-4
+X-Arch-Package-Description=Advanced Bash Scripting Guide
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gazette.linux.ru.net/rus/articles/index-abs-guide.html
+X-Arch-Package-Votes=1

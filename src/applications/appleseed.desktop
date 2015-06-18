@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Appleseed Studio
+Comment=A renderer with a focus on quality and correctness
+Icon=appleseed
+TryExec=/opt/appleseed/bin/appleseed.studio
+Exec=/opt/appleseed/bin/appleseed.studio %U
+Categories=Graphics;
+MimeType=application/xml;
+X-AppInstall-Package=appleseed-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=appleseed-git 20120507-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=appleseed-git
+X-Arch-Package-Version=20120507-1
+X-Arch-Package-Description=An open source renderer with a focus on quality and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://appleseedhq.net/
+X-Arch-Package-Votes=1

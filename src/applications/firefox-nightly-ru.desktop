@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Firefox Nightly
+GenericName=Firefox Nightly, русская версия
+Icon=/usr/share/pixmaps/firefox-nightly-icon.png
+TryExec=/usr/bin/firefox-nightly
+Exec=firefox-nightly %u
+MultipleArgs=false
+NoDisplay=true
+Categories=Application;Network;
+MimeType=text/html;x-scheme-handler/http;x-scheme-handler/https;
+StartupNotify=false
+X-AppInstall-Package=firefox-nightly-ru
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=firefox-nightly-ru 41.0a1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firefox-nightly-ru
+X-Arch-Package-Version=41.0a1-1
+X-Arch-Package-Description=Web browser from mozilla.org, nightly build, russian version
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://nightly.mozilla.org/
+X-Arch-Package-Votes=8
+Aliases=firefox-nightly;

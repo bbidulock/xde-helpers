@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=ManEncode
+Comment=Transcode your videos
+Icon=manencode
+TryExec=/usr/bin/manencode
+Exec=manencode
+Categories=AudioVideo;
+StartupNotify=true
+X-AppInstall-Package=manencode
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=manencode 1.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=manencode
+X-Arch-Package-Version=1.0-3
+X-Arch-Package-Description=Transcode your videos
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://mantools.tuxfamily.org/node/6
+X-Arch-Package-Votes=7

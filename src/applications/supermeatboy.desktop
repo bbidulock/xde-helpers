@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Super Meat Boy
+Comment=An insanely hard and delightfully meaty platformer
+Icon=/opt/supermeatboy/supermeatboy.png
+TryExec=/usr/bin/supermeatboy
+Exec=/usr/bin/supermeatboy
+Categories=Game;
+X-AppInstall-Package=supermeatboy
+X-AppInstall-Popcon=41
+X-AppInstall-Section=aur
+X-Arch-Package=supermeatboy 20131111-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=supermeatboy
+X-Arch-Package-Version=20131111-1
+X-Arch-Package-Description=An insanely hard and delightfully meaty platformer (game sold
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.supermeatboy.com/
+X-Arch-Package-Votes=41
+Value=1.0

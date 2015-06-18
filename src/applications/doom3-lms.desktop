@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Doom 3: Last Man Standing
+Comment=Coop Mod for Doom 3
+Icon=doom3-lms.xpm
+TryExec=/usr/bin/doom3-lms
+Exec=/usr/bin/doom3-lms
+Terminal=true
+Categories=Application;Game;
+StartupNotify=false
+X-AppInstall-Package=doom3-lms
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=doom3-lms 4.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=doom3-lms
+X-Arch-Package-Version=4.0-2
+X-Arch-Package-Description=Doom 3 Last Man Standing. A coop mod for Doom 3.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://doom3coop.com/
+X-Arch-Package-Votes=5

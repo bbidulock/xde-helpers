@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Digitalcoin
+Comment=Digitalcoin P2P Cryptocurrency
+Icon=/usr/share/pixmaps/digitalcoin.png
+TryExec=/usr/bin/digitalcoin-qt
+Exec=/usr/bin/digitalcoin-qt
+NoDisplay=true
+Categories=Application;Network;
+MimeType=x-scheme-handler/digitalcoin;
+X-AppInstall-Package=digibyte-qt-git
+X-AppInstall-Section=aur
+X-Arch-Package=digibyte-qt-git 3.0.2.r4.g65e1f9e-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=digibyte-qt-git
+X-Arch-Package-Version=3.0.2.r4.g65e1f9e-1
+X-Arch-Package-Description=A Professional and Transparent Cryptocurrency.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://digibyte.co/
+X-Arch-Package-Votes=0
+Aliases=digibyte;

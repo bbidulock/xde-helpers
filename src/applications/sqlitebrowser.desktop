@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=SQLite database browser
+Comment=GUI editor for SQLite databases
+Icon=sqlitebrowser.png
+TryExec=/usr/bin/sqlitebrowser
+Exec=sqlitebrowser
+Categories=Development;Database;Qt;
+MimeType=application/x-sqlite;
+StartupNotify=false
+X-AppInstall-Package=sqlitebrowser
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=sqlitebrowser
+X-Arch-Package-Version=3.6.0-1
+X-Arch-Package-Description=SQLite Database browser is a light GUI editor for SQLite databases, built on top of Qt
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sqlitebrowser.org/

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Bomberclone
+Comment=Play a Bomberman like game
+Icon=bomberclone
+TryExec=/usr/bin/bomberclone
+Exec=bomberclone
+Categories=Game;KDE;GNOME;Qt;
+StartupNotify=false
+X-AppInstall-Package=bomberclone
+X-AppInstall-Popcon=52
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=bomberclone
+X-Arch-Package-Version=0.11.9-4
+X-Arch-Package-Description=Clone of the game AtomicBomberMan
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.bomberclone.de/

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=SFLphone
+GenericName=VoIP Client
+X-GNOME-FullName=SFLphone VoIP Client
+Comment=Call and receive calls with SIP or IAX protocols
+Icon=sflphone.svg
+TryExec=/usr/bin/sflphone-client-gnome
+Exec=sflphone-client-gnome
+Categories=Network;Telephony;
+StartupNotify=true
+X-AppInstall-Package=sflphone
+X-AppInstall-Popcon=68
+X-AppInstall-Section=aur
+X-AppInstall-Architectures=amd64,armel,i386,ia64,mips,mipsel,powerpc,s390
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sflphone
+X-Arch-Package-Version=1.4.1-1
+X-Arch-Package-Description=SIP/IAX2 compatible softphone
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.sflphone.org/
+X-Arch-Package-Votes=68

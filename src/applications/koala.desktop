@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Koala
+Name[zh_CN.UTF-8]=koala
+Comment=A cool tool for web developers
+Icon=/opt/koala/koala.png
+TryExec=/usr/bin/koala
+Exec=/usr/bin/koala
+Categories=Development;GNOME;GTK;
+StartupNotify=true
+X-AppInstall-Package=koala
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=koala 2.0.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=koala
+X-Arch-Package-Version=2.0.4-1
+X-Arch-Package-Description=A GUI application for Less, Sass, Compass and CoffeeScript
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://koala-app.com/
+X-Arch-Package-Votes=9

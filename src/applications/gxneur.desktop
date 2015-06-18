@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=gXNeur
+Comment=Automatic keyboard layout switcher
+Comment[ru]=Автоматический переключатель раскладки клавиатуры
+Icon=gxneur
+TryExec=/usr/bin/gxneur
+Exec=gxneur
+Categories=Utility;Accessibility;GNOME;GTK;
+StartupNotify=true
+X-AppInstall-Package=gxneur
+X-AppInstall-Popcon=57
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gxneur
+X-Arch-Package-Version=0.17.0-1
+X-Arch-Package-Description=GTK frontend for XNeur
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.xneur.ru
+X-Arch-Package-Votes=57

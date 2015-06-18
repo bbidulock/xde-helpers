@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=ARAnyM
+Comment=Virtual Machine for running Atari 32-bit operating systems and applications
+Icon=aranym
+TryExec=/usr/bin/aranym
+Exec=aranym
+Categories=System;Emulator;
+StartupNotify=false
+X-AppInstall-Package=aranym
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=aranym
+X-Arch-Package-Version=1.0.2-2
+X-Arch-Package-Description=Atari Running on Any Machine
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://aranym.sourceforge.net
+X-Arch-Package-Votes=3

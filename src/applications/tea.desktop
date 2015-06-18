@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=TEA Text Editor
+GenericName=TEA Editor
+Comment=Text editor with hundreds of functions
+Icon=tea
+TryExec=/usr/bin/tea
+Exec=tea %U
+Categories=Utility;TextEditor;
+StartupNotify=false
+X-AppInstall-Package=tea
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=tea
+X-Arch-Package-Version=41.0.0-1
+X-Arch-Package-Description=A Qt-based text editor for Linux and *BSD. With an ultimate small size TEA provides you hundreds of functions.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://semiletov.org/tea/

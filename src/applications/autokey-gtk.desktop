@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=AutoKey (GTK)
+GenericName=Keyboard Automation
+Comment=Program keyboard shortcuts
+Icon=_usr_share_pixmaps_akicon
+TryExec=/usr/bin/autokey-gtk
+Exec=autokey-gtk
+Categories=Utility;GNOME;
+StartupNotify=false
+X-AppInstall-Package=autokey-gtk
+X-AppInstall-Popcon=29
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=autokey-gtk
+X-Arch-Package-Version=0.90.4-5
+X-Arch-Package-Description=A text expansion/replacement and hotkey utility for Linux and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/autokey/
+X-Arch-Package-Votes=30

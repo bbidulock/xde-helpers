@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Xine
+Name[pl]=Odtwarzacz xine
+GenericName=Media Player
+Comment=Xine Media Player
+Comment[pl]=Odtwarzacz filmów
+Icon=xine
+TryExec=/usr/bin/xine
+Exec=xine %U
+Categories=Application;AudioVideo;Player;
+MimeType=video/mpeg;video/quicktime;video/x-msvideo;video/x-anim;audio/x-mp3;audio/x-mp2;
+StartupNotify=false
+X-AppInstall-Package=xine-ui
+X-AppInstall-Section=extra
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=xine-ui
+X-Arch-Package-Version=0.99.9-1
+X-Arch-Package-Description=A free video player for Unix
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.xine-project.org

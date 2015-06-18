@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=3D Chess
+Comment=3D chess for X11
+TryExec=/usr/games/3Dc
+Exec=/usr/games/3Dc
+Categories=Game;BoardGame;
+StartupNotify=false
+X-AppInstall-Package=3dchess
+X-AppInstall-Popcon=50
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=3dchess
+X-Arch-Package-Version=0.8.1-2
+X-Arch-Package-Description=An opensource 3d Chess game for X11. 96 pieces, 26 possible
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ibiblio.org/pub/linux/games/strategy
+X-Arch-Package-Votes=18

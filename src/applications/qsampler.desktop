@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Qsampler
+GenericName=LinuxSampler GUI
+Comment=Qsampler is a LinuxSampler Qt GUI Interface
+Icon=qsampler
+TryExec=/usr/bin/qsampler
+Exec=/usr/bin/qsampler
+Categories=AudioVideo;Audio;Qt;
+StartupNotify=false
+X-AppInstall-Package=qsampler
+X-AppInstall-Popcon=30
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qsampler
+X-Arch-Package-Version=0.2.3-1
+X-Arch-Package-Description=LinuxSampler Qt GUI
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://qsampler.sourceforge.net/
+X-Arch-Package-Votes=30
+X-SuSE-translate=true

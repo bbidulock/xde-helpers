@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Mandelbulber2
+GenericName=Mandelbulber2 - Advanced 3D fractal generator
+Comment=Visit 3D Fractal World
+Icon=/usr/share/mandelbulber/qt/icons/mandelbulber.png
+TryExec=/usr/bin/mandelbulber2
+Exec=mandelbulber2
+X-DBUS-StartupType=none
+NoDisplay=true
+Categories=Graphics;Science;3DGraphics;Math;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=mandelbulber2-svn
+X-AppInstall-Section=aur
+X-Arch-Package=mandelbulber2-svn 104-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mandelbulber2-svn
+X-Arch-Package-Version=104-1
+X-Arch-Package-Description=An experimental application designed to render 3D fractals
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://code.google.com/p/mandelbulber2/
+X-Arch-Package-Votes=0
+Aliases=mandelbulber2;

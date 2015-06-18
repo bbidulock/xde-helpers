@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Firefox
+GenericName=Web Browser
+Icon=firefox
+TryExec=/usr/bin/firefox
+Exec=firefox %u
+MultipleArgs=false
+NoDisplay=true
+Categories=Application;Network;
+MimeType=text/html;text/xml;application/xhtml+xml;application/xml;application/vnd.mozilla.xul+xml;application/rss+xml;application/rdf+xml;image/gif;image/jpeg;image/png;x-scheme-handler/http;x-scheme-handler/https;x-scheme-handler/ftp;x-scheme-handler/chrome;
+StartupNotify=false
+X-AppInstall-Package=firefox-aurora-replacement
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=firefox-aurora-replacement latest-6
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firefox-aurora-replacement
+X-Arch-Package-Version=latest-6
+X-Arch-Package-Description=Aurora channel, as a replacement for regular firefox
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.mozilla.org/projects/firefox/
+X-Arch-Package-Votes=5
+Aliases=firefox;

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Pantheon Lite
+Comment=This session provides elementary-lite experience
+Icon=/usr/share/pixmaps/openbox.png
+TryExec=/usr/bin/openbox
+Exec=/usr/bin/pantheon-session lite
+X-AppInstall-Package=pantheon-lite
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=pantheon-lite 1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pantheon-lite
+X-Arch-Package-Version=1-2
+X-Arch-Package-Description=Pantheon Lite Session (pantheon/openbox desktop environment)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://bbs.archlinux.org/viewtopic.php?pid=1402016#p1402016
+X-Arch-Package-Votes=2

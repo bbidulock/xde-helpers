@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=NetBeans PHP IDE
+Comment=A powerful PHP development environment
+Icon=/usr/share/netbeans/nb/netbeans.png
+TryExec=/usr/share/netbeans/bin/netbeans
+Exec=/usr/share/netbeans/bin/netbeans
+NoDisplay=true
+Categories=Development;
+StartupNotify=true
+X-AppInstall-Package=netbeans-php
+X-AppInstall-Popcon=38
+X-AppInstall-Section=aur
+X-Arch-Package=netbeans-php 8.0.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=netbeans-php
+X-Arch-Package-Version=8.0.2-2
+X-Arch-Package-Description=Netbeans IDE - PHP version
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://netbeans.org
+X-Arch-Package-Votes=38
+Aliases=netbeans;

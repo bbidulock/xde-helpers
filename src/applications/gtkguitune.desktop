@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Guitune
+Comment=Guitune is a linux program for tuning guitars and other instruments
+Icon=guitune_logo
+TryExec=/usr/bin/gtkguitune
+Exec=gtkguitune
+Categories=AudioVideo;
+StartupNotify=true
+X-AppInstall-Package=gtkguitune
+X-AppInstall-Popcon=36
+X-AppInstall-Section=aur
+X-Arch-Package=gtkguitune 0.8-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gtkguitune
+X-Arch-Package-Version=0.8-3
+X-Arch-Package-Description=Guitune is a linux program for tuning guitars and other
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.oocities.com/harpin_floh/kguitune_page.html
+X-Arch-Package-Votes=36

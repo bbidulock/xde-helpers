@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Sexcoin
+Comment=Sexcoin P2P Cryptocurrency
+Icon=/usr/share/pixmaps/sexcoin.png
+TryExec=/usr/bin/sexcoin-qt
+Exec=/usr/bin/sexcoin-qt
+Categories=Network;
+MimeType=x-scheme-handler/protoshares;
+X-AppInstall-Package=sexcoin-qt-git
+X-AppInstall-Section=aur
+X-Arch-Package=sexcoin-qt-git 0.8.5.45.g6b3776c-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sexcoin-qt-git
+X-Arch-Package-Version=0.8.5.45.g6b3776c-1
+X-Arch-Package-Description=Cryptocurrency
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.sexcoin.info/
+X-Arch-Package-Votes=0

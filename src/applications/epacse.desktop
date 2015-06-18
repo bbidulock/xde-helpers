@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=epacse
+Comment=An alternative physics platformer
+Icon=epacse
+TryExec=/usr/bin/epacse
+Exec=epacse
+Categories=Game;
+X-AppInstall-Package=epacse
+X-AppInstall-Section=aur
+X-Arch-Package=epacse 1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=epacse
+X-Arch-Package-Version=1.0-1
+X-Arch-Package-Description=An alternative physics platformer. A short game made for Ludum
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://marach.tk/epacse
+X-Arch-Package-Votes=0

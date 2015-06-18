@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Phaedra
+GenericName=Phaedra
+Comment=A reverse dungeon crawler in which you play a villain forced to defend his dungeon from an onslaught of heroes
+Icon=/opt/phaedra/icon.png
+TryExec=/usr/bin/phaedra
+Exec=phaedra
+Categories=Application;Game;
+StartupNotify=false
+X-AppInstall-Package=phaedra
+X-AppInstall-Section=aur
+X-Arch-Package=phaedra 1.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=phaedra
+X-Arch-Package-Version=1.0-3
+X-Arch-Package-Description=A reverse dungeon crawler in which you play a villain forced
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://github.com/centhra/ld25
+X-Arch-Package-Votes=0

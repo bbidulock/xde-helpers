@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Catfish
+Comment=File search
+Comment[de]=Dateisuche
+Comment[es]=Buscador de archivos
+Comment[fi]=Etsi tiedostoja
+Comment[fr]=Recherche de fichiers
+Icon=catfish
+TryExec=/usr/bin/catfish
+Exec=catfish
+Categories=Utility;Filesystem;GTK;
+StartupNotify=true
+X-AppInstall-Package=catfish
+X-AppInstall-Popcon=76
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=catfish
+X-Arch-Package-Version=1.2.2-2
+X-Arch-Package-Description=Versatile file searching tool
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://launchpad.net/catfish-search

@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=Koules
+GenericName=Arcade Game
+GenericName[de]=Arkade-Spiel
+GenericName[fr]=Un jeu d'arcade
+GenericName[ro_RO]=Joc de arcadă
+Comment=Push your enemies away, but stay away from obstacles
+Comment[de]=Dränge deine Gegner weg, aber halte dich von Hindernissen Fern
+Comment[fr]=Eliminez-vos enemies en restant à l'écart des obstacles
+Icon=koules
+TryExec=/usr/bin/koules
+Exec=koules
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=koules
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package=koules 1.4-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=koules
+X-Arch-Package-Version=1.4-5
+X-Arch-Package-Description=A fast arcade game based on fundamental law of bodies
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.ucw.cz/~hubicka/koules/English/
+X-Arch-Package-Votes=11

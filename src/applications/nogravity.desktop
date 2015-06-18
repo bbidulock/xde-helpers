@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=No Gravity
+TryExec=/usr/bin/nogravity
+Exec=nogravity
+Categories=Application;Game;
+X-AppInstall-Package=nogravity-cvs
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=nogravity-cvs 20090401-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nogravity-cvs
+X-Arch-Package-Version=20090401-1
+X-Arch-Package-Description=A space shooter in 3D.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.realtech-vr.com/nogravity/
+X-Arch-Package-Votes=1

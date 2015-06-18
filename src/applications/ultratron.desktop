@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Ultratron
+GenericName=Shoot'em Up Arcade
+Comment=The last human has been slain by evil killer robots. You are the one remaining humanoid battle droid. Your mission is to avenge the human race, and destroy the four bots of the Apocalypse - Ieiunitas, Bellum, Lues and Letum! Power up with ever more powerful weaponry as you blast your way through the levels, avoiding Chasers, Turrets, Spawners, Minelayers, bombs, and bullets!
+Icon=/opt/ultratron/ultratron.png
+TryExec=/usr/bin/ultratron
+Exec=ultratron
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=ultratron
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=ultratron 3.02.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ultratron
+X-Arch-Package-Version=3.02.3-1
+X-Arch-Package-Description=Intense shoot-em-up with 100% pure frenzied gameplay.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.puppygames.net/ultratron/
+X-Arch-Package-Votes=4

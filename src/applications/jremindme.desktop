@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=jRemindMe
+Comment=Reminds you to do things
+TryExec=/usr/bin/jRemindMe
+Exec=jRemindMe
+Categories=Office;Java;
+StartupNotify=true
+X-AppInstall-Package=jremindme
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=jremindme 1.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jremindme
+X-Arch-Package-Version=1.4-1
+X-Arch-Package-Description=A Java program that reminds you to do things
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sj.arc-nova.org/?page=jRemindMe
+X-Arch-Package-Votes=2

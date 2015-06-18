@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Penguin Minesweeper
+TryExec=/usr/games/ace-minesweeper
+Exec=/usr/games/ace-minesweeper
+Categories=Game;LogicGame;
+StartupNotify=false
+X-AppInstall-Package=ace-of-penguins
+X-AppInstall-Popcon=90
+X-AppInstall-Section=custom
+X-Arch-Package-Repository=custom
+X-Arch-Package-Name=ace-of-penguins
+X-Arch-Package-Version=1.4-2
+X-Arch-Package-Description=A set of Unix/X solitaire games.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.delorie.com/store/ace/

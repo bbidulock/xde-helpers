@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Vi IMproved
+Comment=Powerful text editor with scripting functions and macro recorder
+Icon=gvim
+TryExec=/usr/bin/gvim
+Exec=gvim -f %F
+NoDisplay=true
+Categories=Utility;TextEditor;
+MimeType=text/english;text/plain;text/x-makefile;text/x-c++hdr;text/x-c++src;text/x-chdr;text/x-csrc;text/x-java;text/x-moc;text/x-pascal;text/x-tcl;text/x-tex;application/x-shellscript;text/x-c;text/x-c++;
+X-AppInstall-Package=gvim-hg
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=gvim-hg 20131113-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gvim-hg
+X-Arch-Package-Version=20131113-1
+X-Arch-Package-Description=Vi Improved, a highly configurable, improved version of the vi
+X-Arch-Package-Groups=editors
+X-Arch-Package-URL=http://www.vim.org/
+X-Arch-Package-Votes=2
+Aliases=gvim;
+X-XClassHintResName=VIM

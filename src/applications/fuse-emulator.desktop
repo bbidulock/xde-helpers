@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Fuse ZX Spectrum Emulator
+Comment=Emulator of the 1980s ZX Spectrum home computer
+Icon=fuse-emulator
+TryExec=/usr/bin/fuse
+Exec=fuse %f
+Categories=Utility;Emulator;
+X-AppInstall-Package=fuse-emulator
+X-AppInstall-Popcon=43
+X-AppInstall-Section=aur
+X-Arch-Package=fuse-emulator 1.1.1-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fuse-emulator
+X-Arch-Package-Version=1.1.1-4
+X-Arch-Package-Description=ZX Spectrum emulator.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://fuse-emulator.sourceforge.net/fuse.php
+X-Arch-Package-Votes=43

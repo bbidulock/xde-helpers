@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=FuseIDE
+Comment=Developer Tooling for Apache Camel, ServiceMix, and ActiveMQ
+Icon=/opt/FuseIDE/icon.xpm
+TryExec=/opt/FuseIDE/FuseIDE
+Exec=/opt/FuseIDE/FuseIDE
+Categories=Development;IDE;Java;
+StartupNotify=true
+X-AppInstall-Package=fuseide
+X-AppInstall-Section=aur
+X-Arch-Package=fuseide 6.0.0.129-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fuseide
+X-Arch-Package-Version=6.0.0.129-1
+X-Arch-Package-Description=Developer Tooling for Apache Camel, ServiceMix, and ActiveMQ
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.jboss.org/products/fuse
+X-Arch-Package-Votes=0

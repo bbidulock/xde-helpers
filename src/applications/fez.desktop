@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Fez
+Comment=A game where you play as Gomez, a 2D creature living in what he believes is a 2D world
+Icon=fez.png
+TryExec=/usr/bin/fez
+Exec=fez
+Categories=Game;
+Path=/opt/fez
+X-AppInstall-Package=fez
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=fez 20140624-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fez
+X-Arch-Package-Version=20140624-1
+X-Arch-Package-Description=A game where you play as Gomez, a 2D creature living in what
+X-Arch-Package-Groups=games
+X-Arch-Package-URL=http://fezgame.com/
+X-Arch-Package-Votes=13
+Value=1.0

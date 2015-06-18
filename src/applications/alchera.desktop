@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Alchera Game Editor
+GenericName=Game Editor
+Icon=alchera-game-editor.png
+TryExec=/usr/bin/alchera
+Exec=alchera
+Terminal=true
+Categories=Game;
+MimeType=application/x-mokoi-game-source;application/x-oloz-game-source;
+StartupNotify=true
+X-AppInstall-Package=mokoigaming-alchera
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=mokoigaming-alchera 0.92-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mokoigaming-alchera
+X-Arch-Package-Version=0.92-1
+X-Arch-Package-Description=GTK-based mokoi game creator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://mokoi.info/
+X-Arch-Package-Votes=1

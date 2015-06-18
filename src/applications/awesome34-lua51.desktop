@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=XSession
+Name=Awesome
+Comment=Highly configurable framework window manager
+TryExec=/usr/bin/awesome
+Exec=awesome
+NoDisplay=true
+X-AppInstall-Package=awesome34-lua51
+X-AppInstall-Section=aur
+X-Arch-Package=awesome34-lua51 3.4.14-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=awesome34-lua51
+X-Arch-Package-Version=3.4.14-2
+X-Arch-Package-Description=Highly configurable framework window manager
+X-Arch-Package-URL=http://awesome.naquadah.org/
+Aliases=awesome;

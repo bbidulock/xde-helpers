@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=PCB Designer
+GenericName=PCB Design
+Comment=Create and edit printed circuit board designs
+Icon=pcb
+TryExec=/usr/bin/pcb
+Exec=pcb %f
+Categories=Electronics;Engineering;
+MimeType=application/x-pcb-layout;application/x-pcb-footprint;
+StartupNotify=false
+X-AppInstall-Package=pcb
+X-AppInstall-Popcon=24
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pcb
+X-Arch-Package-Version=20140316-1
+X-Arch-Package-Description=Interactive printed circuit board editor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pcb.geda-project.org/
+X-Arch-Package-Votes=24

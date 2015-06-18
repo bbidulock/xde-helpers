@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=V-Trainr
+Comment=A simple Vocabulary Trainer
+Icon=/usr/share/pixmaps/vtrainr.png
+TryExec=/usr/bin/vtrainr
+Exec=vtrainr
+Categories=Education;GNOME;GTK;
+X-AppInstall-Package=vtrainr
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=vtrainr 0.8.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=vtrainr
+X-Arch-Package-Version=0.8.2-1
+X-Arch-Package-Description=V-Trainr is a vocabulary trainer I try to keep as simple as
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://launchpad.net/vtrainr
+X-Arch-Package-Votes=1

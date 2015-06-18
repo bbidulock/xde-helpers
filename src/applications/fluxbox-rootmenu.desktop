@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=XSession
+Name=fluxbox
+TryExec=/usr/bin/startfluxbox
+Exec=/usr/bin/startfluxbox
+NoDisplay=true
+X-AppInstall-Package=fluxbox-rootmenu
+X-AppInstall-Section=aur
+X-Arch-Package=fluxbox-rootmenu 1.0.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fluxbox-rootmenu
+X-Arch-Package-Version=1.0.0-1
+X-Arch-Package-Description=Fluxbox as in extra but with support for rootmenu in toolbar.
+X-Arch-Package-URL=http://www.fluxbox.org
+Aliases=fluxbox;

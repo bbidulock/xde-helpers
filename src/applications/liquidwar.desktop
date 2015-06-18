@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Liquid War
+Comment=A unique multiplayer wargame
+Icon=liquidwar
+TryExec=/usr/bin/liquidwar
+Exec=liquidwar
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=liquidwar
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=liquidwar
+X-Arch-Package-Version=5.6.4-7
+X-Arch-Package-Description=A unique multiplayer wargame
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.ufoot.org/liquidwar/
+X-Arch-Package-Votes=3

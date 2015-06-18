@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=GOSM OpenStreetMap Viewer
+Comment=View maps
+Comment[de_DE]=Straßenkartenmaterial betrachten
+Icon=/usr/share/gosm/icons/gosm.png
+TryExec=/usr/bin/gosm
+Exec=gosm
+Categories=Application;Network;
+X-AppInstall-Package=gosm
+X-AppInstall-Popcon=26
+X-AppInstall-Section=aur
+X-Arch-Package=gosm 0.09-6
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gosm
+X-Arch-Package-Version=0.09-6
+X-Arch-Package-Description=the Gtk OpenStreetMap Tool
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/gosm
+X-Arch-Package-Votes=26

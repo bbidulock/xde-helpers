@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=IntelliJ IDEA 11 Community Edition
+Comment=Intelligent Java IDE
+Icon=intellij-idea-11-community
+TryExec=/usr/bin/intellij-idea-11-community
+Exec=intellij-idea-11-community %u
+Categories=Development;IDE;
+X-AppInstall-Package=intellij-idea-11-community
+X-AppInstall-Section=aur
+X-Arch-Package=intellij-idea-11-community 11.1.5d-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=intellij-idea-11-community
+X-Arch-Package-Version=11.1.5d-1
+X-Arch-Package-Description=An intelligent IDE for Java, Groovy and other programming languages with advanced refactoring features intensely focused on developer productivity.
+X-Arch-Package-URL=http://www.jetbrains.com/idea/

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Bitmeter
+Comment=JACK diagnostic tool
+Icon=bitmeter.xpm
+TryExec=/usr/bin/bitmeter
+Exec=bitmeter
+Categories=Application;AudioVideo;Audio;X-Jack;
+StartupNotify=false
+StartupWMClass=Bitmeter
+X-AppInstall-Package=bitmeter
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bitmeter
+X-Arch-Package-Version=1.2-2
+X-Arch-Package-Description=Also known as jack bitscope. Useful to detect denormals.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://devel.tlrmx.org/audio/bitmeter/
+X-Arch-Package-Votes=12

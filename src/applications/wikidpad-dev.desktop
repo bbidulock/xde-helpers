@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=wikidPad-dev
+Comment=wikidPad is a Wiki-like notebook for storing your thoughts, ideas, todo lists, contacts, or anything else you can think of to write down. [Development version]
+Icon=wikidpad-dev.png
+TryExec=/usr/bin/wikidpad-dev
+Exec=wikidpad-dev
+Categories=Application;Office;
+X-AppInstall-Package=wikidpad-dev
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=wikidpad-dev 2.3beta12-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wikidpad-dev
+X-Arch-Package-Version=2.3beta12-1
+X-Arch-Package-Description=wikidPad is a Wiki-like notebook for storing your thoughts,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://wikidpad.sourceforge.net/
+X-Arch-Package-Votes=5

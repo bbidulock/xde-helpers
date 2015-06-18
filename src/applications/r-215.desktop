@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=R-devel
+GenericName=environment for statistical computing - deprecated version (2.15.3)
+Comment=language and environment for statistical computing and graphics - deprecated version
+Icon=/usr/share/pixmaps/r-215.png
+TryExec=/usr/bin/R-215
+Exec=R-215
+Terminal=true
+Categories=Education;Science;Math;
+StartupNotify=true
+DocPath=/usr/lib/R-215/doc/html/index.html
+X-AppInstall-Package=r-deprecated-215
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=r-deprecated-215 215-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=r-deprecated-215
+X-Arch-Package-Version=215-3
+X-Arch-Package-Description=Language and environment for statistical computing and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.r-project.org/
+X-Arch-Package-Votes=1

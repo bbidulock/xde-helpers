@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Cool VL Viewer v1.26.10
+GenericName=A third-party viewer for Second Life (C) and OpenSim grids
+Comment=A third-party viewer for Second Life (C) and OpenSim grids
+Icon=/opt/coolvlviewer/cvlv_icon.png
+TryExec=/usr/bin/coolvlviewer
+Exec=/usr/bin/coolvlviewer
+Categories=Game;
+X-AppInstall-Package=coolvlviewer
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=coolvlviewer 1.26.12.46-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=coolvlviewer
+X-Arch-Package-Version=1.26.12.46-1
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sldev.free.fr
+X-Arch-Package-Votes=7

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=WiFi Radar
+GenericName=Wireless tool
+Comment=Tool for connecting to wireless networks
+Icon=wifi-radar.svg
+TryExec=/usr/bin/su-to-root
+Exec=su-to-root -X -c /usr/sbin/wifi-radar
+Categories=Application;Network;
+StartupNotify=false
+X-AppInstall-Package=wifi-radar
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=wifi-radar
+X-Arch-Package-Version=2.0.s10-1
+X-Arch-Package-Description=A PyGTK2 utility for managing WiFi profiles
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://wifi-radar.tuxfamily.org/

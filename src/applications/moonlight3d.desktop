@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Moonlight|3D
+Comment=A 3D program
+Comment[cs]=Program pro 3D modeling a animaci
+Comment[da]=Et program til 3d-modelering
+Comment[es]=Un programa de 3D
+Comment[no]=Et 3d-program
+TryExec=/usr/bin/moonlight
+Exec=moonlight
+X-MultipleArgs=false
+Categories=Graphics;3DGraphics;
+X-AppInstall-Package=moonlight3d
+X-AppInstall-Popcon=21
+X-AppInstall-Section=aur
+X-Arch-Package=moonlight3d 0.2.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=moonlight3d
+X-Arch-Package-Version=0.2.3-1
+X-Arch-Package-Description=Modern, flexible and extensible modelling and animation tool
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.moonlight3d.eu/
+X-Arch-Package-Votes=21

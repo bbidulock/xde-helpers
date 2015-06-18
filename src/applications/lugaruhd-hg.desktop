@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Lugaru
+Icon=/usr/share/pixmaps/Lugaru.png
+TryExec=/usr/bin/lugaru
+Exec=lugaru
+NoDisplay=true
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=hd-hg
+X-AppInstall-Popcon=33
+X-AppInstall-Section=aur
+X-Arch-Package=lugaruhd-hg 550.2aac6aa9913f-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=hd-hg
+X-Arch-Package-Version=550.2aac6aa9913f-2
+X-Arch-Package-Description=An open-source third-persion action game featuring a unique
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://bitbucket.org/osslugaru/lugaru
+X-Arch-Package-Votes=33
+Aliases=lugaru;

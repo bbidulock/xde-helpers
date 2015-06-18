@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=KBarcode Barcode Generator
+Comment=Barcode generation tool
+Comment[de]=Barcode Erstellung
+Icon=kbarcode.png
+TryExec=/usr/bin/kbarcode
+Exec=kbarcode --barcode
+Categories=Office;KDE;Qt;
+StartupNotify=false
+DocPath=kbarcode/index.html
+X-AppInstall-Package=kbarcode
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kbarcode
+X-Arch-Package-Version=2.0.7-2
+X-Arch-Package-Description=Barcode printer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.kbarcode.net/
+X-Arch-Package-Votes=4

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=GATE
+Comment=General architecture for text engineering
+Icon=gate
+TryExec=/usr/bin/gate
+Exec=gate
+Categories=Development;IDE;
+X-AppInstall-Package=gate
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=gate 8.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gate
+X-Arch-Package-Version=8.0-1
+X-Arch-Package-Description=GATE Developer is a development environment that provides a
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gate.ac.uk/
+X-Arch-Package-Votes=5

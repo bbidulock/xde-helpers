@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=LCMC
+GenericName=Linux Cluster Management Console
+Icon=/usr/share/icons/hicolor/48x48/apps/lcmc.png
+TryExec=/usr/bin/lcmc
+Exec=/usr/bin/lcmc
+Categories=Network;Java;
+X-AppInstall-Package=lcmc
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=lcmc 1.7.8-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lcmc
+X-Arch-Package-Version=1.7.8-1
+X-Arch-Package-Description=Linux Cluster Management Console
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://lcmc.sourceforge.net/
+X-Arch-Package-Votes=2

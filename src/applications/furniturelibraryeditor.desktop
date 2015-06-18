@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Furniture Library Editor
+Comment=An interior design application
+Icon=/usr/share/pixmaps/furniturelibraryeditor.png
+TryExec=/usr/bin/furniturelibraryeditor
+Exec=furniturelibraryeditor
+Categories=Office;Java;
+X-AppInstall-Package=sweethome3d-furniture-library
+X-AppInstall-Popcon=20
+X-AppInstall-Section=aur
+X-Arch-Package=sweethome3d-furniture-library 1.13-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sweethome3d-furniture-library
+X-Arch-Package-Version=1.13-1
+X-Arch-Package-Description=A tool to manage furniture in Sweet Home 3D
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.sweethome3d.com/support/forum/viewthread_thread,1550
+X-Arch-Package-Votes=20

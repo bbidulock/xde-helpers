@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=amSynth
+GenericName=Soft Synth
+Comment=Two oscillator software synthesizer
+Icon=_usr_share_pixmaps_amsynth
+TryExec=/usr/bin/amsynth
+Exec=amsynth
+Categories=AudioVideo;Audio;
+StartupNotify=false
+X-AppInstall-Package=amsynth
+X-AppInstall-Popcon=53
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=amsynth
+X-Arch-Package-Version=1.5.1-1
+X-Arch-Package-Description=Analogue Modeling SYNTHesizer
+X-Arch-Package-Groups=dssi-plugins  lv2-plugins
+X-Arch-Package-URL=http://code.google.com/p/amsynth/

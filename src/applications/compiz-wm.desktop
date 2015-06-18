@@ -1,0 +1,30 @@
+[Desktop Entry]
+Type=Application
+Name=Compiz
+Name[bn]=কমপিজ
+Name[bn_IN]=কমপিজ
+Name[he]=קומפיז
+Name[ko]=컴피즈
+Name[or]=କମ୍ପିଜ
+Name[pa]=ਕੰਮਪਿਜ਼
+TryExec=/usr/bin/compiz
+Exec=compiz
+StartupNotify=false
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-WMName=compiz
+X-GnomeWMSettingsLibrary=compiz
+X-GNOME-WMSettingsModule=compiz
+X-AppInstall-Package=compiz
+X-AppInstall-Popcon=62
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=compiz
+X-Arch-Package-Version=0.9.12.1-4
+X-Arch-Package-Description=Composite manager for Aiglx and Xgl, with plugins and CCSM
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://launchpad.net/compiz
+X-Arch-Package-Votes=62
+
+[Window Manager]
+SessionManaged=false

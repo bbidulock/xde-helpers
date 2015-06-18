@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=QTodo
+GenericName=Todo-List Manager
+Comment=Helping the user to get things actually done
+Comment[it]=Aiuta l'utente a riprendere lavori dimenticati
+Comment[pl]=Przypomina u\xBFytkownikowi o zadaniach do wykonania
+Icon=qtodo
+TryExec=/usr/bin/qtodo
+Exec=qtodo
+Categories=Office;KDE;QT;
+StartupNotify=true
+X-AppInstall-Package=qtodo
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=qtodo 0.1.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qtodo
+X-Arch-Package-Version=0.1.2-1
+X-Arch-Package-Description=A todo-list manager, designed to be simple but powerful.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://qtodo.berlios.de/
+X-Arch-Package-Votes=1

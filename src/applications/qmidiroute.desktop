@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=QMidiRoute
+Comment=MIDI router and filter utility
+Icon=qmidiroute_48.xpm
+TryExec=/usr/bin/qmidiroute
+Exec=qmidiroute
+Categories=Application;AudioVideo;Multimedia;
+X-AppInstall-Package=qmidiroute
+X-AppInstall-Popcon=20
+X-AppInstall-Section=aur
+X-Arch-Package=qmidiroute 0.3.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qmidiroute
+X-Arch-Package-Version=0.3.0-3
+X-Arch-Package-Description=a filter/router for MIDI events
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://alsamodular.sourceforge.net/
+X-Arch-Package-Votes=20

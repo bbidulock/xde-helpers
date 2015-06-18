@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=llpp
+GenericName=PDF Viewer
+Comment=Lightweight but fast and featureful PDF viewer based on MuPDF
+TryExec=/usr/bin/llpp
+Exec=llpp %f
+Categories=Office;Viewer;
+MimeType=application/pdf;
+X-AppInstall-Package=llpp-hjkl-git
+X-AppInstall-Section=aur
+X-Arch-Package=llpp-hjkl-git 1514.d53081d-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=llpp-hjkl-git
+X-Arch-Package-Version=1514.d53081d-1
+X-Arch-Package-Description=A lightweight, opengl accelerated PDF viewer based on MuPDF with hjkl patches.
+X-Arch-Package-URL=http://repo.or.cz/w/llpp.git

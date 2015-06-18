@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=RFKill Applet
+Icon=gnome-dev-wavelan
+TryExec=/usr/bin/rfkill-applet.pl
+Exec=rfkill-applet.pl
+X-AppInstall-Package=rfkill-applet
+X-AppInstall-Popcon=12
+X-AppInstall-Section=aur
+X-Arch-Package=rfkill-applet 0.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rfkill-applet
+X-Arch-Package-Version=0.2-1
+X-Arch-Package-Description=Applet showing actual state of RFKill (enabled or disabled
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://aur.archlinux.org/packages.php?ID=29688
+X-Arch-Package-Votes=12

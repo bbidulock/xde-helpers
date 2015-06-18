@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Stella
+Comment=A multi-platform Atari 2600 emulator
+Icon=stella.png
+TryExec=/usr/bin/stella
+Exec=stella
+Categories=Application;Game;Emulator;
+StartupNotify=false
+X-AppInstall-Package=stella
+X-AppInstall-Section=community
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=stella
+X-Arch-Package-Version=4.6.1-1
+X-Arch-Package-Description=Atari 2600 VCS emulator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://stella.sourceforge.net

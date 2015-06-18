@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Yarssr
+Comment=RSS reader for the notification area
+Icon=paper_grey
+TryExec=/usr/bin/yarssr
+Exec=yarssr
+Categories=Network;News;GNOME;GTK;
+StartupNotify=true
+X-GNOME-Autostart-enabled=true
+X-AppInstall-Package=yarssr
+X-AppInstall-Popcon=18
+X-AppInstall-Section=aur
+X-Arch-Package=yarssr 0.2.2-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=yarssr
+X-Arch-Package-Version=0.2.2-5
+X-Arch-Package-Description=Yet Another RSS Reader for GNOME notification area.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://yarssr.sourceforge.net/
+X-Arch-Package-Votes=18

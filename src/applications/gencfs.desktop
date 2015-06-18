@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=GEncFS encrypted directories
+Name[fr]=Répertoires chiffrés avec GEncFS
+Icon=gencfs
+TryExec=/usr/bin/gencfs
+Exec=gencfs
+Categories=Utility;
+StartupNotify=false
+X-AppInstall-Package=None
+X-AppInstall-Popcon=16
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=None
+X-Arch-Package-Version=-
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=None
+X-Arch-Package-Votes=16

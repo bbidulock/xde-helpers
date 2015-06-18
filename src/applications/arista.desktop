@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Arista Transcoder
+GenericName=Multimedia Converter
+Comment=Convert multimedia for all your devices
+Icon=_usr_share_arista_ui_icon
+TryExec=/usr/bin/arista-gtk
+Exec=arista-gtk
+Categories=AudioVideo;GNOME;GTK;
+StartupNotify=true
+X-AppInstall-Package=arista
+X-AppInstall-Popcon=175
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=arista
+X-Arch-Package-Version=0.9.7-11
+X-Arch-Package-Description=Easy to use multimedia transcoder for the GNOME Desktop
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.transcoder.org/

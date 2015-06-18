@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Gadmin Squid
+GenericName=GADMIN-SQUID
+Comment=Squid proxy server administration
+Icon=gadmin-squid
+TryExec=/usr/bin/gadmin-squid-menu
+Exec=gadmin-squid-menu
+Categories=System;GTK;
+X-AppInstall-Package=gadmin-squid
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=gadmin-squid 0.1.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gadmin-squid
+X-Arch-Package-Version=0.1.4-1
+X-Arch-Package-Description=A C/GTK+ graphical user interface for the Squid proxy server.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://dalalven.dtdns.net/linux/gadmintools-webpage/app_pages/gadmin-squid.html
+X-Arch-Package-Votes=5

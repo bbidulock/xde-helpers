@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=freedroidrpg
+Comment=Extension/modification of the classical Freedroid game(based on paradroid) into an RPG
+Icon=/usr/share/pixmaps/freedroidrpg.png
+TryExec=/usr/bin/freedroidRPG
+Exec=freedroidRPG
+NoDisplay=true
+Categories=Application;Game;RolePlaying;
+StartupNotify=false
+X-AppInstall-Package=freedroidrpg-svn
+X-AppInstall-Section=aur
+X-Arch-Package=freedroidrpg-svn 5377-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=freedroidrpg-svn
+X-Arch-Package-Version=5377-1
+X-Arch-Package-Description=A science fiction role playing game which tells the story of a world destroyed by a conflict between robots and their human masters - development version
+X-Arch-Package-URL=http://www.freedroid.org
+Aliases=freedroidrpg;

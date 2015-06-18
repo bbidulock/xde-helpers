@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Piklab
+GenericName=IDE
+Comment=Integrated development environment for applications based on PIC microcontrollers.
+Comment[es]=Entorno integrado de desarrollo de aplicaciones basadas en microcontroladores PIC.
+Comment[fr]=Environnement de développement intégré pour applications utilisant des microcontroleurs PIC.
+Icon=piklab
+TryExec=/usr/bin/piklab
+Exec=piklab %U
+Categories=Development;IDE;Electronics;KDE;Qt;
+MimeType=text/x-hex;application/x-piklab;
+StartupNotify=false
+X-DocPath=piklab/index.html
+X-AppInstall-Package=piklab
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=piklab
+X-Arch-Package-Version=0.16.2-3
+X-Arch-Package-Description=IDE for applications based on Microchip PIC and dsPIC
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://piklab.sourceforge.net
+X-Arch-Package-Votes=10

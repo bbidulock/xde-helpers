@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Sunbird
+Comment=Mozilla Sunbird is a full-featured, easy to use calendar application
+Icon=sunbird
+TryExec=/usr/bin/sunbird
+Exec=sunbird
+Categories=Application;Office;Calendar;GNOME;
+StartupNotify=true
+X-AppInstall-Package=sunbird
+X-AppInstall-Section=aur
+X-Arch-Package=sunbird 1.0b1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sunbird
+X-Arch-Package-Version=1.0b1-2
+X-Arch-Package-Description=Mozilla standalone calendar application
+X-Arch-Package-URL=https://www.mozilla.org/projects/calendar/sunbird/

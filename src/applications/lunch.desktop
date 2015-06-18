@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Lunch
+Comment=Distributed Process Launcher
+Comment[fr]=Launceur de processus distribué
+Icon=lunch.png
+TryExec=/usr/bin/lunch
+Exec=lunch -g -q
+Categories=Network;System;RemoteAccess;
+StartupNotify=false
+X-AppInstall-Package=lunch
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lunch
+X-Arch-Package-Version=0.4.0-1
+X-Arch-Package-Description=A distributed process launcher and manager for GNU/Linux
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://tarballs.quessy.net/
+X-Arch-Package-Votes=0

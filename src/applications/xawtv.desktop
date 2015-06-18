@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=XawTV
+GenericName=XawTV
+Comment=TV viewer for X11
+Icon=xawtv48x48
+TryExec=/usr/bin/xawtv
+Exec=xawtv
+Categories=AudioVideo;
+StartupNotify=false
+X-AppInstall-Package=xawtv
+X-AppInstall-Section=extra
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,kfreebsd-i386,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=xawtv
+X-Arch-Package-Version=3.103-1
+X-Arch-Package-Description=A simple Xaw-based TV program which uses the bttv driver or video4linux
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://git.linuxtv.org/xawtv3.git

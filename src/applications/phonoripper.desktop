@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=PhonoRipper
+GenericName=Rip your old vinyl records to CD
+Icon=/usr/share/pixmaps/phonoripper.png
+TryExec=/opt/phonoripper-0.11.2/phonoripper.py
+Exec=/opt/phonoripper-0.11.2/phonoripper.py
+Categories=AudioVideo;
+X-AppInstall-Package=phonoripper
+X-AppInstall-Section=aur
+X-Arch-Package=phonoripper 0.11.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=phonoripper
+X-Arch-Package-Version=0.11.2-1
+X-Arch-Package-Description=PhonoRipper is an easy to use, all-in-one GUI tool for creating audio CDs from analog sources like vinyl records.
+X-Arch-Package-URL=http://klappnase.bubble.org/phonoripper/index.html

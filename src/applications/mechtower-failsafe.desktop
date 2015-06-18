@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=mechtower(failsafe)
+GenericName=mechtower
+Comment=Mechanical Tower is a tower defense game.
+Icon=/usr/share/mechtower/mechtower.png
+TryExec=/usr/share/mechtower/mechtower
+Exec=/usr/share/mechtower/mechtower --lowgfx
+Categories=Game;
+X-AppInstall-Package=mechtower
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=mechtower 1.0.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mechtower
+X-Arch-Package-Version=1.0.1-2
+X-Arch-Package-Description=Mechanical Tower is a tower defense game.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.tdb.fi/mechtower.shtml
+X-Arch-Package-Votes=8

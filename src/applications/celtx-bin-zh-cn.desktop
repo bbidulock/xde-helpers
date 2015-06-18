@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Celtx
+Comment=Solution for media pre-production and collaboration
+Icon=/opt/celtx/icons/default48.png
+TryExec=/opt/celtx/celtx
+Exec=/opt/celtx/celtx
+NoDisplay=true
+Categories=Office;
+X-AppInstall-Package=celtx-bin-zh-cn
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=celtx-bin-zh-cn 2.9.7-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=celtx-bin-zh-cn
+X-Arch-Package-Version=2.9.7-1
+X-Arch-Package-Description=Combines full-feature scriptwriting with pre-production
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://celtx.com
+X-Arch-Package-Votes=2
+Aliases=celtx;

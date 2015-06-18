@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Rigs of Rods
+Comment=An open source vehicle simulator based on soft-body physics
+Icon=RoR.png
+TryExec=/opt/rigsofrods/RoR
+Exec=/opt/rigsofrods/RoR
+NoDisplay=true
+Categories=Application;Game;
+X-AppInstall-Package=rigsofrods-svn
+X-AppInstall-Section=aur
+X-Arch-Package=rigsofrods-svn 2132-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rigsofrods-svn
+X-Arch-Package-Version=2132-1
+X-Arch-Package-Description=An open source vehicle simulator based on soft-body physics
+X-Arch-Package-URL=http://www.rigsofrods.com
+Aliases=RoR;

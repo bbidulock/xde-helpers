@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=GAdmin-Rsync
+GenericName=GAdmin-Rsync
+Comment=GAdmin-Rsync
+Icon=gadmin-rsync
+TryExec=/usr/bin/su-to-root
+Exec=su-to-root -X -c /usr/sbin/gadmin-rsync
+Categories=System;GTK;
+StartupNotify=false
+X-AppInstall-Package=gadmin-rsync
+X-AppInstall-Popcon=16
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gadmin-rsync
+X-Arch-Package-Version=0.1.8-3
+X-Arch-Package-Description=An easy to use GTK+ frontend for the rsync backup client and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://dalalven.dtdns.net/linux/gadmintools-webpage/
+X-Arch-Package-Votes=16

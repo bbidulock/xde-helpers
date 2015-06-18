@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=0.94
+Type=Application
+Name=GWorkspace
+Comment=GNUstep Workspace Manager
+Icon=FileManager.tiff
+TryExec=/usr/bin/GWorkspace
+Exec=GWorkspace
+Categories=System;FileTools;FileManager;
+StartupNotify=false
+X-AppInstall-Package=gworkspace
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gworkspace
+X-Arch-Package-Version=0.9.3-1
+X-Arch-Package-Description=The GNUstep Workspace
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.gnustep.org/experience/GWorkspace.html
+X-Arch-Package-Votes=6

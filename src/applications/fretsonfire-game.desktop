@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Frets on Fire
+Comment=Rock out with your keyboard
+Comment[ca]=Toca la guitarra amb el teclat
+Comment[es]=Toca la guitarra con tu teclado
+Comment[gl]=Toca a guitarra co teclado
+Icon=fretsonfire
+TryExec=/usr/bin/fretsonfire
+Exec=fretsonfire
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=fretsonfire
+X-AppInstall-Popcon=72
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fretsonfire
+X-Arch-Package-Version=1.3.110-12
+X-Arch-Package-Description=A game of musical skill and fast fingers. Play guitar with the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://fretsonfire.sourceforge.net/
+X-Arch-Package-Votes=22

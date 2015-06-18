@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Monacoin
+Comment=Monacoin P2P Cryptocurrency
+Icon=/usr/share/pixmaps/monacoin.png
+TryExec=/usr/bin/monacoin-qt
+Exec=/usr/bin/monacoin-qt
+Categories=Network;
+MimeType=x-scheme-handler/monacoin;
+X-AppInstall-Package=monacoin-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=monacoin-git 11.106f602-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=monacoin-git
+X-Arch-Package-Version=11.106f602-1
+X-Arch-Package-Description=A peer-to-peer payment network and digital currency by 2ch
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://monacoin.org/
+X-Arch-Package-Votes=1

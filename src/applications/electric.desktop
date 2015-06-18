@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=electric
+GenericName=Electrical CAD
+Comment=Electrical CAD System
+Icon=electric
+TryExec=/usr/bin/electric
+Exec=electric
+Categories=Education;Electronics;Engineering;
+StartupNotify=false
+X-AppInstall-Package=electric
+X-AppInstall-Popcon=35
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=electric
+X-Arch-Package-Version=9.04-2
+X-Arch-Package-Description=A sophisticated electrical CAD system
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.gnu.org/software/electric/
+X-Arch-Package-Votes=17

@@ -1,0 +1,27 @@
+[Desktop Entry]
+Type=Application
+Name=Slimrat
+Name[sr]=Слимрат
+GenericName=File Downloader
+X-GNOME-FullName=Slimrat File Downloader
+Comment=Download files from various hosters
+Icon=slimrat
+TryExec=/usr/bin/slimrat-gui
+Exec=slimrat-gui %U
+NoDisplay=true
+Hidden=true
+Categories=Network;FileTransfer;GNOME;GTK;
+StartupNotify=true
+MimeType=text/html;text/xml;application/xhtml+xml;
+X-AppInstall-Package=slimrat-svn
+X-AppInstall-Popcon=22
+X-AppInstall-Section=aur
+X-Arch-Package=slimrat-svn 398-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=slimrat-svn
+X-Arch-Package-Version=398-1
+X-Arch-Package-Description=Command line and GUI utility for downloading files from
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/slimrat
+X-Arch-Package-Votes=22
+Aliases=slimrat;

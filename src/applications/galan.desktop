@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Galan
+GenericName=Synthesiser
+Comment=A modular synthesiser - drum-machine - sequencer - effects-unit
+Icon=galan-logo.png
+TryExec=/usr/bin/galan
+Exec=galan
+Categories=AudioVideo;Audio;GTK;
+StartupNotify=true
+X-AppInstall-Package=galan
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=galan 0.3.0beta7-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=galan
+X-Arch-Package-Version=0.3.0beta7-3
+X-Arch-Package-Description=A modular synthesiser - drum-machine - sequencer -
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://galan.sourceforge.net/
+X-Arch-Package-Votes=8

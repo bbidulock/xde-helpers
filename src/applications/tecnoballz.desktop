@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=TecnoBallZ
+GenericName=Brick Busting Game
+Comment=Play an Arkanoid-like game
+Icon=tecnoballz
+TryExec=/usr/bin/tecnoballz
+Exec=tecnoballz
+Categories=Game;ArcadeGame;BlocksGame;
+X-AppInstall-Package=tecnoballz
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=tecnoballz 0.92-6
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tecnoballz
+X-Arch-Package-Version=0.93.1-1
+X-Arch-Package-Description=An exciting brick breaker game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://linux.tlk.fr/games/TecnoballZ/
+X-Arch-Package-Votes=3

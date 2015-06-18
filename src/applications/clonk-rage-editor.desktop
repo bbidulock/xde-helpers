@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Clonk Rage Editor
+GenericName=A not official native Clonk Rage Editor.
+TryExec=/usr/bin/clonk-rage-cefe
+Exec=clonk-rage-cefe
+MultipleArgs=false
+Categories=Game;
+MimeType=text/html;
+StartupNotify=false
+X-AppInstall-Package=cefe
+X-AppInstall-Section=aur
+X-Arch-Package=cefe 112-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cefe
+X-Arch-Package-Version=112-1
+X-Arch-Package-Description=A not official native Clonk Editor.
+X-Arch-Package-Groups=games;
+X-Arch-Package-URL=http://cefe.nosebud.de/

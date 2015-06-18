@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=wxFormBuilder
+GenericName=RAD
+Comment=Designer, GUI Builder, and RAD Tool For wxWidgets
+Icon=/usr/share/wxformbuilder/resources/icons/logo.png
+TryExec=/usr/bin/wxformbuilder
+Exec=wxformbuilder
+Terminal=False
+Categories=Application;Development;
+X-AppInstall-Package=wxformbuilder
+X-AppInstall-Popcon=36
+X-AppInstall-Section=aur
+X-Arch-Package=wxformbuilder 3.1.70-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wxformbuilder
+X-Arch-Package-Version=3.1.70-1
+X-Arch-Package-Description=Designer, GUI Builder, and RAD Tool For wxWidgets
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://wxformbuilder.org
+X-Arch-Package-Votes=36

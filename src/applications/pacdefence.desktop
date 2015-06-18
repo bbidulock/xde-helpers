@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.1.6
+Type=Application
+Name=Pac Defence
+Comment=Tower defence game
+TryExec=/usr/bin/pacdefence
+Exec=pacdefence
+Categories=Application;Game;
+X-AppInstall-Package=pacdefence
+X-AppInstall-Popcon=25
+X-AppInstall-Section=aur
+X-Arch-Package=pacdefence 1.1.6-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pacdefence
+X-Arch-Package-Version=1.1.6-5
+X-Arch-Package-Description=Tower defence game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.freewebs.com/pacdefence/
+X-Arch-Package-Votes=25

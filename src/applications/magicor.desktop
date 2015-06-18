@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Magicor
+GenericName=Magicor
+Comment=An old-school, puzzle game similar to Solomon's Key.
+TryExec=/usr/bin/magicor
+Exec=magicor
+Categories=Game;StrategyGame;
+X-AppInstall-Package=magicor
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=magicor 1.1-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=magicor
+X-Arch-Package-Version=1.1-3
+X-Arch-Package-Description=An old-school, puzzle game similar to Solomon's Key
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://magicor.sourceforge.net/
+X-Arch-Package-Votes=4

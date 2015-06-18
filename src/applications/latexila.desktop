@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=LaTeXila
+GenericName=LaTeX Frontend
+GenericName[fr]=Interface graphique LaTeX
+Comment=LaTeX editor
+Comment[fr]=Éditeur LaTeX
+Icon=latexila
+TryExec=/usr/bin/latexila
+Exec=latexila
+Categories=Office;Publishing;GNOME;GTK;
+MimeType=text/x-tex;
+StartupNotify=false
+X-AppInstall-Package=latexila
+X-AppInstall-Popcon=74
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=latexila
+X-Arch-Package-Version=3.16.1-1
+X-Arch-Package-Description=A LaTeX editor designed for the GNOME desktop
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://projects.gnome.org/latexila/
+X-Arch-Package-Votes=74

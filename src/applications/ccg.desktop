@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Conky-Colors GUI
+Comment=CCG
+Icon=/usr/share/pixmaps/CCG.png
+TryExec=/usr/bin/CCG
+Exec=/usr/bin/CCG
+Categories=System;
+StartupNotify=true
+X-AppInstall-Package=ccg-git
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=ccg-git 20120731-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ccg-git
+X-Arch-Package-Version=20120731-3
+X-Arch-Package-Description=Utility to help you create conky configuration files using
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/fluxer/CCG
+X-Arch-Package-Votes=5

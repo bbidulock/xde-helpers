@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Papers Please
+Comment=Assume the role of an immigration inspector for the communist state of Arstotzka
+Icon=/usr/share/icons/hicolor/128x128/apps/papersplease.png
+TryExec=/usr/bin/papersplease
+Exec=/usr/bin/papersplease
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=papersplease
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=papersplease 1.1.65-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=papersplease
+X-Arch-Package-Version=1.1.65-4
+X-Arch-Package-Description=Assume the role of an immigration inspector for the communist
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://papersplea.se
+X-Arch-Package-Votes=5

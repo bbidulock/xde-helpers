@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.2.1
+Type=Application
+Name=TANK@WAR
+GenericName=Tank at War
+Comment=Multiplayer tank battle game
+TryExec=/usr/bin/tankatwar
+Exec=tankatwar
+Categories=Game;StrategyGame;
+StartupNotify=false
+X-AppInstall-Package=tankatwar
+X-AppInstall-Section=aur
+X-Arch-Package=tankatwar 1.2.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tankatwar
+X-Arch-Package-Version=1.2.1-1
+X-Arch-Package-Description=TANK@WAR is a solo and team-based multiplayer 3D online game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://tankatwar.com/
+X-Arch-Package-Votes=0

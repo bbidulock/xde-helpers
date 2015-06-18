@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=OpenRocket
+GenericName=Rocket Design and Simulation
+Comment=Design and simulate model rockets
+Icon=/usr/share/pixmaps/openrocket.xpm
+TryExec=/usr/bin/openrocket
+Exec=/usr/bin/openrocket %f
+Categories=Development;Science;
+MimeType=text/plain;
+StartupNotify=false
+X-AppInstall-Package=openrocket
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=openrocket
+X-Arch-Package-Version=14.11-2
+X-Arch-Package-Description=A free and open source, fully featured model rocket simulator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://openrocket.sourceforge.net/
+X-Arch-Package-Votes=4

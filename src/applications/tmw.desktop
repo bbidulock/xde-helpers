@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=The Mana World
+Name[fr]=Le Monde de Mana
+Comment=An on-line fantasy role playing game
+Comment[de]=ein Online Fantasy Spiel
+Comment[fr]=Un jeu en ligne dans un univers fantastique
+Comment[it]=Un gioco fantasy online
+Comment[nl]=Een online role playing game
+Icon=tmw
+TryExec=/usr/bin/tmw
+Exec=tmw
+Categories=Application;Game;
+StartupNotify=false
+X-AppInstall-Package=tmw
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=tmw
+X-Arch-Package-Version=0.6.1-3
+X-Arch-Package-Description=The Mana World (TMW) is a serious effort to create an innovative free and open source MMORPG.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://themanaworld.org

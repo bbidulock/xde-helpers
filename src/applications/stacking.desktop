@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Stacking
+Comment=A matryoshka dolls puzzle-adventure
+Icon=/opt/stacking/Stack.png
+TryExec=/usr/bin/stacking
+Exec=/usr/bin/stacking
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=stacking
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=stacking 20130604-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=stacking
+X-Arch-Package-Version=20130604-1
+X-Arch-Package-Description=A matryoshka dolls puzzle-adventure (game sold separately)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.stackingvideogame.com/
+X-Arch-Package-Votes=4

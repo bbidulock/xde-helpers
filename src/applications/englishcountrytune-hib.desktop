@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=English Country Tune
+GenericName=Geometric 3D Puzzle Game
+Comment=Increpare Games
+Icon=englishcountrytune
+TryExec=/usr/bin/englishcountrytune
+Exec=/usr/bin/englishcountrytune
+Categories=Game;
+X-AppInstall-Package=englishcountrytune-hib
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=englishcountrytune-hib 0_20130608-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=englishcountrytune-hib
+X-Arch-Package-Version=0_20130608-1
+X-Arch-Package-Description=English Country Tune, a 3D geometric puzzler (Humble Bundle
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.englishcountrytune.com/
+X-Arch-Package-Votes=2

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=AudioBox.fm
+Comment=Securely synchronize, store, stream, manage and enjoy your media collection, anytime and anywhere, on every supported device or web browser.
+Icon=/usr/share/pixmaps/audiobox.png
+TryExec="/opt/AudioBox.fm-Desktop/jre/bin/java
+Exec="/opt/AudioBox.fm-Desktop/jre/bin/java -jar /opt/AudioBox.fm-Desktop/audiobox.jar"
+Categories=AudioVideo;Audio;Player;Music;GNOME;
+StartupNotify=true
+X-AppInstall-Package=audiobox
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=audiobox 1.1.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=audiobox
+X-Arch-Package-Version=1.1.2-1
+X-Arch-Package-Description=Securely synchronize, store, stream, manage and enjoy your
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://audiobox.fm/
+X-Arch-Package-Votes=3

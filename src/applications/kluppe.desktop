@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Kluppe
+GenericName=Audio Loop Player and Recorder
+Comment=A loop-player and recorder, designed for live use
+Icon=kluppe
+TryExec=/usr/bin/kluppe
+Exec=kluppe
+Categories=AudioVideo;Audio;Recorder;
+StartupNotify=true
+X-AppInstall-Package=kluppe
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package=kluppe 0.6.15-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kluppe
+X-Arch-Package-Version=0.6.15-1
+X-Arch-Package-Description=A loop-player and recorder, designed for live use.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kluppe.klingt.org/
+X-Arch-Package-Votes=4

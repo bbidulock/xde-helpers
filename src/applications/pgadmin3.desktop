@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=pgAdmin III
+GenericName=PostgreSQL Administration Tool
+Comment=A comprehensive design and management interface for PostgreSQL database
+Icon=pgadmin3
+TryExec=/usr/bin/pgadmin3
+Exec=pgadmin3
+Categories=Development;Database;
+StartupNotify=true
+X-AppInstall-Package=pgadmin3
+X-AppInstall-Popcon=488
+X-AppInstall-Section=community
+X-Arch-Package=pgadmin3 1.20.0-5
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=pgadmin3
+X-Arch-Package-Version=1.20.0-5
+X-Arch-Package-Description=Comprehensive design and management interface for PostgreSQL
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.pgadmin.org

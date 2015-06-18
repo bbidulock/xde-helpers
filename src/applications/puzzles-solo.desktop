@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Solo
+Comment=Fill in the grid so that each row, column and square block contains one of every digit
+Icon=puzzles-solo
+TryExec=/usr/bin/solo
+Exec=solo
+Categories=Game;LogicGame;
+StartupWMClass=solo
+X-AppInstall-Package=puzzles-menuitems
+X-AppInstall-Section=aur
+X-Arch-Package=puzzles-menuitems 20150118-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=puzzles-menuitems
+X-Arch-Package-Version=20150118-1
+X-Arch-Package-Description=Menu items for Simon Tatham's Portable Puzzle Collection.
+X-Arch-Package-URL=http://www.chiark.greenend.org.uk/~sgtatham/puzzles/

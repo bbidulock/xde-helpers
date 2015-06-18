@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=NagiQ
+Comment=An attractive, family-friendly word game.
+Icon=nagiq-demo
+TryExec=/usr/bin/nagiq-demo
+Exec=nagiq-demo
+Categories=Game;
+X-AppInstall-Package=nagiq-demo
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=nagiq-demo 1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nagiq-demo
+X-Arch-Package-Version=1.0-1
+X-Arch-Package-Description=NagiQ is an attractive, family-friendly word game (demo).
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.ikigames.com/nagiq/
+X-Arch-Package-Votes=1

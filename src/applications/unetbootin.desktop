@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=UNetbootin
+GenericName=UNetbootin
+Comment=Tool for creating Live USB drives
+TryExec=/usr/bin/unetbootin
+Exec=/usr/bin/unetbootin
+Categories=Application;System;
+StartupNotify=false
+X-AppInstall-Package=unetbootin
+X-AppInstall-Section=community
+X-AppInstall-Architectures=amd64,i386
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=unetbootin
+X-Arch-Package-Version=608-2
+X-Arch-Package-Description=Create bootable Live USB drives
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://unetbootin.sourceforge.net/

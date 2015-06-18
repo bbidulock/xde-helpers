@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Octane demo
+Comment=A GPU based, un-biased, physically based renderer
+Icon=octane_demo
+TryExec=/usr/bin/octane_demo
+Exec=octane_demo
+Categories=Graphics;3DGraphics;
+X-AppInstall-Package=octane-demo
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=octane-demo 1.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=octane-demo
+X-Arch-Package-Version=1.5-1
+X-Arch-Package-Description=A proprietary GPU based, unbiased, physically based renderer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://render.otoy.com/
+X-Arch-Package-Votes=1

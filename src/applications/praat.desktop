@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Praat Speech Analyzer
+Name[en_GB]=Praat Speech Analyser
+GenericName=Speech Analyzer
+GenericName[en_GB]=Speech Analyser
+Comment=Analyze, synthesize and manipulate speech
+Comment[en_GB]=Analyse, synthesise and manipulate speech
+Icon=praat
+TryExec=/usr/bin/praat
+Exec=praat
+Categories=Education;Science;
+StartupNotify=false
+X-AppInstall-Package=praat
+X-AppInstall-Popcon=20
+X-AppInstall-Section=aur
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=praat
+X-Arch-Package-Version=5.4.08-1
+X-Arch-Package-Description=A tool for 'Doing Phonetics by computer'
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.fon.hum.uva.nl/praat/
+X-Arch-Package-Votes=20

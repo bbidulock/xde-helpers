@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Rezerwar
+Comment=Puzzle game that could be quickly described as the illegitimate child of a known tetromino game and the average pipe game.
+TryExec=/usr/bin/rezerwar
+Exec=/usr/bin/rezerwar
+Categories=Application;Game;ArcadeGame;
+X-AppInstall-Package=rezerwar
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=rezerwar 0.4.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rezerwar
+X-Arch-Package-Version=0.4.2-2
+X-Arch-Package-Description=Puzzle game that could be quickly described as the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://tamentis.com/projects/rezerwar/
+X-Arch-Package-Votes=6

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=jPDF Tweak
+Comment=A Swiss Army Knife GUI application for PDF documents
+Icon=jpdftweak
+TryExec=/usr/bin/jpdftweak
+Exec=jpdftweak %f
+X-MultipleArgs=false
+Categories=Application;Office;
+X-AppInstall-Package=jpdftweak
+X-AppInstall-Popcon=49
+X-AppInstall-Section=aur
+X-Arch-Package=jpdftweak 1.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jpdftweak
+X-Arch-Package-Version=1.1-2
+X-Arch-Package-Description=A Swiss Army Knife GUI application for PDF documents
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://jpdftweak.sourceforge.net/
+X-Arch-Package-Votes=49

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=OneTeam
+GenericName=Instant Messaging Client
+X-GNOME-FullName=OneTeam Instant Messaging Client
+Icon=oneteam
+TryExec=/usr/bin/oneteam
+Exec=oneteam
+Categories=Network;InstantMessaging;
+StartupNotify=true
+X-AppInstall-Package=oneteam
+X-AppInstall-Popcon=15
+X-AppInstall-Section=aur
+X-Arch-Package=oneteam 0.999.990-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=oneteam
+X-Arch-Package-Version=0.999.990-1
+X-Arch-Package-Description=Entreprise multi-network instant messaging client
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://oneteam.im/
+X-Arch-Package-Votes=15

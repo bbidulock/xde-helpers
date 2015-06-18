@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=HSOconnect 1.2
+Comment=Connection Manager for Option HSDPA/HSUPA modems
+Icon=hsoconnect.png
+TryExec=/usr/bin/hsoconnect
+Exec=/usr/bin/hsoconnect
+Categories=Application;Network;
+StartupNotify=true
+X-AppInstall-Package=hsoconnect
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=hsoconnect 1.2.18-7
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=hsoconnect
+X-Arch-Package-Version=1.2.18-7
+X-Arch-Package-Description=HSO command line connection utility
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.pharscape.org/forum/index.php?topic=743.0
+X-Arch-Package-Votes=3

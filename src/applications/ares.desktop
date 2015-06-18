@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=2.1.7
+Type=Application
+Name=Ares
+Comment=A free open source file sharing program (via wine)
+Icon=/usr/share/pixmaps/ares.xpm
+TryExec=/usr/bin/ares
+Exec=/usr/bin/ares
+Categories=Network;
+StartupNotify=false
+X-AppInstall-Package=ares
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=ares 2.2.8.3052-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ares
+X-Arch-Package-Version=2.2.8.3052-1
+X-Arch-Package-Description=A free open source file sharing program that enables users to
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://aresgalaxy.sourceforge.net/
+X-Arch-Package-Votes=8

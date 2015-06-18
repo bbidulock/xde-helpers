@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Gnome Wave Cleaner
+GenericName=Sound Editor
+Comment=Sound File Noise Reduction
+Icon=gwc-logo
+TryExec=/usr/bin/gwc
+Exec=gwc
+Categories=Application;AudioVideo;GNOME;
+X-AppInstall-Package=gwc
+X-AppInstall-Popcon=12
+X-AppInstall-Section=aur
+X-Arch-Package=gwc 0.21.19-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gwc
+X-Arch-Package-Version=0.21.19-1
+X-Arch-Package-Description=Gnome Wave Cleaner - dehiss/declick recordings
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gwc.sourceforge.net/
+X-Arch-Package-Votes=12

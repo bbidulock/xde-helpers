@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Chromium B.S.U.
+GenericName=Shoot'em up space shooter
+GenericName[sv]=Rymdskjutspel (Shoot'em up)
+Comment=Scrolling space shooter
+Comment[ro]=O navă în spațiu trebuie să împuște inamicii
+Comment[sv]=Vertikalrullande skjutspel i rymdmiljö (Shoot'em up)
+Icon=chromium-bsu
+TryExec=/usr/bin/chromium-bsu
+Exec=chromium-bsu
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=chromium-bsu
+X-AppInstall-Popcon=82
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=chromium-bsu
+X-Arch-Package-Version=0.9.15.1-1
+X-Arch-Package-Description=A fast paced top scrolling shooter
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://chromium-bsu.sourceforge.net/

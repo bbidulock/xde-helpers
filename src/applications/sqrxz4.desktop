@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=sqrxz4 - Cold Cash
+Comment=A fast paced jump'n'run (Part IV).
+Icon=sqrxz4
+TryExec=/usr/bin/sqrxz4
+Exec=sqrxz4
+Categories=Game;
+X-AppInstall-Package=sqrxz4
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=sqrxz4 1.00-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sqrxz4
+X-Arch-Package-Version=1.00-1
+X-Arch-Package-Description=A fast paced jump'n'run (Part IV - 'Cold Cash')
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sqrxz.de
+X-Arch-Package-Votes=1

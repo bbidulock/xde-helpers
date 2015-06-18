@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Gish
+GenericName=Platform
+Comment=Gish isn't your average hero, in fact he's not your average anything… see Gish is a ball of tar. A Sunday stroll with his lady friend Brea goes awry when a shadowy figure emerges from an open man hole and pulls Brea into the ground below. Following Brea's calls for help Gish suddenly finds himself in the subterranean sewers of Dross, a long forgotten city filled with twisting corridors, evil traps and some of the most demented creatures imaginable.
+Icon=/usr/share/pixmaps/gish.png
+TryExec=/usr/bin/gish
+Exec=gish
+NoDisplay=true
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=gish-hb
+X-AppInstall-Popcon=20
+X-AppInstall-Section=aur
+X-Arch-Package=gish-hb 1.61-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gish-hb
+X-Arch-Package-Version=1.61-2
+X-Arch-Package-Description=[Humble Bundle] A one of a kind 2d sidescroller with a twist
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.chroniclogic.com/gish.htm
+X-Arch-Package-Votes=20
+Aliases=gish;

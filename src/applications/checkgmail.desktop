@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Check GMail
+GenericName=Mail Notifier
+Comment=Checks a Gmail account for new mail
+Icon=checkgmail
+TryExec=/usr/bin/checkgmail
+Exec=checkgmail
+Categories=Network;Email;
+X-AppInstall-Package=checkgmail
+X-AppInstall-Popcon=120
+X-AppInstall-Section=custom
+X-Arch-Package=checkgmail 1.13-8
+X-Arch-Package-Repository=custom
+X-Arch-Package-Name=checkgmail
+X-Arch-Package-Version=1.13-8
+X-Arch-Package-Description=An alternative Gmail Notifier for Linux and other *nix systems
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://checkgmail.sourceforge.net
+X-Arch-Package-Votes=44

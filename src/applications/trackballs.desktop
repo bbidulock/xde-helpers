@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Trackballs
+GenericName=Marble Madness type game
+Comment=Simple game similar to the classical game Marble Madness
+Icon=trackballs
+TryExec=/usr/bin/trackballs
+Exec=trackballs
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=trackballs
+X-AppInstall-Popcon=16
+X-AppInstall-Section=aur
+X-Arch-Package=trackballs 1.1.4-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=trackballs
+X-Arch-Package-Version=1.1.4-5
+X-Arch-Package-Description=Simple game similar to the classical game Marble Madness on
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://trackballs.sourceforge.net/
+X-Arch-Package-Votes=16

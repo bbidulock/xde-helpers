@@ -1,0 +1,18 @@
+[Desktop Entry]
+Version=0.9
+Type=Application
+Name=Frozen Synapse
+Name[en_US]=frozensynapse
+Comment=Frozen Synapse Game
+Icon=/usr/share/pixmaps/frozen-synapse.png
+TryExec=/usr/bin/frozen-synapse
+Exec=/usr/bin/frozen-synapse
+Categories=Application;GNOME;Games;
+X-AppInstall-Package=frozen-synapse
+X-AppInstall-Section=aur
+X-Arch-Package=frozen-synapse 1.0.32-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=frozen-synapse
+X-Arch-Package-Version=1.0.32-1
+X-Arch-Package-Description=brings the simultaneous turn-based strategy genre bang up-to-date and lets you give detailed, accurate orders to your squad
+X-Arch-Package-URL=http://www.frozensynapse.com/

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=True Combat: Elite
+Comment=True Combat: Elite (TCE) is a completely free, realistic, team-based modification for Enemy Territory
+Icon=/usr/share/pixmaps/true-combat.ico
+TryExec=/usr/bin/true-combat
+Exec=/usr/bin/true-combat
+Categories=Application;Game;
+StartupNotify=false
+X-AppInstall-Package=true-combat
+X-AppInstall-Popcon=77
+X-AppInstall-Section=aur
+X-Arch-Package=true-combat 0.49b-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=true-combat
+X-Arch-Package-Version=0.49b-1
+X-Arch-Package-Description=A completely free, realistic, team-based modification for
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.truecombatelite.com/
+X-Arch-Package-Votes=77

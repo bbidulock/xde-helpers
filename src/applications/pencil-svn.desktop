@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Pencil
+Icon=pencil
+TryExec=/usr/bin/pencil
+Exec=pencil %F
+NoDisplay=true
+Categories=Graphics;2DGraphics;
+X-AppInstall-Package=pencil-svn
+X-AppInstall-Section=aur
+X-Arch-Package=pencil-svn 382-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pencil-svn
+X-Arch-Package-Version=382-2
+X-Arch-Package-Description=Animation/drawing software, that lets you create traditional hand-drawn animation using both bitmap and vector graphics
+X-Arch-Package-URL=http://pencil-animation.org/
+Aliases=pencil;

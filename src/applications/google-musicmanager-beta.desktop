@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Google Music Manager
+GenericName=Google Music Manager
+Comment=Upload to Google Music
+Icon=google-musicmanager
+TryExec=/opt/google/musicmanager/google-musicmanager
+Exec=/opt/google/musicmanager/google-musicmanager
+NoDisplay=true
+Categories=AudioVideo;Audio;Network;
+X-AppInstall-Package=google-musicmanager-beta
+X-AppInstall-Section=aur
+X-Arch-Package=google-musicmanager-beta 1.0.117.4968-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=google-musicmanager-beta
+X-Arch-Package-Version=1.0.117.4968-3
+X-Arch-Package-Description=Uploads and downloads music to and from your Google Play music cloud
+X-Arch-Package-URL=https://play.google.com/music/listen#/now
+Aliases=google-musicmanager;

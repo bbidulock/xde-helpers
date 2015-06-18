@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Kraft
+Name[hi]=क्राफ्ट
+Name[hne]=क्राफ्ट
+Name[x-test]=xxKraftxx
+Icon=kraft
+TryExec=/usr/bin/kraft
+Exec=kraft -caption "%c" %i %m
+Categories=Office;Database;Finance;ProjectManagement;
+StartupNotify=false
+DocPath=kraft/index.html
+X-AppInstall-Package=kraft
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kraft
+X-Arch-Package-Version=0.58-1
+X-Arch-Package-Description=A program suitable for all trades or crafts
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.volle-kraft-voraus.de/
+X-Arch-Package-Votes=7

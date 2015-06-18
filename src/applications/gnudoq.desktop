@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=GNUDoQ
+GenericName=Board Game
+Comment=GNUDoQ, Su Doku generator and solver.
+Icon=_usr_share_pixmaps_gnudoq-icon
+TryExec=/usr/bin/gnudoq
+Exec=gnudoq
+Categories=Application;Game;BoardGame;
+StartupNotify=false
+X-AppInstall-Package=gnudoq
+X-AppInstall-Popcon=14
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gnudoq
+X-Arch-Package-Version=0.94-2
+X-Arch-Package-Description=An open source, graphical Su Doku generator and solver with
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.thelemmings.net/static.php?page=GNUDoQ
+X-Arch-Package-Votes=0

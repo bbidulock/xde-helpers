@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Jeex
+Comment=Hexadecimal Editor for Linux
+Comment[it]=Un editor esadecimale per Linux
+Icon=jeex
+TryExec=/usr/bin/jeex
+Exec=jeex %F
+Categories=Development;GTK;
+StartupNotify=true
+X-AppInstall-Package=jeex
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jeex
+X-Arch-Package-Version=12.6.1-3
+X-Arch-Package-Description=GTK+ Hex Editor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=None
+X-Arch-Package-Votes=5

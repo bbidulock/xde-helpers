@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1
+Type=Application
+Name=Checkmate
+Comment=Play some Chess
+Icon=checkmate
+TryExec=/usr/bin/checkmate
+Exec=checkmate
+Categories=Game;BoardGame;
+X-AppInstall-Package=checkmate
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=checkmate 0.2.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=checkmate
+X-Arch-Package-Version=0.2.1-1
+X-Arch-Package-Description=A simple, lightweight, multi-platform chess game.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/checkmate-chess/
+X-Arch-Package-Votes=3

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=SpringLobby
+Comment=Play real-time strategy games using the Spring engine
+Icon=springlobby.svg
+TryExec=/usr/bin/springlobby
+Exec=springlobby
+Categories=Application;Game;StrategyGame;
+StartupNotify=false
+X-AppInstall-Package=springlobby
+X-AppInstall-Section=community
+X-AppInstall-Architectures=amd64,i386
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=springlobby
+X-Arch-Package-Version=0.222-1
+X-Arch-Package-Description=A free cross-platform lobby client for the Spring RTS project.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://springlobby.info/
+X-SuSE-translate=false

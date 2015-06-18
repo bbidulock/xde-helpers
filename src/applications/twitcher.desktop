@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.7.1
+Type=Application
+Name=Twitcher
+Comment=A Twitter Client
+Icon=/usr/share/pixmaps/twitcher/twitcher_48.png
+TryExec=/usr/bin/twitcher
+Exec=twitcher
+Categories=Network;
+X-AppInstall-Package=twitcher
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=twitcher 1.7.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=twitcher
+X-Arch-Package-Version=1.7.1-2
+X-Arch-Package-Description=Twitter application using adobe-air
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.coderanger.com/twitcher/
+X-Arch-Package-Votes=1

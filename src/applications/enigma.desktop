@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Enigma
+Comment=Uncover pairs of stones while navigating obstacles using a marble
+Icon=enigma
+TryExec=/usr/bin/enigma
+Exec=enigma
+Categories=Application;Game;LogicGame;
+StartupNotify=false
+X-AppInstall-Package=enigma
+X-AppInstall-Popcon=88
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=enigma
+X-Arch-Package-Version=1.04-4
+X-Arch-Package-Description=Enigma is a puzzle game involving falling blocks
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.chiark.greenend.org.uk/~sgtatham/enigma/

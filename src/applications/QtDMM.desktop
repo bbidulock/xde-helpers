@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=QtDMM
+GenericName=Digital Multimeter GUI
+Comment=Use a digital multimeter
+Icon=qtdmm
+TryExec=/usr/bin/qtdmm
+Exec=qtdmm
+Categories=Utility;
+StartupNotify=false
+X-AppInstall-Package=qtdmm
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qtdmm
+X-Arch-Package-Version=0.9.0-1
+X-Arch-Package-Description=A QT digital multimeter display
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.mtoussaint.de/qtdmm.html
+X-Arch-Package-Votes=3

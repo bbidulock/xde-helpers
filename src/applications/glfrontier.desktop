@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=GL Frontier
+GenericName=GL Frontier
+Comment=A port of Frontier Elite 2 to openGL
+TryExec=/usr/bin/glfrontier
+Exec=glfrontier
+Categories=Game;
+X-AppInstall-Package=glfrontier
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=glfrontier 20060623-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=glfrontier
+X-Arch-Package-Version=20060623-5
+X-Arch-Package-Description=A reverse-engineered version of Frontier Elite 2 to allow
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://tom.noflag.org.uk/glfrontier.html
+X-Arch-Package-Votes=3

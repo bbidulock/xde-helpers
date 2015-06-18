@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Wolfenstein: Enemy Territory ET Pro
+Comment=Enemy Territory etpro mod
+Icon=enemy-territory.xpm
+TryExec=/usr/bin/et-pro
+Exec=et-pro
+NoDisplay=true
+Categories=Game;ActionGame;
+StartupNotify=false
+X-AppInstall-Package=enemy-territory-etpro
+X-AppInstall-Popcon=19
+X-AppInstall-Section=aur
+X-Arch-Package=enemy-territory-etpro 3.2.6-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=enemy-territory-etpro
+X-Arch-Package-Version=3.2.6-3
+X-Arch-Package-Description=Wolfenstein: Enemy Territory is a completely free, standalone,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://etpro.anime.net
+X-Arch-Package-Votes=19
+Aliases=et-pro;
+Generic Name=Enemy Territory etpro mod

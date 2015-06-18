@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=PlotDrop
+Comment=Drag and Drop graph plotting
+Icon=plotdrop.png
+TryExec=/usr/bin/plotdrop
+Exec=plotdrop %F
+Categories=Application;Graphics;GNOME;
+StartupNotify=true
+X-AppInstall-Package=plotdrop
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=plotdrop
+X-Arch-Package-Version=0.5.3-1
+X-Arch-Package-Description=Plots datafiles (using gnuplot) by dragging them onto the GUI
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://icculus.org/~jcspray/plotdrop/
+X-Arch-Package-Votes=5

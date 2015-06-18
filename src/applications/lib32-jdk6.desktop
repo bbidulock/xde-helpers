@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Java Control Panel
+GenericName=Java 6 Environment Settings (32-bit)
+GenericName[zh]=Java 6 环境设置 (32位)
+Icon=java
+TryExec=/opt/lib32-java6/bin/jcontrol
+Exec=/opt/lib32-java6/bin/jcontrol
+NoDisplay=true
+Categories=Settings;Java;
+StartupNotify=true
+X-AppInstall-Package=lib32-jdk6
+X-AppInstall-Section=aur
+X-Arch-Package=lib32-jdk6 6u45_b06-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lib32-jdk6
+X-Arch-Package-Version=6u45_b06-2
+X-Arch-Package-Description=Java 6 Development Kit (32-bit)
+X-Arch-Package-URL=http://www.oracle.com/technetwork/java/javase/downloads/index.html
+Aliases=java-control-panel;
