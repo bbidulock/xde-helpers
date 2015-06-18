@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=XSession
+Name=fluxbox
+TryExec=/usr/bin/startfluxbox
+Exec=/usr/bin/startfluxbox
+NoDisplay=true
+X-AppInstall-Package=fluxbox-gediminas
+X-AppInstall-Section=aur
+X-Arch-Package=fluxbox-gediminas 20110917-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fluxbox-gediminas
+X-Arch-Package-Version=20110917-1
+X-Arch-Package-Description=A lightweight and highly-configurable window manager. Branch with composite options
+X-Arch-Package-URL=http://www.fluxbox.org
+Aliases=fluxbox;
