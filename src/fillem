@@ -5,7 +5,7 @@ d1=${1:-original}
 for f in $d1/*.desktop
 do
 	n=$(basename $f)
-	if grep -q 'X-Arch-Package=' $f
+	if grep -q 'X-Arch-Package-Version=' $f
 	then
 		echo "--> has package: $f"
 		if [ ! -r fallback/$n ]
