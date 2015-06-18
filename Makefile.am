@@ -5670,7 +5670,7 @@ install-data-hook:
 		echo "  INST  $$t$$g" ; \
 		rsvg-convert -w 48 -h 48 -z 1.0 -f svg "$$d$$f" | sed -e 's,"48pt","48px",g' >"$$t$$g" ; \
 		echo "  INST  $$x$$g" ; \
-		rm -f "$$x$$g" ; ln -sf "../icons/hicolor/scalable/apps/$$g" "$$x$$g" ; \
+		rm -f "$$x$$g" ; ln -sf "../../icons/hicolor/scalable/apps/$$g" "$$x$$g" ; \
 		if test "$$p" = "xlogo.png" -o "$$p" = "arch-logo.png"; then \
 			sizes="16 22 24 32 36 48 56 64 72 96 100 128 256" ; \
 		else \
@@ -5683,7 +5683,7 @@ install-data-hook:
 			rsvg-convert -w $$s -h $$s -z 1.0 -f png "$$x$$g" -o "$$t$$p" ; \
 		done ; \
 		echo "  INST  $$x$$p" ; \
-		rm -f "$$x$$p" ; ln -sf "../icons/hicolor/48x48/apps/$$p" "$$x$$p" ; \
+		rm -f "$$x$$p" ; ln -sf "../../icons/hicolor/48x48/apps/$$p" "$$x$$p" ; \
 	done ; \
 	list="$(pixmap_ICONS)" ; for f in $$list ; do \
 		d=; if test -f "$(srcdir)/$$f" ; then d="$(srcdir)/" ; fi ; \
