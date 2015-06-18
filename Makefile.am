@@ -5665,7 +5665,7 @@ install-data-hook:
 		p=`basename "$$f" .svg`.png ; \
 		g=`basename "$$f" .svg`.svg ; \
 		d=; if test -f "$(srcdir)/$$f" ; then d="$(srcdir)/" ; fi ; \
-		t="$(DESTDIR)$(sharedir)/icons/hicolor/scalable/apps/" ; \
+		t="$(DESTDIR)$(datadir)/icons/hicolor/scalable/apps/" ; \
 		test -d "$$t" || $(MKDIR_P) "$$t" ; \
 		echo "  INST  $$t$$g" ; \
 		rsvg-convert -w 48 -h 48 -z 1.0 -f svg "$$d$$f" | sed -e 's,"48pt","48px",g' >"$$t$$g" ; \
@@ -5677,7 +5677,7 @@ install-data-hook:
 			sizes="16 24 32 48 56 64" ; \
 		fi ; \
 		for s in $$sizes ; do \
-			t="$(DESTDIR)$(sharedir)/icons/hicolor/$${s}x$${s}/apps/" ; \
+			t="$(DESTDIR)$(datadir)/icons/hicolor/$${s}x$${s}/apps/" ; \
 			test -d "$$t" || $(MKDIR_P) "$$t" ; \
 			echo "  INST  $$t$$p" ; \
 			rsvg-convert -w $$s -h $$s -z 1.0 -f png "$$x$$g" -o "$$t$$p" ; \
