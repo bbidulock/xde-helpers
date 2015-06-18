@@ -957,23 +957,147 @@ dist_menu_DATA = \
 
 dist_dirs_DATA = \
 	src/desktop-directories/dockapps.directory \
+	src/desktop-directories/xde-2dgraphics.directory \
+	src/desktop-directories/xde-3dgraphics.directory \
 	src/desktop-directories/xde-accessibility.directory \
 	src/desktop-directories/xde-accessories.directory \
+	src/desktop-directories/xde-actiongame.directory \
+	src/desktop-directories/xde-adult.directory \
+	src/desktop-directories/xde-adventuregame.directory \
+	src/desktop-directories/xde-amusement.directory \
 	src/desktop-directories/xde-applications.directory \
+	src/desktop-directories/xde-arcadegame.directory \
+	src/desktop-directories/xde-archiving.directory \
 	src/desktop-directories/xde-archlinux.directory \
+	src/desktop-directories/xde-art.directory \
+	src/desktop-directories/xde-artificiali.directory \
+	src/desktop-directories/xde-astronomy.directory \
+	src/desktop-directories/xde-audio.directory \
+	src/desktop-directories/xde-audiovideo.directory \
+	src/desktop-directories/xde-audiovideoediting.directory \
+	src/desktop-directories/xde-biology.directory \
+	src/desktop-directories/xde-blocksgame.directory \
+	src/desktop-directories/xde-boardgame.directory \
+	src/desktop-directories/xde-building.directory \
+	src/desktop-directories/xde-calculator.directory \
+	src/desktop-directories/xde-calendar.directory \
+	src/desktop-directories/xde-cardgame.directory \
+	src/desktop-directories/xde-chart.directory \
+	src/desktop-directories/xde-chat.directory \
+	src/desktop-directories/xde-chemistry.directory \
+	src/desktop-directories/xde-clock.directory \
+	src/desktop-directories/xde-compression.directory \
+	src/desktop-directories/xde-computerscience.directory \
+	src/desktop-directories/xde-consoleonly.directory \
+	src/desktop-directories/xde-construction.directory \
+	src/desktop-directories/xde-contact.directory \
+	src/desktop-directories/xde-core.directory \
+	src/desktop-directories/xde-database.directory \
+	src/desktop-directories/xde-datavisualization.directory \
+	src/desktop-directories/xde-desktopsettings.directory \
 	src/desktop-directories/xde-development.directory \
+	src/desktop-directories/xde-dialup.directory \
+	src/desktop-directories/xde-dictionary.directory \
+	src/desktop-directories/xde-discburning.directory \
 	src/desktop-directories/xde-dockapps.directory \
+	src/desktop-directories/xde-documentation.directory \
+	src/desktop-directories/xde-economy.directory \
 	src/desktop-directories/xde-education.directory \
+	src/desktop-directories/xde-electricity.directory \
+	src/desktop-directories/xde-electronics.directory \
+	src/desktop-directories/xde-email.directory \
+	src/desktop-directories/xde-emulator.directory \
+	src/desktop-directories/xde-engineering.directory \
+	src/desktop-directories/xde-feed.directory \
+	src/desktop-directories/xde-filemanager.directory \
+	src/desktop-directories/xde-filesystem.directory \
+	src/desktop-directories/xde-filetools.directory \
+	src/desktop-directories/xde-filetransfert.directory \
+	src/desktop-directories/xde-finance.directory \
+	src/desktop-directories/xde-flowchart.directory \
 	src/desktop-directories/xde-games.directory \
+	src/desktop-directories/xde-geography.directory \
+	src/desktop-directories/xde-geology.directory \
+	src/desktop-directories/xde-geoscience.directory \
 	src/desktop-directories/xde-gnome-webapplications.directory \
 	src/desktop-directories/xde-graphics.directory \
+	src/desktop-directories/xde-guidesigner.directory \
+	src/desktop-directories/xde-hamradio.directory \
+	src/desktop-directories/xde-hardwaresettings.directory \
+	src/desktop-directories/xde-history.directory \
+	src/desktop-directories/xde-humanities.directory \
+	src/desktop-directories/xde-ide.directory \
+	src/desktop-directories/xde-imageprocessing.directory \
+	src/desktop-directories/xde-instantmessaging.directory \
 	src/desktop-directories/xde-internet.directory \
+	src/desktop-directories/xde-ircclient.directory \
+	src/desktop-directories/xde-kidsgame.directory \
+	src/desktop-directories/xde-languages.directory \
+	src/desktop-directories/xde-literature.directory \
+	src/desktop-directories/xde-logicgame.directory \
+	src/desktop-directories/xde-maps.directory \
+	src/desktop-directories/xde-math.directory \
+	src/desktop-directories/xde-medicalsoftware.directory \
+	src/desktop-directories/xde-midi.directory \
+	src/desktop-directories/xde-mixer.directory \
+	src/desktop-directories/xde-monitor.directory \
 	src/desktop-directories/xde-multimedia.directory \
+	src/desktop-directories/xde-music.directory \
+	src/desktop-directories/xde-news.directory \
+	src/desktop-directories/xde-numericalanalysis.directory \
+	src/desktop-directories/xde-ocr.directory \
 	src/desktop-directories/xde-office.directory \
 	src/desktop-directories/xde-other.directory \
+	src/desktop-directories/xde-p2p.directory \
+	src/desktop-directories/xde-packagemanager.directory \
+	src/desktop-directories/xde-parallelcomputing.directory \
+	src/desktop-directories/xde-pda.directory \
+	src/desktop-directories/xde-photography.directory \
+	src/desktop-directories/xde-physics.directory \
+	src/desktop-directories/xde-player.directory \
+	src/desktop-directories/xde-presentation.directory \
+	src/desktop-directories/xde-printing.directory \
+	src/desktop-directories/xde-profiling.directory \
+	src/desktop-directories/xde-projectmanagement.directory \
+	src/desktop-directories/xde-publishing.directory \
+	src/desktop-directories/xde-rastergraphics.directory \
+	src/desktop-directories/xde-recorder.directory \
+	src/desktop-directories/xde-remoteaccess.directory \
+	src/desktop-directories/xde-revisionctrl.directory \
+	src/desktop-directories/xde-robotics.directory \
+	src/desktop-directories/xde-roleplaying.directory \
+	src/desktop-directories/xde-scanning.directory \
 	src/desktop-directories/xde-science.directory \
+	src/desktop-directories/xde-screensavers.directory \
+	src/desktop-directories/xde-security.directory \
+	src/desktop-directories/xde-sequencer.directory \
 	src/desktop-directories/xde-settings.directory \
+	src/desktop-directories/xde-shell.directory \
+	src/desktop-directories/xde-shooter.directory \
+	src/desktop-directories/xde-simulation.directory \
+	src/desktop-directories/xde-spirituality.directory \
+	src/desktop-directories/xde-sports.directory \
+	src/desktop-directories/xde-sportsgame.directory \
+	src/desktop-directories/xde-spreadsheet.directory \
+	src/desktop-directories/xde-strategygame.directory \
+	src/desktop-directories/xde-system.directory \
 	src/desktop-directories/xde-system-tools.directory \
+	src/desktop-directories/xde-telephony.directory \
+	src/desktop-directories/xde-telephonytools.directory \
+	src/desktop-directories/xde-terminalemulator.directory \
+	src/desktop-directories/xde-texteditor.directory \
+	src/desktop-directories/xde-texttools.directory \
+	src/desktop-directories/xde-translation.directory \
+	src/desktop-directories/xde-tuner.directory \
+	src/desktop-directories/xde-tv.directory \
+	src/desktop-directories/xde-vectorgraphics.directory \
+	src/desktop-directories/xde-videoconference.directory \
+	src/desktop-directories/xde-video.directory \
+	src/desktop-directories/xde-viewer.directory \
+	src/desktop-directories/xde-webbrowser.directory \
+	src/desktop-directories/xde-webdevelopment.directory \
+	src/desktop-directories/xde-windowmanager.directory \
+	src/desktop-directories/xde-word.directory \
 	src/desktop-directories/xde-x11-tools.directory \
 	src/desktop-directories/X-X11-Tools.directory
 
@@ -4389,6 +4513,9 @@ dist_back_DATA = \
 	src/fallback/zynaddsubfx.desktop \
 	src/fallback/zynjacku.desktop
 
+hicolor_ICONS = \
+	src/icons/stopmotion.svg
+
 pixmap_ICONS = \
 	src/icons/2bWM.save.svg \
 	src/icons/2bWM.svg \
@@ -4896,6 +5023,7 @@ pixmap_ICONS = \
 	src/icons/ibus-keyboard.svg \
 	src/icons/ibus-setup.svg \
 	src/icons/ibus.svg \
+	src/icons/idle.svg \
 	src/icons/image-viewer.svg \
 	src/icons/im-aim.svg \
 	src/icons/im-ekiga.svg \
@@ -5133,7 +5261,9 @@ pixmap_ICONS = \
 	src/icons/puplet-screenshot.png \
 	src/icons/pup.svg \
 	src/icons/pybliographic.svg \
+	src/icons/pycrust.png \
 	src/icons/pyrenamer.svg \
+	src/icons/pyshell.png \
 	src/icons/python2.5.svg \
 	src/icons/python2.6.svg \
 	src/icons/python3.0.svg \
@@ -5357,6 +5487,7 @@ pixmap_ICONS = \
 	src/icons/xmms2.svg \
 	src/icons/xmms2-white-on-black.svg \
 	src/icons/x-office-mail.svg \
+	src/icons/XPaintIcon.xpm \
 	src/icons/xpdf-rosa.svg \
 	src/icons/x-pdf.svg \
 	src/icons/xpdf.svg \
@@ -5478,12 +5609,37 @@ pixmap_ICONS = \
 	src/icons/zim.svg
 
 dist_noinst_DATA = \
+	$(hicolor_ICONS) \
 	$(pixmap_ICONS)
 
 install-data-hook:
 	$(NORMAL_INSTALL)
 	@x="$(DESTDIR)$(icondir)/" ; \
 	test -d "$$x" || $(MKDIR_P) "$$x" ; \
+	list="$(hicolor_ICONS)" ; for f in $$list ; do \
+		p=`basename "$$f" .svg`.png ; \
+		g=`basename "$$f" .svg`.svg ; \
+		d=; if test -f "$(srcdir)/$$f" ; then d="$(srcdir)/" ; fi ; \
+		t="$(DESTDIR)$(sharedir)/icons/hicolor/scalable/apps/" ; \
+		test -d "$$t" || $(MKDIR_P) "$$t" ; \
+		echo "  INST  $$t$$g" ; \
+		rsvg-convert -w 48 -h 48 -z 1.0 -f svg "$$d$$f" | sed -e 's,"48pt","48px",g' >"$$t$$g" ; \
+		echo "  INST  $$x$$g" ; \
+		rm -f "$$x$$g" ; ln -sf "../icons/hicolor/scalable/apps/$$g" "$$x$$g" ; \
+		if test "$$p" = "xlogo.png" -o "$$p" = "arch-logo.png"; then \
+			sizes="16 22 24 32 36 48 56 64 72 96 100 128 256" ; \
+		else \
+			sizes="16 24 32 48 56 64" ; \
+		fi ; \
+		for s in $$sizes ; do \
+			t="$(DESTDIR)$(sharedir)/icons/hicolor/$${s}x$${s}/apps/" ; \
+			test -d "$$t" || $(MKDIR_P) "$$t" ; \
+			echo "  INST  $$t$$p" ; \
+			rsvg-convert -w $$s -h $$s -z 1.0 -f png "$$x$$g" -o "$$t$$p" ; \
+		done ; \
+		echo "  INST  $$x$$p" ; \
+		rm -f "$$x$$p" ; ln -sf "../icons/hicolor/48x48/apps/$$p" "$$x$$p" ; \
+	done ; \
 	list="$(pixmap_ICONS)" ; for f in $$list ; do \
 		d=; if test -f "$(srcdir)/$$f" ; then d="$(srcdir)/" ; fi ; \
 		case "$$f" in \
@@ -5496,9 +5652,9 @@ install-data-hook:
 		*.svg) \
 			p=`basename "$$f" .svg`.png ; \
 			g=`basename "$$f" .svg`.svg ; \
-			echo " rsvg-convert -w 48 -h 48 -z 1.0 -f svg \"$$d$$f\" | sed -e 's,\"48pt\",\"48px\",g' >\"$$x$$g\"" ; \
+			echo "  INST  $$x$$g" ; \
 			rsvg-convert -w 48 -h 48 -z 1.0 -f svg "$$d$$f" | sed -e 's,"48pt","48px",g' >"$$x$$g" ; \
-			echo " rsvg-convert -w 48 -h 48 -z 1.0 -f png \"$$x$$g\" -o \"$$x$$p\"" ; \
+			echo "  INST  $$x$$p" ; \
 			rsvg-convert -w 48 -h 48 -z 1.0 -f png "$$x$$g" -o "$$x$$p" ;; \
 		esac ; \
 	done

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Directory
+Icon=preferences-system-windows
+Name=Window Manager
+Name[fr]=Gestionnaire de Fenêtres
+Name[pt]=Gestor de Janelas
+Comment=Available window managers
