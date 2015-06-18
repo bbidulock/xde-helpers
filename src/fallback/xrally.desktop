@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Xrally
+GenericName=Xrally
+Comment=Clone of Rally X arcade game.
+Icon=/usr/share/xrally/images/logocar.xpm
+TryExec=/usr/bin/xrally
+Exec=xrally
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=xrally
+X-AppInstall-Section=aur
+X-Arch-Package=xrally 1.1.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xrally
+X-Arch-Package-Version=1.1.1-2
+X-Arch-Package-Description=XRally is a clone of the Rally X arcade game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.linuxgames.com/xrally/
+X-Arch-Package-Votes=0

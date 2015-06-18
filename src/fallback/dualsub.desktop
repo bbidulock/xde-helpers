@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=DualSub
+Comment=A tool for merging and translating subtitles
+Icon=/usr/share/pixmaps/dualsub.png
+TryExec=/usr/bin/dualsub
+Exec=dualsub
+Categories=AudioVideo;
+StartupNotify=true
+X-AppInstall-Package=dualsub-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=dualsub-git 20140617-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dualsub-git
+X-Arch-Package-Version=20140617-1
+X-Arch-Package-Description=tool for merging and translating subtitles
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/bonigarcia/dualsub
+X-Arch-Package-Votes=1

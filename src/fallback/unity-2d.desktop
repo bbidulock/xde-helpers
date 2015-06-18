@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Unity 2D
+Comment=This session logs you into Unity 2D
+TryExec=/usr/bin/unity-2d-panel
+Exec=gnome-session --session=unity-2d
+X-AppInstall-Package=unity-2d
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=unity-2d 5.2.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=unity-2d
+X-Arch-Package-Version=5.2.1-1
+X-Arch-Package-Description=A 2d implementation of Unity
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://launchpad.net/unity-2d
+X-Arch-Package-Votes=9

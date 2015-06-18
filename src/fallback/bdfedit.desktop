@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=bdfedit
+GenericName=Font Editor
+Comment=A BDF font editor
+Icon=/usr/share/pixmaps/bdfedit.xpm
+TryExec=/usr/bin/bdfedit
+Exec=bdfedit
+Categories=Graphics;
+X-AppInstall-Package=bdfedit
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=bdfedit 1.3-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bdfedit
+X-Arch-Package-Version=1.3-2
+X-Arch-Package-Description=A BDF font editor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://hea-www.harvard.edu/~fine/Tech/bdfedit.html
+X-Arch-Package-Votes=5

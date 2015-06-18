@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=NetBeans IDE
+Comment=NetBeans Entwicklungsumgebung
+Icon=/usr/share/netbeans/nb/netbeans.png
+TryExec=/usr/share/netbeans/bin/netbeans
+Exec=/usr/share/netbeans/bin/netbeans
+NoDisplay=true
+Categories=Development;
+StartupNotify=true
+X-AppInstall-Package=netbeans-ml
+X-AppInstall-Section=aur
+X-Arch-Package=netbeans-ml 7.0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=netbeans-ml
+X-Arch-Package-Version=7.0.1-1
+X-Arch-Package-Description=Netbeans IDE development platform. Multilanguage version
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.netbeans.org
+X-Arch-Package-Votes=0
+Aliases=netbeans;

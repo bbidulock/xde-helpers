@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Dwarf Fortress
+GenericName=Dwarf Fortress
+Comment=A single-player fantasy game.
+Icon=dwarffortress
+TryExec=/usr/bin/dwarffortress-sf
+Exec=dwarffortress-sf
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=dwarffortress-spacefox
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=dwarffortress-spacefox 0.40.24-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dwarffortress-spacefox
+X-Arch-Package-Version=0.40.24-1
+X-Arch-Package-Description=A single-player fantasy game. You control a dwarven outpost or
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.bay12forums.com/smf/index.php?topic=129219.0
+X-Arch-Package-Votes=9
+Aliases=dwarffortress;

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Machinarium
+GenericName=A point-and-click adventure game by the creators of Samorost
+Icon=machinarium
+TryExec=/usr/bin/machinarium
+Exec=machinarium
+Categories=Game;
+X-AppInstall-Package=machinarium
+X-AppInstall-Popcon=51
+X-AppInstall-Section=aur
+X-Arch-Package=machinarium 3-14
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=machinarium
+X-Arch-Package-Version=3-14
+X-Arch-Package-Description=A point-and-click logic adventure game by the creators of
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://machinarium.net/
+X-Arch-Package-Votes=51

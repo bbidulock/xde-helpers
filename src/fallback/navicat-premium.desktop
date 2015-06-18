@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Navicat Premium
+Comment=Database GUI
+Icon=/opt/navicat/Navicat/help/img/icon_navicat.png
+TryExec=/usr/bin/navicat
+Exec=/usr/bin/navicat
+NoDisplay=true
+Categories=Application;Network;
+X-AppInstall-Package=navicat-premium
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=navicat-premium 11.0.17-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=navicat-premium
+X-Arch-Package-Version=11.0.17-1
+X-Arch-Package-Description=A fast, reliable and affordable Database Administration tool
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.navicat.com
+X-Arch-Package-Votes=4
+Aliases=navicat;

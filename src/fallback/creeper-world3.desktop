@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Creeper World III - Arc Eternal
+Icon=creeper-world3
+TryExec=/usr/bin/creeper-world3
+Exec=creeper-world3
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=creeper-world3
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=creeper-world3 208-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=creeper-world3
+X-Arch-Package-Version=208-2
+X-Arch-Package-Description=Creeper World 3: Arc Eternal is the third installment in the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://knucklecracker.com/creeperworld3/cw3.php
+X-Arch-Package-Votes=1

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=eepBeacon
+Comment=HF Beacon Assistant
+Icon=eepbeacon.png
+TryExec=/usr/bin/eepbeacon
+Exec=eepbeacon
+X-DCOP-ServiceType=none
+Categories=Application;HamRadio;
+MimeType=text/plain;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=eepbeacon
+X-AppInstall-Section=aur
+X-Arch-Package=eepbeacon 1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=eepbeacon
+X-Arch-Package-Version=1.0-1
+X-Arch-Package-Description=Ham Radio HF Beacon Assistant
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://hamsoftware.org/old_index.html
+X-Arch-Package-Votes=0

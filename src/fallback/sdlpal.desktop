@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=sdlpal
+Name[zh_CN]=仙剑奇侠传
+Comment=A SDL-based reimplemention of the classic Chinese-language RPG "Xian Jian Qi Xia Zhuan"
+Comment[zh_CN]=基于SDL重制的经典中文角色扮演游戏——仙剑奇侠传
+Icon=sdlpal
+TryExec=/usr/bin/sdlpal
+Exec=sdlpal
+Categories=Game;StrategyGame;
+StartupNotify=true
+X-AppInstall-Package=sdlpal
+X-AppInstall-Section=aur
+X-Arch-Package=sdlpal 85584-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sdlpal
+X-Arch-Package-Version=85584-2
+X-Arch-Package-Description=A SDL-based reimplemention of the classic Chinese-language RPG 'Xian Jian Qi Xia Zhuan'
+X-Arch-Package-URL=http://sdlpal.codeplex.com/

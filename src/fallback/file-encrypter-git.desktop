@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=File Encrypter
+GenericName=File Encrypter
+Icon=/usr/share/pixmaps/encrypt_decrypt_logo.png
+TryExec=/usr/bin/encrypt_decrypt
+Exec=encrypt_decrypt
+NoDisplay=true
+Categories=Application;Utility;
+X-AppInstall-Package=file-encrypter-git
+X-AppInstall-Section=aur
+X-Arch-Package=file-encrypter-git 80.ecef6c3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=file-encrypter-git
+X-Arch-Package-Version=80.ecef6c3-1
+X-Arch-Package-Description=GUI utility for encrypting and decrypting files easily using
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/wifiextender/file-encrypter
+X-Arch-Package-Votes=0
+Aliases=encrypt_decrypt_gui;

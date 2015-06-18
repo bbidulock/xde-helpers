@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Canon MP600 printer
+Name[fr]=Imprimante Canon MP600
+Comment=Configure Canon MP600 printer
+Comment[fr]=Configurer l'imprimante Canon MP600
+Icon=printer
+TryExec=/usr/bin/printuimp600
+Exec=printuimp600
+Categories=System;GTK;
+StartupNotify=true
+X-AppInstall-Package=cnijfilter-mp600
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=cnijfilter-mp600 2.70-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cnijfilter-mp600
+X-Arch-Package-Version=2.70-2
+X-Arch-Package-Description=Canon IJ Printer Driver for Pixma MP600 multifunction
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://support-au.canon.com.au/contents/AU/EN/0900718516.html
+X-Arch-Package-Votes=5

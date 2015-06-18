@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Brain Workshop
+Comment=A free open-source version of the Dual N-Back mental exercise
+Icon=brainworkshop
+TryExec=/usr/bin/brainworkshop
+Exec=brainworkshop
+Categories=Education;
+X-AppInstall-Package=brainworkshop
+X-AppInstall-Popcon=62
+X-AppInstall-Section=aur
+X-Arch-Package=brainworkshop 4.8.4-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=brainworkshop
+X-Arch-Package-Version=4.8.4-4
+X-Arch-Package-Description=Brain Workshop is a free open-source version of the Dual
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://brainworkshop.sourceforge.net/
+X-Arch-Package-Votes=62

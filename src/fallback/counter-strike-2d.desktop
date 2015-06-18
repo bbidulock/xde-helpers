@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Counter-Strike 2D
+Comment=Multiplayer 2D FPS shooter
+Icon=cs2d
+TryExec=/usr/bin/cs2d
+Exec=cs2d
+NoDisplay=true
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=counter-strike-2d
+X-AppInstall-Popcon=45
+X-AppInstall-Section=aur
+X-Arch-Package=counter-strike-2d 0.1.2.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=counter-strike-2d
+X-Arch-Package-Version=0.1.2.5-1
+X-Arch-Package-Description=More than just a freeware clone of the well known game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.cs2d.com/
+X-Arch-Package-Votes=45
+Aliases=cs2d;

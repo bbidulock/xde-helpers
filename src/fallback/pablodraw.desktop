@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=PabloDraw
+Comment=An Ansi/Ascii text and RIPscrip vector graphic art editor/viewer with multi-user capabilities
+TryExec=/usr/bin/pablodraw
+Exec=pablodraw
+Categories=Graphics;2DGraphics;Viewer;
+StartupNotify=false
+X-AppInstall-Package=pablodraw
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=pablodraw 3.2.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pablodraw
+X-Arch-Package-Version=3.2.1-1
+X-Arch-Package-Description=An Ansi/Ascii text and RIPscrip vector graphic art
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://picoe.ca/products/pablodraw/
+X-Arch-Package-Votes=3

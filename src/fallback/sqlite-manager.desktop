@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=SQLite Manager
+Icon=/usr/share/sqlite-manager/chrome/icons/default/default48.png
+TryExec=/usr/bin/xulrunner
+Exec=xulrunner /usr/share/sqlite-manager/application.ini -f %f
+Categories=Development;
+X-AppInstall-Package=sqlite-manager
+X-AppInstall-Popcon=15
+X-AppInstall-Section=aur
+X-Arch-Package=sqlite-manager 0.8.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sqlite-manager
+X-Arch-Package-Version=0.8.3-1
+X-Arch-Package-Description=A very lightweight XULRunner application to manage all your
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/lazierthanthou/sqlite-manager
+X-Arch-Package-Votes=15

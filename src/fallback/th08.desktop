@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=0.11
+Type=Application
+Name=Touhou: Imperishable Night
+Comment=8th game of the Touhou Project
+Icon=/usr/share/pixmaps/th08.png
+TryExec=/usr/bin/th08
+Exec=/usr/bin/th08
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=th08
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=th08 0.03-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=th08
+X-Arch-Package-Version=0.03-3
+X-Arch-Package-Description=The eighth game of the Touhou Project series, Imperishable
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www16.big.or.jp/~zun/html/th08top.html
+X-Arch-Package-Votes=3

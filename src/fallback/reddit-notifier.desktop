@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Reddit-Notifier
+GenericName=Reddit-Nnotifier
+Comment=A desktop app that notifies you of new comments on your submissions, new messages, new votes on your comments/submissions etc.
+Icon=reddit-notifier.png
+TryExec=/usr/bin/adobe-air
+Exec=adobe-air /opt/reddit-notifier/reddit-notifier.air
+Categories=Application;Network;
+MimeType=application/vnd.adobe.air-application-installer-package+zip;
+X-AppInstall-Package=reddit-notifier
+X-AppInstall-Section=aur
+X-Arch-Package=reddit-notifier 0.40-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=reddit-notifier
+X-Arch-Package-Version=0.40-1
+X-Arch-Package-Description=A desktop app that notifies you of new comments on your
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/reddit-notifier/
+X-Arch-Package-Votes=0

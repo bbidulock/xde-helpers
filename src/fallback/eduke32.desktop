@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=EDuke32
+Comment=Advanced Duke Nukem 3D engine
+Icon=eduke32
+TryExec=/usr/bin/eduke32
+Exec=eduke32
+Categories=Game;Shooter;
+StartupNotify=false
+X-AppInstall-Package=eduke32
+X-AppInstall-Popcon=94
+X-AppInstall-Section=aur
+X-Arch-Package=eduke32 20150505.r5181-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=eduke32
+X-Arch-Package-Version=.r-1
+X-Arch-Package-Description=An advanced Duke Nukem 3D source port
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://eduke32.com/
+X-Arch-Package-Votes=94

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Ktigcc
+Comment=TI Development Environement
+Icon=ktigcc
+TryExec=/opt/tigcc/bin/ktigcc
+Exec=/opt/tigcc/bin/ktigcc
+Categories=Development;IDE;
+StartupNotify=true
+X-AppInstall-Package=ktigcc
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=ktigcc 1.10-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ktigcc
+X-Arch-Package-Version=1.10-1
+X-Arch-Package-Description=IDE for the tigcc cross-toolchain
+X-Arch-Package-Groups=ti68k
+X-Arch-Package-URL=http://tigcc.ticalc.org
+X-Arch-Package-Votes=3

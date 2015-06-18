@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Grim Fandango
+GenericName=Grim Fandango
+Comment=Grim Fandango Remastered - GOG Version
+Icon=/opt/grim-fandango/game/bin/icon.png
+TryExec=/opt/grim-fandango/start.sh
+Exec=/opt/grim-fandango/start.sh
+Categories=Game;
+X-AppInstall-Package=grim-fandango
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=grim-fandango 1.3.0.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=grim-fandango
+X-Arch-Package-Version=1.3.0.6-1
+X-Arch-Package-Description=Grim Fandango Remastered - GOG version
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://grimremastered.com/
+X-Arch-Package-Votes=1

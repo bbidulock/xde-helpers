@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=OpenProj
+GenericName[fr]=Gestion de projet
+GenericName[it]=Project Management
+GenericName[it_IT]=Project Management
+Comment=A free, open source desktop project management software
+Comment[fr]=Un programme de gestion de projet gratuit et open-source
+Icon=applications-office
+TryExec=/usr/bin/openproj
+Exec=openproj
+Categories=Office;
+StartupNotify=true
+X-AppInstall-Package=openproj
+X-AppInstall-Section=aur
+X-Arch-Package=openproj 1.4-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=openproj
+X-Arch-Package-Version=1.4-4
+X-Arch-Package-Description=A free, open source desktop alternative to Microsoft Project
+X-Arch-Package-URL=http://www.openproj.org

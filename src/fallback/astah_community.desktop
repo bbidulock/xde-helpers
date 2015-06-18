@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Astah* Community
+Comment=Lightweight, easy-to-use, and free UML2.x modeler
+Comment[ja]=UMLの学習に最適な個人向けツールです
+Icon=astah_community.png
+TryExec=/usr/bin/astah
+Exec=astah %U
+Categories=Application;Development;
+MimeType=application/x-astah;
+X-AppInstall-Package=astah_community
+X-AppInstall-Popcon=28
+X-AppInstall-Section=aur
+X-Arch-Package=astah_community 6.9.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=astah_community
+X-Arch-Package-Version=6.9.0-2
+X-Arch-Package-Description=Lightweight, easy-to-use, and free UML2.x modeler
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://astah.net/editions/community
+X-Arch-Package-Votes=28

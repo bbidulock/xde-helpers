@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Qt Master Stable - Assistant
+GenericName=Qt Document Browser
+Icon=/usr/share/pixmaps/assistant.png
+TryExec=/usr/bin/assistant
+Exec=/usr/bin/assistant
+NoDisplay=true
+Categories=Development;Documentation;Qt;
+X-AppInstall-Package=qt-git
+X-AppInstall-Section=aur
+X-Arch-Package=qt-git 20100826-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qt-git
+X-Arch-Package-Version=20100826-2
+X-Arch-Package-Description=The C++ Qt GUI framework - current development snapshot (master branch)
+X-Arch-Package-URL=http://www.qtsoftware.com
+Aliases=assistant;

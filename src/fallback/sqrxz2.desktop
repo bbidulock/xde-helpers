@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=sqrxz2 - Two seconds until death
+Comment=A fast paced jump'n'run (Part II).
+Icon=sqrxz2
+TryExec=/usr/bin/sqrxz2
+Exec=sqrxz2
+Categories=Game;
+X-AppInstall-Package=sqrxz2
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=sqrxz2 1.00-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sqrxz2
+X-Arch-Package-Version=1.00-2
+X-Arch-Package-Description=A fast paced jump'n'run (Part II - 'Two seconds until death')
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sqrxz.de
+X-Arch-Package-Votes=1

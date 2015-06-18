@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=VMware Server Console
+Icon=vmware-server-console
+TryExec=/usr/bin/vmware-server-console
+Exec=vmware-server-console
+Categories=System;
+X-AppInstall-Package=vmware-server-console
+X-AppInstall-Popcon=43
+X-AppInstall-Section=aur
+X-Arch-Package=vmware-server-console 1.0.10-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=vmware-server-console
+X-Arch-Package-Version=1.0.10-1
+X-Arch-Package-Description=Remote console for VMware Server
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.vmware.com/products/server/
+X-Arch-Package-Votes=43

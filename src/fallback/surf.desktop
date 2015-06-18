@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Surf
+Name[sr]=Једрење
+Icon=surf
+TryExec=/usr/bin/surf
+Exec=surf %U
+Categories=WebBrowser;GTK;Newtork;
+StartupNotify=true
+X-XFCE-Binaries=surf;
+X-XFCE-Category=WebBrowser
+X-XFCE-Commands=%B;
+X-XFCE-CommandsWithParameter=%B "%s";
+X-AppInstall-Package=surf
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=surf
+X-Arch-Package-Version=0.6-2
+X-Arch-Package-Description=A simple web browser based on WebKit/GTK+.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://surf.suckless.org/

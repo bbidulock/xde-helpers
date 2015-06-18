@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Antichamber
+GenericName=Antichamber
+Comment=A mind-bending psychological exploration game where nothing can be taken for granted.
+Icon=/opt/antichamber/AntichamberIcon.png
+TryExec=/usr/bin/optirun
+Exec=optirun /usr/bin/antichamber
+NoDisplay=true
+Categories=Game;
+Path=/opt/antichamber
+X-AppInstall-Package=antichamber-hib
+X-AppInstall-Section=aur
+X-Arch-Package=antichamber-hib 1.01-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=antichamber-hib
+X-Arch-Package-Version=1.01-1
+X-Arch-Package-Description=A mind-bending psychological exploration game where nothing can be taken for granted.
+X-Arch-Package-URL=http://www.antichamber-game.com
+Aliases=antichamber;

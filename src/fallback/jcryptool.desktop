@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=JCrypTool
+GenericName=Crypthography e-learning platform
+Icon=jcryptool
+TryExec=/usr/bin/jcryptool
+Exec=jcryptool
+Categories=Education;
+X-AppInstall-Package=jcryptool
+X-AppInstall-Popcon=14
+X-AppInstall-Section=aur
+X-Arch-Package=jcryptool 0.9.8-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jcryptool
+X-Arch-Package-Version=0.9.8-1
+X-Arch-Package-Description=A cryptographer's e-learning application. You can use it to
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.cryptool.org/en/jcryptool
+X-Arch-Package-Votes=14

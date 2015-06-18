@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Jazzpunk
+Comment=Play Jazzpunk
+Icon=jazzpunk-hib
+TryExec=/usr/bin/jazzpunk-hib
+Exec=jazzpunk-hib
+Categories=AudioVideo;Game;
+StartupNotify=true
+X-AppInstall-Package=jazzpunk-hib
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=jazzpunk-hib July6_2014-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jazzpunk-hib
+X-Arch-Package-Version=July6_2014-2
+X-Arch-Package-Description=Jazzpunk is an adventure comedy game and poorly made word
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://jazzpunk.net/
+X-Arch-Package-Votes=2

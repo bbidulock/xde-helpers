@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Cytoscape
+GenericName=Cytoscape
+Icon=cytoscape
+TryExec=/usr/bin/cytoscape
+Exec=cytoscape
+Categories=Application;Office;
+X-AppInstall-Package=cytoscape
+X-AppInstall-Popcon=16
+X-AppInstall-Section=aur
+X-Arch-Package=cytoscape 3.2.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cytoscape
+X-Arch-Package-Version=3.2.1-1
+X-Arch-Package-Description=A software for visualizing molecular interaction networks and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.cytoscape.org
+X-Arch-Package-Votes=16

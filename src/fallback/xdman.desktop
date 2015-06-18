@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Xtreme Download Manager
+Icon=icon.png
+TryExec=/usr/bin/java
+Exec=java -jar '/usr/share/xdman/xdman.jar'
+Categories=Network;
+X-AppInstall-Package=xdman
+X-AppInstall-Popcon=15
+X-AppInstall-Section=aur
+X-Arch-Package=xdman 4.7-25
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xdman
+X-Arch-Package-Version=4.7-25
+X-Arch-Package-Description=Xtreme Download Manager uses sophisticated dynamic
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://xdman.sourceforge.net/index.html
+X-Arch-Package-Votes=15

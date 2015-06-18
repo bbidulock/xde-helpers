@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=UliPad
+Comment=A wxPython powered, programmer oriented and flexible editor
+Icon=ulipad.png
+TryExec=/usr/bin/ulipad
+Exec=ulipad
+Categories=Development;
+X-AppInstall-Package=ulipad
+X-AppInstall-Popcon=22
+X-AppInstall-Section=aur
+X-Arch-Package=ulipad 4.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ulipad
+X-Arch-Package-Version=4.1-1
+X-Arch-Package-Description=A wxPython powered, programmer oriented and flexible editor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/ulipad/
+X-Arch-Package-Votes=22

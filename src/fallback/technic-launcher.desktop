@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Technic Launcher
+GenericName=Technic Launcher
+Comment=Install and play Minecraft modpacks.
+Icon=technic-launcher
+TryExec=/usr/bin/technic-launcher
+Exec=technic-launcher
+Categories=Game;
+X-AppInstall-Package=technic-launcher
+X-AppInstall-Section=aur
+X-Arch-Package=technic-launcher 431-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=technic-launcher
+X-Arch-Package-Version=431-1
+X-Arch-Package-Description=The Technic Platform's launcher, which allows you to install and play dozens of Technic modpacks for Minecraft, including Tekkit, Voltz, and Hexxit.
+X-Arch-Package-URL=http://www.technicpack.net/download

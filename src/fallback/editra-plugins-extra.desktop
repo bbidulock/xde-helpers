@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Editra
+Comment=Editra is a multi-platform text editor with an implementation that focuses ... features that aid in code development.
+Icon=editra
+TryExec=/usr/bin/editra
+Exec=editra
+NoDisplay=true
+Categories=Development;System;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=editra-plugins-extra
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=editra-plugins-extra 2-0
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=editra-plugins-extra
+X-Arch-Package-Version=2-0
+X-Arch-Package-Description=plugins and extra for editra
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://editra.org/
+X-Arch-Package-Votes=7
+Aliases=editra;

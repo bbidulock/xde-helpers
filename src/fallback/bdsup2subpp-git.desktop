@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=BDSup2Sub++
+GenericName=Subtitle Conversion Tool
+Comment=Subtitle conversion tool for image based stream formats with scaling capabilities and some other nice features.
+Icon=bdsup2subpp
+TryExec=/usr/bin/bdsup2subpp
+Exec=bdsup2subpp
+NoDisplay=true
+Categories=AudioVideo;
+X-AppInstall-Package=bdsup2subpp-git
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=bdsup2subpp-git 1.0.2.0.g6c9b6b7-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bdsup2subpp-git
+X-Arch-Package-Version=1.0.2.0.g6c9b6b7-1
+X-Arch-Package-Description=Subtitle conversion tool for image based stream formats with
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://forum.doom9.org/showthread.php?t=167051
+X-Arch-Package-Votes=9
+Aliases=bdsup2subpp;

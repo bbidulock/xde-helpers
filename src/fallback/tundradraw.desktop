@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=TundraDraw
+GenericName=tundradraw
+Comment=ANSI drawing program
+Icon=tundradraw.xpm
+TryExec=/usr/bin/tundradraw
+Exec=tundradraw
+Categories=Graphics;Utility;
+X-AppInstall-Package=tundradraw
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=tundradraw 22-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tundradraw
+X-Arch-Package-Version=22-2
+X-Arch-Package-Description=A cross-platform ANSI drawing program, featuring network
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/tundradraw/
+X-Arch-Package-Votes=1

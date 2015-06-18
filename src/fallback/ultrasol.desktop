@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Ultrasol
+GenericName=Solitaire game
+Comment=A collection of nearly 400 different solitaire or patience games
+Icon=/usr/share/pixmaps/ultrasol.png
+TryExec=/usr/bin/ultrasol
+Exec=ultrasol
+X-DCOP-ServiceType=Multi
+Categories=Game;CardGame;KDE;Qt;
+X-KDE-StartupNotify=true
+X-AppInstall-Package=ultrasol
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=ultrasol 1.0.2-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ultrasol
+X-Arch-Package-Version=1.0.2-3
+X-Arch-Package-Description=A solitaire game like pysol.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://abe.sourceforge.net
+X-Arch-Package-Votes=2

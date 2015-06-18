@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=HeidiSQL
+GenericName=GUI for managing MySQL and Microsoft SQL databases
+Icon=heidisql
+TryExec=/usr/bin/heidisql
+Exec=heidisql
+Categories=Development;Database;
+X-AppInstall-Package=heidisql
+X-AppInstall-Popcon=22
+X-AppInstall-Section=aur
+X-Arch-Package=heidisql 9.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=heidisql
+X-Arch-Package-Version=9.1-1
+X-Arch-Package-Description=A lightweight GUI for managing MySQL and Microsoft SQL
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.heidisql.com/
+X-Arch-Package-Votes=22

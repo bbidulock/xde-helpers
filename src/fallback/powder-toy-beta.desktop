@@ -1,0 +1,18 @@
+[Desktop Entry]
+Version=38.0
+Type=Application
+Name=Powder Toy Beta version
+Comment=A physics simulation game.
+Icon=powder-toy-beta
+TryExec=/usr/bin/powder-beta
+Exec=/usr/bin/powder-beta
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=powder-toy-beta
+X-AppInstall-Section=aur
+X-Arch-Package=powder-toy-beta 52.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=powder-toy-beta
+X-Arch-Package-Version=52.0-1
+X-Arch-Package-Description=Desktop version of the classic falling sand physics sandbox,simulates air pressure, velocity & heat!
+X-Arch-Package-URL=http://powdertoy.co.uk/

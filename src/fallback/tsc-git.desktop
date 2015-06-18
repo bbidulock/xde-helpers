@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=The Secret Chronicles of Dr. M.
+Comment=Pursue Dr. M. in this two-dimensional platform game
+Comment[de]=In diesem zweidimensionalen Plattformer jagen Sie Dr. M.
+Icon=tsc
+TryExec=/usr/bin/tsc
+Exec=tsc %f
+NoDisplay=true
+Categories=Game;ArcadeGame;
+StartupNotify=true
+X-AppInstall-Package=tsc-git
+X-AppInstall-Section=aur
+X-Arch-Package=tsc-git r1839-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tsc-git
+X-Arch-Package-Version=r1839-1
+X-Arch-Package-Description=Jump'n'run game, fork of SMC
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/Secretchronicles/TSC
+X-Arch-Package-Votes=0
+Aliases=tsc;

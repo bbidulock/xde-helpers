@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Linotte
+GenericName=Linotte
+Comment=A simple programming system in natural langage (French only).
+Icon=linotte.png
+TryExec=/usr/bin/linotte
+Exec=linotte
+Categories=Development;
+X-AppInstall-Package=linotte
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=linotte 1.4.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=linotte
+X-Arch-Package-Version=1.4.0-1
+X-Arch-Package-Description=A simple programming system in natural langage (French only)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://langagelinotte.free.fr/
+X-Arch-Package-Votes=2

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=VisualNetkit
+Comment=Graphical environment that allows to configure and manage a Netkit lab
+Icon=visualnetkit
+TryExec=/usr/bin/visualnetkit-start
+Exec=visualnetkit-start
+Categories=Education;DataVisualization;Qt;
+X-AppInstall-Package=visualnetkit
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=visualnetkit 1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=visualnetkit
+X-Arch-Package-Version=1.0-1
+X-Arch-Package-Description=Graphical environment written in C++ and Qt4 that allows to
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/visual-netkit/
+X-Arch-Package-Votes=1

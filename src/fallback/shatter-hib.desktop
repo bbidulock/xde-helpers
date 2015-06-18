@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Shatter
+GenericName=Brick-Breaking Game
+Comment=Sidhe Interactive
+Icon=shatter
+TryExec=/usr/bin/shatter
+Exec=/usr/bin/shatter
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=shatter-hib
+X-AppInstall-Popcon=16
+X-AppInstall-Section=aur
+X-Arch-Package=shatter-hib 1.0.20130609-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=shatter-hib
+X-Arch-Package-Version=1.0.20130609-1
+X-Arch-Package-Description=A retro-inspired brick-breaking game with unique twists
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.shattergame.com/
+X-Arch-Package-Votes=16

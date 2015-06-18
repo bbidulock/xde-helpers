@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=urxvt (client)
+Comment=An unicode capable rxvt clone client for urxvtd
+Icon=utilities-terminal
+TryExec=/usr/bin/urxvtc
+Exec=urxvtc
+NoDisplay=true
+Categories=System;TerminalEmulator;
+X-AppInstall-Package=rxvt-unicode-pixbuf
+X-AppInstall-Popcon=12
+X-AppInstall-Section=aur
+X-Arch-Package=rxvt-unicode-pixbuf 9.21-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rxvt-unicode-pixbuf
+X-Arch-Package-Version=9.21-2
+X-Arch-Package-Description=urxvt with pixbuf (custom icons, custom background) enabled
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://software.schmorp.de/pkg/rxvt-unicode.html
+X-Arch-Package-Votes=12
+Aliases=urxvtc;

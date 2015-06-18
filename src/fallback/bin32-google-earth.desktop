@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Google Earth
+GenericName=3D planet viewer
+Comment=Explore, search and discover the planet
+Icon=/usr/share/pixmaps/googleearth-icon.png
+TryExec=/usr/bin/googleearth
+Exec=/usr/bin/googleearth %f
+NoDisplay=true
+Categories=Network;
+MimeType=application/vnd.google-earth.kml+xml;application/vnd.google-earth.kmz;application/earthviewer;application/keyhole;
+X-AppInstall-Package=bin32-google-earth
+X-AppInstall-Section=aur
+X-Arch-Package=bin32-google-earth 6.0.3.2197-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bin32-google-earth
+X-Arch-Package-Version=6.0.3.2197-1
+X-Arch-Package-Description=32 bits binaries of google-earth for Arch64
+X-Arch-Package-URL=http://earth.google.com
+Aliases=googleearth;

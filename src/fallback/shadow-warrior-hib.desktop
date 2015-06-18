@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Shadow Warrior
+GenericName=Shadow Warrior
+Comment=A bold reimagining of the 3D Realms cult classic shooter.
+Icon=shadow-warrior
+TryExec=/usr/bin/shadow-warrior
+Exec=shadow-warrior
+Categories=Application;AudioVideo;Game;
+StartupNotify=true
+X-AppInstall-Package=shadow-warrior-hib
+X-AppInstall-Section=aur
+X-Arch-Package=shadow-warrior-hib 1428602700-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=shadow-warrior-hib
+X-Arch-Package-Version=1428602700-1
+X-Arch-Package-Description=Shadow Warrior is a bold reimagining of the 3D Realms cult
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.redbarrelsgames.com/
+X-Arch-Package-Votes=0

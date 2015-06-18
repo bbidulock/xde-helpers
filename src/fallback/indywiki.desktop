@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Indywiki
+GenericName=Wikipedia Frontend
+Comment=Wikipedia Frontend
+Icon=/usr/share/indywiki/wikipedia.png
+TryExec=/usr/bin/indywiki
+Exec=indywiki
+Categories=Network;
+X-AppInstall-Package=indywiki
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=indywiki 0.9.9.1-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=indywiki
+X-Arch-Package-Version=0.9.9.1-3
+X-Arch-Package-Description=An application for visually browsing Wikipedia.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://indywiki.sourceforge.net/
+X-Arch-Package-Votes=5

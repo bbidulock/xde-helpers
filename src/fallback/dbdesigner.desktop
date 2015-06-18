@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=DBDesigner4
+Comment=fabFORCE DBDesigner 4
+Icon=dbdesigner
+TryExec=/usr/bin/dbdesigner
+Exec=dbdesigner
+X-AppInstall-Package=dbdesigner
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=dbdesigner 4.0.5.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dbdesigner
+X-Arch-Package-Version=4.0.5.4-1
+X-Arch-Package-Description=fabFORCE's visual database design system
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.fabforce.net/dbdesigner4/index.php
+X-Arch-Package-Votes=8

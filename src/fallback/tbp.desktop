@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=The Babylon Project
+GenericName=tbp
+Icon=/usr/share/pixmaps/tbp.png
+TryExec=/usr/bin/tbp
+Exec=tbp
+Categories=Application;Game;
+X-AppInstall-Package=tbp
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=tbp 3.4b-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tbp
+X-Arch-Package-Version=3.4b-2
+X-Arch-Package-Description=The Babylon Project is a group of dedicated individuals who
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://babylon.hard-light.net/
+X-Arch-Package-Votes=9

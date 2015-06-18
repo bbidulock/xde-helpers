@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=GiftedMotion
+GenericName=Java-based GIF maker
+Comment=Java-based GIF maker
+Icon=/usr/share/icons/hicolor/scalable/apps/giftedmotion.svg
+TryExec=/usr/bin/giftedmotion
+Exec=giftedmotion
+Categories=Graphics;
+X-KDE-StartupNotify=true
+X-AppInstall-Package=giftedmotion
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=giftedmotion 1.23-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=giftedmotion
+X-Arch-Package-Version=1.23-1
+X-Arch-Package-Description=Java based GIF maker
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.onyxbits.de/giftedmotion
+X-Arch-Package-Votes=4

@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=areida
+Name[es_AR]=Areida
+Comment=Areida Open Source is an application intended for web browsing.
+Icon=/usr/share/pixmaps/areida-desktop.png
+TryExec=/usr/bin/areida
+Exec=/usr/bin/areida
+NoDisplay=true
+Categories=Network;
+StartupNotify=true
+X-AppInstall-Package=areida-svn
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=areida-svn 24-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=areida-svn
+X-Arch-Package-Version=24-1
+X-Arch-Package-Description=Areida Open Source is an application intended for web
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ayortan.uphero.com/
+X-Arch-Package-Votes=2
+Aliases=Areida;

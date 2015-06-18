@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Mangoquest
+GenericName=Mangoquest
+Comment=1st person view pacman
+TryExec=/usr/bin/mangoquest
+Exec=/usr/bin/mangoquest
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=mangoquest
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=mangoquest 0.6.4-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mangoquest
+X-Arch-Package-Version=0.6.4-2
+X-Arch-Package-Description=1st person view pacman
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://sourceforge.net/projects/mangoquest/
+X-Arch-Package-Votes=10

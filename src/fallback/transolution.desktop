@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Transolution
+GenericName=xliffeditor
+Comment=An Open Source Translation Suite
+Comment[cs]=Open source CAT program
+Icon=transolution
+TryExec=/usr/bin/xliffeditor.py
+Exec=xliffeditor.py
+Categories=Development;Translation;
+X-AppInstall-Package=transolution
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=transolution 0_4b8-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=transolution
+X-Arch-Package-Version=0_4b8-1
+X-Arch-Package-Description=Computer Aided Translation (CAT) suite supporting the XLIFF
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/eviltrans/
+X-Arch-Package-Votes=2

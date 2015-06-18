@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Uplink
+Comment=Futuristic computer crime game
+Icon=/opt/uplink/uplink.png
+TryExec=/usr/bin/uplink
+Exec=/usr/bin/uplink
+NoDisplay=true
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=uplink-hib
+X-AppInstall-Popcon=18
+X-AppInstall-Section=aur
+X-Arch-Package=uplink-hib 1.6_1-7
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=uplink-hib
+X-Arch-Package-Version=1.6_1-7
+X-Arch-Package-Description=A futuristic computer crime game (requires uplink from Humble
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.introversion.co.uk/uplink
+X-Arch-Package-Votes=18
+Aliases=uplink;

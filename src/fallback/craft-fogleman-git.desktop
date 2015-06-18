@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Craft
+GenericName=Multiplayer sandbox game
+Icon=craft_icon
+TryExec=/usr/bin/craft
+Exec=craft
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=craft-fogleman-git
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=craft-fogleman-git 736.fe3e7b3-6
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=craft-fogleman-git
+X-Arch-Package-Version=736.fe3e7b3-6
+X-Arch-Package-Description=A Minecraft clone in C and Python with multiplayer support
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.michaelfogleman.com/craft/
+X-Arch-Package-Votes=4
+Aliases=craft;

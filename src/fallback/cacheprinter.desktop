@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Cacheprinter
+Comment=Search and export geocaches
+Icon=cacheprinter
+TryExec=/usr/bin/cacheprinter
+Exec=cacheprinter
+Categories=Utility;
+StartupNotify=true
+X-AppInstall-Package=cacheprinter
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=cacheprinter 0.4.2e_201227_0850-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cacheprinter
+X-Arch-Package-Version=0.4.2e_201227_0850-1
+X-Arch-Package-Description=utility to download, print or export geocaching.com listings
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://cacheprinter.bubbles.sk/
+X-Arch-Package-Votes=1

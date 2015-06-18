@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=ed2k_hash GUI
+GenericName=ED2k links generator
+GenericName[fr]=Générateur de liens ED2k
+Icon=ed2k_hash.png
+TryExec=/usr/bin/ed2k_hash_gui
+Exec=ed2k_hash_gui
+Categories=Utility;
+X-AppInstall-Package=ed2k_hash
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=ed2k_hash 0.4.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ed2k_hash
+X-Arch-Package-Version=0.4.0-1
+X-Arch-Package-Description=Edonkey 2000 file hash calculator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ed2k-tools.sourceforge.net/ed2k_hash.shtml
+X-Arch-Package-Votes=5

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=ATLauncher
+GenericName=ATLauncher
+Comment=A Minecraft mod pack manager and launcher.
+Icon=/usr/share/pixmaps/atlauncher.png
+TryExec=/usr/bin/atlauncher
+Exec=atlauncher
+Categories=Game;
+X-AppInstall-Package=atlauncher
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=atlauncher latest-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=atlauncher
+X-Arch-Package-Version=latest-3
+X-Arch-Package-Description=The Minecraft mod pack manager and launcher.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.atlauncher.com
+X-Arch-Package-Votes=4

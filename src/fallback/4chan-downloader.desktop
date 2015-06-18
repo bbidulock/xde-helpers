@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=4chan-downloader
+Icon=/usr/share/pixmaps/4chan-downloader.png
+TryExec=/usr/bin/4chan-downloader
+Exec=4chan-downloader
+Categories=Graphics;Network;
+X-AppInstall-Package=4chan-downloader
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=4chan-downloader 1.7.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=4chan-downloader
+X-Arch-Package-Version=1.7.0-1
+X-Arch-Package-Description=A tool to download images from 4chan, 2chan and more!
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/fourchan-dl/
+X-Arch-Package-Votes=3

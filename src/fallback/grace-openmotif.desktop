@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Grace
+Comment=An application for 2D plotting
+Icon=grace
+TryExec=/usr/bin/xmgrace
+Exec=xmgrace %f
+NoDisplay=true
+Hidden=true
+Categories=Education;Science;Math;Motif;
+MimeType=application/x-grace;
+X-AppInstall-Package=grace-openmotif
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=grace-openmotif 5.1.25-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=grace-openmotif
+X-Arch-Package-Version=5.1.25-1
+X-Arch-Package-Description=2D plotting tool
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://plasma-gate.weizmann.ac.il/Grace/
+X-Arch-Package-Votes=4
+Aliases=grace;

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=pdfnup-gui
+Comment=Rearranging PDF files
+Icon=pdfnup
+TryExec=/usr/bin/pdfnup-gui
+Exec=pdfnup-gui
+Categories=Office;
+StartupNotify=false
+X-AppInstall-Package=pdfnup-gui
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=pdfnup-gui 1.0.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pdfnup-gui
+X-Arch-Package-Version=1.0.2-2
+X-Arch-Package-Description=A Qt frontend GUI for the pdfnup
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://qt-apps.org/content/show.php/pdfnup-gui?content=134874.
+X-Arch-Package-Votes=7

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=SharpGMad
+Comment=SharpGMad is a tool used to manipulate Garry's Mod workshop addon packages (.gma files).
+Icon=sharpgmad
+TryExec=/usr/bin/sharpgmad
+Exec=sharpgmad
+Categories=Game;Utility;
+StartupNotify=false
+X-AppInstall-Package=sharpgmad
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=sharpgmad 1.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sharpgmad
+X-Arch-Package-Version=1.2-2
+X-Arch-Package-Description=SharpGMad is a tool used to manipulate Garry's Mod workshop
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/whisperity/SharpGMad
+X-Arch-Package-Votes=2

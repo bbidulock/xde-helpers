@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Proteus
+GenericName=Exploration Game
+Comment=Ed Key & David Kanaga
+Icon=proteus
+TryExec=/usr/bin/proteus
+Exec=/usr/bin/proteus
+Categories=Game;
+X-AppInstall-Package=proteus-hib
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=proteus-hib 1.2+h20140516-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=proteus-hib
+X-Arch-Package-Version=1.2+h20140516-1
+X-Arch-Package-Description=An audio-visual exploration game (Humble Bundle version)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.visitproteus.com/
+X-Arch-Package-Votes=10

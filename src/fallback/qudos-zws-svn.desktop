@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=QuDos
+Comment=Enhanced Quake 2 engine
+Icon=qudos
+TryExec=/usr/bin/qudos
+Exec=qudos
+NoDisplay=true
+Categories=Game;ActionGame;
+X-AppInstall-Package=qudos-zws-svn
+X-AppInstall-Section=aur
+X-Arch-Package=qudos-zws-svn 20121005-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qudos-zws-svn
+X-Arch-Package-Version=20121005-1
+X-Arch-Package-Description=Enhanced Quake 2 engine, forked by ZwS, with yamagi's fixes, and some minor patches to prevent libjpeg and zlib compilling errors. svn version
+X-Arch-Package-URL=https://github.com/ZwS/qudos
+Aliases=qudos;

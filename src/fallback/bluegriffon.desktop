@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Bluegriffon
+Comment=The next-generation Web Editor
+Icon=bluegriffon-icon
+TryExec=/usr/bin/bluegriffon
+Exec=bluegriffon %u
+MultipleArgs=false
+Categories=Application;Development;
+MimeType=text/html;
+StartupNotify=false
+X-AppInstall-Package=bluegriffon
+X-AppInstall-Section=community
+X-Arch-Package=bluegriffon 1.7.2-1
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=bluegriffon
+X-Arch-Package-Version=1.7.2-3
+X-Arch-Package-Description=The next-generation Web Editor based on the rendering engine of Firefox
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://bluegriffon.org/

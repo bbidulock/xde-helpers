@@ -1,0 +1,23 @@
+[Desktop Entry]
+Version=1.5.1
+Type=Application
+Name=VkAudioSaver
+Comment=A free tool for searching, listening & downloading the music from social network VK.COM
+Comment[ru_RU]=Бесплатная программа для прослушивания и скачивания музыки ВКонтакте
+Comment[uk_UA]=Безкоштовна програма для прослуховування і завантаження музики ВКонтакті
+Icon=vkaudiosaver
+TryExec=/usr/bin/vkaudiosaver
+Exec=/usr/bin/vkaudiosaver
+Categories=AudioVideo;Audio;Network;
+StartupNotify=true
+X-AppInstall-Package=vkaudiosaver
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=vkaudiosaver 1.5.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=vkaudiosaver
+X-Arch-Package-Version=1.5.1-2
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=network
+X-Arch-Package-URL=http://vkaudiosaver.ru/
+X-Arch-Package-Votes=9

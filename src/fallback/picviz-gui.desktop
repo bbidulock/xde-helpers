@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=PicViz
+GenericName=Parallel coordinates plotter
+X-GNOME-FullName=PicViz Graphical User Interface
+TryExec=/usr/bin/picviz-gui
+Exec=picviz-gui
+Categories=Education;DataVisualization;
+StartupNotify=false
+X-AppInstall-Package=picviz-gui
+X-AppInstall-Section=aur
+X-Arch-Package=picviz-gui 0.7-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=picviz-gui
+X-Arch-Package-Version=0.7-3
+X-Arch-Package-Description=A parallel coordinates plotter which enables easy scripting
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.wallinfire.net/picviz/
+X-Arch-Package-Votes=0

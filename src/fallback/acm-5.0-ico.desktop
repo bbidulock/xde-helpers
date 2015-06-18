@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=ACM-5.0-ico
+Comment=A fork of the ACM flight simulator
+Icon=acm-5.0-ico
+TryExec=/usr/bin/acm-5.0-ico.tk
+Exec=acm-5.0-ico.tk
+Categories=Game;Simulation;
+X-AppInstall-Package=acm-5.0-ico
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=acm-5.0-ico 20100109-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=acm-5.0-ico
+X-Arch-Package-Version=20100109-2
+X-Arch-Package-Description=A fork of the ACM flight simulator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.icosaedro.it/acm/download.html
+X-Arch-Package-Votes=2

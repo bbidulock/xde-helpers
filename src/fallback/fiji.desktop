@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Fiji
+GenericName=Fiji Is Just ImageJ
+X-GNOME-FullName=Fiji Is Just ImageJ
+Comment=Scientific Image Analysis
+Icon=/opt/fiji/images/icon.png
+TryExec=/usr/bin/'ImageJ-linux
+Exec='ImageJ-linux %f'
+Categories=Graphics;Science;ImageProcessing;
+MimeType=image/*;
+StartupNotify=true
+StartupWMClass=net-imagej-launcher-ClassLauncher
+X-AppInstall-Package=fiji-binary
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package=fiji-binary 20141125-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fiji-binary
+X-Arch-Package-Version=20141125-1
+X-Arch-Package-Description=ImageJ distribution with a lot of plugins for scientific
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://fiji.sc/
+X-Arch-Package-Votes=11

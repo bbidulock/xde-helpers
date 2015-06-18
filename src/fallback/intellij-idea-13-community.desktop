@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=IntelliJ IDEA 13 Community Edition
+Comment=Intelligent Java IDE
+Icon=intellij-idea-13-community
+TryExec=/usr/bin/intellij-idea-13-community
+Exec=intellij-idea-13-community %u
+Categories=Development;IDE;
+X-AppInstall-Package=intellij-idea-13-community
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=intellij-idea-13-community 13.1.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=intellij-idea-13-community
+X-Arch-Package-Version=13.1.5-1
+X-Arch-Package-Description=An intelligent IDE for Java, Groovy and other programming
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.jetbrains.com/idea/
+X-Arch-Package-Votes=1

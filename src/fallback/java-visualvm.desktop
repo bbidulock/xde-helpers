@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Java VisualVM
+GenericName=Java Monitoring and Performance Monitoring Tool
+GenericName[cs]=Nástroj pro monitorování a sledování výkonu Java aplikací
+Icon=java
+TryExec=/opt/java/bin/jvisualvm
+Exec=/opt/java/bin/jvisualvm
+Categories=Development;Java;
+StartupNotify=true
+X-AppInstall-Package=jdk5
+X-AppInstall-Section=aur
+X-Arch-Package=jdk5 5.0u22-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jdk5
+X-Arch-Package-Version=5.0u22-1
+X-Arch-Package-Description=Sun's Java Development Kit
+X-Arch-Package-URL=http://java.sun.com

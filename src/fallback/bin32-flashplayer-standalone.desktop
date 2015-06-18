@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Adobe Flash Player
+Comment=Flash Movie Player
+Icon=flash
+TryExec=/usr/bin/flashplayer
+Exec=flashplayer
+NoDisplay=true
+Categories=Application;AudioVideo;Audio;Video;Player;GTK;
+MimeType=application/x-shockwave-flash;
+X-AppInstall-Package=bin32-
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=bin32-flashplayer-standalone 11.2.202.460-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bin32-
+X-Arch-Package-Version=11.2.202.460-1
+X-Arch-Package-Description=Macromedia standalone flash player (nonfree)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.adobe.com/support/flashplayer/downloads.html
+X-Arch-Package-Votes=10
+Aliases=flashplayer;

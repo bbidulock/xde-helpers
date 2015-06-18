@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Java Monitoring and Management Console
+Icon=sun-java
+TryExec=/usr/bin/jconsole
+Exec=jconsole
+NoDisplay=true
+Categories=Development;Java;
+StartupNotify=true
+X-AppInstall-Package=jdk8-rasp-pi
+X-AppInstall-Section=aur
+X-Arch-Package=jdk8-rasp-pi 8.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jdk8-rasp-pi
+X-Arch-Package-Version=8.6-1
+X-Arch-Package-Description=The Java Development Kit, designed to be installed on Raspberry PI
+X-Arch-Package-URL=http://www.oracle.com/technetwork/java/javase/downloads/jdk8-arm-downloads-2187472.html
+Aliases=java-monitoring-and-management-console;

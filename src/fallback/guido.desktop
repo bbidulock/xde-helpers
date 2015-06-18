@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Guido Editor
+Comment=Guido Score Editor
+Icon=guido
+TryExec=/usr/bin/guidoeditor
+Exec=guidoeditor
+NoDisplay=true
+Categories=Application;AudioVideo;Multimedia;
+X-AppInstall-Package=guido
+X-AppInstall-Section=aur
+X-Arch-Package=guido 1.56-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=guido
+X-Arch-Package-Version=1.56-1
+X-Arch-Package-Description=A formal language for score level music representation and a
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/guidolib
+X-Arch-Package-Votes=0
+Aliases=guidoeditor;

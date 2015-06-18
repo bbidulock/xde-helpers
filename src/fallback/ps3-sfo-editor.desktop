@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=PS3 SFO Editor
+Comment=Linux GUI to view and edit PS3's PARAM.SFO file
+Comment[fr]=GUI Linux pour afficher et modifier le fichier PS3 PARAM.SFO
+Icon=ps3-sfo-editor
+TryExec=/usr/bin/ps3-sfo-editor
+Exec=ps3-sfo-editor
+Categories=Utility;Games;
+StartupNotify=true
+X-AppInstall-Package=ps3-sfo-editor
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=ps3-sfo-editor 1.0.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ps3-sfo-editor
+X-Arch-Package-Version=1.0.0-2
+X-Arch-Package-Description=Linux GUI to view and edit PS3's PARAM.SFO files
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.psp-cheats.it/redsquirrel/
+X-Arch-Package-Votes=6

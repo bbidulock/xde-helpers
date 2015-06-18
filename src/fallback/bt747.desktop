@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=BT747
+GenericName=GPS Tool
+GenericName[hu]=GPS eszköz
+X-GNOME-FullName=BT747 GPS Tool
+X-GNOME-FullName[hu]=BT747 GPS eszköz
+Comment=The swiss army knife for MTK loggers
+Comment[hu]=A svájcibicska MTK rögzítőkhöz
+Icon=bt747
+TryExec=/usr/bin/bt747
+Exec=bt747
+Categories=Utility;Java;Map;
+X-AppInstall-Package=bt747
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=bt747 2.1.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bt747
+X-Arch-Package-Version=2.1.3-1
+X-Arch-Package-Description=The swiss army knife for MTK loggers
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://bt747.org/
+X-Arch-Package-Votes=3

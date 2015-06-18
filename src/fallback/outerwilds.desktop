@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Outer Wilds
+Comment=A space exploration game in a lime-looping universe
+TryExec=/usr/bin/outerwilds
+Exec=outerwilds
+Categories=Game;ActionGame;AdventureGame;
+StartupNotify=true
+X-AppInstall-Package=outerwilds
+X-AppInstall-Section=aur
+X-Arch-Package=outerwilds Alpha_1_2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=outerwilds
+X-Arch-Package-Version=Alpha_1_2-1
+X-Arch-Package-Description=A space exploration game in a time-looping universe
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://outerwilds.com/
+X-Arch-Package-Votes=0

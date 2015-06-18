@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Arduino
+GenericName=Arduino IDE
+Comment=The open-source Arduino environment
+Icon=arduino
+TryExec=/usr/bin/arduino
+Exec=arduino
+NoDisplay=true
+Categories=Application;Development;IDE;KDE;Qt;
+X-AppInstall-Package=arduino-beta
+X-AppInstall-Popcon=18
+X-AppInstall-Section=aur
+X-Arch-Package=arduino-beta 1.5.8-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=arduino-beta
+X-Arch-Package-Version=1.5.8-4
+X-Arch-Package-Description=Arduino SDK Beta release
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://arduino.cc/en/Main/Software
+X-Arch-Package-Votes=18
+Aliases=arduino;

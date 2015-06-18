@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=GURPS Character Sheet
+Icon=gcs
+TryExec=/usr/bin/gcs
+Exec=/usr/bin/gcs %F
+Categories=Game;Utility;RolePlaying;
+Keywords=Roleplaying;
+X-AppInstall-Package=gcs
+X-AppInstall-Section=aur
+X-Arch-Package=gcs 4.1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gcs
+X-Arch-Package-Version=4.1.0-1
+X-Arch-Package-Description=WYSIWYG editor for building character sheets for GURPS 4th
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gurpscharactersheet.com
+X-Arch-Package-Votes=0

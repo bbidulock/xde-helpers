@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=NeoRouter Free
+GenericName=VPN Network Client
+Icon=neorouter-client-free.png
+TryExec=/usr/bin/nrclient.sh
+Exec=nrclient.sh
+Categories=Network;
+StartupNotify=false
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=neorouter-client-free
+X-AppInstall-Section=aur
+X-Arch-Package=neorouter-client-free 2.1.1.4300-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=neorouter-client-free
+X-Arch-Package-Version=2.1.1.4300-1
+X-Arch-Package-Description=NeoRouter is a cross-platform zero-configuration VPN solution
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.neorouter.com/
+X-Arch-Package-Votes=0

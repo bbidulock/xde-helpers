@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Zoiper
+GenericName=SIP/IAX2 softphone
+Comment=SIP/IAX2 softphone
+Icon=zoiper
+TryExec=/usr/bin/zoiper
+Exec=zoiper
+Categories=Network;Telephony;
+Keywords=VoIP;
+StartupNotify=true
+X-AppInstall-Package=zoiper
+X-AppInstall-Popcon=41
+X-AppInstall-Section=aur
+X-Arch-Package=zoiper 3.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zoiper
+X-Arch-Package-Version=3.3-1
+X-Arch-Package-Description=An IAX and SIP VoIP softphone
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.zoiper.com/
+X-Arch-Package-Votes=41

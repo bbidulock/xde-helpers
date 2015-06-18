@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Bombermaaan
+Comment=A classic Bomberman-like game with multiplayer support
+Icon=bombermaaan
+TryExec=/usr/bin/bombermaaan
+Exec=bombermaaan
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=bombermaaan
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=bombermaaan 1.4.0.627-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bombermaaan
+X-Arch-Package-Version=1.4.0.627-5
+X-Arch-Package-Description=A classic Bomberman-like game with multiplayer support
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://bombermaaan.sourceforge.net
+X-Arch-Package-Votes=8

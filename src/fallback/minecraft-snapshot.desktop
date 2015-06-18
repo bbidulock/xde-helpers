@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Minecraft Snapshot
+GenericName=Minecraft Snapshot
+Comment=A game about placing blocks while running from skeletons. (Snashot version)
+Icon=/usr/share/pixmaps/minecraft-snapshot.png
+TryExec=/usr/bin/minecraft-snapshot
+Exec=minecraft-snapshot
+Categories=Game;
+X-AppInstall-Package=minecraft-snapshot
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=minecraft-snapshot latest-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=minecraft-snapshot
+X-Arch-Package-Version=latest-2
+X-Arch-Package-Description=Minecraft is a game about placing blocks while running from
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.minecraft.net/
+X-Arch-Package-Votes=2

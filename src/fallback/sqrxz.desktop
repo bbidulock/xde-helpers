@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=sqrxz
+Comment=A fast paced jump'n'run which will please the hardcore gamer amongst you
+Icon=sqrxz
+TryExec=/usr/bin/sqrxz
+Exec=sqrxz
+Categories=Game;
+X-AppInstall-Package=sqrxz
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=sqrxz 0.996a-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sqrxz
+X-Arch-Package-Version=0.996a-3
+X-Arch-Package-Description=A fast paced jump'n'run which will please the hardcore gamer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sqrxz.de
+X-Arch-Package-Votes=3

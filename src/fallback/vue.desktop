@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=vue
+Comment=visual understanding environment
+Icon=/usr/share/pixmaps/vue.png
+TryExec=/usr/bin/vue
+Exec=vue
+X-DCOP-ServiceType=none
+Categories=Application;Office;
+MimeType=text/plain;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=vue
+X-AppInstall-Popcon=19
+X-AppInstall-Section=aur
+X-Arch-Package=vue 3.2.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=vue
+X-Arch-Package-Version=3.2.2-1
+X-Arch-Package-Description=Visual Understanding Environment (VUE) is a tool for managing
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://vue.tufts.edu/index.cfm
+X-Arch-Package-Votes=19

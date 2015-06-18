@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Jampa
+Comment=A java front-end for mplayer
+Icon=/usr/share/jampa-0.3.0/icon.xpm
+TryExec=/usr/bin/jampa
+Exec=/usr/bin/jampa
+Categories=Application;AudioVideo;Audio;
+StartupNotify=true
+X-AppInstall-Package=jampa
+X-AppInstall-Section=aur
+X-Arch-Package=jampa 0.3.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jampa
+X-Arch-Package-Version=0.3.0-1
+X-Arch-Package-Description=A java music player
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/jampa/
+X-Arch-Package-Votes=0

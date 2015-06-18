@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=gootool
+Comment=World of Goo mod manager
+TryExec=/usr/bin/gootool
+Exec=gootool %F
+Categories=Game;Utility;
+MimeType=application/x-goomod;
+X-AppInstall-Package=gootool
+X-AppInstall-Popcon=14
+X-AppInstall-Section=aur
+X-Arch-Package=gootool 1.0.3.441-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gootool
+X-Arch-Package-Version=1.0.3.441-4
+X-Arch-Package-Description=World of Goo hacking utility (worldofgoo)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://goofans.com/download/utility/gootool
+X-Arch-Package-Votes=14

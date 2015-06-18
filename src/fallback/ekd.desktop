@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Ekd
+GenericName=Ekd
+Comment=Pictures and video post-production software.
+Icon=/usr/share/ekd/icone_ekd.png
+TryExec=/usr/bin/ekd
+Exec=/usr/bin/ekd
+Terminal=true
+Categories=AudioVideo;Audio;AudioVideoEditing;
+X-AppInstall-Package=ekd
+X-AppInstall-Popcon=19
+X-AppInstall-Section=aur
+X-Arch-Package=ekd 3.1.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ekd
+X-Arch-Package-Version=3.1.4-1
+X-Arch-Package-Description=Pictures and video post-production software
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ekd.tuxfamily.org/
+X-Arch-Package-Votes=19

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Balsamiq Mockups
+Comment=An application for creating mockups
+Icon=balsamiqmockups
+TryExec=/usr/bin/balsamiqmockups
+Exec=/usr/bin/balsamiqmockups %F
+Categories=Graphics;2DGraphics;RasterGraphics;GTK;
+MimeType=application/vnd.balsamiq.bmml+xml;
+Path=/opt/airapps/balsamiqmockups
+StartupNotify=true
+X-AppInstall-Package=balsamiqmockups
+X-AppInstall-Popcon=22
+X-AppInstall-Section=aur
+X-Arch-Package=balsamiqmockups 2.2.24-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=balsamiqmockups
+X-Arch-Package-Version=2.2.24-4
+X-Arch-Package-Description=The Adobe Air based Mockup client. Not free or open source,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://balsamiq.com/products/mockups
+X-Arch-Package-Votes=22

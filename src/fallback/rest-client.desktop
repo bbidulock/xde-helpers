@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=3.4.2
+Type=Application
+Name=RESTClient
+Comment=Java application to test HTTP/RESTful webservices
+Icon=rest-client
+TryExec=/usr/bin/rest-client
+Exec=rest-client
+Categories=Development;Java;
+X-AppInstall-Package=rest-client
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=rest-client 3.4.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rest-client
+X-Arch-Package-Version=3.4.2-1
+X-Arch-Package-Description=Java application to test HTTP/RESTful webservices.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/wiztools/rest-client
+X-Arch-Package-Votes=2

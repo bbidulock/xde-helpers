@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=YouTube2Music
+GenericName=youtube2music
+Comment=Get music from YouTube videos
+Icon=youtube2music_icon.png
+TryExec=/usr/bin/youtube2music
+Exec=/usr/bin/youtube2music
+Categories=AudioVideo;
+StartupNotify=true
+X-AppInstall-Package=youtube2music
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=youtube2music 0.6-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=youtube2music
+X-Arch-Package-Version=0.6-2
+X-Arch-Package-Description=A video downloader tool
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://youtube2music.sourceforge.net
+X-Arch-Package-Votes=10

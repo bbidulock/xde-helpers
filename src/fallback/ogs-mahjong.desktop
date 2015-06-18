@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=OGS Mahjong
+GenericName=OGS Mahjong
+Comment=Simple 3D mahjong solitaire.
+Icon=/usr/share/pixmaps/ogs-mahjong.png
+TryExec=/usr/bin/ogs-mahjong
+Exec=ogs-mahjong
+Categories=Game;
+X-AppInstall-Package=ogs-mahjong-bin
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=ogs-mahjong-bin 1.1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ogs-mahjong-bin
+X-Arch-Package-Version=1.1.0-1
+X-Arch-Package-Description=Simple mahjong solitaire with 3D and relaxing soundtrack.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.opengamestudio.org
+X-Arch-Package-Votes=7

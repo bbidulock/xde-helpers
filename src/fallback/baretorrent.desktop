@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Baretorrent
+GenericName=Bittorrent Client
+Icon=/usr/share/pixmaps/baretorrent.png
+TryExec=/usr/bin/baretorrent
+Exec=baretorrent
+Categories=Network;
+X-AppInstall-Package=baretorrent
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=baretorrent 0.4.4-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=baretorrent
+X-Arch-Package-Version=0.4.4-2
+X-Arch-Package-Description=Portable bittorrent client with extensions based on
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://launchpad.net/baretorrent
+X-Arch-Package-Votes=4

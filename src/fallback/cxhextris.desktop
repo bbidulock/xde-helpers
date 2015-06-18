@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=CXHextris
+Comment=An XTetris-like game with hexagons instead of squares (color version)
+Icon=cxhextris
+TryExec=/usr/bin/xhextris
+Exec=xhextris
+Categories=Game;BlocksGame;
+X-AppInstall-Package=cxhextris
+X-AppInstall-Section=aur
+X-Arch-Package=cxhextris 1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cxhextris
+X-Arch-Package-Version=1.0-1
+X-Arch-Package-Description=An XTetris-like game with hexagons instead of squares (color
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.happypenguin.org/show?CXHextris
+X-Arch-Package-Votes=0

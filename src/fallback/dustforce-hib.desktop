@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Dustforce DX
+GenericName=2D Action Platformer
+Comment=Hitbox Team
+Icon=dustforce
+TryExec=/usr/bin/dustforce
+Exec=/usr/bin/dustforce
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=dustforce-hib
+X-AppInstall-Popcon=16
+X-AppInstall-Section=aur
+X-Arch-Package=dustforce-hib 1.0+20141222-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dustforce-hib
+X-Arch-Package-Version=1.0+20141222-1
+X-Arch-Package-Description=A fast-paced 2D action platformer (Humble Bundle version)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://dustforce.com/
+X-Arch-Package-Votes=16

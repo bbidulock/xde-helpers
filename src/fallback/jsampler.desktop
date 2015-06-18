@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=JSampler
+Comment=LinuxSampler - Audio sampler (Fantasia Java GUI)
+Icon=jsampler
+TryExec=/usr/bin/jsampler
+Exec=jsampler
+Categories=AudioVideo;Audio;
+X-AppInstall-Package=jsampler
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=jsampler
+X-Arch-Package-Version=0.9-3
+X-Arch-Package-Description=LinuxSampler Java GUI
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/jsampler/

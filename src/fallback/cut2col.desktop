@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=cut2col
+GenericName=utility for converting 2-column to 1-column PDF documents
+TryExec=/usr/bin/cut2col
+Exec=/usr/bin/cut2col
+Categories=Office;
+X-AppInstall-Package=cut2col
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=cut2col 0.34c-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cut2col
+X-Arch-Package-Version=0.34c-1
+X-Arch-Package-Description=utility for converting 2-column to 1-column PDF documents
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.cp.eng.chula.ac.th/~somchai/cut2col/
+X-Arch-Package-Votes=3

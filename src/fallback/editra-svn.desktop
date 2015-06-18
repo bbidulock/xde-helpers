@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Editra
+GenericName=Integrated Development Environment
+Comment=Multi-platform IDE using wxPython
+Icon=editra
+TryExec=/usr/bin/Editra
+Exec=Editra %F
+NoDisplay=true
+Categories=Application;Development;IDE;
+MimeType=text/x-chdr;text/x-csrc;text/x-c++hdr;text/x-c++src;text/x-java;text/x-dsrc;text/x-pascal;text/x-perl;text/x-python;application/x-php;application/x-httpd-php*;application/xml;text/html;text/css;text/x-sql;text/x-diff;
+StartupNotify=true
+X-AppInstall-Package=editra-svn
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package=editra-svn 78328-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=editra-svn
+X-Arch-Package-Version=78328-1
+X-Arch-Package-Description=multi-platform text editor with features that aid in code
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://editra.org/
+X-Arch-Package-Votes=11
+Aliases=editra;

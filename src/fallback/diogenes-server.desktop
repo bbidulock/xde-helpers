@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Diogenes server
+Icon=diogenes
+TryExec=/usr/bin/diogenes-server
+Exec=diogenes-server
+Terminal=true
+Categories=Application;Education;Teaching;
+StartupNotify=true
+X-AppInstall-Package=diogenes
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=diogenes 3.1.6-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=diogenes
+X-Arch-Package-Version=3.1.6-3
+X-Arch-Package-Description=Greek and Latin dictionary and browser of the databases of
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.dur.ac.uk/p.j.heslin/Software/Diogenes/index.php
+X-Arch-Package-Votes=1

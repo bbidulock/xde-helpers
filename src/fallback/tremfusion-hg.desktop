@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=TremFusion
+Comment=Enhanced Tremulous client.
+Icon=tremfusion
+TryExec=/usr/bin/tremfusion
+Exec=tremfusion --quiet
+NoDisplay=true
+Categories=Game;ActionGame;
+X-AppInstall-Package=tremfusion-hg
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=tremfusion-hg 20091030-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tremfusion-hg
+X-Arch-Package-Version=20091030-2
+X-Arch-Package-Description=Community updated Tremulous client (devel)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.tremfusion.net/
+X-Arch-Package-Votes=4
+Aliases=tremfusion;

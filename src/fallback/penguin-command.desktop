@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Penguin-Command
+Comment=Missile Attack game
+Icon=penguin-command
+TryExec=/usr/bin/penguin-command
+Exec=penguin-command
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=penguin-command
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=penguin-command 1.6.11-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=penguin-command
+X-Arch-Package-Version=1.6.11-2
+X-Arch-Package-Description=A clone of the classic Missile Command game with improved
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.linux-games.com/penguin-command/
+X-Arch-Package-Votes=7

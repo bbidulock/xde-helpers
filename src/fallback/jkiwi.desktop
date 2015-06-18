@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=jkiwi
+GenericName=jkiwi
+Comment=Find out how you would look with a different hairstyle, makeup etc
+Icon=jkiwi.png
+TryExec=/usr/bin/jkiwi
+Exec=jkiwi
+Categories=Graphics;Photography;GTK;
+X-AppInstall-Package=jkiwi
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=jkiwi 0.9.5-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jkiwi
+X-Arch-Package-Version=0.9.5-5
+X-Arch-Package-Description=Virtual makeover and hairstyler application
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.jkiwi.com/
+X-Arch-Package-Votes=8

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=mp3DirectCut
+GenericName=fast mp3 audio editor
+Comment=fast and extensive audio editor and recorder for compressed mp3.
+Icon=mp3directcut
+TryExec=/usr/bin/mp3directcut
+Exec=mp3directcut
+Categories=AudioVideo;Audio;AudioVideoEditing;Recorder;
+X-AppInstall-Package=mp3directcut
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=mp3directcut 2.20-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mp3directcut
+X-Arch-Package-Version=2.20-1
+X-Arch-Package-Description=fast audio editor and recorder for mp3 with no need to
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://mpesch3.de1.cc/mp3dc.html
+X-Arch-Package-Votes=1

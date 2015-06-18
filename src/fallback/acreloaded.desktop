@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=AssaultCube Reloaded
+GenericName=Realistic Multiplayer FPS
+Icon=acreloaded
+TryExec=/usr/bin/acreloaded
+Exec=acreloaded
+MultipleArgs=false
+Categories=Game;ActionGame;
+MimeType=text/html;
+StartupNotify=false
+X-AppInstall-Package=assaultcube-reloaded
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package=assaultcube-reloaded 2.6.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=assaultcube-reloaded
+X-Arch-Package-Version=2.6.2-1
+X-Arch-Package-Description=AssaultCube Reloaded
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://acr.victorz.ca
+X-Arch-Package-Votes=11

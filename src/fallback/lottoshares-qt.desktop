@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=LottoShares
+Comment=LottoShares P2P Cryptocurrency
+Comment[fr]=LottoShares, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=LottoShares, eşten eşe kriptografik sanal para birimi
+Icon=/usr/share/pixmaps/lottoshares128.png
+TryExec=/usr/bin/lottoshares-qt
+Exec=/usr/bin/lottoshares-qt
+Categories=Office;
+MimeType=x-scheme-handler/lottoshares;
+X-AppInstall-Package=lottoshares-qt
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=lottoshares-qt 1.0.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lottoshares-qt
+X-Arch-Package-Version=1.0.6-1
+X-Arch-Package-Description=Peer-to-peer network based digital currency (QT)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://lottoshares.org/
+X-Arch-Package-Votes=1

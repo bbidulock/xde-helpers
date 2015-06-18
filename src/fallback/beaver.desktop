@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Beaver
+GenericName=Programmer's Text Editor
+Comment=Beaver's an Early AdVanced EditoR
+Icon=beaver
+TryExec=/usr/bin/beaver
+Exec=beaver %F
+Categories=Application;Development;TextEditor;GTK;
+MimeType=text/plain;application/x-shellscript;text/x-c;text/x-c++;text/x-c++hdr;text/x-c++src;text/x-chdr;text/x-csrc;text/x-java;text/x-makefile;text/x-moc;text/x-pascal;text/x-tcl;text/x-tex;
+StartupNotify=false
+X-AppInstall-Package=beaver
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=beaver
+X-Arch-Package-Version=0.4.1-3
+X-Arch-Package-Description=Beaver is an Early AdVanced EditoR.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://beaver-editor.sourceforge.net/

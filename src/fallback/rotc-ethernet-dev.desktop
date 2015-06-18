@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Revenge Of The Cats: Ethernet
+Icon=rotc-ethernet
+TryExec=/usr/bin/rotc-ethernet
+Exec=rotc-ethernet
+Terminal=False
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=rotc-ethernet-dev
+X-AppInstall-Section=aur
+X-Arch-Package=rotc-ethernet-dev LATEST-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rotc-ethernet-dev
+X-Arch-Package-Version=LATEST-1
+X-Arch-Package-Description=Revenge Of The Cats: Ethernet - A free, independent multiplayer FPS computer game.
+X-Arch-Package-URL=http://ethernet.wasted.ch/
+Aliases=rotc-ethernet;

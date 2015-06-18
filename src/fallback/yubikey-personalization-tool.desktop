@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Yubikey Personalization Tool
+GenericName=Yubikey Personalization Tool
+Comment=Costomize your Yubikey
+Icon=ykpersonalization
+TryExec=/usr/bin/YKPersonalization
+Exec=YKPersonalization
+Categories=System;Utility;Security;
+StartupNotify=true
+X-AppInstall-Package=yubikey-personalization-tool
+X-AppInstall-Section=aur
+X-Arch-Package=yubikey-personalization-tool 3.0.2-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=yubikey-personalization-tool
+X-Arch-Package-Version=3.0.2-4
+X-Arch-Package-Description=Yubico Key Personalization Tool (GUI)
+X-Arch-Package-URL=https://www.yubico.com/personalization-tool

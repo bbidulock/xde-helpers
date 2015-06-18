@@ -1,0 +1,22 @@
+[Desktop Entry]
+Version=4.0
+Type=Application
+Name=xskat
+GenericName=german card game Skat
+GenericName[de]=Kartenspiel Skat
+Icon=/usr/share/icons/xskat
+TryExec=/usr/bin/xskat
+Exec=xskat
+Categories=Game;Cardgame;
+StartupNotify=false
+X-AppInstall-Package=xskat
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=xskat 4.0-7
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xskat
+X-Arch-Package-Version=4.0-7
+X-Arch-Package-Description=The card game Skat as defined by the official Skat Order
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.xskat.de/xskat.html
+X-Arch-Package-Votes=8

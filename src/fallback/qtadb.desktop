@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=0.8.1
+Type=Application
+Name=QtADB
+GenericName=Android manager
+Comment=Your android manager
+Icon=/usr/share/pixmaps/qtadb.png
+TryExec=/usr/bin/qtadb
+Exec=qtadb %f
+Categories=Utility;Qt;
+X-AppInstall-Package=qtadb
+X-AppInstall-Popcon=114
+X-AppInstall-Section=aur
+X-Arch-Package=qtadb 0.8.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qtadb
+X-Arch-Package-Version=0.8.0-2
+X-Arch-Package-Description=GUI for Android SDK/ADB, Android phone manager
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://qtadb.wordpress.com/
+X-Arch-Package-Votes=114

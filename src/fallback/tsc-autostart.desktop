@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Terminal Server Client Autostart
+Comment=Setup and initiate remote connections at login
+Icon=gnome-computer
+TryExec=/usr/bin/tsclient
+Exec=tsclient --autostart
+Categories=Application;Network;
+StartupNotify=true
+X-AppInstall-Package=tsclient
+X-AppInstall-Popcon=26
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tsclient
+X-Arch-Package-Version=0.150-3
+X-Arch-Package-Description=Terminal Server Client [tsclient] is a GTK2 frontend for
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/tsclient
+X-Arch-Package-Votes=26

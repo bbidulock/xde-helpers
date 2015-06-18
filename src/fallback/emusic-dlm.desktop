@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=eMusic DLM
+Name[en_US]=eMusic Download Manager
+GenericName=eMusic DLM
+Comment=eMusic Download Manager for Linux, based on XULRunner.
+Icon=xulrunner48
+TryExec=/usr/bin/emusicdlm
+Exec=emusicdlm
+Categories=AudioVideo;GNOME;GTK;
+X-AppInstall-Package=emusic-dlm
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=emusic-dlm 4.1.4-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=emusic-dlm
+X-Arch-Package-Version=4.1.4-2
+X-Arch-Package-Description=Standalone download utility for eMusic based on Mozilla's
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://www.emusic.com/dlm/download.html
+X-Arch-Package-Votes=5

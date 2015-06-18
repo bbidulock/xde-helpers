@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=TeeWorlds mkrace
+GenericName=Arcade Game
+Comment=is a 2D multiplayer arcade
+Icon=mkrace
+TryExec=/usr/bin/mkrace
+Exec=mkrace
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=None
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=teeworlds-mkrace git-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=None
+X-Arch-Package-Version=git-1
+X-Arch-Package-Description=A 2D multiplayer arcade - mkrace client modification
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://disarmer.ru/mkrace/
+X-Arch-Package-Votes=1

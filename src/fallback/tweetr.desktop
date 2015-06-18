@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=3v4
+Type=Application
+Name=Tweet-r
+Icon=/usr/share/pixmaps/tweetr.png
+TryExec=/usr/bin/tweetr
+Exec=tweetr
+Categories=Network;Applications;
+X-AppInstall-Package=tweetr
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=tweetr 3v4-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tweetr
+X-Arch-Package-Version=3v4-2
+X-Arch-Package-Description=A lightweight Twitter client with direct webcam access.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.tweet-r.com/
+X-Arch-Package-Votes=2

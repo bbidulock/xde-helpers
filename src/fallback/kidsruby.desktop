@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Kids Ruby
+Comment=Application that helps leran ruby programming
+Comment[fi_FI]=Ohjelma ryby ohjelmointikielen oppimiseksi
+Icon=kidsruby
+TryExec=/usr/bin/kidsruby
+Exec=/usr/bin/kidsruby
+Categories=Development;Qt;
+X-AppInstall-Package=kidsruby
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=kidsruby 1.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kidsruby
+X-Arch-Package-Version=1.1-1
+X-Arch-Package-Description=Have fun and make games, or hack your homework using Ruby!
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kidsruby.com/
+X-Arch-Package-Votes=1

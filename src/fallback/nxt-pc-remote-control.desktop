@@ -1,0 +1,23 @@
+[Desktop Entry]
+Version=0.22
+Type=Application
+Name=NXT PC Remote Control
+GenericName=NXT PC Remote Control
+Comment=A easy remote control to handle NXT Robots using bluetooth
+Comment[es]=Control remoto para manejar Robots NXT via bluetooth
+Icon=nxt-pc-remote-control
+TryExec=/usr/bin/nxt-pc-remote-control
+Exec=nxt-pc-remote-control
+Categories=Development;Game;GTK;
+StartupNotify=true
+X-AppInstall-Package=nxt-pc-remote-control
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=nxt-pc-remote-control 35-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nxt-pc-remote-control
+X-Arch-Package-Version=35-1
+X-Arch-Package-Description=Bluetooth remote control to NXT Brick
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://code.google.com/p/nxt-pc-remote-control
+X-Arch-Package-Votes=1

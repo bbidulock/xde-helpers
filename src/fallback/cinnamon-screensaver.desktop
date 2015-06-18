@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=Cinnamon Screensaver
+Comment=Launch screensaver and locker program
+Icon=preferences-desktop-screensaver
+TryExec=/usr/bin/cinnamon-screensaver
+Exec=cinnamon-screensaver
+NoDisplay=true
+OnlyShowIn=GNOME;
+X-GNOME-Autostart-Notify=true
+X-GNOME-Autostart-Phase=Application
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=gnome-screensaver
+X-GNOME-Bugzilla-Component=general
+X-GNOME-Bugzilla-Version=3.6.0
+X-AppInstall-Package=cinnamon-screensaver
+X-AppInstall-Section=community
+X-Arch-Package=cinnamon-screensaver 2.6.3-1
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=cinnamon-screensaver
+X-Arch-Package-Version=2.6.3-1
+X-Arch-Package-Description=Screensaver designed to integrate well with the Cinnamon desktop.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/linuxmint/cinnamon-screensaver
+AutostartCondition=GNOME3 if-session cinnamon

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=PWgui
+Comment=A GUI for PWscf based programs from Quantum-ESPRESSO
+Icon=/usr/share/pwgui/images/pwgui-logo.gif
+TryExec=/usr/share/pwgui/pwgui
+Exec=/usr/share/pwgui/pwgui
+Categories=Science;
+X-AppInstall-Package=pwgui
+X-AppInstall-Section=aur
+X-Arch-Package=pwgui 5.1.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pwgui
+X-Arch-Package-Version=5.1.1-2
+X-Arch-Package-Description=PWgui is a GUI for PWscf based programs from Quantum-ESPRESSO
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www-k3.ijs.si/kokalj/pwgui/
+X-Arch-Package-Votes=0

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=KMenc15
+Comment=An MEncoder front-end
+Icon=kmenc15
+TryExec=/usr/bin/kmenc15
+Exec=kmenc15 %f
+Categories=AudioVideo;Video;AudioVideoEditing;KDE;Qt;
+MimeType=video/avi;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=kmenc15
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=kmenc15 0.04-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kmenc15
+X-Arch-Package-Version=0.04-2
+X-Arch-Package-Description=An advanced KDE/Qt MEncoder frontend.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kmenc15.sourceforge.net/
+X-Arch-Package-Votes=10

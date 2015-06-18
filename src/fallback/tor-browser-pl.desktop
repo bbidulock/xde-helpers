@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Tor-Browser (REPL_LANGUAGE)
+Comment=REPL_COMMENT
+Icon=/usr/share/pixmaps/REPL_NAME.png
+TryExec=/usr/bin/REPL_NAME
+Exec=/usr/bin/REPL_NAME
+Categories=Network;
+X-AppInstall-Package=tor-browser-pl
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=tor-browser-pl 4.5.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tor-browser-pl
+X-Arch-Package-Version=4.5.1-1
+X-Arch-Package-Description=Tor Browser Bundle: Anonymous browsing using firefox and tor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://www.torproject.org/projects/torbrowser.html.en
+X-Arch-Package-Votes=2

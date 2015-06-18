@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Scan Tailor
+Comment=An interactive post-processing tool for scanned pages.
+Icon=/usr/share/icons/hicolor/scalable/apps/scantailor.svg
+TryExec=/usr/bin/scantailor
+Exec=scantailor %u
+NoDisplay=true
+Categories=Graphics;
+MimeType=image/png;image/tif;image/jpeg;
+StartupNotify=true
+X-AppInstall-Package=scantailor-git
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=scantailor-git 20130505-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=scantailor-git
+X-Arch-Package-Version=20130505-1
+X-Arch-Package-Description=Interactive post-processing tool for scanned pages
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://scantailor.sourceforge.net
+X-Arch-Package-Votes=9
+Aliases=scantailor;

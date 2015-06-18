@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Light Table
+Comment=Light Table IDE
+Icon=lighttable
+TryExec=/usr/bin/lighttable
+Exec=lighttable
+NoDisplay=true
+Categories=Development;Utility;TextEditor;
+MimeType=text/plain;
+X-AppInstall-Package=lighttable-git
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=lighttable-git 20140127-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lighttable-git
+X-Arch-Package-Version=20140127-1
+X-Arch-Package-Description=New interactive IDE that lets you modify running programs and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.lighttable.com/
+X-Arch-Package-Votes=13
+Aliases=lighttable;

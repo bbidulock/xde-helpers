@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=LS-PrePost
+Comment=Pre- and post-processor for LS-DYNA
+TryExec=/usr/bin/lsprepost
+Exec=lsprepost
+Categories=Education;Science;3DGraphics;DataVisualization;NumericalAnalysis;Physics;Engineering;
+X-AppInstall-Package=lsprepost
+X-AppInstall-Section=aur
+X-Arch-Package=lsprepost 3.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lsprepost
+X-Arch-Package-Version=3.0-1
+X-Arch-Package-Description=Pre- and post-processor for LS-DYNA
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.lstc.com/lspp
+X-Arch-Package-Votes=0

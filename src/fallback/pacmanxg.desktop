@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=PacmanXG
+GenericName=GUI for pacman and yaourt
+GenericName[ru]=Графическая оболочка для Pacman и Yaourt
+Icon=/usr/share/pixmaps/pacmanxg.png
+TryExec=/usr/bin/xdg-su
+Exec=xdg-su -s -c '/opt/pacmanxg/pacmanxg'
+Categories=Application;Utility;
+StartupNotify=false
+X-AppInstall-Package=pacmanxg-bin
+X-AppInstall-Popcon=24
+X-AppInstall-Section=aur
+X-Arch-Package=pacmanxg-bin 2.21-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pacmanxg-bin
+X-Arch-Package-Version=2.21-1
+X-Arch-Package-Description=Yet another GUI for pacman and yaourt. Not depends either GTK,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://almin-soft.nx0.ru/openiandifree/pacmanxg.html
+X-Arch-Package-Votes=24

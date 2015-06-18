@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=PuTTY
+GenericName=SSH/Telenet/Serial Client
+Comment=A highly configurable ssh/telnet/serial console program
+Icon=putty
+TryExec=/usr/bin/putty
+Exec=putty %u
+NoDisplay=true
+Hidden=true
+Categories=Application;Network;RemoteAccess;GTK;
+X-AppInstall-Package=putty-freedesktop
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=putty-freedesktop 1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=putty-freedesktop
+X-Arch-Package-Version=1-1
+X-Arch-Package-Description=Icon and .desktop file for Putty
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.chiark.greenend.org.uk/~sgtatham/putty/
+X-Arch-Package-Votes=8
+Aliases=putty;

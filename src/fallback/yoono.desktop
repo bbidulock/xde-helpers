@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.6
+Type=Application
+Name=Yoono Desktop
+Icon=yoono
+TryExec=/usr/bin/yoono
+Exec=yoono
+Categories=Application;Network;
+X-AppInstall-Package=yoono
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=yoono 1.8.44-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=yoono
+X-Arch-Package-Version=1.8.44-1
+X-Arch-Package-Description=Allows you to connect to all your social networks and IM
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.yoono.com
+X-Arch-Package-Votes=9

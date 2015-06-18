@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=GQRX SDR
+GenericName=Funcube SDR Software
+Comment=Controller application for the Funcube Dongle and operating application.
+Icon=gqrx
+TryExec=/usr/bin/gqrx
+Exec=gqrx
+NoDisplay=true
+Categories=AudioVideo;Audio;HamRadio;
+StartupNotify=false
+X-AppInstall-Package=gqrx-git
+X-AppInstall-Popcon=21
+X-AppInstall-Section=aur
+X-Arch-Package=gqrx-git 20130809-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gqrx-git
+X-Arch-Package-Version=20130809-1
+X-Arch-Package-Description=SDR receiver for Funcube Dongle, RTL-SDR, USRP and OsmoSDR
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.oz9aec.net/index.php/gnu-radio/gqrx-sdr
+X-Arch-Package-Votes=21
+Aliases=gqrx;

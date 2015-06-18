@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=MultiMC5-kopsy
+GenericName=MultiMC5-kopsy
+Comment=MultiMC5-kopsy
+Icon=multimc5-kopsy
+TryExec=/usr/bin/multimc5-kopsy
+Exec=multimc5-kopsy
+NoDisplay=true
+Categories=Application;Game;
+X-AppInstall-Package=multimc5-kopsy-git
+X-AppInstall-Section=aur
+X-Arch-Package=multimc5-kopsy-git 666001-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=multimc5-kopsy-git
+X-Arch-Package-Version=666001-1
+X-Arch-Package-Description=Minecraft launcher with ability to manage multiple instances. Plus patch for costume clients and nonpremium accounts.
+X-Arch-Package-URL=http://multimc.org/
+Aliases=multimc5;

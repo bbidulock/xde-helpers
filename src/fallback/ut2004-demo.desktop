@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=3334
+Type=Application
+Name=Unreal Tournament 2004
+Comment=Unreal Tournament 2004
+Icon=/opt/ut2004-demo/ut2004.xpm
+TryExec=/usr/bin/ut2004-demo
+Exec=/usr/bin/ut2004-demo
+Categories=Game;
+X-AppInstall-Package=ut2004-demo
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=ut2004-demo 3334-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ut2004-demo
+X-Arch-Package-Version=3334-3
+X-Arch-Package-Description=Unreal Tournament 2004 demo
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.unrealtournament.com/
+X-Arch-Package-Votes=10

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Gerbil
+Comment=Visualization and Analysis in the Multispectral Domain.
+Icon=qgerbil
+TryExec=/usr/bin/qgerbil
+Exec=qgerbil %f
+Categories=Graphics;2DGraphics;
+StartupNotify=true
+X-AppInstall-Package=gerbil
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=gerbil 1.0b-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gerbil
+X-Arch-Package-Version=1.0b-1
+X-Arch-Package-Description=An interactive visualization tool targeted at multispectral
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.gerbilvis.org/
+X-Arch-Package-Votes=4

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Timewave
+GenericName=2D Space Shooter
+Icon=/usr/share/pixmaps/timewave.png
+TryExec=/usr/bin/timewave
+Exec=timewave
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=timewave
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=timewave 1.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=timewave
+X-Arch-Package-Version=1.2-2
+X-Arch-Package-Description=A 2D space shooter in which the player can alter the flow of
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://happypenguin.altervista.org/gameshow.php?t=Timewave
+X-Arch-Package-Votes=1

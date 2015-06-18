@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=pylote
+Icon=/usr/share/pylote/images/icon.png
+TryExec=/usr/bin/pylote
+Exec=pylote
+Categories=Education;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=pylote
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=pylote 1.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pylote
+X-Arch-Package-Version=1.3-1
+X-Arch-Package-Description=Software making it possible to draw on the screen of the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pascal.peter.free.fr/wiki/Logiciels/Pylote
+X-Arch-Package-Votes=1

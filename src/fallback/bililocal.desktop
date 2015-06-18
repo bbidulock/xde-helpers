@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=BiliLocal
+GenericName=BiliLocal
+Comment=BiliBili本地弹幕播放器
+Icon=bililocal
+TryExec=/usr/bin/bililocal
+Exec=/usr/bin/bililocal %U
+Categories=AudioVideo;Video;Player;Qt;
+StartupNotify=false
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=-git
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=bililocal-git 477.09f06f0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=-git
+X-Arch-Package-Version=477.09f06f0-1
+X-Arch-Package-Description=Video player that can display barrage-like comments grabbed
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://github.com/AncientLysine/BiliLocal
+X-Arch-Package-Votes=2

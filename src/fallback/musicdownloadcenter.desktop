@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Music Download Center
+GenericName=Music downloader and streamer
+Comment=Listen to music
+Icon=musicdownloadcenter
+TryExec=/usr/bin/musicdownloadcenter
+Exec=musicdownloadcenter
+Categories=AudioVideo;Player;GTK;
+X-AppInstall-Package=music-download-center
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=music-download-center 0.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=music-download-center
+X-Arch-Package-Version=0.5-1
+X-Arch-Package-Description=Music Download Center is a Software to Search and Download
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://musicdc.sourceforge.net/
+X-Arch-Package-Votes=3

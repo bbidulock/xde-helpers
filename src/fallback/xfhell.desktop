@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=xfhell
+Comment=xfhell engine
+Icon=xfhell
+TryExec=/usr/bin/xfhell
+Exec=xfhell
+Categories=Application;HamRadio;
+StartupNotify=true
+X-AppInstall-Package=xfhell
+X-AppInstall-Section=aur
+X-Arch-Package=xfhell 3.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xfhell
+X-Arch-Package-Version=3.1-1
+X-Arch-Package-Description=Ham Radio - GTK+ app - de/en-codes Hellschreiber signals.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.qsl.net/5b4az/pkg/xfhell/xfhell.html
+X-Arch-Package-Votes=0

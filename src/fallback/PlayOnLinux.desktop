@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=PlayOnLinux
+GenericName=PlayOnLinux
+Comment=PlayOnLinux
+Icon=playonlinux32
+TryExec=/usr/bin/playonlinux
+Exec=playonlinux
+Categories=Application;Game;
+X-AppInstall-Package=playonlinux
+X-AppInstall-Section=community
+X-Arch-Package=playonlinux 4.1.3-1
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=playonlinux
+X-Arch-Package-Version=4.2.8-1
+X-Arch-Package-Description=GUI for managing Windows programs under linux
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.playonlinux.com/

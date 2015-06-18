@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Novacoin
+Comment=Novacoin is a hybrid scrypt Proof-of-Work + Proof-of-Stake based cryptocurrency
+Icon=/usr/share/pixmaps/novacoin128.png
+TryExec=/usr/bin/novacoin-qt
+Exec=/usr/bin/novacoin-qt
+Categories=Network;
+MimeType=x-scheme-handler/novacoin;
+X-AppInstall-Package=novacoin
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=novacoin 0.4.4.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=novacoin
+X-Arch-Package-Version=0.4.4.6-1
+X-Arch-Package-Description=NovaCoin - a hybrid scrypt PoW + PoS based cryptocurrency.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://novacoin.org
+X-Arch-Package-Votes=1

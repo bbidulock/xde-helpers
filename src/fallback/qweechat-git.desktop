@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=QWeeChat
+Comment=QT GUI for WeeChat
+Icon=qweechat
+TryExec=/usr/bin/qweechat
+Exec=/usr/bin/qweechat
+NoDisplay=true
+Categories=Network;
+StartupNotify=true
+X-AppInstall-Package=qweechat-git
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=qweechat-git 9036a59-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qweechat-git
+X-Arch-Package-Version=9036a59-1
+X-Arch-Package-Description=Qt GUI for WeeChat relay
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=None
+X-Arch-Package-Votes=5
+Aliases=qweechat;

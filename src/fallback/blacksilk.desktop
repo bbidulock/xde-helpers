@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=BlackSilk
+TryExec=/usr/bin/blacksilk
+Exec=blacksilk
+Categories=Graphics;
+X-AppInstall-Package=blacksilk-bin
+X-AppInstall-Section=aur
+X-Arch-Package=blacksilk-bin 0.4.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=blacksilk-bin
+X-Arch-Package-Version=0.4.0-1
+X-Arch-Package-Description=an intuitive black and white conversion software with focus on
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://fd-imaging.com/apps-2/blacksilk-bw-toolkit/
+X-Arch-Package-Votes=0

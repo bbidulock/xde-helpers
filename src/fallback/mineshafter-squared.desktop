@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Mineshafter Squared
+GenericName=Mineshafter
+Comment=Mineshafter Squared is an authentication and texture proxy for Minecraft.
+Icon=/usr/share/pixmaps/mineshafter-squared.png
+TryExec=/usr/bin/mineshafter_squared
+Exec=mineshafter_squared
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=mineshafter-squared
+X-AppInstall-Section=aur
+X-Arch-Package=mineshafter-squared 4.0.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mineshafter-squared
+X-Arch-Package-Version=4.0.0-2
+X-Arch-Package-Description=Mineshafter Squared is an authentication and texture proxy for
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.mineshaftersquared.com/
+X-Arch-Package-Votes=0
+Aliases=mineshafter;

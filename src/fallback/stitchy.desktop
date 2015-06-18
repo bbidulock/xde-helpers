@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Stitchy
+Icon=stitchy
+TryExec=/usr/bin/stitchy
+Exec=stitchy %F
+Categories=Graphics;GTK;
+StartupNotify=true
+X-AppInstall-Package=stitchy-git
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=stitchy-git 7610be8-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=stitchy-git
+X-Arch-Package-Version=7610be8-1
+X-Arch-Package-Description=Cross stitch pattern designer.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/segfault87/stitchy
+X-Arch-Package-Votes=3
+_Comment=Cross stitch pattern designer
+_GenericName=Cross stitch editor

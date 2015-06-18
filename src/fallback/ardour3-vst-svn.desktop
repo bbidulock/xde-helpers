@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Ardour
+Comment=Multitrack hard disk recorder
+Icon=/usr/share/ardour3/icons/ardour_icon_48px.png
+TryExec=/usr/bin/ardour3
+Exec=ardour3
+X-MultipleArgs=false
+Categories=AudioVideo;Audio;Video;AudioVideoEditing;GTK;
+X-AppInstall-Package=ardour3-vst-svn
+X-AppInstall-Section=aur
+X-Arch-Package=ardour3-vst-svn 14043-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ardour3-vst-svn
+X-Arch-Package-Version=14043-1
+X-Arch-Package-Description=A multichannel hard disk recorder and digital audio workstation (with linuxVST support)
+X-Arch-Package-URL=http://www.ardour.org/

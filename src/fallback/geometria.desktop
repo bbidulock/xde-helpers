@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=geometria
+GenericName=Geometria
+Comment=Provides a graphic interface for creating and solving problems in solid geometry..
+Icon=/usr/share/java/geometria/Logo.png
+TryExec=/usr/bin/geometria
+Exec=/usr/bin/geometria
+Categories=Application;Education;Math;
+StartupNotify=false
+X-AppInstall-Package=geometria
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=geometria 3.2.r193-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=geometria
+X-Arch-Package-Version=3.2.r193-1
+X-Arch-Package-Description=Provides a graphic interface for creating and solving problems
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.geocentral.net/geometria/
+X-Arch-Package-Votes=3

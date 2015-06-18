@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Concentration
+Icon=concentration
+TryExec=/usr/bin/concentration
+Exec=/usr/bin/concentration
+Categories=Game;LogicGame;GNOME;GTK;
+StartupNotify=false
+X-AppInstall-Package=concentration
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=concentration 1.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=concentration
+X-Arch-Package-Version=1.2-1
+X-Arch-Package-Description=A classical memory game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=None
+X-Arch-Package-Votes=2

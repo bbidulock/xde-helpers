@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=nonogram-qt
+Icon=akonadiconsole
+TryExec=/usr/bin/nonogram-qt
+Exec=nonogram-qt
+Categories=Game;BoardGame;KDE;Qt;
+X-AppInstall-Package=nonogram-qt
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=nonogram-qt 1.0.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nonogram-qt
+X-Arch-Package-Version=1.0.0-1
+X-Arch-Package-Description=A nonogram (aka "paint by numbers") puzzle game.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://opendesktop.org/content/show.php/Nonogram-qt?content=155694
+X-Arch-Package-Votes=1

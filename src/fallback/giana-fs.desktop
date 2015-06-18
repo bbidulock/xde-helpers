@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Giana's Return (Fullscreen)
+Comment=Jump and run platformer (Mario Bros. Clone)
+Icon=giana
+TryExec=/usr/bin/giana
+Exec=giana -fs
+Categories=Game;
+X-AppInstall-Package=giana
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package=giana 1.10-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=giana
+X-Arch-Package-Version=1.10-1
+X-Arch-Package-Description='Giana's Return', unofficial sequel to the (in)famous Mario
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.gianas-return.de
+X-Arch-Package-Votes=11

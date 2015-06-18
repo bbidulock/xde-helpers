@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Deflectouch
+Comment=Multitouch game using the kivy toolkit
+Icon=/usr/share/games/Deflectouch/graphics/bullet.png
+TryExec=/usr/bin/python2
+Exec=python2 /usr/share/games/Deflectouch/main.py
+NoDisplay=true
+Categories=Game;
+Path=/usr/share/games/Deflectouch
+X-AppInstall-Package=deflectouch-git
+X-AppInstall-Section=aur
+X-Arch-Package=deflectouch-git 20120717-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=deflectouch-git
+X-Arch-Package-Version=20120717-1
+X-Arch-Package-Description=Multitouch game using the kivy toolkit
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/stocyr/Deflectouch/
+X-Arch-Package-Votes=0
+Aliases=Deflectouch;

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=mlock GUI
+Comment=Encrypt and decrypt minilock files
+TryExec=/usr/bin/mlock-gui
+Exec=mlock-gui
+NoDisplay=true
+Categories=Utility;
+StartupNotify=true
+X-AppInstall-Package=mlock
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=mlock 0.7-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mlock
+X-Arch-Package-Version=0.7-1
+X-Arch-Package-Description=A fast native implementation of the minilock file format that
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://andre-simon.de/doku/mlock/en/mlock.php
+X-Arch-Package-Votes=1
+Aliases=mlock-gui;

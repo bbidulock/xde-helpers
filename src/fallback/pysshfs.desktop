@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=PySSHFS
+GenericName=GUI for sshfs
+GenericName[fr]=GUI pour sshfs
+Comment=GUI for SSHFS (FUSE client based on the SSH File Transfer Protocol)
+Icon=pysshfs
+TryExec=/usr/bin/pysshfs
+Exec=pysshfs
+Categories=Network;GNOME;
+StartupNotify=true
+X-AppInstall-Package=pysshfs
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=pysshfs 0.2-7
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pysshfs
+X-Arch-Package-Version=0.2-7
+X-Arch-Package-Description=GUI for sshfs
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/dprevite/pysshfs
+X-Arch-Package-Votes=5

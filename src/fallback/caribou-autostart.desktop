@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Caribou
+TryExec=/usr/bin/caribou
+Exec=caribou
+OnlyShowIn=GNOME;
+StartupNotify=false
+X-GNOME-AutoRestart=true
+X-AppInstall-Package=caribou
+X-AppInstall-Section=extra
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=caribou
+X-Arch-Package-Version=0.4.18.1-1
+X-Arch-Package-Description=A text entry and UI navigation application (on-screen keyboard)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://live.gnome.org/Caribou
+AutostartCondition=GSettings org.gnome.desktop.a11y.applications screen-keyboard-enabled

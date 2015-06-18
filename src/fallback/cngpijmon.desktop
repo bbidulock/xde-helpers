@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Canon status monitor
+Name[fr]=Etat imprimante Canon
+Comment=Display Canon status monitor
+Comment[fr]=Afficher l'état de l'imprimante Canon
+Icon=printer
+TryExec=/usr/bin/cngpijmon
+Exec=cngpijmon
+Categories=System;GTK;
+StartupNotify=true
+X-AppInstall-Package=cnijfilter-full270
+X-AppInstall-Section=aur
+X-Arch-Package=cnijfilter-full270 2.70-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cnijfilter-full270
+X-Arch-Package-Version=2.70-1
+X-Arch-Package-Description=Canon IJ Printer Driver 2.70
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://support-au.canon.com.au/contents/AU/EN/0900718516.html
+X-Arch-Package-Votes=0

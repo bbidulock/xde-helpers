@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=RetroShare
+GenericName=Sharing Network
+Comment=Secure Communication with Your Friends
+Icon=/usr/share/pixmaps/retroshare.png
+TryExec=/usr/bin/retroshare
+Exec=/usr/bin/retroshare
+Categories=Network;Email;InstantMessaging;Chat;FileTransfer;
+StartupNotify=true
+X-AppInstall-Package=retroshare
+X-AppInstall-Popcon=116
+X-AppInstall-Section=aur
+X-Arch-Package=retroshare 0.5.5c-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=retroshare
+X-Arch-Package-Version=0.5.5c-2
+X-Arch-Package-Description=Serverless encrypted instant messenger with filesharing,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://retroshare.sourceforge.net/
+X-Arch-Package-Votes=116

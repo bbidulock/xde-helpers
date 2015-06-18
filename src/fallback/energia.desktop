@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Energia
+GenericName=MSP430 IDE
+Comment=The open-source Arduino environment for MSP430 Launchpad
+Icon=energia
+TryExec=/usr/bin/energia
+Exec=energia
+Categories=Development;IDE;
+X-AppInstall-Package=energia
+X-AppInstall-Popcon=12
+X-AppInstall-Section=aur
+X-Arch-Package=energia 0015-8
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=energia
+X-Arch-Package-Version=0015-8
+X-Arch-Package-Description=Energia is a Arduino IDE clone for use with the MSP430
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://energia.nu/
+X-Arch-Package-Votes=12

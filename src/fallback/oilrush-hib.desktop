@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Oil Rush
+Comment=A naval tower defense RTS game that takes place in a world where nuclear war has melted the ice caps.
+Icon=oilrush-hib
+TryExec=/usr/bin/oilrush-hib
+Exec=oilrush-hib
+Categories=Game;StrategyGame;
+X-AppInstall-Package=oilrush-hib
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=oilrush-hib 1.35-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=oilrush-hib
+X-Arch-Package-Version=1.35-1
+X-Arch-Package-Description=A naval tower defense RTS game that takes place in a world
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://oilrush-game.com/
+X-Arch-Package-Votes=2

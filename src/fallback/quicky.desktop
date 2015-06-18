@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Quicky
+GenericName=Quicky
+Comment=Simple Editor
+TryExec=/usr/bin/quicky
+Exec=quicky
+Categories=Utility;TextEditor;
+X-AppInstall-Package=quicky
+X-AppInstall-Section=aur
+X-Arch-Package=quicky 0.4-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=quicky
+X-Arch-Package-Version=0.4-2
+X-Arch-Package-Description=A simple note-taking application with Wiki-style syntax and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://qt-apps.org/content/show.php/Quicky?content=80325
+X-Arch-Package-Votes=0

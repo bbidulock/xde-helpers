@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Zed
+GenericName=zed
+Comment=Zed Editor
+Icon=/usr/share/zed-git/Zed.svg
+TryExec=/usr/bin/zed
+Exec=zed
+X-MultipleArgs=false
+Categories=Editor;
+X-Desktop-File-Install-Version=1.3.13
+X-AppInstall-Package=zed-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=zed-git 0.11.2.r21.gad6574f-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zed-git
+X-Arch-Package-Version=0.11.2.r21.gad6574f-1
+X-Arch-Package-Description=a code editor built using web technologies
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://zedapp.org/
+X-Arch-Package-Votes=1

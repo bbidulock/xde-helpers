@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Processing
+Icon=processing
+TryExec=/usr/bin/processing
+Exec=processing
+NoDisplay=true
+Categories=Development;
+StartupNotify=false
+X-AppInstall-Package=bin32-processing
+X-AppInstall-Section=aur
+X-Arch-Package=bin32-processing 1.0.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bin32-processing
+X-Arch-Package-Version=1.0.3-1
+X-Arch-Package-Description=An open source programming language and environment for people who want to program images, animation, and interactions.
+X-Arch-Package-URL=http://www.processing.org/
+Aliases=processing;

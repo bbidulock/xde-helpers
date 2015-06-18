@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Mars Simulation Project
+Comment="The Mars Simulation Project is a free software Java project to create a simulation of future human settlement of Mars."
+Icon=mars-sim.png
+TryExec=/usr/bin/mars-sim
+Exec=/usr/bin/mars-sim
+Categories=Game;
+Path=/opt/mars-sim
+StartupNotify=false
+X-AppInstall-Package=mars-sim
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=mars-sim 3.05-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mars-sim
+X-Arch-Package-Version=3.05-1
+X-Arch-Package-Description=The Mars Simulation Project is a free software Java project to
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://mars-sim.sourceforge.net/
+X-Arch-Package-Votes=1

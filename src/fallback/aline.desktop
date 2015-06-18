@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Aline
+Comment=A WYSIWYG protein-sequence alignment editor for publication-quality alignments
+Icon=/usr/share/pixmaps/aline.png
+TryExec=/usr/bin/aline
+Exec=/usr/bin/aline
+Categories=Application;Science;Chemistry;
+X-AppInstall-Package=aline
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=aline 011208-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=aline
+X-Arch-Package-Version=011208-2
+X-Arch-Package-Description=An Extensible WYSIWYG Protein Sequence Alignment Editor for
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://crystal.bcs.uwa.edu.au/px/charlie/software/aline/
+X-Arch-Package-Votes=1

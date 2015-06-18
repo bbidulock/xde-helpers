@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Pacman GUI
+Name[es_ES]=pacgui
+Comment=Pacman graphical user interface
+Comment[es_ES]=GUI para Pacman
+Icon=/usr/share/icons/gnome/scalable/apps/system-software-update.svg
+Icon[es_ES]=/usr/share/icons/gnome/scalable/apps/system-software-update.svg
+TryExec=/usr/bin/pacgui04
+Exec=/usr/bin/pacgui04
+Categories=Application;System;
+X-AppInstall-Package=zenity_pacgui
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=zenity_pacgui 0.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zenity_pacgui
+X-Arch-Package-Version=0.4-1
+X-Arch-Package-Description=pacman and system configuration GUI using zenity dialogs
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/zenitypacgui/
+X-Arch-Package-Votes=13

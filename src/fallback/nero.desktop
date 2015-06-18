@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Nero
+Comment=Neuro Evolving Robotic Operatives
+Icon=/opt/nero/icon.png
+TryExec=/usr/bin/nero
+Exec=/usr/bin/nero
+Categories=Application;Game;
+X-AppInstall-Package=nero
+X-AppInstall-Section=aur
+X-Arch-Package=nero 2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nero
+X-Arch-Package-Version=2-1
+X-Arch-Package-Description=Neuro-Evolving Robotic Operatives. A game of training and battle.
+X-Arch-Package-URL=http://z.cs.utexas.edu/users/nn/nero/news.php

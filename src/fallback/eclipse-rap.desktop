@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Eclipse
+Comment=A Java Development Environment
+Icon=eclipse
+TryExec=/usr/bin/eclipse
+Exec=eclipse
+NoDisplay=true
+Categories=Development;IDE;Java;
+StartupNotify=true
+X-AppInstall-Package=eclipse-rap
+X-AppInstall-Section=aur
+X-Arch-Package=eclipse-rap 4.2.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=eclipse-rap
+X-Arch-Package-Version=4.2.1-1
+X-Arch-Package-Description=Eclipse for RCP and RAP (RWT) developers
+X-Arch-Package-URL=http://eclipse.org
+Aliases=eclipse;

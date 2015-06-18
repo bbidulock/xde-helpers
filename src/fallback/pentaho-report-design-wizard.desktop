@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Pentaho Report Wizard
+Comment="Pentaho Report Wizard"
+Icon=/usr/share/pixmaps/pentaho-report-design-wizard.png
+TryExec=/usr/bin/pentaho-report-design-wizard
+Exec=/usr/bin/pentaho-report-design-wizard
+Categories=Application;Development;GNOME;
+StartupNotify=true
+X-AppInstall-Package=pentaho-report-design-wizard
+X-AppInstall-Section=aur
+X-Arch-Package=pentaho-report-design-wizard 1.7.1.1017-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pentaho-report-design-wizard
+X-Arch-Package-Version=1.7.1.1017-1
+X-Arch-Package-Description=Pentaho Report Wizard
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.pentaho.com
+X-Arch-Package-Votes=0

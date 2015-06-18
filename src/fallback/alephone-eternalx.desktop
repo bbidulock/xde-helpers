@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Eternal X (Aleph One)
+Comment=A FPS game
+Icon=alephone
+TryExec=/usr/bin/alephone-eternalx
+Exec=alephone-eternalx
+Categories=Game;ActionGame;
+X-AppInstall-Package=alephone-eternalx
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=alephone-eternalx 1.1.0b4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=alephone-eternalx
+X-Arch-Package-Version=1.1.0b4-1
+X-Arch-Package-Description=A free scenario for Aleph One that continues the story of the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://eternal.bungie.org/
+X-Arch-Package-Votes=3

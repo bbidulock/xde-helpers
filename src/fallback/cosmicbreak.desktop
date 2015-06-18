@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=CosmicBreak
+Comment=CosmicBreak is an MMO third person shooter featuring massive PvP battles of up to 30 vs. 30 players at one time. Familiar WASD control and fast-paced Arena action makes CosmicBreak quick and easy to get into for any gamer.
+Icon=cosmicbreak
+TryExec=/usr/bin/cosmicbreak
+Exec=cosmicbreak
+Categories=Application;Game;
+Path=/opt/cosmicbreak
+StartupNotify=false
+X-AppInstall-Package=cosmicbreak
+X-AppInstall-Section=aur
+X-Arch-Package=cosmicbreak 0.134.0-20121227
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cosmicbreak
+X-Arch-Package-Version=0.134.0-20121227
+X-Arch-Package-Description=CosmicBreak is an MMO third person shooter featuring massive
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.cosmicbreak.com/
+X-Arch-Package-Votes=0

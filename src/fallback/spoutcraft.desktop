@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Spoutcraft
+GenericName=Spoutcraft
+Comment=Launcher and client-side mod for Minecraft
+Icon=/usr/share/pixmaps/spoutcraft.png
+TryExec=/usr/bin/spoutcraft
+Exec=spoutcraft
+Categories=Game;
+X-AppInstall-Package=spoutcraft
+X-AppInstall-Popcon=12
+X-AppInstall-Section=aur
+X-Arch-Package=spoutcraft 1.5.2.b2039-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=spoutcraft
+X-Arch-Package-Version=1.5.2.b2039-1
+X-Arch-Package-Description=Launcher and client-side mod for Minecraft
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.spout.org/
+X-Arch-Package-Votes=12

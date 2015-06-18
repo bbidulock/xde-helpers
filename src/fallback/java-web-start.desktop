@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Java Web Start
+GenericName=Manage and run Java Web Start Applications
+GenericName[cs]=Spravovat a spouštět aplikace Java Web Start
+Icon=java
+TryExec=/opt/java/bin/javaws
+Exec=/opt/java/bin/javaws -viewer
+Categories=Network;Java;
+MimeType=application/x-java-jnlp-file;
+StartupNotify=true
+X-AppInstall-Package=jdk5
+X-AppInstall-Section=aur
+X-Arch-Package=jdk5 5.0u22-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jdk5
+X-Arch-Package-Version=5.0u22-1
+X-Arch-Package-Description=Sun's Java Development Kit
+X-Arch-Package-URL=http://java.sun.com

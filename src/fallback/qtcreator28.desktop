@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Qt Creator (2.8.x)
+GenericName=C++ IDE
+Icon=QtProject-qtcreator28
+TryExec=/opt/qtcreator28/usr/bin/qtcreator.sh
+Exec=/opt/qtcreator28/usr/bin/qtcreator.sh
+Categories=Development;Qt;
+X-KDE-StartupNotify=true
+X-AppInstall-Package=qtcreator28
+X-AppInstall-Section=aur
+X-Arch-Package=qtcreator28 2.8.1-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qtcreator28
+X-Arch-Package-Version=2.8.1-3
+X-Arch-Package-Description=Lightweight, cross-platform integrated development environment
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://qt-project.org
+X-Arch-Package-Votes=0

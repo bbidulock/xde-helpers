@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Kineticwing IDE
+Icon=kineticwing
+TryExec=/usr/bin/kineticwing
+Exec=kineticwing
+MultipleArgs=false
+Categories=Application;Programming;
+StartupNotify=false
+X-AppInstall-Package=kineticwing
+X-AppInstall-Section=aur
+X-Arch-Package=kineticwing 0.8.9-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kineticwing
+X-Arch-Package-Version=0.8.9-1
+X-Arch-Package-Description=Smart, Lightweight and Portable IDE for faster and easier web
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.kineticwing.com/home
+X-Arch-Package-Votes=0

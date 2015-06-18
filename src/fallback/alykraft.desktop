@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Alykraft
+GenericName=Alykraft
+Comment=Lanceur minecraft de la communauté Alyrkaft.
+Icon=alykraft
+TryExec=/usr/bin/alykraft
+Exec=alykraft
+Categories=Game;
+X-AppInstall-Package=alykraft
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=alykraft 1.5-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=alykraft
+X-Arch-Package-Version=1.5-2
+X-Arch-Package-Description=Alykraft french community minecraft launcher
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://alykraft.fr
+X-Arch-Package-Votes=1

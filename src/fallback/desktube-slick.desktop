@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Desktube
+GenericName=Youtube Client
+Comment=YouTube Application powered by Adobe AIR
+Icon=desktube.png
+TryExec=/usr/bin/desktube
+Exec=desktube
+NoDisplay=true
+Categories=Network;GTK;
+X-AppInstall-Package=desktube-slick
+X-AppInstall-Section=aur
+X-Arch-Package=desktube-slick 72.0.9-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=desktube-slick
+X-Arch-Package-Version=72.0.9-1
+X-Arch-Package-Description=Adobe Air Application for Youtube using a Custom SVG Iconset
+X-Arch-Package-URL=http://thedesktube.com/
+Aliases=desktube;

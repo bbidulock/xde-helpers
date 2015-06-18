@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=MotoGT
+GenericName=MotoGT Racing
+Icon=/usr/share/pixmaps/MotoGT.png
+TryExec=/usr/bin/motogt
+Exec=motogt
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=motogt
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=motogt 20110505-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=motogt
+X-Arch-Package-Version=20110505-3
+X-Arch-Package-Description=MotoGT is a 2D top-viewed game where you drive a MotoGP bike
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://motogt.sourceforge.net/
+X-Arch-Package-Votes=1

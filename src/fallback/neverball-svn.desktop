@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Neverball-svn
+Comment=A 3D arcade game with a ball
+Comment[fr]=Un jeu d'arcade 3D avec une balle
+Icon=neverball-svn.png
+TryExec=/usr/bin/neverball-svn
+Exec=neverball-svn
+Categories=Application;Game;ArcadeGame;
+X-AppInstall-Package=neverball-svn
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=neverball-svn 3060-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=neverball-svn
+X-Arch-Package-Version=3060-1
+X-Arch-Package-Description=Neverball and Neverputt. Ball-based games. SVN version
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.nevercorner.net/forum/
+X-Arch-Package-Votes=8

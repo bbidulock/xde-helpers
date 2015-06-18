@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Ren'Py 64
+GenericName=renpy64
+Comment=A programming language and runtime, intended to ease the creation of visual-novel type games.
+Comment[es]=Un lenguaje de programaci\xF3n y un ejecutable concebidos para facilitar la creaci\xF3n de juegos tipo \xABnovela visual\xBB.
+Comment[fr]=Un langage de programmation et un ex\xE9cutable con\xE7us pour faciliter la cr\xE9ation de jeux de type "visual-novel"
+Icon=renpy64.png
+TryExec=/usr/bin/renpy64
+Exec=renpy64
+Categories=Game;AdventureGame;
+X-AppInstall-Package=renpy64
+X-AppInstall-Section=aur
+X-Arch-Package=renpy64 6.10.2-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=renpy64
+X-Arch-Package-Version=6.10.2-3
+X-Arch-Package-Description=A free and cross-platform engine that helps you use words, pictures, and sounds to tell stories with the computer.
+X-Arch-Package-URL=http://www.renpy.org

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Railroad rampage
+GenericName=Action Game
+Comment=Tower-defense game
+Icon=railroadrampage
+TryExec=/usr/bin/railroadrampage
+Exec=railroadrampage
+Categories=Game;ActionGame;
+X-AppInstall-Package=railroadrampage
+X-AppInstall-Section=aur
+X-Arch-Package=railroadrampage 1.2-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=railroadrampage
+X-Arch-Package-Version=1.2-3
+X-Arch-Package-Description=an action tower defence-type game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://neotron-games.blogspot.com/
+X-Arch-Package-Votes=0

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=OpenFlipper
+GenericName=3D Framework
+Comment=Geometry Processing and Rendering Framework
+Icon=/usr/share/OpenFlipper/Icons/OpenFlipper_Icon_128x128x32.png
+TryExec=/usr/bin/OpenFlipper
+Exec=/usr/bin/OpenFlipper
+Categories=Graphics;3DGraphics;
+StartupNotify=true
+X-AppInstall-Package=openflipper
+X-AppInstall-Section=aur
+X-Arch-Package=openflipper 1.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=openflipper
+X-Arch-Package-Version=1.1-1
+X-Arch-Package-Description=An Open Source Geometry Processing and Rendering Framework
+X-Arch-Package-URL=http://www.openflipper.org

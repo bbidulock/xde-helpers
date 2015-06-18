@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Anagramarama
+Comment=A cross-platform multilingual anagram finding game
+Icon=anagramarama.png
+TryExec=/usr/bin/anagramarama
+Exec=anagramarama
+Categories=Game;LogicGame;
+X-AppInstall-Package=anagramarama
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=anagramarama 0.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=anagramarama
+X-Arch-Package-Version=0.4-1
+X-Arch-Package-Description=A cross-platform multilingual anagram finding game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/anagramarama/
+X-Arch-Package-Votes=1

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=AutopanoPro
+Comment=A program for creating panoramic images
+Icon=/opt/autopanopro/Resources/UI/autopano_pro.png
+TryExec=/usr/bin/autopanopro
+Exec=autopanopro
+Categories=Application;Graphics;
+X-AppInstall-Package=autopanopro
+X-AppInstall-Section=aur
+X-Arch-Package=autopanopro 3.0.5-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=autopanopro
+X-Arch-Package-Version=3.0.5-2
+X-Arch-Package-Description=The program for creating panoramic images.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kolor.com/
+X-Arch-Package-Votes=0

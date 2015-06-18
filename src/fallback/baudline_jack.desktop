@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=baudline_jack
+Comment=Time-frequency browser designed for scientific visualization of the spectral domain. With JACK suppport.
+Icon=baudline_jack
+TryExec=/usr/bin/baudline_jack
+Exec=baudline_jack
+Categories=AudioVideo;
+X-AppInstall-Package=baudline-bin
+X-AppInstall-Popcon=36
+X-AppInstall-Section=aur
+X-Arch-Package=baudline-bin 1.08-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=baudline-bin
+X-Arch-Package-Version=1.08-3
+X-Arch-Package-Description=Time-frequency browser designed for scientific visualization
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.baudline.com/
+X-Arch-Package-Votes=36

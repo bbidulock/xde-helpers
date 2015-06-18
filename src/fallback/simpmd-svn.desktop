@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=SimPMD
+Comment=PMD85 emulator
+TryExec=/usr/bin/simpmd
+Exec=simpmd
+NoDisplay=true
+Categories=System;Emulator;
+X-AppInstall-Package=simpmd-svn
+X-AppInstall-Section=aur
+X-Arch-Package=simpmd-svn 55-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=simpmd-svn
+X-Arch-Package-Version=55-1
+X-Arch-Package-Description=Full emulator of PMD85 (svn)
+X-Arch-Package-URL=http://dsrg.mff.cuni.cz/~ceres/prj/SimPMD/
+Aliases=simpmd;

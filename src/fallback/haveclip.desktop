@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=Haveclip
+GenericName=Haveclip
+Comment=A simple clipboard manage and synchronization tool
+Comment[de]=Ein einfaches Programm zur Verwaltung und Synchronisation der Zwischenabliage
+Icon=haveclip
+X-DBUS-StartupType=Unique
+OnlyShowIn=KDE;
+Categories=Utility;KDE;Qt;X-KDE-Utilities-Desktop;
+X-KDE-autostart-after=panel
+X-KDE-autostart-condition=klipperrc:General:AutoStart:true
+X-KDE-StartupNotify=false
+X-KDE-UniqueApplet=true
+X-AppInstall-Package=haveclip
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=haveclip 0.12.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=haveclip
+X-Arch-Package-Version=0.12.1-1
+X-Arch-Package-Description=A simple clipboard manage and synchronization tool
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.havefun.cz/projects/haveclip/
+X-Arch-Package-Votes=4

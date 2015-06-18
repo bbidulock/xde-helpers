@@ -1,0 +1,18 @@
+[Desktop Entry]
+Version=0.1
+Type=Application
+Name=Wakoopa
+GenericName=Desktop Usage Tracker
+Comment=Track your desktop application usage
+Icon=wakoopa
+TryExec=/usr/bin/wakoopa
+Exec=wakoopa
+Categories=Network;Utility;
+X-AppInstall-Package=wakoopa
+X-AppInstall-Section=aur
+X-Arch-Package=wakoopa 2.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wakoopa
+X-Arch-Package-Version=2.0-3
+X-Arch-Package-Description=Wakoopa tracks what (web) apps you use.
+X-Arch-Package-URL=http://social.wakoopa.com/

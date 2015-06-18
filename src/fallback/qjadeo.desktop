@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=QJadeo
+Comment=QJadeo Jack Video Player
+Icon=qjadeo
+TryExec=/usr/bin/qjadeo
+Exec=qjadeo
+Categories=AudioVideo;
+X-AppInstall-Package=xjadeo
+X-AppInstall-Section=community
+X-Arch-Package=xjadeo 0.7.3-1
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=xjadeo
+X-Arch-Package-Version=0.8.0-2
+X-Arch-Package-Description=A simple video player that is synchronized to jack transport.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://xjadeo.sourceforge.net

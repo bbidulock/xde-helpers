@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=3.121
+Type=Application
+Name=FoFiX
+Comment=A great Guitar Hero clone!
+Icon=/usr/share/pixmaps/fretsonfirex.png
+TryExec=/usr/bin/fretsonfirex
+Exec=/usr/bin/fretsonfirex
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=fretsonfirex
+X-AppInstall-Section=aur
+X-Arch-Package=fretsonfirex 3.121-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fretsonfirex
+X-Arch-Package-Version=3.121-2
+X-Arch-Package-Description=Highly improved version of Frets on Fire
+X-Arch-Package-Groups=games;
+X-Arch-Package-URL=http://code.google.com/p/fofix

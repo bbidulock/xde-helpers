@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Gutenflash
+GenericName=Speed reader
+Comment=RSVP streaming text reader for python/gtk (speed reader)
+Icon=gutenflash
+TryExec=/usr/bin/gutenflash
+Exec=gutenflash
+Categories=Education;Office;
+X-AppInstall-Package=gutenflash
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=gutenflash 0.8.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gutenflash
+X-Arch-Package-Version=0.8.5-1
+X-Arch-Package-Description=RSVP streaming text reader for python/gtk (speed reader)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://toykeeper.net/programs/flash/
+X-Arch-Package-Votes=1

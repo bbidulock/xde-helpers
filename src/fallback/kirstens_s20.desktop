@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Second Life(Kirstens S20)
+Comment=Second Life is a 3-D virtual world entirely built and owned by its residents
+Icon=/usr/share/pixmaps/kirstens_s20.png
+TryExec=/usr/bin/kirstens_s20
+Exec=/usr/bin/kirstens_s20
+Categories=Game;
+X-AppInstall-Package=secondlife-bin-kirstens
+X-AppInstall-Section=aur
+X-Arch-Package=secondlife-bin-kirstens 20.37-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=secondlife-bin-kirstens
+X-Arch-Package-Version=20.37-1
+X-Arch-Package-Description=Second Life is a 3-D virtual world entirely built and owned by its residents (Kirstens binary version). Based on snowglobe 2.x
+X-Arch-Package-URL=http://www.kirstensviewer.com

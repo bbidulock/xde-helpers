@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=K-3D
+Comment=3D modeling and animation
+Comment[sv_SE.ISO8859-15]=3D modellering och animation
+Icon=/usr/share/k3d/icons/k3d2.png
+TryExec=/usr/bin/k3d
+Exec=/usr/bin/k3d
+MultipleArgs=false
+Categories=Application;Graphics;
+X-AppInstall-Package=k3d
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=k3d 0.8.0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=k3d
+X-Arch-Package-Version=0.8.0.1-1
+X-Arch-Package-Description=k-3d is a complete free-as-in-freedom 3D modeling, animation
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.k-3d.org/
+X-Arch-Package-Votes=5

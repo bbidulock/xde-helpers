@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Gameplay Football
+Comment=A 3D football game
+Icon=/usr/share/pixmaps/gameplay-football.png
+TryExec=/usr/bin/gameplay-football
+Exec=/usr/bin/gameplay-football
+Categories=Application;Game;
+X-AppInstall-Package=gameplay-football
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=gameplay-football 0.8-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gameplay-football
+X-Arch-Package-Version=0.8-2
+X-Arch-Package-Description=A 3D football game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.properlydecent.com/
+X-Arch-Package-Votes=6

@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=NuclearChess
+Icon=/usr/share/pixmaps/nuclearchess.png
+TryExec=/usr/bin/nuclearchess
+Exec=nuclearchess
+Categories=Game;BoardGame;
+X-AppInstall-Package=nuclearchess
+X-AppInstall-Section=aur
+X-Arch-Package=nuclearchess 1.0.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nuclearchess
+X-Arch-Package-Version=1.0.0-2
+X-Arch-Package-Description=Nuclear chess aka dead square chess.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.linux-games.com/nuclearchess/
+X-Arch-Package-Votes=0

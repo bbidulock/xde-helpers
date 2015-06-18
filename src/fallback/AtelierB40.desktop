@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Atelier B 4.0.1
+GenericName=atelierb
+Icon=/opt/atelierb/4.0.1/AB/bbin/AtelierB40-128.png
+TryExec=/opt/atelierb/4.0.1/AB/bbin/lanceAB
+Exec=/opt/atelierb/4.0.1/AB/bbin/lanceAB
+StartupNotify=True
+X-AppInstall-Package=atelierb40
+X-AppInstall-Section=aur
+X-Arch-Package=atelierb40 4.0.1-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=atelierb40
+X-Arch-Package-Version=4.0.1-3
+X-Arch-Package-Description=the industrial tool to efficiently deploy the B Method
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.atelierb.eu
+X-Arch-Package-Votes=0

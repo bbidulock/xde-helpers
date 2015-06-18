@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=pano2vr
+Comment=Converts panoramic images into QuickTime VR or Macromedia Flash formats
+Icon=pano2vr.png
+TryExec=/usr/bin/pano2vr
+Exec=pano2vr
+Categories=Graphics;
+X-AppInstall-Package=pano2vr
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=pano2vr 4.5.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pano2vr
+X-Arch-Package-Version=4.5.1-2
+X-Arch-Package-Description=Converts panoramic images into QuickTime VR or Macromedia
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gardengnomesoftware.com/pano2vr.php
+X-Arch-Package-Votes=3

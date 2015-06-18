@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=FreeRapid Downloader
+GenericName=Download Manager
+Comment=Download files from RapidShare and other file sharing archives
+Icon=freerapid
+TryExec=/usr/bin/freerapid
+Exec=freerapid
+X-MultipleArgs=false
+Categories=Network;
+StartupNotify=true
+X-AppInstall-Package=freerapid
+X-AppInstall-Popcon=66
+X-AppInstall-Section=aur
+X-Arch-Package=freerapid 0.9u4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=freerapid
+X-Arch-Package-Version=0.9u4-1
+X-Arch-Package-Description=A Java-based download manager for Rapidshare and other file
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://wordrider.net/freerapid/
+X-Arch-Package-Votes=66

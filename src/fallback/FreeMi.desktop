@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=FreeMi
+Icon=/opt/FreeMi/FreeMi.png
+TryExec=/usr/bin/mono
+Exec=mono /opt/FreeMi/FreeMi.Console.exe
+Categories=Network;
+X-AppInstall-Package=freemi
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=freemi 2.0.8-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=freemi
+X-Arch-Package-Version=2.0.8-3
+X-Arch-Package-Description=FreeMi UPnP Media Server est un serveur UPnP audio/vidéo pour
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://freemiupnp.fr
+X-Arch-Package-Votes=1

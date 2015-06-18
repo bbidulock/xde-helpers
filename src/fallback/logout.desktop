@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Log Out
+Icon=system-log-out
+TryExec=/bin/bash
+Exec=/bin/bash -c "pgrep -u \$USER \"\$(wmctrl -m | grep Name | sed 's/^Name: //')\" | xargs kill"
+Categories=System;
+X-AppInstall-Package=session-desktop-files
+X-AppInstall-Section=aur
+X-Arch-Package=session-desktop-files 0.6-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=session-desktop-files
+X-Arch-Package-Version=0.6-2
+X-Arch-Package-Description=.desktop launch files for common session operations (log out,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://wiki.archlinux.org/index.php/Desktop_Entries
+X-Arch-Package-Votes=0

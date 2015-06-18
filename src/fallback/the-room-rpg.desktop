@@ -1,0 +1,17 @@
+[Desktop Entry]
+Version=3.1
+Type=Application
+Name=The Room RPG
+Comment=The Room RPG from Newgrounds
+Icon=the-room-rpg
+TryExec=/usr/bin/the-room-rpg
+Exec=the-room-rpg
+Categories=Game;
+X-AppInstall-Package=the-room-rpg
+X-AppInstall-Section=aur
+X-Arch-Package=the-room-rpg 3.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=the-room-rpg
+X-Arch-Package-Version=3.1-1
+X-Arch-Package-Description=The popular The Room RPG from Newgrounds (Flash game)
+X-Arch-Package-URL=http://www.newgrounds.com/portal/view/547307

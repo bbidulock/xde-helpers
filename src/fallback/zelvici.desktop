@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Zelvici
+Comment=Funny 2D platform game
+TryExec=/usr/bin/zelvici
+Exec=zelvici
+Categories=Game;ArcadeGame;
+StartupNotify=true
+X-AppInstall-Package=zelvici-svn
+X-AppInstall-Section=aur
+X-Arch-Package=zelvici-svn 16-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zelvici-svn
+X-Arch-Package-Version=16-1
+X-Arch-Package-Description=2D arcade game featuring lovely turtle (svn version)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/zelvici/
+X-Arch-Package-Votes=0

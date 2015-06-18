@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=BlackCoin
+Comment=BlackCoin P2P Cryptocurrency
+Icon=/usr/share/pixmaps/blackcoin.png
+TryExec=/usr/bin/blackcoin-qt
+Exec=/usr/bin/blackcoin-qt
+NoDisplay=true
+Categories=Network;
+MimeType=x-scheme-handler/blackcoin;
+X-AppInstall-Package=blackcoin-qt
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=blackcoin-qt 1.1.2.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=blackcoin-qt
+X-Arch-Package-Version=1.1.2.1-2
+X-Arch-Package-Description=PoS Cryptocurrency
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://blackcoin.co/
+X-Arch-Package-Votes=3
+Aliases=blackcoin;

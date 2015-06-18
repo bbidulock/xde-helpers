@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Xastir
+Comment=X Amateur Station Tracking and Information Reporting
+Icon=xastir-cvs.png
+TryExec=/usr/bin/xastir
+Exec=xastir
+X-DCOP-ServiceType=none
+Categories=Application;HamRadio;
+MimeType=text;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=xastir-cvs
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=xastir-cvs 20130206-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xastir-cvs
+X-Arch-Package-Version=20130206-1
+X-Arch-Package-Description=X Amateur Station Tracking and Information Reporting
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.xastir.org/
+X-Arch-Package-Votes=4

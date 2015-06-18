@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Primecoin
+Comment=Primecoin P2P Cryptocurrency
+Icon=/usr/share/pixmaps/primecoin256.png
+TryExec=/usr/bin/primecoin-qt
+Exec=/usr/bin/primecoin-qt
+Categories=Office;
+MimeType=x-scheme-handler/primecoin;
+X-AppInstall-Package=primecoin-git
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=primecoin-git v0.1.1xpm.1.gab9fe91-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=primecoin-git
+X-Arch-Package-Version=v0.1.1xpm.1.gab9fe91-2
+X-Arch-Package-Description=Cryptocurrency with Scientific Computing Proof-of-Work (Prime)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.primecoin.org/
+X-Arch-Package-Votes=2

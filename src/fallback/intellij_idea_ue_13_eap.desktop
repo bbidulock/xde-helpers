@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=IntelliJ IDEA 13 Ultimate Edition (EAP)
+Comment=A Java IDE
+Icon=intellij_idea_ue_13_eap
+TryExec=/usr/bin/intellij_idea_ue_13_eap
+Exec=intellij_idea_ue_13_eap %u
+NoDisplay=true
+Categories=Development;IDE;
+X-AppInstall-Package=intellij_idea_ue_13_eap
+X-AppInstall-Section=aur
+X-Arch-Package=intellij_idea_ue_13_eap 135.760-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=intellij_idea_ue_13_eap
+X-Arch-Package-Version=135.760-1
+X-Arch-Package-Description=Early access version of the upcoming Intellij Idea 13 Java IDE (ultimate version)
+X-Arch-Package-URL=http://confluence.jetbrains.net/display/IDEADEV/IDEA+13+EAP
+Aliases=intellijidea;

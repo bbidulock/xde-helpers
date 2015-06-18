@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Planarity
+Comment=Multitouch Untangle game
+Icon=planarity
+TryExec=/usr/bin/planarity
+Exec=planarity
+Categories=Game;
+X-AppInstall-Package=planarity-svn
+X-AppInstall-Section=aur
+X-Arch-Package=planarity-svn 6432-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=planarity-svn
+X-Arch-Package-Version=6432-1
+X-Arch-Package-Description=Multitouch Untangle game.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://www.libavg.de/site/projects/libavg/wiki/Planarity
+X-Arch-Package-Votes=0

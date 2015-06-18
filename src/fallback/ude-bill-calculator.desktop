@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=UDE Bill Calculator
+Icon=accessories-calculator
+TryExec=/usr/bin/ubc
+Exec=ubc %U
+Categories=Utility;Player;GNOME;GTK;
+X-AppInstall-Package=ude-bill-calculator
+X-AppInstall-Section=aur
+X-Arch-Package=ude-bill-calculator 20101006.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ude-bill-calculator
+X-Arch-Package-Version=.-2
+X-Arch-Package-Description=A tool to calculate "fair" bill payments between multiple
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/ude-bill-calculator/
+X-Arch-Package-Votes=0

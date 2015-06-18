@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=QJoyPad
+Comment=GPS Navigation
+Icon=/usr/share/pixmaps/qjoypad/gamepad1-64x64.png
+TryExec=/usr/bin/qjoypad
+Exec=qjoypad
+NoDisplay=true
+Categories=Game;Utility;
+StartupNotify=true
+X-AppInstall-Package=qjoypad-static
+X-AppInstall-Section=aur
+X-Arch-Package=qjoypad-static 3.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qjoypad-static
+X-Arch-Package-Version=3.4-1
+X-Arch-Package-Description=QJoyPad translates gamepad/joystick input into key strokes/mouse actions
+X-Arch-Package-URL=http://qjoypad.sourceforge.net
+Aliases=qjoypad;

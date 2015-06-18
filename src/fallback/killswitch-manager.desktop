@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Killswitch Manager
+Icon=killswitch
+TryExec=/usr/bin/killswitch-manager
+Exec=killswitch-manager
+Categories=Application;System;Utility;
+StartupNotify=true
+X-AppInstall-Package=killswitch-manager
+X-AppInstall-Section=aur
+X-Arch-Package=killswitch-manager 0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=killswitch-manager
+X-Arch-Package-Version=0.1-1
+X-Arch-Package-Description=This applet controls killswitches and enables you to turn off
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://qt-apps.org/content/show.php/Killswitch-Manager?content=121359
+X-Arch-Package-Votes=0

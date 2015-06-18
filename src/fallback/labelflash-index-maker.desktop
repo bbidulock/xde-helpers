@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Labelflash Index Maker
+GenericName=LabelFlash Printer
+Icon=/usr/share/labelflash-index-maker/LIM.png
+TryExec=/usr/bin/labelflash-index-maker
+Exec=/usr/bin/labelflash-index-maker
+Categories=Graphics;DiscBurning;
+X-AppInstall-Package=labelflash-index-maker
+X-AppInstall-Section=aur
+X-Arch-Package=labelflash-index-maker 1.2.0-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=labelflash-index-maker
+X-Arch-Package-Version=1.2.0-4
+X-Arch-Package-Description=A Labelflash-compliant software which opens the door to easy
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://labelflash.jp/enjoy/dl_software.html
+X-Arch-Package-Votes=0

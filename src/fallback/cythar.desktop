@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Cythar
+Comment=Polyphonic MIDI sequencer
+Icon=cythar
+TryExec=/usr/bin/cythar
+Exec=cythar
+Categories=AudioVideo;Audio;Sequencer;Qt;MIDI;
+StartupNotify=false
+X-AppInstall-Package=cythar
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=cythar 0.1.4.10-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cythar
+X-Arch-Package-Version=0.1.4.10-1
+X-Arch-Package-Description=Polyphonic MIDI sequencer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://cythar.monoplugs.com/
+X-Arch-Package-Votes=1

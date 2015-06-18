@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=IBM i Access Client Solutions
+Icon=iacs
+TryExec=/usr/bin/iacs
+Exec=iacs
+Categories=Network;Office;Viewer;FileTransfer;TerminalEmulator;Java;
+Keywords=IBM;iseries;as400;emulator;5250;telnet;printer;solutions;
+X-AppInstall-Package=iacs
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=iacs 1.1.4.5161-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=iacs
+X-Arch-Package-Version=1.1.4.5161-1
+X-Arch-Package-Description=IBM i Access Client Solutions provides a Java based,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.ibm.com/systems/power/software/i/access/solutions.html
+X-Arch-Package-Votes=2

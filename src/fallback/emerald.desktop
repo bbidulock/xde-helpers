@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Emerald
+Comment=Emerald P2P Cryptocurrency
+Icon=/usr/share/pixmaps/emerald.png
+TryExec=/usr/bin/emerald-qt
+Exec=/usr/bin/emerald-qt
+Categories=Network;
+MimeType=x-scheme-handler/emerald;
+X-AppInstall-Package=emerald-qt-git
+X-AppInstall-Section=aur
+X-Arch-Package=emerald-qt-git 0.8.5.r45.g6b3776c-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=emerald-qt-git
+X-Arch-Package-Version=0.8.5.r45.g6b3776c-2
+X-Arch-Package-Description=Cryptocurrency
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://emeraldcoin.wordpress.com/
+X-Arch-Package-Votes=0

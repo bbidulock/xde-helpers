@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Utube
+Comment=A downloader and ripper for YouTube videos
+Icon=utube
+TryExec=/usr/bin/utube
+Exec=utube
+NoDisplay=true
+Categories=AudioVideo;Network;
+X-AppInstall-Package=utube-gtk
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=utube-gtk 2.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=utube-gtk
+X-Arch-Package-Version=2.0-1
+X-Arch-Package-Description=A graphical (GTK) downloader and ripper for YouTube videos
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/utube/
+X-Arch-Package-Votes=10
+Aliases=utube;

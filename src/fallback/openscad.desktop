@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=OpenSCAD
+Comment=Software for creating solid 3D CAD objects
+Icon=openscad.png
+TryExec=/usr/bin/openscad
+Exec=/usr/bin/openscad
+Categories=Development;
+X-AppInstall-Package=openscad
+X-AppInstall-Section=community
+X-Arch-Package=openscad 2013.06-2
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=openscad
+X-Arch-Package-Version=2015.03.01-3
+X-Arch-Package-Description=The programmers solid 3D CAD modeller
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://openscad.org/

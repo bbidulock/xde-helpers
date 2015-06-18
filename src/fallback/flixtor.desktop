@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Flixtor
+Comment=Watch torrent movies instantly
+Icon=flixtor
+TryExec=/usr/bin/flixtor
+Exec=flixtor %U
+Categories=Video;Network;Player;
+X-AppInstall-Package=flixtor
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=flixtor 2.2.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=flixtor
+X-Arch-Package-Version=2.2.5-1
+X-Arch-Package-Description=Flixtor streams movies, series, videos and animes from
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.flixtor.me/
+X-Arch-Package-Votes=7

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=BF-Commander File Manager
+GenericName=File Manager
+Comment=A fast and powerful twin-panel file manager
+Icon=bfcmd
+TryExec=/usr/share/bfcommander/bin/bfcommander
+Exec=bfcmd
+Categories=System;FileManager;
+X-AppInstall-Package=bfcommander
+X-AppInstall-Popcon=16
+X-AppInstall-Section=aur
+X-Arch-Package=bfcommander 0.3.9-6
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bfcommander
+X-Arch-Package-Version=0.3.9-6
+X-Arch-Package-Description=A fast and powerful twin-panel file manager
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.hi-net.cz/blaza/bfcommander/
+X-Arch-Package-Votes=16

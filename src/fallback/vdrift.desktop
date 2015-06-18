@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=VDrift
+GenericName=Racing Simulation
+Comment="Open source racing simulation with drifting in mind"
+Icon=vdrift.png
+TryExec=/usr/bin/vdrift
+Exec=/usr/bin/vdrift
+Categories=Game;Simulation;
+Path=.
+X-AppInstall-Package=vdrift-svn
+X-AppInstall-Popcon=17
+X-AppInstall-Section=aur
+X-Arch-Package=vdrift-svn 2514-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=vdrift-svn
+X-Arch-Package-Version=2514-1
+X-Arch-Package-Description=Drift Racing Simulation Game (Full-Install)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://vdrift.net
+X-Arch-Package-Votes=17

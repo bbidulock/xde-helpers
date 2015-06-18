@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=News
+GenericName=RSS Feed Ticker
+Icon=/usr/share/pixmaps/news.png
+TryExec=/usr/bin/news
+Exec=news
+Categories=Network;
+X-AppInstall-Package=news
+X-AppInstall-Section=aur
+X-Arch-Package=news 0.5.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=news
+X-Arch-Package-Version=0.5.0-2
+X-Arch-Package-Description=RSS Feed Ticker bar on your desktop as on news TV channels.
+X-Arch-Package-URL=http://rssfeedticker.free.fr/

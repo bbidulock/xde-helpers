@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Raritan Multi-Platform Client
+Comment=Raritan Multi-Platform Client
+Icon=/opt/raritan-mpc-7.0.1/raritanIcon.png
+TryExec=/opt/raritan-mpc-7.0.1/start.sh
+Exec=/opt/raritan-mpc-7.0.1/start.sh
+Categories=System;Utility;
+X-AppInstall-Package=raritan-mpc
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=raritan-mpc 7.0.3.5.60-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=raritan-mpc
+X-Arch-Package-Version=7.0.3.5.60-1
+X-Arch-Package-Description=Standalone multiplatform client for Raritan Dominion
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.raritan.com/support/
+X-Arch-Package-Votes=1

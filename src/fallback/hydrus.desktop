@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=148
+Type=Application
+Name=Hydrus Client
+Comment=A booru-like media organizer for the desktop
+Icon=/opt/hydrus/static/hydrus_non-transparent.png
+TryExec=/usr/bin/hydrus-client
+Exec=hydrus-client
+Categories=Application;Graphics;Network;FileTools;
+X-AppInstall-Package=hydrus
+X-AppInstall-Section=aur
+X-Arch-Package=hydrus 159-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=hydrus
+X-Arch-Package-Version=159-1
+X-Arch-Package-Description=Danbooru-like image tagging and searching system for the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://hydrusnetwork.github.io/hydrus/
+X-Arch-Package-Votes=0

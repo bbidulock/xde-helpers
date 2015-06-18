@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Ryzom
+GenericName=ryzom
+Comment=Ryzom
+Icon=/usr/share/ryzom/data/ryzom.png
+TryExec=/usr/bin/ryzom
+Exec=/usr/bin/ryzom
+Categories=Game;RolePlaying;
+X-AppInstall-Package=ryzom-client-latest-hg
+X-AppInstall-Section=aur
+X-Arch-Package=ryzom-client-latest-hg 20121017-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ryzom-client-latest-hg
+X-Arch-Package-Version=20121017-2
+X-Arch-Package-Description=Ryzom is a Pay to Play MMORPG with a free demo. This version
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.ryzom.com/
+X-Arch-Package-Votes=0

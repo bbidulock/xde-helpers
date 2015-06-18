@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=gtk-gnutella-upnp
+GenericName=P2P Client (with UPnP)
+Comment=A GUI based Gnutella Servent (with UPnP)
+Icon=gtk-gnutella.png
+TryExec=/usr/bin/gtk-gnutella-upnp
+Exec=gtk-gnutella-upnp
+Categories=Application;Network;FileTransfer;P2P;GTK;
+StartupNotify=false
+X-AppInstall-Package=gtk-gnutella-upnp
+X-AppInstall-Section=aur
+X-Arch-Package=gtk-gnutella-upnp 1.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gtk-gnutella-upnp
+X-Arch-Package-Version=1.1-1
+X-Arch-Package-Description=Small wrapper to automatically enable upnp port-forwarding for gtk-gnutella (doesn't work with port randomizing)
+X-Arch-Package-URL=http://gtk-gnutella.sourceforge.net/

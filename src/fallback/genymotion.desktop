@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Genymotion
+Comment=Virtual environment for Android.
+Icon=/opt/genymotion/icons/icon.png
+TryExec=/usr/bin/genymotion
+Exec=/usr/bin/genymotion
+Categories=Development;
+X-AppInstall-Package=genymotion
+X-AppInstall-Popcon=139
+X-AppInstall-Section=aur
+X-Arch-Package=genymotion 2.4.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=genymotion
+X-Arch-Package-Version=2.4.0-1
+X-Arch-Package-Description=Complete set of tools that provides a virtual environment for
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.genymotion.com/
+X-Arch-Package-Votes=139

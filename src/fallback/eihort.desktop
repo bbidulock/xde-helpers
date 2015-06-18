@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Eihort
+GenericName=A OpenGL world renderer for minecraft with a really long view distance
+Icon=eihort
+TryExec=/usr/bin/eihort
+Exec=eihort
+Categories=Game;
+X-AppInstall-Package=eihort
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=eihort 0.3.13-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=eihort
+X-Arch-Package-Version=0.3.13-2
+X-Arch-Package-Description=A OpenGL world renderer for minecraft with a really long view
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.minecraftforum.net/topic/438878-/
+X-Arch-Package-Votes=4

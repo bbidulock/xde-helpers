@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=xpsk31
+Comment=psk31 engine
+Icon=xpsk31
+TryExec=/usr/bin/xpsk31
+Exec=xpsk31
+Categories=Application;HamRadio;
+StartupNotify=true
+X-AppInstall-Package=xpsk31
+X-AppInstall-Section=aur
+X-Arch-Package=xpsk31 3.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xpsk31
+X-Arch-Package-Version=3.1-1
+X-Arch-Package-Description=Ham Radio PSK31 engine using X/GTK+
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.qsl.net/5b4az/pkg/psk31/xpsk31/xpsk31.html
+X-Arch-Package-Votes=0

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Tile Molester
+GenericName=Tile Editor
+Icon=tile-molester
+TryExec=/usr/bin/tile-molester
+Exec=tile-molester
+Categories=Game;Utility;
+X-AppInstall-Package=tile-molester
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=tile-molester 0.15a-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tile-molester
+X-Arch-Package-Version=0.15a-5
+X-Arch-Package-Description=Tile Molester is the next generation of tile editors
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.zophar.net/utilities/graphutil/tile-molester.html
+X-Arch-Package-Votes=1

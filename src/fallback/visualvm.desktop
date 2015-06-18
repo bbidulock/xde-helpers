@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=VisualVM
+GenericName=Java VM monitoring and troubleshooting tool
+Icon=/opt/visualvm/bin/icon.png
+TryExec=/usr/bin/visualvm
+Exec=/usr/bin/visualvm
+Categories=Development;
+X-AppInstall-Package=visualvm
+X-AppInstall-Section=extra
+X-Arch-Package=visualvm 1.3.6-2
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=visualvm
+X-Arch-Package-Version=1.3.8-1
+X-Arch-Package-Description=Visual tool integrating several commandline JDK tools and lightweight profiling capabilities
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://visualvm.java.net/

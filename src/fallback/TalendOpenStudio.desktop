@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Talend Open Studio
+Comment=Data and Information Quality suite
+Icon=/opt/talend-studio/icon.gif
+TryExec=/usr/bin/talend-studio
+Exec=talend-studio
+Categories=Office;
+X-AppInstall-Package=talend-studio
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=talend-studio 4.2.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=talend-studio
+X-Arch-Package-Version=4.2.2-2
+X-Arch-Package-Description=Data and Information Quality software suite.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.talend.com
+X-Arch-Package-Votes=6

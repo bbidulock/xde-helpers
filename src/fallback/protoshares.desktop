@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Protoshares
+Comment=Protoshares P2P Cryptocurrency
+Icon=/usr/share/pixmaps/primecoin256.png
+TryExec=/usr/bin/protoshares-qt
+Exec=/usr/bin/protoshares-qt
+Categories=Network;
+MimeType=x-scheme-handler/protoshares;
+X-AppInstall-Package=protoshares-qt-git
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=protoshares-qt-git 0.8.5.45.g6b3776c-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=protoshares-qt-git
+X-Arch-Package-Version=0.8.5.45.g6b3776c-2
+X-Arch-Package-Description=Cryptocurrency with Scientific Computing Momentum
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://invictus-innovations.com/protoshares
+X-Arch-Package-Votes=4

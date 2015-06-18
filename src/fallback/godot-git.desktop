@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Godot
+Comment=Application for making games
+Icon=godot
+TryExec=/usr/bin/godot
+Exec=/usr/bin/godot %U
+NoDisplay=true
+Categories=Game;Utility;
+X-AppInstall-Package=-git
+X-AppInstall-Popcon=16
+X-AppInstall-Section=aur
+X-Arch-Package=godot-git 1.1._stable_f8f3362-1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=-git
+X-Arch-Package-Version=1.1._stable_f8f3362-1-1
+X-Arch-Package-Description=Godot Game Engine.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.godotengine.org
+X-Arch-Package-Votes=16
+Aliases=godot;

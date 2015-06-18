@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=0.24
+Type=Application
+Name=Razercfg
+Comment=Next generation Razer device configuration tool
+Icon=razer.svg
+TryExec=/usr/bin/qrazercfg
+Exec=qrazercfg
+Categories=System;HardwareSettings;Qt;
+X-AppInstall-Package=razercfg
+X-AppInstall-Popcon=27
+X-AppInstall-Section=aur
+X-Arch-Package=razercfg 0.32-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=razercfg
+X-Arch-Package-Version=0.32-1
+X-Arch-Package-Description=Next generation Razer device configuration tool
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://dual.bues.ch/cms/hacking/razercfg.html
+X-Arch-Package-Votes=27

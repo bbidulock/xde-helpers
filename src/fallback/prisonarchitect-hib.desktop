@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Prison Architect
+Comment=Prison construction and management simulation
+Icon=prisonarchitect
+TryExec=/usr/bin/prisonarchitect
+Exec=prisonarchitect
+NoDisplay=true
+Categories=Game;Simulation;
+X-AppInstall-Package=prisonarchitect-hib
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=prisonarchitect-hib alpha32a-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=prisonarchitect-hib
+X-Arch-Package-Version=alpha32a-1
+X-Arch-Package-Description=Prison construction and management simulation (Humble Bundle
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.introversion.co.uk/prisonarchitect/
+X-Arch-Package-Votes=2
+Aliases=prisonarchitect;

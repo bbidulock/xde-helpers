@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=qcat
+Comment=CD/DVD/Media cataloging software in qt4
+Icon=qcat.png
+TryExec=/usr/bin/qcat
+Exec=qcat
+Categories=Utility;Qt;
+X-KDE-StartupNotify=true
+X-AppInstall-Package=qcat
+X-AppInstall-Section=aur
+X-Arch-Package=qcat 0.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qcat
+X-Arch-Package-Version=0.5-1
+X-Arch-Package-Description=CD/DVD/Media cataloging software in qt4
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kde-apps.org/content/show.php/QCat?content=62522
+X-Arch-Package-Votes=0

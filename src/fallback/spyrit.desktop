@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Spyrit
+GenericName=MUD client
+Comment=Connect to MUD/MUSH/MOO servers
+Icon=spyrit-icon
+TryExec=/usr/bin/spyrit
+Exec=spyrit
+Categories=Game;Network;Qt;
+X-AppInstall-Package=spyrit-hg
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=spyrit-hg 590-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=spyrit-hg
+X-Arch-Package-Version=590-1
+X-Arch-Package-Description=A modern client for MUSH, MUCK, MOO and MUD textual
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://spyrit.ierne.eu.org/
+X-Arch-Package-Votes=2

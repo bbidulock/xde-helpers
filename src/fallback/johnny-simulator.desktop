@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Johnny-simulator
+GenericName=Johnyy Simulator
+Comment=Johnny Simulator
+TryExec=/usr/bin/johnny-simulator
+Exec=johnny-simulator
+Categories=Development;
+X-AppInstall-Package=johnny-simulator
+X-AppInstall-Section=aur
+X-Arch-Package=johnny-simulator 1.01-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=johnny-simulator
+X-Arch-Package-Version=1.01-1
+X-Arch-Package-Description=Johnny - A Simulator of a Simple von-Neumann Computer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/johnnysimulator/
+X-Arch-Package-Votes=0

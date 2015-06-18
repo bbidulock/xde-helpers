@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=SKCraft Launcher
+GenericName=skcraftlauncher
+Comment=An open-source Minecraft launcher for downloading, installing, and updating modpacks.
+Icon=/usr/share/pixmaps/SKCraftLauncher.png
+TryExec=/usr/bin/skcraft
+Exec=skcraft
+Categories=Game;
+X-AppInstall-Package=skcraft-launcher
+X-AppInstall-Section=aur
+X-Arch-Package=skcraft-launcher latest-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=skcraft-launcher
+X-Arch-Package-Version=latest-1
+X-Arch-Package-Description=SKCraft Launcher - An open-source Minecraft launcher for
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://skcraft.com
+X-Arch-Package-Votes=0

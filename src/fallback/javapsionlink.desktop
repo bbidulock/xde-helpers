@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Java Psion Link
+GenericName=Psion data transfer
+GenericName[de]=Psion Datentransfer
+Comment=Data transfer between Psion EPOC PDA and PC via RS-232; PsiWin clone
+Comment[de]=Datentransfer zwischen Psion EPOC PDA und PC über RS-232; PsiWin-Klon
+Icon=/usr/share/pixmaps/javapsionlink.gif
+TryExec=/usr/bin/jpl2
+Exec=jpl2
+Categories=Utility;FileTools;Java;
+X-AppInstall-Package=javapsionlink-cvs
+X-AppInstall-Section=aur
+X-Arch-Package=javapsionlink-cvs 2.0_beta1-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=javapsionlink-cvs
+X-Arch-Package-Version=2.0_beta1-3
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://littlespikeyland.com/psionlink/
+X-Arch-Package-Votes=0

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=btcgui
+Comment=A graphical client for btcwallet and btcd.
+TryExec=/usr/bin/btcgui
+Exec=btcgui
+NoDisplay=true
+Categories=Network;
+X-AppInstall-Package=btcgui-git
+X-AppInstall-Section=aur
+X-Arch-Package=btcgui-git 0.2.2.ALPHA.r9.g81a722b-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=btcgui-git
+X-Arch-Package-Version=0.2.2.ALPHA.r9.g81a722b-1
+X-Arch-Package-Description=A graphical client for btcwallet and btcd written using gotk3.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/conformal/btcwallet
+X-Arch-Package-Votes=0
+Aliases=btcgui;

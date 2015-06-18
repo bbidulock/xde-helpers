@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Thunderbird Aurora
+GenericName=Mail Client & News Reader
+Comment=Mail & News Reader
+Icon=thunderbird
+TryExec=/usr/bin/thunderbird-aurora
+Exec=thunderbird-aurora %u
+Categories=Network;Email;
+MimeType=message/rfc822;x-scheme-handler/mailto;
+StartupNotify=true
+X-AppInstall-Package=thunderbird-aurora
+X-AppInstall-Section=aur
+X-Arch-Package=thunderbird-aurora 14.0a2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=thunderbird-aurora
+X-Arch-Package-Version=14.0a2-1
+X-Arch-Package-Description=Standalone Mail/News reader - Aurora channel
+X-Arch-Package-URL=http://www.mozilla.org/thunderbird

@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Shotgun Debugger
+TryExec=/usr/bin/shotgun-debugger
+Exec=shotgun-debugger
+Categories=Application;Game;
+X-AppInstall-Package=shotgun-debugger
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=shotgun-debugger 1.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=shotgun-debugger
+X-Arch-Package-Version=1.1-1
+X-Arch-Package-Description=A futuristic overhead action game.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.msarnoff.org/sdb/
+X-Arch-Package-Votes=5

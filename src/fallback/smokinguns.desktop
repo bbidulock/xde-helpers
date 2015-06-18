@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Smokin' Guns
+Icon=smokinguns.png
+TryExec=/usr/bin/smokinguns
+Exec=smokinguns
+Categories=Game;
+X-AppInstall-Package=smokinguns
+X-AppInstall-Popcon=18
+X-AppInstall-Section=aur
+X-Arch-Package=smokinguns 1.1-8
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=smokinguns
+X-Arch-Package-Version=1.1-8
+X-Arch-Package-Description=A semi-realistic simulation of the "old west" great atmosphere
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.smokin-guns.org
+X-Arch-Package-Votes=18

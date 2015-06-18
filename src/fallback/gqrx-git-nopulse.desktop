@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=GQRX SDR
+GenericName=SDR Software
+Comment=Controller application for various Software Defined Radios
+Icon=gqrx
+TryExec=/usr/bin/gqrx
+Exec=gqrx
+NoDisplay=true
+Categories=AudioVideo;Audio;HamRadio;
+StartupNotify=false
+X-AppInstall-Package=gqrx-git-nopulse
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=gqrx-git-nopulse 20140411-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gqrx-git-nopulse
+X-Arch-Package-Version=20140411-2
+X-Arch-Package-Description=SDR receiver for Funcube Dongle, RTL-SDR, USRP and OsmoSDR
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.oz9aec.net/index.php/gnu-radio/gqrx-sdr
+X-Arch-Package-Votes=4
+Aliases=gqrx;

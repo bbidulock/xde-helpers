@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Cuevana Storm
+Comment=Stream torrent movies
+Icon=cuevana-storm
+TryExec=/usr/bin/cuevana-storm
+Exec=cuevana-storm
+Categories=Video;Network;Player;
+X-AppInstall-Package=cuevana-storm
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=cuevana-storm 0.3.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cuevana-storm
+X-Arch-Package-Version=0.3.2-1
+X-Arch-Package-Description=Cuevana Storm desktop app based in peerflix module.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.cuevana.tv
+X-Arch-Package-Votes=2

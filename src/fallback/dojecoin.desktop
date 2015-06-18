@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Dojecoin
+Comment=Dojecoin P2P Cryptocurrency
+Icon=/usr/share/pixmaps/dojecoin.png
+TryExec=/usr/bin/dojecoin-qt
+Exec=/usr/bin/dojecoin-qt
+Categories=Network;
+MimeType=x-scheme-handler/dojecoin;
+X-AppInstall-Package=dojecoin-qt
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=dojecoin-qt initial-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dojecoin-qt
+X-Arch-Package-Version=initial-1
+X-Arch-Package-Description=A QT wallet for the cryptocurrency Dojecoin.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://dojecoin.com/
+X-Arch-Package-Votes=1

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Kokua-SecondLife
+GenericName=A third-party viewer for Second Life (C) (only)
+Comment=A third party viewer for Second Life (C) (only)
+Icon=/usr/share/pixmaps/kokua-secondlife.png
+TryExec=/usr/bin/kokua-secondlife
+Exec=/usr/bin/kokua-secondlife
+Categories=Game;
+X-AppInstall-Package=kokua-secondlife
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=kokua-secondlife 3.7.27.35441-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kokua-secondlife
+X-Arch-Package-Version=3.7.27.35441-1
+X-Arch-Package-Description=An Open Source third party viewer for Second Life®
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.kokuaviewer.org
+X-Arch-Package-Votes=7

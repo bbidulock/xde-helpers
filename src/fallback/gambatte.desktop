@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Gambatte
+Comment=Game Boy/Game Boy Color emulator
+Icon=gambatte
+TryExec=/usr/bin/gambatte_qt
+Exec=gambatte_qt
+Categories=Game;Emulator;
+X-AppInstall-Package=gambatte
+X-AppInstall-Section=aur
+X-Arch-Package=gambatte 0.5.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gambatte
+X-Arch-Package-Version=0.5.0-3
+X-Arch-Package-Description=An accuracy-focused Game Boy Color emulator
+X-Arch-Package-URL=http://sourceforge.net/projects/gambatte/

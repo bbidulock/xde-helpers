@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Gerix Wifi Cracker NG
+Comment=A really complete GUI for Aircrack-NG which includes useful extras
+Icon=/usr/share/gerix-wifi-cracker-ng/gerix_wifi_cracker.png
+TryExec=/usr/bin/gksu
+Exec=gksu gerix
+NoDisplay=true
+Categories=Application;Network;
+StartupNotify=true
+X-AppInstall-Package=gerix-wifi-cracker-ng
+X-AppInstall-Section=aur
+X-Arch-Package=gerix-wifi-cracker-ng r20-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gerix-wifi-cracker-ng
+X-Arch-Package-Version=r20-4
+X-Arch-Package-Description=A really complete GUI for Aircrack-NG which includes useful extras.
+X-Arch-Package-URL=http://backtrack.it/~emgent/hackstuff/Gerix-Wifi-Cracker-NG/
+Aliases=gerix;

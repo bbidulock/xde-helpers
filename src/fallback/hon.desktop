@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Heroes of Newerth
+GenericName=Heroes of Newerth
+Icon=/opt/hon/honicon_128x128.png
+TryExec=/usr/bin/hon
+Exec=/usr/bin/hon
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=hon
+X-AppInstall-Popcon=80
+X-AppInstall-Section=aur
+X-Arch-Package=hon 3.6.4.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=hon
+X-Arch-Package-Version=3.6.4.1-2
+X-Arch-Package-Description=Heroes of Newerth is a Real Time Strategy game heavily
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.heroesofnewerth.com/
+X-Arch-Package-Votes=80

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=SynthForge
+GenericName=SynthForge
+Comment=Modular Synthesizer
+Icon=synthforge
+TryExec=/usr/bin/synthforge
+Exec=synthforge
+Categories=AudioVideo;Audio;Gtk;Synth;
+X-AppInstall-Package=synthforge
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=synthforge 0.3-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=synthforge
+X-Arch-Package-Version=0.3-2
+X-Arch-Package-Description=A modular synthesiser for creating audio synths and effects
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/synthforge/
+X-Arch-Package-Votes=3

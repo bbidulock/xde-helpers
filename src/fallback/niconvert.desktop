@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Niconvert
+GenericName=Niconvert
+Comment=DanMoKu Converter
+Comment[zh_CN]=弹幕转换器
+Icon=/usr/share/niconvert/niconvert/assets/logo.svg
+TryExec=/usr/bin/python3
+Exec=python3 /usr/share/niconvert/niconvert.pyw tk %U
+NoDisplay=true
+Categories=AudioVideo;AudioVideoEditing;
+StartupNotify=false
+X-AppInstall-Package=niconvert-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=niconvert-git 84.bc95b4f-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=niconvert-git
+X-Arch-Package-Version=84.bc95b4f-1
+X-Arch-Package-Description=Danmaku download and convert tool.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/muzuiget/niconvert
+X-Arch-Package-Votes=1

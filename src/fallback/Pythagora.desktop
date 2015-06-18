@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Pythagora
+GenericName=Pythagora
+Comment=QT frontend for MPD
+Icon=/usr/share/Pythagora/ui/icons/Pythagora.png
+TryExec=/usr/bin/pythagora
+Exec=pythagora
+Categories=AudioVideo;KDE;Qt;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=pythagora-git
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=pythagora-git 2014.07.02-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pythagora-git
+X-Arch-Package-Version=2014.07.02-2
+X-Arch-Package-Description=MPD frontend using Qt, supports Shoutcast and Icecast
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.tarmack.eu/pythagora.html
+X-Arch-Package-Votes=6

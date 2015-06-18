@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=UnTV
+Comment=DRM-Free Media Center Platform for Home Theater Computers
+Icon=UnTV
+TryExec=/usr/bin/UnTV
+Exec=UnTV %U
+Categories=AudioVideo;Video;Network;Player;
+X-AppInstall-Package=untv
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=untv 0.8.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=untv
+X-Arch-Package-Version=0.8.2-1
+X-Arch-Package-Description=DRM-Free Media Center Platform for Home Theater Computers
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://untvapp.com
+X-Arch-Package-Votes=2

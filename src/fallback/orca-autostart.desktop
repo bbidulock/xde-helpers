@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Orca screen reader
+TryExec=/usr/bin/orca
+Exec=orca --no-setup --disable main-window --disable splash-window --disable magnifier --enable speech --enable braille
+NoDisplay=true
+OnlyShowIn=GNOME;
+StartupNotify=false
+X-GNOME-AutoRestart=true
+X-AppInstall-Package=orca
+X-AppInstall-Section=extra
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=orca
+X-Arch-Package-Version=3.16.2-1
+X-Arch-Package-Description=Screen reader for individuals who are blind or visually impaired
+X-Arch-Package-Groups=gnome-extra
+X-Arch-Package-URL=http://www.gnome.org/projects/orca
+AutostartCondition=GSettings org.gnome.desktop.a11y.applications screen-reader-enabled

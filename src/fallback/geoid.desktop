@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Geoid
+Comment=Geodetic computer for amateur radio use
+Icon=geoid
+TryExec=/usr/bin/xgeoid
+Exec=xgeoid
+X-DCOP-ServiceType=none
+Categories=Network;HamRadio;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=geoid
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=geoid 1.0-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=geoid
+X-Arch-Package-Version=1.0-4
+X-Arch-Package-Description=Geodetic computer for amateur radio use
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.w1hkj.com/#Geoid
+X-Arch-Package-Votes=3

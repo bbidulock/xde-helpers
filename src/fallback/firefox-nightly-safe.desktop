@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Firefox Nightly - Safe Mode
+GenericName=Web Browser - Safe Mode
+Icon=firefox-nightly-icon
+TryExec=/usr/bin/firefox-nightly
+Exec=firefox-nightly -safe-mode %u
+MultipleArgs=false
+Categories=Application;Network;
+MimeType=text/html;
+StartupNotify=false
+X-AppInstall-Package=firefox-always-nightly
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=firefox-always-nightly 99.0a1-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firefox-always-nightly
+X-Arch-Package-Version=99.0a1-5
+X-Arch-Package-Description=Standalone web browser from mozilla.org, nightly build, always
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://nightly.mozilla.org
+X-Arch-Package-Votes=5

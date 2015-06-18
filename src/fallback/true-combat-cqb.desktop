@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=True Combat: Elite - Close Quarters Combat
+Comment=True Combat: Elite - Close Quarters Combat (TCE: CQB) is a completely free, realistic, team-based modification for Enemy Territory
+TryExec=/usr/bin/true-combat-cqb
+Exec=/usr/bin/true-combat-cqb
+Categories=Application;Game;
+StartupNotify=false
+X-AppInstall-Package=true-combat-cqb
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package=true-combat-cqb 0.223-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=true-combat-cqb
+X-Arch-Package-Version=0.223-1
+X-Arch-Package-Description=True Combat: Elite - Close Quartiers Combat (TCE: CQB) is a
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.truecombatelite.com/
+X-Arch-Package-Votes=11

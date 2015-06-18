@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=TurboPrint Monitor
+Comment=Monitor TurboPrint printers
+Icon=tpmonitor.png
+TryExec=/usr/bin/turboprint-monitor
+Exec=turboprint-monitor
+Categories=Settings;System;
+StartupNotify=false
+X-AppInstall-Package=turboprint
+X-AppInstall-Popcon=45
+X-AppInstall-Section=aur
+X-Arch-Package=turboprint 2.36-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=turboprint
+X-Arch-Package-Version=2.36-1
+X-Arch-Package-Description=High-quality printer driver system for Linux
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.turboprint.info/
+X-Arch-Package-Votes=45

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=ProTracker
+GenericName=ProTracker Music Program
+Comment=Tracker
+Icon=protracker
+TryExec=/usr/bin/protracker
+Exec=protracker
+Categories=Music;
+X-AppInstall-Package=protracker-beta
+X-AppInstall-Section=aur
+X-Arch-Package=protracker-beta 549-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=protracker-beta
+X-Arch-Package-Version=549-2
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://protracker.sourceforge.net/
+X-Arch-Package-Votes=0

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Ion3 Session
+Name[fr]=Session Ion3
+Comment=Use this session to run Ion3 as your window manager
+Comment[fr]=Utilisez cette session pour exécuter Ion3 comme gestionnaire de fenêtres
+TryExec=/usr/bin/ion3
+Exec=ion3
+X-AppInstall-Package=ion3
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=ion3 20090110-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ion3
+X-Arch-Package-Version=20090110-1
+X-Arch-Package-Description=Tiling tabbed window manager designed with keyboard users in
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://modeemi.fi/~tuomov/ion/
+X-Arch-Package-Votes=7

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Besiege
+GenericName=Besiege
+Comment=A physics based building puzzler.
+Icon=/usr/share/besiege/Besiege_Data/Resources/UnityPlayer.png
+TryExec=/usr/bin/besiege
+Exec=/usr/bin/besiege
+Categories=Game;
+X-AppInstall-Package=besiege
+X-AppInstall-Section=aur
+X-Arch-Package=besiege 0.08-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=besiege
+X-Arch-Package-Version=0.08-1
+X-Arch-Package-Description=A physics based building puzzler.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://besiegethegame.com/
+X-Arch-Package-Votes=0

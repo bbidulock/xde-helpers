@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=QJoyPad
+GenericName=Simulated Keystrokes
+GenericName[de]=Simulierte Tastendrücke
+Comment=Trigger keystrokes and mouse actions with gamepads/joysticks
+Comment[de]=Löse mit dem Gamepad/Joystick Tastendrücke und Mausbewegungen aus
+Icon=qjoypad
+TryExec=/usr/bin/qjoypad
+Exec=qjoypad
+NoDisplay=true
+Categories=Game;Utility;
+StartupNotify=false
+X-AppInstall-Package=-svn
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=qjoypad-svn 133-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=-svn
+X-Arch-Package-Version=133-1
+X-Arch-Package-Description=Program with a QT interface that converts gamepad/joystick
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://qjoypad.sourceforge.net/
+X-Arch-Package-Votes=3
+Aliases=qjoypad;

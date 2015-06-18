@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Funguloids
+Comment=Those Funny Funguloids!
+Icon=funguloids
+TryExec=/usr/bin/funguloids
+Exec=funguloids
+Categories=Game;
+StartupNotify=true
+X-AppInstall-Package=funguloids
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=funguloids 1.06.4-7
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=funguloids
+X-Arch-Package-Version=1.06.4-7
+X-Arch-Package-Description=3D game about collecting mushrooms in outerspace
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://funguloids.sourceforge.net/
+X-Arch-Package-Votes=9

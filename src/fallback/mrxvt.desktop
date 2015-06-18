@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=mrxvt
+GenericName=Terminal
+Comment=MultiTabbed rxvt Terminal
+Icon=mrxvt
+TryExec=/usr/bin/mrxvt
+Exec=mrxvt
+Categories=System;TerminalEmulator;
+X-AppInstall-Package=mrxvt
+X-AppInstall-Popcon=19
+X-AppInstall-Section=aur
+X-Arch-Package=mrxvt 0.5.4-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mrxvt
+X-Arch-Package-Version=0.5.4-5
+X-Arch-Package-Description=A multi-tabbed X terminal emulator based on rxvt code (also
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://materm.sourceforge.net
+X-Arch-Package-Votes=19

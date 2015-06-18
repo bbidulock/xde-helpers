@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Quest Soft Player
+Comment=Quest Soft Player is another interactive story player (it's own qsp format)
+Icon=qsp
+TryExec=/usr/bin/qsp-gui
+Exec=qsp-gui
+Categories=Application;Game;
+MimeType=application/x-qsp;
+StartupNotify=false
+X-AppInstall-Package=qsp-bin
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=qsp-bin 5.7.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qsp-bin
+X-Arch-Package-Version=5.7.0-3
+X-Arch-Package-Description=Quest Soft Player is another interactive fiction player (only
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://qsp.su/
+X-Arch-Package-Votes=1

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Kiki
+Comment=Regular expression testing
+Icon=kiki
+TryExec=/usr/bin/kiki-re
+Exec=kiki-re
+Categories=Development;
+X-AppInstall-Package=kiki-re
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=kiki-re 0.5.6-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kiki-re
+X-Arch-Package-Version=0.5.6-3
+X-Arch-Package-Description=Free environment for regular expression testing
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kiki-re.googlecode.com/
+X-Arch-Package-Votes=5

@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=bsnes-_ui-_profile
+Comment=SNES emulator
+Icon=bsnes
+TryExec=/usr/bin/bsnes-_ui-_profile.sh
+Exec=bsnes-_ui-_profile.sh
+Categories=Game;Emulator;
+X-AppInstall-Package=bsnes-aio
+X-AppInstall-Section=aur
+X-Arch-Package=bsnes-aio 091-10
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bsnes-aio
+X-Arch-Package-Version=091-10
+X-Arch-Package-Description=SNES emulator focused on accuracy, debugging functionality, and clean code
+X-Arch-Package-URL=http://byuu.org/bsnes/

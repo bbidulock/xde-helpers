@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=mGBA
+Comment=mGBA Game Boy Advance Emulator
+Icon=mgba.png
+TryExec=/usr/bin/"mgba-qt"
+Exec="mgba-qt"
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=mgba
+X-AppInstall-Section=aur
+X-Arch-Package=mgba 0.1.0-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mgba
+X-Arch-Package-Version=0.1.0-4
+X-Arch-Package-Description=A Nintendo Gameboy Advance Emulator focusing on both speed and accuracy
+X-Arch-Package-URL=https://endrift.com/mgba/

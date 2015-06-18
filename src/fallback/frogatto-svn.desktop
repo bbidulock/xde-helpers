@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Frogatto
+GenericName=Old-school 2D platformer
+Comment=Old-school 2D platformer
+Icon=/opt/frogatto/images/window-icon.png
+TryExec=/usr/bin/frogatto
+Exec=frogatto
+MultipleArgs=false
+NoDisplay=true
+Hidden=true
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=frogatto-svn
+X-AppInstall-Section=aur
+X-Arch-Package=frogatto-svn 4712-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=frogatto-svn
+X-Arch-Package-Version=4712-1
+X-Arch-Package-Description=An old-school 2d platformer game, starring a certain quixotic frog
+X-Arch-Package-URL=http://www.frogatto.com
+Aliases=frogatto;

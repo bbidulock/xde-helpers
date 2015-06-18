@@ -1,0 +1,22 @@
+[Desktop Entry]
+Version=3.6
+Type=Application
+Name=Eclipse
+Comment=Open Development Platform
+Icon=eclipse
+TryExec=/usr/bin/eclipse
+Exec=eclipse
+NoDisplay=true
+Categories=Development;IDE;GTK;
+StartupNotify=true
+X-AppInstall-Package=eclipse-platform38
+X-AppInstall-Section=aur
+X-Arch-Package=eclipse-platform38 3.8.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=eclipse-platform38
+X-Arch-Package-Version=3.8.2-1
+X-Arch-Package-Description=Eclipse Platform 3.8 without plug-ins and SDK (a minimal
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.eclipse.org
+X-Arch-Package-Votes=0
+Aliases=eclipse;

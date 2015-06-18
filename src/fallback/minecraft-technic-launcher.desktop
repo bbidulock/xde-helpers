@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Technic Launcher
+GenericName=Technic Launcher
+Comment=Choose from thousands of community-made Minecraft modpacks available on the Technic Platform.
+Icon=technic-launcher
+TryExec=/usr/bin/technic-launcher
+Exec=technic-launcher
+NoDisplay=true
+Categories=AudioVideo;Game;
+X-AppInstall-Package=minecraft-technic-launcher
+X-AppInstall-Popcon=41
+X-AppInstall-Section=aur
+X-Arch-Package=minecraft-technic-launcher 4.301-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=minecraft-technic-launcher
+X-Arch-Package-Version=4.301-3
+X-Arch-Package-Description=Choose from thousands of community-made Minecraft modpacks
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.technicpack.net/
+X-Arch-Package-Votes=41
+Aliases=technic-launcher;

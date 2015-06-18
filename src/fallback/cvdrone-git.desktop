@@ -1,0 +1,22 @@
+[Desktop Entry]
+Version=1.0.0
+Type=Application
+Name=CvDrone Example
+GenericName=CvDroneEx
+Comment=Example application for the CvDrone SDK
+TryExec=/usr/bin/cvdrone
+Exec=cvdrone
+NoDisplay=true
+Categories=Utility;
+X-AppInstall-Package=cvdrone-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=cvdrone-git 1.0.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cvdrone-git
+X-Arch-Package-Version=1.0.0-1
+X-Arch-Package-Description=AR Drone 2.0 SDK written in C++ and QT
+X-Arch-Package-Groups=devel
+X-Arch-Package-URL=https://burntbunch.org:1337/burntbunch/cutedrone
+X-Arch-Package-Votes=1
+Aliases=cvdrone;

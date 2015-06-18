@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=GridcoinResearch-Qt
+Comment=Gridcoin P2P Cryptocurrency
+Icon=grc-small
+TryExec=/usr/bin/gridcoinresearch
+Exec=/usr/bin/gridcoinresearch %u
+NoDisplay=true
+Categories=Office;Finance;
+MimeType=x-scheme-handler/gridcoin;
+X-AppInstall-Package=gridcoinresearch-git
+X-AppInstall-Section=aur
+X-Arch-Package=gridcoinresearch-git 3.3.9.5.r333.8d10d48-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gridcoinresearch-git
+X-Arch-Package-Version=3.3.9.5.r333.8d10d48-1
+X-Arch-Package-URL=http://gridcoin.us
+Aliases=gridcoinresearch-qt;

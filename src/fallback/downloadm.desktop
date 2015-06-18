@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=DownloadM
+Icon=downloadm
+TryExec=/usr/bin/downloadm
+Exec=downloadm
+Terminal=False
+Categories=Application;Network;
+StartupNotify=True
+X-AppInstall-Package=downloadm
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=downloadm 0.1.3-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=downloadm
+X-Arch-Package-Version=0.1.3-2
+X-Arch-Package-Description=A download accelerator/manager which uses aria2c as a backend.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/p/downloadm/
+X-Arch-Package-Votes=3

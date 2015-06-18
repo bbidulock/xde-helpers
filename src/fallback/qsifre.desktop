@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=qsifre
+GenericName=Password Management Tool
+GenericName[tr]=Parola Yönetim Uygulaması
+Comment=Password Management Tool
+Comment[tr]=Parola Yönetim Uygulaması
+Icon=/usr/share/pixmaps/qsifre.png
+TryExec=/usr/bin/qsifre
+Exec=qsifre
+Categories=Application;Utility;Qt;
+StartupNotify=false
+X-AppInstall-Package=qsifre
+X-AppInstall-Section=aur
+X-Arch-Package=qsifre 2.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qsifre
+X-Arch-Package-Version=2.0-2
+X-Arch-Package-Description=QSifre is a simple and easy to use password management tool.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://qsifre.sourceforge.net/
+X-Arch-Package-Votes=0

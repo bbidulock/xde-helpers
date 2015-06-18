@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=BotMU
+GenericName=Download Manager
+Comment=BotMU est un petit logiciel qui permet de lancer une liste de téléchargements via megaupload
+Icon=/usr/share/botmu/BotMU.ico
+TryExec=/usr/bin/botmu
+Exec=/usr/bin/botmu
+Categories=Network;
+StartupNotify=true
+X-AppInstall-Package=botmu
+X-AppInstall-Section=aur
+X-Arch-Package=botmu 1.0.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=botmu
+X-Arch-Package-Version=1.0.0-1
+X-Arch-Package-Description=petit logiciel qui permet de lancer une liste de téléchargements via megaupload
+X-Arch-Package-URL=http://botmu.sourceforge.net/

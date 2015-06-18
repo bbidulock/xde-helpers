@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Bitcoin
+Comment=Potcoin P2P Cryptocurrency
+Comment[fr]=Potcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Potcoin, eşten eşe kriptografik sanal para birimi
+Icon=/usr/share/pixmaps/bitcoin.png
+TryExec=/usr/bin/potcoin-qt
+Exec=/usr/bin/potcoin-qt %u
+NoDisplay=true
+Categories=Office;
+MimeType=x-scheme-handler/potcoin;
+X-AppInstall-Package=potcoin-qt
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=potcoin-qt 0.8.6.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=potcoin-qt
+X-Arch-Package-Version=0.8.6.2-2
+X-Arch-Package-Description=Cryptocurrency
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://potcoin.info/
+X-Arch-Package-Votes=1
+Aliases=potcoin;

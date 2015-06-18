@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Zotero
+GenericName=Zotero Standalone. Is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
+Icon=zotero
+TryExec=/usr/bin/zotero
+Exec=/usr/bin/zotero %f
+Categories=Office;
+X-AppInstall-Package=zotero
+X-AppInstall-Popcon=117
+X-AppInstall-Section=aur
+X-Arch-Package=zotero 4.0.26.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zotero
+X-Arch-Package-Version=4.0.26.3-1
+X-Arch-Package-Description=Zotero Standalone. Is a free, easy-to-use tool to help you
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.zotero.org/download
+X-Arch-Package-Votes=117

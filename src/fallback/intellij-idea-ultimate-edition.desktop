@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=IntelliJ IDEA Ultimate Edition
+Comment=Intelligent Java IDE
+Icon=intellij-idea-ultimate-edition
+TryExec=/usr/bin/intellij-idea-ultimate-edition
+Exec=intellij-idea-ultimate-edition %u
+NoDisplay=true
+Categories=Development;IDE;
+StartupWMClass=jetbrains-idea
+X-AppInstall-Package=intellij-idea-ultimate-edition
+X-AppInstall-Popcon=147
+X-AppInstall-Section=aur
+X-Arch-Package=intellij-idea-ultimate-edition 14.1.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=intellij-idea-ultimate-edition
+X-Arch-Package-Version=14.1.3-1
+X-Arch-Package-Description=An intelligent IDE for Java, Groovy and other programming
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.jetbrains.com/idea/
+X-Arch-Package-Votes=147
+Aliases=jetbrains-idea;

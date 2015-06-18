@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=GZDoom
+GenericName=Enhanced Doom Engine
+Icon=gzdoom
+TryExec=/usr/bin/gzdoom
+Exec=gzdoom %F
+Categories=Game;ActionGame;
+X-AppInstall-Package=gzdoom
+X-AppInstall-Popcon=39
+X-AppInstall-Section=aur
+X-Arch-Package=gzdoom 2.0.05-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gzdoom
+X-Arch-Package-Version=2.0.05-2
+X-Arch-Package-Description=Doom source port based on ZDoom with an OpenGL renderer.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.osnanet.de/c.oelckers/gzdoom/
+X-Arch-Package-Votes=39

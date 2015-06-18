@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=8 Kingdoms
+Comment=3D turn-based strategy game
+Icon=8kingdoms
+TryExec=/usr/bin/8kingdoms
+Exec=8kingdoms
+Categories=Game;StrategyGame;
+X-AppInstall-Package=8kingdoms
+X-AppInstall-Popcon=14
+X-AppInstall-Section=aur
+X-Arch-Package=8kingdoms 1.1.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=8kingdoms
+X-Arch-Package-Version=1.1.0-2
+X-Arch-Package-Description=A 3D turn-based fantasy strategy game in which players become
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kralovstvi.sourceforge.net/
+X-Arch-Package-Votes=14

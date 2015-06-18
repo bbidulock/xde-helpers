@@ -1,0 +1,26 @@
+[Desktop Entry]
+Version=3.0.0
+Type=Application
+Name=Ghemical
+GenericName=Computational chemistry package
+GenericName[de]=Chemisches Berechnungsprogramm
+Comment=3D molecule editor and computing program
+Comment[de]=3D Moleküleditor und Berechnungsprogramm
+Icon=/usr/share/ghemical/3.0.0/pixmaps/ghemical.png
+TryExec=/usr/bin/ghemical
+Exec=/usr/bin/ghemical
+NoDisplay=true
+Categories=Education;Science;Chemistry;
+StartupNotify=true
+X-AppInstall-Package=ghemical-mpqc
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=ghemical-mpqc 3.0.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ghemical-mpqc
+X-Arch-Package-Version=3.0.0-3
+X-Arch-Package-Description=Computational chemistry package. Version with enabled mpqc
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://bioinformatics.org/ghemical/ghemical/
+X-Arch-Package-Votes=1
+Aliases=ghemical;

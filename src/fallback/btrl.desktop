@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=BtRL
+GenericName=BtRL
+Comment=Beyond the Red Line
+Icon=/usr/share/pixmaps/btrl.png
+TryExec=/usr/bin/btrl
+Exec=/usr/bin/btrl
+Categories=Application;Game;KDE;GNOME;Qt;
+StartupNotify=true
+X-AppInstall-Package=btrl
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=btrl demo-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=btrl
+X-Arch-Package-Version=demo-2
+X-Arch-Package-Description=Beyond the Red Line is a completely free stand-alone
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.beyondtheredline.net/
+X-Arch-Package-Votes=8

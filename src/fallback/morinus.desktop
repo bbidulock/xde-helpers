@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Morinus
+Icon=morinus-portrait
+TryExec=/usr/bin/morinus
+Exec=morinus
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=morinus
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=morinus 6.2-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=morinus
+X-Arch-Package-Version=6.2-5
+X-Arch-Package-Description=Astrology software in wxPython
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://sites.google.com/site/pymorinus/
+X-Arch-Package-Votes=1

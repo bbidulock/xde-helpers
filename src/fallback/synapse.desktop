@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=Synapse
+Comment=A node based compositor
+TryExec=/usr/bin/synapse
+Exec=synapse
+Categories=Graphics;2DGraphics;RasterGraphics;
+X-AppInstall-Package=synapse-svn
+X-AppInstall-Section=aur
+X-Arch-Package=synapse-svn 772-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=synapse-svn
+X-Arch-Package-Version=772-1
+X-Arch-Package-Description=A node based compositor.
+X-Arch-Package-URL=https://code.google.com/p/vexx/

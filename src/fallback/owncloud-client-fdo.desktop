@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=ownCloud 2012 client
+GenericName=File Sync
+Comment=ownCloud - Your Cloud, Your Data, Your Way!
+Icon=mirall
+TryExec=/usr/bin/owncloud
+Exec=owncloud %u
+Categories=Utility;Qt;
+X-AppInstall-Package=owncloud-client-fdo
+X-AppInstall-Section=aur
+X-Arch-Package=owncloud-client-fdo 1.2.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=owncloud-client-fdo
+X-Arch-Package-Version=1.2.5-1
+X-Arch-Package-Description=ownCloud client based on mirall with Free Desktop notifications
+X-Arch-Package-URL=http://owncloud.org/

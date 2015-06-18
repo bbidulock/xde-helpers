@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Furius iConverter
+Comment=Video conversion tool for iPod, iPod Touch, and iPhone
+Icon=/usr/share/furiusiconverter/pix/logo.png
+TryExec=/usr/bin/furiusiconverter
+Exec=furiusiconverter
+Categories=AudioVideo;Utility;
+X-AppInstall-Package=furiusiconverter
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=furiusiconverter 0.2.0.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=furiusiconverter
+X-Arch-Package-Version=0.2.0.0-1
+X-Arch-Package-Description=A simple Gtk+ interface to convert any video to iPod, iPod
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://launchpad.net/furiusiconverter
+X-Arch-Package-Votes=9

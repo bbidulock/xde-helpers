@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=CoreBreach
+GenericName=Anti-gravity racing game
+Comment=CoreBreach is THE brand-new futuristic anti-gravity racing game with combat-based gameplay.
+Icon=/opt/corebreach/CoreBreach.app/Resources/corebreach.tiff
+TryExec=/usr/bin/corebreach
+Exec=corebreach
+Categories=Game;
+X-AppInstall-Package=corebreach
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=corebreach 1.1.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=corebreach
+X-Arch-Package-Version=1.1.5-1
+X-Arch-Package-Description=Futuristic "anti-gravity" racing game with combat-based
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://corebreach.corecode.at/
+X-Arch-Package-Votes=1

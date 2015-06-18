@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Foldit
+Comment=Foldit is a revolutionary new computer game enabling you to contribute to important scientific research.
+Icon=foldit
+TryExec=/usr/bin/foldit
+Exec=foldit
+Categories=Game;Science;
+X-AppInstall-Package=foldit
+X-AppInstall-Popcon=17
+X-AppInstall-Section=aur
+X-Arch-Package=foldit beta.20150330-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=foldit
+X-Arch-Package-Version=beta.20150330-2
+X-Arch-Package-Description=A game enabling you to contribute to important scientific
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://fold.it/
+X-Arch-Package-Votes=17

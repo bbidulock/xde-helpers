@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Plist Editor
+Comment=A GUI editor for Apple Property List files using libplist
+Icon=gnome-plist-editor
+TryExec=/usr/bin/gnome-plist-editor
+Exec=gnome-plist-editor
+X-AppInstall-Package=gnome-plist-editor-git
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=gnome-plist-editor-git r10.3e6fd48-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gnome-plist-editor-git
+X-Arch-Package-Version=r10.3e6fd48-1
+X-Arch-Package-Description=A GUI editor for Apple Property List files using libplist
+X-Arch-Package-Groups=multimedia
+X-Arch-Package-URL=http://cgit.sukimashita.com/gnome-plist-editor.git
+X-Arch-Package-Votes=5

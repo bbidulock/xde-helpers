@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=OpenBravo POS
+GenericName=OpenBravo
+Comment=Point-of-sale application.
+Icon=/usr/share/openbravopos/openbravo-logo-128.png
+TryExec=/usr/bin/openbravopos
+Exec=openbravopos
+Categories=Office;
+X-AppInstall-Package=openbravopos
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=openbravopos 2.30-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=openbravopos
+X-Arch-Package-Version=2.30-1
+X-Arch-Package-Description=An elegant POS application.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.openbravo.com
+X-Arch-Package-Votes=5

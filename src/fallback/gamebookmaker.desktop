@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Gamebook Maker
+GenericName=Gamebook Maker
+Comment=Design gamebooks with this editor
+Icon=gamebookmaker.png
+TryExec=/usr/bin/gamebookmaker
+Exec=gamebookmaker
+Categories=Application;Editor;
+X-AppInstall-Package=gamebookmaker
+X-AppInstall-Section=aur
+X-Arch-Package=gamebookmaker 2.11-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gamebookmaker
+X-Arch-Package-Version=2.11-1
+X-Arch-Package-Description=Design gamebooks with this editor.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://redohome.hd.free.fr/gameBooks/
+X-Arch-Package-Votes=0

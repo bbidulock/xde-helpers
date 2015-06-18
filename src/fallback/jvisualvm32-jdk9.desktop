@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Java VisualVM (32-bit)
+GenericName=Java Monitoring and Performance Monitoring Tool (32-bit)
+Icon=sun-java32-jdk9
+TryExec=/usr/lib32/jvm/java32-9-jdk/bin/jvisualvm
+Exec=/usr/lib32/jvm/java32-9-jdk/bin/jvisualvm
+Categories=Development;Java;
+StartupNotify=true
+X-AppInstall-Package=bin32-jdk-devel
+X-AppInstall-Section=aur
+X-Arch-Package=bin32-jdk-devel 9b68-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bin32-jdk-devel
+X-Arch-Package-Version=-1
+X-Arch-Package-Description=Oracle Java Development Kit Snapshot (32-bit)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://jdk.java.net/
+X-Arch-Package-Votes=0

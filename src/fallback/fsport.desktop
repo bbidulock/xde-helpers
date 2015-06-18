@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=FreeSpace Port
+Comment=FreeSpace 1 in the FS2 Open engine
+Icon=freespace2
+TryExec=/usr/bin/fsport
+Exec=fsport
+Categories=Game;
+X-AppInstall-Package=fsport
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=fsport 3.5-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fsport
+X-Arch-Package-Version=3.5-2
+X-Arch-Package-Description=The original FreeSpace campaigns ported to FreeSpace 2
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://fsport.hard-light.net/website/
+X-Arch-Package-Votes=4

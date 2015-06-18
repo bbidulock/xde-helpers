@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Firefox Beta - Safe Mode
+GenericName=Web Browser - Safe Mode
+Icon=firefox-beta-icon
+TryExec=/usr/bin/firefox-beta
+Exec=firefox-beta -safe-mode %u
+Categories=Network;WebBrowser;
+MimeType=text/html;text/xml;application/xhtml+xml;application/vnd.mozilla.xul+xml;text/mml;x-scheme-handler/http;x-scheme-handler/https;
+StartupNotify=true
+X-AppInstall-Package=firefox-beta-bin-all-localizations
+X-AppInstall-Popcon=24
+X-AppInstall-Section=aur
+X-Arch-Package=firefox-beta-bin-all-localizations 39.0b5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firefox-beta-bin-all-localizations
+X-Arch-Package-Version=39.0b5-1
+X-Arch-Package-Description=Perl script for installing latest FF beta in the language of
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.mozilla.com/firefox/channel/
+X-Arch-Package-Votes=24

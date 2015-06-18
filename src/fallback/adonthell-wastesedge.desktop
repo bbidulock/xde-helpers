@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Waste's Edge
+Comment=A 2D RPG for the Adonthell engine
+Icon=wastesedge
+TryExec=/usr/bin/adonthell-wastesedge
+Exec=adonthell-wastesedge
+Categories=Game;AdventureGame;RolePlaying;
+X-AppInstall-Package=adonthell-wastesedge
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=adonthell-wastesedge 0.3.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=adonthell-wastesedge
+X-Arch-Package-Version=0.3.5-1
+X-Arch-Package-Description=The official Adonthell RPG package
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://adonthell.linuxgames.com/
+X-Arch-Package-Votes=4

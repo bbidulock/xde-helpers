@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Bid For Power
+GenericName=DragonBall Fighting Game
+Icon=bid-for-power
+TryExec=/usr/bin/bid-for-power
+Exec=bid-for-power
+Categories=Game;ActionGame;
+StartupNotify=true
+DocPath=bid-for-power
+X-AppInstall-Package=bid-for-power
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=bid-for-power 1.2-7
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bid-for-power
+X-Arch-Package-Version=1.2-7
+X-Arch-Package-Description=Dragonball Z mod for ioquake3
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.moddb.com/mods/bid-for-power
+X-Arch-Package-Votes=3
+X-SuSE-translate=false

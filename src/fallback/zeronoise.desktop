@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Zeronoise
+Comment=HDR, get tiff from several shots without noise and a lot of dynamic range
+Icon=zeronoise
+TryExec=/usr/bin/zeronoise
+Exec=zeronoise
+Categories=Application;Graphics;Photography;
+StartupNotify=false
+X-AppInstall-Package=zeronoise
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=zeronoise 1.04.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zeronoise
+X-Arch-Package-Version=1.04.4-1
+X-Arch-Package-Description=HDR, get tiff from several shots without noise and a lot of
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.guillermoluijk.com/tutorial/zeronoise/index.htm
+X-Arch-Package-Votes=2

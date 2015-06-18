@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Videoporama
+GenericName=Videoporama
+Comment=a software to make image slideshow, export to video file.
+Icon=/usr/share/videoporama/icons/videoporama.png
+TryExec=/usr/bin/videoporama
+Exec=videoporama
+Categories=Application;AudioVideo;Video;
+StartupNotify=true
+X-AppInstall-Package=videoporama
+X-AppInstall-Popcon=26
+X-AppInstall-Section=aur
+X-Arch-Package=videoporama 0.8.2-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=videoporama
+X-Arch-Package-Version=0.8.2-4
+X-Arch-Package-Description=Make image slideshow, export to video file
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.videoporama.tuxfamily.org
+X-Arch-Package-Votes=26

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Metronome
+Comment=Simple Qt4 metronome
+TryExec=/usr/bin/metronome
+Exec=metronome
+Categories=Application;AudioVideo;Multimedia;
+StartupNotify=true
+X-AppInstall-Package=metronome
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=metronome 1.1-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=metronome
+X-Arch-Package-Version=1.1-3
+X-Arch-Package-Description=Simple metronome app written in Qt4 and ALSA
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.smultron.net/wiki/index.php/Metronome
+X-Arch-Package-Votes=8

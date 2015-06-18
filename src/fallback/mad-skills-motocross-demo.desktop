@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Mad Skills Motocross Demo
+Comment=A moto-cross racing game.
+Icon=msm-demo
+TryExec=/usr/bin/msm-demo
+Exec=msm-demo
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=mad-skills-motocross-demo
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=mad-skills-motocross-demo 1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mad-skills-motocross-demo
+X-Arch-Package-Version=1-2
+X-Arch-Package-Description=Mad Skills Motocross is a side-scrolling racing game (demo).
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.madskillsmotocross.com/
+X-Arch-Package-Votes=2
+Aliases=msm-demo;

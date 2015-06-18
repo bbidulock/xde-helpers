@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=OpenBOR
+Comment=Open Beats of Rage
+Icon=openbor
+TryExec=/usr/bin/openbor
+Exec=openbor
+Categories=Game;
+X-AppInstall-Package=openbor-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=openbor-git r473.afa9362-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=openbor-git
+X-Arch-Package-Version=r473.afa9362-1
+X-Arch-Package-Description=An open source, moddable fighting game engine (aka Beats of
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/rofl0r/openbor
+X-Arch-Package-Votes=1

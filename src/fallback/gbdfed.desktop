@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=gbdfed
+Comment=Bitmap font editor
+Icon=gbdfed
+TryExec=/usr/bin/gbdfed
+Exec=gbdfed %f
+Categories=Graphics;2DGraphics;RasterGraphics;GTK;
+X-AppInstall-Package=gbdfed
+X-AppInstall-Popcon=29
+X-AppInstall-Section=aur
+X-Arch-Package=gbdfed 1.6-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gbdfed
+X-Arch-Package-Version=1.6-3
+X-Arch-Package-Description=A GTK2 bitmap font editor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.math.nmsu.edu/~mleisher/Software/gbdfed/
+X-Arch-Package-Votes=29

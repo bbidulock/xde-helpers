@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Buddi
+Comment=Personal budget software for the rest of us
+Icon=buddi
+TryExec=/usr/bin/buddi
+Exec=buddi
+Categories=Office;
+X-AppInstall-Package=buddi
+X-AppInstall-Popcon=12
+X-AppInstall-Section=aur
+X-Arch-Package=buddi 3.4.1.12-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=buddi
+X-Arch-Package-Version=3.4.1.12-1
+X-Arch-Package-Description=personal finance and budgeting program, aimed at those who
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://buddi.digitalcave.ca/
+X-Arch-Package-Votes=12

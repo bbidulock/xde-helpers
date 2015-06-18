@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=fastcoin
+Comment=fastcoin P2P Cryptocurrency
+Icon=/usr/share/pixmaps/fastcoin128.png
+TryExec=/usr/bin/fastcoin-qt
+Exec=/usr/bin/fastcoin-qt
+Categories=Office;
+MimeType=x-scheme-handler/fastcoin;
+X-AppInstall-Package=fastcoin-qt
+X-AppInstall-Section=aur
+X-Arch-Package=fastcoin-qt 8.7.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fastcoin-qt
+X-Arch-Package-Version=8.7.2-1
+X-Arch-Package-Description=Peer-to-peer network based digital currency (QT)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.fastcoin.ca/
+X-Arch-Package-Votes=0

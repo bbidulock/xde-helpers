@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Violetland
+Icon=violetland
+TryExec=/usr/bin/violetland
+Exec=violetland
+Categories=Application;Game;
+X-AppInstall-Package=violetland
+X-AppInstall-Popcon=37
+X-AppInstall-Section=aur
+X-Arch-Package=violetland 0.4.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=violetland
+X-Arch-Package-Version=0.4.3-1
+X-Arch-Package-Description=Game where a girl, Violet, struggles with hordes of monsters.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/violetland/
+X-Arch-Package-Votes=37

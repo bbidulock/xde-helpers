@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Sublime Text 2
+GenericName=sophisticated text editor for code, html and prose
+Icon=/opt/sublime-text-2/sublime-text-2-icon.png
+TryExec=/usr/bin/sublime-text
+Exec=/usr/bin/sublime-text %U
+Categories=Office;
+MimeType=text/plain;
+X-AppInstall-Package=sublime-text-2
+X-AppInstall-Section=aur
+X-Arch-Package=sublime-text-2 2126-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sublime-text-2
+X-Arch-Package-Version=2126-1
+X-Arch-Package-Description=sophisticated text editor for code, html and prose
+X-Arch-Package-URL=http://www.sublimetext.com/2

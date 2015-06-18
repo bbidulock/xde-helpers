@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Aldo
+Comment=Morse Code Testing/Trainer
+Icon=hamradio.png
+TryExec=/usr/bin/aldo
+Exec=aldo
+X-DCOP-ServiceType=none
+Terminal=true
+Categories=Application;HamRadio;
+MimeType=text;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=aldo
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=aldo 0.7.7-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=aldo
+X-Arch-Package-Version=0.7.7-2
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://aldo.nongnu.org/
+X-Arch-Package-Votes=7

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Endless Forms Most Beautiful
+Comment=A crazy platformer with braincrashing mechanics
+Icon=efmb
+TryExec=/usr/bin/efmb
+Exec=efmb
+Categories=Game;
+X-AppInstall-Package=efmb
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=efmb 1.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=efmb
+X-Arch-Package-Version=1.0-2
+X-Arch-Package-Description=Endless Forms Most Beautiful is a crazy platformer with
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.locomalito.com/efmb.php
+X-Arch-Package-Votes=1

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Firefox3 - Safe Mode
+GenericName=Web Browser - Safe Mode
+Icon=firefox3
+TryExec=/usr/bin/firefox3
+Exec=firefox3 -safe-mode %u
+MultipleArgs=false
+Categories=Network;WebBrowser;
+StartupNotify=false
+X-AppInstall-Package=firefox3
+X-AppInstall-Section=aur
+X-Arch-Package=firefox3 3.6.28-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firefox3
+X-Arch-Package-Version=3.6.28-1
+X-Arch-Package-Description=Standalone web browser from mozilla.org. This build installs in /opt and does not interfere with your system firefox (allowing for installing of a different version as your main browser).
+X-Arch-Package-URL=http://www.mozilla.org/projects/firefox

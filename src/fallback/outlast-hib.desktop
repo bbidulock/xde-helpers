@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Outlast
+GenericName=Outlast
+Comment=Hell is an experiment you can't survive in Outlast.
+Icon=outlast
+TryExec=/usr/bin/outlast
+Exec=outlast
+Categories=Application;AudioVideo;Game;
+StartupNotify=true
+X-AppInstall-Package=outlast-hib
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=outlast-hib 1.01-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=outlast-hib
+X-Arch-Package-Version=1.01-2
+X-Arch-Package-Description=Hell is an experiment you can't survive in Outlast.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.redbarrelsgames.com/
+X-Arch-Package-Votes=2

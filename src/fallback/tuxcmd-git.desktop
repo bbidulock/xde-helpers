@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=Tux Commander
+GenericName=File Manager
+Comment=A GTK2 file manager with two panels
+Icon=tuxcmd
+TryExec=/usr/bin/tuxcmd
+Exec=tuxcmd
+NoDisplay=true
+Hidden=true
+Categories=Utility;FileTools;FileManager;GTK;
+StartupNotify=true
+X-Desktop-File-Install-Version=0.15
+X-AppInstall-Package=tuxcmd-git
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=tuxcmd-git 0.6.78.r5.ged0d989-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tuxcmd-git
+X-Arch-Package-Version=0.6.78.r5.ged0d989-1
+X-Arch-Package-Description=A GTK2 file manager with two panels - git checkout
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://tuxcmd.sourceforge.net/
+X-Arch-Package-Votes=6
+Aliases=tuxcmd;

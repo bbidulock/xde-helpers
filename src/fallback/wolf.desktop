@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Return To Castle Wolfenstein SP
+Comment=Return To Castle Wolfenstein (Single Player)
+Icon=/usr/share/pixmaps/WolfSP.xpm
+TryExec=/usr/bin/wolfsp
+Exec=/usr/bin/wolfsp
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=wolf
+X-AppInstall-Popcon=29
+X-AppInstall-Section=aur
+X-Arch-Package=wolf 1.41b-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wolf
+X-Arch-Package-Version=1.41b-5
+X-Arch-Package-Description=Return to Castle Wolfenstein is a single and multiplayer first
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://zerowing.idsoftware.com/linux/wolf/
+X-Arch-Package-Votes=29
+Aliases=wolfsp;

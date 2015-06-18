@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application;
+Name=KeyHoleTV
+GenericName=P2P TV Streaming
+Icon=/usr/share/pixmaps/keyholetv.xpm
+TryExec=/usr/bin/lkeyholetv
+Exec=/usr/bin/lkeyholetv
+MultipleArgs=false
+Categories=Video;Multimedia;
+StartupNotify=false
+X-AppInstall-Package=lkeyholetv
+X-AppInstall-Popcon=16
+X-AppInstall-Section=aur
+X-Arch-Package=lkeyholetv 2.1-8
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lkeyholetv
+X-Arch-Package-Version=2.1-8
+X-Arch-Package-Description=A client for KeyHoleTV, an online television portal that links
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.v2p.jp/video/english/
+X-Arch-Package-Votes=16

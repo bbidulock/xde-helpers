@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=iwscanner
+Comment=Wireless scanner for linux
+Icon=iwscanner
+TryExec=/usr/bin/iwscanner
+Exec=iwscanner
+Categories=Network;Monitor;GTK;
+X-AppInstall-Package=iwscanner
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=iwscanner 0.2.4-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=iwscanner
+X-Arch-Package-Version=0.2.4-3
+X-Arch-Package-Description=Wireless scanner with an easy to use graphic interface and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kuthulu.com/iwscanner
+X-Arch-Package-Votes=8

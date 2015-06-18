@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Merchant of Venice
+Comment=A stock market trading program with many features
+Icon=venice
+TryExec=/usr/bin/venice
+Exec=venice
+Categories=Office;Finance;Java;
+X-AppInstall-Package=venice
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=venice 0.75beta-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=venice
+X-Arch-Package-Version=0.75beta-1
+X-Arch-Package-Description=A stock market trading program with many features
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://mov.sourceforge.net/
+X-Arch-Package-Votes=9

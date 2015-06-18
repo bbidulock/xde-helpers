@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Zekr
+Comment=Zekr open Quranic platform
+Icon=/usr/share/pixmaps/zekr.png
+TryExec=/usr/bin/zekr.sh
+Exec=/usr/bin/zekr.sh
+NoDisplay=true
+Categories=Application;Office;GNOME;
+StartupNotify=true
+X-AppInstall-Package=zekr-ar.tafsir
+X-AppInstall-Section=aur
+X-Arch-Package=zekr-ar.tafsir 1.0.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zekr-ar.tafsir
+X-Arch-Package-Version=1.0.0-1
+X-Arch-Package-Description=An open Quranic platform aimed to ease access to the Holy
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://zekr.org/quran/quran-for-linux
+X-Arch-Package-Votes=0
+Aliases=zekr;

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Hattrick Organizer Beta
+GenericName=Hattrick Organizer Beta
+Comment=Helper Tool for online-football-manager Hattrick (www.hattrick.org)
+Comment[de]=Hilfstool für den Online-Fußball-Manager Hattrick (www.hattrick.org)
+Icon=hattrick_organizer_beta
+TryExec=/usr/bin/hattrick_organizer_beta
+Exec=hattrick_organizer_beta
+Categories=Game;SportsGame;Java;
+X-AppInstall-Package=hattrick_organizer_beta
+X-AppInstall-Section=aur
+X-Arch-Package=hattrick_organizer_beta 1430_r894-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=hattrick_organizer_beta
+X-Arch-Package-Version=1430_r894-2
+X-Arch-Package-Description=Hattrick Organizer - A helper tool for online football manager Hattrick (www.hattrick.org)
+X-Arch-Package-URL=http://www.hattrickorganizer.net

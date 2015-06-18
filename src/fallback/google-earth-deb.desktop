@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Google Earth
+GenericName=3D planet viewer
+Comment=Explore, search and discover the planet
+Icon=/usr/share/pixmaps/googleearth-icon.png
+TryExec=/usr/bin/google-earth
+Exec=/usr/bin/google-earth %f
+MultipleArgs=false
+NoDisplay=true
+Categories=Application;Network;
+MimeType=application/vnd.google-earth.kml+xml;application/vnd.google-earth.kmz;application/earthviewer;application/keyhole;
+X-AppInstall-Package=google-earth-deb
+X-AppInstall-Section=aur
+X-Arch-Package=google-earth-deb 6.1.0.5001-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=google-earth-deb
+X-Arch-Package-Version=6.1.0.5001-1
+X-Arch-Package-Description=A 3D interface to view satellite images of Earth and others objects (i686 and x86_64 support)
+X-Arch-Package-URL=http://www.google.com/earth/index.html
+Aliases=googleearth;

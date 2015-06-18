@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Aporia
+GenericName=Nimrod IDE
+TryExec=/usr/bin/aporia
+Exec=aporia
+Categories=Development;TextEditor;
+X-AppInstall-Package=aporia-git
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=aporia-git 0.1.1.0.99-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=aporia-git
+X-Arch-Package-Version=0.1.1.0.99-1
+X-Arch-Package-Description=IDE/Advanced text editor mainly focusing on support for the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/nim-lang/Aporia
+X-Arch-Package-Votes=8

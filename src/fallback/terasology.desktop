@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Terasology
+GenericName=Terasology
+Comment=Yet another high resolution game with blocks...
+Icon=terasology
+TryExec=/usr/bin/terasology
+Exec=terasology
+Categories=Game;
+X-AppInstall-Package=terasology
+X-AppInstall-Popcon=29
+X-AppInstall-Section=aur
+X-Arch-Package=terasology 55-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=terasology
+X-Arch-Package-Version=55-1
+X-Arch-Package-Description=Yet another high resolution game with blocks like Minecraft!
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://terasology.org
+X-Arch-Package-Votes=29

@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Sigil
+Comment=WYSIWYG ebook editor
+Icon=sigil
+TryExec=/usr/bin/sigil
+Exec=sigil %F
+NoDisplay=true
+Categories=Application;Office;
+MimeType=application/epub+zip;
+StartupNotify=false
+X-AppInstall-Package=sigil-git
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=sigil-git 0.8.6.r3135.g9975f58-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sigil-git
+X-Arch-Package-Version=0.8.6.r3135.g9975f58-1
+X-Arch-Package-Description=A WYSIWYG ebook editor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/user-none/Sigil
+X-Arch-Package-Votes=5
+Aliases=sigil;

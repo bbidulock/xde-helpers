@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Firefox ESR – Safe Mode
+GenericName=Web Browser - Safe Mode
+Icon=firefox-esr-bin-de-icon
+TryExec=/usr/bin/firefox-esr-bin-de
+Exec=firefox-esr-bin-de -safe-mode %u
+MultipleArgs=false
+Categories=Application;Network;
+MimeType=text/html;
+StartupNotify=false
+StartupWMClass=Firefox
+X-AppInstall-Package=firefox-esr-bin-de
+X-AppInstall-Section=aur
+X-Arch-Package=firefox-esr-bin-de 10.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firefox-esr-bin-de
+X-Arch-Package-Version=10.0-1
+X-Arch-Package-Description=Standalone web browser from mozilla.org, extended support release - binary - german
+X-Arch-Package-URL=http://www.mozilla.org/projects/firefox

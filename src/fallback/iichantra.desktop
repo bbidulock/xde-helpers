@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=iiChantra
+GenericName=2D platform game
+Icon=/usr/share/pixmaps/iichantra.png
+TryExec=/usr/bin/iichantra
+Exec=iichantra
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=iichantra
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=iichantra 1.2-6
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=iichantra
+X-Arch-Package-Version=1.2-6
+X-Arch-Package-Description=2D jump'n run sidescroller game in a similar style like the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://iichantra.ru/
+X-Arch-Package-Votes=4

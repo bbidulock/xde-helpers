@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Netflix Desktop
+GenericName=Netflix Desktop
+Comment=Watch movies and TV shows on your PC
+Icon=/usr/share/netflix-desktop/NetflixIcon.png
+TryExec=/usr/bin/netflix-desktop
+Exec=netflix-desktop
+Categories=AudioVideo;Video;Player;
+StartupNotify=true
+X-AppInstall-Package=netflix-desktop
+X-AppInstall-Popcon=103
+X-AppInstall-Section=aur
+X-Arch-Package=netflix-desktop 0.8.5-6
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=netflix-desktop
+X-Arch-Package-Version=0.8.5-6
+X-Arch-Package-Description=An automated script for viewing Netflix through Firefox and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://launchpad.net/netflix-desktop/
+X-Arch-Package-Votes=103

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Wixi
+GenericName=Desktop Wiki
+Comment=Desktop Wiki
+TryExec=/usr/bin/wixi
+Exec=wixi
+Categories=Office;
+X-AppInstall-Package=wixi
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=wixi 1.10-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wixi
+X-Arch-Package-Version=1.10-2
+X-Arch-Package-Description=A multi-platform wiki application for the desktop, written in
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://wixi.sourceforge.net/
+X-Arch-Package-Votes=7

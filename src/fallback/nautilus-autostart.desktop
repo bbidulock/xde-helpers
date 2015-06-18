@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=Files
+TryExec=/usr/bin/nautilus
+Exec=nautilus -n
+StartupNotify=false
+X-AppInstall-Package=nautilus
+X-AppInstall-Section=extra
+X-Arch-Package-Repository=extra
+X-Arch-Package-Name=nautilus
+X-Arch-Package-Version=3.16.2-1
+X-Arch-Package-Description=GNOME file manager
+X-Arch-Package-Groups=gnome
+X-Arch-Package-URL=http://www.gnome.org
+AutostartCondition=GSettings org.gnome.desktop.background show-desktop-icons

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=DarkMod
+GenericName=Mod based on the Thief series
+Icon=darkmod
+TryExec=/usr/bin/darkmod
+Exec=darkmod
+Categories=Game;ActionGame;
+X-AppInstall-Package=darkmod
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=darkmod 2.03-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=darkmod
+X-Arch-Package-Version=2.03-2
+X-Arch-Package-Description=DOOM III standalone mod based on the Thief series by Looking
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.thedarkmod.com/
+X-Arch-Package-Votes=10

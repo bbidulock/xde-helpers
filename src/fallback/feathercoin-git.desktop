@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Feathercoin
+Comment=Feathercoin P2P Cryptocurrency
+Icon=/usr/share/pixmaps/feathercoin.png
+TryExec=/usr/bin/feathercoin-qt
+Exec=/usr/bin/feathercoin-qt
+NoDisplay=true
+Categories=Office;
+MimeType=x-scheme-handler/feathercoin;
+X-AppInstall-Package=feathercoin-git
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=feathercoin-git v0.8.7.1.r0.g1b7a5e9-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=feathercoin-git
+X-Arch-Package-Version=v0.8.7.1.r0.g1b7a5e9-1
+X-Arch-Package-Description=Feathercoin is a peer-to-peer network based digital currency.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.feathercoin.com/
+X-Arch-Package-Votes=13
+Aliases=feathercoin;

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=QtGrace
+Comment=An application for 2D plotting
+Icon=/usr/share/pixmaps/qtgrace.png
+TryExec=/usr/bin/qtgrace
+Exec=/usr/bin/qtgrace %f
+Categories=Science;X-Plotting;
+X-AppInstall-Package=qtgrace
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=qtgrace 0.2.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qtgrace
+X-Arch-Package-Version=0.2.4-1
+X-Arch-Package-Description=A program to display or plot data, analyze data and prepare it
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://plasma-gate.weizmann.ac.il/Grace/
+X-Arch-Package-Votes=3

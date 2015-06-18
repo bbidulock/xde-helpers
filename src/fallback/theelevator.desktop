@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1
+Type=Application
+Name=The Elevator
+Comment=The story takes place in the fairly distant future and centers on a jaded, middle-aged detective named David Carmichael. Every morning, he rides a rickety old elevator up to his office near the top of a run-down building. For the last couple of months, he has met a young woman–Elena Cormack–every day in this elevator. Sometimes they talk, sometimes they spend the entire elevator ride in complete silence–but how will the relationship between these two people change?
+Icon=theelevator.png
+TryExec=/usr/bin/theelevator
+Exec=/usr/bin/theelevator
+Categories=Application;Game;
+X-AppInstall-Package=theelevator
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=theelevator 1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=theelevator
+X-Arch-Package-Version=1-1
+X-Arch-Package-Description=Detective visual novel, based in future.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://elevator.cyanide-tea.net/
+X-Arch-Package-Votes=2

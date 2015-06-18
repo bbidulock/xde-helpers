@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=yaflight
+Comment=A minimal and easy launcher for FlightGear
+Icon=yaflight
+TryExec=/usr/bin/yaflight
+Exec=/usr/bin/yaflight
+Categories=Game;Simulation;
+StartupNotify=true
+X-AppInstall-Package=yaflight
+X-AppInstall-Section=aur
+X-Arch-Package=yaflight 0.99.29-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=yaflight
+X-Arch-Package-Version=0.99.29-1
+X-Arch-Package-Description=yet another flightgear launch control
+X-Arch-Package-Groups=Games
+X-Arch-Package-URL=http://yaflight.altervista.org
+X-Arch-Package-Votes=0

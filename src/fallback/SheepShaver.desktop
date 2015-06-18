@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=SheepShaver
+Comment=An Open Source PowerPC MacOS run-time environment
+Icon=/usr/share/SheepShaver/sheep.png
+TryExec=/usr/bin/SheepShaver
+Exec=SheepShaver
+Categories=System;
+StartupNotify=true
+X-AppInstall-Package=sheepshaver-cvs
+X-AppInstall-Section=aur
+X-Arch-Package=sheepshaver-cvs 20110215-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sheepshaver-cvs
+X-Arch-Package-Version=20110215-1
+X-Arch-Package-Description=An Open Source PowerPC MacOS run-time environment
+X-Arch-Package-URL=http://sheepshaver.cebix.net/

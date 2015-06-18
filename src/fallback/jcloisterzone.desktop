@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=JCloisterZone
+Comment=A Java implementation of the popular board game Carcassonne
+Icon=jcloisterzone
+TryExec=/usr/bin/jcloisterzone
+Exec=jcloisterzone
+Categories=Game;BoardGame;
+StartupNotify=false
+X-AppInstall-Package=jcloisterzone
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=jcloisterzone 3.1.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jcloisterzone
+X-Arch-Package-Version=3.1.1-1
+X-Arch-Package-Description=A Java implementation of the popular board game Carcassonne
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://jcloisterzone.com/
+X-Arch-Package-Votes=3

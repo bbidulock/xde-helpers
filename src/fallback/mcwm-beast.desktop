@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=XSession
+Name=MCWM
+Comment=MC's Window Manager (patched)
+TryExec=/usr/bin/mcwm
+Exec=mcwm
+NoDisplay=true
+X-AppInstall-Package=mcwm-beast
+X-AppInstall-Section=aur
+X-Arch-Package=mcwm-beast 20130327-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mcwm-beast
+X-Arch-Package-Version=20130327-1
+X-Arch-Package-Description=MCWM with ton of patches
+X-Arch-Package-URL=https://github.com/venam/2bwm
+Aliases=mcwm;

@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=GridWars 2
+GenericName=A Geometry Wars clone
+GenericName[fr]=Un clone de Geometry Wars
+Comment=A shoot-them-up taking place on a magnetic grid where you must survive to enemies waves.
+Comment[fr]=Un shoot-them-up prenant place sur une grille magnétique ou vous devez survivre à de multiples vagues d'ennemies.
+Icon=gridwars
+TryExec=/usr/bin/gridwars
+Exec=gridwars
+Categories=Application;Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=gridwars
+X-AppInstall-Popcon=80
+X-AppInstall-Section=aur
+X-Arch-Package=gridwars 9.3.2006-8
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gridwars
+X-Arch-Package-Version=9.3.2006-8
+X-Arch-Package-Description=Grid Wars 2: A clone of Geometry Wars
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gridwars.marune.de/
+X-Arch-Package-Votes=80

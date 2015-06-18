@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Utube
+Comment=A downloader and ripper for YouTube videos
+Icon=utube
+TryExec=/usr/bin/utube
+Exec=utube
+NoDisplay=true
+Categories=AudioVideo;Network;
+X-AppInstall-Package=utube-qt
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=utube-qt 1.7-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=utube-qt
+X-Arch-Package-Version=1.7-1
+X-Arch-Package-Description=A graphical (QT) downloader and ripper for YouTube videos
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/utube/
+X-Arch-Package-Votes=1
+Aliases=utube;

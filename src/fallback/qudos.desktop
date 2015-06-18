@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=QuDos
+Comment=Enhanced Quake 2 engine
+Icon=qudos
+TryExec=/usr/bin/qudos
+Exec=qudos
+Categories=Game;ActionGame;
+X-AppInstall-Package=qudos-svn
+X-AppInstall-Section=aur
+X-Arch-Package=qudos-svn 344-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qudos-svn
+X-Arch-Package-Version=344-2
+X-Arch-Package-Description=Enhanced Quake 2 engine
+X-Arch-Package-URL=http://qudos.quakedev.com/

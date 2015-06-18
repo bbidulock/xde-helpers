@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Link
+Name=Memsource pricing and licensing
+Name[en_GB.UTF-8]=Licensing plans (link)
+Comment=Memsource subscription plans
+Icon=memsource-editor
+URL=http://www.memsource.com/pricing/
+X-AppInstall-Package=memsource-editor
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=memsource-editor 4.168-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=memsource-editor
+X-Arch-Package-Version=4.168-1
+X-Arch-Package-Description=A CAT translation tool, requires Memsource subscription
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.memsource.com/
+X-Arch-Package-Votes=3

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=gscreenshot
+Comment=A pygtk wrapper for the 'scrot' utility
+Icon=gscreenshot
+TryExec=/usr/bin/gscreenshot
+Exec=gscreenshot
+Categories=Graphics;
+X-AppInstall-Package=gscreenshot
+X-AppInstall-Popcon=56
+X-AppInstall-Section=aur
+X-Arch-Package=gscreenshot 1.3-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gscreenshot
+X-Arch-Package-Version=1.3-5
+X-Arch-Package-Description=A GUI front-end for scrot
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gscreenshot.googlecode.com/
+X-Arch-Package-Votes=56

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=xdataplot
+Comment=Software for scientific visualization, statistical analysis, and non-linear modeling.
+Icon=xdataplot
+TryExec=/usr/bin/xdataplot
+Exec=xdataplot
+Categories=Science;
+X-AppInstall-Package=dataplot
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=dataplot 2009_08_21-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dataplot
+X-Arch-Package-Version=2009_08_21-4
+X-Arch-Package-Description=Software for scientific visualization, statistical analysis,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.itl.nist.gov/div898/software/dataplot.html/
+X-Arch-Package-Votes=4

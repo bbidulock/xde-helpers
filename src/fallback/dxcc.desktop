@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=DXCC
+Comment=DXCC Lookup
+Icon=dxcc
+TryExec=/usr/bin/dxcc
+Exec=dxcc -g
+X-DCOP-ServiceType=none
+Categories=Network;HamRadio;
+MimeType=text/plain;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=dxcc
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=dxcc 20080225-6
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dxcc
+X-Arch-Package-Version=20080225-6
+X-Arch-Package-Description=Ham Radio - Determines ARRL DXCC entity of a callsign
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://fkurz.net/ham/dxcc.html
+X-Arch-Package-Votes=1

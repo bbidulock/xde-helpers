@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Sublime Text 2 URL Handler
+Comment=Handle URL Scheme subl:// and txmt://
+Icon=sublime_text
+TryExec=/usr/bin/sublime-url-handler
+Exec=sublime-url-handler %u
+NoDisplay=true
+Categories=Utility;TextEditor;
+MimeType=x-scheme-handler/txmt;x-scheme-handler/subl;
+X-Desktop-File-Install-Version=0.21
+X-AppInstall-Package=sublime-url-handler
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=sublime-url-handler 0.0.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sublime-url-handler
+X-Arch-Package-Version=0.0.4-1
+X-Arch-Package-Description=Open subl:// and txmt:// URLs in Sublime Text. Based on
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://github.com/MrZYX/PKGBUILDs/tree/master/sublime-url-handler
+X-Arch-Package-Votes=13

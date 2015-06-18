@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=OpenRCT2
+Comment=Open-source clone of RollerCoaster Tycoon 2
+Icon=openrct2
+TryExec=/usr/bin/openrct2
+Exec=openrct2
+Categories=Game;
+X-AppInstall-Package=openrct2-git
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=openrct2-git r3270.15791a2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=openrct2-git
+X-Arch-Package-Version=r3270.15791a2-1
+X-Arch-Package-Description=Open source clone of RollerCoaster Tycoon 2
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/IntelOrca/OpenRCT2
+X-Arch-Package-Votes=2

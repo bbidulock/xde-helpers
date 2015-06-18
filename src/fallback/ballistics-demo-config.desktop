@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Configure Ballistics Demo
+GenericName=Ballistics Demo Config
+Comment=Configuration of Balistics Demo
+TryExec=/usr/bin/ballistics_demo-config
+Exec=/usr/bin/ballistics_demo-config
+Categories=Application;Game;KDE;GNOME;
+StartupNotify=true
+X-AppInstall-Package=ballistics-demo
+X-AppInstall-Section=aur
+X-Arch-Package=ballistics-demo 1.2-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ballistics-demo
+X-Arch-Package-Version=1.2-3
+X-Arch-Package-Description=A futuristic racing game similar to wipeout
+X-Arch-Package-URL=http://www.linuxgamepublishing.com/info.php?id=13&

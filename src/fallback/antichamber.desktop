@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Antichamber
+Comment=A mind-bending psychological exploration game where nothing can be taken for granted
+Icon=antichamber
+TryExec=/usr/bin/antichamber
+Exec=antichamber
+Categories=Game;
+X-AppInstall-Package=antichamber
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=antichamber 1392664980-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=antichamber
+X-Arch-Package-Version=1392664980-2
+X-Arch-Package-Description=A mind-bending psychological exploration game where nothing
+X-Arch-Package-Groups=games
+X-Arch-Package-URL=http://www.antichamber-game.com/
+X-Arch-Package-Votes=10
+Value=1.0

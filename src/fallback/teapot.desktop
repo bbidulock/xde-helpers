@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Teapot
+GenericName=A third-party viewer for Second Life (C) and OpenSim grids
+Comment=A third party viewer for Second Life (C) and OpenSim grids
+Icon=/usr/share/pixmaps/teapot.png
+TryExec=/usr/bin/teapot
+Exec=/usr/bin/teapot
+Categories=Game;
+X-AppInstall-Package=teapotviewer
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=teapotviewer 0.2.6.0-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=teapotviewer
+X-Arch-Package-Version=0.2.6.0-5
+X-Arch-Package-Description=An Open Source third party viewers for Second Life®
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://bitbucket.org/ArminW/teapot/
+X-Arch-Package-Votes=5

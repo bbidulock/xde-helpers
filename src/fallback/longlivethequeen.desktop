@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Long Live The Queen
+Name[en_EN]=Long Live The Queen
+GenericName=longlivethequeen
+Comment=Rule the world, or die trying.Long live the queen
+Icon=/opt/hanako/longlivethequeen/icon.png
+TryExec=/opt/hanako/longlivethequeen/LongLiveTheQueen
+Exec=/opt/hanako/longlivethequeen/LongLiveTheQueen
+Categories=Game;Simulation;
+StartupWMClass=lltq
+X-AppInstall-Package=longlivethequeen
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=longlivethequeen 1.1.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=longlivethequeen
+X-Arch-Package-Version=1.1.4-1
+X-Arch-Package-Description=visual novel RPG by Hanako Games
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://http://www.hanakogames.com/llq.shtml
+X-Arch-Package-Votes=1

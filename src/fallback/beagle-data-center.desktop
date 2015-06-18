@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Beagle Data Center
+Comment=Total Phase Beagle Data Center GUI
+TryExec=/usr/bin/beagle-data-center
+Exec=/usr/bin/beagle-data-center
+Categories=Application;Development;GNOME;
+X-AppInstall-Package=beagle-data-center
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=beagle-data-center 6.61-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=beagle-data-center
+X-Arch-Package-Version=6.61-1
+X-Arch-Package-Description=Total Phase Beagle Data Center GUI
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.totalphase.com/products/data-center/
+X-Arch-Package-Votes=3

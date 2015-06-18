@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=SCaVis
+GenericName=Scientific Computation and Visualization Environment
+GenericName[es]=Entorno de Computación y Visualización Científica
+Comment=An environment for scientific computation, data analysis and data visualization
+Comment[es]=Un entorno para la computación científica, análisis y visualización de datos
+Icon=scavis
+TryExec=/usr/bin/scavis.sh
+Exec=/usr/bin/scavis.sh
+Categories=Science;Math;
+StartupNotify=false
+X-AppInstall-Package=scavis
+X-AppInstall-Section=aur
+X-Arch-Package=scavis 2.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=scavis
+X-Arch-Package-Version=2.3-1
+X-Arch-Package-Description=An environment for scientific computation, data analysis and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://jwork.org/scavis/
+X-Arch-Package-Votes=0

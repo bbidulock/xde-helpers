@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=CubeCombat DEMO
+Comment=Cube Combat is a Bomberman game optimized for lan and internet.
+Icon=/usr/share/pixmaps/cubecombat-demo.png
+TryExec=/usr/bin/cubecombat-demo
+Exec=/usr/bin/cubecombat-demo
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=cubecombat-demo
+X-AppInstall-Section=aur
+X-Arch-Package=cubecombat-demo 9.10.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cubecombat-demo
+X-Arch-Package-Version=9.10.1-1
+X-Arch-Package-Description=Cube Combat is a Bomberman game optimized for lan and internet playing for (currently) up to four players.
+X-Arch-Package-URL=http://www.cubecombat.net

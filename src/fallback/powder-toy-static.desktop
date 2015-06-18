@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=90.2
+Type=Application
+Name=Powder Toy Static
+Comment=A physics simulation game - Static version.
+Icon=powder-toy-static
+TryExec=/usr/bin/powder-toy-static
+Exec=/usr/bin/powder-toy-static
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=powder-toy-static
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=powder-toy-static 90.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=powder-toy-static
+X-Arch-Package-Version=90.2-1
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://powdertoy.co.uk/
+X-Arch-Package-Votes=1

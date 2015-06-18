@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Scilab-4.1.2
+Comment=A scientific software package for numerical computations
+Icon=scilab
+TryExec=/usr/bin/scilab4
+Exec=scilab4
+Categories=Application;Science;Math;
+X-AppInstall-Package=scilab4
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=scilab4 4.1.2-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=scilab4
+X-Arch-Package-Version=4.1.2-5
+X-Arch-Package-Description=Scilab is a scientific software package for numerical
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.scilab.org/
+X-Arch-Package-Votes=7

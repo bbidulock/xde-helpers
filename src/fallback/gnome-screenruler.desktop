@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=ScreenRuler
+Comment=ScreenRuler lets you measure objects on your screen using six different metrics.
+Icon=screenruler-icon-32x32.png
+TryExec=/usr/bin/screenruler
+Exec=screenruler
+Categories=Application;Utility;GTK;
+X-AppInstall-Package=gnome-
+X-AppInstall-Popcon=20
+X-AppInstall-Section=aur
+X-Arch-Package=gnome-screenruler 0.9.6-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gnome-
+X-Arch-Package-Version=0.9.6-3
+X-Arch-Package-Description=ScreenRuler lets you measure objects on your screen using six
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://launchpad.net/screenruler
+X-Arch-Package-Votes=20

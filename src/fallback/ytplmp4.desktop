@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=YouTube Playlist Downloader
+GenericName=YouTube Playlist Downloader
+Comment=GUI application which downloads Playlists or single Files and converts them to mp3
+Comment[de]=Programm zum downloaden & umwandeln von YT-Playlisten oder einzelnen Songs
+Icon=sidebar-show-symbolic
+TryExec=/usr/bin/YTPLMP4
+Exec=YTPLMP4
+Categories=Application;AudioVideo;AudioVideoEditing;
+StartupNotify=false
+X-AppInstall-Package=ytplmp4
+X-AppInstall-Section=aur
+X-Arch-Package=ytplmp4 7.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ytplmp4
+X-Arch-Package-Version=7.2-1
+X-Arch-Package-Description=YTPLMP4 - YouTube Playlist to MP3. Download single songs or
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://youtube.com/
+X-Arch-Package-Votes=0

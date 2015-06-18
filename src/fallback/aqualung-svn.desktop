@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Aqualung
+GenericName=Gapless Music Player
+Comment=Advanced music player featuring gapless playback
+Icon=aqualung
+TryExec=/usr/bin/aqualung
+Exec=aqualung %U
+NoDisplay=true
+Categories=AudioVideo;Audio;Player;GTK;
+MimeType=audio/aac;audio/ac3;audio/basic;audio/mp4;audio/mpeg;audio/mpegurl;audio/vnd.rn-realaudio;audio/vorbis;audio/x-adpcm;audio/x-flac;audio/x-mp2;audio/x-mp3;audio/x-mpegurl;audio/x-ms-wma;audio/x-oggflac;audio/x-speex;audio/x-vorbis;audio/x-wav;
+X-AppInstall-Package=aqualung-svn
+X-AppInstall-Popcon=22
+X-AppInstall-Section=aur
+X-Arch-Package=aqualung-svn 1309-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=aqualung-svn
+X-Arch-Package-Version=1309-3
+X-Arch-Package-Description=Advanced music player featuring gapless playback
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://aqualung.factorial.hu/
+X-Arch-Package-Votes=22
+Aliases=aqualung;

@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Qftp
+GenericName=FTP QT-client
+GenericName[es]=Cliente QT para FTP
+GenericName[fr]=Client QT pour FTP
+Comment=Download and upload files via FTP
+Comment[es]=Descarga y sube archivos via FTP
+Comment[fr]=Transférer des fichiers via FTP
+Icon=qftp.png
+TryExec=/usr/bin/qftp
+Exec=qftp
+Categories=Network;FileTransfer;
+X-AppInstall-Package=qftp
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=qftp 1.5.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qftp
+X-Arch-Package-Version=1.5.5-1
+X-Arch-Package-Description=QFtp is a user interface for Ftp file transfer.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=None
+X-Arch-Package-Votes=10

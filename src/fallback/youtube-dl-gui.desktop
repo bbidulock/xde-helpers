@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Youtube-dl GUI
+Comment=GUI for youtube-dl downloader
+Icon=youtube-dl-gui_48x48
+TryExec=/usr/bin/youtube-dl-gui
+Exec=youtube-dl-gui
+Categories=Network;
+X-AppInstall-Package=-git
+X-AppInstall-Popcon=17
+X-AppInstall-Section=aur
+X-Arch-Package=youtube-dl-gui-git r130.be3b43e-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=-git
+X-Arch-Package-Version=r130.be3b43e-1
+X-Arch-Package-Description=A cross platform front-end GUI of the popular youtube-dl
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/MrS0m30n3/youtube-dl-gui
+X-Arch-Package-Votes=17

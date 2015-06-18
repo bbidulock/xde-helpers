@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=3.2.0.102
+Type=Application
+Name=phex
+Comment=Free file sharing program running on the Gnutella Network.
+Icon=phex
+TryExec=/usr/bin/phex
+Exec=phex
+Categories=Application;Network;
+StartupNotify=true
+X-AppInstall-Package=phex
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=phex 3.4.2.116-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=phex
+X-Arch-Package-Version=3.4.2.116-1
+X-Arch-Package-Description=A java based file sharing program running on the Gnutella
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://phex.org/
+X-Arch-Package-Votes=7

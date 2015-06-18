@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Teamdrive 3
+GenericName=Network Storage
+Comment=TeamDrive synchronises your data quickly and securely.
+Icon=/opt/teamdrive3/folderSpaceLinuxInstaller.png
+TryExec=/opt/teamdrive3/TeamDrive
+Exec=/opt/teamdrive3/TeamDrive
+Categories=Network;
+X-AppInstall-Package=teamdrive3
+X-AppInstall-Section=aur
+X-Arch-Package=teamdrive3 3.1.2_454-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=teamdrive3
+X-Arch-Package-Version=3.1.2_454-2
+X-Arch-Package-Description=Keeps data synchronised between various computers automatically.
+X-Arch-Package-URL=http://www.teamdrive.com/

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Reload Editor
+Comment=Content Package and Metadata Editor
+Icon=/usr/share/pixmaps/reload-editor.gif
+TryExec=/usr/bin/reload-editor
+Exec=reload-editor %f
+X-MultipleArgs=false
+Categories=Application;Development;
+X-AppInstall-Package=reload-editor
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=reload-editor 2.5.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=reload-editor
+X-Arch-Package-Version=2.5.5-1
+X-Arch-Package-Description=Content Package and Metadata editor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.reload.ac.uk/editor.html
+X-Arch-Package-Votes=1

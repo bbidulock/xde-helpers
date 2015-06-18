@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.4.2
+Type=Application
+Name=FigTree
+GenericName=Phylogenetic tree viewer
+Comment=Graphical viewer of phylogenetic trees
+Icon=figtree
+TryExec=/usr/bin/figtree
+Exec=figtree
+Categories=Education;Science;
+X-AppInstall-Package=figtree
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=figtree 1.4.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=figtree
+X-Arch-Package-Version=1.4.2-2
+X-Arch-Package-Description=Graphical viewer of phylogenetic trees
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://tree.bio.ed.ac.uk/software/figtree
+X-Arch-Package-Votes=5

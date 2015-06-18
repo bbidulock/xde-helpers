@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Springseed
+GenericName=Springseed
+Comment=Take notes.
+Icon=/usr/share/pixmaps/springseed-git/springseed-git.svg
+TryExec=/usr/bin/springseed-git
+Exec=/usr/bin/springseed-git
+Categories=Utility;
+X-AppInstall-Package=springseed-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=springseed-git 1.1.r10.g9b6351f-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=springseed-git
+X-Arch-Package-Version=1.1.r10.g9b6351f-1
+X-Arch-Package-Description=Simply awesome note taking.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://getspringseed.com/
+X-Arch-Package-Votes=1

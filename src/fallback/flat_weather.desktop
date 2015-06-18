@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=flat-weather
+Icon=system-suspend-hibernate
+TryExec=/usr/bin/conky-start
+Exec=/usr/bin/conky-start
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=flat_weather
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=flat_weather 1.9.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=flat_weather
+X-Arch-Package-Version=1.9.0-3
+X-Arch-Package-Description=weather for conky
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pabloferz.deviantart.com/art/Flat-Weather-for-Conky-208130863
+X-Arch-Package-Votes=5

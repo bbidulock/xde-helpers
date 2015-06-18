@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=QLandkarteGT
+GenericName=GPS Utility
+Comment=Garmin GPS device mapping utility
+Icon=qlandkartegt
+TryExec=/usr/bin/qlandkartegt
+Exec=qlandkartegt
+NoDisplay=true
+Hidden=true
+X-MultipleArgs=false
+Categories=Utility;Geography;Qt;
+X-AppInstall-Package=qlandkartegt-svn
+X-AppInstall-Popcon=17
+X-AppInstall-Section=aur
+X-Arch-Package=qlandkartegt-svn 3655-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qlandkartegt-svn
+X-Arch-Package-Version=3655-1
+X-Arch-Package-Description=Use your Garmin GPS with Linux (SVN Version)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.qlandkarte.org
+X-Arch-Package-Votes=17
+Aliases=qlandkartegt;

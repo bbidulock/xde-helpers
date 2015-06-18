@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Polly-B-Gone
+GenericName=Polly-B-Gone
+Comment=3D physics platform game that tells the story of a plucky wheeled robot named Poll.
+Icon=/usr/share/pixmaps/polly-b-gone.png
+TryExec=/usr/bin/polly-b-gone
+Exec=/usr/bin/polly-b-gone
+NoDisplay=true
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=-git
+X-AppInstall-Section=aur
+X-Arch-Package=polly-b-gone-git 2013.01.30-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=-git
+X-Arch-Package-Version=2013.01.30-1
+X-Arch-Package-Description=3D physics platform game that tells the story of a plucky
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://cs.stanford.edu/people/mbostock/polly/
+X-Arch-Package-Votes=0
+Aliases=polly-b-gone;

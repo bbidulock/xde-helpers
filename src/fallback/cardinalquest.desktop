@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=cardinalquest
+GenericName=cardinalquest
+Comment=Hack and slash your way through a randomly generated dungeon:  a new adventure awaits every time!
+Icon=/usr/share/pixmaps/cardinalquest.png
+TryExec=/usr/bin/adobe-air
+Exec=adobe-air /opt/cardinalquest/cardinalquest.air
+Categories=Application;Game;
+MimeType=application/vnd.adobe.air-application-installer-package+zip;
+X-AppInstall-Package=cardinalquest
+X-AppInstall-Section=aur
+X-Arch-Package=cardinalquest 1.1c-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cardinalquest
+X-Arch-Package-Version=1.1c-1
+X-Arch-Package-Description=Hack and slash your way through a randomly generated dungeon:
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.gameolith.com/game/cardinal-quest/
+X-Arch-Package-Votes=0

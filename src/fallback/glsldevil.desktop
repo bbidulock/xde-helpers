@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=glslDevil
+Comment=OpenGL GLSL Debugger
+Icon=glsldevil.png
+TryExec=/usr/bin/glsldevil
+Exec=glsldevil
+Categories=Application;Development;Debugger;
+StartupNotify=true
+X-AppInstall-Package=glsldevil
+X-AppInstall-Popcon=17
+X-AppInstall-Section=aur
+X-Arch-Package=glsldevil 1.1.5-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=glsldevil
+X-Arch-Package-Version=1.1.5-2
+X-Arch-Package-Description=A tool for debugging the OpenGL shader pipeline
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.vis.uni-stuttgart.de/glsldevil/
+X-Arch-Package-Votes=17

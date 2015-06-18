@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Awish: Avish reborn!
+Comment=Rewrite of the old MS-DOS game Avish
+TryExec=/usr/bin/awish
+Exec=/usr/bin/awish
+Categories=Application;Game;
+X-AppInstall-Package=awish
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=awish 1.0.beta3-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=awish
+X-Arch-Package-Version=1.0.beta3-2
+X-Arch-Package-Description=Rewrite of the old MS-DOS game Avish
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://repo.or.cz/w/awish.git
+X-Arch-Package-Votes=1

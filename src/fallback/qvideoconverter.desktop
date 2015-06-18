@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=QVideoConverter
+GenericName=Video Format Converter
+Comment=Convert video files into other formats
+Icon=qvideoconverter
+TryExec=/usr/bin/qvideoconverter
+Exec=qvideoconverter %U
+Categories=AudioVideo;GNOME;GTK;
+MimeType=video/mpeg;video/x-mpeg;video/x-mpeg2;video/msvideo;video/x-msvideo;video/quicktime;video/vnd.rn-realvideo;video/x-ms-afs;video/x-ms-asf;video/x-ms-wmv;video/x-ms-wmx;video/x-ms-wvxvideo;video/x-avi;video/x-fli;video/x-theora;video/x-matroska;
+StartupNotify=true
+X-AppInstall-Package=qvideoconverter
+X-AppInstall-Popcon=26
+X-AppInstall-Section=aur
+X-Arch-Package=qvideoconverter 0.3.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qvideoconverter
+X-Arch-Package-Version=0.3.1-1
+X-Arch-Package-Description=QVideoConverter is an GUI for mencoder and provides an simple
+X-Arch-Package-Groups=qvideoconverter
+X-Arch-Package-URL=http://www.qt-apps.org/content/show.php/QVideoConverter?content=84040
+X-Arch-Package-Votes=26

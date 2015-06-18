@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=DogeCoin
+Comment=DogeCoin P2P Cryptocurrency
+Icon=/usr/share/pixmaps/dogecoin.xpm
+TryExec=/usr/bin/dogecoin-qt
+Exec=/usr/bin/dogecoin-qt
+Categories=Network;
+MimeType=x-scheme-handler/dogecoin;
+X-AppInstall-Package=dogecoin-qt
+X-AppInstall-Popcon=34
+X-AppInstall-Section=aur
+X-Arch-Package=dogecoin-qt 1.8.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dogecoin-qt
+X-Arch-Package-Version=1.8.2-2
+X-Arch-Package-Description=Cryptocurrency
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://dogecoin.com/
+X-Arch-Package-Votes=34

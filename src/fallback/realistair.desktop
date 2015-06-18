@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1
+Type=Application
+Name=RE: Alistair++
+Comment=English otome game (subtipe of visual novel) that tells a story of a young girl fond of MMORPGs, her online and everyday life
+Icon=realistair.ico
+TryExec=/usr/bin/realistair
+Exec=/usr/bin/realistair
+Categories=Application;Game;
+X-AppInstall-Package=realistair
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=realistair 1-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=realistair
+X-Arch-Package-Version=1-3
+X-Arch-Package-Description=RE: Alistair++ is an English otome game (subtype of visual
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sakevisual.com/realistair/
+X-Arch-Package-Votes=3

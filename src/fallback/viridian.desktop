@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Viridian
+Comment=Standalone frontend for Ampache
+Icon=ViridianApp
+TryExec=/usr/bin/viridian
+Exec=viridian
+Categories=AudioVideo;
+X-AppInstall-Package=viridian
+X-AppInstall-Popcon=21
+X-AppInstall-Section=aur
+X-Arch-Package=viridian 1.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=viridian
+X-Arch-Package-Version=1.2-2
+X-Arch-Package-Description=Ampache front-end
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://launchpad.net/viridianplayer
+X-Arch-Package-Votes=21

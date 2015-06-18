@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Worldpainter
+GenericName=WorldPainter
+Comment=Paint your own Minecraft worlds
+Comment[de]=Minecraft-Welten durch malen erstellen
+Icon=/usr/share/pixmaps/worldpainter.png
+TryExec=/usr/bin/worldpainter
+Exec=worldpainter
+Categories=Game;
+X-AppInstall-Package=worldpainter
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=worldpainter 1.11.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=worldpainter
+X-Arch-Package-Version=1.11.0-1
+X-Arch-Package-Description=An interactive map generator for Minecraft
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.worldpainter.net/
+X-Arch-Package-Votes=4

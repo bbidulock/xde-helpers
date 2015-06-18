@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Lemonrip
+Comment=DVD ripping front-end for mencoder
+Comment[cs]=Ripuje DVD pomocí mencoderu
+Icon=lemonrip
+TryExec=/usr/bin/lemonrip
+Exec=lemonrip
+Categories=AudioVideo;GNOME;GTK;
+X-AppInstall-Package=lemonrip
+X-AppInstall-Popcon=22
+X-AppInstall-Section=aur
+X-Arch-Package=lemonrip 1.20-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lemonrip
+X-Arch-Package-Version=1.20-4
+X-Arch-Package-Description=Mencoder GUI for ripping and encoding DVD into AVI files.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://jaromes.projects.googlepages.com/lemonrip.html
+X-Arch-Package-Votes=22

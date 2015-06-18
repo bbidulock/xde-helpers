@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=remotecontrol
+GenericName=GTK remote control for dreambox web
+Icon=remotecontrol
+TryExec=/usr/bin/remotecontrol
+Exec=remotecontrol
+Categories=AudioVideo;Video;Utility;TV;
+X-AppInstall-Package=remotecontrol
+X-AppInstall-Section=aur
+X-Arch-Package=remotecontrol 1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=remotecontrol
+X-Arch-Package-Version=1.0-1
+X-Arch-Package-Description=GTK+ remotecontrol for Enigma2 Web Interface
+X-Arch-Package-URL=http://jonasenge.no/tv-remote-control/

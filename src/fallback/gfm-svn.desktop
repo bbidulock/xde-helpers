@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=GFM
+GenericName=TIgroups File Manager for TiLP
+Icon=gfm
+TryExec=/usr/bin/gfm
+Exec=gfm
+Categories=Utility;X-KDE-Utilities-Peripherals;
+MimeType=application/x-tilp;
+X-AppInstall-Package=-svn
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=gfm-svn 1.07.4505-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=-svn
+X-Arch-Package-Version=1.07.4505-1
+X-Arch-Package-Description=Group File Manager for TI graphing calculator Group Files -
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://lpg.ticalc.org/prj_gfm/
+X-Arch-Package-Votes=2

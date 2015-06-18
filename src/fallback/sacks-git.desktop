@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Sacks
+GenericName=Sacks
+Comment=See and Common Knowledge Say
+Icon=sacks
+TryExec=/usr/bin/sacks
+Exec=sacks
+Categories=Application;Network;KDE;Qt;
+X-AppInstall-Package=-git
+X-AppInstall-Section=aur
+X-Arch-Package=sacks-git 20110531-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=-git
+X-Arch-Package-Version=20110531-1
+X-Arch-Package-Description=An integrated system to allow Digital Gathering (Adunanza
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://riunionidigitali.net/
+X-Arch-Package-Votes=0

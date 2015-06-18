@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Groundfire
+Comment=A 2D multiplayer tank game inspired by Death Tank for the Sega Saturn
+Icon=groundfire.png
+TryExec=/usr/bin/groundfire
+Exec=groundfire
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=groundfire
+X-AppInstall-Section=aur
+X-Arch-Package=groundfire 0.25-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=groundfire
+X-Arch-Package-Version=0.25-2
+X-Arch-Package-Description=A 2D multiplayer tank game inspired by Death Tank for the Sega
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.groundfire.net/
+X-Arch-Package-Votes=0

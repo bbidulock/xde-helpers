@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Uplink
+Icon=/usr/local/games/uplink/uplink.svg
+TryExec=/usr/bin/uplink
+Exec=uplink
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=uplink-official
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=uplink-official 1.55-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=uplink-official
+X-Arch-Package-Version=1.55-1
+X-Arch-Package-Description=Trust is a weakness - a futuristic computer crime game.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://introversion.co.uk/uplink
+X-Arch-Package-Votes=2
+Aliases=uplink;

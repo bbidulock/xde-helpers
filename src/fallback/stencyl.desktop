@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=3.2
+Type=Application
+Name=Stencyl
+Comment=Create amazing games without code
+Icon=/usr/share/pixmaps/stencyl.png
+TryExec=/usr/bin/stencyl
+Exec=stencyl
+Categories=Games;Programming;
+X-AppInstall-Package=stencyl
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=stencyl 3.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=stencyl
+X-Arch-Package-Version=3.3-1
+X-Arch-Package-Description=Create amazing games without code
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.stencyl.com
+X-Arch-Package-Votes=3

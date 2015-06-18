@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.2
+Type=Application
+Name=Spice Trade
+Comment=Will Abu be able to beat out the Europeans in the spice trade?
+Icon=spicetrade
+TryExec=/usr/bin/spicetrade
+Exec=spicetrade
+Categories=Game;
+X-AppInstall-Package=spicetrade
+X-AppInstall-Section=aur
+X-Arch-Package=spicetrade 1.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=spicetrade
+X-Arch-Package-Version=1.2-1
+X-Arch-Package-Description=Will Abu be able to beat out the Europeans in the spice trade?
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.spicetrade.org/
+X-Arch-Package-Votes=0

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Canon MP510 printer
+Name[fr]=Imprimante Canon MP510
+Comment=Configure Canon MP510 printer
+Comment[fr]=Configurer l'imprimante Canon MP510
+Icon=printer
+TryExec=/usr/bin/printuimp510
+Exec=printuimp510
+Categories=System;GTK;
+StartupNotify=true
+X-AppInstall-Package=cnijfilter-mp510
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=cnijfilter-mp510 2.70-8
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cnijfilter-mp510
+X-Arch-Package-Version=2.70-8
+X-Arch-Package-Description=Canon IJ Printer Driver for Pixma MP510 multifunction
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://support-au.canon.com.au/contents/AU/EN/0100084103.html
+X-Arch-Package-Votes=3

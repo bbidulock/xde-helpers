@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Qutrub
+GenericName=Arabic verbs conjugator
+GenericName[ar]=تصريف الأفعال العربية
+Comment=Arabic verbs conjugator
+Comment[ar]=تصريف الأفعال العربية
+Icon=/usr/share/pixmaps/qutrub.png
+TryExec=/usr/bin/qutrub
+Exec=qutrub
+Categories=Office;
+X-AppInstall-Package=qutrub
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=qutrub 1.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qutrub
+X-Arch-Package-Version=1.1-1
+X-Arch-Package-Description=Arabic verbs conjugator
+X-Arch-Package-Groups=arabic-extra-tools
+X-Arch-Package-URL=http://qutrub.arabeyes.org/
+X-Arch-Package-Votes=1

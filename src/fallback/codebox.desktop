@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Codebox
+Comment=Open source cloud & desktop IDE
+Icon=codebox
+TryExec=/usr/bin/codebox
+Exec=codebox
+Categories=Development;TextEditor;Utilities;
+X-AppInstall-Package=codebox
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=codebox 0.8.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=codebox
+X-Arch-Package-Version=0.8.1-1
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://www.codebox.io
+X-Arch-Package-Votes=2

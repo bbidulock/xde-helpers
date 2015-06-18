@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=GQLPlus
+Icon=gqlplus
+TryExec=/usr/bin/gqlplus
+Exec=gqlplus
+Terminal=true
+X-AppInstall-Package=gqlplus
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=gqlplus 1.15-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gqlplus
+X-Arch-Package-Version=1.15-1
+X-Arch-Package-Description=Oracle SQLPlus front-end that provides, history and completion
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gqlplus.sourceforge.net/
+X-Arch-Package-Votes=1

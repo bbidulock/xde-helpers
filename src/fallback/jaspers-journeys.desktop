@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Jasper's Journeys
+Comment=Retro Platform Game
+Icon=jaspers-journeys
+TryExec=/usr/bin/jaspers-journeys
+Exec=jaspers-journeys
+Categories=Game;
+StartupNotify=true
+X-AppInstall-Package=jaspers-journeys-hb
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=jaspers-journeys-hb 2.15-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jaspers-journeys-hb
+X-Arch-Package-Version=2.15-1
+X-Arch-Package-Description=[Humble Bundle] A fantasy retro platform game.
+X-Arch-Package-Groups=humblevoxatronbundle humblebundles
+X-Arch-Package-URL=http://www.lexaloffle.com/jasper.php
+X-Arch-Package-Votes=4

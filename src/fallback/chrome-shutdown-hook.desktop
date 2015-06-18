@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Chrome Shotdown Hook
+Comment=Gently shutdown Chrome on logout from Gnome Shell
+Icon=view-restore-symbolic
+TryExec=/usr/bin/chrome-shutdown-hook
+Exec=/usr/bin/chrome-shutdown-hook
+Categories=GNOME;GTK;
+X-AppInstall-Package=chrome-shutdown-hook
+X-AppInstall-Section=aur
+X-Arch-Package=chrome-shutdown-hook 1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=chrome-shutdown-hook
+X-Arch-Package-Version=1.0-1
+X-Arch-Package-Description=Gently shutdown Chrome on logout from Gnome Shell.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://www.google.com/chrome/index.html
+X-Arch-Package-Votes=0

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Mi Escritorio
+GenericName=Mi Escritorio
+Comment=Aplicacion Mi Escritorio
+Icon=/usr/share/miescritorio/aplicacion/desktop.png
+TryExec=/usr/bin/miescritorio
+Exec=/usr/bin/miescritorio
+Categories=Education;
+Path=/usr/bin
+StartupNotify=true
+X-AppInstall-Package=miescritorio
+X-AppInstall-Section=aur
+X-Arch-Package=miescritorio 2.3.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=miescritorio
+X-Arch-Package-Version=2.3.2-1
+X-Arch-Package-Description=Application with educational content to search, download and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.educ.ar/recursos/ver?rec_id=105560
+X-Arch-Package-Votes=0

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=QGnokii
+GenericName=Gnokii Frontend
+Comment=An alternative frontend for Gnokii
+TryExec=/usr/bin/qgnokii
+Exec=qgnokii
+Categories=Application;Utility;Qt;
+X-AppInstall-Package=qgnokii
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=qgnokii 0.4.2-6
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qgnokii
+X-Arch-Package-Version=0.4.2-6
+X-Arch-Package-Description=Alternative frontend for Gnokii written in QT3
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://qgnokii.sourceforge.net/
+X-Arch-Package-Votes=2

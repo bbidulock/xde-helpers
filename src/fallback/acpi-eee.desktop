@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Asusosd
+Icon=exec
+TryExec=/usr/bin/asusosd
+Exec=/usr/bin/asusosd
+NoDisplay=true
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=acpi-eee
+X-AppInstall-Popcon=14
+X-AppInstall-Section=aur
+X-Arch-Package=acpi-eee 10.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=acpi-eee
+X-Arch-Package-Version=10.0-1
+X-Arch-Package-Description=ACPI scripts and AsusOSD for the Asus Eee PC
+X-Arch-Package-Groups=eee
+X-Arch-Package-URL=http://kapsi.fi/ighea/eee/acpi-eee/
+X-Arch-Package-Votes=14
+Aliases=Asusosd;

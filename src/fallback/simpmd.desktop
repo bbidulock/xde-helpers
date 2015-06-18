@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=SimPMD
+Comment=PMD85 emulator
+TryExec=/usr/bin/simpmd
+Exec=simpmd
+Categories=System;Emulator;
+X-AppInstall-Package=simpmd-git
+X-AppInstall-Section=aur
+X-Arch-Package=simpmd-git r1.4472469-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=simpmd-git
+X-Arch-Package-Version=r1.4472469-1
+X-Arch-Package-Description=Full emulator of PMD85 (git)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://dsrg.mff.cuni.cz/~ceres/prj/SimPMD/
+X-Arch-Package-Votes=0

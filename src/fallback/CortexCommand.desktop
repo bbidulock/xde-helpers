@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Cortex Command
+GenericName=Cortex Command
+Comment=Cortex Command, a real-time side-scrolling strategy game from Data Realms
+Icon=/usr/share/icons/CortexCommand.png
+TryExec=/usr/bin/cortexcommand
+Exec=/usr/bin/cortexcommand
+Categories=Game;StrategyGame;
+X-AppInstall-Package=cortexcommand
+X-AppInstall-Popcon=29
+X-AppInstall-Section=aur
+X-Arch-Package=cortexcommand 1.0rc1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cortexcommand
+X-Arch-Package-Version=1.0rc1-2
+X-Arch-Package-Description=a real-time side-scrolling strategy game from Data Realms
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.cortexcommand.com/
+X-Arch-Package-Votes=29
+Value=1.0

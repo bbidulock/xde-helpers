@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Blobby Volley 2
+GenericName=Volley Game
+Comment=Volley game with network support
+Icon=blobby2
+TryExec=/usr/bin/blobby
+Exec=blobby
+NoDisplay=true
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=blobby2-svn
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=blobby2-svn 1259-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=blobby2-svn
+X-Arch-Package-Version=1259-1
+X-Arch-Package-Description=Blobby Volley is one of the most popular freeware (now open
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/blobby/
+X-Arch-Package-Votes=6
+Aliases=blobby2;

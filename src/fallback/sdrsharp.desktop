@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=SDR#
+Comment=SDRSharp
+Icon=/opt/sdrsharp/mixer_3_16x16x32.png
+TryExec=/usr/bin/mono
+Exec=mono /opt/sdrsharp/SDRSharp.exe
+Categories=Application;Utility;
+X-AppInstall-Package=-git
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package=sdrsharp-git 533.e07ac67-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=-git
+X-Arch-Package-Version=533.e07ac67-1
+X-Arch-Package-Description=A high performance Software Defined Radio application
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sdrsharp.com/
+X-Arch-Package-Votes=11

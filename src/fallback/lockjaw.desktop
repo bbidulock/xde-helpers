@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=LockJaw
+Comment=Tetromino Game
+Icon=lockjaw.xpm
+TryExec=/usr/bin/lockjaw
+Exec=lockjaw
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=lockjaw
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=lockjaw 046-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lockjaw
+X-Arch-Package-Version=046-5
+X-Arch-Package-Description=Free and highly customizable implementation of Tetris
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.pineight.com/lj
+X-Arch-Package-Votes=1

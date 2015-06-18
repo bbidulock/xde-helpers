@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Second Life
+GenericName=Second Life
+Comment=Second Life is a 3-D virtual world entirely built and owned by its residents
+Icon=/usr/share/pixmaps/secondlife.ico
+TryExec=/usr/bin/secondlife
+Exec=/usr/bin/secondlife
+NoDisplay=true
+Categories=Application;
+StartupNotify=true
+X-AppInstall-Package=secondlife-svn
+X-AppInstall-Section=aur
+X-Arch-Package=secondlife-svn 224-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=secondlife-svn
+X-Arch-Package-Version=224-3
+X-Arch-Package-Description=a 3-D virtual world entirely built and owned by its residents
+X-Arch-Package-URL=http://www.secondlife.com
+Aliases=secondlife;

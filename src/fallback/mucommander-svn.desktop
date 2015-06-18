@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=muCommander
+Comment=A lightweight, cross-platform, two-panel file manager
+Icon=mucommander
+TryExec=/usr/bin/mucommander
+Exec=mucommander
+NoDisplay=true
+StartupNotify=true
+X-AppInstall-Package=mucommander-svn
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=mucommander-svn 3473-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mucommander-svn
+X-Arch-Package-Version=3473-1
+X-Arch-Package-Description=A lightweight, cross-platform, two-panel file manager
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.mucommander.com/
+X-Arch-Package-Votes=4
+Aliases=mucommander;

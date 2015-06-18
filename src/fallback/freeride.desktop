@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=FreeRIDE
+Comment=Cross-platform IDE for the Ruby programming language
+Icon=/usr/share/pixmaps/freeride.png
+TryExec=/usr/bin/freeride
+Exec=/usr/bin/freeride
+Categories=Development;IDE;
+X-AppInstall-Package=freeride-bin
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=freeride-bin 0.9.6-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=freeride-bin
+X-Arch-Package-Version=0.9.6-3
+X-Arch-Package-Description=Cross-platform IDE for the Ruby programming language
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://freeride.rubyforge.org/
+X-Arch-Package-Votes=3

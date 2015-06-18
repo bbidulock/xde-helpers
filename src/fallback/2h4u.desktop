@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=2H4U
+GenericName=A mix between a Tetris-like game and a wall breaker
+Comment=Too hard for you
+Icon=/usr/share/2h4u/data/images/icone.png
+TryExec=/usr/bin/2h4u
+Exec=2h4u
+Categories=Game;
+StartupNotify=false
+X-Desktop-File-Install-Version=0.21
+X-AppInstall-Package=2h4u
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=2h4u 1.3-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=2h4u
+X-Arch-Package-Version=1.3-5
+X-Arch-Package-Description=A mix between a Tetris-like game and a wall breaker
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/toohardforyou/
+X-Arch-Package-Votes=5

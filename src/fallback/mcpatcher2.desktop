@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=MCPatcher 2.x
+Comment=Minecraft patcher for HD textures and more. (For Minecraft earlier than 1.5)
+Icon=/usr/share/pixmaps/mcpatcher2.png
+TryExec=/usr/bin/mcpatcher2
+Exec=java -Xmx512m -jar /usr/share/mcpatcher2/mcpatcher.jar
+Categories=Game;
+Keywords=minecraft;
+X-AppInstall-Package=mcpatcher2
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=mcpatcher2 2.4.5_04-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mcpatcher2
+X-Arch-Package-Version=2.4.5_04-2
+X-Arch-Package-Description=Minecraft patcher to fix textures with higher than default
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://bitbucket.org/prupe/mcpatcher
+X-Arch-Package-Votes=2

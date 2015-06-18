@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=2.2
+Type=Application
+Name=DBox
+Comment=Dosbox Frontend
+Icon=/usr/share/pixmaps/dbox.gif
+TryExec=/usr/bin/dbox
+Exec=/usr/bin/dbox
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=dbox
+X-AppInstall-Popcon=19
+X-AppInstall-Section=aur
+X-Arch-Package=dbox 2.3-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dbox
+X-Arch-Package-Version=2.3-2
+X-Arch-Package-Description=An easy to use and powerful frontend for Dosbox written in
+X-Arch-Package-Groups=emulators
+X-Arch-Package-URL=http://code.google.com/p/dbox/
+X-Arch-Package-Votes=19

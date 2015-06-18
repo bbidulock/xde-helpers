@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Dolphin
+GenericName=GameCube and Wii Emulator
+Comment=An emulator for the GameCube and Wii consoles
+Icon=dolphin-emu
+TryExec=/opt/dolphin-emu/Dolphin
+Exec=/opt/dolphin-emu/Dolphin
+NoDisplay=true
+Categories=Game;Emulator;GTK;
+Path=/opt/dolphin-emu/
+StartupNotify=false
+X-AppInstall-Package=dolphin-emu-svn-bin
+X-AppInstall-Section=aur
+X-Arch-Package=dolphin-emu-svn-bin 4467-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dolphin-emu-svn-bin
+X-Arch-Package-Version=4467-1
+X-Arch-Package-Description=GameCube and Wii emulator (Unofficial dev tree build)
+X-Arch-Package-URL=http://www.dolphin-emu.com/
+Aliases=dolphin-emu;

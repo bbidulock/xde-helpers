@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Secret Maryo Chronicles
+Icon=smc
+TryExec=/usr/bin/smc
+Exec=smc
+NoDisplay=true
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=smc-git
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=smc-git 210.a0405c9-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=smc-git
+X-Arch-Package-Version=210.a0405c9-1
+X-Arch-Package-Description=Secret Maryo Chronicles (development version)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.secretmaryo.org
+X-Arch-Package-Votes=4
+Aliases=smc;

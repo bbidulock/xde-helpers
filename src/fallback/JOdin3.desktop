@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=JOdin3
+Icon=jodin
+TryExec=/usr/bin/jodin
+Exec=jodin
+Categories=Application;Development;
+StartupNotify=false
+X-AppInstall-Package=jodin3
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=jodin3 r1142-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jodin3
+X-Arch-Package-Version=r1142-1
+X-Arch-Package-Description=A java implementation of ODIN
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://goo.im/devs/AdamOutler/JOdin3/
+X-Arch-Package-Votes=7

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Papilio DesignLab
+GenericName=Papilio DesignLab
+Comment=The open-source Arduino environment with Papilio support
+Icon=designlab
+TryExec=/usr/bin/designlab
+Exec=designlab
+Categories=Application;Development;IDE;KDE;Qt;
+X-AppInstall-Package=papilio-designlab
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=papilio-designlab 1.0.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=papilio-designlab
+X-Arch-Package-Version=1.0.6-1
+X-Arch-Package-Description=It is an IDE specially designed to get you up and running
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://forum.gadgetfactory.net/index.php?/files/file/236-papilio-designlab-ide/
+X-Arch-Package-Votes=1

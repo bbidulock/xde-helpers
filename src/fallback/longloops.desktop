@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Longloops
+GenericName=Longloops
+Comment=Brain-stretching game in which you must build loops out of sections of pipe..
+Icon=/usr/share/pixmaps/longloops.xpm
+TryExec=/usr/bin/longloops
+Exec=/usr/bin/longloops
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=longloops
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=longloops 1.0.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=longloops
+X-Arch-Package-Version=1.0.1-2
+X-Arch-Package-Description=Brain-stretching game in which you must build loops out of
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://launchpad.net/longloops/
+X-Arch-Package-Votes=5

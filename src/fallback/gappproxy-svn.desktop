@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=gappproxy
+GenericName=GAppProxy
+Comment=A http proxy based on Google App Engine
+Icon=/usr/share/pixmaps/gappproxy.png
+TryExec=/usr/bin/gappproxy
+Exec=gappproxy
+Terminal=true
+NoDisplay=true
+Categories=Application;Network;
+X-AppInstall-Package=gappproxy-svn
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=gappproxy-svn 102-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gappproxy-svn
+X-Arch-Package-Version=102-1
+X-Arch-Package-Description=A http proxy based on Google App Engine
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/gappproxy/
+X-Arch-Package-Votes=7
+Aliases=gappproxy;

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Retrospective
+Comment=Retrospective Log Viewer
+Icon=/opt/retrospective3/resources/eye_48x48.png
+TryExec=/opt/retrospective3/retrospective
+Exec=/opt/retrospective3/retrospective
+Categories=Development;IDE;
+X-AppInstall-Package=retrospective
+X-AppInstall-Section=aur
+X-Arch-Package=retrospective 3.0.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=retrospective
+X-Arch-Package-Version=3.0.0-1
+X-Arch-Package-Description=Retrospective is a highly flexible and powerful tool for
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.retrospective.centeractive.com
+X-Arch-Package-Votes=0

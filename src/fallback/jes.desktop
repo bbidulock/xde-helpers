@@ -1,0 +1,23 @@
+[Desktop Entry]
+Version=1.0                               # The version of the desktop entry specification to which this file complies
+Type=Application                          # Indicates the type as listed above
+Name=Jes                                  # The name of the application
+Name[de]=Jes                              # The name of the application
+Comment=Accountig tool                    # A comment which can/will be used as a tooltip
+Comment[de]=Einnahme-Überschuss-Rechnung  # A comment which can/will be used as a tooltip
+Icon=jes                                  # The name of the icon that will be used to display this entry
+TryExec=/usr/bin/jes
+Exec=jes                                  # The executable of the application.
+Terminal=false                            # Describes whether this application needs to be run in a terminal or not
+Categories=Office                         # Describes the categories in which this entry should be shown;
+X-AppInstall-Package=jes
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=jes 1.00.40-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jes
+X-Arch-Package-Version=1.00.40-1
+X-Arch-Package-Description=A java-based tool for german cash method of accounting
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.jes-eur.de
+X-Arch-Package-Votes=2

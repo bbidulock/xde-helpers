@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=QtiPlot
+Comment=An application for plotting and analysis of data sets and functions
+Comment[de]=Ein Programm zum Plotten und analysieren von Daten und Funktionen
+Icon=/usr/share/pixmaps/qtiplot.png
+TryExec=/usr/bin/qtiplot
+Exec=qtiplot
+NoDisplay=true
+Categories=Science;X-Plotting;
+X-AppInstall-Package=qtiplot-svn
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=qtiplot-svn 2113-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qtiplot-svn
+X-Arch-Package-Version=2113-1
+X-Arch-Package-Description=Data analysis and scientific plotting - free clone of Origin,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://soft.proindependent.com/qtiplot.html
+X-Arch-Package-Votes=3
+Aliases=qtiplot;
+Protocols=file

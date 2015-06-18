@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=To The Moon
+Comment=Adventure RPG
+Icon=tothemoon
+TryExec=/usr/bin/tothemoon
+Exec=tothemoon
+Categories=Application;Game;
+StartupNotify=false
+X-AppInstall-Package=tothemoon-hib
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=tothemoon-hib 1389114090-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tothemoon-hib
+X-Arch-Package-Version=1389114090-2
+X-Arch-Package-Description=An indie Adventure RPG, about two doctors traversing through
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://freebirdgames.com/to_the_moon/
+X-Arch-Package-Votes=4

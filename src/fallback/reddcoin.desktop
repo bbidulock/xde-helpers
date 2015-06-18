@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Reddcoin
+Comment=Reddcoin P2P Cryptocurrency
+Comment[fr]=Reddcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Reddcoin, eşten eşe kriptografik sanal para birimi
+Icon=/usr/share/pixmaps/bitcoin.png
+TryExec=/usr/bin/reddcoin-qt
+Exec=/usr/bin/reddcoin-qt %u
+Categories=Office;
+MimeType=x-scheme-handler/Reddcoin;
+X-AppInstall-Package=reddcoin-qt-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=reddcoin-qt-git 0.8.6.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=reddcoin-qt-git
+X-Arch-Package-Version=0.8.6.2-1
+X-Arch-Package-Description=Cryptocurrency
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.reddcoin.com/
+X-Arch-Package-Votes=1

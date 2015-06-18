@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Shrew VPN Client
+GenericName=Shrew VPN Client
+Comment=VPN Client
+Icon=/usr/share/icons/ikea.png
+TryExec=/usr/bin/qikea
+Exec=qikea
+Categories=Application;Network;
+X-AppInstall-Package=shrew-vpn-client
+X-AppInstall-Popcon=34
+X-AppInstall-Section=aur
+X-Arch-Package=shrew-vpn-client 2.2.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=shrew-vpn-client
+X-Arch-Package-Version=2.2.1-2
+X-Arch-Package-Description=A portable VPN client for Linux with Qt GUI
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.shrew.net/
+X-Arch-Package-Votes=34

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Logisim
+Comment=An educational tool for designing and simulating digital logic circuits
+Icon=logisim
+TryExec=/usr/bin/logisim
+Exec=/usr/bin/logisim
+NoDisplay=true
+Categories=Education;
+MimeType=application/x-logisim;
+X-AppInstall-Package=logisim-evolution
+X-AppInstall-Section=aur
+X-Arch-Package=logisim-evolution 2.13.5-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=logisim-evolution
+X-Arch-Package-Version=2.13.5-3
+X-Arch-Package-Description=An educational tool for designing and simulating digital logic
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/logisimevolution/
+X-Arch-Package-Votes=0
+Aliases=logisim;

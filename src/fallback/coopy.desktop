@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Coopy
+Comment=Cooperation Utility
+Icon=coopy
+TryExec=/usr/bin/coopy
+Exec=coopy
+Categories=Office;Utility;
+X-AppInstall-Package=coopy
+X-AppInstall-Section=aur
+X-Arch-Package=coopy 0.6.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=coopy
+X-Arch-Package-Version=0.6.3-1
+X-Arch-Package-Description=A set of tools for distributed data projects.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://share.find.coop/
+X-Arch-Package-Votes=0

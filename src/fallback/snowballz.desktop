@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Snowballz
+Comment=A fun RTS game featuring snowball fights with penguins
+Icon=snowballz.png
+TryExec=/usr/bin/snowballz
+Exec=snowballz
+Categories=Game;StrategyGame;
+X-AppInstall-Package=snowballz
+X-AppInstall-Popcon=12
+X-AppInstall-Section=aur
+X-Arch-Package=snowballz 0.9.5.1-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=snowballz
+X-Arch-Package-Version=0.9.5.1-5
+X-Arch-Package-Description=A fun RTS game featuring snowball fights with penguins
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.happypenguin.org/show?Snowballz
+X-Arch-Package-Votes=12

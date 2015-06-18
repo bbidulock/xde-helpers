@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=emuChip
+GenericName=CHIP-8 emulator
+Comment=CHIP-8 emulator
+TryExec=/usr/bin/emuchip
+Exec=emuchip
+Categories=Game;Emulator;
+X-AppInstall-Package=emuchip
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=emuchip 0.3-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=emuchip
+X-Arch-Package-Version=0.3-2
+X-Arch-Package-Description=a CHIP-8 and Super CHIP emulator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/emuchip/
+X-Arch-Package-Votes=1

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Corners
+GenericName=Corners
+Comment=Logical board game as known as Halma or Chinese checkers
+Icon=/usr/share/corners/corners.png
+TryExec=/usr/bin/corners
+Exec=/usr/bin/corners
+Categories=Game;BoardGame;
+X-AppInstall-Package=corners
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=corners 1.4-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=corners
+X-Arch-Package-Version=1.4-2
+X-Arch-Package-Description=Logical board game as known as Halma or Chinese checkers. The
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://sourceforge.net/projects/corners/
+X-Arch-Package-Votes=1

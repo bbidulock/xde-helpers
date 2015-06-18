@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Baldurs Gate Configuration
+Comment=Baldurs Gate (GOG.com)
+Icon=gog-baldurs-gate
+TryExec=/usr/bin/gog-bg-config
+Exec=gog-bg-config
+Categories=Game;
+X-AppInstall-Package=gog-baldurs-gate
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=gog-baldurs-gate 1.0.0.8-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gog-baldurs-gate
+X-Arch-Package-Version=1.0.0.8-1
+X-Arch-Package-Description=Chaos threatens to overwhelm the Sword Coast.
+X-Arch-Package-Groups=games
+X-Arch-Package-URL=http://www.gog.com/game/baldurs_gate_the_original_saga
+X-Arch-Package-Votes=2

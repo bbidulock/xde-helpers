@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=LumaQQ
+Comment='QQ protocol instant messaging client'
+Comment[zh_CN]='QQ\xBC\xB4ʱͨѶ\xC8\xED\xBC\xFE\xBFͻ\xA7\xB6\xCB'
+Icon=/opt/lumaqq/QQ.png
+TryExec='/opt/lumaqq/lumaqq'
+Exec='/opt/lumaqq/lumaqq'
+Categories=Application;Network;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=lumaqq
+X-AppInstall-Section=aur
+X-Arch-Package=lumaqq 2006M2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lumaqq
+X-Arch-Package-Version=2006M2-2
+X-Arch-Package-Description=QQ protocol instant messaging client
+X-Arch-Package-URL=http://lumaqq.linuxsir.org

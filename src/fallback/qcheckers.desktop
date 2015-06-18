@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=QCheckers-mobile
+GenericName=Checkers Game
+Icon=/usr/share/pixmaps/qcheckers.svg
+TryExec=/usr/bin/qcheckers
+Exec=qcheckers
+Categories=Game;BoardGame;Qt;
+X-AppInstall-Package=qcheckers-mobile
+X-AppInstall-Section=aur
+X-Arch-Package=qcheckers-mobile 0.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qcheckers-mobile
+X-Arch-Package-Version=0.2-1
+X-Arch-Package-Description=Checkers for Qt(Russian and international)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=None
+X-Arch-Package-Votes=0

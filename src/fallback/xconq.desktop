@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Xconq
+Comment=An open source engine for turn-based strategy games
+Icon=xconq
+TryExec=/usr/bin/xconq
+Exec=xconq
+Categories=Game;StrategyGame;
+X-AppInstall-Package=xconq
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=xconq 7.5.0pre20050612-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xconq
+X-Arch-Package-Version=7.5.0pre20050612-2
+X-Arch-Package-Description=An open source engine for turn-based strategy games
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/xconq/
+X-Arch-Package-Votes=1

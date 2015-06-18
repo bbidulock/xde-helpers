@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=iFish
+GenericName=iFish
+Comment=Music database generator for iRiver's Jukebox model H.
+Comment[cs]=Generuje databázi hudby pro přehrávač iRiver model H.
+Icon=ifish
+TryExec=/usr/bin/ifish
+Exec=ifish
+Categories=AudioVideo;
+X-AppInstall-Package=ifish
+X-AppInstall-Section=aur
+X-Arch-Package=ifish 1.4-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ifish
+X-Arch-Package-Version=1.4-3
+X-Arch-Package-Description=Database generator for the iRiver H (aka iHP) series harddisk jukeboxes.
+X-Arch-Package-URL=http://www.shredzone.de/projects/ifish

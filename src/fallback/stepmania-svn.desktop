@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=StepMania 4.0 SVN
+Comment=Advanced Dance Simulator
+Icon=stepmania-svn.xpm
+TryExec=/usr/bin/stepmania-svn
+Exec=stepmania-svn
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=stepmania-svn
+X-AppInstall-Section=aur
+X-Arch-Package=stepmania-svn 28586-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=stepmania-svn
+X-Arch-Package-Version=28586-1
+X-Arch-Package-Description=SVN version of StepMania 4.0
+X-Arch-Package-URL=http://www.stepmania.com/wiki/StepMania_4.0

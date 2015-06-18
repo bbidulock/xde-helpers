@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Boeing 787-8 Dreamliner
+Name[en_US]=flightgear-dreamliner.desktop
+GenericName=Flight Simulator
+Comment=Flightgear Boeing 787-8 Dreamliner
+Icon=787.png
+TryExec=/usr/bin/flightgear
+Exec=flightgear 787-8
+Categories=Game;Simulation;
+X-AppInstall-Package=flightgear-dreamliner
+X-AppInstall-Section=aur
+X-Arch-Package=flightgear-dreamliner 787-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=flightgear-dreamliner
+X-Arch-Package-Version=787-3
+X-Arch-Package-Description=Boeing 787-8 Dreamliner for FlightGear
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://wiki.flightgear.org/Boeing_787-8_Dreamliner
+X-Arch-Package-Votes=0

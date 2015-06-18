@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=010 Editor
+Comment=Professional text and hex editing with Binary Templates technology
+Icon=010editor
+TryExec=/usr/bin/010editor
+Exec=010editor
+Categories=Development;
+X-AppInstall-Package=010editor
+X-AppInstall-Section=aur
+X-Arch-Package=010editor 6.0.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=010editor
+X-Arch-Package-Version=6.0.2-1
+X-Arch-Package-Description=Professional text and hex editing with Binary Templates
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.sweetscape.com/010editor/
+X-Arch-Package-Votes=0

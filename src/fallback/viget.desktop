@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=viGet
+Icon=/opt/viget/viget-logo.png
+Icon[it_IT]=/opt/viget/viget-logo.png
+TryExec=/opt/viget/viget-gui.py
+Exec=/opt/viget/viget-gui.py
+X-AppInstall-Package=viget
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=viget 0.2.5-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=viget
+X-Arch-Package-Version=0.2.5-2
+X-Arch-Package-Description=Download and convert videos from site like Youtube and Vimeo
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://download.learnfree.eu/viget/
+X-Arch-Package-Votes=1

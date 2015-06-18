@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=0.1.0.0
+Type=Application
+Name=Velocity
+Comment=Browse and edit Xbox 360 files
+Icon=velocity
+TryExec=/usr/bin/velocity
+Exec=velocity %f
+MimeType=application/x-extension-iml;
+X-AppInstall-Package=velocity-xbox360-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=velocity-xbox360-git 0.1.0.0.r1249.6e968cb-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=velocity-xbox360-git
+X-Arch-Package-Version=0.1.0.0.r1249.6e968cb-1
+X-Arch-Package-Description=A cross-platform application built using the Qt framework
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/hetelek/Velocity.git
+X-Arch-Package-Votes=1

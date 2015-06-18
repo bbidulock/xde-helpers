@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=PDF Studio 8
+Comment=Views and Edits Adobe PDF (acrobat) files
+Icon=pdfstudio8
+TryExec=/usr/bin/pdfstudio8
+Exec=pdfstudio8 %f
+Categories=Office;
+MimeType=application/pdf;
+X-AppInstall-Package=pdfstudio8
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=pdfstudio8 8.4.0-8
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pdfstudio8
+X-Arch-Package-Version=8.4.0-8
+X-Arch-Package-Description=Review, annotate, and edit PDF Documents
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.qoppa.com/pdfstudio/
+X-Arch-Package-Votes=3

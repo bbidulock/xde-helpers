@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Google App Engine Launcher
+Icon=/opt/google-appengine-wx-launcher-svn/images/AppEngine.png
+TryExec=/opt/google-appengine-wx-launcher-svn/GoogleAppEngineLauncher.py
+Exec=/opt/google-appengine-wx-launcher-svn/GoogleAppEngineLauncher.py
+Categories=Development;
+StartupNotify=true
+X-AppInstall-Package=google-appengine-wx-launcher-svn
+X-AppInstall-Popcon=12
+X-AppInstall-Section=aur
+X-Arch-Package=google-appengine-wx-launcher-svn 7-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=google-appengine-wx-launcher-svn
+X-Arch-Package-Version=7-1
+X-Arch-Package-Description=GUI launcher for Google App Engine
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/google-appengine-wx-launcher/
+X-Arch-Package-Votes=12

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Peerunity
+Comment=Peerunity wallet for Peercoin P2P Cryptocurrency
+Icon=peerunity128
+TryExec=/usr/bin/peerunity
+Exec=peerunity %u
+Categories=Office;Finance;
+MimeType=x-scheme-handler/peercoin;
+X-AppInstall-Package=peerunity-git
+X-AppInstall-Section=aur
+X-Arch-Package=peerunity-git 0.1.2.RC3.r14.gd0cbc83-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=peerunity-git
+X-Arch-Package-Version=0.1.2.RC3.r14.gd0cbc83-4
+X-Arch-Package-Description=Peercoin network-compatible, community-developed wallet
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/Peerunity/Peerunity
+X-Arch-Package-Votes=0

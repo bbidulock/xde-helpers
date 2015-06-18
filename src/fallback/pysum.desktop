@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Pysum
+GenericName=CRC checker & creator
+Icon=pysum.png
+TryExec=/usr/share/pysum/src/pysum.py
+Exec=/usr/share/pysum/src/pysum.py
+Categories=Utility;
+X-AppInstall-Package=pysum
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=pysum 0.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pysum
+X-Arch-Package-Version=0.5-1
+X-Arch-Package-Description=Application for calculating and verifying checksums
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pysum.berlios.de/en/
+X-Arch-Package-Votes=1

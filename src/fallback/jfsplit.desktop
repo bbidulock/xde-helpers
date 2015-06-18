@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Jfsplit
+Comment=File Splitter and Joiner
+TryExec=/usr/bin/jfsplit
+Exec=jfsplit
+Categories=Application;Utility;
+X-AppInstall-Package=jfsplit
+X-AppInstall-Section=aur
+X-Arch-Package=jfsplit 1.0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jfsplit
+X-Arch-Package-Version=1.0.1-1
+X-Arch-Package-Description=File Splitter and Joiner
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://jfsplit.sourceforge.net
+X-Arch-Package-Votes=0

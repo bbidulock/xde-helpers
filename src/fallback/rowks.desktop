@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=ROX Filer
+Icon=rox
+TryExec=/usr/bin/rox
+Exec=rox
+NoDisplay=true
+Hidden=true
+Categories=System;Utility;FileManager;Core;
+X-AppInstall-Package=rowks
+X-AppInstall-Section=aur
+X-Arch-Package=rowks 2.11-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rowks
+X-Arch-Package-Version=2.11-3
+X-Arch-Package-Description=A version of rox file manager with a coherent naming scheme
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://roscidus.com/desktop/
+X-Arch-Package-Votes=0
+Aliases=rox;

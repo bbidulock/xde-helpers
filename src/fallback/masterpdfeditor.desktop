@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Master PDF Editor
+GenericName=Master PDF Editor
+Comment=Edit your PDF and XPS files
+Icon=pdfeditor.png
+TryExec=/opt/masterpdfeditor/masterpdfeditor3
+Exec=/opt/masterpdfeditor/masterpdfeditor3 %f
+Categories=Office;Publishing;
+MimeType=application/pdf;
+X-AppInstall-Package=masterpdfeditor
+X-AppInstall-Popcon=122
+X-AppInstall-Section=aur
+X-Arch-Package=masterpdfeditor 3.1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=masterpdfeditor
+X-Arch-Package-Version=3.1.0-1
+X-Arch-Package-Description=A complete solution for creation and editing PDF files. (Free
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code-industry.net/free-pdf-editor.php
+X-Arch-Package-Votes=122

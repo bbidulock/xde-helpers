@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=BabelMap
+Comment=Unicode character map
+Icon=babelmap
+TryExec=/usr/bin/babelmap
+Exec=babelmap
+Categories=Utility;
+X-AppInstall-Package=babelmap
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=babelmap 7.0.0.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=babelmap
+X-Arch-Package-Version=7.0.0.3-1
+X-Arch-Package-Description=A Unicode character map for Windows.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.babelstone.co.uk/Software/BabelMap.html
+X-Arch-Package-Votes=2

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=ArkanoidSB
+GenericName=Arkanoid: Space Ball
+Comment=New generation of arkanoid style game
+Icon=arkanoidsb
+TryExec=/usr/bin/arkanoidsb
+Exec=arkanoidsb
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=arkanoidsb
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=arkanoidsb 1.3.2.10-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=arkanoidsb
+X-Arch-Package-Version=1.3.2.10-1
+X-Arch-Package-Description=Arkanoid: Space Ball
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.wegroup.org/games/arkanoid-games/arkanoid-space-ball.html
+X-Arch-Package-Votes=6

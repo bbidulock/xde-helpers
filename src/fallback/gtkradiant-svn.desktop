@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=GtkRadiant
+GenericName=Level Editor
+Comment=Level editor for Doom 3, Nexuiz, Quake 4, Tremulous, Warsow etc...
+Icon=/usr/share/pixmaps/gtkradiant.png
+TryExec=/usr/bin/gtkradiant
+Exec=/usr/bin/gtkradiant
+NoDisplay=true
+Categories=Application;Development;Game;
+StartupNotify=false
+X-AppInstall-Package=gtkradiant-svn
+X-AppInstall-Section=aur
+X-Arch-Package=gtkradiant-svn 490-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gtkradiant-svn
+X-Arch-Package-Version=490-1
+X-Arch-Package-Description=Development version of the level editor, also known as ZeroRadiant
+X-Arch-Package-URL=http://www.qeradiant.com/cgi-bin/trac.cgi/wiki/ZeroRadiant
+Aliases=gtkradiant;

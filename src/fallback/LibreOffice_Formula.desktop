@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Link
+Name=LibreOffice Formula Document...
+Comment=New LibreOffice Formula document
+Icon=libreoffice-math
+URL=.source/Formula.odf
+X-AppInstall-Package=dolphin-libreoffice-templates
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=dolphin-libreoffice-templates 1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dolphin-libreoffice-templates
+X-Arch-Package-Version=1.0-1
+X-Arch-Package-Description=Create LibreOffice documents from Dolphin contextual menu
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.libreoffice.org
+X-Arch-Package-Votes=13

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=HJ-Split
+GenericName=HJ-Split
+Comment=Split and recombine files
+Icon=hjsplit
+TryExec=/usr/bin/hjsplit
+Exec=hjsplit
+Categories=AudioVideo;Video;
+X-AppInstall-Package=-bin
+X-AppInstall-Popcon=18
+X-AppInstall-Section=aur
+X-Arch-Package=hjsplit-bin 3.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=-bin
+X-Arch-Package-Version=3.1-2
+X-Arch-Package-Description=A popular freeware program to split and recombine files.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.hjsplit.org/
+X-Arch-Package-Votes=18

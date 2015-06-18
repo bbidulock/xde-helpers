@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Spirits
+GenericName=Spirits
+Comment=Shall we play a game?
+Icon=/opt/Spirits/icon.png
+TryExec=/opt/Spirits/Spirits
+Exec=/opt/Spirits/Spirits
+NoDisplay=true
+Categories=Application;Game;ArcadeGame;
+X-AppInstall-Package=spirits-humblebundle
+X-AppInstall-Section=aur
+X-Arch-Package=spirits-humblebundle 1.0.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=spirits-humblebundle
+X-Arch-Package-Version=1.0.0-2
+X-Arch-Package-Description=Arcade game, HumbleBundle version. 'Leaves fall, and spirits rise from the fallen leaves to begin their journey home.'
+X-Arch-Package-Groups=humblebundle;
+X-Arch-Package-URL=http://www.humblebundle.com/
+Aliases=spirits;

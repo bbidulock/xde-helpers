@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=QDevelop
+GenericName=An IDE for Qt4
+Comment=A free and cross-platform IDE for Qt4
+Icon=qdevelop
+TryExec=/usr/bin/qdevelop
+Exec=qdevelop
+Categories=Application;Development;IDE;KDE;Qt;
+X-KDE-StartupNotify=true
+X-AppInstall-Package=qdevelop
+X-AppInstall-Section=aur
+X-Arch-Package=qdevelop 0.28-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qdevelop
+X-Arch-Package-Version=0.28-1
+X-Arch-Package-Description=A free and cross-platform IDE for Qt4
+X-Arch-Package-URL=http://biord-software.org/qdevelop

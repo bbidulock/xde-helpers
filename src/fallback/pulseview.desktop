@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=PulseView
+TryExec=/usr/bin/pulseview
+Exec=pulseview
+Categories=Development;
+X-AppInstall-Package=pulseview
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=pulseview 0.2.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pulseview
+X-Arch-Package-Version=0.2.0-1
+X-Arch-Package-Description=A Qt based logic analyzer GUI for sigrok.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sigrok.org/wiki/Main_Page
+X-Arch-Package-Votes=7

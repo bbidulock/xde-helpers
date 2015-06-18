@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Feed The Beast
+GenericName=Feed The Beast
+Comment=The Feed The Beast Custom Minecraft Launcher
+Icon=/usr/share/pixmaps/ftb.png
+TryExec=/usr/bin/ftb-launcher-script.sh
+Exec=ftb-launcher-script.sh
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=ftb-launcher
+X-AppInstall-Section=aur
+X-Arch-Package=ftb-launcher latest-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ftb-launcher
+X-Arch-Package-Version=latest-1
+X-Arch-Package-Description=Feed the Beast custom Minecraft Launcher
+X-Arch-Package-URL=http://feed-the-beast.com/
+Aliases=ftb;

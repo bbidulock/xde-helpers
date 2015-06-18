@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=AirHockey
+Comment=Play air hockey
+TryExec=/usr/bin/airhockey
+Exec=airhockey
+NoDisplay=true
+Categories=Game;ActionGame;
+X-AppInstall-Package=airhockey-git
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=airhockey-git 20120414-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=airhockey-git
+X-Arch-Package-Version=20120414-1
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/cosmiczilch/AirHockey
+X-Arch-Package-Votes=3
+Aliases=airhockey;

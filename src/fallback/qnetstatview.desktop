@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=QNetStatView
+Comment=Shows detailed listings of all TCP and UDP endpoints
+Icon=qnetstatview
+TryExec=/usr/bin/qnetstatview
+Exec=qnetstatview
+Categories=Network;Utility;
+X-AppInstall-Package=qnetstatview
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=qnetstatview 1.2.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qnetstatview
+X-Arch-Package-Version=1.2.0-2
+X-Arch-Package-Description=Qt program that will show you detailed listings of all TCP and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=None
+X-Arch-Package-Votes=2

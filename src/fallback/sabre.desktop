@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Sabre Fighter Plane Simulator
+Comment=A flight simulator with fighter planes of the Korean War era
+Icon=sabre
+TryExec=/usr/bin/RunSabreSDL
+Exec=RunSabreSDL
+Terminal=true
+Categories=Game;Simulation;
+X-AppInstall-Package=sabre
+X-AppInstall-Section=aur
+X-Arch-Package=sabre 0.2.4b-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sabre
+X-Arch-Package-Version=0.2.4b-2
+X-Arch-Package-Description=A flight simulator with fighter planes of the Korean War era
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.happypenguin.org/show?Sabre
+X-Arch-Package-Votes=0

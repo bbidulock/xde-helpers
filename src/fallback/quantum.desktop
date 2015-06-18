@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Quantum
+Comment=A simple adaption of the RTS game 'Dyson' focusing on multiplayer with alliances and routing
+Icon=/usr/share/pixmaps/quantum.png
+TryExec=/usr/bin/quantum
+Exec=quantum
+Categories=Game;StrategyGame;
+X-AppInstall-Package=quantum
+X-AppInstall-Popcon=19
+X-AppInstall-Section=aur
+X-Arch-Package=quantum 1.33-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=quantum
+X-Arch-Package-Version=1.33-1
+X-Arch-Package-Description=A simple adaption of the RTS game 'Dyson' focusing on
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://apistudios.com/hosted/marzec/quantum/
+X-Arch-Package-Votes=19

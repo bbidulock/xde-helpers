@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Rockbox Utility
+GenericName=Configure Rockbox
+GenericName[de]=Konfiguriere Rockbox
+GenericName[fr]=Configurer Rockbox
+Comment=Configure Rockbox
+Comment[de]=Konfiguriere Rockbox
+Comment[fr]=Configurer Rockbox
+Icon=multimedia-player.svg
+TryExec=/usr/bin/RockboxUtility
+Exec=RockboxUtility
+Categories=Multimedia;
+MimeType=text/por;
+StartupNotify=false
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=rbutil-bin
+X-AppInstall-Section=aur
+X-Arch-Package=rbutil-bin 1.3.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rbutil-bin
+X-Arch-Package-Version=1.3.1-1
+X-Arch-Package-Description=A Qt application for easily managing your Rockbox installation. (Binary Version)
+X-Arch-Package-URL=http://www.rockbox.org/twiki/bin/view/Main/RockboxUtility

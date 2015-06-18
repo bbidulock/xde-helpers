@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Tiled
+GenericName=Tiled
+Comment=Edit Video Game Tile Maps
+Icon=tiled-icon
+TryExec=/usr/bin/tiled
+Exec=tiled
+NoDisplay=true
+Hidden=true
+Categories=Application;Development;Qt;Games;
+X-AppInstall-Package=tiled-qt
+X-AppInstall-Section=aur
+X-Arch-Package=tiled-qt 0.8.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tiled-qt
+X-Arch-Package-Version=0.8.1-1
+X-Arch-Package-Description=Tiled is a general purpose tile map editor, built to be flexible and easy to use.
+X-Arch-Package-URL=http://mapeditor.org
+Aliases=tiled;

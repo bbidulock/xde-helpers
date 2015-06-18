@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Fish Supper
+Comment=A simple Frogger-like arcade game
+Icon=fishsupper
+TryExec=/usr/bin/fishsupper
+Exec=fishsupper
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=fishsupper
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=fishsupper 0.1.6-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fishsupper
+X-Arch-Package-Version=0.1.6-2
+X-Arch-Package-Description=A simple Frogger-like arcade game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.happypenguin.org/show?Fish%20Supper
+X-Arch-Package-Votes=4

@@ -1,0 +1,26 @@
+[Desktop Entry]
+Type=Application
+Name=Berry
+GenericName=Image viewer
+GenericName[es]=Visor de imágenes
+Comment=Modern image viewer
+Comment[es]=Visor de imágenes moderno
+Icon=/usr/share/berry/icons/berry.png
+TryExec=/usr/bin/berry
+Exec=berry %f
+NoDisplay=true
+Categories=Graphics;
+MimeType=inode/directory;image/gif;image/jpeg;image/png;image/bmp;image/x-eps;image/x-ico;image/x-portable-bitmap;image/x-portable-graymap;image/x-portable-pixmap;image/x-xbitmap;image/x-xpixmap;image/tiff;image/x-psd;image/x-webp;application/berry-lock;
+StartupNotify=true
+X-AppInstall-Package=berry
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=berry 1.0.0-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=berry
+X-Arch-Package-Version=1.0.0-4
+X-Arch-Package-Description=Modern image viewer, focused on better user interface. Written
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://aseman.co/en/products/berry/
+X-Arch-Package-Votes=2
+Aliases=Berry;

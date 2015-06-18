@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Pong2
+Comment=Networked, 3D clone of pong
+Icon=/usr/share/pixmaps/pong2.png
+TryExec=/usr/bin/pong2
+Exec=pong2
+X-AppInstall-Package=pong2
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=pong2 0.1.3-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pong2
+X-Arch-Package-Version=0.1.3-2
+X-Arch-Package-Description=Networked, 3D clone of pong
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pong2.berlios.de/
+X-Arch-Package-Votes=3

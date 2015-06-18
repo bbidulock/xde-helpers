@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Java VisualVM (32-bit)
+GenericName=Java Monitoring and Performance Monitoring Tool (32-bit)
+Icon=sun-java-jdk8-32
+TryExec=/usr/lib/jvm/java-8-jdk-32/bin/jvisualvm
+Exec=/usr/lib/jvm/java-8-jdk-32/bin/jvisualvm
+Categories=Development;Java;
+StartupNotify=true
+X-AppInstall-Package=oracle-jdk8
+X-AppInstall-Section=aur
+X-Arch-Package=oracle-jdk8 8u25-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=oracle-jdk8
+X-Arch-Package-Version=8u25-2
+X-Arch-Package-Description=Oracle Java Development Kit (32-bit)
+X-Arch-Package-URL=http://www.oracle.com/technetwork/java/javase/downloads/index.html

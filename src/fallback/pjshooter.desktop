@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=PixelJunk Shooter
+GenericName=PixelJunk Shooter
+Comment=Fluid action shooter game
+Icon=/usr/share/pixmaps/pjshooter.bmp
+TryExec=/usr/bin/pjshooter
+Exec=/usr/bin/pjshooter
+Categories=Game;
+X-AppInstall-Package=pixeljunkshooter-hib
+X-AppInstall-Section=aur
+X-Arch-Package=pixeljunkshooter-hib 0_20140702-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pixeljunkshooter-hib
+X-Arch-Package-Version=0_20140702-1
+X-Arch-Package-Description=Fluid action shooter game (Humble Bundle version)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pixeljunk.jp/library/Shooter/
+X-Arch-Package-Votes=0

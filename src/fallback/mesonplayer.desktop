@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=MesonPlayer
+Icon=/usr/share/pixmaps/mesonplayer.ico
+TryExec=/usr/bin/mesonplayer
+Exec=mesonplayer
+Categories=AudioVideo;
+X-AppInstall-Package=mesonplayer
+X-AppInstall-Section=aur
+X-Arch-Package=mesonplayer 0.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mesonplayer
+X-Arch-Package-Version=0.6-1
+X-Arch-Package-Description=Tray icon music player.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/mesonplayer/
+X-Arch-Package-Votes=0

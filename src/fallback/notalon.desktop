@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Notalon
+GenericName=Simplified Note-taking
+Comment=Note-taking, simplified
+Icon=notalon
+TryExec=/usr/bin/notalon.py
+Exec=/usr/bin/notalon.py
+Categories=Application;Office;
+StartupNotify=false
+X-AppInstall-Package=notalon
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=notalon 0.5.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=notalon
+X-Arch-Package-Version=0.5.0-2
+X-Arch-Package-Description=Note-taking, simplified
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://notalon.org/
+X-Arch-Package-Votes=3

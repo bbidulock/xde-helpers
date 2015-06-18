@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.2.1
+Type=Application
+Name=FlvToMp3
+Icon=/usr/share/pixmaps/flvtomp3.ico
+TryExec=/usr/bin/FlvToMp3
+Exec=FlvToMp3
+Categories=AudioVideo;Applications;
+X-AppInstall-Package=flvtomp3
+X-AppInstall-Popcon=15
+X-AppInstall-Section=aur
+X-Arch-Package=flvtomp3 1.2.1-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=flvtomp3
+X-Arch-Package-Version=1.2.1-3
+X-Arch-Package-Description=Permits you to extract the sound track of a .flv file without
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/flvtomp3
+X-Arch-Package-Votes=15

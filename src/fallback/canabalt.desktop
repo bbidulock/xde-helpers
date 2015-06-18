@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Canabalt (Adobe Air Version)
+GenericName=2D Action Platformer
+Comment=Semi Secret Software
+Icon=canabalt
+TryExec=/usr/bin/canabalt
+Exec=/usr/bin/canabalt
+Categories=Game;
+X-AppInstall-Package=canabalt
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=canabalt 1.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=canabalt
+X-Arch-Package-Version=1.0-2
+X-Arch-Package-Description=It's going to be quite some time before you find something so
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://canabalt.com/
+X-Arch-Package-Votes=1

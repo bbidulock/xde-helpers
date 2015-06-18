@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Namecoin
+GenericName=Namecoin is a decentralized open source information registration and transfer system based on the Bitcoin cryptocurrency.\s
+Icon=exec
+TryExec=/usr/bin/namecoin-qt
+Exec=namecoin-qt %u
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=namecoin
+X-AppInstall-Section=aur
+X-Arch-Package=namecoin 0.3.80-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=namecoin
+X-Arch-Package-Version=0.3.80-2
+X-Arch-Package-URL=http://namecoin.info

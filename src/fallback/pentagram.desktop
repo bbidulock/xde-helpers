@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Pentagram
+Comment=An open source implementation of the Ultima 8 engine
+Icon=pentagram
+TryExec=/usr/bin/pentagram
+Exec=pentagram
+Categories=Game;RolePlaying;
+X-AppInstall-Package=pentagram
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=pentagram 20130922-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pentagram
+X-Arch-Package-Version=20130922-1
+X-Arch-Package-Description=An open source implementation of the Ultima 8 engine
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pentagram.sourceforge.net/
+X-Arch-Package-Votes=2

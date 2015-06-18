@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Vega Strike SVN
+Comment=Play a 3D space combat and simulation
+Comment[cs]=Hraj 3D vesmírnou simulaci
+Comment[es]=Juega un combate y una simulación del espacio 3D
+Icon=vegastrike
+TryExec=/usr/bin/vegastrike
+Exec=vegastrike
+Categories=Game;StrategyGame;
+StartupNotify=true
+X-AppInstall-Package=vegastrike-data-svn
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=vegastrike-data-svn 13681-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=vegastrike-data-svn
+X-Arch-Package-Version=13681-1
+X-Arch-Package-Description=SVN version of a 3D OpenGL Action-Space-Sim allowing players
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://vegastrike.sourceforge.net/
+X-Arch-Package-Votes=2

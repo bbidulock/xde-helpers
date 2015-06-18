@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Kodos
+Comment=A Python regular expression debugger
+Icon=kodos_icon
+TryExec=/usr/bin/kodos
+Exec=kodos
+Categories=Development;Qt;
+X-AppInstall-Package=kodos
+X-AppInstall-Popcon=23
+X-AppInstall-Section=aur
+X-Arch-Package=kodos 2.4.9-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kodos
+X-Arch-Package-Version=2.4.9-1
+X-Arch-Package-Description=A Python regular expression debugger
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kodos.sourceforge.net/
+X-Arch-Package-Votes=23

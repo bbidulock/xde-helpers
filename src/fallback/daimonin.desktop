@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Daimonin
+GenericName=Free MMORPG game
+Comment=Free, open source, Massively Multiplayer Online RPG game
+Icon=daimonin
+TryExec=/usr/bin/daimonin
+Exec=daimonin
+Categories=Game;
+X-AppInstall-Package=daimonin
+X-AppInstall-Popcon=12
+X-AppInstall-Section=aur
+X-Arch-Package=daimonin 0.10.5-9
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=daimonin
+X-Arch-Package-Version=0.10.5-9
+X-Arch-Package-Description=A free, open source, Massively Multiplayer Online Role-playing
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.daimonin.org
+X-Arch-Package-Votes=12

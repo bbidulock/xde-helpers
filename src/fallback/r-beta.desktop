@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=R-beta
+Name[en_US]=r-beta
+GenericName=environment for statistical computing - development version
+Comment=language and environment for statistical computing and graphics - beta version
+Icon=/usr/share/pixmaps/r-beta.png
+TryExec=/usr/bin/R-beta
+Exec=R-beta
+Terminal=true
+Categories=Education;Science;Math;
+StartupNotify=true
+DocPath=/usr/lib/R-devel/doc/html/index.html
+X-AppInstall-Package=r-beta
+X-AppInstall-Section=aur
+X-Arch-Package=r-beta 20120317-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=r-beta
+X-Arch-Package-Version=20120317-1
+X-Arch-Package-Description=Language and environment for statistical computing and graphics - beta version
+X-Arch-Package-URL=http://www.r-project.org/

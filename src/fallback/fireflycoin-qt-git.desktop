@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=FireFlyCoin
+Name[en_US]=fireflycoin
+Comment=Designed for collectors and traders
+Icon=/usr/share/pixmaps/fireflycoin.png
+TryExec=/usr/bin/fireflycoin-qt
+Exec=/usr/bin/fireflycoin-qt
+NoDisplay=true
+Categories=Application;Network;
+MimeType=x-scheme-handler/fireflycoin;
+X-AppInstall-Package=fireflycoin-qt-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=fireflycoin-qt-git 0.9.1-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fireflycoin-qt-git
+X-Arch-Package-Version=0.9.1-4
+X-Arch-Package-Description=Designed for collectors and traders.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/FireFlyCoin/FireFlyCoin
+X-Arch-Package-Votes=1
+Aliases=fireflycoin;

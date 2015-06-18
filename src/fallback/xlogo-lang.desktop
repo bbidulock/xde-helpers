@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=XLogo
+Comment=An excellent language to begin learning with
+Icon=xlogo-lang.png
+TryExec=/usr/bin/java
+Exec=java -jar /usr/share/java/xlogo-lang/xlogo.jar
+Categories=Application;Development;
+Path=/usr/share/java/xlogo-lang
+StartupNotify=false
+X-AppInstall-Package=xlogo-lang
+X-AppInstall-Section=aur
+X-Arch-Package=xlogo-lang 0.9.93-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xlogo-lang
+X-Arch-Package-Version=0.9.93-1
+X-Arch-Package-Description=A Logo interpreter written in Java, to teach programming to children with a graphical turtle.
+X-Arch-Package-URL=http://xlogo.tuxfamily.org/

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=VMware View Client
+GenericName=VMware View Client
+Comment=Connect to VMware View virtual machines
+Icon=vmware-view
+TryExec=/usr/bin/vmware-view
+Exec=vmware-view
+Categories=Network;System;Utility;
+StartupNotify=true
+X-AppInstall-Package=vmware-view-client
+X-AppInstall-Popcon=19
+X-AppInstall-Section=aur
+X-Arch-Package=vmware-view-client 2.2.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=vmware-view-client
+X-Arch-Package-Version=2.2.0-2
+X-Arch-Package-Description=VMware Horizon View Client connects to virtual machines
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://my.vmware.com/web/vmware/info/slug/desktop_end_user_computing/vmware_view/5_0
+X-Arch-Package-Votes=19

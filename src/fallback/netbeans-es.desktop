@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=NetBeans IDE
+Comment=A Java IDE
+Icon=/usr/share/netbeans/nb/netbeans.png
+TryExec=/usr/share/netbeans/bin/netbeans
+Exec=/usr/share/netbeans/bin/netbeans
+NoDisplay=true
+Categories=Development;
+StartupNotify=true
+X-AppInstall-Package=netbeans-es
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=netbeans-es 8.0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=netbeans-es
+X-Arch-Package-Version=8.0.1-1
+X-Arch-Package-Description=Netbeans IDE development platform in Spanish
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.netbeans.org
+X-Arch-Package-Votes=5
+Aliases=netbeans;

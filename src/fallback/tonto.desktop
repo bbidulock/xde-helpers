@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Tonto
+Comment=An essential sidekick for the Pronto Family of programmable remotes.
+Icon=/opt/tonto/tonto.gif
+TryExec=/opt/tonto/tonto.sh
+Exec=/opt/tonto/tonto.sh
+Categories=Development;IDE;GTK;
+StartupNotify=true
+X-AppInstall-Package=tonto
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=tonto 1.48-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tonto
+X-Arch-Package-Version=1.48-3
+X-Arch-Package-Description=An essential sidekick for the Pronto Family of programmable
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://mrallen.com/tonto/
+X-Arch-Package-Votes=2

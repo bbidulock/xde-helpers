@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Left 4 Gore
+Comment=Play Left 4 Dead 2 uncensored
+Icon=steam
+TryExec=/usr/bin/left4gore
+Exec=left4gore
+Categories=Game;
+X-AppInstall-Package=left4gore
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=left4gore 2.3-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=left4gore
+X-Arch-Package-Version=2.3-2
+X-Arch-Package-Description=Tool to uncensor Australian/German versions of Left 4 Dead 2
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.left4gore.com/
+X-Arch-Package-Votes=1

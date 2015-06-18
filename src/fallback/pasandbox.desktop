@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Platinum Arts Sandbox
+Comment=Free 3D Game Maker
+Icon=/usr/share/PlatinumArtsSandbox2.6.1/data/sandboxlogo.png
+TryExec=/usr/bin/bash
+Exec=bash -c "cd /usr/share/PlatinumArtsSandbox2.6.1/; ./sandbox_unix"
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=platinumarts-sandbox
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=platinumarts-sandbox 2.6.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=platinumarts-sandbox
+X-Arch-Package-Version=2.6.1-1
+X-Arch-Package-Description=A free and open source 3D game design program for kids and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sandboxgamemaker.com/
+X-Arch-Package-Votes=1

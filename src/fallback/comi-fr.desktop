@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=The Curse of Monkey Island (français)
+GenericName=The Curse of Monkey Island
+Comment=Une aventure de pirates à l'humour décapitant !
+Icon=comi
+TryExec=/usr/bin/comi-fr
+Exec=comi-fr
+Categories=Game;
+X-AppInstall-Package=comi-fr
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=comi-fr 1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=comi-fr
+X-Arch-Package-Version=1.0-1
+X-Arch-Package-Description=The Curse of Monkey Island (French version) for ScummVM.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.lucasarts.com/products/monkey/Default.htm
+X-Arch-Package-Votes=1

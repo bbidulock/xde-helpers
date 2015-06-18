@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Thunderbird (Beta)
+GenericName=Mail Client & News Reader (Beta)
+Comment=Mail & News Reader (Beta)
+Icon=thunderbird-beta
+TryExec=/usr/bin/thunderbird-beta
+Exec=thunderbird-beta %u
+NoDisplay=true
+Categories=Network;Email;
+MimeType=message/rfc822;x-scheme-handler/mailto;
+StartupNotify=true
+X-AppInstall-Package=thunderbird-beta-bin-it
+X-AppInstall-Section=aur
+X-Arch-Package=thunderbird-beta-bin-it 14.0b3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=thunderbird-beta-bin-it
+X-Arch-Package-Version=14.0b3-1
+X-Arch-Package-Description=Standalone Mail/News reader - Ultima beta disponibile in lingua italiana (file binari).
+X-Arch-Package-URL=http://www.mozilla.org/thunderbird
+Aliases=thunderbird-beta-bin;

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=rxvt-unicode
+Comment=An Unicode capable rxvt clone
+Icon=terminal
+TryExec=/usr/bin/urxvt
+Exec=urxvt
+NoDisplay=true
+Categories=Application;System;TerminalEmulator;
+X-AppInstall-Package=rxvt-unicode-xres256
+X-AppInstall-Section=aur
+X-Arch-Package=rxvt-unicode-xres256 9.15-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rxvt-unicode-xres256
+X-Arch-Package-Version=9.15-1
+X-Arch-Package-Description=A version of rxvt-unicode with support for extended ANSI colors
+X-Arch-Package-URL=http://software.schmorp.de/pkg/rxvt-unicode.html
+Aliases=rxvt-unicode;

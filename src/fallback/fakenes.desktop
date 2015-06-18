@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=FakeNES
+Comment=A NES emulator
+Icon=fakenes
+TryExec=/usr/bin/fakenes
+Exec=fakenes
+Categories=Application;Game;Emulator;
+X-AppInstall-Package=fakenes
+X-AppInstall-Popcon=18
+X-AppInstall-Section=aur
+X-Arch-Package=fakenes 0.5.9_beta3-10
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fakenes
+X-Arch-Package-Version=0.5.9_beta3-10
+X-Arch-Package-Description=A NES (Nintendo Famicom) emulator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://fakenes.sourceforge.net
+X-Arch-Package-Votes=18

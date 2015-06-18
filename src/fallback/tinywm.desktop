@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Tinywm
+Comment=Ridiculously tiny window manager
+TryExec=/usr/bin/tinywm
+Exec=tinywm
+Terminal=False
+X-AppInstall-Package=tinywm
+X-AppInstall-Popcon=18
+X-AppInstall-Section=aur
+X-Arch-Package=tinywm 1.3-9
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tinywm
+X-Arch-Package-Version=1.3-9
+X-Arch-Package-Description=A tiny window manager written in only ~50 lines of code
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://incise.org/tinywm.html
+X-Arch-Package-Votes=18
+
+[Window Manager]
+SessionManaged=true

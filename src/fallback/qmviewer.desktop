@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=QMViewer
+GenericName=Manga Reader
+Icon=/usr/share/pixmaps/qmviewer.png
+TryExec=/usr/bin/QMViewer
+Exec=QMViewer
+Categories=Graphics;RasterGraphics;Viewer;Qt;
+X-AppInstall-Package=qmviewer-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=qmviewer-git 20100815-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qmviewer-git
+X-Arch-Package-Version=20100815-1
+X-Arch-Package-Description=The Manga Viewer for Qt and KDE
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sd-22103.dedibox.fr/qmviewer/
+X-Arch-Package-Votes=1

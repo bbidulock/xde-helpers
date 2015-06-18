@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Netifera
+Icon=/usr/share/pixmaps/netifera.png
+TryExec=/usr/bin/netifera
+Exec=netifera
+Categories=Application;Network;
+MimeType=text/html;
+StartupNotify=false
+X-AppInstall-Package=netifera
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=netifera 1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=netifera
+X-Arch-Package-Version=1.0-1
+X-Arch-Package-Description=Open Source Network Security Platform
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://netifera.com/
+X-Arch-Package-Votes=2

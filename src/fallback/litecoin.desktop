@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Litecoin
+GenericName=P2P network based digital currency
+Comment=P2P network based digital currency
+Icon=/usr/share/pixmaps/litecoin.png
+TryExec=/usr/bin/litecoin-qt
+Exec=litecoin-qt
+Categories=Finance;P2P;Internet;
+StartupNotify=true
+X-AppInstall-Package=litecoin
+X-AppInstall-Popcon=52
+X-AppInstall-Section=aur
+X-Arch-Package=litecoin 0.8.7.4-12
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=litecoin
+X-Arch-Package-Version=0.8.7.4-12
+X-Arch-Package-Description=Litecoin is a peer-to-peer network based digital currency.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.litecoin.org/
+X-Arch-Package-Votes=52

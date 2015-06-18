@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Legends
+GenericName=Legends
+Comment=Legends is fast paced Freedom of Movement FPS
+Icon=/usr/share/pixmaps/legends.ico
+TryExec=/usr/bin/legends
+Exec=/usr/bin/legends
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=legends
+X-AppInstall-Popcon=22
+X-AppInstall-Section=aur
+X-Arch-Package=legends 0.4.2.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=legends
+X-Arch-Package-Version=0.4.2.0-1
+X-Arch-Package-Description=Mulitplayer team-based first person shooter game, similar to
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.legendsthegame.net
+X-Arch-Package-Votes=22

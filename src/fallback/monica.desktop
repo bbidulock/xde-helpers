@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Monica
+Comment=Monitor Calibration for x-server
+Icon=monica
+TryExec=/usr/bin/monica
+Exec=monica
+X-MultipleArgs=false
+Categories=Application;Settings;System;
+StartupNotify=false
+X-AppInstall-Package=monica
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=monica
+X-Arch-Package-Version=3.7-3
+X-Arch-Package-Description=Monitor calibration tool
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.pcbypaul.com/software/monica.html

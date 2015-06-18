@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Sonic pi
+Comment=A music-centric programming environment, originally built for the raspberry pi.
+Icon=sonic-pi-git
+TryExec=/usr/bin/sonic-pi-git
+Exec=/usr/bin/sonic-pi-git
+Categories=Application;Development;
+StartupNotify=false
+X-AppInstall-Package=sonic-pi-git
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=sonic-pi-git v2.3.0.r15.gabcd931-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sonic-pi-git
+X-Arch-Package-Version=v2.3.0.r15.gabcd931-2
+X-Arch-Package-Description=A music-centric programming environment, originally built for
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sonic-pi.net/
+X-Arch-Package-Votes=3

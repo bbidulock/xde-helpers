@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Treesheets
+GenericName=Spreadsheet Organizer
+Comment=Free Form Hierarchical Information Organizer
+Icon=/usr/share/treesheets/images/icon32.png
+TryExec=/usr/bin/treesheets
+Exec=treesheets
+Categories=Office;Spreadsheet:;
+X-AppInstall-Package=-git
+X-AppInstall-Popcon=14
+X-AppInstall-Section=aur
+X-Arch-Package=treesheets-git r109.69990a2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=-git
+X-Arch-Package-Version=r109.69990a2-1
+X-Arch-Package-Description=The ultimate replacement for spreadsheets, mind mappers,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://treesheets.com/
+X-Arch-Package-Votes=14

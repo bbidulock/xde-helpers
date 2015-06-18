@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Bitext2tmx
+GenericName=bitext2tmx
+Comment=Bitext aligner/converter to TMX
+Comment[cs]=Převaděč bitextu do TMX
+Icon=bitext2tmx
+TryExec=/usr/bin/bitext2tmx.sh
+Exec=bitext2tmx.sh
+Categories=Development;Translation;Java;
+X-AppInstall-Package=bitext2tmx
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=bitext2tmx 1.0M0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bitext2tmx
+X-Arch-Package-Version=1.0M0.1-1
+X-Arch-Package-Description=Generate a TMX translation memory for use in computer-assisted
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/bitext2tmx
+X-Arch-Package-Votes=2

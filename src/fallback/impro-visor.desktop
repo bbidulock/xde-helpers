@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Improvisation Advisor
+GenericName=Jazz Improvisation Advisor for the Improviser
+GenericName[fr]=Aide et entrainement à l'improvisation jazz
+Comment=Jazz Improvisation Advisor for the Improviser
+Comment[fr]=Aide et entrainement à l'improvisation jazz
+Icon=impro-visor
+TryExec=/usr/bin/impro-visor
+Exec=impro-visor
+Categories=AudioVideo;Audio;Education;Midi;Sequencer;Music;Java;
+X-AppInstall-Package=impro-visor
+X-AppInstall-Popcon=12
+X-AppInstall-Section=aur
+X-Arch-Package=impro-visor 6.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=impro-visor
+X-Arch-Package-Version=6.0-1
+X-Arch-Package-Description=Jazz Improvisation Advisor for the Improviser
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://impro-visor.com/
+X-Arch-Package-Votes=12

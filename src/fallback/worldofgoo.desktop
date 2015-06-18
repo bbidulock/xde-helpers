@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=World of Goo
+Comment=A physics based puzzle/construction game.
+Icon=worldofgoo
+TryExec=/usr/bin/worldofgoo
+Exec=worldofgoo
+Categories=Game;LogicGame;
+X-AppInstall-Package=worldofgoo
+X-AppInstall-Popcon=109
+X-AppInstall-Section=aur
+X-Arch-Package=worldofgoo 1.41-6
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=worldofgoo
+X-Arch-Package-Version=1.41-6
+X-Arch-Package-Description=A physics based puzzle/construction game (requires copy of the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://2dboy.com/games.php
+X-Arch-Package-Votes=109

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Creeper World 2
+Icon=/usr/share/cw2/icons/cw128.png
+TryExec=/usr/bin/cw2
+Exec=cw2
+NoDisplay=true
+Categories=Game;ActionGame;
+X-AppInstall-Package=creeper-world-2
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=creeper-world-2 0244-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=creeper-world-2
+X-Arch-Package-Version=0244-2
+X-Arch-Package-Description=The creeps are coming! You'll need to get off this planet, but
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://knucklecracker.com/creeperworld2/cw2.php
+X-Arch-Package-Votes=1
+Aliases=creeper;

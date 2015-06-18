@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=QWeeChat
+Comment=QT GUI for WeeChat
+Icon=qweechat
+TryExec=/usr/bin/python2
+Exec=python2 /usr/lib/python2.7/site-packages/qweechat/qweechat.py
+Categories=Network;
+StartupNotify=true
+X-AppInstall-Package=qweechat
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=qweechat 1.1_rc2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qweechat
+X-Arch-Package-Version=1.1_rc2-1
+X-Arch-Package-Description=QT GUI for WeeChat
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://weechat.org
+X-Arch-Package-Votes=10

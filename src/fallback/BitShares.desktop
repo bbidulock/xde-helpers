@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=BitShares
+Comment=A decentralized bank and exchange
+Icon=/usr/share/icons/BitShares.png
+TryExec=/usr/bin/bitshares-gui
+Exec=bitshares-gui %u
+Categories=Network;Finance;P2P;Qt;
+MimeType=x-scheme-handler/bts;
+X-AppInstall-Package=bitshares
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=bitshares 0.9.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bitshares
+X-Arch-Package-Version=0.9.2-1
+X-Arch-Package-Description=A decentralized, P2P bank and exchange
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/BitShares/bitshares
+X-Arch-Package-Votes=5

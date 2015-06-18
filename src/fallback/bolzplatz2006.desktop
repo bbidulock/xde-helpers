@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Bolzplatz
+GenericName=BolzplatzSetting
+Comment=Nice 3D Soccer Game (Comic Style)
+Icon=/usr/share/games/bolzplatz2006/data/images/de/gamelogo.png
+TryExec=/usr/bin/bp2k6
+Exec=/usr/bin/bp2k6
+Categories=Game;ActionGame;
+X-AppInstall-Package=bolzplatz2006
+X-AppInstall-Popcon=15
+X-AppInstall-Section=aur
+X-Arch-Package=bolzplatz2006 1.0.3-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bolzplatz2006
+X-Arch-Package-Version=1.0.3-2
+X-Arch-Package-Description=Nice 3D Soccer Game (Comic Style)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.bolzplatz2006.de/
+X-Arch-Package-Votes=15

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Qt-Creator
+GenericName=C++ IDE
+Icon=/usr/share/pixmaps/qtcreator_logo_48.png
+TryExec=/usr/bin/qtcreator
+Exec=/usr/bin/qtcreator
+NoDisplay=true
+Categories=Development;Qt;
+X-KDE-StartupNotify=true
+X-AppInstall-Package=qtcreator-rc
+X-AppInstall-Section=aur
+X-Arch-Package=qtcreator-rc 2.4.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qtcreator-rc
+X-Arch-Package-Version=2.4.0-2
+X-Arch-Package-Description=Lightweight, cross-platform integrated development environment, with Quick a QMLDesigner support
+X-Arch-Package-URL=http://qt.nokia.com/products/developer-tools
+Aliases=qtcreator;

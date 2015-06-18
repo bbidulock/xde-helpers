@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=2.0.0
+Type=Application
+Name=Alice
+GenericName=3D computer programming education
+Comment=An educational software that teaches students computer programming in a 3D environment
+Icon=alice.png
+TryExec=/usr/bin/alice
+Exec=alice
+Categories=Application;Education;Construction;ComputerScience;
+X-AppInstall-Package=alice
+X-AppInstall-Popcon=12
+X-AppInstall-Section=aur
+X-Arch-Package=alice 2.4.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=alice
+X-Arch-Package-Version=2.4.2-2
+X-Arch-Package-Description=An educational software that teaches students computer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.alice.org/
+X-Arch-Package-Votes=12

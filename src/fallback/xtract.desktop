@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Xtract
+TryExec=/usr/bin/xtract
+Exec=xtract
+NoDisplay=true
+MimeType=application/x-bzip;application/x-bzip-compressed-tar;application/x-gzip;application/zip;application/x-7z-compressed;application/x-bzip2;application/x-bzip2-compressed-tar;application/x-xz-compressed-tar;application/x-compressed-tar;application/x-rar;application/x-cd-image;
+StartupNotify=false
+X-AppInstall-Package=xtract
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=xtract 1.1.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xtract
+X-Arch-Package-Version=1.1.0-3
+X-Arch-Package-Description=Decompresses and extracts archives - designed for file manager
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://igurublog.wordpress.com/downloads/script-xtract/
+X-Arch-Package-Votes=8

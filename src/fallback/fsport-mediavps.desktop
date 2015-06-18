@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=FreeSpace Port + MediaVPs
+Comment=FreeSpace 1 in FS2 Open, with enhanced resources
+Icon=freespace2
+TryExec=/usr/bin/fsport-mediavps
+Exec=fsport-mediavps
+Categories=Game;
+X-AppInstall-Package=fsport-mediavps
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=fsport-mediavps 3.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fsport-mediavps
+X-Arch-Package-Version=3.5-1
+X-Arch-Package-Description=Hi-res FreeSpace 1 resources for FSPort
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://fsport.hard-light.net/website/
+X-Arch-Package-Votes=3

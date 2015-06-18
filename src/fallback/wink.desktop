@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Wink
+Icon=wink.png
+TryExec=/usr/bin/wink.sh
+Exec=wink.sh
+Categories=Graphics;RasterGraphics;
+X-AppInstall-Package=wink
+X-AppInstall-Popcon=14
+X-AppInstall-Section=aur
+X-Arch-Package=wink 1.5-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wink
+X-Arch-Package-Version=1.5-5
+X-Arch-Package-Description=Tutorial and Presentation creation software, primarily aimed
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.debugmode.com/wink/
+X-Arch-Package-Votes=14

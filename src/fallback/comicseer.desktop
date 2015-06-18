@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=ComicSeer
+GenericName=Comicbook Viewer
+Comment=Viewer for Comic files (cbr/cbz format files)
+Icon=/usr/share/doc/comicseer/comicseer.png
+TryExec=/usr/bin/comicseer
+Exec=comicseer %f
+Categories=Graphics;Viewer;
+X-AppInstall-Package=comicseer
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=comicseer 2.51-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=comicseer
+X-Arch-Package-Version=2.51-1
+X-Arch-Package-Description=Cross-platform comicbook reader (cbz pdf and more)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.xylasoft.com/comicseer/index.php
+X-Arch-Package-Votes=1

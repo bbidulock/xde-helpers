@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Ethercoin
+Comment=Ethercoin P2P Cryptocurrency
+Icon=/usr/share/pixmaps/ethercoin.png
+TryExec=/usr/bin/ethercoin-qt
+Exec=/usr/bin/ethercoin-qt
+NoDisplay=true
+Categories=Network;
+MimeType=x-scheme-handler/ethercoin;
+X-AppInstall-Package=ethercoin-qt-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=ethercoin-qt-git r3358.6e94e09-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ethercoin-qt-git
+X-Arch-Package-Version=r3358.6e94e09-2
+X-Arch-Package-Description=Cryptocurrency pegged to Ethereum
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ethercoin.cc/
+X-Arch-Package-Votes=1
+Aliases=ethercoin;

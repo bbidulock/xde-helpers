@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=PCManFM-Mod File Manager
+GenericName=File Manager
+Comment=Browse the file system and manage the files
+Icon=pcmanfm-mod
+TryExec=/usr/bin/pcmanfm-mod
+Exec=pcmanfm-mod %F
+Categories=Application;System;Utility;Core;GTK;
+MimeType=inode/directory;
+StartupNotify=true
+X-AppInstall-Package=pcmanfm-mod
+X-AppInstall-Popcon=55
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pcmanfm-mod
+X-Arch-Package-Version=1.2.4-1
+X-Arch-Package-Description=A modified version of the legacy PCMan File Manager v0.5.2
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://igurublog.wordpress.com/downloads/mod-pcmanfm/
+X-Arch-Package-Votes=55

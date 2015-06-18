@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Dynamite Jack
+Comment=Use only bombs and a flashlight to escape to freedom
+Icon=/opt/dynamitejack/dynamitejack.png
+TryExec=/usr/bin/dynamitejack
+Exec=/usr/bin/dynamitejack
+Categories=Game;
+X-AppInstall-Package=dynamitejack
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=dynamitejack 1.0.23-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dynamitejack
+X-Arch-Package-Version=1.0.23-1
+X-Arch-Package-Description=Use only bombs and a flashlight to escape to freedom (game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.galcon.com/dynamitejack/
+X-Arch-Package-Votes=3
+Value=1.0

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=PCSX2CE
+GenericName=PCSX2 Cheats Converter
+Comment=A cheat codes converter and pnatch file editor for PCSX2.
+Icon=sun-java
+TryExec=/usr/bin/pcsx2ce
+Exec=pcsx2ce
+Categories=Application;Game;
+X-AppInstall-Package=pcsx2ce
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=pcsx2ce 0.27-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pcsx2ce
+X-Arch-Package-Version=0.27-1
+X-Arch-Package-Description=A cheat codes converter and pnatch file editor for PCSX2.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://forums.pcsx2.net/Thread-PCSX2CE-PCSX2-Cheat-Converter-Patch-File-Editor
+X-Arch-Package-Votes=3

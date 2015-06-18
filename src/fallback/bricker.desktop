@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Bricker
+GenericName=Bricker
+Icon=/usr/share/bricker/other/bricker.png
+TryExec=/usr/bin/bricker.sh
+Exec=/usr/bin/bricker.sh
+Categories=Game;LogicGame;KDE;GNOME;GTK;Qt;
+StartupNotify=true
+X-AppInstall-Package=bricker
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=bricker 1.0.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bricker
+X-Arch-Package-Version=1.0.0-2
+X-Arch-Package-Description=A puzzle type game using a block of bricks as the main
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://launchpad.net/bricker/
+X-Arch-Package-Votes=1

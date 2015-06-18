@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Haundrix Chess
+GenericName=Chess Program
+Icon=/usr/share/pixmaps/haundrix-chess.png
+TryExec=/usr/bin/haundrix-chess
+Exec=haundrix-chess
+Categories=Game;BoardGame;
+X-AppInstall-Package=haundrix-chess
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=haundrix-chess 0.1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=haundrix-chess
+X-Arch-Package-Version=0.1.0-1
+X-Arch-Package-Description=Chess program that can be used for playing against your
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.haundrix.com/
+X-Arch-Package-Votes=2

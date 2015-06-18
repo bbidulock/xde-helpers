@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Starfarer
+GenericName=Starfarer
+Comment=A single-player sandbox style space role-playing game with strategic elements
+Icon=/usr/share/starfarer/graphics/ui/sf64.png
+TryExec=/usr/bin/starfarer
+Exec=starfarer
+Categories=Game;
+X-AppInstall-Package=starfarer
+X-AppInstall-Section=aur
+X-Arch-Package=starfarer 0.54a_RC5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=starfarer
+X-Arch-Package-Version=0.54a_RC5-1
+X-Arch-Package-Description=A single-player sandbox style space role-playing game with strategic elements.
+X-Arch-Package-URL=http://fractalsoftworks.com/

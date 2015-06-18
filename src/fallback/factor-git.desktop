@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Factor
+Comment=Factor is a general purpose, dynamically typed, stack-based programming language
+Icon=factor
+TryExec=/usr/bin/factor-vm
+Exec=factor-vm
+NoDisplay=true
+Categories=Development;
+X-AppInstall-Package=factor-git
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=factor-git 0.96.1139.g3a9f4ed-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=factor-git
+X-Arch-Package-Version=0.96.1139.g3a9f4ed-1
+X-Arch-Package-Description=A general purpose, dynamically typed, stack-based programming
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://factorcode.org
+X-Arch-Package-Votes=10
+Aliases=factor;

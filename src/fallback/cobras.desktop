@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Cobras
+GenericName=Cobras
+Comment=An IDE for Linux programmers.
+Icon=cobras
+TryExec=/usr/bin/cobras
+Exec=cobras
+Categories=Development;IDE;
+X-AppInstall-Package=cobras
+X-AppInstall-Section=aur
+X-Arch-Package=cobras 0.18-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cobras
+X-Arch-Package-Version=0.18-1
+X-Arch-Package-Description=An IDE for linux programmers.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.beesoft.org/index.php?id=cobras
+X-Arch-Package-Votes=0

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Shadowgrounds: Survivor
+Comment=A sequel to Shadowgrounds
+Icon=/opt/shadowgrounds-survivor/Survivor.xpm
+TryExec="/usr/bin/shadowgrounds-survivor"
+Exec="/usr/bin/shadowgrounds-survivor"
+Categories=Game;ActionGame;
+X-AppInstall-Package=shadowgrounds-survivor
+X-AppInstall-Popcon=14
+X-AppInstall-Section=aur
+X-Arch-Package=shadowgrounds-survivor beta11_update1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=shadowgrounds-survivor
+X-Arch-Package-Version=beta11_update1-2
+X-Arch-Package-Description=A 3D sci-fi alien shooter - sequel to Shadowgrounds (game sold
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://shadowgroundsgame.com/survivor/
+X-Arch-Package-Votes=14

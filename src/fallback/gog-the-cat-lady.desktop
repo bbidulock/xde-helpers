@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=The Cat lady
+GenericName=The Cat lady
+Comment=Play The Cat lady
+Icon=gog-the-cat-lady
+TryExec=/usr/bin/ags
+Exec=ags /opt/gog-the-cat-lady/Cat\ Lady.exe
+Categories=Application;AudioVideo;Game;
+StartupNotify=true
+X-AppInstall-Package=gog-the-cat-lady
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=gog-the-cat-lady 2.2.0.6-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gog-the-cat-lady
+X-Arch-Package-Version=2.2.0.6-3
+X-Arch-Package-Description=The Cat Lady is a psychological horror graphic adventure game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.thecatlady.co.uk/
+X-Arch-Package-Votes=1

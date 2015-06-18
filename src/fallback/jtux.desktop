@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=JTux
+GenericName=2D Shooting game
+Icon=jtux
+TryExec=/usr/bin/jtux
+Exec=jtux
+Categories=Game;Java;
+X-AppInstall-Package=jtux
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=jtux 0.0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jtux
+X-Arch-Package-Version=0.0.1-1
+X-Arch-Package-Description=2D action game (overhand shotgame), like Bulanci or Tuxanci.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://jtux.mgn.cz/
+X-Arch-Package-Votes=1

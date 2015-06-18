@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=JHelioviewer
+Comment=Visualization software for solar image data
+Icon=jhelioviewer
+TryExec=/usr/bin/jhelioviewer
+Exec=jhelioviewer
+Categories=Education;Science;Astronomy;Java;
+StartupNotify=false
+X-AppInstall-Package=jhelioviewer
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=jhelioviewer 2.2.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jhelioviewer
+X-Arch-Package-Version=2.2.1-2
+X-Arch-Package-Description=Visualization software for solar image data
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.jhelioviewer.org/
+X-Arch-Package-Votes=4

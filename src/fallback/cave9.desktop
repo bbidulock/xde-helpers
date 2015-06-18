@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=cave9
+Comment=A 3D gravity cave-exploration game based on the classic SFCave
+Icon=cave9.png
+TryExec=/usr/bin/cave9
+Exec=cave9
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=cave9
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=cave9 0.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cave9
+X-Arch-Package-Version=0.4-1
+X-Arch-Package-Description=A 3D gravity cave-exploration game based on the classic SFCave
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/cave9/
+X-Arch-Package-Votes=8

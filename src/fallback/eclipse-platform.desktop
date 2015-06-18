@@ -1,0 +1,23 @@
+[Desktop Entry]
+Version=4.4.2
+Type=Application
+Name=Eclipse
+Comment=Open Development Platform
+Icon=eclipse
+TryExec=/usr/bin/eclipse
+Exec=eclipse
+NoDisplay=true
+Categories=Development;IDE;GTK;
+StartupNotify=true
+X-AppInstall-Package=eclipse-platform
+X-AppInstall-Popcon=18
+X-AppInstall-Section=aur
+X-Arch-Package=eclipse-platform 4.4.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=eclipse-platform
+X-Arch-Package-Version=4.4.2-2
+X-Arch-Package-Description=A minimal installation suitable for complete per-user
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.eclipse.org
+X-Arch-Package-Votes=18
+Aliases=eclipse;

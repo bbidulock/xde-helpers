@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Blockout II
+GenericName=3D tetris
+Comment=3D tetris, free adaptation of the original BlockOut DOS game edited by California Dreams in 1989
+Icon=blockout2
+TryExec=/usr/bin/blockout2
+Exec=blockout2
+Terminal=False
+Categories=Application;Game;
+X-AppInstall-Package=blockout2
+X-AppInstall-Popcon=27
+X-AppInstall-Section=aur
+X-Arch-Package=blockout2 2.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=blockout2
+X-Arch-Package-Version=2.5-1
+X-Arch-Package-Description=3D tetris, free adaptation of the original BlockOut DOS game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.blockout.net/blockout2/
+X-Arch-Package-Votes=27

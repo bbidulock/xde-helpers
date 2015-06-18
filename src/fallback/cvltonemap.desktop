@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=CVLTonemap
+Comment=Interactive viewer and tone mapping tool
+Icon=cvltonemap
+TryExec=/usr/bin/cvltonemap
+Exec=cvltonemap %f
+Categories=Graphics;
+X-AppInstall-Package=cvltonemap
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=cvltonemap 0.2.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cvltonemap
+X-Arch-Package-Version=0.2.4-1
+X-Arch-Package-Description=Interactive tone mapping tool for HDR images using GPU power
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://cvtool.sourceforge.net/
+X-Arch-Package-Votes=3

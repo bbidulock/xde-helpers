@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=oDesk Team
+Comment=Log time on oDesk
+Icon=/usr/share/pixmaps/odeskteam.png
+TryExec=/usr/bin/odeskteam-qt4
+Exec=odeskteam-qt4
+Categories=Office;
+X-AppInstall-Package=godesk
+X-AppInstall-Section=aur
+X-Arch-Package=godesk 3.2.59-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=godesk
+X-Arch-Package-Version=3.2.59-5
+X-Arch-Package-Description=The oDesk Team client for odesk.com
+X-Arch-Package-URL=http://www.odesk.com/downloads

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=GOJA
+GenericName=GOJA IDE
+Comment=FHDW educational IDE
+Icon=/usr/share/pixmaps/goja.png
+TryExec=/usr/bin/goja
+Exec=/usr/bin/goja
+Categories=Application;Network;
+StartupNotify=false
+X-AppInstall-Package=goja
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=goja 20141110-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=goja
+X-Arch-Package-Version=20141110-1
+X-Arch-Package-Description=FHDW GOJA educational IDE
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ux-02.ha.bib.de/daten/Löwe/GOJA/
+X-Arch-Package-Votes=1

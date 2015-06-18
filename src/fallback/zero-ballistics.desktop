@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Zero Ballistics
+Comment=First person shooter and tank combat game
+Icon=/opt/zero-ballistics/data/window_icon.bmp
+TryExec=/usr/bin/zero-ballistics
+Exec=/usr/bin/zero-ballistics
+Terminal=false
+Categories=Game;ActionGame;
+StartupNotify=true
+X-AppInstall-Package=zero-ballistics
+X-AppInstall-Popcon=17
+X-AppInstall-Section=aur
+X-Arch-Package=zero-ballistics 2.0-9
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zero-ballistics
+X-Arch-Package-Version=2.0-9
+X-Arch-Package-Description=A unique blend of multiplayer first person shooter and tank
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.zeroballistics.com/
+X-Arch-Package-Votes=17

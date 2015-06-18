@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Compiz GTK decorator theme
+Comment=Set the theme for the Compiz GTK window decorator
+Icon=ccsm
+TryExec=/usr/bin/compiz-gtk-decorator-theme-selector
+Exec=compiz-gtk-decorator-theme-selector
+NoDisplay=true
+NotShowIn=MATE;
+Categories=Settings;DesktopSettings;Compiz;X-XFCE-OtherSettings;X-XFCE-SettingsDialog;
+StartupNotify=true
+X-AppInstall-Package=compiz-manjaro-lts
+X-AppInstall-Section=aur
+X-Arch-Package=compiz-manjaro-lts 0.9.11.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=compiz-manjaro-lts
+X-Arch-Package-Version=0.9.11.2-1
+X-Arch-Package-Description=OpenGL compositing window manager. Includes friendly defaults, GWD theme selector and autostart for Xfce & MATE - LTS version
+X-Arch-Package-URL=https://launchpad.net/compiz
+Aliases=compiz-gtk-decorator-theme;

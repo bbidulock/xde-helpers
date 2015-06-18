@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Vega Strike
+GenericName=3D action-space-sim allowing player to trade and bounty hunt in a vast universe
+Comment=3D action-space-sim
+Icon=/usr/share/vegastrike/vega.ico
+TryExec=/usr/bin/vegastrike
+Exec=/usr/bin/vegastrike
+Categories=Game;Simulation;
+Path=/usr/share/vegastrike
+StartupNotify=true
+X-AppInstall-Package=vegastrike
+X-AppInstall-Popcon=62
+X-AppInstall-Section=aur
+X-Arch-Package=vegastrike 0.5.1.r1-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=vegastrike
+X-Arch-Package-Version=0.5.1.r1-4
+X-Arch-Package-Description=3D action-space-sim allowing player to trade and bounty hunt
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://vegastrike.sourceforge.net/
+X-Arch-Package-Votes=62

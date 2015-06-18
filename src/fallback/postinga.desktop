@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.42
+Type=Application
+Name=Postinga
+Comment=Postinga
+Icon=/usr/share/postinga/icon.png
+TryExec=/usr/bin/java
+Exec=java -jar /usr/share/postinga/postinga.jar
+Categories=Utility;
+StartupNotify=true
+X-AppInstall-Package=postinga
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=postinga 1.42-0
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=postinga
+X-Arch-Package-Version=1.42-0
+X-Arch-Package-Description=Creador de posts para Taringa!
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://taringa.net/comunidades/comunidadpostinga/
+X-Arch-Package-Votes=2

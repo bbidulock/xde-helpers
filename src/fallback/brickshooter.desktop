@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Brickshooter
+Comment=A puzzle game where you'll have to clear an area from bricks.
+Icon=brickshooter
+TryExec=/usr/bin/brickshooter
+Exec=brickshooter
+Categories=Game;LogicGame;
+X-AppInstall-Package=brickshooter
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=brickshooter 0.04-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=brickshooter
+X-Arch-Package-Version=0.04-2
+X-Arch-Package-Description=A small puzzle game where you'll have to clear the central
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://linux.softpedia.com/get/GAMES-ENTERTAINMENT/Puzzle/brickshooter-37619.shtml
+X-Arch-Package-Votes=3

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Update System
+Comment=yaourt --noconfirm -Syua
+Icon=system-software-install
+TryExec=/usr/bin/update
+Exec=update
+Terminal=true
+Categories=System;
+StartupNotify=true
+X-AppInstall-Package=update
+X-AppInstall-Section=aur
+X-Arch-Package=update 1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=update
+X-Arch-Package-Version=1.0-1
+X-Arch-Package-Description=simple script and desktop file for doing a system update using yaourt
+X-Arch-Package-URL=https://github.com/colinkeenan/update

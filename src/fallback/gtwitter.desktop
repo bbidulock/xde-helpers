@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0beta
+Type=Application
+Name=GTwitter
+Icon=gtwitter
+TryExec=/usr/bin/gtwitter
+Exec=gtwitter
+Categories=Network;Applications;
+X-AppInstall-Package=gtwitter
+X-AppInstall-Popcon=14
+X-AppInstall-Section=aur
+X-Arch-Package=gtwitter 1.0-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gtwitter
+X-Arch-Package-Version=1.0-4
+X-Arch-Package-Description=A Linux client for reading and posting to twitter.com web
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/gtwitter/
+X-Arch-Package-Votes=14

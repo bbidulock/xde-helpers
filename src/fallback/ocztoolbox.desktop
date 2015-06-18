@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=OCZ ToolBox
+GenericName=OCZ ToolBox
+Comment=The OCZ Toolbox is designed to update firmware and BIOS, secure erase, view SMART attributes, and view drive details of your OCZ SSD with the click of a button.
+Icon=ocztoolbox
+TryExec=/usr/bin/ocztoolbox
+Exec=ocztoolbox
+Categories=Utility;
+StartupNotify=false
+X-AppInstall-Package=ocztoolbox
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=ocztoolbox 4.9.0.634-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ocztoolbox
+X-Arch-Package-Version=4.9.0.634-1
+X-Arch-Package-Description=The OCZ Toolbox is designed to update firmware and BIOS,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ocz.com/consumer/download/firmware
+X-Arch-Package-Votes=10

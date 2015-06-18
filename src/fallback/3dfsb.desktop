@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=3dfsb
+GenericName=File Manager
+Comment=A 3D file browser
+Icon=system-file-manager
+TryExec=/usr/bin/3dfsb
+Exec=/usr/bin/3dfsb
+Categories=System;FileTools;FileManager;
+X-AppInstall-Package=3dfsb
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=3dfsb 1.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=3dfsb
+X-Arch-Package-Version=1.2-1
+X-Arch-Package-Description=3D file browser
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/tomvanbraeckel/3dfsb/
+X-Arch-Package-Votes=3

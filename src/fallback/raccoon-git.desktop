@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Raccoon
+GenericName=Play Store Downloader
+Comment=Download APK files from the Google Play Store
+Icon=/usr/share/pixmaps/raccoon.svg
+TryExec=/usr/bin/raccoon
+Exec=/usr/bin/raccoon
+Categories=Network;FileTransfer;Java;
+StartupNotify=true
+X-AppInstall-Package=-git
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=raccoon-git 20150518.r177.17f0f66-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=-git
+X-Arch-Package-Version=20150518.r177.17f0f66-1
+X-Arch-Package-Description=Google Play desktop client
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.onyxbits.de/raccoon
+X-Arch-Package-Votes=3

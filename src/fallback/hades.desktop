@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Hades
+Comment=Hamburg Design System, a framework for interactive simulation.
+Icon=hades
+TryExec=/usr/bin/hades
+Exec=hades
+Categories=Development;Education;Science;ComputerScience;Electronics;
+X-AppInstall-Package=hades
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=hades 0.98f-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=hades
+X-Arch-Package-Version=0.98f-3
+X-Arch-Package-Description=Hamburg Design System, a framework for interactive simulation.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://tams-www.informatik.uni-hamburg.de/applets/hades/
+X-Arch-Package-Votes=2

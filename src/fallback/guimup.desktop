@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Guimup
+Comment=A gnome frontend for the mpd daemon
+Icon=guimup
+TryExec=/usr/bin/guimup
+Exec=guimup
+Categories=AudioVideo;Player;GTK;
+StartupNotify=true
+X-AppInstall-Package=guimup
+X-AppInstall-Popcon=17
+X-AppInstall-Section=aur
+X-Arch-Package=guimup 0.3.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=guimup
+X-Arch-Package-Version=0.3.3-1
+X-Arch-Package-Description=Guimup is a mouse operated graphical user interface (GUI) for
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.coonsden.com/
+X-Arch-Package-Votes=17

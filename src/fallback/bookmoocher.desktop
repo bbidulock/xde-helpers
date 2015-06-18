@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=BookMoocher
+GenericName=BookMoocher
+Comment=Find new books on bookmooch.com
+Icon=bookmoocher
+TryExec=/usr/bin/bookmoocher
+Exec=bookmoocher
+Categories=Application;Education;Network;
+StartupNotify=true
+X-AppInstall-Package=bookmoocher
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=bookmoocher 0.0.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bookmoocher
+X-Arch-Package-Version=0.0.6-1
+X-Arch-Package-Description=A simple program that helps you keep informed on new books
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://bluenine.it/bookmoocher/
+X-Arch-Package-Votes=1

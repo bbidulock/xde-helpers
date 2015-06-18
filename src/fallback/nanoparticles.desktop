@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Nanoparticles
+GenericName=Particle physics game
+Icon=/usr/share/pixmaps/nanoparticles.png
+TryExec=/usr/bin/nanoparticles
+Exec=nanoparticles
+Categories=Game;LogicGame;
+X-AppInstall-Package=nanoparticles-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=nanoparticles-git 20130303-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nanoparticles-git
+X-Arch-Package-Version=20130303-1
+X-Arch-Package-Description=Enter the world of particle physics!
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://dragly.org/source/nanoparticles/
+X-Arch-Package-Votes=1

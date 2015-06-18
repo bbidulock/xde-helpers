@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=splintermind-attributes
+Comment=An extension application for Dwarf Fortress. Forked from the DwarfTherapist project.
+Icon=splintermind-attributes
+TryExec=/usr/bin/splintermind-attributes
+Exec=splintermind-attributes
+X-MultipleArgs=false
+Categories=Game;
+X-AppInstall-Package=splintermind-attributes-git
+X-AppInstall-Section=aur
+X-Arch-Package=splintermind-attributes-git 20141007.946-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=splintermind-attributes-git
+X-Arch-Package-Version=20141007.946-1
+X-Arch-Package-Description=A fork of DwarfTherapist, with additional features.
+X-Arch-Package-URL=https://github.com/splintermind/Dwarf-Therapist

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=RSSOwl
+GenericName=RSS Reader
+Comment=RSS Reader
+Icon=/usr/share/rssowl/icon.xpm
+TryExec=/usr/bin/rssowl
+Exec=rssowl
+Categories=Network;
+X-KDE-StartupNotify=true
+X-AppInstall-Package=rssowl
+X-AppInstall-Popcon=111
+X-AppInstall-Section=aur
+X-Arch-Package=rssowl 2.2.1-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rssowl
+X-Arch-Package-Version=2.2.1-4
+X-Arch-Package-Description=A java based RSS feed reader with Google Reader
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://rssowl.org/
+X-Arch-Package-Votes=111

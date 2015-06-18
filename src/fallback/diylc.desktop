@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=DIYLC
+GenericName=DIY Layout Creator
+Comment=Free multi-platform electronic schematic, layout and guitar wiring diagram editor
+Icon=diylc
+TryExec=/usr/bin/diylc
+Exec=diylc
+Categories=Science;Utility;Electricity;Electronics;Engineering;Java;
+X-AppInstall-Package=diylc
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=diylc 3.28.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=diylc
+X-Arch-Package-Version=3.28.0-1
+X-Arch-Package-Description=diy-layout-creator is a free multi-platform electronic
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://code.google.com/p/diy-layout-creator/
+X-Arch-Package-Votes=5

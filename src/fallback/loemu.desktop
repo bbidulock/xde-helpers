@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=LoEmu
+Comment=XMame, SDLMame, SNES9x and zSNES GUI Front end
+Comment[pt]=Interface grafica para XMame, SDLMame, SNES9x e zSNES
+Icon=/usr/share/loemu/glade/penguin-revolt-128.png
+TryExec=/usr/bin/loemu
+Exec=loemu
+Categories=Application;Game;ArcadeGame;GTK;
+StartupNotify=true
+X-AppInstall-Package=loemu
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=loemu 0.3.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=loemu
+X-Arch-Package-Version=0.3.1-2
+X-Arch-Package-Description=a free application that provides a simple front end for
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=None
+X-Arch-Package-Votes=2

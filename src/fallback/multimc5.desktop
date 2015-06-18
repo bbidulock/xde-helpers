@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=MultiMC5
+GenericName=MultiMC5
+Comment=MultiMC5
+Icon=multimc5
+TryExec=/usr/bin/multimc5
+Exec=multimc5
+Categories=Application;Game;
+X-AppInstall-Package=multimc5
+X-AppInstall-Section=aur
+X-Arch-Package=multimc5 0.4.7-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=multimc5
+X-Arch-Package-Version=0.4.7-1
+X-Arch-Package-Description=Minecraft launcher with ability to manage multiple instances.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://multimc.org/
+X-Arch-Package-Votes=0

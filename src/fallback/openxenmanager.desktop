@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=OpenXenManager
+Icon=ox
+Icon[en_US]=ox
+TryExec=/usr/bin/oxm
+Exec=oxm
+X-AppInstall-Package=openxenmanager-svn
+X-AppInstall-Popcon=22
+X-AppInstall-Section=aur
+X-Arch-Package=openxenmanager-svn 82-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=openxenmanager-svn
+X-Arch-Package-Version=82-1
+X-Arch-Package-Description=An opensource multiplatform clone of XenCenter (Citrix)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.openxenmanager.com/
+X-Arch-Package-Votes=22

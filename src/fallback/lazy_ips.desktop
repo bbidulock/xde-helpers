@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Lazy IPS
+Comment=an IPS patcher
+TryExec=/usr/bin/lazy_ips
+Exec=lazy_ips
+Categories=Game;Emulator;
+StartupNotify=false
+X-AppInstall-Package=lazy_ips
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=lazy_ips 20120219-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lazy_ips
+X-Arch-Package-Version=20120219-1
+X-Arch-Package-Description=an IPS patcher written in Python and GTK
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.emunix.org/2012/02/lazyips-patcher.html
+X-Arch-Package-Votes=3

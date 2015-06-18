@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=IntelliJ IDEA
+Comment=Develop with pleasure!
+Icon=/opt/jetbrains/intellij-idea/bin/idea.png
+TryExec="/opt/jetbrains/intellij-idea/bin/idea.sh"
+Exec="/opt/jetbrains/intellij-idea/bin/idea.sh" %f
+NoDisplay=true
+Categories=Development;IDE;
+StartupWMClass=jetbrains-idea
+X-AppInstall-Package=intellij-idea
+X-AppInstall-Section=aur
+X-Arch-Package=intellij-idea 135.815-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=intellij-idea
+X-Arch-Package-Version=135.815-1
+X-Arch-Package-Description=The most intelligent IDE for Java and other technologies
+X-Arch-Package-Groups=arikkfir;
+X-Arch-Package-URL=http://www.jetbrains.com/idea/
+Aliases=jetbrains-idea;

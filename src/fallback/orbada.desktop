@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Orbada
+GenericName=Database Manager
+Comment=Database SQL, query tool, using JDBC for Oracle, SQLite, Firebird, etc
+Icon=/opt/orbada/orbada.ico
+TryExec=/usr/bin/orbada
+Exec=orbada
+Categories=System;
+X-AppInstall-Package=orbada
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=orbada 1.2.4.369-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=orbada
+X-Arch-Package-Version=1.2.4.369-1
+X-Arch-Package-Description=Database SQL, query tool, using JDBC for Oracle, SQLite,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://orbada.sourceforge.net/
+X-Arch-Package-Votes=2

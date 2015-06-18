@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=TigerVNC Viewer
+Comment=VNC client
+Icon=tigervnc
+TryExec=/usr/bin/vncviewer
+Exec=/usr/bin/vncviewer
+NoDisplay=true
+Categories=Network;RemoteAccess;
+StartupNotify=false
+X-AppInstall-Package=tigervnc-git
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=tigervnc-git r2947.e36f6e0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tigervnc-git
+X-Arch-Package-Version=r2947.e36f6e0-1
+X-Arch-Package-Description=Suite of VNC servers and clients. Based on the VNC 4 branch of
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.tigervnc.org
+X-Arch-Package-Votes=10
+Aliases=vncviewer;

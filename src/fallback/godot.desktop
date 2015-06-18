@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Godot
+Comment=Application for making games
+Icon=godot
+TryExec=/usr/bin/godot
+Exec=/usr/bin/godot %U
+Categories=Game;Utility;
+X-AppInstall-Package=godot
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package=godot 1.1-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=godot
+X-Arch-Package-Version=1.1-3
+X-Arch-Package-Description=An advanced, feature packed, multi-platform 2D and 3D game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.godotengine.org
+X-Arch-Package-Votes=11

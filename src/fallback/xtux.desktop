@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=XTux
+Comment=A Gauntlet-style arcade game for X11 with multiplayer mode
+Icon=xtux.xpm
+TryExec=/usr/bin/xtux
+Exec=xtux
+Categories=Game;ActionGame;
+X-AppInstall-Package=xtux
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=xtux 20030306-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xtux
+X-Arch-Package-Version=20030306-1
+X-Arch-Package-Description=A Gauntlet-style arcade game for X11 with multiplayer mode
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://xtux.sourceforge.net/
+X-Arch-Package-Votes=1

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Planetary Annihilation
+GenericName=Strategy Game
+Comment=Total Annihilation-inspired game on a planetary scale
+Icon=PA
+TryExec=/opt/PA/PA
+Exec=/opt/PA/PA
+Categories=Game;StrategyGame;
+Path=/opt/PA
+X-AppInstall-Package=planetary-annihilation
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=planetary-annihilation 76766-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=planetary-annihilation
+X-Arch-Package-Version=76766-1
+X-Arch-Package-Description=RTS gameplay in a way that's never been seen before.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.uberent.com/pa/
+X-Arch-Package-Votes=4

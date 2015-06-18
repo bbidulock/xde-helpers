@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Opera Mini 4
+Name[en_US]=opmin.desktop
+GenericName=Web Browser
+Comment=Opera Mini v4 J2ME Edition
+Icon=opera
+TryExec=/usr/bin/opmin
+Exec=opmin
+Categories=Application;Network;
+MimeType=text/html;
+StartupNotify=false
+X-AppInstall-Package=opmin
+X-AppInstall-Section=aur
+X-Arch-Package=opmin 4.5.33867-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=opmin
+X-Arch-Package-Version=4.5.33867-1
+X-Arch-Package-Description=Low Bandwidth Mobile Web Browser
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.opera.com/en/mobile
+X-Arch-Package-Votes=0

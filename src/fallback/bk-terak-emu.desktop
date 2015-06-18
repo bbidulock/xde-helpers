@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=BK/Terak emulator
+Comment=An emulator of the BK-0010/0011M and Terak-8510/a computers
+Icon=bk-terak-emu
+TryExec=/usr/bin/bk
+Exec=bk
+Terminal=true
+Categories=Game;Emulator;
+X-AppInstall-Package=bk-terak-emu
+X-AppInstall-Section=aur
+X-Arch-Package=bk-terak-emu 2005.05.12-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bk-terak-emu
+X-Arch-Package-Version=2005.05.12-2
+X-Arch-Package-Description=An emulator of the BK-0010/0011M and Terak-8510/a computers
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://bk-terak-emu.sourceforge.net/
+X-Arch-Package-Votes=0

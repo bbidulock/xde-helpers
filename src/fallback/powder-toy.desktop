@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=38.7
+Type=Application
+Name=Powder Toy
+Comment=A physics simulation game.
+Icon=powder-toy
+TryExec=/usr/bin/powder-toy
+Exec=/usr/bin/powder-toy
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=powder-toy
+X-AppInstall-Popcon=63
+X-AppInstall-Section=aur
+X-Arch-Package=powder-toy 90.2-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=powder-toy
+X-Arch-Package-Version=.-4
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://powdertoy.co.uk/
+X-Arch-Package-Votes=63

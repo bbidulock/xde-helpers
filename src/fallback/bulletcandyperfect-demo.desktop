@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Bullet Candy Perfect - Demo
+GenericName=Shoot'em Up Arcade
+Comment=Bullet Candy Perfect is a fun shoot-em-up game, with sharp, super smooth 3D graphics and a cool techno soundtrack. The game is all about honing your skills to perfection as you attempt the perfect run!
+Icon=/usr/share/pixmaps/BulletCandyPerfect-demo.png
+TryExec=/usr/bin/bulletcandyperfect-demo
+Exec=bulletcandyperfect-demo
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=bulletcandyperfect-demo
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=bulletcandyperfect-demo 1.00-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bulletcandyperfect-demo
+X-Arch-Package-Version=1.00-1
+X-Arch-Package-Description=Bullet Candy Perfect is a fun shoot-em-up game, with sharp,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.charliesgames.com/wordpress/?page_id=203
+X-Arch-Package-Votes=2

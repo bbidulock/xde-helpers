@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Eye
+GenericName=OCR text recognizer
+TryExec=/usr/bin/eyeocr
+Exec=eyeocr
+Categories=Graphics;OCR;
+X-AppInstall-Package=eyeocr
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=eyeocr 0.0.10-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=eyeocr
+X-Arch-Package-Version=0.0.10-1
+X-Arch-Package-Description=Java-based text (ocr) recognizer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://eyeocr.sourceforge.net/
+X-Arch-Package-Votes=2

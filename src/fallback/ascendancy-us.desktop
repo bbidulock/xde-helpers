@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Ascendancy settings
+Name[fr]=Configuration d'Ascendancy
+Icon=ascendancy
+TryExec=/usr/bin/ascendancy-config
+Exec=ascendancy-config
+NoDisplay=true
+Categories=Settings;
+X-AppInstall-Package=ascendancy-us
+X-AppInstall-Section=aur
+X-Arch-Package=ascendancy-us 1.6.10-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ascendancy-us
+X-Arch-Package-Version=1.6.10-1
+X-Arch-Package-Description=Science fiction turn-based strategy game (for US versions,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.logicfactory.com/main/Logic_Factory.html
+X-Arch-Package-Votes=0
+Aliases=ascendancy-config;

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=ColorGrab
+GenericName=Color Picker
+Icon=colorgrab
+TryExec=/usr/bin/colorgrab
+Exec=colorgrab
+Categories=Graphics;GTK;
+StartupNotify=true
+X-AppInstall-Package=colorgrab
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=colorgrab 0.2-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=colorgrab
+X-Arch-Package-Version=0.2-4
+X-Arch-Package-Description=A cross-platform color picker.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/Acolarh/colorgrab
+X-Arch-Package-Votes=1

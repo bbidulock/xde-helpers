@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Delaboratory Devel
+GenericName=Delaboratory Devel
+Comment=Modify color/contrast of your photo, development
+Icon=emblem-photos
+TryExec=/usr/bin/delaboratory-devel
+Exec=delaboratory-devel %f
+Categories=Graphics;2DGraphics;
+X-AppInstall-Package=-devel
+X-AppInstall-Section=aur
+X-Arch-Package=delaboratory-devel 0.7.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=-devel
+X-Arch-Package-Version=0.7.4-1
+X-Arch-Package-Description=A realtime color correction utility, development version.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/delaboratory/
+X-Arch-Package-Votes=0

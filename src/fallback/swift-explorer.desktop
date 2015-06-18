@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Swift Explorer
+GenericName=Swift Explorer
+Comment=User-friendly tool to manage files in an OpenStack Storage system (SWIFT)
+Icon=/usr/share/pixmaps/swift-explorer.png
+TryExec="/usr/bin/swift-explorer"
+Exec="/usr/bin/swift-explorer"
+Categories=System;
+X-AppInstall-Package=swift-explorer
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=swift-explorer 1.0.7-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=swift-explorer
+X-Arch-Package-Version=1.0.7-1
+X-Arch-Package-Description=User-friendly tool to manage files in an OpenStack Storage
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.619.io/swift-explorer
+X-Arch-Package-Votes=1

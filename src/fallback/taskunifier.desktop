@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=TaskUnifier
+GenericName=TaskUnifier
+Comment=Task management software
+Icon=/opt/TaskUnifier/resources/icon.ico
+TryExec=/usr/bin/TaskUnifier.sh
+Exec=/usr/bin/TaskUnifier.sh
+Categories=Office;
+StartupNotify=true
+X-AppInstall-Package=taskunifier
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=taskunifier 4.3.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=taskunifier
+X-Arch-Package-Version=4.3.4-1
+X-Arch-Package-Description=A task management software based on the well-known GTD
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.taskunifier.com/
+X-Arch-Package-Votes=4

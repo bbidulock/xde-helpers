@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=puNES
+GenericName=Nintendo Entertaiment System emulator
+Comment=Nintendo Entertaiment System emulator
+Icon=punes
+TryExec=/usr/bin/punes
+Exec=punes
+Categories=Game;Emulator;
+MimeType=application/x-nes;application/x-nes-rom;
+X-AppInstall-Package=punes
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package=punes 0.94-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=punes
+X-Arch-Package-Version=0.94-1
+X-Arch-Package-Description=Nintendo Entertaiment System emulator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://forums.nesdev.com/viewtopic.php?t=6928
+X-Arch-Package-Votes=11

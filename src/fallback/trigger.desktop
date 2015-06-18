@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=6.0.1
+Type=Application
+Name=Trigger
+Comment=Fast-paced 3D single-player rally racing game
+Icon=trigger
+TryExec=/usr/bin/trigger
+Exec=trigger
+Categories=Game;ActionGame;
+X-AppInstall-Package=trigger
+X-AppInstall-Popcon=17
+X-AppInstall-Section=aur
+X-Arch-Package=trigger 0.6.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=trigger
+X-Arch-Package-Version=0.6.2-1
+X-Arch-Package-Description=Free OpenGL rally car racing game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/trigger-rally/
+X-Arch-Package-Votes=17

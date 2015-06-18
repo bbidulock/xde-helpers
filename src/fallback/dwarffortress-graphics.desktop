@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Dwarf Fortress
+GenericName=Dwarf Fortress
+Comment=A single-player fantasy game.
+Icon=dwarffortress
+TryExec=/usr/bin/dwarffortress
+Exec=dwarffortress
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=dwarffortress-graphics
+X-AppInstall-Popcon=48
+X-AppInstall-Section=aur
+X-Arch-Package=dwarffortress-graphics 0.31.21-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dwarffortress-graphics
+X-Arch-Package-Version=0.31.21-1
+X-Arch-Package-Description=A single-player fantasy game. You control a dwarven outpost or an adventurer in a randomly generated persistent world. Mike Mayday's graphical version
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://mayday.w.staszic.waw.pl/df.php
+X-Arch-Package-Votes=48
+Aliases=dwarffortress;

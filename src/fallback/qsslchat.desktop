@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=qSslChat
+GenericName=Internet Messenger
+Comment=Instant Messenger with SSL Encryption Support
+Icon=/usr/share/icons/qsslchat.png
+TryExec=/usr/bin/qsslchat
+Exec=qsslchat
+Categories=Network;InstantMessaging;Qt;
+StartupNotify=true
+X-AppInstall-Package=qsslchat
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=qsslchat 1.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qsslchat
+X-Arch-Package-Version=1.1-2
+X-Arch-Package-Description=A chat client/server that connects directly and uses SSL to
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://qsslchat.sourceforge.net/index.html
+X-Arch-Package-Votes=1

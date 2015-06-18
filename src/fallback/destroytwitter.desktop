@@ -1,0 +1,17 @@
+[Desktop Entry]
+Version=2.1.0
+Type=Application
+Name=DestroyTwitter
+Comment=Application similar to TweetDeck
+Icon=/usr/share/pixmaps/destroytwitter/128.png
+TryExec=/usr/bin/destroytwitter
+Exec=destroytwitter
+Categories=Network;
+X-AppInstall-Package=destroytwitter
+X-AppInstall-Section=aur
+X-Arch-Package=destroytwitter 2.1.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=destroytwitter
+X-Arch-Package-Version=2.1.5-1
+X-Arch-Package-Description=DestroyTwitter is a powerful and lightweight Adobe AIR Twitter client
+X-Arch-Package-URL=https://destroytwitter.com/

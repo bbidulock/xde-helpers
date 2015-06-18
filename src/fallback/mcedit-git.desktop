@@ -1,0 +1,23 @@
+[Desktop Entry]
+Version=stable21
+Type=Application
+Name=MCEdit
+Comment=Minecraft World Editor
+Icon=/usr/share/pixmaps/MCEdit.png
+TryExec=/usr/bin/MCEdit
+Exec=/usr/bin/MCEdit
+NoDisplay=true
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=mcedit-git
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=mcedit-git 20131109-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mcedit-git
+X-Arch-Package-Version=20131109-1
+X-Arch-Package-Description=Minecraft world editor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/mcedit/mcedit
+X-Arch-Package-Votes=9
+Aliases=MCEdit;

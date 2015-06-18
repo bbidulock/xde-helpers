@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=GuSTop!
+Comment=An client-server version of a classic game
+Icon=# Not yet
+TryExec=/usr/bin/gustop
+Exec=/usr/bin/gustop
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=gustop
+X-AppInstall-Section=aur
+X-Arch-Package=gustop 0.6.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gustop
+X-Arch-Package-Version=0.6.0-1
+X-Arch-Package-Description=An client-server version of a classic game
+X-Arch-Package-URL=http://www.gustop.com.br/

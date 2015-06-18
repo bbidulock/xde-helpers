@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=DPacman
+Name[pt_BR]=dpacman
+GenericName=Gerenciador de Pacotes
+Comment=Um frontend para o pacman, usando dialog
+Icon=/usr/share/pixmaps/dpacman.png
+TryExec=/usr/bin/sakura
+Exec=sakura -t DPacman -x dpacman
+Categories=Application;System;
+StartupNotify=false
+X-AppInstall-Package=None
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=dpacman 2011.04-0
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=None
+X-Arch-Package-Version=-
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=None
+X-Arch-Package-Votes=3

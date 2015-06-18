@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Cube
+Comment=Pick up all the blue squares by rolling the cube over them
+Icon=puzzles-cube
+TryExec=/usr/bin/puzzles-cube
+Exec=puzzles-cube
+Categories=Game;LogicGame;
+StartupWMClass=puzzles-cube
+X-AppInstall-Package=puzzles-menuitems
+X-AppInstall-Section=aur
+X-Arch-Package=puzzles-menuitems 20150118-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=puzzles-menuitems
+X-Arch-Package-Version=20150118-1
+X-Arch-Package-Description=Menu items for Simon Tatham's Portable Puzzle Collection.
+X-Arch-Package-URL=http://www.chiark.greenend.org.uk/~sgtatham/puzzles/

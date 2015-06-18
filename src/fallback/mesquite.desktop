@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Mesquite
+Comment=A software package for evolutionary biology, designed to analyze comparative data about organisms
+Icon=mesquite
+TryExec=/usr/bin/mesquite
+Exec=mesquite
+Categories=Education;Science;Biology;Java;
+X-AppInstall-Package=mesquite
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=mesquite 2.75-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mesquite
+X-Arch-Package-Version=2.75-1
+X-Arch-Package-Description=A software package for evolutionary biology, designed to
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.mesquiteproject.org/
+X-Arch-Package-Votes=4

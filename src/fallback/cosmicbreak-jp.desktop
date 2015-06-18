@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=コズミックブレイク!
+Comment=コズミックブレイクは自分の操作するロボが他のプレイヤーと最大３０ＶＳ３０で戦うＭＭＯバトルシューティングです。シューティングゲームと聞くと操作が難しそう・・・と思われがちですが・・・！『簡単な操作で自分のロボを思うように動かすことができる』のでハイスピードで爽快なバトルがあなたを待っています！
+Icon=cosmicbreak-jp
+TryExec=/usr/bin/cosmicbreak-jp
+Exec=cosmicbreak-jp
+Categories=Application;Game;
+Path=/opt/cosmicbreak-jp
+StartupNotify=false
+X-AppInstall-Package=cosmicbreak-jp
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=cosmicbreak-jp 1.133.0-20110625
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cosmicbreak-jp
+X-Arch-Package-Version=1.133.0-20110625
+X-Arch-Package-Description=CosmicBreak is an MMO third person shooter featuring massive
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.cosmicbreak.com/
+X-Arch-Package-Votes=1

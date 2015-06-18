@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=DrJava
+Comment=Lightweight development environment for writing Java programs
+Icon=drjava
+TryExec=/usr/bin/drjava
+Exec=drjava
+Categories=Development;Education;Java;
+X-AppInstall-Package=drjava
+X-AppInstall-Popcon=18
+X-AppInstall-Section=aur
+X-Arch-Package=drjava 20140826-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=drjava
+X-Arch-Package-Version=20140826-1
+X-Arch-Package-Description=A lightweight development environment for writing Java
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.drjava.org/
+X-Arch-Package-Votes=18

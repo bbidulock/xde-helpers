@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Logic sniffer
+Icon=/opt/ols/ols.png
+TryExec=/usr/bin/logic_sniffer
+Exec=logic_sniffer
+Categories=Development;
+X-AppInstall-Package=ols
+X-AppInstall-Popcon=11
+X-AppInstall-Section=aur
+X-Arch-Package=ols 0.9.7.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ols
+X-Arch-Package-Version=0.9.7.2-1
+X-Arch-Package-Description=A software client for the Open Bench Logic Sniffer logic
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ols.lxtreme.nl/
+X-Arch-Package-Votes=11

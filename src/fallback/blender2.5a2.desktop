@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Blender
+Comment=A 3D program
+Comment[da]=Et program til 3d-modelering
+Comment[es]=Un programa de 3D
+Comment[no]=Et 3d-program
+Icon=/usr/share/pixmaps/blender.svg
+TryExec=/usr/bin/blender
+Exec=blender
+X-MultipleArgs=false
+NoDisplay=true
+Categories=Application;Graphics;3DGraphics;
+MimeType=application/blender;application/x-blender;
+X-AppInstall-Package=blender2.5a2
+X-AppInstall-Section=aur
+X-Arch-Package=blender2.5a2 2.5a2-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=blender2.5a2
+X-Arch-Package-Version=2.5a2-4
+X-Arch-Package-Description=A fully integrated 3D graphics creation suite (binary version)
+X-Arch-Package-URL=http://blender.org/
+Aliases=blender;

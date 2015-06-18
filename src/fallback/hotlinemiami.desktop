@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Hotline Miami
+Comment=A 2D top-down action video game
+Icon=hotlinemiami.png
+TryExec=/usr/bin/hotlinemiami
+Exec=hotlinemiami
+Categories=Game;
+X-AppInstall-Package=hotlinemiami
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=hotlinemiami 1392944501-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=hotlinemiami
+X-Arch-Package-Version=1392944501-1
+X-Arch-Package-Description=A 2D top-down action video game
+X-Arch-Package-Groups=games
+X-Arch-Package-URL=http://hotlinemiami.com/
+X-Arch-Package-Votes=13
+Value=1.0

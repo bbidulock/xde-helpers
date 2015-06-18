@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Digi Storage
+GenericName=Client for Digi Storage cloud storage service
+GenericName[ro]=Client pentru serviciul Digi Storage
+Comment=Synchronise your files with the Digi cloud
+Comment[ro]=Sincronizează fișiere cu Digi Storage
+Icon=digistorage
+TryExec=/usr/bin/digistorage
+Exec=/usr/bin/digistorage --update=false
+Categories=Network;
+StartupNotify=false
+X-AppInstall-Package=digistorage
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=digistorage 1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=digistorage
+X-Arch-Package-Version=1-2
+X-Arch-Package-Description=Client for Digi Storage cloud service
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://digistorage.rcs-rds.ro/
+X-Arch-Package-Votes=3

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Kludgets
+GenericName=Widget engine
+Comment=Widget engine
+Icon=/opt/kludgets/Kludgets
+TryExec=/opt/kludgets/Kludgets
+Exec=/opt/kludgets/Kludgets
+Categories=Application;System;Qt;
+X-AppInstall-Package=kludgets
+X-AppInstall-Section=aur
+X-Arch-Package=kludgets 0.9.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kludgets
+X-Arch-Package-Version=0.9.1-1
+X-Arch-Package-Description=Kludgets, widget engine
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kludgets.googlecode.com
+X-Arch-Package-Votes=0

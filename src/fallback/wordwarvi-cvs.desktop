@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Word War Vi
+Comment=Word War vi is your basic side-scrolling shoot 'em up '80s style arcade game
+TryExec=/usr/bin/wordwarvi
+Exec=wordwarvi
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=wordwarvi-cvs
+X-AppInstall-Section=aur
+X-Arch-Package=wordwarvi-cvs 20081021-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wordwarvi-cvs
+X-Arch-Package-Version=20081021-1
+X-Arch-Package-Description=Word War vi is your basic side-scrolling shoot 'em up '80s style arcade game
+X-Arch-Package-URL=http://wordwarvi.sourceforge.net/
+Aliases=wordwarvi;

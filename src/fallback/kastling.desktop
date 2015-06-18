@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=0.9.5
+Type=Application
+Name=FICS client
+GenericName=Kastling
+Comment=FICS client based on Qt4
+TryExec=/usr/bin/kastling
+Exec=/usr/bin/kastling
+Categories=Application;Game;Board games;
+X-AppInstall-Package=kastling
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=kastling 0.9.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kastling
+X-Arch-Package-Version=0.9.5-1
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=None
+X-Arch-Package-Votes=2

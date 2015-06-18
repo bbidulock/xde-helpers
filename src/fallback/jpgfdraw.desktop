@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Jpgfdraw
+Comment=Interactively create illustrations using PStrikcs and LaTeX
+Icon=/usr/share/pixmaps/jpgfdraw.png
+TryExec=/usr/bin/jpgfdraw
+Exec=jpgfdraw
+Categories=Graphics;VectorGraphics;Java;
+X-AppInstall-Package=jpgfdraw
+X-AppInstall-Section=aur
+X-Arch-Package=jpgfdraw 0.5.5b-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jpgfdraw
+X-Arch-Package-Version=0.5.5b-2
+X-Arch-Package-Description=A java based gui for the pgf/tikz latex graphics environment
+X-Arch-Package-URL=http://theoval.cmp.uea.ac.uk/~nlct/jpgfdraw

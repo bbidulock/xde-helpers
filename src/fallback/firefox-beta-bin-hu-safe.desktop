@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Firefox Beta - Safe Mode
+GenericName=Web Browser - Safe Mode
+GenericName[hu]=Webböngésző - Csökkentett mód
+Icon=firefox-beta-bin-hu-icon
+TryExec=/usr/bin/firefox-beta-bin-hu
+Exec=firefox-beta-bin-hu -safe-mode %u
+MultipleArgs=false
+Categories=Application;Network;
+MimeType=text/html;
+StartupNotify=false
+X-AppInstall-Package=firefox-beta-bin-hu
+X-AppInstall-Section=aur
+X-Arch-Package=firefox-beta-bin-hu 4.0rc2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firefox-beta-bin-hu
+X-Arch-Package-Version=4.0rc2-1
+X-Arch-Package-Description=Standalone web browser from mozilla.org, beta build - binaries - Hungarian
+X-Arch-Package-URL=http://www.mozilla.org/projects/firefox

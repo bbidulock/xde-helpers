@@ -1,0 +1,33 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=KonqPopupMenu/Plugin,all/allfiles;
+NoDisplay=true
+X-AppInstall-Package=kde-servicemenus-thunderbird-attachment
+X-AppInstall-Section=aur
+X-Arch-Package=kde-servicemenus-thunderbird-attachment 1.1.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kde-servicemenus-thunderbird-attachment
+X-Arch-Package-Version=1.1.2-1
+X-Arch-Package-Description=Attach to thunderbird service for Dolphin.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://opendesktop.org/content/show.php?content=122832
+X-Arch-Package-Votes=0
+Aliases=thunderbird_attachment;
+ExcludeServiceTypes=application/x-iso,kdedevice/*,inode/directory
+Actions=attachToEmail
+
+[Desktop Action attachToEmail]
+Name=Attach to Thunderbird Mail
+Name[cz]=Odeslat jako přílohu Thunderbirdem
+Name[de]=Als Anhang mit Thunderbird verschicken
+Name[es]=Enviar adjunto con Thunderbird
+Name[fr]=Envoyer avec Thunderbird
+Name[it]=Invia E-mail con Thunderbird
+Name[nl]=Voeg toe als bijlage aan Thunderbird
+Name[pl]=Wyślij jako załącznik Thunderbirda
+Name[pt]=Anexar ao Thunderbird E-mail
+Name[pt_BR]=Enviar arquivo(s) como anexo(s)
+Name[ru]=Отправить с помощью Thunderbird
+Icon=thunderbird
+TryExec=/usr/bin/thunderbird
+Exec=thunderbird -compose "attachment='$(echo %F | sed 's/\\ \\//,\\/\\//g')'"

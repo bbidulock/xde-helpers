@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=GraphCalc
+GenericName=GraphCalc
+Comment=An all-in-one solution to everything from everyday arithmetic to derivatives.
+Icon=accessories-calculator
+TryExec=/usr/bin/graphcalc
+Exec=graphcalc
+Categories=Utility;Calculator;Qt;
+X-AppInstall-Package=graphcalc
+X-AppInstall-Section=aur
+X-Arch-Package=graphcalc 0.0.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=graphcalc
+X-Arch-Package-Version=0.0.1-2
+X-Arch-Package-Description=An all-in-one solution to everything from everyday arithmetic
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.graphcalc.com
+X-Arch-Package-Votes=0

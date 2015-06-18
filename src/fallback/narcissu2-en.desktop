@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Narcissu2-en
+Comment=Free japanese visual novel game, translated into English
+Icon=narcissu2-en.png
+TryExec=/usr/bin/narcissu2-en
+Exec=/usr/bin/narcissu2-en
+Categories=Application;Game;
+X-AppInstall-Package=narcissu2-en
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=narcissu2-en 1.1-8
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=narcissu2-en
+X-Arch-Package-Version=1.1-8
+X-Arch-Package-Description=A free japanese visual novel game, translated into English.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.neechin.net/narcissu/
+X-Arch-Package-Votes=8

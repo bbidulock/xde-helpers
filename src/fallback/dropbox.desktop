@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Dropbox
+GenericName=Network Storage
+Comment=Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily
+Icon=dropbox
+TryExec=/usr/bin/dropbox
+Exec=dropbox
+Categories=Network;
+StartupNotify=false
+X-AppInstall-Package=dropbox
+X-AppInstall-Popcon=1960
+X-AppInstall-Section=aur
+X-Arch-Package=dropbox 3.4.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dropbox
+X-Arch-Package-Version=3.4.6-1
+X-Arch-Package-Description=A free service that lets you bring your photos, docs, and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.dropbox.com
+X-Arch-Package-Votes=1960

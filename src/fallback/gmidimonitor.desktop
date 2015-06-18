@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=GMidiMonitor Alsa
+Comment=Shows Alsa MIDI events
+Icon=gmidimonitor
+TryExec=/usr/bin/gmidimonitor
+Exec=gmidimonitor --alsa
+NoDisplay=true
+Categories=Application;AudioVideo;Audio;Multimedia;
+X-AppInstall-Package=gmidimonitor
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=gmidimonitor 3.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gmidimonitor
+X-Arch-Package-Version=3.6-1
+X-Arch-Package-Description=A GTK+ application that shows MIDI events.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://home.gna.org/gmidimonitor/
+X-Arch-Package-Votes=4
+Aliases=gmidimonitor-alsa;

@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Visual Studio Code
+Comment=A cross-platform IDE by Microsoft
+Icon=/opt/vscode/resources/app/vso.png
+TryExec=/usr/bin/vscode
+Exec=/usr/bin/vscode
+Categories=Programming;
+X-AppInstall-Package=vscode
+X-AppInstall-Section=aur
+X-Arch-Package=vscode 0.1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=vscode
+X-Arch-Package-Version=0.1.0-1
+X-Arch-Package-Description=A cross-platform IDE by Microsoft
+X-Arch-Package-URL=https://github.com/KnightOS/genkfs
+Value=1.0

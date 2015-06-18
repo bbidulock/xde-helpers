@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Minecraft
+GenericName=Minecraft
+Comment=A game about placing blocks while running from skeletons.
+Icon=/usr/share/pixmaps/minecraft.png
+TryExec=/usr/bin/minecraft
+Exec=minecraft
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=minecraft-skaia
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=minecraft-skaia 1.500-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=minecraft-skaia
+X-Arch-Package-Version=1.500-1
+X-Arch-Package-Description=An open-world game whose gameplay revolves around breaking and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.minecraft.net/
+X-Arch-Package-Votes=1
+Aliases=minecraft;

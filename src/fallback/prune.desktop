@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Prune
+Comment=GPS data processor
+Icon=prune
+TryExec=/usr/bin/gpsprune
+Exec=gpsprune
+Categories=Utility;DataVisualization;
+StartupNotify=true
+X-AppInstall-Package=prune_bin
+X-AppInstall-Section=aur
+X-Arch-Package=prune_bin 12.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=prune_bin
+X-Arch-Package-Version=12.1-1
+X-Arch-Package-Description=a java application for viewing, editing and converting coordinate data from GPS systems
+X-Arch-Package-URL=http://sourceforge.net/projects/prune-gps/

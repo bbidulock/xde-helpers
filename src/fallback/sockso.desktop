@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=sockso
+Comment=Personal Music Server
+Icon=/usr/share/icons/sockso.png
+TryExec=/usr/bin/sockso
+Exec=sockso
+Categories=Network;
+X-AppInstall-Package=sockso
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=sockso 1.5.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sockso
+X-Arch-Package-Version=1.5.3-1
+X-Arch-Package-Description=A free open source Personal Music Server for everyone.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sockso.pu-gh.com/
+X-Arch-Package-Votes=13

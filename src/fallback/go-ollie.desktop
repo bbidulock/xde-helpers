@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Go Ollie
+Icon=goollie
+TryExec=/usr/bin/GoOllie
+Exec=/usr/bin/GoOllie
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=go-ollie
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=go-ollie 1.3-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=go-ollie
+X-Arch-Package-Version=1.3-4
+X-Arch-Package-Description=Go Ollie is a platform game with beautifully rendered scenes
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.tweeler.com/index.php?PAGE=goollie_linux
+X-Arch-Package-Votes=10
+Aliases=GoOllie;

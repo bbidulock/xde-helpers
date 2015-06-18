@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=myCraft
+Name[fr_BE]=mycraft
+GenericName=myCraft
+Comment=A game about placing blocks while running from skeletons.
+Icon=mycraft
+TryExec=/usr/bin/mycraft
+Exec=mycraft
+Categories=Game;
+X-AppInstall-Package=mycraft
+X-AppInstall-Section=aur
+X-Arch-Package=mycraft 5.1.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mycraft
+X-Arch-Package-Version=5.1.1-1
+X-Arch-Package-Description=Official minecraft launcher for mycraft.fr
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.mycraft.fr/
+X-Arch-Package-Votes=0

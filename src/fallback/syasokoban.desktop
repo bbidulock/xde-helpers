@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Syasokoban
+Comment=Implementation of the puzzle game Sokoban
+Icon=/usr/share/syasokoban/sokoban/SYASokoban.png
+TryExec=/usr/bin/syasokoban
+Exec=syasokoban
+Categories=Game;
+X-AppInstall-Package=syasokoban
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=syasokoban 2.0.1-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=syasokoban
+X-Arch-Package-Version=2.0.1-3
+X-Arch-Package-Description=Still Yet Another implementation of the puzzle game Sokoban
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://grayskygames.com/sokoban.html
+X-Arch-Package-Votes=6

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Project 6014
+Comment=Mod sequel to Star Control II: The Ur-Quan Masters
+Icon=p6014
+TryExec=/usr/bin/p6014
+Exec=p6014
+Categories=Application;Game;ArcadeGame;StrategyGame;
+X-AppInstall-Package=project6014-svn
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=project6014-svn 2362-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=project6014-svn
+X-Arch-Package-Version=2362-1
+X-Arch-Package-Description=Mod sequel to Star Control II: The Ur-Quan Masters (uqm), SVN
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/project6014/
+X-Arch-Package-Votes=2

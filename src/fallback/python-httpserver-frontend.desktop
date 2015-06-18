@@ -1,0 +1,23 @@
+[Desktop Entry]
+Version=0.8
+Type=Application
+Name=Python SimpleHttpServer Frontend
+Name[en_US]=python-httpserver-frontend
+GenericName=Python SimpleHttpServer Frontend
+Comment=A easy frontend to run a python http server script
+Icon=python-httpserver-frontend
+TryExec=/usr/bin/python-httpserver-frontend
+Exec=python-httpserver-frontend
+Categories=Network;WebBrowser;GTK;
+StartupNotify=true
+X-AppInstall-Package=python-httpserver-frontend
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=python-httpserver-frontend 11-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=python-httpserver-frontend
+X-Arch-Package-Version=11-1
+X-Arch-Package-Description=Python SimpleHttpServer Frontend
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://code.google.com/p/python-httpserver-frontend
+X-Arch-Package-Votes=2

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=4K Video to MP3
+GenericName=4K Video to MP3
+Comment=Download online video
+Icon=4kvideotomp3.png
+TryExec=/usr/bin/4kvideotomp3
+Exec=4kvideotomp3
+Categories=AudioVideo;Qt;
+X-AppInstall-Package=4kvideotomp3
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=4kvideotomp3 2.2.1.810-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=4kvideotomp3
+X-Arch-Package-Version=2.2.1.810-1
+X-Arch-Package-Description=Extract audio in high-quality MP3 from any video.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.4kdownload.com/products/product-videotomp3
+X-Arch-Package-Votes=3

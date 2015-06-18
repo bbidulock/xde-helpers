@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=gHamachi
+GenericName=Hamachi GUI
+Icon=hamachi.png
+TryExec=/usr/bin/gHamachi
+Exec=gHamachi
+MultipleArgs=false
+Categories=Application;Network;
+StartupNotify=false
+X-AppInstall-Package=ghamachi
+X-AppInstall-Section=aur
+X-Arch-Package=ghamachi 0.8.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ghamachi
+X-Arch-Package-Version=0.8.1-2
+X-Arch-Package-Description=GTK2 frontend to Hamachi
+X-Arch-Package-URL=http://www.penguinbyte.com/software/ghamachi/

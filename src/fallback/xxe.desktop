@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=XXE
+Comment=XMLmind XML Editor
+Icon=xxe.png
+TryExec=/usr/bin/xxe
+Exec=xxe
+Categories=Office;
+X-AppInstall-Package=xxe
+X-AppInstall-Popcon=23
+X-AppInstall-Section=aur
+X-Arch-Package=xxe 5.8.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xxe
+X-Arch-Package-Version=5.8.0-1
+X-Arch-Package-Description=XMLmind XML Editor allows to edit large, complex, modular, XML
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.xmlmind.com/xmleditor
+X-Arch-Package-Votes=23

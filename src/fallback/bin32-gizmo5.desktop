@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Gizmo5
+GenericName=VoIP & IM
+Comment=A free phone for your computer that makes calling as easy as instant messenging
+Icon=gizmo-icon-48.png
+TryExec=/usr/bin/gizmo32_wrapper
+Exec=gizmo32_wrapper
+NoDisplay=true
+Categories=Network;Telephony;
+X-AppInstall-Package=bin32-gizmo5
+X-AppInstall-Section=aur
+X-Arch-Package=bin32-gizmo5 3.1.0.79-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bin32-gizmo5
+X-Arch-Package-Version=3.1.0.79-1
+X-Arch-Package-Description=A free VoIP phone for your computer that makes calling as easy as instant messenging
+X-Arch-Package-URL=http://gizmo5.com/
+Aliases=gizmo5;

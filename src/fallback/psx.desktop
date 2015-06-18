@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=pSX
+GenericName=PSX Emulator
+GenericName[fr]=Emulateur PSX
+Comment=A PlayStation emulator
+Icon=psx
+TryExec=/usr/bin/pSX
+Exec=pSX
+Categories=Game;Emulator;
+X-AppInstall-Package=psx
+X-AppInstall-Popcon=109
+X-AppInstall-Section=aur
+X-Arch-Package=psx 1.13-9
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=psx
+X-Arch-Package-Version=1.13-9
+X-Arch-Package-Description=A PlayStation emulator, not plugin based
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://psxemulator.gazaxian.com/
+X-Arch-Package-Votes=109

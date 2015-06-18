@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Blue
+Comment=A music composition environment for Csound.
+Icon=blue.png
+TryExec=/usr/bin/blue
+Exec=blue
+NoDisplay=true
+Categories=AudioVideo;
+X-AppInstall-Package=csound-blue
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=csound-blue 2.5.14-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=csound-blue
+X-Arch-Package-Version=2.5.14-3
+X-Arch-Package-Description=A music composition environment for Csound
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://blue.kunstmusik.com/
+X-Arch-Package-Votes=4
+Aliases=blue;
+Value=1.0

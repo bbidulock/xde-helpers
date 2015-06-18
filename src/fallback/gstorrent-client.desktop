@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=GSTorrent-Client
+GenericName=GUI for GSTorrent-Server
+Icon=/usr/share/pixmaps/GSTorrent-Client.gif
+TryExec=/usr/bin/GSTorrent-Client
+Exec=GSTorrent-Client
+NoDisplay=true
+Categories=Network;
+X-AppInstall-Package=gstorrent-client
+X-AppInstall-Section=aur
+X-Arch-Package=gstorrent-client 0009-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gstorrent-client
+X-Arch-Package-Version=0009-1
+X-Arch-Package-Description=GSTorrent-client is a GUI for GSTorrent-server.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gstorrent.sourceforge.net/
+X-Arch-Package-Votes=0
+Aliases=GSTorrent-Client;

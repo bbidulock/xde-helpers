@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=GeminiRue
+GenericName=SF dystopian adventure game
+Comment=Wadget Eyes Game
+Icon=geminirue
+TryExec=/usr/bin/geminirue
+Exec=/usr/bin/geminirue
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=geminirue
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=geminirue 1.0.20131228-0
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=geminirue
+X-Arch-Package-Version=1.0.20131228-0
+X-Arch-Package-Description=A science-fiction dystopian adventure game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.wadjeteyegames.com/games/gemini-rue/
+X-Arch-Package-Votes=2

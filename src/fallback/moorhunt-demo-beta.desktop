@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=MoorHunt
+Icon=moorhunt
+TryExec=/usr/bin/moorhunt
+Exec=moorhunt
+NoDisplay=true
+Categories=Network;FileTransfer;GTK;
+StartupNotify=true
+X-AppInstall-Package=moorhunt-demo-beta
+X-AppInstall-Section=aur
+X-Arch-Package=moorhunt-demo-beta 0.8.0.60-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=moorhunt-demo-beta
+X-Arch-Package-Version=0.8.0.60-1
+X-Arch-Package-Description=Linux p2m client, running on Windows, Linux and Mac OS.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://moorhunt.pl/
+X-Arch-Package-Votes=0
+Aliases=moorhunt;

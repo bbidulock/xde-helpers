@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=belle
+Icon=/usr/share/gSculpt/gsimages/gSculpt_Glass_Master_by_Gary_Rose.png
+TryExec=/usr/bin/belle
+Exec=belle
+Categories=Graphics;3DGraphics;
+X-AppInstall-Package=belle
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=belle 0.5-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=belle
+X-Arch-Package-Version=0.5-2
+X-Arch-Package-Description=Qt Graphic Editor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://opendesktop.org/content/show.php/Belle?content=155259
+X-Arch-Package-Votes=2

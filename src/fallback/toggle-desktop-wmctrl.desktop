@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Toggle Desktop
+GenericName=Toggle Desktop
+Comment=Show Desktop (wmctrl)
+Icon=emblem-desktop
+TryExec=/usr/bin/bash
+Exec=bash -c '[[ $(wmctrl -m | grep "mode: ON") ]] && wmctrl -k off || exec wmctrl -k on'
+Categories=System;Utility;GTK;
+X-AppInstall-Package=toggle-desktop-wmctrl
+X-AppInstall-Section=aur
+X-Arch-Package=toggle-desktop-wmctrl 0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=toggle-desktop-wmctrl
+X-Arch-Package-Version=0.1-1
+X-Arch-Package-Description=Toggle Desktop link
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://aur.archlinux.org/packages/toggle-desktop-wmctrl/
+X-Arch-Package-Votes=0

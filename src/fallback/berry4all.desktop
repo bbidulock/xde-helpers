@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Berry4All
+GenericName=Berry4All
+Comment=Berry4All: Tethering your BlackBerry
+Icon=/usr/share/pixmaps/berry4all.png
+TryExec=/usr/bin/berry4all
+Exec=berry4all
+Categories=Network;
+StartupNotify=true
+X-AppInstall-Package=berry4all
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=berry4all 0.3l-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=berry4all
+X-Arch-Package-Version=0.3l-3
+X-Arch-Package-Description=Berry4All: tethering your Blackberry. Formerly known as
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.berry4all.com/
+X-Arch-Package-Votes=5

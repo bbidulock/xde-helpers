@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=Firefox Beta
+Name[ru_UA]=firefox-beta-desktop
+GenericName=Web Browser
+Icon=firefox-beta-bin-icon
+TryExec=/usr/bin/firefox-beta-bin
+Exec=firefox-beta-bin %u
+MultipleArgs=false
+NoDisplay=true
+Categories=Application;Network;
+MimeType=text/html;
+StartupNotify=false
+X-AppInstall-Package=firefox-beta-bin-ru
+X-AppInstall-Popcon=15
+X-AppInstall-Section=aur
+X-Arch-Package=firefox-beta-bin-ru 38.0esr-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firefox-beta-bin-ru
+X-Arch-Package-Version=38.0esr-1
+X-Arch-Package-Description=Standalone web browser from mozilla.org! Latest beta with
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.mozilla.org/projects/firefox
+X-Arch-Package-Votes=15
+Aliases=firefox-beta;

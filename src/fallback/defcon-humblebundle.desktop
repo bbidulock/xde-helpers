@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Defcon
+GenericName=Defcon
+Comment=Shall we play a game?
+Icon=/usr/share/pixmaps/defcon.png
+TryExec=/opt/defcon/defcon.bin
+Exec=/opt/defcon/defcon.bin
+NoDisplay=true
+Categories=Application;Game;StrategyGame;
+X-AppInstall-Package=defcon-humblebundle
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=defcon-humblebundle 1.6-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=defcon-humblebundle
+X-Arch-Package-Version=1.6-2
+X-Arch-Package-Description=Introversion Software's thermonuclear war simulator,
+X-Arch-Package-Groups=humblebundle
+X-Arch-Package-URL=http://www.humblebundle.com/
+X-Arch-Package-Votes=13
+Aliases=defcon;

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=KMP
+Comment=Qt MPD client
+Icon=icon
+TryExec=/usr/bin/kmp
+Exec=kmp
+Categories=Application;AudioVideo;Player;Qt;
+StartupNotify=true
+X-AppInstall-Package=None
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=kmp 0.5-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=None
+X-Arch-Package-Version=-
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=None
+X-Arch-Package-Votes=4

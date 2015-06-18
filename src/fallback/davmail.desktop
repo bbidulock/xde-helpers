@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=DavMail
+GenericName=DavMail
+Comment=DavMail POP/IMAP/SMTP/CalDav/LDAP Exchange Gateway
+Icon=davmail
+TryExec=/usr/bin/davmail
+Exec=davmail
+Categories=Network;
+X-AppInstall-Package=davmail
+X-AppInstall-Popcon=69
+X-AppInstall-Section=aur
+X-Arch-Package=davmail 4.6.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=davmail
+X-Arch-Package-Version=4.6.1-1
+X-Arch-Package-Description=a POP/IMAP/SMTP/Caldav/LDAP gateway for the exchange service
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://davmail.sourceforge.net/
+X-Arch-Package-Votes=69

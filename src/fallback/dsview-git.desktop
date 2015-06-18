@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=DSView
+TryExec=/usr/bin/DSView
+Exec=DSView
+NoDisplay=true
+Categories=Development;
+X-AppInstall-Package=dsview-git
+X-AppInstall-Section=aur
+X-Arch-Package=dsview-git 0.3.r54.g71d0f5a-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dsview-git
+X-Arch-Package-Version=0.3.r54.g71d0f5a-1
+X-Arch-Package-Description=GUI programe for supporting various instruments from
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.dreamsourcelab.com/
+X-Arch-Package-Votes=0
+Aliases=dsview;

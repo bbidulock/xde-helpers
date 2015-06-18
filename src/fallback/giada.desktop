@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Giada
+Comment=Your hardcore loop machine
+Icon=giada
+TryExec=/usr/bin/giada
+Exec=giada
+Categories=AudioVideo;Audio;
+X-AppInstall-Package=giada
+X-AppInstall-Popcon=14
+X-AppInstall-Section=aur
+X-Arch-Package=giada 0.9.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=giada
+X-Arch-Package-Version=0.9.6-1
+X-Arch-Package-Description=A minimal, hardcore audio tool and loop machine for DJs and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.giadamusic.com/
+X-Arch-Package-Votes=14

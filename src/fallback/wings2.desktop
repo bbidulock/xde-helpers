@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Wings2
+GenericName=Wings2
+Comment=Fly small and agile ships in varied maps
+Comment[cs]=Poraž protivníky v bitvě malých vesmírných lodí
+Comment[pl]=Stań się pilotem małego i zwinnego pojazdu
+Icon=/opt/Wings2/graphics/icon.png
+TryExec=/usr/bin/Wings
+Exec=Wings
+Categories=Game;
+MimeType=application/x-executable;
+StartupNotify=true
+X-AppInstall-Package=wings2
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=wings2 1.3.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wings2
+X-Arch-Package-Version=1.3.6-1
+X-Arch-Package-Description=Fly small and agile ships in varied maps
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.wings2.net/
+X-Arch-Package-Votes=8

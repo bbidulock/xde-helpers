@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=EoF
+GenericName=Editor on Fire
+Icon=/usr/share/pixmaps/EoF.ico
+TryExec=/usr/bin/EoF
+Exec=/usr/bin/EoF
+Categories=Game;
+X-AppInstall-Package=eof-svn
+X-AppInstall-Section=aur
+X-Arch-Package=eof-svn 20110531-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=eof-svn
+X-Arch-Package-Version=20110531-1
+X-Arch-Package-Description=A song editor for Frets on Fire
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://http://code.google.com/p/editor-on-fire/
+X-Arch-Package-Votes=0

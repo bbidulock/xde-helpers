@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Bos Wars
+GenericName=Battle of Survival Wars
+Comment=real-time strategy game
+Icon=/usr/share/pixmaps/boswars.png
+TryExec=/usr/bin/boswars
+Exec=/usr/bin/boswars
+NoDisplay=true
+Categories=Game;
+StartupNotify=true
+X-AppInstall-Package=boswars-svn
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=boswars-svn r10239-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=boswars-svn
+X-Arch-Package-Version=r10239-1
+X-Arch-Package-Description=Bos Wars is a real-time strategy game that uses a modified
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.boswars.org/index.shtml
+X-Arch-Package-Votes=8
+Aliases=boswars;

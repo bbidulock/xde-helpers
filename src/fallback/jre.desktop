@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Java Policy Settings
+Icon=sun-java-jre8
+TryExec=/usr/lib/jvm/java-8-jre/jre/bin/policytool
+Exec=/usr/lib/jvm/java-8-jre/jre/bin/policytool
+NoDisplay=true
+Categories=Settings;Java;
+StartupNotify=true
+X-AppInstall-Package=jre
+X-AppInstall-Popcon=469
+X-AppInstall-Section=aur
+X-Arch-Package=jre 8u45-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jre
+X-Arch-Package-Version=u-1
+X-Arch-Package-Description=Oracle Java Runtime Environment
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.oracle.com/technetwork/java/javase/downloads/index.html
+X-Arch-Package-Votes=469
+Aliases=policytool-jre8;

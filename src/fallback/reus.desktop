@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Reus
+Comment=A god game in which you take control of nature through the hands of mighty giants
+Icon=reus.png
+TryExec=/usr/bin/reus
+Exec=reus
+Categories=Game;
+Path=/opt/reus
+X-AppInstall-Package=reus
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=reus 1389636757-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=reus
+X-Arch-Package-Version=1389636757-1
+X-Arch-Package-Description=A god game in which you take control of nature through the
+X-Arch-Package-Groups=games
+X-Arch-Package-URL=http://www.reusgame.com/
+X-Arch-Package-Votes=2
+Value=1.0

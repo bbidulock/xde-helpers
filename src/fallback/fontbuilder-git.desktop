@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=FontBuilder
+Comment=Utility for creating texture atlases with bitmap chars from FreeType, TrueType and some other font formats.
+TryExec=/usr/bin/FontBuilder
+Exec=/usr/bin/FontBuilder
+Categories=Application;
+StartupNotify=false
+X-AppInstall-Package=fontbuilder-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=fontbuilder-git 20140617-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fontbuilder-git
+X-Arch-Package-Version=20140617-1
+X-Arch-Package-Description=Utility for creating texture atlases with bitmap chars from
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/andryblack/fontbuilder
+X-Arch-Package-Votes=1

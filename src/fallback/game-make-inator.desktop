@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=BLABA (Bryan Lunduke's Awesome Blocks of Awesome)
+Comment=Visual Software Creation
+Icon=game-make-inator
+TryExec=/usr/bin/gamemake
+Exec=gamemake
+Categories=Graphics;
+X-AppInstall-Package=game-make-inator
+X-AppInstall-Section=aur
+X-Arch-Package=game-make-inator 13.05-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=game-make-inator
+X-Arch-Package-Version=13.05-1
+X-Arch-Package-Description=Game-Make-inator: A graphical video game editor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://lunduke.com/?page_id=3152
+X-Arch-Package-Votes=0

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Firefox Beta
+Name[fr_FR]=firefox-beta
+GenericName=Web Browser
+GenericName[fr]=Navigateur Web
+Icon=firefox-beta-icon
+TryExec=/usr/bin/firefox-beta
+Exec=firefox-beta %u
+NoDisplay=true
+Categories=Application;Network;WebBrowser;
+MimeType=text/html;text/xml;application/xhtml+xml;application/vnd.mozilla.xul+xml;text/mml;x-scheme-handler/http;x-scheme-handler/https;
+StartupNotify=false
+X-AppInstall-Package=firefox-beta-fr
+X-AppInstall-Section=aur
+X-Arch-Package=firefox-beta-fr 18.0b4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firefox-beta-fr
+X-Arch-Package-Version=18.0b4-1
+X-Arch-Package-Description=Standalone web browser from mozilla.org, Aurora build, French
+X-Arch-Package-URL=http://www.mozilla.org/projects/firefox
+Aliases=firefox-beta;

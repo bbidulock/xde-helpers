@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=ROX Filer
+Icon=rox
+TryExec=/usr/bin/rox
+Exec=rox
+NoDisplay=true
+Categories=System;Utility;FileManager;Core;
+X-AppInstall-Package=rox-filer-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=rox-filer-git 2.11.r2531-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rox-filer-git
+X-Arch-Package-Version=2.11.r2531-1
+X-Arch-Package-Description=A small and fast file manager which can optionally manage the
+X-Arch-Package-Groups=rox-desktop
+X-Arch-Package-URL=http://roscidus.com/desktop/
+X-Arch-Package-Votes=1
+Aliases=rox;

@@ -1,0 +1,17 @@
+[Desktop Entry]
+Version=0.3
+Type=Application
+Name=hydranode.desktop
+Comment=P2P Client
+Icon=hydranode
+TryExec=/usr/bin/hydranode
+Exec=hydranode
+Categories=Application;Network;P2P;Qt;
+X-AppInstall-Package=hydranode
+X-AppInstall-Section=aur
+X-Arch-Package=hydranode 0.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=hydranode
+X-Arch-Package-Version=0.3-1
+X-Arch-Package-Description=Bittorrent/Edonkey Client
+X-Arch-Package-URL=http://hydranode.com/

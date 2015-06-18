@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Netconfig
+GenericName=Net Configuration
+GenericName[es]=Configuración de Red
+Comment=Net Configuration
+Comment[es]=Configuración de Red
+Icon=krdc
+TryExec=/usr/bin/netconfig
+Exec=/usr/bin/netconfig
+Categories=System;Qt;
+X-KDE-SubstituteUID=true
+X-AppInstall-Package=netconfig
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=netconfig 0.3.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=netconfig
+X-Arch-Package-Version=0.3.3-1
+X-Arch-Package-Description=Very simple tool for configuring network (wired or wifi)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=None
+X-Arch-Package-Votes=4

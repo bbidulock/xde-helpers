@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Hourglass
+Comment=Time Tracker
+Icon=/usr/share/pixmaps/hourglass.png
+TryExec=/usr/bin/hourglass
+Exec=hourglass
+X-DCOP-ServiceType=none
+Categories=Application;Office;
+MimeType=text/plain;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=hourglass
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=hourglass 0.7.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=hourglass
+X-Arch-Package-Version=0.7.2-2
+X-Arch-Package-Description=Hourglass is a PSP (personal software process) time tracking
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://hourglass.wiki.sourceforge.net/
+X-Arch-Package-Votes=7

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Savant: Ascent
+Comment=A music shoot-em up game
+Icon=savant-ascent
+TryExec=/usr/bin/savant-ascent
+Exec=savant-ascent
+Categories=Application;Game;ArcadeGame;
+StartupNotify=true
+X-AppInstall-Package=savant-ascent-hib
+X-AppInstall-Section=aur
+X-Arch-Package=savant-ascent-hib 20141127-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=savant-ascent-hib
+X-Arch-Package-Version=20141127-1
+X-Arch-Package-Description=A music shoot-em up game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://savantgame.com/
+X-Arch-Package-Votes=0

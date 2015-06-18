@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Editor On Fire
+Icon=/opt/editor-on-fire/eof.ico
+TryExec=/usr/bin/eof
+Exec=eof
+NoDisplay=true
+X-AppInstall-Package=editor-on-fire-svn
+X-AppInstall-Section=aur
+X-Arch-Package=editor-on-fire-svn 1085-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=editor-on-fire-svn
+X-Arch-Package-Version=1085-1
+X-Arch-Package-Description=A song editor for Frets On Fire
+X-Arch-Package-URL=http://code.google.com/p/editor-on-fire/
+Aliases=eof;

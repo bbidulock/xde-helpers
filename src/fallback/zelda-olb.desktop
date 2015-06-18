@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Zelda: Oni Link Begins
+Comment=Second Game in a series of fan-made Zelda Games
+Icon=zelda-olb
+TryExec=/usr/bin/zelda-olb
+Exec=zelda-olb
+Categories=Game;AdventureGame;
+X-AppInstall-Package=zelda-olb
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=zelda-olb 3.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zelda-olb
+X-Arch-Package-Version=3.6-1
+X-Arch-Package-Description='Zelda: Oni Link Begins' is a fan-made Zelda Game (english
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.zeldaroth.fr/
+X-Arch-Package-Votes=4

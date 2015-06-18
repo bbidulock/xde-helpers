@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Hot Potatoes
+Comment=The Hot Potatoes suite
+Icon=hotpotatoes
+TryExec=/usr/bin/hotpotatoes
+Exec=hotpotatoes %F
+Categories=Education;
+X-AppInstall-Package=hotpotatoes
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=hotpotatoes 6.1-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=hotpotatoes
+X-Arch-Package-Version=6.1-4
+X-Arch-Package-Description=The Hot Potatoes Suite
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://hotpot.uvic.ca/index.php
+X-Arch-Package-Votes=5

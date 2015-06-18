@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=XnView Multi Platform
+GenericName=XnViewMP
+Icon=/opt/xnviewmp/xnview.png
+TryExec=/usr/bin/xnviewmp
+Exec=/usr/bin/xnviewmp %F
+Categories=Graphics;
+MimeType=image/bmp;image/gif;image/x-portable-bitmap;image/x-portable-pixmap;image/x-psd;image/x-tga;image/x-xbitmap;image/tiff;image/jpeg;image/x-psd;image/png;image/x-icon;image/x-xpixmap;image/svg+xml;
+StartupNotify=true
+X-AppInstall-Package=xnviewmp
+X-AppInstall-Popcon=200
+X-AppInstall-Section=aur
+X-Arch-Package=xnviewmp 0.72-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xnviewmp
+X-Arch-Package-Version=0.72-1
+X-Arch-Package-Description=An efficient multimedia viewer, browser and converter.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.xnview.com/en/xnviewmp/
+X-Arch-Package-Votes=200

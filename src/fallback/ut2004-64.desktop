@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Unreal Tournament 2004
+Comment=popular first person shooter
+Icon=/usr/share/pixmaps/Unreal.ico
+TryExec=/opt/ut2004/System/ut2004-bin-linux-amd64
+Exec=/opt/ut2004/System/ut2004-bin-linux-amd64
+Categories=Application;Game;
+X-AppInstall-Package=ut2004-anthology
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=ut2004-anthology 3369-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ut2004-anthology
+X-Arch-Package-Version=3369-1
+X-Arch-Package-Description=Unreal Tournament 2004, installation from Unreal Anthology
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.unrealtournament.com/
+X-Arch-Package-Votes=4

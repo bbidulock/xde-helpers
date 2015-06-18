@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=iTest
+GenericName=iTestClient
+Comment=used as a client programme
+Icon=itestclient
+TryExec=/usr/bin/iTestClient
+Exec=iTestClient
+Categories=Education;Qt;
+X-AppInstall-Package=itest
+X-AppInstall-Section=aur
+X-Arch-Package=itest 1.4.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=itest
+X-Arch-Package-Version=1.4.0-1
+X-Arch-Package-Description=Server and Client designed for easy computerised examination.
+X-Arch-Package-URL=http://itest.sourceforge.net/

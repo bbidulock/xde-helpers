@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=odvr GUI
+Name[en_US]=odvr
+GenericName=Olympus DVR Reader
+Comment=Tool for reading files from Olympus digital voice recorders
+TryExec=/usr/bin/odvr-gui
+Exec=odvr-gui
+Categories=Application;AudioVideo;Audio;Utility;
+StartupNotify=true
+X-AppInstall-Package=odvr
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=odvr 0.1.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=odvr
+X-Arch-Package-Version=0.1.5-1
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/odvr/
+X-Arch-Package-Votes=8

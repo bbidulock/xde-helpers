@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Cinnamon Weather Configurator
+Comment=Configure the Cinnamon Weather extension
+Icon=preferences-system-time
+TryExec=/usr/bin/cinnamon-weather-extension-config
+Exec=cinnamon-weather-extension-config
+Categories=Settings;GNOME;GTK;
+StartupNotify=false
+X-AppInstall-Package=cinnamon-extensions-git
+X-AppInstall-Section=aur
+X-Arch-Package=cinnamon-extensions-git 20120314-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cinnamon-extensions-git
+X-Arch-Package-Version=20120314-1
+X-Arch-Package-Description=Extensions for Cinnamon
+X-Arch-Package-URL=https://github.com/linuxmint/cinnamon-extensions

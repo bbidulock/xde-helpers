@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Pencil (create cartoons)
+Name[de]=Pencil (Zeichentrickfilme erstellen)
+Icon=/usr/share/pixmaps/pencil.png
+TryExec=/usr/bin/pencil
+Exec=pencil %F
+Categories=Graphics;2DGraphics;
+X-AppInstall-Package=pencilanimation
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=pencilanimation 0.9.7-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pencilanimation
+X-Arch-Package-Version=0.9.7-2
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pencil-animation.org/
+X-Arch-Package-Votes=3

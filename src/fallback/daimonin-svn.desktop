@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Daimonin (SVN version)
+GenericName=Free MMORPG game
+Comment=Free, open source, Massively Multiplayer Online RPG game - SVN version
+Icon=daimonin-svn
+TryExec=/usr/bin/daimonin-svn
+Exec=daimonin-svn
+Categories=Game;
+X-AppInstall-Package=daimonin-svn
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=daimonin-svn 6022-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=daimonin-svn
+X-Arch-Package-Version=6022-1
+X-Arch-Package-Description=A SVN version of free, open source, Massively Multiplayer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.daimonin.org/
+X-Arch-Package-Votes=1

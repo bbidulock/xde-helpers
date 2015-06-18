@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=YNAB3
+Comment=You Need A Budged
+Icon=Ynab3-AppIcon.png
+TryExec=/usr/bin/ynab3
+Exec=ynab3
+X-MultipleArgs=false
+Categories=Office;
+StartupNotify=true
+X-AppInstall-Package=ynab3
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=ynab3 3.6.0.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ynab3
+X-Arch-Package-Version=3.6.0.5-1
+X-Arch-Package-Description=YNAB3 - You Need a Budget, latest version will be downloaded
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.youneedabudget.com/
+X-Arch-Package-Votes=1

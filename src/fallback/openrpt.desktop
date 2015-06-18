@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=3.3.0
+Type=Application
+Name=openRPT
+GenericName=openRPT
+Comment=Free Open Source SQL Report Writer
+Icon=/usr/share/pixmaps/OpenReportsIcon48.png
+TryExec=/opt/openrpt/openrpt
+Exec=/opt/openrpt/openrpt
+Categories=Development;Qt;
+X-AppInstall-Package=openrpt
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=openrpt 3.3.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=openrpt
+X-Arch-Package-Version=3.3.0-2
+X-Arch-Package-Description=Free Open Source SQL Report Writer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.xtuple.com/openrpt
+X-Arch-Package-Votes=3

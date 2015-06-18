@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Oracle SQL Database Modeling
+Name[cs_CZ]=oracle-datamodeler
+Comment=A graphical tool for database modeling.
+Icon=/opt/oracle-datamodeler/datamodeler/icon.png
+TryExec=/opt/oracle-datamodeler/bin/oracle-datamodeler
+Exec=/opt/oracle-datamodeler/bin/oracle-datamodeler
+Categories=Development;
+StartupNotify=true
+X-AppInstall-Package=oracle-datamodeler
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=oracle-datamodeler 4.0.3.853-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=oracle-datamodeler
+X-Arch-Package-Version=4.0.3.853-1
+X-Arch-Package-Description=A graphical tool for database modeling
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.oracle.com/technetwork/developer-tools/datamodeler/overview/index.html
+X-Arch-Package-Votes=7

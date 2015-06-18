@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Cloud9 IDE
+Icon=cloud9
+TryExec=/usr/bin/cloud9
+Exec=/usr/bin/cloud9
+Categories=Development;
+MimeType=text/html;
+X-AppInstall-Package=cloud9-git
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=cloud9-git 9384.5b62a7c-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cloud9-git
+X-Arch-Package-Version=9384.5b62a7c-1
+X-Arch-Package-Description=Cloud9 IDE - Your code anywhere, anytime. Open Source
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/ajaxorg/cloud9
+X-Arch-Package-Votes=7
+Description=Your code anywhere, anytime.

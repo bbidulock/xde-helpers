@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Starstructor
+GenericName=Starbound Dungeon Editor
+Icon=starstructor.png
+TryExec=/usr/bin/starstructor
+Exec=starstructor
+Categories=Game;Editor;
+X-AppInstall-Package=starstructor-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=starstructor-git 80-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=starstructor-git
+X-Arch-Package-Version=80-1
+X-Arch-Package-Description=Starstructor is a graphical .dungeon and .structure (ship)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://community.playstarbound.com/index.php?resources/starstructor-the-starbound-toolset.152/
+X-Arch-Package-Votes=1

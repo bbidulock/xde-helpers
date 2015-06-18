@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Mutant Factions
+Comment=Free multiplayer action game.
+Icon=mutantfactions
+TryExec=/usr/bin/mutantfactions
+Exec=mutantfactions
+Categories=Game;
+X-AppInstall-Package=mutantfactions
+X-AppInstall-Section=aur
+X-Arch-Package=mutantfactions 1.03-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mutantfactions
+X-Arch-Package-Version=1.03-1
+X-Arch-Package-Description=Free multiplayer action game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://mutantfactions.net
+X-Arch-Package-Votes=0

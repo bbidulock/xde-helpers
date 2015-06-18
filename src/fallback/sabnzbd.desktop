@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=SABnzbd+
+GenericName=Binary Newsreader
+Icon=/opt/sabnzbd/sab2_64.png
+TryExec=/usr/bin/sh
+Exec=sh /opt/sabnzbd/addnzb.sh %u
+Categories=Network;
+MimeType=application/x-nzb;
+X-AppInstall-Package=sabnzbd
+X-AppInstall-Popcon=210
+X-AppInstall-Section=aur
+X-Arch-Package=sabnzbd 0.7.20-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sabnzbd
+X-Arch-Package-Version=0.7.20-1
+X-Arch-Package-Description=A web-interface based binary newsgrabber with NZB file support
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.sabnzbd.org
+X-Arch-Package-Votes=210

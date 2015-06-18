@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Android Studio
+Comment=Develop with pleasure!
+Icon=android-studio
+TryExec=/usr/bin/android-studio
+Exec=android-studio %f
+Categories=Development;IDE;
+MimeType=application/x-extension-iml;
+StartupNotify=true
+StartupWMClass=jetbrains-android-studio
+X-AppInstall-Package=android-studio
+X-AppInstall-Popcon=353
+X-AppInstall-Section=aur
+X-Arch-Package=android-studio 1.2.2.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=android-studio
+X-Arch-Package-Version=1.2.2.0-1
+X-Arch-Package-Description=A new Android development environment based on IntelliJ IDEA.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://developer.android.com/sdk/installing/studio.html
+X-Arch-Package-Votes=353

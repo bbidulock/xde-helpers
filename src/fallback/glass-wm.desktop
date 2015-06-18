@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Glass
+Comment=small, extensible, window manager
+TryExec=/usr/bin/glass-wm
+Exec=glass-wm
+X-AppInstall-Package=glass-wm-git
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=glass-wm-git 0.1.r4.g351cb77-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=glass-wm-git
+X-Arch-Package-Version=0.1.r4.g351cb77-1
+X-Arch-Package-Description=A small, extensible, window manager.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/cdbfoster/glass
+X-Arch-Package-Votes=2
+DesktopNames=glass
+X-LightDM-DesktopName=glass

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Archipel Client GUI
+Comment=Client GUI for connecting to Archipel XMPP Server
+Icon=archipel
+TryExec=/usr/bin/xdg-open
+Exec=xdg-open "file:///usr/share/archipel/index.html"
+NoDisplay=true
+Categories=System;
+StartupNotify=true
+X-AppInstall-Package=archipel-client
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=archipel-client 0.6.0.beta-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=archipel-client
+X-Arch-Package-Version=0.6.0.beta-1
+X-Arch-Package-Description=A solution to manage and supervise virtual machines. (GUI)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://archipelproject.org/
+X-Arch-Package-Votes=5
+Aliases=archipel;

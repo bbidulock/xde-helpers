@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=QLE
+Comment=QSO logger and log editor
+Icon=qle.png
+TryExec=/usr/bin/qle
+Exec=/usr/bin/qle
+X-DCOP-ServiceType=none
+Categories=Application;HamRadio;
+MimeType=text/plain;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=qle
+X-AppInstall-Section=aur
+X-Arch-Package=qle 0.0.39-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qle
+X-Arch-Package-Version=0.0.39-2
+X-Arch-Package-Description=QSO logger and log editor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://home.kpn.nl/w.knol18/qle/qle.html
+X-Arch-Package-Votes=0

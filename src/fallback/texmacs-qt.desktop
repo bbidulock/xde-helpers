@@ -1,0 +1,26 @@
+[Desktop Entry]
+Type=Application
+Name=TeXmacs
+GenericName=GNU TeXmacs Editor
+GenericName[es]=Editor GNU TeXmacs
+Comment=A structured wysiwyg scientific text editor and graphical frontend to various CASes
+Comment[es]=GNU TeXmacs es un editor de texto cientifico libre e interface de programas CAS
+Icon=texmacs
+TryExec=/usr/bin/texmacs
+Exec=texmacs %f
+NoDisplay=true
+Hidden=true
+Categories=Science;Math;
+MimeType=text/x-texmacs;text/plain;text/x-tex;
+X-AppInstall-Package=texmacs-qt
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=texmacs-qt 1.0.7.21-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=texmacs-qt
+X-Arch-Package-Version=1.0.7.21-1
+X-Arch-Package-Description=WYSIWYG Qt4 editor and graphical frontend to various CASes
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://texmacs.org/
+X-Arch-Package-Votes=8
+Aliases=texmacs;

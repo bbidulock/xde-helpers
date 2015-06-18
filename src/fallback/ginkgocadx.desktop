@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Ginkgo CADx
+GenericName=DICOM viewer
+Comment=Complete DICOM viewer solution
+Icon=ginkgocadx
+TryExec=/usr/bin/ginkgocadx
+Exec=ginkgocadx
+Categories=Graphics;3DGraphics;Viewer;
+X-KDE-StartupNotify=true
+X-AppInstall-Package=ginkgo-cadx-2
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=ginkgo-cadx-2 2.14.0.4972-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ginkgo-cadx-2
+X-Arch-Package-Version=2.14.0.4972-2
+X-Arch-Package-Description=Complete DICOM viewer solution
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ginkgo-cadx.com/
+X-Arch-Package-Votes=1

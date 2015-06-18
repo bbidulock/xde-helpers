@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Furius Cipher
+Comment=A simple PyGTK client for AES encryption
+Icon=furiuscipher
+TryExec=/usr/bin/furiuscipher
+Exec=furiuscipher
+Categories=System;Security;
+X-AppInstall-Package=furiuscipher
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=furiuscipher 1.0.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=furiuscipher
+X-Arch-Package-Version=1.0.0-2
+X-Arch-Package-Description=A simple PyGTK client for encrypting and decrypting text via
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.marcus-furius.com/?page_id=23
+X-Arch-Package-Votes=3

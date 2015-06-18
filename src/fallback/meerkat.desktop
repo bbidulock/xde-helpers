@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Meerkat viewer
+Comment=A client for connecting to 3D metaverses such as Second Life(tm)
+Icon=meerkat-256
+TryExec=/usr/bin/meerkat-bin
+Exec=meerkat-bin
+Categories=Game;Simulation;
+StartupNotify=true
+X-AppInstall-Package=meerkat-svn
+X-AppInstall-Section=aur
+X-Arch-Package=meerkat-svn 213-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=meerkat-svn
+X-Arch-Package-Version=213-1
+X-Arch-Package-Description=Meerkat is a fully open source fork of the Second Life viewer.
+X-Arch-Package-URL=http://meerkatviewer.org/

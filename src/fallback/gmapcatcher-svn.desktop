@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=GMapCatcher
+Comment=Offline maps viewer
+Comment[es]=Bajar y ver mapas sin conexion
+Icon=/usr/share/pixmaps/google_maps_icon.png
+TryExec=/usr/bin/gmapcatcher
+Exec=gmapcatcher
+NoDisplay=true
+Categories=Utility;
+StartupNotify=true
+X-AppInstall-Package=gmapcatcher-svn
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=gmapcatcher-svn 1568-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gmapcatcher-svn
+X-Arch-Package-Version=1568-1
+X-Arch-Package-Description=GMapCatcher is an offline maps viewer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/gmapcatcher
+X-Arch-Package-Votes=5
+Aliases=gmapcatcher;

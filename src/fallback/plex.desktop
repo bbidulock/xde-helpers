@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Plex
+Comment=Plex Media Server
+Icon=plex-icon
+TryExec=/usr/lib/plexmediaserver/start.sh
+Exec=/usr/lib/plexmediaserver/start.sh
+Categories=AudioVideo;Video;Player;
+StartupNotify=false
+X-AppInstall-Package=plex
+X-AppInstall-Section=aur
+X-Arch-Package=plex 0.9.7.12.407-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=plex
+X-Arch-Package-Version=0.9.7.12.407-1
+X-Arch-Package-Description=Plex Media Server
+X-Arch-Package-URL=http://www.plexapp.com/linux

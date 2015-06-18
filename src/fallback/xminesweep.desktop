@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=xminesweep
+Comment=X11 minesweeper game
+Icon=xminesweep
+TryExec=/usr/bin/xminesweep
+Exec=xminesweep
+Categories=Game;LogicGame;
+X-AppInstall-Package=xminesweep
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=xminesweep 3.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xminesweep
+X-Arch-Package-Version=3.0-1
+X-Arch-Package-Description=X11 minesweeeper game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=ftp://ftp.slackware.com/pub/slackware/slackware-current/source/xap/xgames
+X-Arch-Package-Votes=1

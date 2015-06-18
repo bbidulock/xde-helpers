@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=PDF Studio 9
+Comment=Views and Edits Adobe PDF (acrobat) files
+Icon=pdfstudio
+TryExec=/usr/bin/pdfstudio
+Exec=pdfstudio %f
+Categories=Office;
+MimeType=application/pdf;
+X-AppInstall-Package=pdfstudio
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=pdfstudio 10.0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pdfstudio
+X-Arch-Package-Version=10.0.1-1
+X-Arch-Package-Description=Review, annotate, and edit PDF Documents
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.qoppa.com/pdfstudio/
+X-Arch-Package-Votes=2

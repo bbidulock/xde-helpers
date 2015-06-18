@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=X.Org Edit
+GenericName=A GUI editor for the X.Org configuration file
+Comment=A GUI editor for the X.Org configuration file
+TryExec=/usr/bin/xorg-edit
+Exec=xorg-edit
+Categories=Settings;DesktopSettings;HardwareSettings;GTK;Gnome;
+X-KDE-StartupNotify=true
+X-AppInstall-Package=-
+X-AppInstall-Popcon=17
+X-AppInstall-Section=aur
+X-Arch-Package=xorg-edit 08.08.06-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=-
+X-Arch-Package-Version=08.08.06-2
+X-Arch-Package-Description=A GUI editor for the X.Org configuration file
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.deesaster.org/progxorg.php
+X-Arch-Package-Votes=17

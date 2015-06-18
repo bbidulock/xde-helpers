@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Imposto de Renda Pessoa Física
+Comment=Programa Oficial da Receita para elaboração do IRPF
+Icon=irpf
+TryExec=/usr/bin/irpf
+Exec=irpf
+Categories=Network;
+StartupNotify=true
+X-AppInstall-Package=irpf
+X-AppInstall-Popcon=14
+X-AppInstall-Section=aur
+X-Arch-Package=irpf 2015.1.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=irpf
+X-Arch-Package-Version=2015.1.2-1
+X-Arch-Package-Description=Programa Oficial da Receita para elaboração do IRPF
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.receita.fazenda.gov.br
+X-Arch-Package-Votes=14

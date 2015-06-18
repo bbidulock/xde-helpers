@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=IB TWS
+GenericName=Trade Work Station
+Comment=Interactive Brokers' Trade Workstation, uid: edemo, passwd: demouser
+Icon=IBJts_64x64.gif
+TryExec=/opt/IBJts/IBJts.sh
+Exec=/opt/IBJts/IBJts.sh
+NoDisplay=true
+Categories=Application;Network;Office;
+X-AppInstall-Package=ibjts
+X-AppInstall-Section=aur
+X-Arch-Package=ibjts 933-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ibjts
+X-Arch-Package-Version=933-3
+X-Arch-Package-Description=Interactive Brokers Trade Workstation
+X-Arch-Package-URL=http://www.interactivebrokers.com/
+Aliases=IBJts;
+X-Debian-Standards-Version=3.8.0

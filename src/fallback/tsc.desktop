@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=The Secret Chronicles of Dr. M
+Icon=tsc
+TryExec=/usr/bin/tsc
+Exec=tsc
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=tsc
+X-AppInstall-Section=aur
+X-Arch-Package=tsc 2.0.0b7-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tsc
+X-Arch-Package-Version=2.0.0b7-1
+X-Arch-Package-Description=The Secret Chronicles of Dr. M.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.secretchronicles.de/en/
+X-Arch-Package-Votes=0

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Attesoro
+Comment=A free, open source, translation editor for Java programs
+Icon=attesoro
+TryExec=/usr/bin/attesoro
+Exec=attesoro
+Categories=Development;Translation;
+StartupNotify=true
+X-AppInstall-Package=attesoro
+X-AppInstall-Section=aur
+X-Arch-Package=attesoro 1.8.01-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=attesoro
+X-Arch-Package-Version=1.8.01-1
+X-Arch-Package-Description=A free, open source, translation editor for Java programs.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://attesoro.org/
+X-Arch-Package-Votes=0

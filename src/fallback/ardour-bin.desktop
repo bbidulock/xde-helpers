@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Ardour
+Comment=Ardour Digital Audio Workstation
+Icon=ardour
+TryExec=/usr/bin/ardour-bin
+Exec=ardour-bin
+X-MultipleArgs=false
+Categories=AudioVideo;Audio;Video;AudioVideoEditing;GTK;
+MimeType=application/x-ardour;
+X-AppInstall-Package=ardour-bin
+X-AppInstall-Popcon=31
+X-AppInstall-Section=aur
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package=ardour-bin 3.0beta5_13072-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ardour-bin
+X-Arch-Package-Version=3.0beta5_13072-1
+X-Arch-Package-Description=A multichannel hard disk recorder and digital audio workstation
+X-Arch-Package-URL=http://ardour.org/
+X-Arch-Package-Votes=31

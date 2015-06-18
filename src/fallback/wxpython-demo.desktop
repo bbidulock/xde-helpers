@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=2.8.12.0
+Type=Application
+Name=wxPython-demo
+Comment=Demo for wxPython
+Icon=/opt/wxpython-demo/demo/wxpdemo.ico
+TryExec=/usr/bin/python2
+Exec=/usr/bin/python2 /opt/wxpython-demo/demo/demo.py
+Categories=Development;
+MimeType=application/x-wxg;
+X-AppInstall-Package=wxpython-demo
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=wxpython-demo 3.0.0.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wxpython-demo
+X-Arch-Package-Version=3.0.0.0-1
+X-Arch-Package-Description=The source code for the wxPython demo and other sample
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.wxpython.org
+X-Arch-Package-Votes=8

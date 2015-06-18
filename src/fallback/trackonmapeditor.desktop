@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Track On Map Editor
+Comment=GPX editor with map underlay.
+Icon=/usr/share/pixmaps/trackonmapeditor.png
+TryExec=/usr/bin/trackonmapeditor
+Exec=trackonmapeditor
+Categories=Science;Geography;Maps;
+StartupNotify=true
+X-AppInstall-Package=trackonmapeditor
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=trackonmapeditor 0.24-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=trackonmapeditor
+X-Arch-Package-Version=0.24-1
+X-Arch-Package-Description=GPX editor with map underlay
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.fi.muni.cz/~xsnajdr/trackEditor/
+X-Arch-Package-Votes=4

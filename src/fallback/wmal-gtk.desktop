@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=wMAL
+Comment=wMAL Updater (Gtk-frontend)
+Icon=wmal
+TryExec=/usr/bin/trackma-gtk
+Exec=trackma-gtk
+OnlyShowIn=GNOME;
+Categories=Network;
+StartupWMClass=trackma-gtk
+X-AppInstall-Package=wmal-git
+X-AppInstall-Section=aur
+X-Arch-Package=wmal-git 0.2.r377.g004925d-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wmal-git
+X-Arch-Package-Version=0.2.r377.g004925d-2
+X-Arch-Package-Description=A lightweight and simple updater for MyAnimeList, Melative or VNDB.
+X-Arch-Package-URL=http://z411.github.io/wmal-python/

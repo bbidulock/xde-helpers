@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Data Crow
+Comment=Movie, video, book, image, software, and music cataloger/media manager.
+Icon=datacrow
+TryExec=/usr/bin/datacrow
+Exec=java -jar -Xmx256m /opt/datacrow/datacrow.jar
+Categories=Office;
+X-AppInstall-Package=datacrow
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=datacrow 3.12.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=datacrow
+X-Arch-Package-Version=3.12.5-1
+X-Arch-Package-Description=Movie, video, book, image, software, and music cataloger/media
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://datacrow.net/
+X-Arch-Package-Votes=3

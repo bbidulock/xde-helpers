@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Secret Agent 1: The Hunt For Red Rock Rover
+GenericName=Side-scrolling platform game
+GenericName[fr]=Jeu de plateforme
+Icon=sam1
+TryExec=/usr/bin/sam1
+Exec=sam1
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=secret-agent-1
+X-AppInstall-Section=aur
+X-Arch-Package=secret-agent-1 1.0a-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=secret-agent-1
+X-Arch-Package-Version=1.0a-1
+X-Arch-Package-Description=Side-scrolling platform game (uses DOSBox)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.3drealms.com/agent/
+X-Arch-Package-Votes=0

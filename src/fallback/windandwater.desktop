@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Wind and Water: Puzzle Battles
+GenericName=Wind and Water: Puzzle Battles
+Comment=Arcade style puzzle game
+Icon=/opt/windandwater/WindAndWater.png
+TryExec=/usr/bin/windandwater
+Exec=windandwater
+Terminal=false
+Categories=Game;PuzzleGame;
+X-AppInstall-Package=windandwater
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=windandwater 1.05a-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=windandwater
+X-Arch-Package-Version=1.05a-3
+X-Arch-Package-Description=Very polished and addictive arcade puzzle game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.wind-water.net/
+X-Arch-Package-Votes=1

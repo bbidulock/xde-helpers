@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=JDownloader
+TryExec=/usr/bin/JDownloader
+Exec=JDownloader --focus -co %F
+NoDisplay=true
+MimeType=application/x-dlc-container;application/x-ccf-container;application/x-rsdf-container;
+X-AppInstall-Package=jdownloader2
+X-AppInstall-Popcon=172
+X-AppInstall-Section=aur
+X-Arch-Package=jdownloader2 latest-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jdownloader2
+X-Arch-Package-Version=latest-5
+X-Arch-Package-Description=Download manager, written in Java, for one-click hosting sites
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://jdownloader.org/
+X-Arch-Package-Votes=172

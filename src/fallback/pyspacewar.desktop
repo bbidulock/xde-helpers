@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=PySpaceWar
+Comment=Open source game loosely based on the original Spacewar
+Icon=pyspacewar.svg
+TryExec=/usr/bin/pyspacewar
+Exec=pyspacewar
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=pyspacewar
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=pyspacewar 0.9.7-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pyspacewar
+X-Arch-Package-Version=0.9.7-3
+X-Arch-Package-Description=Open source game loosely based on the original Spacewar
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://mg.pov.lt/pyspacewar/
+X-Arch-Package-Votes=8

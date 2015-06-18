@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Tower of Guns
+GenericName=Tower of Guns
+Comment=Tower of Guns
+Icon=/opt/tower-of-guns/TowerOfGunsIcon.png
+TryExec="/usr/bin/tower-of-guns"
+Exec="/usr/bin/tower-of-guns"
+Categories=Game;
+Path=/opt/tower-of-guns
+X-AppInstall-Package=tower-of-guns
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=tower-of-guns 1414520623-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tower-of-guns
+X-Arch-Package-Version=1414520623-1
+X-Arch-Package-Description=Tower of Guns is a fast-paced, first-person shooter for the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.towerofguns.com/
+X-Arch-Package-Votes=2
+Value=1.0

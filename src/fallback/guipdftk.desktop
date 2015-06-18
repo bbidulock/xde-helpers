@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=GUI for PDFtk
+GenericName=GUI for PDFtk
+Comment=GUI for PDFtk Tools
+Icon=okular
+TryExec=/usr/bin/guipdftk
+Exec=guipdftk
+Categories=Office;System;Utility;
+X-AppInstall-Package=guipdftk
+X-AppInstall-Popcon=24
+X-AppInstall-Section=aur
+X-Arch-Package=guipdftk 0.33-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=guipdftk
+X-Arch-Package-Version=0.33-3
+X-Arch-Package-Description=GUI for PDFTK, lazarus-gtk2 needed
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.paehl.de/pdf/gui_pdftk.html
+X-Arch-Package-Votes=24

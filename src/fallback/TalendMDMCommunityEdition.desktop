@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Talend MDM
+Comment=Master Data Management Suite
+Icon=/opt/talend-mdm/icon.gif
+TryExec=/usr/bin/talend-mdm
+Exec=talend-mdm
+Categories=Office;
+X-AppInstall-Package=talend-mdm
+X-AppInstall-Section=aur
+X-Arch-Package=talend-mdm 5.4.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=talend-mdm
+X-Arch-Package-Version=5.4.1-1
+X-Arch-Package-Description=Master Data Management software suite.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.talend.com
+X-Arch-Package-Votes=0

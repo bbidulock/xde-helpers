@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Glest
+Comment=Glest - 3D RTS game
+Icon=glest.png
+TryExec=/opt/glest/bin/glest
+Exec=/opt/glest/bin/glest
+Categories=Game;StrategyGame;
+X-AppInstall-Package=glest
+X-AppInstall-Popcon=69
+X-AppInstall-Section=aur
+X-Arch-Package=glest 3.2.2-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=glest
+X-Arch-Package-Version=3.2.2-5
+X-Arch-Package-Description=Cross-platform 3D realtime strategy game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/glest
+X-Arch-Package-Votes=69

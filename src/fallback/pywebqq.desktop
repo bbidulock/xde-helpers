@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=PyWebQQ
+Icon=/usr/share/pywebqq/QQ.png
+TryExec=/usr/bin/pywebqq
+Exec=pywebqq
+Categories=Network;InstantMessaging;
+StartupNotify=true
+X-AppInstall-Package=python-webqq-svn
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=python-webqq-svn 15-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=python-webqq-svn
+X-Arch-Package-Version=15-2
+X-Arch-Package-Description=A WebQQ client based on python-webkit.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/python-webqq/
+X-Arch-Package-Votes=13

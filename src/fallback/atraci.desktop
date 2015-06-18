@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Atraci
+Comment=Free music streaming player
+Icon=atraci
+TryExec=/usr/bin/atraci
+Exec=atraci %U
+Categories=AudioVideo;Video;Network;Player;
+X-AppInstall-Package=atraci
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=atraci 0.7.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=atraci
+X-Arch-Package-Version=0.7.0-1
+X-Arch-Package-Description=Free music streaming player
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://getatraci.net/
+X-Arch-Package-Votes=1

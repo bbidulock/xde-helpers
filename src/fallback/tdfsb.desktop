@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Tdfsb
+Comment=SDL based graphical file browser
+Icon=/usr/share/pixmaps/tdfsb.png
+TryExec=/usr/bin/tdfsb
+Exec=tdfsb
+Categories=Application;System;
+StartupNotify=true
+X-AppInstall-Package=tdfsb
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=tdfsb
+X-Arch-Package-Version=0.0.10-7
+X-Arch-Package-Description=SDL based graphical file browser
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.determinate.net/webdata/seg/tdfsb.html

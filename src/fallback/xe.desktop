@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=xe-bin
+GenericName=Xe
+Comment=Xe is a multi system emulator that emulates many console and handheld video game systems of the past
+Icon=/usr/share/pixmaps/xe.png
+TryExec=/usr/bin/xe
+Exec=/usr/bin/xe
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=xe-bin
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=xe-bin 2.16.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xe-bin
+X-Arch-Package-Version=2.16.2-2
+X-Arch-Package-Description=Xe is a multi system emulator that emulates many console and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.xe-emulator.com/
+X-Arch-Package-Votes=9

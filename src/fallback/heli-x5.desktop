@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=5.0.1401
+Type=Application
+Name=Heli X5
+Comment=Professional R/C helicopter flight simulator
+Icon=/usr/share/pixmaps/heli-x5.png
+TryExec=/usr/bin/heli-x5
+Exec=/usr/bin/heli-x5
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=heli-x5
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=heli-x5 5.0.1401-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=heli-x5
+X-Arch-Package-Version=5.0.1401-4
+X-Arch-Package-Description=Older depreciated professional R/C helicopter flight simulator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.heli-x.net/
+X-Arch-Package-Votes=1

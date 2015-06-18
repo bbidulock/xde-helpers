@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=Uninstall MyEclipse 2015
+Name[zh_CN]=卸载 MyEclipse 2015
+Name[zh_TW]=解除安裝 MyEclipse 2015
+Comment=Uninstall MyEclipse 2015
+Comment[zh_CN]=卸载 MyEclipse 2015
+Comment[zh_TW]=解除安裝 MyEclipse 2015
+Icon=/usr/share/pixmaps/Uninstall_MyEclipse_2015.png
+TryExec=/usr/share/myeclipse-pro/Uninstaller/one-uninstall
+Exec=/usr/share/myeclipse-pro/Uninstaller/one-uninstall
+Categories=Development;IDE;Java;
+StartupNotify=true
+X-AppInstall-Package=myeclipse-pro
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=myeclipse-pro 13.0.0-1.1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=myeclipse-pro
+X-Arch-Package-Version=13.0.0-1.1
+X-Arch-Package-Description=A commercially available Java EE and Ajax IDE, built upon the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://www.genuitec.com/products/myeclipse/
+X-Arch-Package-Votes=1
+Blueprint=2063-Axa-9367

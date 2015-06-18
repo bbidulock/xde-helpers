@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Qt Designer (5.1.1)
+GenericName=Interface Designer
+Comment=Design GUIs for Qt applications
+Icon=designer-qt51
+TryExec=/opt/qt51/bin/designer
+Exec=/opt/qt51/bin/designer
+Categories=Development;Qt;
+MimeType=application/x-designer;
+X-AppInstall-Package=qt51
+X-AppInstall-Section=aur
+X-Arch-Package=qt51 5.1.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qt51
+X-Arch-Package-Version=5.1.1-2
+X-Arch-Package-Groups=qt51;
+X-Arch-Package-URL=http://qt-project.org/

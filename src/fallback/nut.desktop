@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Nut
+Comment=Analyze meals with the USDA Nutrient Database
+Icon=nut
+TryExec=/usr/bin/Nut
+Exec=Nut
+Categories=Education;MedicalSoftware;
+StartupNotify=false
+X-AppInstall-Package=nut
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=nut 18.7-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nut
+X-Arch-Package-Version=18.7-1
+X-Arch-Package-Description=Analyze meals with the USDA Nutrient Database
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://nut.sourceforge.net/
+X-Arch-Package-Votes=1

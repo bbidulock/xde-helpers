@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=PotCoin
+Comment=PotCoin P2P Cryptocurrency
+Icon=/usr/share/pixmaps/potcoin.png
+TryExec=/usr/bin/potcoin-qt
+Exec=/usr/bin/potcoin-qt
+Categories=Network;
+MimeType=x-scheme-handler/potcoin;
+X-AppInstall-Package=potcoin-qt-git
+X-AppInstall-Section=aur
+X-Arch-Package=potcoin-qt-git 0.8.6.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=potcoin-qt-git
+X-Arch-Package-Version=0.8.6.3-1
+X-Arch-Package-Description=Cryptocurrency
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://potcoin.info/
+X-Arch-Package-Votes=0

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=pdf2img-pyqt4
+GenericName=Convert PDF to multiple images.
+Icon=/usr/share/pixmaps/pdf2img_icon.png
+TryExec=/usr/bin/pdf2img
+Exec=pdf2img
+Categories=Application;Utility;
+X-AppInstall-Package=pdf2img-git
+X-AppInstall-Section=aur
+X-Arch-Package=pdf2img-git 76.69d9e51-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pdf2img-git
+X-Arch-Package-Version=76.69d9e51-1
+X-Arch-Package-Description=Convert easily PDF to multiple images in various formats with
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/wifiextender/pdf2png
+X-Arch-Package-Votes=0

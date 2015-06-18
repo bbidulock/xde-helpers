@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Archimedes-CAD
+Comment=An architecture open CAD
+Icon=/usr/share/pixmaps/Archimedes
+TryExec=/usr/bin/Archimedes
+Exec=/usr/bin/Archimedes
+NoDisplay=true
+Categories=Application;Office;
+StartupNotify=true
+X-AppInstall-Package=archimedes-cad
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=archimedes-cad 0.66.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=archimedes-cad
+X-Arch-Package-Version=0.66.1-1
+X-Arch-Package-Description=An architecture open CAD
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://archimedescad.github.io/Archimedes/
+X-Arch-Package-Votes=4
+Aliases=Archimedes;

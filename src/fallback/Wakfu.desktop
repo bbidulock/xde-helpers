@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Wakfu
+GenericName=Wakfu
+Comment=Wakfu
+Icon=/opt/wakfu/icon.png
+TryExec=/opt/wakfu/wakfu
+Exec=/opt/wakfu/wakfu
+Categories=Game;RolePlaying;Ankama-Games;
+Path=/opt/wakfu/
+X-AppInstall-Package=wakfu-x86_64
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=wakfu-x86_64 1.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wakfu-x86_64
+X-Arch-Package-Version=1.0-2
+X-Arch-Package-Description=A turn-based tactical Massively Multiplayer Online
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.wakfu.com/
+X-Arch-Package-Votes=1

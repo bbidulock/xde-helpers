@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Pida
+Comment=Python Integrated Development Application
+Icon=pida
+TryExec=/usr/bin/pida
+Exec=pida %F
+NoDisplay=true
+Categories=Application;Development;IDE;
+X-AppInstall-Package=gnome-pida
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=gnome-pida 0.6.2-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gnome-pida
+X-Arch-Package-Version=0.6.2-3
+X-Arch-Package-Description=A flexible IDE for any programming language, specially python
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pida.co.uk
+X-Arch-Package-Votes=8
+Aliases=pida;

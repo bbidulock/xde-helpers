@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=JediAcademyLinux
+Comment=Singleplayer Open Source Jedi Knight III Engine
+Icon=jediacademylinux.png
+TryExec=/usr/bin/jediacademylinux
+Exec=/usr/bin/jediacademylinux
+NoDisplay=true
+Categories=Game;
+Path=/usr/share/jediacademylinux
+StartupNotify=false
+X-AppInstall-Package=jediacademylinux-git
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=jediacademylinux-git 7de0de0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jediacademylinux-git
+X-Arch-Package-Version=7de0de0-1
+X-Arch-Package-Description=Singleplayer Jedi Knight III: Jedi Academy. needs original
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/xLAva/JediAcademyLinux
+X-Arch-Package-Votes=7
+Aliases=jediacademylinux;

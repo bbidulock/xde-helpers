@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Raptor
+GenericName=GUI for FICS & BICS
+Icon=/usr/share/pixmaps/raptor.gif
+TryExec=/usr/bin/raptor
+Exec=raptor
+Categories=Game;BoardGame;
+X-AppInstall-Package=raptor-chess-interface
+X-AppInstall-Popcon=24
+X-AppInstall-Section=aur
+X-Arch-Package=raptor-chess-interface 98u3f5-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=raptor-chess-interface
+X-Arch-Package-Version=98u3f5-2
+X-Arch-Package-Description=Raptor is a cross platform chess interface and pgn viewer that
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/raptor-chess-interface/
+X-Arch-Package-Votes=24

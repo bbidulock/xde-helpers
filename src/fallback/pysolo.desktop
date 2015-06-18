@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=pySolo
+Comment=A software for sleep analysis in Drosophila
+Icon=/opt/pysolo/img/pysolo.png
+TryExec=/usr/bin/pysolo
+Exec=/usr/bin/pysolo
+Categories=Education;Science;Biology;
+StartupNotify=false
+X-AppInstall-Package=pysolo
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=pysolo 1.0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pysolo
+X-Arch-Package-Version=1.0.1-1
+X-Arch-Package-Description=A software for sleep analysis in Drosophila
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.pysolo.net
+X-Arch-Package-Votes=1

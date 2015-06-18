@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=MathGraph
+GenericName=MathGraph
+TryExec=/usr/bin/java
+Exec=java -jar /usr/local/mathgraph/MathGraph32.jar
+MultipleArgs=false
+Categories=Application;Science;
+StartupNotify=false
+X-AppInstall-Package=mathgraph
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=mathgraph 4.9-71
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mathgraph
+X-Arch-Package-Version=4.9-71
+X-Arch-Package-Description=Simple maths drawer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.mathgraph32.org/
+X-Arch-Package-Votes=1

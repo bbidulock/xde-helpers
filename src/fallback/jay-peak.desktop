@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Virtual-Jay-Peak
+Icon=jay-peak
+TryExec=/usr/bin/jay-peak
+Exec=jay-peak
+Categories=Application;Game;
+X-AppInstall-Package=virtual-jay-peak
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=virtual-jay-peak 1.1a-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=virtual-jay-peak
+X-Arch-Package-Version=1.1a-3
+X-Arch-Package-Description=Virtual Jay Peak is a simulation of snowboarding at the Jay
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://soulride.com/products/jay_peak.html
+X-Arch-Package-Votes=2

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=PodNova
+GenericName=PodCast aggregator
+Icon=podnova
+TryExec=/usr/bin/podnova
+Exec=/usr/bin/podnova
+MultipleArgs=false
+Categories=Application;Network;
+MimeType=application/rss+xml;
+StartupNotify=false
+X-AppInstall-Package=podnova
+X-AppInstall-Section=aur
+X-Arch-Package=podnova 2.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=podnova
+X-Arch-Package-Version=2.2-2
+X-Arch-Package-Description=A desktop-client for www.podnova.com written in python
+X-Arch-Package-URL=http://www.podnova.com

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=NetBeans IDE
+Comment=A Java (SE) IDE
+Icon=/usr/share/netbeans/nb/netbeans.png
+TryExec=/usr/share/netbeans/bin/netbeans
+Exec=/usr/share/netbeans/bin/netbeans --laf GTK
+NoDisplay=true
+Categories=Development;
+StartupNotify=true
+X-AppInstall-Package=-javase-es
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=netbeans-javase-es 8.0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=-javase-es
+X-Arch-Package-Version=8.0.1-1
+X-Arch-Package-Description=Oracle's Java (SE) IDE in Spanish
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://netbeans.org
+X-Arch-Package-Votes=1
+Aliases=netbeans;

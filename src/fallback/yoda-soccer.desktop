@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Yoda Soccer
+GenericName=yoda-soccer
+Comment=A game with the gameplay and the style of Sensible World of Soccer (SWOS) or Kick Off
+Icon=yoda-soccer.png
+TryExec=/usr/bin/yoda-soccer
+Exec=yoda-soccer
+Categories=Game;Arcade;
+X-AppInstall-Package=yoda-soccer
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=yoda-soccer 0.77-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=yoda-soccer
+X-Arch-Package-Version=0.77-1
+X-Arch-Package-Description=A game with the gameplay and the style of Sensible World of
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://yodasoccer.sourceforge.net/
+X-Arch-Package-Votes=5

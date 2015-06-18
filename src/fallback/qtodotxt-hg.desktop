@@ -1,0 +1,22 @@
+[Desktop Entry]
+Version=0.1.0
+Type=Application
+Name=QTodo.txt
+Comment=GUI for todo.txt lists
+Icon=qtodotxt
+TryExec=/usr/bin/qtodotxt
+Exec=/usr/bin/qtodotxt
+NoDisplay=true
+Categories=Utility;Qt;
+X-AppInstall-Package=qtodotxt-hg
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=qtodotxt-hg 0.1.0-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qtodotxt-hg
+X-Arch-Package-Version=0.1.0-4
+X-Arch-Package-Description=QTodoTxt - UI for lifehacker.com's todo.txt files (see
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://bitbucket.org/3david/qtodotxt
+X-Arch-Package-Votes=4
+Aliases=qtodotxt;

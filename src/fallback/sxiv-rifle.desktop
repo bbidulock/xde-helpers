@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=sxiv-rifle
+GenericName=Image Viewer
+Icon=sxiv.png
+TryExec=/usr/bin/sxiv-rifle
+Exec=sxiv-rifle %F
+MimeType=image/bmp;image/gif;image/jpeg;image/jpg;image/png;image/tiff;image/x-bmp;
+X-AppInstall-Package=sxiv-rifle
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=sxiv-rifle 1.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sxiv-rifle
+X-Arch-Package-Version=1.3-1
+X-Arch-Package-Description=Browse through images in directory after opening a single file
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://wiki.archlinux.org/index.php/Sxiv#Browse_through_images_in_directory_after_opening_a_single_file
+X-Arch-Package-Votes=6

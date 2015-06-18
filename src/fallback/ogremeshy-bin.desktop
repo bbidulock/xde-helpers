@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=ogremeshy
+Comment=a simple, powerful, easy to use mesh viewer for OGRE 3D
+TryExec=/usr/bin/ogremeshy
+Exec=ogremeshy
+NoDisplay=true
+Categories=Development;Graphics;
+X-AppInstall-Package=ogremeshy-bin
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=ogremeshy-bin 1.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ogremeshy-bin
+X-Arch-Package-Version=1.5-1
+X-Arch-Package-Description=Ogre Meshy is a tool for viewing OGRE mesh files.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/ogremeshy/
+X-Arch-Package-Votes=1
+Aliases=ogremeshy;

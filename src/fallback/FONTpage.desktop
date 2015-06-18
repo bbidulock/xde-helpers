@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=FONTpage
+GenericName=FONTpage
+Comment=A font viewer and graphic utility
+Icon=FONTpage.png
+TryExec=/usr/bin/fontpage.py
+Exec=fontpage.py
+Categories=Graphics;
+X-AppInstall-Package=fontpage
+X-AppInstall-Popcon=37
+X-AppInstall-Section=aur
+X-Arch-Package=fontpage 3.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fontpage
+X-Arch-Package-Version=3.0-3
+X-Arch-Package-Description=A font viewer and graphic utility, view system fonts, install
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.absolutelinux.org/FONTpage.shtml
+X-Arch-Package-Votes=37

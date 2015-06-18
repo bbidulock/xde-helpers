@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=BitAddress
+GenericName=Bitcoin Paper Wallet Utility
+Comment=JavaScript Client-Side Bitcoin Wallet Generator
+TryExec=/usr/bin/bitaddress
+Exec=bitaddress
+Categories=Utility;Finance;
+X-AppInstall-Package=bitaddress-git
+X-AppInstall-Section=aur
+X-Arch-Package=bitaddress-git v2.9.8.r0.g6ad40b3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bitaddress-git
+X-Arch-Package-Version=v2.9.8.r0.g6ad40b3-1
+X-Arch-Package-Description=JavaScript Client-Side Bitcoin Wallet Generator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://www.bitaddress.org
+X-Arch-Package-Votes=0

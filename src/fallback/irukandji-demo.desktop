@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Irukandji Demo
+GenericName=Irukandji Demo
+Comment=Irukandji is a fun score attack shooter, set in an abstract underwater trench. You fly your ship against the flow of hundreds of amazing procedurally animated sea monsters, blasting your way to the final showdown – a Giant Enemy Crab!
+Icon=/usr/share/pixmaps/Irukandji-demo.png
+TryExec=/usr/bin/irukandji-demo
+Exec=irukandji-demo
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=irukandji-demo
+X-AppInstall-Section=aur
+X-Arch-Package=irukandji-demo 1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=irukandji-demo
+X-Arch-Package-Version=1.0-1
+X-Arch-Package-Description=Irukandji is a fun score attack shooter, set in an abstract
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.charliesgames.com/wordpress/?page_id=399
+X-Arch-Package-Votes=0

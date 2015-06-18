@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=e-Deklaracje
+Icon=/usr/share/pixmaps/e-deklaracje.png
+TryExec=/opt/e-deklaracje/adobe-air_e-deklaracje
+Exec=/opt/e-deklaracje/adobe-air_e-deklaracje /opt/e-deklaracje/e-deklaracje.air
+Categories=Office;
+X-AppInstall-Package=e-deklaracje
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=e-deklaracje 7.0.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=e-deklaracje
+X-Arch-Package-Version=7.0.3-1
+X-Arch-Package-Description=Program to tax settlements in Poland
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.finanse.mf.gov.pl/systemy-informatyczne/e-deklaracje
+X-Arch-Package-Votes=5

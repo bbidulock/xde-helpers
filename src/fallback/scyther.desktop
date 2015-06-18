@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Scyther
+Comment=Scyther protocol verifier
+Icon=text-editor
+TryExec=/usr/bin/scyther
+Exec=scyther
+Categories=Development;ComputerScience;Security;
+X-AppInstall-Package=scyther
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=scyther v1.1.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=scyther
+X-Arch-Package-Version=v1.1.3-1
+X-Arch-Package-Description=Tool for the symbolic analysis of security protocols
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://people.inf.ethz.ch/cremersc/scyther/
+X-Arch-Package-Votes=1

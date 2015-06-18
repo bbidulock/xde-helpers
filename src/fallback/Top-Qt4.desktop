@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Top-Qt4
+Comment=Top Command for Qt4
+Icon=applications-utilities.png
+TryExec=/usr/bin/Top
+Exec=/usr/bin/Top
+Categories=Utility;KDE;Qt;
+X-AppInstall-Package=top-qt4
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=top-qt4 2.0.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=top-qt4
+X-Arch-Package-Version=2.0.6-1
+X-Arch-Package-Description=A windowed version of the console top command for Qt4
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=None
+X-Arch-Package-Votes=1
+MiniIcon=applications-utilities.png

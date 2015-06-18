@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=MediaDownloader
+GenericName=MediaDownloader
+Icon=/usr/share/pixmaps/mediadownloader.png
+TryExec=/usr/bin/mediadownloader
+Exec=/usr/bin/mediadownloader
+Categories=Application;AudioVideo;Audio;Multimedia;
+X-AppInstall-Package=mediadownloader
+X-AppInstall-Popcon=14
+X-AppInstall-Section=aur
+X-Arch-Package=mediadownloader 1.5.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mediadownloader
+X-Arch-Package-Version=1.5.2-2
+X-Arch-Package-Description=Watch, preview, slideshow, download from YouTube and Google
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://mediadownloader.cz.cc/
+X-Arch-Package-Votes=14

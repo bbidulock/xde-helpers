@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Snowglobe (Second Life)
+Comment=Snowglobe is an open source Second Life-compatible viewer, built jointly by the open source community and Linden Lab.
+Icon=/usr/share/pixmaps/snowglobe.png
+TryExec=/usr/bin/snowglobe
+Exec=/usr/bin/snowglobe
+Categories=Game;
+X-AppInstall-Package=snowglobe-bin
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=snowglobe-bin 1.4.2.3626-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=snowglobe-bin
+X-Arch-Package-Version=1.4.2.3626-1
+X-Arch-Package-Description=Snowglobe is an open source Second Life-compatible viewer,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.secondlife.com/
+X-Arch-Package-Votes=4

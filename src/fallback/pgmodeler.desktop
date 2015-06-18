@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=pgModeler
+Comment=PostgreSQL Database Modeler a CASE tool for modeling PostgreSQL databases.
+Icon=pgmodeler
+TryExec=/usr/bin/pgmodeler
+Exec=pgmodeler
+Categories=Application;Development;
+StartupNotify=true
+X-AppInstall-Package=pgmodeler
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=pgmodeler 0.8.1_alpha1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pgmodeler
+X-Arch-Package-Version=0.8.1_alpha1-1
+X-Arch-Package-Description=PostgreSQL Database Modeler: an open source CASE tool for
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.pgmodeler.com.br/
+X-Arch-Package-Votes=13

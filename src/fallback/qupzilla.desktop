@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=QupZilla
+Name[sr]=Купзила
+Icon=qupzilla
+TryExec=/usr/bin/qupzilla
+Exec=qupzilla %U
+Categories=Network;WebBrowser;Qt;
+StartupNotify=true
+X-XFCE-Binaries=qupzilla;
+X-XFCE-Category=WebBrowser
+X-XFCE-Commands=%B;
+X-XFCE-CommandsWithParameter=%B "%s";
+X-AppInstall-Package=qupzilla
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=qupzilla
+X-Arch-Package-Version=1.8.6-1
+X-Arch-Package-Description=Cross-platform QtWebKit browser (Qt5)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.qupzilla.com/

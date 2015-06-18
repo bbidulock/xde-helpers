@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=MakeHuman
+Comment=Model and pose a 3D humanoid
+Comment[cs]=Tvorba humanoidních postav
+Comment[de]=Modelliere und posiere einen 3D Humanoiden
+Icon=makehuman
+TryExec=/usr/bin/makehuman
+Exec=makehuman
+X-MultipleArgs=false
+NoDisplay=true
+Categories=Graphics;3DGraphics;
+X-AppInstall-Package=makehuman-svn
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=makehuman-svn 5231-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=makehuman-svn
+X-Arch-Package-Version=5231-1
+X-Arch-Package-Description=Parametrical modeling program for creating human bodies
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.makehuman.org/
+X-Arch-Package-Votes=1
+Aliases=makehuman;

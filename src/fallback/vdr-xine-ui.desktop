@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=VDR - xine-ui
+Comment=Remote frontend to VDR xine-lib output plugin
+Icon=monitor
+TryExec=/usr/bin/xine
+Exec=/usr/bin/xine --no-splash --hide-gui --no-lirc "xvdr://127.0.0.1#nocache;demux:mpeg_block"
+Categories=Application;AudioVideo;Video;TV;Multimedia;
+StartupNotify=true
+X-AppInstall-Package=vdr-xineliboutput-cvs
+X-AppInstall-Section=aur
+X-Arch-Package=vdr-xineliboutput-cvs 20140323-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=vdr-xineliboutput-cvs
+X-Arch-Package-Version=20140323-1
+X-Arch-Package-Description=A VDR plugin that allows VDR to be used with budget cards
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/xineliboutput/
+X-Arch-Package-Votes=0

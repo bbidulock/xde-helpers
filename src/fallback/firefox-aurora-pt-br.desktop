@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Aurora
+GenericName=Web Browser
+Icon=firefox-aurora-icon
+TryExec=/usr/bin/firefox-aurora
+Exec=firefox-aurora %u
+MultipleArgs=false
+Categories=Application;Network;
+MimeType=text/html;text/xml;application/xhtml+xml;application/xml;application/vnd.mozilla.xul+xml;application/rss+xml;application/rdf+xml;image/gif;image/jpeg;image/png;x-scheme-handler/http;x-scheme-handler/https;x-scheme-handler/ftp;x-scheme-handler/chrome;
+StartupNotify=false
+X-AppInstall-Package=firefox-aurora-pt-br
+X-AppInstall-Section=aur
+X-Arch-Package=firefox-aurora-pt-br 32.0a2-20140707-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firefox-aurora-pt-br
+X-Arch-Package-Version=32.0a2-20140707-1
+X-Arch-Package-Description=Firefox Aurora channel - Nightly build - Brazilian Portuguese
+X-Arch-Package-URL=http://www.mozilla.org/en-US/firefox/aurora

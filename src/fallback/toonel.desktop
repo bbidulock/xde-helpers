@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Toonel
+TryExec=/usr/bin/toonel
+Exec=toonel
+Categories=Application;Network;
+MimeType=text/html;
+X-AppInstall-Package=toonel
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=toonel 005050-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=toonel
+X-Arch-Package-Version=005050-1
+X-Arch-Package-Description=toonel.net offers a technique to conserve network bandwidth by
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.toonel.net/
+X-Arch-Package-Votes=6

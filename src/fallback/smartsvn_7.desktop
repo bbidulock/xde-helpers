@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=SmartSVN7
+Comment=A graphical Subversion client
+Comment[de]=Ein grafischer Subversion Client
+Icon=/opt/smartsvn/bin/smartsvn.svg
+TryExec=/usr/bin/smartsvn7
+Exec=smartsvn7
+X-MultipleArgs=false
+Categories=Development;
+MimeType=application/smartsvn;application/x-smartsvn;
+X-AppInstall-Package=smartsvn_7
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=smartsvn_7 7.0.1.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=smartsvn_7
+X-Arch-Package-Version=7.0.1.3-1
+X-Arch-Package-Description=A Subversion(SVN) GUI client written in Java for SVN 1.7 -
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.syntevo.com/smartsvn/index.html
+X-Arch-Package-Votes=1

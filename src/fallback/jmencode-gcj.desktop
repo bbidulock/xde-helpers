@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=JMencode(gcj)
+GenericName=Audio/Video Encoder (gcj)
+Comment=Java GUI for mencode (gcj)
+Icon=jmencode-gcj.png
+TryExec=/usr/bin/jmencode-gcj
+Exec=jmencode-gcj
+Categories=AudioVideo;AudioVideoEditing;Java;
+X-AppInstall-Package=jmencode-gcj
+X-AppInstall-Section=aur
+X-Arch-Package=jmencode-gcj 0.64-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jmencode-gcj
+X-Arch-Package-Version=0.64-5
+X-Arch-Package-Description=Java GUI for encoding video with mencoder (gcj compiled).
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://jmencode.sourceforge.net
+X-Arch-Package-Votes=0

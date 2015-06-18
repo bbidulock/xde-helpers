@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=chibitracker
+GenericName=A portable Impulse Tracker clone
+Icon=chibitracker
+TryExec=/usr/bin/chibitracker
+Exec=chibitracker
+Categories=AudioVideo;
+X-AppInstall-Package=chibitracker
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=chibitracker 1.2-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=chibitracker
+X-Arch-Package-Version=1.2-3
+X-Arch-Package-Description=A portable Impulse Tracker clone.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/chibitracker.berlios/
+X-Arch-Package-Votes=8

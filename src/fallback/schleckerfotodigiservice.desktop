@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Schlecker Foto Digital Service
+Comment=Offline client for cewe.de service
+Icon=schleckerfotodigiservice.xpm
+TryExec=/usr/bin/SchleckerFotoDigitalService
+Exec=SchleckerFotoDigitalService
+Categories=Graphics;Photography;
+X-AppInstall-Package=mullerfoto-fotostar_de
+X-AppInstall-Section=aur
+X-Arch-Package=mullerfoto-fotostar_de 4.6.8-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mullerfoto-fotostar_de
+X-Arch-Package-Version=4.6.8-2
+X-Arch-Package-Description=an offline client for uploading and ordering photos at cewe.de
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.cewe.de/
+X-Arch-Package-Votes=0

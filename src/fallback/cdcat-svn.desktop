@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=CdCat the Hyper's CdCatalog
+GenericName=CD/DVD Catalog
+Comment=CD/DVD Catalog Tool
+Icon=cdcat
+TryExec=/usr/bin/cdcat
+Exec=cdcat
+NoDisplay=true
+Categories=Application;AudioVideo;Video;DiscBurning;
+StartupNotify=true
+X-AppInstall-Package=cdcat-svn
+X-AppInstall-Section=aur
+X-Arch-Package=cdcat-svn 20120402-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cdcat-svn
+X-Arch-Package-Version=20120402-3
+X-Arch-Package-Description=CD/DVD/Media catalog software (QT based)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://cdcat.sourceforge.net/
+X-Arch-Package-Votes=0
+Aliases=cdcat;

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=BillionCoin
+Comment=BillionCoin P2P Cryptocurrency
+Icon=/usr/share/pixmaps/billioncoin.png
+TryExec=/usr/bin/billioncoin-qt
+Exec=/usr/bin/billioncoin-qt
+Categories=Network;
+MimeType=x-scheme-handler/Billioncoin;
+X-AppInstall-Package=billioncoin-qt-git
+X-AppInstall-Section=aur
+X-Arch-Package=billioncoin-qt-git 0.8.5.r45.g6b3776c-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=billioncoin-qt-git
+X-Arch-Package-Version=0.8.5.r45.g6b3776c-2
+X-Arch-Package-Description=Cryptocurrency
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://bitcointalk.org/index.php?topic=374073.0
+X-Arch-Package-Votes=0

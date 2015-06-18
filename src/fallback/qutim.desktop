@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=QutIM
+GenericName=QutIM Instant Messenger
+Comment=Client for several messaging networks
+Icon=qutim.png
+TryExec=/usr/bin/qutim
+Exec=qutim
+Categories=Application;Network;
+X-AppInstall-Package=qutim-icq
+X-AppInstall-Section=aur
+X-Arch-Package=qutim-icq 0.2_alpha-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qutim-icq
+X-Arch-Package-Version=0.2_alpha-1
+X-Arch-Package-Description=A free ICQ client using the QT toolkit
+X-Arch-Package-URL=http://qutim.org/

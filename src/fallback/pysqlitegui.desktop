@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=pySQLiteGUI
+GenericName=SQLite Administration Tool
+Comment=A GUI tool for creating and managing SQLite databases
+Icon=pysqlitegui
+TryExec=/usr/bin/pysqlitegui
+Exec=pysqlitegui
+Categories=Office;Database;GTK;
+X-AppInstall-Package=pysqlitegui
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=pysqlitegui 0.0.8RC0-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pysqlitegui
+X-Arch-Package-Version=0.0.8RC0-5
+X-Arch-Package-Description=A GUI tool for creating and managing SQLite databases
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/slashmili/PySQLiteGUI
+X-Arch-Package-Votes=5

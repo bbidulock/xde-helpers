@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Boncuk
+Comment=Online/Offline Dictionary
+Comment[tr]=Çevrimiçi ve Çevrimdışı Sözlük
+Icon=boncuk
+TryExec=/usr/bin/boncuk
+Exec=boncuk
+Categories=Utility;
+StartupNotify=true
+X-AppInstall-Package=boncuk
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=boncuk 1.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=boncuk
+X-Arch-Package-Version=1.1-2
+X-Arch-Package-Description=Simple English-Turkish dictionary
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pysozluk-qt.sourceforge.net/
+X-Arch-Package-Votes=4

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Legend of Grimrock
+Icon=/usr/share/legend-of-grimrock/grimrock.png
+TryExec=/usr/bin/legend-of-grimrock
+Exec=/usr/bin/legend-of-grimrock
+Categories=Game;RolePlaying;
+X-AppInstall-Package=legend-of-grimrock
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=legend-of-grimrock 20130515-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=legend-of-grimrock
+X-Arch-Package-Version=20130515-1
+X-Arch-Package-Description=A 3D grid-based dungeon crawler inspired by classic 1980s and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.grimrock.net/
+X-Arch-Package-Votes=10

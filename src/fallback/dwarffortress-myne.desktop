@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Dwarf Fortress
+GenericName=Dwarf Fortress
+Comment=A single-player fantasy game.
+Icon=dwarffortress
+TryExec=/usr/bin/dwarffortress-myne
+Exec=dwarffortress-myne
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=dwarffortress-myne
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=dwarffortress-myne 0.40.09-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dwarffortress-myne
+X-Arch-Package-Version=0.40.09-1
+X-Arch-Package-Description=A single-player fantasy game. You control a dwarven outpost or
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.bay12games.com/dwarves/
+X-Arch-Package-Votes=1
+Aliases=dwarffortress;

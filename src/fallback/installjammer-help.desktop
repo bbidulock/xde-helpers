@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=InstallJammer Help
+TryExec='/usr/share/installjammer/Binaries/Linux-x86/xdg-utils/xdg-open'
+Exec='/usr/share/installjammer/Binaries/Linux-x86/xdg-utils/xdg-open' '/usr/share/installjammer/docs/html/index.html'
+X-AppInstall-Package=installjammer
+X-AppInstall-Section=aur
+X-Arch-Package=installjammer 1.2.15-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=installjammer
+X-Arch-Package-Version=1.2.15-1
+X-Arch-Package-Description=A multiplatform GUI installer, built upon Tcl/Tk
+X-Arch-Package-URL=http://www.installjammer.com/

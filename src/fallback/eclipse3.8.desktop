@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Eclipse
+Comment=A Java Development Environment
+Icon=eclipse
+TryExec=/usr/bin/eclipse
+Exec=eclipse
+NoDisplay=true
+Categories=Development;IDE;Java;
+StartupNotify=true
+X-AppInstall-Package=eclipse3.8
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=eclipse3.8 3.8.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=eclipse3.8
+X-Arch-Package-Version=3.8.2-1
+X-Arch-Package-Description=An IDE for Java and other languages - 3.8 - simultaneously
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.eclipse.org/
+X-Arch-Package-Votes=4
+Aliases=eclipse;

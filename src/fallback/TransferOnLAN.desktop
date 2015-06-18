@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Transfer files (or folders) on a local network
+GenericName=TransferOnLAN
+Comment=Transfer files (or folders) on a local network
+Comment[it]=Trasferimento files (o cartelle) in local network
+Icon=TransferOnLAN
+TryExec=/usr/bin/TransferOnLAN
+Exec=TransferOnLAN
+Categories=Network;FileTransfer;Java;Internet;
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=transferonlan
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=transferonlan 0.5.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=transferonlan
+X-Arch-Package-Version=0.5.1-1
+X-Arch-Package-Description=Transfer on LAN is a software that allows multiple users to
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://code.google.com/p/transfer-on-lan/
+X-Arch-Package-Votes=2

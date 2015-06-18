@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Fly8
+Comment=A portable multiplayer flight simulator
+Icon=fly8
+TryExec=/usr/bin/fly8
+Exec=fly8
+Categories=Game;Simulation;
+X-AppInstall-Package=fly8
+X-AppInstall-Section=aur
+X-Arch-Package=fly8 1.12-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fly8
+X-Arch-Package-Version=1.12-1
+X-Arch-Package-Description=A portable multiplayer flight simulator
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.samba.org/ftp/eyal/fly8/
+X-Arch-Package-Votes=0

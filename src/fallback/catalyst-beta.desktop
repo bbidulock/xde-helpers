@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=ATI Catalyst Control Center
+Comment=ATI graphics adapter settings
+Comment[de]=ATI grafics adapter settings
+Icon=ccc_large
+TryExec=/usr/bin/amdcccle
+Exec=amdcccle
+NoDisplay=true
+Categories=Settings;DesktopSettings;
+X-AppInstall-Package=catalyst-beta
+X-AppInstall-Section=aur
+X-Arch-Package=catalyst-beta 8.670-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=catalyst-beta
+X-Arch-Package-Version=8.670-3
+X-Arch-Package-Description=AMD/ATI beta drivers for Radeon brand cards with support for OpenCL. Stock kernel.
+X-Arch-Package-URL=http://www.ati.amd.com
+Aliases=amdcccle;
+MiniIcon=ccc_small

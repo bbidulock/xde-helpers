@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Brütal Legend
+GenericName=Brütal Legend
+Comment=Play Brütal Legend
+Icon=brutal-legend-hib
+TryExec=/usr/bin/brutal-legend-hib
+Exec=brutal-legend-hib
+Categories=Application;AudioVideo;Game;
+StartupNotify=true
+X-AppInstall-Package=brutal-legend-hib
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=brutal-legend-hib 2013_06_15-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=brutal-legend-hib
+X-Arch-Package-Version=2013_06_15-1
+X-Arch-Package-Description=Brütal Legend is an action-adventure game with real-time
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.brutallegend.com
+X-Arch-Package-Votes=2

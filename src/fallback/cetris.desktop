@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Cetris
+Name[it_IT]=cetris
+Comment=A cool looking Tetris game
+Icon=cetris.png
+TryExec=/usr/bin/cetris
+Exec=cetris
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=cetris
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=cetris 0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=cetris
+X-Arch-Package-Version=0.1-1
+X-Arch-Package-Description=cetris: A cool looking Tetris game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/cecco4/cetris
+X-Arch-Package-Votes=3

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=NightSkyHD
+GenericName=Action Physics Puzzle Game
+Comment=NICALiS
+Icon=NightSkyHD
+TryExec=/usr/bin/NightSkyHD
+Exec=/usr/bin/NightSkyHD
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=nightskyhd-hib
+X-AppInstall-Section=aur
+X-Arch-Package=nightskyhd-hib 1-0
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=nightskyhd-hib
+X-Arch-Package-Version=1-0
+X-Arch-Package-Description=Part action and part physics puzzler, NightSky tests your reflexes and logical thinking. (Humble Bundle version)
+X-Arch-Package-URL=http://www.nicalis.com/nightsky/

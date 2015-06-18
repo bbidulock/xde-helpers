@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=MoioSMS
+GenericName=SMS Client
+Comment=A program to send SMS via web
+Icon=moiosms
+TryExec=/usr/bin/moiosms
+Exec=moiosms
+Categories=Application;Network;
+StartupNotify=true
+X-KDE-StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=moiosms
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=moiosms 2.18-6
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=moiosms
+X-Arch-Package-Version=2.18-6
+X-Arch-Package-Description=A program to send SMS via web
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.moioli.net/sms
+X-Arch-Package-Votes=6
+MapNotify=true

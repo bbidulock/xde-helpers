@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Prey (Demo)
+GenericName=Prey (Demo)
+Comment=Single and Multiplayer First Person Shooter
+Icon=/opt/prey-demo/prey.png
+TryExec=/usr/bin/prey-demo
+Exec=/usr/bin/prey-demo
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=prey-demo
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=prey-demo 02192009-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=prey-demo
+X-Arch-Package-Version=02192009-1
+X-Arch-Package-Description=Prey is a first person shooter based on the id Tech 4 engine
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://icculus.org/prey/
+X-Arch-Package-Votes=8

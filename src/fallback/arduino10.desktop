@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Arduino
+GenericName=Arduino IDE
+Comment=The open-source Arduino environment
+Icon=arduino
+TryExec=/usr/bin/arduino
+Exec=arduino %U
+NoDisplay=true
+Categories=Development;
+MimeType=text/x-arduino;
+X-AppInstall-Package=arduino10
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=arduino10 1.0.6-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=arduino10
+X-Arch-Package-Version=1.0.6-2
+X-Arch-Package-Description=Arduino prototyping platform SDK (old version)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://arduino.cc/en/Main/Software
+X-Arch-Package-Votes=4
+Aliases=arduino;

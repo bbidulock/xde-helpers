@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Reduce
+GenericName=Reduce Algebra System
+Comment=A portable general-purpose computer algebra system
+Icon=reduce-algebra
+TryExec=/usr/bin/reduce
+Exec=reduce
+Terminal=true
+NoDisplay=true
+Categories=Education;Science;Math;
+X-AppInstall-Package=reduce-algebra-svn
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=reduce-algebra-svn 20130708-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=reduce-algebra-svn
+X-Arch-Package-Version=20130708-1
+X-Arch-Package-Description=A portable general-purpose computer algebra system
+X-Arch-Package-Groups=science
+X-Arch-Package-URL=http://reduce-algebra.sourceforge.net/
+X-Arch-Package-Votes=1
+Aliases=reduce;

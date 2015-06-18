@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=soapUI
+GenericName=Grafical interface for testing Web Services
+GenericName[es]=Interfaz gráfico para probar Servicios Web
+GenericName[fr]=interface graphique de test pour les web services
+Icon=soapui
+TryExec=/usr/bin/soapui
+Exec=soapui %u
+Categories=Development;IDE;
+X-AppInstall-Package=soapui
+X-AppInstall-Popcon=75
+X-AppInstall-Section=aur
+X-Arch-Package=soapui 5.1.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=soapui
+X-Arch-Package-Version=5.1.2-2
+X-Arch-Package-Description=A graphical Java program for inspecting, invoking, monitoring,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.soapui.org/
+X-Arch-Package-Votes=75

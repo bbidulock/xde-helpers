@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=SmartSVN
+Comment=A graphical Subversion client
+Comment[de]=Ein grafischer Subversion Client
+Icon=/opt/smartsvn/bin/smartsvn-64.png
+TryExec=/usr/bin/smartsvn
+Exec=smartsvn
+X-MultipleArgs=false
+Categories=Development;
+MimeType=application/smartsvn;application/x-smartsvn;
+X-AppInstall-Package=smartsvn
+X-AppInstall-Popcon=15
+X-AppInstall-Section=aur
+X-Arch-Package=smartsvn 8.6.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=smartsvn
+X-Arch-Package-Version=8.6.6-1
+X-Arch-Package-Description=A Subversion(SVN) GUI client written in Java
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.smartsvn.com/
+X-Arch-Package-Votes=15

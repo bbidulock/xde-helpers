@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=2299: THE GAME
+Comment=An old-school, point and click adventure game with 8-bit inspired, retro graphics.
+Icon=2299thegame
+TryExec=/usr/bin/2299thegame
+Exec=2299thegame
+Categories=Game;AdventureGame;
+X-AppInstall-Package=2299thegame
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=2299thegame 1.0.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=2299thegame
+X-Arch-Package-Version=1.0.5-1
+X-Arch-Package-Description=An old-school, point and click adventure game with 8-bit
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://lunduke.com/?page_id=2333
+X-Arch-Package-Votes=6

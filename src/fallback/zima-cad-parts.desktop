@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=ZIMA-CAD-Parts
+Comment=a simple application for searching and downloading CAD parts from ZE server
+Icon=zima-cad-parts
+TryExec=/usr/bin/ZIMA-CAD-Parts
+Exec=ZIMA-CAD-Parts
+Categories=Network;
+X-AppInstall-Package=zima-cad-parts
+X-AppInstall-Section=aur
+X-Arch-Package=zima-cad-parts 0.5.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zima-cad-parts
+X-Arch-Package-Version=0.5.0-1
+X-Arch-Package-Description=A simple application for searching and downloading CAD parts
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.zima-engineering.cz/projekty/ZIMA-CAD-Parts/index.html
+X-Arch-Package-Votes=0

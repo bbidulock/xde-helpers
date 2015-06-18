@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=arbaro
+Comment=Arbaro is an implementation of the tree generating
+Icon=/usr/share/pixmaps/arbaro.png
+TryExec=/usr/bin/arbaro.sh
+Exec=/usr/bin/arbaro.sh
+Categories=Application;Graphics;
+X-AppInstall-Package=arbaro
+X-AppInstall-Section=aur
+X-Arch-Package=arbaro 1_9_8-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=arbaro
+X-Arch-Package-Version=1_9_8-1
+X-Arch-Package-Description=Arbaro, tree generating algorithm for povray, it's written in Java
+X-Arch-Package-URL=http://arbaro.sourceforge.net/

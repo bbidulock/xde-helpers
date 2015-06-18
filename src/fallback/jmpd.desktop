@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=jMPD
+GenericName=MPD client
+Comment=A simple Java client for MPD
+Icon=jmpd
+TryExec=/usr/bin/jmpd
+Exec=jmpd
+Categories=Audio;Player;
+X-AppInstall-Package=jmpd
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=jmpd 0.1.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jmpd
+X-Arch-Package-Version=0.1.2-1
+X-Arch-Package-Description=A simple Java client for MPD
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://en.tom000.info/portfolio/jmpd_-_mpd_client.html
+X-Arch-Package-Votes=3

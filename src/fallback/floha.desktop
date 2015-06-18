@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=Floha
+TryExec=/usr/bin/floha
+Exec=floha
+Categories=Multimedia;
+X-AppInstall-Package=floha
+X-AppInstall-Section=aur
+X-Arch-Package=floha 0.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=floha
+X-Arch-Package-Version=0.3-1
+X-Arch-Package-Description=A Qt frontend for FFMpeg to batch encode audios and videos.
+X-Arch-Package-Groups=multimedia;
+X-Arch-Package-URL=http://sumbu.org/node/839

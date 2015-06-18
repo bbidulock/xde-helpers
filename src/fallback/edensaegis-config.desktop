@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Eden's Aegis - configurator
+Comment=A bullet hell shmup
+Icon=edensaegis
+TryExec=/usr/bin/edensaegis-config
+Exec=edensaegis-config
+Categories=Game;
+X-AppInstall-Package=edensaegis
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=edensaegis 1.11-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=edensaegis
+X-Arch-Package-Version=1.11-1
+X-Arch-Package-Description=A freeware bullet hell shooter.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www004.upp.so-net.ne.jp/x_xgameroom/Works/ea/index.html
+X-Arch-Package-Votes=1

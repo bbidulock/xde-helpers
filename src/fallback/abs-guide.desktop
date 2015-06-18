@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=AdvBashGuide
+Comment=Advanced bash scripting guide
+Icon=text-html
+TryExec=/usr/bin/abs-guide
+Exec=abs-guide
+Categories=Development;Utility;
+X-AppInstall-Package=abs-guide
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=abs-guide 10-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=abs-guide
+X-Arch-Package-Version=10-1
+X-Arch-Package-Description=Advanced Bash Scripting HTML Guide
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://bash.deta.in
+X-Arch-Package-Votes=6

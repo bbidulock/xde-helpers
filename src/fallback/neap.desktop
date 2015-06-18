@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Neap
+Comment=A simple pager/desktop switcher
+Comment[fr]=Un pager/changeur de bureau simple
+Icon=workspace-switcher
+TryExec=/usr/bin/neap
+Exec=neap
+Categories=Utility;GTK;
+StartupNotify=true
+X-AppInstall-Package=neap
+X-AppInstall-Popcon=14
+X-AppInstall-Section=aur
+X-Arch-Package=neap 0.7-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=neap
+X-Arch-Package-Version=0.7-3
+X-Arch-Package-Description=A simple pager that runs in the notification area / systray of
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/neap/
+X-Arch-Package-Votes=14

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Protux
+Icon=protux
+TryExec=/usr/bin/protux
+Exec=protux
+NoDisplay=true
+Categories=AudioVideo;Audio;AudioVideoEditing;
+StartupNotify=true
+X-AppInstall-Package=protux
+X-AppInstall-Section=aur
+X-Arch-Package=protux 0.70.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=protux
+X-Arch-Package-Version=0.70.0-1
+X-Arch-Package-Description=is being developed to be a complete Digital Media Production
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://protux.sourceforge.net/
+X-Arch-Package-Votes=0

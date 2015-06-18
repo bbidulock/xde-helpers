@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Sublime Text
+Comment=sophisticated text editor for code, html and prose
+Icon=sublime_text
+TryExec=/usr/bin/subl
+Exec=subl %F
+NoDisplay=true
+Categories=Utility;TextEditor;
+MimeType=text/plain;
+X-AppInstall-Package=sublime-text-imfix
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=sublime-text-imfix 2.0.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sublime-text-imfix
+X-Arch-Package-Version=2.0.2-1
+X-Arch-Package-Description=sophisticated text editor for code, html and prose, a dry
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.sublimetext.com/2
+X-Arch-Package-Votes=10
+Aliases=sublime-text;

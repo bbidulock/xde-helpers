@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=mythfrontend
+Icon=/usr/share/mythtv/html/images/mythtv.png
+TryExec=/usr/bin/mythfrontend
+Exec=/usr/bin/mythfrontend
+Categories=Application;AudioVideo;
+X-AppInstall-Package=mythtv-git-bas-t
+X-AppInstall-Section=aur
+X-Arch-Package=mythtv-git-bas-t 0.xx-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mythtv-git-bas-t
+X-Arch-Package-Version=0.xx-1
+X-Arch-Package-Description=MythTV-git, with modifications from Tycho Lürsen bas-t
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.mythtv.org/
+X-Arch-Package-Votes=0

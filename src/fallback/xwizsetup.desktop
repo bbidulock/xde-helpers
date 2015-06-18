@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=UPS Monitor Wizard Setup
+Comment=Wizard-based UPS Monitor Configurator
+TryExec=/usr/bin/ups-run-as-root
+Exec=ups-run-as-root xwizsetup
+Categories=Application;System;
+X-AppInstall-Package=upsmon
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=upsmon 5.3.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=upsmon
+X-Arch-Package-Version=5.3.0-1
+X-Arch-Package-Description=Powershield 3 UPS Monitor for Riello UPS series
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.riello-ups.com/?en/downloads/1/powershield3-free
+X-Arch-Package-Votes=1

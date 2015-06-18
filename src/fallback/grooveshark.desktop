@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Grooveshark Desktop
+Icon=grooveshark-desktop
+TryExec=/usr/bin/grooveshark-desktop
+Exec=grooveshark-desktop
+Categories=AudioVideo;
+X-AppInstall-Package=grooveshark-desktop
+X-AppInstall-Popcon=17
+X-AppInstall-Section=aur
+X-Arch-Package=grooveshark-desktop 20101222.37-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=grooveshark-desktop
+X-Arch-Package-Version=20101222.37-2
+X-Arch-Package-Description=Grooveshark desktop client for VIP users using adobe-air
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://vip.grooveshark.com/summary
+X-Arch-Package-Votes=17

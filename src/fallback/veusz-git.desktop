@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Veusz
+GenericName=Scientific Plotter
+GenericName[fr]=Grapheur scientifique
+Comment=Produce publication-ready output
+Icon=veusz
+TryExec=/usr/bin/veusz
+Exec=veusz
+NoDisplay=true
+Categories=Science;Math;Qt;
+X-AppInstall-Package=veusz-git
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=veusz-git 1.22+r2541.86be336-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=veusz-git
+X-Arch-Package-Version=1.22+r2541.86be336-1
+X-Arch-Package-Description=A scientific plotting and graphing package, designed to create
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/jeremysanders/veusz
+X-Arch-Package-Votes=2
+Aliases=veusz;

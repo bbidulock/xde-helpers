@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=CrystalMpq Explorer
+GenericName=MPQ Editor
+Icon=crystalmpq.png
+TryExec=/usr/bin/crystalmpqexplorer
+Exec=crystalmpqexplorer
+NoDisplay=true
+Categories=Game;Editor;
+X-AppInstall-Package=crystalmpq
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=crystalmpq 20-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=crystalmpq
+X-Arch-Package-Version=20-1
+X-Arch-Package-Description=Library and set of tools for reading data from MPQ (MoPaQ)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://code.google.com/p/crystalmpq
+X-Arch-Package-Votes=1
+Aliases=crystalmpqexplorer;

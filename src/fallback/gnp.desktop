@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Gambare Natsuki-san
+GenericName=Gambare Natsuki-san
+Comment=Japanese puzzle platformer
+Icon=/opt/gnp/gnp.png
+TryExec=/usr/bin/gnp
+Exec=gnp -fullscreen
+Categories=Game;
+X-AppInstall-Package=gnp
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=gnp 1.04-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gnp
+X-Arch-Package-Version=1.04-1
+X-Arch-Package-Description=Gambare Natsuki-san, a Japanese puzzle platformer inspired by
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://maglog.jp/alpha-secret-base/Article243291.html
+X-Arch-Package-Votes=1

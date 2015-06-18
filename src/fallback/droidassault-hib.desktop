@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Droid Assault
+GenericName=Tactical Shooter
+Comment=A unique tactical arcade shooter, with the fun addictive gameplay of classics like Paradroid and Quazatron.
+Icon=/usr/share/pixmaps/droidassault.png
+TryExec=/usr/bin/droidassault
+Exec=droidassault
+NoDisplay=true
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=droidassault-hib
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=droidassault-hib 1395265019-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=droidassault-hib
+X-Arch-Package-Version=1395265019-2
+X-Arch-Package-Description=A unique tactical arcade shooter, with the fun addictive
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.puppygames.net/droid-assault/
+X-Arch-Package-Votes=1
+Aliases=droidassault;

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=BaseX
+Comment=XML Processing and Visualization
+Icon=/usr/share/java/basex/img/icon.png
+TryExec=/usr/share/java/basex/bin/basexgui
+Exec=/usr/share/java/basex/bin/basexgui
+Categories=Development;
+X-AppInstall-Package=basex
+X-AppInstall-Popcon=16
+X-AppInstall-Section=aur
+X-Arch-Package=basex 8.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=basex
+X-Arch-Package-Version=8.2-1
+X-Arch-Package-Description=Light-weight, high-performance XML database system and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://basex.org/
+X-Arch-Package-Votes=16

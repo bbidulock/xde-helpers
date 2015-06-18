@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=PowerPlay switcher
+Comment=PowerPlay GUI for the open source ATI driver
+Icon=applications-system
+TryExec=/usr/bin/power-play-switcher
+Exec=/usr/bin/power-play-switcher
+Categories=Settings;HardwareSettings;
+X-AppInstall-Package=power-play-switcher
+X-AppInstall-Popcon=23
+X-AppInstall-Section=aur
+X-Arch-Package=power-play-switcher 0.3-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=power-play-switcher
+X-Arch-Package-Version=0.3-2
+X-Arch-Package-Description=PowerPlay GUI for the open source ATI driver.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/power-play-switcher
+X-Arch-Package-Votes=23

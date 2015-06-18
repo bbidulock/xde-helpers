@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=GCounter
+GenericName=Computer shutdown
+Comment=It allows you to shutdown, reboot and suspend your computer at specific time
+Icon=/usr/share/gcounter/data/icon.png
+TryExec=/usr/bin/gcounter
+Exec=gcounter
+Categories=Utility;Applet;
+StartupNotify=true"
+X-AppInstall-Package=gcounter
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=gcounter 1.0rc3-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gcounter
+X-Arch-Package-Version=1.0rc3-2
+X-Arch-Package-Description=GCounter is a small utility that allows you
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://middleofdreams.wordpress.com/gcounter
+X-Arch-Package-Votes=4

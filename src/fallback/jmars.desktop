@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=JMARS
+Icon=/usr/share/jmars/.install4j/jmars.png
+TryExec=/usr/share/jmars/jmars
+Exec=/usr/share/jmars/jmars
+Categories=Application;
+X-AppInstall-Package=jmars
+X-AppInstall-Section=aur
+X-Arch-Package=jmars 3.0.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jmars
+X-Arch-Package-Version=3.0.4-1
+X-Arch-Package-Description='Java Mission-planning and Analysis for Remote Sensing' is a
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://jmars.asu.edu/
+X-Arch-Package-Votes=0

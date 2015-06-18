@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Firefox - Safe Mode
+GenericName=Web Browser - Safe Mode
+Icon=firefox
+TryExec=/usr/bin/firefox
+Exec=firefox -safe-mode %u
+MultipleArgs=false
+Categories=Application;Network;
+StartupNotify=false
+X-AppInstall-Package=firefox2
+X-AppInstall-Section=aur
+X-Arch-Package=firefox2 2.0.0.16-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firefox2
+X-Arch-Package-Version=2.0.0.16-1
+X-Arch-Package-Description=Mozilla Firefox 2 Updated - Based on Arch Linux last official release of Firefox 2 (Apr 18 2008)
+X-Arch-Package-URL=http://www.mozilla.org/projects/firefox

@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Arduino
+GenericName=Arduino IDE
+Comment=The open-source Arduino environment
+Icon=arduino
+TryExec=/usr/bin/arduino
+Exec=arduino %U
+NoDisplay=true
+Categories=Development;
+MimeType=text/x-arduino;
+X-AppInstall-Package=teensyduino
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=teensyduino 1.23-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=teensyduino
+X-Arch-Package-Version=1.23-2
+X-Arch-Package-Description=Arduino SDK with Teensyduino
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.pjrc.com/teensy/teensyduino.html
+X-Arch-Package-Votes=10
+Aliases=arduino;

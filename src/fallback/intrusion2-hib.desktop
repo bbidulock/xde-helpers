@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Intrusion 2
+GenericName=Action Platformer
+Comment=vapgames
+Icon=intrusion2
+TryExec=/usr/bin/intrusion2
+Exec=/usr/bin/intrusion2
+Categories=Game;
+X-AppInstall-Package=intrusion2-hib
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=intrusion2-hib 0_20130604-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=intrusion2-hib
+X-Arch-Package-Version=0_20130604-2
+X-Arch-Package-Description=A 2D action platformer / sidescrolling shooter (Humble Bundle
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://intrusion2.com/
+X-Arch-Package-Votes=2

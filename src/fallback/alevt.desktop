@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=AleVT
+Comment=X11 Teletext browser
+Icon=mini-alevt
+TryExec=/usr/bin/alevt
+Exec=alevt
+Categories=Application;AudioVideo;
+X-AppInstall-Package=alevt
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=alevt 1.6.3-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=alevt
+X-Arch-Package-Version=1.6.3-2
+X-Arch-Package-Description=A teletext/videotext decoder and browser for the vbi device
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.goron.de/~froese
+X-Arch-Package-Votes=13

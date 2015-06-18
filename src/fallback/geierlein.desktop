@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Geierlein
+GenericName=Client for German tax statement
+Icon=/opt/geierlein/chrome/content/img/taxbird-logo-1.jpg
+TryExec=/usr/local/bin/geierlein
+Exec=/usr/local/bin/geierlein
+Categories=Office;Finance;
+X-AppInstall-Package=geierlein
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=geierlein 0.6.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=geierlein
+X-Arch-Package-Version=0.6.5-1
+X-Arch-Package-Description=Client for german tax statement for ELSTER
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://stesie.github.com/geierlein/
+X-Arch-Package-Votes=7

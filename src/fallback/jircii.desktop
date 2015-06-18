@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=jIRCii
+Comment=Cross-platform IRC client written in Java
+Icon=jircii.png
+TryExec=/usr/bin/jircii
+Exec=jircii
+Categories=Network;IRCClient;
+X-AppInstall-Package=jircii
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=jircii 0.9-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jircii
+X-Arch-Package-Version=0.9-1
+X-Arch-Package-Description=Cross-platform IRC client written in Java
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.oldschoolirc.com/
+X-Arch-Package-Votes=1

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Version=3.0
+Type=Application
+Name=IntelliJ IDEA
+GenericName=The most intelligent Java IDE
+Comment=The most intelligent Java IDE
+Icon=intellij_idea
+TryExec=/usr/bin/jetbrains-intellij_idea
+Exec=/usr/bin/jetbrains-intellij_idea
+Categories=Development;
+X-AppInstall-Package=intellij_idea
+X-AppInstall-Section=aur
+X-Arch-Package=intellij_idea 13.1.4b-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=intellij_idea
+X-Arch-Package-Version=13.1.4b-1
+X-Arch-Package-Description=The most intelligent Java IDE.
+X-Arch-Package-URL=http://www.jetbrains.com/idea

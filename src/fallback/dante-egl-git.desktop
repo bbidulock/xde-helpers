@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Dante
+GenericName=Dante
+Icon=/usr/share/pixmaps/dante.png
+TryExec=/usr/bin/dante
+Exec=/usr/bin/dante
+NoDisplay=true
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=dante-egl-git
+X-AppInstall-Section=aur
+X-Arch-Package=dante-egl-git 127.e4da33b-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dante-egl-git
+X-Arch-Package-Version=127.e4da33b-1
+X-Arch-Package-Description=idTech4 ES2.0, aka Oliver's Doom, aka omcfadde's Doom (EGL
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://omcfadde.blogspot.fi/
+X-Arch-Package-Votes=0
+Aliases=dante;

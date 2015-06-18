@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=DROD
+GenericName=drod-ae
+Comment=Simple puzzle game.
+Icon=drod-ae
+TryExec=/usr/bin/drod-ae
+Exec=drod-ae
+Categories=Game;
+StartupNotify=true
+X-AppInstall-Package=drod
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=drod 1.6.7-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=drod
+X-Arch-Package-Version=1.6.7-2
+X-Arch-Package-Description=Control a sword-swinging character that explores dungeons and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://web.archive.org/web/20060304102214/http://www.drod.net/
+X-Arch-Package-Votes=10

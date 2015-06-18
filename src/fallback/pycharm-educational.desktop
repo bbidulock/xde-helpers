@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=PyCharm
+GenericName=Python and Django IDE
+Comment=Powerful Python and Django IDE. Educational edition.
+Icon=pycharm
+TryExec=/usr/bin/pycharm
+Exec=/usr/bin/pycharm
+Categories=Development;IDE;
+StartupNotify=true
+StartupWMClass=jetbrains-pycharm
+X-AppInstall-Package=pycharm-educational
+X-AppInstall-Section=aur
+X-Arch-Package=pycharm-educational 1.0.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pycharm-educational
+X-Arch-Package-Version=1.0.1-2
+X-Arch-Package-Description=Powerful Python and Django IDE. Educational edition.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.jetbrains.com/pycharm/
+X-Arch-Package-Votes=0

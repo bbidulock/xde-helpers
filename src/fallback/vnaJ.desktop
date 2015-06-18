@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=vnaJ
+Comment=MiniVNA MAX6 network analyzer software
+Icon=vnaJ
+TryExec=/usr/bin/vnaJ
+Exec=vnaJ
+Categories=Development;HamRadio;
+StartupNotify=true
+X-AppInstall-Package=vna_j
+X-AppInstall-Section=aur
+X-Arch-Package=vna_j 2.8.6f-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=vna_j
+X-Arch-Package-Version=2.8.6f-1
+X-Arch-Package-Description=HAMRADIO MiniVNA MAX6 network analyser software
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=None
+X-Arch-Package-Votes=0

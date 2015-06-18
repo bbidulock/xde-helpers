@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=jGRASP
+Comment=A lightweight development environment written in Java
+Icon=/opt/jgrasp/data/gric48.png
+TryExec=/opt/jgrasp/bin/jgrasp
+Exec=/opt/jgrasp/bin/jgrasp
+Categories=Application;Development;IDE;
+X-AppInstall-Package=jgrasp
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=jgrasp 2.0.0_14-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jgrasp
+X-Arch-Package-Version=2.0.0_14-2
+X-Arch-Package-Description=An Integrated Development Environment with Visualizations for
+X-Arch-Package-Groups=devel
+X-Arch-Package-URL=http://www.jgrasp.org/
+X-Arch-Package-Votes=1

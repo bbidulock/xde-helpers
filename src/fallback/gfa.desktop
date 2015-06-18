@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=gfa
+Comment=GTK+ fast address
+Icon=/usr/share/gfa/pixmaps/person.png
+TryExec=/usr/bin/gfa
+Exec=gfa
+MultipleArgs=false
+Categories=Application;Utility;
+X-AppInstall-Package=gfa
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=gfa 0.4.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gfa
+X-Arch-Package-Version=0.4.1-2
+X-Arch-Package-Description=gfa is small and fast address book written in C and GTK+2
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gfa.sourceforge.net
+X-Arch-Package-Votes=6

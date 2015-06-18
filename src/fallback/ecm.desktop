@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=KonqPopupMenu/Plugin;
+MimeType=all/allfiles;
+X-AppInstall-Package=ecm
+X-AppInstall-Section=aur
+X-Arch-Package=ecm 1.03-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ecm
+X-Arch-Package-Version=1.03-3
+X-Arch-Package-Description=Converts CD image files into a lossless format optimized for compression tools
+X-Arch-Package-URL=http://www.neillcorlett.com/ecm/
+X-KDE-Priority=TopLevel
+X-KDE-Submenu=ECM Tools
+X-KDE-Submenu[en_GB]=ECM Tools
+X-KDE-Submenu[tr]=ECM Araçları
+Actions=ecm;
+
+[Desktop Action ecm]
+Name=Compress (ecm)
+Name[tr]=Sıkıştır (ecm)
+Icon=ark
+TryExec=/usr/bin/ecm
+Exec=ecm %f

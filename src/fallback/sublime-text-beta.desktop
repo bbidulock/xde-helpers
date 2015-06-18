@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Sublime Text
+Comment=sophisticated text editor for code, html and prose
+Icon=sublime_text
+TryExec=/usr/bin/subl
+Exec=subl %F
+NoDisplay=true
+Categories=Utility;TextEditor;
+MimeType=text/plain;
+X-AppInstall-Package=sublime-text-beta
+X-AppInstall-Section=aur
+X-Arch-Package=sublime-text-beta 3.0.3059-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sublime-text-beta
+X-Arch-Package-Version=3.0.3059-2
+X-Arch-Package-Description=sophisticated text editor for code, html and prose, beta version
+X-Arch-Package-URL=http://www.sublimetext.com/3
+Aliases=sublime-text;

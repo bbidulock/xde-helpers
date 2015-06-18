@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Dicorime
+GenericName=Dicorime
+Comment=A French rime dictionary.
+Icon=dicorime.png
+TryExec=/usr/bin/dicorime
+Exec=dicorime
+NoDisplay=true
+Categories=Office;
+X-AppInstall-Package=dicorime-svn
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=dicorime-svn 109-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dicorime-svn
+X-Arch-Package-Version=109-1
+X-Arch-Package-Description=French rime dictionary
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ignu.ungi.com/tiki-index.php?page=dictionnaire+de+rimes
+X-Arch-Package-Votes=2
+Aliases=dicorime;

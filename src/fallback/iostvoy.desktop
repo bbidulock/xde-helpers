@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Star Trek Voyager: Elite Force
+GenericName=Elite Force
+Comment=Star Trek Voyager: Elite Force ported to the GPL'ed Quake 3 source code
+Icon=/usr/share/pixmaps/stvoyhm.png
+TryExec=/usr/bin/stvoyHM
+Exec=/usr/bin/stvoyHM
+NoDisplay=true
+Categories=Application;Game;KDE;GNOME;Qt;
+StartupNotify=true
+X-AppInstall-Package=iostvoy
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=iostvoy 1.37-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=iostvoy
+X-Arch-Package-Version=1.37-1
+X-Arch-Package-Description=Star Trek Voyager: Elite Force ported to the opensourc'ed
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://thilo.kickchat.com/efport-progress/
+X-Arch-Package-Votes=5
+Aliases=stvoyhm;

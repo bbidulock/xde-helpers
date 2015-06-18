@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Trackma
+Comment=Trackma Updater (Qt-frontend)
+Icon=trackma
+TryExec=/usr/bin/trackma-qt
+Exec=trackma-qt
+OnlyShowIn=KDE;
+Categories=Network;
+StartupWMClass=trackma-qt
+X-AppInstall-Package=trackma-git
+X-AppInstall-Popcon=17
+X-AppInstall-Section=aur
+X-Arch-Package=trackma-git v0.3.r25.gd3c30be-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=trackma-git
+X-Arch-Package-Version=v0.3.r25.gd3c30be-1
+X-Arch-Package-Description=A lightweight and simple updater for MyAnimeList, Melative or
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://z411.github.io/trackma/
+X-Arch-Package-Votes=17

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.40
+Type=Application
+Name=World of Goo (demo)
+GenericName=Physics based puzzle/construction game.
+Comment=The millions of Goo Balls who live in the beautiful World of Goo don't know that they are in a game, or that they are extremely delicious.
+Icon=worldofgoo-demo
+TryExec=/usr/bin/worldofgoo-demo
+Exec=worldofgoo-demo
+Categories=Game;
+X-AppInstall-Package=worldofgoo-demo
+X-AppInstall-Popcon=59
+X-AppInstall-Section=aur
+X-Arch-Package=worldofgoo-demo 1.41-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=worldofgoo-demo
+X-Arch-Package-Version=1.41-2
+X-Arch-Package-Description=World of Goo is a physics based puzzle/construction game.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://2dboy.com/games.php
+X-Arch-Package-Votes=59

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=droidpad
+Comment=PlayOnLinux
+Icon=droidpad.png
+TryExec=/usr/bin/droidpad
+Exec=droidpad
+Categories=Game;
+StartupWMClass=droidpad
+X-AppInstall-Package=droidpad-64bits
+X-AppInstall-Section=aur
+X-Arch-Package=droidpad-64bits 2.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=droidpad-64bits
+X-Arch-Package-Version=2.1-1
+X-Arch-Package-Description=Droidpad server for linux
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://digitalsquid.co.uk/droidpad/
+X-Arch-Package-Votes=0

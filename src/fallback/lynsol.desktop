@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Lynsol Solitaire
+Comment=A collection of classic Solitaire card games
+Icon=lynsol
+TryExec=/usr/bin/lynsol
+Exec=lynsol
+Categories=Game;CardGame;
+X-AppInstall-Package=lynsol
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=lynsol 2.0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lynsol
+X-Arch-Package-Version=2.0.1-1
+X-Arch-Package-Description=A collection of classic Solitaire card games
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/lynsolsolitaire/
+X-Arch-Package-Votes=1

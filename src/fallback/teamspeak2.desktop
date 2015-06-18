@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=TeamSpeak 2
+GenericName=TeamSpeak
+Comment=TeamSpeak is software for quality voice communication via the Internet
+Icon=/usr/share/pixmaps/teamspeak2.xpm
+TryExec=/usr/bin/teamspeak2
+Exec=/usr/bin/teamspeak2
+Categories=Application;Network;
+StartupNotify=true
+X-AppInstall-Package=teamspeak2
+X-AppInstall-Popcon=62
+X-AppInstall-Section=aur
+X-Arch-Package=teamspeak2 rc2_2032-6
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=teamspeak2
+X-Arch-Package-Version=rc2_2032-6
+X-Arch-Package-Description=TeamSpeak is software for quality voice communication via the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.teamspeak.com/
+X-Arch-Package-Votes=62

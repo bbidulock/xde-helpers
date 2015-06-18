@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=YaRock
+GenericName=Music Player
+Comment=Play your music collection
+Icon=yarock.png
+TryExec=/usr/bin/YaRock
+Exec=YaRock
+Categories=AudioVideo;Audio;Player;Music;Qt;
+StartupNotify=true
+X-AppInstall-Package=yarock-new
+X-AppInstall-Section=aur
+X-Arch-Package=yarock-new 0.0.56-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=yarock-new
+X-Arch-Package-Version=0.0.56-1
+X-Arch-Package-Description=Yarock is Qt4 Modern Music Player with collection browser based on cover art.
+X-Arch-Package-URL=http://qt-apps.org/content/show.php?content=129372

@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=FileZilla GnuTLS Fix
+GenericName=FTP client
+GenericName[de]=FTP-Client
+GenericName[fr]=Client FTP
+Comment=Download and upload files via FTP, FTPS and SFTP
+Comment[de]=Dateien über FTP, FTPS und SFTP übertragen
+Comment[fr]=Transférer des fichiers via FTP, FTPS et SFTP
+Icon=filezilla
+TryExec=/usr/bin/filezilla-fix
+Exec=filezilla-fix
+NoDisplay=true
+Categories=Network;FileTransfer;
+X-AppInstall-Package=filezilla-gnutls-fix
+X-AppInstall-Section=aur
+X-Arch-Package=filezilla-gnutls-fix 1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=filezilla-gnutls-fix
+X-Arch-Package-Version=1-1
+X-Arch-Package-Description=Filezilla fix for FTPES connections (over TLS explicit) by
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://bbs.archlinux.org/viewtopic.php?id=161496
+X-Arch-Package-Votes=0
+Aliases=filezilla-fix;

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=uCON64
+Comment=Rom manager and backup tool
+Icon=uf-fox.png
+TryExec=/usr/bin/uf
+Exec=uf
+Categories=Other;
+StartupNotify=False
+X-AppInstall-Package=uf-fox
+X-AppInstall-Section=aur
+X-Arch-Package=uf-fox 1.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=uf-fox
+X-Arch-Package-Version=1.1-1
+X-Arch-Package-Description=A frontend for the uCON64 rom backup and management tool.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ucon64.sourceforge.net/index.php
+X-Arch-Package-Votes=0

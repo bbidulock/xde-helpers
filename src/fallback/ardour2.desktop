@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Ardour
+Comment=Ardour Digital Audio Workstation
+Icon=ardour
+TryExec=/usr/bin/ardour2
+Exec=ardour2
+X-MultipleArgs=false
+Categories=AudioVideo;Audio;Video;AudioVideoEditing;GTK;
+MimeType=application/x-ardour;
+X-AppInstall-Package=ardour2
+X-AppInstall-Popcon=86
+X-AppInstall-Section=custom
+X-AppInstall-Architectures=amd64,armel,hppa,i386,ia64,mips,mipsel,powerpc,s390,sparc
+X-Arch-Package=ardour2 2.8.16-1
+X-Arch-Package-Repository=custom
+X-Arch-Package-Name=ardour2
+X-Arch-Package-Version=2.8.16-1
+X-Arch-Package-Description=Professional-grade digital audio workstation (version 2.x)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ardour.org/
+X-Arch-Package-Votes=1

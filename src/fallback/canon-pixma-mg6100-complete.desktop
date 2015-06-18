@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Cannon Scangear (MG6100 series)
+Icon=/usr/share/pixmaps/canon-pixma-mg6100-complete-scangear-icon.png
+TryExec=/usr/bin/scangearmp
+Exec=/usr/bin/scangearmp
+NoDisplay=true
+Categories=Graphics;2DGraphics;
+X-AppInstall-Package=canon-pixma-mg6100-complete
+X-AppInstall-Section=aur
+X-Arch-Package=canon-pixma-mg6100-complete 3.40-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=canon-pixma-mg6100-complete
+X-Arch-Package-Version=3.40-2
+X-Arch-Package-Description=Complete stand alone driver set (printing and scanning) for
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.usa.canon.com/cusa/support/consumer/printers_multifunction/pixma_mg_series/pixma_mg6120
+X-Arch-Package-Votes=0
+Aliases=canon-pixma-mg6100-complete-scangear;

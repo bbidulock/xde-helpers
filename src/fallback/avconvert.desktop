@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+X-AppInstall-Package=extended-actions-bzr
+X-AppInstall-Popcon=26
+X-AppInstall-Section=aur
+X-Arch-Package=extended-actions-bzr 5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=extended-actions-bzr
+X-Arch-Package-Version=5-1
+X-Arch-Package-Description=Service for generating extended actions on files
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://launchpad.net/extended-actions
+X-Arch-Package-Votes=26
+
+[Extended Action Entry]
+Name=Convert with avconvert
+Icon=
+Description=Convert
+MimeType=audio;image;text;video;x-cd-image;application/octet-stream;
+StrictCondition=false
+Exec=/usr/bin/avconvert "%f"

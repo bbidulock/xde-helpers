@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=WiMP
+GenericName=Music Player
+Comment=Listen to music using WiMP
+Icon=/opt/airapps/wimp/wimpIcon.png
+TryExec=/usr/bin/wimp
+Exec=wimp %U
+Categories=AudioVideo;Audio;Player;Music;
+MimeType=x-scheme-handler/wimp;
+X-AppInstall-Package=wimp-dk
+X-AppInstall-Section=aur
+X-Arch-Package=wimp-dk 3.2.0.1863-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=wimp-dk
+X-Arch-Package-Version=3.2.0.1863-1
+X-Arch-Package-Description=The Adobe Air based streaming client for the Telenor WiMP
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://wimp.dk/wweb/iwannarock
+X-Arch-Package-Votes=0

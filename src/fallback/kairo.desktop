@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Kairo
+Comment=A game about exploring the lost world of Kairo
+Icon=kairo.png
+TryExec=/usr/bin/kairo
+Exec=kairo
+Categories=Game;
+Path=/opt/kairo
+X-AppInstall-Package=kairo
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=kairo 20140102-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kairo
+X-Arch-Package-Version=20140102-1
+X-Arch-Package-Description=A game about exploring the lost world of Kairo
+X-Arch-Package-Groups=games
+X-Arch-Package-URL=http://kairo.lockeddoorpuzzle.com/
+X-Arch-Package-Votes=2
+Value=1.0

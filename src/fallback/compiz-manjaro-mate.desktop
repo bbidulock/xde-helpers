@@ -1,0 +1,18 @@
+[Desktop Entry]
+Version=0.9.4
+Type=Application
+Name=Compiz-Manjaro-MATE decorator theme enabler
+TryExec=/usr/bin/compiz-manjaro-mate-decoratortheme
+Exec=compiz-manjaro-mate-decoratortheme
+NoDisplay=true
+OnlyShowIn=MATE;
+StartupNotify=false
+X-AppInstall-Package=compiz-manjaro-mate
+X-AppInstall-Section=aur
+X-Arch-Package=compiz-manjaro-mate 0.9.11.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=compiz-manjaro-mate
+X-Arch-Package-Version=0.9.11.2-1
+X-Arch-Package-Description=OpenGL compositing window manager. Includes friendly defaults and autostart for MATE.
+X-Arch-Package-URL=https://launchpad.net/compiz
+Aliases=compiz-manjaro-mate-decoratortheme;

@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=LinDict
+GenericName=LinDict
+Comment=LinDict youdao client
+Icon=/opt/lindict/youdao.png
+TryExec=/usr/bin/python2
+Exec=python2 /opt/lindict/Lindict.py
+Categories=Utility;
+Path=/opt/lindict
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=lindict-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=lindict-git 20150305-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lindict-git
+X-Arch-Package-Version=20150305-1
+X-Arch-Package-Description=Opensource youdao dictionary client
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://gitcafe.com/Jactry/LinDict
+X-Arch-Package-Votes=1

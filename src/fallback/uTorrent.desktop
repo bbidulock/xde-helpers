@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=uTorrent
+GenericName=The world's most popular BitTorrent client (Wine version)
+Icon=uTorrent
+TryExec=/usr/bin/uTorrent
+Exec=uTorrent %U
+Categories=Network;FileTransfer;P2P;
+MimeType=application/x-bittorrent;x-scheme-handler/magnet;
+StartupWMClass=uTorrent.exe
+X-AppInstall-Package=utorrent
+X-AppInstall-Popcon=100
+X-AppInstall-Section=aur
+X-Arch-Package=utorrent 3.4.40298-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=utorrent
+X-Arch-Package-Version=.-1
+X-Arch-Package-Description=The world's most popular BitTorrent client (Wine version)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://www.utorrent.com/
+X-Arch-Package-Votes=100

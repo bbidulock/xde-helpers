@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Ophcrack
+Comment=LM and SAM hash cracker
+Icon=/usr/share/ophcrack/pixmaps/os.xpm
+TryExec=/usr/bin/ophcrack
+Exec=ophcrack
+Categories=Application;System;Utilities;
+X-AppInstall-Package=ophcrack
+X-AppInstall-Section=community
+X-Arch-Package=ophcrack 3.5.0-1
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=ophcrack
+X-Arch-Package-Version=3.6.0-1
+X-Arch-Package-Description=A free Windows password cracker based on rainbow tables
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://ophcrack.sourceforge.net

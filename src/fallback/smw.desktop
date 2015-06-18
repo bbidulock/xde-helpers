@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Super Mario Wars
+Comment=Super Mario multiplayer game
+Icon=smw
+TryExec=/usr/bin/smw
+Exec=smw
+Categories=Game;
+X-AppInstall-Package=smw
+X-AppInstall-Section=aur
+X-Arch-Package=smw 1.7.afe-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=smw
+X-Arch-Package-Version=1.7.afe-3
+X-Arch-Package-Description=A Super Mario multiplayer game
+X-Arch-Package-URL=http://smw.72dpiarmy.com/

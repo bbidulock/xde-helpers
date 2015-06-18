@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Documentation
+Name[de]=Installationsanleitung
+Comment=German Arch Linux Documentation
+Comment[de]=Deutschsprachige Arch Linux Installationsanleitung
+Icon=arch-logo.png
+TryExec=/usr/bin/xdg-open
+Exec=xdg-open https://wiki.archlinux.de/title/Offizielle_Arch_Linux_Installations-Anleitung
+NoDisplay=true
+Categories=Archlinux-de;
+StartupNotify=true
+X-AppInstall-Package=archlinux-de-menus
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=archlinux-de-menus 0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=archlinux-de-menus
+X-Arch-Package-Version=0.1-1
+X-Arch-Package-Description=Like archlinux-menus, but for german website www.archlinux.de
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://www.archlinux.de
+X-Arch-Package-Votes=3
+Aliases=Arch-Documentation-de;

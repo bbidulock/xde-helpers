@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=yEd Graph Editor
+Icon=yed
+TryExec=/usr/bin/yed
+Exec=yed %f
+Categories=Application;Graphics;VectorGraphics;Java;
+StartupNotify=true
+StartupWMClass=B-A-A-B
+X-AppInstall-Package=yed
+X-AppInstall-Popcon=180
+X-AppInstall-Section=aur
+X-Arch-Package=yed 3.14.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=yed
+X-Arch-Package-Version=3.14.2-1
+X-Arch-Package-Description=Very powerful graph editor written in java
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.yworks.com/en/products_yed_about.html
+X-Arch-Package-Votes=180

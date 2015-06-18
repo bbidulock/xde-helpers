@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Solitude
+GenericName=Tomes of Solitude
+Icon=solitude.png
+TryExec=/usr/bin/solitude
+Exec=solitude
+Categories=Application;Game;
+X-AppInstall-Package=solitude
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=solitude 1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=solitude
+X-Arch-Package-Version=1-1
+X-Arch-Package-Description=Tomes of Solitude, a game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://softwarebakery.com/maato/tos.html
+X-Arch-Package-Votes=2

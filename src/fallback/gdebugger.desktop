@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=gDEBugger
+GenericName=Debugger
+Comment=An OpenGL and OpenCL debugger and profiler
+Icon=gdebugger
+TryExec=/usr/bin/gDEBugger
+Exec=gDEBugger
+Categories=Development;Debugger;Profiling;
+X-AppInstall-Package=gdebugger
+X-AppInstall-Section=aur
+X-Arch-Package=gdebugger 6.2.438-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gdebugger
+X-Arch-Package-Version=6.2.438-4
+X-Arch-Package-Description=An advanced OpenGL and OpenCL debugger, profiler and memory analyzer
+X-Arch-Package-URL=http://developer.amd.com/tools/heterogeneous-computing/amd-gdebugger/

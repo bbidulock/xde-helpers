@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Enemy Territory: Quake Wars
+GenericName=ET: Quake Wars
+Comment=Enemy Territory: Quake Wars
+Icon=/usr/share/pixmaps/etqw.png
+TryExec=/usr/bin/etqw
+Exec=/usr/bin/etqw
+Categories=Application;Game;KDE;GNOME;Qt;
+StartupNotify=true
+X-AppInstall-Package=etqw
+X-AppInstall-Popcon=24
+X-AppInstall-Section=aur
+X-Arch-Package=etqw 1.5-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=etqw
+X-Arch-Package-Version=1.5-4
+X-Arch-Package-Description=Enemy Territory: Quake Wars is a commercial team and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://zerowing.idsoftware.com/linux/etqw/ETQWFrontPage/
+X-Arch-Package-Votes=24

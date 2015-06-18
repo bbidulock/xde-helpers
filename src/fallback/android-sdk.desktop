@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Android SDK
+Comment=Android Sofware Development Kit
+Icon=android-sdk
+TryExec=/usr/bin/android
+Exec=android
+Categories=Development;IDE;
+X-AppInstall-Package=android-sdk
+X-AppInstall-Popcon=1243
+X-AppInstall-Section=aur
+X-Arch-Package=android-sdk 24.2.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=android-sdk
+X-Arch-Package-Version=24.2.0-1
+X-Arch-Package-Description=Google Android SDK
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://developer.android.com/sdk/
+X-Arch-Package-Votes=1243

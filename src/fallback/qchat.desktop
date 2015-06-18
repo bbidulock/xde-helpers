@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=QChat
+GenericName=LAN chat
+Icon=/usr/share/qchat/icons/tray-icon.png
+TryExec=/usr/bin/qchat
+Exec=qchat
+Categories=Application;Network;
+X-AppInstall-Package=qchat
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=qchat 0.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qchat
+X-Arch-Package-Version=0.3-1
+X-Arch-Package-Description=QT4 Local area network (wlan) chat with or without server
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://q-chat.sourceforge.net/
+X-Arch-Package-Votes=4

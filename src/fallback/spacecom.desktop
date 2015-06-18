@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Spacecom
+Icon=spacecom
+TryExec=/usr/bin/spacecom
+Exec=spacecom
+Categories=Game;StrategyGame;
+X-AppInstall-Package=spacecom-hib
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=spacecom-hib 0.9.1035-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=spacecom-hib
+X-Arch-Package-Version=0.9.1035-1
+X-Arch-Package-Description=a strategic-to-the-bone, starfleet command game in which
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.11bitstudios.com/games/18/spacecom
+X-Arch-Package-Votes=1

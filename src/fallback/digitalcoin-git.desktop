@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Digitalcoin
+Comment=Digitalcoin P2P Cryptocurrency
+Icon=/usr/share/pixmaps/digitalcoin.png
+TryExec=/usr/bin/digitalcoin-qt
+Exec=/usr/bin/digitalcoin-qt
+NoDisplay=true
+Categories=Application;Network;
+MimeType=x-scheme-handler/digitalcoin;
+X-AppInstall-Package=digitalcoin-git
+X-AppInstall-Section=aur
+X-Arch-Package=digitalcoin-git 1.1-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=digitalcoin-git
+X-Arch-Package-Version=1.1-4
+X-Arch-Package-Description=Transparent and open cryptocurrency.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://digitalcoin.co/
+X-Arch-Package-Votes=0
+Aliases=digitalcoin;

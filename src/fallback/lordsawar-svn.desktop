@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=LordsAWar Editor
+Comment=Editor for the LordsAWar game
+Comment[da]=Editor til LordsAWar
+Comment[de]=Editor für LordsAWar
+Icon=lordsawar-editor
+TryExec=/usr/bin/lordsawar-editor
+Exec=lordsawar-editor
+NoDisplay=true
+Categories=Game;Utility;StrategyGame;GTK;
+X-AppInstall-Package=lordsawar-svn
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=lordsawar-svn 2618-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lordsawar-svn
+X-Arch-Package-Version=2618-1
+X-Arch-Package-Description=A free, turn-based strategy game in spirit of Warlords II
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.nongnu.org/lordsawar/
+X-Arch-Package-Votes=5
+Aliases=lordsawar-editor;

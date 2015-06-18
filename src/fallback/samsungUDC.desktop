@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Samsung Unified Driver Configurator
+Comment=Scan with and configure Samsung printers
+Icon=/opt/Samsung/mfp/share/images/Configurator.png
+TryExec=LD_LIBRARY_PATH=/opt/Samsung/mfp/lib/:$LD_LIBRARY_PATH
+Exec=LD_LIBRARY_PATH=/opt/Samsung/mfp/lib/:$LD_LIBRARY_PATH /opt/Samsung/mfp/bin/Configurator
+Categories=System;Scanning;Qt;
+Path=/opt/Samsung/mfp/bin
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=samsungmfp-configurator-qt4
+X-AppInstall-Section=aur
+X-Arch-Package=samsungmfp-configurator-qt4 3.00.90-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=samsungmfp-configurator-qt4
+X-Arch-Package-Version=3.00.90-1
+X-Arch-Package-Description=Samsung Unified Driver Configurator (Qt4 interface)
+X-Arch-Package-URL=http://www.samsung.com

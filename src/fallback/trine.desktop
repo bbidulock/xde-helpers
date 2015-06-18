@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Trine
+Comment=A physics-based fantasy action game with three playable characters and co-op mode
+Icon=/opt/trine/Trine.xpm
+TryExec=/usr/bin/trine-launcher
+Exec=/usr/bin/trine-launcher
+Categories=Game;ActionGame;
+X-AppInstall-Package=trine
+X-AppInstall-Popcon=33
+X-AppInstall-Section=aur
+X-Arch-Package=trine 1.0.8_update4-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=trine
+X-Arch-Package-Version=1.0.8_update4-4
+X-Arch-Package-Description=A physics-based fantasy action game with three playable
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://trine-thegame.com
+X-Arch-Package-Votes=33
+Value=1.0

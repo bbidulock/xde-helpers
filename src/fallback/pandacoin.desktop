@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=PandaCoin
+Comment=PandaCoin P2P Cryptocurrency
+Icon=/usr/share/pixmaps/pandacoin.png
+TryExec=/usr/bin/pandacoin-qt
+Exec=/usr/bin/pandacoin-qt
+Categories=Network;
+MimeType=x-scheme-handler/pandacoin;
+X-AppInstall-Package=pandacoin-qt-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=pandacoin-qt-git v3.0.2.r0.g24c836a-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pandacoin-qt-git
+X-Arch-Package-Version=v3.0.2.r0.g24c836a-1
+X-Arch-Package-Description=A Qt wallet for the cryptocurrency PandaCoin (PND)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pandacoinpnd.org/
+X-Arch-Package-Votes=1

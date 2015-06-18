@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=2.1.0
+Type=Application
+Name=BulbCalculator
+GenericName=BulbCalculator
+Comment=BulbCalculator - Design your bulb
+Icon=bulbcalculator
+TryExec=/usr/bin/BulbCalculator
+Exec=BulbCalculator
+Categories=Science;Qt;
+X-AppInstall-Package=bulbcalculator
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=bulbcalculator 2.2.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bulbcalculator
+X-Arch-Package-Version=2.2.0-1
+X-Arch-Package-Description=A progran to design bulbs of sailboat based on Qt and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://bulbcalculator.wordpress.org
+X-Arch-Package-Votes=1

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=BIT.TRIP RUNNER
+GenericName=2D Action Platformer
+Comment=Gaijin Games
+Icon=bit.trip.runner
+TryExec=/usr/bin/bit.trip.runner
+Exec=/usr/bin/bit.trip.runner
+Categories=Game;
+X-AppInstall-Package=bittriprunner
+X-AppInstall-Popcon=31
+X-AppInstall-Section=aur
+X-Arch-Package=bittriprunner 1.0.4+h20120927-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bittriprunner
+X-Arch-Package-Version=1.0.4+h20120927-1
+X-Arch-Package-Description=BIT.TRIP RUNNER, a rhythm-based action platformer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://bittripgame.com/bittrip-runner.html
+X-Arch-Package-Votes=31

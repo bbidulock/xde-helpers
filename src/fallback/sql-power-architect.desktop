@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=SQL Power Architect
+GenericName=Data Modeling & Profiling Tool
+Comment=Cross-platform, open-source data modeling tool with a GUI
+Icon=/usr/share/pixmaps/sql-power-architect.png
+TryExec=/usr/bin/sql-power-architect
+Exec=sql-power-architect
+Categories=Development;
+X-AppInstall-Package=sql-power-architect
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package=sql-power-architect 1.0.7-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sql-power-architect
+X-Arch-Package-Version=1.0.7-1
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/power-architect/
+X-Arch-Package-Votes=10

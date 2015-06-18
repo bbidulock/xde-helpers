@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Day Dreamer Editor
+Comment=Editor for Day Dreamer interactive fiction games
+Icon=daydreamer-editor
+TryExec=/usr/bin/daydreamer-editor
+Exec=daydreamer-editor %f
+Categories=Development;
+StartupNotify=false
+X-AppInstall-Package=daydreamer
+X-AppInstall-Section=aur
+X-Arch-Package=daydreamer 8.1-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=daydreamer
+X-Arch-Package-Version=8.1-3
+X-Arch-Package-Description=Day Dreamer is interactive fiction player written in java
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=None
+X-Arch-Package-Votes=0

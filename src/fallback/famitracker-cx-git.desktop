@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=FamiTracker CX
+Comment=NES/Famicom music tracker for Linux
+Icon=famitracker
+TryExec=/usr/bin/famitracker-qt
+Exec=famitracker-qt
+NoDisplay=true
+Categories=AudioVideo;Audio;Midi;AudioVideoEditing;Music;Emulator;Qt;
+X-AppInstall-Package=famitracker-cx-git
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=famitracker-cx-git 20130322-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=famitracker-cx-git
+X-Arch-Package-Version=20130322-1
+X-Arch-Package-Description=NES/Famicom music tracker for Linux (GIT version)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/famitracker-cx/
+X-Arch-Package-Votes=1
+Aliases=famitracker-cx;

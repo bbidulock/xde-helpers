@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=QEVEN
+GenericName=Video Encoder
+GenericName[es]=Codificador de vídeo
+Comment=Video Encoder
+Comment[es]=Codificador de vídeo
+Icon=/usr/share/pixmaps/qeven.png
+TryExec=/usr/bin/qeven
+Exec=/usr/bin/qeven
+Categories=AudioVideo;Video;Qt;
+X-AppInstall-Package=qeven
+X-AppInstall-Popcon=21
+X-AppInstall-Section=aur
+X-Arch-Package=qeven 0.3.2-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qeven
+X-Arch-Package-Version=0.3.2-5
+X-Arch-Package-Description=Qt Easy Video Encoder (QEVEN) encodes media files to several
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://qeven.wordpress.com/
+X-Arch-Package-Votes=21

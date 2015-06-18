@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Revenge Of The Titans
+GenericName=Tower Defense
+Comment=Construct and command your ground defences in a series of increasingly massive battles across the solar system, in a frenetic arcade mash-up of Real Time Strategy and Tower Defense!
+Icon=revenge
+TryExec=/usr/bin/revenge
+Exec=revenge
+NoDisplay=true
+Categories=Game;StrategyGame;
+X-AppInstall-Package=revengeofthetitans
+X-AppInstall-Popcon=46
+X-AppInstall-Section=aur
+X-Arch-Package=revengeofthetitans 1.80.20-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=revengeofthetitans
+X-Arch-Package-Version=1.80.20-1
+X-Arch-Package-Description=Construct and command your ground defences in a series of
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.puppygames.net/revenge-of-the-titans/
+X-Arch-Package-Votes=46
+Aliases=revenge;

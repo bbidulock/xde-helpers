@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Crystal Caves 1: Troubles With Twibbles
+GenericName=Side-scrolling platform game
+GenericName[fr]=Jeu de plateforme
+Icon=cc1
+TryExec=/usr/bin/cc1
+Exec=cc1
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=crystal-caves-1
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=crystal-caves-1 1.0a-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=crystal-caves-1
+X-Arch-Package-Version=1.0a-1
+X-Arch-Package-Description=Side-scrolling platform game (uses DOSBox)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.3drealms.com/caves/
+X-Arch-Package-Votes=1

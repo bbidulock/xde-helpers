@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Defcon
+GenericName=Global Thermonuclear War
+Comment=The World's first Genocide 'em up
+Icon=defcon
+TryExec=/usr/bin/defcon
+Exec=defcon
+Categories=Application;Game;StrategyGame;
+X-AppInstall-Package=defcon
+X-AppInstall-Popcon=38
+X-AppInstall-Section=aur
+X-Arch-Package=defcon 1.60-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=defcon
+X-Arch-Package-Version=1.60-1
+X-Arch-Package-Description=Global Thermonuclear War game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.introversion.co.uk/defcon/
+X-Arch-Package-Votes=38

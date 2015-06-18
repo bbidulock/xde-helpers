@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=PyGTK Object Browser
+Comment=Browse and inspect gtk and gdk objects
+Icon=pygtk-object-browser
+TryExec=/usr/bin/pygtk-object-browser
+Exec=pygtk-object-browser
+X-AppInstall-Package=pygtk-object-browser
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=pygtk-object-browser 0.9.9-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pygtk-object-browser
+X-Arch-Package-Version=0.9.9-1
+X-Arch-Package-Description=Browse and inspect gtk and gdk objects
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/pygtk-object-browser/
+X-Arch-Package-Votes=1

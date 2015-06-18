@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Charles
+GenericName=Web Debugging Proxy
+Icon=charles
+TryExec=/usr/bin/charles
+Exec=charles %u
+Categories=Development;
+StartupNotify=true
+X-AppInstall-Package=charles
+X-AppInstall-Popcon=21
+X-AppInstall-Section=aur
+X-Arch-Package=charles 3.10.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=charles
+X-Arch-Package-Version=3.10.1-1
+X-Arch-Package-Description=Web debugging proxy application
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.charlesproxy.com
+X-Arch-Package-Votes=21

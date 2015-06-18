@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Mobile Media Converter
+Comment=GUI for converting desktop and mobile devices formats.
+Icon=mmc.png
+TryExec=/opt/MIKSOFT/MobileMediaConverter/mmc
+Exec=/opt/MIKSOFT/MobileMediaConverter/mmc %F
+Categories=AudioVideo;Audio;Video;AudioVideoEditing;
+MimeType=audio/vorbis;audio/x-mp3;audio/x-ms-wma;audio/x-vorbis;audio/x-wav;video/x-ms-asf;audio/ogg;audio/3gpp;audio/AMR;audio/AMR-WB;video/3gpp;video/flv;video/mpeg;video/msvideo;video/x-mpeg;video/x-ms-asf;video/x-ms-wmv;video/quicktime;audio/x-realaudio;audio/x-pn-realaudio;video/vnd.rn-realvideo;audio/mp4a-latm;video/x-m4v;video/mp4;
+Path=/opt/MIKSOFT/MobileMediaConverter
+X-AppInstall-Package=mmc-lin
+X-AppInstall-Section=aur
+X-Arch-Package=mmc-lin 1.7.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=mmc-lin
+X-Arch-Package-Version=1.7.3-1
+X-Arch-Package-Description=Mobile Media Convertor
+X-Arch-Package-URL=http://www.miksoft.net/mobileMediaConverter.htm

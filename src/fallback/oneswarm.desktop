@@ -1,0 +1,22 @@
+[Desktop Entry]
+Version=0.7.5.0
+Type=Application
+Name=OneSwarm
+Comment=Share files privately
+Comment[sv]=Dela filer privat
+Icon=/usr/share/pixmaps/oneswarm.jpg
+TryExec=/opt/OneSwarm/OneSwarm
+Exec=/opt/OneSwarm/OneSwarm %F
+Categories=Application;Network;
+MimeType=application/x-bittorrent;
+X-AppInstall-Package=oneswarm
+X-AppInstall-Popcon=38
+X-AppInstall-Section=aur
+X-Arch-Package=oneswarm 0.7.5.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=oneswarm
+X-Arch-Package-Version=0.7.5.2-1
+X-Arch-Package-Description=OneSwarm is a new peer-to-peer tool that provides users with
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://oneswarm.org/
+X-Arch-Package-Votes=38

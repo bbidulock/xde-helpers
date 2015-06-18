@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.1.2
+Type=Application
+Name=Linaria
+Comment=A port of Terraria to Linux.
+Icon=linaria.png
+TryExec=/usr/bin/linaria
+Exec=/usr/bin/linaria
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=linaria
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=linaria 38760-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=linaria
+X-Arch-Package-Version=38760-1
+X-Arch-Package-Description=A port of Terraria to Linux.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.terrariaonline.com/threads/85476
+X-Arch-Package-Votes=6

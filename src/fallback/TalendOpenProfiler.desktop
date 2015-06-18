@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Talend Open Profiler
+Comment=Data Profiling suite
+Icon=/opt/talend-profiler/icon.gif
+TryExec=/usr/bin/talend-profiler
+Exec=talend-profiler
+Categories=Office;
+X-AppInstall-Package=talend-profiler
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=talend-profiler 4.2.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=talend-profiler
+X-Arch-Package-Version=4.2.2-2
+X-Arch-Package-Description=Data quality software suite.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.talend.com
+X-Arch-Package-Votes=2

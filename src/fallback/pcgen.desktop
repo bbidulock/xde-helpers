@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=PCGen
+Comment=An open source RPG character generator and maintenance program
+Icon=/usr/share/pixmaps/pcgen.png
+TryExec=/usr/bin/pcgen
+Exec=pcgen
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=pcgen
+X-AppInstall-Popcon=18
+X-AppInstall-Section=aur
+X-Arch-Package=pcgen 6.04.01-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pcgen
+X-Arch-Package-Version=6.04.01-1
+X-Arch-Package-Description=An open source RPG character generator and maintenance program
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pcgen.sourceforge.net/
+X-Arch-Package-Votes=18

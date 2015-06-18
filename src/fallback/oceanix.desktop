@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Oceanix
+GenericName=Match-3 Game
+Comment=Match-3 Game
+TryExec=/usr/bin/oceanix.sh
+Exec=/usr/bin/oceanix.sh
+Categories=Game;
+X-AppInstall-Package=oceanix
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=oceanix none-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=oceanix
+X-Arch-Package-Version=none-4
+X-Arch-Package-Description=Match-3 Game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.bigfishgames.com/download-games/3180/oceanix/index.html
+X-Arch-Package-Votes=2

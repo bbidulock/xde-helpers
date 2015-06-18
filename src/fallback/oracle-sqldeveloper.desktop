@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Oracle SQL Developer
+Comment=A graphical tool for database development. You can browse database objects, edit, run and debug (PL/)SQL statements and scripts.
+Icon=/opt/oracle-sqldeveloper/icon.png
+TryExec=/usr/bin/oracle-sqldeveloper
+Exec=/usr/bin/oracle-sqldeveloper
+Categories=Development;
+StartupNotify=true
+X-AppInstall-Package=oracle-sqldeveloper
+X-AppInstall-Popcon=48
+X-AppInstall-Section=aur
+X-Arch-Package=oracle-sqldeveloper 4.1.0.19.07-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=oracle-sqldeveloper
+X-Arch-Package-Version=4.1.0.19.07-2
+X-Arch-Package-Description=A graphical tool for database development
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.oracle.com/technetwork/developer-tools/sql-developer/downloads/index.html
+X-Arch-Package-Votes=48

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Kerbal Space Proram
+Comment=A multi-genre game where the players create their own space program
+Icon=kerbalspaceprogram.png
+TryExec=/usr/bin/kerbalspaceprogram
+Exec=kerbalspaceprogram
+Categories=Game;
+Path=/opt/kerbalspaceprogram
+X-AppInstall-Package=kerbalspaceprogram
+X-AppInstall-Popcon=2
+X-AppInstall-Section=aur
+X-Arch-Package=kerbalspaceprogram 0.21.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kerbalspaceprogram
+X-Arch-Package-Version=0.21.1-1
+X-Arch-Package-Description=A multi-genre game where the players create their own space
+X-Arch-Package-Groups=games
+X-Arch-Package-URL=https://kerbalspaceprogram.com/
+X-Arch-Package-Votes=2
+Value=1.0

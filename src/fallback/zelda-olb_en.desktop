@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Zelda: Oni Link Begins
+Comment=Second Game in a triology of fan made Zelda Games
+Icon=zelda-olb
+TryExec=/usr/bin/zelda-olb
+Exec=zelda-olb
+NoDisplay=true
+Categories=Game;AdventureGame;
+X-AppInstall-Package=zelda-olb_en
+X-AppInstall-Section=aur
+X-Arch-Package=zelda-olb_en 3.6-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zelda-olb_en
+X-Arch-Package-Version=3.6-2
+X-Arch-Package-Description='Zelda: Oni Link Begins' is the sequel of 'Zelda: Return of the Hylian', a fan-made Zelda game (english version)
+X-Arch-Package-URL=http://www.zeldaroth.fr/
+Aliases=zelda-olb;

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Radium_compressor
+Comment=A standalone jack audio compressor
+Icon=radium_compressor
+TryExec=/usr/bin/radium_compressor
+Exec=radium_compressor
+Categories=AudioVideo;Audio;
+X-AppInstall-Package=radium_compressor
+X-AppInstall-Section=aur
+X-Arch-Package=radium_compressor 0.5.1-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=radium_compressor
+X-Arch-Package-Version=0.5.1-4
+X-Arch-Package-Description=A standalone jack audio compressor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://users.notam02.no/~kjetism/radium/compressor_plugin.php
+X-Arch-Package-Votes=0

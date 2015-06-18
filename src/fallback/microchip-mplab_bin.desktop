@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=MPLAB IDE
+Comment=IDE for Microchip PIC and dsPIC development
+Icon=microchip-mplab
+TryExec=/usr/bin/mplab_ide
+Exec=mplab_ide
+NoDisplay=true
+Categories=Application;Development;
+StartupNotify=true
+X-AppInstall-Package=microchip-mplab_bin
+X-AppInstall-Section=aur
+X-Arch-Package=microchip-mplab_bin 10b7.12-7
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=microchip-mplab_bin
+X-Arch-Package-Version=10b7.12-7
+X-Arch-Package-Description=IDE for Microchip PIC and dsPIC development a.k.a. MPLAB X
+X-Arch-Package-URL=http://www.microchip.com/en_US/family/mplabx/index.html
+Aliases=microchip-mplab;

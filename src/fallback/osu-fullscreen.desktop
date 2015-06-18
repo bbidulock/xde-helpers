@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=osu! (fullscreen)
+GenericName=Freeware rhythm video game
+Comment=Freeware rhythm video game
+Icon=/opt/osu/osu.png
+TryExec=/opt/osu/osulauncher
+Exec=/opt/osu/osulauncher fullscreen
+Categories=Game;
+X-AppInstall-Package=osu
+X-AppInstall-Popcon=17
+X-AppInstall-Section=aur
+X-Arch-Package=osu 20150116-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=osu
+X-Arch-Package-Version=20150116-1
+X-Arch-Package-Description=Freeware rhythm video game
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://osu.ppy.sh
+X-Arch-Package-Votes=17

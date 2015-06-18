@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=GutenPy
+Comment=A text reader and catalog browser
+Icon=gutenpy.xpm
+TryExec=/usr/bin/gutenpy.py
+Exec=gutenpy.py
+Categories=Application;Utility;GTK;
+StartupNotify=true
+X-AppInstall-Package=gutenpy
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=gutenpy
+X-Arch-Package-Version=0.3.0-10
+X-Arch-Package-Description=A text reader and catalog browser for Project Gutenberg
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gutenpy.sourceforge.net

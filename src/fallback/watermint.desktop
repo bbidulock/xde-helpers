@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Watermint
+GenericName=Watermint
+Comment=Watermint - Quake III Engine Fork
+Icon=/usr/share/pixmaps/watermint.png
+TryExec=/usr/bin/watermint
+Exec=/usr/bin/watermint
+Categories=Application;Game;KDE;GNOME;Qt;
+StartupNotify=true
+X-AppInstall-Package=watermint-git
+X-AppInstall-Section=aur
+X-Arch-Package=watermint-git 2614.2ecf2c5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=watermint-git
+X-Arch-Package-Version=2614.2ecf2c5-1
+X-Arch-Package-Description=A realistic version of Spearmint (ioquake3 fork) for future
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/Watermint-Game
+X-Arch-Package-Votes=0

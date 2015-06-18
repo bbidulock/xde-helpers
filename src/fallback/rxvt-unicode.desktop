@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=rxvt-unicode
+Comment=An Unicode capable rxvt clone
+Icon=rxvt-unicode
+TryExec=/usr/bin/urxvt
+Exec=urxvt
+Categories=System;TerminalEmulator;
+X-AppInstall-Package=rxvt-unicode-256color-layoutgaps
+X-AppInstall-Section=aur
+X-Arch-Package=rxvt-unicode-256color-layoutgaps 9.07-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rxvt-unicode-256color-layoutgaps
+X-Arch-Package-Version=9.07-1
+X-Arch-Package-Description=a unicode enabled rxvt-clone terminal emulator (urxvt), with 256 colour support and a layout gap fix
+X-Arch-Package-URL=http://software.schmorp.de/pkg/rxvt-unicode.html

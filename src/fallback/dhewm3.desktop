@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Dhewm3
+Comment=A Doom 3 port
+Icon=doom3
+TryExec=/usr/bin/dhewm3
+Exec=dhewm3
+Categories=Game;ActionGame;
+X-AppInstall-Package=dhewm3-git
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=dhewm3-git 2013.09.17.g6d8108c-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dhewm3-git
+X-Arch-Package-Version=2013.09.17.g6d8108c-2
+X-Arch-Package-Description=Doom 3 engine with native 64-bit support, SDL, and OpenAL
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/dhewm/dhewm3
+X-Arch-Package-Votes=4

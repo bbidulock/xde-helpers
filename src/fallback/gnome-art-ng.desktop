@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=gnome-art-ng
+GenericName=Gnome Art NextGen
+Comment=Lets you change your Gnome-look (icon-, wallpaper..,-themes) easily.
+Icon=gnome-art-ng
+TryExec=/usr/bin/gnome-art-ng
+Exec=gnome-art-ng
+Categories=System;Utility;GNOME;
+StartupNotify=true
+X-AppInstall-Package=gnome-art-ng
+X-AppInstall-Popcon=71
+X-AppInstall-Section=aur
+X-Arch-Package=gnome-art-ng 0.7.0-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gnome-art-ng
+X-Arch-Package-Version=0.7.0-3
+X-Arch-Package-Description=This is the successor of Gnome-Art and lets you change your
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://gnomeartng.plasmasolutions.de
+X-Arch-Package-Votes=71

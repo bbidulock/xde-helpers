@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Periodic Calendar
+Name[uk]=Періодичний Календар
+Comment=Periodic Calendar Version
+Comment[uk]=Періодичний Календар
+Icon=periodiccalendar
+TryExec=/usr/bin/periodiccalendar
+Exec=periodiccalendar
+Categories=Utility;
+X-AppInstall-Package=periodiccalendar
+X-AppInstall-Popcon=8
+X-AppInstall-Section=aur
+X-Arch-Package=periodiccalendar 3.4.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=periodiccalendar
+X-Arch-Package-Version=3.4.0-1
+X-Arch-Package-Description=Periodic Calendar for tracking women cycle
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://linuxorg.sf.net/
+X-Arch-Package-Votes=8

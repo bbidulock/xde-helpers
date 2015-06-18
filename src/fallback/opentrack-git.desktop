@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Opentrack
+Icon=/opt/opentrack/clientfiles/cute-octopus-vector-material_15-1831.jpg
+TryExec=/opt/opentrack/opentrack.bin
+Exec=/opt/opentrack/opentrack.bin
+NoDisplay=true
+StartupNotify=true
+X-AppInstall-Package=opentrack-git
+X-AppInstall-Section=aur
+X-Arch-Package=opentrack-git r2228-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=opentrack-git
+X-Arch-Package-Version=r2228-3
+X-Arch-Package-Description=opentrack is an application dedicated to tracking user's head
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/opentrack/opentrack
+X-Arch-Package-Votes=0
+Aliases=opentrack;

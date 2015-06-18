@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Pushover
+Comment=Clone of the puzzle game pushover (Amiga)
+Icon=/usr/share/pushover/pushover.ico
+TryExec=/usr/bin/pushover
+Exec=pushover
+Categories=Game;PuzzleGame;
+X-AppInstall-Package=pushover
+X-AppInstall-Popcon=9
+X-AppInstall-Section=aur
+X-Arch-Package=pushover 0.0.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pushover
+X-Arch-Package-Version=0.0.5-1
+X-Arch-Package-Description=Clone of the puzzle game Pushover (Amiga).
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pushover.sourceforge.net/
+X-Arch-Package-Votes=9

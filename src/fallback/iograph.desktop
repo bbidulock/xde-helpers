@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=IOGraph
+GenericName=IOGraph
+Comment=record your mouse movement
+Icon=/usr/share/pixmaps/iograph.png
+TryExec=/usr/bin/iograph
+Exec=/usr/bin/iograph
+Categories=Graphics;
+X-AppInstall-Package=iograph
+X-AppInstall-Section=aur
+X-Arch-Package=iograph 1.0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=iograph
+X-Arch-Package-Version=1.0.1-1
+X-Arch-Package-Description=an application that turns mouse movements into modern art
+X-Arch-Package-URL=http://iographica.com/

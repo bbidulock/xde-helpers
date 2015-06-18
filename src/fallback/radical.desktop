@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Radical Comic Designer
+Comment=Visual Software Creation
+Icon=radical
+TryExec=/usr/bin/radical
+Exec=radical
+Categories=Graphics;
+X-AppInstall-Package=-comic-designer
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=radical-comic-designer 3.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=-comic-designer
+X-Arch-Package-Version=3.1-1
+X-Arch-Package-Description=Radical Comic Designer: A graphical comic designer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://lunduke.com/?page_id=3012
+X-Arch-Package-Votes=1

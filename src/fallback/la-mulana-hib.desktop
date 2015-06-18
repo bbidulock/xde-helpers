@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=La-Mulana
+Icon=la-mulana
+TryExec=/usr/bin/la-mulana
+Exec=la-mulana
+Categories=Game;
+StartupNotify=false
+X-AppInstall-Package=la-mulana-hib
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=la-mulana-hib 1.5.5.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=la-mulana-hib
+X-Arch-Package-Version=1.5.5.2-2
+X-Arch-Package-Description=A "Ruins Exploration Archaeological action game" in which the
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://la-mulana.com/en/
+X-Arch-Package-Votes=3

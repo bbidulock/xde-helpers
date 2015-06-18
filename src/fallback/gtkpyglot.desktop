@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=GtkPyglot
+GenericName=GtkPyglot Software Translator
+Comment=Translate Software
+Icon=gtkpyglot
+TryExec=/usr/bin/gtkpyglot
+Exec=gtkpyglot
+Categories=Development;Utility;
+X-AppInstall-Package=gtkpyglot
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=gtkpyglot 2.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gtkpyglot
+X-Arch-Package-Version=2.2-1
+X-Arch-Package-Description=A python desktop tool for software translators
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://bitbucket.org/vkolev/gtkpyglot
+X-Arch-Package-Votes=1

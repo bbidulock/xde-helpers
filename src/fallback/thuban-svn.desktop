@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Thuban
+GenericName="Image Viewer"
+Comment="Interactive Geographic Data Viewer with support for vector & raster data"
+TryExec=/usr/bin/thuban
+Exec=/usr/bin/thuban
+MultipleArgs=false
+NoDisplay=true
+Categories=Application;Science;Viewer;
+X-AppInstall-Package=thuban-svn
+X-AppInstall-Section=aur
+X-Arch-Package=thuban-svn 2878-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=thuban-svn
+X-Arch-Package-Version=2878-1
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://thuban.intevation.org/
+X-Arch-Package-Votes=0
+Aliases=thuban;

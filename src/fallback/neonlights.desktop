@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Neon Lights
+Comment=one-handed autofire arena shooter
+Icon=neonlights
+TryExec=/usr/bin/NeonLights
+Exec=NeonLights
+Categories=Game;
+X-AppInstall-Package=neonlights
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=neonlights 1.00-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=neonlights
+X-Arch-Package-Version=1.00-4
+X-Arch-Package-Description=A one-handed autofire arena shooter inspired by Robert
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.niallmoody.com/neonlights.htm
+X-Arch-Package-Votes=1

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Geomspace
+Comment=A browser for geometric (i.e. Euclidean, Riemann, Minkowski) spaces
+Icon=geomspace.png
+TryExec=/usr/bin/geomspace
+Exec=/usr/bin/geomspace
+Categories=Application;Science;
+X-AppInstall-Package=geomspace
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=geomspace 0.13-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=geomspace
+X-Arch-Package-Version=0.13-1
+X-Arch-Package-Description=A browser for geometric (i.e. Euclidean, Riemann, Minkowski)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://sourceforge.net/projects/geomspace/
+X-Arch-Package-Votes=1

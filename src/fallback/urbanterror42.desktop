@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Urban Terror
+Icon=urbanterror
+TryExec=/usr/bin/urbanterror
+Exec=urbanterror
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=urbanterror42
+X-AppInstall-Section=aur
+X-Arch-Package=urbanterror42 4.2.006-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=urbanterror42
+X-Arch-Package-Version=4.2.006-1
+X-Arch-Package-Description=A team-based tactical shooter based on the Quake 3 Engine
+X-Arch-Package-URL=http://www.urbanterror.net
+Aliases=urbanterror;

@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Cave Story (Wine)
+Comment=Traditional 2D platformer
+Icon=doukutsu-wine
+TryExec=/usr/bin/doukutsu-wine
+Exec=/usr/bin/doukutsu-wine
+Categories=Game;AdventureGame;
+StartupNotify=true
+X-AppInstall-Package=doukutsu-wine
+X-AppInstall-Section=aur
+X-Arch-Package=doukutsu-wine 1.03-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=doukutsu-wine
+X-Arch-Package-Version=1.03-1
+X-Arch-Package-Description=The Windows version of Cave Story
+X-Arch-Package-URL=http://www.cavestory.org/

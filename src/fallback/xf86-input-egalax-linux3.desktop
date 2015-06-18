@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=eGalax Config Utility
+Comment=eGalax Touch Controller Configuration
+Icon=eGTouchU
+TryExec=/usr/bin/gksu
+Exec=gksu eGTouchU
+NoDisplay=true
+Categories=System;Utility;GNOME;GTK;
+X-AppInstall-Package=xf86-input-egalax-linux3
+X-AppInstall-Section=aur
+X-Arch-Package=xf86-input-egalax-linux3 2.3.1627-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xf86-input-egalax-linux3
+X-Arch-Package-Version=2.3.1627-1
+X-Arch-Package-Description=eGalaxTouch touchscreen driver
+X-Arch-Package-Groups=xorg-input-drivers;
+X-Arch-Package-URL=http://home.eeti.com.tw/web20/eGalaxTouchDriver/linuxDriver.htm
+Aliases=eGalaxConfig;

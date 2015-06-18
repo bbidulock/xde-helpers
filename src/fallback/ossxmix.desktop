@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=OSS X Mixer
+Name[zh_CN]=OSS 声音设置
+GenericName=OSS X Mixer
+Comment=OSS Setup
+Icon=/usr/share/pixmaps/ossxmix.png
+TryExec=/usr/bin/ossxmix
+Exec=ossxmix
+Categories=Application;System;
+X-AppInstall-Package=oss-hg
+X-AppInstall-Section=aur
+X-Arch-Package=oss-hg 894-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=oss-hg
+X-Arch-Package-Version=894-1
+X-Arch-Package-Description=Open Sound System UNIX audio architecture
+X-Arch-Package-URL=http://www.opensound.com/

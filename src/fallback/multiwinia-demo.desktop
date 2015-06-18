@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Multiwinia
+GenericName=Multiwinia
+Comment=Multiwinia
+Icon=multiwinia
+TryExec=/usr/bin/multiwinia
+Exec=/usr/bin/multiwinia
+NoDisplay=true
+Categories=Application;Game;KDE;GNOME;
+StartupNotify=true
+X-AppInstall-Package=multiwinia-demo
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=multiwinia-demo 1.3.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=multiwinia-demo
+X-Arch-Package-Version=1.3.1-2
+X-Arch-Package-Description=Battle to save Darwinias innocent inhabitants, the Darwinians,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.introversion.co.uk/multiwinia/
+X-Arch-Package-Votes=3
+Aliases=multiwinia;

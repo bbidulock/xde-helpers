@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=QuDos
+Comment=Enhanced Quake 2 engine
+Icon=qudos
+TryExec=/usr/bin/qudos
+Exec=qudos
+NoDisplay=true
+Categories=Game;ActionGame;
+X-AppInstall-Package=qudos-zws
+X-AppInstall-Section=aur
+X-Arch-Package=qudos-zws 0.40.3.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qudos-zws
+X-Arch-Package-Version=0.40.3.3-1
+X-Arch-Package-Description=Enhanced Quake 2 engine, forked by Zws, with yamagi's fixes,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://forum.ubuntu.ru/index.php?topic=146763.150
+X-Arch-Package-Votes=0
+Aliases=qudos;

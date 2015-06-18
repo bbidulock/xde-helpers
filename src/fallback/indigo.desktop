@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Indigo
+Comment=A physically-based renderer
+Icon=indigo
+TryExec=/usr/bin/indigo
+Exec=indigo %f
+X-MultipleArgs=false
+Categories=Graphics;3DGraphics;
+X-AppInstall-Package=indigo
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=indigo 2.4.13-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=indigo
+X-Arch-Package-Version=2.4.13-1
+X-Arch-Package-Description=Physically-based unbiased render engine
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.indigorenderer.com/
+X-Arch-Package-Votes=4

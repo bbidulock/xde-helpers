@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Pyfa
+Icon=pyfa
+TryExec=/usr/bin/pyfa
+Exec=/usr/bin/pyfa
+NoDisplay=true
+Categories=Application;Game;
+X-AppInstall-Package=pyfa-git
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=pyfa-git 1.2.1.r11.g009956c-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pyfa-git
+X-Arch-Package-Version=1.2.1.r11.g009956c-1
+X-Arch-Package-Description=EVE Online Fitting Assistant
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/DarkFenX/Pyfa
+X-Arch-Package-Votes=7
+Aliases=pyfa;

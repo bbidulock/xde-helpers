@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Klayout Editor
+GenericName=Klayout Editor
+Comment=Program to edit GDS-Files
+Comment[de]=Programm zur Bearbeiten von GDS-Dateien
+Icon=/usr/share/icons/hicolor/32x32/apps/klayout.png
+TryExec=/usr/bin/klayout
+Exec=klayout -e
+Categories=Development;Scientific;
+StartupNotify=true
+X-AppInstall-Package=klayout
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=klayout 0.23.11-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=klayout
+X-Arch-Package-Version=0.23.11-1
+X-Arch-Package-Description=High Performance Layout Viewer And Editor. Support of GDS and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.klayout.de/
+X-Arch-Package-Votes=6

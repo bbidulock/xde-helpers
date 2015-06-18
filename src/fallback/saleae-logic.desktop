@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Saleae-Logic
+GenericName=Logic Analyser
+Comment=A proprietary Logic Analyser
+Icon=SaleaeLogic
+TryExec=/usr/bin/logic
+Exec=logic
+Categories=Development;
+X-AppInstall-Package=saleae-logic
+X-AppInstall-Popcon=15
+X-AppInstall-Section=aur
+X-Arch-Package=saleae-logic 1.1.15-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=saleae-logic
+X-Arch-Package-Version=1.1.15-5
+X-Arch-Package-Description=High speed USB logic analyzer.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.saleae.com/
+X-Arch-Package-Votes=15

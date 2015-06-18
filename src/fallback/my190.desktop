@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=My 190
+GenericName=my190
+Comment=Vodafone.it account and sms manager
+Icon=my190
+TryExec=/usr/bin/my190
+Exec=my190
+Categories=Utility;
+MimeType=application/vnd.adobe.air-application-installer-package+zip;
+X-AppInstall-Package=my190
+X-AppInstall-Section=aur
+X-Arch-Package=my190 2.0.4-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=my190
+X-Arch-Package-Version=2.0.4-1
+X-Arch-Package-Description=Vodafone 190.it account manager
+X-Arch-Package-URL=http://assistenza.vodafone.it/privati/servizi_web/my_190_per_pc_e_mac

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Sigil
+Comment=E-book reader and WYSIWYG editor
+Comment[es]=Lector de libros electrónicos y editor visual
+Comment[gl]=Lector de libros electrónicos e editor visual
+Comment[it]=Lettore di e.book ed editor WYSIWYG
+Icon=sigil
+TryExec=/usr/bin/sigil
+Exec=sigil
+Categories=Office;
+StartupNotify=false
+X-AppInstall-Package=sigil4epub3
+X-AppInstall-Section=aur
+X-Arch-Package=sigil4epub3 0.3.4.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sigil4epub3
+X-Arch-Package-Version=0.3.4.3-1
+X-Arch-Package-Description=A WYSIWYG ebook editor for epub3
+X-Arch-Package-URL=http://sourceforge.net/projects/sigil4epub3/

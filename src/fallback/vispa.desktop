@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Vispa
+GenericName=Visual Physics Analysis
+Comment=Visual Physics Analysis
+Icon=vispa
+TryExec=/usr/bin/vispa
+Exec=vispa
+Categories=Application;Development;Science;Qt;
+StartupNotify=true
+X-AppInstall-Package=vispa
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=vispa 0.6.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=vispa
+X-Arch-Package-Version=0.6.1-2
+X-Arch-Package-Description=Visual Physics Analysis
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://vispa.physik.rwth-aachen.de
+X-Arch-Package-Votes=1

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Lilly Looking Through Demo
+Comment=An animated adventure game
+Icon=/usr/share/pixmaps/lilly-lt-demo.png
+TryExec=/usr/bin/lilly-lt-demo
+Exec=/usr/bin/lilly-lt-demo
+Categories=Game;
+X-AppInstall-Package=lilly-lt-demo
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=lilly-lt-demo 1.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=lilly-lt-demo
+X-Arch-Package-Version=1.0-1
+X-Arch-Package-Description=Lilly Looking Through, an animated adventure game (demo)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.lillylookingthrough.com/
+X-Arch-Package-Votes=1

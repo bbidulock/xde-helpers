@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=Pburn CD/DVD/Blu-ray writer
+Name[de]=Pburn CD/DVD/Blu-ray Brenner
+Name[es]=Pburn-Grabador de CD/DVD/Blu-ray
+Name[fr]=Graveur CD/DVD/Blu-ray
+Name[hu_HU]=Pburn CD/DVD/Blu-ray író
+Name[ja]=Pburn CD/DVD/Blu-ray書き込み
+GenericName=Pburn CD/DVD/Blu-ray writer
+Comment=Pburn CD/DVD/Blu-ray writer
+Icon=/usr/share/icons/hicolor/scalable/apps/pburn.svg
+TryExec=/usr/bin/pburn
+Exec=pburn
+Categories=Utility;
+X-AppInstall-Package=pburn
+X-AppInstall-Popcon=13
+X-AppInstall-Section=aur
+X-Arch-Package=pburn 4.3.12-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pburn
+X-Arch-Package-Version=4.3.12-1
+X-Arch-Package-Description=CD/DVD recording program used in Puppy Linux.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://murga-linux.com/puppy/viewtopic.php?t=23881
+X-Arch-Package-Votes=13

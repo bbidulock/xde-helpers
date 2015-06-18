@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Khagan
+Comment=Build live user interfaces for controling parameters via OSC
+Icon=khagan
+TryExec=/usr/bin/khagan
+Exec=khagan
+Categories=Application;AudioVideo;Audio;Sound;
+X-AppInstall-Package=khagan
+X-AppInstall-Section=aur
+X-Arch-Package=khagan 0.1.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=khagan
+X-Arch-Package-Version=0.1.2-1
+X-Arch-Package-Description=A live user interface builder for controling parameters via
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://khagan.berlios.de/
+X-Arch-Package-Votes=0

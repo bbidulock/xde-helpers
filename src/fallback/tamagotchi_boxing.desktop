@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Tamagotchi Boxing
+Comment=Train your pet to become a boxer
+TryExec=/usr/bin/tamagotchi_boxing
+Exec=tamagotchi_boxing
+Categories=Game;StrategyGame;
+X-AppInstall-Package=tamagotchi_boxing
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=tamagotchi_boxing 0.1-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tamagotchi_boxing
+X-Arch-Package-Version=0.1-3
+X-Arch-Package-Description=A game where you train a virtual pet to become a boxer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/tamagotchi-boxing/
+X-Arch-Package-Votes=4

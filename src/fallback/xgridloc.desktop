@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=xgridloc
+Comment=Maidenhead grid converter & bearing/distance calc.
+Icon=xgridloc
+TryExec=/usr/bin/xgridloc
+Exec=xgridloc
+Categories=Application;HamRadio;
+StartupNotify=true
+X-AppInstall-Package=xgridloc
+X-AppInstall-Section=aur
+X-Arch-Package=xgridloc 1.7-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xgridloc
+X-Arch-Package-Version=1.7-1
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.qsl.net/5b4az/pkg/locator/xgridloc/xgridloc.html
+X-Arch-Package-Votes=0

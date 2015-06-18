@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Minecraft
+GenericName=Minecraft
+Comment=A game about placing blocks while running from skeletons.
+Icon=/usr/share/pixmaps/minecraft.png
+TryExec=/usr/bin/minecraft
+Exec=minecraft
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=minecraftsp-anjocaido
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=minecraftsp-anjocaido autoupdate-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=minecraftsp-anjocaido
+X-Arch-Package-Version=autoupdate-5
+X-Arch-Package-Description=Minecraft is a sandbox game which allows players to build
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.mcalpha.tk/
+X-Arch-Package-Votes=7
+Aliases=minecraft;

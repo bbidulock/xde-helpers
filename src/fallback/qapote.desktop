@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Qapote
+GenericName=Qapote Editor
+Comment=Create PDF reports and document from a source code similar to LaTeX
+Icon=qapote.png
+TryExec=/usr/bin/qapote
+Exec=qapote
+Categories=Application;Editor;
+X-AppInstall-Package=qapote
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=qapote 0.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qapote
+X-Arch-Package-Version=0.6-1
+X-Arch-Package-Description=Create PDF reports and document from a source code similar to
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://qapote.tuxfamily.org
+X-Arch-Package-Votes=3

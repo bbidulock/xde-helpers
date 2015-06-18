@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Maltego
+Comment=An open source intelligence and forensics application
+Icon=/usr/share/icons/maltego.png
+TryExec=/usr/bin/maltego
+Exec=/usr/bin/maltego
+StartupNotify=true
+X-AppInstall-Package=maltego
+X-AppInstall-Popcon=25
+X-AppInstall-Section=aur
+X-Arch-Package=maltego 3.6.0.6640-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=maltego
+X-Arch-Package-Version=3.6.0.6640-1
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.paterva.com/web6/products/maltego.php
+X-Arch-Package-Votes=25

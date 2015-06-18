@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Dolphin Viewer
+GenericName=A third-party viewer for Second Life (C) and OpenSim grids
+Comment=A third party viewer for Second Life (C) and OpenSim grids
+Icon=/usr/share/pixmaps/dolphinviewer.png
+TryExec=/usr/bin/dolphinviewer
+Exec=/usr/bin/dolphinviewer
+Categories=Game;
+X-AppInstall-Package=dolphinviewer
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=dolphinviewer 3.6.99.32369-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dolphinviewer
+X-Arch-Package-Version=3.6.99.32369-1
+X-Arch-Package-Description=An Open Source third party viewers for Second Life®
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://dolphinviewer.eregion.de
+X-Arch-Package-Votes=4

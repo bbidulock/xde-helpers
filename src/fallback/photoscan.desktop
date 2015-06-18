@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Agisoft PhotoScan Standard
+Comment=Build professional quality textured 3D models from still images
+Icon=/usr/share/pixmaps/photoscan.png
+TryExec=/usr/bin/photoscan
+Exec=photoscan
+Categories=Application;Graphics;
+X-AppInstall-Package=photoscan
+X-AppInstall-Section=aur
+X-Arch-Package=photoscan 1.1.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=photoscan
+X-Arch-Package-Version=1.1.6-1
+X-Arch-Package-Description=Build professional quality textured 3D models from still
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.agisoft.com/
+X-Arch-Package-Votes=0

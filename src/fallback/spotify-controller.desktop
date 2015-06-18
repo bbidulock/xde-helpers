@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Spotify Controller
+GenericName=Spotify Controller
+Comment=Start the Spotify Controller server to be able to control it from the Android app
+Icon=spotifycontroller
+TryExec=/usr/bin/spotify-controller
+Exec=spotify-controller
+Categories=AudioVideo;
+X-AppInstall-Package=spotify-controller
+X-AppInstall-Section=aur
+X-Arch-Package=spotify-controller 2.2-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=spotify-controller
+X-Arch-Package-Version=2.2-4
+X-Arch-Package-Description=Spotify Controller lets you control the real Spotify UI on your computer.
+X-Arch-Package-URL=https://play.google.com/store/apps/details?id=com.cewan.spotify

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Firefox
+GenericName=Web Browser
+Icon=firefox-bin-icon
+TryExec=/usr/bin/firefox-bin
+Exec=firefox-bin %u
+MultipleArgs=false
+Categories=Application;Network;
+MimeType=text/html;
+StartupNotify=false
+StartupWMClass=Firefox
+X-AppInstall-Package=firefox-bin
+X-AppInstall-Section=aur
+X-Arch-Package=firefox-bin 4.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firefox-bin
+X-Arch-Package-Version=4.0-1
+X-Arch-Package-Description=Standalone web browser from mozilla.org, beta build - binaries.
+X-Arch-Package-URL=http://www.mozilla.org/projects/firefox

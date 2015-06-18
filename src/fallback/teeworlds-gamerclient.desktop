@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=TeeWorlds
+GenericName=Arcade Game
+Comment=is a multiplayer 2D FPS shooter
+Comment[pl_PL]=wieloosobowa strzelanka FTP w 2D
+Icon=teeworlds
+TryExec=/usr/bin/teeworlds
+Exec=teeworlds
+NoDisplay=true
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=teeworlds-gamerclient
+X-AppInstall-Section=aur
+X-Arch-Package=teeworlds-gamerclient 4.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=teeworlds-gamerclient
+X-Arch-Package-Version=4.3-1
+X-Arch-Package-Description=The Gamer customized version of this 2D shooting game
+X-Arch-Package-URL=https://www.teeworlds.com/forum/viewtopic.php?id=6279
+Aliases=teeworlds;

@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Tuxcards
+Comment=Manage notes and ideas in tree structures
+Icon=/usr/share/icons/locolor/32x32/apps/tuxcards.png
+TryExec=/usr/bin/tuxcards
+Exec=tuxcards
+Categories=Application;Office;Utility;
+StartupNotify=true
+X-AppInstall-Package=tuxcards
+X-AppInstall-Section=community
+X-Arch-Package-Repository=community
+X-Arch-Package-Name=tuxcards
+X-Arch-Package-Version=2.2.1-4
+X-Arch-Package-Description=A hierarchical notebook to enter and manage notes and ideas in a structured manner
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.tuxcards.de

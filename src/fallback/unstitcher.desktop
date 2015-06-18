@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Unstitcher
+GenericName=Minecraft Texture Converter
+TryExec=/usr/bin/unstitcher
+Exec=unstitcher
+Categories=Game;Utility;
+X-AppInstall-Package=unstitcher
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=unstitcher 1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=unstitcher
+X-Arch-Package-Version=1-2
+X-Arch-Package-Description=Converts Minecraft texture packs into 1.5 format
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.minecraftwiki.net/wiki/Texture_Packs#Textures_for_Blocks_and_Items_in_Minecraft_1.5
+X-Arch-Package-Votes=1

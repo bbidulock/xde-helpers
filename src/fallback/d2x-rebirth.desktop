@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Descent 2 X Rebirth
+GenericName=FP Action Game
+Comment=First person action game controlling a ship with 6 degrees of freedom
+Comment[fr]=Jeu \xE0 la premi\xE8re personne o\xF9 l'on contr\xF4le un vaisseau qui permet de se d\xE9placer avec 6 degr\xE9s de libert\xE9
+Icon=d2x-rebirth
+TryExec=/usr/bin/d2x-rebirth
+Exec=d2x-rebirth
+Categories=Game;ActionGame;
+X-AppInstall-Package=d2x-rebirth
+X-AppInstall-Popcon=17
+X-AppInstall-Section=aur
+X-Arch-Package=d2x-rebirth 0.58.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=d2x-rebirth
+X-Arch-Package-Version=0.58.1-1
+X-Arch-Package-Description=An enhanced engine to play with Descent2 datas
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.dxx-rebirth.com/
+X-Arch-Package-Votes=17

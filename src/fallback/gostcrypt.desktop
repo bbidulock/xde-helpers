@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=GostCrypt
+GenericName=GostCrypt
+Icon=/usr/share/pixmaps/gostcrypt.xpm
+TryExec="/usr/bin/gostcrypt"
+Exec="/usr/bin/gostcrypt"
+Categories=System;
+X-AppInstall-Package=gostcrypt
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=gostcrypt 1.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gostcrypt
+X-Arch-Package-Version=1.0-2
+X-Arch-Package-Description=Free open-source cross-platform disk encryption software (fork
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://www.gostcrypt.org
+X-Arch-Package-Votes=1

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=DJV View
+GenericName=Image sequence viewer
+Icon=/usr/share/pixmaps/djv_view.png
+TryExec=/usr/bin/djv_view
+Exec=djv_view
+Categories=AudioVideo;
+MimeType=image/jpeg;image/png;image/tiff;
+X-AppInstall-Package=djv
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=djv 1.0.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=djv
+X-Arch-Package-Version=1.0.5-1
+X-Arch-Package-Description=Movie playback and image processing software for the film and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://djv.sourceforge.net/
+X-Arch-Package-Votes=4

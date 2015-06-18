@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=JJMPlayer
+Comment=MPlayer Java Frontend
+Icon=/usr/share/jjmplayer/jmplayer.png
+TryExec=/usr/bin/jjmplayer
+Exec=jjmplayer %F
+Categories=AudioVideo;Audio;Video;Player;GTK;
+X-AppInstall-Package=jjmplayer
+X-AppInstall-Section=aur
+X-Arch-Package=jjmplayer 0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jjmplayer
+X-Arch-Package-Version=0.1-1
+X-Arch-Package-Description=(Just another Java MPlayer Frontend) is a java frontend for
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://jjmplayer.sourceforge.net/
+X-Arch-Package-Votes=0

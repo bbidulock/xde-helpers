@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Aurora
+GenericName=Web Browser
+Icon=firefox-aurora-icon
+TryExec=/usr/bin/firefox-aurora
+Exec=firefox-aurora %u
+MultipleArgs=false
+NoDisplay=true
+Categories=Application;Network;
+MimeType=text/html;
+StartupNotify=false
+X-AppInstall-Package=firefox-aurora-bin-it
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=firefox-aurora-bin-it 39.0a2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firefox-aurora-bin-it
+X-Arch-Package-Version=39.0a2-1
+X-Arch-Package-Description=Standalone web browser from mozilla.org (Italian version from
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.mozilla.com/firefox/channel/
+X-Arch-Package-Votes=7
+Aliases=firefox-aurora;

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Offerings to Cthulhu
+Comment=Promises of Dreamland; Offerings to Cthulhu!
+Icon=/usr/share/pixmaps/offerings128.png
+TryExec=/usr/bin/offerings-qt
+Exec=/usr/bin/offerings-qt
+Categories=Office;
+MimeType=x-scheme-handler/offerings;
+X-AppInstall-Package=offerings-to-cthulhu-qt
+X-AppInstall-Section=aur
+X-Arch-Package=offerings-to-cthulhu-qt 1.4.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=offerings-to-cthulhu-qt
+X-Arch-Package-Version=1.4.0-1
+X-Arch-Package-Description=Offerings to Cthulhu (QT)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://cthulhu.tk/
+X-Arch-Package-Votes=0

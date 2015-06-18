@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Maxr
+GenericName=Max Reloaded
+Comment=Mechanized Assault and eXploration oo clone..
+Icon=/usr/share/maxr/maxr.png
+TryExec=/usr/bin/maxr
+Exec=/usr/bin/maxr
+NoDisplay=true
+Categories=Game;StrategyGame;
+X-AppInstall-Package=maxreloaded
+X-AppInstall-Section=aur
+X-Arch-Package=maxreloaded 0.2.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=maxreloaded
+X-Arch-Package-Version=0.2.6-1
+X-Arch-Package-Description=Mechanized Assault and eXploration oo clone.
+X-Arch-Package-URL=http://www.maxthegame.de/
+Aliases=maxr;

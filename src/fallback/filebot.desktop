@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Filebot
+Comment=TV renamer/subtitle downloader/sfv validator
+Icon=filebot
+TryExec=/usr/bin/filebot
+Exec=filebot
+Categories=AudioVideo;
+X-AppInstall-Package=filebot
+X-AppInstall-Popcon=83
+X-AppInstall-Section=aur
+X-Arch-Package=filebot 4.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=filebot
+X-Arch-Package-Version=4.6-1
+X-Arch-Package-Description=The ultimate tool to rename TV/anime shows, download
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://filebot.sourceforge.net/
+X-Arch-Package-Votes=83

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=Aarni
+GenericName=File encryptor utility
+GenericName[es]=Utilidad para encriptar archivos
+Comment=File encryptor utility
+Comment[es]=Utilidad para encriptar archivos
+Icon=document-encrypt
+TryExec=/usr/bin/aarni
+Exec=/usr/bin/aarni
+Categories=Utility;Qt;
+X-AppInstall-Package=aarni
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=aarni 0.2.0.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=aarni
+X-Arch-Package-Version=0.2.0.2-2
+X-Arch-Package-Description=Small and easy-to-use file encryptor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://code.google.com/p/aarni/
+X-Arch-Package-Votes=1

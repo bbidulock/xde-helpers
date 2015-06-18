@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=findwild
+GenericName=Wildcard File Search
+Comment=GUI search for wildcard paths/files/strings
+Icon=/usr/share/findwild/icons/findwild.png
+TryExec=/usr/bin/findwild
+Exec=/usr/bin/findwild
+Categories=Utility;
+StartupNotify=false
+X-AppInstall-Package=findwild
+X-AppInstall-Popcon=10
+X-AppInstall-Section=aur
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=findwild
+X-Arch-Package-Version=2.1-1
+X-Arch-Package-Description=A program to find files with a nice gtk interface
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.kornelix.com/findwild
+X-Arch-Package-Votes=10

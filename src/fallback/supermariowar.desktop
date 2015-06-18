@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=SuperMarioWar
+GenericName=Super Mario War
+Comment=A Super Mario multiplayer game
+Icon=supermariowar.png
+TryExec=/usr/bin/smw
+Exec=smw
+Categories=Application;Game;
+X-AppInstall-Package=supermariowar
+X-AppInstall-Section=aur
+X-Arch-Package=supermariowar 1.8-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=supermariowar
+X-Arch-Package-Version=1.8-1
+X-Arch-Package-Description=A Super Mario multiplayer game
+X-Arch-Package-URL=http://smw.supersanctuary.net/site/

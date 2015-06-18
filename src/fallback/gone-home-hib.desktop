@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Gone Home
+Comment=Play Gone Home
+Icon=gone-home-hib
+TryExec=/usr/bin/gone-home-hib
+Exec=gone-home-hib
+Categories=AudioVideo;Game;
+StartupNotify=true
+X-AppInstall-Package=gone-home-hib
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=gone-home-hib 1.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gone-home-hib
+X-Arch-Package-Version=1.1-2
+X-Arch-Package-Description=Gone home is an interactive exploration simulator by
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.gonehomegame.com/
+X-Arch-Package-Votes=1

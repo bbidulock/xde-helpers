@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.20
+Type=Application
+Name=FLVPlay
+Icon=flvplay
+TryExec=/usr/bin/flvplay
+Exec=flvplay
+Categories=AudioVideo;Applications;
+X-AppInstall-Package=flvplay
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=flvplay 1.20-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=flvplay
+X-Arch-Package-Version=1.20-1
+X-Arch-Package-Description=Adobe AIR media player that plays local or remote flv/mp4
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.riaforge.co.uk/go/flvplay/index.html
+X-Arch-Package-Votes=5

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=And Yet It Moves (demo)
+Comment=A physics-based platform game
+Icon=/usr/share/pixmaps/andyetitmovesdemo.png
+TryExec=/usr/bin/AndYetItMovesDemo
+Exec=AndYetItMovesDemo
+NoDisplay=true
+Categories=Game;LogicGame;
+StartupNotify=true
+X-AppInstall-Package=andyetitmoves-demo
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=andyetitmoves-demo 1.2.2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=andyetitmoves-demo
+X-Arch-Package-Version=1.2.2-1
+X-Arch-Package-Description=physics-based platform game (demo)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.andyetitmoves.net/
+X-Arch-Package-Votes=4
+Aliases=andyetitmovesdemo;

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Jperf
+Comment=Frontend for Iperf, network performance benchmark
+Icon=network
+TryExec=/usr/bin/jperf
+Exec=jperf
+Categories=Network;Utility;
+X-AppInstall-Package=jperf
+X-AppInstall-Popcon=18
+X-AppInstall-Section=aur
+X-Arch-Package=jperf 2.0.2-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jperf
+X-Arch-Package-Version=2.0.2-2
+X-Arch-Package-Description=Frontend for Iperf, network performance benchmark
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://xjperf.googlecode.com
+X-Arch-Package-Votes=18

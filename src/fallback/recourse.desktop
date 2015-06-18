@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=ReCourse
+Comment=IMS Learning Design Editor
+Icon=recourse
+TryExec=/usr/bin/recourse
+Exec=recourse
+Categories=Education;Java;
+X-AppInstall-Package=recourse
+X-AppInstall-Section=aur
+X-Arch-Package=recourse 1.7.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=recourse
+X-Arch-Package-Version=1.7.1-2
+X-Arch-Package-Description=An IMS Learning Design Editor
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.tencompetence.org/ldauthor/
+X-Arch-Package-Votes=0

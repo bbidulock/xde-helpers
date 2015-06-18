@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=steelstorm
+GenericName=a classic top down shooter, rife with explosions and things to explode, with a distinct visual style.
+Icon=steelstorm
+TryExec=/usr/bin/steelstorm
+Exec=steelstorm
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=steelstorm
+X-AppInstall-Popcon=29
+X-AppInstall-Section=aur
+X-Arch-Package=steelstorm 10002718-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=steelstorm
+X-Arch-Package-Version=10002718-2
+X-Arch-Package-Description=a classic top down shooter, rife with explosions and things to
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.steel-storm.com/
+X-Arch-Package-Votes=29

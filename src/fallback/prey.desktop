@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Prey
+GenericName=Prey
+Comment=Single and Multiplayer First Person Shooter
+Icon=/opt/prey/prey.png
+TryExec=/usr/bin/prey
+Exec=/usr/bin/prey
+Categories=Application;Game;
+StartupNotify=true
+X-AppInstall-Package=prey
+X-AppInstall-Popcon=22
+X-AppInstall-Section=aur
+X-Arch-Package=prey 02192009-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=prey
+X-Arch-Package-Version=02192009-1
+X-Arch-Package-Description=Prey is a first person shooter based on the id Tech 4 engine
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://icculus.org/prey/
+X-Arch-Package-Votes=22

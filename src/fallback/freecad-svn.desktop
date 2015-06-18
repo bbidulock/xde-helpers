@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=FreeCAD
+Comment=A general purpose 3D CAD modeler - SVN version
+Icon=/usr/share/freecad-svn/freecad.xpm
+TryExec=/usr/bin/freecad-svn
+Exec=freecad-svn
+Categories=Graphics;Science;Engineering;
+Path=/usr/lib/freecad-svn
+X-AppInstall-Package=freecad-svn
+X-AppInstall-Section=aur
+X-Arch-Package=freecad-svn 5330-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=freecad-svn
+X-Arch-Package-Version=5330-1
+X-Arch-Package-Description=A general purpose 3D CAD modeler
+X-Arch-Package-URL=http://sourceforge.net/apps/mediawiki/free-cad/

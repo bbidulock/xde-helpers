@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Rachota
+Comment=A portable timetracker for personal projects
+Icon=rachota
+TryExec=/usr/bin/rachota
+Exec=rachota
+NoDisplay=true
+Categories=Office;ProjectManagement;
+X-AppInstall-Package=rachota-devel
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=rachota-devel 2.4.131031-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=rachota-devel
+X-Arch-Package-Version=2.4.131031-1
+X-Arch-Package-Description=A portable timetracker for personal projects (development
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://rachota.sourceforge.net/
+X-Arch-Package-Votes=1
+Aliases=rachota;

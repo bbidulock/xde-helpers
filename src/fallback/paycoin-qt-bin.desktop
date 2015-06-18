@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Paycoin
+Comment=Paycoin Wallet
+Icon=paycoin
+TryExec=/usr/bin/paycoin-qt
+Exec=/usr/bin/paycoin-qt %u
+NoDisplay=true
+Categories=Office;Internet;
+MimeType=x-scheme-handler/paycoin;
+X-AppInstall-Package=paycoin-qt-bin
+X-AppInstall-Section=aur
+X-Arch-Package=paycoin-qt-bin 0.2.0.0-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=paycoin-qt-bin
+X-Arch-Package-Version=0.2.0.0-4
+X-Arch-Package-Description=PayCoin is a global currency that lets you send money to
+X-Arch-Package-Groups=network
+X-Arch-Package-URL=http://paycoin.com
+X-Arch-Package-Votes=0
+Aliases=paycoin-wallet;

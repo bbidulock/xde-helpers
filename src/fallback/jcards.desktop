@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=JCards
+GenericName=Database Program
+Icon=jcards.png
+TryExec=/usr/share/JCards/jcards
+Exec=/usr/share/JCards/jcards
+Categories=Office;
+X-AppInstall-Package=jcards
+X-AppInstall-Section=aur
+X-Arch-Package=jcards 6.5.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jcards
+X-Arch-Package-Version=6.5.1-1
+X-Arch-Package-Description=Easy user definable database program.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.nsydenham.net/java/JCards/JCards.shtml
+X-Arch-Package-Votes=0

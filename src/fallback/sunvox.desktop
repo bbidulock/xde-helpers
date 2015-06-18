@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.7
+Type=Application
+Name=SunVox
+Comment=A small, fast and powerful modular synthesizer with pattern based sequencer
+Icon=/usr/share/icons/sunvox/sunvox.png
+TryExec=/usr/bin/sunvox
+Exec=sunvox
+Categories=AudioVideo;Player;SDL;
+X-AppInstall-Package=sunvox
+X-AppInstall-Popcon=24
+X-AppInstall-Section=aur
+X-Arch-Package=sunvox 1.8.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sunvox
+X-Arch-Package-Version=1.8.1-1
+X-Arch-Package-Description=SunVox is a small, fast and powerful modular synthesizer with
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.warmplace.ru/soft/sunvox/
+X-Arch-Package-Votes=24

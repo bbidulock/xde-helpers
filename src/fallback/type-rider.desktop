@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Type Rider
+Comment=Play as 2 dots and travel through the ages of typographic styles and techniques
+Icon=type-rider
+TryExec=/usr/bin/type-rider
+Exec=type-rider
+Categories=Game;ActionGame;AdventureGame;
+StartupNotify=true
+X-AppInstall-Package=type-rider-hib
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=type-rider-hib 1395097265-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=type-rider-hib
+X-Arch-Package-Version=1395097265-1
+X-Arch-Package-Description=Play as 2 dots and travel through the ages of typographic
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.bulkypix.com/game/typerider
+X-Arch-Package-Votes=1

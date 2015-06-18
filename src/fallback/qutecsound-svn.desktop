@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=QuteCsound
+GenericName=QuteCsound
+Comment=Csound Qt signal processing environment
+Icon=qutecsound
+TryExec=/usr/bin/qutecsound
+Exec=qutecsound
+NoDisplay=true
+Categories=Application;AudioVideo;Audio;
+X-AppInstall-Package=qutecsound-svn
+X-AppInstall-Section=aur
+X-Arch-Package=qutecsound-svn 846-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qutecsound-svn
+X-Arch-Package-Version=846-2
+X-Arch-Package-Description=A cross platform editor and front-end for Csound with syntax highlighting,
+X-Arch-Package-URL=http://qutecsound.sourceforge.net/
+Aliases=qutecsound;

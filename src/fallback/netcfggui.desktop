@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=0.5
+Type=Application
+Name=netcfgGUI
+GenericName=Network configuration
+Comment=A GUI for netcfg2
+Icon=/usr/share/pixmaps/netcfgGUI.png
+TryExec=/usr/bin/netcfgGUI
+Exec=netcfgGUI
+Categories=System;Qt;
+X-AppInstall-Package=netcfggui
+X-AppInstall-Popcon=58
+X-AppInstall-Section=aur
+X-Arch-Package=netcfggui 0.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=netcfggui
+X-Arch-Package-Version=0.5-1
+X-Arch-Package-Description=A GUI for netcfg2
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.kde-apps.org/content/show.php/netcfgGUI?content=99509
+X-Arch-Package-Votes=58

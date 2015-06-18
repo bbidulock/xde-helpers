@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Darkplaces
+GenericName=Quake Engine
+Comment=Play Quake with the Darkplaces engine
+Icon=darkplaces
+TryExec=/usr/bin/darkplaces-sdl
+Exec=darkplaces-sdl
+Categories=Game;ActionGame;
+StartupNotify=true
+X-AppInstall-Package=darkplaces
+X-AppInstall-Popcon=70
+X-AppInstall-Section=aur
+X-Arch-Package=darkplaces 20140513-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=darkplaces
+X-Arch-Package-Version=20140513-1
+X-Arch-Package-Description=An advanced Quake 1 game engine
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://icculus.org/twilight/darkplaces/
+X-Arch-Package-Votes=70

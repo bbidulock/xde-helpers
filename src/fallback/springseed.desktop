@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=2.0
+Type=Application
+Name=Springseed
+Comment=Simply awesome note taking.
+Icon=springseed
+TryExec=/usr/bin/springseed
+Exec=/usr/bin/springseed
+Categories=Utility;
+StartupNotify=true
+X-AppInstall-Package=springseed
+X-AppInstall-Popcon=29
+X-AppInstall-Section=aur
+X-Arch-Package=springseed 2.0-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=springseed
+X-Arch-Package-Version=2.0-4
+X-Arch-Package-Description=Simply awesome note taking.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://getspringseed.com
+X-Arch-Package-Votes=29

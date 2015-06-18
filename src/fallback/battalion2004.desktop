@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Battalion 2004
+GenericName=Battalion 2004 rampaging monster
+Comment=Be a rampaging monster and destroy the city
+Icon=battalion2004.png
+TryExec=/usr/bin/battalion2004.sh
+Exec=battalion2004.sh
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=battalion2004
+X-AppInstall-Section=aur
+X-Arch-Package=battalion2004 c-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=battalion2004
+X-Arch-Package-Version=c-2
+X-Arch-Package-Description=Game in which you are a rampaging monster and destroy the city.
+X-Arch-Package-URL=http://www.battalion2004.tk/

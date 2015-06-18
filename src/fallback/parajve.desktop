@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=ParaJVE
+GenericName=Vectrex Emulator
+Icon=/usr/share/pixmaps/parajve.png
+TryExec=/usr/bin/parajve
+Exec=parajve
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=parajve
+X-AppInstall-Section=aur
+X-Arch-Package=parajve 0.7.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=parajve
+X-Arch-Package-Version=0.7.0-2
+X-Arch-Package-Description=Advanced emulator for the GCE Vectrex game console(1982) with
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.vectrex.fr/ParaJVE/
+X-Arch-Package-Votes=0

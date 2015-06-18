@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=QTalarm
+GenericName=QTalarm
+Comment=A nifty alarm clock written in QT
+Icon=1349069370_Alarm_Clock.png
+TryExec=/usr/bin/qtalarm
+Exec=qtalarm
+Categories=Application;Utility;
+X-AppInstall-Package=qtalarm
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=qtalarm 4700237.8-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qtalarm
+X-Arch-Package-Version=4700237.8-1
+X-Arch-Package-Description=Cross-platform Alarm Clock written with QT5
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://random-hackery.net/
+X-Arch-Package-Votes=6
+Value=1.0

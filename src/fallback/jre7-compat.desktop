@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Java Policy Settings
+Name[cs]=Nastavení politiky Java aplikací
+Icon=sun-java.png
+TryExec=/usr/bin/policytool
+Exec=policytool
+NoDisplay=true
+Categories=Settings;Java;
+StartupNotify=true
+X-AppInstall-Package=jre7-compat
+X-AppInstall-Section=aur
+X-Arch-Package=jre7-compat 7u3-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jre7-compat
+X-Arch-Package-Version=7u3-2
+X-Arch-Package-Description=Java 7 Runtime Environment, designed to be installed in parallel with another java installation.
+X-Arch-Package-URL=http://www.oracle.com/technetwork/java/javase/downloads/index.html
+Aliases=java-policy-settings;

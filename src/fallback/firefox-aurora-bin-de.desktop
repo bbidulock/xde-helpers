@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Aurora
+GenericName=Web Browser
+Icon=firefox-aurora-icon
+TryExec=/usr/bin/firefox-aurora
+Exec=firefox-aurora %u
+MultipleArgs=false
+NoDisplay=true
+Categories=Application;Network;
+MimeType=text/html;
+StartupNotify=false
+X-AppInstall-Package=firefox-aurora-bin-de
+X-AppInstall-Section=aur
+X-Arch-Package=firefox-aurora-bin-de 8.0a2-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=firefox-aurora-bin-de
+X-Arch-Package-Version=8.0a2-1
+X-Arch-Package-Description=Aurora channel is where users can test the latest features and innovations in Firefox web browser
+X-Arch-Package-URL=http://www.mozilla.org/projects/firefox
+Aliases=firefox-aurora;

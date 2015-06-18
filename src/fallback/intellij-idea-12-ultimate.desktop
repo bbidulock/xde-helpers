@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=IntelliJ IDEA 12 Ultimate Edition
+Comment=Intelligent Java IDE
+Icon=intellij-idea-12-ultimate
+TryExec=/usr/bin/intellij-idea-12-ultimate
+Exec=intellij-idea-12-ultimate %u
+Categories=Development;IDE;
+StartupWMClass=jetbrains-idea
+X-AppInstall-Package=intellij-idea-12-ultimate
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=intellij-idea-12-ultimate 12.1.7b-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=intellij-idea-12-ultimate
+X-Arch-Package-Version=12.1.7b-1
+X-Arch-Package-Description=An intelligent IDE for Java, Groovy and other programming
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.jetbrains.com/idea/
+X-Arch-Package-Votes=3

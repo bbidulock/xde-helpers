@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=XJewel
+Comment=A falling blocks game like Tetris and Sega Columns
+Icon=xjewel
+TryExec=/usr/bin/xjewel
+Exec=xjewel
+Categories=Game;BlocksGame;
+X-AppInstall-Package=xjewel
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=xjewel 1.6-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xjewel
+X-Arch-Package-Version=1.6-4
+X-Arch-Package-Description=A falling blocks game like Tetris and Sega Columns
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.happypenguin.org/show?XJewel
+X-Arch-Package-Votes=3

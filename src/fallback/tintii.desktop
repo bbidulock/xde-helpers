@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Tintii
+GenericName=Tintii
+Comment=Filter the color of your photos
+Icon=tintii
+TryExec=/usr/bin/tintii
+Exec=tintii %f
+Categories=Graphics;2DGraphics;
+X-AppInstall-Package=tintii
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=tintii 2.9.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=tintii
+X-Arch-Package-Version=2.9.0-1
+X-Arch-Package-Description=A smart photo filter for striking colour select effects
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.indii.org/software/tintii
+X-Arch-Package-Votes=5

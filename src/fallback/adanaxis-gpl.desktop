@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.2.5
+Type=Application
+Name=Adanaxis (GPL)
+Comment=4D space shooter game
+Icon=adanaxisgpl
+TryExec=/usr/bin/adanaxisgpl
+Exec=adanaxisgpl
+NoDisplay=true
+Categories=Game;
+X-AppInstall-Package=adanaxis-gpl
+X-AppInstall-Section=aur
+X-Arch-Package=adanaxis-gpl 1.2.5-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=adanaxis-gpl
+X-Arch-Package-Version=1.2.5-1
+X-Arch-Package-Description=A deep space first-person shooter game in four spatial dimensions (GPL version)
+X-Arch-Package-URL=http://libregamewiki.org/Adanaxis
+Aliases=adanaxisgpl;

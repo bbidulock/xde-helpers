@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=GSview
+Comment=Postscript and PDF Previewer
+Icon=gsview48.png
+TryExec=/usr/bin/gsview
+Exec=gsview
+X-AppInstall-Package=gsview
+X-AppInstall-Popcon=52
+X-AppInstall-Section=aur
+X-Arch-Package=gsview 4.9-10
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gsview
+X-Arch-Package-Version=4.9-10
+X-Arch-Package-Description=A nice looking GUI for ghostscript with some extraction
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://pages.cs.wisc.edu/~ghost/gsview/get49.htm
+X-Arch-Package-Votes=52

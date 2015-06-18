@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Sleep Is Death
+Comment=A storytelling game for two players by Jason Rohrer
+Icon=sleepisdeath.png
+TryExec=/usr/bin/sleepisdeath
+Exec=sleepisdeath
+Categories=Game;AdventureGame;
+X-AppInstall-Package=sleepisdeath
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=sleepisdeath 16-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=sleepisdeath
+X-Arch-Package-Version=16-1
+X-Arch-Package-Description=A storytelling game for two players by Jason Rohrer
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sleepisdeath.net/
+X-Arch-Package-Votes=1

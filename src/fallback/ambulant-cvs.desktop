@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Ambulant
+Comment=SMIL Player
+Icon=/usr/share/pixmaps/ambulant.png
+TryExec=/usr/bin/AmbulantPlayer_gtk
+Exec=/usr/bin/AmbulantPlayer_gtk
+NoDisplay=true
+Categories=AudioVideo;Video;GTK;
+X-AppInstall-Package=ambulant-cvs
+X-AppInstall-Section=aur
+X-Arch-Package=ambulant-cvs 20100420-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=ambulant-cvs
+X-Arch-Package-Version=20100420-1
+X-Arch-Package-Description=A program to play SMIL (Synchronized Multimedia Integration
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.ambulantplayer.org/
+X-Arch-Package-Votes=0
+Aliases=ambulant;

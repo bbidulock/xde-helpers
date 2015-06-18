@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=ClassicMenu Indicator
+GenericName=ClassicMenu Indicator
+Comment=Indicator applet to show the Gnome Classic main menu
+Comment[de]=Ein Indikator-Applet, das das Hauptmenu von Gnome Classic anzeigt
+Icon=gnome-main-menu
+TryExec=/usr/bin/classicmenu-indicator
+Exec=classicmenu-indicator
+Categories=Utility;GNOME;
+X-AppInstall-Package=classicmenu-indicator
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=classicmenu-indicator 0.07-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=classicmenu-indicator
+X-Arch-Package-Version=0.07-1
+X-Arch-Package-Description=An indicator that displays the main menu from Gnome2/Gnome
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.florian-diesch.de/software/classicmenu-indicator
+X-Arch-Package-Votes=3

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Black Penguin
+Comment=An arcade style jump-on-cubes game with Penguin and Evil Window
+Icon=blackpenguin
+TryExec=/usr/bin/blackpenguin
+Exec=blackpenguin
+Categories=Game;ArcadeGame;
+X-AppInstall-Package=blackpenguin
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=blackpenguin 0.2-4
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=blackpenguin
+X-Arch-Package-Version=0.2-4
+X-Arch-Package-Description=An arcade style jump-on-cubes game with Penguin and Evil
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.ibiblio.org/pub/linux/games/arcade/
+X-Arch-Package-Votes=1

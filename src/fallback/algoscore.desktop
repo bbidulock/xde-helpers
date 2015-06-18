@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=AlgoScore
+Icon=/usr/share/pixmaps/algoscore/as_icon.png
+TryExec=/usr/bin/algoscore
+Exec=algoscore
+Categories=Application;AudioVideo;
+X-AppInstall-Package=algoscore
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=algoscore 20121101-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=algoscore
+X-Arch-Package-Version=20121101-1
+X-Arch-Package-Description=a graphical environment for algorithmic composition, where
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://kymatica.com/Software/AlgoScore
+X-Arch-Package-Votes=4

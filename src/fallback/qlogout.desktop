@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=Logout
+Icon=exit
+TryExec=/usr/bin/qtLogout
+Exec=qtLogout
+Categories=System;
+X-AppInstall-Package=qtlogout-consolekit
+X-AppInstall-Section=aur
+X-Arch-Package=qtlogout-consolekit 0.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qtlogout-consolekit
+X-Arch-Package-Version=0.1-2
+X-Arch-Package-Description=Qt based logout menu for LXQt
+X-Arch-Package-URL=https://forum.manjaro.org/index.php?topic=15538.0

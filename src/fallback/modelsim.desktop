@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=ModelSim
+Comment=ModelSim simulation software for Altera FPGA's
+Icon=_alteradir/modesim.gif
+TryExec=_alteradir/bin/vsim
+Exec=_alteradir/bin/vsim
+Terminal=true
+Categories=Development;
+X-AppInstall-Package=modelsim-altera
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=modelsim-altera 13.1.0.162-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=modelsim-altera
+X-Arch-Package-Version=13.1.0.162-1
+X-Arch-Package-Description=Simulation software for Altera FPGA's
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.altera.com
+X-Arch-Package-Votes=1

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=The Witcher 2 Assassins Of Kings - Configurator
+Comment=The Witcher 2 Assassins Of Kings - Configurator (GOG.com)
+Icon=/opt/gog/the-witcher-2-assassins-of-kings/game/linux/icons/witcher2-configurator.png
+TryExec=/usr/bin/gog-the-witcher-2-configurator
+Exec=gog-the-witcher-2-configurator
+Categories=Game;
+X-AppInstall-Package=gog-the-witcher-2-assassins-of-kings
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=gog-the-witcher-2-assassins-of-kings 1.2.0.7-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gog-the-witcher-2-assassins-of-kings
+X-Arch-Package-Version=1.2.0.7-1
+X-Arch-Package-Description=The second installment in the RPG saga about the Witcher,
+X-Arch-Package-Groups=games
+X-Arch-Package-URL=http://www.gog.com/game/the_witcher_2
+X-Arch-Package-Votes=5

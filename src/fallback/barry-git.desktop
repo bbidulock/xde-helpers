@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Barry
+Icon=barry_logo_icon
+TryExec=/usr/bin/barrydesktop
+Exec=barrydesktop
+NoDisplay=true
+Categories=Application;Utility;
+X-AppInstall-Package=barry-git
+X-AppInstall-Popcon=14
+X-AppInstall-Section=aur
+X-Arch-Package=barry-git 0.18.4.1.r52.gc6657c5-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=barry-git
+X-Arch-Package-Version=0.18.4.1.r52.gc6657c5-2
+X-Arch-Package-Description=Barry is an Open Source application that provides a Desktop
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.netdirect.ca/software/packages/barry
+X-Arch-Package-Votes=14
+Aliases=barry;

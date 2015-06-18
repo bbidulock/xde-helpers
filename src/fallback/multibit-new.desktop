@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=MultiBit
+GenericName=MultiBit
+Comment=A lightweight Bitcoin desktop client powered by the BitCoinJ library.
+Icon=/usr/share/pixmaps/multibit.png
+TryExec=/usr/bin/multibit
+Exec=multibit
+NoDisplay=true
+Categories=Network;
+X-AppInstall-Package=multibit-new
+X-AppInstall-Section=aur
+X-Arch-Package=multibit-new 0.5.13-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=multibit-new
+X-Arch-Package-Version=0.5.13-1
+X-Arch-Package-Description=A lightweight Bitcoin desktop client powered by the BitCoinJ library.
+X-Arch-Package-URL=https://multibit.org/
+Aliases=multibit;

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=PS3 Media Server
+Comment=Java DLNA compliant UPnP Media Server for the PS3
+Icon=pms.png
+TryExec=/usr/bin/ps3mediaserver
+Exec=ps3mediaserver
+NoDisplay=true
+Categories=Network;Java;
+X-AppInstall-Package=-git
+X-AppInstall-Popcon=7
+X-AppInstall-Section=aur
+X-Arch-Package=ps3mediaserver-git 20140122-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=-git
+X-Arch-Package-Version=20140122-1
+X-Arch-Package-Description=PS3 Media Server (PMS) is a cross-platform DLNA-compliant UPnP
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.ps3mediaserver.org/
+X-Arch-Package-Votes=7
+Aliases=pms;

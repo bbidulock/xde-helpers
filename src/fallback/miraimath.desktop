@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Mirai Math
+Comment=A mathematical program with many features and paper-like interface
+Icon=miraimath
+TryExec=/usr/bin/miraimath
+Exec=miraimath
+Categories=Education;Science;
+X-AppInstall-Package=miraimath
+X-AppInstall-Popcon=5
+X-AppInstall-Section=aur
+X-Arch-Package=miraimath 0.5-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=miraimath
+X-Arch-Package-Version=0.5-2
+X-Arch-Package-Description=Simple graphical frontend for Octave, with native mathematical
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://mirai.sourceforge.net
+X-Arch-Package-Votes=5

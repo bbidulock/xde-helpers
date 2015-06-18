@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=JStock
+Comment=A stock market software that helps you make smart investment decision
+Icon=jstock
+TryExec=/usr/bin/jstock
+Exec=jstock
+Categories=Office;Finance;Java;
+X-AppInstall-Package=jstock
+X-AppInstall-Popcon=17
+X-AppInstall-Section=aur
+X-Arch-Package=jstock 1.0.7.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=jstock
+X-Arch-Package-Version=1.0.7.6-1
+X-Arch-Package-Description=A stock market software that helps you make smart investment
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://jstock.org/
+X-Arch-Package-Votes=17

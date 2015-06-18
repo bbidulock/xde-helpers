@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Gescen
+Comment=Gescen
+Icon=/usr/share/pixmaps/gescen.png
+TryExec=/usr/bin/gescen
+Exec=/usr/bin/gescen
+Categories=Office;
+StartupNotify=true
+X-AppInstall-Package=gescen
+X-AppInstall-Section=aur
+X-Arch-Package=gescen 1.1.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=gescen
+X-Arch-Package-Version=1.1.3-1
+X-Arch-Package-Description=Gescen
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://edutictac.es
+X-Arch-Package-Votes=0

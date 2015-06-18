@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Blocks That Matter
+Comment=Platformer with puzzle elements that form a mix of Tetris and Minecraft.
+Icon=blocks-that-matter-icon
+TryExec=/usr/bin/blocks-that-matter
+Exec=/usr/bin/blocks-that-matter
+Categories=Game;ActionGame;
+X-AppInstall-Package=blocks-that-matter
+X-AppInstall-Popcon=16
+X-AppInstall-Section=aur
+X-Arch-Package=blocks-that-matter 1.0.0.8-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=blocks-that-matter
+X-Arch-Package-Version=1.0.0.8-2
+X-Arch-Package-Description=Platformer with puzzle elements that form a mix of Tetris and
+X-Arch-Package-Groups=humblevoxatronbundle humblebundles
+X-Arch-Package-URL=http://www.swingswingsubmarine.com/games/blocks-that-matter/
+X-Arch-Package-Votes=16

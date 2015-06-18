@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Broken Age
+GenericName=Broken Age
+Comment=Play Broken Age
+Icon=broken-age-hib
+TryExec=/usr/bin/broken-age-hib
+Exec=broken-age-hib
+Categories=Application;AudioVideo;Game;
+StartupNotify=true
+X-AppInstall-Package=broken-age-hib
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=broken-age-hib 20_04_22_2015-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=broken-age-hib
+X-Arch-Package-Version=20_04_22_2015-1
+X-Arch-Package-Description=Broken Age is a point-and-click adventure telling the stories
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.brokenagegame.com/
+X-Arch-Package-Votes=1

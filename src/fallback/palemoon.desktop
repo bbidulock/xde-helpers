@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=Pale Moon Web Browser
+Comment=Browse the World Wide Web
+Icon=palemoon
+TryExec=/usr/bin/palemoon
+Exec=palemoon %u
+X-MultipleArgs=false
+Categories=Network;WebBrowser;Internet;
+Keywords=Internet;WWW;Browser;Web;Firefox;
+MimeType=text/html;text/xml;application/xhtml+xml;application/xml;application/rss+xml;application/rdf+xml;image/gif;image/jpeg;image/png;x-scheme-handler/http;x-scheme-handler/https;x-scheme-handler/ftp;x-scheme-handler/chrome;video/webm;application/x-xpinstall;
+StartupNotify=true
+X-AppInstall-Package=palemoon
+X-AppInstall-Popcon=26
+X-AppInstall-Section=aur
+X-Arch-Package=palemoon 25.5.0-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=palemoon
+X-Arch-Package-Version=25.5.0-1
+X-Arch-Package-Description=Open source web browser based on Firefox focusing on
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.palemoon.org/
+X-Arch-Package-Votes=26

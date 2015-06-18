@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=Hamsi Manager
+GenericName=Hamsi Manager
+Comment=Hamsi Manager
+Icon=/usr/share/hamsi/Themes/Default/Images/HamsiManager.png
+TryExec=/usr/bin/hamsi
+Exec=/usr/bin/hamsi
+NoDisplay=true
+Categories=AudioVideo;Audio;Utility;AudioVideoEditing;KDE;Qt;X-KDE-Utilities-File;X-MandrivaLinux-Multimedia-Sound;
+Path=/usr/share/hamsi
+StartupNotify=true
+X-KDE-SubstituteUID=false
+X-AppInstall-Package=hamsimanager-svn
+X-AppInstall-Popcon=1
+X-AppInstall-Section=aur
+X-Arch-Package=hamsimanager-svn 222-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=hamsimanager-svn
+X-Arch-Package-Version=222-1
+X-Arch-Package-Description=Hamsi Manager is a file manager,renamer,id3 tagger,information
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://hamsimanager.sourceforge.net
+X-Arch-Package-Votes=1
+Aliases=HamsiManager;

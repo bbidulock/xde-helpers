@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Caster Demo
+GenericName=Caster Demo
+Comment=Caster, a third-person shooter from Elecorn
+Icon=caster_icon.png
+TryExec=/usr/bin/caster-demo
+Exec=caster-demo
+Categories=Game;
+X-AppInstall-Package=caster-demo
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=caster-demo 1.3.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=caster-demo
+X-Arch-Package-Version=1.3.1-2
+X-Arch-Package-Description=an intense 3rd person action shooter with massive terrain
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://elecorn.com/caster3d/
+X-Arch-Package-Votes=4
+Value=1.0

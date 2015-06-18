@@ -1,0 +1,61 @@
+[Desktop Entry]
+Type=Application
+Name=Steam - Native Borders
+Comment=Launch Steam with native borders.
+Icon=steam
+TryExec=/usr/bin/steam-wb
+Exec=/usr/bin/steam-wb %U
+Categories=Game;
+MimeType=x-scheme-handler/ubuntusteamskin;
+X-AppInstall-Package=steam-skin-manager
+X-AppInstall-Popcon=30
+X-AppInstall-Section=aur
+X-Arch-Package=steam-skin-manager 3.9.1-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=steam-skin-manager
+X-Arch-Package-Version=3.9.1-2
+X-Arch-Package-Description=GUI for Steam skins management
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://iubuntu.cz/Steam/
+X-Arch-Package-Votes=30
+Actions=Store;Community;Library;Servers;Screenshots;News;Settings;Friends
+
+[Desktop Action Store]
+Name=Store
+TryExec=/usr/bin/steam-wb
+Exec=steam-wb steam://store
+
+[Desktop Action Community]
+Name=Community
+TryExec=/usr/bin/steam-wb
+Exec=steam-wb steam://url/SteadmIDControlPage
+
+[Desktop Action Library]
+Name=Library
+TryExec=/usr/bin/steam-wb
+Exec=steam-wb steam://open/games
+
+[Desktop Action Servers]
+Name=Servers
+TryExec=/usr/bin/steam-wb
+Exec=steam-wb steam://open/servers
+
+[Desktop Action Screenshots]
+Name=Screenshots
+TryExec=/usr/bin/steam-wb
+Exec=steam-wb steam://open/screenshots
+
+[Desktop Action News]
+Name=News
+TryExec=/usr/bin/steam-wb
+Exec=steam-wb steam://open/news
+
+[Desktop Action Settings]
+Name=Settings
+TryExec=/usr/bin/steam-wb
+Exec=steam-wb steam://open/settings
+
+[Desktop Action Friends]
+Name=Friends
+TryExec=/usr/bin/steam-wb
+Exec=steam-wb steam://open/friends

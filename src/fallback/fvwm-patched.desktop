@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=XSession
+Name=fvwm-patched
+TryExec=/usr/bin/fvwm
+Exec=/usr/bin/fvwm
+X-AppInstall-Package=fvwm-patched
+X-AppInstall-Popcon=26
+X-AppInstall-Section=aur
+X-Arch-Package=fvwm-patched 2.6.3-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=fvwm-patched
+X-Arch-Package-Version=2.6.3-1
+X-Arch-Package-Description=A multiple large virtual desktop window manager originally
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.fvwm.org
+X-Arch-Package-Votes=26

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Dictator
+GenericName=Program for reading text files by Rapid Serial Visual Projection
+Icon=/usr/lib/python2.7/site-packages/dictator/data/dictator.ico
+TryExec=/usr/bin/dictator_start.py
+Exec=/usr/bin/dictator_start.py
+Categories=Office;
+X-AppInstall-Package=dictator
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=dictator 0.9.7-5
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=dictator
+X-Arch-Package-Version=0.9.7-5
+X-Arch-Package-Description=Program for reading text files by Rapid Serial Visual
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://dictator.kieranholland.com/dictator.html
+X-Arch-Package-Votes=6

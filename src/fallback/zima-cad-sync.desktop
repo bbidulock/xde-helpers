@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=ZIMA-CAD-Sync
+Comment=utility for synchronising CAD data on a FTP server
+Icon=zima-cad-sync
+TryExec=/usr/bin/ZIMA-CAD-Sync
+Exec=ZIMA-CAD-Sync
+Categories=Network;
+X-AppInstall-Package=zima-cad-sync
+X-AppInstall-Section=aur
+X-Arch-Package=zima-cad-sync 1.2.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=zima-cad-sync
+X-Arch-Package-Version=1.2.1-1
+X-Arch-Package-Description=A simple utility for synchronising CAD data between local
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.zima-engineering.cz/projekty/ZIMA-CAD-Sync/
+X-Arch-Package-Votes=0

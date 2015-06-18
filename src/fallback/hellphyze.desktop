@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=hellphyze
+GenericName=hellphyze
+Icon=/usr/share/pixmaps/hellphyze_icon.png
+TryExec=/usr/bin/hellphyze
+Exec=hellphyze
+Categories=Application;Utility;
+X-AppInstall-Package=hellphyze-git
+X-AppInstall-Section=aur
+X-Arch-Package=hellphyze-git 16.f9c883f-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=hellphyze-git
+X-Arch-Package-Version=16.f9c883f-1
+X-Arch-Package-Description=This is an Open Source GUI Telnet client designed for
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/wifiextender/hellphyze
+X-Arch-Package-Votes=0

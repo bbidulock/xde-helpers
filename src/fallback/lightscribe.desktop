@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Lightscribe
+Comment=4L: LaCie LightScribe Labeler for Linux
+Icon=lightscribe.png
+TryExec=/usr/bin/4L-gui
+Exec=4L-gui
+Categories=Application;AudioVideo;
+X-AppInstall-Package=bin32-4l
+X-AppInstall-Popcon=24
+X-AppInstall-Section=aur
+X-Arch-Package=bin32-4l 1.0r6-7
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=bin32-4l
+X-Arch-Package-Version=1.0r6-7
+X-Arch-Package-Description=4L: LaCie LightScribe Labeler for Linux
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.lacie.com/products/product.htm?pid=10803
+X-Arch-Package-Votes=24

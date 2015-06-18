@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Tea
+Comment=A small programmer's GTK editor
+Icon=tea_icon_v2.png
+TryExec=/usr/bin/teagtk
+Exec=teagtk %U
+Categories=Application;Utility;TextEditor;
+StartupNotify=true
+X-AppInstall-Package=teagtk
+X-AppInstall-Section=aur
+X-Arch-Package=teagtk 17.6.6-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=teagtk
+X-Arch-Package-Version=17.6.6-2
+X-Arch-Package-Description=TEA is the GTK2-based text editor for Linux and *BSD. With an ultimate small size TEA provides you hundreds of functions.
+X-Arch-Package-URL=http://tea-editor.sourceforge.net/

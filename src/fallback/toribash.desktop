@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Toribash
+Comment=An innovative fighting game
+TryExec=/usr/bin/toribash
+Exec=toribash
+Categories=Game;ArcadeGame;
+StartupNotify=false
+X-AppInstall-Package=toribash
+X-AppInstall-Section=aur
+X-Arch-Package=toribash 3.50-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=toribash
+X-Arch-Package-Version=3.50-2
+X-Arch-Package-Description=A ragdoll-physics, turn-based fighting game from Sweden.
+X-Arch-Package-URL=http://www.toribash.com

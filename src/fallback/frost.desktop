@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Frost
+Icon=/opt/frost/jtc.ico
+Icon[en_US]=/opt/frost/jtc.ico
+TryExec=/opt/frost/frost.sh
+Exec=/opt/frost/frost.sh
+Categories=Application;Network;
+X-AppInstall-Package=frost
+X-AppInstall-Popcon=39
+X-AppInstall-Section=aur
+X-Arch-Package=frost 20110305-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=frost
+X-Arch-Package-Version=20110305-1
+X-Arch-Package-Description=A Freenet 0.7 client that provides newsgroup-like messaging,
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://jtcfrost.sourceforge.net/
+X-Arch-Package-Votes=39

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=TouchEgg-GCE
+Name[en_US]=touchegg-gce
+GenericName=MultiTouch Config
+Comment=Configuration Tool for Touchegg multitouch.
+Icon=input-tablet
+TryExec=/opt/Touchegg-gce/touchegg-gce
+Exec=/opt/Touchegg-gce/touchegg-gce
+Categories=Settings;
+X-AppInstall-Package=touchegg-gce-git
+X-AppInstall-Popcon=14
+X-AppInstall-Section=aur
+X-Arch-Package=touchegg-gce-git 1.1-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=touchegg-gce-git
+X-Arch-Package-Version=1.1-3
+X-Arch-Package-Description=GUI for touchegg
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=https://github.com/Raffarti/Touchegg-gce
+X-Arch-Package-Votes=14

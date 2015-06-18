@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=SoulSeekQT
+Comment=Soulseek music-sharing client
+Icon=soulseekqt
+TryExec=/usr/bin/soulseekqt
+Exec=soulseekqt
+Categories=Network;P2P;
+X-AppInstall-Package=soulseekqt
+X-AppInstall-Popcon=28
+X-AppInstall-Section=aur
+X-Arch-Package=soulseekqt 20141130-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=soulseekqt
+X-Arch-Package-Version=20141130-1
+X-Arch-Package-Description=A desktop client for the Soulseek peer-to-peer file sharing
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.soulseekqt.net/news/
+X-Arch-Package-Votes=28

@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=ePSXe
+GenericName=PSX emulator
+Comment=Play your PlayStation games on Linux with the Enhanced PlayStation Emulator
+Icon=/usr/share/pixmaps/epsxe_64x64.png
+TryExec=/usr/bin/epsxe
+Exec=epsxe
+NoDisplay=true
+Categories=Application;Game;Emulator;
+StartupNotify=true
+X-AppInstall-Package=epsxe-launcher-bash
+X-AppInstall-Popcon=16
+X-AppInstall-Section=aur
+X-Arch-Package=epsxe-launcher-bash 0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=epsxe-launcher-bash
+X-Arch-Package-Version=0.1-1
+X-Arch-Package-Description=Bash launcher for the Enhanced PSX Emulator.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.epsxe.com/
+X-Arch-Package-Votes=16
+Aliases=epsxe;

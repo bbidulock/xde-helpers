@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Hot Babe
+GenericName=Hot Babe
+Comment=A system load monitor
+Comment[cs]=Ukazatel vytížení systému
+Icon=hot-babe
+TryExec=/usr/bin/hot-babe
+Exec=hot-babe --geometry -0+0
+Categories=System;Utility;
+X-AppInstall-Package=hot-babe
+X-AppInstall-Popcon=27
+X-AppInstall-Section=aur
+X-Arch-Package=hot-babe 0.2.2-11
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=hot-babe
+X-Arch-Package-Version=0.2.2-11
+X-Arch-Package-Description=A system load monitor that displays the system activity in a
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://packages.medibuntu.org/maverick/hot-babe.html
+X-Arch-Package-Votes=27

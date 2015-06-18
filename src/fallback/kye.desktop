@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Kye
+Comment=Move around and collect all the diamonds
+Icon=kye-icon.png
+TryExec=/usr/bin/Kye
+Exec=Kye
+Categories=Application;Game;
+Path=/usr/share/kye
+StartupNotify=false
+X-AppInstall-Package=kye
+X-AppInstall-Popcon=3
+X-AppInstall-Section=aur
+X-Arch-Package=kye 1.0.0-2
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kye
+X-Arch-Package-Version=1.0.0-2
+X-Arch-Package-Description=An addictive action-puzzle game, where you have to collect all
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://games.moria.org.uk/kye/pygtk
+X-Arch-Package-Votes=3

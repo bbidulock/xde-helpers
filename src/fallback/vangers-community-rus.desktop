@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=beta
+Type=Application
+Name=Vangers Open Beta
+GenericName=Vangers community build
+Comment=Game with elements of the racing and role-playing
+Icon=vangers
+TryExec=/usr/bin/vangers
+Exec=vangers
+Categories=Game;
+X-AppInstall-Package=vangers-community-rus
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=vangers-community-rus svn238-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=vangers-community-rus
+X-Arch-Package-Version=svn238-3
+X-Arch-Package-Description=Vangers Open Beta Game, svn283 binary build, russian.
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://bitcheese.net/wiki/howto/vangers-linux
+X-Arch-Package-Votes=4

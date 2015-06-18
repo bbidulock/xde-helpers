@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=qtuneroid
+Comment=Instrument tuner
+Comment[fr]=accordeur d'instruments
+TryExec=/usr/bin/qtuneroid
+Exec=qtuneroid
+Categories=Application;AudioVideo;
+X-AppInstall-Package=qtuneroid
+X-AppInstall-Popcon=12
+X-AppInstall-Section=aur
+X-Arch-Package=qtuneroid 0.9-7
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=qtuneroid
+X-Arch-Package-Version=0.9-7
+X-Arch-Package-Description=Tuner for variety of musical instruments (especially guitar)
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://sourceforge.net/projects/qtuneroid/
+X-Arch-Package-Votes=12

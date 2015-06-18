@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=pgadmin3
+Comment=A comprehensive design and management interface for PostgreSQL database
+Icon=/usr/share/pgadmin3/pixmaps/pgAdmin3.ico
+TryExec=/usr/bin/pgadmin3
+Exec=pgadmin3
+NoDisplay=true
+Categories=Application;Development;
+StartupNotify=true
+X-AppInstall-Package=pgadmin3-svn
+X-AppInstall-Section=aur
+X-Arch-Package=pgadmin3-svn 8445-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=pgadmin3-svn
+X-Arch-Package-Version=8445-1
+X-Arch-Package-Description=A comprehensive design and management interface for PostgreSQL database, svn package.
+X-Arch-Package-URL=http://www.pgadmin.org
+Aliases=pgadmin3;

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=King's Quest III: To Heir is Human Remake
+Comment=A point and click adventure game
+Icon=/usr/share/pixmaps/kq3vga.png
+TryExec=/usr/bin/kq3vga
+Exec=/usr/bin/kq3vga &
+Categories=Game;
+StartupNotify=true
+X-AppInstall-Package=kq3vga
+X-AppInstall-Section=aur
+X-Arch-Package=kq3vga 1.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=kq3vga
+X-Arch-Package-Version=1.1-1
+X-Arch-Package-Description=King's Quest III Redux: To Heir is Human
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.agdinteractive.com/games/kq3/about/overview.html
+X-Arch-Package-Votes=0

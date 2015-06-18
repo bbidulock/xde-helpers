@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=MassHash
+Comment=Set of file hashing tools
+Icon=masshash-launcher
+TryExec=/usr/bin/masshash-launcher
+Exec=masshash-launcher
+StartupNotify=true
+X-AppInstall-Package=masshash
+X-AppInstall-Popcon=4
+X-AppInstall-Section=aur
+X-Arch-Package=masshash 1.0.1-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=masshash
+X-Arch-Package-Version=1.0.1-1
+X-Arch-Package-Description=None
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://jdleicher.github.io/MassHash
+X-Arch-Package-Votes=4

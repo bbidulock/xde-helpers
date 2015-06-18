@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Xojo
+Comment=A RAD environment based on BASIC that compiles native applications for Windows, Mac, Linux, and the web.
+Icon=xojo
+TryExec=/usr/bin/Xojo
+Exec=Xojo
+Categories=Application;Development;
+StartupNotify=false
+X-AppInstall-Package=xojo
+X-AppInstall-Popcon=6
+X-AppInstall-Section=aur
+X-Arch-Package=xojo 2015r22-3
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=xojo
+X-Arch-Package-Version=2015r22-3
+X-Arch-Package-Description=A RAD environment based on BASIC that compiles native
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.xojo.com
+X-Arch-Package-Votes=6

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Agisoft PhotoScan Pro
+Comment=Generate high resolution georeferenced orthophotos and textured polygonal models
+Icon=/usr/share/pixmaps/photoscan-pro.png
+TryExec=/usr/bin/photoscanpro
+Exec=photoscanpro
+Categories=Application;Graphics;
+X-AppInstall-Package=photoscan-pro
+X-AppInstall-Section=aur
+X-Arch-Package=photoscan-pro 1.1.6-1
+X-Arch-Package-Repository=aur
+X-Arch-Package-Name=photoscan-pro
+X-Arch-Package-Version=1.1.6-1
+X-Arch-Package-Description=Generate high resolution georeferenced orthophotos and
+X-Arch-Package-Groups=None
+X-Arch-Package-URL=http://www.agisoft.com/
+X-Arch-Package-Votes=0
