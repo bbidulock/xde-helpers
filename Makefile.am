@@ -5689,10 +5689,10 @@ install-data-hook:
 		d=; if test -f "$(srcdir)/$$f" ; then d="$(srcdir)/" ; fi ; \
 		case "$$f" in \
 		*.png) \
-			echo " $(INSTALL_DATA) \"$$d$$f\" \"$$x\"" ; \
+			echo " INST  $$x$$f" ; \
 			$(INSTALL_DATA) "$$d$$f" "$$x" ;; \
 		*.xpm) \
-			echo " $(INSTALL_DATA) \"$$d$$f\" \"$$x\"" ; \
+			echo " INST  $$x$$f" ; \
 			$(INSTALL_DATA) "$$d$$f" "$$x" ;; \
 		*.svg) \
 			p=`basename "$$f" .svg`.png ; \
