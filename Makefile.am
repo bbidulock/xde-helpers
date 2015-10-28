@@ -923,12 +923,9 @@ dist_appl_DATA = \
 	src/applications/nedit.desktop \
 	src/applications/nemiver.desktop \
 	src/applications/netgen.desktop \
-	src/applications/net-gvim.desktop \
 	src/applications/nethogs.desktop \
-	src/applications/net-tvtime.desktop \
 	src/applications/network.desktop \
 	src/applications/network-scheme.desktop \
-	src/applications/net-xfig.desktop \
 	src/applications/neverball.desktop \
 	src/applications/nfoview.desktop \
 	src/applications/ninja-ide.desktop \
@@ -3579,14 +3576,11 @@ dist_back_DATA = \
 	src/fallback/netapplet.desktop \
 	src/fallback/netgame.desktop \
 	src/fallback/netgen.desktop \
-	src/fallback/net-gvim.desktop \
 	src/fallback/nethogs.desktop \
 	src/fallback/netslide.desktop \
-	src/fallback/net-tvtime.desktop \
 	src/fallback/network-admin.desktop \
 	src/fallback/network.desktop \
 	src/fallback/network-scheme.desktop \
-	src/fallback/net-xfig.desktop \
 	src/fallback/neverball.desktop \
 	src/fallback/neverputt.desktop \
 	src/fallback/nfoview.desktop \
