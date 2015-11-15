@@ -1,15 +1,12 @@
 [Desktop Entry]
-Version=1.0                               # The version of the desktop entry specification to which this file complies
-Type=Application                          # Indicates the type as listed above
-Name=Jes                                  # The name of the application
-Name[de]=Jes                              # The name of the application
-Comment=Accountig tool                    # A comment which can/will be used as a tooltip
-Comment[de]=Einnahme-Überschuss-Rechnung  # A comment which can/will be used as a tooltip
-Icon=jes                                  # The name of the icon that will be used to display this entry
+Type=Application
+Name=Jes
+Comment=Accountig tool
+Comment[de]=Einnahme-Überschuss-Rechnung
+Icon=jes
 TryExec=/usr/bin/jes
-Exec=jes                                  # The executable of the application.
-Terminal=false                            # Describes whether this application needs to be run in a terminal or not
-Categories=Office                         # Describes the categories in which this entry should be shown;
+Exec=jes
+Categories=Office;
 X-AppInstall-Package=jes
 X-AppInstall-Popcon=2
 X-AppInstall-Section=aur

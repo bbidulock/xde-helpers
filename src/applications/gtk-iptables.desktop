@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
 Name=gtk-iptables
-TryExec=/usr/bin/gksu
+TryExec=/usr/bin/gtkiptables
 Exec=/usr/bin/gksu gtkiptables
 Categories=System;
 StartupNotify=true
