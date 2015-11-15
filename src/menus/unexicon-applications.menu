@@ -19,10 +19,11 @@
 	<And>
 	    <Category>Preferred</Category>
 	</And>
-	<Filename>preferred-file-manager.desktop</Filename>
 	<Filename>preferred-web-browser.desktop</Filename>
-	<Filename>preferred-terminal.desktop</Filename>
+	<Filename>preferred-file-manager.desktop</Filename>
 	<Filename>preferred-text-editor.desktop</Filename>
+	<Filename>preferred-terminal.desktop</Filename>
+	<Filename>preferred-mail-reader.desktop</Filename>
 	<Filename>preferred-execute.desktop</Filename>
     </Include>
 
@@ -214,7 +215,7 @@
 		<Not><Category>Utility</Category></Not>
 	    </Exclude>
 	</Menu>
--	<Menu>
+	<Menu>
 	    <Name>Text Editor</Name>
 	    <Directory>xde-texteditor.directory</Directory>
 	    <Include>
@@ -2852,6 +2853,7 @@
 	<OnlyUnallocated/>
 	<Include>
 	    <And>
+		<Not><Category>Archlinux</Category></Not>
 		<Not><Category>Core</Category></Not>
 		<Not><Category>Settings</Category></Not>
 		<Not><Category>Screensaver</Category></Not>
@@ -2879,6 +2881,14 @@
 
     <Layout>
 	<Merge type="files"/>
+<!-- will have to wait until all tools recognize this
+	<Filename>preferred-web-browser.desktop</Filename>
+	<Filename>preferred-file-manager.desktop</Filename>
+	<Filename>preferred-text-editor.desktop</Filename>
+	<Filename>preferred-terminal.desktop</Filename>
+	<Filename>preferred-mail-reader.desktop</Filename>
+	<Filename>preferred-execute.desktop</Filename>
+-->
 	<Separator/>
 	<Menuname>Unexicon</Menuname>
 	<Menuname>Archlinux</Menuname>
