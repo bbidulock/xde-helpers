@@ -78,7 +78,7 @@ Name=Console
 TryExec=/usr/bin/links
 Exec=links
 
-[Desktop Action Grapnical]
+[Desktop Action Graphical]
 Name=Graphical
 TryExec=/usr/bin/xlinks
 Exec=xlinks -g

@@ -25,7 +25,7 @@ Icon=xgalaga
 TryExec=/usr/bin//usr/bin/xgalaga
 Exec=xgalaga
 
-[Dekstop Action Hyperspace]
+[Desktop Action Hyperspace]
 Name=Hyperspace
 Icon=xgalaga
 TryExec=/usr/bin//usr/bin/xgalaga-hyperspace
