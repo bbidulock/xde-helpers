@@ -355,20 +355,9 @@ dist_appl_DATA = \
 	src/applications/fbrun.desktop \
 	src/applications/fbxkb.desktop \
 	src/applications/fc.desktop \
-	src/applications/fedora-empathy.desktop \
 	src/applications/fedora-glade.desktop \
-	src/applications/fedora-gnome-phone-manager.desktop \
-	src/applications/fedora-gparted.desktop \
-	src/applications/fedora-gvim.desktop \
-	src/applications/fedora-nedit.desktop \
 	src/applications/fedora-release-notes.desktop \
 	src/applications/fedora-release-notesX.desktop \
-	src/applications/fedora-seahorse.desktop \
-	src/applications/fedora-sniff.desktop \
-	src/applications/fedora-xdvi.desktop \
-	src/applications/fedora-xpdf.desktop \
-	src/applications/fedora-xsane.desktop \
-	src/applications/fedora-xterm.desktop \
 	src/applications/feh.desktop \
 	src/applications/ffadomixer.desktop \
 	src/applications/filelight.desktop \
@@ -2515,28 +2504,11 @@ dist_back_DATA = \
 	src/fallback/fc.desktop \
 	src/fallback/fceu.desktop \
 	src/fallback/fedora-abrt.desktop \
-	src/fallback/fedora-empathy-accounts.desktop \
-	src/fallback/fedora-empathy.desktop \
 	src/fallback/fedora-glade.desktop \
-	src/fallback/fedora-gnome-phone-manager.desktop \
-	src/fallback/fedora-gparted.desktop \
-	src/fallback/fedora-gvim.desktop \
-	src/fallback/fedora-jconsole.desktop \
-	src/fallback/fedora-nedit.desktop \
-	src/fallback/fedora-policytool.desktop \
 	src/fallback/fedora-release-notes.desktop \
 	src/fallback/fedora-release-notesX.desktop \
-	src/fallback/fedora-seahorse.desktop \
 	src/fallback/fedora-selinux-polgengui.desktop \
-	src/fallback/fedora-sniff.desktop \
-	src/fallback/fedora-system-config-rootpassword.desktop \
 	src/fallback/fedora-system-config-selinux.desktop \
-	src/fallback/fedora-transmission.desktop \
-	src/fallback/fedora-xdvi.desktop \
-	src/fallback/fedora-xpdf.desktop \
-	src/fallback/fedora-xsane.desktop \
-	src/fallback/fedora-xterm.desktop \
-	src/fallback/feh.desktop \
 	src/fallback/ffadomixer.desktop \
 	src/fallback/fiberlamp.desktop \
 	src/fallback/fifteen.desktop \
