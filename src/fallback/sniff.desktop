@@ -7,6 +7,7 @@ TryExec=/usr/bin/sniff
 Exec=sniff
 Categories=Application;Development;
 StartupNotify=true
+X-Desktop-File-Install-Version=0.10
 X-AppInstall-Package=dogtail
 X-AppInstall-Popcon=1
 X-AppInstall-Section=custom

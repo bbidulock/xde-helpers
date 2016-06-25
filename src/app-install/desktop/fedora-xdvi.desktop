@@ -1,14 +1,15 @@
 [Desktop Entry]
 Type=Application
-Name=DVI Viewer
+Name=XDvi
+GenericName=DVI Viewer
 Comment=DVI viewer for TeX DVI files
 Icon=xdvi
 TryExec=/usr/bin/xdvi
-Exec=xdvi
-NoDisplay=true
-Categories=Graphics;Viewer;
-MimeType=application/x-dvi;
+Exec=xdvi %f
+Categories=Office;Viewer;
+MimeType=application/x-dvi;application/x-gzdvi;application/x-bzdvi;
 StartupNotify=false
+StartupWMClass=xdvi
 X-Desktop-File-Install-Version=0.18
 X-AppInstall-Package=texlive-bin
 X-AppInstall-Section=extra

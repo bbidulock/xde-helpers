@@ -199,3 +199,5 @@ X-Arch-Package-Version=0.22.0-1
 X-Arch-Package-Description=A Partition Magic clone, frontend to GNU Parted
 X-Arch-Package-Groups=None
 X-Arch-Package-URL=http://gparted.sourceforge.net
+X-Ubuntu-Gettext-Domain=gparted
+_X-GNOME-FullName=GParted Partition Editor

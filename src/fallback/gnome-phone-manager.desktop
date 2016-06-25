@@ -56,6 +56,7 @@ StartupNotify=false
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=gnome-phone-manager
 X-GNOME-Bugzilla-Component=general
+X-Desktop-File-Install-Version=0.15
 X-AppInstall-Package=gnome-phone-manager
 X-AppInstall-Popcon=84
 X-AppInstall-Section=community
