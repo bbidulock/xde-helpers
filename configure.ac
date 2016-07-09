@@ -1,13 +1,13 @@
 
 AC_PREREQ(2.69)
-AC_INIT([xde-helpers],[1.0.2],[https://github.com/bbidulock/xde-helpers],[xde-helpers],[https://github.com/bbidulock/xde-helpers/issues])
-AC_REVISION([1.0.2])
+AC_INIT([xde-helpers],[1.1.202],[https://github.com/bbidulock/xde-helpers],[xde-helpers],[https://github.com/bbidulock/xde-helpers/issues])
+AC_REVISION([1.1.202])
 
 AC_CONFIG_SRCDIR([configure.ac])
 AC_CONFIG_MACRO_DIR([m4])
 AC_CONFIG_AUX_DIR([scripts])
 
-DATE=`date -uI`
+DATE='2016-07-09'
 AC_SUBST([DATE])
 
 AM_INIT_AUTOMAKE([gnits 1.14 dist-xz no-dist-gzip std-options -Wall color-tests silent-rules tar-pax])

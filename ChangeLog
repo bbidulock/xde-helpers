@@ -1,0 +1,1243 @@
+# created with git log -M -C|fmt -sct -w80
+
+commit 2571e3fc84fc0124f4e8060a4363de1b87a12b37
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat Jun 25 04:22:45 2016 -0600
+
+    no dependency tracking
+
+commit 70f14c99d4431257639489d006537048a809a035
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat Jun 25 04:21:35 2016 -0600
+
+    remove duplicates
+
+commit f780d45ce67d231c08121902b68063f3cd3c5d22
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat Jun 25 04:14:39 2016 -0600
+
+    rationalize some files
+
+commit 9deb36c3922aaf8ef7df1dd8bcc0bf8481ecce3d
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat Feb 13 07:17:03 2016 -0700
+
+    minor updates to build system
+
+commit 6ced84e04ca28deecd1c285c1b89bf7ae05cf5b0
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Wed Feb 10 05:51:54 2016 -0700
+
+    fix typos
+
+commit 0db6ae11035fc5385df724e6840e5dac156db61c
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Wed Dec 23 12:00:00 2015 -0700
+
+    update release files
+
+commit e639684552b03cf450076526e32a5e221ebf905a
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Wed Oct 28 12:00:00 2015 -0600
+
+    remove redundant files
+
+commit 3bfadbc00125480f907d3df3d793a6536fd01bda
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu Oct 29 12:00:00 2015 -0600
+
+    remove redundant files
+
+commit 8d8ba62a727a8db39029cd26defb1b6329598150
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Mon Nov 2 12:00:00 2015 -0700
+
+    remove useless .desktop file
+
+commit a2a8d37ff25c88907737ec4f6662f82d5b0ffe8f
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun Nov 15 16:12:57 2015 -0700
+
+    rename
+
+commit fc3c49caca902c0c1742fc1068e187aaf86afb50
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun Nov 15 16:09:47 2015 -0700
+
+    duplicate
+
+commit b6fa351c7d956a704e14155ce2174b2e230d1e86
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun Nov 15 16:07:14 2015 -0700
+
+    duplicate
+
+commit 0a16ef041b9fbb23f6a0a4a176be551a056b86bb
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun Nov 15 03:03:33 2015 -0700
+
+    some recent updates
+
+commit 3b0a64da8387446683e01f12bb1e60756e480ac6
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun Nov 15 02:52:31 2015 -0700
+
+    updated some files
+
+commit ceaa614b90c1245c1a0dde30f2f0033902051886
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun Nov 15 02:51:13 2015 -0700
+
+    deleted some unneeded files
+
+commit 35088caa5c7352763239099a9685fad59016102e
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu Jun 18 17:09:36 2015 -0600
+
+    be brief when installing
+
+commit 859ab6d5d8d285bab02c79313ee5917e09024270
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu Jun 18 17:03:47 2015 -0600
+
+    correct icon path
+
+commit 2c03a475f5c6686641d315a298c097008dde6724
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu Jun 18 15:23:07 2015 -0600
+
+    update release files
+
+commit bc136c8a00de1cef96b105e7b45c0a6e7eadb670
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu Jun 18 15:12:26 2015 -0600
+
+    do not use Type=XSession in these dirs
+
+commit 01852bc65c9a77ba2caebdfb882f65476395b1f6
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu Jun 18 15:08:13 2015 -0600
+
+    correct symbolic link path
+
+commit b80f1837e4b53a6391d5e7e07230c9d4eb01493f
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu Jun 18 14:37:00 2015 -0600
+
+    update release files
+
+commit 21b4859e8c9ecb29bd266b79f177fa0c01971576
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu Jun 18 14:36:27 2015 -0600
+
+    reduce list of desktop files
+
+commit cc7a2c24662071ef4211c5793c792a370a4b2986
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu Jun 18 14:21:09 2015 -0600
+
+    added new files to distribution
+
+commit dde774bfe13e05b104bc117dea1fbee1945f2631
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu Jun 18 07:27:05 2015 -0600
+
+    add more application overrides
+
+commit e6877ebbaaffc4c745438da3b4249f2630c6fe46
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu Jun 18 07:07:00 2015 -0600
+
+    add more icons
+
+commit 75d80226ebfe0264ff5fb674c8467e9150a98aa8
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu Jun 18 07:05:42 2015 -0600
+
+    add more desktop directories
+
+commit abe2eb2e275d31108c8e4d52b1c6211d61bdc1d4
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu Jun 18 07:02:15 2015 -0600
+
+    add more app-install files
+
+commit 6f71e59a3d0981cf65ae7deb46fa88e5bf5cf31a
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu Jun 18 06:58:11 2015 -0600
+
+    many more fallback files
+
+commit 34e7299008ca43de7b57e6836b1ac8e118a63c6c
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu Jun 18 06:55:39 2015 -0600
+
+    added more fallback files
+
+commit 317de5bd3a4b540aebeb045b8f0f048a9bec9782
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu Jun 18 06:54:17 2015 -0600
+
+    added more xsessions
+
+commit 6cae834c42620d6e79ca3eac47d6f84c12eac0fb
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun Jun 14 06:19:03 2015 -0600
+
+    many more updates
+
+commit c62610091926c23332698df9848bc97833b9c926
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Fri Jun 12 03:46:41 2015 -0600
+
+    skip files installed by other pakcages
+
+commit 21e20251e414405b227cbc8eeb6f1eb9a9f50d3f
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Fri Jun 12 03:38:03 2015 -0600
+
+    missed template changes
+
+commit 1bd4736668e6ce5d241026d108ecdffd3a199000
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Fri Jun 12 03:17:47 2015 -0600
+
+    check in major workup
+
+commit 24e61626a281b77de671bb3df3f451279fd2e082
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat Jun 6 14:25:56 2015 -0600
+
+    remove some redundant lines
+
+commit 53ff6aa937821ef8ee7478513eb0ccb4b0ec2896
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat Jun 6 14:22:19 2015 -0600
+
+    remove some redundant lines
+
+commit 90a27824a4933a1a91efe767181f9b1a92417375
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat Jun 6 06:08:39 2015 -0600
+
+    some dockapp updates
+
+commit ea97ed060bc00a023f28c771164577fcaec0caf7
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat Jun 6 06:00:25 2015 -0600
+
+    a few corrections
+
+commit fbe7526bd68dc935fd96f13e73021053bc19542e
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat Jun 6 05:27:56 2015 -0600
+
+    removed non-applications
+
+commit cd3905f1eb482f43be6a31daf0d2004e5a78dd66
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat Jun 6 05:24:29 2015 -0600
+
+    remove redundant lines from applications
+
+commit b9b238d3a007a8da36d09d612a1626ee2a2656a9
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat Jun 6 04:54:02 2015 -0600
+
+    remove redundant lines from tray icons
+
+commit 551e82121e3c8301a9bf601020706797302ff72c
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat Jun 6 04:50:34 2015 -0600
+
+    remove redundant lines from xsessions
+
+commit 2c1900de7957eeb213f3ce6e46411f7f9550cdf4
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat Jun 6 04:18:36 2015 -0600
+
+    remove redundant lines from dockapps
+
+commit a5156dd3feaa907a269008dfc9820bdf6f593078
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat Jun 6 04:13:01 2015 -0600
+
+    remove some redundant lines
+
+commit 7d7d99f25a93b10447861b3b2ebdcb5b0eda4e89
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Fri Jun 5 01:32:37 2015 -0600
+
+    update app-install data for fallback entries
+
+commit b0160043110988c715aad43c167d0610d939c70b
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Fri Jun 5 00:23:42 2015 -0600
+
+    minor correction
+
+commit 78549c9dd0ff9b4b8c9832e538c350ec914b5a23
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Fri Jun 5 00:23:09 2015 -0600
+
+    minor correction
+
+commit 4b2b4b59ea8e7e14bd96f09eece3416337781f8f
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Fri Jun 5 00:22:10 2015 -0600
+
+    upate app-install information for install entries
+
+commit 3e06d17c70efc411fe7a4bbc5eabbce26387ab35
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu Jun 4 23:32:36 2015 -0600
+
+    better app-install data for primary desktop files
+
+commit 2cf8e507775fa3da6b989024e8e28e90e8485c82
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu Jun 4 20:39:09 2015 -0600
+
+    delete some files from build
+
+commit f227ea9cd550b3010c76dfe8a63543f86105b6e8
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu Jun 4 20:36:25 2015 -0600
+
+    straigten out non Application files
+
+commit 897febd6a6dbe8494174d7a5092ce34cf8462f3c
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu Jun 4 18:21:12 2015 -0600
+
+    always Type=Application for XSession in main directories
+
+commit aa3b8a1fc886d55bdc98db3633680f25bbc041df
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu Jun 4 18:04:04 2015 -0600
+
+    always put /usr/bin/ in front of TryExec
+
+commit a8272cc7fb59e14f312da5cb6a6d94540593fa7a
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu Jun 4 15:36:15 2015 -0600
+
+    remove conflicting files
+
+commit a17bbb5f1ca1fab033d6515a4f88aea0fae82cf1
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu Jun 4 15:16:44 2015 -0600
+
+    update release files
+
+commit 2dfb518b362a0e0963590db3db39f6961e2afab5
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu Jun 4 15:04:15 2015 -0600
+
+    updates for release build
+
+commit a36b05f8daee6d27416383aff88f336f6e084353
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu Jun 4 14:58:41 2015 -0600
+
+    added more defined apps to install
+
+commit 871e1c55e10d6caa85fb02fa7fea8f029e318a7e
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu Jun 4 14:53:56 2015 -0600
+
+    add a few more specialized types
+
+commit 439b9a0f164a784ae8a7b34055d7a33321d08480
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu Jun 4 14:48:37 2015 -0600
+
+    lots more additions for app-install
+
+commit 553133d954a9cac68fd2fb14a5f5ce4bf7a35904
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu Jun 4 14:47:08 2015 -0600
+
+    lots of updates for app-install
+
+commit 9e7ce32f578ae17ceedd3358929f63ba416d1d91
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Wed Jun 3 08:37:07 2015 -0600
+
+    more maintenace scripts
+
+commit 44b1685201b61061cb2cd6bc99e1617c34e463a9
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Wed Jun 3 08:36:21 2015 -0600
+
+    corrected and expanded primary files
+
+commit 3102fc6e547d877f87eb1228205c7394518fe1d6
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Wed Jun 3 08:35:41 2015 -0600
+
+    expanded installable applications
+
+commit 87d0569aa498d6c15280a29917a6ee078b0118e2
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Wed Jun 3 08:35:07 2015 -0600
+
+    added new applications and improved others
+
+commit 2d0f9ece965c7553abeec8fd1d2c7d51de9f63f7
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Wed Jun 3 08:34:30 2015 -0600
+
+    added and improved fallbacks
+
+commit 6943deecbf4109b535236b842d35554c00657387
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Jun 2 22:25:19 2015 -0600
+
+    even more desktop updates yet
+
+commit 976d865282a873c0789828a8ae51ce189b935e1f
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Jun 2 22:20:09 2015 -0600
+
+    even more desktop file updates
+
+commit c6a02e2bf9fcdd435655ea3707e18cc0c573ba34
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Jun 2 21:46:39 2015 -0600
+
+    more updates to various desktop files
+
+commit ebf18ff6872e7da1e548e6f853121f88e752cc81
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Jun 2 19:18:12 2015 -0600
+
+    another maintainer script
+
+commit 8d54c7859231ef7038e140684e6d289eb37a0c44
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Jun 2 19:17:51 2015 -0600
+
+    more udpates to desktop files
+
+commit 17605093ebc7b53cbcb50b8fae0a5888d4bde1be
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Jun 2 19:08:52 2015 -0600
+
+    more updates
+
+commit 766b73ca171aee0bdb21d8617caf90bb7fe485a6
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Jun 2 19:04:40 2015 -0600
+
+    fallback updates
+
+commit 34372ce26b9344e6991f0d0cd47e1599f28a35db
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Jun 2 17:39:11 2015 -0600
+
+    updates and corrections
+
+commit 83b17cdebbb76a50815527109e3127575f5581fb
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Jun 2 16:06:54 2015 -0600
+
+    update overrides
+
+commit 7d89f0be13259b56d143cdc9009cc580893e60b3
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Jun 2 15:37:22 2015 -0600
+
+    add some more fallbacks
+
+commit 1f92eda3e8126854ef87971c6b90eb49302fec8e
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Jun 2 15:36:27 2015 -0600
+
+    another pretty run
+
+commit 33a666530e2943de331a0eeb4886721c355f0801
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Jun 2 15:35:44 2015 -0600
+
+    the script used to clean them
+
+commit 6b35430c788650db78438d73bcfc054108140e8a
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Jun 2 15:34:53 2015 -0600
+
+    another pretty run
+
+commit bd2192dc0fb33e5acce185ae570d241f879100b1
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Jun 2 14:03:31 2015 -0600
+
+    new pretty run
+
+commit b11db4b77bbcdd9156210561528f696c0b217b97
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Jun 2 14:02:58 2015 -0600
+
+    new pretty run
+
+commit c4d464ceaf112dd9e14e40bd6da810d8f7edb35f
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Jun 2 14:00:39 2015 -0600
+
+    new pretty run
+
+commit 309978f5ef0c78d42995134db423e3c41010f5f6
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Jun 2 13:55:11 2015 -0600
+
+    add utility scripts
+
+commit 41ab463377a08bf61015d0b7077caf87f4256376
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Jun 2 10:28:11 2015 -0600
+
+    updates from pretty print
+
+commit 94ec5255852384108ccd2201c09152045116f929
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Jun 2 10:18:11 2015 -0600
+
+    updates from pretty print
+
+commit 5ab8fe9269aa3f28c34814ee8070429c3c0f0c28
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Jun 2 10:17:32 2015 -0600
+
+    updates from pretty print
+
+commit 8ecdbec5dc2f99a3f8fa2071b4d76d334e4e7592
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Jun 2 10:16:49 2015 -0600
+
+    updates from pretty print
+
+commit 532ef73aab09b90a86b52098bd8bd7c825446b77
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Jun 2 10:15:04 2015 -0600
+
+    updates from pretty print scripts
+
+commit ed1d227615e73cb9f633c4515f70358fc06e5ba9
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Jun 2 10:13:19 2015 -0600
+
+    updated by pretty print
+
+commit 31b84eb2240e56bc435bc14e07c0f7b34b675413
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Mon Jun 1 19:52:43 2015 -0600
+
+    some fixups
+
+commit 9daf4683c4f5a277646ce68d529fa21aafb1663c
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Mon Jun 1 19:25:36 2015 -0600
+
+    some corrections to fallback desktop entries
+
+commit 46d25b1c695b6c2ecc9874e551ea29a4f45dfc34
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Mon Jun 1 19:25:05 2015 -0600
+
+    some corrections
+
+commit c15c49b1244760eeb6e4d85af4492c73872d2350
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Mon Jun 1 18:04:58 2015 -0600
+
+    more category cleanup
+
+commit aa9b909031f73fdf458433980b087be59f093df9
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Mon Jun 1 17:53:09 2015 -0600
+
+    fix up some other things
+
+commit 31d60ece316289d147e2f02048cd4973cbbbfcbb
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Mon Jun 1 17:52:22 2015 -0600
+
+    fix up categories and other things
+
+commit b8178c6964d6e989053e1a26ff81e8b92d084f18
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Mon Jun 1 17:45:11 2015 -0600
+
+    fix up categories for gtk
+
+commit fff1a4339079b37ddf45cbb53ac25f0e0e376553
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Mon Jun 1 17:43:38 2015 -0600
+
+    fixup categories for gtk
+
+commit 9b714d059060da2fb10f0860c9b80b0e2428b3d7
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Mon Jun 1 17:29:30 2015 -0600
+
+    fix up Categories lines
+
+commit 210b3c2ce8a73d8bb5a458d6df6f6438f1b7e5fb
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Mon Jun 1 04:16:32 2015 -0600
+
+    add a few window managers
+
+commit fc9082a9f01e1a738419007740a444852534dd01
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun May 31 19:54:43 2015 -0600
+
+    check in before removal
+
+commit 458f451f06f0b583786e1c4a28bb99a16ab6a0f4
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun May 31 03:25:36 2015 -0600
+
+    remove conflicting file
+
+commit 3a115437db02de61b095393a4c06f49629cd5483
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun May 31 03:06:39 2015 -0600
+
+    minor corrections to dockapp entries
+
+commit 96053b9e295b8d6049b210eddbfa8682ca3da0eb
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun May 31 03:06:14 2015 -0600
+
+    update application xsession files
+
+commit e4d04502b2b2358c79d287d8f3d6fe3f59121900
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun May 31 03:05:49 2015 -0600
+
+    update fallback xsession files
+
+commit 3b7e72928e998efc4a2fde024a2f537c53fa76aa
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun May 31 03:05:24 2015 -0600
+
+    update xsession files
+
+commit 9b9fdce5bc9768a832c183eec8603329b471d030
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun May 31 03:04:56 2015 -0600
+
+    update app install xsession files
+
+commit d116558d5fafb404310c4aaf140e2679eef9ed41
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun May 31 01:43:44 2015 -0600
+
+    add more application overrides
+
+commit b6a64570c92f172aff481827b11315fd241e0d6d
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun May 31 01:40:17 2015 -0600
+
+    more application fallbacks
+
+commit eb73ab63ad00e7dd89945f0048527efb562fd4b8
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun May 31 01:39:54 2015 -0600
+
+    more application install defaults
+
+commit 9cd77f406706a3a874fe079f64e03f5f050b14c2
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun May 31 01:39:20 2015 -0600
+
+    more application overrides
+
+commit 98824df841f96bcb6464cdf3e333a21e23fbe4ac
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat May 30 19:18:44 2015 -0600
+
+    use lightweight abiword
+
+commit 8084e60359730c42e7481027b6c5e6f34de49da6
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat May 30 18:29:33 2015 -0600
+
+    add more arch package info
+
+commit d81a1f454762132463983aecf9ca84e8ec37ee04
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat May 30 18:27:18 2015 -0600
+
+    add more arch package info
+
+commit ce47e69d5997c444c3d1eeeb91ea90fdc5b76569
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat May 30 16:59:47 2015 -0600
+
+    add more arch package information
+
+commit 6fba6d5143549de8cfdd31514be849382e81ff26
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat May 30 16:42:29 2015 -0600
+
+    add tray icons to data set
+
+commit f3e67f81a34d1ccdf8f3cffe851c1c4e24b3bdc8
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat May 30 16:39:02 2015 -0600
+
+    add more arch package information
+
+commit 4c34001885e97ec8ab1c2666d01bc9c7d4dc376f
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat May 30 16:38:11 2015 -0600
+
+    add more arch package information
+
+commit 95ced9a3b50257ac6b83ea6bbc12a9b045e5435e
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat May 30 16:36:06 2015 -0600
+
+    add more arch package information
+
+commit 544ab7bc6b63b00469a15c96fec61054bdad2d7e
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat May 30 16:34:16 2015 -0600
+
+    add more package information
+
+commit f44c38f4ffbed97b337bc902482b846932b39d6a
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat May 30 16:33:37 2015 -0600
+
+    update arch package information
+
+commit 601ad7f972ce3ed76932a0e9b592c3455078d53c
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat May 30 15:47:14 2015 -0600
+
+    add arch packages for everything
+
+commit ebc1864b378504c230df502a689f519d4fa57db5
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat May 30 15:21:02 2015 -0600
+
+    add more override and fallback data
+
+commit ae2f545255fda3476a3004d48e6a289c481f3287
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat May 30 15:13:17 2015 -0600
+
+    a little cleanup
+
+commit 84253fa1418f1ac862d5fd502c51ac1cc4f81de2
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat May 30 13:12:44 2015 -0600
+
+    align dockapp desktop entry files
+
+commit b071e09b97a896b30de9241baa77942405f16e52
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat May 30 12:51:25 2015 -0600
+
+    pretty printed app install desktop files
+
+commit fe97037db9fc963b3a6e66c383d5d3bc602af0c9
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat May 30 05:46:27 2015 -0600
+
+    pretty print fallback desktop files
+
+commit 62f99fb7526a4ac85ed2b62caf0fdb9c7e7cdd02
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat May 30 05:25:32 2015 -0600
+
+    pretty print applications override desktop files
+
+commit 41be745bb247136823d5c6d7a25f4027bc1bd665
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat May 30 05:23:36 2015 -0600
+
+    pretty print autostart desktop files
+
+commit 0b98308fcbf85d0e7a3e2a252bef4dbaa959da97
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat May 30 05:22:45 2015 -0600
+
+    add a conversion script
+
+commit 7a64a917f3aec75f42d355906108ce976e3cf699
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat May 30 05:22:19 2015 -0600
+
+    minor adjustments to script
+
+commit 8da3a32f8601bda20a6833d73834638e07dcfeea
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat May 30 05:21:34 2015 -0600
+
+    pretty print trayicon desktop files
+
+commit aead24c99aca1fa16c6cda965ff8b8da9ae278d2
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat May 30 05:20:51 2015 -0600
+
+    pretty-print xsession desktop files
+
+commit e198695c89c459c8dd3e3226b37b1546b214d642
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat May 30 05:16:31 2015 -0600
+
+    pretty-printed dockapp desktop files
+
+commit 87cb32efec497b8071de8c11fcd5e7ce9a3a4110
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat May 30 05:10:59 2015 -0600
+
+    add more ignores
+
+commit 7bd28e51f6baf878208ab7ee3f6f14f28e69e906
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat May 30 05:10:26 2015 -0600
+
+    some scripts for manipulating desktop files
+
+commit 63b44f82b4ec69aed5b1f5fa3bdefcbd28ae48da
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat May 30 05:09:37 2015 -0600
+
+    working up application overrides
+
+commit e24e3c840aed8a7fde08024cb8be73c1e52beb39
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat May 30 05:09:09 2015 -0600
+
+    working up tray icons
+
+commit 4fd967689601af8ae808d71375a06c6108c2b3e9
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat May 30 05:08:55 2015 -0600
+
+    working up autostart
+
+commit b539661765f0247deca710223273243d8b604f67
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat May 30 05:08:36 2015 -0600
+
+    working up dock apps
+
+commit 2892632adbe90c6e93aebf8434df597be080a12d
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat May 30 05:08:07 2015 -0600
+
+    working up xsession files
+
+commit 1ad571ad0c37366a39d1783c6a8ecc5e7652f64c
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat May 30 05:06:52 2015 -0600
+
+    working up fallback files
+
+commit 3077d4b37127803fff30c8cf141bda5778ddcc00
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat May 30 05:05:35 2015 -0600
+
+    working up helper files
+
+commit 7de3c3f2818bb01093634111c3c6b0770f8d108f
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue May 19 11:36:16 2015 -0600
+
+    better build infrastructure
+
+commit 6f2a1550172bfc140ed746a41d9d229c679f7ab8
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue May 19 11:06:01 2015 -0600
+
+    adjust wmmoonclock -> wmMoonClock
+
+commit 16a8f542b3b5c2efe0cc5b08c401566becc8322e
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Aug 5 02:37:05 2014 -0600
+
+    autostart and xsessions now part of xde-session package
+
+commit 21f4eb6feff7a84a8fe38b469123c9cb37a12d29
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Aug 5 02:35:28 2014 -0600
+
+    added more helpers
+
+commit cec9750c289006c6bfccbe8dff2bc0b652d5b617
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Aug 5 02:34:22 2014 -0600
+
+    anyone can run a dockapp with xde-doc
+
+commit ff33182c6fea4391e49a4d7b90b817da620d8ecf
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun May 25 01:14:38 2014 -0600
+
+    application fallback updates
+
+commit cb1eb71a9616cb91c1d2dfa4e4fed3abaafab1cd
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun May 25 01:13:48 2014 -0600
+
+    application updates
+
+commit c187d9041438554865f8b5ce614713a3ff6830e8
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun May 25 01:12:14 2014 -0600
+
+    do not autostart icewmtray
+
+commit d11e9c6cdee725ae9bf0780a628aa99b7bb0971c
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Fri May 23 07:49:55 2014 -0600
+
+    remove bad files that cropped in
+
+commit 7678aad1e3e1d268a4037831087067e56ef95873
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Fri May 23 07:44:32 2014 -0600
+
+    stupid pcmanfm/libfm wants TryExec on everything...
+
+commit daa11f32ab7977c3f317219285e0ba28988eabb8
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu May 22 18:45:46 2014 -0600
+
+    cull non-applications
+
+commit 660a7951526259eff9a94c11da4f1ebd6ecb2c4f
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu May 22 03:41:30 2014 -0600
+
+    fill out X-GNOME-WMName on everything
+
+commit 5f721ec457e9de2f8ff74ac9aef1c40698a0d5e5
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu May 22 03:33:17 2014 -0600
+
+    wmf2x is not an application
+
+commit 0e0ebb2e7e5d48f829d19d1a13f4502e7625e163
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Mon May 19 08:33:21 2014 -0600
+
+    work up dockapps some more
+
+commit c521bfd288fbad09e036ae9573bece946a143dac
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun May 18 04:08:10 2014 -0600
+
+    start building up tray icons
+
+commit 2a296d34014a929e9baab4c5911b72e16a714548
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun May 18 04:07:25 2014 -0600
+
+    adjust some fallbacks
+
+commit b5b5401bc287a467be77af17625f2582110fe1b4
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu May 15 03:54:50 2014 -0600
+
+    straighten out xsession files
+
+commit 30f122e93ff4f7195b1e710ffa52841bc0ff8c99
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Wed May 14 22:32:20 2014 -0600
+
+    add desktop actions to xsession files
+
+commit e64021e5a877e597ee67c0d35ebef8017e0f3eba
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Wed May 14 16:26:08 2014 -0600
+
+    show evilwm in menu
+
+commit 2dd4ff3f3a739af5b373d3ddc366a3eadc88762f
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue May 13 15:41:41 2014 -0600
+
+    a few more wm destkop files
+
+commit ccb5ef7ce236c6fe2899bb50a16dd727e2616669
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue May 13 05:22:42 2014 -0600
+
+    put icon definitions in all xsessions
+
+commit c93a2977be07a5580d4b10626ba6d17d331938f4
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue May 13 04:56:11 2014 -0600
+
+    add a few consoleonly's with no desktop file
+
+commit 8f032bac874211fac80c87e38b73aeb6044cbaab
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Mon May 12 23:39:46 2014 -0600
+
+    add icons to desktop files
+
+commit 2d5e4ef767ca0b2812887138248eec47fd1ae31b
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Mon Apr 14 13:44:43 2014 -0600
+
+    rationalize more dockapps
+
+commit d264e43cac2700a36658ab8be0aaefbaff552ca8
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat Apr 12 05:35:56 2014 -0600
+
+    correct some categories
+
+commit 9c508d289733d0c2dee374d5c5f0efb0170e8a3e
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat Apr 12 03:23:18 2014 -0600
+
+    make xboard files overrides
+
+commit 68c71128fd77600e67f8e85418e801410d3452f2
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat Apr 12 03:19:35 2014 -0600
+
+    suppress gxmessage and sort out xboard
+
+commit f63eb4b69853eaf7bd08d5d2c6de19a597ca2ca5
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Fri Apr 11 07:35:56 2014 -0600
+
+    more better dockapps
+
+commit 4d6f3378be5a5e0fdee91643c141203164620568
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu Apr 10 07:22:35 2014 -0600
+
+    more dockapps
+
+commit 5addc50c47586150079f7e10ab0836c45eec9adc
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu Apr 10 04:02:06 2014 -0600
+
+    sorting out dock apps (added all app-install files to git)
+
+commit 731d1b1084edfa7ca557b290b384001075c7567b
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Wed Apr 9 14:45:40 2014 -0600
+
+    straighten out some dockapp .desktop files
+
+commit a0383fe396b07ea098244f8f85f2f6a451732b96
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Wed Apr 9 07:30:11 2014 -0600
+
+    move chbg from fallback to override
+
+commit 8bb7f3606e775fac8261bf0f47a6894591fd6930
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Wed Apr 9 07:29:01 2014 -0600
+
+    more tweaks to desktop files
+
+commit 26778c4d56703341db966e880ea1349cb2e8486b
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Wed Apr 9 06:50:55 2014 -0600
+
+    a few more corrections and overrides
+
+commit 77a776bb2cebb0e9d76806488bfbb78d705028e5
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Apr 8 15:39:21 2014 -0600
+
+    correct some icons
+
+commit d02a0a300d9bf531c0a83f2ae492c339633aa165
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Apr 8 08:02:54 2014 -0600
+
+    forgot makefile
+
+commit debbdf2ba95c818b51d5e4267ec9759c488de198
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Apr 8 08:00:24 2014 -0600
+
+    move xfig.desktop to an override from a fallback
+
+commit 0fc7f0620f319458a6b987d534b80d5bd3e961da
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Apr 8 03:10:58 2014 -0600
+
+    updates to desktop files
+
+commit 8f1c946008b8701ff1a2808d9df84d6460abdc48
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Mon Apr 7 04:00:36 2014 -0600
+
+    remove redundant vim files
+
+commit 36b47265ca060e245008bd5e8c5217262e0eb5e6
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Mon Apr 7 03:15:52 2014 -0600
+
+    missed one
+
+commit 65c062064b6be5ba8cd589d6e62ff31aa946e8dd
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Mon Apr 7 03:14:05 2014 -0600
+
+    more resolving of fallback directories
+
+commit 64b3e8c220c3482d75b0ae951664d6c4d3bc465b
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun Apr 6 16:04:34 2014 -0600
+
+    correct exec statement
+
+commit e3357d805bd94ad037d5d9df69b66028779d53b7
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun Apr 6 15:56:26 2014 -0600
+
+    merge fallback xtools into applications
+
+commit ee91cbf35a745891e81149dfdae36042e0582e45
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun Apr 6 08:49:47 2014 -0600
+
+    remove explicit paths
+
+commit c7e44157dbbebbbd935c4bf1709a88e0644c826d
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun Apr 6 08:26:57 2014 -0600
+
+    break out afterstep desktop files
+
+commit b6d5ec08f553b50cc1e3c5e742a6146e4978542a
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Fri Apr 4 22:25:54 2014 -0600
+
+    bad file snuck in
+
+commit 466e99b0a9b195ea98573306f84800723cf0e266
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Fri Apr 4 22:23:46 2014 -0600
+
+    install fallback desktop files
+
+commit 69313ae33032ae23f64c28d0a0d63bbc4503caf6
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu Apr 3 13:03:40 2014 -0600
+
+    update icons for desktop directories
+
+commit a281f2fce5e47c0d879cde698ccd48dc7ac9d33f
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Wed Mar 19 03:33:58 2014 -0600
+
+    add a lot of missing xsession files
+
+commit 7cc28ab698c89fb096f98a31642e383b7bb2ea61
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Wed Mar 19 02:36:45 2014 -0600
+
+    added bspwm xsession file
+
+commit 24aa810baf564b91326566baf1efc743b20f5475
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Fri Mar 14 19:59:55 2014 -0600
+
+    add cbatticon.desktop to applications and autostart
+
+commit a32b4ce1c20215b4c70f7ae682a257e9d72af41f
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Feb 11 12:37:07 2014 -0700
+
+    adwm has a dock
+
+commit b79af82e6f87bc25285a18daabfe7719cb25534b
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun Dec 29 04:07:08 2013 -0700
+
+    add icon to 2bwm
+
+commit 4e819aae0eccd05544af69b3c0ecb4ab8a6648dd
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Fri Dec 27 09:11:30 2013 -0700
+
+    added uwm desktop file to makefile
+
+commit 2ced49a90b5752bd64271ab34a24792639a8c9c8
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Fri Dec 27 09:10:01 2013 -0700
+
+    added μwm desktop file
+
+commit a7064e4418981801297053bed73d9b465265b0da
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Fri Dec 27 00:51:11 2013 -0700
+
+    some updates to fallback destop files
+
+commit fd50c9e673d2e6eeaff06a4f85e39eb66fd72282
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Fri Dec 27 00:12:42 2013 -0700
+
+    do not need m4 directory
+
+commit 687c6bdda960afa8586b18e6c3f6f510b7807510
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu Dec 26 19:43:13 2013 -0700
+
+    fill out README file
+
+commit 6d4e88d25c4986b53183c136a037ea9f1717a2c2
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu Dec 26 19:39:01 2013 -0700
+
+    correction
+
+commit 23729681de726bd73ab9ecae8a9e227aec3c0c4e
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu Dec 26 19:23:36 2013 -0700
+
+    avoid unnecessary commits
+
+commit 5b74a3d7f9f06dde92a6adbc17ee3896d4785972
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu Dec 26 19:09:12 2013 -0700
+
+    change preferred terminal
+
+commit 2432f8d50d599ec25f770a823e51f9e926b4dd31
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Nov 12 09:46:33 2013 -0700
+
+    added some xsession files
+
+commit d497262de34ef79287e93c63e34a52a033c19a3c
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Nov 12 02:42:19 2013 -0700
+
+    correction to xlsclients.desktop
+
+commit db2ee6b0695994843ad7df35e7aa99c36307b3d9
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun Oct 13 00:27:10 2013 -0600
+
+    added zat.desktop
+
+commit c46d1f26b605f929709c9acda56e560622be3fbe
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Fri Aug 23 06:53:38 2013 -0600
+
+    - updates
+
+commit 1e8647f71f9b502000458d4bb168987e099a5d03
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Jul 16 19:02:08 2013 -0600
+
+    - initial commit
