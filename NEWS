@@ -1,26 +1,234 @@
-xde-helpers -- NEWS file.  2016-02-10
+xde-helpers -- history of user-visible changes.  2016-07-09
 
-History of major user-visible changes:
-======================================
-
-Release xde-helpers-1.1.197 released 2016-02-10
+Release xde-helpers-1.2 released 2016-07-09
 -------------------------------------------
 
-This is the current development release of xde-helpers.
+git shortlog -e -n -w80,6,8 1.1...1.2
 
-Major changes for release 1.0.2:
---------------------------------
+Brian Bidulock <bidulock@openss7.org> (203):
+      avoid unnecessary commits
+      correction
+      fill out README file
+      do not need m4 directory
+      some updates to fallback destop files
+      added μwm desktop file
+      added uwm desktop file to makefile
+      add icon to 2bwm
+      adwm has a dock
+      add cbatticon.desktop to applications and autostart
+      added bspwm xsession file
+      add a lot of missing xsession files
+      update icons for desktop directories
+      install fallback desktop files
+      bad file snuck in
+      break out afterstep desktop files
+      remove explicit paths
+      merge fallback xtools into applications
+      correct exec statement
+      more resolving of fallback directories
+      missed one
+      remove redundant vim files
+      updates to desktop files
+      move xfig.desktop to an override from a fallback
+      forgot makefile
+      correct some icons
+      a few more corrections and overrides
+      more tweaks to desktop files
+      move chbg from fallback to override
+      straighten out some dockapp .desktop files
+      sorting out dock apps (added all app-install files to git)
+      more dockapps
+      more better dockapps
+      suppress gxmessage and sort out xboard
+      make xboard files overrides
+      correct some categories
+      rationalize more dockapps
+      add icons to desktop files
+      add a few consoleonly's with no desktop file
+      put icon definitions in all xsessions
+      a few more wm destkop files
+      show evilwm in menu
+      add desktop actions to xsession files
+      straighten out xsession files
+      adjust some fallbacks
+      start building up tray icons
+      work up dockapps some more
+      wmf2x is not an application
+      fill out X-GNOME-WMName on everything
+      cull non-applications
+      stupid pcmanfm/libfm wants TryExec on everything...
+      remove bad files that cropped in
+      do not autostart icewmtray
+      application updates
+      application fallback updates
+      anyone can run a dockapp with xde-doc
+      added more helpers
+      autostart and xsessions now part of xde-session package
+      adjust wmmoonclock -> wmMoonClock
+      better build infrastructure
+      working up helper files
+      working up fallback files
+      working up xsession files
+      working up dock apps
+      working up autostart
+      working up tray icons
+      working up application overrides
+      some scripts for manipulating desktop files
+      add more ignores
+      pretty-printed dockapp desktop files
+      pretty-print xsession desktop files
+      pretty print trayicon desktop files
+      minor adjustments to script
+      add a conversion script
+      pretty print autostart desktop files
+      pretty print applications override desktop files
+      pretty print fallback desktop files
+      pretty printed app install desktop files
+      align dockapp desktop entry files
+      a little cleanup
+      add more override and fallback data
+      add arch packages for everything
+      update arch package information
+      add more package information
+      add more arch package information
+      add more arch package information
+      add more arch package information
+      add tray icons to data set
+      add more arch package information
+      add more arch package info
+      add more arch package info
+      use lightweight abiword
+      more application overrides
+      more application install defaults
+      more application fallbacks
+      add more application overrides
+      update app install xsession files
+      update xsession files
+      update fallback xsession files
+      update application xsession files
+      minor corrections to dockapp entries
+      remove conflicting file
+      check in before removal
+      add a few window managers
+      fix up Categories lines
+      fixup categories for gtk
+      fix up categories for gtk
+      fix up categories and other things
+      fix up some other things
+      more category cleanup
+      some corrections
+      some corrections to fallback desktop entries
+      some fixups
+      updated by pretty print
+      updates from pretty print scripts
+      updates from pretty print
+      updates from pretty print
+      updates from pretty print
+      updates from pretty print
+      add utility scripts
+      new pretty run
+      new pretty run
+      new pretty run
+      another pretty run
+      the script used to clean them
+      another pretty run
+      add some more fallbacks
+      update overrides
+      updates and corrections
+      fallback updates
+      more updates
+      more udpates to desktop files
+      another maintainer script
+      more updates to various desktop files
+      even more desktop file updates
+      even more desktop updates yet
+      added and improved fallbacks
+      added new applications and improved others
+      expanded installable applications
+      corrected and expanded primary files
+      more maintenace scripts
+      lots of updates for app-install
+      lots more additions for app-install
+      add a few more specialized types
+      added more defined apps to install
+      updates for release build
+      update release files
+      remove conflicting files
+      always put /usr/bin/ in front of TryExec
+      always Type=Application for XSession in main directories
+      straigten out non Application files
+      delete some files from build
+      better app-install data for primary desktop files
+      upate app-install information for install entries
+      minor correction
+      minor correction
+      update app-install data for fallback entries
+      remove some redundant lines
+      remove redundant lines from dockapps
+      remove redundant lines from xsessions
+      remove redundant lines from tray icons
+      remove redundant lines from applications
+      removed non-applications
+      a few corrections
+      some dockapp updates
+      remove some redundant lines
+      remove some redundant lines
+      check in major workup
+      missed template changes
+      skip files installed by other pakcages
+      many more updates
+      added more xsessions
+      added more fallback files
+      many more fallback files
+      add more app-install files
+      add more desktop directories
+      add more icons
+      add more application overrides
+      added new files to distribution
+      reduce list of desktop files
+      update release files
+      correct symbolic link path
+      do not use Type=XSession in these dirs
+      update release files
+      correct icon path
+      be brief when installing
+      deleted some unneeded files
+      updated some files
+      some recent updates
+      duplicate
+      duplicate
+      rename
+      remove useless .desktop file
+      remove redundant files
+      remove redundant files
+      update release files
+      fix typos
+      minor updates to build system
+      rationalize some files
+      remove duplicates
+      no dependency tracking
+      corrections to icons and classes
+      simplify distribution
 
-Changed preferred terminal from lxterminal to roxterm.
 
-Major changes for release 1.0.1:
---------------------------------
+Release xde-helpers-1.1 released 2013-12-26
+-------------------------------------------
 
-Added more xsession files.
+git shortlog -e -n -w80,6,8 1.0...1.1
 
-Major changes for release 1.0:
-------------------------------
+Brian Bidulock <bidulock@openss7.org> (2):
+      added some xsession files
+      change preferred terminal
 
-Initial release of this package.
 
-# vim: set ft=asciidoc tw=72 nocin nosi fo+=tcqlorn:
+Release xde-helpers-1.0 released 2013-11-12
+-------------------------------------------
+
+git shortlog -e -n -w80,6,8 1.0
+
+Brian Bidulock <bidulock@openss7.org> (4):
+      - initial commit
+      - updates
+      added zat.desktop
+      correction to xlsclients.desktop
+

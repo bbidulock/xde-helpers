@@ -1,7 +1,7 @@
 
 ## xde-helpers
 
-Package xde-helpers-1.1.197 was released under GPL license 2016-02-10.
+Package xde-helpers-1.2 was released under GPL license 2016-07-09.
 
 This is a set of .desktop files intended to assist the XDE (X Desktop
 Environment).
@@ -9,13 +9,11 @@ Environment).
 
 ### Release
 
-This is the `xde-helpers-1.1.197` package, released 2016-02-10.  This release,
+This is the `xde-helpers-1.2` package, released 2016-07-09.  This release,
 and the latest version, can be obtained from the GitHub repository at
 https://github.com/bbidulock/xde-helpers, using a command such as:
 
-```bash
-git clone https://github.com/bbidulock/xde-helpers.git
-```
+    git clone https://github.com/bbidulock/xde-helpers.git
 
 Please see the [NEWS](NEWS) file for release notes and history of user visible
 changes for the current version, and the [ChangeLog](ChangeLog) file for a more
@@ -36,14 +34,12 @@ the file [COPYING](COPYING).
 The quickest and easiest way to get xde-helpers up and running is to run
 the following commands:
 
-```bash
-git clone https://github.com/bbidulock/xde-helpers.git xde-helpers
-cd xde-helpers
-./autogen.sh
-./configure --prefix=/usr
-make V=0
-make DESTDIR="$pkgdir" install
-```
+    $> git clone https://github.com/bbidulock/xde-helpers.git xde-helpers
+    $> cd xde-helpers
+    $> ./autogen.sh
+    $> ./configure --prefix=/usr
+    $> make V=0
+    $> make DESTDIR="$pkgdir" install
 
 This will configure, compile and install xde-helpers the quickest.  For
 those who would like to spend the extra 15 seconds reading `./configure
