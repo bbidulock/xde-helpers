@@ -1,11 +1,20 @@
 xde-helpers -- history of user-visible changes.  2016-07-09
 
+Release xde-helpers-1.2.1 released 2016-07-09
+---------------------------------------------
+
+git shortlog -e -n -w80,6,8 1.2...HEAD
+
+Brian Bidulock <bidulock@openss7.org> (1):
+      do not need c compiler
+
+
 Release xde-helpers-1.2 released 2016-07-09
 -------------------------------------------
 
 git shortlog -e -n -w80,6,8 1.1...1.2
 
-Brian Bidulock <bidulock@openss7.org> (205):
+Brian Bidulock <bidulock@openss7.org> (206):
       avoid unnecessary commits
       correction
       fill out README file
@@ -211,6 +220,7 @@ Brian Bidulock <bidulock@openss7.org> (205):
       simplify distribution
       get dist and distcheck to work
       update release files
+      more release file updates
 
 
 Release xde-helpers-1.1 released 2013-12-26

@@ -1,5 +1,25 @@
 # created with git log --stat=76 -M -C|fmt -sct -w80
 
+commit 871576b1099317e83b1e836b5693e3acf4e2ed37
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat Jul 9 17:44:20 2016 -0600
+
+    do not need c compiler
+
+ configure.ac | 1 -
+ configure.sh | 1 -
+ 2 files changed, 2 deletions(-)
+
+commit 76c130c1f9267b99c14072ff261aaadabd0682c9
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat Jul 9 17:39:02 2016 -0600
+
+    more release file updates
+
+ ChangeLog | 68 +++++++++++++++++++++++++++++------------------------------
+ NEWS      |  4 +++-
+ 2 files changed, 37 insertions(+), 35 deletions(-)
+
 commit a4c60ec0ffe78978ffdc124c125b4e4ceacac446
 Author: Brian Bidulock <bidulock@openss7.org>
 Date:   Sat Jul 9 17:32:44 2016 -0600
@@ -4978,23 +4998,3 @@ Date:   Thu Jun 18 07:27:05 2015 -0600
  src/applications/pekwm-git.desktop               |  43 +++
  src/applications/pekwm-opacity.desktop           |  43 +++
  src/applications/pekwm.desktop                   |  17 +-
- src/applications/pekwm_kdm.desktop               |  30 +-
- src/applications/pencil-ff4-svn.desktop          |  18 +
- src/applications/pencil-svn.desktop              |  17 +
- src/applications/pencil.desktop                  |  19 +
- src/applications/pencil2d.desktop                |  18 +
- src/applications/penguin-canfield.desktop        |  16 +
- src/applications/penguin-command.desktop         |  19 +
- src/applications/penguin-freecell.desktop        |  16 +
- src/applications/penguin-golf.desktop            |  16 +
- src/applications/penguin-mastermind.desktop      |  16 +
- src/applications/penguin-merlin.desktop          |  16 +
- src/applications/penguin-minesweeper.desktop     |  16 +
- src/applications/penguin-pegged.desktop          |  16 +
- src/applications/penguin-solitaire.desktop       |  16 +
- src/applications/penguin-spider.desktop          |  21 ++
- src/applications/penguin-taipei-editor.desktop   |  16 +
- src/applications/penguin-taipei.desktop          |  16 +
- src/applications/penguin-thornq.desktop          |  16 +
- src/applications/penguins.desktop                |   2 +-
- src/applications/pentagram.desktop               |  19 +
