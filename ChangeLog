@@ -1,5 +1,39 @@
 # created with git log --stat=76 -M -C|fmt -sct -w80
 
+commit a4c60ec0ffe78978ffdc124c125b4e4ceacac446
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat Jul 9 17:32:44 2016 -0600
+
+    update release files
+
+ AUTHORS      |    2 +-
+ ChangeLog    | 5953 ++++++++++++++++++++++++++++++++++++++++++++----------
+ NEWS         |  240 ++-
+ README       |   54 +-
+ README.md    |   22 +-
+ README.md.in |   18 +-
+ 6 files changed, 5120 insertions(+), 1169 deletions(-)
+
+commit 0c01befe0a32035fff0767cced5bdf68b9f10669
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat Jul 9 17:29:57 2016 -0600
+
+    get dist and distcheck to work
+
+ Makefile.am                         | 5656 +------------------------------
+ configure.ac                        |   20 +-
+ src/Makefile.am                     |    2 +
+ src/applications/Makefile.am        | 1525 +++++++++
+ src/autostart/Makefile.am           |   58 +
+ src/desktop-directories/Makefile.am |  147 +
+ src/dockapps/Makefile.am            |   83 +
+ src/fallback/Makefile.am            | 2579 ++++++++++++++
+ src/icons/Makefile.am               | 1179 +++++++
+ src/menus/Makefile.am               |    5 +
+ src/trayicons/Makefile.am           |   30 +
+ src/xsessions/Makefile.am           |   70 +
+ 12 files changed, 5698 insertions(+), 5656 deletions(-)
+
 commit 5f1bcba4d756d2f189adc099ce51e40539c8ff91
 Author: Brian Bidulock <bidulock@openss7.org>
 Date:   Sat Jul 9 16:33:55 2016 -0600
@@ -4964,37 +4998,3 @@ Date:   Thu Jun 18 07:27:05 2015 -0600
  src/applications/penguin-thornq.desktop          |  16 +
  src/applications/penguins.desktop                |   2 +-
  src/applications/pentagram.desktop               |  19 +
- .../pentaho-report-design-wizard.desktop         |  19 +
- src/applications/pente.desktop                   |  19 +
- src/applications/penumbra-blackplague.desktop    |  20 +
- src/applications/penumbra-overture-hib.desktop   |  19 +
- src/applications/penumbra-overture.desktop       |  20 +
- src/applications/penumbra-requiem.desktop        |  20 +
- src/applications/peppy.desktop                   |  20 +
- src/applications/performous.desktop              |  26 ++
- src/applications/periodiccalendar.desktop        |  21 ++
- src/applications/perlprimer.desktop              |  25 ++
- src/applications/pessulus.desktop                | 172 +++++++++
- src/applications/pfm-postgresforms.desktop       |  20 +
- src/applications/pgadmin3-git.desktop            |  24 ++
- src/applications/pgadmin3-svn.desktop            |  19 +
- src/applications/pgadmin3-testing.desktop        |  22 ++
- src/applications/pgadmin3.desktop                |  20 +
- src/applications/pgcedit.desktop                 |  23 ++
- src/applications/pgmodeler-git.desktop           |  21 ++
- src/applications/pgmodeler.desktop               |  20 +
- src/applications/phaedra.desktop                 |  20 +
- src/applications/pharerouge-gl.desktop           |  20 +
- src/applications/pharerouge.desktop              |  21 ++
- src/applications/pharo.desktop                   |  20 +
- src/applications/phasex.desktop                  |  21 ++
- src/applications/phatch-inspector.desktop        |  21 ++
- src/applications/phatch.desktop                  |  64 ++++
- src/applications/phex.desktop                    |  21 ++
- src/applications/phinix.desktop                  |  16 +
- src/applications/phobia3.desktop                 |  21 ++
- src/applications/phoenixviewer-nonmesh.desktop   |  18 +
- src/applications/phoenixviewer.desktop           |  16 +
- src/applications/phonoripper.desktop             |  16 +
- src/applications/photocrypt-git.desktop          |  21 ++
- src/applications/photocrypt.desktop              |  18 +

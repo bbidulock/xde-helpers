@@ -5,7 +5,7 @@ Release xde-helpers-1.2 released 2016-07-09
 
 git shortlog -e -n -w80,6,8 1.1...1.2
 
-Brian Bidulock <bidulock@openss7.org> (203):
+Brian Bidulock <bidulock@openss7.org> (205):
       avoid unnecessary commits
       correction
       fill out README file
@@ -209,6 +209,8 @@ Brian Bidulock <bidulock@openss7.org> (203):
       no dependency tracking
       corrections to icons and classes
       simplify distribution
+      get dist and distcheck to work
+      update release files
 
 
 Release xde-helpers-1.1 released 2013-12-26
