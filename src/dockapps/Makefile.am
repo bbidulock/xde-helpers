@@ -48,7 +48,7 @@ dist_dock_DATA = \
 	wmmail.desktop \
 	wmmaiload.desktop \
 	wmMand.desktop \
-	wmmatrix.desktop \
+	wmMatrix.desktop \
 	wmmemload.desktop \
 	wmmixer.desktop \
 	wmmon.desktop \

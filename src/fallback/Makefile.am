@@ -2325,7 +2325,7 @@ dist_back_DATA = \
 	wmmail.desktop \
 	wmmaiload.desktop \
 	wmMand.desktop \
-	wmmatrix.desktop \
+	wmMatrix.desktop \
 	wmmixer.desktop \
 	wmmon.desktop \
 	wmMoonClock.desktop \
