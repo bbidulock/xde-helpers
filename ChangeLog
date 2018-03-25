@@ -1,5 +1,19 @@
 # created with git log --stat=76 -M -C -300|fmt -sct -w80
 
+commit b13f962e5f5a4b485f1b5f9e41d79c2951ac16de
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun Mar 25 13:25:34 2018 -0600
+
+    final release file update
+
+ AUTHORS      |  2 +-
+ ChangeLog    | 28 ++++++++++++++--------------
+ NEWS         |  7 ++++---
+ README       |  6 +++---
+ README.md    |  6 +++---
+ configure.ac |  2 +-
+ 6 files changed, 26 insertions(+), 25 deletions(-)
+
 commit af3a53fc12793371ef38d8bb79d722ff3d79e694
 Author: Brian Bidulock <bidulock@openss7.org>
 Date:   Sun Mar 25 13:17:13 2018 -0600
@@ -4984,17 +4998,3 @@ Date:   Thu Jun 18 07:27:05 2015 -0600
  src/applications/pacdefence.desktop              |  19 +
  src/applications/pacgui.desktop                  |  22 ++
  src/applications/packeth.desktop                 |  18 +
- src/applications/pacmanxg.desktop                |  21 ++
- src/applications/pacsyu.desktop                  |  20 +
- src/applications/padevchooser.desktop            |  92 +++++
- src/applications/paint.mono.desktop              |  87 +++++
- src/applications/pakkumans-defense.desktop       |  19 +
- src/applications/palemoon-beta.desktop           |  25 ++
- src/applications/palemoon-bin.desktop            |  25 ++
- src/applications/palemoon-infinality.desktop     |  24 ++
- src/applications/palemoon.desktop                |  23 ++
- src/applications/palimpsest.desktop              | 123 +++++++
- src/applications/pallavi.desktop                 |  19 +
- src/applications/palm.desktop                    |  20 +
- src/applications/paman.desktop                   |  64 ++++
- src/applications/pan.desktop                     |  93 +++++
