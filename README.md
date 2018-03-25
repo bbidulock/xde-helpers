@@ -1,9 +1,9 @@
-[xde-helpers -- read me first file.  2017-10-07]: #
+[xde-helpers -- read me first file.  2018-03-25]: #
 
 xde-helpers
 ===============
 
-Package `xde-helpers-1.3` was released under GPLv3 license 2017-10-07.
+Package `xde-helpers-1.3` was released under GPLv3 license 2018-03-25.
 
 This is a set of `.desktop` files intended to assist the XDE (_X Desktop
 Environment_).
@@ -12,7 +12,7 @@ Environment_).
 Release
 -------
 
-This is the `xde-helpers-1.3` package, released 2017-10-07.  This
+This is the `xde-helpers-1.3` package, released 2018-03-25.  This
 release, and the latest version, can be obtained from [GitHub][1], using
 a command such as:
 

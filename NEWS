@@ -1,16 +1,17 @@
-xde-helpers -- history of user-visible changes.  2017-10-07
+xde-helpers -- history of user-visible changes.  2018-03-25
 
-Release xde-helpers-1.3 released 2017-10-07
+Release xde-helpers-1.3 released 2018-03-25
 -------------------------------------------
 
 git shortlog -e -n -w80,6,8 1.2...1.3
 
-Brian Bidulock <bidulock@openss7.org> (5):
+Brian Bidulock <bidulock@openss7.org> (6):
       git hates trailing space
       better formatting
       limit changelog
       update build system
       rename wmmatrix to wmMatrix
+      update release files
 
 
 Release xde-helpers-1.2 released 2016-07-09
