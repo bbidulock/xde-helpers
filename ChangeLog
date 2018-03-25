@@ -1,4 +1,74 @@
-# created with git log --stat=76 -M -C|fmt -sct -w80
+# created with git log --stat=76 -M -C -300|fmt -sct -w80
+
+commit 6d2c3537e85a09534638f7ff3efc83201c5138bb
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat Oct 7 23:20:40 2017 -0600
+
+    rename wmmatrix to wmMatrix
+
+ src/app-install/desktop/{wmmatrix.desktop => wmMatrix.desktop}  | 6 +++---
+ src/applications/Makefile.am                                    | 2 +-
+ .../wmmatrix.desktop => applications/wmMatrix.desktop}          | 6 +++---
+ src/dockapps/Makefile.am                                        | 2 +-
+ .../wmmatrix.desktop => dockapps/wmMatrix.desktop}              | 6 +++---
+ src/fallback/Makefile.am                                        | 2 +-
+ src/fallback/{wmmatrix.desktop => wmMatrix.desktop}             | 6 +++---
+ 7 files changed, 15 insertions(+), 15 deletions(-)
+
+commit 58be58998f9cb04dca11d269ca41b96b86f701bf
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Mon Sep 11 02:32:00 2017 -0600
+
+    update build system
+
+ Makefile.am  | 16 +++++++--------
+ README       | 61 +++++++++++++++++++++++++++++++-------------------------
+ README.md    | 61 +++++++++++++++++++++++++++++++-------------------------
+ README.md.in | 61 +++++++++++++++++++++++++++++++-------------------------
+ autogen.sh   |  9 +++++++++
+ configure.ac | 41 +++++++++++++++++++++++++++++++++++++
+ configure.sh | 19 +++++++++++-------
+ rebuild.sh   |  4 ++--
+ 8 files changed, 174 insertions(+), 98 deletions(-)
+
+commit da7448ba762bfc89fd3177f3cc42574334020d81
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun Jul 10 02:46:55 2016 -0600
+
+    limit changelog
+
+ Makefile.am | 8 ++++----
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+
+commit 4af5538a31e96391e54fc1df56c5a99d37b85424
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun Jul 10 02:35:06 2016 -0600
+
+    better formatting
+
+ README       | 80 +++++++++++++++++++++++++++++++------------------------
+ README.md    | 81 ++++++++++++++++++++++++++++++++------------------------
+ README.md.in | 81 ++++++++++++++++++++++++++++++++------------------------
+ 3 files changed, 140 insertions(+), 102 deletions(-)
+
+commit 2540c6502fa4427b11abd91e0d1612781da6b2fc
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun Jul 10 02:34:51 2016 -0600
+
+    git hates trailing space
+
+ gennews.sh | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit ea616bc0e2865c253db3deae93564ed93e544f41
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat Jul 9 17:45:15 2016 -0600
+
+    update release files
+
+ ChangeLog | 40 ++++++++++++++++++++--------------------
+ NEWS      | 12 +++++++++++-
+ 2 files changed, 31 insertions(+), 21 deletions(-)
 
 commit 871576b1099317e83b1e836b5693e3acf4e2ed37
 Author: Brian Bidulock <bidulock@openss7.org>
@@ -4928,73 +4998,3 @@ Date:   Thu Jun 18 07:27:05 2015 -0600
  src/applications/paprefs.desktop                 | 144 ++++++++
  src/applications/parajve.desktop                 |  18 +
  src/applications/paralleluniverse.desktop        |  19 +
- src/applications/paranautical-activity.desktop   |  19 +
- src/applications/paraview-git.desktop            |  22 ++
- src/applications/paraview-manta.desktop          |  21 ++
- src/applications/paraview-salome.desktop         |  20 +
- src/applications/paraview.desktop                |  21 ++
- src/applications/paraview3.desktop               |  21 ++
- src/applications/parcellite.desktop              |  35 ++
- src/applications/parley.desktop                  |  89 +++++
- src/applications/parole.desktop                  |  34 ++
- src/applications/parpg-svn.desktop               |  18 +
- src/applications/parpg.desktop                   |  19 +
- src/applications/parsec47.desktop                |  20 +
- src/applications/partitionmanager.desktop        | 112 ++++++
- src/applications/pasandbox.desktop               |  19 +
- src/applications/passage.desktop                 |  19 +
- src/applications/passkey.desktop                 |  19 +
- src/applications/password-gorilla.desktop        |  20 +
- src/applications/pasteall.desktop                |  19 +
- src/applications/pastebinit.desktop              |  25 ++
- src/applications/patapony.desktop                |  20 +
- src/applications/patchage.desktop                |  19 +
- src/applications/pathological.desktop            |  19 +
- src/applications/pauker.desktop                  |  23 ++
- src/applications/pavucontrol-git.desktop         | 148 ++++++++
- src/applications/pavucontrol.desktop             | 147 ++++++++
- src/applications/pavumeter-record.desktop        |  81 ++++
- src/applications/pavumeter.desktop               |  77 ++++
- src/applications/pawm.desktop                    |   4 +-
- src/applications/paycoin-qt-bin.desktop          |  21 ++
- src/applications/paycoin-qt.desktop              |  19 +
- src/applications/paycoin-wallet.desktop          |  19 +
- src/applications/pazaak-cantina.desktop          |  19 +
- src/applications/pburn.desktop                   |  25 ++
- src/applications/pcb.desktop                     |  21 ++
- src/applications/pcgen.desktop                   |  20 +
- src/applications/pcmanfm-mod-find.desktop        |  20 +
- .../pcmanfm-mod-folder-handler.desktop           |  19 +
- src/applications/pcmanfm-mod.desktop             |  21 ++
- src/applications/pcmanx.desktop                  |  27 ++
- src/applications/pcng-tubs.desktop               |  20 +
- src/applications/pcsx2.desktop                   |  17 +
- src/applications/pcsx2ce.desktop                 |  20 +
- src/applications/pdf2img-pygtk3.desktop          |  19 +
- src/applications/pdf2img.desktop                 |  18 +
- src/applications/pdfchain.desktop                |  21 ++
- src/applications/pdfedit-addscript-csv.desktop   |  20 +
- src/applications/pdfedit-addscript.desktop       |  21 ++
- src/applications/pdfedit.desktop                 |  20 +
- src/applications/pdfeditor.desktop               |  17 +
- src/applications/pdfmod.desktop                  |  63 ++++
- src/applications/pdfnup-gui.desktop              |  20 +
- src/applications/pdfsam.desktop                  |  21 ++
- src/applications/pdfshuffler.desktop             |  19 +
- src/applications/pdfstudio.desktop               |  20 +
- src/applications/pdfstudio8.desktop              |  20 +
- src/applications/pdfstudio9.desktop              |  20 +
- src/applications/peazip-beta-qt.desktop          |  20 +
- src/applications/peazip-gtk2.desktop             |  23 ++
- src/applications/peazip-qt-build.desktop         |  22 ++
- src/applications/peazip-qt.desktop               |  23 ++
- src/applications/peazip.desktop                  |  18 +
- src/applications/peazipadd.desktop               |  20 +
- src/applications/peercoin.desktop                |  20 +
- src/applications/peerunity-qt.desktop            |  22 ++
- src/applications/peerunity.desktop               |  19 +
- src/applications/peg-e.desktop                   |  19 +
- src/applications/pegged.desktop                  |   2 +-
- src/applications/pekwm-git.desktop               |  43 +++
- src/applications/pekwm-opacity.desktop           |  43 +++
- src/applications/pekwm.desktop                   |  17 +-
