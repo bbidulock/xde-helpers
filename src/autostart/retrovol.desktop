@@ -19,4 +19,4 @@ X-Arch-Package-Version=0.14.1-1
 X-Arch-Package-Description=A sound volume mixer
 X-Arch-Package-Groups=None
 X-Arch-Package-URL=https://github.com/pizzasgood/retrovol
-X-GNOME-Autostart-enable=true
+X-GNOME-Autostart-enabled=true
