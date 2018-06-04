@@ -1,9 +1,9 @@
-[xde-helpers -- read me first file.  2018-03-25]: #
+[xde-helpers -- read me first file.  2018-06-03]: #
 
 xde-helpers
 ===============
 
-Package `xde-helpers-1.3` was released under GPLv3 license 2018-03-25.
+Package `xde-helpers-1.4` was released under GPLv3 license 2018-06-03.
 
 This is a set of `.desktop` files intended to assist the XDE (_X Desktop
 Environment_).
@@ -12,7 +12,7 @@ Environment_).
 Release
 -------
 
-This is the `xde-helpers-1.3` package, released 2018-03-25.  This
+This is the `xde-helpers-1.4` package, released 2018-06-03.  This
 release, and the latest version, can be obtained from [GitHub][1], using
 a command such as:
 
@@ -69,12 +69,12 @@ Report issues on GitHub [here][2].
 
 [1]: https://github.com/bbidulock/xde-helpers
 [2]: https://github.com/bbidulock/xde-helpers/issues
-[3]: https://github.com/bbidulock/xde-helpers/blob/1.3/NEWS
-[4]: https://github.com/bbidulock/xde-helpers/blob/1.3/ChangeLog
-[5]: https://github.com/bbidulock/xde-helpers/blob/1.3/TODO
-[6]: https://github.com/bbidulock/xde-helpers/blob/1.3/COMPLIANCE
-[7]: https://github.com/bbidulock/xde-helpers/blob/1.3/INSTALL
-[8]: https://github.com/bbidulock/xde-helpers/blob/1.3/LICENSE
-[9]: https://github.com/bbidulock/xde-helpers/blob/1.3/COPYING
+[3]: https://github.com/bbidulock/xde-helpers/blob/1.4/NEWS
+[4]: https://github.com/bbidulock/xde-helpers/blob/1.4/ChangeLog
+[5]: https://github.com/bbidulock/xde-helpers/blob/1.4/TODO
+[6]: https://github.com/bbidulock/xde-helpers/blob/1.4/COMPLIANCE
+[7]: https://github.com/bbidulock/xde-helpers/blob/1.4/INSTALL
+[8]: https://github.com/bbidulock/xde-helpers/blob/1.4/LICENSE
+[9]: https://github.com/bbidulock/xde-helpers/blob/1.4/COPYING
 
 [ vim: set ft=markdown sw=4 tw=72 nocin nosi fo+=tcqlorn spell: ]: #

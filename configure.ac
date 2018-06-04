@@ -1,7 +1,7 @@
 
 AC_PREREQ([2.69])
-AC_INIT([xde-helpers],[1.3],[https://github.com/bbidulock/xde-helpers],[xde-helpers],[https://github.com/bbidulock/xde-helpers/issues])
-AC_REVISION([1.3])
+AC_INIT([xde-helpers],[1.4],[https://github.com/bbidulock/xde-helpers],[xde-helpers],[https://github.com/bbidulock/xde-helpers/issues])
+AC_REVISION([1.4])
 
 AC_CONFIG_SRCDIR([configure.ac])
 AC_CONFIG_MACRO_DIR([m4])
@@ -9,10 +9,10 @@ AC_CONFIG_AUX_DIR([scripts])
 AC_USE_SYSTEM_EXTENSIONS
 AC_CANONICAL_TARGET
 
-DATE='2018-03-25'
+DATE='2018-06-03'
 AC_SUBST([DATE])
 
-BRANCH='1.3'
+BRANCH='1.4'
 AC_SUBST([BRANCH])
 
 # Initialize Automake

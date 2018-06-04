@@ -1,5 +1,64 @@
 # created with git log --stat=76 -M -C -300|fmt -sct -w80
 
+commit 12c0b8305d6058a4b5dcf2d6732224bc67403755
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun Jun 3 18:17:42 2018 -0600
+
+    add xiccd entries
+
+ src/app-install/desktop/xiccd.desktop | 14 ++++++++++++++
+ src/applications/Makefile.am          |  1 +
+ src/applications/xiccd.desktop        | 14 ++++++++++++++
+ src/autostart/Makefile.am             |  1 +
+ src/autostart/xiccd.desktop           | 14 ++++++++++++++
+ src/fallback/Makefile.am              |  1 +
+ src/fallback/xiccd.desktop            | 14 ++++++++++++++
+ 7 files changed, 59 insertions(+)
+
+commit 010e21628abeb4ef9a082138afdd530790979f22
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun Jun 3 17:42:14 2018 -0600
+
+    mark some autostart enabled
+
+ src/app-install/desktop/smproxy.desktop   | 2 +-
+ src/app-install/desktop/xde-setbg.desktop | 2 +-
+ src/applications/smproxy.desktop          | 2 +-
+ src/applications/xde-setbg.desktop        | 2 +-
+ src/autostart/smproxy.desktop             | 2 +-
+ src/autostart/xde-setbg.desktop           | 2 +-
+ src/fallback/smproxy.desktop              | 2 +-
+ src/fallback/xde-setbg.desktop            | 2 +-
+ 8 files changed, 8 insertions(+), 8 deletions(-)
+
+commit 502def29e60474dd0e1710bb12ea75c71843ebb4
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun Jun 3 17:36:02 2018 -0600
+
+    correct s/enable/enabled/
+
+ src/app-install/desktop/pnmixer.desktop  | 2 +-
+ src/app-install/desktop/retrovol.desktop | 2 +-
+ src/applications/pnmixer.desktop         | 2 +-
+ src/applications/retrovol.desktop        | 2 +-
+ src/autostart/pnmixer.desktop            | 2 +-
+ src/autostart/retrovol.desktop           | 2 +-
+ src/fallback/pnmixer.desktop             | 2 +-
+ src/fallback/retrovol.desktop            | 2 +-
+ src/trayicons/pnmixer.desktop            | 2 +-
+ src/trayicons/retrovol.desktop           | 2 +-
+ 10 files changed, 10 insertions(+), 10 deletions(-)
+
+commit 6283eea40ce8f8b4922ab553f3c4a324980b0564
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun Mar 25 13:35:07 2018 -0600
+
+    post-release update
+
+ ChangeLog | 28 ++++++++++++++--------------
+ NEWS      |  3 ++-
+ 2 files changed, 16 insertions(+), 15 deletions(-)
+
 commit b13f962e5f5a4b485f1b5f9e41d79c2951ac16de
 Author: Brian Bidulock <bidulock@openss7.org>
 Date:   Sun Mar 25 13:25:34 2018 -0600
@@ -4939,62 +4998,3 @@ Date:   Thu Jun 18 07:27:05 2015 -0600
  src/applications/openrpt.desktop                 |  21 ++
  src/applications/openscad.desktop                |  17 +
  src/applications/openshot.desktop                |  21 ++
- src/applications/opensonic.desktop               |  19 +
- src/applications/openspeak.desktop               |  21 ++
- src/applications/opensurge-svn.desktop           |  21 ++
- src/applications/opensurge.desktop               |  16 +
- src/applications/opentrack-git.desktop           |  19 +
- src/applications/opentrack.desktop               |  17 +
- src/applications/openttd.desktop                 |  59 +++
- src/applications/opentyrian-enhanced.desktop     |  19 +
- .../openvas-client-freedesktop.desktop           |  25 ++
- src/applications/openvpn-qt-arch.desktop         |  21 ++
- src/applications/openxenmanager.desktop          |  18 +
- src/applications/openyahtzee.desktop             |  19 +
- src/applications/opera-mini.desktop              |  88 +++++
- src/applications/ophcrack.desktop                |  17 +
- src/applications/opmin.desktop                   |  22 ++
- src/applications/oprofile.desktop                |  51 +++
- src/applications/oracle-datamodeler.desktop      |  21 ++
- src/applications/oracle-sqldeveloper.desktop     |  20 +
- src/applications/orbada.desktop                  |  20 +
- src/applications/orbital-eunuchs-sniper.desktop  |  23 ++
- src/applications/orbithopper.desktop             |  19 +
- src/applications/orca-autostart.desktop          |  18 +
- src/applications/orca-screen-reader.desktop      | 155 ++++++++
- src/applications/orca.desktop                    | 230 ++++++++++++
- src/applications/orderoftwilight.desktop         |  21 ++
- src/applications/oregano.desktop                 |  27 ++
- src/applications/ornamentbook.desktop            |  19 +
- src/applications/orta.desktop                    |  19 +
- src/applications/orthorobot.desktop              |  22 ++
- src/applications/osbuddy.desktop                 |  20 +
- src/applications/osgg.desktop                    |  19 +
- src/applications/osiris-sps.desktop              |  20 +
- src/applications/osmo.desktop                    |  21 ++
- src/applications/osmos-demo.desktop              |  21 ++
- src/applications/osmos-humblebundle.desktop      |  20 +
- src/applications/osmos.desktop                   |  20 +
- src/applications/osmose.desktop                  |  19 +
- src/applications/ossxmix.desktop                 |  18 +
- src/applications/ostrichriders.desktop           |  18 +
- src/applications/osu-fullscreen.desktop          |  20 +
- src/applications/osu.desktop                     |  20 +
- src/applications/outerwilds.desktop              |  18 +
- src/applications/outlast-hib.desktop             |  21 ++
- src/applications/outreel-root.desktop            |  21 ++
- src/applications/outreel.desktop                 |  21 ++
- src/applications/ovrd.desktop                    |  16 +
- src/applications/owncloud-client-fdo.desktop     |  17 +
- src/applications/p4admin.desktop                 |  19 +
- src/applications/p4merge.desktop                 |  19 +
- src/applications/p4v.desktop                     |  19 +
- src/applications/p4vasp.desktop                  |  19 +
- src/applications/p6014.desktop                   |  19 +
- src/applications/p7zip-fixzip.desktop            |  21 ++
- src/applications/pa-applet.desktop               |  19 +
- src/applications/pablodraw.desktop               |  19 +
- src/applications/pacapong.desktop                |  18 +
- src/applications/pacdefence.desktop              |  19 +
- src/applications/pacgui.desktop                  |  22 ++
- src/applications/packeth.desktop                 |  18 +
