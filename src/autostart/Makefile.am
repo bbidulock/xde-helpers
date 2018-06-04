@@ -33,6 +33,7 @@
 #	retrovol.desktop \
 #	sd-applet.desktop \
 #	smproxy.desktop \
+#	xiccd.desktop \
 #	vboxclient.desktop \
 #	wmappl.desktop \
 #	wmbattery.desktop \

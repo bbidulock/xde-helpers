@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Name=xiccd
+GenericName=X color management daemon
+Comment=Applies color management profiles to your session
+TryExec=/usr/bin/xiccd
+Exec=xiccd
+Terminal=false
+Categories=ColorManagement;Publishing;System;Applications;
+NotShowIn=GNOME;KDE;
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
+X-GNOME-Autostart-Phase=Initialization
+X-KDE-autostart-phase=1

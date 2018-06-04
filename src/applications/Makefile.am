@@ -1129,6 +1129,7 @@ dist_appl_DATA = \
 	smplayer.desktop \
 	smplayer_enqueue.desktop \
 	smproxy.desktop \
+	xiccd.desktop \
 	sniff.desktop \
 	software-properties.desktop \
 	solfege.desktop \

@@ -2004,6 +2004,7 @@ dist_back_DATA = \
 	smplayer.desktop \
 	smplayer_enqueue.desktop \
 	smproxy.desktop \
+	xiccd.desktop \
 	smuxi-frontend-gnome.desktop \
 	snake4.desktop \
 	sniff.desktop \
