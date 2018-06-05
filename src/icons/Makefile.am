@@ -939,6 +939,7 @@ pixmap_ICONS = \
 	xchat2.svg \
 	xchat-gnome.svg \
 	xchat.svg \
+	xde.svg \
 	xdvi.png \
 	xdwm.svg \
 	xfardic-logo.svg \
