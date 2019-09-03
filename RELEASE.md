@@ -1,15 +1,14 @@
-[xde-helpers -- release notes.  2019-08-31]: #
+[xde-helpers -- release notes.  2019-09-03]: #
 
-Maintenance Release 1.5
+Maintenance Release 1.6
 =======================
 
-This is the fifth release of the xde-helpers package that provides
+This is the sixth release of the xde-helpers package that provides
 default and fallback desktop entry files for the _X Desktop Environment
 (XDE)_.
 
-This release is a maintenance release and simply updates the build
-system for better NEWS generation, handling of annotated tags, and lzip
-compression for release tarballs.
+This release is a maintenance release and simply provides better
+autoconf directory defaults and improves the build system more.
 
 Included in the release is an autoconf tarball for building the package
 from source.  See the [NEWS](NEWS) and [TODO](TODO) file in the release
