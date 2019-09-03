@@ -3,6 +3,14 @@ AC_PREREQ([2.69])
 AC_INIT([xde-helpers],[1.5],[https://github.com/bbidulock/xde-helpers],[xde-helpers],[https://github.com/bbidulock/xde-helpers/issues])
 AC_REVISION([1.5])
 
+# set better defaults
+AC_PREFIX_DEFAULT([/usr])
+if test "$prefix" = /usr -o "$prefix" = NONE; then
+	test "$sysconfdir" = '${prefix}/etc' && sysconfdir=/etc
+	test "$sharedstatedir" = '${prefix}/com' && sharedstatedir=/var
+	test "$localstatedir" = '${prefix}/var' && localstatedir=/var
+fi
+
 AC_CONFIG_SRCDIR([configure.ac])
 AC_CONFIG_MACRO_DIR([m4])
 AC_CONFIG_AUX_DIR([scripts])
@@ -22,7 +30,6 @@ AC_SUBST([BRANCH])
 AM_INIT_AUTOMAKE([gnits 1.16 dist-lzip no-dist-gzip std-options -Wall color-tests silent-rules tar-pax])
 AM_MAINTAINER_MODE
 AM_SILENT_RULES([yes])
-AC_PREFIX_DEFAULT([/usr])
 
 # Checks for programs.
 AC_PROG_SED
