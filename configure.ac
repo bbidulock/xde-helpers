@@ -1,7 +1,7 @@
 
 AC_PREREQ([2.69])
-AC_INIT([xde-helpers],[1.5.4],[https://github.com/bbidulock/xde-helpers],[xde-helpers],[https://github.com/bbidulock/xde-helpers/issues])
-AC_REVISION([1.5.4])
+AC_INIT([xde-helpers],[1.6],[https://github.com/bbidulock/xde-helpers],[xde-helpers],[https://github.com/bbidulock/xde-helpers/issues])
+AC_REVISION([1.6])
 
 # set better defaults
 AC_PREFIX_DEFAULT([/usr])
@@ -21,11 +21,11 @@ AC_SUBST([DATE])
 MDOCDATE='September 3, 2019'
 AC_SUBST([MDOCDATE])
 
-BRANCH='master'
+BRANCH='1.6'
 AC_SUBST([BRANCH])
 
 # Initialize Automake
-AM_INIT_AUTOMAKE([1.16 dist-lzip no-dist-gzip std-options -Wall color-tests silent-rules tar-pax])
+AM_INIT_AUTOMAKE([gnits 1.16 dist-lzip no-dist-gzip std-options -Wall color-tests silent-rules tar-pax])
 AM_MAINTAINER_MODE
 AM_SILENT_RULES([yes])
 

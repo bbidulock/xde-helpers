@@ -1,5 +1,64 @@
 # created with git log --stat=76 -M -C -500|fmt -sct -w80
 
+commit 800bc55ee0ea6c71e127eb1e9a59f492ac10a4c1
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Sep 3 05:13:40 2019 -0600
+
+    do not need c compiler
+
+ configure.ac | 14 ++++++--------
+ 1 file changed, 6 insertions(+), 8 deletions(-)
+
+commit 9b407f686fb54f01918dca6f07a27056e71b2c9f
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Sep 3 05:12:24 2019 -0600
+
+    update release notes
+
+ RELEASE.md | 11 +++++------
+ 1 file changed, 5 insertions(+), 6 deletions(-)
+
+commit 0bb8692d67ca6104f5ed281d7ad1ea7bccae0cdb
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Sep 3 05:12:07 2019 -0600
+
+    build release notes with distribution
+
+ dist.sh | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit c97037df637fe8303919c2b942e7bb71301d158b
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Sep 3 05:11:53 2019 -0600
+
+    better defaults now
+
+ configure.sh | 3 ---
+ 1 file changed, 3 deletions(-)
+
+commit 0bf43f56e6c84e3404e453e1649ee95959523bb3
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Sep 3 05:11:44 2019 -0600
+
+    provide better autoconf directory defaults
+
+ configure.ac | 9 ++++++++-
+ 1 file changed, 8 insertions(+), 1 deletion(-)
+
+commit 4e8758a69f677cf1f6fb30efbba84368fd251605
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Mon Sep 2 02:14:11 2019 -0600
+
+    update release files
+
+ AUTHORS      |    2 +-
+ ChangeLog    | 5002 +++++++++++++++++++++++++++++++++++++++++++++++++++++-
+ NEWS         |   41 +-
+ README       |   20 +-
+ README.md    |   20 +-
+ configure.ac |   19 +-
+ 6 files changed, 5072 insertions(+), 32 deletions(-)
+
 commit 223d8ff824cea608c80aeed5302911165a91f1d0
 Author: Brian Bidulock <bidulock@openss7.org>
 Date:   Mon Sep 2 02:01:22 2019 -0600
@@ -9939,62 +9998,3 @@ Date:   Thu Jun 18 07:02:15 2015 -0600
  src/app-install/desktop/johnny.desktop           |  19 +
  src/app-install/desktop/jomar3d.desktop          |  23 ++
  src/app-install/desktop/jondobrowser.desktop     |  24 ++
- src/app-install/desktop/jooleem.desktop          |  20 +
- src/app-install/desktop/josm-git.desktop         |  20 +
- src/app-install/desktop/josm-javaws.desktop      |  20 +
- src/app-install/desktop/josm-latest-svn.desktop  |  18 +
- src/app-install/desktop/josm-latest.desktop      |  25 ++
- src/app-install/desktop/josm-svn.desktop         |  21 ++
- src/app-install/desktop/jost-bin.desktop         |  21 ++
- src/app-install/desktop/jost.desktop             |  19 +
- src/app-install/desktop/jotify.desktop           |  17 +
- src/app-install/desktop/joxi.desktop             |  22 ++
- .../desktop/jpackage-chainsaw.desktop            |  19 +
- src/app-install/desktop/jpcsp-git.desktop        |  20 +
- src/app-install/desktop/jpcsp-svn.desktop        |  20 +
- src/app-install/desktop/jpcsp.desktop            |  18 +
- src/app-install/desktop/jpdfbookmarks.desktop    |  21 ++
- src/app-install/desktop/jpdftweak.desktop        |  20 +
- src/app-install/desktop/jperf.desktop            |  19 +
- src/app-install/desktop/jpgfdraw.desktop         |  16 +
- src/app-install/desktop/jre-devel.desktop        |  21 ++
- src/app-install/desktop/jre.desktop              |  21 ++
- src/app-install/desktop/jre6.desktop             |  21 ++
- src/app-install/desktop/jre7-compat.desktop      |  19 +
- src/app-install/desktop/jre7.desktop             |  21 ++
- src/app-install/desktop/jre8.desktop             |  18 +
- src/app-install/desktop/jremindme.desktop        |  19 +
- src/app-install/desktop/jripper.desktop          |  20 +
- src/app-install/desktop/jsampler-classic.desktop |  17 +
- src/app-install/desktop/jsampler-cvs.desktop     |  20 +
- src/app-install/desktop/jsampler.desktop         |  16 +
- src/app-install/desktop/jsoftware.desktop        |  21 ++
- src/app-install/desktop/jstest-gtk-git.desktop   |  24 ++
- src/app-install/desktop/jstest-gtk.desktop       |  22 ++
- src/app-install/desktop/jstock.desktop           |  19 +
- src/app-install/desktop/jtux.desktop             |  19 +
- src/app-install/desktop/jucy.desktop             |  19 +
- src/app-install/desktop/judith.desktop           |  19 +
- src/app-install/desktop/julia-studio-git.desktop |  20 +
- src/app-install/desktop/jumpnbump-menu.desktop   |  21 ++
- src/app-install/desktop/junipersknot.desktop     |  22 ++
- src/app-install/desktop/juststyle.desktop        |  22 ++
- src/app-install/desktop/jvgs.desktop             |  20 +
- src/app-install/desktop/jvisualvm-jdk6.desktop   |  20 +
- src/app-install/desktop/jvisualvm-jdk7.desktop   |  20 +
- .../desktop/jvisualvm-jdk8-32.desktop            |  17 +
- src/app-install/desktop/jvisualvm-jdk8.desktop   |  20 +
- src/app-install/desktop/jvisualvm-jdk9.desktop   |  20 +
- src/app-install/desktop/jvisualvm32-jdk6.desktop |  19 +
- src/app-install/desktop/jvisualvm32-jdk7.desktop |  20 +
- src/app-install/desktop/jvisualvm32-jdk8.desktop |  20 +
- src/app-install/desktop/jvisualvm32-jdk9.desktop |  19 +
- src/app-install/desktop/jvlt.desktop             |  20 +
- src/app-install/desktop/jw.desktop               |  21 ++
- src/app-install/desktop/jwm-git.desktop          |  44 +++
- src/app-install/desktop/jwpce.desktop            |  19 +
- src/app-install/desktop/k3d.desktop              |  21 ++
- src/app-install/desktop/kSar.desktop             |  18 +
- src/app-install/desktop/kag.desktop              |  20 +
- src/app-install/desktop/kagbeta.desktop          |  20 +
- src/app-install/desktop/kagetsu-tohya-en.desktop |  18 +

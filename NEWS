@@ -1,4 +1,32 @@
-xde-helpers -- history of user-visible changes.  2019-09-02
+xde-helpers -- history of user-visible changes.  2019-09-03
+
+Release xde-helpers-1.6 released 2019-09-03
+-------------------------------------------
+
+git tag -n100 -l 1.6
+
+1.6             Maintenance Release 1.6
+
+    This is the sixth release of the xde-helpers package that provides
+    default and fallback desktop entry files for the X Desktop Environment
+    (XDE).
+
+    This release is a maintenance release and simply provides better
+    autoconf directory defaults and improves the build system more.
+
+    Included in the release is an autoconf tarball for building the package
+    from source. See the NEWS and TODO file in the release for more
+    information. Please report problems to the issues list on GitHub.
+
+git shortlog -e -n -w80,6,8 1.5...1.6
+
+Brian Bidulock <bidulock@openss7.org> (5):
+      provide better autoconf directory defaults
+      better defaults now
+      build release notes with distribution
+      update release notes
+      do not need c compiler
+
 
 Release xde-helpers-1.5 released 2019-09-02
 -------------------------------------------
@@ -21,7 +49,7 @@ git tag -n100 -l 1.5
 
 git shortlog -e -n -w80,6,8 1.4...1.5
 
-Brian Bidulock <bidulock@openss7.org> (12):
+Brian Bidulock <bidulock@openss7.org> (13):
       add xde logo
       reformat TODO
       update for gettext 0.20.1
@@ -34,6 +62,7 @@ Brian Bidulock <bidulock@openss7.org> (12):
       place filename last in sed command
       update release notes
       better release build
+      update release files
 
 
 Release xde-helpers-1.4 released 2018-06-03
