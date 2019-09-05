@@ -1,5 +1,19 @@
 # created with git log --stat=76 -M -C -500|fmt -sct -w80
 
+commit 86916b2cf167c79c9d9e8239c96244ae0a3e88f8
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue Sep 3 05:25:01 2019 -0600
+
+    update release files
+
+ AUTHORS      |   2 +-
+ ChangeLog    | 118 +++++++++++++++++++++++++++----------------------------
+ NEWS         |  33 +++++++++++++++-
+ README       |  20 +++++-----
+ README.md    |  20 +++++-----
+ configure.ac |   8 ++--
+ 6 files changed, 115 insertions(+), 86 deletions(-)
+
 commit 800bc55ee0ea6c71e127eb1e9a59f492ac10a4c1
 Author: Brian Bidulock <bidulock@openss7.org>
 Date:   Tue Sep 3 05:13:40 2019 -0600
@@ -9984,17 +9998,3 @@ Date:   Thu Jun 18 07:02:15 2015 -0600
  src/app-install/desktop/jmc32-jdk7.desktop       |  19 +
  src/app-install/desktop/jmc32-jdk8.desktop       |  19 +
  src/app-install/desktop/jmc32-jdk9.desktop       |  18 +
- src/app-install/desktop/jmemorize.desktop        |  19 +
- src/app-install/desktop/jmencode-gcj.desktop     |  19 +
- src/app-install/desktop/jmencode.desktop         |  20 +
- src/app-install/desktop/jmp3renamer.desktop      |  21 ++
- src/app-install/desktop/jmpd.desktop             |  20 +
- src/app-install/desktop/jodin3.desktop           |  21 ++
- src/app-install/desktop/joe.desktop              |  20 +
- src/app-install/desktop/joepass-bin.desktop      |  22 ++
- src/app-install/desktop/joepass.desktop          |  20 +
- src/app-install/desktop/johnny-git.desktop       |  21 ++
- src/app-install/desktop/johnny-simulator.desktop |  18 +
- src/app-install/desktop/johnny.desktop           |  19 +
- src/app-install/desktop/jomar3d.desktop          |  23 ++
- src/app-install/desktop/jondobrowser.desktop     |  24 ++

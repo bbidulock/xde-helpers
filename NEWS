@@ -20,12 +20,13 @@ git tag -n100 -l 1.6
 
 git shortlog -e -n -w80,6,8 1.5...1.6
 
-Brian Bidulock <bidulock@openss7.org> (5):
+Brian Bidulock <bidulock@openss7.org> (6):
       provide better autoconf directory defaults
       better defaults now
       build release notes with distribution
       update release notes
       do not need c compiler
+      update release files
 
 
 Release xde-helpers-1.5 released 2019-09-02
