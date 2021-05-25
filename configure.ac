@@ -1,7 +1,7 @@
 
 AC_PREREQ([2.69])
-AC_INIT([xde-helpers],[1.6],[https://github.com/bbidulock/xde-helpers],[xde-helpers],[https://github.com/bbidulock/xde-helpers/issues])
-AC_REVISION([1.6])
+AC_INIT([xde-helpers],[1.7],[https://github.com/bbidulock/xde-helpers],[xde-helpers],[https://github.com/bbidulock/xde-helpers/issues])
+AC_REVISION([1.7])
 
 # set better defaults
 AC_PREFIX_DEFAULT([/usr])
@@ -15,13 +15,13 @@ AC_CONFIG_SRCDIR([configure.ac])
 AC_CONFIG_MACRO_DIR([m4])
 AC_CONFIG_AUX_DIR([scripts])
 
-DATE='2019-09-03'
+DATE='2021-05-25'
 AC_SUBST([DATE])
 
-MDOCDATE='September 3, 2019'
+MDOCDATE='May 25, 2021'
 AC_SUBST([MDOCDATE])
 
-BRANCH='1.6'
+BRANCH='1.7'
 AC_SUBST([BRANCH])
 
 # Initialize Automake

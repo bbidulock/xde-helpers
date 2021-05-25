@@ -1,5 +1,35 @@
 # created with git log --stat=76 -M -C -500|fmt -sct -w80
 
+commit d3ee667178d2fde42b558909fe9f4bea454da88d
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue May 25 07:06:17 2021 -0600
+
+    update release notes
+
+ RELEASE.md | 6 +++---
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+
+commit e0a749376a1f7c54886545b4625da0ac1cd0c292
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Tue May 25 07:04:01 2021 -0600
+
+    remove stopmotion icon
+
+ autogen.sh            | 8 ++++++--
+ configure.sh          | 7 ++-----
+ src/icons/Makefile.am | 3 +--
+ 3 files changed, 9 insertions(+), 9 deletions(-)
+
+commit bc6d0fe523e47d642fce9f4ce617d172531db8ae
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Thu Sep 5 05:13:48 2019 -0600
+
+    post-release update
+
+ ChangeLog | 28 ++++++++++++++--------------
+ NEWS      |  3 ++-
+ 2 files changed, 16 insertions(+), 15 deletions(-)
+
 commit 86916b2cf167c79c9d9e8239c96244ae0a3e88f8
 Author: Brian Bidulock <bidulock@openss7.org>
 Date:   Tue Sep 3 05:25:01 2019 -0600
@@ -9968,33 +9998,3 @@ Date:   Thu Jun 18 07:02:15 2015 -0600
  src/app-install/desktop/jetbrains-idea.desktop   |  18 +
  src/app-install/desktop/jetbrains-mps.desktop    |  21 ++
  .../desktop/jetbrains-webstorm.desktop           |  21 ++
- src/app-install/desktop/jeveassets.desktop       |  20 +
- src/app-install/desktop/jflap-beta.desktop       |  21 ++
- src/app-install/desktop/jflap.desktop            |  19 +
- src/app-install/desktop/jfsplit.desktop          |  17 +
- src/app-install/desktop/jfsw.desktop             |  16 +
- src/app-install/desktop/jgnash.desktop           |  20 +
- src/app-install/desktop/jgrasp.desktop           |  21 ++
- src/app-install/desktop/jhelioviewer.desktop     |  20 +
- src/app-install/desktop/jheretic.desktop         |  15 +
- src/app-install/desktop/jhexen.desktop           |  15 +
- src/app-install/desktop/jin.desktop              |  20 +
- src/app-install/desktop/jircii.desktop           |  19 +
- src/app-install/desktop/jitsi-nightly.desktop    |  22 ++
- src/app-install/desktop/jitsi-stable.desktop     |  19 +
- src/app-install/desktop/jitsi.desktop            |  20 +
- src/app-install/desktop/jitsi_nightly.desktop    |  19 +
- src/app-install/desktop/jjmplayer.desktop        |  18 +
- src/app-install/desktop/jkiwi.desktop            |  20 +
- src/app-install/desktop/jlatexeditor.desktop     |  21 ++
- src/app-install/desktop/jmapview.desktop         |  24 ++
- src/app-install/desktop/jmars.desktop            |  17 +
- src/app-install/desktop/jmc-jdk6.desktop         |  19 +
- src/app-install/desktop/jmc-jdk7.desktop         |  19 +
- src/app-install/desktop/jmc-jdk8-32.desktop      |  16 +
- src/app-install/desktop/jmc-jdk8.desktop         |  19 +
- src/app-install/desktop/jmc-jdk9.desktop         |  19 +
- src/app-install/desktop/jmc32-jdk6.desktop       |  18 +
- src/app-install/desktop/jmc32-jdk7.desktop       |  19 +
- src/app-install/desktop/jmc32-jdk8.desktop       |  19 +
- src/app-install/desktop/jmc32-jdk9.desktop       |  18 +

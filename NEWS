@@ -1,4 +1,30 @@
-xde-helpers -- history of user-visible changes.  2019-09-03
+xde-helpers -- history of user-visible changes.  2021-05-25
+
+Release xde-helpers-1.7 released 2021-05-25
+-------------------------------------------
+
+git tag -n100 -l 1.7
+
+1.7             Maintenance Release 1.7
+
+    This is the seventh release of the xde-helpers package that provides
+    default and fallback desktop entry files for the X Desktop Environment
+    (XDE).
+
+    This release is a maintenance release and simply provides better
+    removes conflicting icons.
+
+    Included in the release is an autoconf tarball for building the package
+    from source. See the NEWS and TODO file in the release for more
+    information. Please report problems to the issues list on GitHub.
+
+git shortlog -e -n -w80,6,8 1.6...1.7
+
+Brian Bidulock <bidulock@openss7.org> (3):
+      post-release update
+      remove stopmotion icon
+      update release notes
+
 
 Release xde-helpers-1.6 released 2019-09-03
 -------------------------------------------
@@ -318,16 +344,4 @@ git shortlog -e -n -w80,6,8 1.0...1.1
 Brian Bidulock <bidulock@openss7.org> (2):
       added some xsession files
       change preferred terminal
-
-
-Release xde-helpers-1.0 released 2013-11-12
--------------------------------------------
-
-git shortlog -e -n -w80,6,8 1.0
-
-Brian Bidulock <bidulock@openss7.org> (4):
-      - initial commit
-      - updates
-      added zat.desktop
-      correction to xlsclients.desktop
 
