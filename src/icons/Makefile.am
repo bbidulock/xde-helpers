@@ -1,6 +1,5 @@
 
-hicolor_ICONS = \
-	stopmotion.svg
+hicolor_ICONS =
 
 pixmap_ICONS = \
 	2bWM.save.svg \
