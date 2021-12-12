@@ -1,4 +1,38 @@
-xde-helpers -- history of user-visible changes.  2021-05-25
+xde-helpers -- history of user-visible changes.  2021-12-12
+
+Release xde-helpers-1.8 released 2021-12-12
+-------------------------------------------
+
+git tag -n100 -l 1.8
+
+1.8             Maintenance Release 1.8
+
+    This is the seventh release of the xde-helpers package that provides
+    default and fallback desktop entry files for the X Desktop Environment
+    (XDE).
+
+    This release is a maintenance release and simply removes conflicting
+    preferred application desktop files. It also builds for gh-pages.
+
+    Included in the release is an autoconf tarball for building the package
+    from source. See the NEWS and TODO file in the release for more
+    information. Please report problems to the issues list on GitHub.
+
+git shortlog -e -n -w80,6,8 1.7...1.8
+
+Brian Bidulock <bidulock@openss7.org> (11):
+      better cscope and MDOCDATE
+      whoops
+      post-release update
+      Merge branch 'master' of github.com:bbidulock/xde-helpers
+      remove preferred desktop entries
+      build index for gh-pages
+      update files for release
+      handle new archlinux build flags
+      add gh-pages files
+      add to ignores for jekyll
+      build gh-pages index
+
 
 Release xde-helpers-1.7 released 2021-05-25
 -------------------------------------------
@@ -335,14 +369,4 @@ Brian Bidulock <bidulock@openss7.org> (208):
       more release file updates
       do not need c compiler
       update release files
-
-
-Release xde-helpers-1.1 released 2013-12-26
--------------------------------------------
-
-git shortlog -e -n -w80,6,8 1.0...1.1
-
-Brian Bidulock <bidulock@openss7.org> (2):
-      added some xsession files
-      change preferred terminal
 
