@@ -1,5 +1,20 @@
 # created with git log --stat=76 -M -C -500|fmt -sct -w80
 
+commit c3f239a8277414750156e3baff9f7e7e4f164191
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun Dec 12 01:27:32 2021 -0700
+
+    update release files
+
+ AUTHORS      |     2 +-
+ ChangeLog    | 10768 ++++++++++++++++++++++++++---------------------------
+ NEWS         |    46 +-
+ README       |    24 +-
+ README.md    |    24 +-
+ configure.ac |    10 +-
+ index.md     |    24 +-
+ 7 files changed, 5461 insertions(+), 5437 deletions(-)
+
 commit d5e0bd6f42427a9901ca7287d38a4e33689bae7d
 Author: Brian Bidulock <bidulock@openss7.org>
 Date:   Sun Dec 12 01:20:41 2021 -0700
@@ -9983,18 +9998,3 @@ Date:   Thu Jun 18 07:02:15 2015 -0600
  src/app-install/desktop/iosshy.desktop           |  19 ++
  src/app-install/desktop/iostvoy.desktop          |  23 ++
  src/app-install/desktop/iowolfet-hg.desktop      |  19 ++
- src/app-install/desktop/iowolfet.desktop         |  17 ++
- src/app-install/desktop/ip-calculator.desktop    |  19 ++
- src/app-install/desktop/ipscan.desktop           |  22 ++
- src/app-install/desktop/iraf.desktop             |  20 ++
- src/app-install/desktop/ireport-nb.desktop       |  20 ++
- .../desktop/irggu-client-qml-git.desktop         |  20 ++
- src/app-install/desktop/irggu-client.desktop     |  18 ++
- src/app-install/desktop/iriverter-svn.desktop    |  17 ++
- src/app-install/desktop/iron-bin.desktop         |  23 ++
- src/app-install/desktop/iron.desktop             |  21 ++
- .../desktop/ironclad-tactics-hib.desktop         |  21 ++
- src/app-install/desktop/ironclad.desktop         |  19 ++
- src/app-install/desktop/irpf.desktop             |  20 ++
- src/app-install/desktop/irukandji-demo.desktop   |  20 ++
- src/app-install/desktop/irukandji.desktop        |  21 ++
