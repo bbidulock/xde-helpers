@@ -971,12 +971,6 @@ dist_appl_DATA = \
 	polkit-gnome-authentication-agent-1.desktop \
 	polkit-mate-authentication-agent-1.desktop \
 	pragha.desktop \
-	preferred-execute.desktop \
-	preferred-file-manager.desktop \
-	preferred-mail-reader.desktop \
-	preferred-terminal.desktop \
-	preferred-text-editor.desktop \
-	preferred-web-browser.desktop \
 	print-applet.desktop \
 	processing-beta.desktop \
 	processing.desktop \
